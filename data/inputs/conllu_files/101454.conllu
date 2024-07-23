@@ -1,0 +1,97 @@
+# text = An Intimation of a Way , found in Europe to make China-dishes .
+# sent_id = 0
+1	An	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	start_char=0|end_char=2|ner=O
+2	Intimation	intimation	NOUN	NN	Number=Sing	0	root	_	start_char=3|end_char=13|ner=O
+3	of	of	ADP	IN	_	5	case	_	start_char=14|end_char=16|ner=O
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=17|end_char=18|ner=O
+5	Way	Way	PROPN	NNP	Number=Sing	2	nmod	_	start_char=19|end_char=22|ner=O
+6	,	,	PUNCT	,	_	7	punct	_	start_char=23|end_char=24|ner=O
+7	found	find	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	_	start_char=25|end_char=30|ner=O
+8	in	in	ADP	IN	_	9	case	_	start_char=31|end_char=33|ner=O
+9	Europe	Europe	PROPN	NNP	Number=Sing	7	obl	_	start_char=34|end_char=40|ner=S-LOC
+10	to	to	PART	TO	_	11	mark	_	start_char=41|end_char=43|ner=O
+11	make	make	VERB	VB	VerbForm=Inf	7	advcl	_	start_char=44|end_char=48|ner=O
+12	China-dishes	china-dish	NOUN	NNS	Number=Plur	11	obj	_	start_char=49|end_char=61|ner=O
+13	.	.	PUNCT	.	_	2	punct	_	start_char=62|end_char=63|ner=O
+
+# text = Notice was lately given by an inquisitive Parisian to a friend of his in London , that by an Acquaintance he had been informed , that Signor Septalio , a Canon in Millan , had the Secret of making as good Porcelane as is made in China it self , and transparent ; adding that he had seen him make some .
+# sent_id = 1
+1	Notice	notice	NOUN	NN	Number=Sing	4	nsubj:pass	_	start_char=64|end_char=70|ner=O
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	start_char=71|end_char=74|ner=O
+3	lately	lately	ADV	RB	_	4	advmod	_	start_char=75|end_char=81|ner=O
+4	given	give	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=82|end_char=87|ner=O
+5	by	by	ADP	IN	_	8	case	_	start_char=88|end_char=90|ner=O
+6	an	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=91|end_char=93|ner=O
+7	inquisitive	inquisitive	ADJ	JJ	Degree=Pos	8	amod	_	start_char=94|end_char=105|ner=O
+8	Parisian	Parisian	NOUN	NN	Number=Sing	4	obl:agent	_	start_char=106|end_char=114|ner=S-NORP
+9	to	to	ADP	IN	_	11	case	_	start_char=115|end_char=117|ner=O
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=118|end_char=119|ner=O
+11	friend	friend	NOUN	NN	Number=Sing	4	obl	_	start_char=120|end_char=126|ner=O
+12	of	of	ADP	IN	_	13	case	_	start_char=127|end_char=129|ner=O
+13	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod	_	start_char=130|end_char=133|ner=O
+14	in	in	ADP	IN	_	15	case	_	start_char=134|end_char=136|ner=O
+15	London	London	PROPN	NNP	Number=Sing	11	nmod	_	start_char=137|end_char=143|ner=S-GPE
+16	,	,	PUNCT	,	_	4	punct	_	start_char=144|end_char=145|ner=O
+17	that	that	PRON	DT	Number=Sing|PronType=Dem	20	appos	_	start_char=146|end_char=150|ner=O
+18	by	by	ADP	IN	_	20	case	_	start_char=151|end_char=153|ner=O
+19	an	a	DET	DT	Definite=Ind|PronType=Art	20	det	_	start_char=154|end_char=156|ner=O
+20	Acquaintance	acquaintance	NOUN	NN	Number=Sing	4	obl	_	start_char=157|end_char=169|ner=S-WORK_OF_ART
+21	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	nsubj:pass	_	start_char=170|end_char=172|ner=O
+22	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	aux	_	start_char=173|end_char=176|ner=O
+23	been	be	AUX	VBN	Tense=Past|VerbForm=Part	24	aux:pass	_	start_char=177|end_char=181|ner=O
+24	informed	inform	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	20	acl:relcl	_	start_char=182|end_char=190|ner=O
+25	,	,	PUNCT	,	_	35	punct	_	start_char=191|end_char=192|ner=O
+26	that	that	SCONJ	IN	_	35	mark	_	start_char=193|end_char=197|ner=O
+27	Signor	Signor	PROPN	NNP	Number=Sing	35	nsubj	_	start_char=198|end_char=204|ner=B-PERSON
+28	Septalio	Septalio	PROPN	NNP	Number=Sing	27	flat	_	start_char=205|end_char=213|ner=E-PERSON
+29	,	,	PUNCT	,	_	31	punct	_	start_char=214|end_char=215|ner=O
+30	a	a	DET	DT	Definite=Ind|PronType=Art	31	det	_	start_char=216|end_char=217|ner=O
+31	Canon	Canon	PROPN	NNP	Number=Sing	27	appos	_	start_char=218|end_char=223|ner=S-ORG
+32	in	in	ADP	IN	_	33	case	_	start_char=224|end_char=226|ner=O
+33	Millan	Millan	PROPN	NNP	Number=Sing	31	nmod	_	start_char=227|end_char=233|ner=S-GPE
+34	,	,	PUNCT	,	_	27	punct	_	start_char=234|end_char=235|ner=O
+35	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	acl:relcl	_	start_char=236|end_char=239|ner=O
+36	the	the	DET	DT	Definite=Def|PronType=Art	37	det	_	start_char=240|end_char=243|ner=O
+37	Secret	secret	NOUN	NN	Number=Sing	35	obj	_	start_char=244|end_char=250|ner=O
+38	of	of	SCONJ	IN	_	39	mark	_	start_char=251|end_char=253|ner=O
+39	making	make	VERB	VBG	VerbForm=Ger	37	acl	_	start_char=254|end_char=260|ner=O
+40	as	as	ADV	RB	_	41	advmod	_	start_char=261|end_char=263|ner=O
+41	good	good	ADJ	JJ	Degree=Pos	42	amod	_	start_char=264|end_char=268|ner=O
+42	Porcelane	Porcelane	PROPN	NNP	Number=Sing	39	obj	_	start_char=269|end_char=278|ner=S-PERSON
+43	as	as	SCONJ	IN	_	45	mark	_	start_char=279|end_char=281|ner=O
+44	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	45	aux:pass	_	start_char=282|end_char=284|ner=O
+45	made	make	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	39	advcl	_	start_char=285|end_char=289|ner=O
+46	in	in	ADP	IN	_	47	case	_	start_char=290|end_char=292|ner=O
+47	China	China	PROPN	NNP	Number=Sing	45	obl	_	start_char=293|end_char=298|ner=S-GPE
+48	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	49	nsubj	_	start_char=299|end_char=301|ner=O
+49	self	self	NOUN	NN	Number=Sing	47	appos	_	start_char=302|end_char=306|ner=O
+50	,	,	PUNCT	,	_	52	punct	_	start_char=307|end_char=308|ner=O
+51	and	and	CCONJ	CC	_	52	cc	_	start_char=309|end_char=312|ner=O
+52	transparent	transparent	ADJ	JJ	Degree=Pos	49	conj	_	start_char=313|end_char=324|ner=O
+53	;	;	PUNCT	,	_	54	punct	_	start_char=325|end_char=326|ner=O
+54	adding	add	VERB	VBG	VerbForm=Ger	4	advcl	_	start_char=327|end_char=333|ner=O
+55	that	that	SCONJ	IN	_	58	mark	_	start_char=334|end_char=338|ner=O
+56	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	58	nsubj	_	start_char=339|end_char=341|ner=O
+57	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	58	aux	_	start_char=342|end_char=345|ner=O
+58	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	54	ccomp	_	start_char=346|end_char=350|ner=O
+59	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	58	obj	_	start_char=351|end_char=354|ner=O
+60	make	make	VERB	VB	VerbForm=Inf	58	xcomp	_	start_char=355|end_char=359|ner=O
+61	some	some	DET	DT	_	60	obj	_	start_char=360|end_char=364|ner=O
+62	.	.	PUNCT	.	_	4	punct	_	start_char=365|end_char=366|ner=O
+
+# text = This as it deserves , so it will be further inquired after ,
+# sent_id = 2
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=367|end_char=371|ner=O
+2	as	as	SCONJ	IN	_	4	mark	_	start_char=372|end_char=374|ner=O
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=375|end_char=377|ner=O
+4	deserves	deserve	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=378|end_char=386|ner=O
+5	,	,	PUNCT	,	_	11	punct	_	start_char=387|end_char=388|ner=O
+6	so	so	ADV	RB	_	11	advmod	_	start_char=389|end_char=391|ner=O
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj:pass	_	start_char=392|end_char=394|ner=O
+8	will	will	AUX	MD	VerbForm=Fin	11	aux	_	start_char=395|end_char=399|ner=O
+9	be	be	AUX	VB	VerbForm=Inf	11	aux:pass	_	start_char=400|end_char=402|ner=O
+10	further	further	ADV	RB	_	11	advmod	_	start_char=403|end_char=410|ner=O
+11	inquired	inquire	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	parataxis	_	start_char=411|end_char=419|ner=O
+12	after	after	ADV	RB	_	11	advmod	_	start_char=420|end_char=425|ner=O
+13	,	,	PUNCT	,	_	4	punct	_	start_char=426|end_char=427|ner=O
+

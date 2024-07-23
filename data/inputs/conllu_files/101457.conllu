@@ -1,0 +1,296 @@
+# text = An Account of the Trials , made in Italy of Campani 's new Optic Glasses .
+# sent_id = 0
+1	An	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	start_char=0|end_char=2|ner=B-WORK_OF_ART
+2	Account	account	NOUN	NN	Number=Sing	0	root	_	start_char=3|end_char=10|ner=I-WORK_OF_ART
+3	of	of	ADP	IN	_	5	case	_	start_char=11|end_char=13|ner=I-WORK_OF_ART
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=14|end_char=17|ner=I-WORK_OF_ART
+5	Trials	Trial	PROPN	NNPS	Number=Plur	2	nmod	_	start_char=18|end_char=24|ner=E-WORK_OF_ART
+6	,	,	PUNCT	,	_	7	punct	_	start_char=25|end_char=26|ner=O
+7	made	make	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	_	start_char=27|end_char=31|ner=O
+8	in	in	ADP	IN	_	9	case	_	start_char=32|end_char=34|ner=O
+9	Italy	Italy	PROPN	NNP	Number=Sing	7	obl	_	start_char=35|end_char=40|ner=S-GPE
+10	of	of	ADP	IN	_	15	case	_	start_char=41|end_char=43|ner=O
+11	Campani	Campani	PROPN	NNP	Number=Sing	15	nmod:poss	_	start_char=44|end_char=51|ner=S-ORG
+12	's	's	PART	POS	_	11	case	_	start_char=52|end_char=54|ner=O
+13	new	new	ADJ	JJ	Degree=Pos	15	amod	_	start_char=55|end_char=58|ner=O
+14	Optic	Optic	ADJ	NNP	Degree=Pos	15	amod	_	start_char=59|end_char=64|ner=B-PRODUCT
+15	Glasses	Glasses	PROPN	NNPS	Number=Plur	9	nmod	_	start_char=65|end_char=72|ner=E-PRODUCT
+16	.	.	PUNCT	.	_	2	punct	_	start_char=73|end_char=74|ner=O
+
+# text = Some Observations of Strange Swarms of Infects , and the mischiefs done by them : as also of the Brooding of Snakes and Vipers .
+# sent_id = 1
+1	Some	some	DET	DT	_	2	det	_	start_char=75|end_char=79|ner=O
+2	Observations	observation	NOUN	NNS	Number=Plur	0	root	_	start_char=80|end_char=92|ner=O
+3	of	of	ADP	IN	_	5	case	_	start_char=93|end_char=95|ner=O
+4	Strange	strange	ADJ	NNP	Degree=Pos	5	amod	_	start_char=96|end_char=103|ner=O
+5	Swarms	Swarms	PROPN	NNPS	Number=Plur	2	nmod	_	start_char=104|end_char=110|ner=O
+6	of	of	ADP	IN	_	7	case	_	start_char=111|end_char=113|ner=O
+7	Infects	infect	NOUN	NNS	Number=Plur	5	nmod	_	start_char=114|end_char=121|ner=O
+8	,	,	PUNCT	,	_	11	punct	_	start_char=122|end_char=123|ner=O
+9	and	and	CCONJ	CC	_	11	cc	_	start_char=124|end_char=127|ner=O
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=128|end_char=131|ner=O
+11	mischiefs	mischief	NOUN	NNS	Number=Plur	5	conj	_	start_char=132|end_char=141|ner=O
+12	done	do	VERB	VBN	Tense=Past|VerbForm=Part	11	acl	_	start_char=142|end_char=146|ner=O
+13	by	by	ADP	IN	_	14	case	_	start_char=147|end_char=149|ner=O
+14	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	12	obl	_	start_char=150|end_char=154|ner=O
+15	:	:	PUNCT	:	_	20	punct	_	start_char=155|end_char=156|ner=O
+16	as	as	ADP	IN	_	20	case	_	start_char=157|end_char=159|ner=O
+17	also	also	ADV	RB	_	20	advmod	_	start_char=160|end_char=164|ner=O
+18	of	of	ADP	IN	_	20	case	_	start_char=165|end_char=167|ner=O
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	start_char=168|end_char=171|ner=B-ORG
+20	Brooding	Brooding	PROPN	NNP	Number=Sing	2	nmod	_	start_char=172|end_char=180|ner=I-ORG
+21	of	of	ADP	IN	_	22	case	_	start_char=181|end_char=183|ner=I-ORG
+22	Snakes	Snakes	PROPN	NNPS	Number=Plur	20	nmod	_	start_char=184|end_char=190|ner=I-ORG
+23	and	and	CCONJ	CC	_	24	cc	_	start_char=191|end_char=194|ner=I-ORG
+24	Vipers	Vipers	PROPN	NNPS	Number=Plur	22	conj	_	start_char=195|end_char=201|ner=E-ORG
+25	.	.	PUNCT	.	_	2	punct	_	start_char=202|end_char=203|ner=O
+
+# text = Of a way , used in Italy , of preserving Ice and Snow by Chaffe .
+# sent_id = 2
+1	Of	of	ADP	IN	_	3	case	_	start_char=204|end_char=206|ner=O
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=207|end_char=208|ner=O
+3	way	way	NOUN	NN	Number=Sing	5	obl	_	start_char=209|end_char=212|ner=O
+4	,	,	PUNCT	,	_	5	punct	_	start_char=213|end_char=214|ner=O
+5	used	use	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=215|end_char=219|ner=O
+6	in	in	ADP	IN	_	7	case	_	start_char=220|end_char=222|ner=O
+7	Italy	Italy	PROPN	NNP	Number=Sing	5	obl	_	start_char=223|end_char=228|ner=S-GPE
+8	,	,	PUNCT	,	_	10	punct	_	start_char=229|end_char=230|ner=O
+9	of	of	SCONJ	IN	_	10	mark	_	start_char=231|end_char=233|ner=O
+10	preserving	preserve	VERB	VBG	VerbForm=Ger	5	advcl	_	start_char=234|end_char=244|ner=O
+11	Ice	Ice	PROPN	NNP	Number=Sing	10	obj	_	start_char=245|end_char=248|ner=B-WORK_OF_ART
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=249|end_char=252|ner=I-WORK_OF_ART
+13	Snow	Snow	PROPN	NNP	Number=Sing	11	conj	_	start_char=253|end_char=257|ner=E-WORK_OF_ART
+14	by	by	ADP	IN	_	15	case	_	start_char=258|end_char=260|ner=O
+15	Chaffe	Chaffe	PROPN	NNP	Number=Sing	10	obl	_	start_char=261|end_char=267|ner=S-PERSON
+16	.	.	PUNCT	.	_	5	punct	_	start_char=268|end_char=269|ner=O
+
+# text = Directions for Sea-men bound for far Voyages , drawn up by Master Rook , late Geometry .
+# sent_id = 3
+1	Directions	direction	NOUN	NNS	Number=Plur	0	root	_	start_char=270|end_char=280|ner=O
+2	for	for	ADP	IN	_	3	case	_	start_char=281|end_char=284|ner=O
+3	Sea-men	Sea-men	PROPN	NNPS	Number=Plur	1	nmod	_	start_char=285|end_char=292|ner=O
+4	bound	bind	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	start_char=293|end_char=298|ner=O
+5	for	for	ADP	IN	_	7	case	_	start_char=299|end_char=302|ner=O
+6	far	far	ADV	RB	Degree=Pos	7	amod	_	start_char=303|end_char=306|ner=O
+7	Voyages	Voyages	PROPN	NNPS	Number=Plur	4	obl	_	start_char=307|end_char=314|ner=S-PRODUCT
+8	,	,	PUNCT	,	_	9	punct	_	start_char=315|end_char=316|ner=O
+9	drawn	draw	VERB	VBN	Tense=Past|VerbForm=Part	1	acl	_	start_char=317|end_char=322|ner=O
+10	up	up	ADP	RP	_	9	compound:prt	_	start_char=323|end_char=325|ner=O
+11	by	by	ADP	IN	_	13	case	_	start_char=326|end_char=328|ner=O
+12	Master	Master	PROPN	NNP	Number=Sing	13	compound	_	start_char=329|end_char=335|ner=B-ORG
+13	Rook	Rook	PROPN	NNP	Number=Sing	9	obl:agent	_	start_char=336|end_char=340|ner=E-ORG
+14	,	,	PUNCT	,	_	16	punct	_	start_char=341|end_char=342|ner=O
+15	late	late	ADJ	JJ	Degree=Pos	16	amod	_	start_char=343|end_char=347|ner=O
+16	Geometry	Geometry	PROPN	NNP	Number=Sing	13	appos	_	start_char=348|end_char=356|ner=O
+17	.	.	PUNCT	.	_	1	punct	_	start_char=357|end_char=358|ner=O
+
+# text = Some Observations of Jupiter ; Eclipsed by one of his Satellites : and of his Conversion about his Axis .
+# sent_id = 4
+1	Some	some	DET	DT	_	2	det	_	start_char=359|end_char=363|ner=O
+2	Observations	observation	NOUN	NNS	Number=Plur	0	root	_	start_char=364|end_char=376|ner=O
+3	of	of	ADP	IN	_	4	case	_	start_char=377|end_char=379|ner=O
+4	Jupiter	Jupiter	PROPN	NNP	Number=Sing	2	nmod	_	start_char=380|end_char=387|ner=S-LOC
+5	;	;	PUNCT	:	_	6	punct	_	start_char=388|end_char=389|ner=O
+6	Eclipsed	eclipse	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	_	start_char=390|end_char=398|ner=O
+7	by	by	ADP	IN	_	8	case	_	start_char=399|end_char=401|ner=O
+8	one	one	NUM	CD	NumForm=Word|NumType=Card	6	obl:agent	_	start_char=402|end_char=405|ner=S-CARDINAL
+9	of	of	ADP	IN	_	11	case	_	start_char=406|end_char=408|ner=O
+10	his	he	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=409|end_char=412|ner=O
+11	Satellites	Satellite	PROPN	NNPS	Number=Plur	8	nmod	_	start_char=413|end_char=423|ner=S-WORK_OF_ART
+12	:	:	PUNCT	:	_	16	punct	_	start_char=424|end_char=425|ner=O
+13	and	and	CCONJ	CC	_	16	cc	_	start_char=426|end_char=429|ner=O
+14	of	of	ADP	IN	_	16	case	_	start_char=430|end_char=432|ner=O
+15	his	he	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=433|end_char=436|ner=O
+16	Conversion	conversion	NOUN	NN	Number=Sing	2	conj	_	start_char=437|end_char=447|ner=O
+17	about	about	ADP	IN	_	19	case	_	start_char=448|end_char=453|ner=O
+18	his	he	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	_	start_char=454|end_char=457|ner=O
+19	Axis	axis	NOUN	NN	Number=Sing	16	nmod	_	start_char=458|end_char=462|ner=O
+20	.	.	PUNCT	.	_	2	punct	_	start_char=463|end_char=464|ner=O
+
+# text = Of some Philosophical and Curious Books , that are shortly to come abroad .
+# sent_id = 5
+1	Of	of	ADP	IN	_	6	case	_	start_char=465|end_char=467|ner=O
+2	some	some	DET	DT	_	6	det	_	start_char=468|end_char=472|ner=O
+3	Philosophical	Philosophical	ADJ	JJ	Degree=Pos	6	amod	_	start_char=473|end_char=486|ner=O
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=487|end_char=490|ner=O
+5	Curious	curious	ADJ	NNP	Degree=Pos	3	conj	_	start_char=491|end_char=498|ner=O
+6	Books	book	PROPN	NNPS	Number=Plur	12	obl	_	start_char=499|end_char=504|ner=O
+7	,	,	PUNCT	,	_	12	punct	_	start_char=505|end_char=506|ner=O
+8	that	that	PRON	DT	Number=Sing|PronType=Dem	12	nsubj:outer	_	start_char=507|end_char=511|ner=O
+9	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=512|end_char=515|ner=O
+10	shortly	shortly	ADV	RB	_	12	advmod	_	start_char=516|end_char=523|ner=O
+11	to	to	PART	TO	_	12	mark	_	start_char=524|end_char=526|ner=O
+12	come	come	VERB	VB	VerbForm=Inf	0	root	_	start_char=527|end_char=531|ner=O
+13	abroad	abroad	ADV	RB	_	12	advmod	_	start_char=532|end_char=538|ner=O
+14	.	.	PUNCT	.	_	12	punct	_	start_char=539|end_char=540|ner=O
+
+# text = An Account of the Trials , made in Italy of Campani 's new Optic Glasses .
+# sent_id = 6
+1	An	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	start_char=541|end_char=543|ner=B-WORK_OF_ART
+2	Account	account	NOUN	NN	Number=Sing	0	root	_	start_char=544|end_char=551|ner=I-WORK_OF_ART
+3	of	of	ADP	IN	_	5	case	_	start_char=552|end_char=554|ner=I-WORK_OF_ART
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=555|end_char=558|ner=I-WORK_OF_ART
+5	Trials	Trial	PROPN	NNPS	Number=Plur	2	nmod	_	start_char=559|end_char=565|ner=E-WORK_OF_ART
+6	,	,	PUNCT	,	_	7	punct	_	start_char=566|end_char=567|ner=O
+7	made	make	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	_	start_char=568|end_char=572|ner=O
+8	in	in	ADP	IN	_	9	case	_	start_char=573|end_char=575|ner=O
+9	Italy	Italy	PROPN	NNP	Number=Sing	7	obl	_	start_char=576|end_char=581|ner=S-GPE
+10	of	of	ADP	IN	_	15	case	_	start_char=582|end_char=584|ner=O
+11	Campani	Campani	PROPN	NNP	Number=Sing	15	nmod:poss	_	start_char=585|end_char=592|ner=S-ORG
+12	's	's	PART	POS	_	11	case	_	start_char=593|end_char=595|ner=O
+13	new	new	ADJ	JJ	Degree=Pos	15	amod	_	start_char=596|end_char=599|ner=O
+14	Optic	Optic	ADJ	NNP	Degree=Pos	15	amod	_	start_char=600|end_char=605|ner=B-PRODUCT
+15	Glasses	Glasses	PROPN	NNPS	Number=Plur	9	nmod	_	start_char=606|end_char=613|ner=E-PRODUCT
+16	.	.	PUNCT	.	_	2	punct	_	start_char=614|end_char=615|ner=O
+
+# text = AN Inquisitive Parisian writes to his Correspondent in London , as follows ; We received lately news from Rome , from a very Curious Person of our acquaintance , importing , that Campani hath had the advantage of Divini .
+# sent_id = 7
+1	AN	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=616|end_char=618|ner=O
+2	Inquisitive	inquisitive	ADJ	NNP	Degree=Pos	3	amod	_	start_char=619|end_char=630|ner=O
+3	Parisian	Parisian	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=631|end_char=639|ner=S-NORP
+4	writes	write	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=640|end_char=646|ner=O
+5	to	to	ADP	IN	_	7	case	_	start_char=647|end_char=649|ner=O
+6	his	he	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=650|end_char=653|ner=O
+7	Correspondent	Correspondent	PROPN	NNP	Number=Sing	4	obl	_	start_char=654|end_char=667|ner=O
+8	in	in	ADP	IN	_	9	case	_	start_char=668|end_char=670|ner=O
+9	London	London	PROPN	NNP	Number=Sing	4	obl	_	start_char=671|end_char=677|ner=S-GPE
+10	,	,	PUNCT	,	_	12	punct	_	start_char=678|end_char=679|ner=O
+11	as	as	SCONJ	IN	_	12	mark	_	start_char=680|end_char=682|ner=O
+12	follows	follow	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	start_char=683|end_char=690|ner=O
+13	;	;	PUNCT	,	_	15	punct	_	start_char=691|end_char=692|ner=O
+14	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	nsubj	_	start_char=693|end_char=695|ner=O
+15	received	receive	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	4	parataxis	_	start_char=696|end_char=704|ner=O
+16	lately	lately	ADV	RB	_	17	advmod	_	start_char=705|end_char=711|ner=O
+17	news	news	NOUN	NN	Number=Sing	15	obj	_	start_char=712|end_char=716|ner=O
+18	from	from	ADP	IN	_	19	case	_	start_char=717|end_char=721|ner=O
+19	Rome	Rome	PROPN	NNP	Number=Sing	17	nmod	_	start_char=722|end_char=726|ner=S-GPE
+20	,	,	PUNCT	,	_	15	punct	_	start_char=727|end_char=728|ner=O
+21	from	from	ADP	IN	_	25	case	_	start_char=729|end_char=733|ner=O
+22	a	a	DET	DT	Definite=Ind|PronType=Art	25	det	_	start_char=734|end_char=735|ner=O
+23	very	very	ADV	RB	_	24	advmod	_	start_char=736|end_char=740|ner=O
+24	Curious	curious	ADJ	JJ	Degree=Pos	25	amod	_	start_char=741|end_char=748|ner=O
+25	Person	person	NOUN	NN	Number=Sing	15	obl	_	start_char=749|end_char=755|ner=O
+26	of	of	ADP	IN	_	28	case	_	start_char=756|end_char=758|ner=O
+27	our	we	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	28	nmod:poss	_	start_char=759|end_char=762|ner=O
+28	acquaintance	acquaintance	NOUN	NN	Number=Sing	25	nmod	_	start_char=763|end_char=775|ner=O
+29	,	,	PUNCT	,	_	30	punct	_	start_char=776|end_char=777|ner=O
+30	importing	import	VERB	VBG	VerbForm=Ger	15	advcl	_	start_char=778|end_char=787|ner=O
+31	,	,	PUNCT	,	_	35	punct	_	start_char=788|end_char=789|ner=O
+32	that	that	SCONJ	IN	_	35	mark	_	start_char=790|end_char=794|ner=O
+33	Campani	Campani	PROPN	NNP	Number=Sing	34	compound	_	start_char=795|end_char=802|ner=S-PERSON
+34	hath	have	NOUN	NN	Number=Sing	35	nsubj	_	start_char=803|end_char=807|ner=O
+35	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	30	ccomp	_	start_char=808|end_char=811|ner=O
+36	the	the	DET	DT	Definite=Def|PronType=Art	37	det	_	start_char=812|end_char=815|ner=O
+37	advantage	advantage	NOUN	NN	Number=Sing	35	obj	_	start_char=816|end_char=825|ner=O
+38	of	of	ADP	IN	_	39	case	_	start_char=826|end_char=828|ner=O
+39	Divini	Divini	PROPN	NNP	Number=Sing	37	nmod	_	start_char=829|end_char=835|ner=S-PERSON
+40	.	.	PUNCT	.	_	4	punct	_	start_char=836|end_char=837|ner=O
+
+# text = The Great Duke of Toikany , and Prince Leopold , his Brother , upon Trial , made of both their Glasses , have found those of Campani excel the other , and with them they have been able , easily to distinguish people at 4 Leagues distance : Of which I intend you more particulars'hereafter .
+# sent_id = 8
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=838|end_char=841|ner=B-PERSON
+2	Great	great	ADJ	NNP	Degree=Pos	3	compound	_	start_char=842|end_char=847|ner=I-PERSON
+3	Duke	Duke	PROPN	NNP	Number=Sing	24	nsubj	_	start_char=848|end_char=852|ner=I-PERSON
+4	of	of	ADP	IN	_	5	case	_	start_char=853|end_char=855|ner=I-PERSON
+5	Toikany	Toikany	PROPN	NNP	Number=Sing	3	nmod	_	start_char=856|end_char=863|ner=E-PERSON
+6	,	,	PUNCT	,	_	8	punct	_	start_char=864|end_char=865|ner=O
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=866|end_char=869|ner=O
+8	Prince	Prince	PROPN	NNP	Number=Sing	3	conj	_	start_char=870|end_char=876|ner=B-PERSON
+9	Leopold	Leopold	PROPN	NNP	Number=Sing	8	flat	_	start_char=877|end_char=884|ner=E-PERSON
+10	,	,	PUNCT	,	_	12	punct	_	start_char=885|end_char=886|ner=O
+11	his	he	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=887|end_char=890|ner=O
+12	Brother	brother	NOUN	NN	Number=Sing	8	conj	_	start_char=891|end_char=898|ner=O
+13	,	,	PUNCT	,	_	15	punct	_	start_char=899|end_char=900|ner=O
+14	upon	upon	ADP	IN	_	15	case	_	start_char=901|end_char=905|ner=O
+15	Trial	Trial	PROPN	NNP	Number=Sing	3	nmod	_	start_char=906|end_char=911|ner=O
+16	,	,	PUNCT	,	_	17	punct	_	start_char=912|end_char=913|ner=O
+17	made	make	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	start_char=914|end_char=918|ner=O
+18	of	of	ADP	IN	_	21	case	_	start_char=919|end_char=921|ner=O
+19	both	both	CCONJ	CC	_	21	cc:preconj	_	start_char=922|end_char=926|ner=O
+20	their	they	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	21	nmod:poss	_	start_char=927|end_char=932|ner=O
+21	Glasses	glass	NOUN	NNS	Number=Plur	17	obl	_	start_char=933|end_char=940|ner=O
+22	,	,	PUNCT	,	_	3	punct	_	start_char=941|end_char=942|ner=O
+23	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	aux	_	start_char=943|end_char=947|ner=O
+24	found	find	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=948|end_char=953|ner=O
+25	those	that	PRON	DT	Number=Plur|PronType=Dem	24	obj	_	start_char=954|end_char=959|ner=O
+26	of	of	ADP	IN	_	27	case	_	start_char=960|end_char=962|ner=O
+27	Campani	Campani	PROPN	NNP	Number=Sing	25	nmod	_	start_char=963|end_char=970|ner=S-NORP
+28	excel	excel	VERB	VB	VerbForm=Fin	24	ccomp	_	start_char=971|end_char=976|ner=O
+29	the	the	DET	DT	Definite=Def|PronType=Art	30	det	_	start_char=977|end_char=980|ner=O
+30	other	other	ADJ	JJ	Degree=Pos	28	obj	_	start_char=981|end_char=986|ner=O
+31	,	,	PUNCT	,	_	38	punct	_	start_char=987|end_char=988|ner=O
+32	and	and	CCONJ	CC	_	38	cc	_	start_char=989|end_char=992|ner=O
+33	with	with	ADP	IN	_	34	case	_	start_char=993|end_char=997|ner=O
+34	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	38	obl	_	start_char=998|end_char=1002|ner=O
+35	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	38	nsubj	_	start_char=1003|end_char=1007|ner=O
+36	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	38	aux	_	start_char=1008|end_char=1012|ner=O
+37	been	be	AUX	VBN	Tense=Past|VerbForm=Part	38	cop	_	start_char=1013|end_char=1017|ner=O
+38	able	able	ADJ	JJ	Degree=Pos	24	conj	_	start_char=1018|end_char=1022|ner=O
+39	,	,	PUNCT	,	_	38	punct	_	start_char=1023|end_char=1024|ner=O
+40	easily	easily	ADV	RB	_	38	advmod	_	start_char=1025|end_char=1031|ner=O
+41	to	to	PART	TO	_	42	mark	_	start_char=1032|end_char=1034|ner=O
+42	distinguish	distinguish	VERB	VB	VerbForm=Inf	38	advcl	_	start_char=1035|end_char=1046|ner=O
+43	people	people	NOUN	NNS	Number=Plur	42	obj	_	start_char=1047|end_char=1053|ner=O
+44	at	at	ADP	IN	_	47	case	_	start_char=1054|end_char=1056|ner=O
+45	4	4	NUM	CD	NumForm=Digit|NumType=Card	46	nummod	_	start_char=1057|end_char=1058|ner=O
+46	Leagues	League	PROPN	NNPS	Number=Plur	47	compound	_	start_char=1059|end_char=1066|ner=O
+47	distance	distance	NOUN	NN	Number=Sing	42	obl	_	start_char=1067|end_char=1075|ner=O
+48	:	:	PUNCT	:	_	52	punct	_	start_char=1076|end_char=1077|ner=O
+49	Of	of	ADP	IN	_	50	case	_	start_char=1078|end_char=1080|ner=O
+50	which	which	PRON	WDT	PronType=Rel	52	obl	_	start_char=1081|end_char=1086|ner=O
+51	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	52	nsubj	_	start_char=1087|end_char=1088|ner=O
+52	intend	intend	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	47	acl:relcl	_	start_char=1089|end_char=1095|ner=O
+53	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	52	obj	_	start_char=1096|end_char=1099|ner=O
+54	more	more	ADV	RBR	Degree=Cmp	55	advmod	_	start_char=1100|end_char=1104|ner=O
+55	particulars'hereafter	particulars'hereafter	NOUN	NN	Number=Sing	52	xcomp	_	start_char=1105|end_char=1126|ner=O
+56	.	.	PUNCT	.	_	24	punct	_	start_char=1127|end_char=1128|ner=O
+
+# text = Among them are expected the Length of these Telescopes , and the Largeness of the Aperture of their Object-glasses .
+# sent_id = 9
+1	Among	among	ADP	IN	_	2	case	_	start_char=1129|end_char=1134|ner=O
+2	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	obl	_	start_char=1135|end_char=1139|ner=O
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=1140|end_char=1143|ner=O
+4	expected	expect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=1144|end_char=1152|ner=O
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=1153|end_char=1156|ner=O
+6	Length	length	PROPN	NNP	Number=Sing	4	nsubj:pass	_	start_char=1157|end_char=1163|ner=O
+7	of	of	ADP	IN	_	9	case	_	start_char=1164|end_char=1166|ner=O
+8	these	this	DET	DT	Number=Plur|PronType=Dem	9	det	_	start_char=1167|end_char=1172|ner=O
+9	Telescopes	Telescope	PROPN	NNPS	Number=Plur	6	nmod	_	start_char=1173|end_char=1183|ner=O
+10	,	,	PUNCT	,	_	13	punct	_	start_char=1184|end_char=1185|ner=O
+11	and	and	CCONJ	CC	_	13	cc	_	start_char=1186|end_char=1189|ner=O
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=1190|end_char=1193|ner=O
+13	Largeness	Largeness	PROPN	NNP	Number=Sing	6	conj	_	start_char=1194|end_char=1203|ner=O
+14	of	of	ADP	IN	_	16	case	_	start_char=1204|end_char=1206|ner=O
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=1207|end_char=1210|ner=O
+16	Aperture	Aperture	PROPN	NNP	Number=Sing	13	nmod	_	start_char=1211|end_char=1219|ner=O
+17	of	of	ADP	IN	_	19	case	_	start_char=1220|end_char=1222|ner=O
+18	their	they	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	_	start_char=1223|end_char=1228|ner=O
+19	Object-glasses	object-glass	NOUN	NNS	Number=Plur	16	nmod	_	start_char=1229|end_char=1243|ner=O
+20	.	.	PUNCT	.	_	4	punct	_	start_char=1244|end_char=1245|ner=O
+
+# text = In the mean time , the Parabolical-glasses , formerly mentioned to be in hand here at London , are finishing with all possible
+# sent_id = 10
+1	In	in	ADP	IN	_	4	case	_	start_char=1246|end_char=1248|ner=O
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=1249|end_char=1252|ner=O
+3	mean	mean	ADJ	JJ	Degree=Pos	4	amod	_	start_char=1253|end_char=1257|ner=O
+4	time	time	NOUN	NN	Number=Sing	20	obl	_	start_char=1258|end_char=1262|ner=O
+5	,	,	PUNCT	,	_	20	punct	_	start_char=1263|end_char=1264|ner=O
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=1265|end_char=1268|ner=O
+7	Parabolical-glasses	Parabolical-glasses	PROPN	NNPS	Number=Plur	20	nsubj	_	start_char=1269|end_char=1288|ner=S-NORP
+8	,	,	PUNCT	,	_	10	punct	_	start_char=1289|end_char=1290|ner=O
+9	formerly	formerly	ADV	RB	_	10	advmod	_	start_char=1291|end_char=1299|ner=O
+10	mentioned	mention	VERB	VBN	Tense=Past|VerbForm=Part	7	acl	_	start_char=1300|end_char=1309|ner=O
+11	to	to	PART	TO	_	14	mark	_	start_char=1310|end_char=1312|ner=O
+12	be	be	AUX	VB	VerbForm=Inf	14	cop	_	start_char=1313|end_char=1315|ner=O
+13	in	in	ADP	IN	_	14	case	_	start_char=1316|end_char=1318|ner=O
+14	hand	hand	NOUN	NN	Number=Sing	10	xcomp	_	start_char=1319|end_char=1323|ner=O
+15	here	here	ADV	RB	PronType=Dem	14	advmod	_	start_char=1324|end_char=1328|ner=O
+16	at	at	ADP	IN	_	17	case	_	start_char=1329|end_char=1331|ner=O
+17	London	London	PROPN	NNP	Number=Sing	14	nmod	_	start_char=1332|end_char=1338|ner=S-GPE
+18	,	,	PUNCT	,	_	7	punct	_	start_char=1339|end_char=1340|ner=O
+19	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	start_char=1341|end_char=1344|ner=O
+20	finishing	finish	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=1345|end_char=1354|ner=O
+21	with	with	ADP	IN	_	23	case	_	start_char=1355|end_char=1359|ner=O
+22	all	all	DET	DT	_	23	det	_	start_char=1360|end_char=1363|ner=O
+23	possible	possible	ADJ	JJ	Degree=Pos	20	obl	_	start_char=1364|end_char=1372|ner=O
+
