@@ -1,0 +1,10 @@
+article_id: rspa_1959_0185
+revised_title: Cosmic Ray Spectrum Underground: Energy Loss of Fast Mesons
+semantic_tags:
+  - Cosmic Rays
+  - Meson Physics
+  - Particle Spectroscopy
+  - Energy Loss
+  - Underground Physics Experiments
+tldr: The authors conducted an experiment to determine the cosmic ray spectrum underground at a depth of 38 meters water equivalent. They used a magnetic spectrograph to measure the momentum of 1010 particles and compared the underground spectrum with the ground-level spectrum to determine the energy loss of fast mesons in penetrating the rock. The results showed that the energy loss for mesons in the momentum range of 7 to 15 is as expected by theory, with the collision process being responsible for most of the loss.
+scientific_discipline: Physics > Particle Physics

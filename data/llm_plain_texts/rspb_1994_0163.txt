@@ -1,0 +1,10 @@
+article_id: 'rspb_1994_0163'
+revised_title: 'Reversal of RH414-induced Synaptic Blockade by Incident Light'
+semantic_tags:
+  - Neuromuscular junction
+  - Postsynaptic blockade
+  - Styryl pyridinium dye
+  - Acetylcholine receptors
+  - Fluorescence microscopy
+scientific_discipline: Biology and Life Sciences > Neuroscience
+tldr: The authors discovered that the styryl pyridinium dye RH414, used for optical monitoring of synaptic vesicle membrane trafficking, reversibly inhibited contractions in frog nerve-muscle preparations. They found that illumination with light from a mercury arc lamp partly reversed the dye's blocking effect on the frog neuromuscular junction. This light-induced reversal of the blocking action of styryl dyes could be useful for combined fluorescence and electrophysiological studies.

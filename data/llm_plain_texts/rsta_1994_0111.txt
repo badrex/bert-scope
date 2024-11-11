@@ -1,0 +1,10 @@
+article_id: 'rsta_1994_0111'
+revised_title: 'The Role of Situated Robotics in Advancing Artificial Intelligence'
+semantic_tags:
+  - Artificial Intelligence
+  - Robotics
+  - Situated Intelligence
+  - Behaviour-based Robotics
+  - Cognitive Science
+tldr: The authors discuss the importance of situated robotics in the development of artificial intelligence, as it allows researchers to study intelligent behavior in autonomous agents interacting with the real world. They argue that this approach offers a more accurate representation of intelligence and challenges the classical knowledge-based paradigm, which relies on symbolic functionalism and computer-hosted systems.
+scientific_discipline: Artificial Intelligence > Robotics

@@ -1,0 +1,10 @@
+article_id: 'rspa_1937_0223'
+revised_title: 'Photochemical Decomposition of Formaldehyde Vapour in the Fluorite Region'
+semantic_tags:
+  - Photochemistry
+  - Formaldehyde decomposition
+  - Ultraviolet absorption
+  - Quantum yield
+  - Thermochemical data
+tldr: 'The authors investigate the photochemical decomposition of formaldehyde vapour in the near and far ultraviolet regions. They find that the products, carbon monoxide and hydrogen, do not differ significantly between the two regions. The study also highlights the uncertainties in thermochemical data and heats of dissociation of organic compounds, affecting the prediction of the wavelength causing the reaction.'
+scientific_discipline: Chemistry > Photochemistry

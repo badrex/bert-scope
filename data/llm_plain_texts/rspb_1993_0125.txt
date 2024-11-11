@@ -1,0 +1,10 @@
+article_id: 'rspb_1993_0125'
+revised_title: 'Neurobiological Analysis of Principal Component Analysis Learning Algorithms'
+semantic_tags:
+  - Neurobiology
+  - Learning algorithms
+  - Unsupervised learning
+  - Principal component analysis
+  - Functional segregation
+tldr: The article proposes a biological mechanism for the synaptic changes involved in principal component analysis learning algorithms, which are a type of unsupervised learning. The authors demonstrate that these algorithms can contribute to functional segregation in the sensory cortex by eliminating uncorrelated inputs. They also discuss the potential implementation of these algorithms in the brain using associative mechanisms and decay terms.
+scientific_discipline: Neuroscience > Neuroplasticity

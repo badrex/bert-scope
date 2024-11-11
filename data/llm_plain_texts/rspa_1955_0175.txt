@@ -1,0 +1,10 @@
+article_id: rspa_1955_0175
+revised_title: 'Thermal Inelastic Scattering of Cold Neutrons in Polycrystalline Solids: A Revised Approach'
+semantic_tags:
+  - Neutron scattering
+  - Solid-state physics
+  - Thermal inelastic scattering
+  - Debye-Waller factor
+  - Crystallography
+tldr: The authors present a new approach to calculate the thermal inelastic scattering cross-section of slow neutrons in polycrystalline solids. They use a formalism that simplifies the calculation of the transition probability and provides a simple proof of the Debye-Waller factor. The study derives general expressions for both incoherent and coherent cross-sections and examines the coherent cross-section in detail. Numerical results for various materials are discussed and compared with experimental data, showing satisfactory agreement.
+scientific_discipline: Physics > Solid-state physics

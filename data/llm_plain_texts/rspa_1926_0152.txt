@@ -1,0 +1,10 @@
+article_id: 'rspa_1926_0152'
+revised_title: 'Dehydrogenation and Isomeric Change of Allyl Alcohol: A Study of Reaction Rates and Catalysts'
+semantic_tags:
+  - Catalysis
+  - Dehydrogenation
+  - Isomerization
+  - Reaction kinetics
+  - Copper catalysts
+tldr: The authors studied the initial stages of dehydrogenation and isomeric change of allyl alcohol using different catalysts and temperatures. They found that the rate of dehydrogenation was similar to that of ethyl alcohol, while the isomeric change occurred faster. The relative rates of the two reactions could be altered by the method of catalyst preparation. The results suggest that there are two sets of active centers on the catalyst surface, one for each reaction.
+scientific_discipline: Chemistry > Catalysis

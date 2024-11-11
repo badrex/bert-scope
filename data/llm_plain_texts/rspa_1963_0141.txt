@@ -1,0 +1,10 @@
+article_id: rspa_1963_0141
+revised_title: The Accelerating Effect of Chloroform on Propane Oxidation
+semantic_tags:
+  - Chemical kinetics
+  - Catalysis
+  - Propane oxidation
+  - Chloroform
+  - Chain reactions
+tldr: The author's experiments show that chloroform accelerates the gas-phase oxidation of propane. The reaction rate increases with the addition of chloroform, and the mechanism of this acceleration is explained by the intervention of chloroform in the normal propane oxidation cycle. The study also reveals that the proportionate increase in the maximum rate with added chloroform is inversely dependent on the propane pressure and independent of the oxygen pressure.
+scientific_discipline: Chemistry > Chemical kinetics

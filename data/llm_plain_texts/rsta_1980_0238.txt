@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0238'
+revised_title: 'Interplanetary Acceleration and Propagation of Solar Particles'
+semantic_tags:
+  - Solar Physics
+  - Space Physics
+  - Particle Acceleration
+  - Cosmic Rays
+  - Interplanetary Medium
+tldr: This article discusses the propagation and acceleration of solar particles in the interplanetary medium. The authors describe theoretical attempts to calculate transport coefficients in space and energy, representing observed time dependence and pitch angle distributions near Earth and on distant space probes. They focus on interplanetary acceleration processes, such as those occurring near interplanetary shocks and throughout the medium. The article also examines experimental evidence for interplanetary acceleration and the role of shocks and enhanced magnetic fluctuations in the acceleration process.
+scientific_discipline: Physics > Space Physics

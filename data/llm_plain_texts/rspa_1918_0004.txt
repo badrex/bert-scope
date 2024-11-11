@@ -1,0 +1,10 @@
+article_id: rspa_1918_0004
+revised_title: Investigating the Relationship between Barometric Pressure and Water-Level in a Well at Kew Observatory
+semantic_tags:
+  - Atmospheric pressure
+  - Hydrology
+  - Tidal phenomena
+  - Seasonal variation
+  - Sensitivity of water-level
+scientific_discipline: Environmental and Earth Sciences > Hydrology
+tldr: This study investigates the relationship between barometric pressure and water-level in a well at Kew Observatory. The authors found a connection between the two, with the water-level being more sensitive to changes in pressure during high-level months. The results indicate that an increase or decrease in pressure of about 1 millibar over three hours has an equal and opposite effect on the water-level. The sensitivity of the water-level to pressure is also found to be dependent on the amount of water in the well, with high levels associated with high sensitivity.

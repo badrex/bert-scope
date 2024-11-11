@@ -1,0 +1,10 @@
+article_id: 112566
+revised_title: A Simple Method for Estimating Daylight Intensity
+semantic_tags:
+  - Light Measurement
+  - Optics
+  - Atmospheric Science
+  - Astronomy
+  - Sun and Solar System
+tldr: The author, Roger J. Wright, presents a simple method for measuring the intensity of total daylight using a rod and a hollow tube. The user looks at a black spot on the rod while moving the tube up, and the point at which the spot disappears indicates the intensity of the light. This method is not scientifically accurate but can provide a rough estimation of light intensity, which is useful for observing changes in daylight during events like solar eclipses.
+scientific_discipline: Physics > Optics

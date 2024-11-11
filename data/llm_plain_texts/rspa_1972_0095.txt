@@ -1,0 +1,10 @@
+article_id: rspa_1972_0095
+revised_title: Relativistic Hydrodynamics and Gravitational Instability: A New Perspective
+semantic_tags:
+  - Relativistic hydrodynamics
+  - Gravitational instability
+  - General relativity
+  - Sound wave propagation
+  - Jeans instability criterion
+tldr: This article explores the propagation of sound waves in a gravitating medium using general relativity. The author derives an equation that governs the propagation of finite amplitude sound and applies it to obtain a relativistic version of Jeans' instability criterion. The study provides insights into the gravitational stability of a medium and has implications for understanding the growth of condensations in the universe.
+scientific_discipline: Physics > Relativity

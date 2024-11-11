@@ -1,0 +1,10 @@
+article_id: 108761
+revised_title: 'On the Equation of Differences for Equations of Any Order'
+semantic_tags:
+  - Algebra
+  - Mathematics
+  - Equations
+  - Seminvariants
+  - Covariants
+tldr: The author presents a method to calculate the equation of differences for equations of any order, focusing on equations of the second, third, fourth, and fifth orders. The equation of differences is derived from the coefficients of covariants and seminvariants, which are functions of the coefficients of the given equation. The author demonstrates the process for equations of different orders and explains how to obtain the equation of differences for an equation of any order by eliminating a single quantity from two equations.
+scientific_discipline: Mathematics > Algebra

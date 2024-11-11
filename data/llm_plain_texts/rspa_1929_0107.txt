@@ -1,0 +1,10 @@
+article_id: rspa_1929_0107
+revised_title: 'Turbulent Suspension of Sand in Water: Experimental Analysis and Findings'
+semantic_tags:
+  - Fluid Dynamics
+  - Turbulence
+  - Sedimentation
+  - Colloidal Particles
+  - Kinetic Theory of Gases
+tldr: This study investigates the suspension of sand in water using a turbulent motion apparatus. The authors discovered that the concentration of sand at a given height is directly proportional to the propeller speed and the type of sand. The findings suggest that the shape of sand particles influences their agitation velocity and that the suspension can serve as a model for understanding gas kinetics.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

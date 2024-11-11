@@ -1,0 +1,10 @@
+article_id: rspa_1933_0158
+revised_title: 'Stability and Motion of a Rotor in Flexible Shaft and Bearings'
+semantic_tags:
+  - Rotordynamics
+  - Mechanical Engineering
+  - Vibration Analysis
+  - Stability Theory
+  - Flexible Shafts
+tldr: The article investigates the motion and stability of a rotor carried by a flexible shaft in flexible bearings. It considers the effects of unsymmetrical flexibility of the bearing supports and transverse flexibility of the shaft, as well as damping forces that resist changes in the strain of the flexible members. The study examines the critical and transition speeds of the system and the impact of different types of damping on the stability and motion of the rotor.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

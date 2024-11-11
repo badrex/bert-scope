@@ -1,0 +1,10 @@
+article_id: rspa_1964_0214
+revised_title: Strengthening of Metals by Dispersed Particles: A Review
+semantic_tags:
+  - Materials Science
+  - Precipitation Hardening
+  - Dislocation Motion
+  - Microstructure
+  - Alloy Strengthening
+tldr: This article reviews the mechanical strengths attainable in two-phase structures consisting of a ductile metal matrix with other phases distributed within it. It discusses various methods to introduce particles, such as precipitation at low temperatures from a supersaturated solid solution, eutectoid decomposition, and mechanical mixing and sintering of powders. The article also explores the factors affecting the strength of these microstructures and the potential improvements in strength that can be achieved.
+scientific_discipline: Materials Science > Alloy Strengthening

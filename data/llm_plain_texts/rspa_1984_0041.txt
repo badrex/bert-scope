@@ -1,0 +1,10 @@
+article_id: rspa_1984_0041
+revised_title: Infrared Laser Spectroscopy of Free Radicals and Ions: Analysis of the v1 Band of NF2
+semantic_tags:
+  - Molecular spectroscopy
+  - Infrared spectroscopy
+  - NF2 molecule
+  - Diode lasers
+  - Rotational and fine-structure parameters
+tldr: The authors used high-resolution infrared spectroscopy with tunable diode lasers to study the fundamental band of NF2 (X2B1). They assigned almost 300 absorption lines and obtained new rotational, distortion, and spin-rotation parameters for the v1=1 level. The analysis also included a preliminary study of the Coriolis interaction through the inertial defect.
+scientific_discipline: Chemistry > Molecular spectroscopy

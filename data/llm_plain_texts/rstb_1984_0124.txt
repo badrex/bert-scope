@@ -1,0 +1,10 @@
+article_id: 'rstb_1984_0124'
+revised_title: 'Drosophila Chorion Gene Amplification: A Model System for Studying Chromosome Replication'
+semantic_tags:
+  - Gene expression
+  - Chromosome replication
+  - Drosophila melanogaster
+  - Gene amplification
+  - DNA replication
+tldr: The authors investigated the ability of specific DNA segments from Drosophila chorion gene regions to induce tissue-specific amplification when inserted into new chromosomal sites using P element-mediated transformation. They found that certain transduced chorion DNA sequences initiated a pattern of tissue-specific differential replication similar to normal chorion amplification. This suggests that differential chorion DNA replication is mediated by specific origin-containing sequences located near the center of the amplified domains.
+scientific_discipline: Biology and Life Sciences > Genetics and Molecular Biology

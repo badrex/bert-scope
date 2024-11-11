@@ -1,0 +1,10 @@
+article_id: 'rspa_1925_0090'
+revised_title: 'X-ray Analysis of Iodo-Succinimide Crystal Structure'
+semantic_tags:
+  - Crystallography
+  - X-ray diffraction
+  - Crystal symmetry
+  - Iodo-succinimide
+  - Chemical structure
+tldr: 'The authors used X-ray diffraction to study the crystal structure of iodo-succinimide. They determined that the crystals have a pyramidal class (tetragonal tetartohedry) symmetry and are polar. The study also observed twinning on the basal plane and prism faces. The findings provide insights into the chemical structure and properties of iodo-succinimide crystals.'
+scientific_discipline: Chemistry > Crystallography

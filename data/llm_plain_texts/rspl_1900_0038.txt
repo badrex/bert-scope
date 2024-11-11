@@ -1,0 +1,10 @@
+article_id: rspl_1900_0038
+revised_title: 'Data for the Problem of Evolution in Man: A Study of Skull Capacity and Correlation'
+semantic_tags:
+  - Anthropometry
+  - Skull capacity
+  - Human evolution
+  - Regression equations
+  - Craniology
+tldr: This article investigates the correlation between skull size and shape and intellectual ability, analyzing the capacity of the skull and its correlation with various measurements. The authors develop regression equations to predict skull capacity from external measurements and discuss the limitations of such predictions. They conclude that the true source of intellectual ability may lie in the complexity of brain convolutions and the efficiency of commissures rather than in size or weight.
+scientific_discipline: Biology and Life Sciences > Anthropology

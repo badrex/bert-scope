@@ -1,0 +1,10 @@
+article_id: 107538
+revised_title: Generalizing and Systematizing the Fluents of Irrational Functions
+semantic_tags:
+  - Calculus
+  - Mathematical Analysis
+  - Algebraic Geometry
+  - Rational Functions
+  - Fluxionary Calculus
+tldr: The author, Edward Ffrench Bromhead, attempts to generalize and systematize the knowledge of fluents of irrational functions. He demonstrates that all known forms result from other forms of the greatest extent, not depending on particular functions but on the properties of all rational functions. Bromhead also provides methods for rationalizing expressions and reducing fluxions into series of terms that can be separately made rational.
+scientific_discipline: Mathematics > Calculus

@@ -1,0 +1,10 @@
+article_id: rspl_1896_0018
+revised_title: 'Electrical Resistivity of Electrolytic Bismuth and its Response to Magnetic Fields'
+semantic_tags:
+  - Electrical resistivity
+  - Bismuth
+  - Electrolytic method
+  - Magnetic fields
+  - Low temperatures
+tldr: This article discusses the electrical resistivity of bismuth prepared by an electrolytic method at various temperatures, including the temperature of liquid air. The author also examines the effect of magnetic fields on the resistivity of bismuth and finds that the effect of a given transverse magnetic field in increasing the resistivity of bismuth is immensely increased when cooled to the temperature of liquid air.
+scientific_discipline: Physics > Materials Science

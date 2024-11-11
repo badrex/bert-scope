@@ -1,0 +1,10 @@
+article_id: 110059
+revised_title: Equilibrium of a Homogeneous Fluid Mass in Rotation
+semantic_tags:
+  - Fluid dynamics
+  - Celestial mechanics
+  - Equations of motion
+  - Newtonian mechanics
+  - Fluid mechanics
+tldr: The author investigates the figure required to maintain the equilibrium of a homogeneous fluid mass rotating around an axis. He distinguishes two cases: one where particles do not attract each other and another where they have attractive powers. The author presents two methods for investigating the fundamental laws of this equilibrium, including a new and simple method based on the properties of inverse attraction.
+scientific_discipline: Physics > Fluid mechanics

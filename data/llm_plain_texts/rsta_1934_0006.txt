@@ -1,0 +1,10 @@
+article_id: rsta_1934_0006
+revised_title: Bi-harmonic Analysis in a Perforated Strip
+semantic_tags:
+  - Bi-harmonic equation
+  - Stress analysis
+  - Perforated strip
+  - Stress-function
+  - Generalized plane stress
+tldr: This article presents a method for solving the bi-harmonic equation in a region bounded by two parallel straight lines and a circle. The analysis is generalized to include unsymmetrical solutions and provides formulae to solve any problem of stress within the specified boundaries. Two important special cases, corresponding to pure bending-moment and bending-moment with shear, are worked out in detail. The results can also be applied to the slow motion of a viscous fluid.
+scientific_discipline: Mathematics > Applied Mathematics

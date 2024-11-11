@@ -1,0 +1,10 @@
+article_id: rspl_1892_0070
+revised_title: 'Magnetic Properties of Pure Iron: Experimental Results and Analysis'
+semantic_tags:
+  - Magnetism
+  - Iron alloys
+  - Magnetic properties
+  - Temperature effects
+  - Hysteresis
+tldr: This article presents the magnetic properties of a pure iron specimen at various temperatures. The authors found that the induction and permeability of the iron increase with temperature for small magnetizing forces, while the hysteresis decreases. The critical point, when the iron becomes non-magnetic, is reached at 874°C. These results provide valuable insights into the magnetic behavior of pure iron and its potential applications.
+scientific_discipline: Physics > Magnetism

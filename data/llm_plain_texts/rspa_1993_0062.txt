@@ -1,0 +1,10 @@
+article_id: rspa_1993_0062
+revised_title: Ensemble Averaged Dynamics of the Lorenz Attractor
+semantic_tags:
+  - Chaos Theory
+  - Dynamical Systems
+  - Turbulence
+  - Fluid Dynamics
+  - Nonlinear Equations
+tldr: The authors develop a self-consistent ensemble averaged system of equations to describe the Lorenz attractor, a model for fluid turbulence. They find that large ensemble solutions behave regularly, without the sensitive dependence on initial conditions that characterizes individual chaotic members. This study suggests the possibility of an equivalence between direct simulations and ensemble averaged computations.
+scientific_discipline: Mathematics > Dynamical Systems

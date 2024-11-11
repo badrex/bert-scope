@@ -1,0 +1,10 @@
+article_id: rspa_1940_0024
+revised_title: Neutron Emission from Fluorine Disintegration by Deuterons
+semantic_tags:
+  - Nuclear Physics
+  - Neutron Emission
+  - Fluorine-Deuterium Interaction
+  - Nuclear Reactions
+  - Neutron Energy Distribution
+tldr: The authors conducted an experiment to study the energy distribution of neutrons emitted from the disintegration of fluorine by deuterons. They used a cloud chamber filled with helium or methane to detect and measure the energy of recoil particles, such as protons and helium nuclei, produced by collisions with neutrons. The results showed that several groups of neutrons with energies of 11.1, 9.7, 7.1, 5.9, 4.1, and 2.6 MeV were produced from the fluorine-deuterium interaction. The authors attributed these neutrons to the nuclear reaction F19 + H2 → Ne20 + w1 + #1.
+scientific_discipline: Physics > Nuclear Physics

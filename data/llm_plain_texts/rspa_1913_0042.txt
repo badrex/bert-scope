@@ -1,0 +1,10 @@
+article_id: rspa_1913_0042
+revised_title: The Absorption of Alpha Particles in Various Materials
+semantic_tags:
+  - Nuclear Physics
+  - Atomic Structure
+  - Particle Acceleration
+  - Radioactivity
+  - Material Science
+tldr: This article presents an investigation of the decrease in velocity of alpha particles as they pass through various materials, such as gold, copper, aluminum, mica, and air. The authors found that the particles' velocity decreases with increasing thickness of the material, but they were unable to obtain velocities below a certain threshold. The results provide insights into the internal structure of atoms and the behavior of alpha particles in different materials.
+scientific_discipline: Physics > Nuclear Physics

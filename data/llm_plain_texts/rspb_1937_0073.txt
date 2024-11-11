@@ -1,0 +1,10 @@
+article_id: 'rspb_1937_0073'
+revised_title: 'Investigating Luminous Efficiency and Threshold Measurements in the Eye'
+semantic_tags:
+  - Visual perception
+  - Ophthalmology
+  - Light efficiency
+  - Threshold brightness
+  - Retinal sensitivity
+tldr: 'This study investigates how the efficiency of light entering the eye varies depending on the point of entry through the pupil and its relation to brightness threshold measurements. The research finds that light entering near the periphery of the pupil is less efficient in producing brightness than light entering near the center. The findings can be used to improve understanding of the eye's response to different light conditions.'
+scientific_discipline: 'Biology and Life Sciences > Ophthalmology'

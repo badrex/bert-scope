@@ -1,0 +1,10 @@
+article_id: 'rspa_1915_0017'
+revised_title: 'A New Bolometric Method for Measuring Radiant Efficiency of Radiating Bodies'
+semantic_tags:
+  - Radiometry
+  - Bolometry
+  - Gas Fires Efficiency
+  - Radiant Efficiency
+  - Radiation Measurement
+tldr: The authors present a bolometric method to measure the radiant efficiency of radiating bodies, specifically gas fires. They replace the radiometer-cum-thermopile device in the Leeds method with a simple bolometer, which offers greater accuracy, sensitivity, and ease of use. The new method allows for better determination of the total radiation emitted by a fire and its distribution factor, which is crucial for understanding the efficiency of heating systems.
+scientific_discipline: Physics > Optics

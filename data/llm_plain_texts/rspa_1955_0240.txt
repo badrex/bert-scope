@@ -1,0 +1,10 @@
+article_id: rspa_1955_0240
+revised_title: 'Interfacial Stabilizing Films and Their Effect on Emulsion Properties'
+semantic_tags:
+  - Rheology
+  - Emulsions
+  - Interfacial films
+  - Viscosity
+  - Elasticity
+tldr: The article investigates the effect of interfacial stabilizing films on the elastic and viscous properties of emulsions. It explores various types of interfacial films, including purely viscous, ideally elastic, and films with a combination of elastic and viscous properties. The study provides equations of state to describe the behavior of emulsions with different types of interfacial films and determines the constants in these equations in terms of the viscosities, concentration, droplet size, and physical properties of the interfacial film.
+scientific_discipline: Physics > Fluid Dynamics

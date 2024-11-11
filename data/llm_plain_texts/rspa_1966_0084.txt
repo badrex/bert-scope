@@ -1,0 +1,10 @@
+article_id: rspa_1966_0084
+revised_title: 'Radiation Protection of Aqueous Polyethylene Oxide Solutions by Thiourea: A Study on Crosslinking and Gelation'
+semantic_tags:
+  - Polymer chemistry
+  - Radiation protection
+  - Thiourea
+  - Crosslinking
+  - Gelation
+tldr: This study investigates the radiation protection of aqueous polyethylene oxide solutions by thiourea. The authors found that thiourea effectively protects against the direct effect of radiation, preventing the formation of polymer radicals that cause crosslinking and gelation. The results show that the protection is more significant at lower polymer concentrations and is influenced by the dose rate and thiourea concentration. The mathematical treatment developed in this study can be applied to analyze other first and second-order competitive reactions.
+scientific_discipline: Chemistry > Polymer Chemistry

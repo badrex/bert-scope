@@ -1,0 +1,10 @@
+article_id: rspa_1969_0202
+revised_title: 'Alkali Metal Vapour Interaction with Glassy Carbon'
+semantic_tags:
+  - Material Science
+  - Intercalation compounds
+  - Glassy carbon
+  - Alkali metals
+  - Sodium and potassium interaction
+tldr: The authors studied the interaction of glassy carbon with alkali metal vapours, specifically potassium and sodium. They found that potassium intercalates into non-graphitizing carbons, causing anisotropic expansions that lead to disruption. Sodium also causes disruption, but at higher temperatures. The authors discovered a time lag and an activation enthalpy for the onset of disruption in potassium vapour, and they analyzed the final products of the reaction with potassium.
+scientific_discipline: Material Science > Intercalation compounds

@@ -1,0 +1,10 @@
+article_id: rspa_1952_0220
+revised_title: Thermodynamics of Ionization of Fatty Acids
+semantic_tags:
+  - Fatty Acid Chemistry
+  - Ionization
+  - Thermodynamics
+  - Dissociation Constants
+  - Acid-Base Chemistry
+tldr: The authors studied the thermodynamics of ionization of various fatty acids, determining their dissociation constants and analyzing the heats of ionization, entropy, and heat capacity changes. They found that the ions influence the water structure around the ionic charge, and the effect of the ionic charge on the rigidity of the hydrocarbon chain and solvent structure play a significant role in determining the entropy and heat capacity changes.
+scientific_discipline: Chemistry > Physical Chemistry

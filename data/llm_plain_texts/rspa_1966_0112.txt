@@ -1,0 +1,10 @@
+article_id: rspa_1966_0112
+revised_title: 'Experimental and Theoretical Analysis of Oil Film in Lubricated Point Contact'
+semantic_tags:
+  - Lubrication
+  - Elastohydrodynamics
+  - Point contact
+  - Viscosity
+  - Pressure-viscosity coefficient
+scientific_discipline: Engineering and Technology > Mechanical Engineering
+tldr: The authors developed a technique using Newton's rings to map the oil film of lubricated point contacts and derived a theoretical solution for elastohydrodynamic lubrication in point contact. They found that the oil film thickness was accurately predicted by the theory, providing strong evidence for a viscous surface layer about 1000 Å thick, which correlates with the "lubricating power" of the tested oils. This research contributes to understanding the lubrication of heavily loaded point contacts in engineering applications.

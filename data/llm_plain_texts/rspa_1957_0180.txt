@@ -1,0 +1,10 @@
+article_id: rspa_1957_0180
+revised_title: 'The Influence of Interelectronic Collisions on Conduction and Breakdown in Covalent Semi-Conductors'
+semantic_tags:
+  - Semiconductor physics
+  - Conduction
+  - Breakdown
+  - Interelectronic collisions
+  - Covalent semi-conductors
+tldr: This article investigates the impact of interelectronic collisions on conduction and breakdown in covalent semi-conductors. The authors consider various temperature ranges and electric fields, finding that interelectronic collisions play a significant role in determining the electron distribution function, even at low electron densities. The study also reveals that the calculation by Yamashita and Watanabe only applies to a limited temperature range.
+scientific_discipline: Physics > Condensed Matter Physics

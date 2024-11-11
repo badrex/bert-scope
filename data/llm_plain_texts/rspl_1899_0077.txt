@@ -1,0 +1,10 @@
+article_id: rspl_1899_0077
+revised_title: Investigation of the Magnetic Deflection of Becquerel and Röntgen Rays
+semantic_tags:
+  - Radioactivity
+  - Electromagnetism
+  - Röntgen rays
+  - Becquerel rays
+  - Magnetic fields
+tldr: The authors conducted experiments to determine if Becquerel and Röntgen rays are deflected by a magnetic field. They found that Becquerel rays are deflected, but Röntgen rays are not. This result suggests that the two types of radiation may have different properties and are not essentially similar.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rspa_1982_0018
+revised_title: Czochralski Crystal Growth System with Periodic Crystal Growth Rate and No Back-Melting
+semantic_tags:
+  - Crystal Growth
+  - Czochralski Method
+  - Fluid Dynamics
+  - Heat Transfer
+  - Solute Diffusion
+tldr: This article investigates the Czochralski crystal growth system with a periodic crystal growth rate and no back-melting. The authors develop a solution procedure for the hydrodynamic, temperature, and solute fields, considering the effects of periodic crystal growth on the solute and temperature fields. The study lays the foundation for understanding the role of solute diffusion in the solid when the crystal is allowed to melt back.
+scientific_discipline: Engineering and Technology > Materials Science

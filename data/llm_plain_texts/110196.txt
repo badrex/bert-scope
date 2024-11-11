@@ -1,0 +1,10 @@
+article_id: 110196
+revised_title: 'Differential Barometer: A New Instrument for Measuring Barometric Pressure'
+semantic_tags:
+  - Barometer
+  - Atmospheric pressure
+  - Fluid mechanics
+  - Instrumentation
+  - Anemometer
+tldr: The author, William Hyde Wollaston, describes a new type of differential barometer that can accurately measure small differences in barometric pressure. The instrument consists of a glass tube filled with water and oil, connected to two separate cisterns. By applying the instrument to a door or partition between two areas of unequal atmospheric pressure, the fluid in the tube will be displaced, allowing for the measurement of pressure differences. The sensitivity of the instrument can be adjusted by mixing alcohol with the water. The author also suggests converting the instrument into an anemometer by closing the cisterns and adding trumpet-mouthed apertures.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

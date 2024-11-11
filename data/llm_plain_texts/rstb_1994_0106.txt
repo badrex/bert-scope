@@ -1,0 +1,10 @@
+article_id: 'rstb_1994_0106'
+revised_title: 'The p53 Protein and Its Role in Apoptosis and Cancer Development'
+semantic_tags:
+  - Apoptosis
+  - p53 protein
+  - Cancer development
+  - DNA damage response
+  - Cell cycle arrest
+tldr: The article discusses the role of the p53 protein in the apoptotic response to DNA damage and its connection to cancer development. The p53 protein is a key determinant of the apoptotic response, and its loss of function can lead to the growth of cells with abnormal DNA, contributing to cancer development. The protein is also involved in cell cycle arrest and transcription of genes related to apoptosis and DNA repair.
+scientific_discipline: Biology and Life Sciences > Cell Biology

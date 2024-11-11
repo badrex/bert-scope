@@ -1,0 +1,11 @@
+article_id: rspa_1990_0071
+revised_title: 'Minimizers and Gradient Flows for Singularly Perturbed Bi-Stable Potentials with a Dirichlet Condition: A Review'
+semantic_tags:
+  - Mathematical Physics
+  - Asymptotic Analysis
+  - Variational Methods
+  - Nonlinear Partial Differential Equations
+  - Phase Transitions
+tldr: This article studies minimizers and gradient flows for singularly perturbed bi-stable potentials with a Dirichlet condition. The authors identify a limiting variational problem, the so-called -limit, and construct a formal asymptotic solution for the gradient flow. They show that fronts rapidly develop and then propagate with normal velocity, where is mean curvature. The Dirichlet condition is shown to imply a contact angle condition for the front, which represents the asymptotically correct evolution process for the -limit.
+scientific_discipline: Mathematics > Applied Mathematics
+```

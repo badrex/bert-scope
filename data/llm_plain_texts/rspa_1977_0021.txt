@@ -1,0 +1,10 @@
+article_id: rspa_1977_0021
+revised_title: Electromagnetic Surface Waves Scattering by Circular or Elliptic Cylinders
+semantic_tags:
+  - Electromagnetic waves
+  - Scattering
+  - Surface waves
+  - Circular cylinders
+  - Elliptic cylinders
+tldr: The article investigates the scattering of electromagnetic surface waves by circular or elliptic cylinders. It explores the reflexion and transmission of these waves when the width of the cylinder is small compared to other length scales. The study uses the method of matched asymptotic expansions to analyze the problem and calculate the reflexion, transmission constants, and directivity function. The findings can be applied to various scenarios involving electromagnetic wave scattering and surface waves.
+scientific_discipline: Physics > Electromagnetism

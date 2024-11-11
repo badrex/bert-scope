@@ -1,0 +1,10 @@
+article_id: rsta_1994_0103
+revised_title: 'Chaos and Forecasting: Understanding the Chaotic Modulation of the Solar Cycle'
+semantic_tags:
+  - Solar Cycle
+  - Chaotic Modulation
+  - Solar Dynamics
+  - Stellar Magnetic Fields
+  - Dynamo Theory
+tldr: This article explores the chaotic modulation of the solar cycle and its relation to solar and stellar magnetic fields. The authors discuss the behavior of mean-field dynamos and the role of chaotic oscillations in solar activity. They propose a simple model system that captures the essential features of the solar cycle, demonstrating that chaotic modulation is a robust phenomenon likely to be found in higher-order systems as well.
+scientific_discipline: Physics > Astronomy

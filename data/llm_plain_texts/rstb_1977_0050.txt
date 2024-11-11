@@ -1,0 +1,10 @@
+article_id: rstb_1977_0050
+revised_title: Plasticity of Ocular Dominance Columns in Monkey Striate Cortex
+semantic_tags:
+  - Ocular dominance columns
+  - Visual deprivation
+  - Monocular deprivation
+  - Neural plasticity
+  - Visual system development
+tldr: The authors studied the effects of monocular visual deprivation on ocular dominance columns in the monkey's striate cortex. They found that closing one eye in young monkeys led to a marked shrinkage of columns belonging to the closed eye and an expansion of those belonging to the open eye. This plasticity in the visual system suggests that competition between the eyes plays a role in the development of ocular dominance columns. The authors also discussed the potential mechanisms behind these changes, such as sprouting of terminals or competition between terminals for postsynaptic cells.
+scientific_discipline: Biology and Life Sciences > Neuroscience

@@ -1,0 +1,10 @@
+article_id: rspa_1965_0203
+revised_title: Linear Representations of Non-Compact Groups and Applications to Particle Physics
+semantic_tags:
+  - Group Theory
+  - Particle Physics
+  - Lie Groups
+  - Quantum Mechanics
+  - Symmetry in Physics
+tldr: The article explores the linear representations of non-compact groups, specifically widetilde{\lt;italic\gt;SU\lt;/italic\gt;}\lt;sub\gt;3\lt;/sub\gt;, and their applications to particle physics. The author discusses the properties of baryons and mesons, and how non-compact symmetry groups can be used to describe their behavior and predict new particles. The study of non-compact groups offers a new perspective on the theory of charge independence and the assignment of particles to multiplets.
+scientific_discipline: Physics > Particle Physics

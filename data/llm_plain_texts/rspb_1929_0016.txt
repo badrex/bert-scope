@@ -1,0 +1,10 @@
+article_id: 'rspb_1929_0016'
+revised_title: 'The Role of Ionic Mobility in the Distribution of Potassium in Living Matter'
+semantic_tags:
+  - Biochemistry
+  - Potassium distribution
+  - Ionic mobility
+  - Adsorption
+  - Electrolytes
+tldr: The author investigates the distribution of potassium in living matter and suggests that ionic mobility plays a significant role in the adsorption of electrolytes. They propose that the greater ionic mobility of potassium ions compared to sodium ions may cause potassium to be adsorbed preferentially at interfaces within cells. To test this theory, the author conducts experiments using a controlled adsorbent, providing insights into the factors influencing the distribution of potassium in living organisms.
+scientific_discipline: Chemistry > Biochemistry

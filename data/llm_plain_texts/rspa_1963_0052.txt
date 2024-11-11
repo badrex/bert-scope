@@ -1,0 +1,10 @@
+article_id: rspa_1963_0052
+revised_title: 'Analysis of Cross-Current Transfer Processes in Non-Steady States'
+semantic_tags:
+  - Heat Transfer
+  - Mass Transfer
+  - Cross-Current Processes
+  - Non-Steady State
+  - Heat Exchangers
+tldr: The authors analyze cross-current transfer processes in non-steady states, focusing on heat and mass transfer between two streams. They provide mathematical solutions for various types of disturbances and apply their findings to cross-current heat exchangers, offering insights into the behavior of these systems in real-world scenarios.
+scientific_discipline: Engineering and Technology > Heat Transfer

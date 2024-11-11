@@ -1,0 +1,10 @@
+article_id: rspa_1947_0057
+revised_title: 'Revisiting the Classical Theory of Eddy Diffusion and its Implications in Atmospheric Heat Transport'
+semantic_tags:
+  - Atmospheric Science
+  - Turbulence
+  - Heat Transfer
+  - Thermodynamics
+  - Meteorology
+tldr: This article examines the vertical transport of heat in the atmosphere through eddy diffusion, discussing the limitations of the classical theory and the role of convective turbulence. The authors argue that the classical theory, which assumes eddies are an average sample of the air at their level of origin, is incorrect when considering buoyancy effects. They introduce a more rigid definition of the 'level of origin' of an eddy and propose the concept of 'convective turbulence,' which opposes the general downward transfer of mechanical turbulence. The authors also discuss the implications of their findings in synoptic and general theoretical meteorology.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

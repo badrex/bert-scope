@@ -1,0 +1,10 @@
+article_id: rspa_1932_0001
+revised_title: Erratum: Circulations Caused by Vibration of Air in a Tube
+semantic_tags:
+  - Fluid Dynamics
+  - Acoustics
+  - Vibration
+  - Erratum
+  - Correction
+tldr: This article provides a correction to a previous paper on the circulations caused by the vibration of air in a tube. The correction involves reversing the orientation of figures 27 and 28 in the original paper.
+scientific_discipline: Physics > Fluid Dynamics

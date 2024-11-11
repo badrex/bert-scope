@@ -1,0 +1,10 @@
+article_id: 111348
+revised_title: 'On the k-Partitions of a Polygon and Polyace: A Complete Solution'
+semantic_tags:
+  - Combinatorics
+  - Geometry
+  - Polyhedra
+  - Mathematical Theory
+  - Number Theory
+tldr: The author, T. P. Kirkman, presents a solution to the problem of k-partitions of a polygon and polyace. He explains the concept of k-partitions as the number of ways a polygon can be divided by (k-1) diagonals without crossing each other. This solution is essential for understanding the theory of polyedra and is an extension of his previous work on the enumeration of polyhedra. The author provides a complete solution for finding the number of k-partitions of an r-gon when k and r are given numbers.
+scientific_discipline: Mathematics > Combinatorics

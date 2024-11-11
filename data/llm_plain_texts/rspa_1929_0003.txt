@@ -1,0 +1,10 @@
+article_id: rspa_1929_0003
+revised_title: The Thermionic Emission Constant A: A Comprehensive Analysis
+semantic_tags:
+  - Thermionic emission
+  - Work function
+  - Surface potential
+  - Electron conduction
+  - Nordheim's theory
+tldr: This article explores the thermionic emission constant A and applies Nordheim's theory to explain the relationship between the constants A of the thermionic emission formula. The author concludes that the theory provides a satisfactory explanation of the observed facts when properly applied, addressing discrepancies in absolute magnitude between observed and theoretical values of A.
+scientific_discipline: Physics > Electromagnetism

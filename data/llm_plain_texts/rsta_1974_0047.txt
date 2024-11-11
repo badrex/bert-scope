@@ -1,0 +1,10 @@
+article_id: rsta_1974_0047
+revised_title: Exact Solution for a Clamped Square Plate under Uniform Pressure
+semantic_tags:
+  - Plate analysis
+  - Limit analysis
+  - Rigid-perfectly plastic plates
+  - Square yield criterion
+  - Bending moments
+scientific_discipline: Engineering and Technology > Mechanics
+tldr: The article presents an exact solution for a clamped square plate under uniform pressure, providing a complex mechanism involving developable and anticlastic surfaces, as well as undeflected corner regions. The analysis is extended to cover plates of any regular polygonal shape under uniform pressure, comparing the results with known upper bounds.

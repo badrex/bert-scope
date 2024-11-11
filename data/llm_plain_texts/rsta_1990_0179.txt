@@ -1,0 +1,10 @@
+article_id: 'rsta_1990_0179'
+revised_title: 'NMR Spectroscopy in Biology and Medicine: Advances and Applications'
+semantic_tags:
+  - Nuclear Magnetic Resonance (NMR)
+  - Biochemistry
+  - Medicine
+  - Molecular Biology
+  - Metabolism
+tldr: This article discusses the advancements and applications of Nuclear Magnetic Resonance (NMR) spectroscopy in the fields of biology and medicine. It highlights the use of 31P NMR to study the control of energetics, enzyme-catalyzed fluxes, ionic environments, and molecular architecture in living organisms. The author presents examples of NMR's impact on understanding diseases, such as myotonic dystrophy and cancer, and its potential for improving medical diagnosis and treatment.
+scientific_discipline: Biology and Life Sciences > Biochemistry and Molecular Biology

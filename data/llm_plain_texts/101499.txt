@@ -1,0 +1,10 @@
+article_id: 101499
+revised_title: 'A New Statical Baroscope for Measuring Atmospheric Pressure'
+semantic_tags:
+  - Atmospheric pressure
+  - Barometer
+  - Boyle's law
+  - Gas laws
+  - Scientific instruments
+tldr: The author, Robert Boyle, describes a new type of baroscope, called the statical baroscope, which can measure changes in atmospheric pressure. By using a glass bubble and a counterweight, the statical baroscope can detect variations in the weight of the air, allowing for more accurate predictions of weather patterns and atmospheric conditions.
+scientific_discipline: Physics > Fluid mechanics

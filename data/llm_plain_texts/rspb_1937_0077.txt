@@ -1,0 +1,10 @@
+article_id: 'rspb_1937_0077'
+revised_title: 'Innovative Techniques for Measuring Muscle Heat Production'
+semantic_tags:
+  - Muscle heat production
+  - Thermopile design
+  - Heat conduction
+  - Muscle physiology
+  - Temperature analysis
+tldr: The authors developed thin, rapid-response thermopiles to measure the heat production of muscles accurately. They analyzed the temperature distribution and heat flow in muscle and thermopile systems, providing a better understanding of muscle physiology and improving experimental methods. This research has implications for studying muscle function and performance.
+scientific_discipline: Biology and Life Sciences > Physiology

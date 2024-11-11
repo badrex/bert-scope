@@ -1,0 +1,10 @@
+article_id: rspa_1962_0101
+revised_title: 'Recombination of Electrons and Atomic Ions: A Study of Collisional-Radiative Processes'
+semantic_tags:
+  - Plasma physics
+  - Recombination processes
+  - Radiative processes
+  - Collisional processes
+  - Plasma decay
+tldr: This article investigates the recombination of electrons and atomic ions in optically thin plasmas. A statistical theory called collisional-radiative recombination is developed, which considers the interaction between collisional and radiative processes. The study focuses on hydrogen-ion plasmas and finds that the collisional-radiative recombination coefficient increases with the number density of free electrons. The results also suggest that the coefficient is not very sensitive to the species of singly charged ions involved.
+scientific_discipline: Physics > Plasma Physics

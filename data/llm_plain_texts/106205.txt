@@ -1,0 +1,10 @@
+article_id: '106205'
+revised_title: 'Invention and Functioning of a Portable Wind Gage'
+semantic_tags:
+  - Meteorology
+  - Wind measurement
+  - Atmospheric science
+  - Instruments
+  - Weather observation
+tldr: 'Dr. James Lind invented a portable wind gage that measures the force of the wind by using two glass tubes filled with water. The instrument works by observing the height of the water column that the wind can sustain in the tubes. This allows for comparison of the strength of different winds and helps in understanding the force of the wind on various surfaces. The wind gage can be used on land or at sea and can be left exposed to the wind overnight without any issues.'
+scientific_discipline: Environmental and Earth Sciences > Meteorology

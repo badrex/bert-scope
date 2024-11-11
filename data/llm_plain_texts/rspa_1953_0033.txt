@@ -1,0 +1,10 @@
+article_id: rspa_1953_0033
+revised_title: Inelastic Collisions Between Atoms: Theoretical Considerations
+semantic_tags:
+  - Atomic Physics
+  - Collision Theory
+  - Quantum Mechanics
+  - Particle Physics
+  - Molecular Physics
+tldr: This article investigates the probability of slow inelastic collisions between atomic systems using the perturbed stationary state method. The authors extend the method to include resonance degeneracy and transitions involving a change in the axial component of angular momentum. They also compare the method with Born's approximation and discuss its scope and limitations. The article provides new semi-classical formulae suitable for numerical applications.
+scientific_discipline: Physics > Atomic and Molecular Physics

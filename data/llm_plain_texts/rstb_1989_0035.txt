@@ -1,0 +1,10 @@
+article_id: 'rstb_1989_0035'
+revised_title: 'HLA Class II-Peptide Complex Recognition by T-Cell Receptor: Reversal of Major Histocompatibility Complex Restriction'
+semantic_tags:
+  - Immunology
+  - T-cell receptor
+  - Major histocompatibility complex
+  - Peptide antigens
+  - Protein antigens
+tldr: This article explores the immune recognition of protein antigens and how the T-cell receptor recognizes the HLA class II-peptide complex. The authors demonstrate that a point mutation in the peptide determinant can reverse the major histocompatibility complex restriction of a T-cell clone. They also discuss the importance of the formation of a peptide-HLA complex for both cellular and humoral immune responses.
+scientific_discipline: Immunology > T-cell receptor and HLA class II-peptide complex recognition

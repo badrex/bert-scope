@@ -1,0 +1,10 @@
+article_id: 'rstb_1973_0006'
+revised_title: 'Structure and Electrical Properties of Autonomic Neuromuscular Junctions in Vertebrate Smooth Muscle'
+semantic_tags:
+  - Neuromuscular junction
+  - Smooth muscle physiology
+  - Autonomic nervous system
+  - Electrical modeling
+  - Vertebrate anatomy
+tldr: This article discusses the structure and electrical properties of autonomic neuromuscular junctions in vertebrate smooth muscle. It describes the four different types of neuromuscular junctions and their corresponding innervation methods. The author also presents an electrical model of a smooth muscle bundle to analyze the origin and distribution of current during transmission.
+scientific_discipline: Biology and Life Sciences > Anatomy and Physiology

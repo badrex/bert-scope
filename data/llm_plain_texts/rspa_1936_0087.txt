@@ -1,0 +1,10 @@
+article_id: rspa_1936_0087
+revised_title: 'Investigation of Electrical Resistance in Bismuth Alloys'
+semantic_tags:
+  - Alloy Chemistry
+  - Electrical Resistance
+  - Bismuth
+  - Lead Alloys
+  - Tin Alloys
+tldr: 'The authors conducted experiments on the electrical resistance of bismuth alloys, specifically focusing on the effects of lead, tin, germanium, and other impurities on the resistance and temperature coefficient. They found that even small amounts of impurities can significantly alter the resistance and temperature coefficient, leading to a better understanding of the complex behavior of these alloys. The results help explain the discrepancies in earlier research and provide insights into the role of impurities in bismuth alloys.'
+scientific_discipline: Chemistry > Alloy Chemistry

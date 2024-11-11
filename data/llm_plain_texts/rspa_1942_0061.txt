@@ -1,0 +1,10 @@
+article_id: rspa_1942_0061
+revised_title: Advances in Thermal Insulation at Very Low Temperatures
+semantic_tags:
+  - Low Temperature Physics
+  - Thermal Insulation
+  - Heat Transfer
+  - Cryogenics
+  - Magnetic Cooling
+tldr: This article investigates various methods of insulation at very low temperatures, focusing on heat transfer mechanisms and the development of effective insulation techniques. The authors discuss the importance of insulation in low-temperature experiments and present their findings on heat flow reduction using artificial silk fibers and 'guard rings' at low temperatures. They also explore the impact of insulation on temperature inhomogeneity in samples and the potential for improving insulation through larger sample sizes and better gas management.
+scientific_discipline: Physics > Thermodynamics

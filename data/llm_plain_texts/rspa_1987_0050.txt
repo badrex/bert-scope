@@ -1,0 +1,10 @@
+article_id: rspa_1987_0050
+revised_title: Air Drag Influence on High-Eccentricity Satellite Orbits
+semantic_tags:
+  - Satellite Orbits
+  - Air Drag
+  - Atmospheric Models
+  - Orbital Mechanics
+  - Space Technology
+tldr: This study investigates the contraction of satellite orbits under the influence of air drag, focusing on orbits of high eccentricity with a scale height dependent on altitude. The research develops a new theory for these orbits in an atmosphere where air density varies linearly with height, providing a better understanding of the real atmosphere and improving the interpretation of measurements of geophysical parameters from orbital changes.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

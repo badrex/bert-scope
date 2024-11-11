@@ -1,0 +1,10 @@
+article_id: rspa_1991_0050
+revised_title: Interfacial Waves and Deformations in Pre-Stressed Elastic Media: A Study on Incompressible Isotropic Materials
+semantic_tags:
+  - Elasticity
+  - Interfacial waves
+  - Incompressible materials
+  - Strain
+  - Homogeneous deformations
+tldr: This article examines the propagation of interfacial waves and deformations in pre-stressed incompressible isotropic elastic materials. The authors derive the secular equation governing the wave speed and analyze it to determine the existence of interfacial waves. They also discuss the relationship between interfacial deformations, surface deformations, and the underlying homogeneous deformations in the half-spaces.
+scientific_discipline: Physics > Elasticity

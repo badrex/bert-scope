@@ -1,0 +1,10 @@
+article_id: rspa_1924_0040
+revised_title: Stability of Flat Elastic Strips Under Shearing Forces
+semantic_tags:
+  - Elasticity
+  - Buckling
+  - Structural stability
+  - Plate theory
+  - Boundary conditions
+tldr: The authors investigate the stability of flat elastic strips under shearing forces and explore the conditions of neutral stability. They provide methods for calculating the form of the displacement and the wave-length of the distortion, which has important implications for the design of girders and light metal constructional members for aircraft.
+scientific_discipline: Engineering and Technology > Mechanics of Materials

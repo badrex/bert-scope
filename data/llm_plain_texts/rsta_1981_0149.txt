@@ -1,0 +1,10 @@
+article_id: 'rsta_1981_0149'
+revised_title: 'Exploring Primordial Black Holes with Atmospheric Cherenkov Technique in Gamma-Ray Astronomy'
+semantic_tags:
+  - Gamma-ray astronomy
+  - Primordial black holes
+  - Atmospheric Cherenkov technique
+  - Astrophysics
+  - High-energy astrophysical phenomena
+tldr: This article discusses the use of the atmospheric Cherenkov technique in gamma-ray astronomy to search for exploding primordial black holes. The technique involves detecting the Cherenkov radiation produced when high-energy particles interact with the Earth's atmosphere. The authors describe the setup and limitations of this method, as well as potential improvements and future applications.
+scientific_discipline: Physics > Astrophysics

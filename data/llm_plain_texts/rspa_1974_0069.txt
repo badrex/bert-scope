@@ -1,0 +1,10 @@
+article_id: rspa_1974_0069
+revised_title: A New Equation of Motion for Radiating Charged Particles
+semantic_tags:
+  - Electromagnetism
+  - Classical Mechanics
+  - Special Relativity
+  - Particle Physics
+  - Radiation
+tldr: The author proposes a new equation of motion for a radiating charged particle, which accounts for the variability of the particle's proper mass and eliminates the issues of runaway motion and pre-acceleration present in the Lorentz-Dirac equation. The new equation predicts sensible motion in uniform electric and magnetic fields, and it reconciles radiation with the constant bare mass of fundamental particles, leaving the deeper explanation for future theories.
+scientific_discipline: Physics > Electromagnetism

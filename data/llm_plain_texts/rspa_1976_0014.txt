@@ -1,0 +1,10 @@
+article_id: rspa_1976_0014
+revised_title: 'Scattering of Sound by Randomly Irregular Impedance Layers'
+semantic_tags:
+  - Acoustics
+  - Impedance layers
+  - Sound scattering
+  - Surface irregularities
+  - Kirchhoff diffraction theory
+tldr: This article examines the scattering of sound at the irregular boundaries of a two-dimensional impedance layer. The author derives two coupled integral equations to describe the acoustic properties of the layer and uses Kirchhoff diffraction theory to analyze the scattering mechanism. The theory is applied to the case of a randomly irregular impedance layer of helium in air, which is important in the study of jet noise suppression.
+scientific_discipline: Physics > Acoustics

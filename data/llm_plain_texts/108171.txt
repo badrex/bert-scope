@@ -1,0 +1,10 @@
+article_id: 108171
+revised_title: 'Correcting Compass Deviation in Iron-Built Ships'
+semantic_tags:
+  - Magnetism
+  - Compass correction
+  - Iron ships
+  - Naval technology
+  - Navigation
+tldr: The author conducted experiments on the iron-built steamship Rainbow to discover a method for correcting the compass deviation caused by the ship's iron structure. They established four observation stations on the ship and used a combination of onboard and shore-based instruments to measure the magnetic disturbances. The findings of this study would help improve navigation and safety in iron-built ships.
+scientific_discipline: Engineering and Technology > Naval technology

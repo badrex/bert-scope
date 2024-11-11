@@ -1,0 +1,10 @@
+article_id: rspa_1990_0072
+revised_title: Natural Convection Effects on Thermal Ignition in Porous Media: Semenov Model
+semantic_tags:
+  - Porous Media
+  - Natural Convection
+  - Thermal Ignition
+  - Chemical Reaction
+  - Semenov Model
+tldr: This article investigates the impact of natural convection on thermal ignition in a porous medium using a one-dimensional diffusion-convection-reaction model. The Semenov model is analyzed, and explicit relations are derived for the dependence of the critical Semenov number on the Rayleigh number. The study shows that natural convection can affect the critical conditions for spontaneous self-ignition in reacting systems.
+scientific_discipline: Environmental and Earth Sciences > Geophysics

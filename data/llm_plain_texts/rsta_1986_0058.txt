@@ -1,0 +1,9 @@
+article_id: rsta_1986_0058
+revised_title: Auger Electron Spectroscopy in Surface Analysis and Electron States of Solids
+semantic_tags:
+  - Surface Analysis
+  - Auger Electron Spectroscopy
+  - Electron States of Solids
+  - Transition Metal Systems
+  - Surface Oxidation
+tldr: This article discusses the use of Auger electron spectroscopy in analyzing the surfaces of solids and investigating electron states of solids. It explores the applications of Auger spectroscopy in various situations, including surface oxidation, charge-transfer, and hybridization effects in alloys, and adsorption of molecules on surfaces. The author also explains how metal Auger intensity ratios can be used to determine the number of electron states in transition metal systems and to study the surface oxidation of metals.

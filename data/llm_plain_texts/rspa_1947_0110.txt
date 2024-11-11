@@ -1,0 +1,10 @@
+article_id: rspa_1947_0110
+revised_title: 'Investigating the Scattering of Fast Neutrons by Protons using Meson Theory'
+semantic_tags:
+  - Nuclear Physics
+  - Meson Theory
+  - Neutron-Proton Interaction
+  - Scattering Cross-Section
+  - Nuclear Forces
+tldr: The authors used the Moslashller-Rosenfeld version of the meson theory to calculate the scattering of fast neutrons by protons. They used experimental results from Occhialini and Powell to check the predicted angular distribution of scattered particles and determine the mass of the meson. The total scattering cross-section predicted by the theory agreed with empirical results. This study is important for understanding the interaction between neutrons and protons and the nature of nuclear forces.
+scientific_discipline: Physics > Nuclear Physics

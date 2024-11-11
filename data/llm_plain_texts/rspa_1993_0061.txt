@@ -1,0 +1,10 @@
+article_id: rspa_1993_0061
+revised_title: A New Obrechkoff Trigonometric Fitted Method for Periodic Initial-Value Problems
+semantic_tags:
+  - Numerical Integration
+  - Periodic Initial-Value Problems
+  - Obrechkoff Method
+  - -Stable Methods
+  - Phase-Lag
+tldr: The author presents a new -stable complete in phase Obrechkoff trigonometric fitted method for solving periodic initial-value problems. This method is more accurate than previous methods and has a phase-lag of order infinity. The author demonstrates the effectiveness of the new method through numerical illustrations.
+scientific_discipline: Mathematics > Numerical Analysis

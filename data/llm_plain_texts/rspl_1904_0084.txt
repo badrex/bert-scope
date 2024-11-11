@@ -1,0 +1,10 @@
+article_id: rspl_1904_0084
+revised_title: 'Flame Spectra and the Relationship to Oscillatory Spark Spectra'
+semantic_tags:
+  - Spectroscopy
+  - Flame spectroscopy
+  - Oscillatory spark spectra
+  - Metal spectra
+  - Temperature effects
+tldr: The authors conducted experiments to study the spectra of flames and compared them to oscillatory spark spectra. They found that the flame spectra contained more lines than the arc and spark spectra, and that the flame and oscillatory spark spectra were very similar in the visible region. The similarity was attributed to the temperature effects on the spectra.
+scientific_discipline: Chemistry > Spectroscopy

@@ -1,0 +1,10 @@
+article_id: rspa_1966_0051
+revised_title: Advances in Seismic Recording and Analysis: Techniques for Microseisms
+semantic_tags:
+  - Seismology
+  - Microseisms
+  - Oceanography
+  - Wave Analysis
+  - Geophysics
+tldr: This article discusses recent advancements in the technique of seismic recording and analysis, focusing on new methods for recording and analyzing microseisms. The authors describe the design of horizontal and vertical component seismometers and the construction of vaults to maintain stable air conditions. They also explain the process of telemetering seismometer outputs to a central recording laboratory and the methods used for analyzing the data. The authors present results from their analyses, including auto-spectra, Rayleigh wave constants, and coherence between components. The article highlights the potential of microseisms for detecting and tracking North Atlantic depressions and the importance of understanding their origin and method of generation.
+scientific_discipline: Earth Sciences > Geophysics

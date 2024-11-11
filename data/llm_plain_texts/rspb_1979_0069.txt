@@ -1,0 +1,10 @@
+article_id: 'rspb_1979_0069'
+revised_title: 'Initial Heat Production in Garfish Olfactory Nerve Fibres'
+semantic_tags:
+  - Neurophysiology
+  - Thermodynamics
+  - Nerve Fibers
+  - Heat Production
+  - Olfactory Nerve
+tldr: The study examines the temperature changes associated with the passage of an impulse in the non-myelinated fibres of the garfish olfactory nerve. The research finds that the observed temperature changes result from a biphasic initial heat production consisting of a transient evolution of heat followed by a rapid heat reabsorption. The time course of these temperature changes does not fit with the transmembrane voltage change, suggesting that the heat derives almost wholly from free energy changes and entropy changes in the membrane capacity.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

@@ -1,0 +1,10 @@
+article_id: 'rspb_1976_0045'
+revised_title: 'Quantitative Analysis of Relaxation Times in Lipid Bilayers'
+semantic_tags:
+  - Lipid bilayers
+  - Nuclear magnetic resonance
+  - Molecular motion
+  - Diffusion coefficients
+  - Membrane structure
+tldr: The authors measured the spin-lattice relaxation times of individual 1H nuclei in phospholipid bilayers using nuclear magnetic resonance. They analyzed these relaxation times to obtain values for the diffusion coefficients for motion about individual carbon-carbon bonds and motion about the long axis of the hydrocarbon chains in the bilayer. The results indicate that motion about carbon-carbon bonds in phospholipid bilayers is relatively rapid, emphasizing the fluid nature of the hydrocarbon chain region of such bilayers.
+scientific_discipline: Chemistry > Lipid Chemistry

@@ -1,0 +1,10 @@
+article_id: 'rspb_1968_0065'
+revised_title: 'Investigating the Mechanism of Base Change Mutation by UV Radiation in Escherichia coli Strains'
+semantic_tags:
+  - DNA repair
+  - Mutagenesis
+  - UV radiation
+  - Escherichia coli
+  - Base change mutation
+tldr: The authors conducted experiments on Escherichia coli strains to study the mechanism of base change mutation caused by ultraviolet radiation. They found that the rate of excising thymine dimers in the deficient excision-repair strain was significantly lower than in the parent strain. The observed segregation pattern suggests that the mutation is carried by both daughter strands, implying that the parent strand's base sequence influences the new strands during replication. This research provides insights into the mutagenic action of radiation on bacteria and the role of DNA repair mechanisms in preventing mutations.
+scientific_discipline: Biology and Life Sciences > Genetics and Molecular Biology

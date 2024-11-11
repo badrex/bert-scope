@@ -1,0 +1,10 @@
+article_id: rspa_1982_0047
+revised_title: 'Integrable and Chaotic Motions of Four Vortices: The Case of Identical Vortices'
+semantic_tags:
+  - Vortex dynamics
+  - Hydrodynamics
+  - Chaotic behavior
+  - Hamiltonian mechanics
+  - Point vortices
+tldr: The article presents analytical and numerical results on the motion of four point vortices in a plane, focusing on the case of identical vortices. It shows that the motion of four identical vortices displays chaotic or stochastic solutions and discusses the implications of stochastic behavior. The study also reviews the dynamics of point vortices and develops the Hamiltonian formalism.
+scientific_discipline: Physics > Fluid Dynamics

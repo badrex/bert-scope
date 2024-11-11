@@ -1,0 +1,10 @@
+article_id: 'rstb_1993_0147'
+revised_title: 'Genetically Transformed Plants: Transgene Expression and Agronomic Improvement of Rice'
+semantic_tags:
+  - 'Genetic Engineering'
+  - 'Rice Improvement'
+  - 'Plant Transformation'
+  - 'Gene Expression'
+  - 'Agronomy'
+tldr: 'The article describes a reliable system for transforming and regenerating rice protoplasts, yielding fertile transgenic plants. Over 70 different genes of interest have been successfully introduced, and their patterns of expression are being studied. The researchers found that the spatial expression of these genes in transgenic plants is sensitive to the nature of the 3' flanking region present in the gene construct. This method has potential for improving rice crops through biotechnological approaches.'
+scientific_discipline: Biology and Life Sciences > Plant Biology

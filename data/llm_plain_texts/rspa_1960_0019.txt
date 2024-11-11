@@ -1,0 +1,10 @@
+article_id: rspa_1960_0019
+revised_title: 'Elastic Collisions Between Electrons and Hydrogen Atoms: Theory and Analysis'
+semantic_tags:
+  - Quantum Mechanics
+  - Atomic Physics
+  - Scattering Theory
+  - Electron-Hydrogen Collisions
+  - Boundary Conditions
+tldr: The authors study the elastic collisions between electrons and hydrogen atoms using quantum mechanics and scattering theory. They develop a mathematical framework to analyze the boundary conditions and wave functions of the system, leading to a better understanding of the direct and exchange scattering processes. The research also highlights the importance of considering the polarization potential in the collision process.
+scientific_discipline: Physics > Atomic Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1952_0185
+revised_title: Investigating Ionospheric Irregularities Using Galactic Radio Wave Diffraction
+semantic_tags:
+  - Radio Astronomy
+  - Ionosphere
+  - Radio Wave Propagation
+  - Interferometry
+  - Atmospheric Science
+tldr: The authors studied the diffraction of galactic radio waves to investigate the irregular structure of the ionosphere. They discovered that the irregularities in the ionosphere have a lateral extent of 2 to 10 km, a variation of electron content of about 10^6 electrons per cm², and are found at a height of around 400 km. These irregularities are most pronounced around midnight and exhibit little annual variation. The authors also found that the ionospheric irregularities move with a steady wind-like motion, with velocities of 100 to 300 km/h.
+scientific_discipline: Physics > Radio Astronomy

@@ -1,0 +1,10 @@
+article_id: rspa_1994_0065
+revised_title: Investigating the Real Space Manifestation of the First Sharp Diffraction Peak in Liquid and Glassy Materials
+semantic_tags:
+  - Diffraction peak
+  - Structure factor
+  - Intermediate range order
+  - Real space interpretation
+  - Liquid and glassy materials
+tldr: The author investigates the real space manifestation of the first sharp diffraction peak (FSDP) in the structure factor of liquid and glassy materials. They find that the FSDP's effect on the underlying features of intermediate range order depends on the system type. The FSDP confers a marked oscillatory character of periodicity on the intermediate range order when the local structural units, which give rise to density fluctuations, exist as stable entities for a certain timescale. The author also discusses the influence of temperature and pressure on the FSDP and the minimum size of the model required for accurate prediction.
+scientific_discipline: Physics > Optics

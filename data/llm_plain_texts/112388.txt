@@ -1,0 +1,10 @@
+article_id: 112388
+revised_title: 'Investigations on the Induction of Electric Currents by Magnetism and Heat'
+semantic_tags:
+  - Electromagnetism
+  - Electric Currents
+  - Heat and Magnetism
+  - Induced Currents
+  - Iron and Magnetism
+tldr: The author, G. Gore, conducted experiments to demonstrate the relationship between electric currents, magnetism, and heat. Using a coil with an iron wire axis, Gore observed that when the iron wire was heated, electric currents were induced. The direction of the induced current was found to be the same as when the magnet was removed from the coil, indicating that heat was reducing the magnetism. These findings support the general law that electric currents tend to occur in conductors when magnetism is changing.
+scientific_discipline: Physics > Electromagnetism

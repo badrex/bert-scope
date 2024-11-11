@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0132'
+revised_title: 'Solar Space Heating: Comparing Air and Liquid Systems'
+semantic_tags:
+  - Solar energy
+  - Solar heating
+  - Air systems
+  - Liquid systems
+  - Solar collector performance
+tldr: This article discusses the performance of air and liquid solar space heating systems, comparing the efficiency and energy usage of different systems. The study focuses on two nearly identical buildings at Colorado State University, Solar House I and Solar House II, which use air and liquid systems, respectively. The results show that the air system operates for a longer period during the day and has lower electricity usage, while the liquid system has higher solar collection efficiency and can deliver more heat in certain conditions. The overall coefficient of performance for the 1976-1977 heating season is 13.5 for the air system and 11.5 for the liquid system.
+scientific_discipline: Engineering and Technology > Renewable Energy

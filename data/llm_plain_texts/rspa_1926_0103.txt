@@ -1,0 +1,10 @@
+article_id: rspa_1926_0103
+revised_title: The Effect of Occluded Hydrogen on the Tensile Strength of Iron
+semantic_tags:
+  - Material Science
+  - Iron Embrittlement
+  - Hydrogen Embrittlement
+  - Tensile Strength
+  - Electrolytic Pickling
+tldr: This study investigates the effect of occluded hydrogen on the tensile strength of iron. The researchers found that when iron is exposed to hydrogen, its tensile strength decreases significantly, and the material becomes brittle. The process of electrolytic pickling was used to prevent corrosion during the experiments. The results showed that increasing the temperature during testing had a significant impact on the tensile strength and elongation of the iron samples.
+scientific_discipline: Materials Science > Material Properties

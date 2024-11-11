@@ -1,0 +1,10 @@
+article_id: rspa_1970_0183
+revised_title: 'Electric Field Manipulation of Carbon Particle Formation in Flames'
+semantic_tags:
+  - Plasma Physics
+  - Combustion
+  - Electric Fields
+  - Carbon Particles
+  - Flame Chemistry
+tldr: This study investigates the effects of electric fields on the size, charge, and number-rate of carbon particle formation in flames. The researchers found that particles account for most of the mass deposited, with mobilities ranging from 0.1 to 1 depending on the applied potential. The majority of the current is carried by smaller charge carriers, and the rate of mass deposition is determined by particles following the course of initially neutral growth followed by attachment-charging. The findings provide insight into the fundamental processes of carbon particle formation and manipulation in flames.
+scientific_discipline: Physics > Plasma Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1961_0196
+revised_title: 'Diffraction of a Plane Wave by a Large Perfectly Conducting Circular Cylinder'
+semantic_tags:
+  - Electromagnetic Wave
+  - Diffraction
+  - Fourier Integral Transforms
+  - Boundary-Value Problem
+  - Circular Cylinder
+tldr: The author presents a method to solve the boundary-value problem of a harmonic plane electromagnetic wave incident on a perfectly conducting circular cylinder. The method uses Fourier integral transforms and provides alternative forms of solution for different regions, including the illuminated and shadow regions. This approach offers a relatively easy and straightforward application of Fourier integral transforms to the problem, leading to new developments and applications in related problems.
+scientific_discipline: Physics > Electromagnetism

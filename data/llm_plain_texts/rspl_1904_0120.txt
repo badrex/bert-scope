@@ -1,0 +1,10 @@
+article_id: 'rspl_1904_0120'
+revised_title: 'The Halogen Hydrides as Conducting Solvents - Part III: Transport Numbers'
+semantic_tags:
+  - Electrochemistry
+  - Halogen Hydrides
+  - Transport Numbers
+  - Conducting Solvents
+  - Electrolysis
+tldr: 'The author, B. D. Steele and Sir William Ramsay, investigated the transport numbers of various substances dissolved in liquefied hydrogen bromide. They tested the validity of Faraday's law for solutions in hydrogen bromide and found it to hold within experimental errors. The experiments showed that the cation transport number increases with increasing concentration, and that substances like ether and acetone function as part of the cation.'
+scientific_discipline: Chemistry > Electrochemistry

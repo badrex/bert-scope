@@ -1,0 +1,10 @@
+article_id: rspa_1951_0090
+revised_title: 'Non-Local Electrodynamics: A New Approach to Quantum Field Theory'
+semantic_tags:
+  - Quantum Electrodynamics
+  - Non-Local Fields
+  - Reciprocity
+  - Non-Localizability
+  - Quantum Field Theory
+tldr: The author proposes a new approach to quantum field theory by introducing non-local electrodynamics. They develop a non-local spinor field quantity and use reciprocal commutation relations to create an -matrix free of convergence difficulties. This new formalism offers a different perspective on densities and observability in small space-time regions, potentially leading to a more accurate understanding of elementary particles.
+scientific_discipline: Physics > Quantum Field Theory

@@ -1,0 +1,10 @@
+article_id: rsta_1987_0116
+revised_title: Quotient Singularities and Invariant Functions
+semantic_tags:
+  - Algebraic Geometry
+  - Group Actions
+  - Invariant Theory
+  - Singularity Theory
+  - Equivariant Maps
+tldr: The author investigates quotient singularities and the classification of invariant functions, focusing on group actions with two-dimensional quotients. They discuss the properties of invariant rings and the lifting of vector fields, providing a comprehensive review of the relevant invariant theory and a list of zero-modal functions.
+scientific_discipline: Mathematics > Algebraic Geometry

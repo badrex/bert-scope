@@ -1,0 +1,10 @@
+article_id: rspa_1915_0038
+revised_title: Ionization of Gases Produced During Fermentation
+semantic_tags:
+  - Fermentation
+  - Electrochemistry
+  - Gas ionization
+  - Organic compounds
+  - Yeast
+tldr: The authors conducted experiments to investigate if the carbon dioxide gas produced during fermentation carries an electric charge and is ionized. They used a gold leaf electroscope and a Dolezalek electrometer to measure the rate of electroscope leak when glucose solution was fermented with and without yeast. The results showed that the rate of electroscope leak increased when the yeast was added, indicating that the CO2 gas produced during fermentation was ionized and carried an electric charge.
+scientific_discipline: Chemistry > Electrochemistry

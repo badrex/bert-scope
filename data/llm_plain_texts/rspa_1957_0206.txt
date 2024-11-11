@@ -1,0 +1,10 @@
+article_id: rspa_1957_0206
+revised_title: Ultrasonic Relaxation and Vibrational Specific Heat of Liquid Sulphur Dioxide
+semantic_tags:
+  - Ultrasonics
+  - Vibrational relaxation
+  - Specific heat
+  - Liquid sulphur dioxide
+  - Thermodynamics
+tldr: The authors measured the absorption of ultrasonic waves in liquid sulphur dioxide at various frequencies and temperatures. They found a pronounced relaxation centered around a frequency of approximately 23, associated with the time delay in deactivation of two of the three vibrational modes. The results are discussed in relation to dispersion measurements in the gas phase.
+scientific_discipline: Physics > Thermodynamics

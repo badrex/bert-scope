@@ -1,0 +1,10 @@
+article_id: rspa_1947_0022
+revised_title: Temperature Effects on X-ray Reflexion Intensity
+semantic_tags:
+  - X-ray diffraction
+  - Temperature effects
+  - Material properties
+  - Crystallography
+  - Debye-Waller theory
+tldr: The authors studied the effect of temperature on the intensity of X-ray reflexion in gold, copper, and aluminum. They found that the observed fall in intensity can be explained by the characteristic temperature varying with temperature, in accordance with a specific relation. The results agree with values obtained by specific heat and electrical conductivity methods.
+scientific_discipline: Physics > Material Science

@@ -1,0 +1,10 @@
+article_id: 'rspa_1934_0060'
+revised_title: 'Theoretical Considerations on Gas Evolution and Recombination Rates'
+semantic_tags:
+  - Statistical mechanics
+  - Gas kinetics
+  - Surface chemistry
+  - Recombination rates
+  - Collision theory
+tldr: The authors discuss the mechanism of gas evolution and recombination rates, considering the collision theory and the behavior of atoms on the metal surface. They analyze the relationship between the number of effective collisions and the mean relative velocities of different types of atoms, providing insights into the factors affecting gas evolution and recombination processes.
+scientific_discipline: Chemistry > Physical Chemistry

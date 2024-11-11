@@ -1,0 +1,10 @@
+article_id: rspa_1970_0036
+revised_title: 'Solving the Geomagnetic Induction Problem with Causality Principle'
+semantic_tags:
+  - Geomagnetism
+  - Induction
+  - Conductivity
+  - Causality
+  - Earth's interior
+tldr: The authors present a direct method to determine the Earth's radial conductivity distribution using the frequency spectrum of the ratio of internal to external magnetic potentials. The method incorporates the principle of causality, which ensures that only one conductivity distribution can reproduce the surface induction response and maintain causality at all radii.
+scientific_discipline: Physics > Geophysics

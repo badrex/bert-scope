@@ -1,0 +1,10 @@
+article_id: rspa_1950_0046
+revised_title: Surface Deformation and Friction of Metals at Light Loads: The Role of Thin Oxide Films
+semantic_tags:
+  - Tribology
+  - Surface Science
+  - Oxide Films
+  - Metal Friction
+  - Light Loads
+tldr: This study investigates the interaction between metals at very light loads, where the normal force is only a few milligrams. The research shows that the mechanism of sliding is the same at both light and heavy loads for certain metals like aluminum and silver. For other metals like copper, a change occurs when the load is reduced below a certain value. The thin oxide film present on these metals behaves in a protective manner at light loads, and the friction at loads below the transition corresponds to the sliding of oxide on oxide. The higher friction is due to the penetration and breakdown of the oxide film.
+scientific_discipline: Physics > Tribology

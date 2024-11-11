@@ -1,0 +1,11 @@
+article_id: 'rspb_1986_0089'
+revised_title: 'Nicorandil-Activated Potassium Current in Guinea Pig Ventricular Cells'
+semantic_tags:
+  - Cardiac Electrophysiology
+  - Ion Channels
+  - Potassium Current
+  - Nicorandil
+  - Guinea Pig Ventricular Cells
+tldr: The potassium current activated by 2-nicotinamidoethyl nitrate (nicorandil) was studied in single ventricular cells of guinea pigs. Nicorandil increased outward currents at potentials positive to the resting potential and shortened the action potential duration. The current-voltage relation reversed close to the potassium equilibrium potential, indicating that the current is carried by K+ ions. The properties of this K+ channel are characterized by voltage-independent kinetics and a smaller single-channel conductance compared to other K+ channels in cardiac muscle.
+scientific_discipline: Biology and Life Sciences > Physiology
+´´´

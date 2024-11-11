@@ -1,0 +1,10 @@
+article_id: rspa_1969_0068
+revised_title: 'Atomic Absorption Cross-Section Measurements in the Vacuum Ultraviolet Spectrum of Cadmium Vapour'
+semantic_tags:
+  - Atomic physics
+  - Absorption cross-section
+  - Vacuum ultraviolet spectrum
+  - Autoionization
+  - Cadmium
+tldr: The authors conducted experiments to measure the atomic absorption cross-section of cadmium vapour in the vacuum ultraviolet spectrum. They discovered that the photoionization cross-section has a maximum at the series limit and falls smoothly to around 0.1 Mb at higher energies. Above 87,000 cm⁻¹, the absorption cross-section curve is dominated by autoionization lines. These findings provide insights into the interaction of radiation with atoms and molecules, which is significant in astrophysics, aeronomy, and plasma physics.
+scientific_discipline: Physics > Atomic physics

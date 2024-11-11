@@ -1,0 +1,10 @@
+article_id: rspa_1972_0069
+revised_title: 'Positive Operators and Their Eigenvalues in Partially Ordered Banach Spaces'
+semantic_tags:
+  - Functional Analysis
+  - Banach Spaces
+  - Positive Operators
+  - Eigenvalues
+  - Partially Ordered Spaces
+tldr: The article explores the properties of positive operators acting in partially ordered Banach spaces and extends various theorems related to compact positive operators. It demonstrates that continuous linear positive maps have a positive eigenvalue when the spectrum contains a point with a modulus greater than the radius of the essential spectrum. This result includes the Krein-Rutman theorem for compact operators and provides further results for non-compact positive linear operators using the notion of a projectionally compact operator.
+scientific_discipline: Mathematics > Functional Analysis

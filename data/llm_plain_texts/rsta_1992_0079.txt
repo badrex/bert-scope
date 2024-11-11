@@ -1,0 +1,10 @@
+article_id: rsta_1992_0079
+revised_title: 'Nonlinear Bounds and Estimates for the Properties of Heterogeneous Systems'
+semantic_tags:
+  - Nonlinear Heterogeneous Systems
+  - Effective Properties
+  - Variational Principles
+  - Bounds and Estimates
+  - Nonlinear Electrostatics
+tldr: The author introduces a powerful variational principle to estimate the effective properties of nonlinear heterogeneous systems. By expressing the effective energy-density function in terms of linear comparison composites, the author computes bounds and estimates for various classes of nonlinear composite dielectrics. This method can be applied to other physical and mechanical properties of material systems.
+scientific_discipline: Physics > Electromagnetism

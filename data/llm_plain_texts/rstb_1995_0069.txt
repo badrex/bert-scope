@@ -1,0 +1,10 @@
+article_id: 'rstb_1995_0069'
+revised_title: 'Non-Metric Multidimensional Scaling in Analyzing Neuroanatomical Connection Data and Primate Visual System Organization'
+semantic_tags:
+  - Neuroanatomy
+  - Multidimensional scaling
+  - Visual system
+  - Brain connectivity
+  - Data analysis
+tldr: The article explores the use of non-metric multidimensional scaling (NMDS) to analyze neuroanatomical connection data and understand the organization of the primate visual system. NMDS helps reduce the complexity of connection data, revealing hierarchical and serially ordered structures in major cortical sensory systems. The primate visual system is found to have two distinct streams, unlike other central sensory systems. The study emphasizes the importance of understanding the characteristics of connection data and the methods used to analyze them for better insights into brain organization.
+scientific_discipline: Biology and Life Sciences > Neurobiology

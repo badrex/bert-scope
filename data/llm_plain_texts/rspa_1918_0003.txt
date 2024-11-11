@@ -1,0 +1,10 @@
+article_id: rspa_1918_0003
+revised_title: 'Investigation of Gas Discharge Under High Pressures and Nozzle Design'
+semantic_tags:
+  - Fluid dynamics
+  - Gas discharge
+  - Nozzle design
+  - Turbine nozzles
+  - Pressure
+tldr: The authors conducted experiments to study the discharge of gases under high pressures and the effect of nozzle design. They found that the discharge is independent of the pressure in the receiving vessel when it is less than a certain fraction of the pressure in the discharging vessel. The critical pressure for the flow from a convergent nozzle remains constant, but varies for divergent nozzles. The results have implications for turbine nozzle design.
+scientific_discipline: Physics > Fluid dynamics

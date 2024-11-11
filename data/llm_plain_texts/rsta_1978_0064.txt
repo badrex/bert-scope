@@ -1,0 +1,10 @@
+article_id: rsta_1978_0064
+revised_title: Nonlinear Wave Phenomena: A Numerical and Theoretical Study
+semantic_tags:
+  - Nonlinear Waves
+  - Korteweg-de Vries Equation
+  - Wave Instabilities
+  - Numerical Methods
+  - Fourier Analysis
+tldr: This article presents a numerical and theoretical study of various nonlinear wave phenomena, focusing on the Korteweg-de Vries equation and its generalizations. The authors develop an efficient numerical method that combines a pseudospectral (Fourier transform) treatment of the spatial dependence with a leapfrog scheme in time. They apply this method to investigate solitary wave interactions, wave breaking, the resolution of initial steps and wells, and the development of nonlinear wave train instabilities.
+scientific_discipline: Mathematics > Numerical Analysis

@@ -1,0 +1,10 @@
+article_id: rspa_1912_0022
+revised_title: 'Optical Determination of Shear Stress in Thin Rectangular Plates'
+semantic_tags:
+  - Stress Analysis
+  - Shear Stress
+  - Optical Methods
+  - Material Testing
+  - Civil Engineering
+tldr: The authors developed an optical method to determine the distribution of shear stress in thin rectangular plates using transparent nitro-cellulose. They constructed an experimental apparatus to apply stress to the plates and used the optical properties of the material to measure the stress. This method provided accurate quantitative results for shear stress distribution in plates, which is useful for understanding stress in structures like dams and bridges.
+scientific_discipline: Engineering and Technology > Civil Engineering

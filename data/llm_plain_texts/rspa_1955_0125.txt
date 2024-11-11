@@ -1,0 +1,10 @@
+article_id: rspa_1955_0125
+revised_title: 'Production of a Uniform Stream: Experiments on Flow of Water from Reservoir through Open Horizontal Channel'
+semantic_tags:
+  - Fluid Dynamics
+  - Open Channel Flow
+  - Hydraulic Engineering
+  - Froude Number
+  - Boundary Layer
+tldr: The authors conducted experiments to produce a uniform stream of water in an open horizontal channel. They used a trumpet-shaped orifice to create a uniform velocity and depth in the channel. The experiments were successful in producing a stream with no measurable waves and good velocity distribution, which could be useful for testing ship models and observing phenomena like fixed bores and waves caused by obstructions.
+scientific_discipline: Engineering and Technology > Fluid Dynamics

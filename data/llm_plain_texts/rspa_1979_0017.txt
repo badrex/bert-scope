@@ -1,0 +1,10 @@
+article_id: rspa_1979_0017
+revised_title: 'Sorption Isotherms and Diffusion in Graphitized Carbon Membranes'
+semantic_tags:
+  - Adsorption
+  - Membrane Science
+  - Diffusion
+  - Graphitized Carbon
+  - Sorption Isotherms
+tldr: The authors conducted experiments to measure the adsorption and diffusion properties of various hydrocarbons in graphitized carbon membranes. They used time-lags and steady-state flows to determine sorption isotherms and diffusion coefficients. The results showed that the diffusion coefficient was mainly dependent on concentration, and the membrane's properties were consistent with the Henry law at low pressures. The study provides valuable information for understanding and optimizing the performance of graphitized carbon membranes in various applications.
+scientific_discipline: Engineering and Technology > Membrane Science

@@ -1,0 +1,10 @@
+article_id: rspa_1980_0112
+revised_title: 'Multipolar Hamiltonian in Radiation Theory: Derivation from Arbitrary Gauge'
+semantic_tags:
+  - Quantum Electrodynamics
+  - Multipolar Interactions
+  - Lagrangian Formalism
+  - Electromagnetic Field Theory
+  - Hamiltonian Mechanics
+tldr: The authors demonstrate how to obtain the multipolar Hamiltonian from a Lagrangian expressed in an arbitrary gauge, rather than just the Coulomb gauge. They show that the new Lagrangian is independent of the initial choice of scalar potential and includes contributions from polarization, magnetization, and Rontgen currents.
+scientific_discipline: Physics > Electromagnetic Theory

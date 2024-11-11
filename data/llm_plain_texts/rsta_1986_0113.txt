@@ -1,0 +1,10 @@
+article_id: rsta_1986_0113
+revised_title: Scanning Acoustic Microscopy for Non-Destructive Examination of Cracks in Polycrystalline Alumina
+semantic_tags:
+  - Non-destructive testing
+  - Scanning acoustic microscopy
+  - Ceramics
+  - Surface cracks
+  - Alumina
+tldr: This article explores the use of scanning acoustic microscopy (SAM) for non-destructive examination of cracks in polycrystalline alumina ceramics. The authors demonstrate that SAM can reveal crack details on surfaces with various finishes, including those with rougher engineering surfaces. They also show that SAM can distinguish between cracks and grain boundaries in alumina samples, making it a valuable tool for inspecting the surface quality of ceramics.
+scientific_discipline: Engineering and Technology > Materials Science

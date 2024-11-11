@@ -1,0 +1,10 @@
+article_id: 'rstb_1991_0014'
+revised_title: 'Developmental Programs of Growth and Survival in Early Sensory Neurons'
+semantic_tags:
+  - Neurotrophic factor
+  - Neuronal survival
+  - Axonal growth rate
+  - Sensory neurons
+  - Developmental programs
+tldr: The article discusses the development and regeneration of the nervous system, focusing on the growth and survival programs of early sensory neurons. The authors found that the onset of neurotrophic factor dependency in these neurons is related to target distance, with neurons having more distant targets growing faster and surviving longer before becoming dependent on the factors. This suggests that developmental programs play a crucial role in coordinating the timing of trophic interactions in the developing nervous system.
+scientific_discipline: Biology and Life Sciences > Neuroscience

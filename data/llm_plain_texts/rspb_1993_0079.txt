@@ -1,0 +1,10 @@
+article_id: 'rspb_1993_0079'
+revised_title: 'Cardiac Myocyte Contraction in Hypertrophy: Changes in Cell Length and Membrane Voltage'
+semantic_tags:
+  - Cardiology
+  - Hypertrophy
+  - Cardiac Muscle
+  - Calcium Channels
+  - Membrane Potential
+tldr: 'This study investigates the changes in cell length and membrane voltage in single left ventricular myocytes from guinea-pigs with pressure-overload left ventricular hypertrophy. The results show that cell shortening is increased in the hypertrophy group, and the relation between cell shortening and membrane voltage is bell-shaped. The findings suggest that increased calcium entry via sarcolemmal sodium-calcium exchange may contribute to the differences in contraction in hypertrophy myocytes.'
+scientific_discipline: Biology and Life Sciences > Cardiology

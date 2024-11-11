@@ -1,0 +1,10 @@
+article_id: rspa_1956_0192
+revised_title: 'Isotope Shifts and Hyperfine Structure in the Atomic Spectrum of Cadmium: A Comprehensive Study'
+semantic_tags:
+  - Atomic Spectroscopy
+  - Isotope Shifts
+  - Hyperfine Structure
+  - Nuclear Physics
+  - Cadmium
+tldr: This article presents a detailed study of isotope shifts and hyperfine structure in the atomic spectrum of cadmium. The authors accurately measure the isotope shifts in the spark line A4416 using enriched isotopes and Fabry-Perot etalons. They find that the shifts between successive even isotopes decrease irregularly with increasing neutron number. The study also includes the complete hyperfine structure of the line A4416 and the centers of gravity of the two odd isotopes, which were determined by examining the structures of the lines A3250 and A3535.
+scientific_discipline: Physics > Atomic and Molecular Physics

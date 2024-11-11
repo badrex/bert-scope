@@ -1,0 +1,10 @@
+article_id: rspa_1930_0193
+revised_title: 'Optical Pyrometry Techniques and Improvements'
+semantic_tags:
+  - Pyrometry
+  - Temperature Measurement
+  - Blackbody Radiation
+  - Spectral Analysis
+  - Optical Instrumentation
+tldr: The authors describe improvements to the optical pyrometer, a device used to measure high temperatures. They discuss the design of a magnifying pyrometer, which allows for better temperature measurements by magnifying small sources of light. They also develop a special composite glass filter to improve the accuracy of temperature readings in arc conditions. Additionally, they present a method for calibrating the pyrometer using an electrically heated wedge as a blackbody source.
+scientific_discipline: Physics > Optics

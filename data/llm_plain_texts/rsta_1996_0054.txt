@@ -1,0 +1,10 @@
+article_id: rsta_1996_0054
+revised_title: 'Shear-Velocity Model of the Earth's Mantle: Advances in High-Pressure and High-Temperature Research'
+semantic_tags:
+  - Seismology
+  - Earth's Mantle
+  - Geophysics
+  - Earthquake Seismology
+  - Earth's Interior
+tldr: The authors present a new model of the shear velocity structure in the Earth's mantle, using data-sets of absolute and differential travel times, surface-wave phase velocities, and free oscillation structure coefficients. The model reveals large-amplitude structure in the topmost 400 km and the lowermost 500 km of the mantle, with the middle of the mantle characterized by low-amplitude anomalies. The study supports the idea that an endothermic phase transition is not a barrier to large-scale flow in the mantle.
+scientific_discipline: Earth Sciences > Geophysics

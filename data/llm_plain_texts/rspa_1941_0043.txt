@@ -1,0 +1,10 @@
+article_id: rspa_1941_0043
+revised_title: The Flame Spectrum of Carbon Monoxide: Applications and Afterburning Phenomenon
+semantic_tags:
+  - Combustion
+  - Carbon Monoxide
+  - Flame Spectroscopy
+  - Afterburning
+  - Vibrationally Excited Molecules
+tldr: This article investigates the absorption spectrum of a carbon monoxide flame and explores the phenomenon of afterburning in the combustion of carbon monoxide. The authors find that the molecules formed during combustion are initially in a highly excited state of internal vibration, and that the presence of moisture significantly affects the absorption and emission properties of the flame. The results provide a good interpretation of the experiments of Garner and colleagues on the effect of moisture and other catalysts on the infra-red emission of the flame.
+scientific_discipline: Chemistry > Combustion Chemistry

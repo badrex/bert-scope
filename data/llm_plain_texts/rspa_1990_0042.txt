@@ -1,0 +1,11 @@
+article_id: rspa_1990_0042
+revised_title: Short-Time Transient of Diffusion Outside a Conducting Body
+semantic_tags:
+  - Diffusion
+  - Mass transport
+  - Brownian motion
+  - Asymptotic series
+  - Electrochemistry
+tldr: The authors study the short-time transient of diffusion outside a conducting body, focusing on the absorption rate of mass or heat. They use a three-term asymptotic series to calculate the absorption rate for an arbitrary smooth body and derive corrections for nonsmooth bodies, such as those with edges and lines of contact with insulating surfaces. The results are applicable to various shapes, including discs, rings, and cylinders, which are commonly used for microelectrodes and hot-film devices.
+scientific_discipline: Mathematics > Applied Mathematics
+```

@@ -1,0 +1,10 @@
+article_id: rspl_1898_0054
+revised_title: 'Reconstruction of Stature from Long Bones: A Probabilistic Approach'
+semantic_tags:
+  - Anthropometry
+  - Paleontology
+  - Evolutionary biology
+  - Regression analysis
+  - Stature estimation
+tldr: The author presents a probabilistic method for reconstructing the stature of prehistoric races using measurements of their long bones. The method is based on the theory of probability and regression analysis, and it provides a more accurate estimation of stature than previous methods. The author applies this method to various prehistoric populations and discusses the implications of their findings for understanding human evolution and the relationship between humans and other primates.
+scientific_discipline: Biology and Life Sciences > Anthropology

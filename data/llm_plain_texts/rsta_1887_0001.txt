@@ -1,0 +1,10 @@
+article_id: rsta_1887_0001
+revised_title: Luni-Solar Variations of Magnetic Declination and Horizontal Force at Bombay
+semantic_tags:
+  - Geomagnetism
+  - Solar-Terrestrial Physics
+  - Magnetic Declination
+  - Lunar Influence
+  - Magnetic Observations
+tldr: The author investigates the luni-solar variations of magnetic declination and horizontal force at Bombay over a period of 25 years. They found that the majority of the phenomenon is a solar diurnal variation that depends on the relative positions of the sun and moon. The author developed a formula to express this variation, which holds true for each season and magnetic element.
+scientific_discipline: Physics > Geomagnetism

@@ -1,0 +1,10 @@
+article_id: 'rspa_1971_0022'
+revised_title: 'Computer Aids in Mechanical Engineering Design: Gear-train Design'
+semantic_tags:
+  - Computer-Aided Design
+  - Mechanical Engineering
+  - Gear-train Design
+  - Design Optimization
+  - Computer Graphics
+tldr: This article discusses the use of computer graphics in gear-train design for special-purpose machine tools. The author describes a program that combines the experience of the designer with the power of the computer, allowing for faster and more efficient design processes. The program saves time and costs compared to conventional methods and can be used to design various configurations of gear-trains.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

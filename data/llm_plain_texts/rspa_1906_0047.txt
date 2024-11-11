@@ -1,0 +1,10 @@
+article_id: rspa_1906_0047
+revised_title: 'Improving Gas Density Comparisons with a Static Method'
+semantic_tags:
+  - Gas density
+  - Micro-manometer
+  - Pneumatics
+  - Gas analysis
+  - Physics
+tldr: The author presents a static method for comparing the densities of gases using a micro-manometer. The method measures small differences in pressure accurately and can detect differences as small as 1/5000 of the actual density. The author demonstrates the method by comparing the densities of producer gas and air, finding the producer gas density to be 0.001102 grams per cubic centimeter.
+scientific_discipline: Physics > Fluid Mechanics

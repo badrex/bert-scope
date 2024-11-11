@@ -1,0 +1,10 @@
+article_id: rspa_1976_0038
+revised_title: Fracture Mechanics in Metal-Matrix Composites
+semantic_tags:
+  - Composite materials
+  - Fracture mechanics
+  - Metal-matrix composites
+  - Plasticity
+  - Fibre composites
+tldr: The article investigates the mechanics of fracture in metal-matrix composites, focusing on the plastic flow in the matrix of a two-dimensional plane-strain model with alternately fractured and unfractured fibers. The results suggest that high fracture-toughness is achieved when the matrix yield strength is above a certain critical level, influenced by the fiber's mechanical properties and volume fraction. The fracture-toughness of a strongly bonded composite with adequate matrix yield strength is likely to be greater than that achieved by a fiber-matrix debonding mechanism.
+scientific_discipline: Engineering and Technology > Materials Science

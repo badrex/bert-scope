@@ -1,0 +1,10 @@
+article_id: rspa_1909_0060
+revised_title: Angular Momentum and Wave Motion in a Revolving Shaft
+semantic_tags:
+  - Wave mechanics
+  - Angular momentum
+  - Wave propagation
+  - Mechanical engineering
+  - Material science
+tldr: The author investigates the wave motion of a revolving shaft and the transfer of angular momentum in a beam of circularly polarized light. They derive equations for the wave motion and discuss the energy transmission in the shaft, considering both natural and forced velocities. The study has implications for understanding wave mechanics and material science.
+scientific_discipline: Physics > Mechanical Engineering

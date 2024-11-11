@@ -1,0 +1,10 @@
+article_id: 'rspb_1937_0083'
+revised_title: 'Initiation of Propagated Disturbances in Nerve Impulses'
+semantic_tags:
+  - Neurophysiology
+  - Nerve Impulses
+  - Mathematical Modeling
+  - Physiology
+  - Biophysics
+tldr: The authors analyze the initiation of propagated disturbances in nerve impulses using mathematical modeling. They define the rheobase, the minimum stimulus intensity required to initiate an impulse, and discuss the relationship between stimulus intensity and the propagation of nerve impulses. The authors also introduce the concept of the "reflected curve" to better understand the behavior of nerve impulses.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

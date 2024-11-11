@@ -1,0 +1,10 @@
+article_id: 105717
+revised_title: Reducing Friction in Engines: A Mechanical Study
+semantic_tags:
+  - Mechanical Engineering
+  - Friction Reduction
+  - Engine Design
+  - Balance Experiments
+  - Optimal Engine Performance
+tldr: This article presents a study on reducing friction in engines by conducting balance experiments to measure the resistance from friction in different weights and distances. The author suggests that the quantity of friction in large engines can be estimated at 1/2 the weight or pressure on the rubbing parts, while in smaller, more precise engines, it may be around 1/3. The author also proposes ways to decrease the velocity of the rubbing parts to increase the power over friction without losing time or velocity in raising the weight.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

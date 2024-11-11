@@ -1,0 +1,10 @@
+article_id: rsta_1984_0123
+revised_title: Photonic Logic Based on Molecular Reorientation of Nematic Liquid Crystals: Applications and Advancements
+semantic_tags:
+  - Photonic logic
+  - Nematic liquid crystals
+  - Molecular reorientation
+  - Optical nonlinearities
+  - Laser beam manipulation
+tldr: This article proposes a type of photonic logic based on the molecular reorientation of nematic liquid crystals, which takes advantage of the refractive-index changes induced by laser beams. The authors demonstrate examples of AND, OR, and NOR functions using this system, highlighting its potential applications in all-optical devices. The main focus is on the ability of nematic homeotropic cells to alter their molecular orientation according to the crossing laser intensity, regardless of whether it comes from one or more laser beams.
+scientific_discipline: Physics > Optics

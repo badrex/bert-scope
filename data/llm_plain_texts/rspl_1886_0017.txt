@@ -1,0 +1,12 @@
+article_id: rspl_1886_0017
+revised_title: 'Magnetisation Effects on the Length of Iron, Steel, and Nickel Rods'
+semantic_tags:
+  - Magnetism
+  - Material Science
+  - Iron
+  - Steel
+  - Nickel
+  - Elongation
+  - Retraction
+tldr: The authors conducted experiments to study the changes in the length of iron, steel, and nickel rods when magnetized. They found that magnetization causes iron rods to elongate, while steel and nickel rods to retract. The degree of elongation or retraction depends on the type of steel (blue-tempered or yellow-tempered) and the tension applied to the rods. These findings contribute to the understanding of the relationship between magnetization and material properties.
+scientific_discipline: Physics > Material Science

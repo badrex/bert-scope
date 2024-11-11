@@ -1,0 +1,10 @@
+article_id: 109787
+revised_title: Clearing Equations of Quadratic, Cubic, Quadrato-Cubic, and Higher Surds
+semantic_tags:
+  - Algebra
+  - Surds
+  - Equation solving
+  - Mathematical methods
+  - Royal Irish Academy
+tldr: This article presents methods for clearing equations containing quadratic, cubic, and higher surds. The author, William Allman, extends the existing method of exterminating quadratic surds to include surds with indices as integral powers of 2, cubic surds, and combinations of surds with factors 2 and 3. The methods can also be applied to equations with up to three surds, whose indices do not exceed 12.
+scientific_discipline: Mathematics > Algebra

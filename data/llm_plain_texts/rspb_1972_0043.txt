@@ -1,0 +1,10 @@
+article_id: 'rspb_1972_0043'
+revised_title: 'Model of Clear Zone Compound Eye and Light Summation Theory'
+semantic_tags:
+  - Vision Biology
+  - Optics
+  - Compound Eyes
+  - Light Scattering
+  - Eye Anatomy
+tldr: The authors developed a model of the clear zone compound eye, which is found in nocturnal insects and crustaceans. They proposed a theory that explains how light entering the eye through multiple facets can sum upon the receptors beyond the clear zone. The model assumes that light is scattered from the cone tip, increasing the sensitivity of the eye without affecting its acuity. This theory provides a baseline for understanding the optical mechanisms in clear zone eyes and helps identify additional optical features that enhance their performance.
+scientific_discipline: Biology and Life Sciences > Vision Biology

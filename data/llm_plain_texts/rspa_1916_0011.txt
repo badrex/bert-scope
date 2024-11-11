@@ -1,0 +1,10 @@
+article_id: 'rspa_1916_0011'
+revised_title: 'Spectral Analysis of Iron in Oxy-Hydrogen Flames'
+semantic_tags:
+  - Spectroscopy
+  - Iron Spectrum
+  - Flame Spectra
+  - Stellar Spectra
+  - Temperature Analysis
+tldr: The authors analyzed the oxy-hydrogen flame spectrum of iron, identifying 64 lines and comparing them to iron arc spectra. They found that the flame spectrum represents a temperature level above low-temperature furnace conditions and discussed the behavior of these lines in sunspot and stellar spectra.
+scientific_discipline: Physics > Spectroscopy

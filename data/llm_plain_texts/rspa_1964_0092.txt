@@ -1,0 +1,10 @@
+article_id: rspa_1964_0092
+revised_title: Crystallographic Study of Solid Benzene via Neutron Diffraction
+semantic_tags:
+  - Crystallography
+  - Neutron diffraction
+  - Benzene
+  - Molecular structure
+  - Thermal parameters
+tldr: The authors conducted a crystallographic study of solid benzene using neutron diffraction, extending the understanding of its molecular structure. They examined neutron reflexions in four crystal zones, determining atomic coordinates and thermal parameters. The study revealed oscillatory angular motion of the benzene molecules and changes in their orientation as temperature decreased, which contributed to the enhanced thermal expansion along specific axes.
+scientific_discipline: Chemistry > Crystallography

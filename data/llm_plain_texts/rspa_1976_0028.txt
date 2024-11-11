@@ -1,0 +1,10 @@
+article_id: rspa_1976_0028
+revised_title: 'Continuum Theory of the One-Fluid Solar Wind for Small Prandtl Number'
+semantic_tags:
+  - Solar wind
+  - Fluid dynamics
+  - Prandtl number
+  - Asymptotic analysis
+  - Astrophysics
+tldr: The article presents a continuum theory for a single-species gas expanding into a vacuum, considering a compressible, viscous, and heat-conducting gas with a constant Prandtl number and viscosity proportional to temperature. The study focuses on the solar wind and uses the method of matched asymptotic expansions to construct a solution describing the flow field from the Sun's surface to infinity. The results show that the flow can either remain supersonic and terminate at a finite point or become subsonic through a diffuse shock layer, approaching a non-zero pressure at infinity.
+scientific_discipline: Physics > Fluid Dynamics

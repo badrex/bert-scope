@@ -1,0 +1,11 @@
+article_id: rsta_1899_0012
+revised_title: Errata in Philosophical Transactions of the Royal Society of London
+semantic_tags:
+  - Physics
+  - Chemistry
+  - Electrical conductivity
+  - Flames
+  - Salt vapours
+tldr: This article contains corrections and errata for various papers published in the Philosophical Transactions of the Royal Society of London. It specifically addresses errors related to the electrical conductivity of flames containing salt vapors, the combustion of gases, and the effects of Röntgen rays and ultra-violet light on chemical reactions.
+scientific_discipline: Physics > Electromagnetism
+```

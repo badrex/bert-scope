@@ -1,0 +1,10 @@
+article_id: 107872
+revised_title: 'Investigations on the Permeability of Transparent Screens to Radiant Heat'
+semantic_tags:
+  - Heat transfer
+  - Radiant heat
+  - Transparent materials
+  - Thermodynamics
+  - Heat radiation
+tldr: The author conducted experiments to study the permeability of thin transparent screens to invisible radiant heat. The experiments demonstrated that radiant heat can pass through transparent screens, and a liquid screen is more permeable to radiant heat than a solid one. This discovery challenges previous theories and provides new insights into the behavior of heat.
+scientific_discipline: Physics > Thermodynamics

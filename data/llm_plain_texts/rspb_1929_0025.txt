@@ -1,0 +1,10 @@
+article_id: 'rspb_1929_0025'
+revised_title: 'The Absorption Spectrum of Vitamin D: A New Understanding of Vitamin D Formation'
+semantic_tags:
+  - Vitamin D
+  - Ergosterol
+  - Absorption Spectrum
+  - Antirachitic Activity
+  - Radiation
+tldr: The authors conducted experiments on the absorption spectrum of vitamin D, discovering that the first product of radiation of ergosterol has absorption maxima at 280 and 262 nm. They found that this substance, which they called substance A, is likely vitamin D. The study also showed that the product with a maximum absorption at 240 has no antirachitic activity, and they proposed referring to it as substance B.
+scientific_discipline: Chemistry > Biochemistry

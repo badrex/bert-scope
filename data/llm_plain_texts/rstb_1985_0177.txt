@@ -1,0 +1,10 @@
+article_id: 'rstb_1985_0177'
+revised_title: 'Clonal Restriction of Cell Mingling in Xenopus Embryos'
+semantic_tags:
+  - Developmental Biology
+  - Cell Lineage
+  - Xenopus
+  - Clonal Restriction
+  - Cell Migration
+tldr: The authors traced the fates of individual blastomeres in Xenopus embryos by injecting horseradish peroxidase. They discovered that cell fates were restricted at specific boundaries, separating different morphological compartments. These boundaries were respected by progeny of any blastomere labeled at the 512-cell stage but were frequently crossed by progeny of blastomeres labeled at earlier stages. The results support the hypothesis that boundaries observed in vivo are lines of clonal restriction formed by mutual inhibition of cell motility and cell division following contact between progeny of different ancestral cell groups.
+scientific_discipline: Biology and Life Sciences > Developmental Biology

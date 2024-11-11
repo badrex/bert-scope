@@ -1,0 +1,10 @@
+article_id: rspl_1887_0008
+revised_title: Improved Accuracy of Napierian Logarithms and Modulus of Common Logarithms
+semantic_tags:
+  - Mathematics
+  - Logarithms
+  - Number Theory
+  - Mathematical Analysis
+  - Decimal Precision
+tldr: The author improved the accuracy of Napierian logarithms and the modulus of common logarithms by correcting errors in previous calculations. They extended the computations to more decimal places, ensuring the values are accurate to at least 272 places. This work is important for understanding and applying logarithmic functions in various mathematical contexts.
+scientific_discipline: Mathematics > Number Theory

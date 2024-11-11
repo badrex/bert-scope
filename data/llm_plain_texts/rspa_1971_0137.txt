@@ -1,0 +1,10 @@
+article_id: rspa_1971_0137
+revised_title: Accurate Determination of Rotational Constants of Oxygen and Nitrogen Using a Fabry-Perot Etalon
+semantic_tags:
+  - Raman Spectroscopy
+  - Fabry-Perot Etalon
+  - Rotational Constants
+  - Oxygen
+  - Nitrogen
+tldr: The authors used a Fabry-Perot etalon to study the pure rotational Raman spectra of oxygen and nitrogen, allowing them to measure the wavelength of individual rotational lines with high accuracy. This led to precise determinations of the rotational constants for both molecules. The results were in excellent agreement with recent microwave studies, demonstrating the effectiveness of this technique for studying rotational constants and internuclear distances of simple molecules.
+scientific_discipline: Physics > Optics

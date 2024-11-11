@@ -1,0 +1,9 @@
+article_id: rspa_1965_0067
+revised_title: 'Effect of Annealing on the Resistivity of Self-Damaged Plutonium: A Study on the Anomalous Temperature Dependence'
+semantic_tags:
+  - Plutonium resistivity
+  - Isochronal annealing
+  - Radiation damage
+  - Defect concentration
+  - Temperature dependence
+tldr: This article investigates the effect of annealing on the resistivity of self-damaged plutonium and explores the anomalous temperature dependence of resistivity changes caused by self-irradiation at low temperatures. Isochronal annealing experiments reveal two distinct annealing stages centered around 75 and 150 K. The study also examines the correlation between resistivity changes and the concentration of point defects in plutonium.

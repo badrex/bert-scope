@@ -1,0 +1,10 @@
+article_id: 'rstb_1988_0070'
+revised_title: 'Frequency-Dependent Selection and Its Implications for Molecular and Morphological Evolution'
+semantic_tags:
+  - Population Genetics
+  - Evolutionary Biology
+  - Frequency-Dependent Selection
+  - Stabilizing Selection
+  - Molecular Evolution
+tldr: This article explores the effects of frequency-dependent selection on metrical characters and its implications for molecular and morphological evolution. The authors present computer models that demonstrate how a combination of frequency-dependent and stabilizing selection can maintain polymorphisms among genes that determine a character. These models suggest simple explanations for patterns of divergence between populations and species and for discrepancies between the rates of morphological and molecular evolution. The study also highlights the importance of predators, parasites, and competitors as agents of frequency-dependent selection.
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

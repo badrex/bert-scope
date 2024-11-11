@@ -1,0 +1,10 @@
+article_id: 'rspa_1935_0027'
+revised_title: 'Investigating Thermal Changes in Solid Solutions: Methods and Findings'
+semantic_tags:
+  - Solid solutions
+  - Thermal transformations
+  - Specific heat
+  - Heat content
+  - Temperature measurements
+tldr: This article presents methods for investigating thermal changes occurring during transformations in solid solutions. The authors use a copper block to maintain a stable temperature and measure the specific heat and heat content of the materials. They discuss the advantages and limitations of their method and provide experimental results for comparison.
+scientific_discipline: Chemistry > Materials Science

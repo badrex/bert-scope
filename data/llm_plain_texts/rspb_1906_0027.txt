@@ -1,0 +1,10 @@
+article_id: 'rspb_1906_0027'
+revised_title: 'Inheritance of Coat Color in Thoroughbred Horses'
+semantic_tags:
+  - Genetics
+  - Inheritance
+  - Horse breeding
+  - Mendelian inheritance
+  - Dominance
+tldr: The author studied the inheritance of coat colors in thoroughbred horses, specifically focusing on the relationship between chestnut, bay, and brown colors. They found that the simple Mendelian theory cannot explain the inheritance of these colors, as the chance of getting a chestnut foal from a chestnut mare varies among different sires. The author suggests that the inheritance of coat color in horses can be better explained using Galton's hypothesis of dominance.
+scientific_discipline: Biology and Life Sciences > Genetics

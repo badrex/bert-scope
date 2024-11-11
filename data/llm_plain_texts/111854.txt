@@ -1,0 +1,10 @@
+article_id: 111854
+revised_title: 'Gyroscope Mechanics and Theoretical Applications'
+semantic_tags:
+  - Gyroscopes
+  - Mechanics
+  - Theoretical Physics
+  - Astronomy
+  - Earth's Rotation
+tldr: The author, Arthur Hill Curtis, presents a detailed analysis of the gyroscope's motion using strict mechanical principles. He deduces the properties of the gyroscope, including the curves described by its extremity, the motion of its axis, and the effects of the earth's rotation. The study also explores the behavior of the gyroscope when its axis is constrained or free to move.
+scientific_discipline: Physics > Mechanics

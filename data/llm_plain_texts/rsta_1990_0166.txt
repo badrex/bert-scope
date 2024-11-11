@@ -1,0 +1,11 @@
+article_id: rsta_1990_0166
+revised_title: Singularities in Complex Fluid Interfaces: A Lagrangian Approach
+semantic_tags:
+  - Fluid Dynamics
+  - Interface Dynamics
+  - Conformal Maps
+  - Nonlinear Equations
+  - Self-Similar Solutions
+tldr: The authors analyze the motion of a material interface between two fluids in a pressure field using a Lagrangian approach. They describe the interface as the image of the unit circle under a time-dependent conformal map and discuss the behavior of singularities in the interface. The study focuses on self-similar solutions and their stability, providing insights into the complex dynamics of fluid interfaces.
+scientific_discipline: Mathematics > Applied Mathematics
+sub_discipline: Fluid Dynamics > Interface Dynamics

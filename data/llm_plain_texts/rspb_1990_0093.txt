@@ -1,0 +1,13 @@
+article_id: 'rspb_1990_0093'
+revised_title: 'Errata and Corrections in Texton Segregation and Mind-Brain Interaction Studies'
+semantic_tags:
+  - Vision Science
+  - Cognitive Psychology
+  - Neuroscience
+  - Texton Segregation
+  - Mind-Brain Interaction
+tldr: This article provides corrections for two studies published in the Proceedings of the Royal Society of London. The first study, on texton segregation, had incorrect figures on pages 310 and 315. The corrected figures show how contrast reversal affects texture element segregation. The second study, on mind-brain interaction, had a typo on page 441. The corrected sentence states that mental units match dendrons on which they were acting.
+scientific_discipline: Psychology > Cognitive Psychology
+```yaml
+scientific_subdiscipline: Vision Science
+```

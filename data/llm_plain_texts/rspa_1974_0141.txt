@@ -1,0 +1,10 @@
+article_id: rspa_1974_0141
+revised_title: Spin-Dependent Intermolecular Potential for Crystal Structure and Antiferromagnetism of Solid Oxygen
+semantic_tags:
+  - Solid-state physics
+  - Antiferromagnetism
+  - Molecular orbital theory
+  - Crystal structure
+  - Oxygen
+tldr: The authors propose a spin-dependent intermolecular potential based on molecular orbital overlap to predict the crystal structure and antiferromagnetism of solid oxygen. They compare their results with a Lennard-Jones potential calculation and find that the spin-dependent potential better explains the distortion of the (001) plane from hexagonal symmetry due to magnetic ordering. The magnetic exchange constant is found to be 4, in comparison to the value derived from the magnon spectrum.
+scientific_discipline: Physics > Solid-state physics

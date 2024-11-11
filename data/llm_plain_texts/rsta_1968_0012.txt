@@ -1,0 +1,10 @@
+article_id: rsta_1968_0012
+revised_title: 'High-Resolution Spectroscopy with Defocused Spherical Fabry-Pérot Interferometer'
+semantic_tags:
+  - Spectroscopy
+  - Laser
+  - Interferometry
+  - Optics
+  - High-resolution spectroscopy
+tldr: The authors describe the characteristics of a defocused spherical Fabry-Pérot interferometer as a quasi-linear dispersion instrument for high-resolution spectroscopy of pulsed laser sources. They discuss its advantages, such as accuracy in frequency difference measurement, high illumination of the detector, ease of alignment, and measurement of spatial coherence of the laser beam. The authors also present a simple optical path difference calculation and describe the construction and design of the instrument.
+scientific_discipline: Physics > Optics

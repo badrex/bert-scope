@@ -1,0 +1,10 @@
+article_id: rspa_1978_0124
+revised_title: Analytical Solution of Master Equation for Ionization in Dense Hydrogen Plasma
+semantic_tags:
+  - Plasma physics
+  - Ionization
+  - Master equation
+  - Hydrogen plasma
+  - Analytical solution
+tldr: The authors present an analytical solution to the master equation for ionization in a dense hydrogen plasma. They derive an expression for the observed ionization rate coefficient, which is valid for all temperatures where the ionization time constant is longer than the internal relaxation time constants. The study examines the roles of various microscopic processes in the overall observed ionization rate in a dense hydrogen plasma and discusses the implications regarding the temperature dependence of the rate coefficient.
+scientific_discipline: Physics > Plasma Physics

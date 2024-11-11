@@ -1,0 +1,10 @@
+article_id: rsta_1980_0029
+revised_title: 'Doppler Tracking and Geodetic Applications: Analyzing Software Variations and Time Effects'
+semantic_tags:
+  - Satellite Doppler Tracking
+  - Geodesy
+  - Satellite Positioning
+  - Ephemeris
+  - Data Validation
+tldr: This article examines the variations in station coordinates derived from Doppler observations using different software models and the impact of time and satellite ephemeris on the results. The study finds that, despite differences in data validation and software, the agreement between various models is generally better than 1 meter. The influence of meteorological parameters and the choice of ephemeris on station coordinates is also discussed.
+scientific_discipline: Environmental and Earth Sciences > Geodesy

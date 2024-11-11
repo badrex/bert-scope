@@ -1,0 +1,10 @@
+article_id: rspa_1947_0131
+revised_title: 'Penetrating Extensive Cosmic Ray Showers: Density Distribution and Particle Types'
+semantic_tags:
+  - Cosmic Rays
+  - Particle Physics
+  - Penetrating Showers
+  - Shower Density Spectrum
+  - Particle Types
+tldr: The authors studied extensive penetrating cosmic ray showers using a specific experimental arrangement. They found that the density distribution of these showers follows an effective density integral spectrum. The authors also discovered that the showers contain soft particles incapable of discharging shielded counters, and they provide an estimate of the fraction of penetrating particles in these showers.
+scientific_discipline: Physics > Particle Physics

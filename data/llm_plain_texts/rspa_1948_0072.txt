@@ -1,0 +1,10 @@
+article_id: rspa_1948_0072
+revised_title: Temperature Measurements in Acetylene Flames
+semantic_tags:
+  - Combustion
+  - Flame temperature
+  - Spectroscopy
+  - Low-pressure flames
+  - Acetylene
+tldr: The authors conducted spectroscopic studies on low-pressure flames, specifically acetylene flames, to measure temperature changes within the flames. They found that the excitation temperature greatly exceeds the theoretical flame temperature and varies throughout the flame front. The results provide insight into the distribution of energy during combustion processes in low-pressure flames.
+scientific_discipline: Chemistry > Combustion and Flame

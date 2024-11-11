@@ -1,0 +1,10 @@
+article_id: rspa_1951_0063
+revised_title: Paramagnetic Resonance in Hydrated Cobalt Salts
+semantic_tags:
+  - Magnetic Resonance
+  - Cobalt Salts
+  - Crystal Field Theory
+  - Spin-Orbit Coupling
+  - Paramagnetism
+tldr: The authors develop a theory for paramagnetic resonance in hydrated cobalt salts, investigating the splitting of orbital levels by the crystalline field and the spin-orbit interaction. They calculate the energy levels and splitting factors, providing a theoretical basis for understanding the magnetic properties of these materials.
+scientific_discipline: Physics > Condensed Matter Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1971_0190
+revised_title: Experimental Generation and Properties of Double Kelvin Waves
+semantic_tags:
+  - Oceanography
+  - Fluid Dynamics
+  - Wave Motion
+  - Shallow Water Theory
+  - Rotating Model
+tldr: This article describes experiments conducted with a rotating model basin that confirm the existence of double Kelvin waves, a type of slow oscillation predicted by shallow-water theory. These waves can occur near zones where a bottom slope separates two regions of uniform depth. The energy is propagated along the contours of constant depth, and the theoretical dispersion relation is well verified. The effects of bottom contour curvature and energy loss due to viscous dissipation are also discussed.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

@@ -1,0 +1,10 @@
+article_id: 'rsta_1978_0049'
+revised_title: 'Rationalizing Radio Frequency Management for Improved Telecommunications'
+semantic_tags:
+  - Telecommunications
+  - Radio Frequency Management
+  - Spectrum Allocation
+  - Microwave Relay Systems
+  - Digital Transmission Systems
+scientific_discipline: Engineering and Technology > Telecommunications
+tldr: This article discusses the challenges and strategies for managing radio frequency space for radiocommunications between specified fixed points, particularly for point-to-point microwave links. The authors emphasize the importance of efficient spectrum management, considering technical, geographical, and functional aspects. They also explore the impact of new technologies and the need for planning to meet present and future needs.

@@ -1,0 +1,10 @@
+article_id: rspa_1927_0078
+revised_title: 'Euler's Polyhedral Theorem and Angle-Sums in n-Dimensional Spaces'
+semantic_tags:
+  - Geometry
+  - Polytopes
+  - Euler's Polyhedral Theorem
+  - n-Dimensional Spaces
+  - Angle-Sums
+tldr: The author investigates the relations connecting angle-sums and volume of a polytope in n-dimensional space, focusing on Euler's Polyhedral Theorem. They explore different types of angles and their measures, and derive equations connecting the volume and angle-sums of a simplex and a polytope. This work extends the understanding of angle-sums and volume in various dimensions and geometries.
+scientific_discipline: Mathematics > Geometry

@@ -1,0 +1,10 @@
+article_id: rsta_1952_0019
+revised_title: Methods of Evaluating Fundamental Coefficients for Vector-Coupled Schrödinger Integrals
+semantic_tags:
+  - Quantum Chemistry
+  - Schrödinger Equation
+  - Wave Functions
+  - Atomic Physics
+  - Computational Chemistry
+tldr: This article describes methods for evaluating the fundamental coefficients required for the expansion of vector-coupled Schrödinger integrals. The authors present efficient procedures for calculating these coefficients and provide a set of values for use in variational treatments of atoms more complex than fluorine. The article also includes expansions of a set of integrals between functions derived from single and double replacements, which are essential for atomic physics and computational chemistry.
+scientific_discipline: Physics > Quantum Mechanics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0228'
+revised_title: 'Genetic Basis of Fluctuating Asymmetry in Butterfly Eyespot Patterns'
+semantic_tags:
+  - Developmental Biology
+  - Genetics
+  - Butterfly Evolution
+  - Evolutionary Biology
+  - Wing Pattern Formation
+tldr: The authors studied the genetic basis of fluctuating asymmetry in the eyespot patterns of the butterfly Bicyclus anynana. They found no indication of heritable variation for asymmetry and no correlation in asymmetry across eyespots within individuals. However, a mutant allele specified a novel eyespot that tended to be more asymmetric. The results suggest caution in using fluctuating asymmetry as a measure of developmental stability.
+scientific_discipline: Biology and Life Sciences > Developmental Biology

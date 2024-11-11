@@ -1,0 +1,10 @@
+article_id: 111385
+revised_title: 'Gyroscope Theory and its Applications'
+semantic_tags:
+  - Gyroscopy
+  - Mechanics
+  - Physics
+  - Classical mechanics
+  - Rotational motion
+tldr: The author explains the movements and mathematical theory of the gyroscope, which is based on the principle of momentum conservation. When a force is applied to the axis of a rotating disc, some of the momentum is converted into a rotational momentum in a plane perpendicular to the force's direction. This phenomenon causes the gyroscope to oscillate and can be used in various applications, such as improving the accuracy of navigational instruments.
+scientific_discipline: Physics > Mechanics

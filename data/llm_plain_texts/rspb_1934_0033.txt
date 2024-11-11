@@ -1,0 +1,11 @@
+article_id: 'rspb_1934_0033'
+revised_title: 'Critique on the Biological Estimation of Amino Nitrogen: A Comprehensive Analysis'
+semantic_tags:
+  - Amino Acid Analysis
+  - Nitrogen Estimation
+  - Protein Chemistry
+  - Biochemical Analysis
+  - Plant Extracts
+tldr: This article critically examines three common methods for estimating amino nitrogen in complex fluid mixtures, discussing their limitations and proposing a more accurate approach for their application. The authors analyze the distribution of nitrogen in plant extracts and explore various methods of decolorization, ultimately concluding that electrodialysis is not suitable for routine analysis due to its inefficiency and potential for errors.
+scientific_discipline: Chemistry > Biochemistry
+```

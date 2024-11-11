@@ -1,0 +1,10 @@
+article_id: 'rspb_1962_0007'
+revised_title: 'The Reversion and Stability of Adaptive Enzymes in Bacteria'
+semantic_tags:
+  - Enzyme adaptation
+  - Microbiology
+  - Bacterial growth
+  - Enzyme stability
+  - Reversion phenomena
+tldr: The authors studied the reversion and stability of an adaptive enzyme in bacteria, specifically in \lt;italic\gt;Bact. lactis aerogenes\lt;/italic\gt;, when grown in D-arabinose. They found that the tenacity of adaptation increases with the length of exposure to D-arabinose, and that the bacteria develop this capacity rapidly during a few cell divisions. The loss of this capacity occurs gradually when grown in media that reverse the adaptation.
+scientific_discipline: Biology and Life Sciences > Microbiology

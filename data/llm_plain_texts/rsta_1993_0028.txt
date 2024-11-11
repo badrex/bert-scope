@@ -1,0 +1,10 @@
+article_id: rsta_1993_0028
+revised_title: Advances in Ring Spinning Theory and Its Practical Applications
+semantic_tags:
+  - Textile Engineering
+  - Spinning Mechanics
+  - Yarn Manufacturing
+  - Ring Spinning
+  - Textile Technology
+tldr: This article presents a comprehensive analysis of the mathematical model for balloon formation in the ring spinning process, exploring the relation between guide eye tension and traveller mass. The author identifies an important transition region in this dependence and examines its dependence on bobbin radius, balloon height, and air drag. The practical applications of the theory are discussed, and theoretical minimum traveller mass against balloon height curves are provided. The results of a simulation of one traverse of the ring rail up and down the conical chase of a cop-structured bobbin are also presented. The theory is then modified to allow for the presence of a control ring, and results showing the effect of the control ring on the guide eye tension against traveller mass dependence are presented.
+scientific_discipline: Engineering and Technology > Textile Engineering

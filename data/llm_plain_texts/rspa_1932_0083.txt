@@ -1,0 +1,10 @@
+article_id: rspa_1932_0083
+revised_title: 'A New Type of Thyratron Circuit for High-Speed Automatic Counting'
+semantic_tags:
+  - Electronics
+  - Thyratrons
+  - Counting circuits
+  - Physics
+  - High-speed counting
+tldr: The author presents a new type of thyratron circuit for high-speed automatic counting, which is simpler and more efficient than the previous "ring" type of circuit. The new circuit uses multiple units of two thyratrons in cascade to reduce the counting rate, allowing a mechanical meter to be used. This new counting method has important practical advantages and is more suitable for general counting purposes.
+scientific_discipline: Physics > Electronics

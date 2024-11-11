@@ -1,0 +1,10 @@
+article_id: 'rspb_1934_0060'
+revised_title: 'Surface Properties and Adsorption of Vitamin A Concentrates'
+semantic_tags:
+  - Surface chemistry
+  - Vitamin A
+  - Adsorption
+  - Organic molecules
+  - Langmuir trough
+tldr: This study investigates the surface properties and adsorption behavior of vitamin A concentrates. The authors found that vitamin A forms an insoluble film on water and can be adsorbed onto various solid surfaces. The adsorption depends on the nature of the solvent, with vitamin A being more readily adsorbed from non-polar solvents like cyclohexane. The recovered vitamin A from adsorbing surfaces appears to be unchanged, which could have implications for concentration and extraction methods. The study also provides insights into the molecular area and surface behavior of vitamin A concentrates.
+scientific_discipline: Chemistry > Surface chemistry

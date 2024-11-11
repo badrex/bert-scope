@@ -1,0 +1,10 @@
+article_id: 'rstb_1932_0014'
+revised_title: 'Photo-Electric Measurement of Light Penetration in the Sea and Its Physiological Implications'
+semantic_tags:
+  - Oceanography
+  - Photosynthesis
+  - Light penetration
+  - Photo-electric measurements
+  - Marine biology
+tldr: The authors conducted photo-electric measurements to determine the penetration of light of various wavelengths into the sea and its impact on photosynthesis. They developed a potentiometer method using a telephone as a null-point indicator to measure the current. The study found that light penetration was limited to the upper layers of the sea due to the action of phytoplankton, which caused the surface water to become more alkaline and reduce its phosphate content. This research has implications for understanding the growth of marine life and the impact of light on photosynthetic processes.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

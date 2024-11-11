@@ -1,0 +1,11 @@
+article_id: rspl_1881_0042
+revised_title: 'Reversal of Metallic Vapour Lines: Iron, Titanium, Chromium, and Aluminium'
+semantic_tags:
+  - Spectroscopy
+  - Metal Vapour Reversal
+  - Iron Spectral Lines
+  - Titanium Spectral Lines
+  - Chromium Spectral Lines
+  - Aluminium Spectral Lines
+tldr: The authors conducted experiments to reverse the lines of metallic vapours, specifically iron, titanium, chromium, and aluminium, by managing the atmosphere and supply of metal in the crucible. They observed the reversal of various spectral lines for each metal and provided a list of the reversed lines for each element. This research contributes to the understanding of the behaviour of metallic vapours in the electric arc and their spectroscopic properties.
+scientific_discipline: Physics > Spectroscopy

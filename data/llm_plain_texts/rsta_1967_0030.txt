@@ -1,0 +1,10 @@
+article_id: rsta_1967_0030
+revised_title: 'Doppler Geodetic System: Observational Accuracy and Analysis'
+semantic_tags:
+  - Satellite Geodesy
+  - Doppler Effect
+  - Orbital Analysis
+  - Positioning Systems
+  - Space Technology
+tldr: This article discusses the U.S. Navy's Doppler geodetic system, Tranet, and its observational accuracy. The system uses measurements of the Doppler shift in radio receptions from Earth satellites for geodetic research. The author describes the configuration and general operations of the system, as well as the various sources of observational error that contribute to the calculation of position from Doppler data. The current observational accuracy of the system is estimated to be around 10 for data from a single pass of a near Earth satellite.
+scientific_discipline: Engineering and Technology > Satellite Technology

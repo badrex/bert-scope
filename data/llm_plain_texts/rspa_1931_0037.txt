@@ -1,0 +1,10 @@
+article_id: rspa_1931_0037
+revised_title: The Role of Dilatancy in Granular Material Pressure
+semantic_tags:
+  - Soil Mechanics
+  - Earth Pressure
+  - Granular Materials
+  - Dilatancy
+  - Geotechnical Engineering
+tldr: The authors discovered that the pressure exerted by granular materials, such as sand, is influenced by the property of dilatancy, which refers to changes in the packing of the material's grains. They developed a model using steel discs to study the effects of dilatancy on the forces exerted by granular materials, providing a foundation for understanding earth pressure and improving theories in geotechnical engineering.
+scientific_discipline: Engineering and Technology > Geotechnical Engineering

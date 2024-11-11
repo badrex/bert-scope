@@ -1,0 +1,10 @@
+article_id: rspl_1897_0037
+revised_title: A New Method for Determining Vapour Pressures of Solutions
+semantic_tags:
+  - Vapour Pressure
+  - Solution Chemistry
+  - Thermodynamics
+  - Electrolytes
+  - Arrhenius Theory
+tldr: This article presents a new method for measuring the vapour tension of solutions, focusing on the chloride and bromide salts of potassium, sodium, lithium, calcium, and strontium. The authors compare their results with the theory of Svante Arrhenius and discuss the discrepancies observed in the electrolytes' behavior.
+scientific_discipline: Chemistry > Solution Chemistry

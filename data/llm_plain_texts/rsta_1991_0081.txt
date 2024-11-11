@@ -1,0 +1,10 @@
+article_id: rsta_1991_0081
+revised_title: Jet Physics Discoveries at the Large Electron Positron Collider
+semantic_tags:
+  - Particle Physics
+  - Jet Physics
+  - LEP Collider
+  - Quantum Chromodynamics
+  - Monte Carlo Simulations
+tldr: The authors present the results of jet physics studies conducted during the first year of operation at the Large Electron Positron Collider (LEP) at CERN. They summarize the measurements of the coupling constant and the detection of the triple gluon vertex. The authors also discuss the importance of further theoretical work and the use of Monte Carlo simulation programs to evaluate theoretical predictions. The results from various experiments are consistent but limited by theoretical uncertainties.
+scientific_discipline: Physics > Particle Physics

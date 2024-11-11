@@ -1,0 +1,10 @@
+article_id: rspa_1955_0274
+revised_title: 'Magneto-Hydrodynamics: Applications and Effects on Fluid Flow'
+semantic_tags:
+  - Magneto-hydrodynamics
+  - Fluid dynamics
+  - Electromagnetic flowmeters
+  - Boundary layers
+  - Turbulence
+tldr: This article discusses the effects of magneto-hydrodynamics on fluid flow, particularly in electromagnetic flowmeters. It explores how magneto-hydrodynamic forces affect the velocity profile of fluids and how the sensitivity of flowmeters depends on these factors. The article also examines the entry problem, boundary layers, and the transition to turbulence in fluid flow.
+scientific_discipline: Physics > Fluid Dynamics

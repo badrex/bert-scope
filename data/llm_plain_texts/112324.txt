@@ -1,0 +1,10 @@
+article_id: 112324
+revised_title: 'Effects of Railway Trains on Vibrations in Tunnels and Their Impact on Observatories'
+semantic_tags:
+  - Seismology
+  - Railway engineering
+  - Observatory safety
+  - Ground vibrations
+  - Tunnel construction
+tldr: This article discusses experiments conducted at Watford Tunnel to study the vibrations caused by railway trains passing through it. The author, James South, aimed to understand the potential impact on the Royal Observatory in Greenwich, which was at risk due to a proposed railway line. The study found that vibrations from trains extended laterally far beyond the tunnel and that the amount of disturbance was not solely dependent on the train's velocity and weight. The findings were crucial in ensuring the safety of the Royal Observatory and other observatories near railway lines.
+scientific_discipline: Environmental and Earth Sciences > Seismology

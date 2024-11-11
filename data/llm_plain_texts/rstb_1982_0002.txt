@@ -1,0 +1,10 @@
+article_id: 'rstb_1982_0002'
+revised_title: 'Neuroanatomy of Differentiated Neurons in Amphibian Embryo Spinal Cord'
+semantic_tags:
+  - 'Neuroanatomy'
+  - 'Spinal Cord'
+  - 'Neurons'
+  - 'Xenopus laevis'
+  - 'Embryonic Development'
+tldr: The authors used horseradish peroxidase to stain spinal cord neurons in Xenopus laevis embryos and identified nine differentiated neuron classes, including sensory Rohon-Beard cells, motoneurons, and various interneurons. This anatomical account provides a detailed description of the organization of neurons in the spinal cord, making the Xenopus embryo a promising model system for studying the nervous origins and bases for behavior.
+scientific_discipline: Biology and Life Sciences > Neurobiology

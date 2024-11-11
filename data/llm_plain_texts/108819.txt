@@ -1,0 +1,10 @@
+article_id: 108819
+revised_title: Temperature Influence on Electric Conductivity of Metals
+semantic_tags:
+  - Thermoelectricity
+  - Temperature effects
+  - Metal conductivity
+  - Electrical resistance
+  - Heat transfer
+tldr: The authors conducted experiments to understand the influence of temperature on the electric conducting power of metals. They used an oil bath to heat the metals and measured their resistance at different temperatures. The results showed that the conducting power of metals increases with temperature, which is important for understanding heat transfer and energy conversion in various applications.
+scientific_discipline: Physics > Thermoelectricity

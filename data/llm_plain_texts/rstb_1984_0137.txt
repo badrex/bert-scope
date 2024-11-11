@@ -1,0 +1,10 @@
+article_id: 'rstb_1984_0137'
+revised_title: 'High Efficiency Gene Transfer into Mammalian Cells: Applications and Techniques'
+semantic_tags:
+  - Gene expression
+  - Gene transfer
+  - Mammalian cells
+  - Promoter strength
+  - Transient assay system
+tldr: The authors developed a transient assay system to monitor the expression of foreign DNA in mammalian cells, allowing for the detection of single copy gene function. This system enabled the analysis of promoter strength and the optimization of transfection protocols for various cell types, leading to efficient stable transformation and gene expression.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

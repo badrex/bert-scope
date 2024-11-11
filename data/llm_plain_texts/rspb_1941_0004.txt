@@ -1,0 +1,10 @@
+article_id: 'rspb_1941_0004'
+revised_title: 'The Role of Glucuronic Acid in Pneumococcus Antiserum Reactions'
+semantic_tags:
+  - Immunology
+  - Pneumococcus
+  - Antiserum
+  - Glucuronic Acid
+  - Artificial Antigens
+tldr: The author conducted experiments with a glucuronide azo-protein to study its reaction with type II pneumococcus antiserum. They found that the presence of glucuronic acid or a closely related chemical grouping in the antiserum is responsible for its specificity towards the type II pneumococcus. The study supports the idea that the antibody contains combining areas with specific affinity for the determinant groups in the antigen, and that haptene molecules prevent access of the antigen by blocking the receptive areas of the antibody.
+scientific_discipline: Biology and Life Sciences > Immunology

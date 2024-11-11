@@ -1,0 +1,10 @@
+article_id: 'rsta_1992_0063'
+revised_title: 'Time-Resolved Macromolecular Crystallography: Development and Application of Photosensitive Caged Compounds'
+semantic_tags:
+  - Crystallography
+  - Macromolecular structure determination
+  - Photosensitive caged compounds
+  - Time-resolved structure analysis
+  - Protein-ligand interactions
+tldr: The article discusses the development and application of photosensitive caged compounds to aid time-resolved structure determination of macromolecules. These compounds enable dynamic structural analysis of enzyme-catalyzed reactions and protein-ligand interactions by rapidly and efficiently releasing biologically active molecules within crystals. The author presents practical considerations and examples relevant to studies of Ha-ras p21 and glycogen phosphorylase.
+scientific_discipline: Chemistry > Crystallography

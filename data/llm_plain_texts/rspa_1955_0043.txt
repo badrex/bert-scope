@@ -1,0 +1,10 @@
+article_id: rspa_1955_0043
+revised_title: Theoretical Analysis of Friction between Unlubricated Metals
+semantic_tags:
+  - Tribology
+  - Surface Science
+  - Adhesion
+  - Plastic Deformation
+  - Friction Models
+tldr: This article presents a theoretical analysis of friction between unlubricated metals, focusing on the junction model. The authors explain how stresses and deformations in junctions are determined during steady sliding and how the coefficient of friction is related to the average life cycle of a single junction. Plasticine model experiments are used to study the behavior of junctions and provide insights into the frictional forces at play.
+scientific_discipline: Engineering and Technology > Tribology

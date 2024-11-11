@@ -1,0 +1,10 @@
+article_id: 'rspb_1981_0005'
+revised_title: 'Color Opponency in Turtle Retina Ganglion Cells'
+semantic_tags:
+  - Retinal neuroscience
+  - Color vision
+  - Ganglion cells
+  - Bipolar cells
+  - Amacrine cells
+tldr: The study investigates color opponency in ganglion cells of the turtle retina. It discovers that type A ganglion cells, which receive only bipolar cell input, show color opponency. In contrast, type B ganglion cells, which receive a mixed bipolar and amacrine input, do not exhibit color opponency. The findings provide insights into the mechanisms of color vision in the turtle retina and the role of different types of retinal cells in processing visual information.
+scientific_discipline: Biology and Life Sciences > Neuroscience

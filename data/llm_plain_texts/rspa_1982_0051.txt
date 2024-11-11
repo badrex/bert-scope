@@ -1,0 +1,10 @@
+article_id: rspa_1982_0051
+revised_title: Continuous Random Network Model for Vitreous Boron Trioxide
+semantic_tags:
+  - Glass Science
+  - Boron Trioxide Structure
+  - X-ray Diffraction
+  - Neutron Diffraction
+  - Continuous Random Network Model
+tldr: The authors constructed a hand-built 'ball-and-stick' structural model for glassy boron trioxide (B2O3) to simulate its structure. The model, composed solely of -B2O3 triangles with no boroxol rings, had calculated scattering properties that agreed well with experimental X-ray and neutron data. The model's density was 17% higher than the experimental value, which could be reduced by incorporating a small proportion of boroxol units.
+scientific_discipline: Chemistry > Glass Science

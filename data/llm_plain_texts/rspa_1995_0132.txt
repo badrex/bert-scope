@@ -1,0 +1,10 @@
+article_id: rspa_1995_0132
+revised_title: 'Steady-State Heat Conduction Analysis for Two-Terminal Microwave Oscillator Devices with Rectangular Integral Heat Sinks'
+semantic_tags:
+  - Heat conduction
+  - Microwave oscillators
+  - Heat sink design
+  - Thermal conductivity
+  - Temperature distribution
+tldr: The authors present a theoretical analysis to calculate the steady-state temperature distribution within a rectangular prism mounted on a semi-infinite heat sink for two-terminal microwave oscillator devices. They consider the thermal conductivity of the material as temperature-dependent and provide results showing how the maximum temperature rise within heat sink packages depends on the input heat flux and the dimensions and thermal conductivity of the materials.
+scientific_discipline: Engineering and Technology > Heat Transfer

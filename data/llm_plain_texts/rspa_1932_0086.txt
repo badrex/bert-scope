@@ -1,0 +1,10 @@
+article_id: rspa_1932_0086
+revised_title: 'Experimental Study of Alpha-Particle Ranges from Radioactive Emanations and Products'
+semantic_tags:
+  - Alpha particles
+  - Radioactive decay
+  - Nuclear physics
+  - Emanations
+  - Radioactive substances
+tldr: The authors conducted experiments to analyze the ranges of alpha particles emitted by various radioactive substances, including emanations and products from radium, thorium, and actinium, as well as polonium. They used a differential ionization chamber and automatic counter to measure the mean ranges of the alpha particles and found that the -rays from actinium-A form a single homogeneous group, while those from actinon consist of two groups. This research contributes to the understanding of radioactive transformations and the properties of alpha particles.
+scientific_discipline: Physics > Nuclear Physics

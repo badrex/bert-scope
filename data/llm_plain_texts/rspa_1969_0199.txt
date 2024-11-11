@@ -1,0 +1,10 @@
+article_id: rspa_1969_0199
+revised_title: Cosmic X-ray Astronomy: Future Requirements and Techniques
+semantic_tags:
+  - X-ray Astronomy
+  - Space Science
+  - Astrophysics
+  - Astronomy Techniques
+  - Cosmic Ray Sources
+tldr: This article discusses the future requirements and techniques for cosmic X-ray astronomy. It highlights the need for improved sensitivity, signal-to-noise ratio, and spectral and spatial resolution. The author also presents various detection systems, such as gas photon counters, modulation collimators, and Fresnel masks, that can be used for X-ray astronomy.
+scientific_discipline: Physics > Astronomy

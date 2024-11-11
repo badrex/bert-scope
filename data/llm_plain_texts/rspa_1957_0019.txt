@@ -1,0 +1,10 @@
+article_id: rspa_1957_0019
+revised_title: 'Mechanism of Photolysis of Acetamide: Hydrogen Abstraction and Radical Reactions'
+semantic_tags:
+  - Photolysis
+  - Acetamide
+  - Hydrogen abstraction
+  - Radical reactions
+  - Methyl radicals
+tldr: The authors investigated the photolysis of acetamide and found that the main primary process is the breakdown of the molecule into CH3 and CONHa radicals. Methyl radicals react with acetamide and CONH2 radicals to produce methane, while CONH2 radicals can decompose into CO and NH2 radicals. The subsequent reaction of NH2 radicals with acetamide results in ammonia production.
+scientific_discipline: Chemistry > Organic Chemistry

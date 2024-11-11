@@ -1,0 +1,10 @@
+article_id: 112257
+revised_title: 'Strains in Beams: A Theory and Applications'
+semantic_tags:
+  - Structural Engineering
+  - Mechanics
+  - Calculus of Variations
+  - Beam Theory
+  - Civil Engineering
+tldr: The author presents a theory for calculating strains in beams and applies it to various scenarios, such as beams supported at both ends or projecting from a wall. The theory uses the Calculus of Variations and provides numerical values for the principal forces and angles in different cases, helping to understand the behavior of beams under stress.
+scientific_discipline: Engineering and Technology > Structural Engineering

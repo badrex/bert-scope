@@ -1,0 +1,10 @@
+article_id: rspa_1988_0118
+revised_title: Parametric Foucault Pendulum and Its Perturbations: A Review
+semantic_tags:
+  - Foucault pendulum
+  - Parametric excitation
+  - Perturbations
+  - General Relativity
+  - Gravitomagnetic effect
+scientific_discipline: Physics > Mechanics
+tldr: The author investigates the parametrically maintained Foucault pendulum and its perturbations. They analyze how parametric excitation helps overcome issues like elliptical orbits and anharmonicity, which can affect the ideal precession rate. The study also discusses the potential for using a Foucault pendulum to verify the Thirring-Lense effect predicted by General Relativity.

@@ -1,0 +1,10 @@
+article_id: rsta_1908_0003
+revised_title: Refractive Indices of Gaseous Potassium, Zinc, Cadmium, Mercury, Arsenic, Selenium, and Tellurium
+semantic_tags:
+  - Atomic physics
+  - Refractive index
+  - Spectroscopy
+  - Chemical elements
+  - Physical chemistry
+tldr: The authors conducted experiments to measure the refractive indices of gaseous potassium, zinc, cadmium, mercury, arsenic, selenium, and tellurium using a refractometer. They found that the refractive index of potassium is less than one for both 5460 and 6562 wavelengths, and discussed the challenges they faced in measuring the refractive indices of alkali elements due to chemical difficulties. The study provides valuable insights into the optical properties of these elements and their potential applications in atomic physics and physical chemistry.
+scientific_discipline: Physics > Atomic physics

@@ -1,0 +1,10 @@
+article_id: rspa_1959_0032
+revised_title: Excited States of First Row Hydrides: BH, CH, NH, OH, and FH
+semantic_tags:
+  - Quantum Chemistry
+  - Molecular Orbital Theory
+  - Atomic Physics
+  - Electronic Structure
+  - Excited States
+tldr: This article investigates the excited states of the first row hydrides (BH, CH, NH, OH, and FH) using ab initio orbital calculations. The calculations predict vertical excitation energies and oscillator strengths of allowed transitions from the ground states. The results show that the inclusion of atomic electron correlation significantly improves the accuracy of the calculated excitation energies. The author discusses possible improvements in the accuracy of the calculations and the limitations of the methods used.
+scientific_discipline: Chemistry > Quantum Chemistry

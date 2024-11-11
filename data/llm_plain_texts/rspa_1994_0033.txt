@@ -1,0 +1,10 @@
+article_id: rspa_1994_0033
+revised_title: 'Failure Assessment Diagrams: The Use of Single Failure Assessment Lines'
+semantic_tags:
+  - Fracture Mechanics
+  - Failure Assessment Diagrams
+  - Ductile Tearing Instability
+  - R6-O3 Failure Assessment Line Family
+  - -Curve Analysis
+tldr: This article discusses the use of single failure assessment lines in failure assessment diagrams, specifically focusing on the R6-O3 procedure. The authors analyze the natural mapping between the -curve analysis plane and the R6-O3 failure assessment diagram, and demonstrate how to derive implied -curves and implied applied curves from a single failure assessment line. The article also examines the consistency and conservatism of analyses of ductile tearing instability using a single failure assessment line.
+scientific_discipline: Engineering and Technology > Materials Science and Engineering

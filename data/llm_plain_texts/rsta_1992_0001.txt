@@ -1,0 +1,10 @@
+article_id: rsta_1992_0001
+revised_title: Amplitude Dynamics and Crisis in Resonant Motion of Stretched Strings
+semantic_tags:
+  - Nonlinear Dynamics
+  - String Theory
+  - Resonance
+  - Averaging Theory
+  - Chaos Theory
+tldr: This article investigates the amplitude dynamics and crisis in resonant motion of stretched strings using an -mode truncation of the equations governing the resonantly forced nonlinear motions. The method of averaging is employed to study the weakly nonlinear dynamics, revealing complex phenomena such as isolated solution branches, Hopf bifurcations, and chaotic attractors. The study also explores the connections between the solutions of the averaged equations and those of the original equations, providing insights into the behavior of the string's dynamics.
+scientific_discipline: Mathematics > Nonlinear Dynamics

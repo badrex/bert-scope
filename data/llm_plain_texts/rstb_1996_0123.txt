@@ -1,0 +1,10 @@
+article_id: 'rstb_1996_0123'
+revised_title: 'Executive Functions of Prefrontal Cortex: Working Memory and Executive Control'
+semantic_tags:
+  - Cognitive Psychology
+  - Working Memory
+  - Executive Control
+  - Prefrontal Cortex
+  - Dual-Task Performance
+tldr: This article discusses the executive functions of the prefrontal cortex, specifically focusing on working memory and executive control. The authors propose that the central executive component of working memory can provide a framework for analyzing executive processes. They illustrate this approach using the capacity to combine two concurrent tasks and discuss its application to patients with Alzheimer's disease and those with acquired brain damage. The study shows that patients with known frontal lesions have difficulty with dual-task performance, which is associated with observed behavioral problems.
+scientific_discipline: Psychology > Cognitive Psychology

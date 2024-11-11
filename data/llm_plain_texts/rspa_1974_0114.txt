@@ -1,0 +1,10 @@
+article_id: rspa_1974_0114
+revised_title: Cosmic-Ray Air Showers: Proton Initiated Shower Characteristics
+semantic_tags:
+  - Cosmic Rays
+  - Air Showers
+  - Particle Physics
+  - High-Energy Interactions
+  - Astrophysics
+tldr: The authors conducted computer simulations of cosmic-ray air showers initiated by primary protons, studying their average characteristics and energy range. They used a simple model for high-energy interactions and various computational techniques to analyze the data. The simulations aimed to aid the design of future experiments to identify the mass number of energetic primaries and improve our understanding of the development of air showers.
+scientific_discipline: Physics > Particle Physics

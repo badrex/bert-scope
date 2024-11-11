@@ -1,0 +1,10 @@
+article_id: rspa_1983_0092
+revised_title: Penrose's Quasi-Local Mass Construction in Various Space-Times
+semantic_tags:
+  - General Relativity
+  - Twistor Theory
+  - Quasi-Local Mass
+  - Two-Surface Twistor Space
+  - Space-Time Geometry
+tldr: The author calculates Penrose's quasi-local mass for various two-surfaces in different space-times, such as spherically symmetric surfaces in spherically symmetric space-time, and compares it with other mass definitions like Hawking's and Komar's. The study aims to understand the flux of mass, momentum, and angular momentum threading through two-surfaces in curved space-time using Penrose's construction.
+scientific_discipline: Physics > General Relativity

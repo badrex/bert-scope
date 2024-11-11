@@ -1,0 +1,10 @@
+article_id: rspa_1929_0112
+revised_title: Advancements in X-ray Spectroscopy for Elemental Analysis
+semantic_tags:
+  - X-ray spectroscopy
+  - Elemental analysis
+  - Chemical analysis
+  - Atomic structure
+  - Material science
+tldr: The authors explore the potential of X-ray spectroscopy for elemental analysis, discussing its advantages and limitations. They demonstrate that X-ray spectroscopy is more sensitive and accurate than optical spectroscopy, allowing for the detection of elements in trace amounts. The authors also address the challenges and future improvements for the X-ray spectroscopy method.
+scientific_discipline: Physics > Material Science

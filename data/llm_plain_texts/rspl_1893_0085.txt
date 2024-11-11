@@ -1,0 +1,10 @@
+article_id: rspl_1893_0085
+revised_title: 'On the Whirling and Vibration of Shafts: Analyzing Loaded and Unloaded Shafting'
+semantic_tags:
+  - Mechanical Engineering
+  - Vibration Analysis
+  - Shaft Dynamics
+  - Fluid Mechanics
+  - Applied Mathematics
+tldr: This article investigates the whirling and vibration of shafts, focusing on the effects of loaded and unloaded shafting. The author presents formulas and equations to calculate the whirling speed and period of disturbance, providing insights into the behavior of shafts under various conditions. The study has implications for the design and maintenance of machinery and equipment.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

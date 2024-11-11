@@ -1,0 +1,10 @@
+article_id: 'rsta_1941_0002'
+revised_title: 'Asymptotic Expansion of Integral Functions Defined by Taylor Series'
+semantic_tags:
+  - Asymptotic Expansions
+  - Integral Functions
+  - Taylor Series
+  - Mathematical Analysis
+  - Complex Analysis
+tldr: This article presents the asymptotic expansion of integral functions defined by Taylor series. The authors develop a method to analyze these functions and provide a proof based on three lemmas. The results have implications for mathematical analysis and complex analysis.
+scientific_discipline: Mathematics > Analysis

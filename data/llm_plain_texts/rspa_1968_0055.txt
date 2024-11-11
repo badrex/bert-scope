@@ -1,0 +1,10 @@
+article_id: rspa_1968_0055
+revised_title: "Four-Spinor Calculus and Lorentz Transformations in Six Dimensions"
+semantic_tags:
+  - Spinors
+  - Dirac Algebra
+  - Lorentz Transformations
+  - Six-Dimensional Calculus
+  - Riemann Space
+tldr: This article explores the calculus of four-spinors and their association with Lorentz transformations in six dimensions. The author establishes an explicit and covariant law of multiplication for the Dirac algebra and provides a systematic development of the four-spinor calculus. The theory is further extended to Riemann space, and a six-dimensional calculus is introduced, suggesting potential applications in physical theories.
+scientific_discipline: Mathematics > Linear Algebra and Vector Spaces

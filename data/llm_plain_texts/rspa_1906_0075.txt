@@ -1,0 +1,10 @@
+article_id: 'rspa_1906_0075'
+revised_title: 'Determination of Wavelengths from Solar Eclipses Spectra'
+semantic_tags:
+  - Solar Physics
+  - Spectroscopy
+  - Eclipses
+  - Chromosphere
+  - Corona
+tldr: This paper presents the wavelengths deduced from the measurements of chromosphere and corona photographs obtained during three total solar eclipse expeditions from the Royal Observatory, Greenwich. The spectra range from 3300 to 5875 wavelengths, and the study identifies nearly all the brighter lines of the chromosphere with high certainty. The paper also compares the intensities of corresponding lines in spark, arc, and solar spectra, as well as the wavelengths and intensities of lines in the higher chromosphere spectrum and the corona spectra from the three eclipses.
+scientific_discipline: Physics > Astronomy

@@ -1,0 +1,10 @@
+article_id: rspa_1987_0026
+revised_title: A Stochastic Model of Sea-Surface Roughness: Wave Crests
+semantic_tags:
+  - Oceanography
+  - Wave mechanics
+  - Sea surface roughness
+  - Wave growth
+  - Wave breaking
+tldr: The author presents a stochastic model of sea-surface roughness that takes into account the randomness of both long and short waves. The model includes long-wave-short-wave interactions, dissipation of short-wave energy by breaking, and regeneration by the wind. The author calculates the effects of wind speed and long-wave steepness on the distribution of roughness at the long-wave crests and discusses the importance of both growth and dissipation in achieving a statistically steady state.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

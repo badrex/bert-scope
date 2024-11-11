@@ -1,0 +1,10 @@
+article_id: rsta_1981_0058
+revised_title: 'Supercritical Gas Extraction of Low-Rank UK Coals: Chemical Nature and Structural Analysis'
+semantic_tags:
+  - Coal chemistry
+  - Supercritical fluid extraction
+  - Chemical feedstocks
+  - Hydrocracking
+  - Coal liquefaction
+tldr: This article discusses the development of two processes by the National Coal Board for producing liquid products from coal, particularly transport fuels and chemical feedstocks. One process uses a compressed supercritical gas as a solvent, while the other uses a process-derived liquid. The chemical nature and average structures of the extracts obtained through supercritical gas extraction from low-rank UK coals are investigated, revealing small aromatic clusters joined by methylene, ether, and diphenyl linkages. These findings contribute to understanding the potential of supercritical gas solvents in coal extraction and conversion processes.
+scientific_discipline: Chemistry > Chemical Engineering

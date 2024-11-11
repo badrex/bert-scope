@@ -1,0 +1,10 @@
+article_id: 111310
+revised_title: 'Exploration of Magnetic and Helicoidal Effects on Polarized Light'
+semantic_tags:
+  - Electromagnetism
+  - Light polarization
+  - Faraday's law
+  - Magnetic fields
+  - Heterogeneous materials
+tldr: The author, W. Thomson, explores the dynamic interactions between magnetic fields and polarized light. He explains how the rotation of the plane of polarization in light passing through magnetized materials is due to the elastic reactions of the strained medium. This discovery supports Ampere's explanation of magnetism and provides a definition of magnetization in the dynamical theory of heat.
+scientific_discipline: Physics > Electromagnetism

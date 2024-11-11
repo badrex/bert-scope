@@ -1,0 +1,10 @@
+article_id: 'rspa_1938_0020'
+revised_title: 'Significance Tests for Continuous Departures from Suggested Distributions'
+semantic_tags:
+  - Statistical Analysis
+  - Hypothesis Testing
+  - Probability Distributions
+  - Sampling Theory
+  - Statistical Inference
+tldr: 'The author presents a method for testing the significance of continuous departures from suggested distributions of chance. The method allows for the consideration of various types of departures, such as linear or harmonic, and provides a way to determine the likelihood of these departures based on the observed data. The author also discusses the importance of accurate estimation and the potential impact of grouping data on the results of significance tests.'
+scientific_discipline: Mathematics > Statistics

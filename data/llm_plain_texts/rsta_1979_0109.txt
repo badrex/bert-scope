@@ -1,0 +1,10 @@
+article_id: rsta_1979_0109
+revised_title: Light Scattering Studies in Physics, Chemistry, and Biology
+semantic_tags:
+  - Light scattering
+  - Liquid dynamics
+  - Molecular structure
+  - Raman spectroscopy
+  - Rayleigh scattering
+tldr: This article discusses light scattering studies in physics, chemistry, and biology, focusing on the dynamics and structure of liquids. The authors explain how the polarizability density of a liquid can be expressed in terms of intrinsic molecular polarizability and intermolecular interactions, which give rise to components of the light scattering spectrum. They also explore the separation of single and many-molecule correlation functions, and the use of Raman and Rayleigh spectra to study liquid structure and molecular motions.
+scientific_discipline: Physics > Optics

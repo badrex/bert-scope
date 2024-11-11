@@ -1,0 +1,10 @@
+article_id: rspa_1963_0211
+revised_title: Sedimentation and Electrophoresis of Interacting Substances: Reversible Aggregation with Concentration-Dependent Sedimentation Coefficients
+semantic_tags:
+  - Ultracentrifugation
+  - Protein aggregation
+  - Sedimentation coefficients
+  - Diffusion
+  - Boundary profile
+scientific_discipline: Chemistry > Physical Chemistry
+tldr: The authors discuss the sedimentation of a reversibly aggregating substance in solution, taking into account concentration-dependent sedimentation coefficients and the effect of non-aggregating impurities. They present a theoretical model and compare it with experimental results for -lactoglobulin, demonstrating the importance of considering concentration dependence and diffusion in understanding protein aggregation and sedimentation.

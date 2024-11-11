@@ -1,0 +1,10 @@
+article_id: 'rspb_1994_0126'
+revised_title: 'Computer Image Analysis in Ant Behavior Patterns'
+semantic_tags:
+  - Ant behavior
+  - Image analysis
+  - Nest architecture
+  - Brood distribution
+  - Social insects
+tldr: Researchers used computer image analysis to study the spatial distribution of activity inside ant nests. They found that activity is dependent on nest architecture and changes when ants construct their own nests. The study suggests that spatial patterns may be crucial in the organization of ant colonies, as they can influence the allocation of brood care and task distribution.
+scientific_discipline: Biology and Life Sciences > Entomology

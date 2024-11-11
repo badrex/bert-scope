@@ -1,0 +1,10 @@
+article_id: rspa_1980_0144
+revised_title: 'Nonlinear Stability Analysis of Finite-Amplitude Cellular Convection in Porous Layers'
+semantic_tags:
+  - Convection
+  - Porous Media
+  - Heat Transfer
+  - Fluid Dynamics
+  - Geothermal Energy
+tldr: The authors investigate the local nonlinear stability of thermal convection in fluid-saturated porous media subjected to an adverse temperature gradient. They determine the critical Rayleigh number at the onset of convection and the corresponding heat transfer. The study focuses on the form and amplitude of convection, preferred cell patterns, and the effect of the Prandtl number on the motion. The results show good agreement with available experimental data and provide insights into heat transport in geothermal regions.
+scientific_discipline: Environmental and Earth Sciences > Geothermal Energy and Porous Media

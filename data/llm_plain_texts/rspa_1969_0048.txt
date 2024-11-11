@@ -1,0 +1,10 @@
+article_id: rspa_1969_0048
+revised_title: 'Theoretical Study of Electrical Conduction in Ultra-Thin Metal Films'
+semantic_tags:
+  - Thin film physics
+  - Quantum mechanical electron tunnelling
+  - Thermionic emission theory
+  - Electrical properties of substrates
+  - Metal film conduction mechanisms
+tldr: This article presents a theoretical model to explain the transport of charge in ultra-thin metal films using quantum mechanical electron tunnelling and thermionic emission theory. The current density in the film is determined by its structure, the electrical properties of the substrate, the applied voltage, and the temperature. The study shows that for typical aggregated metal films, conduction is by electron tunnelling, and the tunnelling path is through the substrate. The model is useful for understanding the resistivity and temperature coefficient of these films.
+scientific_discipline: Physics > Condensed Matter Physics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1978_0009'
+revised_title: 'Sarcomere Length Non-Uniformity and Tetanic Responses in Stretched Skeletal Muscle Fibers'
+semantic_tags:
+  - Muscle Contraction
+  - Sarcomere Length
+  - Tetanic Tension
+  - Skeletal Muscle Fibers
+  - Sliding Filament Theory
+tldr: The authors conducted experiments on skeletal muscle fibers to study the relationship between sarcomere length non-uniformity and tetanic responses. They found that tetanic tensions were inversely proportional to sarcomere length, and that the sliding filament, cross-bridge theory of muscle contraction is supported by these findings. The results also showed that sarcomere length non-uniformity worsens during a tetanus due to the negative slope of the length-tension relation.
+scientific_discipline: Biology and Life Sciences > Muscle Contraction

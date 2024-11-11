@@ -1,0 +1,10 @@
+article_id: rspa_1988_0083
+revised_title: Asymmetric Slip and Plastic Relaxation at a Crack Tip
+semantic_tags:
+  - Fracture mechanics
+  - Plasticity
+  - Asymmetric slip
+  - Crack tip relaxation
+  - Dislocation theory
+tldr: The authors study the relaxation at a crack tip due to asymmetric slip, considering a plane crack in an infinite medium under plane strain or plane stress conditions. They analyze the relations between the applied stress, friction stress on the slip band, and the angle of slip, providing insights into the behavior of cracks and potential applications in fatigue propagation near threshold.
+scientific_discipline: Engineering and Technology > Materials Science and Engineering

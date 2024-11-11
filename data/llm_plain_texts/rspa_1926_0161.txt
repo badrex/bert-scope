@@ -1,0 +1,10 @@
+article_id: rspa_1926_0161
+revised_title: 'In-Depth Analysis of the Secondary Hydrogen Spectrum and Band Systems'
+semantic_tags:
+  - Atomic Spectroscopy
+  - Quantum Mechanics
+  - Hydrogen Spectrum
+  - Band Systems
+  - Rydberg-Ritz Formula
+tldr: The author investigates the structure of the secondary hydrogen spectrum and identifies various band systems associated with Fulcher's bands. They propose a Rydberg-Ritz formula to connect the null lines of these band systems and explain the observed effects in terms of electron jumps and vibration jumps. The study provides a detailed analysis of the bands, their properties, and the relationships between them, contributing to a better understanding of atomic spectroscopy and quantum mechanics.
+scientific_discipline: Physics > Atomic and Molecular Physics

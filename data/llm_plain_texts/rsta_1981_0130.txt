@@ -1,0 +1,10 @@
+article_id: 'rsta_1981_0130'
+revised_title: 'Gamma-Ray Astronomy: Gamma-Rays from Cosmic-Ray Irradiated Molecular Clouds'
+semantic_tags:
+  - Gamma-Ray Astronomy
+  - Cosmic Rays
+  - Molecular Clouds
+  - Astrophysics
+  - Stellar Winds
+tldr: This article examines the contribution of discrete sources of gamma-rays from cosmic rays interacting with molecular clouds in the galaxy. It focuses on nearby clouds and a Monte-Carlo analysis of general clouds. The authors compare their findings with previous experiments and discuss the possibility of stellar winds causing gamma-rays. They present evidence against this idea using the Orion nebula and the Gum nebula.
+scientific_discipline: Astronomy > Astrophysics

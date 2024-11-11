@@ -1,0 +1,10 @@
+article_id: rspa_1975_0022
+revised_title: 'Wave Growth on Thin Sheets of Non-Newtonian Liquids: A Simplified Analysis'
+semantic_tags:
+  - Fluid Dynamics
+  - Non-Newtonian Fluids
+  - Wave Growth
+  - Viscosity
+  - Sheet Flows
+tldr: This study investigates wave growth on thin sheets of non-Newtonian liquids, considering both the viscosity of the liquid and the surrounding gas. The research finds that liquid viscosity has no effect on the initial growth of sinuous waves and that the region of instability extends over a greater range of wave frequencies than the inviscid theory predicts. The findings challenge previous theories and provide a more accurate understanding of wave growth in thin liquid sheets.
+scientific_discipline: Physics > Fluid Dynamics

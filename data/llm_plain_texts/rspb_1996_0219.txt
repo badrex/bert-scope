@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0219'
+revised_title: 'Neural Correlates of Object Recognition and Naming'
+semantic_tags:
+  - Cognitive Neurology
+  - Neuroimaging
+  - Brain Function
+  - Object Recognition
+  - Language Processing
+tldr: This study uses positron emission tomography to identify the neural regions involved in object recognition and naming. The results show that object recognition is associated with the left middle occipital and bilateral anterior temporal cortices, while naming engages the left posterior basal temporal lobe and the left prefrontal cortex. The study also identifies areas specific to object naming and color naming, providing insights into the neural correlates of phonological retrieval and object recognition.
+scientific_discipline: Neuroscience > Cognitive Neurology

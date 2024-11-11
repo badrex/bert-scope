@@ -1,0 +1,10 @@
+article_id: 'rspb_1978_0084'
+revised_title: 'Kainic Acid's Effect on Synaptic Transmission in the Stellate Ganglion of the Squid'
+semantic_tags:
+  - Neurotransmitters
+  - Synaptic transmission
+  - Kainic acid
+  - Glutamate
+  - Squid neuroscience
+tldr: The study investigates the impact of kainic acid on synaptic transmission in the stellate ganglion of the squid. It shows that kainic acid blocks synaptic transmission by interacting with the postsynaptic receptors, which are normally activated by the transmitter. This results in a diminished effect of the transmitter released by a presynaptic nerve impulse.
+scientific_discipline: Biology and Life Sciences > Neuroscience

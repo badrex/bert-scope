@@ -1,0 +1,10 @@
+article_id: 'rspb_1956_0056'
+revised_title: 'Simultaneous Diffusion and Chemical Reaction in Thin Haemoglobin Layers'
+semantic_tags:
+  - Biochemistry
+  - Hemoglobin
+  - Diffusion
+  - Chemical Reaction
+  - Mathematical Modeling
+tldr: 'The authors developed a mathematical model to study the simultaneous diffusion and chemical reaction in thin layers of haemoglobin solution. They used iterative methods to solve the equations and found that a value of 4 for the parameter was satisfactory for cases where the rate of change of haemoglobin was fairly slow.'
+scientific_discipline: Biology and Life Sciences > Biochemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1963_0205
+revised_title: "Experimental Study of the Fermi Surface of Magnesium: De Haas-van Alphen Effect"
+semantic_tags:
+  - Fermi surface
+  - Magnesium
+  - De Haas-van Alphen effect
+  - Band structure calculation
+  - Orthogonalized plane waves
+scientific_discipline: Physics > Solid State Physics
+tldr: The authors conducted an experimental study of the Fermi surface of magnesium using the de Haas-van Alphen effect. They measured the periods of oscillations as a function of magnetic field orientation, cyclotron masses at symmetry directions, and collision relaxation time. The data was compared with Falicov's theoretical model derived from an orthogonalized plane waves band structure calculation. The study found good agreement when considering magnetic breakdown, and revealed the existence of a new type of electron trajectory that is self-intersecting.

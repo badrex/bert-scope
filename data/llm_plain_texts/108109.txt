@@ -1,0 +1,10 @@
+article_id: 108109
+revised_title: 'Improvements in Barometer Design and Measurement Techniques'
+semantic_tags:
+  - Barometer
+  - Atmospheric pressure
+  - Meteorology
+  - Instrumentation
+  - Temperature correction
+tldr: The author describes a new barometer design with two separate glass tubes, one made of flint glass and the other of crown glass, to compare their effects on mercury. The author also explains the process of correcting observed height measurements for temperature, capillary attraction, and elevation above sea level. This new barometer serves as a standard for more accurate and reliable atmospheric pressure measurements.
+scientific_discipline: Physics > Meteorology

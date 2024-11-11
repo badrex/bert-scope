@@ -1,0 +1,10 @@
+article_id: rspa_1948_0065
+revised_title: Intensity Measurements and Blackening Curves in Soft X-ray Spectroscopy
+semantic_tags:
+  - X-ray spectroscopy
+  - Intensity measurements
+  - Soft X-rays
+  - Photographic plates
+  - Blackening curves
+tldr: The authors developed a method to measure intensity distribution in soft X-ray regions without assuming the photographic reciprocity law. They obtained characteristic blackening curves for photographic plates and examined the K emission bands of graphite, lampblack, diamond, and carborundum. This study provides a better understanding of the energy distribution of valence electrons in solids and improves the accuracy of soft X-ray spectroscopy.
+scientific_discipline: Physics > Optics

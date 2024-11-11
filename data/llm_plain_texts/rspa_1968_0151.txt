@@ -1,0 +1,10 @@
+article_id: 'rspa_1968_0151'
+revised_title: 'Nonlinear Klein-Gordon Equation Time Decay'
+semantic_tags:
+  - Nonlinear Partial Differential Equations
+  - Klein-Gordon Equation
+  - Energy Decay
+  - Mathematical Physics
+  - Wave Equations
+tldr: The authors prove that solutions of the nonlinear Klein-Gordon equation decay to zero in the local mean if the initial data is bounded, provided the local energy also decays. The proof is based on manipulating energy identities and requires the solution to have continuous first derivatives and piecewise continuous second derivatives. This work has implications for understanding the behavior of certain systems of equations.
+scientific_discipline: Mathematics > Partial Differential Equations

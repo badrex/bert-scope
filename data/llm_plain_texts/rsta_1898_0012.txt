@@ -1,0 +1,10 @@
+article_id: rsta_1898_0012
+revised_title: Platinum Surface Emissivity at High Temperatures
+semantic_tags:
+  - Thermodynamics
+  - Heat transfer
+  - Emissivity
+  - Platinum
+  - High-temperature materials
+tldr: This article investigates the heat dissipated by a platinum surface at high temperatures. The author examines the emissivity of platinum in various gases, such as air, hydrogen, carbon dioxide, oxygen, and steam, and discusses the effects of pressure and temperature on the emissivity. The findings contribute to the understanding of heat transfer and material properties at high temperatures.
+scientific_discipline: Physics > Thermodynamics

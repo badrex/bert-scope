@@ -1,0 +1,10 @@
+article_id: 112561
+revised_title: On the Communication of Vibration and Sound in Gases
+semantic_tags:
+  - Acoustics
+  - Gas dynamics
+  - Sound propagation
+  - Vibrations
+  - Fluid mechanics
+tldr: G.G. Stokes investigates the communication of vibration from a vibrating body to surrounding gases, focusing on the role of sound wave propagation and the velocity of sound in different gases. He provides mathematical solutions for specific cases, such as a vibrating sphere and an infinite cylinder, and explains the implications for musical instruments and the experiments of John Leslie.
+scientific_discipline: Physics > Acoustics

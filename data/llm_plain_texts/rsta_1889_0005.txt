@@ -1,0 +1,10 @@
+article_id: rsta_1889_0005
+revised_title: The Development and Improvement of the Radio-Micrometer
+semantic_tags:
+  - Thermoelectricity
+  - Instrumentation
+  - Physics
+  - Sensitivity
+  - Measurement
+tldr: The author describes the development and improvement of the radio-micrometer, a sensitive instrument used to measure radiant energy. They discuss the choice of materials, the design of the instrument, and the factors affecting its sensitivity and quickness. The radio-micrometer is an important tool for studying the properties of heat and light.
+scientific_discipline: Physics > Instrumentation

@@ -1,0 +1,10 @@
+article_id: rspa_1968_0148
+revised_title: 'Stratified Fluid Flow Past a Finite Flat Plate: Slow Viscous Flow Analysis'
+semantic_tags:
+  - Fluid Dynamics
+  - Viscosity
+  - Stratified Fluids
+  - Boundary Layer
+  - Fluid Mechanics
+tldr: The study investigates the slow flow of a viscous, linearly stratified fluid past a finite flat plate, considering the balance between viscous and buoyancy forces. The research focuses on the upstream boundary layer, the trailing edge of the plate, and the decay of the velocity in the upstream wake. The findings provide insights into the skin friction near the leading and trailing edges of the plate and show good agreement with experimental results.
+scientific_discipline: Physics > Fluid Mechanics

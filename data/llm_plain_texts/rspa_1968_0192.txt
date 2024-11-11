@@ -1,0 +1,10 @@
+article_id: rspa_1968_0192
+revised_title: Characteristic Functions of Functions and Their Applications
+semantic_tags:
+  - Probability Theory
+  - Mathematical Analysis
+  - Fourier Transform
+  - Statistics
+  - Random Variables
+tldr: The article discusses the characteristic functions of various functions of a real or vector random variable. It explores the use of these functions in expressing the distribution of powers, logarithms, exponentials, quadratic forms, and sets of quadratic forms. The author also demonstrates the application of characteristic functions in understanding the distribution of products and quotients of random variables.
+scientific_discipline: Mathematics > Probability Theory

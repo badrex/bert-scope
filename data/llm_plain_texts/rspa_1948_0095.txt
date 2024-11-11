@@ -1,0 +1,10 @@
+article_id: rspa_1948_0095
+revised_title: 'Turbulence Decay in the Final Period: Analyzing Asymptotic Solutions'
+semantic_tags:
+  - Turbulence
+  - Fluid Dynamics
+  - Asymptotic Analysis
+  - Reynolds Number
+  - Decay of Turbulence
+tldr: The authors study the final period of decay of turbulence, where inertia forces are negligible. They find that the energy decay and space-interval correlation relations are valid at certain conditions, and that the whole field of motion comes to rest with smaller eddies decaying more rapidly than larger ones. This research provides insights into the behavior of turbulent motion and the role of inertia forces in its decay.
+scientific_discipline: Physics > Fluid Dynamics

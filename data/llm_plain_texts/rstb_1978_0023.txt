@@ -1,0 +1,10 @@
+article_id: 'rstb_1978_0023'
+revised_title: 'Nucleosome Organization in Eukaryotic Chromatin'
+semantic_tags:
+  - Chromatin structure
+  - Nucleosomes
+  - DNA sequencing
+  - Histone proteins
+  - Eukaryotic genetics
+tldr: The authors investigated the relationship between nucleosomes and nucleotide sequences in rat liver chromatin. They found that nucleosomes are randomly located in relation to nucleotide sequences, suggesting that histones may not play a specific role in gene expression. The study also raises questions about whether the DNA content of nucleosomes varies within a cell.
+scientific_discipline: Biology and Life Sciences > Genetics and Genomics

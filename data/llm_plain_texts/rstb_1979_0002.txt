@@ -1,0 +1,10 @@
+article_id: 'rstb_1979_0002'
+revised_title: 'Investigation of the Transfer Effect in Liquid Helium'
+semantic_tags:
+  - Cryogenics
+  - Superconductivity
+  - Heat transfer
+  - Low-temperature physics
+  - Liquid helium
+tldr: This article investigates the behavior of liquid helium in contact with solid surfaces, focusing on the transfer effect. The authors describe their experimental setup and findings, discussing the importance of minimizing thermal radiation and heat conduction to accurately observe the transfer effect. Their experiments aimed to reproduce the phenomenon observed by Kammerlingh Onnes under slightly different conditions.
+scientific_discipline: Physics > Cryogenics

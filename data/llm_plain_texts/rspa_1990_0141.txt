@@ -1,0 +1,10 @@
+article_id: rspa_1990_0141
+revised_title: Radiation Damping and Nonlinear Interactions of Finite-Amplitude Progressive Edge Waves
+semantic_tags:
+  - Wave Mechanics
+  - Fluid Dynamics
+  - Beach Waves
+  - Nonlinear Waves
+  - Coastal Engineering
+tldr: This article investigates the radiation damping of finite-amplitude progressive edge waves along a beach. It demonstrates that weakly nonlinear periodic edge waves can be attenuated due to radiation of oblique waves out to sea. The study focuses on the conditions for radiation to occur and the effects of nonlinear self-interactions on the waves. The findings can help improve our understanding of coastal wave dynamics and beach processes.
+scientific_discipline: Environmental and Earth Sciences > Coastal Engineering

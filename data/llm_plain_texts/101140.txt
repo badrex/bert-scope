@@ -1,0 +1,10 @@
+article_id: 101140
+revised_title: Moreland's Theory on Water Raising and Pump Efficiency
+semantic_tags:
+  - Fluid mechanics
+  - Pump design
+  - Hydraulics
+  - Engineering
+  - Optimal design
+tldr: Sir Samuel Moreland challenges the common belief that weight and pipe size requirements increase proportionally with the height water is raised. He demonstrates that a triple weight can raise water 60 feet and proposes that wider barrels require unnecessary weight in the engine.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

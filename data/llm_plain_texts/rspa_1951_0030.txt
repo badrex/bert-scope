@@ -1,0 +1,10 @@
+article_id: rspa_1951_0030
+revised_title: 'Dual Integral Equations for Two-Dimensional Diffraction Problems'
+semantic_tags:
+  - Diffraction Theory
+  - Integral Equations
+  - Wiener-Hopf Method
+  - Electromagnetic Waves
+  - Radio Propagation
+tldr: The authors present a new method for solving two-dimensional diffraction problems using dual integral equations. This method represents the scattered field as an angular spectrum of plane waves, leading to a pair of integral equations that replace the single integral equation of Schwinger's method. The authors demonstrate the technique on three problems involving different configurations of diffracting plates and discuss several points of interest in diffraction theory.
+scientific_discipline: Physics > Electromagnetism

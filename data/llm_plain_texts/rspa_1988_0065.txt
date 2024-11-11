@@ -1,0 +1,10 @@
+article_id: rspa_1988_0065
+revised_title: 'Solving Exterior Boundary-Value Problems for the Schrödinger Equation with Long-Range Potential'
+semantic_tags:
+  - Quantum Mechanics
+  - Schrödinger Equation
+  - Boundary-Value Problems
+  - Long-Range Potential
+  - Wave Operators
+tldr: The authors study the exterior Dirichlet problem for the Schrödinger equation with a Coulomb potential. They prove the limiting absorption principle, establish the existence of solutions to exterior boundary-value problems, and show that the associated wave operators exist. This enables them to analyze the asymptotic behavior of time-dependent solutions of the exterior problem in terms of the reference problem.
+scientific_discipline: Physics > Quantum Mechanics

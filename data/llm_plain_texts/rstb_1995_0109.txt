@@ -1,0 +1,10 @@
+article_id: 'rstb_1995_0109'
+revised_title: 'Evolution of Eukaryotic Cellular Processes: Transcriptional Noise and Gene Number'
+semantic_tags:
+  - Gene Expression
+  - Transcriptional Noise
+  - DNA Methylation
+  - Evolution of Gene Number
+  - Vertebrate Genomes
+tldr: The article discusses the evolution of gene number and complexity in eukaryotic organisms, focusing on the role of transcriptional noise and DNA methylation. The authors propose that the increased gene number in vertebrates, compared to invertebrates, is due to the cooption of DNA methylation as a mechanism to reduce transcriptional noise. This noise reduction allows for more genes to be expressed in vertebrates, contributing to increased organismal complexity.
+scientific_discipline: Biology and Life Sciences > Genetics and Genomics

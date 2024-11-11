@@ -1,0 +1,10 @@
+article_id: rspa_1928_0187
+revised_title: Catalytic Decomposition of Gaseous Acetaldehyde on Various Metal Surfaces
+semantic_tags:
+  - Catalysis
+  - Surface chemistry
+  - Acetaldehyde decomposition
+  - Metal surfaces
+  - Kinetics
+tldr: The authors studied the catalytic decomposition of gaseous acetaldehyde on various metal surfaces, including platinum, platinum-rhodium alloy, gold, and tungsten. They found that the reaction kinetics were similar for all metals, and the reaction became unimolecular at higher pressures. The authors also investigated the influence of initial acetaldehyde pressure, temperature, and the presence of carbon monoxide on the reaction rate.
+scientific_discipline: Chemistry > Surface chemistry

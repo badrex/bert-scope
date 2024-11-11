@@ -1,0 +1,10 @@
+article_id: rspa_1989_0028
+revised_title: 'A Study of the Mechanism of Corrosion in Ferritic Steels in High-Pressure Carbon Dioxide'
+semantic_tags:
+  - Corrosion
+  - Ferritic Steels
+  - High-Pressure Carbon Dioxide
+  - Oxidation Mechanism
+  - Nuclear Techniques
+tldr: The authors investigated the oxidation mechanism of a commercial Fe-9% Cr steel in high-pressure carbon dioxide using oxygen-18 as a tracer and charged-particle nuclear techniques. They found that both types of scale grew at the oxide-gas interface, with substantial growth occurring in the inner half of the inner layer. The results provide insights into the corrosion process and help improve the understanding of the behavior of ferritic steels in high-pressure carbon dioxide environments.
+scientific_discipline: Environmental and Earth Sciences > Materials Science and Engineering

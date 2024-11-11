@@ -1,0 +1,10 @@
+article_id: 'rstb_1994_0054'
+revised_title: 'Estimating Extinction Rates Using Molecular Phylogenies'
+semantic_tags:
+  - Extinction rates
+  - Molecular phylogenies
+  - Cladogenesis
+  - Biodiversity
+  - Evolutionary history
+tldr: 'The article explains how molecular phylogenies can be used to estimate extinction rates and measure other components of biodiversity. It introduces the constant rate birth-death model, which describes how phylogenies grow and can provide information about lineage birth and death rates. The model can help identify clades that may be under threat of extinction and test hypotheses about biological correlates of diversification.'
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

@@ -1,0 +1,10 @@
+article_id: 'rspb_1976_0074'
+revised_title: 'Neuronal Activity in the Cat's Cerebral Cortex: A -Normal Distribution'
+semantic_tags:
+  - Neuroscience
+  - Neurophysiology
+  - Cerebral Cortex
+  - Behavioral States
+  - Statistical Analysis
+tldr: The authors studied the spontaneous activity of neurons in the cat's cerebral cortex using chronically implanted microelectrodes. They found that trains of action potentials can be described using a -normal distribution, requiring only two parameters: modal interval and standard deviation. This description was applicable to neurons in various cortical areas and across different behavioral states of the animal.
+scientific_discipline: Biology and Life Sciences > Neuroscience

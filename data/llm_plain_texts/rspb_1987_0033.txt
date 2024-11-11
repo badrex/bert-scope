@@ -1,0 +1,10 @@
+article_id: 'rspb_1987_0033'
+revised_title: 'Inositol Trisphosphate and Calcium Influx in Xenopus Oocytes'
+semantic_tags:
+  - Calcium signaling
+  - Inositol trisphosphate
+  - Xenopus oocytes
+  - Membrane channels
+  - Cellular biology
+tldr: The article describes how injecting inositol trisphosphate (IP3) into Xenopus oocytes activates a voltage-dependent calcium influx. This influx leads to the appearance of a transient inward current on hyperpolarization of the membrane. The current is carried largely by chloride ions and depends on extracellular calcium. By using aequorin as an intracellular calcium indicator and recording inward barium currents, the authors demonstrate that IP3 modulates a calcium influx into the oocyte.
+scientific_discipline: Biology and Life Sciences > Cellular Biology and Physiology

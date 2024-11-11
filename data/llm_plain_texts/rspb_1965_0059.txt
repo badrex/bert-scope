@@ -1,0 +1,10 @@
+article_id: 'rspb_1965_0059'
+revised_title: 'Discovery of Pyridoxal Phosphate in Pig Plasma Histaminase'
+semantic_tags:
+  - Biochemistry
+  - Enzymes
+  - Histaminase
+  - Pyridoxal Phosphate
+  - Vitamin B6
+tldr: Researchers discovered that pig plasma histaminase contains pyridoxal phosphate, a form of Vitamin B6. They found that the enzyme has physical and chemical properties similar to other pyridoxal proteins. This discovery supports the idea that histaminase and related oxidases are pyridoxal enzymes.
+scientific_discipline: Chemistry > Biochemistry

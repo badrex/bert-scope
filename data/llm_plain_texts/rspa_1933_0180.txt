@@ -1,0 +1,10 @@
+article_id: 'rspa_1933_0180'
+revised_title: 'Energy Exchange Between Inert Gas Atoms and Solid Surfaces'
+semantic_tags:
+  - Thermal accommodation coefficient
+  - Gas-solid interactions
+  - Energy transfer
+  - Statistical mechanics
+  - Quantum mechanics
+tldr: This article discusses the energy exchange between inert gas atoms and a solid surface, focusing on the thermal accommodation coefficient. The authors explain how the mean energy of gas atoms changes after collision with a solid surface and introduce a method to calculate the average accommodation coefficient over the normal modes of the solid.
+scientific_discipline: Physics > Statistical Mechanics

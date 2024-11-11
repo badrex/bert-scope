@@ -1,0 +1,10 @@
+article_id: rspa_1917_0040
+revised_title: 'Reflection of Light from a Regularly Stratified Medium: A Mathematical and Physical Analysis'
+semantic_tags:
+  - Wave Optics
+  - Light Reflection
+  - Stratified Media
+  - Optical Physics
+  - Mathematical Physics
+tldr: The author presents a mathematical and physical analysis of light reflection from a regularly stratified medium, such as crystals. They calculate the aggregate reflection and transmission by a single parallel plate and extend the analysis to a system of multiple plates. The study helps understand the remarkable colored reflection from certain crystals and has implications for the design of optical devices.
+scientific_discipline: Physics > Optics

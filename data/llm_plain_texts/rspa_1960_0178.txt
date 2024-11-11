@@ -1,0 +1,10 @@
+article_id: rspa_1960_0178
+revised_title: 'Experimental Study of Helium Excitation Processes'
+semantic_tags:
+  - Atomic Physics
+  - Spectroscopy
+  - Electron Impact
+  - Excitation Functions
+  - Helium States
+tldr: The authors conducted an experimental study of the radiation emitted by helium under controlled electron impact. They analyzed the observations to determine the excitation functions of helium states and investigated the mechanism of excitation transfer between excited states through radiative and collisional processes. The results showed that cascade processes were less important than previously assumed, and the total inelastic cross-section at 108 was found to be 1.
+scientific_discipline: Physics > Atomic Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1975_0068
+revised_title: 'Unified Treatment of Thick and Thin Film Elastohydrodynamic Problems'
+semantic_tags:
+  - Elastohydrodynamic Lubrication
+  - Finite Element Method
+  - Reynolds Equation
+  - Newton's Method
+  - Boundary Value Problems
+tldr: The authors present a unified mathematical treatment for thick and thin film elastohydrodynamic lubrication problems using the Ritz-Galerkin method with piecewise polynomial basis functions. They discuss the application of Newton's method and the construction of approximate solutions in one-dimensional problems, using smooth Hermit and cubic spline spaces. This approach can be applied to various types of bearings, providing a solution to the challenges of elastohydrodynamic lubrication.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

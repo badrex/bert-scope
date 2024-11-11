@@ -1,0 +1,10 @@
+article_id: rspa_1975_0164
+revised_title: 'Cooling of Low-Heat-Resistance Cylinders in Fluids: A Comprehensive Study'
+semantic_tags:
+  - Heat transfer
+  - Fluid dynamics
+  - Boundary layer
+  - Prandtl number
+  - Cylinder cooling
+tldr: This article presents a comprehensive study on the cooling of low-heat-resistance cylinders moving through fluids. The authors provide solutions for the cooling process near the orifice and downstream, considering the effects of the Prandtl number. The research has practical applications in industries such as glass and polymer production, as well as in the electrical industry for thin metallic wires.
+scientific_discipline: Engineering and Technology > Heat Transfer and Fluid Dynamics

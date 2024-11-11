@@ -1,0 +1,10 @@
+article_id: rspa_1951_0067
+revised_title: Improved Method for Calculating Crystal Inner Potential
+semantic_tags:
+  - Crystallography
+  - Inner potential
+  - Atomic scattering factors
+  - Fourier series
+  - Rock-salt
+tldr: The authors present a new method for calculating the inner potential of a crystal using an exponential approximation for atomic scattering factors. This method improves upon previous calculations and provides more reliable results for crystals like rock-salt. The authors demonstrate the effectiveness of their method by comparing it to existing methods and experimental values.
+scientific_discipline: Physics > Crystallography

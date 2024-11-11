@@ -1,0 +1,10 @@
+article_id: 'rspb_1962_0024'
+revised_title: 'A New Porometer Design for Concurrent Stomatal Behavior Studies'
+semantic_tags:
+  - Plant Physiology
+  - Stomatal Conductance
+  - Porometer Design
+  - Detachable Cups
+  - Leaf Resistance
+tldr: The authors developed a new recording porometer with detachable cups that can operate on four separate leaves simultaneously. This design allows for more accurate and precise comparisons of stomatal behavior under various experimental treatments. The device records pressure changes in the resistance porometer circuit, enabling the calculation of leaf and stomatal resistance for viscous air flow. The new porometer design helps improve our understanding of stomatal movement and its response to environmental factors.
+scientific_discipline: Biology and Life Sciences > Plant Physiology

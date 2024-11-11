@@ -1,0 +1,10 @@
+article_id: rstb_1990_0184
+revised_title: The Erosion-Productivity Impact Calculator (EPIC) Model: Applications and Developments
+semantic_tags:
+  - Soil Erosion
+  - Soil Productivity
+  - Agricultural Modeling
+  - Environmental Conservation
+  - Farm Planning
+tldr: The Erosion-Productivity Impact Calculator (EPIC) model is a mathematical model that assesses the effects of soil erosion on soil productivity. It has been applied to various agricultural management problems, including drought assessment, soil loss tolerance tools, and farm-level planning. The model simulates erosion, plant growth, and related processes, as well as economic aspects of managing erosion and determining optimal management strategies.
+scientific_discipline: Environmental and Earth Sciences > Soil Science

@@ -1,0 +1,10 @@
+article_id: 111863
+revised_title: On the Equation for the Product of the Differences of Roots of a Given Equation
+semantic_tags:
+  - Algebra
+  - Symmetric functions
+  - Polynomial equations
+  - Seminvariants
+  - Covariants
+tldr: Arthur Cayley's paper focuses on determining the equation for the product of the differences of all but one root of a given equation. He explains the process for equations of orders three, four, and five, using methods of symmetric functions and seminvariants. The paper also addresses a more general question involving covariants.
+scientific_discipline: Mathematics > Algebra

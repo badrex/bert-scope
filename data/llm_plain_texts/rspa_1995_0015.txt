@@ -1,0 +1,10 @@
+article_id: rspa_1995_0015
+revised_title: 'Magnetic Convection in a Rapidly Rotating Spherical Shell'
+semantic_tags:
+  - Magnetohydrodynamics
+  - Fluid Dynamics
+  - Astrophysics
+  - Geophysics
+  - Planetary Science
+tldr: The author investigates convective fluid motions in a rapidly rotating spherical shell with an imposed azimuthal axisymmetric magnetic field. They find that the effects of the magnetic field on thermal convection are crucially dependent on the size of the Prandtl number, and that the Lorentz force does not make fluid motions fully three-dimensional. The study has implications for understanding convection in planetary and astrophysical fluid dynamics, such as the Earth's core and the solar convection.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1978_0019
+revised_title: Kerr Metric and Stationary Axisymmetric Gravitational Fields
+semantic_tags:
+  - Gravitational Fields
+  - Kerr Metric
+  - Einstein's Equations
+  - Black Holes
+  - Astrophysics
+tldr: The author presents a direct and verifiable derivation of the Kerr metric, a stationary axisymmetric solution of Einstein's equations, which provides a basis for deriving explicit classes of exact solutions in the field of gravitational fields and black holes.
+scientific_discipline: Physics > Astrophysics

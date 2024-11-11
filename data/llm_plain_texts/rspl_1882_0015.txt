@@ -1,0 +1,10 @@
+article_id: rspl_1882_0015
+revised_title: 'Investigating Metallic Line Reversal in Overexposed Photographs of Spectra'
+semantic_tags:
+  - Spectroscopy
+  - Photographic techniques
+  - Metallic lines
+  - Overexposure
+  - Reversal
+tldr: This article discusses the phenomenon of metallic lines appearing reversed in overexposed photographs of spectra. The author, W. N. Hartley, explains how overexposure can cause strong lines to appear reversed and provides examples of this effect. He also suggests that this phenomenon is important for those studying solar physics and recommends using comparative exposures to confirm the accuracy of observations made using photographic representations of spectra.
+scientific_discipline: Physics > Optics

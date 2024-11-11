@@ -1,0 +1,10 @@
+article_id: rspa_1987_0053
+revised_title: Canonical Solutions of Axisymmetric Gravitation with Time Dependence
+semantic_tags:
+  - Gravitational Waves
+  - Einstein's Equations
+  - Axisymmetric Gravitation
+  - Time-Dependent Solutions
+  - Cauchy-Kowalewski Theorem
+tldr: The authors present a canonical solution for axisymmetric gravitation including time dependence, using the Cauchy-Kowalewski theorem. They find that the general solution is constructed from an arbitrary function and can be expressed in a canonical form with only three functions. This work contributes to the understanding of gravitational fields and their behavior in space-time.
+scientific_discipline: Physics > Gravitational Waves

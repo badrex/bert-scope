@@ -1,0 +1,10 @@
+article_id: rspa_1984_0115
+revised_title: 'Hydrogenation of Nitric Oxide on Zn(0001) Surface: Role of Water Vapour'
+semantic_tags:
+  - Surface Chemistry
+  - Catalysis
+  - Nitric Oxide
+  - Hydrogenation
+  - Surface Hydroxyls
+tldr: The chemisorption of nitric oxide, oxygen, and water on a Zn(0001) surface was investigated using X-ray and photoelectron spectroscopy. The study found that nitric oxide existed in both dissociative and molecular states, while oxygen generated both surface and subsurface species, and water was only physically adsorbed. The presence of water vapor played a role in the hydrogenation of nitric oxide by activating molecularly adsorbed water through chemisorbed oxygen, forming surface hydroxyls that participated in a hydrogen transfer reaction.
+scientific_discipline: Chemistry > Surface Chemistry

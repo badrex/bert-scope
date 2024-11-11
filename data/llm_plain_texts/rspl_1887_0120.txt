@@ -1,0 +1,10 @@
+article_id: rspl_1887_0120
+revised_title: 'On the Motion of a Sphere in a Viscous Liquid: Vertical Projection and Steady Motion'
+semantic_tags:
+  - Fluid dynamics
+  - Viscosity
+  - Sphere motion
+  - Stokes' law
+  - Gravity
+tldr: This article investigates the motion of a sphere in a viscous liquid when projected vertically upwards or downwards with a given velocity. The author, A. B. Basset, assumes that the velocity of the sphere is always small and that no slipping occurs at its surface. The resistance experienced by the sphere is calculated, and the equation of motion is integrated by successive approximation. The results show that the motion eventually becomes steady, with the sphere reaching a terminal velocity.
+scientific_discipline: Physics > Fluid dynamics

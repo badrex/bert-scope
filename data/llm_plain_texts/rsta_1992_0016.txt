@@ -1,0 +1,10 @@
+article_id: rsta_1992_0016
+revised_title: Nonlinear Dynamics and Stability Analysis of Modern Belt Conveyors
+semantic_tags:
+  - Nonlinear Dynamics
+  - Conveyor Design
+  - Stability Analysis
+  - Chaotic Vibrations
+  - Belt Vibration Control
+tldr: This article discusses the nonlinear dynamics and stability analysis of modern belt conveyors, focusing on transverse belt vibrations and their impact on conveyor design. The authors explore the effects of various design parameters, such as belt speed, width, and tension, on the stability and predictability of conveyor systems. They also review the role of chaotic vibrations in the design and operation of large, complex conveyors, emphasizing the importance of understanding and controlling these vibrations to ensure reliable and efficient conveyor performance.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

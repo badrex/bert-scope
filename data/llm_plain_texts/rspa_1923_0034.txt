@@ -1,0 +1,10 @@
+article_id: 'rspa_1923_0034'
+revised_title: 'Temperature Effects on Steel Properties'
+semantic_tags:
+  - Steel properties
+  - Thermal expansion
+  - Material science
+  - Elasticity
+  - Allotropy
+tldr: The author conducted experiments to study the effect of temperature on the properties of steel. They found that steel's rigidity decreases rapidly above a critical temperature, while its expansion rate shows no sudden change at that temperature. This research contributes to understanding the behavior of steel at high temperatures and its applications in engineering.
+scientific_discipline: 'Engineering and Technology > Materials Science'

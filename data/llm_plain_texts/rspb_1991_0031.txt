@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0031'
+revised_title: 'Investigating the Role of Calcium Channels in ABA-Induced Stomatal Closure'
+semantic_tags:
+  - Plant Physiology
+  - Calcium Signaling
+  - Stomatal Regulation
+  - Abscisic Acid
+  - Calcium Channel Blockers
+tldr: This study investigates the role of calcium channels in the process of stomatal closure induced by abscisic acid (ABA). The researchers found that calcium channel blockers, such as verapamil, nifedipine, and diltiazem, partially inhibit ABA-induced stomatal closure. The results suggest that both calcium influx from the apoplast and release from intracellular stores may contribute to the increase in cytosolic free calcium associated with stomatal closure.
+scientific_discipline: Biology and Life Sciences > Plant Biology

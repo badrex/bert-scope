@@ -1,0 +1,10 @@
+article_id: rspa_1956_0135
+revised_title: 'Experimental Determination of Nitrogen Molecule Dissociation Energy'
+semantic_tags:
+  - Molecular Physics
+  - Nitrogen Chemistry
+  - Electron Impact Studies
+  - Dissociation Energy
+  - Spectroscopy
+tldr: The authors conducted electron-induced dissociation experiments on nitrogen molecules using a mass spectrometer. They found three processes leading to the formation of nitrogen ions, which led to the conclusion that the dissociation energy of the nitrogen molecule is 9.756 eV. This discovery is important for understanding the thermochemistry of nitrogenous compounds and the interpretation of nitrogen molecular spectra.
+scientific_discipline: Chemistry > Molecular Physics

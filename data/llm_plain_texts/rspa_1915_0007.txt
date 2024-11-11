@@ -1,0 +1,10 @@
+article_id: rspa_1915_0007
+revised_title: The Analysis of Gases After Passage of Electric Discharge: A Study on the Production of Rare Gases
+semantic_tags:
+  - Gas discharge
+  - Rare gases
+  - Electric discharge experiments
+  - Gas analysis
+  - Electrode materials
+tldr: The author investigates the production of rare gases, such as helium and neon, after an electric discharge in a gas-filled tube. They explore various experimental conditions and methods of analysis to understand the factors affecting the formation of these gases. The author concludes that the production of rare gases is more likely to arise from a process of disintegration or association of atoms in the solids that compose the tube, rather than from gases.
+scientific_discipline: Physics > Electricity and Magnetism

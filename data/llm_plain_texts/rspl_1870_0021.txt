@@ -1,0 +1,10 @@
+article_id: rspl_1870_0021
+revised_title: On the Theory of Resonance in Enclosed Airspaces
+semantic_tags:
+  - Acoustics
+  - Resonance
+  - Vibration
+  - Sound
+  - Fluid dynamics
+tldr: The authors present a general theory of resonance for a class of resonators, focusing on airspaces enclosed by rigid walls and communicating with the external environment through passages. They derive a formula for determining the resonant note and discuss various cases, including openings, cylindrical necks, and tubes of revolution. The authors also describe experiments comparing their formula with observations, resulting in a satisfactory agreement.
+scientific_discipline: Physics > Acoustics

@@ -1,0 +1,10 @@
+article_id: rspa_1925_0047
+revised_title: Calculation of Crystal Potential Constants in Cubic Crystals
+semantic_tags:
+  - Crystallography
+  - Potential energy
+  - Cubic crystals
+  - Lattice points
+  - Inverse power law
+tldr: The authors present a method to calculate crystal potential constants for cubic crystals, which are essential for understanding the potential energy of atoms in a crystal lattice. They evaluate these constants for different types of cubic crystals and discuss their implications for the crystal structure with a repulsive and attractive force between atoms.
+scientific_discipline: Physics > Condensed Matter Physics

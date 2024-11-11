@@ -1,0 +1,10 @@
+article_id: rsta_1982_0123
+revised_title: 'Advancements in Tunable Infrared Lasers for Spectroscopy'
+semantic_tags:
+  - Infrared spectroscopy
+  - Tunable lasers
+  - Molecular spectroscopy
+  - Sub-Doppler spectroscopy
+  - Laser technology
+tldr: This article reviews the operating characteristics of various tunable infrared lasers, such as semiconductor, spin-flip Raman, difference-frequency, color center, and vibronic lasers, and their applications in molecular spectroscopy. The author emphasizes sub-Doppler infrared spectroscopy using these tunable lasers and discusses their advantages and limitations. The article also covers techniques like molecular beams, saturation spectroscopy, and double-resonance experiments, as well as nonlinear spectroscopy, such as saturation and double-resonance spectroscopy.
+scientific_discipline: Physics > Optics

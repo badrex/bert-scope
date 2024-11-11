@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0034'
+revised_title: 'Quantitative Genetics of Zebra Finch Bill Colour and Sexual Selection'
+semantic_tags:
+  - Sexual selection
+  - Quantitative genetics
+  - Zebra finch
+  - Bill colour
+  - Cross-fostering experiment
+tldr: This study examines the heritability and genetic correlation of zebra finch bill colour in a cross-fostering experiment. The results show that males with redder bills are preferred as mates by females, while females with redder bills have higher mortality and produce fewer offspring. The heritability estimates for bill colour between parents and their biological offspring ranged from 0.23 to 0.58, and the genetic correlation between male and female bill colour was large (rg = 0.81) for parents and their biological offspring. The genetic correlation between the sexes can affect the evolution of bill colour and create a selection load that reduces the expected reproduction of this laboratory population.
+scientific_discipline: Biology and Life Sciences > Ecology and Evolution

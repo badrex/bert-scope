@@ -1,0 +1,10 @@
+article_id: rsta_1996_0132
+revised_title: Continuous Elastic Phase Transitions in Pure and Disordered Crystals
+semantic_tags:
+  - Elastic phase transitions
+  - Acoustic phonons
+  - Ginzburg-Landau free-energy functional
+  - Crystal anisotropy
+  - Disorder-induced phase transitions
+tldr: The article discusses continuous elastic phase transitions in pure and disordered crystals, focusing on the softening of acoustic phonons and the role of anisotropy and disorder in these transitions. The Ginzburg-Landau free-energy functional is used to study the statics and dynamics of these phase transitions, and the effects of lattice defects are also considered.
+scientific_discipline: Physics > Condensed Matter Physics

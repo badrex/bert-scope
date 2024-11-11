@@ -1,0 +1,10 @@
+article_id: rspl_1893_0060
+revised_title: 'Investigation of the Failure of the Law in Photography: Intensity and Exposure'
+semantic_tags:
+  - Photography
+  - Light intensity
+  - Exposure time
+  - Chemical action
+  - Photographic sensitivity
+tldr: The author discovered that the law stating equal chemical action is produced when the products of light intensity and exposure time are equal, fails under certain conditions. This finding challenges the assumption that a sum of short exposures is equivalent to a single exposure of the same length of time. The author conducted various experiments to explore this phenomenon and its implications on photographic sensitivity and light intensity.
+scientific_discipline: Physics > Optics

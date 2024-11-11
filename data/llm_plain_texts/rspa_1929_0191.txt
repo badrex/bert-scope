@@ -1,0 +1,10 @@
+article_id: 'rspa_1929_0191'
+revised_title: 'Investigation of Sulphide Colours on Metallic Copper'
+semantic_tags:
+  - Materials Science
+  - Surface Chemistry
+  - Oxidation and Reduction
+  - Interference Colors
+  - Copper Chemistry
+tldr: The authors studied the formation of sulphide colors on metallic copper when exposed to a mixture of hydrogen sulphide and oxygen. They used spectrophotometric observations to confirm that the colors are true interference colors. The reaction velocity was found to be maximum when oxygen is slightly in excess of hydrogen sulphide, and the rate of formation of the sulphide film can be reduced by forming an invisible oxide film on the copper surface.
+scientific_discipline: Chemistry > Materials Science

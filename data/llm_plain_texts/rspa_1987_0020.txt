@@ -1,0 +1,10 @@
+article_id: rspa_1987_0020
+revised_title: Nonlinear Stability Theory of a Free Mixing Layer
+semantic_tags:
+  - Fluid dynamics
+  - Mixing layers
+  - Nonlinear stability
+  - Landau constant
+  - Critical layer
+tldr: This article investigates the nonlinear stability of a free mixing layer with large Reynolds numbers. The authors demonstrate that the Landau constant, which determines the stability of the perturbation, is influenced by the interaction of the fundamental harmonic of the perturbation with the associated distortion of the mean flow. They also show that the nonlinearity cannot substantially affect the exponential growth of the perturbation predicted by linear theory, except when the nonlinear time exceeds the time of viscous spreading of the initial flow. The authors propose a correct algorithm for calculating the Landau constant with the zeroth harmonic taken into account, which is determined by the interaction with just the zeroth harmonic and yields stabilization.
+scientific_discipline: Physics > Fluid dynamics

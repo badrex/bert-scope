@@ -1,0 +1,10 @@
+article_id: rsta_1991_0001
+revised_title: Development of Traveling Waves in Quadratic and Cubic Autocatalysis with Unequal Diffusion Rates
+semantic_tags:
+  - Reaction kinetics
+  - Nonlinear dynamics
+  - Traveling waves
+  - Autocatalysis
+  - Diffusion rates
+tldr: This article investigates the development of traveling waves in quadratic and cubic autocatalysis with unequal diffusion rates. The authors study the behavior of solutions to the initial-value problem and analyze the permanent form traveling wave solutions of the equation. They find that the traveling wave solutions exhibit a slow exponential decay to their final values and that the behavior of the system is influenced by the diffusion rates of the molecules involved.
+scientific_discipline: Mathematics > Nonlinear Dynamics

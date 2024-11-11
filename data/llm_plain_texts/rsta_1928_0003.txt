@@ -1,0 +1,10 @@
+article_id: rsta_1928_0003
+revised_title: Improved Determination of the Mechanical Equivalent of Heat
+semantic_tags:
+  - Thermodynamics
+  - Heat transfer
+  - Calorimetry
+  - Induction dynamometer
+  - Mechanical equivalent of heat
+tldr: The authors conducted experiments to determine the mechanical equivalent of heat using an induction dynamometer. They improved upon previous methods by achieving a higher degree of steadiness in conditions and reducing heat losses. Their results provide a more accurate value for the mechanical equivalent of heat, which can be compared to the electrical equivalent of heat. This research contributes to the understanding of fundamental constants in physics.
+scientific_discipline: Physics > Thermodynamics

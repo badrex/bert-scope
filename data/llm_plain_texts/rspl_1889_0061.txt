@@ -1,0 +1,10 @@
+article_id: rspl_1889_0061
+revised_title: 'Improving Photometer Accuracy with a Compound Wedge Design'
+semantic_tags:
+  - Photometry
+  - Optics
+  - Instrumentation
+  - Astronomy
+  - Astrophysics
+tldr: The author developed a new compound wedge photometer to improve the accuracy of measuring the brightness of objects with different sizes and areas. The new design eliminates errors caused by the thickness of the glass wedge when measuring larger objects. The compound wedge photometer has been tested and proven to provide accurate results for various applications, including astronomy.
+scientific_discipline: Physics > Optics

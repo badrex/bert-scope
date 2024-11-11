@@ -1,0 +1,10 @@
+article_id: rsta_1988_0070
+revised_title: Constraints on the Formation of Giant Planets from Their Atmospheric Chemical Composition
+semantic_tags:
+  - Planetary formation
+  - Atmospheric chemistry
+  - Solar nebula
+  - Nucleation model
+  - Gas instability model
+tldr: This article examines the chemical composition of giant planets' atmospheres to understand their formation. The authors discuss two main theories of formation: the nucleation model and the gas instability model. They find that the observed enhancement of CNO compounds and deuterium in giant planets supports the nucleation model, while the helium-to-hydrogen ratios in their atmospheres can be explained by the differentiation of helium from metallic hydrogen in Jupiter and Saturn. Accurate measurements of elemental and isotopic ratios are crucial for further discriminating between these formation theories.
+scientific_discipline: Astronomy > Planetary Science

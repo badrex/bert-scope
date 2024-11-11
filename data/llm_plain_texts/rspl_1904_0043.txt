@@ -1,0 +1,10 @@
+article_id: rspl_1904_0043
+revised_title: A New Method for Finding the Area of Plane Figures Using a Radial Area-Scale
+semantic_tags:
+  - Geometry
+  - Area calculation
+  - Transparency
+  - Mathematical tools
+  - Quadrature
+tldr: The authors present a new method for finding the area of plane figures using a radial area-scale, a transparency with radiating lines. The user places the figure to be measured under the transparency, aligning the figure's contour with the lines. The method can be adjusted for accuracy and is applicable to various shapes, including those with cusps or angular points.
+scientific_discipline: Mathematics > Geometry

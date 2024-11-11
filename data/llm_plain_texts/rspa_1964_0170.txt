@@ -1,0 +1,10 @@
+article_id: rspa_1964_0170
+revised_title: 'Propagation of Elastic Waves in Liquid Crystals: A Theoretical Study'
+semantic_tags:
+  - Liquid Crystals
+  - Visco-Elasticity
+  - Wave Propagation
+  - Maxwell's Relaxation Time
+  - Anisotropic Fluids
+tldr: This article investigates the propagation of elastic waves in liquid crystals, a unique state of matter that exhibits properties of both crystalline solids and anisotropic fluids. The authors develop a theoretical model that combines the properties of a crystalline solid and an anisotropic fluid, and apply it to the'stepped drop' discovered by Grandjean. They find that for vibrations of frequency less than about, only the longitudinal wave is propagated normal to the layers, while the two transverse waves are heavily damped. In the plane of the layers, the longitudinal wave and one transverse component are propagated.
+scientific_discipline: Physics > Optics

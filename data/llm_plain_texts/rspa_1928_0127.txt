@@ -1,0 +1,10 @@
+article_id: rspa_1928_0127
+revised_title: The Mechanism of Fluorescence in Mercury Vapour
+semantic_tags:
+  - Fluorescence
+  - Mercury
+  - Spectroscopy
+  - Atomic physics
+  - Light absorption
+tldr: The authors investigate the fluorescence of mercury vapour and discover that the mechanism of emission is more complex than previously thought. They find that all the stronger arc lines of the mercury atom are emitted when excited by the light of the aluminium spark, and the intensity of these lines varies as the square of the intensity of the exciting light. The authors also study the effects of superheating the vapour and the development of other bands and lines due to the presence of impurities.
+scientific_discipline: Physics > Atomic and Molecular Physics

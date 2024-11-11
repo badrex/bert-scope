@@ -1,0 +1,10 @@
+article_id: rspa_1913_0074
+revised_title: 'Cesaro Partial Summations and Trigonometrical Series'
+semantic_tags:
+  - Fourier series
+  - Cesaro summation
+  - Trigonometry
+  - Mathematical analysis
+  - Series convergence
+tldr: The author investigates trigonometrical series and their Cesaro partial summations, proving that if the upper and lower functions of these summations are summable and finite, the trigonometrical series converges to a Fourier series. This work extends Riemann's theorem and provides a more comprehensive understanding of Fourier series convergence.
+scientific_discipline: Mathematics > Analysis

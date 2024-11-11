@@ -1,0 +1,10 @@
+article_id: rsta_1980_0163
+revised_title: In Situ Observations of the Middle Atmosphere
+semantic_tags:
+  - Atmospheric Chemistry
+  - Stratospheric Measurements
+  - In Situ Techniques
+  - Trace Gases
+  - Remote Sensing
+tldr: This article reviews various in situ techniques used to measure trace gases in the middle atmosphere, including direct measurements and sample collection methods. It discusses the advantages and limitations of these techniques, and presents examples of recent measurements of chlorine and fluorine compounds, such as Cl and CIO, using resonance fluorescence experiments.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

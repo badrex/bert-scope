@@ -1,0 +1,10 @@
+article_id: rspl_1887_0105
+revised_title: Experiments on the Viscosity of Ice and Tensile Stress
+semantic_tags:
+  - Ice physics
+  - Tensile stress
+  - Experimental methods
+  - Low-temperature physics
+  - Material properties
+tldr: The author conducted experiments to study the viscosity of ice and its continuous extensibility under tensional stress. They used a testing machine to apply stress to ice samples at low temperatures to understand its behavior. The results showed that ice has a high viscosity and can withstand significant stress before breaking.
+scientific_discipline: Physics > Material Properties

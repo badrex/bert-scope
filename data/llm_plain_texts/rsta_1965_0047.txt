@@ -1,0 +1,10 @@
+article_id: rsta_1965_0047
+revised_title: 'Scattering of Light by Large and Small Molecules in Solution: Multiple Scattering and its Effects'
+semantic_tags:
+  - Light scattering
+  - Multiple scattering
+  - Molecular weight determination
+  - Macromolecules
+  - Refractive index
+tldr: This article investigates the scattering of light by large and small molecules in solution, focusing on multiple scattering and its effects. The authors demonstrate that the concept of excess molecular polarizability in a two-component system of small molecules is valid only up to single scattering approximation. However, the concept of excess scattering remains valid in the multiple scattering theory of such systems. For large solute molecules, the scattering can be non-additive due to hydration conditions, which may or may not occur in a given system. The authors also show that multiple scattering terms can be grouped as if the individual scattering process takes place in vacuo or in a medium of refractive index m, with both formulations being essentially equivalent.
+scientific_discipline: Physics > Optics

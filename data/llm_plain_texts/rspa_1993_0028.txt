@@ -1,0 +1,10 @@
+article_id: rspa_1993_0028
+revised_title: 'Exploration of the Cauchy Maximum-Likelihood Estimator and its Properties'
+semantic_tags:
+  - Maximum-Likelihood Estimation
+  - Cauchy Distribution
+  - Statistical Inference
+  - Equivariance
+  - Statistical Theory
+tldr: The author investigates the properties of the two-parameter Cauchy maximum-likelihood estimator, showing that it is unique and equivariant under the real fractional linear group. The joint density of the estimator is found to have a specific form, and the author provides explicit expressions for its components. Additionally, the paper explores the asymptotic behavior of the estimator and its moments, as well as its relationship to other statistical concepts such as the Poisson integral formula and the exit distribution for Brownian motion.
+scientific_discipline: Mathematics > Statistics

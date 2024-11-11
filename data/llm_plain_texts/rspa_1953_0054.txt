@@ -1,0 +1,10 @@
+article_id: rspa_1953_0054
+revised_title: 'Diffraction by a Thick Semi-Infinite Plate: Analyzing Electromagnetic Waves'
+semantic_tags:
+  - Electromagnetic Wave Diffraction
+  - Waveguides
+  - Electromagnetic Theory
+  - Diffraction Theory
+  - Mathematical Physics
+tldr: This article presents a study on the diffraction of electromagnetic waves by a thick semi-infinite plate. The authors develop a mathematical model to analyze the behavior of the plate and its effect on the diffraction of waves. They find that when the plate's thickness is small compared to the wavelength, it behaves as a semi-infinite waveguide, and the exact shape of the plate's end is not crucial for the distant fields. The study also shows that the plate acts as two parallel planes with a line of magnetic dipoles at the end when the plate's thickness is small compared to the wavelength.
+scientific_discipline: Physics > Electromagnetic Theory

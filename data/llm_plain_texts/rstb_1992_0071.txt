@@ -1,0 +1,10 @@
+article_id: 'rstb_1992_0071'
+revised_title: 'Edge Pitch Perception in Harmonic Complex Sounds'
+semantic_tags:
+  - Auditory System
+  - Pitch Perception
+  - Spectral Edges
+  - Complex Sounds
+  - Harmonic Complexes
+tldr: The authors conducted experiments to study how the human auditory system processes complex sounds and perceives pitch related to the spectral edges of broadband signals. They found that subjects could accurately adjust the frequency of a comparison tone to match the edge pitch in harmonic complexes. The accuracy of these matches was consistent across different fundamental frequencies and upper-edge frequencies of the complex sounds. This suggests that the perception of edge pitch in harmonic signals is related to the temporal resolution of the hearing system, which depends on the time constants of basilar-membrane filters and neuronal processes.
+scientific_discipline: Psychology > Auditory Perception

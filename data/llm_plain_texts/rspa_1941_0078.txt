@@ -1,0 +1,10 @@
+article_id: 'rspa_1941_0078'
+revised_title: 'Diffuse X-ray Reflexions and Crystal Structure'
+semantic_tags:
+  - X-ray Crystallography
+  - Crystal Structure
+  - Diffuse Reflexions
+  - Elastic Waves
+  - Atomic Theories
+tldr: The author discusses the problem of diffuse spots found in X-ray crystallography and proposes an alternative analysis where atoms are assumed to stick together in small, nearly rigid groups. This approach could provide a different perspective on crystal structure and might be useful for understanding phenomena like elasticity and plasticity in metals.
+scientific_discipline: Physics > Materials Science

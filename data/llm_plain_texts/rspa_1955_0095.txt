@@ -1,0 +1,10 @@
+article_id: rspa_1955_0095
+revised_title: Thermodynamic Properties and Azeotropic Compositions of Binary Solutions of Non-Spherical Molecules
+semantic_tags:
+  - Statistical thermodynamics
+  - Thermodynamics of solutions
+  - Azeotropes
+  - Non-spherical molecules
+  - Binary mixtures
+tldr: This article explores the thermodynamic properties and azeotropic compositions of binary solutions containing non-spherical molecules. The authors use statistical thermodynamics to calculate the liquid-vapor equilibrium and azeotropic points for mixtures of carbon dioxide, nitrous oxide, ethane, ethylene, and acetylene. They find that the azeotropic composition of these mixtures changes more rapidly with temperature than that of spherical molecule mixtures, and a theory that includes non-central forces is necessary to explain this behavior.
+scientific_discipline: Chemistry > Thermodynamics

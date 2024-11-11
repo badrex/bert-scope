@@ -1,0 +1,10 @@
+article_id: rspa_1956_0159
+revised_title: 'Investigation of Uranium-Activated Sodium Fluoride Luminescence'
+semantic_tags:
+  - Luminescence
+  - Uranium-activated phosphors
+  - Fluorescence spectra
+  - Atomic configurations
+  - Vibrational fine structure
+tldr: The authors studied the luminescence properties of uranium-activated sodium fluoride (NaF(U)) and investigated its atomic configuration and fluorescence spectra. They found that the uranium ion is surrounded by six oxygen ions in an octahedral arrangement, and the fluorescence spectrum simplifies at lower temperatures. The study provides insights into the atomic configurations and vibrational fine structure of luminescent centers in NaF(U) phosphors.
+scientific_discipline: Physics > Optics

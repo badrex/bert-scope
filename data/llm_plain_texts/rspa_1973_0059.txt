@@ -1,0 +1,10 @@
+article_id: rspa_1973_0059
+revised_title: The Role of d Functions in the Si-N Bond: A Molecular Orbital Theory Study
+semantic_tags:
+  - Molecular Orbital Theory
+  - Silicon-Nitrogen Bond
+  - Ab Initio Calculations
+  - Semi-Empirical Calculations
+  - Stereochemistry
+tldr: The authors investigated the role of d functions in the silicon-nitrogen bond using ab initio and semi-empirical molecular orbital theory. They studied the stereochemistry, dipole moments, and low-energy photoelectron spectra of molecules like SiH3NCO, SiH3N3, and their carbon analogues. The results showed that although p-d bonding may play a significant role in the Si-N bond, it does not directly control the stereochemistry of silicon pseudohalides.
+scientific_discipline: Chemistry > Molecular Bonding

@@ -1,0 +1,10 @@
+article_id: 110492
+revised_title: 'Integral Calculus Research: Abel's Theorem and Beyond'
+semantic_tags:
+  - Calculus
+  - Mathematical Analysis
+  - Abel's Theorem
+  - Legendre's Integral
+  - Poisson's Integral
+tldr: The author discusses the limitations of early integral calculus and introduces new methods for solving integrals. He highlights the work of mathematicians such as Abel, Legendre, and Poisson, who expanded the understanding of integrals and their applications. The author presents a new problem and outlines the process for solving it, opening up new possibilities for integral calculus research.
+scientific_discipline: Mathematics > Calculus

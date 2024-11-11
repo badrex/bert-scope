@@ -1,0 +1,10 @@
+article_id: rspa_1909_0024
+revised_title: Optimal Lens Parameters for Photographic Enlargement of Small Objects
+semantic_tags:
+  - Photographic enlargement
+  - Lens parameters
+  - Optics
+  - Image resolution
+  - Focal length
+tldr: The author investigates the best conditions for photographic enlargement of small solid objects, focusing on the lens's angular aperture and focal length. They derive formulas to determine the optimal lens parameters for achieving the best definition in the picture, considering the object's size and the required magnification.
+scientific_discipline: Engineering and Technology > Optics

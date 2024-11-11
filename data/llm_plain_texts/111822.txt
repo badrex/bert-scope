@@ -1,0 +1,10 @@
+article_id: 111822
+revised_title: 'Effect of Local Attraction on the Plumb-Line and Method of Computing Its Amount'
+semantic_tags:
+  - Geodesy
+  - Gravity
+  - Surveying
+  - Earth's figure
+  - Tabular Masses
+tldr: The author investigates the effect of local attraction on the plumb-line at stations on the English Arc of the Meridian between Dunnose and Burleigh Moor. They develop a method to calculate the attraction and apply it to determine the deflection of the plumb-line at Burleigh Moor. The findings can be used to improve the accuracy of the English Survey and are important for understanding the figure of the Earth.
+scientific_discipline: Earth Sciences > Geodesy

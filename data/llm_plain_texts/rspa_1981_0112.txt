@@ -1,0 +1,10 @@
+article_id: rspa_1981_0112
+revised_title: Spin Gauge Field Theory of Electric and Magnetic Spinors: A New Approach to Electromagnetism
+semantic_tags:
+  - Electromagnetism
+  - Gauge Theory
+  - Spin Space
+  - Generalized Electrons
+  - Dirac Algebra
+tldr: This article presents a spin gauge field theory of electric and magnetic spinors, which describes the interaction between electromagnetic fields and electric and magnetic sources without introducing physical singularities. The theory is based on invariance under transformations of the spin space and uses a non-unitary set of transformations. The authors introduce a new approach to electromagnetism, which differs significantly from standard gauge theories.
+scientific_discipline: Physics > Electromagnetism

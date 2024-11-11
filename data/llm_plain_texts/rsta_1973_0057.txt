@@ -1,0 +1,10 @@
+article_id: rsta_1973_0057
+revised_title: Improved Tiltmeter System and Latest Measurements in Sweden
+semantic_tags:
+  - Geophysics
+  - Tiltmeter
+  - Earth's interior
+  - Crustal movements
+  - Tidal forces
+scientific_discipline: Environmental and Earth Sciences > Geophysics
+tldr: The authors developed an improved servo-controlled tiltmeter system to measure changes in Earth's strain. The system uses a horizontal pendulum with an expansible bearing plate and an electro-optical transducer to sense and compensate for ground tilt. This system allows for precise measurements of crustal tilt, which can help investigate the Earth's interior and study processes like tectonic forces, ocean loading, and atmospheric pressure effects. The authors plan to establish an array of geodynamic stations in Scandinavia to further study these phenomena.

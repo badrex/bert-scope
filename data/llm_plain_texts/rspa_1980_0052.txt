@@ -1,0 +1,10 @@
+article_id: 'rspa_1980_0052'
+revised_title: 'The Emergence of Solid State Physics and the Discovery of Bloch Waves'
+semantic_tags:
+  - Solid State Physics
+  - Quantum Mechanics
+  - Electrons in Crystals
+  - Bloch Waves
+  - Fermi Statistics
+tldr: 'The author recounts their journey in solid state physics, focusing on their discovery of Bloch waves. They discuss their initial struggles with understanding conduction in metals and how they used quantum mechanics to explain the behavior of electrons in crystals. This led to the development of the concept of Bloch waves, which became a fundamental part of solid state physics.'
+scientific_discipline: Physics > Electromagnetism

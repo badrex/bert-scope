@@ -1,0 +1,10 @@
+article_id: 'rspa_1929_0077'
+revised_title: 'The Discovery of New Silicon Arc Spectrum Lines'
+semantic_tags:
+  - Atomic physics
+  - Spectroscopy
+  - Silicon chemistry
+  - Quantum mechanics
+  - Astrophysics
+tldr: The author conducted experiments with a silicon arc in a nitrogen atmosphere to study its spectrum. They discovered new lines in the silicon arc spectrum and analyzed them using the theory of Heisenberg and Hund. The findings expanded the understanding of the ionization stages of the silicon atom and provided valuable data for the classification of atomic energy levels.
+scientific_discipline: Physics > Atomic and Molecular Physics

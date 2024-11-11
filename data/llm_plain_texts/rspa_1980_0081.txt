@@ -1,0 +1,10 @@
+article_id: 'rspa_1980_0081'
+revised_title: 'Potential Barrier Effects on Double Excitation Series of Ca I and Sr I'
+semantic_tags:
+  - Atomic Physics
+  - Spectroscopy
+  - Quantum Mechanics
+  - Hartree-Fock Calculations
+  - Double Excitation Series
+tldr: The authors observed the double excitation series in Ca I and Sr I and studied the effects of the potential barrier on the properties of the wavefunction. They used single configuration Hartree-Fock calculations to analyze the differences between the doubly excited series in Ca I, Sr I, and Mg I. The results showed that the centrifugal barrier influences the wavefunction properties, leading to differences in the appearance of the spectra.
+scientific_discipline: Physics > Atomic Physics

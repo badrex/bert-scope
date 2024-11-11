@@ -1,0 +1,10 @@
+article_id: rspa_1928_0028
+revised_title: The Solubility and Diffusion of Hydrogen in Silver
+semantic_tags:
+  - Hydrogen solubility
+  - Metal hydrides
+  - Gas diffusion
+  - Material science
+  - Physical chemistry
+tldr: This study investigates the solubility and diffusion of hydrogen in silver. The authors found that hydrogen is absorbed by silver and that the solubility varies with temperature and pressure. They also discovered that the rate of hydrogen diffusion through quartz is directly proportional to the pressure and is consistent with previous findings.
+scientific_discipline: Chemistry > Physical chemistry

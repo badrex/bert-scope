@@ -1,0 +1,10 @@
+article_id: 'rspa_1909_0029'
+revised_title: 'Investigating Electro-Optical Effects and Their Impact on Light Propagation'
+semantic_tags:
+  - Electromagnetism
+  - Interferometry
+  - Radioactivity
+  - Optics
+  - Physics experiments
+tldr: The author conducted experiments to detect possible effects of electric and magnetic fields on the velocity of light propagation in glass. Using an interferometer, they tested various setups with electric forces, magnetic fields, and even water flow, but found no significant effects on light propagation. This study contributed to the understanding of the relationship between electromagnetism and optics.
+scientific_discipline: Physics > Electromagnetism

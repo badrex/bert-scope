@@ -1,0 +1,10 @@
+article_id: rspa_1992_0029
+revised_title: 'Refraction of Shear Waves in Inhomogeneous Anisotropic Materials: Applications to Austenitic Steel Welds'
+semantic_tags:
+  - Elastic waves
+  - Anisotropic materials
+  - Weld inspection
+  - Refraction
+  - Austenitic steel
+scientific_discipline: Engineering and Technology > Materials Science
+tldr: This article studies the refraction of horizontally polarized shear waves in inhomogeneous anisotropic materials, focusing on applications to austenitic steel welds. The authors develop a mathematical model for the propagation of ultrasonic beams in these materials and use it to analyze the refraction of waves at the fusion interface between isotropic and transversely isotropic materials. The research has implications for non-destructive inspection of welds and other anisotropic materials.

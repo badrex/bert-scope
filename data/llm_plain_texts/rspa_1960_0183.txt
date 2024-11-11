@@ -1,0 +1,10 @@
+article_id: rspa_1960_0183
+revised_title: 'Polymerization of Water in Benzene and Toluene: A Model and Experimental Testing'
+semantic_tags:
+  - Polymerization
+  - Water
+  - Benzene
+  - Toluene
+  - Hydrogen bonding
+tldr: The authors propose a model for the polymerization of water in benzene and toluene, treating water molecules like ordinary tetrafunctional monomers and considering the solvent as an inert continuum. They test the model using specific volume measurements, relative viscosity measurements, and heat of solution data, providing support for the model's predictions. The model suggests that water clusters in these solution systems correspond to the gel point in polyfunctional polymerization.
+scientific_discipline: Chemistry > Polymer Chemistry

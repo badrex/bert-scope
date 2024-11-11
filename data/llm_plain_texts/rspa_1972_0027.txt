@@ -1,0 +1,10 @@
+article_id: rspa_1972_0027
+revised_title: Kinetic Energy and Mass Spectra of Hydrogen, Deuterium, and Hydrogen Deuteride Ions
+semantic_tags:
+  - Mass spectrometry
+  - Ion chemistry
+  - Kinetic energy
+  - Hydrogen molecule cation
+  - Vibrational levels
+scientific_discipline: Chemistry > Physical Chemistry
+tldr: The authors studied the mass and ion kinetic energy spectra of hydrogen (H2), deuterium (HD), and deuterium-2 (D2) molecules using a double focusing mass spectrometer. They examined the energy released during the decomposition of these ions and found that the energy release is influenced by the vibrational levels and electronic transitions. The results provide insights into the ion chemistry and fragmentation processes of these simple molecules.

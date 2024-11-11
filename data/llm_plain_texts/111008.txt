@@ -1,0 +1,10 @@
+article_id: 111008
+revised_title: 'Instruments for Measuring the Zodiacal Light: A 19th Century Attempt'
+semantic_tags:
+  - Astronomy
+  - Zodiacal Light
+  - Instrumentation
+  - Equatorial Instrument
+  - Observational Astronomy
+tldr: The author, C. Piazzi Smyth, attempted to measure the properties of the Zodiacal Light using an equatorial instrument. He found the phenomenon to be more stable and determinate than previously thought, and encouraged other astronomers to continue studying it. Smyth also provided a series of illustrations to help others understand the different appearances of the Zodiacal Light throughout the year.
+scientific_discipline: Astronomy > Observational Astronomy

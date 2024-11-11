@@ -1,0 +1,10 @@
+article_id: rsta_1978_0048
+revised_title: Microtechnology and Telecommunications: The Evolution and Future of Silicon Integrated Circuits
+semantic_tags:
+  - Microelectronics
+  - Telecommunications
+  - Silicon technology
+  - Integrated circuits
+  - Digital systems design
+tldr: This article discusses the development and impact of microtechnology, specifically silicon integrated circuits, on the telecommunications industry. It explores the progress made in cost and performance, implications for digital systems design, future advancements, and ways telecommunications can best utilize this technology. The article also addresses challenges and limitations in the field, such as reliability, design, and testing.
+scientific_discipline: Engineering and Technology > Microelectronics

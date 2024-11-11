@@ -1,0 +1,10 @@
+article_id: rspa_1961_0089
+revised_title: Investigation of the Binding Energies of Light Hypernuclei
+semantic_tags:
+  - Nuclear Physics
+  - Hypernuclei
+  - Two-body interactions
+  - Spin-dependent potential
+  - Yukawa potential
+tldr: The authors investigate the binding energies of light hypernuclei using a method that includes the effect of a possible hard core in the -nucleon potential. They find that a central, spin-dependent potential with a hard core leads to the observed binding energies. The existence of the hyperdeuteron is shown to be most unlikely.
+scientific_discipline: Physics > Nuclear Physics

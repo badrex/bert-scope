@@ -1,0 +1,11 @@
+article_id: 'rsta_1992_0061'
+revised_title: 'Cryoenzymology and Time-Resolved Crystallography in Enzyme Catalysis'
+semantic_tags:
+  - Crystallography
+  - Enzyme kinetics
+  - Cryoenzymology
+  - Time-resolved X-ray diffraction
+  - Protein structure analysis
+tldr: The article discusses the use of cryoenzymology and time-resolved crystallography techniques to study enzyme catalysis. By using cryoconditions and intense X-ray radiation, researchers can analyze the structure and behavior of enzyme intermediates at high resolution. This method helps to understand the interactions between enzymes and substrates, providing insights into enzyme kinetics and catalytic mechanisms.
+scientific_discipline: Biology and Life Sciences > Biochemistry
+´´´

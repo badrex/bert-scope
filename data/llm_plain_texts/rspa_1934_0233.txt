@@ -1,0 +1,10 @@
+article_id: rspa_1934_0233
+revised_title: 'Spectrum Analysis of Ethylene Flame Bands'
+semantic_tags:
+  - Spectroscopy
+  - Flame Chemistry
+  - Ethylene
+  - Molecular Spectra
+  - Diatomic Molecules
+tldr: The author investigates the spectrum of the flame of ethylene and discovers two sets of bands, A and B. They analyze the bands and find that the majority of the normal ethylene flame bands (Group A) can be arranged in a v'v" scheme, which is considered appropriate for the spectrum of a diatomic molecule. The extra bands (Group B) appear in modified flames and have a general resemblance to the A bands.
+scientific_discipline: Chemistry > Spectroscopy

@@ -1,0 +1,10 @@
+article_id: rspa_1937_0052
+revised_title: Further Measurements of the Cosmic-Ray Energy Spectrum
+semantic_tags:
+  - Cosmic Rays
+  - Particle Physics
+  - Energy Spectrum
+  - Track Measurements
+  - Cloud Chamber
+scientific_discipline: Physics > Particle Physics
+tldr: The author conducted experiments to determine the energy spectrum of cosmic-ray particles by measuring the curvature of their tracks with a counter-controlled cloud chamber in a strong magnetic field. The results showed that the majority of particles were positively charged, and the positive and negative spectra were roughly similar. The observed spectrum was fairly uniform between specific curvatures of 1 and 2, but fell rapidly beyond that range.

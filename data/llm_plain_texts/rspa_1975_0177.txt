@@ -1,0 +1,10 @@
+article_id: rspa_1975_0177
+revised_title: Linear Stability Analysis of Slowly Varying Unsteady Flows in a Curved Channel
+semantic_tags:
+  - Fluid Dynamics
+  - Stability Theory
+  - Curved Channel Flows
+  - Unsteady Flows
+  - WKB Approximation
+tldr: This article investigates the linear stability of viscous flows in a curved channel with time-dependent, slowly varying pressure gradients. The authors use the WKB approximation to analyze the asymptotic behavior of small perturbation waves and determine their characteristics, such as amplitude, transverse structure, and amplification rate. The study focuses on understanding the complex flow dynamics in curved channels, which is relevant to blood flow in the aorta.
+scientific_discipline: Physics > Fluid Dynamics

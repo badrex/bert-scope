@@ -1,0 +1,10 @@
+article_id: rspa_1975_0004
+revised_title: 'Gauge-Independent Angular Momentum in Asymptotically Flat Einstein-Maxwell Manifolds'
+semantic_tags:
+  - General Relativity
+  - Gauge Theory
+  - Angular Momentum
+  - Asymptotically Flat Space-Time
+  - Einstein-Maxwell Manifolds
+tldr: The authors develop a method to define gauge-independent angular momentum in general relativity by treating it as a Yang-Mills theory based on Lorentz invariance. They derive six spin currents and a Gauss theorem for integrated charges, which are calculated using two-surface integrals at future null infinity. The authors also introduce a new twistor structure and discuss the radiation of spin via electromagnetic and gravitational waves.
+scientific_discipline: Physics > General Relativity

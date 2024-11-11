@@ -1,0 +1,10 @@
+article_id: 112491
+revised_title: 'Classification and Analysis of Quadratic Forms with Multiple Indeterminates'
+semantic_tags:
+  - Algebra
+  - Number Theory
+  - Matrix Theory
+  - Invariants
+  - Quadratic Forms
+tldr: The author presents a comprehensive analysis of quadratic forms containing more than three indeterminates, focusing on their invariants and concomitants. The study classifies these forms into orders based on their primitive concomitants and provides a method for determining their generic characters. This work expands the understanding of higher-dimensional quadratic forms and their properties.
+scientific_discipline: Mathematics > Algebra

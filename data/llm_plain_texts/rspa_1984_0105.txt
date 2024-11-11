@@ -1,0 +1,10 @@
+article_id: 'rspa_1984_0105'
+revised_title: 'Onset of Convection in Mixtures Near Superfluid Transition Temperature'
+semantic_tags:
+  - Fluid Dynamics
+  - Convection
+  - Double-Diffusive Convection
+  - Temperature Modulation
+  - Rayleigh-Benard Instability
+tldr: The authors study the onset of convection in mixtures near the superfluid transition temperature, considering the effects of temperature modulation. They find that the modulation can cause parametric resonances, leading to stabilization or destabilization of the system. The results suggest that experimental work in this field could be stimulated by these findings.
+scientific_discipline: Physics > Fluid Dynamics

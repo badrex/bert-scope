@@ -1,0 +1,10 @@
+article_id: rspa_1978_0081
+revised_title: 'Subharmonic Instabilities in Gravity Waves of Finite Amplitude'
+semantic_tags:
+  - Fluid Dynamics
+  - Wave Instability
+  - Water Waves
+  - Nonlinear Waves
+  - Hydrodynamics
+tldr: This article investigates the instabilities of gravity waves of finite amplitude in deep water, focusing on subharmonic perturbations. The author extends the stability analysis of irrotational water waves and finds that certain instabilities are temporarily suppressed at specific wave amplitudes, while a new type of instability appears at higher values. The calculated growth rates are compared with observed rates, providing insights into the behavior of water waves.
+scientific_discipline: Physics > Fluid Dynamics

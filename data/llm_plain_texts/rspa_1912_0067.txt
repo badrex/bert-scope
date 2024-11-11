@@ -1,0 +1,10 @@
+article_id: 'rspa_1912_0067'
+revised_title: 'High-Pressure Physicochemical Determinations Using Optical Methods'
+semantic_tags:
+  - High-Pressure Physics
+  - Crystallography
+  - Phase Transitions
+  - Optical Properties
+  - Melting Points
+tldr: 'The authors developed an apparatus to study the effects of high pressure on various substances, including their melting points and phase transitions. They used optical methods to measure changes in refractive index, dispersion, and other properties under pressure. Their experiments showed that the melting points of certain substances can be significantly affected by pressure, and they were able to determine the limits of supercooling and superheating at different pressures.'
+scientific_discipline: Physics > Materials Science

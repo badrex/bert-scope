@@ -1,0 +1,10 @@
+article_id: rspa_1981_0034
+revised_title: 'Intensity Fluctuations in Deep Phase Screens with Power-Law Spectra'
+semantic_tags:
+  - Wave Propagation
+  - Phase Screen
+  - Intensity Fluctuations
+  - Power-Law Spectrum
+  - Optical Physics
+tldr: The article investigates the spatial frequency spectrum of intensity fluctuations in a plane wave after passing through a one-dimensional phase screen with a power-law spectrum. The study shows that the unmodified power-law spectrum can only be used when the observer is close to the screen, and a more exact form must be used at larger distances. The intensity spectrum's behavior differs fundamentally between the cases of a power-law index of 4 and 2, and the article provides analytical forms for the spectrum and discusses the existence of a sharp peak in the intensity spectrum.
+scientific_discipline: Physics > Optics

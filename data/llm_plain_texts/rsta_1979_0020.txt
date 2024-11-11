@@ -1,0 +1,10 @@
+article_id: rsta_1979_0020
+revised_title: Correction to General Connection Formulae for Liouvillé-Green Approximations in the Complex Plate
+semantic_tags:
+  - Mathematical Physics
+  - Approximations
+  - Complex Plate
+  - Liouvillé-Green
+  - Corrigendum
+tldr: This article is a corrigendum to a previous publication that contained errors in the printing of Equation (1) on page [insert page number]. The correct version of the equation should be [insert corrected equation].
+scientific_discipline: Mathematics > Mathematical Physics

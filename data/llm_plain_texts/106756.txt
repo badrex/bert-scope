@@ -1,0 +1,10 @@
+article_id: '106756'
+revised_title: 'Investigating the Effect of Temperature on Specific Gravities and an Easy Method for Reducing them to a Common Standard'
+semantic_tags:
+  - Thermodynamics
+  - Heat and Temperature
+  - Specific Gravity
+  - Density
+  - Fluid Dynamics
+tldr: The author, Richard Kirwan, examines the effect of temperature on the specific gravities of substances and proposes a method to reduce them to a common standard. He finds that the expansion of water is not proportional to the degrees of heat and that specific gravities of solids change with temperature. The author suggests using a simple analogy to correct for these temperature variations and obtain accurate weights and specific gravities.
+scientific_discipline: Physics > Thermodynamics

@@ -1,0 +1,11 @@
+article_id: 'rspa_1919_0008'
+revised_title: 'Absorption Spectra and Ionisation Potentials of Calcium, Strontium, and Barium'
+semantic_tags:
+  - Atomic physics
+  - Spectroscopy
+  - Ionization potential
+  - Calcium
+  - Strontium
+  - Barium
+tldr: The authors investigated the absorption spectra and ionization potentials of calcium, strontium, and barium using a carbon arc. They identified the members of the series v = (1/5, S)~(m, P) and calculated the ionization potentials for these elements. Their findings provide a better understanding of the atomic structure and properties of these elements.
+scientific_discipline: Chemistry > Atomic physics

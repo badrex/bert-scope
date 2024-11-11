@@ -1,0 +1,10 @@
+article_id: 'rsbm_1964_0008'
+revised_title: 'Alan Arnold Griffith: Pioneering Work in Aeronautical Science and Materials Strength'
+semantic_tags:
+  - Aeronautical engineering
+  - Materials science
+  - Jet-lift
+  - Gas turbines
+  - Stress analysis
+tldr: 'The article is a biographical memoir of Alan Arnold Griffith, a pioneering aeronautical engineer and materials scientist. Griffith made significant contributions to the fields of jet-lift, gas turbines, and stress analysis. His work on estimating stresses using soap films earned him the nickname "Bubble Griffith." He also developed the "Theory of Rupture," which became the foundation for future theories on fracture strength and the behavior of materials. Griffith's ideas on surface conditions and crack theory helped explain the different behaviors of brittle materials in tension, torsion, and compression.'
+scientific_discipline: Engineering and Technology > Aeronautical Engineering

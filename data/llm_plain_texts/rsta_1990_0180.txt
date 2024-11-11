@@ -1,0 +1,11 @@
+article_id: 'rsta_1990_0180'
+revised_title: 'NMR Imaging: Advances and Future Prospects in Diabetes Research'
+semantic_tags:
+  - Nuclear Magnetic Resonance (NMR)
+  - Diabetes Mellitus
+  - Glycogen Synthesis
+  - Insulin Resistance
+  - Glucose Metabolism
+tldr: The article discusses the use of Nuclear Magnetic Resonance (NMR) imaging to study glucose disposal in normal and diabetic humans. The researchers found that muscle glycogen synthesis is the main pathway for glucose disposal in both normal and diabetic subjects, and defects in muscle glycogen synthesis play a significant role in insulin resistance in non-insulin-dependent diabetes mellitus (NIDDM) patients. NMR techniques provide a non-invasive way to measure glycogen concentrations and help understand the underlying mechanisms of insulin resistance.
+scientific_discipline: Biology and Life Sciences > Biochemistry
+```

@@ -1,0 +1,10 @@
+article_id: rspa_1969_0118
+revised_title: Crystallographic Shear and Non-Stoichiometry in Molybdenum Trioxide
+semantic_tags:
+  - Crystallography
+  - Non-stoichiometry
+  - Transition metal oxides
+  - Shear structures
+  - Defect solids
+tldr: The author investigates the formation of crystallographic shear planes in molybdenum trioxide, a type of non-stoichiometric compound. These shear planes are chemical defects that occur when oxygen atoms are removed from the structure. The density of these planes can describe the non-stoichiometric range MoO3_x (0 < x < 0.05). The author also discusses the mechanism of production of these shear planes and compares it with other models proposed in the literature.
+scientific_discipline: Physics > Materials Science

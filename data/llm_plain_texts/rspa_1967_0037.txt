@@ -1,0 +1,10 @@
+article_id: rspa_1967_0037
+revised_title: Magnetic Properties of Dilute Palladium-Iron Alloys
+semantic_tags:
+  - Spin waves
+  - Ferromagnetic alloys
+  - Palladium-iron interactions
+  - Exchange coupling
+  - Susceptibility
+tldr: The authors investigated the magnetic properties of dilute palladium-iron alloys, focusing on the dynamic properties in the ferromagnetic state (spin waves). They used a virtual bound state model and found that the spin wave spectrum has two branches, with one branch having zero frequency in the long wavelength limit. The study also provided a simple relation between the induced giant moment and the susceptibility of the matrix, which is in reasonable agreement with experimental data.
+scientific_discipline: Physics > Condensed Matter Physics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0207'
+revised_title: 'Exploring the Evolution of Honest Signaling and the Role of the Handicap Principle'
+semantic_tags:
+  - Evolutionary Biology
+  - Signaling Theory
+  - Handicap Principle
+  - Predator-Prey Dynamics
+  - Game Theory
+tldr: The author examines how honest signaling evolves in predator-prey systems, focusing on the role of the handicap principle. They develop a dynamic model to explore the conditions for the evolution and maintenance of honest signaling, finding that it occurs when the cost of signaling is higher for low-quality prey than for high-quality prey. This research sheds light on how animals communicate their quality to potential mates or rivals, and how this communication can be maintained in a population.
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

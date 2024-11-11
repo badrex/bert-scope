@@ -1,0 +1,10 @@
+article_id: rsta_1985_0004
+revised_title: Doping of Conducting Polymers: The Role of Reduction Potentials
+semantic_tags:
+  - Conducting polymers
+  - Doping
+  - Reduction potentials
+  - Organic semiconductors
+  - Polyacetylene
+tldr: This article discusses the concept of doping in conducting polymers, focusing on the role of reduction potentials. The authors explain that doping involves the partial oxidation or reduction of the polymer, and they demonstrate how reduction potentials can be used to rationalize the ability of certain dopants to increase the conductivity of selected organic polymers by many orders of magnitude. The study focuses on polyacetylene, the prototype conducting polymer, but the authors suggest that the principles discussed may be applicable to other conducting polymer systems.
+scientific_discipline: Chemistry > Organic Chemistry

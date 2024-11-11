@@ -1,0 +1,10 @@
+article_id: rspa_1951_0138
+revised_title: 'Investigation of Cloud Formation in an Expansion Chamber Irradiated by Ultra-Violet Light'
+semantic_tags:
+  - Cloud Chamber
+  - Condensation
+  - Ultra-Violet Light
+  - Atomic Oxygen
+  - Expansion Ratio
+tldr: 'The authors conducted experiments using an expansion chamber filled with air and water vapor, irradiating it with ultra-violet light. They discovered that the condensation process does not occur on charged particles, but on electrically neutral nuclei. By varying the ultra-violet light's wavelength, they found that atomic oxygen, produced by the radiation's action on oxygen molecules, initiates the condensation. Similar effects were observed when an intense beam of deuterons was introduced into the chamber.'
+scientific_discipline: Physics > Optics

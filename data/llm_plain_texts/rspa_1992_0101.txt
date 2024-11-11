@@ -1,0 +1,10 @@
+article_id: rspa_1992_0101
+revised_title: 'Torque on a Rotating Multi-Bladed Vane in a Newtonian Fluid or Linear Elastic Medium'
+semantic_tags:
+  - Fluid Dynamics
+  - Vane Geometry
+  - Torque Calculation
+  - Boundary Conditions
+  - Stress Analysis
+tldr: The authors study the torque required to rotate a multi-bladed vane in a newtonian fluid or linear elastic medium, considering both no-slip and stress-free boundary conditions. They use Mellin transforms and the Wiener-Hopf technique to analyze the stresses and velocities around the vane and find that the torque is proportional to the square of the number of blades. The results provide insights into the effect of boundary conditions on the vane's performance and can be applied to various materials, including gelled colloidal suspensions.
+scientific_discipline: Engineering and Technology > Fluid Mechanics

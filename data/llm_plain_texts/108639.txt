@@ -1,0 +1,10 @@
+article_id: 108639
+revised_title: Symmetric Functions of Roots in Systems of Equations
+semantic_tags:
+  - Algebra
+  - Linear Equations
+  - Quadratic Equations
+  - Symmetry in Mathematics
+  - Mathematical Functions
+tldr: The author presents a method to find symmetric functions of roots in systems of equations. By using the resultant of a system of equations, the author demonstrates how to express symmetric functions of the roots in terms of coefficients. The process is applied to two specific cases: a linear equation and a quadratic equation, and a linear equation and a cubic equation.
+scientific_discipline: Mathematics > Algebra

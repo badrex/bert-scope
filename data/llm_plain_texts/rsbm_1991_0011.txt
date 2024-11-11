@@ -1,0 +1,10 @@
+article_id: 'rsbm_1991_0011'
+revised_title: 'Alan Frank Gibson: A Pioneering Physicist and His Contributions to Solid State Physics'
+semantic_tags:
+  - Solid State Physics
+  - Luminescence
+  - Phosphors
+  - Band Theory
+  - Optical Properties
+tldr: 'Alan Frank Gibson was a renowned physicist who made significant contributions to the field of solid state physics, particularly in the areas of luminescence and optical properties of solids. His research focused on the luminescent properties of phosphors and the exploitation of these properties in displays for airborne radar. Gibson's work, conducted in collaboration with George Garlic, led to a better understanding of the factors governing luminescent efficiency and the role of non-radiative transitions in phosphors. This research laid the foundation for further advancements in solid state physics and its applications.'
+scientific_discipline: Physics > Solid State Physics

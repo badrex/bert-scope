@@ -1,0 +1,10 @@
+article_id: rspa_1982_0131
+revised_title: Dynamic-Jump Technique for Measuring Macroscopic Attractive Forces
+semantic_tags:
+  - Surface Forces
+  - Van der Waals Forces
+  - Attractive Forces Measurement
+  - Macroscopic Forces
+  - Physics
+tldr: The authors present a theoretical study of a dynamic-jump method to measure macroscopic attractive forces between solid surfaces. They describe a physical model of the measuring system and introduce a phenomenological force function to represent previous force measurements. The study highlights the importance of a point of unstable equilibrium, which allows for the measurement of forces close to the contact equilibrium position, beyond the reach of earlier static-jump methods.
+scientific_discipline: Physics > Mechanics

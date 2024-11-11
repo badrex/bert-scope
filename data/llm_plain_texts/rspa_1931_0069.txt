@@ -1,0 +1,10 @@
+article_id: rspa_1931_0069
+revised_title: On the Analysis of Periodicity in Serial Data
+semantic_tags:
+  - Time series analysis
+  - Serial correlation
+  - Fourier analysis
+  - Periodogram
+  - Damped oscillations
+tldr: The author presents a method for analyzing periodicity in serial data, focusing on the relationship between consecutive terms and the effect of external disturbances. They introduce the concept of serial correlation coefficients and discuss the use of Fourier analysis and periodograms to identify natural periods in the data. The author applies this method to analyze pressure data from Port Darwin, demonstrating the utility of the approach in understanding oscillations in world weather patterns.
+scientific_discipline: Mathematics > Time series analysis

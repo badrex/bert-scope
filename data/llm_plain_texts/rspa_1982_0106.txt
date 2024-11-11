@@ -1,0 +1,10 @@
+article_id: rspa_1982_0106
+revised_title: Geometry of Bifurcations in the Normalized Reduced Henon-Heiles Family
+semantic_tags:
+  - Dynamical Systems
+  - Hamiltonian Mechanics
+  - Bifurcation Theory
+  - Mathematical Physics
+  - Astrophysics
+tldr: This article explores the global geometry of bifurcations in a family of Hamiltonian functions derived from the Henon-Heiles system, which is used to model axisymmetric galaxies. The author analyzes the critical points and their indexes, providing insights into the behavior of the system and its bifurcation diagram.
+scientific_discipline: Mathematics > Dynamical Systems

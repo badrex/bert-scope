@@ -1,0 +1,10 @@
+article_id: rspa_1934_0028
+revised_title: 'Anomalous Absorption of High Energy Gamma Radiation and Secondary Nuclear Radiation'
+semantic_tags:
+  - Nuclear Physics
+  - Gamma Radiation
+  - Secondary Radiation
+  - Atomic Interaction
+  - Quantum Mechanics
+tldr: The authors investigated the anomalous absorption of high energy gamma radiation and the secondary nuclear radiation emitted by different elements when irradiated with thorium C and radon sources. They found that radiation with a quantum energy of around two million volts can undergo a new type of atomic interaction, transforming a considerable part of the energy into a radiation resembling -radiation with half a million volts quantum energy. This phenomenon is not yet fully understood and may involve a different type of interaction than those manifested by the extranuclear electronic system.
+scientific_discipline: Physics > Nuclear Physics

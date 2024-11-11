@@ -1,0 +1,11 @@
+article_id: rstb_1986_0046
+revised_title: 'Characterization and Properties of the Six-Carbon Intermediate in the Ribulose Bisphosphate Carboxylase Reaction'
+semantic_tags:
+  - 'Ribulose bisphosphate carboxylase'
+  - 'Carboxylation'
+  - 'Six-carbon intermediate'
+  - 'CKABP'
+  - 'Enzyme kinetics'
+tldr: The authors discovered the six-carbon intermediate, 2'-carboxy-3-keto-D-arabinitol 1,5-bisphosphate (CKABP), in the ribulose bisphosphate carboxylase reaction. They studied its properties, including its stability, decarboxylation, and hydrolysis. CKABP undergoes decarboxylation and hydrolysis, with the latter being more prominent at higher pH levels. The authors also found that CKABP exists predominantly as the C-3 ketone in solution, while on the enzyme, it exists as the hydrated C-3 gem-diol form.
+scientific_discipline: Biology and Life Sciences > Biochemistry
+```

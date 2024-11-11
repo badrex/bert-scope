@@ -1,0 +1,10 @@
+article_id: rspa_1990_0087
+revised_title: Microstructural Characterization of Carbon-Carbon Fibre Composites
+semantic_tags:
+  - Carbon-Carbon Composites
+  - Microstructure
+  - Thermal Transport Properties
+  - Graphite Fibers
+  - Electron Microscopy
+tldr: This article investigates the microstructures of carbon-carbon fibre composites, focusing on the shape, orientation, and porosity distribution. The authors use optical and scanning electron microscopy to study the composites' components, such as matrix, fibre, and porosity. Transmission electron microscopy is also employed to examine the structure of fibre and matrix, enabling the determination of grain sizes in parallel and perpendicular orientations for both graphite constituents. The study provides insights into the microstructures of specific carbon-carbon fibre composites, which are influenced by factors like fibre type, heat treatment temperature, and processing conditions for densification of the preform.
+scientific_discipline: Engineering and Technology > Materials Science

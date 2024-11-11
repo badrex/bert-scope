@@ -1,0 +1,10 @@
+article_id: rspa_1957_0088
+revised_title: 'Influence of Heavy Foreign Gases on Ethane Decomposition'
+semantic_tags:
+  - Chemical kinetics
+  - Gas-phase reactions
+  - Catalysis
+  - Paraffin decomposition
+  - Equilibrium constants
+tldr: The authors studied the influence of heavy foreign gases, such as sulfur hexafluoride and carbon tetrafluoride, on the thermal decomposition of ethane. They found that these gases accelerate the rate of decomposition, especially the formation of methane. The authors also discovered that the gases affect both modes of ethane decomposition, leaving the equilibrium constant unchanged, in accordance with thermodynamic requirements.
+scientific_discipline: Chemistry > Chemical kinetics

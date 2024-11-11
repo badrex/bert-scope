@@ -1,0 +1,10 @@
+article_id: rspa_1954_0027
+revised_title: Heavy Mesons Production in High-Energy Nuclear Interactions
+semantic_tags:
+  - Particle Physics
+  - Nuclear Disintegration
+  - Meson Production
+  - Nuclear Interactions
+  - High-Energy Physics
+tldr: The authors conducted an investigation of a nuclear disintegration caused by a charged particle, likely a proton, with high energy. They observed a jet of secondary particles and a cascade of electrons and photons, which allowed them to determine the ratio of neutral particles to charged shower particles produced in the disintegration. The results indicated that 40% of the charged shower particles were not -mesons, suggesting that they could be heavy mesons. The interaction length of the shower particles from the event was found to be similar to that of nucleons, indicating that -mesons interact strongly with nuclei.
+scientific_discipline: Physics > Particle Physics

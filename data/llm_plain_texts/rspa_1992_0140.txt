@@ -1,0 +1,10 @@
+article_id: rspa_1992_0140
+revised_title: Heteroclinic Bifurcations in Damped Rigid Block Motion: Analyzing the Melnikov Method
+semantic_tags:
+  - Nonlinear Dynamics
+  - Bifurcation Theory
+  - Melnikov Method
+  - Rigid Block Motion
+  - Damping
+tldr: This article explores the presence of heteroclinic bifurcations in a piecewise-linear system of ordinary differential equations that describe the rocking motion of a slender rigid block with damping. The Melnikov method is used to calculate the exact distance between stable and unstable manifolds, and an exact expression is given for the critical amplitude for heteroclinic bifurcations. The article also provides details of the manifolds and their extensions into the opposite half-plane.
+scientific_discipline: Mathematics > Nonlinear Dynamics

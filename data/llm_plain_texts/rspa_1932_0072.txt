@@ -1,0 +1,10 @@
+article_id: rspa_1932_0072
+revised_title: 'Low-Speed Calibration of the Pitot-Static Tube Factor'
+semantic_tags:
+  - Fluid Dynamics
+  - Aerodynamics
+  - Air Speed Measurement
+  - Calibration
+  - Reynolds Number
+tldr: The authors conducted experiments to determine the pitot-static tube factor at low Reynolds numbers, specifically focusing on measuring low air speeds. They found that the factor remained constant over a wide range of Reynolds numbers, but at low speeds, there was a significant scale effect on the static side of the instrument. This study aimed to provide a reliable low-speed standard for airspeed measurements.
+scientific_discipline: Physics > Fluid Dynamics

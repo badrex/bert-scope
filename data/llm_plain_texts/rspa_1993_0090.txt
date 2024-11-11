@@ -1,0 +1,10 @@
+article_id: rspa_1993_0090
+revised_title: 'Advancements in Surface Crystallography with Low-Energy Electron Diffraction'
+semantic_tags:
+  - Surface crystallography
+  - Low-energy electron diffraction
+  - Surface structure determination
+  - Surface reconstruction
+  - Surface characterization techniques
+tldr: This article reviews the development of surface crystallography using low-energy electron diffraction (LEED). It discusses the principles and capabilities of LEED, its history, and its applications in studying various surface structures. LEED has become a valuable tool for understanding surface properties and has contributed to the determination of over 300 surface structures.
+scientific_discipline: Physics > Optics

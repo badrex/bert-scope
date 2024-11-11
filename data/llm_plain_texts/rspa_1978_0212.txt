@@ -1,0 +1,10 @@
+article_id: rspa_1978_0212
+revised_title: Thermodynamics of Parallel Flat Plate Condensers: A General Analysis
+semantic_tags:
+  - Condensers
+  - Thermodynamics
+  - Electrostatics
+  - Surface effects
+  - Dielectric materials
+tldr: This article presents a general thermodynamic analysis of parallel flat plate condensers, focusing on the interactions between a multi-component fluid dielectric and the condenser plates. The study takes into account surface effects and derives expressions for the effects of dielectric composition on the inner potential difference between the plates. The findings provide a better understanding of the thermodynamics of condensers and the relationship between electrostatic and other forces at microscopic separations.
+scientific_discipline: Physics > Electromagnetism

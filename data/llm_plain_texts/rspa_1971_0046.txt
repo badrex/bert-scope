@@ -1,0 +1,12 @@
+article_id: rspa_1971_0046
+revised_title: 'Anodization of Aluminum, Beryllium, and Zirconium: Growth Rates and Parameters'
+semantic_tags:
+  - Oxide films
+  - Anodization
+  - Solid-state anodization
+  - Aluminum
+  - Beryllium
+  - Zirconium
+  - Growth rates
+tldr: The authors studied the growth of oxide films on aluminum, beryllium, and zirconium using solid-state anodization. They found that the growth rates were very slow, around one atom layer per day, and measured the growth parameters by calculating the barrier height, first jump distance, and number of active growth sites. The method allowed them to examine the growth mechanism of anodic oxide films with advantages like controlled purity and accurate measurement of anodizing voltage.
+scientific_discipline: Engineering and Technology > Materials Science

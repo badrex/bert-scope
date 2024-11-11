@@ -1,0 +1,10 @@
+article_id: rspa_1938_0104
+revised_title: 'Correction of de Sitter's Formula for the Line-Element in General Relativity Theory'
+semantic_tags:
+  - General Relativity
+  - Gravitational Waves
+  - Celestial Mechanics
+  - Astrophysics
+  - Astronomy
+tldr: 'Eddington and Clark re-examine the problem of bodies in general relativity theory, focusing on de Sitter's formula for the line-element. They identify an error in de Sitter's calculations and correct it, resulting in a more accurate determination of the mass of a system of particles. This correction aligns with the theory of the equivalent mass of a system of continuous matter developed by Tolman, Whittaker, and others.'
+scientific_discipline: Physics > Astrophysics

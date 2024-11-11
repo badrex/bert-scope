@@ -1,0 +1,10 @@
+article_id: rspa_1960_0166
+revised_title: 'Retarded Interaction Between Neutral Atoms: Three-Body London-van der Waals Interaction'
+semantic_tags:
+  - Quantum Electrodynamics
+  - Van der Waals Forces
+  - Atomic Interactions
+  - Molecular Physics
+  - Three-Body Interaction
+tldr: The authors present a calculation for the three-body interaction energy of neutral atoms, using methods of quantum electrodynamics. They derive an expression for the non-additive interaction energy, which includes both the quasi-static and long-distance interactions. The study is relevant to understanding the attractive forces between solid macroscopic bodies and the validity of the assumption of two-body interactions in molecular physics.
+scientific_discipline: Physics > Atomic and Molecular Physics

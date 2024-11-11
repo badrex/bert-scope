@@ -1,0 +1,10 @@
+article_id: rsta_1916_0010
+revised_title: 'The Stark Effect and the Distribution of Intensity in Broadened Spectrum Lines'
+semantic_tags:
+  - Spectroscopy
+  - Stark effect
+  - Spectrum lines
+  - Electric fields
+  - Asymmetrical broadening
+tldr: The authors investigate the distribution of intensity in broadened spectrum lines and the role of electric fields in their broadening. They find that the Stark effect, which causes the separation of spectral components in an electric field, is responsible for the asymmetrical broadening of certain spectral lines. This research helps to understand the complex phenomena of spectral line broadening and its relation to pressure shifts and the nature of radiation.
+scientific_discipline: Physics > Electromagnetism

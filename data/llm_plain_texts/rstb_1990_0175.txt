@@ -1,0 +1,10 @@
+article_id: 'rstb_1990_0175'
+revised_title: 'Soil Compaction and Plant Root Growth: A Quantitative Analysis'
+semantic_tags:
+  - Soil compaction
+  - Plant root growth
+  - Mechanical impedance
+  - Soil strength
+  - Root extension model
+tldr: This article examines the effects of soil compaction on plant root growth and the development of a root extension model to overcome mechanical impedance. The authors analyze the mechanical behavior of soil and the response of roots to mechanical confinement, highlighting the importance of physical factors in root growth processes.
+scientific_discipline: Environmental and Earth Sciences > Soil Science

@@ -1,0 +1,10 @@
+article_id: rspa_1918_0029
+revised_title: 'Experimental Demonstration of Light Scattering by Dust-free Air'
+semantic_tags:
+  - Atmospheric Optics
+  - Light Scattering
+  - Sky Color
+  - Air Filtering
+  - Experimental Physics
+tldr: The author conducted an experiment to study the scattering of light by dust-free air and observed a blue track along the beam, which was visible even without dust particles. The experiment proved that the scattering was not due to dust but a property of pure air, and its intensity was of the expected order of magnitude. The author also ruled out the possibility of fluorescence by performing a spectroscopic examination of the scattered light.
+scientific_discipline: Physics > Atmospheric Optics

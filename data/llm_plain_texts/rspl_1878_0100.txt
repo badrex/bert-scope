@@ -1,0 +1,10 @@
+article_id: rspl_1878_0100
+revised_title: On the Flow of Water in Uniform Regime in Rivers and Open Channels
+semantic_tags:
+  - Fluid Dynamics
+  - River Flow
+  - Hydraulics
+  - Water Velocity
+  - Open Channel Flow
+tldr: The author discusses the flow of water in rivers and open channels, challenging the laminar theory that assumes the water's velocity decreases from the surface to the bottom. The author presents experimental evidence and research findings that show the maximum water velocity is often found at a depth below the surface, not at the surface as previously believed.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

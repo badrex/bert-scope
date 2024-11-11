@@ -1,0 +1,10 @@
+article_id: 'rspb_1926_0045'
+revised_title: 'Cortical Stimulation and Muscle Responses: An Analysis of Rhythmic Patterns'
+semantic_tags:
+  - Neurophysiology
+  - Motor Cortex
+  - Electromyography
+  - Rhythmical Stimulation
+  - Muscle Responses
+tldr: The authors conducted experiments on monkeys to study the responses of the cerebral cortex to rhythmical stimulation. They found that the mechanical and electric responses of the muscles showed distinct rhythms corresponding to the rate of stimulation. The results showed that the rate of recruitment was slow, and there was little after-discharge in both extensors and flexors. The study confirmed and extended the earlier observations of Fran9ois-Franck and Pitres, and provided insights into the complex patterns of muscle responses to cortical stimulation.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

@@ -1,0 +1,10 @@
+article_id: rspa_1993_0143
+revised_title: Thermodynamics of Porous Media: Equilibrium and Pore-Scale Relations
+semantic_tags:
+  - Porous Media
+  - Thermodynamics
+  - Pore-Scale Analysis
+  - Equilibrium
+  - Poroelasticity
+tldr: This article explores the thermodynamics of porous media, focusing on equilibrium and pore-scale relations. The authors develop macroscopic thermodynamic relations for the fluid and solid components of porous media, considering their internal energy, entropy, and energy balance equations. They also examine the role of porosity in these relations and discuss the implications for poroelasticity and the behavior of porous media under various conditions.
+scientific_discipline: Physics > Mechanics

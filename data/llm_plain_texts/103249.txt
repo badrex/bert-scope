@@ -1,0 +1,10 @@
+article_id: '103249'
+revised_title: 'Investigations on the Density and Compressibility of Water'
+semantic_tags:
+  - Fluid mechanics
+  - Density
+  - Compressibility
+  - Heat and temperature
+  - Experimental physics
+tldr: 'The author, Fr. Hauksbee, conducted experiments to determine the density and compressibility of water under different conditions. He found that water does not become more dense when air is removed, and that its density decreases with increasing temperature. This suggests that there is a latent matter in water capable of expansion. These findings contribute to the understanding of fluid mechanics and the behavior of water under various circumstances.'
+scientific_discipline: 'Physics > Fluid mechanics'

@@ -1,0 +1,10 @@
+article_id: 108948
+revised_title: 'On the Viscosity or Internal Friction of Air and Other Gases'
+semantic_tags:
+  - Fluid dynamics
+  - Gas viscosity
+  - Torsional vibrations
+  - Gas properties
+  - Experimental physics
+tldr: 'The author, J. Clerk Maxwell, investigates the viscosity or internal friction of air and other gases using the method of torsional vibrations of disks. He describes his experimental apparatus and procedure, and discusses the challenges and mathematical difficulties involved in measuring the viscosity of gases. The research aims to better understand the properties of gases and their resistance to continuous change of form.'
+scientific_discipline: Physics > Fluid dynamics

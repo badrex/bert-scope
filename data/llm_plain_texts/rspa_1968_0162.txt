@@ -1,0 +1,10 @@
+article_id: rspa_1968_0162
+revised_title: 'Relativistic Thermodynamics and Moving Thermometers'
+semantic_tags:
+  - Relativistic Thermodynamics
+  - Temperature Transformation
+  - Moving Thermometers
+  - Quasi-Equilibrium
+  - Doppler Effect
+tldr: The authors investigate the problem of moving thermometers in the context of special relativistic thermodynamics. They develop a theory of moving thermometers for radiative interactions and define quasi-equilibrium for relatively moving systems. The study concludes that quasi-temperature concept for relatively moving systems is not useful, and satisfactory temperature measurements can only be made by a stationary thermometer in the system studied.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: 112097
+revised_title: 'On Bubbles: A Study of Bubble Formation and Properties'
+semantic_tags:
+  - Fluid dynamics
+  - Surface tension
+  - Gas-liquid interfaces
+  - Bubble formation
+  - Bubble properties
+tldr: This article investigates the formation and properties of bubbles, focusing on the factors that influence their size and shape. The author defines a bubble as a mass of gaseous matter compelled to assume a spherical form by the cohesion and weight of the liquid medium in which it is formed. The study examines various types of bubbles, including those with a liquid film, and explores the effects of solid supports, gas tension, and other factors on bubble size.
+scientific_discipline: Physics > Fluid dynamics

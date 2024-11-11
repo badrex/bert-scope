@@ -1,0 +1,10 @@
+article_id: rspa_1981_0060
+revised_title: 'Molecular Theory of New Differential Light-Scattering Effects in a Fluid'
+semantic_tags:
+  - Light Scattering
+  - Molecular Theory
+  - Polarization States
+  - Mueller Calculus
+  - Fluid Dynamics
+tldr: The authors present a molecular theory for new differential light-scattering effects in a fluid, which were qualitatively predicted by recent symmetry-based arguments. They explain the new effects by extending existing theories to include the contributions of electric octopole and magnetic quadrupole induced in a molecule. The study focuses on the polarization of the incident beam, the analysed intensities of the scattered light, and the electric field of the scattered light, providing expressions for the intensity differentials predicted by the symmetry approaches.
+scientific_discipline: Physics > Optics

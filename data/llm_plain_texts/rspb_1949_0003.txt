@@ -1,0 +1,10 @@
+article_id: 'rspb_1949_0003'
+revised_title: 'Metabolic Changes and the Microbiological Assay of Nicotinic Acid'
+semantic_tags:
+  - Metabolism
+  - Nicotinic Acid
+  - Microbiology
+  - Lactobacillus arabinosus
+  - Vitamin Assay
+tldr: The authors studied the metabolic changes in Lactobacillus arabinosus cultures to understand the basis of a microbiological assay of nicotinic acid. They found that limiting nicotinic acid affected the formation of titratable acid, bacterial growth, and the total quantity of acid produced. The assay system can compensate for initial fluctuations in temperature or bacterial cell quantity due to the loss of nicotinic acid from the bacteria in proportion to their formation of titratable acid.
+scientific_discipline: Biology and Life Sciences > Microbiology

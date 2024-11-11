@@ -1,0 +1,11 @@
+article_id: rspa_1977_0020
+revised_title: Surface Texture and Persistence in Static Contact: A Study on Roughness and Contact Pressure
+semantic_tags:
+  - Surface mechanics
+  - Contact resistance
+  - Friction
+  - Wear
+  - Surface texture
+  - Contact pressure
+tldr: This study investigates the persistence of roughness between surfaces in static contact and its dependence on contact conditions. The research focuses on the influence of surface texture on the contact pressure supportable by asperities. It is found that surface texture has a minor effect on persistence, and the contact pressure is influenced by asperity interaction and elastic deformation beneath the asperities. The findings are relevant to heavily loaded gears and metal working contact conditions.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

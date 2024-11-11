@@ -1,0 +1,10 @@
+article_id: rspa_1960_0086
+revised_title: 'Diffraction of a Pulse by a Resistive Half-Plane: Oblique Incidence'
+semantic_tags:
+  - Electromagnetic Waves
+  - Diffraction
+  - Resistive Materials
+  - Wave Propagation
+  - Electromagnetic Theory
+tldr: The article discusses the diffraction of a plane pulse obliquely incident at the edge of a resistive half-plane. The problem is a generalization of the normal incidence case, and the author demonstrates that an arbitrary pulse can be split into independent oblique electric and magnetic polarizations, simplifying the problem and allowing the use of normal incidence results with slight modifications.
+scientific_discipline: Physics > Electromagnetism

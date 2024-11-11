@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0136'
+revised_title: 'Kin Selection and Lek Evolution in Birds'
+semantic_tags:
+  - Evolutionary Biology
+  - Sexual Selection
+  - Kin Selection Theory
+  - Lekking Behavior
+  - Bird Behavior
+tldr: The authors explore the role of kin selection in the evolution of leks, which are male aggregations that females attend for mating purposes. They suggest that even a small probability of related males displaying on the same lek can lead to indirect fitness benefits, which can override direct mating success. The authors use data on black grouse and ruff to show that kin selection can alter the optimal lek size for these species.
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

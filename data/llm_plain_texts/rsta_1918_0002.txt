@@ -1,0 +1,10 @@
+article_id: rsta_1918_0002
+revised_title: Tidal Disturbance of Level and its Effect on Oceanic Tides
+semantic_tags:
+  - Oceanography
+  - Tides
+  - Geodynamics
+  - Elasticity
+  - Boundary conditions
+tldr: The author investigates the periodic disturbance of level caused by oceanic tides and its effect on water-level measurements. They consider the elastic deformation of the Earth's surface due to tidal loading in the North Atlantic and its impact on water-level measurements at a distance. The study provides a rough estimation of the order of magnitude and shows that the tidal effect cannot be regarded as a small correction.
+scientific_discipline: Environmental and Earth Sciences > Geodynamics

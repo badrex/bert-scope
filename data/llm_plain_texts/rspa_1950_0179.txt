@@ -1,0 +1,10 @@
+article_id: rspa_1950_0179
+revised_title: Interferometric Studies in Diffusion: Determination of Concentration Distributions
+semantic_tags:
+  - Diffusion
+  - Polymer Science
+  - Interferometry
+  - Concentration Distribution
+  - Refractive Index
+tldr: This article presents an interferometer technique for studying diffusion in transparent high polymers and determining concentration distributions. The authors apply this method to the system of chloroform-stretched cellulose acetate, finding that concentration-distance curves consist of two almost linear portions with a significant change in gradient. The technique can be applied to other transparent polymers, providing valuable insights into diffusion processes in polymer systems.
+scientific_discipline: Physics > Optics

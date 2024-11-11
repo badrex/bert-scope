@@ -1,0 +1,10 @@
+article_id: 'rsta_1994_0027'
+revised_title: 'A Critical Overview of Statistical Energy Analysis'
+semantic_tags:
+  - Vibration Analysis
+  - Statistical Mechanics
+  - Engineering Acoustics
+  - Probability Theory
+  - Structural Dynamics
+tldr: 'Statistical Energy Analysis (SEA) is a method used to predict the vibrational response of complex mechanical structures. It involves dividing the system into subsystems, expressing subsystem parameters probabilistically, and using global measures like total vibrational energy to describe the system's state. SEA is useful for predicting the behavior of structures at high frequencies where deterministic methods are less reliable. The article provides a critical overview of SEA, discussing its strengths, weaknesses, and future research directions.'
+scientific_discipline: Engineering and Technology > Mechanical Engineering > Vibration Analysis

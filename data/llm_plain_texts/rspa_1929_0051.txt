@@ -1,0 +1,10 @@
+article_id: rspa_1929_0051
+revised_title: Investigation of Long Range Alpha-Particles from Thorium C and Radium C using Expansion Chamber
+semantic_tags:
+  - Nuclear Physics
+  - Particle Acceleration
+  - Radioactivity
+  - Alpha-Particles
+  - Expansion Chamber
+tldr: The authors conducted experiments using an expansion chamber to investigate the ranges of long-range alpha-particles from thorium C and radium C. They found that the expansion chamber provided more accurate range measurements than the scintillation method, and that it could distinguish between alpha-particles and other particles, such as protons. The results supported recent theories about the ranges of alpha-particle groups emitted by radioactive substances.
+scientific_discipline: Physics > Nuclear Physics

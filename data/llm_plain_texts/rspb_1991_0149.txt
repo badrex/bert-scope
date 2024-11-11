@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0149'
+revised_title: 'Exploring the Structure and Hydrogen Bonding Patterns of the SPXX Motif'
+semantic_tags:
+  - DNA-binding proteins
+  - Protein structure
+  - Hydrogen bonding
+  - Amino acid sequences
+  - Molecular biology
+tldr: The authors analyze the structure and hydrogen bonding patterns of the SPXX motif in proteins, finding that about half of the sequences fold into a P-turn stabilized by compatible hydrogen bonds. This compact structure may be suitable for fitting into the DNA groove, providing insights into the molecular mechanism of DNA binding by gene regulatory proteins.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

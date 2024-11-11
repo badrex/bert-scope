@@ -1,0 +1,10 @@
+article_id: rspa_1964_0026
+revised_title: Luminescence Excitation Spectra and Recombination Radiation of Diamond
+semantic_tags:
+  - Diamond physics
+  - Luminescence
+  - Exciton formation
+  - Intrinsic absorption
+  - Quantum energy
+tldr: The authors studied the luminescence excitation spectra and recombination radiation of diamond in the fundamental absorption region. They found that the excitation spectra of semiconducting and insulating diamonds have different features, with sharp bands and a system of broader excitation bands in insulating diamonds. The higher energy excitation structure is tentatively interpreted in terms of exciton formation with multiple phonon emission into the lattice. The results provide insights into the intrinsic absorption structure and the role of lattice defects in diamond luminescence.
+scientific_discipline: Physics > Optics

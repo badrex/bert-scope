@@ -1,0 +1,10 @@
+article_id: 'rspa_1994_0112'
+revised_title: 'Computational Study of Butanol Isomers Adsorption on Silicalite and H-ZSM-5'
+semantic_tags:
+  - Zeolites
+  - Adsorption
+  - Butanol Isomers
+  - Silicalite
+  - H-ZSM-5
+tldr: The authors used computational methods, including energy minimization and Monte Carlo/molecular dynamics algorithms, to study the adsorption of butanol isomers on silicalite and H-ZSM-5 zeolites. They found that all butanol isomers have similar adsorption energies and sites, and that pore-confinement effects play a role in the adsorption process.
+scientific_discipline: Chemistry > Zeolites and Catalysis

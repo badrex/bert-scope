@@ -1,0 +1,10 @@
+article_id: rspa_1928_0193
+revised_title: Investigation of Banded Structures in Metal Crystals
+semantic_tags:
+  - Crystallography
+  - Metal Twining
+  - X-ray Diffraction
+  - Aluminum Crystal Structure
+  - Cubic Crystals
+tldr: The authors investigated banded structures in metal crystals, specifically in gold, silver, copper, and aluminum. They discovered that these structures are true twins, occurring in a crystallographic sense, and are related to each other as the two parts of a spinel twin. The study used X-ray diffraction to determine the orientation of the bands and the plane of intersection between the bands and the original crystal, confirming that these structures are true twins in aluminum as well.
+scientific_discipline: Physics > Crystallography

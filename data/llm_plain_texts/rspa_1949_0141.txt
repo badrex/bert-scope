@@ -1,0 +1,10 @@
+article_id: rspa_1949_0141
+revised_title: 'Ethylene Oxide Ignition and Flame Reactions: Cool Flames and Inflammability'
+semantic_tags:
+  - Combustion
+  - Ethylene Oxide
+  - Cool Flames
+  - Inflammability
+  - Gas Mixtures
+tldr: The authors studied the ignition and flame reactions of ethylene oxide, focusing on cool flames and inflammability. They discovered that cool flames can be initiated in ethylene oxide-air mixtures at and below atmospheric pressure. The presence of diluents, such as acetaldehyde, lowers the minimum pressure for cool-flame initiation. The research also revealed that ethylene oxide can propagate a decomposition flame and is inflammable in admixture with air for all percentages above.
+scientific_discipline: Chemistry > Combustion Chemistry

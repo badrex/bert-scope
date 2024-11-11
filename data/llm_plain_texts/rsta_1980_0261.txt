@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0261'
+revised_title: 'High-Energy Short-Pulse CO2 Lasers: Advances and Applications'
+semantic_tags:
+  - Laser Physics
+  - Plasma Physics
+  - Fusion Energy
+  - Optics
+  - Gas Lasers
+tldr: This article discusses the development of high-energy short-pulse CO2 lasers and their applications, particularly in fusion energy research. The authors describe the oscillator-amplifier configuration, gas mixture optimization, and the challenges of achieving high efficiency and power. They also mention the construction of a large-scale laser system, Alamos, to investigate scientific breakeven for fusion.
+scientific_discipline: Engineering and Technology > Laser Physics

@@ -1,0 +1,10 @@
+article_id: 'rspa_1910_0042'
+revised_title: 'Ionization of Gases by Actinium's Beta-Rays'
+semantic_tags:
+  - 'Ionization'
+  - 'Actinium'
+  - 'Beta-Rays'
+  - 'Gas Ionization'
+  - 'Radiation Absorption'
+tldr: 'Dr. R. D. Kleeman and Prof. W. H. Bragg conducted experiments to study the ionization of various gases by the beta-rays of actinium. They discovered that the ionization values for different gases were similar when exposed to actinium's beta-rays and uranium's beta-rays. The results showed that the relative atomic ionizations and relative atomic absorptions for atoms up to tin were approximately independent of the velocity of the beta-rays over a certain range.'
+scientific_discipline: 'Chemistry > Radiochemistry'

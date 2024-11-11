@@ -1,0 +1,10 @@
+article_id: 'rsta_1981_0204'
+revised_title: 'Equation of State Experiments and Theories for Planetary Modeling'
+semantic_tags:
+  - Planetary Science
+  - Equation of State
+  - Shock Compression
+  - High Pressure Physics
+  - Planetary Modeling
+tldr: The article discusses the importance of equation of state experiments and theories in understanding planetary modeling. It highlights the use of shock compression methods to study the properties of materials under high pressure, focusing on the giant planets like Jupiter and Saturn. The authors emphasize the need for accurate equations of state to build structural models and predict the energy release and luminosity of evolving planets.
+scientific_discipline: Physics > High Pressure Physics

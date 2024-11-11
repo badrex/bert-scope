@@ -1,0 +1,10 @@
+article_id: rspl_1874_0084
+revised_title: 'Investigations on the Physical Properties of Matter in Liquid and Gaseous States'
+semantic_tags:
+  - Gas compressibility
+  - Carbon dioxide properties
+  - High-pressure experiments
+  - Temperature effects
+  - Gas laws
+tldr: The author conducted experiments on the physical properties of matter in liquid and gaseous states under varied conditions of pressure and temperature. They focused on carbonic acid gas and its behavior under different pressures and temperatures. The author discovered that the gas laws, such as Boyle's and Gay-Lussac's laws, are only true in certain conditions and fail in others. The results suggest that critical points of many gases are likely far below the lowest temperatures attained so far.
+scientific_discipline: Physics > Thermodynamics

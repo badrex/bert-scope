@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0129'
+revised_title: 'Physical Mapping of Deletion Breakpoints in X-linked Ichthyosis'
+semantic_tags:
+  - Genetics
+  - Chromosome Mapping
+  - X-linked Disorders
+  - Molecular Biology
+  - Gene Deletion
+tldr: Researchers conducted physical mapping of deletion breakpoints in patients with X-linked ichthyosis and found evidence for clustering of distal and proximal breakpoints. They constructed a long-range physical map surrounding the steroid sulphatase (STS) locus, which helped in understanding the deletion size and locating the breakpoints. This map also positioned five CpG islands, suggesting the location of further genes close to STS that may be involved in contiguous gene syndromes.
+scientific_discipline: Genetics > Chromosome Mapping

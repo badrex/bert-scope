@@ -1,0 +1,10 @@
+article_id: rspa_1928_0135
+revised_title: 'Electrolytic Behavior of Thin Films: Hydrogen'
+semantic_tags:
+  - Electrochemistry
+  - Thin Films
+  - Electrode Processes
+  - Hydrogen Ion Deposition
+  - Overpotential
+scientific_discipline: Chemistry > Electrochemistry
+tldr: The authors investigated the electrolytic behavior of thin films, focusing on hydrogen deposition. They discovered that the electrode potential and the rate of hydrogen ion deposition are affected by the presence of other ions in the solution. The study also showed that the overpotential is due to the accumulation of electric doublets on the electrode surface, which is different from the previously accepted theories.

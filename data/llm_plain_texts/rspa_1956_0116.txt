@@ -1,0 +1,10 @@
+article_id: rspa_1956_0116
+revised_title: Deriving Hydromagnetic Equations from the Boltzmann Equation
+semantic_tags:
+  - Plasma Physics
+  - Fluid Dynamics
+  - Electromagnetism
+  - Astrophysics
+  - Boltzmann Equation
+tldr: The authors investigate the possibility of deriving hydromagnetic equations from the Boltzmann equation for a dilute gas with no interparticle collisions but a strong Lorentz force. They find that a strictly hydrodynamic description is possible only when certain conditions suppress the third moment of the velocity distribution. The electron degrees of freedom can be replaced by a macroscopic current, making the problem essentially one-fluid, focusing on ions.
+scientific_discipline: Physics > Plasma Physics

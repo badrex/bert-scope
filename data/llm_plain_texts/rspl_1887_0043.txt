@@ -1,0 +1,10 @@
+article_id: rspl_1887_0043
+revised_title: Atmospheric Oxidation and Voltaic Electricity Generation
+semantic_tags:
+  - Electrochemistry
+  - Voltaic cells
+  - Atmospheric oxidation
+  - Cuprous oxide
+  - Ammoniacal solution
+tldr: The authors describe a method to generate voltaic electricity using atmospheric oxidation. They discovered that when a copper plate is immersed in an ammoniacal solution and connected to an aeration plate, a voltaic current is produced. This process involves the oxidation of copper to cuprous oxide, which is dissolved in the ammonia solution. The voltaic cell can maintain a constant electromotive force (EMF) and can be used to study the properties of the generated electricity.
+scientific_discipline: Chemistry > Electrochemistry

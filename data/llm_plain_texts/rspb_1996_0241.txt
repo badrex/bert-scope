@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0241'
+revised_title: 'Insect Wing Folding Mechanisms: A Detailed Analysis of Two Basic Mechanisms'
+semantic_tags:
+  - Insect anatomy
+  - Entomology
+  - Wing folding
+  - Kinematics
+  - Mechanisms
+tldr: The authors study the two basic mechanisms of insect wing folding, Internal (INT) and External (EXT), and analyze their differences in movement, velocity ratios, and reversibility. They find that INT mechanisms have a slower initial movement and higher velocity ratio at larger angles, while EXT mechanisms have a faster initial movement and lower velocity ratio at smaller angles. INT mechanisms can be actively unfolded, while EXT mechanisms usually need to be closed elastically or by an extraneous force.
+scientific_discipline: Biology and Life Sciences > Entomology

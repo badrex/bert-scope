@@ -1,0 +1,10 @@
+article_id: rspl_1895_0029
+revised_title: 'Spectral Analysis of Gases Obtained from Uraninite'
+semantic_tags:
+  - Spectroscopy
+  - Gas analysis
+  - Uraninite
+  - Mineralogy
+  - Chemistry
+tldr: The author investigates the gas obtained from uraninite through spectroscopic analysis. They observe that the gas's lines do not vary equally, suggesting the presence of multiple compounds. The author also notes the behavior of the gas in a vacuum tube, with lines appearing and disappearing at different stages of heating. This study contributes to the understanding of the composition and behavior of gases in minerals.
+scientific_discipline: Chemistry > Spectroscopy

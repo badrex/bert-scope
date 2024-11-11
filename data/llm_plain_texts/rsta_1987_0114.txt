@@ -1,0 +1,10 @@
+article_id: rsta_1987_0114
+revised_title: Dynamics of the Middle Atmosphere: Insights from Satellite Data and Numerical Modeling
+semantic_tags:
+  - Atmospheric Dynamics
+  - Stratospheric Warming
+  - Middle Atmosphere Modeling
+  - Satellite Data Analysis
+  - Potential Vorticity
+tldr: This study investigates the dynamics of a major stratospheric warming event in 1984-85 using satellite data and a numerical model. The authors found that strong temperature gradients, referred to as "fronts," developed in the stratosphere during the warming. These fronts were similar to those observed in the upper troposphere, and their presence highlights the importance of better spatial resolution in understanding the complex dynamics of the middle atmosphere.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

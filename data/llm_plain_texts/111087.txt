@@ -1,0 +1,10 @@
+article_id: 111087
+revised_title: Algebraic Expressions for Partitions of Numbers
+semantic_tags:
+  - Number Theory
+  - Combinatorics
+  - Mathematical Analysis
+  - Mathematical Functions
+  - Partitions
+tldr: In this paper, Sir John F. W. Herschel extends a mode of analysis to express the number of partitions of a given number algebraically. He explains how to separate symbols of operation from those of quantity, allowing for the expression of sums of series in the theory of numbers. This method provides a uniform treatment and avoids subdivision into cases based on the numerical constitution of the number.
+scientific_discipline: Mathematics > Combinatorics

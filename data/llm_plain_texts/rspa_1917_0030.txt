@@ -1,0 +1,10 @@
+article_id: rspa_1917_0030
+revised_title: On Magnetic Inertia and its Applications
+semantic_tags:
+  - Magnetic Inertia
+  - Electromagnetism
+  - Earth's Magnetism
+  - Electric Inertia
+  - Magnetic Doublets
+tldr: The author investigates the concept of magnetic inertia, a property similar to electric inertia, in magnetized bodies. They calculate the magnetic inertia of a sphere and apply the results to the Earth and electrons. The author also discusses the difference in inertia along and perpendicular to the magnetic axis, which may cause small diurnal variations in the Earth's path.
+scientific_discipline: Physics > Electromagnetism

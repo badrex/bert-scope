@@ -1,0 +1,10 @@
+article_id: rspl_1895_0018
+revised_title: A Novel Extensometer for Measuring Small Strains in Materials and Structures
+semantic_tags:
+  - Strain measurement
+  - Material testing
+  - Mechanical engineering
+  - Extensometers
+  - Stress analysis
+tldr: The author presents a new extensometer design for measuring small strains in materials and structures. The instrument is self-contained, supports the tested rod, and touches it only at the points where the clips are attached. The extensometer measures the mean strain by observing the displacement of two points on the rod's axis. This design allows for accurate measurements of small strains, which is essential for determining Young's modulus and observing the behavior of materials as they approach their limit of elasticity.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

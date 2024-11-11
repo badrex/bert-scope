@@ -1,0 +1,10 @@
+article_id: rspa_1952_0052
+revised_title: 'Measurement of Burning Velocities of Slow Flames and Determination of Combustion Limits'
+semantic_tags:
+  - Combustion
+  - Flame propagation
+  - Burning velocities
+  - Gas-air mixtures
+  - Flame stabilization
+tldr: The authors developed a method to measure the burning velocities of combustible gas-air mixtures near the limits of combustion using a flat disk-shaped flame. They applied this method to various fuels, including methane, propane, and n-heptane, and found that the burning velocities are mainly dependent on reaction heat. The flat-flame burner was also used to determine the limits of combustion, revealing that lower limits are lower when determined using this method compared to the standard tube method.
+scientific_discipline: Chemistry > Combustion and Flame

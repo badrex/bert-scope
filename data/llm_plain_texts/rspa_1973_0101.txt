@@ -1,0 +1,10 @@
+article_id: rspa_1973_0101
+revised_title: Advances in Fuel Cell Technology and Applications
+semantic_tags:
+  - Fuel cells
+  - Electrochemistry
+  - Energy storage
+  - Hydrogen fuel
+  - Alternative energy sources
+tldr: This review lecture discusses the development and practical applications of fuel cells, focusing on alkaline and acid fuel cells. It covers topics such as electrolytes, electrode materials, catalysts, and the challenges of using air as an oxidant. The lecture also touches on the potential of hydrogen as a widely available fuel and its possible use in road and rail traction.
+scientific_discipline: Engineering and Technology > Energy and Power Engineering

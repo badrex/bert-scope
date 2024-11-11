@@ -1,0 +1,10 @@
+article_id: rspa_1950_0094
+revised_title: Two-Dimensional Statistical Mechanics of Assemblies
+semantic_tags:
+  - Statistical mechanics
+  - Two-dimensional lattices
+  - Ising model
+  - Ferromagnetism
+  - Thermodynamics
+tldr: The authors extend the work of Kaufman and Onsager on the two-dimensional Ising model of a ferromagnet to the plane honeycomb and triangular lattices. They find that the specific heat anomaly is of the same type in all lattices, with an infinity in the specific heat at the Curie temperature. The study also shows that second-nearest neighbor interactions can significantly affect the position of the Curie temperature.
+scientific_discipline: Physics > Thermodynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1957_0205
+revised_title: Vibrational Relaxation Times in Gaseous Sulphur Dioxide
+semantic_tags:
+  - Vibrational relaxation
+  - Sulphur dioxide
+  - Gas dynamics
+  - Molecular vibrations
+  - Quantum mechanics
+tldr: The authors calculated vibrational relaxation times in gaseous sulphur dioxide using the collision theory of Schwartz and Herzfeld. They found two major effective relaxation times, one associated with the lowest mode and the other with the two higher modes. The results were compared with recent ultrasonic dispersion data, showing a measure of agreement. The mechanism of vibrational excitation in sulphur dioxide was discussed, and tentative predictions were made about the relaxation behavior of other molecules.
+scientific_discipline: Chemistry > Molecular Physics

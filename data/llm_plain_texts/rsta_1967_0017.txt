@@ -1,0 +1,10 @@
+article_id: 'rsta_1967_0017'
+revised_title: 'Experimental Study of Gas Borne Suspensions of Thermionic Emitters for MHD Power Generation'
+semantic_tags:
+  - Magnetohydrodynamic power generation
+  - Thermionic emitters
+  - Energy conversion
+  - Gas suspension
+  - Conductivity
+tldr: The authors discuss the use of gas borne suspensions of thermionic emitters as an alternative to alkali metal seeded gases for magnetohydrodynamic (MHD) power generation. They describe the theoretical advantages of using barium oxide in argon suspensions and present experimental results showing that these suspensions have conductivities within an order of magnitude of the theoretical values. The authors also discuss the challenges in creating uniform suspensions of submicron particles and the potential for further improvements in conductivity.
+scientific_discipline: Engineering and Technology > Energy Conversion

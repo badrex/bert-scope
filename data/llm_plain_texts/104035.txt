@@ -1,0 +1,10 @@
+article_id: 104035
+revised_title: 'Newton's Method of Fluxions and Infinite Series: Applications and Extensions'
+semantic_tags:
+  - Calculus
+  - Infinite Series
+  - Differential Calculus
+  - Geometry
+  - Mathematical Analysis
+tldr: This article provides a detailed account of Sir Isaac Newton's method of fluxions and infinite series, explaining its principles, applications, and extensions. The author, John Eames, discusses the method's use in finding roots of equations, resolving complex mathematical problems, and applying it to the geometry of curve lines. The article also includes a comprehensive commentary by John Colson, which further explores the method's applications and offers valuable insights into its workings.
+scientific_discipline: Mathematics > Calculus

@@ -1,0 +1,10 @@
+article_id: rspa_1955_0241
+revised_title: Corrigendum: Elastic and Viscous Properties of Emulsions
+semantic_tags:
+  - Emulsions
+  - Rheology
+  - Surface Chemistry
+  - Viscosity
+  - Corrigendum
+tldr: This article is a corrigendum for a previous paper on the elastic and viscous properties of emulsions. It discusses the distinction between "solid" and "liquid" interfacial films based on their effect on viscosity and the size of the droplets in the emulsion. The correction involves replacing "OH" with "CH" in the text.
+scientific_discipline: Chemistry > Surface Chemistry

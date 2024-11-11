@@ -1,0 +1,10 @@
+article_id: 'rsnr_1939_0014'
+revised_title: 'Recommendation on Publishing Crystal Structure Papers'
+semantic_tags:
+  - Crystallography
+  - Scientific Publishing
+  - X-ray Diffraction
+  - Archiving
+  - Spectroscopy
+tldr: The Physics Committee of the Royal Society discussed a proposal by Professor W. L. Bragg to reduce the length and cost of crystal structure papers by archiving detailed data and methods, while publishing only a summary in the journal. The committee recommended trying this approach in crystal physics and spectroscopy for a year, and asked for feedback from authors and referees.
+scientific_discipline: Physics > Crystallography

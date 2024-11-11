@@ -1,0 +1,10 @@
+article_id: rspl_1891_0052
+revised_title: 'Energy Absorbed by Friction in the Bores of Rifled Guns: A Study on Projectile Rotation and Efficiency'
+semantic_tags:
+  - Ballistics
+  - Gunpowder
+  - Projectile design
+  - Friction
+  - Rifling
+tldr: This article investigates the energy absorbed by friction in the bores of rifled guns and its impact on projectile rotation and efficiency. The author examines different types of gunpowder, rifling designs, and driving bands to understand the effect of friction on the performance of rifled guns. The study shows that fouling in the bore due to pebble powder can cause a loss of energy, while parabolic rifling leads to higher friction and energy loss compared to uniform rifling.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

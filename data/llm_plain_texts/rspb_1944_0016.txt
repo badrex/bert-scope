@@ -1,0 +1,10 @@
+article_id: 'rspb_1944_0016'
+revised_title: 'The Impact of Hypoxanthine on Avian Tissue Growth in Vitro'
+semantic_tags:
+  - Cell Biology
+  - Tissue Culture
+  - Nutrient Effects
+  - Growth Factors
+  - Avian Biology
+tldr: 'This study by Sir Frederick Gowland Hopkins and Irmelin Simon-Reuss discovered that hypoxanthine, a purine base, significantly increases the growth rate and duration of avian tissue in vitro. The authors found that adenine, a related base, had an unfavorable effect on growth. The research showed that hypoxanthine promotes cell division and prevents "liquefaction," or the breakdown of the tissue culture medium. The exact mechanism of action is not clear, but it is believed that hypoxanthine may supply specific materials needed for growth or act as a precursor to other necessary factors.'
+scientific_discipline: Biology and Life Sciences > Cell Biology

@@ -1,0 +1,10 @@
+article_id: rspa_1971_0049
+revised_title: Quantum Electrodynamics and Molecular Interactions
+semantic_tags:
+  - Quantum Mechanics
+  - Molecular Physics
+  - Electromagnetic Field
+  - Hamiltonian Theory
+  - Molecular Systems
+tldr: This article compares the conventional quantum mechanical hamiltonian for molecular systems interacting with the electromagnetic field to an alternative multipole interaction. The authors analyze the unitary transformation connecting the two hamiltonians and examine the problem of displaying the binding energies of molecular systems. They derive the hamiltonian and discuss its implications, including the importance of gauge conditions and the role of arbitrary coefficients in the theory.
+scientific_discipline: Physics > Quantum Mechanics

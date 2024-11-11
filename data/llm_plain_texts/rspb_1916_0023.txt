@@ -1,0 +1,10 @@
+article_id: 'rspb_1916_0023'
+revised_title: 'Selective Permeability and Absorption of Solutions by Barley Seeds'
+semantic_tags:
+  - Plant Physiology
+  - Membrane Biology
+  - Osmosis
+  - Selective Permeability
+  - Surface Tension
+tldr: 'The authors studied the absorption of phenol, aniline, and acetic acid solutions by barley seeds. They discovered that the seeds selectively absorb solutes in a concentration greater than the outside solution, and the equilibrium point is determined by the difference between inside and outside concentrations. This phenomenon is explained by the introduction of an extra osmotic force due to the concentration difference, which affects the amount of solution taken up by the seeds at equilibrium. The results suggest that selective adsorption is responsible for the selective action of the barley membrane.'
+scientific_discipline: Biology and Life Sciences > Plant Physiology

@@ -1,0 +1,10 @@
+article_id: rspa_1980_0082
+revised_title: Electrical Properties of Graphite Nitrates Perpendicular to the Layers: A Study on Intercalation Compounds
+semantic_tags:
+  - Intercalation compounds
+  - Graphite nitrate
+  - Electrical resistance
+  - Anisotropy ratio
+  - Charge transport
+tldr: This article presents an improved method for measuring the electrical properties of graphite nitrates perpendicular to their layers. The authors report detailed measurements on the electrical resistance of graphite nitrates for temperatures crossing the thermal transformation point. They discuss mechanisms of charge transport perpendicular to the layers in relation to their findings for graphite nitrates, suggesting that extrinsic conduction paths contribute significantly to the total-axis conductivity.
+scientific_discipline: Physics > Materials Science

@@ -1,0 +1,11 @@
+article_id: rspa_1967_0217
+revised_title: The Electrochemical Photoeffect: Light-Induced Electrode Reactions in Solutions
+semantic_tags:
+  - Electrochemistry
+  - Photochemistry
+  - Photopolarography
+  - Electrode Reactions
+  - Light-Induced Processes
+tldr: The authors studied the electrochemical photoeffect, a light-induced process at the electrode-solution interface, using polarography and various experimental techniques. They found that a cathodic photocurrent appears in every solution, while an anodic photocurrent is observed only in specific organic compound solutions. The results provide insights into the nature of the electrochemical photoeffect, whether it is due to electron emission or a photochemical reaction in the interface.
+scientific_discipline: Chemistry > Electrochemistry
+```

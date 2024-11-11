@@ -1,0 +1,10 @@
+article_id: rspa_1913_0046
+revised_title: Experimental Verification of the Recombination Coefficient of Ions in Gases
+semantic_tags:
+  - Ionization of gases
+  - Recombination coefficient
+  - Rutherford's experiments
+  - Townsend's experiments
+  - Langevin's method
+scientific_discipline: Physics > Electromagnetism
+tldr: The authors conducted experiments to measure the recombination coefficient of ions in gases using Langevin's method. They found that the coefficient of recombination is essential in understanding the ionization of gases and verified the theory through various experiments. The results provide a general test of the theory and help in understanding the behavior of ions in gases.

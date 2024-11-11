@@ -1,0 +1,10 @@
+article_id: '103840'
+revised_title: 'An Experiment on the Force of Moving Bodies'
+semantic_tags:
+  - Mechanics
+  - Momentum
+  - Velocity
+  - Spring
+  - Mass
+tldr: G. J. s'Gravesande conducted an experiment to demonstrate the relationship between mass, velocity, and momentum. He used a spring to push unequal quantities of matter and found that the product of mass and the square of velocity remained constant. This supported the principle that the quantity of motion is proportional to mass multiplied by velocity.
+scientific_discipline: Physics > Mechanics

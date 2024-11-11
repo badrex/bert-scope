@@ -1,0 +1,9 @@
+article_id: rsta_1981_0102
+revised_title: 'Mathieu Functions of General Order: Connection Formulae, Base Functions, and Asymptotic Formulae'
+semantic_tags:
+  - Special Functions
+  - Mathematics
+  - Applied Mathematics
+  - Mathematical Physics
+tldr: This article explores the properties and applications of Mathieu functions of general order, focusing on connection formulae, base functions, and asymptotic formulae. The authors provide a detailed analysis of the functions' behavior and their use in various mathematical and physical contexts, including approximations in terms of higher transcendental functions.
+scientific_discipline: Mathematics > Applied Mathematics

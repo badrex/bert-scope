@@ -1,0 +1,10 @@
+article_id: rspa_1962_0192
+revised_title: 'Vibrational Band Intensities of CH and C-H Groups in Haloforms and Methylene Halides'
+semantic_tags:
+  - Infrared spectroscopy
+  - Vibrational spectroscopy
+  - Molecular bond properties
+  - Solvent effects
+  - Intensity measurements
+tldr: The authors measured the intensities of CH and C-H vibration bands in haloforms and methylene halides in both vapor and solution phases. They observed significant variations in band intensities along the series of haloforms and found that the effect of solvents on these vibration bands is substantial. The results provide insights into the polar properties and electrical anharmonicity of the vibrating bonds and the importance of solute-solvent interactions.
+scientific_discipline: Chemistry > Spectroscopy

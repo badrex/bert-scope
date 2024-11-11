@@ -1,0 +1,10 @@
+article_id: rspa_1950_0012
+revised_title: 'Comparing the Compressibilities of Gases: Nitrogen as a Standard'
+semantic_tags:
+  - Gas compressibility
+  - Molecular weight determination
+  - Gas properties
+  - Experimental methods
+  - Physics
+tldr: The authors developed a differential method to compare the compressibilities of gases at low pressures using nitrogen as a standard. They determined the low-pressure isothermals of several gases, including carbon monoxide, carbon dioxide, nitrous oxide, oxygen, ethylene, and propane. The results support the contention that molecular weights of liquefiable gases can be determined with high accuracy by linear extrapolation. The study also highlights the importance of accurate experimental methods to minimize errors in compressibility measurements.
+scientific_discipline: Physics > Gas properties

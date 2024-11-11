@@ -1,0 +1,10 @@
+article_id: rspa_1961_0178
+revised_title: 'Low-temperature transport properties of alkali metals: The electron-phonon interaction'
+semantic_tags:
+  - Electron-phonon interaction
+  - Alkali metals
+  - Low-temperature transport properties
+  - Fermi surface
+  - Nearly free electrons model
+tldr: This article investigates the electron-phonon interaction in alkali metals at low temperatures. The authors examine the effects of the distorted Fermi surface on the transport properties of metals and propose a new matrix element for the probability of electron transitions. They use the nearly free electrons model to calculate the form of the matrix element and discuss its potential consequences on the transport properties of metals.
+scientific_discipline: Physics > Solid State Physics

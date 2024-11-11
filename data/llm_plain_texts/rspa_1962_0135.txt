@@ -1,0 +1,10 @@
+article_id: rspa_1962_0135
+revised_title: Experimental Study of Burner-Stabilized Turbulent Flames in Premixed Reactants
+semantic_tags:
+  - Combustion
+  - Turbulence
+  - Flame Propagation
+  - Gas Streams
+  - Flame Front
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science
+tldr: This article presents an experimental study of burner-stabilized turbulent flames in premixed reactants. The authors examine current concepts of flame propagation in turbulent gas streams and conclude that the link between theory and experiment is inadequate. They implement new methods to analyze the approach flow by photographing particles illuminated by an interrupted Tyndall beam. The findings suggest an explanation for the effects of curvature and small-scale turbulence on flame propagation.

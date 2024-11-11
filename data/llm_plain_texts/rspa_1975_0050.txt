@@ -1,0 +1,10 @@
+article_id: rspa_1975_0050
+revised_title: A Reinvestigation of the A2Σ+-X2Σ Spectrum of NCO
+semantic_tags:
+  - Molecular spectroscopy
+  - Vibronic coupling
+  - Renner-Teller effect
+  - NCO free radical
+  - Molecular physics
+tldr: The authors conducted a high-resolution study of the A2Σ+-X2Σ electronic transition in the NCO free radical. They analyzed bands involving three vibronic levels and found a new value for the Renner parameter, resolving discrepancies in earlier electron resonance results. This work provides a more accurate understanding of the Renner-Teller effect in linear molecules.
+scientific_discipline: Chemistry > Molecular physics

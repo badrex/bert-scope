@@ -1,0 +1,10 @@
+article_id: rspa_1965_0018
+revised_title: Hypervirial Theorems and Perturbation Theory in Quantum Mechanics: Applications and Implications
+semantic_tags:
+  - Quantum Mechanics
+  - Hypervirial Theorems
+  - Perturbation Theory
+  - Wave Functions
+  - Quantum Chemistry
+tldr: This article explores the connection between hypervirial theorems and perturbation theory in quantum mechanics. It demonstrates that if the first-order perturbation correction to the expectation value of an operator is zero, the wave function satisfies a hypervirial theorem. Conversely, if a hypervirial theorem is satisfied, the expectation values of certain operators have vanishing first-order corrections. The article also discusses the implications of these findings for improving approximate quantum-mechanical wave functions and provides examples of their application, such as the ground state of the helium atom.
+scientific_discipline: Physics > Quantum Mechanics

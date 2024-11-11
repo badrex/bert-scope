@@ -1,0 +1,10 @@
+article_id: rspl_1901_0076
+revised_title: Investigating Skin Currents in Frogs
+semantic_tags:
+  - Electrophysiology
+  - Nerve conduction
+  - Frog physiology
+  - Skin conductivity
+  - Electrical stimulation
+tldr: The author conducted experiments on frog skin to study electrical reactions and skin currents. They discovered that the normal current is negative and increases over time. The response to direct excitation is positive and influenced by factors such as temperature and strength of the excitation. The electrical response to indirect excitation through nerves is of three types: positive, mixed, or negative. The findings suggest that each effect is an algebraic sum of two opposite effects.
+scientific_discipline: Biology and Life Sciences > Physiology

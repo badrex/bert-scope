@@ -1,0 +1,10 @@
+article_id: 105741
+revised_title: Solving a Problem in the Doctrine of Chances
+semantic_tags:
+  - Probability Theory
+  - Statistics
+  - Bayesian Analysis
+  - Mathematical Reasoning
+  - Inference
+tldr: This article presents a solution to a problem in the Doctrine of Chances, which is essential for understanding the probability of past events and predicting future ones. The author, Mr. Bayes, develops a method to estimate the chance that the probability of an event lies between any two named degrees of probability, given the number of times the event has happened and failed. This work is crucial for determining the strength of analogical or inductive reasoning and has significant implications for experimental philosophy and the existence of a higher intelligent cause.
+scientific_discipline: Mathematics > Probability Theory

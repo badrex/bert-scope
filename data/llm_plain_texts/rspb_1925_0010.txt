@@ -1,0 +1,10 @@
+article_id: 'rspb_1925_0010'
+revised_title: 'The Relationship between Twitch and After-action of Tetanus Durations'
+semantic_tags:
+  - Muscle Physiology
+  - Neuromuscular Fatigue
+  - Muscle Twitch
+  - Tetanus
+  - Muscle Relaxation
+tldr: 'This study investigates the relationship between the durations of the isometric twitch and the after-action of tetanus in muscle contractions. The research finds that the duration of the twitch is always slightly greater than the duration of the after-action of a tetanus. The study also shows that fatigue can be identified by the increase in the duration of the after-action above that of the twitch, and the disappearance of the "angle" at the end of the plateau in the muscle contraction curve.'
+scientific_discipline: Biology and Life Sciences > Muscle Physiology

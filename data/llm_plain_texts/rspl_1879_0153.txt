@@ -1,0 +1,10 @@
+article_id: rspl_1879_0153
+revised_title: 'Effects of Stress on Soft Iron Wires: Hardening and Viscous Effects'
+semantic_tags:
+  - Material Science
+  - Mechanical Properties
+  - Iron
+  - Stress
+  - Elasticity
+tldr: The authors conducted experiments on soft iron wires to study the effects of stress on their mechanical properties. They discovered that maintaining a constant stress on the wire for a certain period of time, called the "hardening effect," increases the breaking strength and decreases the elongation of the wire. They also found that the rate at which stress is applied affects the wire's breaking strength and elongation, with slower rates leading to higher breaking strength and lower elongation.
+scientific_discipline: Engineering and Technology > Material Science

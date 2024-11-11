@@ -1,0 +1,10 @@
+article_id: 'rspb_1988_0043'
+revised_title: 'Effect of Photoreceptor Coupling and Synapse Nonlinearity on Signal-to-Noise Ratio in Early Visual Processing'
+semantic_tags:
+  - Visual Processing
+  - Photoreceptor Coupling
+  - Synaptic Convergence
+  - Signal-to-Noise Ratio
+  - Retinal Design
+tldr: The article investigates the impact of photoreceptor coupling and synapse nonlinearity on the signal-to-noise ratio in early visual processing. The authors demonstrate that receptor coupling can improve the signal-to-noise ratio in bipolar cells, even for localized stimuli, when synapse nonlinearity is considered. This finding suggests a principle of retinal design that may compete with the requirements of high spatial resolution.
+scientific_discipline: Biology and Life Sciences > Neuroscience

@@ -1,0 +1,10 @@
+article_id: rsta_1996_0004
+revised_title: 'Revisiting Palaeosecular Variation Through a New Global Database'
+semantic_tags:
+  - Geomagnetic secular variation
+  - Palaeomagnetic database
+  - Time-averaged field modeling
+  - Geophysics
+  - Earth's core-mantle boundary
+tldr: The authors present a new global palaeomagnetic database of lava flows and intrusive bodies suitable for studying palaeosecular variation and the time-averaged geomagnetic field. They review existing palaeosecular variation models and suggest that current models are inadequate due to data distribution and quality. The need for revised models of the time-averaged field structure for both normal and reverse polarities is emphasized before reliable models for palaeosecular variation can be made.
+scientific_discipline: Environmental and Earth Sciences > Geophysics

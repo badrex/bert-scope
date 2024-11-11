@@ -1,0 +1,10 @@
+article_id: rspa_1996_0145
+revised_title: 'Advanced Optical Imaging System for Birefringent Media'
+semantic_tags:
+  - Polarization microscopy
+  - Birefringence
+  - Optical anisotropy
+  - Modulation technique
+  - Microscope imaging
+tldr: The authors developed an advanced optical imaging system that can produce coded color images of birefringent materials, representing optical retardation, orientation of the optical indicatrix, or transmittance. This system separates the contrast components usually seen in a standard crossed-polars experiment, making it a versatile and quantitative tool for studying various materials, including crystals, rocks, and biological specimens.
+scientific_discipline: Physics > Optics

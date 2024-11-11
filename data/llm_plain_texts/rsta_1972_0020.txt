@@ -1,0 +1,10 @@
+article_id: rsta_1972_0020
+revised_title: 'Sounding Rocket Payload for High-Altitude Wind and Density Measurements'
+semantic_tags:
+  - Atmospheric Science
+  - Sounding Rockets
+  - Wind Measurements
+  - Density Measurements
+  - Chaff Sensor
+tldr: The authors developed a lightweight chaff sensor for measuring high-altitude winds and air densities in the height range of 95 to 75 km using small sounding rockets. The sensor uses thin foil bands as tracers, allowing for low descent velocities and increased tracking accuracy. The results of wind and density measurements taken in 1968 and 1969/70 are presented, along with average temperatures derived from fall rate observations. The study discusses the limitations and accuracy of the method.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

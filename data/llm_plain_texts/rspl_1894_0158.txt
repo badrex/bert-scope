@@ -1,0 +1,10 @@
+article_id: rspl_1894_0158
+revised_title: On the Ratio of Specific Heats of Compound Gases and the Influence of Substitution on Their Properties
+semantic_tags:
+  - Thermodynamics
+  - Chemical reactions
+  - Gas properties
+  - Halogen derivatives
+  - Isothermals
+tldr: This article investigates the ratio of specific heats in various compound gases and the effects of halogen substitution on their properties. The author demonstrates that corresponding halogen derivatives of the same hydrocarbon have the same ratio of specific heats, and that isomers generally have the same ratio as well. The study also shows that each chlorine atom added to a molecule after the first causes a decrease in the ratio of specific heats. The author provides a formula for calculating the ratio of the rates of increase of intramolecular energy and translational energy of a molecule upon temperature rise.
+scientific_discipline: Chemistry > Thermodynamics

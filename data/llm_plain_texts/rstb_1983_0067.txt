@@ -1,0 +1,10 @@
+article_id: 'rstb_1983_0067'
+revised_title: 'Exploring the Dispersal of Plant Pathogens and its Impact on Epidemic Models'
+semantic_tags:
+  - Plant Pathology
+  - Epidemiology
+  - Fungal Diseases
+  - Disease Dispersal
+  - Simulation Models
+tldr: The article discusses the dispersal of plant pathogens, focusing on the take-off, flight, and landing of airborne pathogens. The author argues that current epidemic models often overlook the complexities of dispersal, and proposes a new model that incorporates the contagious distribution of pathogens and the production of propagules in proportion to the number of lesions. The author also highlights the importance of simulators in understanding the mechanisms of disease spread and the need for more realistic calculations of dispersal in future models.
+scientific_discipline: Biology and Life Sciences > Plant Pathology

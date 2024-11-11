@@ -1,0 +1,10 @@
+article_id: rsta_1992_0102
+revised_title: 'Advancements in Surface Crystallography and Electronic Structure of Surfaces'
+semantic_tags:
+  - Surface Crystallography
+  - Electronic Structure
+  - Scanning Tunneling Microscope
+  - Low-energy Electron Diffraction
+  - Tensor-LEED
+tldr: This article discusses the development of methods for determining the electronic structure and crystallography of surfaces in solids. It explores various techniques, such as scanning tunneling microscopy, low-energy electron diffraction, and tensor-LEED, to analyze surface structures and improve the understanding of surface properties. These advancements have enabled the determination of complex surface structures and contributed to the field of surface science.
+scientific_discipline: Physics > Optics

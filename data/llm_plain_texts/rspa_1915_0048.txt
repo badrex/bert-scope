@@ -1,0 +1,11 @@
+article_id: rspa_1915_0048
+revised_title: 'Investigation of Factors Influencing Volatilisation of Extremely Thin Radioactive Deposits'
+semantic_tags:
+  - Radioactivity
+  - Volatilisation
+  - Thorium
+  - Radium
+  - Actinium
+  - Surface Science
+tldr: The authors conducted experiments to study the volatilisation of extremely thin radioactive deposits, focusing on thorium. They investigated various factors that influence the volatilisation process, such as the surface on which the active substance is deposited, the temperature, and the nature of the gas surrounding the active material. The results showed that platinum and quartz are the most suitable surfaces for these experiments due to their low volatilisation and ease of cleaning.
+scientific_discipline: Physics > Surface Science

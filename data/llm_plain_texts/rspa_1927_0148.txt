@@ -1,0 +1,12 @@
+article_id: rspa_1927_0148
+revised_title: 'Effects of Pressure and Mixture Composition on Detonation and Combustion in Gaseous Mixtures'
+semantic_tags:
+  - Explosives
+  - Combustion
+  - Detonation
+  - Gas mixtures
+  - Acetylene
+  - Hydrogen
+  - Pentane
+scientific_discipline: Chemistry > Explosives and Combustion
+tldr: The authors conducted experiments on the effects of pressure and mixture composition on detonation and combustion in gaseous mixtures of acetylene, hydrogen, and pentane. They found that detonation takes place earlier with increasing pressure, but only up to a certain limiting pressure. The mixtures' velocities behave similarly with the rise of pressure, and the authors discovered a vibratory type of combustion associated with a "knock" sound. The results suggest that detonation is not solely dependent on adiabatic ignition and mechanical compression but also requires a certain reaction rate.

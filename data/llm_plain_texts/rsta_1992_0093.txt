@@ -1,0 +1,10 @@
+article_id: rsta_1992_0093
+revised_title: Advances in Understanding Defects in Semiconductors and Their Technological Implications
+semantic_tags:
+  - Semiconductor Physics
+  - Defect Engineering
+  - Material Science
+  - Quantum Mechanics
+  - Computational Physics
+tldr: This article discusses the importance of understanding defects in semiconductors and their impact on technological applications. It explores various technologically driven problems, such as diffusion, persistent photoconductivity, and semi-insulating material production. The article also presents an overview of the theoretical methods used to calculate the properties of defects in semiconductors, including density-functional theory and large unit-cell methods. These advancements in understanding defects have led to improved semiconductor device manufacturing and performance.
+scientific_discipline: Physics > Material Science

@@ -1,0 +1,10 @@
+article_id: 'rspa_1928_0111'
+revised_title: 'A New Method for Studying the Compton Effect'
+semantic_tags:
+  - 'Compton scattering'
+  - 'X-ray absorption'
+  - 'Photometry'
+  - 'Radiation physics'
+  - 'Atomic physics'
+tldr: 'The authors developed a critical-absorption photometer to study the Compton effect, a phenomenon in which X-rays change wavelength upon scattering. The device uses a steel wedge and a palladium foil to compare the transmission of scattered X-rays, providing a simple and effective method for observing the Compton effect. The study reveals that the change in wavelength is related to the scattering angle and that the modified scattering is more prominent with lighter radiators.'
+scientific_discipline: Physics > Atomic Physics

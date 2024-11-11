@@ -1,0 +1,10 @@
+article_id: rsta_1976_0035
+revised_title: High Resolution X-ray Spectra of the Sun: Advances in Understanding the Solar Atmosphere
+semantic_tags:
+  - Solar Physics
+  - X-ray Spectroscopy
+  - Solar Atmosphere
+  - Plasma Physics
+  - Astrophysics
+tldr: This article discusses the advancements in obtaining high-resolution X-ray spectra of the Sun, revealing a wealth of multiplet structures that help us understand the nature of the coronal plasma. The authors explore the temperature-sensitive satellite lines of helium-like resonance lines and the non-flare solar spectra, providing insights into the ionization balance and recombination of the plasma. They also describe a collaborative experiment between the Leicester University group and the American Science and Engineering Group, using Skylab data to construct thermal models of the emitting regions and estimate the abundance of elements in the solar atmosphere.
+scientific_discipline: Physics > Astrophysics

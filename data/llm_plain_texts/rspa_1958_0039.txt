@@ -1,0 +1,10 @@
+article_id: rspa_1958_0039
+revised_title: High-Energy Photon Absorption in Matter: Experimental Study and Theoretical Implications
+semantic_tags:
+  - Particle Physics
+  - Nuclear Physics
+  - X-ray Absorption
+  - Bremsstrahlung
+  - Pair Production
+scientific_discipline: Physics > Particle and Nuclear Physics
+tldr: This article presents an experimental study of the absorption of high-energy photons in various materials, including hydrogen, carbon, copper, silver, lead, and uranium. The authors used the Oxford synchrotron to measure the total absorption cross-sections and tested the accuracy of the Born approximation in the theory of pair production. The results provide a more precise understanding of the interaction of high-energy photons with matter and help improve the accuracy of theoretical calculations.

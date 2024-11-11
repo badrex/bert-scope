@@ -1,0 +1,10 @@
+article_id: rspa_1983_0028
+revised_title: 'Bicrystallography: A Comprehensive Study of Bicrystal Symmetry and Interface Structures'
+semantic_tags:
+  - Crystallography
+  - Bicrystals
+  - Grain boundaries
+  - Interphase boundaries
+  - Symmetry groups
+tldr: This article presents a crystallographic framework and methodology for studying the symmetry of bicrystals, including grain and interphase boundaries. The authors introduce the concept of a dichromatic complex, which allows for the analysis of non-holosymmetric and non-symmorphic crystals. The study covers all possible bicrystal space groups and provides insights into the existence and interrelation of crystallographically equivalent variants of interfacial structures.
+scientific_discipline: Materials Science > Crystallography

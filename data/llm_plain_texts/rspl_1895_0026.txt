@@ -1,0 +1,10 @@
+article_id: rspl_1895_0026
+revised_title: On the Velocities of Ions and Electrolytes
+semantic_tags:
+  - Electrochemistry
+  - Ion velocities
+  - Electrolysis
+  - Conductivity
+  - Precipitate formation
+tldr: This article discusses the methods used to determine the velocities of ions during electrolysis. The author describes experiments using solid solutions in agar-agar jelly to trace the motion of ions by the formation of a precipitate. The study focuses on the influence of jelly, potential-gradient, and conductivity on the velocities of ions, providing valuable insights into the field of electrochemistry.
+scientific_discipline: Chemistry > Electrochemistry

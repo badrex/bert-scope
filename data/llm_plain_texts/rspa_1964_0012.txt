@@ -1,0 +1,10 @@
+article_id: rspa_1964_0012
+revised_title: 'Catalyzed Recombination of Atomic Hydrogen and Hydroxyl Radicals in Fuel-Rich Flames'
+semantic_tags:
+  - Flame chemistry
+  - Catalysis
+  - Nitric oxide
+  - Atomic hydrogen
+  - Hydroxyl radicals
+tldr: The authors conducted flame photometric studies on reactions induced by nitric oxide in hydrogen-oxygen-nitrogen flames. They discovered that nitric oxide acts as an effective catalyst for the recombination of atomic hydrogen and hydroxyl radicals in fuel-rich flames. The study found that nitroxyl (HNO) is the most probable intermediate in the catalysis process.
+scientific_discipline: Chemistry > Chemical kinetics and reaction dynamics

@@ -1,0 +1,10 @@
+article_id: 'rspa_1950_0059'
+revised_title: 'Retarded Flow Analysis in Boundary Layer Equation for Semi-Infinite Plane'
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Retarded Flow
+  - Separation Point
+  - Mathematical Modeling
+tldr: The authors analyze the laminar boundary layer equation for a semi-infinite plane experiencing retarded flow. They find that separation can only occur if a specific singularity exists at the separation point. The study also reveals that the boundary layer equation remains valid even after separation, with the velocity decreasing after separation. The authors compare their results with Howarth's calculations, showing a rather good agreement.
+scientific_discipline: Physics > Fluid Dynamics

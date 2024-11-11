@@ -1,0 +1,10 @@
+article_id: rspa_1913_0023
+revised_title: 'Re-Reduction of Dover Tidal Observations: 1883-84'
+semantic_tags:
+  - Tidal Analysis
+  - Oceanography
+  - Harmonic Analysis
+  - Tidal Predictions
+  - Tidal Constants
+tldr: The author re-reduced the tidal observations at Dover for the years 1883 and 1884, filling in missing data and correcting errors. The new results show a much better agreement between the years, allowing for more accurate tidal predictions. The study also highlights the importance of accurate measurements and the potential impact of errors on tidal analysis.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

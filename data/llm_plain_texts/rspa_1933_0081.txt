@@ -1,0 +1,10 @@
+article_id: rspa_1933_0081
+revised_title: 'An Electrical Machine for Solving Linear Algebraic Simultaneous Equations'
+semantic_tags:
+  - Electrical Calculating Machine
+  - Linear Algebra
+  - Simultaneous Equations
+  - Alternating Current Transformers
+  - Engineering Mathematics
+tldr: The authors describe an electrical calculating machine that can solve sets of linear algebraic simultaneous equations using alternating current transformers. The machine is capable of handling equations with up to ten unknowns and has been tested to provide accurate results for most engineering and physics problems. The machine can also be used for the direct solution of equations of condition by the method of least squares.
+scientific_discipline: Engineering and Technology > Electrical Engineering

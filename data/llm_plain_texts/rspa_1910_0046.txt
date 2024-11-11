@@ -1,0 +1,10 @@
+article_id: rspa_1910_0046
+revised_title: 'Investigation of Phosphorescence Produced by Alpha and Beta Rays'
+semantic_tags:
+  - Radioactivity
+  - Phosphorescence
+  - Zinc Sulphide
+  - Barium Platinocyanide
+  - Emanation
+tldr: The authors conducted experiments to study the phosphorescence produced by alpha and beta rays, specifically focusing on the effects of continuous bombardment on zinc sulphide and the decay of luminosity in various substances. They found that the luminosity decayed faster than the emanation and that the presence of zinc sulphide caused a chemical change in its nature. The authors also observed a change in the character of the light with continued bombardment, with decay being more rapid for longer wavelengths.
+scientific_discipline: Physics > Radioactivity

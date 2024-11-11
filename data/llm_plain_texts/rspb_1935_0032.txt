@@ -1,0 +1,10 @@
+article_id: 'rspb_1935_0032'
+revised_title: 'Carcinogenic Properties of Aromatic Hydrocarbons'
+semantic_tags:
+  - Cancer Research
+  - Carcinogens
+  - Aromatic Hydrocarbons
+  - Tetracyclic and Pentacyclic Compounds
+  - Cancer-causing Substances
+tldr: The authors conducted experiments to examine the carcinogenic properties of various tetracyclic and pentacyclic aromatic hydrocarbons. They found that 3:4-benzphenanthrene had pronounced carcinogenic activity, while other compounds showed varying levels of activity or none at all. The results suggest that the ring system of 1:2-benzanthracene is responsible for the cancer-producing properties and that certain substitutions in the molecule can enhance or inhibit this activity.
+scientific_discipline: Chemistry > Organic Chemistry

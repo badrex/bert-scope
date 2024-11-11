@@ -1,0 +1,10 @@
+article_id: rspa_1964_0114
+revised_title: Investigating Plastic Flow in Glass
+semantic_tags:
+  - Glass Science
+  - Plasticity
+  - Mechanical Properties
+  - Hardness Tests
+  - Fracture Mechanics
+tldr: This article explores the evidence of plastic flow in glass and its impact on the mechanical properties of the material. The author discusses various experiments and observations, such as scratch tests, indentation hardness tests, and fracture phenomena, to evaluate the flow stresses in glass. The findings suggest that plastic flow plays a significant role in glass strength and that current brittle fracture theories need to be revised to account for this phenomenon.
+scientific_discipline: Materials Science > Glass Science

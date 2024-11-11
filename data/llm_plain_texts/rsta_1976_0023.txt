@@ -1,0 +1,10 @@
+article_id: rsta_1976_0023
+revised_title: Developable Shells Analysis and Finite Element Method Applications
+semantic_tags:
+  - Shell Theory
+  - Finite Element Method
+  - Circular Cylindrical Shells
+  - Thin Walled Shells
+  - Structural Analysis
+tldr: The authors present a study on the analysis of developable shells, focusing on the finite element method and its application to circular cylinders. They introduce a variational principle to overcome the rank deficiency in the derived element stiffness matrix and provide general formulae for deformation, membrane action, and rigid body movement. The study concludes with the development of a triangular finite element that recovers arbitrary rigid body movements, inextensional deformations, and membrane actions, anticipating its widespread application.
+scientific_discipline: Engineering and Technology > Structural Analysis

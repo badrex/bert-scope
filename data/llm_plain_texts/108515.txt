@@ -1,0 +1,10 @@
+article_id: 108515
+revised_title: On the Evaluation of Definite Integrals Using Series
+semantic_tags:
+  - Mathematics
+  - Series summation
+  - Definite integrals
+  - Differential equations
+  - Mathematical analysis
+tldr: The author presents new methods for summing various series and evaluating definite integrals using series. The methods are applied to the integration of linear differential equations and lead to the evaluation of new groups of definite integrals. The author also demonstrates the application of definite integrals to the summation of intricate series.
+scientific_discipline: Mathematics > Analysis

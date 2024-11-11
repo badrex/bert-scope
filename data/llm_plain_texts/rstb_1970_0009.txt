@@ -1,0 +1,10 @@
+article_id: 'rstb_1970_0009'
+revised_title: 'Structural Insights into the Catalytic Mechanism of α-Chymotrypsin'
+semantic_tags:
+  - Serine proteinases
+  - Protein structure
+  - Enzyme mechanism
+  - Hydrogen bonding
+  - Catalytic binding site
+tldr: The authors present a detailed analysis of the molecular structure of α-chymotrypsin, a well-studied enzyme. They describe the conformation of the molecule in relation to its hydrogen bonding scheme and discuss the possible catalytic mechanism. The study reveals a new buried acid group that is part of a hydrogen bonding system involving the active serine, which helps explain how serine can become a powerful nucleophile through a "charge relay system." The authors also define the catalytic binding site using diffraction studies of substrate binding.
+scientific_discipline: Biology and Life Sciences > Biochemistry

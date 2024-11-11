@@ -1,0 +1,10 @@
+article_id: rspa_1905_0053
+revised_title: 'Refractive Indices of Sulphuric Acid at Different Concentrations'
+semantic_tags:
+  - Refractive Index
+  - Sulphuric Acid
+  - Concentration
+  - Dispersion
+  - Cauchy's Dispersion Formula
+tldr: 'The authors, V. H. Veley and J. J. Manley, conducted experiments to determine the refractive indices of sulphuric acid at different concentrations. They compared their results with Sir W. R. Hamilton's modification of Cauchy's dispersion formula and found that the maximum refractive index occurs between 72% and 73% concentration. The study aimed to understand the relationship between refractive energies, dispersion, and chemical constitution of sulphuric acid.'
+scientific_discipline: Chemistry > Physical Chemistry

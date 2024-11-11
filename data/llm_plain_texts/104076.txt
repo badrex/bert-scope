@@ -1,0 +1,10 @@
+article_id: 104076
+revised_title: A New Instrument for Measuring Angles
+semantic_tags:
+  - Optics
+  - Angle measurement
+  - Catoptrics
+  - Telescope design
+  - Reflective instruments
+tldr: The author, John Hadley, describes a new instrument for measuring angles using two plane polished surfaces and the principles of catoptrics. The instrument allows for accurate angle measurements, even in situations where common instruments may be difficult to use due to unsteady objects or motion. This innovative design can be used for various applications, including astronomy and navigation.
+scientific_discipline: Physics > Optics

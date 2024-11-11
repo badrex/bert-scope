@@ -1,0 +1,10 @@
+article_id: rspa_1955_0055
+revised_title: Kinetics of Hill-Hermans Diffusion with Unstable Reagents
+semantic_tags:
+  - Diffusion kinetics
+  - Polymer chemistry
+  - Surface reactions
+  - Unstable reagents
+  - Chemical stability
+tldr: This article presents a kinetic theory for the diffusion-controlled reaction of an unstable reagent with a polymer across an interface. The theory is a generalization of previous treatments of diffusion processes in various applications, such as living tissues, ion-exchange resins, dyeing, and tanning. The new feature of this treatment is the assumption that the diffusing reagent is unstable in the polymer phase and may experience an alternative fate, such as decomposition or deactivation. The rate law derived from this theory is little dependent on the model used or the interface's curvature, but it depends critically on the reagent's stability constant.
+scientific_discipline: Chemistry > Polymer Chemistry

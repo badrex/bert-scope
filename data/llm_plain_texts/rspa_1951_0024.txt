@@ -1,0 +1,10 @@
+article_id: rspa_1951_0024
+revised_title: Molecular Association in Liquids: A Theory of Water Structure
+semantic_tags:
+  - Water structure
+  - Hydrogen bonding
+  - Molecular association
+  - Liquid water
+  - Statistical mechanics
+tldr: This article presents a theory of the structure of water, focusing on the role of hydrogen bonds and their distortion in liquid water. The authors argue that the majority of hydrogen bonds are distorted rather than broken, and they use classical statistical mechanics to examine the energy of bent hydrogen bonds and the angular distribution of neighbors in water.
+scientific_discipline: Chemistry > Physical Chemistry

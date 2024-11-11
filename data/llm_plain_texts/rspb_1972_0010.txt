@@ -1,0 +1,10 @@
+article_id: 'rspb_1972_0010'
+revised_title: 'Investigations on Sterol Intermediates in Cholesterol Biosynthesis'
+semantic_tags:
+  - Sterol biosynthesis
+  - Cholesterol
+  - Sterol intermediates
+  - Enzymatic conversion
+  - Biochemistry
+tldr: The authors discuss recent investigations on the nature of sterol intermediates in the biosynthesis of cholesterol. They describe the enzymic conversion of lanosterol to cholesterol, which requires reduction of the A24 double bond, removal of the three extra methyl groups, and shifting the nuclear double bond from the A8 position to the A5 position. The authors also present chromatographic methods for resolving sterols and discuss the challenges in understanding the metabolism of these compounds.
+scientific_discipline: Chemistry > Biochemistry

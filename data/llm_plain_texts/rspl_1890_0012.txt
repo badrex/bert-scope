@@ -1,0 +1,10 @@
+article_id: rspl_1890_0012
+revised_title: Determining Rapid Variations of Difference of Potential using Capillary Electrometer
+semantic_tags:
+  - Electrometry
+  - Capillary electrometer
+  - Electrical potential
+  - Electromagnetic induction
+  - Physics
+tldr: The author developed a method to determine rapid variations of a difference of potential using the capillary electrometer. They discovered that the time required for the meniscus to traverse half the distance in response to a sudden introduction of a permanent difference of potential is independent of the amount of that difference. This method allows for the analysis of electrical phenomena in living tissues and the estimation of the difference of potential corresponding to any part of the photographed curve.
+scientific_discipline: Physics > Electromagnetism

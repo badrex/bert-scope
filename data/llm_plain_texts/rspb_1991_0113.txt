@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0113'
+revised_title: 'FNR's Dual Role in Transcription Regulation'
+semantic_tags:
+  - Transcription regulation
+  - FNR protein
+  - Anaerobic gene expression
+  - DNA-binding protein
+  - Iron-binding protein
+tldr: The study investigates the role of FNR, an iron-binding transcriptional regulator, in activating and repressing transcription in vitro. FNR is found to bind to specific DNA sequences and can activate or repress transcription at different promoters. The findings provide insights into FNR's dual role in regulating gene expression under anaerobic conditions in Escherichia coli.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

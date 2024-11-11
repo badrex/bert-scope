@@ -1,0 +1,10 @@
+article_id: 'rspb_1910_0032'
+revised_title: 'Discovering a Physiological Effect of an Alternating Magnetic Field'
+semantic_tags:
+  - Electromagnetism
+  - Bioelectromagnetics
+  - Sensory perception
+  - Physiological effects
+  - Alternating current
+tldr: The author, Silvanus P. Thompson, discovered a physiological effect of an alternating magnetic field. By using an alternating electro-magnet, he observed a faint visual effect when his forehead was close to the magnet. This phenomenon, which is colorless or slightly bluish, is influenced by the intensity of the magnetic field and is perceived over the whole region of vision. The effect has not been experienced as an after-effect, and its relation to the direction of the magnetic field's axis with respect to the skull remains unclear.
+scientific_discipline: Physics > Electromagnetism

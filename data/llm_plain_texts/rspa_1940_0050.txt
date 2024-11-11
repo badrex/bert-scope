@@ -1,0 +1,10 @@
+article_id: rspa_1940_0050
+revised_title: 'The Theory of Reflexion of Very Long Wireless Waves from the Ionosphere'
+semantic_tags:
+  - Ionosphere
+  - Wireless Waves
+  - Radio Wave Propagation
+  - Electromagnetic Waves
+  - Atmospheric Science
+tldr: This article discusses the theory of reflexion of very long wireless waves from the ionosphere. The author presents a theoretical analysis of the data collected from experiments on the nature of downcoming waves received at Cambridge from the British Post Office transmitter at Rugby. The study focuses on the reflexion of very long waves in the lowest part of the ionosphere and the implications of the data for understanding physical conditions in that region.
+scientific_discipline: Physics > Electromagnetism

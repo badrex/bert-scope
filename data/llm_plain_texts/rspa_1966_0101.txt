@@ -1,0 +1,10 @@
+article_id: rspa_1966_0101
+revised_title: Dielectric Properties of Aqueous Nucleic Acid Solutions
+semantic_tags:
+  - Dielectric properties
+  - Nucleic acids
+  - Polyelectrolyte solutions
+  - Counterion binding
+  - O'Konski theory
+tldr: The authors studied the dielectric properties of aqueous solutions of sodium salts of ribonucleic acid and deoxyribonucleic acid. They found that these solutions exhibit a general pattern of behavior, with indications of a low-frequency dispersion region. The authors used the O'Konski theory of ionic polarization and the equilibrium between counterions to explain their findings.
+scientific_discipline: Chemistry > Polyelectrolytes and Polyelectrolyte Solutions

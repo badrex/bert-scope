@@ -1,0 +1,10 @@
+article_id: 'rspb_1951_0007'
+revised_title: 'Oxidation-Reduction Processes in Bacterial Cultures: The Pasteur Effect with Bact. lactis aerogenes'
+semantic_tags:
+  - Bacterial metabolism
+  - Pasteur effect
+  - Oxidation-reduction processes
+  - Anaerobic growth
+  - Aerobic respiration
+tldr: The author investigates the Pasteur effect in bacterial cultures, specifically with Bact. lactis aerogenes. The Pasteur effect is the partial inhibition of substrate degradation during the utilization of molecular oxygen. The author hypothesizes that the Pasteur effect is connected to the mode of reoxidation of hydrogen carriers in bacterial metabolism. This phenomenon acts as a governor to restrict fermentation when respiration cannot occur sufficiently.
+scientific_discipline: Biology and Life Sciences > Microbiology

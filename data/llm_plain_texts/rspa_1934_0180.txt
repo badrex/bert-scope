@@ -1,0 +1,10 @@
+article_id: 'rspa_1934_0180'
+revised_title: 'The Study of Electron Scattering in Bromine Vapour'
+semantic_tags:
+  - Electron Scattering
+  - Bromine Vapour
+  - Molecular Scattering
+  - Quantum Mechanics
+  - Atomic Physics
+tldr: 'The authors conducted experiments to study the scattering of electrons in bromine vapour. They used theoretical calculations and data from Professor D. R. Hartree to analyze the scattering patterns. The results showed that the interference factor had a significant effect on the scattering at small angles, and the agreement between the theoretical and experimental curves improved as the energy increased. The study provided insights into the molecular field and the outer field of the molecule, contributing to the understanding of atomic and molecular physics.'
+scientific_discipline: Physics > Atomic Physics

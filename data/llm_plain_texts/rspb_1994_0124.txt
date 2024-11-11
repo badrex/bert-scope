@@ -1,0 +1,10 @@
+article_id: 'rspb_1994_0124'
+revised_title: 'Embryonic Neural Plasticity: Novel Synapses Form to Compensate for Neuron Ablation'
+semantic_tags:
+  - Neuronal plasticity
+  - Synapse formation
+  - Axon growth
+  - Embryonic development
+  - Neuronal repair
+tldr: Researchers discovered that in embryonic leeches, when a specific neuron (S interneuron) is ablated, novel synapses form to compensate for the loss. Intact S cells' axons grow twice their usual length to form electrical synapses with homologues of their usual targets, restoring conduction in the nervous system. This finding highlights the plasticity of the embryonic nervous system and its potential for recovery compared to the adult system.
+scientific_discipline: Biology and Life Sciences > Developmental Biology

@@ -1,0 +1,10 @@
+article_id: 112290
+revised_title: Simplifying Differential Equations for Dynamics
+semantic_tags:
+  - Differential Equations
+  - Mathematical Analysis
+  - Applied Mathematics
+  - Dynamics
+  - Numerical Results
+tldr: The author, George Boole, presents a method to simplify a system of differential equations related to dynamics. By finding an integral of one equation, he demonstrates a procedure to either solve a single differential equation or find an integral of a single partial differential equation. This approach reduces the complexity of the original system and provides a more efficient way to find the common integral.
+scientific_discipline: Mathematics > Applied Mathematics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1921_0021'
+revised_title: 'The Effect of Red Fatigue on Color Perception'
+semantic_tags:
+  - Color Vision
+  - Visual Fatigue
+  - Red Fatigue
+  - Visual Purple
+  - Color Equation
+tldr: This study investigates the effect of red light exposure on color perception. Researchers found that after red light exposure, the amount of green light needed in the white equation was significantly reduced. This suggests that red light affects only the hypothetical red sensation and has no impact on other color sensations.
+scientific_discipline: Psychology > Perception

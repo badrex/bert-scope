@@ -1,0 +1,10 @@
+article_id: 'rspb_1964_0043'
+revised_title: 'Effects of Localized Irradiation on DNA Synthesis in Tissue Culture Cells'
+semantic_tags:
+  - DNA synthesis
+  - Irradiation effects
+  - Tissue culture
+  - Microbeam
+  - Radiation biology
+tldr: The authors investigated the effects of localized irradiation using a UV microbeam and an alpha-particle microbeam on DNA synthesis in tissue culture cells. They found that irradiating specific parts of the cells, such as the nucleolus, nuclear sap, cytoplasm, or nutrient medium, inhibited DNA synthesis. Both types of radiation produced similar inhibitions, suggesting a common mechanism involving the formation of a radiation-produced inhibitory substance that diffuses throughout the cell. This study provides insights into the roles different cell parts play in DNA synthesis and the mechanisms of radiation action on cells.
+scientific_discipline: Biology and Life Sciences > Molecular Biology and Genetics

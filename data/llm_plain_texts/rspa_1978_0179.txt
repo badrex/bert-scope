@@ -1,0 +1,9 @@
+article_id: rspa_1978_0179
+revised_title: 'Elastic Wave Reflexion by Periodic Rigid Boundaries: A Study of Diffraction'
+semantic_tags:
+  - Elastic waves
+  - Diffraction
+  - Periodic rigid boundaries
+  - Wave reflexion
+  - Integral equation
+tldr: This article investigates the reflexion of elastic waves by a rigid boundary with a periodic profile. The authors use an integral equation to calculate the reflexion factors and present numerical results for a sinusoidal boundary. The study is conducted for two different materials, fused quartz and silver, and for three different heights of the periodic profile. The findings can help improve our understanding of wave behavior in elastic media and contribute to the development of better materials and structures.

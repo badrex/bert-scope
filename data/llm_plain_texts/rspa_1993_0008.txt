@@ -1,0 +1,10 @@
+article_id: rspa_1993_0008
+revised_title: 'Nonlinear Theory of Modulated Standing Waves: Domain Walls, Kinks, and Breathers'
+semantic_tags:
+  - Nonlinear Dynamics
+  - Standing Waves
+  - Domain Walls
+  - Kinks
+  - Breathers
+tldr: The authors develop a nonlinear theory of modulated standing waves in one dimension, exploring domain walls, kinks, and breathers as localized solutions. These structures represent a spontaneous breaking of translational invariance and can be observed in various continuous systems with appropriate dispersion laws. The study extends the analysis of standing wave structures to longitudinal waves and may have practical applications in information storage and transmission.
+scientific_discipline: Physics > Nonlinear Dynamics

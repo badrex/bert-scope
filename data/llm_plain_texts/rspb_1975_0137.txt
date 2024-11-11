@@ -1,0 +1,10 @@
+article_id: 'rspb_1975_0137'
+revised_title: 'Genetic Analysis of Polydactyly with Multiple Thresholds in Mice'
+semantic_tags:
+  - Genetics
+  - Polydactyly
+  - Thresholds
+  - Mouse Genetics
+  - Developmental Biology
+tldr: The authors studied a spontaneous case of polydactyly in mice and found that its genetic basis could be explained by a model of liability to the abnormality based on a continuously distributed underlying variable with two thresholds. The incidence and severity of the abnormality increased with selection, and the genetic interpretation of the data revealed complex interactions between systemic and local influences on digit number, with implications for the gene control of limb development.
+scientific_discipline: Biology and Life Sciences > Genetics

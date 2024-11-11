@@ -1,0 +1,10 @@
+article_id: rspa_1968_0175
+revised_title: 'Growth and Behavior of Vacancy Loops in Magnesium'
+semantic_tags:
+  - Materials Science
+  - Dislocation Loops
+  - Magnesium
+  - Vacancy Clustering
+  - Stacking Fault Energy
+tldr: The authors studied the formation and growth of vacancy loops in magnesium, observing that excess vacancies aggregate on close-packed planes to form dislocation loops. They found that these loops grow more commonly than shrink due to a high vacancy concentration in the thin foil. The stacking fault energy was determined from the growth kinetics of the loops, providing insights into the properties of magnesium.
+scientific_discipline: Materials Science > Dislocation Loops

@@ -1,0 +1,10 @@
+article_id: 'rspa_1912_0032'
+revised_title: 'Investigation of Devitrification in Silica Glass'
+semantic_tags:
+  - Glass Science
+  - Devitrification
+  - Vacuum Technology
+  - Radium
+  - Heat Resistance
+tldr: The author conducted experiments to study the devitrification of silica glass and its resistance to air leakage. They found that devitrification occurs due to exposure to high temperatures and contact with radium salts. The silica glass showed significant air leakage compared to a glass control, indicating the impact of devitrification on its properties.
+scientific_discipline: Engineering and Technology > Glass Science

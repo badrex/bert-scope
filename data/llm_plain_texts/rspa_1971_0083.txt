@@ -1,0 +1,10 @@
+article_id: 'rspa_1971_0083'
+revised_title: 'Electron Energy-Loss Spectra and Rydberg Series in Triatomic Molecules'
+semantic_tags:
+  - Molecular Spectroscopy
+  - Electron Energy-Loss Spectra
+  - Rydberg Series
+  - Triatomic Molecules
+  - Quantum Defects
+tldr: The authors studied electron energy-loss spectra of triatomic molecules like CO2, N2O, COS, CS2, and SO2. They compared the observed Rydberg series with vacuum ultraviolet absorption spectra and identified new lowest members and series. The quantum defects of these series were discussed in terms of the orbitals of the active electrons. The results provide insights into the optical and generalized oscillator strengths, forbidden and allowed transitions, and Rydberg and auto-ionizing transitions in the continua of these molecules.
+scientific_discipline: Chemistry > Molecular Spectroscopy

@@ -1,0 +1,10 @@
+article_id: rspa_1974_0063
+revised_title: Analytical Model for Polymer Stabilization of Colloids
+semantic_tags:
+  - Colloids
+  - Polymer chemistry
+  - Adsorption
+  - Random flight polymer chains
+  - Colloid stabilization
+tldr: The authors develop an analytical model to study the stabilization of colloidal suspensions using adsorbed polymer chains. They focus on random flight polymer chains adsorbed by one end only onto plane surfaces and calculate the configurational free energy to analyze the stabilization process. The model provides criteria for colloidal suspension stabilization and discusses the role of excluded volume effects in increasing the stability against looser associations.
+scientific_discipline: Physics > Materials Science

@@ -1,0 +1,10 @@
+article_id: rsta_1996_0133
+revised_title: Strain Effects in Phase Transitions: Equilibrium and Kinetics
+semantic_tags:
+  - Ferroelasticity
+  - Phase transitions
+  - Strain interactions
+  - Texture formation
+  - Elastic forces
+tldr: This article discusses the role of strain effects in phase transitions, particularly in ferroelastic materials. The authors analyze systems with elastically mediated interactions and their impact on kinetics and textures during phase transitions. They explore the formation of tweed textures, which are common in materials like oxygen-ordered layered cuprates, and the effects of sudden heating and inhomogeneities on ferroelastic materials.
+scientific_discipline: Physics > Materials Science

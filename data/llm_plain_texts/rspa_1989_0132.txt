@@ -1,0 +1,10 @@
+article_id: rspa_1989_0132
+revised_title: Mechanics of Heterogeneous Porous Media with Multiple Spatial Scales
+semantic_tags:
+  - Porous Media
+  - Homogenization Theory
+  - Multiple Scales
+  - Fluid Flow
+  - Deformable Porous Media
+tldr: This article extends the theory of homogenization to a heterogeneous porous medium with multiple spatial scales. The authors derive the phenomenological equations of motion using the perturbation technique of multiple scales, focusing on the macroscale that is much larger than the smallest microscale. They deduce the effective coefficients for the dynamics of rigid and deformable porous media, providing a deterministic theory without additional constitutive assumptions.
+scientific_discipline: Environmental and Earth Sciences > Geology and Hydrology

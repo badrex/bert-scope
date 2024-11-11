@@ -1,0 +1,10 @@
+article_id: 'rspb_1937_0009'
+revised_title: 'Molecular Interactions in Monolayers: The Action of Haemolytic and Agglutinating Agents on Lipo-Protein Monolayers'
+semantic_tags:
+  - Biochemistry
+  - Protein interactions
+  - Surface chemistry
+  - Colloidal chemistry
+  - Biophysics
+tldr: This article explores the interaction between organic molecules and protein monolayers, focusing on the effects of haemolytic and agglutinating agents on lipo-protein monolayers. The authors establish two types of complex formation between molecules and the monolayer: those that associate through polar groups and those that interact through both polar and non-polar portions. The study suggests possible mechanisms for biological processes such as lysis, agglutination, and sensitization.
+scientific_discipline: Chemistry > Biochemistry

@@ -1,0 +1,10 @@
+article_id: rsta_1984_0117
+revised_title: All-Optical Switching and Logic: Applications and Future Potential
+semantic_tags:
+  - Optical Bistability
+  - Photonic Devices
+  - Optical Signal Processing
+  - Optical Computing
+  - Optical Communications
+scientific_discipline: Physics > Optics
+tldr: This article discusses the current status and future potential of all-optical switching and logic elements. It explores various types of bistable optical devices, their limitations, and the materials used. The author also describes two areas where all-optical signal-processing systems are likely to have a major impact: high-speed switching in optical communications systems and optical computing.

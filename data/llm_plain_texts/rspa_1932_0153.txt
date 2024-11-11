@@ -1,0 +1,10 @@
+article_id: rspa_1932_0153
+revised_title: Recovery of Proportional Elasticity in Overstrained Steel: An Investigation of Steel Types and Heat Treatments
+semantic_tags:
+  - Material Science
+  - Steel Properties
+  - Elasticity
+  - Heat Treatment
+  - Mechanical Testing
+tldr: This study investigates the recovery of proportional elasticity in overstrained steel and its relation to different steel types and heat treatments. The authors found that some steels can recover their proportional elasticity when rested, while others do not. The recovery process is influenced by the type of steel, its composition, and the heat treatment it has undergone. The research also shows that the recovery of proportional elasticity is an inherent physical property and is not affected by the stress carried during the rest period.
+scientific_discipline: Engineering and Technology > Material Science

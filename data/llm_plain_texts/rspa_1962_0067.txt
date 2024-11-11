@@ -1,0 +1,10 @@
+article_id: rspa_1962_0067
+revised_title: 'Axially Symmetric Stress Distributions in Elastic Solids with Penny-Shaped Cracks'
+semantic_tags:
+  - Elasticity
+  - Solid Mechanics
+  - Fracture Mechanics
+  - Stress Analysis
+  - Penny-Shaped Cracks
+tldr: The article investigates axially symmetric stress distributions in elastic solids containing penny-shaped cracks. It presents methods to represent the displacement in an infinite solid with a single crack and uses this representation to reduce the problem of determining stresses in solids to the solutions of Fredholm integral equations of the second kind. The study covers stress distributions due to the opening of cracks in an infinite solid and a thick plate under the action of constant pressures over the cracks.
+scientific_discipline: Mechanics > Solid Mechanics

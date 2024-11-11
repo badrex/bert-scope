@@ -1,0 +1,10 @@
+article_id: rspa_1963_0013
+revised_title: Oxygen's Effect on Thermoluminescence of Irradiated Polyethylene
+semantic_tags:
+  - Thermoluminescence
+  - Polyethylene
+  - Oxygen effect
+  - Irradiation
+  - Glow curve
+tldr: The authors studied the impact of oxygen on the thermoluminescence of irradiated polyethylene. They discovered that oxygen significantly affects the glow curve, altering the peaks and adding a new peak at a lower temperature. The oxygen effect can be removed by pumping or a pre-irradiation followed by pre-heating, which converts oxygen to peroxide radicals. The thermoluminescence phenomena in polyethylene can be explained by a model involving the trapping of electrons followed by their recombination with different types of luminescence centers.
+scientific_discipline: Chemistry > Polymer Science

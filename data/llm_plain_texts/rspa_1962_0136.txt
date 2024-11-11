@@ -1,0 +1,12 @@
+replaced by the generalizations, ( 37 ), ( 38 ) Solving for and substituting in ( 2 ) yields the implicit solution for the sol fraction, ( 39 ) The trivial solution is removed by dividing by ( 40 ) The gel-point condition is given by ( 41 ) For the weight-average molecular weight, ( 42 ) is obtained by substituting the generalized generating functions ( 34 ) and ( 35 ) into ( 28 ). The higher averages can be derived by further differentiation. The author has checked equation ( 42 ) by a different method and found it to be consistent with the original equation. The present theory can be used to elucidate the mechanism of polycondensation reactions by comparing experimental measurements of statistical parameters with those calculated from postulated kinetic schemes. This approach provides a better understanding of the physical properties of branched polymers in solution and network polymers in bulk. 
+
+article_id: rspa_1962_0136
+revised_title: 'Unified Theory of Polymerization and Statistical Parameters'
+semantic_tags:
+  - Polymer Chemistry
+  - Polymerization
+  - Statistical Mechanics
+  - Generating Functions
+  - Polymerization Kinetics
+tldr: The author applies Good's theory of cascade processes to calculate important statistics of polymerization reactions, such as molecular weight averages, gel point, and sol fraction. The theory uses generating functions to reduce the use of probability theory and allows for the direct calculation of required statistics without explicit expressions for distributions. The author demonstrates the method's applicability to various polymerization systems, including condensation of a distribution of functionalities and vulcanization of a chain distribution.
+scientific_discipline: Chemistry > Polymer Chemistry

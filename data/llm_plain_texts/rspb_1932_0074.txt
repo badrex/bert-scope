@@ -1,0 +1,10 @@
+article_id: 'rspb_1932_0074'
+revised_title: 'Determination of Serum-Globulin Isoelectric Point by Kataphoresis'
+semantic_tags:
+  - Protein chemistry
+  - Electrophoresis
+  - Isoelectric point
+  - Serum-globulin
+  - Gold sol
+tldr: The authors determined the isoelectric point of serum-globulin using kataphoresis, a technique that measures the migration of proteins in an electric field. They found that serum-globulin has an isoelectric point of approximately pH 4.54 and a zone of insolubility between pH 4.5 and 6.5. This study provides a better understanding of serum-globulin's properties and its behavior in different pH conditions.
+scientific_discipline: Chemistry > Protein chemistry

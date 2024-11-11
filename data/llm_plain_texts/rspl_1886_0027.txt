@@ -1,0 +1,10 @@
+article_id: rspl_1886_0027
+revised_title: 'Color Photometry and its Applications in Understanding Color Blindness'
+semantic_tags:
+  - Color Photometry
+  - Color Blindness
+  - Spectral Intensity
+  - Light Measurement
+  - Vision Science
+tldr: The authors developed a method to compare the intensity of lights of different colors and applied it to study color blindness. They found that color-blind individuals perceive less intensity of illumination compared to normal-eyed people and have different curves of luminosity. The authors also compared their results with Vierordt's curve and discussed the effect of turbidity on light intensity.
+scientific_discipline: Psychology > Vision Science

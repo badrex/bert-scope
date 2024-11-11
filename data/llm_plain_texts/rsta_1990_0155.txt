@@ -1,0 +1,10 @@
+article_id: 'rsta_1990_0155'
+revised_title: 'Urinary Acylcarnitine Profiling by Gas Chromatography Mass Spectrometry for Disease Diagnosis'
+semantic_tags:
+  - Metabolomics
+  - Gas Chromatography Mass Spectrometry
+  - Inborn Errors of Metabolism
+  - Organic Aciduria
+  - Drug Metabolism
+tldr: The authors developed a simple method for urinary acylcarnitine profiling using gas chromatography mass spectrometry (GCMS) to diagnose inborn errors of metabolism, such as medium-chain acyl-CoA dehydrogenase (MCAD) deficiency, and to study drug metabolism. This method can help identify specific acylcarnitines in urine samples, providing valuable information for understanding various diseases and drug metabolic routes.
+scientific_discipline: Chemistry > Analytical Chemistry

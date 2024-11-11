@@ -1,0 +1,10 @@
+article_id: rspa_1951_0124
+revised_title: 'Asymptotic Solution for Motion in the Wake of a Thin Plate'
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Asymptotic Analysis
+  - Aerodynamics
+  - Aeronautics
+tldr: The author investigates the motion in the wake of a thin plate at zero incidence in a uniform stream. They develop a method to integrate the linear equations related to the motion in the wake close to the trailing edge of the plate. The study provides an asymptotic solution for the motion downstream in the wake, which differs from previous solutions in the first approximation. The results can be used to improve understanding of fluid dynamics and aerodynamics.
+scientific_discipline: Physics > Fluid Dynamics

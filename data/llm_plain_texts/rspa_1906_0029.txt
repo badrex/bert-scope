@@ -1,0 +1,10 @@
+article_id: rspa_1906_0029
+revised_title: 'On a Property of Groupings in Normal Distributions for Two Variables and Its Applications to Contingency Tables'
+semantic_tags:
+  - Statistics
+  - Contingency tables
+  - Isotropy
+  - Grouping of variables
+  - Inheritance
+tldr: The author investigates the properties of groupings in normal distributions for two variables and their applications to contingency tables. They develop a method to determine the order of variables in a table, which helps in understanding the relationship between variables, especially in the context of inheritance of unmeasured qualities.
+scientific_discipline: Statistics > Contingency Analysis

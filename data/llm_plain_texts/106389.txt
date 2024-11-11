@@ -1,0 +1,10 @@
+article_id: 106389
+revised_title: 'Cubic Equations and Infinite Series: Properties and Solutions'
+semantic_tags:
+  - Algebra
+  - Cubic equations
+  - Infinite series
+  - Mathematical properties
+  - Equation transformation
+tldr: The article discusses the properties and solutions of cubic equations, focusing on the transformation of equations and the discovery of new properties. It explains the relationship between coefficients and roots in cubic equations and provides methods for solving equations with missing terms or imaginary roots.
+scientific_discipline: Mathematics > Algebra

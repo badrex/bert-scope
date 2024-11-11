@@ -1,0 +1,10 @@
+article_id: rspa_1983_0005
+revised_title: 'On the Passage of a Shock Wave through a Dusty-Gas Layer: Refraction and Reflection'
+semantic_tags:
+  - Fluid Dynamics
+  - Shock Waves
+  - Dusty-Gas Flow
+  - Equilibrium Gas Approximation
+  - Refraction and Reflection
+tldr: This article studies the flow resulting from a shock wave passing through a dusty-gas layer. The authors use an idealized equilibrium-gas approximation to obtain criteria for wave reflection at the contact surface separating the pure gas from the dusty-gas layer. They find that a shock wave stronger than the incident one is transmitted into the dusty-air layer, and the shock wave transmitted into free air is weakened by a rarefaction wave. The authors solve the equations of motion numerically using a modified random-choice method with an operator-splitting technique to analyze the flow's transient behavior and discuss the strengths of the initial and emergent shock waves.
+scientific_discipline: Physics > Fluid Dynamics

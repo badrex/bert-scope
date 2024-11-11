@@ -1,0 +1,10 @@
+article_id: rsta_1991_0035
+revised_title: Model-Free Data Condensation Techniques in Statistical Analysis
+semantic_tags:
+  - Data condensation
+  - Statistical inference
+  - Surrogate spectra
+  - Macrostandard contexts
+  - Projective contexts
+tldr: This article discusses the process of data condensation, which involves simplifying complex data sets into a more manageable summary. The author introduces the concept of macrostandard contexts and projective contexts, where data is condensed without reference to the mechanisms that generated it. The article also explores the use of consistent surrogates, which are used in place of the actual data spectrum, and the implications of this approach on statistical inference and the theory of probability.
+scientific_discipline: Mathematics > Statistics

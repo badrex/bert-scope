@@ -1,0 +1,10 @@
+article_id: rspa_1969_0070
+revised_title: The Reaction of Active Nitrogen with Acetylene: A Comprehensive Study
+semantic_tags:
+  - Chemical Reactions
+  - Nitrogen Chemistry
+  - Acetylene Reactions
+  - Chemiluminescence
+  - Reaction Kinetics
+tldr: This study investigates the reaction between active nitrogen and acetylene using a low-pressure flow reactor and a mass spectrometer. The reaction produces cyanogen, hydrogen, and cyanoacetylene as main products. The reaction rate is influenced by pressure and temperature, and the mechanism involves the formation of hydrogen cyanide and cyanide radicals. The rapid reaction is suppressed by adding ammonia to the mixture.
+scientific_discipline: Chemistry > Chemical Reactions

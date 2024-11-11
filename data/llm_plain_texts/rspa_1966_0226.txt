@@ -1,0 +1,10 @@
+article_id: rspa_1966_0226
+revised_title: Kinetics of Homogeneous Gaseous Oxidation of Sulphur Dioxide
+semantic_tags:
+  - Oxidation reactions
+  - Kinetics
+  - Catalysis
+  - Sulphur dioxide
+  - Nitric oxide
+tldr: The authors studied the kinetics of the homogeneous gaseous oxidation of sulfur dioxide in the presence and absence of nitric oxide. They found that the reaction is essentially homogeneous and that nitric oxide acts as a catalyst, significantly increasing the reaction rate. The authors propose a tentative reaction mechanism involving the collisional activation of sulfur dioxide and the interaction with nitric oxide species. The overall activation energy for the reaction is determined to be 75 kcal/mol.
+scientific_discipline: Chemistry > Catalysis

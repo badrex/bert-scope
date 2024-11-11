@@ -1,0 +1,10 @@
+article_id: rspa_1964_0085
+revised_title: Plastic Yielding and Crack Behavior in Notched Plates
+semantic_tags:
+  - Plasticity
+  - Notch Brittle
+  - Crack Growth
+  - Dislocation Theory
+  - Fatigue
+tldr: The authors study the spread of plasticity from a periodic sequence of cracks in an infinite isotropic elastic medium under external shear stress. They compare the results with a theory of plastic zones around notches in finite plates and discuss the implications for notch brittleness and high-strain fatigue.
+scientific_discipline: Engineering and Technology > Materials Science

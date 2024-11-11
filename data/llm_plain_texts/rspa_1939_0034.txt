@@ -1,0 +1,10 @@
+article_id: rspa_1939_0034
+revised_title: 'Kinetics and Mechanism of Vinyl Acetate Polymerization'
+semantic_tags:
+  - Polymerization
+  - Vinyl Acetate
+  - Catalyst
+  - Kinetics
+  - Chain Reaction
+tldr: The authors studied the polymerization of vinyl acetate, focusing on the role of benzoyl peroxide as a catalyst. They found that the reaction rate decreases as the catalyst decomposes, and they proposed a mechanism for the initiation and propagation of the polymerization process. The results provide insights into the control of polymerization reactions and the properties of the resulting polymers.
+scientific_discipline: Chemistry > Polymer Chemistry

@@ -1,0 +1,10 @@
+article_id: 'rspb_1966_0071'
+revised_title: 'Electrophysiology and Properties of Neuroglial Cells in Tissue Culture'
+semantic_tags:
+  - Neuroglial cells
+  - Tissue culture
+  - Membrane potentials
+  - Electrical stimulation
+  - Glial cell electrophysiology
+tldr: This study investigates the electrical and pharmacological properties of mammalian neuroglial cells in tissue culture. The researchers found that neuroglial cell membranes behave passively and do not exhibit electrical activity. The "response" to electrical stimulation observed in previous studies is likely an artifact caused by mechanical breakdown of the cell membrane. The study also provides information on the input resistance of glial cells and the effects of drugs on their properties.
+scientific_discipline: Biology and Life Sciences > Neuroscience

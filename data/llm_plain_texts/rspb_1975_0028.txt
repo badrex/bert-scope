@@ -1,0 +1,10 @@
+article_id: 'rspb_1975_0028'
+revised_title: 'Water Vapor Diffusion in Animal Coats: A Study on Fleece and Fiberglass Wool'
+semantic_tags:
+  - 'Heat Transfer'
+  - 'Water Vapor Diffusion'
+  - 'Fleece'
+  - 'Fiberglass Wool'
+  - 'Evaporative Cooling'
+tldr: The authors measured the diffusion of water vapor through cured and uncured fleece and fiberglass wool, finding that the diffusion resistance of fiberglass was close to the value expected for still air. They interpreted the results in terms of liquid movement and used principles of similarity to estimate corresponding rates of latent heat transfer when the skin is wetted by sweat. This study helps in understanding the evaporative cooling process in animal coats and the role of water vapor diffusion in thermal regulation.
+scientific_discipline: Environmental and Earth Sciences > Climate and Atmospheric Science

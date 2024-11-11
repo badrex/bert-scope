@@ -1,0 +1,10 @@
+article_id: rspa_1959_0058
+revised_title: 'Thermal Decomposition Mechanism of Methylene Chloride'
+semantic_tags:
+  - Chemical kinetics
+  - Methylene chloride decomposition
+  - Chain reactions
+  - Radical recombination products
+  - Degenerate branching mechanism
+tldr: The thermal decomposition of methylene chloride was studied in the temperature range of 600-800°C using both static pressure-time measurement and a flow system with gas chromatographic analysis. The reaction, which mainly produces carbon and hydrogen chloride, is characterized by a slow acceleration with a decreasing rate as the vessel diameter increases. A delayed branching mechanism involving the production of dichlorethylene as an intermediate has been deduced, explaining the reaction's kinetic features and the formation of minor products.
+scientific_discipline: Chemistry > Chemical kinetics

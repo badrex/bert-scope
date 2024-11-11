@@ -1,0 +1,10 @@
+article_id: rspa_1949_0154
+revised_title: Vibration-Rotation Bands of Allene: A Study of Molecular Structure and Spectra
+semantic_tags:
+  - Molecular spectroscopy
+  - Vibration-rotation bands
+  - Allene molecule
+  - Coriolis perturbation
+  - Spectrometer design
+tldr: The authors investigated the vibration-rotation bands of allene using a high-resolution grating spectrometer. They discovered interesting features in the perpendicular-type bands, which arise from the absorption of fundamental frequencies of degenerate vibrations. The study provides insights into the molecular structure and the effects of Coriolis perturbations on the arrangement of branches in the bands. The findings contribute to the understanding of molecular spectroscopy and the design of advanced spectrometers.
+scientific_discipline: Chemistry > Molecular Spectroscopy

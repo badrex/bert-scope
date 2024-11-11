@@ -1,0 +1,10 @@
+article_id: 'rsta_1975_0031'
+revised_title: 'Hydrodynamic Thrust Bearing: Studies and Applications'
+semantic_tags:
+  - Fluid Dynamics
+  - Bearings
+  - Hydraulics
+  - Mechanical Engineering
+  - Applied Mathematics
+tldr: This article presents a study on hydronamic thrust bearings, specifically focusing on parallel surface bearings. The authors explore the behavior and performance of these bearings, providing insights into their design and applications. Their research contributes to the understanding of fluid dynamics and mechanical engineering.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

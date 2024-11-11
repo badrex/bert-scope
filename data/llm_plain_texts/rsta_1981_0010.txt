@@ -1,0 +1,10 @@
+article_id: 'rsta_1981_0010'
+revised_title: 'Elastic-Plastic Aspects of Fracture Stress Analysis: Methods for Other Than Standardized Test Conditions'
+semantic_tags:
+  - Fracture mechanics
+  - Elastic-plastic fracture mechanics
+  - Contour integral analysis
+  - Crack growth
+  - Material toughness testing
+tldr: This article discusses the elastic-plastic aspects of fracture stress analysis and methods for assessing fracture mechanics in non-standardized test conditions. The authors explore the contour integral analysis, crack growth, and material toughness testing, providing a design curve for effective toughness and methods to avoid unstable ductile tearing. They also examine the implications of expressing data in terms of the contour integral and discuss the application of yielding fracture mechanics to various design problems.
+scientific_discipline: Engineering and Technology > Materials Science and Engineering

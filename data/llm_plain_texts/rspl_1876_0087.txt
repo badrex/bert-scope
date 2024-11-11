@@ -1,0 +1,10 @@
+article_id: rspl_1876_0087
+revised_title: A New Approach to Tangential Equations
+semantic_tags:
+  - Differential Geometry
+  - Calculus
+  - Mathematical Analysis
+  - Geometry
+  - Curves
+tldr: The author introduces a new form of tangential equation that can be easily transformed into various forms, such as the ordinary, polar, and intrinsic equation of a curve. This method provides remarkable results and simplifies the study of curves, including their evolutes, involutes, and other properties.
+scientific_discipline: Mathematics > Geometry

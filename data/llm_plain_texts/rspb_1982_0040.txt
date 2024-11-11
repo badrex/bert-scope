@@ -1,0 +1,10 @@
+article_id: 'rspb_1982_0040'
+revised_title: 'Functional Nicotinic Acetylcholine Receptors Synthesized in Xenopus Oocytes'
+semantic_tags:
+  - 'Neurotransmitter Receptors'
+  - 'Xenopus Oocytes'
+  - 'Messenger RNA'
+  - 'Acetylcholine Receptors'
+  - 'Torpedo Electric Organ'
+tldr: Researchers injected messenger RNA (mRNA) extracted from the electric organ of Torpedo into Xenopus oocytes, leading to the synthesis and incorporation of functional acetylcholine receptors into the oocyte membrane. These receptors resembled nicotinic receptors found in other cells and responded to acetylcholine. This discovery demonstrated that foreign mRNA coding for acetylcholine receptor proteins can be translated in the oocyte, processed, and inserted into the membrane, forming a functional receptor-channel complex.
+scientific_discipline: Biology and Life Sciences > Neurobiology

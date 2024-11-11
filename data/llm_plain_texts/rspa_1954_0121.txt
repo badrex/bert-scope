@@ -1,0 +1,10 @@
+article_id: rspa_1954_0121
+revised_title: Catalytic Efficiency of Different Metals in the Reaction Between Ethane and Deuterium
+semantic_tags:
+  - Catalysis
+  - Metal films
+  - Exchange reaction
+  - Ethane
+  - Deuterium
+tldr: The authors studied the catalyzed exchange reaction between ethane and deuterium over evaporated metal films, examining the efficiency of various metals like molybdenum, tantalum, and others. They found that different metals produced different initial distributions of deutero-ethanes and determined the activation energies and frequency factors for the reactions. The results provide insights into the efficiency of metals in catalyzing the reaction and the underlying mechanisms.
+scientific_discipline: Chemistry > Catalysis

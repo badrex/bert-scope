@@ -1,0 +1,10 @@
+article_id: rspa_1933_0032
+revised_title: Analytical Method for Stress Calculation in Braced Frameworks
+semantic_tags:
+  - Structural Engineering
+  - Stress Analysis
+  - Redundant Frameworks
+  - Elastic Properties
+  - Strain Energy
+scientific_discipline: Engineering and Technology > Structural Engineering
+tldr: The author presents an analytical method for calculating stresses in braced frameworks, focusing on tubular frameworks with regular polygonal bulkheads. The method allows for the calculation of stresses in redundant frameworks and can be applied to airship hulls and aeroplane fuselages.

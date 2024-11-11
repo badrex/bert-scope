@@ -1,0 +1,10 @@
+article_id: rspa_1968_0040
+revised_title: 'Excimer Fluorescence: Solvent-Solute Energy Transfer and Excimer Formation'
+semantic_tags:
+  - Excimer fluorescence
+  - Solvent-solute energy transfer
+  - Excimer formation
+  - Energy transfer rate parameter
+  - Migration-controlled process
+tldr: This article investigates the solvent-solute energy transfer and the role of excimer formation in the process. The authors determine the rate parameters for solutions of 2,5-diphenyloxazole in various solvents and propose that excimer formation and dissociation contribute to excitation migration. They also find that dilution of the solvent decreases migration but increases the transfer distance, maintaining transfer efficiency.
+scientific_discipline: Chemistry > Physical Chemistry

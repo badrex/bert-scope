@@ -1,0 +1,10 @@
+article_id: rspa_1970_0139
+revised_title: Nonlinear Free Vibrations of an Elastic Panel
+semantic_tags:
+  - Elasticity Theory
+  - Nonlinear Waves
+  - Vibrations
+  - Strain Rates
+  - Shock Layers
+tldr: This article investigates the evolution of small amplitude stretching disturbances in an elastic panel, considering the effects of nonlinearity and strain rates. The study focuses on the formation of shock layers and the role of dissipative mechanisms in the attenuation of disturbances. The research is applicable to various physical systems, including gas flows in Kundt tubes, optical vibrations in nonlinear dielectrics, and fluid dynamics in tanks.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

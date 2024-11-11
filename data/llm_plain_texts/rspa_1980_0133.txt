@@ -1,0 +1,10 @@
+article_id: rspa_1980_0133
+revised_title: 'Calculating Metastable Ion Fragmentation Peak Shapes in Mass Spectrometry'
+semantic_tags:
+  - Mass spectrometry
+  - Ion fragmentation
+  - Peak shape analysis
+  - Kinetic energy release
+  - Analytical methods
+tldr: The article presents a new method for calculating the shapes of peaks resulting from fragmentations of metastable ions in a mass spectrometer. The authors describe an analytical and a numerical approach to determine the peak shapes for a single valued kinetic energy release, showing that the peak shape will be essentially rectangular if all ions are collected. This method can be applied to improve the understanding of ion fragmentation and distribution in mass spectrometry.
+scientific_discipline: Chemistry > Analytical Chemistry

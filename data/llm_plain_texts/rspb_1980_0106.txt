@@ -1,0 +1,10 @@
+article_id: 'rspb_1980_0106'
+revised_title: 'Intracellular Calcium and Acetylcholine Receptor Desensitization'
+semantic_tags:
+  - Neurotransmitter
+  - Calcium ions
+  - Acetylcholine receptors
+  - Muscle contraction
+  - Desensitization
+tldr: The author's experiments show that intracellular calcium plays a significant role in the desensitization of acetylcholine receptors in frog muscle fibers. Desensitization still occurs in calcium-free media, but the rate of desensitization is slower. The presence of calcium in the external medium accelerates desensitization, and the influx of calcium accompanying ACh action may be responsible for this increase. Intracellular injection of EGTA, which opposes the rise in internal calcium caused by ACh action, reduces both desensitization and contraction.
+scientific_discipline: Biology and Life Sciences > Neurobiology

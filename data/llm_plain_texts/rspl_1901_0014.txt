@@ -1,0 +1,10 @@
+article_id: rspl_1901_0014
+revised_title: 'Application of Kinetic Theory of Gases to Electric, Magnetic, and Optical Properties of Diatomic Gases'
+semantic_tags:
+  - Kinetic Theory of Gases
+  - Electric Properties
+  - Magnetic Properties
+  - Optical Properties
+  - Diatomic Gases
+tldr: This paper applies the Boltzmann-Maxwell Kinetic Theory of Gases to the electric, magnetic, and optical properties of diatomic gases, such as hydrogen and oxygen. The author calculates the relative proportions of three types of molecules, their magnetic and electrical properties, and the optical control due to their rotation. The results show a close agreement with experimental observations and provide estimates of atomic charges and radii.
+scientific_discipline: Physics > Electromagnetism

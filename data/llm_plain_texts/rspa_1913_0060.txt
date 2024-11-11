@@ -1,0 +1,10 @@
+article_id: 'rspa_1913_0060'
+revised_title: 'Color Vision Deficiency and Luminosity in Color-Blind Observers'
+semantic_tags:
+  - Color Vision
+  - Color Blindness
+  - Luminosity
+  - Optics
+  - Human Perception
+tldr: The authors conducted experiments to compare the luminosity curves of a color-blind observer, Mr. C., and a normally sighted observer, Dr. Edridge-Green. They found that Mr. C.'s luminosity was different from the normal, with higher values on the red side and lower values on the blue side. This supports the idea that Mr. C. is partly green-blind. The authors also discussed the limitations of using flicker methods and the importance of considering the brightness of light when studying color vision deficiencies.
+scientific_discipline: Psychology > Perception

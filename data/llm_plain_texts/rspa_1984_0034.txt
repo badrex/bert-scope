@@ -1,0 +1,10 @@
+article_id: rspa_1984_0034
+revised_title: 'Conformal Transformations and Two-Index Killing Spinors in Space-times'
+semantic_tags:
+  - Space-time
+  - Killing spinors
+  - Conformal transformations
+  - Hamilton-Jacobi equation
+  - Scalar wave equation
+scientific_discipline: Physics > General Relativity
+tldr: The article discusses space-times with two-index Killing spinors and their properties. It shows that these space-times are conformally related to metrics with separable Hamilton-Jacobi and scalar wave equations. The study also explores conditions for non-scalar wave equations to have separable solutions with relations between components of opposite helicity.

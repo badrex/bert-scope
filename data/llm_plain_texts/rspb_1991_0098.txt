@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0098'
+revised_title: 'Steady-State Currents through Voltage-Dependent Dihydropyridine-Sensitive Ca Channels in GH3 Pituitary Cells'
+semantic_tags:
+  - Calcium channels
+  - Pituitary cells
+  - Action potentials
+  - Patch-clamp technique
+  - Dihydropyridine
+tldr: The study investigates steady-state currents through voltage-dependent calcium channels in GH3 pituitary cells using the nystatin-modification of the patch-clamp technique. The results show that these currents are dihydropyridine-sensitive and play a role in the generation of action potentials in pituitary cells. This research provides evidence for the importance of calcium channels in the electrical activity of these cells.
+scientific_discipline: Biology and Life Sciences > Neuroscience

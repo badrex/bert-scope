@@ -1,0 +1,10 @@
+article_id: rspa_1937_0134
+revised_title: 'Investigation of Cosmic-Ray Showers at High Altitudes'
+semantic_tags:
+  - Cosmic Rays
+  - High Altitude Physics
+  - Particle Physics
+  - Nuclear Physics
+  - Atomic Physics
+tldr: 'The authors conducted experiments on Mt. Kazbek to study cosmic-ray showers at 4000 meters above sea-level. They found that the law for the relative frequency of recorded showers from different elements is valid at high altitudes as at sea-level. The results suggest that the true relative frequency of shower production increases with the atomic number of the shower-producing element, and that shower rays can produce secondary showers. The authors also investigated the absorption of shower rays and found that the results are dependent on the experimental arrangement used.'
+scientific_discipline: Physics > Particle Physics

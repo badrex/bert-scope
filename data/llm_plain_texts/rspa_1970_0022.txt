@@ -1,0 +1,10 @@
+article_id: rspa_1970_0022
+revised_title: Investigating the Mechanisms of Drop Impingement Erosion in Metals
+semantic_tags:
+  - Erosion
+  - Metal deformation
+  - Impact mechanics
+  - Fatigue
+  - Hydrodynamic pressures
+scientific_discipline: Engineering and Technology > Materials Science
+tldr: This study investigates the mechanisms of erosion in metals and alloys under drop impingement attack. The authors use two different apparatuses to examine the effects of normal impact pressure and shear forces associated with liquid flow. They find that neither the normal pressure nor the tangential shear stress calculated are high enough to account for the deformation observed in the metals and alloys. The authors propose that a fatigue mechanism is responsible for erosion under these conditions and explore the application of a strain energy criterion to erosion behavior.

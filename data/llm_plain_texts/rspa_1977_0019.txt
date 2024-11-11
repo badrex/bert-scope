@@ -1,0 +1,10 @@
+article_id: rspa_1977_0019
+revised_title: A New Approach to Glauber Approximation for Particle-Atom Collisions
+semantic_tags:
+  - Particle-atom collisions
+  - Glauber approximation
+  - High energy physics
+  - Scattering processes
+  - Quantum mechanics
+tldr: The article presents a modified approach to Glauber approximation for particle-atom collisions, addressing its shortcomings, such as not distinguishing between electron and positron scattering, incorrect polarization radiation prediction, and the imaginary part of the Glauber amplitude diverging logarithmically in the forward direction. The new approach introduces a multi-angular-momentum expansion of each order of the amplitude, leading to a simpler expression and the possibility of systematically including higher-order terms in the phase function of the S-matrix.
+scientific_discipline: Physics > Quantum mechanics

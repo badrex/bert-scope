@@ -1,0 +1,10 @@
+article_id: 'rsta_1986_0052'
+revised_title: 'Constructing Novel Antibodies through DNA Transfection: Design of Plasmid Vectors'
+semantic_tags:
+  - Immunology
+  - Molecular Biology
+  - Gene Expression
+  - Antibody Engineering
+  - Plasmid Vectors
+tldr: The article discusses the construction of novel antibodies using DNA transfection and the design of plasmid vectors. The authors describe the use of rodent myeloma cells as hosts for expressing transfected antibody genes and the importance of DNA sequences for efficient expression. They also explore the role of enhancers and introns in immunoglobulin gene expression and the potential for using complementary DNA instead of genomic DNA for antibody production.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

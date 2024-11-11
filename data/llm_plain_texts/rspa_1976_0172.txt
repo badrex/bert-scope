@@ -1,0 +1,10 @@
+article_id: rspa_1976_0172
+revised_title: 'Interactions Between Large-Scale Structure and Fine-Grained Turbulence in Free Shear Flows'
+semantic_tags:
+  - Fluid Dynamics
+  - Turbulence
+  - Shear Flow
+  - Large Eddies
+  - Energy Transfer Mechanism
+tldr: This article investigates the interactions between large-scale structure and fine-grained turbulence in a free shear flow. The authors study the development of temporal interactions in the mean, focusing on the energy transfer mechanisms between the two disparate scales of motion. They find that the large eddy initially undergoes hydrodynamic-instability type amplification but eventually decays due to energy transfer to the fine-grained turbulence. The turbulent kinetic energy is displaced from its initial equilibrium level because of the large eddy's ability to negotiate an indirect energy transfer from the mean flow.
+scientific_discipline: Physics > Fluid Dynamics

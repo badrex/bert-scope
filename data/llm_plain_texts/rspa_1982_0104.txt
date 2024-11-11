@@ -1,0 +1,10 @@
+article_id: rspa_1982_0104
+revised_title: 'Harmonic Double Cusp and its Caustics: A Study in Catastrophe Theory'
+semantic_tags:
+  - Catastrophe Theory
+  - Bifurcation Set
+  - Caustics
+  - Optics
+  - Umbilic Locus
+tldr: This article explores the harmonic double cusp, a real singularity in catastrophe theory, and its relationship to caustics in optics. The authors describe the bifurcation set and umbilic locus, providing a tableau of two-dimensional sections over a three-dimensional base to understand the geometry of the harmonic double cusp and its connection to optical caustics from liquid drops.
+scientific_discipline: Mathematics > Catastrophe Theory

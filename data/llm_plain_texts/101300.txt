@@ -1,0 +1,10 @@
+article_id: 101300
+revised_title: Predicting the Variations of the Magnetick Needle
+semantic_tags:
+  - Magnetism
+  - Navigation
+  - Astronomy
+  - Geomagnetism
+  - Hypothesis
+tldr: The author presents a table predicting the variations of the magnetic needle for the following years, based on a hypothesis by Mr. Henry Bond. This prediction aims to help inquisitive men make observations to verify or invalidate the proposed theory, which could improve navigation and understanding of geomagnetism.
+scientific_discipline: Physics > Geomagnetism

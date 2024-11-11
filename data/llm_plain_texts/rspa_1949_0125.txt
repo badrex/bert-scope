@@ -1,0 +1,10 @@
+article_id: rspa_1949_0125
+revised_title: Angular Distribution of Beta-Radiation from Light Nuclei
+semantic_tags:
+  - Nuclear Physics
+  - Beta Decay
+  - Nuclear Reactions
+  - Proton Capture
+  - Nuclear Angular Distribution
+tldr: The authors conducted experiments to study the angular distribution of beta-radiation from light nuclei, specifically focusing on proton capture. They used a parallel beam of protons and a target made of the material under investigation. The results provide insights into the properties of radiative transitions and the nuclear processes involved.
+scientific_discipline: Physics > Nuclear Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1993_0150
+revised_title: Gaseous Detonation Internal Pressure Loads: Effects of Inert Layers, Deflagration-to-Detonation Transition, and Geometry
+semantic_tags:
+  - Detonation physics
+  - Gaseous detonations
+  - Internal pressure loads
+  - Shock wave physics
+  - Hydrodynamics
+tldr: This study examines the effects of inert layers, deflagration-to-detonation transition, and geometry on internal pressure loads caused by gaseous detonations. The authors use a multidimensional strong-shock physics code to calculate pressure histories for hydrogen-air-steam mixtures, demonstrating the impact of these variables on the loading of internal structures. The findings can be applied to industries where detonable mixtures may be present, such as chemical processing, oil and petroleum, and nuclear power.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

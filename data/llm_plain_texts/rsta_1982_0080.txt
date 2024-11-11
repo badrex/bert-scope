@@ -1,0 +1,10 @@
+article_id: rsta_1982_0080
+revised_title: Spectral Analysis of Paleomagnetic Time Series and the Geomagnetic Spectrum
+semantic_tags:
+  - Geomagnetism
+  - Paleomagnetism
+  - Archaeomagnetism
+  - Geophysical data analysis
+  - Geophysical time series
+tldr: The authors analyze paleomagnetic data from various sources, including archaeomagnetic data from rapidly deposited sediments and baked clays, to study the geomagnetic spectrum. They find that the power spectral density function has a rapid increase up to periods of 10 years, followed by a plateau in the region of 1 to 100 years, and then a decline. The study provides insights into the continuous spectrum of the Earth's geomagnetic field and highlights the need for more comprehensive data sets with emphasis on archaeomagnetic and high-resolution deep-sea records.
+scientific_discipline: Earth Sciences > Geomagnetism

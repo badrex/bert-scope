@@ -1,0 +1,10 @@
+article_id: rspa_1994_0151
+revised_title: Finite-Time Break-up in Three-Dimensional Unsteady Interacting Boundary Layers
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Unsteady Flow
+  - Finite-Time Break-up
+  - Nonlinear Interactions
+tldr: This article investigates the occurrence of finite-time break-up singularities in three-dimensional unsteady interacting boundary layers, extending previous two-dimensional theory. The study focuses on liquid-layer flow at subcritical Froude numbers and flow over relatively short steep humps, providing computational and theoretical insights into the behavior of these complex interactions in boundary layers.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

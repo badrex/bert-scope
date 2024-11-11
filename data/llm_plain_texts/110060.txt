@@ -1,0 +1,10 @@
+article_id: 110060
+revised_title: Preventing Copper Corrosion in Ships Using Electrical Power
+semantic_tags:
+  - Corrosion prevention
+  - Electrochemistry
+  - Marine engineering
+  - Copper
+  - Tin
+tldr: The author, Humphry Davy, discovered that a green rust forms on copper sheeting when exposed to sea-water, causing corrosion. To prevent this, he found that weak negative electricity, easily excited by the contact of a tin surface, counteracts the corrosion. Tin is the best metal for this purpose due to its ease of contact and detachment of its submuriate. This method also prevents the adhesion of marine animals and plants. The Admiralty supported further experiments on a larger scale.
+scientific_discipline: Engineering and Technology > Marine Engineering

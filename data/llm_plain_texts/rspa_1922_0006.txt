@@ -1,0 +1,10 @@
+article_id: rspa_1922_0006
+revised_title: A New Liquid Interferometer for High Resolving Power
+semantic_tags:
+  - Interferometry
+  - Optics
+  - Liquid interferometer
+  - Resolving power
+  - Surface tremors
+tldr: The author developed a new liquid interferometer that overcomes the limitations of traditional glass plate interferometers, allowing for higher resolving power and sharper interference bands. The device uses a thin layer of liquid, such as water or castor oil, and employs a unique mounting system to minimize surface tremors and improve stability. This innovation has significant implications for the field of optics and interferometry.
+scientific_discipline: Physics > Optics

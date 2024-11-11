@@ -1,0 +1,10 @@
+article_id: rspa_1964_0045
+revised_title: 'Substituent Effects on Aromatic Hydrocarbons: A Comparison of Two Models for Interpreting Spectra'
+semantic_tags:
+  - Molecular Orbital Theory
+  - Electronic Spectra
+  - Aromatic Hydrocarbons
+  - Substituent Effects
+  - Nitrobenzene
+tldr: The article compares two models, localized-orbital and iso-conjugate-hydrocarbon, for interpreting the electronic spectra of aromatic hydrocarbons, specifically amino- and nitrobenzenes. Both models have limitations in the zero-order approximation, but they provide a useful classification of spectral bands. The localized-orbital model is better for calculating energies, while the iso-conjugate-hydrocarbon model is more suitable for molecules with partial delocalization of electrons.
+scientific_discipline: Chemistry > Spectroscopy

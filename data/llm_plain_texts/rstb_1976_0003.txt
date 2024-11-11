@@ -1,0 +1,10 @@
+article_id: 'rstb_1976_0003'
+revised_title: 'Biosynthesis of Porphyrins, Chlorophyll, and Vitamin B in Plants'
+semantic_tags:
+  - Porphyrin biosynthesis
+  - Chlorophyll synthesis
+  - Vitamin B synthesis
+  - Glutamate pathway
+  - Tetrapyrrole pathway
+tldr: The author discusses the biosynthesis of porphyrins, chlorophyll, and vitamin B in plants. They propose a new pathway for 6-aminolaevulinic acid (ALA) biosynthesis from the intact carbon skeleton of glutamic acid, which is different from the succinyl transferase (ALA synthetase) route found in other organisms. The study focuses on the incorporation of labeled compounds into ALA and chlorophyll, and the accumulation of ALA in response to laevulinic acid (LEV) treatment in various plant tissues.
+scientific_discipline: Biology and Life Sciences > Biochemistry

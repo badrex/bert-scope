@@ -1,0 +1,10 @@
+article_id: rspa_1938_0161
+revised_title: Statistical Theory of Superlattices with Long-Range Interaction
+semantic_tags:
+  - Statistical mechanics
+  - Superlattices
+  - Lattice theory
+  - Crystallography
+  - Thermodynamics
+tldr: The authors apply a general theory to the simple cubic and body-centered cubic lattices to study superlattices with long-range interaction. They derive explicit formulas for the function and determine the critical temperature and superlattice order. The study provides insights into the behavior of superlattices and their potential applications in materials science.
+scientific_discipline: Physics > Crystallography

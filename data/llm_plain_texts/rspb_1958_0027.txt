@@ -1,0 +1,10 @@
+article_id: 'rspb_1958_0027'
+revised_title: 'Exploring Cytoplasmic Variation in Drosophila'
+semantic_tags:
+  - Genetics
+  - Drosophila melanogaster
+  - Cytoplasmic inheritance
+  - Selection
+  - Inheritance
+tldr: The author investigates the role of cytoplasm in heredity and genetic variation in Drosophila melanogaster. They explore different techniques to create heritable cytoplasmic variation and observe a consistent difference in sub-line 0, suggesting a cytoplasmic constitution that increases bristle number. The author also attempts to select for cytoplasmic differences in a wild stock, observing a possible initial cytoplasmic difference and a response to selection reducing this difference.
+scientific_discipline: Biology and Life Sciences > Genetics

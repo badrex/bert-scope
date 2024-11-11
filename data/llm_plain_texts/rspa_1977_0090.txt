@@ -1,0 +1,10 @@
+article_id: rspa_1977_0090
+revised_title: 'A Study of Near-Circular Satellite Orbits and Lunisolar Perturbations'
+semantic_tags:
+  - Celestial Mechanics
+  - Satellite Orbits
+  - Lunisolar Perturbations
+  - Zonal Harmonics
+  - Geopotential
+tldr: The authors present a solution for the motion of a satellite in a near-circular orbit when influenced by zonal harmonics in the geopotential. This solution can be applied to evaluate the indirect effects of zonal harmonics on a satellite also affected by lunisolar perturbations. The study avoids limitations of earlier solutions and provides expressions for the time variations of all the elliptic elements, valid to the first order of zonal harmonics and up to the second order in eccentricity. This approach is suitable for non-equatorial satellites with small orbital eccentricities and inclinations.
+scientific_discipline: Physics > Celestial Mechanics

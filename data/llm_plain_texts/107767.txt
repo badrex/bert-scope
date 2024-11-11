@@ -1,0 +1,10 @@
+article_id: 107767
+revised_title: 'The Diminishing Dip of the Magnetic Needle in London'
+semantic_tags:
+  - Geomagnetism
+  - Magnetic declination
+  - Earth's magnetic field
+  - Observational method
+  - Measurement instruments
+tldr: The author, Edward Sabine, conducted a series of experiments to measure the dip of the magnetic needle in London in 1828. He compared the results with previous observations from 1821 and found that the dip had diminished by 17.5 minutes in seven years, indicating a slower rate of change than the general average observed in the previous century. The author used different types of needles and measurement instruments to obtain accurate and consistent results.
+scientific_discipline: Physics > Geomagnetism

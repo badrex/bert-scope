@@ -1,0 +1,10 @@
+article_id: rsta_1986_0114
+revised_title: Scanning Electron Acoustic Microscopy: A New Imaging Technique for Materials Characterization
+semantic_tags:
+  - Scanning electron acoustic microscopy
+  - Imaging technique
+  - Material characterization
+  - Thermal and elastic properties
+  - Microscopy
+tldr: Scanning electron acoustic microscopy (SEAM) is a new imaging technique that provides thermal and elastic information on a micrometer scale. It generates sound waves in the sample using a focused electron beam, and the signal from a transducer attached to the specimen forms a scanned image. SEAM has various applications, including imaging cracks, voids, grains, and magnetic domain structures in materials like metals, semiconductors, and polymers. The technique also offers potential for examining bonding integrity and evaluating semiconductor materials.
+scientific_discipline: Engineering and Technology > Materials Science

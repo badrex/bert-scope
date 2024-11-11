@@ -1,0 +1,10 @@
+article_id: 101566
+revised_title: 'Observations on the Declination of the Magnet and the Earth's Pole'
+semantic_tags:
+  - Geomagnetism
+  - Earth's magnetic field
+  - Magnetic declination
+  - Earth's rotation
+  - Navigation
+tldr: M. Adrian Azout observed the declination of the magnet in Rome and found it to decline Westward. He discussed the difficulty in determining the true cause of the variation and proposed that the direction of the magnet might depend on the flux of a certain matter through the Earth. Azout suggested that the inequalities of the Earth could cause the magnetic matter's current to change its direction, leading to the needle's changing direction as well. He invited mathematicians to make similar observations in their countries to determine if there is any regularity in the change.
+scientific_discipline: Environmental and Earth Sciences > Geomagnetism

@@ -1,0 +1,10 @@
+article_id: rspa_1937_0066
+revised_title: Dynamics and the Scale of Time: A Relativistic Approach
+semantic_tags:
+  - Relativity
+  - Kinematics
+  - Dynamics
+  - Time
+  - Space-time
+tldr: The author presents a new approach to understanding the relationship between kinematics, dynamics, and the scale of time. By using a substratum, or "smoothed-out" universe, the author develops a method to obtain the equation of motion of a free test-particle without appealing to empirical laws of dynamics or gravitation. The transformation from the "kinematic" time to the "dynamical" time allows for a more accurate representation of the equation of motion and the principle of inertia. The author also discusses the transformation of coordinates and the relativistic forms of various formulae in the context of the scale of time.
+scientific_discipline: Physics > Relativity

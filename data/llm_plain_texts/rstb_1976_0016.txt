@@ -1,0 +1,10 @@
+article_id: 'rstb_1976_0016'
+revised_title: 'Biosynthesis of Porphyrins, Chlorophyll, and Vitamin B: Experimental and Theoretical Aspects'
+semantic_tags:
+  - Porphyrin biosynthesis
+  - Chlorophyll synthesis
+  - Vitamin B biosynthesis
+  - Enzyme mechanisms
+  - Carbon-14 labeling
+tldr: The article discusses the biosynthesis of porphyrins, chlorophyll, and vitamin B using carbon-14 labeling techniques. It explores the use of 1H-Fourier transform nuclear magnetic resonance to observe the incorporation of carbon-14 into these molecules. The study confirms the specific and intact incorporation of urogen III and the origin of the methyl groups in these molecules, providing insights into their biosynthetic pathways.
+scientific_discipline: Chemistry > Biochemistry

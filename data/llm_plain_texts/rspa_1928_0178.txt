@@ -1,0 +1,10 @@
+article_id: rspa_1928_0178
+revised_title: 'Solid Dipleidoscope Prisms and Their Applications'
+semantic_tags:
+  - Optics
+  - Dipleidoscopy
+  - Telescope Design
+  - Transit Instrument
+  - Strip Silvering
+tldr: The author describes solid dipleidoscope prisms, which create two looking-glass reversed images of an object. They discuss various types of dipleidoscope prisms, their properties, and how they can be used in instruments like transit instruments and telescopes. The author also explains how strip silvering can improve the performance of these prisms and instruments.
+scientific_discipline: Physics > Optics

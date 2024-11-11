@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0088'
+revised_title: 'Interfacial Segregation and Embrittlement in Liquid-Phase Sintered Tungsten Alloys'
+semantic_tags:
+  - Materials Science
+  - Alloy Properties
+  - Interfacial Segregation
+  - Embrittlement
+  - Auger Electron Spectroscopy
+tldr: This study investigates the interfacial segregation and embrittlement in liquid-phase sintered tungsten alloys. The authors found that phosphorus and sulfur segregation along the interfaces significantly contributes to the embrittlement of the alloys. They also discovered that this segregation is reversible and can be eliminated by a specific heat treatment, which improves the impact properties of the material.
+scientific_discipline: Materials Science > Alloy Properties

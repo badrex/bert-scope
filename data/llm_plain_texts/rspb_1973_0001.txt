@@ -1,0 +1,17 @@
+article_id: 'rspb_1973_0001'
+revised_title: 'Awards and Achievements in Science: Anniversary Address of Sir Alan Hodgkin'
+semantic_tags:
+  - Biochemistry
+  - Molecular Biology
+  - Organic Chemistry
+  - Nuclear Physics
+  - Atmospheric Science
+semantic_tags:
+  - Physics
+  - Chemistry
+  - Biology
+  - Environmental Science
+  - Meteorology
+tldr: In his Anniversary Address, Sir Alan Hodgkin highlights the accomplishments of several distinguished scientists, including Sir Nevill Mott, Dr. B. J. Mason, Sir Derek Barton, Dr. F. H. C. Crick, Du W. B. Lewis, Professor A. J. Birch, and Dr. D. Lack. These scientists have made significant contributions to fields such as atomic collision theory, cloud microphysics, organic chemistry, DNA structure, nuclear technology, and natural product biosynthesis. Their work has led to advancements in understanding the behavior of matter, the mechanisms of heredity, and the development of innovative technologies for power generation and weather forecasting.
+scientific_discipline: Biology > Molecular Biology
+second_level_subdiscipline: Genetics and Genomics

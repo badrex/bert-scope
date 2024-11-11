@@ -1,0 +1,10 @@
+article_id: 107910
+revised_title: 'Elliptic Polarization and the Action of Metals on Light'
+semantic_tags:
+  - Polarization
+  - Elliptical Polarization
+  - Metal Optics
+  - Light Refraction
+  - David Brewster
+tldr: The author, David Brewster, investigates the phenomenon of elliptic polarization and the action of metals on light. He discovered that metals, such as silver and gold, can divide a polarized ray into complementary colors through successive reflections. This research led to a better understanding of how metals modify and polarize light, which has implications for various optical applications.
+scientific_discipline: Physics > Optics

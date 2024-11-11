@@ -1,0 +1,10 @@
+article_id: rspa_1953_0113
+revised_title: Electron Excitation of Forbidden Lines in Gaseous Nebulae: Theoretical Calculations and Implications
+semantic_tags:
+  - Astrophysics
+  - Atomic Physics
+  - Nebulae
+  - Electron Excitation
+  - Quantum Mechanics
+tldr: The authors present a study on the electron excitation of forbidden lines in gaseous nebulae, using the Hartree-Fock method to calculate electron excitation cross-sections for various ions. They discuss the importance of these cross-sections in understanding the physical state and chemical composition of gaseous nebulae. The study provides theoretical calculations and compares different approximation methods, highlighting the limitations of weak coupling approximations. The findings can help improve our understanding of the spectra of gaseous nebulae and their underlying processes.
+scientific_discipline: Physics > Astrophysics

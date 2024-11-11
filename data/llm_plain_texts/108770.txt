@@ -1,0 +1,10 @@
+article_id: 108770
+revised_title: On the Invariants, Covariants, and Contravariants of a Quaternary Cubic
+semantic_tags:
+  - Algebra
+  - Geometry
+  - Invariants
+  - Covariants
+  - Contravariants
+tldr: The author, George Salmon, attempts to enumerate the invariants, covariants, and contravariants of a quaternary cubic, which represents a surface of the third order. The study involves working with Mr. Sylvester's canonical form and calculating the Hessian of a cubic. The author also explores the reciprocant and discriminant of the given quadric and derives several concomitant functions.
+scientific_discipline: Mathematics > Algebra and Geometry

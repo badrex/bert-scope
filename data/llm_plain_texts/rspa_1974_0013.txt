@@ -1,0 +1,10 @@
+article_id: rspa_1974_0013
+revised_title: Analyzing the Motion of Dislocations in a Single Slip-Plane
+semantic_tags:
+  - Dislocation dynamics
+  - Materials science
+  - Crystallography
+  - Solid mechanics
+  - Elasticity
+tldr: The authors study the motion of dislocations in a single slip-plane under the action of their mutual repulsion and an independent applied stress. They develop a continuous distribution model and use a complex function to represent the dislocation density distribution. The method is applied to discuss the motion near the ends of a group, spatial moments of a group, and the asymptotic behavior of a group at large times.
+scientific_discipline: Physics > Materials Science

@@ -1,0 +1,10 @@
+article_id: rspa_1957_0118
+revised_title: 'Explicit Equations for High-Temperature Gas Equilibrium Compositions'
+semantic_tags:
+  - Chemical Equilibrium
+  - High Temperature Chemistry
+  - Gas Composition
+  - Thermodynamics
+  - Computational Chemistry
+tldr: This article presents explicit equations for calculating the equilibrium gas compositions at high temperatures using successive approximations. The author demonstrates the method for the hydrogen-carbon-oxygen and hydrogen-carbon-oxygen-nitrogen systems without solid carbon formation. The approach is simple, quick, and can be used mechanically by an unskilled computer, making it a valuable tool for calculating gas compositions in various conditions.
+scientific_discipline: Chemistry > Chemical Equilibrium and Thermodynamics

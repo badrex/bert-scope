@@ -1,0 +1,10 @@
+article_id: rspa_1939_0075
+revised_title: 'Ignition Characteristics of Aromatic Hydrocarbons: A Study of Combustion and Temperature'
+semantic_tags:
+  - Combustion
+  - Aromatic Hydrocarbons
+  - Ignition
+  - Temperature
+  - Chemical Kinetics
+tldr: This study investigates the combustion and ignition of aromatic hydrocarbons at high temperatures. The authors found that the ignition involves an abrupt increase in hydrogen, unsaturated and saturated hydrocarbons, and the carbon monoxide ratio. They also discovered that the ignition temperature and pressure relationships vary depending on the type of hydrocarbon and its fuel-to-oxygen ratio. The results provide insights into the ignition characteristics of aromatic hydrocarbons and their potential applications in combustion processes.
+scientific_discipline: Chemistry > Combustion Chemistry

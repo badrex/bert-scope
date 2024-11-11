@@ -1,0 +1,10 @@
+article_id: rspl_1898_0007
+revised_title: The Connection between Electrical Properties and Chemical Composition of Different Kinds of Glass
+semantic_tags:
+  - Glass chemistry
+  - Electrical conductivity
+  - Glass composition
+  - Dielectric polarization
+  - Optoelectronics
+tldr: The authors conducted experiments to understand the connection between the electrical properties and chemical composition of various types of glass. They found that glasses with a higher lead content had higher electrical conductivity and that barium glasses showed little to no dielectric polarization effects. The study also highlighted the importance of understanding the chemistry of glasses for their electrical properties.
+scientific_discipline: Chemistry > Glass chemistry

@@ -1,0 +1,10 @@
+article_id: 'rspb_1930_0026'
+revised_title: 'A New Method for Measuring Vapour Pressure of Aqueous Solutions'
+semantic_tags:
+  - Vapour Pressure
+  - Aqueous Solutions
+  - Thermoelectric Method
+  - Differential Wet-Bulb Thermometer
+  - Heat of Neutralisation
+tldr: The authors developed a thermoelectric method to measure the difference in vapour pressure between two solutions or between a solution and the pure solvent. This method is based on the principle of a differential wet-bulb thermometer with high sensitivity. The results can be obtained within 30 to 45 minutes, and the average error of a single observation is around 1% of the difference read. This method has potential applications in various fields, provided the accuracy of temperature measurements can be improved.
+scientific_discipline: Chemistry > Physical Chemistry

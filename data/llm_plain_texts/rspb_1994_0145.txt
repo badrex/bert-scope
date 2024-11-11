@@ -1,0 +1,10 @@
+article_id: 'rspb_1994_0145'
+revised_title: 'Avian Sex Determination and the Role of W Chromosome Inactivation'
+semantic_tags:
+  - Sex determination
+  - Chromosome inactivation
+  - Avian biology
+  - Genetics
+  - Bird species
+tldr: The author proposes that the W chromosome in birds is facultatively heterochromatic and carries one or more homologous sex-determination genes. The absence of dosage compensation in ZZ embryos and W inactivation in ZW embryos create a 2:1 (ZZ) - (ZW) inequality in the effective copy number of sex-determination genes. This inequality, along with W inactivation, helps regulate sex determination in birds.
+scientific_discipline: Biology and Life Sciences > Genetics and Genomics

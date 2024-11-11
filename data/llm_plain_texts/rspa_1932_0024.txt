@@ -1,0 +1,10 @@
+article_id: rspa_1932_0024
+revised_title: 'Investigation of Energy Loss in Alpha-Particles and H-Particles'
+semantic_tags:
+  - Particle Physics
+  - Nuclear Physics
+  - Energy Loss
+  - Stopping Power
+  - Atomic Physics
+tldr: The authors conducted experiments to study the loss of energy in alpha-particles and H-particles as they pass through matter. They used Bethe's theory to calculate the energy loss and compared it with experimental data. The results showed a discrepancy between the calculated and observed stopping power, which the authors discuss and analyze in detail. The study provides insights into the behavior of charged particles in matter and the factors affecting their energy loss.
+scientific_discipline: Physics > Particle Physics

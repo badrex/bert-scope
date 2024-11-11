@@ -1,0 +1,10 @@
+article_id: rspa_1971_0161
+revised_title: Infrared Spectra of Gas Phase Hydrogen Fluoride Complexes
+semantic_tags:
+  - Hydrogen bonding
+  - Infrared spectroscopy
+  - Gas phase chemistry
+  - Molecular complexes
+  - Vibrational modes
+tldr: The authors studied the infrared spectra of gas phase complexes of hydrogen fluoride with hydrogen cyanide and methyl cyanide. They observed two bands associated with the stretching vibration of HF in the complex and the bending vibration of the hydrogen bond. By analyzing the fine structure of these bands, they determined the frequencies of the bending and stretching vibrations of the hydrogen bond and calculated the bending force constants. This work provides insights into the vibrational modes and hydrogen bonding in molecular complexes.
+scientific_discipline: Chemistry > Spectroscopy

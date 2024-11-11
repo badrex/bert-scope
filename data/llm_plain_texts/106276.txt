@@ -1,0 +1,10 @@
+article_id: 106276
+revised_title: 'Electrical Experiments on Imitating Torpedo Effects'
+semantic_tags:
+  - Electricity
+  - Torpedo
+  - Conductivity
+  - Electrostatics
+  - Experiments
+tldr: The author, Henry Cavendish, investigates the possibility of imitating the effects of the torpedo using electricity. He explains the factors affecting the flow of electric fluid and the resistance it encounters in different substances. He also discusses the lack of sparks or light during the shock and the role of the circuit in the phenomenon.
+scientific_discipline: Physics > Electricity and Magnetism

@@ -1,0 +1,10 @@
+article_id: rspa_1928_0198
+revised_title: 'Effects of Salts and Ions on Fluorescence in Aqueous Solutions'
+semantic_tags:
+  - Fluorescence
+  - Photochemistry
+  - Electrolytes
+  - Ions
+  - Quinine bisulphate
+tldr: The authors conducted experiments to study the effects of various salts and ions on fluorescence in aqueous solutions. They found that different salts have varying effects on the fluorescence of quinine bisulphate, with some ions, like silver ions, having a more significant impact. The study also showed that non-electrolytes like cane sugar and urea have a minor effect on fluorescence. The findings provide insights into the role of ions and salts in fluorescence and photo sensitization processes.
+scientific_discipline: Chemistry > Electrochemistry

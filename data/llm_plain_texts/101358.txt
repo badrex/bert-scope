@@ -1,0 +1,10 @@
+article_id: 101358
+revised_title: Discovering the Secrets of the Magnetical Compass and Inclinatory Needle
+semantic_tags:
+  - Navigation
+  - Magnetics
+  - Compass variation
+  - Inclination of the needle
+  - Longitude determination
+tldr: Mr. Henry Bond, a renowned teacher of navigation, spent 38 years studying the variation of the magnetical compass and the inclination of the inclinatory needle. He discovered the cause of the variation and developed a table to find the longitude of any place in the world using the needle's inclination and the latitude of the place.
+scientific_discipline: Earth Sciences > Geomagnetism

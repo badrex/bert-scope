@@ -1,0 +1,10 @@
+article_id: '105154'
+revised_title: 'The Nature and Use of Infinite Series in Calculating Logarithms and Rectifying the Circle'
+semantic_tags:
+  - Calculus
+  - Logarithms
+  - Geometry
+  - Infinite series
+  - Mathematical history
+tldr: The author, James Dodson, discusses the use of infinite series in calculating logarithms and rectifying the circle without relying on fluxions. He explains how to derive two simple series for expressing logarithms and the length of arcs, which can be used by students and mathematicians to improve calculations and examine existing logarithmic and geometric tables.
+scientific_discipline: Mathematics > Calculus

@@ -1,0 +1,10 @@
+article_id: 'rstb_1983_0092'
+revised_title: 'Immunopathology in Virus Disease: Understanding the Role of Immune Responses in Virus Infections'
+semantic_tags:
+  - Immunopathology
+  - Virus Infections
+  - Immune Response
+  - Immune Complexes
+  - Delayed Hypersensitivity
+tldr: 'Immunopathology plays a significant role in virus diseases, contributing to inflammation and tissue damage. The immune response, including antibody-mediated reactions and cell-mediated immune responses, can lead to inflammation, cell infiltration, and tissue destruction. Immune complexes in tissues can induce inflammation, while circulating immune complexes can cause glomerulonephritis, arthritis, and vasculitis. Delayed hypersensitivity T cells are particularly important in inducing inflammation and macrophage-mediated damage in viral immunopathology.'
+scientific_discipline: Biology and Life Sciences > Immunology

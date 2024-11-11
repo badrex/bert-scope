@@ -1,0 +1,10 @@
+article_id: 'rspa_1991_0031'
+revised_title: 'Errata in Rigid Body Collisions with Friction'
+semantic_tags:
+  - Mechanics
+  - Friction
+  - Rigid body collisions
+  - Corrections
+  - Mathematical Physics
+tldr: This article provides corrections to a previous paper on rigid body collisions with friction. It corrects equations, figures, and captions to ensure accuracy in the original research.
+scientific_discipline: Physics > Mechanics

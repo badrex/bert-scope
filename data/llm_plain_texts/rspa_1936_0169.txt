@@ -1,0 +1,10 @@
+article_id: 'rspa_1936_0169'
+revised_title: 'Absolute Measurement of Gamma-Ray Energy through Ionization Method'
+semantic_tags:
+  - Gamma-Ray Energy Measurement
+  - Ionization Method
+  - Nuclear Physics
+  - Radiation Detection
+  - Physics Experiments
+tldr: 'The authors present a method for the absolute measurement of gamma-ray energy using ionization. They collect and analyze data from various sources and compare it with theoretical calculations. This method is considered a significant advancement in the field of radiation detection and nuclear physics.'
+scientific_discipline: Physics > Nuclear Physics

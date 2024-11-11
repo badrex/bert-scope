@@ -1,0 +1,10 @@
+article_id: rspa_1992_0159
+revised_title: Helicity and the Reanu Invariant: A Fluid Dynamical Perspective
+semantic_tags:
+  - Topology
+  - Fluid Dynamics
+  - Knot Theory
+  - Helicity
+  - Reanu Invariant
+tldr: This article explores the relationship between the helicity of a solenoidal vector field and the Reanu invariant in knotted or linked tube-like structures. The authors provide a direct proof of the invariance of helicity and demonstrate how it can be decomposed into writhe and twist contributions. They also analyze the behavior of the Reanu invariant during deformations involving inflexion points and discuss the relevance of fluid dynamical techniques to topological problems.
+scientific_discipline: Mathematics > Topology

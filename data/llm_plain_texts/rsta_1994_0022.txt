@@ -1,0 +1,10 @@
+article_id: rsta_1994_0022
+revised_title: Equivalence of Foundations in Non-Equilibrium Statistical Mechanics
+semantic_tags:
+  - Statistical Mechanics
+  - Thermodynamics
+  - Information Theory
+  - Entropy
+  - Non-equilibrium Systems
+tldr: This article explores the foundations of non-equilibrium statistical mechanics, comparing two different approaches: the Brussels school, which focuses on subdynamics, and the Maxent school, which uses information theory. The author concludes that both schools are equivalent, suggesting that their methodologies could be unified and made more widely available.
+scientific_discipline: Physics > Thermodynamics

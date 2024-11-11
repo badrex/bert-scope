@@ -1,0 +1,10 @@
+article_id: rspa_1954_0097
+revised_title: Paramagnetic Resonance Spectra of Gadolinium and Neodymium Ethyl Sulphates
+semantic_tags:
+  - Magnetic Resonance
+  - Rare Earth Ions
+  - Crystal Field Theory
+  - Hyperfine Structure
+  - Nuclear Magnetic Moments
+tldr: The authors conducted experiments on the paramagnetic resonance spectra of gadolinium and neodymium ethyl sulphates. They found that the Gd3+ ion is in an SS state, while the Nd3+ ion is in a 4i| state. The study provided insights into the magnetic properties of rare-earth ions and allowed for the evaluation of the spin Hamiltonian and spectroscopic splitting factor. Additionally, the hyperfine structure due to the two odd isotopes 143 and 145 was measured, giving the ratio of nuclear magnetic moments as 1.6083.
+scientific_discipline: Physics > Optics

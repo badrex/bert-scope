@@ -1,0 +1,10 @@
+article_id: 'rsta_1990_0184'
+revised_title: 'NMR Imaging: Recent Developments and Future Prospects - Closing Remarks'
+semantic_tags:
+  - Nuclear Magnetic Resonance (NMR) Imaging
+  - Medical Imaging
+  - Spectroscopic Imaging
+  - Diffusion Imaging
+  - Ultra-fast Snapshot Imaging
+tldr: This article discusses recent advancements and future prospects in nuclear magnetic resonance (NMR) imaging. It covers various topics, including solid imaging, free radical imaging, microscopy, ultra-fast snapshot imaging, and spectroscopic imaging. The author highlights the challenges and potential applications of NMR imaging, emphasizing its growth and impact on medical research.
+scientific_discipline: Engineering and Technology > Medical Imaging

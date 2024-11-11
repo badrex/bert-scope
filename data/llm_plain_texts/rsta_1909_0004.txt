@@ -1,0 +1,10 @@
+article_id: rsta_1909_0004
+revised_title: 'Investigations on the Nature of Streamers in the Electric Spark'
+semantic_tags:
+  - Electric Spark
+  - Streamers
+  - Cathode and Anode Discharge
+  - Rotating Mirror Experiment
+  - Electric Field
+tldr: The author conducted experiments using a rotating mirror to study the streamers in the electric spark. They found that the stronger streamer emanates from the cathode, and the anode has a weaker discharge. The author also observed oscillations in the streamers, which are synchronous with the oscillations of the spark itself. This evidence supports the idea that the streamers are mainly produced by the luminescence of charged atoms torn off from the electrode surface by the intense electric field of the spark.
+scientific_discipline: Physics > Electromagnetism

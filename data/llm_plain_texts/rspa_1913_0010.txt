@@ -1,0 +1,10 @@
+article_id: rspa_1913_0010
+revised_title: Electrical and Chemical Effects of Azoimide Explosion
+semantic_tags:
+  - Gas discharge
+  - Electrical conductivity
+  - Chemical reactions
+  - Ionization
+  - Azoimide
+tldr: The authors conducted experiments to study the electrical and chemical effects of the explosion of azoimide gas. They found that the energy required to produce the observed quantity of electricity was a small fraction of the energy set free by the explosion. The results showed that dissociated atoms do not generally carry electrostatic charges, and the lowest pressure at which azoimide exploded in the apparatus was 11 mm.
+scientific_discipline: Chemistry > Chemical reactions and kinetics

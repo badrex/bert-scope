@@ -1,0 +1,11 @@
+article_id: 'rspb_1995_0158'
+revised_title: 'Near Infrared Spectroscopy for Measuring Regional Cerebral Haemodynamics in Response to Visual Stimulation'
+semantic_tags:
+  - Neuroimaging
+  - Cerebral haemodynamics
+  - Near infrared spectroscopy
+  - Visual cortex
+  - Regional brain activity
+tldr: The study used near-infrared spectroscopy (NIRS) to measure changes in cerebral haemodynamics in the occipital cortex of adult subjects in response to a visual stimulus. The results showed that NIRS can be a non-invasive method for measuring regional changes in cerebral haemodynamics due to visual stimulation. This technique has potential for use in situations where rapid information about brain function is needed, such as in premature infants or during neurosurgery.
+scientific_discipline: Biology and Life Sciences > Neuroscience
+```

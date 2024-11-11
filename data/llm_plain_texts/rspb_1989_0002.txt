@@ -1,0 +1,10 @@
+article_id: 'rspb_1989_0002'
+revised_title: 'Trophic Hypothesis for Nerve Terminal Elimination in Polyneuronal Innervation'
+semantic_tags:
+  - Synaptic Sites
+  - Nerve Terminal Growth
+  - Trophic Molecules
+  - Motorneuron Competition
+  - Muscle Cell Innervation
+tldr: The authors propose a trophic hypothesis explaining the growth and elimination of nerve terminals at synaptic sites during polyneuronal innervation of muscle cells. They suggest that nerve terminals compete for trophic molecules made available by muscle cells, and terminals with insufficient resources for growth are eliminated. This process occurs during both the development and reinnervation of muscles.
+scientific_discipline: Biology and Life Sciences > Neuroscience

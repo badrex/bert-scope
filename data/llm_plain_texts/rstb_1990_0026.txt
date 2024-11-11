@@ -1,0 +1,10 @@
+article_id: 'rstb_1990_0026'
+revised_title: 'The Bacterial Kdp K+-ATPase and its Relation to Other Transport ATPases'
+semantic_tags:
+  - 'Transport ATPases'
+  - 'Bacterial Kdp K+-ATPase'
+  - 'Na+/K+-ATPase'
+  - 'Ca2+-ATPases'
+  - 'Microbial Membrane Transport Systems'
+tldr: The article discusses the bacterial Kdp K+-ATPase and its relation to other transport ATPases, such as the Na+/K+- and Ca2+-ATPases in higher organisms. The Kdp system is a three-subunit member of the E1-E2 family of transport ATPases, and the authors explore its structure, function, and comparison with other ATPases. They also discuss the role of KdpA, KdpB, and KdpC subunits in the transport system and their similarities with other ATPases.
+scientific_discipline: Biology and Life Sciences > Microbiology

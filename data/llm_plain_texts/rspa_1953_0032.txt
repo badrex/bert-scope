@@ -1,0 +1,10 @@
+article_id: 'rspa_1953_0032'
+revised_title: 'Exceptional Cases of Electromagnetic Interpretation Problem: A Study on Non-Unique Solutions'
+semantic_tags:
+  - Electromagnetic Interpretation Problem
+  - Non-Unique Solutions
+  - Kernel Function
+  - Asymptotic Expansion
+  - Legendre Function
+tldr: This article discusses the exceptional cases of the electromagnetic interpretation problem, where the proposed problem has no unique solution. The authors explain that the failure of the general method in these cases is due to the degeneration of the kernel function to a constant, leading to the non-existence of the required power series expansion. They provide a simple physical example of this failure and emphasize the importance of using a non-degenerate source or excitation function for the validity of the interpretation process.
+scientific_discipline: Physics > Electromagnetic Theory

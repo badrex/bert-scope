@@ -1,0 +1,10 @@
+article_id: 'rspb_1975_0095'
+revised_title: 'Calibrating Thermoelectric Devices Using the Peltier Effect'
+semantic_tags:
+  - Thermoelectricity
+  - Calibration
+  - Peltier effect
+  - Seebeck coefficient
+  - Thermal conductance
+tldr: The authors developed a simple and accurate method to calibrate thermoelectric devices using the Peltier effect. The method involves loading the junctions of the device with a known thermal capacity and passing a small current through it. The resulting temperature differences and voltages can be used to calculate the Seebeck coefficient, thermal conductance, and other parameters of the device. This method can be applied to various thermoelectric devices, such as semiconductor thermoelements and muscle thermopiles.
+scientific_discipline: Physics > Thermodynamics

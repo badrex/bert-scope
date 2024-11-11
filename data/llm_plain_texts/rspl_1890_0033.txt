@@ -1,0 +1,10 @@
+article_id: rspl_1890_0033
+revised_title: Redetermination of the True Weight of a Cubic Inch of Distilled Water
+semantic_tags:
+  - Density of water
+  - Thermodynamics
+  - Gravimetry
+  - Metrology
+  - Temperature
+tldr: The author conducted experiments to determine the true weight of a cubic inch of distilled water, using three gravimeters and accounting for factors such as temperature, air pressure, and water density. The results showed that the previously accepted weight of a cubic inch of distilled water was too high, and provided a more accurate value for use as a metric unit of volume.
+scientific_discipline: Chemistry > Physical Chemistry

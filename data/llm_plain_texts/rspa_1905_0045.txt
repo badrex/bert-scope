@@ -1,0 +1,10 @@
+article_id: rspa_1905_0045
+revised_title: 'Investigation of the Elastic Properties of Steel at High Temperatures'
+semantic_tags:
+  - Material Science
+  - Steel Properties
+  - High Temperature Physics
+  - Creep Phenomenon
+  - Time-Dependent Material Behavior
+tldr: This article investigates the elastic properties of steel at high temperatures, finding that steel behaves more like rubber or glass when stressed at elevated temperatures. The authors discovered a time-lag between stress and strain in steel and iron at temperatures of 600°C and above, which can cause energy dissipation and affect the determination of Young's modulus.
+scientific_discipline: Physics > Material Science

@@ -1,0 +1,10 @@
+article_id: rsta_1991_0042
+revised_title: Hypersonic Aerodynamics: Chemical Reactions in High-Speed Flows
+semantic_tags:
+  - Hypersonic Aerodynamics
+  - Chemical Reactions
+  - High-Speed Flows
+  - Euler-Prandtl Theory
+  - Supersonic Flow
+scientific_discipline: Physics > Fluid Dynamics
+tldr: This article discusses hypersonic aerodynamics, focusing on chemical reactions in high-speed flows. It explores the differences between hypersonic and supersonic flows, the influence of chemical reactions on flow behavior, and the role of shock waves in these processes. The author also outlines a new approach to computing supersonic two-dimensional steady reacting flow fields and highlights the potential of large activation energy asymptotics in simple dissociating flows.

@@ -1,0 +1,10 @@
+article_id: rspa_1954_0154
+revised_title: The Development and Initial Propagation of Secondary Blast Waves in Spherical Explosions
+semantic_tags:
+  - Blast wave propagation
+  - Explosives
+  - Fluid dynamics
+  - Shock waves
+  - Spherical explosions
+tldr: The authors analyze the initial propagation of blast waves from spherical explosions, focusing on the development of secondary blast waves. They use mathematical models and series expansions to understand the complex flow patterns and interactions between the primary and secondary waves. This study provides valuable insights into the behavior of blast waves and can help improve understanding and safety measures in explosive events.
+scientific_discipline: Physics > Fluid Dynamics

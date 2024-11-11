@@ -1,0 +1,10 @@
+article_id: 'rspb_1963_0023'
+revised_title: 'The Relationship between Chemical Structure and Icterogenic Activity in Pentacyclic Triterpenes'
+semantic_tags:
+  - Triterpenes
+  - Icterus
+  - Photosensitization
+  - Bile Pigment Metabolism
+  - Chemical Structure
+tldr: This study investigates the relationship between the chemical structure of pentacyclic triterpenes and their icterogenic activity. The authors found that compounds with a /?-equatorially orientated hydroxyl group at C(3) or a hydroxyl at C(24) and a 22/?-angeloyl side-chain on the triterpene molecule have icterogenic activity. Stereoisomer specificity is shown in respect of ictero-genicity by these compounds. The authors also discovered that removing the angelic acid side-chain, substituting hydroxyl groups, or replacing them with a ketone function results in the loss of activity.
+scientific_discipline: Chemistry > Triterpenes

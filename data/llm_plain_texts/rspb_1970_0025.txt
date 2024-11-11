@@ -1,0 +1,10 @@
+article_id: 'rspb_1970_0025'
+revised_title: 'Multivariate Analysis in the Genetics of Spermatozoan Dimensions in Mice'
+semantic_tags:
+  - Genetics
+  - Spermatozoa
+  - Multivariate analysis
+  - Inbred strains
+  - Mice
+tldr: The authors conducted a study on inbred strains of mice to analyze the dimensions of their spermatozoa using multivariate statistical methods. They found that it is possible to differentiate between strains using a combination of four spermatozoan characteristics. The study also demonstrated the usefulness of multivariate analysis in understanding the genetics of spermatozoan dimensions and potential applications in the future.
+scientific_discipline: Biology and Life Sciences > Genetics

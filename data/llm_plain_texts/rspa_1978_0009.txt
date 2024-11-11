@@ -1,0 +1,10 @@
+article_id: rspa_1978_0009
+revised_title: 'Surface Structure and Surface Tension of the Penetrable Sphere Model'
+semantic_tags:
+  - Statistical mechanics
+  - Surface tension
+  - Gas-liquid equilibrium
+  - Direct correlation function
+  - Mean-field approximation
+tldr: The authors study the gas-liquid surface of the penetrable sphere model and obtain the direct correlation function between two points in the surface layer using a mean-field approximation. They demonstrate that three different methods of calculating surface tension, including the virial of the intermolecular potential, the direct correlation function, and the energy density, all lead to the same result. This study provides insights into the consistency and equivalence of various equations for calculating surface tension in the context of the penetrable sphere model.
+scientific_discipline: Physics > Statistical Mechanics

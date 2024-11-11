@@ -1,0 +1,10 @@
+article_id: 'rspb_1982_0017'
+revised_title: 'Mechanism and Kinetics of NADP in Isocitrate Dehydrogenase'
+semantic_tags:
+  - Enzyme kinetics
+  - Isocitrate dehydrogenase
+  - NADPH dissociation
+  - Fluorescence stopped-flow
+  - Enzyme-NADPH complex
+tldr: The authors studied the kinetics of NADPH dissociation from the isocitrate dehydrogenase enzyme complex. They used a fluorescence stopped-flow technique to monitor the time course of the dissociation and found that the dissociation of the enzyme-NADPH complex is not the rate-limiting step in the oxidative decarboxylation reaction. The results provide insights into the mechanism and kinetics of NADP in isocitrate dehydrogenase.
+scientific_discipline: Biology and Life Sciences > Biochemistry

@@ -1,0 +1,10 @@
+article_id: 106270
+revised_title: 'Calculating Differences in Annuity Values for Various Payment Frequencies'
+semantic_tags:
+  - Actuarial Science
+  - Annuities
+  - Life annuities
+  - Compound interest
+  - Financial mathematics
+tldr: The author presents a method for calculating the differences in values of annuities payable yearly, half-yearly, quarterly, and momently. The text includes examples and discussions on annuities on lives, considering different payment frequencies and interest rates. The author also compares and critiques other methods for calculating annuity values.
+scientific_discipline: Mathematics > Actuarial Science

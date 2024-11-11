@@ -1,0 +1,11 @@
+article_id: rspa_1991_0063
+revised_title: Asymptotic Forms of Reactive-Diffusive Runaway in Combustion Systems
+semantic_tags:
+  - Combustion Theory
+  - Nonlinear Differential Equations
+  - Asymptotic Analysis
+  - Self-Similar Solutions
+  - Reactive-Diffusive Systems
+tldr: The author investigates the behavior of reactive-diffusive systems, specifically combustion systems, using nonlinear evolution equations. They find that there are two distinct forms of description for nonhomogeneous blowup: exactly self-similar and asymptotically self-similar. The study focuses on equations of the form (1.1) and (2.1), which provide a good description of combustion systems within suitable limitations. The author derives asymptotically self-similar solutions for reaction-runaway and examines their structure, revealing a fairly universal structure for symmetric blowup.
+scientific_discipline: Mathematics > Applied Mathematics
+sub_discipline: Applied Mathematics > Combustion Theory

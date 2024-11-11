@@ -1,0 +1,10 @@
+article_id: 'rstl_1879_0076'
+revised_title: 'Magnetic Deflection and Phosphorescence Properties of Molecular Trajectories'
+semantic_tags:
+  - Molecular Physics
+  - Magnetic Rotation
+  - Phosphorescence
+  - High Vacuum
+  - Molecular Trajectories
+tldr: 'The author, William Crookes, conducted experiments on the magnetic deflection of molecular trajectories and the phosphorescence properties of molecular discharge in high vacua. He observed that there is no phosphorescence within the dark space surrounding the negative pole and that the molecular stream hypothesis is the correct one. He also discovered that the initial velocity of the molecules is sufficient to produce phosphorescence, and their greater speed is due to fewer collisions near the negative pole.'
+scientific_discipline: Physics > Electromagnetism

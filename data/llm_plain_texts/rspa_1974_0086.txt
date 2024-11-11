@@ -1,0 +1,10 @@
+article_id: rspa_1974_0086
+revised_title: Isotope Shifts in the Arc Spectrum of Xenon: A Study of Anomalies and Comparisons
+semantic_tags:
+  - Isotope shifts
+  - Xenon spectrum
+  - Atomic physics
+  - Spectroscopy
+  - Nuclear physics
+tldr: The authors measured isotope shifts in the arc spectrum of xenon for all nine stable isotopes. They found that the isotope shifts show departures from a linear relation between neutron number and isotope shift, similar to those found in barium and cesium. The study confirms the hypothesis that the ratio of field-shifts of isotopes should be constant in all lines and provides a better understanding of the anomalies in isotope shifts.
+scientific_discipline: Physics > Atomic and Nuclear Physics

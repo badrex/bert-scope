@@ -1,0 +1,10 @@
+article_id: rsta_1952_0013
+revised_title: Inflation and Deformation of Thin Elastic Shells
+semantic_tags:
+  - Elasticity
+  - Thin shells
+  - Inflation
+  - Deformation
+  - Mooney form
+tldr: The authors study the large elastic deformation of incompressible isotropic materials, focusing on the inflation of a circular diaphragm. They apply the theory to a problem involving thin shells and use numerical integration to calculate the state of deformation throughout the inflated diaphragm. The Mooney form is employed for the stored-energy function, simplifying the calculations.
+scientific_discipline: Engineering and Technology > Mechanics of Materials

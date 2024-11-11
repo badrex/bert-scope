@@ -1,0 +1,10 @@
+article_id: 'rspa_1960_0236'
+revised_title: 'Spectroscopic Analysis of Naphthacene Molecules in Anthracene Crystal'
+semantic_tags:
+  - Crystallography
+  - Spectroscopy
+  - Fluorescence
+  - Absorption
+  - Naphthacene
+tldr: 'This study investigates the absorption and fluorescence spectra of naphthacene molecules embedded in anthracene crystals. The researchers found that the polarization ratios for fluorescence approached the values calculated for the oriented gas model, while the ratios for absorption were lower, suggesting mixing of states in the absorption process. The energy transfer through the crystal is partly by exciton mechanism and partly by quantum mechanical collision.'
+scientific_discipline: Chemistry > Spectroscopy

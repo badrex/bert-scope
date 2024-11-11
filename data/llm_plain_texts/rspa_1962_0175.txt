@@ -1,0 +1,10 @@
+article_id: rspa_1962_0175
+revised_title: Classical Theory of Bosons and Particle-Like Solutions
+semantic_tags:
+  - Bosons
+  - Particle Physics
+  - Field Theory
+  - Maxwell's Equations
+  - Non-Linear Physics
+tldr: The author presents a classical, non-linear modification of Maxwell's equations that has particle-like solutions for a specified charge, which are finite everywhere and relativistically invariant. The theory involves a four-potential and two universal constants, and it distinguishes between neutral and charged particles. The author discusses the energy-momentum tensor, charged particles, and neutral particles, providing numerical results for the mass spectrum of the lowest neutral particle states.
+scientific_discipline: Physics > Particle Physics

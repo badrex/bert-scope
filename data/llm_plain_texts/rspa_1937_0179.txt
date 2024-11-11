@@ -1,0 +1,10 @@
+article_id: rspa_1937_0179
+revised_title: Solution of Oseen's Equations for an Inclined Elliptic Cylinder
+semantic_tags:
+  - Fluid Dynamics
+  - Viscosity
+  - Mathieu Functions
+  - Elliptic Cylinder
+  - Boundary Layer
+tldr: The author presents a solution to Oseen's equations for the motion of a viscous fluid around an inclined elliptic cylinder. The study involves the use of Mathieu functions and explores the forces acting on the cylinder, including lift and drag, as functions of the angle of incidence. The results show that the drag is much greater than that of a normal aerofoil, while the lift is similar. The study also demonstrates the importance of considering the boundary layer and the effect of Reynolds numbers on the flow.
+scientific_discipline: Physics > Fluid Dynamics

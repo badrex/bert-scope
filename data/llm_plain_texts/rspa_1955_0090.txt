@@ -1,0 +1,10 @@
+article_id: rspa_1955_0090
+revised_title: Rapid Growth of Monocrystals from Undercooled Melts
+semantic_tags:
+  - Crystal growth
+  - Germanium
+  - Dendritic growth
+  - Undercooled melts
+  - Materials science
+tldr: The authors developed a novel technique for the rapid growth of monocrystals from undercooled melts, specifically germanium and other materials with the diamond or zincblende structure. By reducing the power input to the melt, they created temperature gradients that allowed for rapid crystal growth. This technique led to the formation of large, high-quality monocrystals with minimal surface imperfections.
+scientific_discipline: Materials Science > Crystal Growth

@@ -1,0 +1,10 @@
+article_id: rspl_1882_0071
+revised_title: Absorption Spectrum of Iodine in Carbon Disulphide
+semantic_tags:
+  - Spectroscopy
+  - Iodine chemistry
+  - Light absorption
+  - Carbon disulphide
+  - Infra-red spectrum
+tldr: The authors investigated the absorption spectrum of iodine in solution in carbon disulphide. They found that the absorption starts in the blue region of the spectrum and extends towards the red, while the ultra-violet and infra-red regions are absorbed before the violet. The study shows that the solution can be used to photograph the infra-red spectrum without the need for separating different orders of spectra.
+scientific_discipline: Chemistry > Spectroscopy

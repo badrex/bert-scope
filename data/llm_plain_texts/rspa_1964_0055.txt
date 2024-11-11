@@ -1,0 +1,10 @@
+article_id: 'rspa_1964_0055'
+revised_title: 'Capillary Instability of a Jet with Axial Current and Longitudinal Magnetic Field'
+semantic_tags:
+  - Fluid Dynamics
+  - Magnetohydrodynamics
+  - Instability
+  - Surface Tension
+  - Bessel Functions
+tldr: This article investigates the capillary instability of a jet carrying an axial current with or without a longitudinal magnetic field. It explores the effects of conductivity, surface tension, and magnetic fields on the growth rate of instability. The study finds that a mode of maximum instability always exists for any value of conductivity, and the growth rate decreases with an increase in conductivity. The presence of surface tension also influences the instability.
+scientific_discipline: Physics > Fluid Dynamics

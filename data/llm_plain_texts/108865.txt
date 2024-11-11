@@ -1,0 +1,10 @@
+article_id: 108865
+revised_title: 'Spectra of Chemical Elements: Observations and Apparatus'
+semantic_tags:
+  - Spectroscopy
+  - Chemical elements
+  - Spectral lines
+  - Apparatus design
+  - Air spectrum
+tldr: The author, William Huggins, describes his observations of the spectra of various chemical elements using a custom-built spectroscope. He compares the element spectra to the air spectrum, creating a standard scale for measuring spectral lines. The author also discusses the design and performance of his apparatus, which allows for accurate and detailed observations of the spectra.
+scientific_discipline: Chemistry > Spectroscopy

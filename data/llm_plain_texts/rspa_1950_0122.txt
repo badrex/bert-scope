@@ -1,0 +1,10 @@
+article_id: rspa_1950_0122
+revised_title: High-Pressure Physics: Techniques and Discoveries Above 20,000 kg./cm.
+semantic_tags:
+  - High-pressure physics
+  - Pressure vessel design
+  - Material properties under pressure
+  - Pressure measurement
+  - Physics of materials
+tldr: The author discusses the technical challenges and solutions in constructing high-pressure apparatus, reaching pressures above 20,000 kg./cm². They describe various methods of support and pressure transmission, and the effects of high pressure on materials such as steel and carboloy. The author also presents the development of pressure measurement techniques and the extension of various physical measurements to higher pressures.
+scientific_discipline: Physics > Material Properties

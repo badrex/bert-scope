@@ -1,0 +1,10 @@
+article_id: rspa_1910_0038
+revised_title: 'Investigation of the Scattering of Alpha Particles by Matter'
+semantic_tags:
+  - Nuclear physics
+  - Scattering
+  - Rutherford scattering
+  - Alpha particles
+  - Radioactivity
+tldr: 'Geiger and Rutherford conducted experiments to measure the scattering of alpha particles by passing them through various materials. They determined the most probable angle of deflection for alpha particles by analyzing the distribution of scintillations on a zinc sulfide screen. Their findings provided insights into the nature of atomic interactions and laid the foundation for understanding nuclear physics.'
+scientific_discipline: Physics > Nuclear Physics

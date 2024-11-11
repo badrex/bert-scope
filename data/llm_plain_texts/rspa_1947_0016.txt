@@ -1,0 +1,10 @@
+article_id: rspa_1947_0016
+revised_title: 'Electric Conductivity and Activation Energy of Ionic Migration in Molten Salts and Their Mixtures'
+semantic_tags:
+  - Electrochemistry
+  - Ionic conductivity
+  - Molten salts
+  - Activation energy
+  - Salt mixtures
+tldr: The authors studied the electric conductivity and activation energy of ionic migration in molten salts and their mixtures. They found that the conductivity usually shows moderate negative deviations from additivity, and the activation energy of ionic migration is always smaller than the activation energy of viscous flow. The results provide insights into the mechanisms of electric conductivity and viscous flow in molten salts.
+scientific_discipline: Chemistry > Electrochemistry

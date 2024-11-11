@@ -1,0 +1,10 @@
+article_id: 'rspa_1992_0042'
+revised_title: 'Errata: Elastic Region Solution of the Mode II Crack in an Elastic Perfectly Plastic Solid'
+semantic_tags:
+  - Fracture Mechanics
+  - Plasticity
+  - Solid Mechanics
+  - Materials Science
+  - Engineering
+tldr: This article presents an erratum for the elastic region solution of the mode II crack in an elastic perfectly plastic solid. The author corrects a mistake in the reference and provides the correct citation for the related work. The study focuses on the behavior of cracks in materials under stress and contributes to the understanding of fracture mechanics and solid mechanics.
+scientific_discipline: Engineering and Technology > Materials Science and Engineering

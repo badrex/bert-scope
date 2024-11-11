@@ -1,0 +1,10 @@
+article_id: rspa_1929_0091
+revised_title: 'Molecular Dimensions and Physical Properties of Organic Compounds'
+semantic_tags:
+  - Molecular dimensions
+  - Organic chemistry
+  - Viscosity
+  - Boiling points
+  - Freezing points
+tldr: The authors studied the physical properties of organic compounds, such as benzene and thiophen, to understand how their molecular dimensions affect their properties. They found that while some properties, like boiling points, were similar, other properties like viscosity and surface tension varied significantly. This shows that the similarity between isosteric compounds is unique and cannot be replicated in compounds with less similar atomic and electronic structures.
+scientific_discipline: Chemistry > Organic Chemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1965_0145
+revised_title: Covariant Extension of SU(6) and Parity Doubling
+semantic_tags:
+  - Group Theory
+  - Particle Physics
+  - Quantum Field Theory
+  - Symmetry
+  - Parity Conservation
+tldr: The authors explore the covariant extension of SU(6) and discuss the implications of parity conservation in particle physics. They find that parity doubling occurs for mesons but not baryons, and suggest using the Bargmann-Wigner equations to avoid indefinite metric. The study also derives five different Yukawa interactions invariant with respect to SU(6).
+scientific_discipline: Physics > Particle Physics

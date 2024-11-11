@@ -1,0 +1,10 @@
+article_id: rspa_1936_0102
+revised_title: Electrokinetic Effects in Solution: Reactions Between Ions
+semantic_tags:
+  - Electrochemistry
+  - Ionic reactions
+  - Electrostatic forces
+  - Solvent action
+  - Dielectric constant
+scientific_discipline: Chemistry > Electrochemistry
+tldr: The author investigates the electrostatic forces between ions and their impact on the rates of reactions in solution. They develop a theoretical framework that accounts for the abnormal behavior of ionic reactions and explains the variation of reaction rates with temperature and ionic strength. This study provides a better understanding of solvent action and the role of electrostatic forces in chemical reactions.

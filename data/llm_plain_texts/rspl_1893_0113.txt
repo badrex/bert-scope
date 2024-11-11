@@ -1,0 +1,10 @@
+article_id: rspl_1893_0113
+revised_title: Effects of Mechanical Treatment and Impurities on Electrical Conductivity
+semantic_tags:
+  - Electrical conductivity
+  - Metals
+  - Impurities
+  - Mechanical treatment
+  - Specific resistance
+tldr: The author investigated the effects of mechanical treatment and impurities on the electrical conductivity of metals. They found that mechanical treatment does not significantly affect electrical properties, while even small impurities can greatly reduce conductivity. This study is important for understanding the behavior of metals in practical applications.
+scientific_discipline: Physics > Materials Science

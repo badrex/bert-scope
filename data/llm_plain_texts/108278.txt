@@ -1,0 +1,11 @@
+article_id: 108278
+revised_title: 'Gas Voltaic Battery: Voltaic Action of Phosphorus, Sulphur, and Hydrocarbons'
+semantic_tags:
+  - Electrochemistry
+  - Gas voltaic battery
+  - Voltaic action
+  - Phosphorus
+  - Oxygen
+semantic_tags:
+  - Chemistry > Electrochemistry
+tldr: The author, W.R. Grove, conducted experiments with the gas voltaic battery, focusing on the voltaic action of phosphorus, sulfur, and hydrocarbons. They discovered that phosphorus, when combined with nitrogen and oxygen, created a continuous voltaic current, marking the first instance of a solid, insoluble non-conductor being used as a continuous voltaic current excitant. This finding expanded the understanding of chemical reactions and the gas voltaic battery's potential applications.

@@ -1,0 +1,10 @@
+article_id: rspa_1978_0100
+revised_title: 'Stratification Effects in Boundary Layer Flow Over Hills: A Review'
+semantic_tags:
+  - Boundary Layer Flow
+  - Stratification
+  - Hills
+  - Fluid Dynamics
+  - Atmospheric Science
+tldr: This article investigates the effects of stable stratification in the free-stream on boundary layer flow over hills. The triple-deck analysis is extended to include stratification, and the linearized three-dimensional flow shows that gravity waves generated in the outer region have a significant influence on the flow in the boundary layer due to the interactive nature of the triple-deck structure. Numerical solutions reveal the inhibition of separation by stratification and larger amplitudes of generated gravity waves than expected from linearized theory.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

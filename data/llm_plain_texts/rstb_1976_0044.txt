@@ -1,0 +1,10 @@
+article_id: 'rstb_1976_0044'
+revised_title: 'Comprehensive List of Nuclear DNA Amounts in Angiosperms'
+semantic_tags:
+  - 'Genetics'
+  - 'DNA content'
+  - 'Angiosperms'
+  - 'C-values'
+  - 'DNA estimation'
+tldr: 'This paper provides a comprehensive list of nuclear DNA amounts for 753 angiosperm species, serving as a reference for cytologists and biochemists. It also reviews the history, nomenclature, methods, accuracy, and problems of nuclear DNA estimation in angiosperms, focusing on Feulgen microdensitometry.'
+scientific_discipline: Biology and Life Sciences > Genetics

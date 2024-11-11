@@ -1,0 +1,10 @@
+article_id: rsta_1995_0018
+revised_title: Hydrogen Dynamics in Semiconductors: Muonium Transitions and Implications for Isolated Hydrogen Behavior
+semantic_tags:
+  - Muonium dynamics
+  - Semiconductors
+  - Hydrogen behavior
+  - Isolated impurities
+  - Transition processes
+tldr: The article investigates the dynamics of muonium transitions in semiconductors using longitudinal depolarization measurements. Results for intrinsic and doped Si allow the development of a complete model for muonium dynamics, providing insights into hydrogen behavior in semiconductors and implications for modeling hydrogen diffusion, passivation, and dissociation reactions.
+scientific_discipline: Physics > Materials Science

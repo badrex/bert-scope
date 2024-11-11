@@ -1,0 +1,9 @@
+article_id: 112666
+revised_title: Lunar-Diurnal Variation of Magnetic Declination and Moon's Position
+semantic_tags:
+  - Geomagnetism
+  - Lunar influence
+  - Astronomy
+  - Earth's magnetic field
+tldr: The author analyzed the hourly records of magnetic declination at the Flagstaff Observatory in Melbourne, Victoria, from 1858 to 1863. They found that the lunar-diurnal variation of the magnetic declination is influenced by both the sun and the moon, and that this variation depends on the moon's position relative to the equator. The author also discovered that the lunar-diurnal variation can be traced during winter months and that there are differences in the results between different years of observation.
+scientific_discipline: Earth Sciences > Geomagnetism

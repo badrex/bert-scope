@@ -1,0 +1,10 @@
+article_id: rspl_1879_0089
+revised_title: 'Spectral Analysis of Magnesium and Lithium'
+semantic_tags:
+  - Spectroscopy
+  - Magnesium
+  - Lithium
+  - Emission spectrum
+  - Absorption spectrum
+tldr: The authors conducted experiments to study the spectra of magnesium and lithium. They discovered that the intensity of the total radiation of the positive pole of the 'Siemens' arc is ten times that of the same substance at the temperature of the oxyhydrogen flame. The authors also found that the line at 5210, which is not seen in the arc, can be detected when a gentle stream of hydrogen or coal gas is led in through a perforation in one of the electrodes. This line and its attendant series are ascribed to a mixture of magnesium and hydrogen rather than a chemical compound.
+scientific_discipline: Physics > Optics

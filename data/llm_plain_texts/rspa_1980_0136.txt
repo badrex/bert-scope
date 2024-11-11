@@ -1,0 +1,10 @@
+article_id: rspa_1980_0136
+revised_title: 'Periodic Boundary Conditions in Electrostatic Systems: Perturbation Theory and Dielectric Constant'
+semantic_tags:
+  - Electrostatics
+  - Perturbation Theory
+  - Periodic Boundary Conditions
+  - Dielectric Constant
+  - Dipolar Systems
+tldr: The authors develop a perturbation theory for simulating electrostatic systems in periodic boundary conditions. They show that the dielectric constant is independent of the choice of the system size, and the internal energy density is independent of the system size in the thermodynamic limit. The results are applicable to simulations of dipolar systems with various interaction potentials.
+scientific_discipline: Physics > Electromagnetism

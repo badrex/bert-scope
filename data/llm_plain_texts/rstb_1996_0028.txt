@@ -1,0 +1,10 @@
+article_id: 'rstb_1996_0028'
+revised_title: 'Molecular Phylogenetic Analysis of North American Daphnia Species'
+semantic_tags:
+  - 'Daphnia taxonomy'
+  - 'Molecular phylogenetics'
+  - '12S rRNA gene'
+  - 'Crustacea'
+  - 'Anomopoda'
+tldr: 'This study uses molecular phylogenetic analysis of the 12S rRNA gene to examine the systematics of North American Daphnia species. The analysis reveals three subgenera with 15 species complexes, and provides insights into the evolutionary history and reproductive isolation within the genus.'
+scientific_discipline: Biology and Life Sciences > Zoology

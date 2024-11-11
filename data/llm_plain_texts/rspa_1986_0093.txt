@@ -1,0 +1,10 @@
+article_id: rspa_1986_0093
+revised_title: 'Solving the Inverse Problem for the Euler-Bernoulli Beam'
+semantic_tags:
+  - Beam Theory
+  - Inverse Problems
+  - Spectral Analysis
+  - Structural Engineering
+  - Mechanics
+tldr: The authors present a complete solution to the inverse problem of reconstructing an Euler-Bernoulli beam from spectral data. They derive necessary and sufficient conditions on the data for the reconstruction to be possible, and show that three spectra corresponding to different end conditions are required for the reconstruction of the beam's cross-sectional area and second moment of area.
+scientific_discipline: Engineering and Technology > Structural Engineering

@@ -1,0 +1,10 @@
+article_id: 'rspa_1971_0001'
+revised_title: 'Infrared Spectroscopic Studies of Adsorption on Alkali Halide Surfaces: Hydrogen Halides on Fluorides, Chlorides, Bromides, and Iodides'
+semantic_tags:
+  - Surface chemistry
+  - Infrared spectroscopy
+  - Alkali halides
+  - Adsorption
+  - Hydrogen halides
+tldr: This study investigates the adsorption of hydrogen halides (HCl, HBr, and HI) on alkali halide surfaces using infrared spectroscopy. The research shows the presence of a dominant surface species involving hydrogen bonding between the hydrogen halide molecule and a surface anion. The findings reveal interesting differences in adsorption on fluoride surfaces compared to chloride to iodide surfaces, providing insights into the interactions between adsorbates and alkali halide surfaces.
+scientific_discipline: Chemistry > Surface chemistry

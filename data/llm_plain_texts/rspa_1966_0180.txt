@@ -1,0 +1,10 @@
+article_id: rspa_1966_0180
+revised_title: Electromagnetic Waves Energy Transport
+semantic_tags:
+  - Electromagnetic Waves
+  - Energy Transport
+  - Einstein-Maxwell Equations
+  - Gravitational Waves
+  - Electromagnetic Radiation
+tldr: The authors use the Einstein-Maxwell equations to demonstrate that electromagnetic waves emitted by a source, such as an electric dipole, carry away energy from the source. They employ the Bondi metric and a double-parameter approximation method to show that the source undergoes a permanent loss of mass equal to the total energy flux of electromagnetic radiation emitted.
+scientific_discipline: Physics > Electromagnetic Waves

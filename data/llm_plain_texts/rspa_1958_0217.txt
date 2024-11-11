@@ -1,0 +1,10 @@
+article_id: rspa_1958_0217
+revised_title: Observations and Analysis of Russian Artificial Earth Satellites and Their Radio Signals
+semantic_tags:
+  - Satellite Technology
+  - Radio Propagation
+  - Doppler Effect
+  - Satellite Communication
+  - Space Exploration
+tldr: The authors discuss their observations and analysis of the radio signals from the Russian artificial earth satellites. They describe the Doppler measurements, long-distance propagation, field strength and fading, and signal characteristics of the satellite signals. The observations provide valuable insights into radio propagation and satellite communication technology.
+scientific_discipline: Engineering and Technology > Satellite Technology

@@ -1,0 +1,9 @@
+article_id: rspa_1975_0048
+revised_title: 'Investigating Conformational Energies of Substituted Ethanes'
+semantic_tags:
+  - Quantum Chemistry
+  - Molecular Orbital Theory
+  - Conformational Analysis
+  - Additivity Scheme
+  - Substituted Ethanes
+tldr: The authors used ab initio molecular orbital calculations to explore the additivity in the conformational energies of poly-substituted ethanes. They tested a method to obtain the conformational energies of complex molecules from data on smaller parent molecules, such as ethane, its mono-, and 1,2-di-substituted derivatives. The study focused on substituted ethanes with methyl and cyano groups, providing a body of data to test the additivity scheme.

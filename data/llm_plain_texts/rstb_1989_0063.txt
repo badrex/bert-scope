@@ -1,0 +1,10 @@
+article_id: 'rstb_1989_0063'
+revised_title: 'Biochemical Engineering Challenges in Protein Purification'
+semantic_tags:
+  - Protein purification
+  - Bioprocessing
+  - Biochemical engineering
+  - Recombinant DNA techniques
+  - Protein therapeutics
+tldr: The article discusses the challenges of purifying proteins in large-scale biochemical processing. It examines the effects of mechanical forces on proteins and their complexes, the order of isolation procedures, and the selective removal of non-proteinaceous materials. The paper also explores the use of recombinant DNA techniques for large-scale synthesis of human proteins and the importance of on-line process optimization during pilot plant trials.
+scientific_discipline: Engineering and Technology > Biotechnology

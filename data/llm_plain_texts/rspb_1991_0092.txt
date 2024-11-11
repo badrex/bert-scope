@@ -1,0 +1,11 @@
+article_id: 'rspb_1991_0092'
+revised_title: 'Seal Worm Burden and Host Size in Atlantic Cod'
+semantic_tags:
+  - Parasitology
+  - Fish Biology
+  - Seal Worm
+  - Atlantic Cod
+  - Host-Parasite Relationship
+tldr: 'The study investigates the relationship between seal worm burden and host size in Atlantic cod. A model is proposed to describe the accumulation of sealworm parasites in Atlantic cod, predicting the total amount of food eaten by a fish to reach its size. The analysis of worm burdens in cod caught between 1964 and 1970 shows that average parasite abundances increase with the cube of the average length of the fish divided by its growth rate. The study concludes that exposure to parasites did not vary significantly over the years, and extensive inter-annual variations in worm burdens can be explained by differences in the age composition of cod catches.'
+
+scientific_discipline: Biology and Life Sciences > Parasitology

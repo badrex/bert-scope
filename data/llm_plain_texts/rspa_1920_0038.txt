@@ -1,0 +1,10 @@
+article_id: rspa_1920_0038
+revised_title: Xenon Gas Disappearance and Possible Compounds
+semantic_tags:
+  - Gas Discharge
+  - Xenon
+  - Rare Gases
+  - Gas Compounds
+  - Spectroscopy
+tldr: The author conducted experiments with krypton and xenon gases in vacuum tubes and discovered that xenon gas rapidly disappeared when heavy currents were passed through the tubes. The gas could not be easily recovered by heating the splashed metal, suggesting that xenon might form compounds. Further experiments confirmed that xenon did not reappear when the metal splash was dissolved, leading the author to suggest that xenon might form compounds with other elements.
+scientific_discipline: Chemistry > Gas Chemistry

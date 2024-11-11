@@ -1,0 +1,10 @@
+article_id: rspa_1966_0070
+revised_title: Brownian Deposition of Aerosol Particles in Turbulent Pipe Flow
+semantic_tags:
+  - Fluid Dynamics
+  - Aerosol Deposition
+  - Turbulence
+  - Brownian Motion
+  - Pipe Flow
+tldr: This article investigates the deposition of aerosol particles in turbulent pipe flow, considering the effects of Brownian motion and eddy diffusion. The author presents methods for calculating the velocity of deposition for various particle sizes and provides examples of deposition rates in specific pipe conditions.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

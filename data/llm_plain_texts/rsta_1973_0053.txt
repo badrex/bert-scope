@@ -1,0 +1,10 @@
+article_id: rsta_1973_0053
+revised_title: Ultra-sensitive Laser Interferometers and Their Application to Earth's Strain Measurement
+semantic_tags:
+  - Laser interferometry
+  - Earth tides
+  - Earth normal modes
+  - Geophysics
+  - Strain measurement
+tldr: The authors developed a 30-meter laser strainmeter to measure Earth's strain and studied its application in detecting Earth tides and normal modes. The instrument's sensitivity is comparable to longer instruments, and it has the potential to improve our understanding of Earth's internal structure and dynamics.
+scientific_discipline: Environmental and Earth Sciences > Geophysics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1986_0056'
+revised_title: 'Panum's Phenomenon and the Integration of Binocular Signals in Stereoscopy'
+semantic_tags:
+  - Stereopsis
+  - Binocular Vision
+  - Visual Perception
+  - Ocular Dominance
+  - Depth Perception
+tldr: This study investigates the confluence of signals from the two eyes in stereoscopy and the Panum phenomenon, where a monocular visual stimulus located near a binocular one acquires a depth signal. The findings led to the development of a scheme of uniocular connectivity to a matrix of depth units, demonstrating how the brain processes and integrates binocular signals for depth perception.
+scientific_discipline: Biology and Life Sciences > Neuroscience

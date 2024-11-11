@@ -1,0 +1,10 @@
+article_id: rspa_1966_0079
+revised_title: Kinetic Study of Hydroxyl Radical Reactions with Methane, Carbon Monoxide, and Formaldehyde
+semantic_tags:
+  - Chemical kinetics
+  - Hydroxyl radicals
+  - Methane oxidation
+  - Carbon monoxide oxidation
+  - Formaldehyde formation
+tldr: This study investigates the relative rates of reaction of hydroxyl radicals with methane, carbon monoxide, and formaldehyde using the homogeneous decomposition of hydrogen peroxide vapour as a source of hydroxyl radicals. The results show that hydroxyl radicals react faster with methane and carbon monoxide than with formaldehyde, and the reaction rates are temperature-dependent. The findings contribute to understanding the oxidation processes of these molecules and the role of hydroxyl radicals in these reactions.
+scientific_discipline: Chemistry > Chemical kinetics

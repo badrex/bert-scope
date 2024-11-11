@@ -1,0 +1,10 @@
+article_id: rspa_1930_0069
+revised_title: 'Torsional Stress Behavior in Single Crystal of Antimony'
+semantic_tags:
+  - Crystallography
+  - Antimony
+  - Torsion
+  - Mechanical properties
+  - Stress analysis
+tldr: The authors conducted an experiment to study the behavior of a single crystal of antimony when subjected to alternating torsional stresses. They found that mechanical twins were produced in antimony, similar to zinc, under these stresses. The study aimed to determine the slip plane and direction, which could provide insights into the relative importance of atomic density on planes and linear density in directions. The results could have implications for understanding the mechanical properties of antimony and other materials with similar lattice structures.
+scientific_discipline: Physics > Materials Science

@@ -1,0 +1,10 @@
+article_id: rspl_1875_0001
+revised_title: 'On the Forms of Equipotential Curves and Surfaces and Lines of Flow'
+semantic_tags:
+  - Electromagnetism
+  - Electrostatics
+  - Potential fields
+  - Equipotential curves
+  - Electrodes
+tldr: The author explains the concept of equipotential curves and surfaces, and how to determine their forms using a battery, electrodes, and a galvanometer. They describe the process of tracing these curves on a sheet of tinfoil and discuss the mathematical properties of these curves, which can be used to understand the flow of electric current and potential differences in various materials.
+scientific_discipline: Physics > Electromagnetism

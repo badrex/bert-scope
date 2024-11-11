@@ -1,0 +1,10 @@
+article_id: rspa_1950_0052
+revised_title: 'The Instability of Liquid Surfaces: Acceleration and Interface Behavior'
+semantic_tags:
+  - Fluid Dynamics
+  - Surface Instability
+  - Acceleration Effects
+  - Interface Phenomena
+  - Wave Behavior
+tldr: The author investigates the instability of liquid surfaces when accelerated in a direction perpendicular to their planes. The study examines the behavior of the interface between two fluids of different densities and the effect of acceleration on a liquid sheet of finite thickness. The research provides insights into the amplification of unstable disturbances and the conditions under which they occur.
+scientific_discipline: Physics > Fluid Dynamics

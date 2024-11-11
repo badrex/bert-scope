@@ -1,0 +1,10 @@
+article_id: rspa_1975_0142
+revised_title: Electric Field-Induced Differential Scattering of Circularly Polarized Light
+semantic_tags:
+  - Electromagnetic Fields
+  - Optical Activity
+  - Circular Dichroism
+  - Light Scattering
+  - Molecular Polarizability
+tldr: The authors studied the effect of an electric field on the differential scattering of right and left circularly polarized light. They found that the difference in scattered intensities is linear in the field strength and is present in all matter, including monatomic gases. The phenomenon is a manifestation of optical activity and is determined by the effect of the electric field on the polarizabilities producing optical activity.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rspa_1973_0020
+revised_title: Quantum Atomic Field Equations for Maxwell Fields
+semantic_tags:
+  - Quantum Electrodynamics
+  - Atomic Physics
+  - Electromagnetic Fields
+  - Polarization
+  - Maxwell Equations
+tldr: The authors present a study of the atomic field equations in electromagnetism within the framework of quantum electrodynamics. They derive the quantum mechanical electric polarization and magnetization fields and obtain the quantal atomic field equations. The study focuses on the microscopic displacement vector and the microscopic auxiliary field, and their relation to the electric and magnetic fields, without reference to multipolar expansions.
+scientific_discipline: Physics > Electromagnetism

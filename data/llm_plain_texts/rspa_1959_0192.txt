@@ -1,0 +1,10 @@
+article_id: rspa_1959_0192
+revised_title: Lattice Vibrations and Shell Model of Germanium
+semantic_tags:
+  - Lattice Dynamics
+  - Germanium Crystal
+  - Shell Model
+  - Lattice Vibrations Theory
+  - Crystallography
+tldr: The authors extended the Born-von Karman theory of lattice dynamics to a simple model of the germanium crystal, considering each atom as a charged core coupled to an oppositely charged shell. This shell model accounts for the frequency-wave number relations of germanium's normal modes of vibration with only two disposable parameters, providing a better explanation for the elastic constants' behavior. The model also gives the atom the property of polarizability, which helps to understand the lattice vibrations and induced electric fields in the crystal.
+scientific_discipline: Physics > Crystallography

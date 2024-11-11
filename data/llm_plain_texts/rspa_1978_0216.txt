@@ -1,0 +1,10 @@
+article_id: rspa_1978_0216
+revised_title: 'Universal Relations between Wave Speeds in Dense Magnetic Stars'
+semantic_tags:
+  - Relativistic Magnetoelasticity
+  - Wave Propagation
+  - Dense Magnetic Stars
+  - Elastic Waves
+  - Relativistic Elasticity
+tldr: The article investigates the propagation of waves in the crust of dense magnetic stars, specifically studying the effects of magnetic fields on wave speeds. It demonstrates that there are universal relations between the speeds of fast and slow magnetoelastic modes, which do not depend on the exact equation of state of the body. These findings are relevant to understanding wave motion in solid stars and can be applied to various directions of the magnetic field and different magnitudes of strains.
+scientific_discipline: Physics > Relativistic Magnetoelasticity

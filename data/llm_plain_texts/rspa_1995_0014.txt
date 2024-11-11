@@ -1,0 +1,10 @@
+article_id: rspa_1995_0014
+revised_title: Subharmonic Dynamo Action in Fluid Motions with Two-Dimensional Periodicity
+semantic_tags:
+  - Dynamo Theory
+  - Fluid Dynamics
+  - Geophysical Fluid Dynamics
+  - Magnetohydrodynamics
+  - Kinematic Dynamos
+scientific_discipline: Physics > Fluid Dynamics
+tldr: This article explores the subharmonic dynamo action of fluid motions with two-dimensional periodicity. The authors analyze kinematic dynamos based on steady velocity fields and find that while the solutions of Roberts are usually the most efficient dynamos, there are cases where subharmonic dynamos are preferred. The study provides insights into the geodynamo and the behavior of magnetic fields in the liquid metallic cores of Earth and other planets.

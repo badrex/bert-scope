@@ -1,0 +1,10 @@
+article_id: rspa_1972_0048
+revised_title: Ionization of Positive Ions by Electrons: Merging Beams Study
+semantic_tags:
+  - Ionization
+  - Merging Beams Technique
+  - Cross-Sectional Analysis
+  - Electron Impact
+  - Mass Spectroscopy
+tldr: The article presents an experimental study of ionization of positive ions by electrons using the merging beams technique. The authors investigate the relative cross-sections for ionization as a function of the laboratory energy of the electrons and obtain consistent results with published values. They also discuss the apparatus and experimental procedure, including the electron gun, interaction region, and data acquisition methods.
+scientific_discipline: Physics > Plasma Physics

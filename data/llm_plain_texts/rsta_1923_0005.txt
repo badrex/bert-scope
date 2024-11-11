@@ -1,0 +1,10 @@
+article_id: rsta_1923_0005
+revised_title: Electromagnetic Method for Measuring Earth's Horizontal Magnetic Intensity
+semantic_tags:
+  - Electromagnetism
+  - Geomagnetism
+  - Instrumentation
+  - Measurement
+  - Physics
+tldr: The author describes an electromagnetic method for measuring the horizontal intensity of the Earth's magnetic field. The instrument, called the "Schuster Magnetometer," allows for precise measurements in a short amount of time and has potential applications in various directions and for vertical intensity as well. The design and testing of the instrument are discussed in detail, highlighting its accuracy and usefulness in studying Earth's magnetic field.
+scientific_discipline: Physics > Electromagnetism

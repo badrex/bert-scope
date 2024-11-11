@@ -1,0 +1,10 @@
+article_id: rspa_1954_0117
+revised_title: Reformulation of the Valence-Bond Theory of Molecular Structure
+semantic_tags:
+  - Quantum Chemistry
+  - Molecular Orbital Theory
+  - Valence Bond Theory
+  - Chemical Bonding
+  - Atomic Orbitals
+tldr: This article presents a reformulation of the valence bond theory of molecular structure, replacing atomic orbitals with orthogonalized atomic orbitals. The author discusses the construction of spin eigenfunctions and the evaluation of matrix elements between them, leading to a new description of bonding and bond orders. The theory allows for a more rigorous approach to chemical bonding and can be developed along either ab initio or empirical lines.
+scientific_discipline: Chemistry > Quantum Chemistry

@@ -1,0 +1,11 @@
+article_id: 'rspb_1977_0045'
+revised_title: 'Glucagon's Role in Fasting and Amino Acid Release from Muscle'
+semantic_tags:
+  - Glucagon
+  - Fasting
+  - Amino Acid Metabolism
+  - Skeletal Muscle
+  - Hepatic Gluconeogenesis
+tldr: The study investigates the mechanism by which glucagon, a hormone that rises during fasting, induces the release of amino acids from muscle and its relevance to maintaining blood glucose levels. The research shows that during fasting, skeletal muscles provide a continuous supply of amino acids as substrates for glucagon-induced hepatic gluconeogenesis, ensuring an acceptable blood glucose level is maintained.
+scientific_discipline: Biology and Life Sciences > Biochemistry
+```

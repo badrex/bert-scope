@@ -1,0 +1,10 @@
+article_id: rspa_1926_0126
+revised_title: 'Effects of Thermal Treatment on Glass: A Study Using Precise Viscometry'
+semantic_tags:
+  - Glass science
+  - Viscosity
+  - Thermal treatment
+  - Material science
+  - Pyrometry
+tldr: This article presents a study on the effects of thermal treatment on glass using precise viscometry. The authors developed a new viscometer to measure the thickness of the glass film that adheres to a thin wire when withdrawn from molten glass. They found that cooling and reheating glass can significantly alter its viscosity, and their findings have implications for understanding the properties of glass and its applications.
+scientific_discipline: Engineering and Technology > Material Science

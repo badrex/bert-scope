@@ -1,0 +1,10 @@
+article_id: 'rspa_1992_0041'
+revised_title: 'Dynamical Calculations for RHEED from MBE Growing Surfaces: Heteroepitaxial Growth and Interface Formation'
+semantic_tags:
+  - Surface Science
+  - Crystal Growth
+  - Epitaxy
+  - Molecular Beam Epitaxy
+  - Reflective High-Energy Electron Diffraction
+tldr: This article discusses the use of dynamical calculations for Reflective High-Energy Electron Diffraction (RHEED) in molecular beam epitaxy (MBE) growth. It focuses on heteroepitaxial growth and interface formation, particularly in AlAs/GaAs structures. The author presents various experimental results and growth models to understand the growth process and resulting composition profiles.
+scientific_discipline: Materials Science > Surface Science

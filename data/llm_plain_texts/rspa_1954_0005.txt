@@ -1,0 +1,10 @@
+article_id: rspa_1954_0005
+revised_title: 'Effects of Band Shape on the Magnetic and Thermal Properties of Metals and Alloys: A Comprehensive Study'
+semantic_tags:
+  - Magnetic properties
+  - Thermal properties
+  - Metals
+  - Alloys
+  - Band theory of solids
+tldr: This article investigates the effects of band shape on the magnetic and thermal properties of metals and alloys. The authors calculate the temperature variations of electronic contributions to the paramagnetic susceptibility and specific heat for various forms of electronic energy bands. They present graphical representations of these variations and discuss the theoretical results in relation to the properties of palladium and its silver alloys. The study covers a range of band shapes and values of the overlap parameter, providing a comprehensive understanding of the topic.
+scientific_discipline: Physics > Solid State Physics

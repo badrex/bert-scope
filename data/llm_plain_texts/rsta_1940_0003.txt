@@ -1,0 +1,10 @@
+article_id: rsta_1940_0003
+revised_title: Conformal Transformation in Engineering Problems
+semantic_tags:
+  - Applied Mathematics
+  - Engineering
+  - Relaxation Methods
+  - Conformal Mapping
+  - Boundary Value Problems
+tldr: The authors present a method of using conformal transformation to solve engineering problems related to potential theory and Laplace's equation. They demonstrate the technique on various examples, including transforming regions enclosed within a given boundary into circles, rectangles, and infinite strips. This method can be applied to problems in torsion, flexure, and electrical engineering, providing approximate solutions for complex shapes and boundary conditions.
+scientific_discipline: Mathematics > Applied Mathematics

@@ -1,0 +1,10 @@
+article_id: 'rstb_1977_0017'
+revised_title: 'Chromosome Distribution and the Meiotic Process: Experiments on Cell Hybrids and In Vitro Studies'
+semantic_tags:
+  - 'Cell Biology'
+  - 'Meiosis'
+  - 'Chromosome Distribution'
+  - 'Cell Hybrids'
+  - 'Micromanipulation'
+tldr: The author conducted experiments on cell hybrids containing both meiotic and mitotic spindles to test the hypothesis that differences in meiotic and mitotic chromosome behavior are determined by something intrinsic to the chromosome. The results showed that meiotic chromosomes transferred to a mitotic spindle behaved as they normally would, suggesting that intrinsic chromosome properties, such as kinetochore position, are the immediate cause of chromosome distribution in meiosis.
+scientific_discipline: Biology and Life Sciences > Cell Biology

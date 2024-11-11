@@ -1,0 +1,10 @@
+article_id: rspa_1975_0195
+revised_title: 'Resonant Wave Interactions in Plasma: Nonlinear Behavior of Finite Amplitude Electron Plasma Waves'
+semantic_tags:
+  - Plasma physics
+  - Wave-wave interactions
+  - Nonlinear dynamics
+  - Resonant mixing
+  - Electrostatic waves
+tldr: This article investigates the nonlinear behavior of finite amplitude electron plasma waves and their resonant interactions. The authors report observations of both decay instability and resonant mixing processes involving longitudinal electron (Langmuir) waves and ion waves. They also derive the cross-section for plasmon-plasmon interaction and discuss the interaction between coherent waves in relation to the dispersion diagram of Langmuir waves.
+scientific_discipline: Physics > Plasma Physics

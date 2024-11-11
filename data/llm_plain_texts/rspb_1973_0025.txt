@@ -1,0 +1,10 @@
+article_id: 'rspb_1973_0025'
+revised_title: 'Thermodynamic Properties of Sodium Dextran Sulfate Solutions as a Model for Connective Tissue'
+semantic_tags:
+  - Osmotic pressure
+  - Polyelectrolyte solutions
+  - Connective tissue
+  - Dextran sulfate
+  - Gel osmometry
+tldr: This study investigates the thermodynamic properties of sodium dextran sulfate solutions, which serve as a model for connective tissue. The authors measure sodium chloride activities and osmotic pressures in these solutions and compare their findings with the Manning theory of polyelectrolyte solutions. The results provide insights into the osmotic properties of connective tissue and help estimate its internal osmotic pressure.
+scientific_discipline: Chemistry > Polyelectrolyte Solutions

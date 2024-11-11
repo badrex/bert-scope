@@ -1,0 +1,10 @@
+article_id: 'rspb_1980_0012'
+revised_title: 'Interpretation of Low Angle X-ray Diffraction from Insect Flight Muscle in Rigor'
+semantic_tags:
+  - 'Muscle Structure'
+  - 'X-ray Diffraction'
+  - 'Actin-Myosin Interaction'
+  - 'Rigorous Muscle'
+  - 'Symmetry Operations'
+tldr: The authors analyzed the low angle X-ray diffraction pattern from insect flight muscle in rigor to understand the structure and interaction of actin and myosin filaments. They found that the cross-bridges between actin and myosin interact with approximately one-third of the actin monomers and have a strong preference for a particular orientation. The study provides a formal description of the structure of rigor muscle and helps interpret the diffraction pattern.
+scientific_discipline: Biology and Life Sciences > Muscle Structure and Function

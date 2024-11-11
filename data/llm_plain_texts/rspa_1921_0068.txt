@@ -1,0 +1,10 @@
+article_id: rspa_1921_0068
+revised_title: 'Reinvestigation of the Ratio of Specific Heats of Air and Carbon Dioxide'
+semantic_tags:
+  - Thermodynamics
+  - Gas laws
+  - Heat capacity
+  - Adiabatic expansion
+  - Temperature measurement
+tldr: The authors conducted experiments to determine the ratio of specific heats of air and carbon dioxide. They used a modified method to minimize errors and found that the ratio for air was 1.4 and for carbon dioxide, it was 1.3. These findings improved the understanding of gas thermodynamics and energy content in gases.
+scientific_discipline: Physics > Thermodynamics

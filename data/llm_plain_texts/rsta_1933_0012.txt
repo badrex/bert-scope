@@ -1,0 +1,10 @@
+article_id: rsta_1933_0012
+revised_title: The Equilibrium of Teeth and the Role of the Periodontal Membrane
+semantic_tags:
+  - Dental Science
+  - Elasticity Theory
+  - Periodontology
+  - Tooth Mechanics
+  - Incompressibility
+tldr: The author investigates the tightness of teeth and the role of the periodontal membrane in maintaining equilibrium. They consider the membrane as a thin, incompressible, and isotropic elastic body attached to the tooth and the socket. The study provides insights into the displacement of the tooth, strain, and stress in the membrane under applied forces, and explains the tightness of teeth using the pressure variations in the incompressible medium.
+scientific_discipline: Engineering and Technology > Materials Science

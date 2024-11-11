@@ -1,0 +1,10 @@
+article_id: rspa_1959_0148
+revised_title: 'Influence of Higher-Order Terms on the Dielectric Constant of Ionic Crystals'
+semantic_tags:
+  - Dielectric constant
+  - Ionic crystals
+  - Anharmonic terms
+  - Dipole moment
+  - Infra-red absorption
+tldr: The authors investigate the influence of higher-order terms in the dielectric constant of ionic crystals, specifically the anharmonic terms in the potential energy and the higher-order terms in the dipole moment. They find that these terms contribute to the static dielectric constant and can affect the infra-red absorption spectrum. The study suggests that the long-range dipolar interactions between the first- and second-order moments may be responsible for the variations in the intensity and width of the infra-red bands in ionic crystals.
+scientific_discipline: Physics > Condensed Matter Physics

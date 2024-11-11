@@ -1,0 +1,10 @@
+article_id: rspa_1993_0036
+revised_title: Second-law limitations on particle size distribution functions: Applications to Smoluchowski's coagulation theory and Friedlander's self-preserving distribution
+semantic_tags:
+  - Particle size distribution
+  - Coagulation theory
+  - Fragmentation processes
+  - Thermodynamics
+  - Statistical mechanics
+tldr: The author introduces an entropy-related property of particle dispersion to identify the limitations of particle size distribution functions. This approach is applied to Smoluchowski's coagulation theory and Friedlander's self-preserving distribution, demonstrating its potential in evaluating particle size distributions in dispersions.
+scientific_discipline: Physics > Thermodynamics

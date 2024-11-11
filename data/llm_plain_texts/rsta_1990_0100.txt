@@ -1,0 +1,10 @@
+article_id: rsta_1990_0100
+revised_title: Non-isothermal Chemical Systems and Chaos in Dynamical Complexity
+semantic_tags:
+  - Chaos Theory
+  - Chemical Dynamics
+  - Bifurcation
+  - Nonlinear Dynamics
+  - Thermodynamics
+tldr: The authors study a thermodynamically closed reactor with chemical reactions involving two variables and oscillatory behavior. They explore the effects of temperature variations and self-heating on the system's dynamics, leading to complex bifurcations, period doubling, and aperiodicity (chemical chaos). The research provides insights into the behavior of non-isothermal chemical systems and their potential applications in various fields.
+scientific_discipline: Chemistry > Chemical Dynamics and Thermodynamics

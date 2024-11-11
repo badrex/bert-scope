@@ -1,0 +1,10 @@
+article_id: rspa_1926_0111
+revised_title: 'A Method of Studying X-Ray Tube Behavior'
+semantic_tags:
+  - X-ray tubes
+  - Radiation output
+  - Voltage and current
+  - X-ray technology
+  - X-ray measurement
+tldr: The authors developed a method to study the behavior of X-ray tubes by measuring the voltage, current, and radiation output during different phases of the tube's operation. This method allowed for a more accurate understanding of X-ray tube performance and contributed to the improvement of tube design and efficiency.
+scientific_discipline: Physics > Electricity and Magnetism

@@ -1,0 +1,10 @@
+article_id: rspa_1978_0129
+revised_title: Conductivity of Lattices of Spheres: Body Centred and Face Centred Cubic Lattices
+semantic_tags:
+  - Lattice Conductivity
+  - Sphere Conductivity
+  - Cubic Lattices
+  - Rayleigh Identity
+  - Electrical Conductivity
+tldr: The authors calculate the effective electrical conductivity of identical spheres embedded in a matrix and arranged in body-centred and face-centred cubic lattices. They use a method originally devised by Lord Rayleigh and present experimental results for the body-centred cubic lattice of perfectly conducting spheres, confirming the theory. The study also discusses the problem of disordered arrays of spheres.
+scientific_discipline: Physics > Materials Science

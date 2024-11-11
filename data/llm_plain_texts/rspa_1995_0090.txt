@@ -1,0 +1,10 @@
+article_id: rspa_1995_0090
+revised_title: 'Effects of Elastic Bed Deformations on Mass Transport Velocity in Water Waves'
+semantic_tags:
+  - Wave mechanics
+  - Fluid dynamics
+  - Elasticity
+  - Boundary layer theory
+  - Mass transport
+tldr: 'The study investigates the mass transport velocity in water waves propagating over an elastic bed. Analytical solutions for the mass transport velocity inside the boundary layer adjacent to the elastic seabed and in the core region of the water column are obtained. The mass transport velocity above a soft elastic bed could be twice that over a rigid bed in shallow water. The effects of bed deformations on the mass transport velocity induced by surface water wave motions are examined.'
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspl_1870_0041
+revised_title: Measurements of Specific Inductive Capacity of Dielectrics in Paraffin
+semantic_tags:
+  - Dielectrics
+  - Paraffin
+  - Specific inductive capacity
+  - Condensers
+  - Temperature effects
+tldr: This paper describes the instruments and processes used in a series of experiments on the specific inductive capacity of paraffin and the effect of temperature variations. The authors employed a platymeter and a sliding condenser to determine the capacity of a condenser. They found that the specific inductive capacity of paraffin remained constant at 1.977, with air taken as unity, regardless of temperature changes.
+scientific_discipline: Physics > Electromagnetism and Electrodynamics

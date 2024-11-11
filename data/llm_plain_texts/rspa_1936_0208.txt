@@ -1,0 +1,10 @@
+article_id: rspa_1936_0208
+revised_title: 'Unusual Electrical Properties of High Permeability Wires in Alternating Current'
+semantic_tags:
+  - Ferromagnetic materials
+  - Electrical properties
+  - Alternating current
+  - Skin effect
+  - Magnetic permeability
+tldr: The authors investigate the electrical properties of high permeability wires carrying alternating current, particularly focusing on the effects of external magnetic fields. They discover that these wires have a higher AC resistance and self-inductance compared to non-magnetic wires. The AC resistance significantly changes when an external magnetic field is applied, which could have implications for the design and efficiency of electrical devices.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rsta_1932_0009
+revised_title: Plastic Distortion and Anisotropy in Metals
+semantic_tags:
+  - Metal Plasticity
+  - Anisotropy
+  - Metal Deformation
+  - Crystallography
+  - Material Science
+tldr: The authors conducted experiments on the plastic distortion of metals, specifically copper, aluminum, and mild steel tubes. They discovered that the material behaves differently depending on the size of the crystals and the degree of isotropy. The results showed that the distortion is influenced by the crystal structure and the anisotropic nature of the material, which affects the changes in internal volume and the orientation of the principal axes of stress and strain.
+scientific_discipline: Engineering and Technology > Material Science

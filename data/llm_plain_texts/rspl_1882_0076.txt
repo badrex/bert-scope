@@ -1,0 +1,10 @@
+article_id: rspl_1882_0076
+revised_title: Absorption of Light in Infra-Red and Ultra-Violet Regions
+semantic_tags:
+  - Spectroscopy
+  - Infra-Red Absorption
+  - Ultra-Violet Absorption
+  - Photographic Action
+  - Atmospheric Absorption
+tldr: The author conducted experiments to study the absorption of light in the infra-red and ultra-violet regions using various solutions and photographic plates. They discovered that when a visible ray is quenched to sight by a particular density solution, it also ceases to be photographically active. The study also showed that the ultra-violet rays are absorbed before the absorption touches the violet, and a dense solution can quench the blue visually and photographically while still allowing the extreme red to be visible.
+scientific_discipline: Physics > Optics

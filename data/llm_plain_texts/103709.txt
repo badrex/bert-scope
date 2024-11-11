@@ -1,0 +1,10 @@
+article_id: 103709
+revised_title: "Determining the Number of Impossible Roots in Affected Equations"
+semantic_tags:
+  - Algebra
+  - Geometry
+  - Number Theory
+  - Mathematical Analysis
+  - Calculus
+tldr: The author, George Campbell, presents a method for determining the number of impossible roots in affected equations. He demonstrates this through various examples and lemmas, showing how to identify impossible roots and the relationship between different equations. This work contributes to the understanding of algebraic equations and their solutions.
+scientific_discipline: Mathematics > Algebra

@@ -1,0 +1,10 @@
+article_id: 'rspa_1932_0169'
+revised_title: 'Einstein's Term for Fluids with Suspended Drops'
+semantic_tags:
+  - Fluid dynamics
+  - Viscosity
+  - Suspended particles
+  - Surface tension
+  - Fluid mechanics
+tldr: The author extends Einstein's theory on the viscosity of fluids containing solid spheres to include the case of liquid drops. The study assumes that the drops are small enough to remain nearly spherical and that surface tension keeps them in shape. The author provides an expression for the viscosity of a fluid containing liquid drops and discusses the conditions under which the drops remain spherical or break up.
+scientific_discipline: Physics > Fluid mechanics

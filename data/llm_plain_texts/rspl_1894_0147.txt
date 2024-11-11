@@ -1,0 +1,10 @@
+article_id: rspl_1894_0147
+revised_title: 'Skew Variation in Homogeneous Materials and the Generalized Frequency Curve'
+semantic_tags:
+  - Statistics
+  - Probability theory
+  - Skewness
+  - Mathematical modeling
+  - Biostatistics
+tldr: The author presents a new approach to understanding skew variation in homogeneous materials, introducing a generalized frequency curve that can be used to analyze various types of data. This curve is related to the skew binomial and can be applied to fields like anthropometry and zoometry. The author also discusses the importance of interdependent contributory causes and provides examples of its use in various statistical studies.
+scientific_discipline: Mathematics > Statistics

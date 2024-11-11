@@ -1,0 +1,10 @@
+article_id: 'rspa_1951_0054'
+revised_title: 'Chemisorption of Hydrogen and Catalytic Parahydrogen Conversion on Tungsten Films'
+semantic_tags:
+  - Surface Chemistry
+  - Catalysis
+  - Adsorption
+  - Tungsten
+  - Hydrogen Chemisorption
+tldr: The authors study the chemisorption of hydrogen on evaporated tungsten films and its relation to the catalytic parahydrogen conversion. They find that the chemisorption is reversible even at liquid-air temperatures and that the conversion proceeds through a chemical mechanism. The results provide insights into the stability of chemisorption and the mechanism of the catalytic parahydrogen conversion.
+scientific_discipline: Chemistry > Surface Chemistry

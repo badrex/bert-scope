@@ -1,0 +1,10 @@
+article_id: 110943
+revised_title: Electro-Physiological Researches: On the Physiological Action of the Electric Current
+semantic_tags:
+  - Electrophysiology
+  - Nerve Excitability
+  - Direct and Inverse Currents
+  - Michael Faraday
+  - Charles Matteucci
+tldr: The author, Charles Matteucci, conducted experiments on the physiological effects of electric currents on mixed nerves. He found that the passage of the electric current through a mixed nerve affects its excitability, depending on the direction of the current. Direct currents weaken the excitability, while inverse currents preserve and increase it. The variations in excitability tend to disappear after the current ceases, but can last longer in nerves with higher initial excitability.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

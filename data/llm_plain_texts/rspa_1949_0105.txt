@@ -1,0 +1,10 @@
+article_id: rspa_1949_0105
+revised_title: The Influence of Grit Melting-Point on Solid Explosive Initiation
+semantic_tags:
+  - Solid explosives
+  - Friction
+  - Impact
+  - Grit sensitivity
+  - Thermal initiation
+tldr: This study investigates the effect of introducing foreign particles (grit) with known melting-points into solid explosives, examining how the grit's melting-point influences the initiation of explosions by friction and impact. The research shows that only grit particles with melting-points above a threshold value between 400-560°C can sensitize the explosives to initiation, while particles with lower melting-points do not have the same effect. The findings provide evidence that the initiation of solid explosives is due to the formation of localized hot spots, which are influenced by the grit's melting-point rather than its hardness.
+scientific_discipline: Chemistry > Materials Science

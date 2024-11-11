@@ -1,0 +1,10 @@
+article_id: 'rstb_1981_0178'
+revised_title: 'Regulation of Adenylate Cyclase in Rat Pancreatic Plasma Membranes'
+semantic_tags:
+  - GTPase cycle
+  - Rat pancreatic adenylate cyclase
+  - Hormone regulation
+  - Cholera toxin
+  - Guanine nucleotides
+tldr: This article investigates the regulation of adenylate cyclase in rat pancreatic plasma membranes. The authors found that hormone CCK-8 and cholera toxin affect the activation and deactivation rates of adenylate cyclase, which is regulated by guanine nucleotides. The study provides insights into the complex interaction between hormones and nucleotides in adenylate cyclase systems.
+scientific_discipline: Biology and Life Sciences > Cell Biology

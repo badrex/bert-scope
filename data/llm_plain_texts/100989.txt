@@ -1,0 +1,10 @@
+article_id: 100989
+revised_title: 'Solving Geometric Problems with Conic Sections and Analysis'
+semantic_tags:
+  - Geometry
+  - Conic sections
+  - Analysis
+  - Algebra
+  - Solid problems
+tldr: The author presents a method for solving geometric problems, specifically finding two means and trisecting angles, using conic sections and analysis. They demonstrate various methods for solving cubic equations and discuss the applications of their techniques in geometry, including the use of circles, ellipses, hyperbolas, and parabolas. The author also explains the importance of algebra in developing these methods and their potential for solving a wide range of mathematical problems.
+scientific_discipline: Mathematics > Geometry

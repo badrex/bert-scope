@@ -1,0 +1,10 @@
+article_id: rsta_1935_0015
+revised_title: 'Investigation of Flame Movements and Spin in Detonations'
+semantic_tags:
+  - Detonation physics
+  - Flame movement
+  - High-speed photography
+  - Explosive gas behavior
+  - Spin phenomenon
+tldr: The authors conducted experiments using a new revolving mirror camera to study flame movements and the spin phenomenon in detonations. They discovered that the detonation wave is a combination of an intensively radiating flame-front and an invisible shock wave. The spin occurs when the radiation from an attenuated flame-front causes a localized intensive excitation of molecules in the shock wave, leading to a rotating head of detonation. This research provides a new understanding of detonation and its behavior in gaseous explosions.
+scientific_discipline: Physics > Optics

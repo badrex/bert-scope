@@ -1,0 +1,10 @@
+article_id: rspa_1966_0216
+revised_title: Crystal Size and Crystallographic Orientation Influence on Solid State Decomposition
+semantic_tags:
+  - Solid state chemistry
+  - Crystallography
+  - Decomposition kinetics
+  - Surface chemistry
+  - Thallous and sodium azides
+tldr: The authors developed a method to prepare very small, uniform crystals of sodium and thallous azides to study their slow thermal decomposition. They found that the rate of decomposition is proportional to the surface area of the crystals and is controlled by a surface or interface that moves into the crystal in a preferred crystallographic direction.
+scientific_discipline: Chemistry > Solid state chemistry

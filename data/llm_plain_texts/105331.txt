@@ -1,0 +1,10 @@
+article_id: 105331
+revised_title: 'Magnetism and Polarity in Brass: Experiments and Observations'
+semantic_tags:
+  - Magnetism
+  - Brass properties
+  - Compass design
+  - Metalworking
+  - Experimental physics
+tldr: The author, Mr. Arderon, conducted experiments on the magnetism of brass and discovered that some brass samples can attract and repel a magnetic needle, suggesting that brass can be given magnetic properties. He warns against using brass for compass boxes and instruments that rely on magnetism due to the potential for accidents. This research could potentially lead to the development of brass compass needles, which are less prone to rust than steel ones.
+scientific_discipline: Physics > Electromagnetism

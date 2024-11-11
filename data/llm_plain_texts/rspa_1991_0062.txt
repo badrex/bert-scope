@@ -1,0 +1,10 @@
+article_id: rspa_1991_0062
+revised_title: 'Recursion Algorithm for Calculating Diffracted Intensities from Faulted Crystals'
+semantic_tags:
+  - Crystallography
+  - Diffraction
+  - Planar Faults
+  - Stacking Disorder
+  - Recursion Algorithm
+tldr: The authors present a general recursion algorithm for calculating diffracted intensities from crystals containing planar faults. This method is applicable to various types of planar faults, accommodates long-range stacking correlations, and can be used for crystals with a finite number of layers. The algorithm is related to previous approaches but offers a more intuitive and straightforward approach to the stacking disorder problem, making it suitable for complex crystal systems.
+scientific_discipline: Physics > Crystallography

@@ -1,0 +1,10 @@
+article_id: rspa_1929_0130
+revised_title: 'Investigation of the Arc Spectrum of Germanium'
+semantic_tags:
+  - Spectroscopy
+  - Germanium
+  - Arc Spectrum
+  - Atomic Physics
+  - Elemental Analysis
+tldr: The authors conducted an investigation on the arc spectrum of germanium, extending the observations to 1630 and adding about 60 new lines to the analysis. They modified Gartlein's previous analysis to better align with related elements' spectra and calculated the absolute values of the terms, determining the ionization potential of Ge I.
+scientific_discipline: Physics > Atomic Physics

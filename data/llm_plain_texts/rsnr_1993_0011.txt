@@ -1,0 +1,10 @@
+article_id: 'rsnr_1993_0011'
+revised_title: 'The Blackett-Eckersley-Lovell Correspondence and the Origin of Jodrell Bank'
+semantic_tags:
+  - Radar Technology
+  - Cosmic Ray Research
+  - World War II
+  - Radio Astronomy
+  - Ionosphere
+tldr: The article recounts the story of how the discovery of transient radar echoes during World War II led to the development of Jodrell Bank Observatory. Sir Bernard Lovell, Dr. D.G. King-Hele, and T.L. Eckersley exchanged letters discussing the potential of radar techniques to investigate high-energy cosmic ray air showers. Their correspondence and research laid the foundation for the creation of Jodrell Bank, which has since contributed significantly to the field of radio astronomy.
+scientific_discipline: Physics > Astronomy

@@ -1,0 +1,9 @@
+article_id: 110300
+revised_title: Astronomical Perturbation Methods: A Comparative Study
+semantic_tags:
+  - Astronomy
+  - Celestial Mechanics
+  - Perturbation Theory
+  - Mathematical Physics
+tldr: The author compares two methods for calculating the perturbations of celestial bodies, finding that they lead to identical results. This confirms the accuracy of the expressions used in the calculations. Additionally, a paper on the human voice was also read during the session.
+scientific_discipline: Astronomy > Celestial Mechanics

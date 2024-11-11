@@ -1,0 +1,10 @@
+article_id: rspl_1886_0099
+revised_title: Equilibrium for a Rotating Mass of Fluid: Analyzing Jacobi's Figures of Equilibrium
+semantic_tags:
+  - Fluid dynamics
+  - Celestial mechanics
+  - Ellipsoids
+  - Equilibrium
+  - Rotating masses
+tldr: The author analyzes Jacobi's figures of equilibrium, focusing on the problem of finding the axes of ellipsoids for a rotating mass of fluid. They develop equations and provide a table of numerical results to better understand the behavior of these figures and their applications in celestial mechanics.
+scientific_discipline: Physics > Fluid dynamics

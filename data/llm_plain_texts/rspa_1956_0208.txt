@@ -1,0 +1,10 @@
+article_id: rspa_1956_0208
+revised_title: Nucleon Motion in a Rotating Potential: Analyzing Independent Particle Motion
+semantic_tags:
+  - Nuclear Physics
+  - Particle Motion
+  - Rotating Oscillator Potential
+  - Collective Rotation
+  - Nuclear Angular Momentum
+tldr: The authors study the problem of nucleons moving independently in a rotating oscillator potential and find that the equations of motion can be solved exactly. They analyze the motion in terms of individual nucleon orbits and find that the rotation of the average field induces particle motions with positive and negative orbital angular momenta. The authors provide simple expressions for the energy and moment of inertia, which are valid for all angular velocities and can be used to estimate corrections to the finer details of rotational spectra of nuclei.
+scientific_discipline: Physics > Nuclear Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1952_0058
+revised_title: Reversible Dissociation of Hydrogen Molecules and Para-Hydrogen Conversion
+semantic_tags:
+  - Surface Chemistry
+  - Adsorption
+  - Hydrogen Molecules
+  - Tungsten Surface
+  - Para-Hydrogen Conversion
+tldr: The authors investigate the reversible dissociation of hydrogen molecules and para-hydrogen conversion on a tungsten surface. They examine different mechanisms and conclude that the dissociative mechanism in a concentrated monolayer is too slow to account for the experimental results. The study suggests that a dilute monolayer is necessary for the dissociative mechanism to explain the observed reaction velocity.
+scientific_discipline: Chemistry > Surface Chemistry

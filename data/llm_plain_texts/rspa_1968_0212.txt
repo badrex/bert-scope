@@ -1,0 +1,10 @@
+article_id: rspa_1968_0212
+revised_title: 'Observation of Fresnel Drag Effect in Semiconductors'
+semantic_tags:
+  - Fresnel drag
+  - Semiconductors
+  - Relativistic effect
+  - Ring laser
+  - Refractive index
+tldr: The authors successfully detected the Fresnel drag effect in a semiconductor (InAs) by placing it inside a He-Ne ring laser. This effect, caused by free carriers moving in a solid, is a relativistic phenomenon. The results show a small change in the refractive index due to the electron motion, which is of interest for understanding the interaction between light and matter in semiconductors.
+scientific_discipline: Physics > Electromagnetism

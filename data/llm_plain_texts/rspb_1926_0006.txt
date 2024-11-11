@@ -1,0 +1,10 @@
+article_id: 'rspb_1926_0006'
+revised_title: 'The Relation Between Oxygen Intake and Lactic Acid Content in Muscular Exercise'
+semantic_tags:
+  - Lactic acid metabolism
+  - Oxygen intake
+  - Muscle recovery
+  - Exercise physiology
+  - Bimolecular reactions
+tldr: The author conducted experiments on healthy young men to study the relationship between oxygen intake and lactic acid content during exercise. They found that the rate of lactic acid removal is proportional to the square of its concentration in the muscles. This suggests that lactic acid acts as a "governor of oxidation" in the recovery process of muscles.
+scientific_discipline: Biology and Life Sciences > Exercise Physiology

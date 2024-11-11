@@ -1,0 +1,10 @@
+article_id: 'rstb_1982_0155'
+revised_title: 'The Cellular Mechanism of Active Chloride Secretion in Vertebrate Epithelia'
+semantic_tags:
+  - Cellular Mechanism
+  - Chloride Secretion
+  - Vertebrate Epithelia
+  - Intestine
+  - Trachea
+tldr: The article discusses the cellular mechanism of active chloride secretion in vertebrate epithelia, focusing on the intestine and trachea. The mechanism involves NaCl co-transport across the basolateral membrane, accumulation in the cell above electrochemical equilibrium, a hormone-regulated permeability in the apical membrane, passive secretion through a paracellular route, and an increase in basolateral membrane permeability. Electrophysiological studies in canine trachea support this model, and the implications of the secretion model are discussed.
+scientific_discipline: Biology and Life Sciences > Cell Biology

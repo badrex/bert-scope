@@ -1,0 +1,10 @@
+article_id: rspa_1940_0006
+revised_title: 'Mesotron Scattering in Metal Plates: A Study of Cosmic-Ray Particle Interactions'
+semantic_tags:
+  - Particle Physics
+  - Cosmic Rays
+  - Nuclear Interactions
+  - Mesotrons
+  - Scattering Theory
+tldr: This article presents a study on the scattering of mesotrons in metal plates, providing important evidence about the nature of cosmic-ray particles. The authors found that the scattering of mesotrons is mainly due to the Coulomb field of the nucleus, and the distribution of scattering angles follows a Gaussian pattern. The study also estimates the action cross-section of mesotrons with nuclear particles, contributing to the understanding of mesotron-proton and mesotron-neutron interactions.
+scientific_discipline: Physics > Particle Physics

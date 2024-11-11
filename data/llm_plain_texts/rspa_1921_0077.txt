@@ -1,0 +1,10 @@
+article_id: rspa_1921_0077
+revised_title: 'Selective Absorption of Light by Faintly Luminescent Mercury Vapour'
+semantic_tags:
+  - Spectroscopy
+  - Mercury vapor
+  - Light absorption
+  - Electromagnetic radiation
+  - Gas discharge
+tldr: The authors conducted experiments on faintly luminescent mercury vapor and discovered that it exhibits marked selective absorption. They used a three-electrode tube to create a low current density arc and observed that the vapor's absorption effect was due to the shortness of the column provided by the tube's shape. The authors also measured the absorption using a Lummer-Brodhun photometer and found that the intensity of the radiation emitted along the axis from the end of a uniform tube containing a luminous and absorbing medium is given by the expression I = I0x(1 - e^(-αx)), where I0 is the initial intensity, α is the coefficient of absorption, and x is the length of the tube.
+scientific_discipline: Physics > Spectroscopy

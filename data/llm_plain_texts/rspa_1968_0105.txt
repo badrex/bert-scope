@@ -1,0 +1,10 @@
+article_id: rspa_1968_0105
+revised_title: Adhesive Contact Problems with Incremental Loading: Self-Similar Solutions
+semantic_tags:
+  - Contact Mechanics
+  - Adhesion
+  - Elasticity
+  - Friction
+  - Indentation
+tldr: The article presents a self-similar solution to adhesive contact problems with incremental loading, focusing on the axisymmetric distortion of an elastic half-space by a rigid indentor. The study assumes that the load is applied progressively, with interfacial friction sufficient to prevent any slip between the indentor and the half-space. The resulting boundary-value problem is cast in the form of an integral equation of Wiener-Hopf type, which has been solved separately. The findings can be applied to various shapes of indentors, including flat-faced cylinders, spheres, and cones.
+scientific_discipline: Engineering and Technology > Mechanics

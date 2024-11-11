@@ -1,0 +1,10 @@
+article_id: rspa_1930_0025
+revised_title: 'Investigations of the Equivalent Height of the Atmospheric Ionised Layer'
+semantic_tags:
+  - Atmospheric science
+  - Radio wave propagation
+  - Ionosphere
+  - Wireless communication
+  - Radio astronomy
+tldr: The author, E. V. Appleton, investigates the characteristics of downcoming wireless waves by using a frequency-change method. They study the diurnal variation of the equivalent height of the ionised layer in the atmosphere responsible for deviating wireless waves. The research focuses on the pre-sunrise phenomena and the significance of multiple downcoming rays, which led to further investigations in simultaneous reception of downcoming waves at several receiving stations and the use of shorter wavelengths.
+scientific_discipline: Physics > Atmospheric Science

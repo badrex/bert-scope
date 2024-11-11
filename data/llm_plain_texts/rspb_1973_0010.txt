@@ -1,0 +1,10 @@
+article_id: 'rspb_1973_0010'
+revised_title: 'Two Models of Partially Focused Clear Zone Compound Eye: Analyzing the Optics and Admittance'
+semantic_tags:
+  - Compound Eye
+  - Optics
+  - Focusing
+  - Clear Zone
+  - Angular Sensitivity
+tldr: The authors explore two models of partially focused clear zone compound eyes, analyzing the optics and admittance functions. They demonstrate how the distribution of light from the cone tips and the angle of incidence on the facets affect the eye's focusing capabilities and angular sensitivity. This research contributes to understanding the visual acuity and sensitivity of insects with partially focused clear zone eyes.
+scientific_discipline: Biology and Life Sciences > Zoology > Entomology

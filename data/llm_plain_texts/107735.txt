@@ -1,0 +1,10 @@
+article_id: 107735
+revised_title: Calculating Crystal Angles and Laws of Crystal Formation
+semantic_tags:
+  - Crystallography
+  - Geometry
+  - Mineralogy
+  - Mathematical Physics
+  - Solid State Physics
+tldr: The author presents a general method for calculating the angles made by any planes of crystals and the laws according to which they are formed. By using a mathematical process and considering the co-existent planes, the author demonstrates how to deduce the properties of various types of crystals. This method can be applied to a wide range of crystal structures, providing valuable insights into their formation and properties.
+scientific_discipline: Mathematics > Applied Mathematics

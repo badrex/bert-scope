@@ -1,0 +1,10 @@
+article_id: rspa_1942_0054
+revised_title: 'Investigation of Fast Positron Scattering by Heavy Nuclei'
+semantic_tags:
+  - Particle Physics
+  - Nuclear Physics
+  - Positron Scattering
+  - Heavy Nuclei
+  - Angular Distribution
+tldr: The authors investigated the angular distribution of fast positrons elastically scattered by heavy nuclei, specifically mercury, using Dirac's equations and numerical tables provided by Bartlett & Watson for corresponding fast electrons. They found that the ratio of scattered intensity to that given by the Rutherford formula is less than unity and decreases with increasing angle of scattering. The maximum asymmetry produced by double scattering of positrons is less than 1%. The study suggests that experimental investigation of fast positron scattering would be useful in resolving discrepancies between experimental and theoretical results relating to the scattering of fast electrons.
+scientific_discipline: Physics > Particle Physics

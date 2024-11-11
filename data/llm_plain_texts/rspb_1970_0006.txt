@@ -1,0 +1,10 @@
+article_id: 'rspb_1970_0006'
+revised_title: 'In-depth Analysis of the Water Receptor Cell in Flies'
+semantic_tags:
+  - Neurobiology
+  - Insect Physiology
+  - Sensory Receptors
+  - Chemoreception
+  - Electrokinetics
+tldr: The study investigates the primary process of reception in the Type 3 ('water') receptor cell of the fly, Phormia terranovae. The research focuses on how the receptor responds to water and low concentrations of electrolytes, and why lesser degrees of depolarization occur with higher external concentrations of electrolytes or non-electrolytes. The findings suggest that an electrokinetic explanation is more likely to be correct than one involving diffusion potentials. The study also discusses the effects of ATPase inhibitors and ATP on the receptor cell.
+scientific_discipline: Biology and Life Sciences > Neurobiology

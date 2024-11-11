@@ -1,0 +1,12 @@
+article_id: rspl_1884_0062
+revised_title: "Magnetic Susceptibility, Retentiveness, and Hysteresis in Iron and Steel"
+semantic_tags:
+  - Magnetism
+  - Iron and Steel
+  - Hysteresis
+  - Magnetic Susceptibility
+  - Magnetic Retentiveness
+  - Stress and Magnetism
+  - Temperature and Magnetism
+tldr: The author conducted experiments on iron and steel to study their magnetic susceptibility, retentiveness, and hysteresis. They discovered that the energy expended in producing cyclic changes of magnetization is very small in steel, and almost all the heat produced in the cores of electromagnets is due to Foucault currents. The author also found that soft annealed iron has greater retentiveness than even the hardest steel when tested under specific conditions. The effects of stress and temperature on magnetism were also investigated, revealing complex relationships and behaviors.
+scientific_discipline: Physics > Electromagnetism

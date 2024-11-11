@@ -1,0 +1,10 @@
+article_id: 106616
+revised_title: 'On Infinite Series and Approximation Methods in Mathematics'
+semantic_tags:
+  - Mathematics
+  - Infinite Series
+  - Approximation Theory
+  - Algebraic Equations
+  - Mathematical Analysis
+tldr: The author, Edward Waring, discusses various methods for approximating the roots of algebraic equations using infinite series and the rule of false. He explains the concept of convergency and provides examples of how to apply these methods to equations with multiple dependent variables. Waring also mentions the work of other mathematicians, such as Newton and Euler, and their contributions to the field.
+scientific_discipline: Mathematics > Algebra

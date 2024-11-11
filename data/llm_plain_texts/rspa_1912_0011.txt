@@ -1,0 +1,10 @@
+article_id: rspa_1912_0011
+revised_title: 'Investigation of Current, Voltage, Pressure, and Dark Space Length in Various Gases'
+semantic_tags:
+  - Gas discharge physics
+  - Plasma physics
+  - Electrical conductivity
+  - Gas properties
+  - Dark space phenomenon
+tldr: The authors conducted experiments on the relationship between current, voltage, pressure, and the length of the dark space in various gases, including hydrogen, nitrogen, oxygen, air, carbon monoxide, argon, helium, neon, krypton, and xenon. They discovered that the gases behaved differently and found a relationship between voltage, current density, and the dark space length. The results showed that the gases in the helium group, such as neon, argon, krypton, and xenon, exhibited a primary dark space close to the cathode, which was previously discovered in helium and hydrogen.
+scientific_discipline: Physics > Plasma Physics

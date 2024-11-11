@@ -1,0 +1,10 @@
+article_id: rspa_1971_0182
+revised_title: Dielectric Breakdown of Low Density Gases: Theoretical Analysis
+semantic_tags:
+  - Gas breakdown
+  - Dielectric breakdown
+  - Townsend theory
+  - Monte Carlo simulation
+  - Low density gases
+tldr: The authors present a theoretical analysis of dielectric breakdown in low density gases, focusing on the region between true gas breakdown and vacuum breakdown. They argue that the Townsend theory is not applicable in this region and propose a method using Monte Carlo computer techniques to calculate the number of ionizing collisions made by an electron moving from the cathode to the anode. The study demonstrates that the theory can explain why some gases exhibit a re-entrant form of the Paschen curve, while others do not.
+scientific_discipline: Physics > Electromagnetism

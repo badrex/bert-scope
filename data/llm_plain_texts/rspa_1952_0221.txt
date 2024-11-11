@@ -1,0 +1,10 @@
+article_id: rspa_1952_0221
+revised_title: 'Dissociation Constants of Ethylene and Hexamethylene Diammonium Ions'
+semantic_tags:
+  - Acid dissociation constants
+  - Electrochemistry
+  - Thermodynamics
+  - Diammonium ions
+  - Buffer solutions
+tldr: The authors determined the dissociation constants of ethylene and hexamethylene diammonium ions using an e.m.f. method. They measured the constants at different ionic strengths and temperatures, and calculated the thermodynamic functions for the dissociations. The results provide insights into the behavior of these ions in solution and their applications in chemistry.
+scientific_discipline: Chemistry > Electrochemistry

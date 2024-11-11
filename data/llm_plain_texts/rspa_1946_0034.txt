@@ -1,0 +1,10 @@
+article_id: rspa_1946_0034
+revised_title: Advances in Chromatography Theory for Separating Two Solutes
+semantic_tags:
+  - Chromatography
+  - Separation techniques
+  - Adsorption isotherms
+  - Langmuir isotherm
+  - Two-solute separation
+tldr: This article presents a complete analysis of the chromatographic separation process for two solutes with adsorption following a Langmuir isotherm. The author discusses the development of bands with pure solvent and with a solvent containing another solute, and provides simple conditions for complete separation of the two solutes. The study is based on the work of Wilson, de Vault, and Weiss, and assumes Langmuir adsorption isotherms for the two substances.
+scientific_discipline: Chemistry > Separation Techniques

@@ -1,0 +1,10 @@
+article_id: rspa_1955_0229
+revised_title: Hamiltonian Form of Wave Equation for Spin 1
+semantic_tags:
+  - Quantum Mechanics
+  - Wave Equation
+  - Spin 1
+  - Hamiltonian
+  - Conservation Laws
+tldr: The author investigates the wave equation for spin 1 in Hamiltonian form, focusing on the relation between constants of motion and conservation laws in differential form. They discuss the operator that commutes with the Hamiltonian and the conservation laws, and explore the connection between charge quantization and the energy aspect of frequency. The author also examines the spin matrices and their properties, and the covariant six-vector related to the spin matrices.
+scientific_discipline: Physics > Quantum Mechanics

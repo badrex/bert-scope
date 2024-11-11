@@ -1,0 +1,10 @@
+article_id: rspa_1973_0089
+revised_title: Crystal Spectrometry of Solar Active Regions
+semantic_tags:
+  - Solar Physics
+  - Spectroscopy
+  - Sunspots
+  - Active Regions
+  - Solar Spectral Lines
+tldr: This study presents the results of crystal spectrometry conducted on three active regions on the Sun using a sounding rocket. The researchers used a crystal spectrometer to analyze the soft-ray line emission from the Sun and found that a non-isothermal model is required to explain the temperatures of the regions. The study also found a good correlation between the soft-ray emission and other solar observations.
+scientific_discipline: Physics > Astronomy

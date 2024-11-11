@@ -1,0 +1,10 @@
+article_id: rspa_1929_0076
+revised_title: 'Advancements in Measuring Flame Temperatures'
+semantic_tags:
+  - Flame temperature measurement
+  - Thermal equilibrium
+  - Kirchhoff's law
+  - Spectral line reversal
+  - High-temperature physics
+tldr: This article discusses various methods for measuring the temperature of flames, focusing on the wire method and spectral line reversal method. The wire method involves immersing a metal wire carrying electric current in a flame and observing the point at which the current and temperature are equal in both the flame and a vacuum, determining the flame temperature. The spectral line reversal method uses the principle that the dark lines in a solar spectrum correspond to the bright lines in a flame. By observing the disappearance and reversal of spectral lines, the flame temperature can be determined.
+scientific_discipline: Physics > Thermodynamics

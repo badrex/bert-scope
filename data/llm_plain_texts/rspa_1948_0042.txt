@@ -1,0 +1,10 @@
+article_id: rspa_1948_0042
+revised_title: Three-Dimensional Stress Systems in Isotropic Plates: A Comprehensive Analysis
+semantic_tags:
+  - Solid Mechanics
+  - Stress Analysis
+  - Elasticity Theory
+  - Isotropic Materials
+  - Plate Theory
+tldr: This article presents a comprehensive analysis of three-dimensional stress systems in isotropic plates. The authors explore stress distribution in plates under isolated forces, comparing the results with the generalized plane stress theory. They provide numerical values for stress components and discuss the accuracy of the generalized plane stress theory in approximating the average stress values.
+scientific_discipline: Engineering and Technology > Solid Mechanics

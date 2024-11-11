@@ -1,0 +1,10 @@
+article_id: rspa_1975_0023
+revised_title: 'Scattering of SH-waves by Surface Irregularities in Mass-Loaded Elastic Medium'
+semantic_tags:
+  - Elastic Waves
+  - Surface Irregularities
+  - Mass-Loaded Boundary
+  - Green Function
+  - Scattering Theory
+tldr: The article presents a rigorous theory of the scattering of two-dimensional SH-waves by surface irregularities at the mass-loaded boundary of a semi-infinite elastic medium. Two types of surface irregularities are considered: indentation and discontinuity in mass-loading. The incident SH-wave can be either a bulk wave or a surface wave. The study leads to integral equations and numerical results for various configurations, including triangularly prismatic indentation, rigid strip loading, and traction-free interruption in mass-loading.
+scientific_discipline: Physics > Optics

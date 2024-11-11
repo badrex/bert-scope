@@ -1,0 +1,10 @@
+article_id: rspa_1942_0029
+revised_title: The Effect of Oxygen Impurities on Active Nitrogen Phenomena
+semantic_tags:
+  - Gas discharge
+  - Nitrogen
+  - Oxygen impurities
+  - Glow phenomena
+  - Spectroscopy
+tldr: The author investigates the effect of oxygen impurities on the formation of active nitrogen through electric discharge. They demonstrate that the action of oxygen or other impurities primarily affects the walls of the vessel, not the gas space, and that the presence of oxygen enhances the formation of active nitrogen. This study provides insights into the complex behavior of gas discharge and the role of impurities in promoting glow phenomena.
+scientific_discipline: Physics > Spectroscopy

@@ -1,0 +1,10 @@
+article_id: 'rsnr_1964_0016'
+revised_title: 'Mendel, Darwin, and Fisher: The Founding Fathers of Genetics'
+semantic_tags:
+  - Genetics
+  - Evolution
+  - Heredity
+  - Mendelian inheritance
+  - Statistical genetics
+tldr: 'This article discusses the contributions of Mendel, Darwin, and Fisher to the field of genetics. Mendel's experiments with pea plants led to the discovery of the principles of heredity and the 3:1 ratio, while Darwin's theory of evolution by natural selection provided a broader context for understanding genetic variation. Fisher's work in the 1930s brought attention to Mendel's work and its significance in understanding inheritance patterns. Their combined efforts laid the foundation for modern genetics.'
+scientific_discipline: Biology and Life Sciences > Genetics

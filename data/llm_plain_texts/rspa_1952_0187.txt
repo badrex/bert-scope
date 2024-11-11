@@ -1,0 +1,10 @@
+article_id: rspa_1952_0187
+revised_title: 'Effect of Electrolytes on Dielectric Dispersion in Polar Liquids'
+semantic_tags:
+  - Dielectric properties
+  - Electrolytes
+  - Polar liquids
+  - Debye's theory
+  - Ionic conductivity
+tldr: 'This article investigates the effect of electrolytes on the dielectric properties of pure polar liquids, focusing on aqueous solutions of sodium chloride. The authors analyze the measurements in terms of Debye's basic theory of dispersion in a polar dielectric and show the modifications needed to account for the ionic conductivity produced by an electrolyte. The results demonstrate how the dielectric constant and effective relaxation time of the solvent dipoles are affected by the presence of electrolytes.'
+scientific_discipline: Chemistry > Electrochemistry

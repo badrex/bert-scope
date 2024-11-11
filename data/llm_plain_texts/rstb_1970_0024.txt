@@ -1,0 +1,10 @@
+article_id: 'rstb_1970_0024'
+revised_title: 'Mapping the Active Site of Papain: A Study of Peptide Substrates and Inhibitors'
+semantic_tags:
+  - Enzyme kinetics
+  - Proteolytic enzymes
+  - Papain
+  - Enzyme-substrate interactions
+  - Subsites
+tldr: The authors mapped the active site of papain using peptide substrates and inhibitors. They discovered that the active site is composed of seven subsites on both sides of the catalytic site. By analyzing the interactions between the enzyme and various substrates, they were able to determine the size and structure of the active site, providing insights into the enzyme's specificity and efficiency.
+scientific_discipline: Biology and Life Sciences > Enzyme Mechanism and Structure

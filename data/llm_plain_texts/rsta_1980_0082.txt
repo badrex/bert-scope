@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0082'
+revised_title: 'Effect of Minor Elements on Hot-Workability of Nickel-Based Superalloys'
+semantic_tags:
+  - Superalloys
+  - Hot-Workability
+  - Nickel-based alloys
+  - Minor elements
+  - Material properties
+tldr: The authors investigated the impact of five minor elements (Ca, Mg, and Zr) on the hot-workability of three nickel-based superalloys. They found that adding a small amount of these elements significantly improved the hot ductility of the alloys. The optimal composition was found to be S-0.8Ca-0.3Mg-0.5Y-0.1Zr, which minimized the ductility dip and provided excellent hot-workability.
+scientific_discipline: Engineering and Technology > Materials Science

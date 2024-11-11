@@ -1,0 +1,10 @@
+article_id: rspa_1938_0047
+revised_title: Comparison of Wave-Functions for HeH: A Study of Molecular Binding
+semantic_tags:
+  - Molecular Physics
+  - Quantum Mechanics
+  - Wave-Function Comparison
+  - Molecular Binding
+  - HeH Molecule
+tldr: This article compares various wave-function methods for the HeH molecule, which is a simple two-electron ion. The authors analyze and compare five different methods, including the generalized Morse-Stueckelberg method, the generalized Stark-effect method, the LCAO approximation of atomic orbitals, the variation expansion in spheroidal coordinates, and the use of expansion in terms of Slater orbitals. The study aims to understand the nature of molecular binding and the reliability of different approximations in molecular physics.
+scientific_discipline: Chemistry > Molecular Physics

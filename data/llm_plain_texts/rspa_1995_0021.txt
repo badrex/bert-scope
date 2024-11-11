@@ -1,0 +1,10 @@
+article_id: rspa_1995_0021
+revised_title: Generalized Continua and Their Thermomechanical Theories
+semantic_tags:
+  - Continuum Mechanics
+  - Generalized Continua
+  - Cosserat Continua
+  - Director Fields
+  - Thermomechanical Theories
+tldr: This article presents a unified procedure for constructing thermomechanical theories of deformable media, specifically focusing on generalized continua. These continua have additional kinematic structure represented by director fields, which are endow each material point with unique properties. The article discusses the development of these theories for four categories of generalized continua, including a Cosserat continuum with a single director, and highlights the novel balances of director momenta and entropies derived from the balance of energy.
+scientific_discipline: Mathematics > Applied Mathematics

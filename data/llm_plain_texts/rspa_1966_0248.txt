@@ -1,0 +1,10 @@
+article_id: rspa_1966_0248
+revised_title: Chemiluminescent Reaction Between Sulphur Monoxide and Ozone
+semantic_tags:
+  - Chemical kinetics
+  - Chemiluminescence
+  - Sulphur oxide
+  - Ozone
+  - Reaction mechanisms
+tldr: The chemiluminescent reaction between sulphur monoxide (SO) and ozone has been studied in a fast flow system at pressures between 0 and 1 mmHg. The reaction is a rapid bimolecular process yielding electronically excited molecules in the first (triplet) and second (singlet) excited states. The intensity of the emission obeys a relationship similar to equation (i). The formation of electronically excited molecules in this reaction requires a higher activation energy than the formation of ground state molecules.
+scientific_discipline: Chemistry > Chemical kinetics

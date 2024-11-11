@@ -1,0 +1,10 @@
+article_id: rspa_1953_0013
+revised_title: 'Recombination of Atoms: Iodine Atoms in Rare Gases'
+semantic_tags:
+  - Atomic recombination
+  - Iodine atoms
+  - Rare gases
+  - Termolecular reactions
+  - Flash photolysis
+tldr: The authors studied the recombination of iodine atoms in various rare gases using the flash photolysis technique. They found that the termolecular rate law accurately describes the process, and determined the absolute rate constants for iodine recombination in different rare gases. This research provides insights into the mechanisms of energy transfer between colliding gas molecules and helps to understand the efficiency of different gases as third bodies in termolecular reactions.
+scientific_discipline: Chemistry > Atomic and Molecular Physics

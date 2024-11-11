@@ -1,0 +1,10 @@
+article_id: 110086
+revised_title: 'Improving the Accuracy of Astronomical Instruments: The Floating Collimator'
+semantic_tags:
+  - Astronomy
+  - Instrumentation
+  - Level and Plumb Line
+  - Telescope
+  - Error Detection
+tldr: The author, Henry Kater, describes a new method for determining the horizontal or zenith point of a circle using a floating collimator. The collimator is a more accurate and reliable alternative to traditional levels and plumb lines. Kater also explains how the floating collimator can be used to detect errors in other astronomical instruments, such as zenith tubes and micrometers.
+scientific_discipline: Astronomy > Instrumentation

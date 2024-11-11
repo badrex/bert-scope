@@ -1,0 +1,10 @@
+article_id: rspa_1916_0044
+revised_title: 'Ionisation of Metallic Vapours in Flames and Its Relation to Emission of Monochromatic Radiation'
+semantic_tags:
+  - Atomic physics
+  - Spectroscopy
+  - Ionization
+  - Mercury vapor
+  - Bunsen flame
+tldr: The authors conducted experiments to study the ionization of metallic vapors, specifically mercury, in flames. They discovered that when mercury vapor emits monochromatic radiation, it is also ionized and exhibits electrical conductivity. This supports the conclusion that 4.9 volts is the ionizing potential of mercury vapor.
+scientific_discipline: Physics > Atomic physics

@@ -1,0 +1,10 @@
+article_id: rspa_1926_0166
+revised_title: 'Further Observations on Sir Almroth Wright's "Intertraction" Phenomenon'
+semantic_tags:
+  - Fluid dynamics
+  - Diffusion
+  - Surface tension
+  - Interfacial phenomena
+  - Colored albuminous solutions
+tldr: The authors repeated and expanded upon Sir Almroth Wright's experiment with colored albuminous solutions and salt solutions. They found that the radial streamers, which appear along the surface of the liquid, indicate the direction of liquid currents. The experiment demonstrates that the phenomenon is due to differences in diffusivity between solutes in the disc and the bulk liquid, rather than the development of "intertraction" streamers in a horizontal direction. This study provides evidence against the existence of a "contractile skin" in the surface of liquids.
+scientific_discipline: Physics > Fluid dynamics

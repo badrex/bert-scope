@@ -1,0 +1,10 @@
+article_id: '102968'
+revised_title: 'Experimental Investigation of Gunpowder's Factitious Air and its Reaction to Heat and Cold'
+semantic_tags:
+  - Chemistry
+  - Thermodynamics
+  - Gas Laws
+  - Heat and Temperature
+  - Explosives
+tldr: 'Fr. Hauksbee conducted an experiment to study the quality of air produced from gunpowder fired in a vacuum. He observed that the explosions of gunpowder in the presence of air were greater than in a vacuum. The author also found that the factitious air produced from gunpowder was affected by heat and cold, similar to common air. He estimated that the heat generated from the experiment was about 1/3 of an atmosphere of air.'
+scientific_discipline: Chemistry > Gas Laws and Thermodynamics

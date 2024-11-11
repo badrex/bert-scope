@@ -1,0 +1,10 @@
+article_id: 110558
+revised_title: Investigating the Relationship Between Wind Velocity and Barometer Oscillations
+semantic_tags:
+  - Meteorology
+  - Atmospheric Science
+  - Barometers
+  - Wind
+  - Weather forecasting
+tldr: The author, Luigi Dau, investigates the connection between wind velocity and barometer oscillations. He aims to develop a method for calculating wind velocity based on barometer observations. This research could potentially improve weather forecasting.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

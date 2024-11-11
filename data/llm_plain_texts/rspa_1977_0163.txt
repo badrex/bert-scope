@@ -1,0 +1,11 @@
+article_id: rspa_1977_0163
+revised_title: Imperfection-Sensitivity Analysis of Semi-Symmetric Branching in Structural Systems
+semantic_tags:
+  - Bifurcation Theory
+  - Catastrophe Theory
+  - Structural Mechanics
+  - Elastic Stability
+  - Imperfection-Sensitivity
+tldr: This article extends the general theory of elastic stability to include the imperfection-sensitivity of twofold compound branching points with symmetry of the potential function in one of the critical modes (semi-symmetric points of bifurcation). The author introduces a subclassification into monoclinal, anticlinal, and homeoclinal semi-symmetric branching and relates this bifurcation theory to Rene Thom's catastrophe theory. The paper presents an imperfection-sensitivity perturbation analysis for semi-symmetric branching, providing a complete description of the imperfection-sensitivity surface in the dimensional space.
+scientific_discipline: Mathematics > Applied Mathematics
+sub_discipline: Applied Mathematics > Mathematical Physics

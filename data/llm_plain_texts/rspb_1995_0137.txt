@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0137'
+revised_title: 'Testing for Adaptive Changes in DNA Sequences Controlling Transcription'
+semantic_tags:
+  - Molecular Biology
+  - Evolutionary Biology
+  - Gene Expression
+  - DNA Sequences
+  - Transcription Factors
+tldr: The authors developed a statistical test to look for evidence of adaptive evolution in DNA sequences controlling gene expression. They applied the test to the 'zebra' element in the fushi tarazu gene of the Drosophila melanogaster species group and found significant evidence for adaptive substitutions. This test can be applied generally to investigate adaptive evolution in the control of gene expression.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

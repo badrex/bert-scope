@@ -1,0 +1,10 @@
+article_id: rspa_1971_0109
+revised_title: 'Long-range Interactions in Rare Earth Ions: A Study of Nd Interactions'
+semantic_tags:
+  - Rare Earth Ions
+  - Crystallography
+  - Magnetic Interactions
+  - EPR Spectroscopy
+  - Superexchange Interactions
+tldr: This article presents a study of long-range interactions between rare earth ions, specifically focusing on Nd ions in crystal structures. The authors measure these interactions using electron paramagnetic resonance (EPR) spectroscopy and discuss the role of superexchange interactions in the magnetic properties of these materials. The findings provide insights into the nature of long-range interactions and their impact on energy transfer, thermodynamic properties, and critical phenomena in rare earth ion systems.
+scientific_discipline: Physics > Condensed Matter Physics

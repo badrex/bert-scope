@@ -1,0 +1,10 @@
+article_id: '106245'
+revised_title: 'Electrical Experiments and Observations on Volta's Machine and Color Effects'
+semantic_tags:
+  - Electricity
+  - Electromagnetism
+  - Color Theory
+  - Electrostatics
+  - Voltaic Pile
+tldr: The author conducted various experiments with Volta's electrical machine and discovered how different materials and colors affect the flow of electricity. They found that certain colors, like vermillion and lampblack, were more affected by electric shocks than others. The author also discovered that materials like glass, cat fur, and new white flannel could be used to generate electricity, and that the strength of the electricity could be increased by using these materials in electrical machines.
+scientific_discipline: Physics > Electromagnetism

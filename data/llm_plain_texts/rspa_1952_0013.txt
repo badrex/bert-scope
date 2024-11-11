@@ -1,0 +1,10 @@
+article_id: rspa_1952_0013
+revised_title: The Photo-Degradation of Polymethylmethacrylate: Mechanism and Quantum Efficiency
+semantic_tags:
+  - Polymer degradation
+  - Photochemistry
+  - Polymethylmethacrylate
+  - Ultraviolet light
+  - Molecular weight
+tldr: This article investigates the photo-degradation of polymethylmethacrylate when exposed to ultraviolet light. The authors describe the mechanism of degradation, which involves a depolymerization process, and find that the overall quantum efficiency of the photo-degradation reaction is greater than 1. They also measure the number-average molecular weights of degraded samples, providing insights into the reaction kinetics and the effect of temperature on the degradation process.
+scientific_discipline: Chemistry > Polymer Science

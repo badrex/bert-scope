@@ -1,0 +1,10 @@
+article_id: 'rspa_1994_0015'
+revised_title: 'Comments on Udwadia and Kalaba's Paper on Constrained Mechanics'
+semantic_tags:
+  - Constrained Mechanics
+  - Lagrange Problem
+  - Calculus of Variations
+  - Mathematical Analysis
+  - Applied Mathematics
+tldr: The author critiques a recent paper by Udwadia and Kalaba on constrained mechanics, stating that it contains no new or important findings and is simply a rearrangement of known facts. The author also highlights some important mathematical questions ignored by the authors and discusses related research on the subject.
+scientific_discipline: Mathematics > Applied Mathematics

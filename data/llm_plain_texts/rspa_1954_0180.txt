@@ -1,0 +1,10 @@
+article_id: rspa_1954_0180
+revised_title: Numerical Solution of Integral Equations Using Approximate Product-Integration
+semantic_tags:
+  - Integral Equations
+  - Numerical Methods
+  - Approximate Product-Integration
+  - Fredholm Integral Equations
+  - Volterra Integral Equations
+tldr: The article presents numerical methods for solving integral equations using approximate product-integration. The technique derives integration formulae from kernel functions of the equations, making it applicable to singular and discontinuous kernels, as well as infinite ranges of integration. The method is demonstrated for Fredholm and Volterra integral equations, providing a formal solution and discussing its accuracy and applicability.
+scientific_discipline: Mathematics > Numerical Analysis

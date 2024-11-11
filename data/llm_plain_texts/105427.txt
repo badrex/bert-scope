@@ -1,0 +1,10 @@
+article_id: 105427
+revised_title: 'A New Method for Determining Latitude at Sea'
+semantic_tags:
+  - Navigation
+  - Astronomy
+  - Trigonometry
+  - Marine Science
+  - Latitude determination
+tldr: The author discusses a new method for determining a ship's latitude at sea using two observations of the sun and a more commodious method of computation. The method involves using logarithmic solar tables and considering the ship's dead reckoning to derive the ship's true latitude. The author also mentions an alternative method for determining latitude using an azimuth compass and discusses the limitations of the method.
+scientific_discipline: Environmental and Earth Sciences > Marine Science

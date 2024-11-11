@@ -1,0 +1,10 @@
+article_id: rspa_1958_0057
+revised_title: 'Resonance Model for Pion Production in Nucleon-Nucleon Collisions'
+semantic_tags:
+  - Nuclear Physics
+  - Particle Physics
+  - Resonance Theory
+  - Pion Production
+  - Nucleon-Nucleon Interactions
+tldr: The authors propose a resonance model for pion production in nucleon-nucleon collisions at low energies. They assume that the production occurs in a few angular momentum states and that the matrix element remains constant, except for factors due to final-state pion-nucleon and nucleon-nucleon interactions. The model successfully fits most of the experimental data on pion production, including total and differential cross-sections, up to 660 MeV.
+scientific_discipline: Physics > Nuclear and Particle Physics

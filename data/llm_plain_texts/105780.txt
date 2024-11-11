@@ -1,0 +1,10 @@
+article_id: 105780
+revised_title: 'Decimal Fractions and Circulating Numbers: A Theory and Compendium'
+semantic_tags:
+  - Arithmetic
+  - Decimal fractions
+  - Circulating numbers
+  - Mathematical operations
+  - Number theory
+tldr: The author presents a theory of decimal fractions and circulating numbers, explaining their properties and operations. They demonstrate how to work with these numbers using various mathematical techniques, and show how to convert finite decimal fractions into circulating numbers and vice versa. This paper offers a comprehensive understanding of decimal fractions and their applications in arithmetic and mathematics.
+scientific_discipline: Mathematics > Number Theory

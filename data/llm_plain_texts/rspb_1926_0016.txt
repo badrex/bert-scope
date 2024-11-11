@@ -1,0 +1,10 @@
+article_id: 'rspb_1926_0016'
+revised_title: 'Investigating the Heat Production of the Beating Heart'
+semantic_tags:
+  - Cardiology
+  - Thermodynamics
+  - Heat production
+  - Myothermic methods
+  - Heart physiology
+tldr: The author conducted experiments to measure the heat produced by the beating heart using various methods and thermopiles. They found that the warming of the heart during a single beat was not higher than 0.00012 degrees Celsius. The study aimed to improve understanding of the heart's heat production and its impact on heart physiology.
+scientific_discipline: Biology and Life Sciences > Physiology

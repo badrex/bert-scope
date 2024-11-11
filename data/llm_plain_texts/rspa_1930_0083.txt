@@ -1,0 +1,10 @@
+article_id: 'rspa_1930_0083'
+revised_title: 'Nuclear Magnetic Moments and Fast Electron Scattering'
+semantic_tags:
+  - Nuclear Physics
+  - Electron Scattering
+  - Magnetic Moments
+  - Dirac Equation
+  - Relativistic Physics
+tldr: 'The authors analyze the effect of nuclear magnetic moments on the scattering of fast electrons. They conclude that nuclear magnetic forces have a negligible effect on electron scattering, except in the case of scattering due to electrons themselves, which may be important in the scattering of fast particles by matter.'
+scientific_discipline: Physics > Nuclear Physics

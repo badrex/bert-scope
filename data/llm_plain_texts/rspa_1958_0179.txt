@@ -1,0 +1,10 @@
+article_id: rspa_1958_0179
+revised_title: 'Advancements in Achieving High Accuracy in Measuring Freezing Points of Zinc and Sulphur'
+semantic_tags:
+  - Thermometry
+  - Temperature Scale
+  - Zinc freezing point
+  - Sulphur boiling point
+  - Platinum-resistance thermometers
+tldr: The authors describe a technique to achieve high accuracy in measuring the freezing point of zinc and the boiling point of sulphur using platinum-resistance thermometers. They found that the zinc point is more reproducible than the sulphur point, suggesting that the zinc point could be a better primary fixed point for the International Temperature Scale. The freezing point of zinc was determined to be 419.5055 ± 0.0002 °C.
+scientific_discipline: Physics > Thermodynamics

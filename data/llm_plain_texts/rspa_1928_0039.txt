@@ -1,0 +1,10 @@
+article_id: 'rspa_1928_0039'
+revised_title: 'The Impact of Compressibility on Aerofoil Lift'
+semantic_tags:
+  - Fluid Dynamics
+  - Aerodynamics
+  - Compressibility
+  - Aerofoil Design
+  - High-Speed Flight
+tldr: This article investigates the effect of air compressibility on the lift of an aerofoil. It shows that at high speeds, the lift coefficient increases due to the compressibility of air. The study also predicts that the lift will decrease rapidly when the speed exceeds the speed of sound. The theoretical findings are supported by experimental tests of high-speed airscrews.
+scientific_discipline: Physics > Fluid Dynamics

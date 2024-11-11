@@ -1,0 +1,10 @@
+article_id: rspa_1949_0003
+revised_title: 'Collective Electron Ferromagnetism in Nickel and Nickel-Copper Alloys'
+semantic_tags:
+  - Ferromagnetism
+  - Collective electron theory
+  - Nickel alloys
+  - Copper alloys
+  - Band theory of metals
+tldr: The authors apply Stoner's collective electron theory of ferromagnetism to study the magnetic and thermal properties of nickel and nickel-copper alloys. They estimate the specifying parameters, band width, and interchange interaction, for these alloys and discuss the effects of alloying on the electron distribution. The treatment is applied to the temperature variation of susceptibility above the Curie point, and the results are compared with experimental data.
+scientific_discipline: Physics > Materials Science

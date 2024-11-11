@@ -1,0 +1,10 @@
+article_id: rsta_1928_0004
+revised_title: On the Second Approximation to the Oseen Solution in Fluid Dynamics
+semantic_tags:
+  - Fluid Dynamics
+  - Viscous Fluids
+  - Oseen Approximation
+  - Boundary Layer Theory
+  - Hydrodynamics
+tldr: The author investigates the second approximation to the Oseen solution in fluid dynamics, focusing on the forces and torque on a stationary cylinder in a steady stream of viscous fluid. They find that the expressions for forces remain the same, but a remarkable result emerges for the torque, which becomes large and physically impossible. The author suggests that a different type of equation may be needed for further developments in this field.
+scientific_discipline: Physics > Fluid Dynamics

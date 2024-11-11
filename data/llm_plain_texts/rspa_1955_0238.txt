@@ -1,0 +1,10 @@
+article_id: rspa_1955_0238
+revised_title: The Formation of Cracks in Plastic Flow: A Detailed Mechanism
+semantic_tags:
+  - Plasticity
+  - Dislocations
+  - Fracture Mechanics
+  - Material Science
+  - Stress Concentration
+tldr: The authors explore the detailed mechanism of how a group of dislocations generates a crack in plastic flow. They suggest that a crack arises from short-range non-Hookean actions of the dislocations at the head of the pile-up and develop a model that takes some account of this. The possibility of relieving the stresses around the pile-up by slip in the perfect lattice instead of fracture is considered, and it is shown that a crack can be initiated by a smaller number of dislocations in each of several slip planes, which may be important in ductile materials.
+scientific_discipline: Materials Science > Fracture Mechanics

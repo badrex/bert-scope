@@ -1,0 +1,10 @@
+article_id: rspa_1931_0026
+revised_title: 'Elastic Scattering of Slow Electrons in Argon: Experimental Investigation and Analysis'
+semantic_tags:
+  - Electron scattering
+  - Argon gas
+  - Ramsauer effect
+  - Electron diffraction
+  - Atomic physics
+tldr: The authors conducted experiments to study the elastic scattering of slow electrons in argon gas. They measured the angular distribution of electrons scattered over a wide range and observed pronounced maxima and minima in the scattering curves, which are similar to those representing the scattering of light by small spheres. This research provides further insight into the Ramsauer effect and the behavior of electrons in atomic fields.
+scientific_discipline: Physics > Atomic and Molecular Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1993_0133
+revised_title: 'Nonlinear Interactions in Three-Dimensional Boundary-Layer Transition'
+semantic_tags:
+  - Boundary Layer Transition
+  - Fluid Dynamics
+  - Nonlinear Instability
+  - Resonant Triad
+  - Oblique Modes
+tldr: This article investigates the nonlinear interactions in the three-dimensional stage of boundary-layer transition, focusing on the upper-branch scaling regime. The author shows that the nonlinear instability of the flow is described by a seven-zoned structure, with dominant nonlinear interactions taking place in both the critical layer and the diffusion layers. The study provides insights into the evolution of oblique modes and their interactions with the mean flow, which can be relevant to understanding the development of turbulent flow in boundary layers.
+scientific_discipline: Physics > Fluid Dynamics

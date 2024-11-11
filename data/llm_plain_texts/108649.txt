@@ -1,0 +1,10 @@
+article_id: 108649
+revised_title: 'A Modern Approach to Matrices in Linear Algebra'
+semantic_tags:
+  - Linear Algebra
+  - Matrices
+  - Matrix Operations
+  - Determinants
+  - Inverse Matrices
+tldr: The author introduces the concept of matrices and their operations, including addition, subtraction, multiplication, and the use of determinants to find inverses. The text explores the properties of matrices and their applications in linear algebra, demonstrating how matrices can be used to represent and solve systems of linear equations.
+scientific_discipline: Mathematics > Linear Algebra

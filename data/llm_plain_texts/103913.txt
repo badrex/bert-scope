@@ -1,0 +1,10 @@
+article_id: 103913
+revised_title: 'Improving Kepler's Method for Solving Elliptic Orbits'
+semantic_tags:
+  - Celestial mechanics
+  - Elliptical orbits
+  - Mathematical astronomy
+  - Kepler's laws of planetary motion
+  - Tangents and arcs
+tldr: The author presents a new method for solving the Kepler problem, which involves finding the tangent of an arch and its multiple. This method improves upon previous methods and contributes to a better understanding of elliptical orbits in celestial mechanics.
+scientific_discipline: Mathematics > Applied Mathematics

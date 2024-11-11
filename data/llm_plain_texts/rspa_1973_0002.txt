@@ -1,0 +1,10 @@
+article_id: rspa_1973_0002
+revised_title: Proton Magnetic Relaxation of Water Sorbed by Methaemoglobin Crystals: A Study of Hydration and Temperature Effects
+semantic_tags:
+  - Magnetic relaxation
+  - Water sorption
+  - Methaemoglobin
+  - Hydration
+  - Protein structure
+tldr: This study investigates the proton magnetic relaxation of water molecules bound to methaemoglobin crystals. The research explores the effects of hydration and temperature on the relaxation rates, providing insights into the nature and extent of water binding to protein molecules. The findings reveal that at high temperatures, the relaxation rate reaches a limiting value, allowing the calculation of the fraction of hydrated ferric ions. The results are consistent with a model in which tightly bound water contributes significantly to the transverse relaxation rate.
+scientific_discipline: Chemistry > Biochemistry

@@ -1,0 +1,10 @@
+article_id: rsta_1908_0025
+revised_title: The Effect of Temperature and Pressure on the Thermal Conductivities of Solids - Part II
+semantic_tags:
+  - Thermal Conductivity
+  - Temperature Effects
+  - Metals and Alloys
+  - Electrical Conductivity
+  - Low Temperatures
+tldr: This article presents an investigation into the effects of temperature and pressure on the thermal conductivities of solids, specifically focusing on the effects of low temperatures on the thermal and electrical conductivities of certain metals and alloys. The author discusses the experimental setup and methodology, as well as the results and their implications for electronic theories of conduction in metals.
+scientific_discipline: Physics > Thermodynamics

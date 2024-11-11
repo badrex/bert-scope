@@ -1,0 +1,10 @@
+article_id: rsta_1980_0044
+revised_title: Doppler Satellite Positioning and Statistical Techniques for Geodetic Applications
+semantic_tags:
+  - Satellite Positioning
+  - Geodesy
+  - Statistical Techniques
+  - Doppler Satellite Tracking
+  - Outlier Detection
+tldr: This article discusses the application of statistical techniques in Doppler satellite positioning for geodetic purposes. It addresses two main problems: detecting outliers in observations and testing coordinates in satellite networks. The authors develop confidence regions for both "out of context" and "within context" varieties and demonstrate that the latter confidence regions are generally larger than the former. They also explore the implications of these developments for Doppler satellite positioning.
+scientific_discipline: Environmental and Earth Sciences > Geodesy

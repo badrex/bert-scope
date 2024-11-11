@@ -1,0 +1,10 @@
+article_id: 'rstb_1985_0099'
+revised_title: 'Explaining Weight Differentiation and Skewness in Populations through Intraspecific Competition'
+semantic_tags:
+  - Population Ecology
+  - Intraspecific Competition
+  - Resource Partitioning
+  - Weight Differentiation
+  - Skewness in Distributions
+tldr: This article explores the role of intraspecific competition in causing weight differentiation and skewness in distributions of body weights in plants and animals. The authors develop a model that includes competitive interactions among members of even-aged populations to explain observed properties of weight distributions. They analyze the dependence of resource intake on the amount of available resource and show that the model can describe various situations, such as constant and variable food conditions.
+scientific_discipline: Biology and Life Sciences > Population Ecology

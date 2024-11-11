@@ -1,0 +1,11 @@
+article_id: rspl_1883_0154
+revised_title: Investigating the Vapour-Pressures of Solids and Liquids
+semantic_tags:
+  - Thermodynamics
+  - Vapour-Pressure
+  - Phase-Transitions
+  - Chemical-Types
+  - Experimental-Research
+tldr: The author conducted experiments to study the vapour-pressures of solids and liquids, focusing on ice, steam, camphor, benzene, acetic acid, and water. They discovered that the vapour-pressure of a solid is less than that of a liquid at the same temperature, and this difference can be calculated from thermic data. The new method of determining vapour-pressures of solids and liquids offers significant advantages and is applicable to various chemical types.
+scientific_discipline: Chemistry > Thermodynamics
+```

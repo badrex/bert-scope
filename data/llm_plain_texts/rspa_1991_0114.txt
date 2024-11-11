@@ -1,0 +1,10 @@
+article_id: rspa_1991_0114
+revised_title: 'Elastodynamic Analysis of Translated Rigid Ellipsoidal Inclusions in Elastic Media'
+semantic_tags:
+  - Elasticity Theory
+  - Ellipsoidal Inclusions
+  - Anisotropic Materials
+  - Stress Analysis
+  - Translation Forces
+tldr: The author presents a method to analyze the elastodynamic behavior of a rigid ellipsoidal inclusion in a homogeneous, anisotropic elastic matrix when subjected to an externally imposed force. The study focuses on the relation between the force and translation vectors, as well as the stress, strain, and rotation concentrations on the ellipsoidal surface. The analysis is extended to an incompressible matrix, which is analogous to an incompressible viscous fluid, and considers the translation of the ellipsoid under steady force.
+scientific_discipline: Engineering and Technology > Mechanics of Materials

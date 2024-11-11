@@ -1,0 +1,10 @@
+article_id: rsta_1972_0013
+revised_title: Theoretical Solutions for Swirling Vortex Flows in Fluids
+semantic_tags:
+  - Fluid Dynamics
+  - Vortex Flows
+  - Navier-Stokes Equations
+  - Meteorology
+  - Tornadoes
+tldr: The article presents a family of exact solutions to the Navier-Stokes equations for an infinite vortex line in a viscous fluid interacting with a plane boundary. It describes three types of swirling vortex motions and discusses their implications for dynamic meteorology, particularly in explaining phenomena like tornadoes and water-spouts.
+scientific_discipline: Physics > Fluid Dynamics

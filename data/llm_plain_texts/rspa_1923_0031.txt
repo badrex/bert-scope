@@ -1,0 +1,10 @@
+article_id: rspa_1923_0031
+revised_title: 'Investigation of the Kinetic Energy of Electrons Emitted from a Hot Tungsten Filament'
+semantic_tags:
+  - Electron emission
+  - Thermionic emission
+  - Tungsten filament
+  - Maxwell-Boltzmann distribution
+  - Vacuum physics
+tldr: The authors conducted experiments to measure the kinetic energy of electrons emitted from a hot tungsten filament. They found that the energy distribution of the emitted electrons followed Maxwell's law of distribution, and the average energy of the electrons was higher than expected based on the temperature of the source. The study helped to improve understanding of electron emission and thermionic effects in vacuum physics.
+scientific_discipline: Physics > Electricity and Magnetism

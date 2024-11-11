@@ -1,0 +1,11 @@
+article_id: rstb_1992_0108
+revised_title: 'Recovering Heading for Visually Guided Navigation in the Presence of Self-Moving Objects'
+semantic_tags:
+  - Visual navigation
+  - Motion perception
+  - Observer motion recovery
+  - Self-moving objects
+  - Computational models
+tldr: The article presents a model for recovering the observer's heading direction in the presence of self-moving objects. Building upon previous work by Longuet-Higgins and Prazdny, the model uses velocity differences computed in regions of high depth variation to locate the focus of expansion, which indicates the observer's heading direction. The model is tested with natural and artificial images and its performance is related to human heading judgments.
+scientific_discipline: Environmental and Earth Sciences > Geophysics
+sub_discipline: 'Geophysics > Geophysical Fluid Dynamics'

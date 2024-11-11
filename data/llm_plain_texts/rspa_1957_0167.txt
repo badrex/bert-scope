@@ -1,0 +1,10 @@
+article_id: rspa_1957_0167
+revised_title: 'A Study on the Formation and Development of Fatigue Cracks in Metals'
+semantic_tags:
+  - Fatigue
+  - Metals
+  - Slip Bands
+  - Metallography
+  - Crack Formation
+tldr: This article discusses the formation of persistent slip bands during cyclic stressing and their development into fatigue cracks in metals. The authors examine the metallographic features of fatigue and suggest that early fatigue damage may be due to fine cracks in slip bands. They also explore the effects of annealing treatments and the role of grain boundaries in crack formation.
+scientific_discipline: Materials Science > Fatigue and Fracture

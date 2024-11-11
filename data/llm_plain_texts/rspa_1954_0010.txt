@@ -1,0 +1,10 @@
+article_id: rspa_1954_0010
+revised_title: Covariant Fock Equations and Feynman Amplitudes
+semantic_tags:
+  - Quantum Field Theory
+  - Particle Physics
+  - Renormalization
+  - Feynman Diagrams
+  - Fock Equations
+tldr: The authors introduce a new type of amplitude called the Feynman amplitude and present an infinite set of coupled integral equations, which are a covariant analogue to the Fock equations. These equations show that Feynman amplitudes propagate in the Feynman manner and can be used to describe the interaction of pseudo-scalar mesons with nucleons. The equations also have implications for the renormalization of the theory and the interpretation of infinities in the kernels of the equations.
+scientific_discipline: Physics > Particle Physics

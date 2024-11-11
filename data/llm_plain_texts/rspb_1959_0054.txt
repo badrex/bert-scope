@@ -1,0 +1,10 @@
+article_id: rspb_1959_0054
+revised_title: Estimating Nuclei Density in Rabbit Incisor Pulp
+semantic_tags:
+  - Cell biology
+  - Dental anatomy
+  - Statistics
+  - Poisson distribution
+  - Tissue growth
+tldr: The author presents a statistical method for estimating the density of nuclei in the intermediate layer of the periodontal tissues of rabbit incisors. The method uses line transects and the Poisson distribution to calculate the mean number of nuclei per section. This research helps to understand the growth and development of teeth.
+scientific_discipline: Biology and Life Sciences > Cell biology and Developmental Biology

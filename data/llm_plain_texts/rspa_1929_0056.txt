@@ -1,0 +1,10 @@
+article_id: rspa_1929_0056
+revised_title: 'Stark Effect Patterns and Paschen-Back Analogue in Neon'
+semantic_tags:
+  - Stark Effect
+  - Neon Spectra
+  - Electric Fields
+  - Quantum Mechanics
+  - Paschen-Back Effect
+tldr: The authors studied the Stark effect patterns in neon gas under electric fields and observed that the patterns for individual arc lines were similar to those in parhelium. They also discovered a partial Paschen-Back effect analogue, where the initial terms of complex fine structures tend to fuse and form the normal Stark effect characteristic. This phenomenon is similar to the appearance of the Paschen-Back effect in high magnetic fields.
+scientific_discipline: Physics > Electromagnetism

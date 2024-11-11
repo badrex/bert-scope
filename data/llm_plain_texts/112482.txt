@@ -1,0 +1,10 @@
+article_id: 112482
+revised_title: Improved Calculation of Euler's Number
+semantic_tags:
+  - Mathematics
+  - Number Theory
+  - Approximation Algorithms
+  - Decimal Precision
+  - Euler's Number
+tldr: The author, William Shanks, presents a new method for calculating Euler's number with increased decimal precision. He demonstrates the accuracy of his method by comparing the 60th decimal place in the value of E for different values of n. This improvement in calculation is significant for various mathematical applications.
+scientific_discipline: Mathematics > Number Theory

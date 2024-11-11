@@ -1,0 +1,10 @@
+article_id: rspa_1970_0043
+revised_title: Thermoluminescence Properties of Squalane
+semantic_tags:
+  - Thermoluminescence
+  - Squalane
+  - Phosphorescence
+  - Glow curves
+  - Molecular oxygen
+tldr: This study investigates the thermoluminescence properties of squalane, a branched alkane that freezes to form a rigid glass. The authors discovered four distinct peaks in the glow curve, with one peak associated with the presence of molecular oxygen. They also found that the thermoluminescence mechanism involves two types of traps and proposed a simple model for the process. The findings provide insights into the behavior of saturated hydrocarbons and their potential applications in thermoluminescent materials.
+scientific_discipline: Chemistry > Organic Chemistry

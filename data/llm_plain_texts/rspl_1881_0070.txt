@@ -1,0 +1,10 @@
+article_id: rspl_1881_0070
+revised_title: 'Polarized Light Refraction in Uniaxal Crystals: Experimental Investigation'
+semantic_tags:
+  - Crystal Optics
+  - Polarized Light
+  - Refraction
+  - Uniaxal Crystals
+  - Iceland Spar
+tldr: This article presents an experimental investigation of the refraction of plane-polarized light at the surface of a uniaxal crystal, specifically Iceland spar. The authors measure the angles of incidence and refraction, and compare the theoretical values with experimental results. The study provides insights into the behavior of light in crystals and contributes to the understanding of crystal optics.
+scientific_discipline: Physics > Optics

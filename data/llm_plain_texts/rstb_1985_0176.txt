@@ -1,0 +1,10 @@
+article_id: 'rstb_1985_0176'
+revised_title: 'Cell Lineage and Segmentation in the Leech: A Study of Development'
+semantic_tags:
+  - Cell Lineage
+  - Segmentation
+  - Leech Development
+  - Embryogenesis
+  - Annelid Biology
+tldr: 'The study investigates cell lineage and segmentation in the leech Helobdella triserialis. It examines how segments arise from the egg during embryogenesis and how segmentation in annelids evolved from simpler forms. The research uses microinjected cell lineage tracers to mark the progeny of selected teloblasts and observe the boundaries between labeled and unlabeled segments. The findings reveal that each segment in the leech is a polyclone, comprising the progeny of one or more blast cells from each bandlet, challenging the idea that individual m blast cells found hemilateral segmental complements of mesodermal tissue.'
+scientific_discipline: Biology and Life Sciences > Developmental Biology

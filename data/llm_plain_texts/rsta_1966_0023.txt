@@ -1,0 +1,10 @@
+article_id: rsta_1966_0023
+revised_title: 'Rotational Analysis and Vibrational Assignments of the 2600A Absorption System of Benzene'
+semantic_tags:
+  - Spectroscopy
+  - Molecular geometry
+  - Benzene
+  - Vibrational analysis
+  - Rotational analysis
+tldr: The authors conducted a rotational and vibrational analysis of the 2600A absorption system of benzene using high-resolution spectroscopy. They confirmed that the equilibrium configuration of the carbon skeleton in benzene is exactly planar and hexagonal in both the ground and excited states. The study provided improved values for several fundamental frequencies and important anharmonic constants, and it supported the idea that benzene has a D6h symmetry in both the ground and excited states of the system.
+scientific_discipline: Chemistry > Spectroscopy

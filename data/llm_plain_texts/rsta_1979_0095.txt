@@ -1,0 +1,10 @@
+article_id: rsta_1979_0095
+revised_title: Tunable Spin Flip Raman Lasers and Their Applications in High-Resolution Spectroscopy
+semantic_tags:
+  - Laser Physics
+  - Spectroscopy
+  - Opto-acoustic spectroscopy
+  - Atmospheric detection
+  - Stratospheric detection
+tldr: This article discusses the development and applications of tunable spin flip Raman lasers in high-resolution spectroscopy. The spin flip Raman laser offers high continuous wave and pulsed output powers, making it a valuable tool for various spectroscopic techniques, including saturation spectroscopy, two-photon Doppler-free spectroscopy, and opto-acoustic spectroscopy. The article also highlights the use of these lasers in detecting minor constituents in the atmosphere and stratosphere.
+scientific_discipline: Physics > Laser Physics

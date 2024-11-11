@@ -1,0 +1,10 @@
+article_id: 108623
+revised_title: 'Development of a Method for Measuring the Chemical Action of Light'
+semantic_tags:
+  - Photochemistry
+  - Chemical reactions
+  - Light
+  - Gas analysis
+  - Electrolysis
+tldr: 'The authors, Robert Bunsen and Henry Enfield Roscoe, developed a new method for measuring the chemical action of light. They created a mixture of equal volumes of chemically pure chlorine and hydrogen gases using electrolysis of aqueous hydrochloric acid. This method allowed them to study the chemical reactions caused by light without the errors of previous methods. Their research laid the foundation for further advancements in photochemistry.'
+scientific_discipline: Chemistry > Photochemistry

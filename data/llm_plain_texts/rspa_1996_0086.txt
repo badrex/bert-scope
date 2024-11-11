@@ -1,0 +1,10 @@
+article_id: rspa_1996_0086
+revised_title: 'Advanced Absorbing Boundary Conditions for Elastic Media'
+semantic_tags:
+  - Elastic Waves
+  - Numerical Modelling
+  - Absorbing Boundary Conditions
+  - Finite-Difference Modelling
+  - Wave Propagation
+tldr: The authors introduce a new class of absorbing boundary conditions for numerical modeling of two-dimensional linear time-dependent elasticity. These conditions enable more accurate simulations of wave propagation and reduce the computational cost by allowing the use of limited resources. The new conditions are based on complete absorption at a certain number of prescribed incidence angles and can be applied to finite-difference models of elastic wave scattering from defect-like features in solids.
+scientific_discipline: Engineering and Technology > Numerical Modelling and Simulation

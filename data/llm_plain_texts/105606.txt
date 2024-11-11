@@ -1,0 +1,10 @@
+article_id: 105606
+revised_title: 'Invention of a New Thermometer and Barometer'
+semantic_tags:
+  - Thermometer
+  - Barometer
+  - Temperature measurement
+  - Atmospheric pressure
+  - Weather instruments
+tldr: The author, Keane Fitzgerald, describes the creation of a new thermometer and barometer that can accurately measure temperature and atmospheric pressure. The thermometer has registers that mark the least variation during the absence of an observer, and the barometer features a counterbalanced mechanism for precise readings. This instrument can be used to monitor the common degrees of heat and cold in various climates.
+scientific_discipline: Physics > Thermodynamics

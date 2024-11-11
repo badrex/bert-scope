@@ -1,0 +1,10 @@
+article_id: rspa_1970_0156
+revised_title: 'Investigation of Excitation of Hydrogen by Electron Impact'
+semantic_tags:
+  - Atomic Physics
+  - Electron Scattering
+  - Quantum Mechanics
+  - Hydrogen Atom
+  - Exchange Scattering
+tldr: The authors present a new approach to calculate excitation cross-sections in electron-hydrogen atom scattering, which simplifies the set of coupled integro-differential equations and provides a more efficient method for evaluating exchange effects. The new approach is based on an alternative expansion of the total wavefunction and leads to a set of coupled differential equations for the scattering functions. The authors also discuss the single-channel elastic scattering and a perturbed state method for dealing with elastic scattering, which results in local potentials.
+scientific_discipline: Physics > Atomic Physics

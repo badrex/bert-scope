@@ -1,0 +1,10 @@
+article_id: rspa_1987_0034
+revised_title: Gravitational Radiation Near Spatial and Null Infinity: Analyzing the Effects of Mass
+semantic_tags:
+  - Gravitational waves
+  - Asymptotic region
+  - Conformal boundary
+  - Schwarzschild metric
+  - Bondi mass
+tldr: This article explores the effects of mass on gravitational radiation near spatial and null infinity. The author presents a new approach to constructing solutions near spatial infinity, including information about the properties of the gravitational field as it approaches along space-like directions or along null directions. The study focuses on the relationship between the Bondi mass and the ADM-mass, as well as the correlations between the expansion coefficients on space-like hypersurfaces and the radiation field on null infinity.
+scientific_discipline: Physics > Gravitational Waves

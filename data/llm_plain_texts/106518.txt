@@ -1,0 +1,10 @@
+article_id: '106518'
+revised_title: 'Astronomical Observations on the Rotation of Planets'
+semantic_tags:
+  - Planetary rotation
+  - Astronomy
+  - Time-keeping
+  - Equability of motion
+  - Observational astronomy
+tldr: 'The author, William Herschel, conducted astronomical observations to determine the equability of the diurnal motion of planets, specifically focusing on Mars. He proposed a method to measure the rotation of planets using observations of their spots and comparing them to the Earth's rotation. This method could potentially reveal minute changes in the solar system that have gone unnoticed.'
+scientific_discipline: Astronomy > Planetary Science

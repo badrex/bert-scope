@@ -1,0 +1,10 @@
+article_id: 'rstb_1984_0110'
+revised_title: 'Immunological Control of Entamoeba Histolytica: Amoebapore and Surface Lipids'
+semantic_tags:
+  - Parasitology
+  - Amoebiasis
+  - Amoebapore
+  - Surface Lipids
+  - Immune Response
+tldr: The authors studied the cytopathogenicity of Entamoeba histolytica, a parasite causing massive tissue damage in humans. They discovered a protein called amoebapore that can incorporate into host cell membranes and induce ion channels, leading to cellular damage. Additionally, they found a highly immunogenic surface lipid involved in immune complex redistribution and shedding. These findings may contribute to the development of immunoprophylaxis for amoebiasis.
+scientific_discipline: Biology and Life Sciences > Parasitology

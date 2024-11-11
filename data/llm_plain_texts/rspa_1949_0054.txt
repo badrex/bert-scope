@@ -1,0 +1,10 @@
+article_id: rspa_1949_0054
+revised_title: 'Turbulence Structure and Energy Transfer in the Wake of a Cylinder'
+semantic_tags:
+  - Fluid Dynamics
+  - Turbulence
+  - Wake Flow
+  - Momentum Diffusion
+  - Energy Diffusion
+tldr: The authors conducted experiments on the turbulent wake of a cylinder to study the turbulent transfer of energy and momentum. They discovered that the turbulent motion within the jets is solely responsible for the turbulent transfer of momentum, while diffusion of turbulent energy and heat is carried out by the bulk movement of the jets. The study provides a self-consistent description of the wake, which represents the main features of wake motion.
+scientific_discipline: Physics > Fluid Dynamics

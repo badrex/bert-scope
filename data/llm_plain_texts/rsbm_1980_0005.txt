@@ -1,0 +1,10 @@
+article_id: 'rsbm_1980_0005'
+revised_title: 'Kurt Godel's Contributions to Mathematical Logic and Foundations of Mathematics'
+semantic_tags:
+  - Mathematical Logic
+  - Foundations of Mathematics
+  - Kurt Godel
+  - Incompleteness Theorem
+  - Formalism in Mathematics
+tldr: This biographical memoir discusses Kurt Godel's life and his significant contributions to mathematical logic and the foundations of mathematics. Godel's most famous work, the Incompleteness Theorem, refuted prevailing foundational theories of the time and established the potentialities of different axiomatic definitions in mathematics. His work has had a lasting impact on the field, influencing model theory, recursion theory, and set theory.
+scientific_discipline: Mathematics > Mathematical Logic

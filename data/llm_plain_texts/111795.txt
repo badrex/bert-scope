@@ -1,0 +1,10 @@
+article_id: '111795'
+revised_title: 'The Influence of Altitude on the Burning of Fuse Compositions'
+semantic_tags:
+  - Atmospheric Science
+  - Military Engineering
+  - Combustion
+  - Altitude
+  - Barometry
+tldr: 'The author, J. Mitchell, observed that the fuses of shells burned too long at Bangalore, a location with a higher altitude compared to St. Thomas's Mount. To test his theory, he conducted an experiment with fuses at different altitudes. The results showed that combustion was indeed retarded at higher elevations, leading Mitchell to conclude that the rarity of atmospheric air and its oxygen at higher altitudes was the cause. This discovery was important for military engineering and the accurate timing of shell fuses.'
+scientific_discipline: 'Environmental and Earth Sciences > Atmospheric Science'

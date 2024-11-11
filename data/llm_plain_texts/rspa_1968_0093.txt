@@ -1,0 +1,10 @@
+article_id: rspa_1968_0093
+revised_title: 'Swirling Water Flow Dynamics in Vertical and Inclined Tubes'
+semantic_tags:
+  - Fluid Dynamics
+  - Vortex Flow
+  - Hydraulic Jumps
+  - Turbulence
+  - Pipe Flow
+tldr: The authors conducted experiments on the flow of swirling water down a vertical and inclined tube, measuring wall pressure, air core diameter, and total-head traverses. They analyzed the distribution of axial and tangential components of velocity and compared their findings with theoretical analysis. The study provides insights into the behavior of swirling flow in tubes and its applications in civil engineering.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

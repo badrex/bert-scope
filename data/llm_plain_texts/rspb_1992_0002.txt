@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0002'
+revised_title: 'Synergistic Effects of Adh Alleles on Enzyme Quantities in Drosophila Melanogaster'
+semantic_tags:
+  - Genetics
+  - Drosophila melanogaster
+  - Enzyme regulation
+  - Gene interaction
+  - Pleiotropy
+tldr: The author discovered that the Adh locus in Drosophila melanogaster has synergistic effects on the quantities of several other enzymes. This study found that the Adh-Fast (F) and Adh-Slow (S) alleles affect the levels of six out of seven enzymes in the fruit fly, suggesting a complex interaction between genes and their multiple phenotypic consequences.
+scientific_discipline: Biology and Life Sciences > Genetics

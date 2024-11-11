@@ -1,0 +1,10 @@
+article_id: 'rspb_1978_0089'
+revised_title: 'Electrical Coupling in Neurons of Primate Sensori-Motor Cortex'
+semantic_tags:
+  - Neuroscience
+  - Neuronal communication
+  - Gap junctions
+  - Dendrites
+  - Neuronal connectivity
+tldr: The study investigates gap junctions between dendrites and somata of neurons in the primate sensori-motor cortex. These junctions, which allow direct electrical transmission of activity, were found infrequently between dendrites or a dendrite and a cell soma. The findings suggest that some neurons in the sensori-motor cortex are electrotonically coupled, providing insight into the communication and connectivity of neurons in the brain.
+scientific_discipline: Neuroscience > Neuronal communication

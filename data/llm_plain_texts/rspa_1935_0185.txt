@@ -1,0 +1,10 @@
+article_id: rspa_1935_0185
+revised_title: 'Dipole Induction and Solvent Effects in Dipole Moment Measurements: A Reassessment'
+semantic_tags:
+  - Dielectric constants
+  - Solvent effects
+  - Dipole moment
+  - Molecular polarization
+  - Chemical bonding
+tldr: The authors investigate the solvent effect on the measured value of the dipole moment of a solute and propose a physical model to explain the phenomenon. They demonstrate that the induced moment in a solvent molecule near a dipole molecule is influenced by the dielectric constant of the medium and the distance between the molecules. This study helps to understand the behavior of polar molecules in different solvents and the impact of solvent effects on their properties.
+scientific_discipline: Chemistry > Molecular Chemistry

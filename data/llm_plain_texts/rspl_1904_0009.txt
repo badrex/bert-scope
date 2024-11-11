@@ -1,0 +1,10 @@
+article_id: 'rspl_1904_0009'
+revised_title: 'Acoustic Shadow of a Sphere and Legendre's Functions'
+semantic_tags:
+  - Acoustics
+  - Sound waves
+  - Legendre polynomials
+  - Wave theory
+  - Optics
+tldr: 'The article discusses the problem of sound intensity at various points on a rigid, fixed sphere when plane waves impinge upon it. Lord Rayleigh provides an analytical solution and explores the effects of the ratio of the wave-length to the circumference. The acoustic shadow of the sphere is examined, and the existence of a fairly good shadow between 135 and 170 degrees is noted. The author also mentions the problem of a source and point of observation both situated on the sphere. An appendix by Professor A. Lodge contains tables of Legendre's Functions up to P20 for angles ranging at intervals of 5 degrees, which may be useful in other physical investigations.'
+scientific_discipline: Physics > Acoustics

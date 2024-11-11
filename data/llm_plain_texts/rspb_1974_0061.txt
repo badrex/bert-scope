@@ -1,0 +1,10 @@
+article_id: 'rspb_1974_0061'
+revised_title: 'Separation and Analysis of Lymphocyte Subpopulations'
+semantic_tags:
+  - Immunology
+  - Lymphocyte surface markers
+  - Lymphocyte subpopulations
+  - Cell separation techniques
+  - Complement receptors
+tldr: The authors developed a technique to separate lymphocyte subpopulations based on their surface markers, such as Fc receptors, C3 receptors, and surface immunoglobulin. They found that almost all complement receptor lymphocytes carry surface immunoglobulin, while a substantial proportion of immunoglobulin-bearing lymphocytes lack C3 receptors. The technique allowed them to study the distribution of these subpopulations in different lymphoid tissues and provided insights into the cellular distribution of immune responses.
+scientific_discipline: Immunology > Lymphocyte Subpopulations

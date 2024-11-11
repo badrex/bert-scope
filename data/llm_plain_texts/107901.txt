@@ -1,0 +1,10 @@
+article_id: 107901
+revised_title: 'Investigation of Errors in Captain Kater's Pendulum Measurements'
+semantic_tags:
+  - Pendulum
+  - Gravity
+  - Mechanics
+  - Experimental Physics
+  - Error Analysis
+tldr: The author investigates the errors that may affect the accuracy of Captain Kater's pendulum measurements, considering various factors such as deviations in the knife edges and the orientation of the pendulum. They provide a detailed analysis of the effects of these factors on the length of the simple pendulum and the number of vibrations in a day, ultimately aiming to improve the theory and method of observation for pendulum experiments.
+scientific_discipline: Physics > Mechanics

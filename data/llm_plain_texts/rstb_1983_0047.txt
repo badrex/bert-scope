@@ -1,0 +1,10 @@
+article_id: 'rstb_1983_0047'
+revised_title: 'Phosphorylation of Nuclear Proteins and its Role in the Cell Cycle'
+semantic_tags:
+  - Protein phosphorylation
+  - Cell cycle
+  - Nuclear proteins
+  - Histones
+  - Nuclear kinases
+tldr: 'The article discusses the phosphorylation of nuclear proteins, focusing on the structural proteins of the nucleus and their changes during the cell division cycle. It highlights the role of protein phosphorylation in modulating chromatin folding and the involvement of nuclear kinases in regulating various nuclear activities. The study also explores the possibility of autocatalytic protein kinases in inducing nuclear breakdown and chromosome condensation during mitosis and meiosis.'
+scientific_discipline: Biology and Life Sciences > Cell Biology

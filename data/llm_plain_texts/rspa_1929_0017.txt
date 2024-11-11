@@ -1,0 +1,10 @@
+article_id: rspa_1929_0017
+revised_title: 'Optical Rotatory Dispersion Formula for Quartz'
+semantic_tags:
+  - Optical Rotatory Dispersion
+  - Quartz
+  - Crystallography
+  - Refractive Index
+  - Wave-lengths
+tldr: The authors present a new formula for the optical rotatory dispersion of quartz, which takes into account the wave-lengths of the Lowry rotatory dispersion. The formula provides a more accurate representation of the observed and calculated values of optical rotation, and it offers a better theoretical basis compared to previous formulas. The formula also explains the constant effect of the infra-red band and retains its influence in the new formula.
+scientific_discipline: Physics > Optics

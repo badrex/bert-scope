@@ -1,0 +1,10 @@
+article_id: 'rsta_1897_0018'
+revised_title: 'Sensitiveness of the Retina to Light and Colour: A New Method for Measuring Light Intensity'
+semantic_tags:
+  - Visual perception
+  - Light sensitivity
+  - Color vision
+  - Photometry
+  - Optics
+tldr: The author developed a new method to measure the sensitivity of the retina to light and color using a pigmented gelatine annulus. This method allowed for more accurate and convenient measurements of light intensity, particularly in the estimation of star magnitudes and the study of color vision.
+scientific_discipline: Physics > Optics

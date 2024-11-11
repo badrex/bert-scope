@@ -1,0 +1,12 @@
+article_id: rsta_1964_0004
+revised_title: 'Negative Impulse Breakdown Voltage and Time-Lag Characteristics of Long Gaps in Air'
+semantic_tags:
+  - Electrical Engineering
+  - High Voltage Transmission
+  - Lightning Protection
+  - Gas Discharge Physics
+  - Time-Resolved Photography
+scientific_discipline: Engineering and Technology > Electrical Engineering
+```yaml
+tldr: This study examines the breakdown of air between electrode arrangements with asymmetrical electric fields under negative impulse potentials, which are important in high voltage transmission systems and relevant to lightning hazard. The research investigates breakdown voltage and time-lag characteristics for various gap geometries and correlates the results with time-resolved photographs of the discharge, comparing them to the behavior observed with positive potentials.
+```

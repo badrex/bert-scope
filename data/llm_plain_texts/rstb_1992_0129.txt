@@ -1,0 +1,10 @@
+article_id: 'rstb_1992_0129'
+revised_title: 'Characterization of Calcium- and Voltage-Dependent Ion Channels in Saccharomyces cerevisiae'
+semantic_tags:
+  - Ion channels
+  - Saccharomyces cerevisiae
+  - Calcium channels
+  - Voltage-dependent channels
+  - Cellular physiology
+tldr: The article investigates ion channels in the plasma membrane and tonoplast of Saccharomyces cerevisiae, focusing on their modulation by cytoplasmic factors such as free Ca2+, pH, and redox state. The predominant tonoplast channel is cation selective and has an open-channel conductance of 120 pS in 100 mM KC1. The plasma membrane channel is highly selective for K+ over anions and other cations, showing strong outward rectification. These channels play a role in mediating potassium efflux and elevation of cytoplasmic calcium during the uptake of metabolic substrates.
+scientific_discipline: Biology and Life Sciences > Cellular and Molecular Physiology

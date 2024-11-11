@@ -1,0 +1,11 @@
+article_id: 'rspb_1952_0001'
+revised_title: 'Biochemical Lesions and Lethal Synthesis: The Case of Fluoroacetic Acid'
+semantic_tags:
+  - Biochemistry
+  - Enzyme inhibition
+  - Fluoroacetic acid
+  - Toxicology
+  - Pharmacology
+tldr: The author discusses the biochemical and physiological aspects of fluoroacetic acid, a strong poison and vesicant. They explain how fluoroacetic acid becomes lethal when transformed by the action of tissue enzymes, making it a unique example of 'lethal synthesis.' The author also explores the connection between pharmacology and enzymes, as well as the effects of fluoroacetic acid on the pyruvate oxidase system.
+scientific_discipline: Chemistry > Biochemistry
+sub_discipline: Enzyme Inhibition and Regulation

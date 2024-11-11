@@ -1,0 +1,10 @@
+article_id: rspl_1899_0101
+revised_title: 'The Double Gamma Function and Its Applications in Mathematics'
+semantic_tags:
+  - Gamma Function
+  - Number Theory
+  - Asymptotic Approximations
+  - Weierstrass Elliptic Functions
+  - Bernoullian Functions
+tldr: This article presents the theory of the double gamma function, a mathematical concept related to the Weierstrass function. It explores its properties, connections with other mathematical concepts, and its applications in obtaining asymptotic approximations for complex summations and products. The double gamma function is also shown to have connections with unsymmetrical functions and can be used to express Weierstrass' elliptic functions.
+scientific_discipline: Mathematics > Number Theory

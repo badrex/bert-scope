@@ -1,0 +1,10 @@
+article_id: rspa_1992_0120
+revised_title: 'Clarifying Turbulent Energy Diffusion in Plane Couette Flow'
+semantic_tags:
+  - Turbulence
+  - Fluid Dynamics
+  - Couette Flow
+  - Direct Numerical Simulation
+  - Reynolds Number
+tldr: This study investigates the diffusion of turbulent energy in plane Couette flow using a direct numerical simulation. The results disprove the counter-gradient diffusion hypothesis and reveal that turbulent energy production is nearly balanced by energy dissipation throughout the core region. The findings provide a more plausible explanation for the behavior of turbulent energy in this type of flow.
+scientific_discipline: Physics > Fluid Dynamics

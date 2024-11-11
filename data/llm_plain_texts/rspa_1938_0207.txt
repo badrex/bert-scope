@@ -1,0 +1,10 @@
+article_id: rspa_1938_0207
+revised_title: Proton Capture and Excitation of Radiation in Light Elements
+semantic_tags:
+  - Nuclear Physics
+  - Particle Acceleration
+  - Radioactivity
+  - Atomic Physics
+  - Nuclear Reactions
+tldr: The authors conducted experiments to study the excitation of gamma radiation in processes of proton capture by light elements such as beryllium, boron, carbon, and fluorine. They used a sensitive detecting system to measure the intensities of capture radiation for different energies of incident protons. The results showed new resonances and provided information about the quantum energies of emitted radiation. This research contributed to the understanding of proton bombardment effects on atomic nuclei.
+scientific_discipline: Physics > Nuclear Physics

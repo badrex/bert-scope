@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0178'
+revised_title: 'Dynamical Aspects of Galaxy Clustering: The Origin and Early Evolution of Galaxies'
+semantic_tags:
+  - Galaxy formation and evolution
+  - Gravitational instability
+  - Large-scale structure of the universe
+  - Correlation functions
+  - Cosmology
+tldr: This article discusses the dynamical aspects of galaxy clustering and the origin and early evolution of galaxies. It explores the dependence of galaxy formation on the spectrum of primordial density fluctuations and the mean mass density of the universe. The author also examines the correlation functions and the hierarchical distribution of galaxies, as well as the effects of dissipation and other factors on galaxy formation.
+scientific_discipline: Astronomy > Cosmology

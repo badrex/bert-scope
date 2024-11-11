@@ -1,0 +1,10 @@
+article_id: 'rspb_1933_0070'
+revised_title: 'Pharmacological Properties of Onium Salts: An Analysis of Cationic Volume and Curariform Activity'
+semantic_tags:
+  - Pharmacology
+  - Onium salts
+  - Cationic volume
+  - Curariform activity
+  - Ionic radius
+tldr: The authors conducted experiments with onium salts, including quaternary ammonium, phosphonium, arsonium, and sulphonium salts, to study their pharmacological properties and curariform activity. They found that larger cations with a specific range of ionic volume had "normal" curariform properties, while smaller or larger cations exhibited greater activity. The authors also discovered that ethyl groups do not inherently cause anomalous curariform properties and that ionic radius plays a role in determining activity. Finally, they compared the activity of strychnine and its quaternary salts, finding that strychnine methiodide is more active than any other quaternary salt they examined.
+scientific_discipline: Chemistry > Pharmacology

@@ -1,0 +1,10 @@
+article_id: rspa_1936_0160
+revised_title: Thermal Decomposition of Azo-Compounds: A Study of Carbon-Nitrogen Bond Rupture
+semantic_tags:
+  - Chemical kinetics
+  - Azo-compounds decomposition
+  - Carbon-nitrogen bond rupture
+  - Activation energy
+  - Molecular statistics
+tldr: This study investigates the thermal decomposition of azo-compounds, focusing on the rupture of carbon-nitrogen bonds. The authors find that the energy of activation for the decomposition of benzalazine is higher than previously recorded for azo-compounds. They also discover that the activation energy required for the rupture of C=N double bonds is significantly greater than for C-N single bonds. The decomposition appears to be a first-order reaction with an activation energy of approximately 35,000 cal/gmol, distributed over at least 15 degrees of freedom.
+scientific_discipline: Chemistry > Chemical kinetics

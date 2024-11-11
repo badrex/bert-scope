@@ -1,0 +1,10 @@
+article_id: rspa_1947_0068
+revised_title: Proton-Proton Scattering and Its Implications in Nuclear Processes
+semantic_tags:
+  - Nuclear Physics
+  - Particle Accelerators
+  - Proton Scattering
+  - Cross-Section
+  - Isotropy
+scientific_discipline: Physics > Nuclear Physics
+tldr: The authors conducted experiments using a proton beam to study the scattering of protons by protons. They found that the angular distribution of the scattered protons was isotropic in the center-of-mass coordinate system. The authors also developed a method to determine the absolute cross-section for proton-proton scattering, which is essential for understanding the forces between the particles. Their findings contribute to the investigation of nuclear processes and the development of particle accelerators.

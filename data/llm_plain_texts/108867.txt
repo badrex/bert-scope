@@ -1,0 +1,10 @@
+article_id: 108867
+revised_title: 'Temperature Influence on Electric Conducting-Power of Alloys'
+semantic_tags:
+  - Alloy Chemistry
+  - Temperature Effects
+  - Electric Conductivity
+  - Material Science
+  - Metallurgy
+tldr: The authors, Augustus Matthiessen and Carl Vogt, conducted experiments to understand the influence of temperature on the electric conducting-power of alloys. They discovered that the conducting-power of alloys changes significantly with temperature and found a way to calculate the conducting-power at different temperatures. This research helped in understanding the behavior of alloys and their potential applications in various fields.
+scientific_discipline: Chemistry > Material Science

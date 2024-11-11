@@ -1,0 +1,10 @@
+article_id: 'rspb_1987_0061'
+revised_title: 'Inositol 1,3,4,5-tetrakisphosphate and its role in calcium signaling'
+semantic_tags:
+  - Calcium signaling
+  - Inositol phosphates
+  - Membrane currents
+  - Xenopus oocytes
+  - Cellular signaling
+tldr: The article investigates the effects of injecting inositol 1,3,4,5-tetrakisphosphate (Ins(1,3,4,5)P4) into Xenopus oocytes, which generates an oscillatory chloride current dependent on intracellular calcium. The results show that Ins(1,3,4,5)P4 causes the release of calcium from internal stores and activates voltage-sensitive calcium channels in the surface membrane. This study contributes to understanding the role of Ins(1,3,4,5)P4 as an intracellular messenger in calcium signaling.
+scientific_discipline: Biology and Life Sciences > Cellular and Molecular Biology

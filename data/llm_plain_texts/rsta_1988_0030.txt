@@ -1,0 +1,10 @@
+article_id: 'rsta_1988_0030'
+revised_title: 'Improving Remote Sensing Image Analysis with Knowledge-Based Systems'
+semantic_tags:
+  - Remote Sensing
+  - Image Analysis
+  - Knowledge-Based Systems
+  - Spatial Databases
+  - Aerial Imagery
+tldr: The authors discuss the importance of integrating spatial knowledge with image-analysis techniques for detecting man-made structures from remotely sensed imagery. They describe three experiments using knowledge-based systems to extract specific features such as roads, buildings, and complex sites like airports and urban environments. The long-term goal is to develop systems that can interact with human cartographers or analysts at a highly symbolic level, maintain a database of previous events, and use expert-level knowledge to predict areas for fruitful analysis and integrate the results into a coherent model.
+scientific_discipline: Engineering and Technology > Computer Science and Technology

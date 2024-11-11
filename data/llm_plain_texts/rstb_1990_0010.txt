@@ -1,0 +1,10 @@
+article_id: 'rstb_1990_0010'
+revised_title: 'DNA Methylation and Gene Regulation: Inhibition of Transcription Factors'
+semantic_tags:
+  - Epigenetics
+  - DNA methylation
+  - Gene regulation
+  - Transcription factors
+  - Protein-DNA interactions
+tldr: The article investigates the effect of site-specific CpG methylation on the binding of a HeLa cell transcription factor (MLTF) and its impact on gene expression. Methylation at a central site within the binding sequence for the factor is found to strongly inhibit binding of MLTF and inhibit MLTF-dependent transcription in vitro. The study also examines the effects of methylation on the binding of other proteins to DNA, demonstrating that methylation can exert specific effects on gene expression.
+scientific_discipline: Biology and Life Sciences > Epigenetics

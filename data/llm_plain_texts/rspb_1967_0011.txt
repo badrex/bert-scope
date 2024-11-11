@@ -1,0 +1,10 @@
+article_id: 'rspb_1967_0011'
+revised_title: 'The Role of Calcium Ions in Acetylcholine Release from Nerve Endings'
+semantic_tags:
+  - Neurotransmitter release
+  - Calcium ions
+  - Nerve impulse
+  - Acetylcholine
+  - Synaptic transmission
+tldr: The authors studied the release of acetylcholine from nerve endings by applying electric pulses of varying strength and duration. They found that the release of acetylcholine lags behind the depolarization caused by the electric pulse. Lengthening the pulse increases the rate of transmitter release, but also increases the latency of the release. This suggests that the entry of positively charged substances, like calcium ions, into the axon membrane is the first step leading to the release of acetylcholine packets from the nerve terminal.
+scientific_discipline: Biology and Life Sciences > Neurobiology

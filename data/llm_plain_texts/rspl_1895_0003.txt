@@ -1,0 +1,10 @@
+article_id: rspl_1895_0003
+revised_title: Temperature of Carbons in Electric Arc and Sun Temperature
+semantic_tags:
+  - Thermodynamics
+  - Heat transfer
+  - Temperature measurement
+  - Solar physics
+  - Arc welding
+tldr: The authors conducted experiments to measure the temperature of carbons in an electric arc and the temperature of the Sun. They used a Brockie-Pell arc lamp and a radio-micrometer to measure the radiation from the carbons and the Sun. They found that the effective temperature of the carbons in the electric arc and the Sun can be calculated using a formula that takes into account the radiation, temperature, and emissive power of the surfaces.
+scientific_discipline: Physics > Thermodynamics

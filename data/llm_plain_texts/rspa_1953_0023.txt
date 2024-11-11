@@ -1,0 +1,10 @@
+article_id: rspa_1953_0023
+revised_title: 'Magnetic Field Effects on Viscous Flow Stability Between Rotating Cylinders'
+semantic_tags:
+  - Fluid dynamics
+  - Magnetohydrodynamics
+  - Rotating cylinders
+  - Stability analysis
+  - Boundary layer theory
+tldr: This article investigates the stability of viscous flow between two rotating coaxial cylinders in the presence of a magnetic field. The author extends the existing theory by considering an electrically conducting fluid and a magnetic field along the axis of the cylinders. A differential equation of order eight is derived, and a significant set of boundary conditions is formulated. The study focuses on the case when the cylinders rotate in the same direction, and the difference in their radii is small compared to their mean. A variational procedure is described to solve the underlying characteristic value problem and determine the critical Taylor numbers for the onset of instability. The magnetic field is found to inhibit the onset of instability, with the inhibiting effect increasing with the strength of the field and the electrical conductivity.
+scientific_discipline: Physics > Fluid dynamics

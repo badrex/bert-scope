@@ -1,0 +1,10 @@
+article_id: rspa_1989_0030
+revised_title: Discovering New Regular Compound Tessellations
+semantic_tags:
+  - Geometry
+  - Tessellations
+  - Symmetry
+  - Hyperbolic Geometry
+  - Mathematical Structures
+tldr: The author explores new regular compound tessellations, specifically focusing on hyperbolic geometry. They discover two new hyperbolic regular compounds, {8,4}[4{8,8}] {4,8} and {8,3}[10{8,6} 2{8,3}], expanding the understanding of regular compound tessellations in mathematics. These tessellations have different degrees of regularity, and their study contributes to the broader field of geometry and symmetry.
+scientific_discipline: Mathematics > Geometry

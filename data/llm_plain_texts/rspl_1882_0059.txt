@@ -1,0 +1,10 @@
+article_id: rspl_1882_0059
+revised_title: 'Dark Plane Formation Over a Heated Wire in Dusty Air'
+semantic_tags:
+  - Fluid Dynamics
+  - Atmospheric Physics
+  - Smoke and Particulate Matter
+  - Heat Transfer
+  - Gas Dynamics
+tldr: The author investigates the formation of a dark plane of air over a heated wire in a dusty atmosphere. They propose that the heated wire heats the air around it, creating a difference in density that causes a current of clean air to flow through the dusty air. This results in a dark band of air rising from the wire, which the author explains through fluid dynamics and gas flow principles.
+scientific_discipline: Physics > Fluid Dynamics

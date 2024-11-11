@@ -1,0 +1,10 @@
+article_id: rsta_1979_0052
+revised_title: 'Advancements in Diagnostic Visualization: Combining Ultrasonic and Radiological Methods in Engineering and Medical Diagnosis'
+semantic_tags:
+  - Diagnostic visualization
+  - Ultrasonography
+  - Radiology
+  - Cross-modality techniques
+  - Medical imaging
+tldr: This article discusses the concept of diagnostic visualization, which involves using multiple diagnostic modalities, such as ultrasonography, radiology, and computed tomography, to assess structural and functional abnormalities in medicine and engineering. The author highlights the advantages of combining these techniques and provides examples of their use in detecting focal hepatic defects, cerebral abscesses, deep-vein thromboses, pulmonary emboli, and defects in concrete. The article emphasizes the importance of cross-modality investigation and the potential for improved accuracy and specificity in diagnosis.
+scientific_discipline: Engineering and Technology > Medical Imaging

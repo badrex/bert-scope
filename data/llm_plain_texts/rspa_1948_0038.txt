@@ -1,0 +1,10 @@
+article_id: rspa_1948_0038
+revised_title: 'Relaxation Methods for Flexure and Extension of Perforated Elastic Plates'
+semantic_tags:
+  - Elasticity
+  - Plate theory
+  - Relaxation methods
+  - Boundary conditions
+  - Perforated plates
+tldr: The author presents a method to analyze the flexure and extension of perforated elastic plates using relaxation techniques. This method allows for the analysis of complex shapes and boundary conditions, making it more efficient and accurate than traditional biharmonic analysis. The study focuses on the transverse deflections and stresses in the middle surface of the plate, taking into account internal boundaries and their effects on the plate's behavior.
+scientific_discipline: Engineering and Technology > Mechanics of Materials

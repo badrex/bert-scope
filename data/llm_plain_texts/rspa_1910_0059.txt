@@ -1,0 +1,10 @@
+article_id: rspa_1910_0059
+revised_title: 'Investigation of the Direction of Motion of Electrons Ejected by Ultra-Violet Light'
+semantic_tags:
+  - Electron motion
+  - Ultra-violet light
+  - Cathode rays
+  - Electromagnetic theory
+  - Experimental physics
+tldr: The authors conducted experiments to determine if electrons ejected from atoms by ultra-violet light have a component of velocity in the direction of light propagation. They found that the electrons do have a component of velocity in the direction of light, supporting the electromagnetic theory of light.
+scientific_discipline: Physics > Electromagnetism

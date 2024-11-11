@@ -1,0 +1,10 @@
+article_id: 'rsta_1978_0045'
+revised_title: 'Revolution in Exchange Switching: Current and Medium Term Developments'
+semantic_tags:
+  - Telecommunications
+  - Switching systems
+  - Digital switching
+  - Stored program control
+  - Common channel signaling
+tldr: This article discusses the current and medium-term developments in telecommunications switching systems, focusing on the extensive use of stored program control, digital switching, and common channel signaling. These advancements lead to reductions in equipment size, procurement times, and improved operational and maintenance facilities. The article also highlights the shift towards total electronic realization in exchange switching systems.
+scientific_discipline: Engineering and Technology > Telecommunications

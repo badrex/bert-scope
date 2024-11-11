@@ -1,0 +1,10 @@
+article_id: 112789
+revised_title: On the Values of Integrals and Laplace's Coefficients in Heat Transfer
+semantic_tags:
+  - Heat transfer
+  - Laplace's coefficients
+  - Spherical coordinates
+  - Electromagnetic radiation
+  - Harmonic functions
+tldr: The author investigates integrals and Laplace's coefficients in calculations dealing with arbitrary functions on the surface of a sphere. They provide a solution for a uniform conducting sphere exposed to heat from a radiant point and generalize it to handle any kind of radiation from a distance. The study shows that the effect of odd-order harmonic terms in radiation is generally nil, with the exception of the first-order term.
+scientific_discipline: Physics > Electromagnetic Theory

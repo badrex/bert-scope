@@ -1,0 +1,10 @@
+article_id: rsta_1975_0014
+revised_title: Advanced X-ray Grating Technology for Spectroscopy
+semantic_tags:
+  - X-ray diffraction
+  - Grating manufacturing
+  - Spectroscopy
+  - Crystal diffraction
+  - Optics
+tldr: The authors present a new type of x-ray grating with improved efficiency and performance. These gratings have a rectangular profile and can diffract radiation from both the tops and bottoms of the grooves. A scalar diffraction theory is developed to optimize grating parameters for efficient use in various wavelengths. The experimental results show high efficiency and agreement with the theory. This technology offers advantages in x-ray and ultraviolet spectroscopy, particularly in the analysis of elements, compounds, and plasmas, as well as in the study of classical emission and absorption processes.
+scientific_discipline: Physics > Optics

@@ -1,0 +1,10 @@
+article_id: '109803'
+revised_title: 'Properties of Tangents to Circles and Trapeziums Inscribed in Circles'
+semantic_tags:
+  - Geometry
+  - Conic Sections
+  - Ellipse
+  - Perspective Representation
+  - Mathematical Geometry
+tldr: The author presents a series of geometrical propositions related to tangents to circles and trapeziums inscribed in circles. He also examines the positions of the axes of ellipses in perspective representations of circles. This work includes some properties that may not have been noticed before and is useful for mathematical readers.
+scientific_discipline: Mathematics > Geometry

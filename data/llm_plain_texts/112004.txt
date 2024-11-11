@@ -1,0 +1,10 @@
+article_id: 112004
+revised_title: Investigating Magnetic Variations at Greenwich
+semantic_tags:
+  - Geomagnetism
+  - Solar activity
+  - Magnetic observatories
+  - Sunspots
+  - Magnetic declination
+tldr: The author analyzed magnetic variations observed at Greenwich and found a correlation with solar activity, specifically sunspots. They developed formulas to better understand and predict these variations, which were communicated by Professor Airy, the Astronomer Royal. The study also highlighted the need for further modifications and corrections for longer periods.
+scientific_discipline: Earth Sciences > Geomagnetism

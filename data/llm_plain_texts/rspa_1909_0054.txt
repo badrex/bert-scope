@@ -1,0 +1,10 @@
+article_id: rspa_1909_0054
+revised_title: 'Diffuse Reflection of Alpha-Particles: A Study on Reflection and Scattering'
+semantic_tags:
+  - Nuclear Physics
+  - Scattering
+  - Reflection
+  - Alpha-Particles
+  - Rutherford Scattering
+tldr: The authors conducted experiments to study the behavior of alpha-particles when they fall on a metal plate. They discovered that a small fraction of alpha-particles have their directions changed, reflecting off the plate. The research investigated the amount of reflection from different metals, the effect of metal thickness, and the fraction of incident alpha-particles that are reflected. The findings showed that the number of reflected alpha-particles decreases with the atomic weight of the reflector, and the reflection is a volume effect rather than a surface effect.
+scientific_discipline: Physics > Nuclear Physics

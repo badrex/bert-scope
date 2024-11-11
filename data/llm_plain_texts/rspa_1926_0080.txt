@@ -1,0 +1,10 @@
+article_id: rspa_1926_0080
+revised_title: 'The Distortion of Aluminum Crystals under Compression - Part I'
+semantic_tags:
+  - Crystallography
+  - Material Science
+  - Aluminum properties
+  - Compression testing
+  - Friction effects
+tldr: This article investigates the distortion of aluminum crystals under compression. The authors designed a method to reduce friction between the specimen and the end plates, allowing them to observe uniform distortion. They discovered that the distortion is due to slipping parallel to one octahedral plane and that only one type of slipping occurs, with the greatest component of shear stress in the direction of shear. This research contributes to understanding the behavior of materials under stress and the development of better testing methods.
+scientific_discipline: Material Science > Crystallography

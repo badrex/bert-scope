@@ -1,0 +1,10 @@
+article_id: rspa_1954_0103
+revised_title: Modified Propagators and the Anomalous Magnetic Moment of the Nucleon
+semantic_tags:
+  - Quantum Field Theory
+  - Particle Physics
+  - Renormalization
+  - Anomalous Magnetic Moment
+  - Nuclear Physics
+tldr: This article explores the use of modified propagators in field theory, specifically in the context of the anomalous magnetic moment of the nucleon. The introduction of these new propagators creates new infinities that cannot be removed by renormalization. A tentative prescription is proposed to address these difficulties, but it is still closely connected to the perturbation expansion. The study concludes that the subseries in this case leads to an asymptotic expansion in the coupling constant.
+scientific_discipline: Physics > Particle Physics

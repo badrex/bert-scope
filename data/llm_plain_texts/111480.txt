@@ -1,0 +1,10 @@
+article_id: 111480
+revised_title: 'Differential Stethophone: A New Approach to Hearing and Sound Perception'
+semantic_tags:
+  - Auditory Perception
+  - Stethoscopes
+  - Sound Intensity
+  - Sound Localization
+  - Medical Instrumentation
+tldr: The author, S. Scott Alison, invents the Differential Stethophone, an instrument that allows for differential hearing and sound localization. The device consists of two separate hearing tubes connected to collecting cups and ear knobs, enabling the user to hear sounds with one ear while blocking the other. The author demonstrates the effectiveness of the instrument in various experiments, showing how sound intensity and localization can be manipulated to hear sounds in specific ears. This innovation has potential applications in medicine and other fields where precise sound perception is essential.
+scientific_discipline: Physics > Acoustics

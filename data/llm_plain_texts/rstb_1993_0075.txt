@@ -1,0 +1,10 @@
+article_id: 'rstb_1993_0075'
+revised_title: 'The Role of Retinoblastoma Protein in Transcriptional Inhibition and Cell Growth Control'
+semantic_tags:
+  - 'Cell Growth Control'
+  - 'Retinoblastoma Protein'
+  - 'Transcriptional Inhibition'
+  - 'Tumour Suppressor Genes'
+  - 'E2F-1'
+tldr: 'The article discusses the role of the retinoblastoma protein in inhibiting transcription and controlling cell growth. The protein interacts with E2F-1, a transcription factor, to regulate cell division. Mutations that inactivate the retinoblastoma protein can lead to uncontrolled cell growth and tumorigenesis. The study provides insights into the mechanisms of tumour suppressor genes and their role in maintaining cell growth regulation.'
+scientific_discipline: Biology and Life Sciences > Cell Biology

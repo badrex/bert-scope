@@ -1,0 +1,10 @@
+article_id: rspa_1957_0043
+revised_title: Aerodynamic Forces on Oscillating Aerofoils with Spoilers
+semantic_tags:
+  - Fluid Dynamics
+  - Aerodynamics
+  - Aerofoil Design
+  - Spoilers
+  - Vortex Sheets
+tldr: The author investigates the aerodynamic forces on an oscillating aerofoil with a spoiler. They develop a theoretical model that considers two vortex sheets trailing downstream and analyze the pressure distribution, lift, and moment. The study shows that a stalled or partially stalled aerofoil has less aerodynamic damping than an unstalled aerofoil.
+scientific_discipline: Fluid Dynamics > Aerodynamics

@@ -1,0 +1,10 @@
+article_id: rspl_1884_0137
+revised_title: 'Continuous Calculating Machines and Mechanisms: Overcoming Defects and Practical Applications'
+semantic_tags:
+  - Calculating Machines
+  - Mechanisms
+  - Integration
+  - Differentiation
+  - Speed Indicator
+tldr: The author discusses the defects of the disk and roller mechanism and proposes a new mechanism that can perform calculations, integration, differentiation, and other mathematical operations with minimal friction. This new mechanism can be used for various practical applications, such as planimeters, H.P. indicators, and more.
+scientific_discipline: Mathematics > Calculus and Analysis

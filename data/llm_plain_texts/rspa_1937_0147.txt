@@ -1,0 +1,10 @@
+article_id: 'rspa_1937_0147'
+revised_title: 'Wave Resistance of a Ship: Theoretical and Experimental Investigations'
+semantic_tags:
+  - Ship resistance
+  - Wave mechanics
+  - Fluid dynamics
+  - Naval architecture
+  - Model testing
+tldr: This article investigates the wave resistance of a ship advancing in still water and how it is affected by the position of the ship among waves. The author presents a theoretical approach to calculate the additional resistance due to free surface waves and applies it to a model ship. The results show that the resistance can be reduced by up to 30% depending on the ship's position relative to the waves. The study also considers the case of a ship advancing through transverse waves moving with the appropriate velocity for their wavelength.
+scientific_discipline: Engineering and Technology > Naval Architecture

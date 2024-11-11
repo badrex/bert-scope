@@ -1,0 +1,10 @@
+article_id: 'rspb_1933_0037'
+revised_title: 'Inhibition Mechanism of Glucose Dehydrogenase by Xanthine Oxidase'
+semantic_tags:
+  - Enzyme inhibition
+  - Glucose dehydrogenase
+  - Xanthine oxidase
+  - Enzyme kinetics
+  - Phosphate buffer
+tldr: The author investigates the interaction between glucose dehydrogenase and xanthine oxidase enzymes. They discover that xanthine oxidase inhibits the activity of glucose dehydrogenase by destroying it. This inhibition can be prevented by using a phosphate buffer, suggesting that the phosphate ions protect the glucose dehydrogenase enzyme from being destroyed by xanthine oxidase.
+scientific_discipline: Biology and Life Sciences > Enzyme Mechanisms

@@ -1,0 +1,10 @@
+article_id: rspa_1970_0211
+revised_title: 'Flame Stability on Flat Sprays: A Theoretical Model and Experimental Analysis'
+semantic_tags:
+  - Combustion
+  - Flame stability
+  - Spray combustion
+  - Mass transfer
+  - Heat transfer
+tldr: This study investigates the conditions for flame stability on unconfined flat sprays, focusing on the processes of heat, mass, and momentum transfer, and chemical reactions. A theoretical model is developed and experimentally confirmed, providing insights into the interrelation between these factors and the stabilization of flames in spray combustion.
+scientific_discipline: Engineering and Technology > Chemical Engineering

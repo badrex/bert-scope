@@ -1,0 +1,10 @@
+article_id: rspa_1954_0002
+revised_title: Photosensitized Polymerization of Vinyl Chloride in Tetrahydrofuran: Characteristics of the Overall Reaction
+semantic_tags:
+  - Polymerization
+  - Vinyl Chloride
+  - Tetrahydrofuran
+  - Photosensitization
+  - Polymer Chemistry
+tldr: The authors studied the photosensitized polymerization of vinyl chloride in tetrahydrofuran solution, using 2,2'-azo-isobutyronitrile and 1,1'-azo-1-cyclohexane nitrile as initiators. They found that the rate of polymerization is constant initially and decreases later. The rate is proportional to the three halves power of the monomer concentration and to a power of the initiator concentration that increases with temperature. The results suggest a mixture of monomer and mutual termination, with the proportion of the former increasing at higher temperatures.
+scientific_discipline: Chemistry > Polymer Chemistry

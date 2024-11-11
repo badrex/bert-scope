@@ -1,0 +1,10 @@
+article_id: 'rsta_1981_0162'
+revised_title: 'Electrode Kinetics and Modified Electrodes in Industrial Electrochemistry'
+semantic_tags:
+  - Electrochemistry
+  - Electrode kinetics
+  - Modified electrodes
+  - Catalysis
+  - Electrochemical reactors
+tldr: This article discusses the fundamentals of electrode kinetics and the potential of modified electrodes in industrial electrochemistry. It explores the challenges of electrochemical reactions, such as reactant finding the electrode and electrode poisoning, and suggests using modified electrodes with redox catalysts to improve electrode kinetics. The article also examines the connection between electrochemical and homogeneous catalysts, and the development of modified electrodes as a promising innovation in electrochemistry.
+scientific_discipline: Chemistry > Electrochemistry

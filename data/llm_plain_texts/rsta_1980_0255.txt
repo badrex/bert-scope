@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0255'
+revised_title: 'Subpicosecond Laser Techniques in Molecular Dynamics'
+semantic_tags:
+  - Laser Physics
+  - Ultrafast Optics
+  - Molecular Dynamics
+  - Spectroscopy
+  - Photophysics
+tldr: 'The article discusses the application of subpicosecond optical techniques to study molecular dynamics using short laser pulses. The techniques extend time-resolved investigations into the subpicosecond regime, enabling accurate studies of photoprocesses in chemistry, physics, and biology. Examples of applications include the study of dye malachite green, azulene, and the photodissociation of dimethylaminophenylazide (DMPA).'
+scientific_discipline: Physics > Optics

@@ -1,0 +1,10 @@
+article_id: 111364
+revised_title: Joule's Experiments on Thermo-Electricity and Thermal Effects of Stretching Solid Bodies
+semantic_tags:
+  - Thermo-electricity
+  - Thermal effects
+  - Ferruginous metals
+  - Mechanical equivalent of heat
+  - Rubber properties
+tldr: Joule's experiments investigated the thermo-electricity of ferruginous metals and the thermal effects of stretching solid bodies. He used a thermomultiplier to measure the thermo-electric properties of various metals and found that steel, cast iron, and copper had different thermo-electric positions. Joule also discovered that stretching metals caused a decrease in temperature when the stretching weight was applied and an increase in temperature when the weight was removed. This confirmed Professor Thomson's theoretical investigations. Joule also observed a reverse action in vulcanized indiarubber, which became heated when stretched and cooled when the weight was removed, and confirmed Thomson's predictions with further experiments.
+scientific_discipline: Physics > Thermodynamics

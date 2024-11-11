@@ -1,0 +1,10 @@
+article_id: 'rspb_1993_0047'
+revised_title: 'Inward Background Current in Guinea-Pig Ventricular and Atrial Cells'
+semantic_tags:
+  - Cardiac Electrophysiology
+  - Ion Channels
+  - Resting Membrane Potential
+  - Cardiac Cell Modeling
+  - Sodium Background Current
+tldr: The authors conducted experiments on guinea-pig ventricular and atrial cells to study the background inward current, which is a crucial factor in cardiac cell electrical activity. They discovered a background sodium current (zbNa) in both cell types, with atrial cells having a higher average conductance than ventricular cells. The findings contribute to understanding the differences in resting membrane potentials between cardiac tissues and improving cardiac cell modeling.
+scientific_discipline: Biology and Life Sciences > Physiology

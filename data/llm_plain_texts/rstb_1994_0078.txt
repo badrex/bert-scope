@@ -1,0 +1,10 @@
+article_id: 'rstb_1994_0078'
+revised_title: 'Score-Based Methods for Analyzing DNA and Protein Sequences'
+semantic_tags:
+  - Bioinformatics
+  - Molecular Biology
+  - Sequence Analysis
+  - Statistical Methods
+  - Biomolecular Sequences
+tldr: The article discusses score-based methods for analyzing DNA and protein sequences, focusing on identifying significant patterns and interpreting them in terms of genomic structure, gene expression, and protein function. The authors present probabilistic formulas for characterizing statistically significant sequence configurations and provide applications for detecting interesting regions in protein sequences, such as charge clusters, hydrophobic sections, and regions prone to modifications.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

@@ -1,0 +1,10 @@
+article_id: rspa_1994_0047
+revised_title: Exponentially Improved Asymptotic Solutions of Ordinary Differential Equations: Irregular Singularities of Rank One
+semantic_tags:
+  - Differential Equations
+  - Asymptotic Analysis
+  - Stieltjes Transforms
+  - Exponential Integrals
+  - Irregular Singularities
+tldr: This article presents an improved asymptotic analysis of ordinary differential equations with irregular singularities of rank one. The authors develop a theory using Stieltjes-type transforms to re-expand the remainder terms, resulting in more accurate and valid expansions. This research applies to various types of differential equations and extends the understanding of asymptotic solutions in complex scenarios.
+scientific_discipline: Mathematics > Differential Equations

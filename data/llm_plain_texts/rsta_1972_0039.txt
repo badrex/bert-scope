@@ -1,0 +1,10 @@
+article_id: rsta_1972_0039
+revised_title: 'Sea-Level Observations and their Secular Variation: A Discussion on Problems Associated with the Subsidence of Southeast England'
+semantic_tags:
+  - Coastal Geology
+  - Sea-level changes
+  - Tidal observations
+  - Oceanography
+  - Geodesy
+tldr: This article discusses the challenges in analyzing continuous sea-level records at coastal stations to assess secular coastal movement in the vertical. It highlights the limitations of traditional techniques used to obtain raw data and the need for more advanced methods to account for oceanographic, meteorological, and terrestrial factors. The author presents a regression analysis to determine the secular variation of sea level and its relationship with various factors, such as air pressure, wind stress, and the nodal tide.
+scientific_discipline: Environmental and Earth Sciences > Coastal Geology

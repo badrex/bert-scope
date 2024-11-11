@@ -1,0 +1,10 @@
+article_id: rspl_1879_0062
+revised_title: Correction of Civil Time Error in Bermuda Wind Observations
+semantic_tags:
+  - Meteorology
+  - Atmospheric Science
+  - Timekeeping
+  - Wind Patterns
+  - Barometric Pressure
+tldr: The author corrected an error in their previous paper regarding the Bermuda wind observations. They found that the variation of wind components at Bermuda is less during hours when the sun is above the horizon compared to when it is below. The calculated barometric variations, depending on wind variations, should also be referred to astronomical instead of civil time.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

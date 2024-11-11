@@ -1,0 +1,10 @@
+article_id: rspa_1963_0121
+revised_title: 'Investigation of Electron Avalanche Growth and Streamer Formation in Various Gases'
+semantic_tags:
+  - Gas discharge physics
+  - Streamer theory
+  - Cloud chamber
+  - Avalanche growth
+  - Gas ionization
+tldr: The authors conducted a cloud chamber study to investigate electron avalanche growth and streamer formation in various gases, including air, nitrogen, argon, carbon dioxide, hydrogen, and oxygen. They examined the effects of expansion ratio, vapor filling, and gas type on droplet formation and found that single avalanches can form streamers. The study provides insights into the mechanisms of spark breakdown and helps to understand the transition from avalanche to visible discharge.
+scientific_discipline: Physics > Gas discharge physics

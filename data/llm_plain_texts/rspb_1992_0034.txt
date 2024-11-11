@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0034'
+revised_title: 'Afferent Signals and Electromyogram Modification in Pigeon Extraocular Muscles'
+semantic_tags:
+  - Vestibulo-ocular reflex
+  - Pigeon neurophysiology
+  - Electromyogram
+  - Eye movement control
+  - Oculomotor research
+tldr: This study investigates how afferent signals from the extraocular muscles of pigeons affect the electromyogram of these muscles during the vestibulo-ocular reflex. The researchers found that the modulation of the electromyogram is reduced when the imposed eye velocity exceeds the 22 degrees per second required for compensation. This discovery contributes to understanding eye movement control in pigeons.
+scientific_discipline: Biology and Life Sciences > Neurophysiology and Oculomotor Research

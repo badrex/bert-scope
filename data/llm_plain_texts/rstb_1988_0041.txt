@@ -1,0 +1,10 @@
+article_id: 'rstb_1988_0041'
+revised_title: 'Mitochondrial Gene Mutations and Cytoplasmic Male Sterility in Maize'
+semantic_tags:
+  - 'Mitochondrial biogenesis'
+  - 'Cytoplasmic male sterility'
+  - 'Maize genetics'
+  - 'Mitochondrial gene mutations'
+  - 'Restorer genes'
+tldr: 'The authors investigate mitochondrial gene mutations in maize and their role in cytoplasmic male sterility. They discover a unique mitochondrial gene, wr/13-T, in the sterile maize that causes the sterility trait and susceptibility to a fungal pathogen. Two nuclear restorer genes, Rfi and Rf2, counteract the sterility trait and restore pollen production. The 13 kDa protein encoded by the wr/13-T gene is responsible for conferring sensitivity to T-toxin and methomyl, which inhibit mitochondrial respiration in the sterile maize.'
+scientific_discipline: Biology and Life Sciences > Genetics and Plant Science

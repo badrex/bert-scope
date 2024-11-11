@@ -1,0 +1,10 @@
+article_id: rspa_1982_0044
+revised_title: 'Improved Bounds on Effective Elastic Moduli of Two-Component Materials'
+semantic_tags:
+  - Composite Materials
+  - Elasticity
+  - Material Science
+  - Mechanics
+  - Engineering
+tldr: The authors derived new bounds on the effective elastic moduli of two-component composite materials using a perturbation solution. These bounds are exact up to fourth order in the shear and bulk modulus of the phases and can be used for engineering calculations. The new bounds are more restrictive than existing bounds by Hashin-Shtrikman, McCoy, Beran, and Molyneux, and Walpole. The study also shows how to improve Hashin-Shtrikman's bounds and Walpole's bounds using two inequalities on geometrical parameters.
+scientific_discipline: Engineering and Technology > Materials Science

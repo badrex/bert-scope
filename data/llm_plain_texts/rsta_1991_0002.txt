@@ -1,0 +1,10 @@
+article_id: rsta_1991_0002
+revised_title: Nonlinear Simple Waves in Alluvial River Flows: A Theory for Sediment Bore Propagation
+semantic_tags:
+  - Sediment Transport
+  - River Dynamics
+  - Alluvial Flows
+  - Fluid Mechanics
+  - Shallow Water Theory
+tldr: This article presents a nonlinear theory for the propagation of sediment bores in alluvial rivers. The authors develop a model based on depth-averaged integral conservation laws of shallow water theory, accounting for flow resistance and bed-load sediment continuity. They find that three types of simple step waves can propagate in alluvial rivers, with different speeds and bedform step heights, depending on upstream and downstream conditions. The theory helps estimate the propagation speed of sediment bores, which is essential for understanding and managing river sedimentation and erosion processes.
+scientific_discipline: Environmental and Earth Sciences > Fluid Mechanics and River Dynamics

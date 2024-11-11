@@ -1,0 +1,10 @@
+article_id: rspa_1931_0067
+revised_title: 'The Effect of Oxygen Supply and Concentration on the Corrosion of Zinc'
+semantic_tags:
+  - Corrosion
+  - Electrochemistry
+  - Zinc corrosion
+  - Oxygen supply
+  - Potassium chloride
+tldr: The authors conducted experiments to study the effect of oxygen supply and concentration on the corrosion of zinc in potassium chloride solutions. They found that the corrosion rates of zinc and mild steel varied with the conditions, and the difference between them increased with time. The results showed that the corrosion rates were not solely controlled by the rate of oxygen supply to restricted cathodic areas, and that the effect of changing the atmosphere on corrosion rates was not yet fully understood.
+scientific_discipline: Chemistry > Electrochemistry

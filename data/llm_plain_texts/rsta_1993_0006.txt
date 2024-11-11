@@ -1,0 +1,10 @@
+article_id: 'rsta_1993_0006'
+revised_title: 'Disequilibrium Enrichments in Magma Genesis and Melting Processes'
+semantic_tags:
+  - Geochemistry
+  - Radiogenic Isotopes
+  - Magma Formation
+  - Partial Melting
+  - Mantle Processes
+tldr: The article discusses the use of radioactive disequilibria in volcanic rocks to understand the chemistry and timescale of magma genesis. It explores the effects of partial melting, the attainment of chemical and isotopic equilibrium, and the presence of a vapor phase during melting. The study focuses on the enrichment of 230Th with respect to 238U in various magmas and the implications for the melting processes and transfer times between the source and the eruption site.
+scientific_discipline: Earth Sciences > Geochemistry

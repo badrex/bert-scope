@@ -1,0 +1,10 @@
+article_id: 'rstb_1995_0078'
+revised_title: 'A Comprehensive Analysis of Primate Phylogeny'
+semantic_tags:
+  - Primatology
+  - Phylogenetics
+  - Taxonomy
+  - Evolutionary Biology
+  - Comparative Biology
+tldr: The author presents a composite estimate of the phylogeny of all 203 species of primates by combining over a hundred previous estimates using a modified matrix representation with parsimony technique. The resulting well-resolved tree provides a useful framework for comparative biologists and highlights areas of primate phylogeny that still need further research.
+scientific_discipline: Biology and Life Sciences > Primatology

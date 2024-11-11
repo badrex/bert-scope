@@ -1,0 +1,10 @@
+article_id: rsta_1963_0005
+revised_title: Lubrication of Rollers: Friction and Effective Viscosity Measurements
+semantic_tags:
+  - Tribology
+  - Lubrication
+  - Viscosity
+  - Elasto-hydrodynamic lubrication
+  - Friction
+tldr: The authors conducted experiments with a four-disk machine to measure friction and effective viscosity in roller lubrication. They found that the frictional tractions and effective viscosity can be expressed by equations that include rolling and sliding components. The results showed that the effective viscosity is independent of load and is simply proportional to the thickness of the hydrodynamic film. The findings also demonstrated the importance of the thermal conductivity of the oil in relation to friction and the temperatures in the oil film.
+scientific_discipline: Engineering and Technology > Tribology

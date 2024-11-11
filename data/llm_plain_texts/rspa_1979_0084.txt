@@ -1,0 +1,9 @@
+article_id: rspa_1979_0084
+revised_title: Soliton Behavior in a Rotating Baroclinic Fluid
+semantic_tags:
+  - Fluid Dynamics
+  - Solitons
+  - Baroclinic Instability
+  - Nonlinear Waves
+  - Geophysical Fluid Dynamics
+tldr: This article explores the behavior of solitons in a rotating baroclinic fluid, demonstrating how the nonlinear evolution of wave packets can be described by the sine-Gordon equation. The authors show that soliton solutions exist in this system, which has implications for understanding atmospheric and oceanic dynamics and interpreting laboratory experiments with rotating fluids.

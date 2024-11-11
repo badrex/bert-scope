@@ -1,0 +1,11 @@
+article_id: rspa_1931_0058
+revised_title: Electrochemical Study of Corrosion and Differential Aeration
+semantic_tags:
+  - Electrochemistry
+  - Corrosion
+  - Differential Aeration
+  - Zinc
+  - Iron
+  - Copper
+tldr: The authors conducted experiments to study the electrochemical aspects of corrosion, focusing on the role of differential aeration. They found that the corrosion velocity is equivalent to the current flowing between the aerated and unaerated areas, and the strength of this current is determined by the cathodic polarization. The study also highlights the importance of understanding the laws governing the strength of these currents for predicting corrosion behavior.
+scientific_discipline: Chemistry > Electrochemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1925_0113
+revised_title: 'Capture and Loss of Electrons by Alpha-Particles'
+semantic_tags:
+  - Nuclear Physics
+  - Particle Acceleration
+  - Radioactivity
+  - Atomic Interactions
+  - Rutherford Scattering
+tldr: The authors conducted experiments to study the capture and loss of electrons by alpha particles as they passed through different materials. They found that the ratio of doubly-charged to singly-charged alpha particles in equilibrium at any velocity is independent of the material through which the particles pass. The results provide insights into the behavior of alpha particles and their interactions with matter.
+scientific_discipline: Physics > Nuclear Physics

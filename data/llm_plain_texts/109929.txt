@@ -1,0 +1,10 @@
+article_id: 109929
+revised_title: 'The Polarizing Forces of Crystallized Surfaces and Their Impact on Light'
+semantic_tags:
+  - Polarization
+  - Crystal Optics
+  - Refraction
+  - Light
+  - Brewster's Law
+tldr: David Brewster's experiments on crystallized surfaces and their effect on light led to the discovery of the extension of polarizing forces beyond the crystal's surface. He demonstrated that the force of double refraction and polarization originates from the surface of bodies, and its intensity depends on the angle of the surface to the crystal's axis. Brewster also showed that the ordinary or extraordinary image can be extinguished in any doubly-refracting crystal, converting it into a singly-refracting crystal.
+scientific_discipline: Physics > Optics

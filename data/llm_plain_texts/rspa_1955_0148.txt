@@ -1,0 +1,10 @@
+article_id: rspa_1955_0148
+revised_title: 'Experimental Investigation of Heat Transfer in an Open Thermosyphon'
+semantic_tags:
+  - Heat Transfer
+  - Natural Convection
+  - Fluid Dynamics
+  - Turbulence
+  - Thermosyphon
+tldr: This paper presents an experimental investigation of heat transfer by free convection in an open thermosyphon. The study focuses on the flow regimes and heat transfer rates in a vertical tube with two streams of fluid moving in opposite directions. The findings provide fundamental data on the behavior of the open thermosyphon, which can be useful for cooling applications, such as gas turbines and atomic energy reactors.
+scientific_discipline: Engineering and Technology > Fluid Mechanics

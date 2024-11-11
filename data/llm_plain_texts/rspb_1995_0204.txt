@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0204'
+revised_title: 'Efficiency of Information Transmission by Primary Auditory Afferents in Response to Naturalistic Stimuli'
+semantic_tags:
+  - Auditory perception
+  - Information theory
+  - Neural coding
+  - Sensory systems
+  - Natural sounds
+tldr: The authors conducted experiments to understand how primary auditory afferents process naturalistic stimuli. They found that natural sounds increase the rate and efficiency of information transmission by these nerve fibers. This is because the coding strategy of the auditory system is matched to the structure of natural sounds, providing higher processing centers with a more complete description of the stimuli.
+scientific_discipline: Biology and Life Sciences > Neuroscience

@@ -1,0 +1,10 @@
+article_id: rspa_1929_0169
+revised_title: 'Phosphine Oxidation: Chain Reaction and Critical Pressure'
+semantic_tags:
+  - Chemical Reactions
+  - Chain Reactions
+  - Oxidation
+  - Phosphine
+  - Gas Phase Reactions
+tldr: This study investigates the oxidation of phosphine at low pressures, revealing that the oxidation is a chain reaction. The research also discovers a lower pressure limit below which the reaction rate is negligible but above which explosion occurs. The findings suggest that the presence of an inert gas, like nitrogen, may have a deactivating influence on the reaction.
+scientific_discipline: Chemistry > Chemical Reactions

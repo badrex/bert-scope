@@ -1,0 +1,10 @@
+article_id: 'rspa_1927_0126'
+revised_title: 'Energy Transference in Struck Strings: A Study of Hammer Impact'
+semantic_tags:
+  - String Vibrations
+  - Impact Mechanics
+  - Hammer Mechanics
+  - Piano Mechanics
+  - Energy Transfer
+tldr: The authors conducted experiments to study the energy lost by a hammer during the impact on a string. They investigated the influence of the hammer's position, mass, and initial velocity on the energy transference. The results showed that the energy lost by the hammer is independent of its initial velocity and that the position of impact affects the energy transference. The authors also studied the effects of different hammer designs on the energy lost and the energy transference, concluding that a yielding hammer reduces the energy lost and changes the position of maximum energy transference.
+scientific_discipline: Physics > Mechanics

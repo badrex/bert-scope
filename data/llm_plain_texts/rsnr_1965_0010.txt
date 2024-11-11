@@ -1,0 +1,10 @@
+article_id: 'rsnr_1965_0010'
+revised_title: 'The Emergence of Newton's Scientific Mind and His Optical Discoveries'
+semantic_tags:
+  - Isaac Newton
+  - Optics
+  - Color Theory
+  - Light refraction
+  - Prism experiments
+tldr: 'This article explores Isaac Newton's early life and scientific pursuits, focusing on his development as a scientist and his groundbreaking experiments in optics. Newton's experiments with prisms led to the discovery that white light is made up of different colors, each with its own refrangibility. This discovery challenged the prevailing theories of the time and marked the beginning of a new era in the study of light and color.'
+scientific_discipline: 'Physics > Optics'

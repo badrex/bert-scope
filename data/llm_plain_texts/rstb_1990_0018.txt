@@ -1,0 +1,10 @@
+article_id: 'rstb_1990_0018'
+revised_title: 'Structural Aspects of Proton-Pumping ATPases in Microbial Membrane Transport Systems'
+semantic_tags:
+  - 'ATP synthase'
+  - 'Microbial membrane transport'
+  - 'Proton-pumping'
+  - 'Membrane proteins'
+  - 'Structural biology'
+tldr: 'This article discusses the structure and function of proton-pumping ATPases in microbial membrane transport systems. The authors review structural work on ATP synthase, focusing on eubacterial, chloroplast, and mitochondrial enzymes. They describe the composition and organization of these enzymes, as well as the importance of understanding their structure for further research on their function.'
+scientific_discipline: Biology and Life Sciences > Biochemistry

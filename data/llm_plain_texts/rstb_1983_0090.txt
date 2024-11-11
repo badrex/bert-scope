@@ -1,0 +1,10 @@
+article_id: 'rstb_1983_0090'
+revised_title: 'Molecular Mechanisms of Virus-Mediated Cytopathology and Bacterial Pathogenicity'
+semantic_tags:
+  - 'Virology'
+  - 'Pathogenicity'
+  - 'Cytopathology'
+  - 'Bacterial Pathogenesis'
+  - 'Viral Gene Expression'
+tldr: The article discusses the molecular mechanisms of virus-mediated cytopathology, where viruses inhibit host cell processes to facilitate their replication. It explores various ways viruses achieve this, such as altering cellular translation, degrading cellular mRNAs, or disrupting cell structure. The article also touches upon bacterial and viral pathogenicity, highlighting the differences in their mechanisms.
+scientific_discipline: Biology and Life Sciences > Virology

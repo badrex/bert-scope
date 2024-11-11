@@ -1,0 +1,10 @@
+article_id: rspa_1985_0113
+revised_title: Oxidation Mechanisms in Sliding Wear of Metals
+semantic_tags:
+  - Oxidative wear
+  - Metal oxidation
+  - Sliding wear
+  - Surface oxidation
+  - Wear protection
+tldr: This article investigates the various mechanisms of oxide generation during the sliding wear of metals in oxidizing environments. It discusses three main causes of oxide generation: oxidation-scrape-reoxidation, total oxide, and metal debris mechanisms. The authors present theoretical models to account for these processes and assess their importance in wear processes under specific sliding conditions.
+scientific_discipline: Engineering and Technology > Materials Science

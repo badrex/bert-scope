@@ -1,0 +1,10 @@
+article_id: 'rspb_1934_0046'
+revised_title: 'Isotopic Composition of Hydrogen in Decomposition of Sodium Formate'
+semantic_tags:
+  - Isotopes
+  - Hydrogen-water exchange
+  - Enzymatic decomposition
+  - Bacterium coli
+  - Heavy water
+tldr: The authors studied the decomposition of sodium formate by the enzyme hydrogenlyase in Bacterium coli in the presence of heavy water. They found that the composition of the hydrogen gas evolved is determined by the equilibrium between heavy and light hydrogen atoms in the water. This equilibrium plays a significant role in the preferential liberation of light hydrogen in separation methods.
+scientific_discipline: Biology and Life Sciences > Biochemistry

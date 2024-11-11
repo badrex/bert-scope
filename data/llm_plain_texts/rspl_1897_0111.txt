@@ -1,0 +1,10 @@
+article_id: rspl_1897_0111
+revised_title: Skew Variation and Cloudiness Frequency
+semantic_tags:
+  - Statistics
+  - Meteorology
+  - Skew distribution
+  - Cloud observation
+  - Karl Pearson
+tldr: This article discusses a novel case of frequency distribution in cloudiness observed at Breslau between 1876 and 1885. The author, Karl Pearson, applies the theory of skew variation to analyze the data and finds that the frequency distribution is J-shaped. The study demonstrates the capacity of the theory of skew variation to cover unusual types of frequency.
+scientific_discipline: Statistics > Skew distribution

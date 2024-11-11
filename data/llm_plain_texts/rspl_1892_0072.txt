@@ -1,0 +1,10 @@
+article_id: rspl_1892_0072
+revised_title: Determining Current Curves in Electrical Circuits
+semantic_tags:
+  - Electrical Circuits
+  - Electromagnetic Induction
+  - Circuit Analysis
+  - Differential Equations
+  - Transformer Design
+tldr: The authors present a method to determine expressions for current in electrical circuits, enabling the calculation and plotting of current curves without the need for experimentation. They apply this method to circuits with and without iron cores, and discuss its application to transformer design and electromagnetic induction.
+scientific_discipline: Engineering and Technology > Electrical Circuits

@@ -1,0 +1,10 @@
+article_id: rspa_1935_0228
+revised_title: Dielectric Properties of Chlorinated Diphenyl for Insulating Materials
+semantic_tags:
+  - Dielectric materials
+  - Insulating materials
+  - Chlorinated diphenyl
+  - Dielectric loss
+  - Power factor
+tldr: The article investigates the dielectric loss characteristics of chlorinated diphenyl, a synthetic insulating material. The study examines the material's power factor and dielectric constant over a range of frequencies and temperatures. The results show that the material's performance is highly sensitive to temperature changes, and it can be used as a dielectric medium under specific conditions. The research also discusses the physical factors controlling the position of the power factor maximum in the frequency and temperature spectrum.
+scientific_discipline: Physics > Electromagnetism

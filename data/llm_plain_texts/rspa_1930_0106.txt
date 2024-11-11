@@ -1,0 +1,10 @@
+article_id: 'rspa_1930_0106'
+revised_title: 'Investigation of the Purity and Properties of Synthetic Fatty Acids'
+semantic_tags:
+  - Fatty Acids
+  - Chemical Compounds
+  - X-ray Crystallography
+  - Melting Points
+  - Synthetic Chemistry
+tldr: The authors investigated the purity and properties of synthetic fatty acids, finding that naturally occurring and synthesized fatty acids had different properties. They used X-ray crystallography and melting point analysis to determine the purity of the synthetic acids and discovered that the melting points of equimolar mixtures of acids were different depending on the carbon content and the length of the chains.
+scientific_discipline: Chemistry > Organic Chemistry

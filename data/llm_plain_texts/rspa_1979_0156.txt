@@ -1,0 +1,10 @@
+article_id: rspa_1979_0156
+revised_title: Coalescence in Two-Dimensional Close-Packed Dispersions: Modeling and Analysis
+semantic_tags:
+  - Fluid mechanics
+  - Coalescence
+  - Two-dimensional dispersion
+  - Drop shape
+  - Sedimentation
+tldr: This article presents a model for coalescence in a two-dimensional close-packed dispersion, focusing on the effect of a vertical force on the shape and drainage of drops. The study shows that the coalescence time of constrained drops decreases as the applied force increases, while for unconstrained drops, the coalescence time increases. The findings have implications for understanding and predicting the behavior of gas-liquid films and other dispersions.
+scientific_discipline: Physics > Fluid mechanics

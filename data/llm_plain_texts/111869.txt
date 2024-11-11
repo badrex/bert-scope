@@ -1,0 +1,10 @@
+article_id: 111869
+revised_title: On Systems of Linear Indeterminate Equations and Congruences: A New Approach
+semantic_tags:
+  - Linear algebra
+  - Indeterminate equations
+  - Congruences
+  - Matrix theory
+  - Number theory
+tldr: This article presents a new method for solving systems of linear indeterminate equations and congruences using the concept of fundamental sets of solutions. The author demonstrates a criterion for resolubility or irresolubility of these systems and applies the method to various problems in number theory, including the Pellian equation and the norm of complex integral numbers.
+scientific_discipline: Mathematics > Linear algebra

@@ -1,0 +1,10 @@
+article_id: rspa_1929_0030
+revised_title: The Effect of Electric Field on Adsorption of Organic Molecules in Heterogeneous Systems
+semantic_tags:
+  - Electrochemistry
+  - Surface chemistry
+  - Adsorption
+  - Electrocapillary curves
+  - Organic molecules
+tldr: The authors studied the effect of an electric field on the adsorption of organic molecules in heterogeneous systems, including electrolytes. They found that the amount of adsorption depends on the potential difference between the interface and the solution, and the electric field strength. The maximum adsorption occurs when the potential difference is zero. This research helps to understand the behavior of organic molecules at the interface and can be applied to various fields, such as electrochemistry and surface chemistry.
+scientific_discipline: Chemistry > Electrochemistry

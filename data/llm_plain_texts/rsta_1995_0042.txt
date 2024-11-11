@@ -1,0 +1,10 @@
+article_id: rsta_1995_0042
+revised_title: Modeling Global Sources and Sinks of Radiatively Active Gases
+semantic_tags:
+  - Atmospheric Chemistry
+  - Climate Change
+  - Trace Gases
+  - Numerical Models
+  - Methane Budget
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science
+tldr: This article discusses the use of numerical models to understand the budgets of atmospheric trace gases, focusing on the global sources and sinks of radiatively active gases like methane. The authors present a two-dimensional model and a three-dimensional model to study the behavior of these gases, considering emissions, transport, and chemical transformations. The models help to calculate the budgets of these gases and provide insights into their role in climate change.

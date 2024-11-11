@@ -1,0 +1,10 @@
+article_id: rspa_1940_0041
+revised_title: Thermal Ionization of Barium: Experimental Verification and Analysis
+semantic_tags:
+  - Ionization
+  - Barium
+  - Astrophysics
+  - Thermodynamics
+  - Atomic Physics
+tldr: This article presents an experimental study of the thermal ionization of barium using a unique apparatus. The authors verify Saha's ionization formula and discuss the implications of the results in the context of the barium anomaly in the solar spectrum. The findings support the explanation of this phenomenon involving weight factors and metastable states of barium ions.
+scientific_discipline: Physics > Astrophysics

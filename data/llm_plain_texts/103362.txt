@@ -1,0 +1,10 @@
+article_id: 103362
+revised_title: Resistance of Air and Falling Bodies: Experiments by J.T. Desaguliers
+semantic_tags:
+  - Fluid dynamics
+  - Air resistance
+  - Gravity
+  - Experimental physics
+  - Falling objects
+tldr: J.T. Desaguliers conducted experiments to measure the resistance of the air on falling objects. He dropped various balls from the top of St. Paul's Church and recorded their fall times. The results showed that lighter, hollow objects fell slower than heavier, solid ones due to air resistance. This study helped to refine understanding of the relationship between gravity and the effects of air resistance on falling objects.
+scientific_discipline: Physics > Fluid dynamics

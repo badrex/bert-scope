@@ -1,0 +1,10 @@
+article_id: 'rspb_1989_0011'
+revised_title: 'Analyzing Post-Perturbation Gating Kinetics of Single Ion Channels'
+semantic_tags:
+  - Ion channels
+  - Gating mechanisms
+  - Kinetic analysis
+  - Correlation methods
+  - Single-channel recording
+tldr: The authors present a method to analyze post-perturbation gating kinetics of single ion channels, providing information about the underlying gating mechanism. They demonstrate the method using simulated data and apply it to a delayed-rectifier type channel, revealing a branched gating mechanism. This study helps in understanding the complex behavior of ion channels and their role in various biological processes.
+scientific_discipline: Biology and Life Sciences > Cell Biology and Physiology

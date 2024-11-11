@@ -1,0 +1,10 @@
+article_id: rsta_1996_0020
+revised_title: 'Existence of a Plethora of Solitary Gravity-Capillary Water Waves'
+semantic_tags:
+  - Fluid Dynamics
+  - Solitary Waves
+  - Water Waves
+  - Surface Tension
+  - Hydrodynamics
+tldr: This paper explores the existence of solitary-wave solutions for the classical water-wave problem, which involves the two-dimensional flow of a perfect fluid subject to gravity and surface tension forces. The authors identify a region of parameter space near critical Bond and Froude numbers where there are infinitely many distinct multi-troughed solitary waves of depression. They use a Hamiltonian formulation and center-manifold technique to study these waves and their dynamics, providing insights into the behavior of gravity-capillary waves for various parameter values.
+scientific_discipline: Physics > Fluid Dynamics

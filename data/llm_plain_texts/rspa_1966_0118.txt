@@ -1,0 +1,10 @@
+article_id: rspa_1966_0118
+revised_title: Radiant-Interchange Configuration Factors: Advanced Calculations and Applications
+semantic_tags:
+  - Radiant-Interchange Configuration Factors
+  - Factor Algebra
+  - Optics
+  - Heat Transfer
+  - Engineering
+tldr: This article presents a method for calculating radiant-interchange configuration factors using factor algebra, which simplifies the process of calculating these factors for various plane surfaces. The author demonstrates the method for rectangles, regular polygons, and honeycomb structures, emphasizing the importance of accuracy in these calculations. The findings can be applied to various fields, including optics, heat transfer, and engineering.
+scientific_discipline: Engineering and Technology > Optics and Heat Transfer

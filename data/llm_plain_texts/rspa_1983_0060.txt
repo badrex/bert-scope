@@ -1,0 +1,10 @@
+article_id: rspa_1983_0060
+revised_title: 'Effects of Seasonal Heating on Baroclinic Wave Activity in a Quasi-Geostrophic Model'
+semantic_tags:
+  - Baroclinic waves
+  - Quasi-geostrophic model
+  - Atmospheric dynamics
+  - Climate modeling
+  - Seasonal heating
+tldr: This study investigates the response of finite-amplitude baroclinic waves to seasonal heating in a quasi-geostrophic model. The authors find that the overall baroclinic wave activity is well correlated with time-varying forcing for large Ekman number flows, while smaller Ekman numbers may result in wave amplitude vacillation between different equilibrium states. The results have implications for understanding the role of baroclinic waves in the energy and momentum balance of the atmosphere.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

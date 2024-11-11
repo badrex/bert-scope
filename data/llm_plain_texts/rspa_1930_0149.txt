@@ -1,0 +1,10 @@
+article_id: 'rspa_1930_0149'
+revised_title: 'The Impact of Impurities on Ion Mobility in Gases'
+semantic_tags:
+  - Gas ionization
+  - Impurities in gases
+  - Ion mobility
+  - Gas purity
+  - Ionization processes
+tldr: The authors discuss the impact of impurities on the mobility of ions in gases. They explain that previous experiments may have yielded inaccurate results due to the presence of impurities, such as water vapor, carbon dioxide, and other contaminants. These impurities can affect the nature and mobility of ions, leading to incorrect conclusions. The authors emphasize the importance of using highly pure gases and advanced apparatus designs to obtain accurate results in future experiments.
+scientific_discipline: Chemistry > Physical Chemistry

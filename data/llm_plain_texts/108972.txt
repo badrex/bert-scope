@@ -1,0 +1,10 @@
+article_id: 108972
+revised_title: Torsion and Flexure Experiments for Rigidity Determination
+semantic_tags:
+  - Mechanics
+  - Material Science
+  - Torsion
+  - Flexure
+  - Rigidity
+tldr: The author conducted experiments on torsion and flexure to determine the rigidity of materials. They used a modified apparatus that allowed for easy transition between flexure and torsion measurements. The results showed that the rigidity of the tested material was less than expected, and the Poisson's ratio was determined to be less than 0.4.
+scientific_discipline: Physics > Mechanics

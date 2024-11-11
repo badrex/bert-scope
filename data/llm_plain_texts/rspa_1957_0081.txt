@@ -1,0 +1,10 @@
+article_id: rspa_1957_0081
+revised_title: Binary Correlation Effects in Liquids and Solids: The Cell Theory of Fusion
+semantic_tags:
+  - Statistical mechanics
+  - Thermodynamics
+  - Liquid state theory
+  - Solid state physics
+  - Correlation effects
+tldr: This article investigates correlation effects in liquids and solids near the normal boiling point, focusing on the cell theory of liquids. The authors develop a harmonic force model and evaluate the binary correlation integral for the 12-6 potential, finding that the existence of two condensed phases in equilibrium is possible. The calculated properties of the liquid are in better agreement with observed values for argon than those calculated neglecting correlations.
+scientific_discipline: Physics > Statistical mechanics

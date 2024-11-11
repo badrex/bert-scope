@@ -1,0 +1,10 @@
+article_id: rspa_1935_0090
+revised_title: Optical Activity and Coupled Isotropic Oscillators in Molecules
+semantic_tags:
+  - Quantum Optics
+  - Optical Activity
+  - Molecular Physics
+  - Oscillators
+  - Perturbation Theory
+tldr: The authors present a general theory of optical activity using a system of coupled isotropic oscillators. They focus on molecules with a binary axis of symmetry and discuss the limitations of the theory. The study aims to find practical formulas for optical rotation and dispersion, which can be used to understand the behavior of molecules and their interactions with light.
+scientific_discipline: Physics > Molecular Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1977_0080
+revised_title: 'Inter-subshell Correlations and Simultaneous Ejection of Two Photoelectrons in the Absorption Spectrum of Ga I: A Study of Atomic Gallium'
+semantic_tags:
+  - Atomic Physics
+  - Spectroscopy
+  - Photoelectron Ejection
+  - Gallium
+  - Inter-subshell Correlations
+tldr: This study investigates the absorption spectrum of gallium vapor, focusing on inter-subshell correlations and the simultaneous ejection of two photoelectrons. The researchers detected more than 90 transitions between 440 and 660 A and found that the quenching of one-electron excitation is more pronounced in Ga I than in In I. The findings provide insights into the behavior of atomic gallium and its implications for atomic physics and spectroscopy.
+scientific_discipline: Physics > Atomic Physics

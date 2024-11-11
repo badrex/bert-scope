@@ -1,0 +1,10 @@
+article_id: 105127
+revised_title: 'Gunter's Scale and the Construction of Logarithmic Lines'
+semantic_tags:
+  - Mathematics
+  - Trigonometry
+  - Logarithms
+  - Measurement
+  - History of Science
+tldr: The article explains the construction of logarithmic lines on the Gunter's scale, a mathematical tool used for calculating trigonometric values. It covers the process of creating lines for sines, tangents, and versed sines, and discusses the limitations of the scale due to its length. The author also provides a method for constructing a table of logarithmic versed sines.
+scientific_discipline: Mathematics > Trigonometry

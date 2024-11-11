@@ -1,0 +1,10 @@
+article_id: rspl_1904_0061
+revised_title: Conductivity and Solubility of Organic Compounds in Liquefied Hydrides
+semantic_tags:
+  - Electrochemistry
+  - Solubility
+  - Organic compounds
+  - Conductivity
+  - Liquefied hydrides
+tldr: The authors investigated the solubility and conductivity of various organic compounds in liquefied hydrides of phosphorus, sulfur, and halogens. They found that many organic substances, such as amine salts, acid amides, and certain alkaloids, were readily soluble and formed conducting solutions. The molecular conductivity of these solutions increased with concentration, and the dissolved substances, rather than the halogen hydrides, carried the current, undergoing electrolytic dissociation.
+scientific_discipline: Chemistry > Electrochemistry

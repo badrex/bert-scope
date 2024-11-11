@@ -1,0 +1,10 @@
+article_id: rspa_1935_0005
+revised_title: Ocean Currents and Their Relation to Wind Patterns
+semantic_tags:
+  - Oceanography
+  - Meteorology
+  - Wind patterns
+  - Ocean currents
+  - Fluid dynamics
+tldr: The author investigates the effect of wind on ocean currents and finds that the angle between the current at the surface and the wind is generally less than the angle between the wind and the direction of the current. The study examines the impact of the earth's curvature on the motion and provides solutions for steady currents arising from a wind, considering the stress lines and the streamlines of the ocean.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

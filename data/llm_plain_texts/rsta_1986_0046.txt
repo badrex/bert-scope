@@ -1,0 +1,10 @@
+article_id: rsta_1986_0046
+revised_title: Computational Protein Design and Molecular Modeling: A Novel Approach
+semantic_tags:
+  - Protein design
+  - Molecular modeling
+  - Molecular graphics
+  - Computational methods
+  - Drug design
+tldr: The article discusses the design and properties of novel protein molecules using computer methods for molecular design. The authors present a molecular modeling system, cogs, which allows users to build, modify, and analyze protein structures. The system offers various features, such as interactive building, dynamic molecule manipulation, and computational procedures for molecular mechanics, dynamics, and docking. This approach has applications in enzyme-substrate docking studies for drug design.
+scientific_discipline: Chemistry > Molecular Biology

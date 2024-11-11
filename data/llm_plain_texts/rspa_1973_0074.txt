@@ -1,0 +1,10 @@
+article_id: rspa_1973_0074
+revised_title: 'Inertial Modifications to Ekman and Stewartson Layers in a Rotating Fluid'
+semantic_tags:
+  - Fluid Dynamics
+  - Rotating Fluids
+  - Ekman Layers
+  - Stewartson Layers
+  - Inertial Effects
+tldr: This article investigates the effects of inertial forces on Ekman and Stewartson layers in a rotating fluid. It discusses how these layers are modified when the Rossby number is not negligible, leading to changes in their thickness and structure. The study focuses on the rotating disk problem and source-sink flow in an annulus, providing insights into the behavior of these layers under different conditions.
+scientific_discipline: Physics > Fluid Dynamics

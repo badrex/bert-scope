@@ -1,0 +1,10 @@
+article_id: rsta_1951_0015
+revised_title: Finite Extension and Torsion of Cylinders: Applications and Solutions
+semantic_tags:
+  - Solid Mechanics
+  - Elasticity Theory
+  - Torsion
+  - Finite Deformations
+  - Incompressible Materials
+tldr: The authors apply the theory of finite elastic deformations to the problem of a small twist superposed upon a finite extension of a cylinder with a constant cross-section. They derive a general formula relating the force needed for large extension to the torsional modulus for small torsion. The study includes incompressible materials and provides solutions for various types of cylinders, such as cardioids, epitrochoids, and Booth's lemniscates.
+scientific_discipline: Physics > Solid Mechanics

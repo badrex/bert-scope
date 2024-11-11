@@ -1,0 +1,10 @@
+article_id: rspa_1953_0065
+revised_title: 'Coriolis Force Effect on Fluid Instability'
+semantic_tags:
+  - Fluid Dynamics
+  - Convection
+  - Coriolis Force
+  - Thermal Instability
+  - Astrophysics
+tldr: The author examines the stability of a horizontal fluid layer heated from below and subject to Coriolis forces due to Earth's rotation. The study shows that the Coriolis force inhibits the onset of convection, with the extent of inhibition depending on a non-dimensional parameter. The critical Rayleigh numbers for the onset of convection are provided for different boundary conditions, and the possibility of thermal instability setting in as oscillations is also considered.
+scientific_discipline: Environmental and Earth Sciences > Meteorology and Climate Science

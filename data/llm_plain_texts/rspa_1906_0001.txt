@@ -1,0 +1,12 @@
+article_id: rspa_1906_0001
+revised_title: 'Reports on the Total Solar Eclipse of 1905: Expedition to Castellón de la Plana, Spain'
+semantic_tags:
+  - Solar Eclipse
+  - Astronomy
+  - Observations
+  - Eclipse Expedition
+  - Solar Corona
+scientific_discipline: Astronomy
+```yaml
+tldr: In 1905, a team of astronomers led by H. L. Callender and A. Fowler conducted an expedition to Castellón de la Plana, Spain, to observe the total solar eclipse. Although they did not get a clear view of the sun during totality, they collected valuable data using various instruments, including a coronagraph and a bolometer. The team's observations contributed to the understanding of the solar corona and the behavior of the sun during an eclipse.
+```

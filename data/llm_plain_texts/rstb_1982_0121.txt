@@ -1,0 +1,10 @@
+article_id: 'rstb_1982_0121'
+revised_title: 'Molecular Mechanisms of Cell Locomotion and Interactions'
+semantic_tags:
+  - Cell Biology
+  - Cell Motility
+  - Cell-Cell Interactions
+  - Molecular Biology
+  - Kinematics
+tldr: The authors propose a general approach to analyze the motile behavior of cells, focusing on pairs of cells in collision. They use acceleration as a measure of change in motion and demonstrate its advantages over conventional measures like speed and direction. The method is applied to a case study of collisions between normal and malignant cells, providing insights into contact inhibition of locomotion and its failure during malignant invasion.
+scientific_discipline: Biology and Life Sciences > Cell Biology

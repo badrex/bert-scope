@@ -1,0 +1,10 @@
+article_id: rspa_1962_0058
+revised_title: 'The Interaction of Kinks and Elastic Waves in Isotropic Media'
+semantic_tags:
+  - Dislocations
+  - Elastic waves
+  - Kinks
+  - Radiation reaction
+  - Retarding force
+tldr: The authors study the interaction between kinks and elastic waves in isotropic media. They treat a kink as a 'point defect' with a certain mass, constrained to move along a line and subject to a radiation reaction. They calculate the rate at which an oscillating kink radiates energy into the medium and find that the kink has a ring cross-section for elastic waves proportional to the square of its width. The kink moving through an isotropic flux of elastic waves experiences a retarding force proportional to the product of its velocity and the energy density of the waves.
+scientific_discipline: Physics > Materials Science

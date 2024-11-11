@@ -1,0 +1,10 @@
+article_id: rsta_1935_0010
+revised_title: Kinetic Friction: Properties and Experimental Investigations
+semantic_tags:
+  - Friction
+  - Surface properties
+  - Lubrication
+  - Solid surfaces
+  - Physics
+tldr: This article investigates the physical and mechanical properties of solid surfaces and the effect of surfaces on matter in their vicinity. The authors describe experiments on kinetic friction, dividing it into three categories: no lubrication, boundary lubrication, and fluid lubrication. They discuss the influence of load, area of contact, velocity, and surface hardness on the coefficient of kinetic friction and explore the transition from fluid lubrication to boundary lubrication for various lubricants and surfaces.
+scientific_discipline: Physics > Mechanics

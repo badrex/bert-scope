@@ -1,0 +1,10 @@
+article_id: 'rspb_1975_0089'
+revised_title: 'Spectral and Polarized Light Sensitivity in the Drone Fly Eristalis'
+semantic_tags:
+  - Insect Vision
+  - Photoreceptors
+  - Spectral Sensitivity
+  - Polarization Sensitivity
+  - Eristalis tenax
+tldr: Researchers studied the spectral and polarized light sensitivity of the drone fly Eristalis tenax, discovering four types of spectral sensitivity curves. They found that the drone fly's color vision is more similar to typical flies than bees, with more blue-sensitive receptors and less green-sensitive ones. The study also revealed that the polarization sensitivity of the cells with two spectral peaks is influenced by the presence of three visual pigments.
+scientific_discipline: Biology and Life Sciences > Insect Biology

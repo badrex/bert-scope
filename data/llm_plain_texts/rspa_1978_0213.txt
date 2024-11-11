@@ -1,0 +1,10 @@
+article_id: rspa_1978_0213
+revised_title: Fission Gas Diffusion in Uranium Dioxide: Theoretical Investigation and Experimental Data
+semantic_tags:
+  - Nuclear Materials
+  - Uranium Dioxide
+  - Fission Gas Diffusion
+  - Radiation Damage
+  - Fuel Properties
+tldr: This study investigates the diffusion of fission gases, Kr and Xe, in uranium dioxide fuel. The authors present a theoretical model that differs from previous models and explain the importance of fuel composition on gas diffusion coefficients. The results help to understand the behavior of nuclear fuels during irradiation and the effects of radiation damage.
+scientific_discipline: Environmental and Earth Sciences > Nuclear Materials

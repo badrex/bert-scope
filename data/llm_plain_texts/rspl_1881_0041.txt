@@ -1,0 +1,10 @@
+article_id: rspl_1881_0041
+revised_title: Effects of Stress on the Thermoelectric Quality of Metals
+semantic_tags:
+  - Thermoelectricity
+  - Stress effects
+  - Metals
+  - Mechanical properties
+  - Material science
+tldr: This article investigates the effects of stress on the thermoelectric quality of metals, specifically iron, through various experiments. The author discovered that applying stress to iron wires resulted in a negative thermoelectric effect, which reached a maximum before decreasing and sometimes turning positive before the wire broke. The study also revealed a cyclic phenomenon in which the thermoelectric effect changed depending on the loading and unloading of stress, with the curves forming a wide area. The findings have implications for understanding the relationship between stress and thermoelectric properties in metals.
+scientific_discipline: Physics > Material Science

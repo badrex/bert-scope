@@ -1,0 +1,10 @@
+article_id: 112735
+revised_title: 'Advancements in the Theory of Continuous Beams'
+semantic_tags:
+  - Civil Engineering
+  - Structural Analysis
+  - Beam Theory
+  - Mechanics
+  - Engineering Applications
+tldr: The author, John Mortimer Heppel, discusses the development of the theory of continuous beams and its applications in engineering. He highlights the contributions of various researchers, such as Navier, Clapeyron, Bertot, Bresse, and Belanger, and presents a new method to treat complex cases involving varying loads and sections. The new method is applied to the Britannia bridge, demonstrating its effectiveness in calculating stresses.
+scientific_discipline: Engineering and Technology > Civil Engineering

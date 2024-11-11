@@ -1,0 +1,10 @@
+article_id: rsta_1979_0012
+revised_title: 'Sulphur Pollutants Dispersion in Western Europe: A Review of Pathways and Modelling'
+semantic_tags:
+  - Atmospheric Pollution
+  - Environmental Chemistry
+  - Meteorology
+  - Air Quality Modeling
+  - Long-range Transport
+tldr: This article reviews the dispersion, advection, and deposition of sulfur pollutants in the atmosphere over western Europe. It discusses the various factors influencing the transport of sulfur, from its emission to initial dispersion, advection by wind, dry deposition, chemical change, and wet deposition in precipitation. The authors also examine the importance of modeling and budgeting the exchange of pollution between countries and the need for more sophisticated modeling in complex episodic situations.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

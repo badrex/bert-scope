@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0158'
+revised_title: 'Modeling and Analysis of Parasite and Hyperparasite Population Dynamics in a Closed System'
+semantic_tags:
+  - Population ecology
+  - Parasite dynamics
+  - Hyperparasite interactions
+  - Fungal plant parasites
+  - Biological control agents
+tldr: The authors developed and tested models to analyze the population dynamics of a fungal parasite and its hyperparasite in a closed system, focusing on the economically important fungal plant parasite Sclerotinia minor and the hyperparasite Sporidesmium sclerotivorum. The models help understand the effects of different functional and numerical responses on the parasite and hyperparasite populations, providing insights for biological control applications.
+scientific_discipline: Biology and Life Sciences > Ecology

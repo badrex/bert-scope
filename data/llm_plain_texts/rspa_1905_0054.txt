@@ -1,0 +1,10 @@
+article_id: rspa_1905_0054
+revised_title: 'Spectrum of Radium Radiation in Hydrogen: Unusual Findings'
+semantic_tags:
+  - Spectroscopy
+  - Radium
+  - Hydrogen
+  - Nitrogen Spectrum
+  - Radioactivity
+tldr: The authors conducted experiments to study the spectrum of radium radiation in hydrogen. They discovered that the glow of radium in hydrogen became weaker over time and turned dark brown. When the radium was removed from hydrogen and exposed to air, it initially lost its glow but later regained its original brightness and color. The authors observed a new band in the green part of the spectrum, which they could not identify. They suggested that the radium might have temporarily lost the power to stimulate nitrogen into luminescence when removed from the hydrogen atmosphere.
+scientific_discipline: Physics > Spectroscopy

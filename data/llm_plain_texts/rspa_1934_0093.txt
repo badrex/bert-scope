@@ -1,0 +1,10 @@
+article_id: rspa_1934_0093
+revised_title: 'High Sensitivity Automatic Magnetic Field Stabilizer'
+semantic_tags:
+  - Magnetic field stabilization
+  - Electromagnet
+  - Photoelectric cell
+  - Thyratron
+  - Relay circuits
+tldr: The authors describe a method for automatically stabilizing an electromagnet's field to maintain a constant magnetic field for extended periods. The method uses a double cathode photoelectric cell, which is connected to a valve and thyratron circuit, to control the magnetic field. This automatic stabilizer has been successfully applied to maintain a stable magnetic field for various experiments in the Cavendish Laboratory.
+scientific_discipline: Physics > Electromagnetism

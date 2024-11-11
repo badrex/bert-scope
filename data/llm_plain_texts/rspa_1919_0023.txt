@@ -1,0 +1,11 @@
+article_id: rspa_1919_0023
+revised_title: Two-dimensional Solutions of Poisson's Equations in Engineering and Physics
+semantic_tags:
+  - Poisson's equations
+  - Fluid mechanics
+  - Engineering mechanics
+  - Torsion
+  - Flexure
+  - Green's functions
+scientific_discipline: Mathematics > Applied Mathematics
+tldr: The authors present a method for solving Poisson's equations in two dimensions, which can be applied to various engineering and physics problems, such as fluid mechanics, torsion, and flexure. The new analytical method allows for solving problems that cannot be tackled using soap films, and it provides a general approach to finding functions that satisfy Poisson's or Laplace's equations.

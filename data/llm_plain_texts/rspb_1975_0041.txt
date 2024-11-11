@@ -1,0 +1,10 @@
+article_id: 'rspb_1975_0041'
+revised_title: 'Effects of Anti-ACh-Receptor Antibodies on Neuromuscular Transmission'
+semantic_tags:
+  - Neuromuscular transmission
+  - Acetylcholine receptors
+  - Immunization
+  - Myasthenia gravis
+  - Antibodies
+tldr: The authors studied the effects of injecting rabbits and rats with purified acetylcholine receptors from Torpedo electric organ. This led to diminished acetylcholine sensitivity, reduced miniature end-plate potentials, and blockage of neuromuscular transmission. The results suggest that anti-ACh-receptor antibodies may be involved in neuromuscular diseases like myasthenia gravis.
+scientific_discipline: Biology and Life Sciences > Neuroscience

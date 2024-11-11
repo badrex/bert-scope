@@ -1,0 +1,10 @@
+article_id: 105328
+revised_title: 'Simpson's Method for Determining Series Sum'
+semantic_tags:
+  - Mathematics
+  - Series summation
+  - Algebraic equations
+  - Cubic equations
+  - Mathematical applications
+tldr: The article presents a general method for determining the sum of a series, given the sum of the whole series. The method is demonstrated using a cubic equation and applied to various series, including examples of taking every nth term. This method is useful in higher mathematics and nature's applications.
+scientific_discipline: Mathematics > Algebra

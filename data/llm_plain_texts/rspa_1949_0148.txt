@@ -1,0 +1,10 @@
+article_id: rspa_1949_0148
+revised_title: 'Nuclear Reaction N15(p, a)C12: Cross-Section and Angular Distribution'
+semantic_tags:
+  - Nuclear Physics
+  - Isotope Transformation
+  - Carbon Cycle
+  - Nuclear Energy
+  - Astrophysics
+tldr: The authors conducted experiments to measure the cross-section and angular distribution of the nuclear reaction N15(p, a)C12, which involves the transformation of nitrogen isotope 15 into carbon and helium through bombardment with protons. They found that the reaction is important in forming a link in the nuclear carbon cycle, which is an energy source in matter at high temperatures, such as in stars. The results provide data for extrapolation to stellar conditions and contribute to the understanding of thermonuclear reactions.
+scientific_discipline: Physics > Nuclear Physics

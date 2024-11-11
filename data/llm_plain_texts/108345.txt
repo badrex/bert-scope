@@ -1,0 +1,10 @@
+article_id: 108345
+revised_title: Photographic Self-Registering Meteorological and Magnetical Instruments
+semantic_tags:
+  - Meteorology
+  - Magnetism
+  - Atmospheric science
+  - Photography
+  - Instrumentation
+tldr: The author, Francis Ronalds, developed a system of self-registering photographic instruments to record meteorological and magnetical data. The system uses a combination of a voltaic electrometer, thermometer, and barometer to capture atmospheric changes and variations in electrical charge. This innovative method allowed for more accurate and efficient monitoring of weather and magnetic conditions.
+scientific_discipline: Physics > Atmospheric Science

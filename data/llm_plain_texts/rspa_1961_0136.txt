@@ -1,0 +1,10 @@
+article_id: rspa_1961_0136
+revised_title: Ion Balance and Negative Ion Destruction Processes in Oxygen D.C. Glow Discharge
+semantic_tags:
+  - Plasma physics
+  - Ionization
+  - Glow discharge
+  - Negative ions
+  - Oxygen plasma
+tldr: The author investigates the ion balance and negative ion destruction processes in an oxygen d.c. glow discharge. They find that negative ions are mainly destroyed by collision with oxygen atoms and establish a double-sheath criterion for electronegative plasmas. The study also reveals that the positive column of the discharge is unstable due to ion densities not matching the generation by electron impact and wall loss.
+scientific_discipline: Physics > Plasma Physics

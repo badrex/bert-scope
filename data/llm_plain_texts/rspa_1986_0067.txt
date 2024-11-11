@@ -1,0 +1,10 @@
+article_id: rspa_1986_0067
+revised_title: 'Anelastic Relaxation and Atomic Transport in Crystals with Point Defects'
+semantic_tags:
+  - Point Defects
+  - Anelastic Relaxation
+  - Atomic Transport
+  - Crystal Physics
+  - Kinetic Theory
+tldr: The authors apply the kinetic theory of isothermal atomic transport via point defects to describe anelastic relaxation in crystals containing defect pairs. They include defect reactions leading to the dissociation and reformation of these pairs and discuss the effects of these reactions on the elastic response and relaxation times of the crystals. The theory is used to evaluate the response of crystals containing paired defects to time-dependent, spatially uniform, elastic stress fields, which are studied in typical anelastic relaxation experiments.
+scientific_discipline: Physics > Materials Science

@@ -1,0 +1,10 @@
+article_id: 'rspa_1963_0124'
+revised_title: 'Conformal Spaces in General Relativity'
+semantic_tags:
+  - General Relativity
+  - Conformal Geometry
+  - Space-Time
+  - Mathematical Physics
+  - Spinors
+tldr: The authors explore conformal spaces in the context of general relativity, focusing on spinors and the properties of space-time. They demonstrate that certain spaces are conformal to a class of spaces and discuss the implications of this relationship.
+scientific_discipline: Physics > Mathematical Physics

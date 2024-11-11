@@ -1,0 +1,10 @@
+article_id: rspa_1964_0149
+revised_title: Torsional Barrier and Vibrational Coupling in Dimethylacetylene
+semantic_tags:
+  - Molecular Spectroscopy
+  - Vibrational Coupling
+  - Torsional Barrier
+  - Dimethylacetylene
+  - Infra-red Spectrum
+tldr: The authors studied the infra-red spectrum of dimethylacetylene and found that the doubling of main peaks in the spectrum is likely due to vibrational coupling between the two methyl groups. They also estimated the torsional barrier to be not greater than about 10 and explained how it could be accurately evaluated from a better-resolved infra-red spectrum.
+scientific_discipline: Chemistry > Molecular Spectroscopy

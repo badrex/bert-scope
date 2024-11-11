@@ -1,0 +1,10 @@
+article_id: rspa_1981_0102
+revised_title: 'Anomalous Dispersion Measurements with X-ray Interferometers'
+semantic_tags:
+  - X-ray interferometry
+  - Anomalous dispersion
+  - X-ray spectroscopy
+  - Atomic scattering factor
+  - Synchrotron radiation
+tldr: The authors conducted experiments using X-ray interferometers to measure anomalous dispersion constants for zirconium, niobium, and molybdenum. The results achieved a high precision, allowing for a systematic comparison with dispersion theory. The study demonstrated the potential of X-ray interferometry for further research in a wide variety of elements and wavelengths.
+scientific_discipline: Physics > Optics

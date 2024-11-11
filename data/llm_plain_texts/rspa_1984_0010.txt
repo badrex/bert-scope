@@ -1,0 +1,10 @@
+article_id: rspa_1984_0010
+revised_title: 'Secular and Long-Periodic Variations in Satellite Mean Anomaly due to a Rotating Oblate Atmosphere with Diurnal Density Variation'
+semantic_tags:
+  - Satellite Orbits
+  - Atmospheric Drag
+  - Orbital Elements
+  - Atmospheric Density
+  - Space Dynamics
+tldr: The study investigates the secular and long-periodic changes in the mean anomaly of a satellite orbit due to atmospheric oblateness and diurnal density variation. The research combines these effects into a single theoretical framework and provides expressions for the changes in the mean anomaly during one orbital period. The findings can be used to improve the understanding of the Earth's upper atmosphere and its impact on satellite orbits.
+scientific_discipline: Environmental and Earth Sciences > Space Dynamics

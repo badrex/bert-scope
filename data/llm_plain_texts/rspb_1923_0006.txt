@@ -1,0 +1,10 @@
+article_id: 'rspb_1923_0006'
+revised_title: 'Thermodynamics of Oxygen-Dissociation in Blood'
+semantic_tags:
+  - Blood oxygenation
+  - Hemoglobin
+  - Thermodynamics
+  - Osmotic pressure
+  - Polymerization
+tldr: The authors studied the oxygen-dissociation curve of blood and its thermodynamical basis. They found that the equation relating to the volume of oxygen taken up by hemoglobin can be deduced thermodynamically. The authors also discussed the effect of temperature on the dissociation curve and the heat of reaction of oxygen with hemoglobin. Their findings support the hypothesis that the reversible chemical combination of oxygen with hemoglobin involves a degree of polymerization.
+scientific_discipline: Biology and Life Sciences > Biochemistry

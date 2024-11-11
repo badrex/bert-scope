@@ -1,0 +1,10 @@
+article_id: 'rspb_1906_0031'
+revised_title: 'Voges and Proskauer's Reaction: A Bacterial Differentiation Method'
+semantic_tags:
+  - Bacteriology
+  - Microbiology
+  - Bacterial metabolism
+  - Intestinal bacteria
+  - Chemical reactions
+tldr: The authors studied Voges and Proskauer's reaction, a color test used to differentiate certain bacteria. They discovered that the reaction is caused by acetylmethylcarbinol, a substance produced by bacteria when breaking down glucose. The reaction occurs when acetylmethylcarbinol is oxidized to diacetyl, which then reacts with a component in peptone water. This research helps in identifying and understanding the metabolic processes of various bacteria.
+scientific_discipline: Biology and Life Sciences > Microbiology

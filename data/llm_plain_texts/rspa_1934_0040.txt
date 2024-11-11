@@ -1,0 +1,10 @@
+article_id: rspa_1934_0040
+revised_title: Study of Electrolytic Dissociation by the Raman Effect in Nitrates
+semantic_tags:
+  - Raman spectroscopy
+  - Electrolytic dissociation
+  - Nitrates
+  - Ionic dissociation
+  - Conductivity
+tldr: The authors investigated the electrolytic dissociation of nitrates using the Raman effect. They found that nitrates are completely dissociated in solution, as evidenced by identical Raman spectra for all nitrates. This contrasts with conductivity measurements, which suggested progressive dissociation. The Raman effect method provides a direct and reliable means of measuring electrolytic dissociation, even in concentrated solutions.
+scientific_discipline: Chemistry > Electrochemistry

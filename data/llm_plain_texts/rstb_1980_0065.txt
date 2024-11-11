@@ -1,0 +1,10 @@
+article_id: 'rstb_1980_0065'
+revised_title: 'Nuclear Magnetic Resonance Imaging of Intact Biological Systems'
+semantic_tags:
+  - MRI
+  - Nuclear Magnetic Resonance
+  - Medical Imaging
+  - Biological Systems
+  - Tumor Detection
+tldr: 'The article discusses the use of nuclear magnetic resonance (NMR) to create images of intact biological systems, such as fruits, animals, and humans. NMR imaging, also known as spin mapping or zeugmatography, uses a non-uniform magnetic field to label different parts of the specimen with different NMR frequencies, allowing for the generation of internal images. The technique is non-invasive, does not use ionizing radiation, and can detect differences in relaxation times between normal and tumor tissues.'
+scientific_discipline: 'Medicine and Health Sciences > Medical Imaging'

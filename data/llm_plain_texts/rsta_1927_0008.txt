@@ -1,0 +1,10 @@
+article_id: rsta_1927_0008
+revised_title: The Deferred Approach to the Limit in Mathematics
+semantic_tags:
+  - Numerical Analysis
+  - Differential Equations
+  - Extrapolation Methods
+  - Fourier Analysis
+  - Central Differences
+scientific_discipline: Mathematics > Numerical Analysis
+tldr: This article discusses the deferred approach to the limit, a method for solving mathematical problems involving differential equations and central differences. The author examines the -extrapolation method and its applications, including Fourier analysis and numerical analysis. The article also explores the use of interpenetrating lattices and single lattice methods in arithmetic.

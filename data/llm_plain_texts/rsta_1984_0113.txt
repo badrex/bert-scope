@@ -1,0 +1,11 @@
+article_id: 'rsta_1984_0113'
+revised_title: 'Applications of Guided Waves in Nonlinear Optics: A Review'
+semantic_tags:
+  - Nonlinear Optics
+  - Guided Waves
+  - Waveguide Nonlinearities
+  - Optical Bistability
+  - Coherent Anti-Stokes Raman Scattering
+tldr: This article reviews the applications of guided waves in nonlinear optics, focusing on second-order and third-order nonlinearities. It discusses the generation of second-harmonic radiation, nonlinear guided waves, optical bistability, and coherent anti-Stokes Raman scattering in waveguides. The article highlights the potential of guided waves for practical applications in nonlinear optics due to their ability to provide high power densities and long interaction distances.
+scientific_discipline: Physics > Optics
+```

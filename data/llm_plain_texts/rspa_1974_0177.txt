@@ -1,0 +1,10 @@
+article_id: rspa_1974_0177
+revised_title: 'Determination of Kinetic Energy Distributions from Metastable Peak Shapes'
+semantic_tags:
+  - Mass spectrometry
+  - Kinetic energy release
+  - Metastable ions
+  - Peak shape analysis
+  - Ion fragmentation
+tldr: The authors present a general method for determining the distribution of kinetic energy releases in unimolecular ionic reactions occurring in the analyser of a mass spectrometer. They show that the method is applicable to reactions with a wide range of average kinetic energy release and provide accurate values for the first time using a generally applicable technique. The authors also explore the relation between the average kinetic energy released and the width at half-height of the corresponding metastable peak for peaks of various shapes.
+scientific_discipline: Chemistry > Analytical Chemistry

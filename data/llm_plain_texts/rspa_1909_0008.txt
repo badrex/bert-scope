@@ -1,0 +1,10 @@
+article_id: rspa_1909_0008
+revised_title: The Yielding of the Earth to Disturbing Forces: A Mathematical and Physical Analysis
+semantic_tags:
+  - Geophysics
+  - Earth's Deformation
+  - Tides
+  - Potential Theory
+  - Earth's Density
+tldr: The author analyzes the yielding of the Earth to disturbing forces, such as tides and variations of latitude, and explores the relationship between the Earth's density, rigidity, and potential. They develop a mathematical and physical framework to estimate the Earth's rigidity and the effects of these forces on the Earth's shape and potential.
+scientific_discipline: Physics > Geophysics

@@ -1,0 +1,10 @@
+article_id: 'rstb_1993_0139'
+revised_title: 'Structural Analysis of HIV-1 Envelope Glycoprotein gp120 and Its Interaction with CD4'
+semantic_tags:
+  - HIV-1
+  - gp120
+  - CD4 receptor
+  - Antibody reactivity
+  - Protein structure
+tldr: The authors studied the structure and function of the HIV-1 envelope glycoprotein gp120 and its interaction with the CD4 receptor. They used monoclonal antibodies to map the surface topology of gp120 and analyzed how mutations in one domain influence the binding of antibodies to other domains. This research helps to understand the inter-domain interactions that contribute to the overall structure of gp120 and may aid in the development of drugs and vaccines to prevent HIV infection.
+scientific_discipline: Biology and Life Sciences > Immunology

@@ -1,0 +1,10 @@
+article_id: rspa_1926_0098
+revised_title: 'Fundamental Equations and Phase Rule for Electrolyte Equilibria'
+semantic_tags:
+  - Electrochemistry
+  - Thermodynamics
+  - Phase rule
+  - Electrolytes
+  - Equilibrium
+tldr: This article presents the fundamental equations and phase rule for the equilibrium of heterogeneous systems, including electrolytes. The authors develop a method to obtain the general conditions of equilibrium in systems containing electrolytes, considering electric forces at phase boundaries and the components' electric neutrality. They also discuss the application of the phase rule to systems with electrolytes and the conditions of equilibrium between phases.
+scientific_discipline: Chemistry > Electrochemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1954_0122
+revised_title: 'Catalysis on Evaporated Metal Films: Exchange Reactions of Propane and Isobutane with Deuterium'
+semantic_tags:
+  - Catalysis
+  - Hydrocarbon Exchange
+  - Metal Films
+  - Mass Spectrometry
+  - Deuterium
+tldr: The article investigates the exchange reactions of propane and isobutane with deuterium on evaporated metal films, such as tungsten, rhodium, and nickel, using mass spectrometry. The study found that the exchange reactions occur at lower temperatures than for ethane and that the efficiency of different metals in bringing about multiple exchange is a characteristic property of the metal for hydrocarbon exchange reactions. The rates of exchange for secondary and tertiary hydrogen atoms in propane and isobutane were found to be faster than those for primary hydrogen atoms.
+scientific_discipline: Chemistry > Catalysis

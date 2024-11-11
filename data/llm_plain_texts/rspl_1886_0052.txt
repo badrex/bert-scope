@@ -1,0 +1,10 @@
+article_id: rspl_1886_0052
+revised_title: 'Harmonic Components and Atmospheric Phenomena Computation'
+semantic_tags:
+  - Atmospheric Science
+  - Harmonic Analysis
+  - Climate Science
+  - Data Analysis
+  - Weather Prediction
+tldr: This paper presents a method for computing the harmonic components of formulae representing daily and yearly variations in atmospheric temperature and pressure, which is less laborious than the traditional method while maintaining similar accuracy. The author applies this method to a series of atmospheric data, demonstrating its effectiveness in predicting atmospheric phenomena.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

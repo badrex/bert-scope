@@ -1,0 +1,10 @@
+article_id: rspa_1967_0162
+revised_title: 'Oxygen Chemisorption and Incorporation on Nickel Surfaces: A Study of Surface Potential Changes'
+semantic_tags:
+  - Surface Chemistry
+  - Nickel Surface
+  - Oxygen Chemisorption
+  - Surface Potential
+  - Incorporation Kinetics
+tldr: The authors used a static capacitor device to measure surface potential changes during oxygen chemisorption on clean nickel films. They found that oxygen doses added at higher temperatures cause a surface potential decrease, followed by a slow decrease due to oxygen incorporation into the metal lattice. The kinetics of the incorporation process were affected by the surface electric field formed by the oxygen-nickel double layer. The study provided insights into the degree of ionicity of the chemisorbed oxygen-nickel bond and the surface energy barrier that oxygen adatoms must overcome to be incorporated into the metal lattice.
+scientific_discipline: Chemistry > Surface Chemistry

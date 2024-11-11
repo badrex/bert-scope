@@ -1,0 +1,10 @@
+article_id: rspa_1984_0013
+revised_title: 'Superconducting-Normal Interface Resistance at Absolute Zero'
+semantic_tags:
+  - Superconductivity
+  - Interface resistance
+  - Andreev reflection
+  - Bismuth
+  - Lead alloys
+tldr: The author investigates the resistance at a superconducting-normal interface at absolute zero temperature. They develop a three-dimensional theory to explain the enhanced interface resistance observed when bismuth is added to the lead superconductor. The theory predicts a linear variation of resistance with bismuth content, but the calculated resistance is still higher than the experimental measurements.
+scientific_discipline: Physics > Condensed Matter Physics

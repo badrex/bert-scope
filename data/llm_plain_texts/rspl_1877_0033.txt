@@ -1,0 +1,10 @@
+article_id: rspl_1877_0033
+revised_title: Distribution of Electrolyte Radicals on Conductors: Experiments with Silver Strips and Copper Cylinders
+semantic_tags:
+  - Electrochemistry
+  - Electrolytes
+  - Conductivity
+  - Copper
+  - Silver
+tldr: The author conducted experiments to study the distribution of positive and negative radicals of electrolytes on insulated metallic conductors. They used silver strips and copper cylinders in a solution of copper sulfate to observe the accumulation of radicals near the electrodes. The results showed that the positive radical accumulates more near the positive electrode, while the negative radical spreads over a greater surface area.
+scientific_discipline: Chemistry > Electrochemistry

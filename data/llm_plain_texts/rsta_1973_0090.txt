@@ -1,0 +1,10 @@
+article_id: rsta_1973_0090
+revised_title: Advances in Heavy Electrical Plant: Air-Blast Circuit Breakers
+semantic_tags:
+  - Circuit Breakers
+  - Electrical Engineering
+  - High Voltage Technology
+  - Air-Blast Technology
+  - Power Systems
+tldr: This article discusses the current design trends and advancements in heavy electrical plant, specifically air-blast circuit breakers. It explores the advantages of using air as a switching medium and the research being conducted on gas-blast interrupters. The article also reviews various constructions and designs of air-blast circuit breakers, their use in different voltage ranges, and the requirements for ultra-high voltage circuit breakers.
+scientific_discipline: Engineering and Technology > Electrical Engineering

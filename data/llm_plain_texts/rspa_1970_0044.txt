@@ -1,0 +1,10 @@
+article_id: rspa_1970_0044
+revised_title: 'Flash Photolysis of Oximes: Decomposition Mechanism and Nitric Oxide Inhibition'
+semantic_tags:
+  - Photochemistry
+  - Oxime decomposition
+  - Nitric oxide inhibition
+  - Hydroxyl radicals
+  - Chain-propagating radicals
+scientific_discipline: Chemistry > Photochemistry
+tldr: The flash photolysis of oximes, specifically formaldoxime and acetaldoxime, was studied under isothermal and adiabatic conditions. The authors found that oximes decompose by a short chain mechanism with hydroxyl radicals as the chain-propagating radicals. Nitric oxide accelerates the decomposition by sensitizing the production of hydroxyl radicals. This confirms the mechanism proposed by Pratt and Purnell, providing further evidence for the inhibition theory of Norrish and Pratt.

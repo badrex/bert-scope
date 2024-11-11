@@ -1,0 +1,10 @@
+article_id: rspa_1956_0055
+revised_title: 'Transient Solution of the Buried Line Source Problem in Seismology'
+semantic_tags:
+  - Seismology
+  - Elasticity
+  - Wave Propagation
+  - Boundary Value Problems
+  - Earthquake Analysis
+tldr: The authors present an exact transient solution for the buried line source problem in seismology, using a different approach that reduces the complexity of the problem and allows for closed-form algebraic expressions for surface displacements. The method is applicable to any interior points and provides results for surface displacements as a function of time and position.
+scientific_discipline: Environmental and Earth Sciences > Seismology

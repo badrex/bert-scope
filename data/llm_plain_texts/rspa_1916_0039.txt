@@ -1,0 +1,10 @@
+article_id: 'rspa_1916_0039'
+revised_title: 'Spherical Resonator with Circular Aperture: Period and Wave-Length Determination'
+semantic_tags:
+  - Acoustics
+  - Resonators
+  - Wave-length
+  - Aerial Vibration
+  - Helmholtz Resonator
+tldr: The authors examine the period and wave-length of a spherical resonator with a circular aperture, building upon Lord Rayleigh's work on the Helmholtz resonator. They provide a second approximation for the wave-length determination and discuss the behavior of iron under minimal magnetic force. This study contributes to understanding the fundamental vibrations of spherical vessels and their applications in acoustics.
+scientific_discipline: Physics > Acoustics

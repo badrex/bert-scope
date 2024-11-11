@@ -1,0 +1,10 @@
+article_id: rspa_1923_0015
+revised_title: 'The Propagation of Earthquake Waves: A Study of Seismic Waves'
+semantic_tags:
+  - Seismology
+  - Earthquake waves
+  - Elasticity
+  - Wave propagation
+  - Earth's interior
+tldr: The author investigates the propagation of earthquake waves and identifies two types of seismic waves: secondary and primary disturbances. They develop equations to describe these waves and their behavior within the Earth's interior, providing insights into the nature of earthquake waves and their impact on the Earth's structure.
+scientific_discipline: Earth Sciences > Seismology

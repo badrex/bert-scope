@@ -1,0 +1,10 @@
+article_id: 110973
+revised_title: 'Table of Absolute Alcohol Value in Spirits of Different Specific Gravities'
+semantic_tags:
+  - Alcohol
+  - Specific Gravity
+  - Fermentation
+  - Distillation
+  - Chemistry of Alcoholic Beverages
+tldr: The author, George Fownes, created a new table for the value of absolute alcohol in spirits of different specific gravities. The table was formed by mixing absolute alcohol and distilled water in fixed proportions and determining their specific gravity at 60°F. The alcohol was prepared by digesting the strongest rectified spirit with dry carbonate of potash and powdered quicklime before distilling. The table is accompanied by a diagram contrasting the actual specific gravities found by experiment with the calculated mean specific gravities of the mixtures.
+scientific_discipline: Chemistry > Chemistry of Alcoholic Beverages

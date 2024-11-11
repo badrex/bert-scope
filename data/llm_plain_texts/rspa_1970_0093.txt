@@ -1,0 +1,10 @@
+article_id: 'rspa_1970_0093'
+revised_title: 'Faster-than-light Group Velocities and Causality Violation: A Revisit'
+semantic_tags:
+  - Relativity
+  - Quantum Mechanics
+  - Wave Equations
+  - Tachyons
+  - Signal Propagation
+tldr: The authors analyze the concept of faster-than-light group velocities and their relation to causality violation. They demonstrate that the appearance of superluminal group velocities is not a sufficient condition for causality violation and that Lorentz-invariant wave equations, including the Feinberg 'tachyon', are causal. They also discuss the propagation of Klein-Gordon waves and Bludman-Ruderman sound waves, concluding that they do not violate causality.
+scientific_discipline: Physics > Relativity

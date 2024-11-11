@@ -1,0 +1,10 @@
+article_id: rsta_1977_0100
+revised_title: Lunar Melting and the Moon's Internal Structure
+semantic_tags:
+  - Lunar geology
+  - Moon's interior
+  - Librations
+  - Hydrostatic equilibrium
+  - Lunar surface
+tldr: The author discusses the discrepancies between the observed moments of inertia of the Moon and the values predicted by hydrostatic equilibrium. They analyze the lunar librations and conclude that the Moon's outer shell, which is 200 km in depth, must be primarily responsible for these anomalies. This outer shell has never been molten as a whole, and the Moon's interior must depart from hydrostatic equilibrium.
+scientific_discipline: Earth Sciences > Geology

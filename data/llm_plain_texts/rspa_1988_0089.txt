@@ -1,0 +1,10 @@
+article_id: rspa_1988_0089
+revised_title: 'Levitated Droplet Arrays and Their Evaporation and Combustion on a Hot Surface'
+semantic_tags:
+  - Droplet interactions
+  - Leidenfrost evaporation
+  - Combustion
+  - Heat transfer
+  - Spray applications
+tldr: The authors studied the evaporation and combustion of levitated droplet arrays on a hot surface, focusing on the interactions between droplets in various geometrical configurations. They found that the burning rates and flame shapes of droplets in close proximity differ from those of isolated droplets. The results provide insights into applications such as combustion of fuel sprays, cooling of electronic devices, and fire extinguishment.
+scientific_discipline: Engineering and Technology > Heat Transfer

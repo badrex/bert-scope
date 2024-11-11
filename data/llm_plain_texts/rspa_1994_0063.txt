@@ -1,0 +1,10 @@
+article_id: rspa_1994_0063
+revised_title: Canards and the Inflection Line in the EOE Equations
+semantic_tags:
+  - Singular Perturbation
+  - Canard Explosion
+  - Nonlinear Ordinary Differential Equations
+  - Hopf Bifurcation
+  - Mathematical Analysis
+tldr: The authors analyze the asymptotic behavior of canards in the EOE equations, a system of nonlinear ordinary differential equations, and the role of the inflection line in canard explosions. They show that the two-dimensional EOE equations can be recast as a singular perturbation problem and provide an asymptotic expansion of the canard point, which agrees with numerical results. The study also proves that the discontinuous canard explosion cannot occur and that the two definitions of the canard point are virtually identical.
+scientific_discipline: Mathematics > Mathematical Analysis

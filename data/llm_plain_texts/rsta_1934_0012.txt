@@ -1,0 +1,10 @@
+article_id: rsta_1934_0012
+revised_title: Heat Evolution in a Medium: Analyzing One-Dimensional Flow
+semantic_tags:
+  - Heat transfer
+  - Heat conduction
+  - Heat sources
+  - Heat flow
+  - Heat-evolving medium
+tldr: This article explores the problem of heat flow in a heat-evolving medium and presents a method to solve equations related to this phenomenon. The author discusses various cases of one-dimensional heat flow and provides a solution for a cylinder, slab, and sphere, which can be used to analyze heat transfer in different scenarios.
+scientific_discipline: Physics > Thermodynamics

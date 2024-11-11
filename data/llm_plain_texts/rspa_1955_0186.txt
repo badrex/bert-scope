@@ -1,0 +1,10 @@
+article_id: rspa_1955_0186
+revised_title: 'Investigation of the Recombination of Iodine Atoms: Factors Affecting the Observed Rate Constant'
+semantic_tags:
+  - Chemical kinetics
+  - Iodine recombination
+  - Termolecular reactions
+  - Temperature effects
+  - Gas-phase chemistry
+tldr: 'This study investigates the recombination of iodine atoms in the presence of inert gases, finding that the simple termolecular rate law is not obeyed. The experimentally determined termolecular rate constant increases with the ratio of iodine molecule to inert gas molecule concentrations. A rapid termolecular reaction is postulated to explain the observed linear relationships. Temperature effects, such as thermal gradients, are found to play a significant role in the deviations from simple third-order kinetics.'
+scientific_discipline: Chemistry > Chemical kinetics

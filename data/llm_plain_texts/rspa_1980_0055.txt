@@ -1,0 +1,10 @@
+article_id: 'rspa_1980_0055'
+revised_title: 'The Evolution of Solid State Physics: A Historical Overview'
+semantic_tags:
+  - Solid state physics
+  - Quantum mechanics
+  - Crystallography
+  - Thermoelectricity
+  - Band theory of solids
+tldr: The article recounts the development of solid state physics from 1926 to 1933, focusing on key figures and breakthroughs in the field. It discusses the work of Sommerfeld, Bloch, and others, and highlights the importance of Fermi statistics, the concept of Brillouin zones, and the understanding of electron behavior in periodic potentials.
+scientific_discipline: Physics > Solid state physics

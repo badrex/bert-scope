@@ -1,0 +1,10 @@
+article_id: rspa_1931_0064
+revised_title: 'Scattering of Light by Turbid Media: A Theoretical Study'
+semantic_tags:
+  - Light scattering
+  - Turbid media
+  - Optics
+  - Dielectric materials
+  - Absorption and reflection
+tldr: This article presents a theoretical study of light scattering by turbid media, focusing on dense turbid materials like opal diffusing glasses. The authors develop a general theory that considers factors such as refractive index, particle size and number, wavelength of incident light, absorption coefficient, and thickness of the medium. They provide expressions for the total transmission and reflection of a sheet containing particles and discuss the effects of interference and reflection on these properties.
+scientific_discipline: Physics > Optics

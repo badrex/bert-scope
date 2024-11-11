@@ -1,0 +1,10 @@
+article_id: rspa_1927_0018
+revised_title: Temperature and Pressure Regulation in Prismatic Spectrographs
+semantic_tags:
+  - Spectroscopy
+  - Temperature regulation
+  - Pressure regulation
+  - Prism spectrographs
+  - Optics
+tldr: The author discusses the importance of temperature and pressure regulation in prismatic spectrographs and presents a method to eliminate irregular temperature gradients, resulting in improved definition and accuracy of the spectrograph's measurements.
+scientific_discipline: Physics > Optics

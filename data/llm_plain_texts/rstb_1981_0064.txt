@@ -1,0 +1,10 @@
+article_id: 'rstb_1981_0064'
+revised_title: 'Glyceraldehyde-3-phosphate Dehydrogenase: Pathway of Catalysis and Enzyme Structure'
+semantic_tags:
+  - Glycolysis
+  - Enzyme kinetics
+  - Glyceraldehyde-3-phosphate dehydrogenase
+  - Enzyme structure
+  - NAD+ binding
+tldr: The article discusses the pathway of catalysis for glyceraldehyde-3-phosphate dehydrogenase, an enzyme involved in glycolysis. The author presents transient and steady-state kinetic studies on the rabbit muscle enzyme, providing evidence for the Segal-Boyer pathway of catalysis. The article also reviews the enzyme's structure and the molecular basis of cooperativity, highlighting the importance of NAD+ binding in the enzyme's function.
+scientific_discipline: Biology and Life Sciences > Biochemistry

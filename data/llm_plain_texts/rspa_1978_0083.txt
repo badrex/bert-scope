@@ -1,0 +1,10 @@
+article_id: rspa_1978_0083
+revised_title: 'Soliton Solutions and Multi-Soliton Interactions in the Davey-Stewartson Equation'
+semantic_tags:
+  - Solitons
+  - Davey-Stewartson Equation
+  - Inverse Scattering Theory
+  - Nonlinear Waves
+  - Fluid Dynamics
+tldr: The authors demonstrate that the Davey-Stewartson equation, which describes two-dimensional surface waves on water, can be solved using the inverse scattering method. They find soliton and multi-soliton solutions for the equation, which describe the interaction of solitons skewed in different directions. The study has implications for understanding nonlinear waves in fluid dynamics.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rsta_1991_0060
+revised_title: Fluid Loading with Mean Flow: Response of an Elastic Plate to Localized Excitation
+semantic_tags:
+  - Fluid dynamics
+  - Elastic plates
+  - Wave mechanics
+  - Structural acoustics
+  - Fluid-structure interaction
+tldr: This article investigates the response of a fluid-loaded elastic plate to localized excitation in the presence of a uniform incompressible flow. The authors find that the fluid-plate system becomes absolutely unstable when the dimensionless mean velocity exceeds a certain threshold. They also discover that the exciting force must absorb energy throughout the convectively unstable and anomalous neutral frequency ranges. The study provides insights into wave propagation and instability in fluid flow over compliant surfaces, with implications for structural acoustics and engineering applications.
+scientific_discipline: Physics > Fluid dynamics

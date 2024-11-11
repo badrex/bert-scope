@@ -1,0 +1,10 @@
+article_id: 'rspa_1911_0061'
+revised_title: 'Adsorption and Chemical Reactions in Colloidal Systems'
+semantic_tags:
+  - Colloidal systems
+  - Adsorption
+  - Chemical reactions
+  - Light energy
+  - Refractive index
+tldr: This article discusses the properties of colloidal systems and the role of adsorption in chemical reactions. The author explains how the energy of a light beam is distributed in waves of compression and how this relates to the intensity of the beam. The fraction of energy located in these waves is proportional to the beam's intensity, and the author provides an example using sunlight. Additionally, the author notes that a beam of light incident on a reflecting or absorbing surface can give rise to elastic waves in the material with a frequency double that of the light waves.
+scientific_discipline: Chemistry > Colloidal Chemistry

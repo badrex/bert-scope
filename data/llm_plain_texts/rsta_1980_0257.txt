@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0257'
+revised_title: 'Time-Resolved Fluorescence Studies on Tryptophan and Simple Peptides'
+semantic_tags:
+  - Fluorescence spectroscopy
+  - Tryptophan
+  - Peptides
+  - Ultra-short laser pulses
+  - Biochemistry
+tldr: This article discusses the use of ultra-short laser pulses to study the time-resolved fluorescence of tryptophan and simple peptides in biological systems. The authors describe their experimental setup and findings, including the decay of fluorescence and the transfer of energy between molecules. Their work provides insights into the structure and function of these biomolecules.
+scientific_discipline: Biology and Life Sciences > Biochemistry

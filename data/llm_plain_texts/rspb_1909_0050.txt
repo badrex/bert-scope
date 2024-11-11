@@ -1,0 +1,10 @@
+article_id: 'rspb_1909_0050'
+revised_title: 'Investigating the Presence of Carbon Monoxide in Blood During Chloroform Anaesthesia'
+semantic_tags:
+  - 'Blood gases'
+  - 'Chloroform anaesthesia'
+  - 'Carbon monoxide'
+  - 'Gas analysis'
+  - 'Respiratory physiology'
+tldr: 'The authors conducted experiments to determine the presence of carbon monoxide in blood during chloroform anaesthesia. They found that the excessive residual gas in blood samples was mostly chloroform vapour, not carbon monoxide. The authors could not confirm the previous findings of carbon monoxide presence in blood during chloroform anaesthesia using different methods, including spectroscopy and Haldane's method.'
+scientific_discipline: 'Biology and Life Sciences > Physiology'

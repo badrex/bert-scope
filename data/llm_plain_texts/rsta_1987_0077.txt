@@ -1,0 +1,10 @@
+article_id: rsta_1987_0077
+revised_title: Ultra-high-sensitivity Mass Spectrometry with Accelerators: Applications and Techniques
+semantic_tags:
+  - Accelerator Mass Spectrometry
+  - Isotope Ratios
+  - Radioisotope Analysis
+  - Cosmic Rays
+  - Terrestrial and Extraterrestrial Samples
+tldr: The authors describe an experimental setup for measuring ultra-low 26Al:27Al ratios using accelerator mass spectrometry. This technique allows for the analysis of small samples and has various applications, including measuring weathering rates, exposure histories, and the origin of tektites. The high sensitivity of this method also enables the study of extraterrestrial materials, such as meteorites and lunar samples.
+scientific_discipline: Earth Sciences > Geochemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1953_0098
+revised_title: Kinetics of the Photo-Oxidation of Benzaldehyde
+semantic_tags:
+  - Photochemistry
+  - Radical reactions
+  - Benzaldehyde oxidation
+  - Reaction kinetics
+  - Peroxy radicals
+tldr: The authors investigated the kinetics of the photo-oxidation of benzaldehyde in decane solution. They found that the rate of the reaction was proportional to the first power of the benzaldehyde concentration and the square root of the intensity of the absorbed light. The reaction was independent of oxygen pressure. The study suggests that the dehydrogenation of the aldehyde by the peroxy radical is the rate-determining step in propagation, and the termination step involves the interaction of two peroxy radicals.
+scientific_discipline: Chemistry > Organic Chemistry

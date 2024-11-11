@@ -1,0 +1,10 @@
+article_id: rsta_1996_0009
+revised_title: 'Unified Substructure-Subdomain Method for Fluid-Structure Interactions'
+semantic_tags:
+  - Fluid-Structure Interactions
+  - Mixed Finite Element Method
+  - Substructure Methods
+  - Variational Formulations
+  - Computational Fluid Dynamics
+tldr: This article presents a unified substructure-subdomain method for analyzing the dynamic behavior of large, complex fluid-structure interaction problems. The method combines the Rayleigh-Ritz method and finite-element analysis to divide the problem into smaller, more manageable subsystems. The authors develop solid, fluid, and mixed models for substructures and subdomains, and describe techniques for mode reduction and synthesis of substructure and subdomain equations. The method is demonstrated through various fluid-structure and air-structure interaction problems.
+scientific_discipline: Engineering and Technology > Computational Fluid Dynamics

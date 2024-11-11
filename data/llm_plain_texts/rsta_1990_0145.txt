@@ -1,0 +1,10 @@
+article_id: 'rsta_1990_0145'
+revised_title: 'Optimization Strategies in Chiral Liquid Chromatography'
+semantic_tags:
+  - Chiral chromatography
+  - Separation techniques
+  - Enantiomer separation
+  - Analytical chemistry
+  - Pharmaceutical chemistry
+tldr: 'The article discusses optimization strategies in chiral liquid chromatography for the separation of enantiomers in chiral drugs and metabolites. It explores various column technologies and optimization methods, such as factorial design and computer-aided sequential simplex optimization, to achieve the best enantiomeric resolution. The article also highlights the importance of peak recognition and homogeneity assessment using photodiode array detectors and laser-based polarimetric detectors.'
+scientific_discipline: Chemistry > Analytical Chemistry

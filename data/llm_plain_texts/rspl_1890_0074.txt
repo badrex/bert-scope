@@ -1,0 +1,10 @@
+article_id: rspl_1890_0074
+revised_title: The Influence of Temperature and Concentration on the Passivity of Iron and Steel in Nitric Acid
+semantic_tags:
+  - Corrosion
+  - Electrochemistry
+  - Iron and Steel
+  - Passivity
+  - Temperature effects
+tldr: This article investigates the effect of temperature and concentration of nitric acid on the passivity of iron and steel. The author found that the passivity of iron and steel is influenced by the temperature and concentration of nitric acid. The experiments show that iron and steel do not fully lose their passivity even at high temperatures, and the critical point of temperature for the transition from the passive to the active state is higher than 175°F. The passivity of iron and steel is also found to be affected by the concentration of nitric acid, with the passivity increasing with the strength of the acid.
+scientific_discipline: Chemistry > Corrosion and Electrochemistry

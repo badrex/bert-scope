@@ -1,0 +1,10 @@
+article_id: rspl_1882_0033
+revised_title: 'The Influence of Temperature, Density, and Chemical Composition on the Electrical Resistance of Glass'
+semantic_tags:
+  - Electrical resistance
+  - Glass properties
+  - Temperature effects
+  - Glass chemistry
+  - Density
+tldr: This article discusses experiments conducted on the electrical resistance of glass and how it changes with temperature, density, and chemical composition. The author found that the specific resistance of glass decreases by half for every 8.5°C rise in temperature. The study also shows that the electrical resistance of glass is closely related to its density and chemical composition, with high-density glass having a higher electrical resistance. The results provide insights into the relationship between the purity of chemical composition and electrical resistance in glass.
+scientific_discipline: Physics > Materials Science

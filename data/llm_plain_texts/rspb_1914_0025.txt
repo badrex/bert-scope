@@ -1,0 +1,10 @@
+article_id: 'rspb_1914_0025'
+revised_title: 'Investigation of Formaldehyde Production in Chlorophyll Extracts'
+semantic_tags:
+  - Photosynthesis
+  - Chlorophyll
+  - Formaldehyde
+  - Aldehyde synthesis
+  - Plant biochemistry
+tldr: This study investigates the production of formaldehyde in chlorophyll extracts under different conditions, such as exposure to light, air, and carbon dioxide. The experiments show that formaldehyde is produced more readily in moist air than in dry air, but there is no significant difference in the amounts produced with or without carbon dioxide present. The researchers also found that the decomposition of chlorophyll extracts in sealed tubes containing alkaline pyrogallate solution did not produce formaldehyde, suggesting that photosynthesis was taking place at the same time.
+scientific_discipline: Biology and Life Sciences > Photosynthesis

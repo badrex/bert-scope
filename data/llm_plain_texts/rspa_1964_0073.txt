@@ -1,0 +1,10 @@
+article_id: rspa_1964_0073
+revised_title: European Contributions to the Development of Particle Physics and the Desy Electron Accelerator
+semantic_tags:
+  - Particle Physics
+  - Electron Accelerators
+  - Synchrotrons
+  - High-Energy Physics
+  - European Research
+tldr: The article discusses recent European contributions to the development of particle physics, focusing on the electron accelerator Desy. The author highlights the design and features of the accelerator, its potential for research, and the planned experiments to be conducted using the machine. The Desy accelerator is a strong focusing synchrotron for accelerating electrons up to about 6 GeV, and it is expected to provide a circulating beam intensity of 20 x 10^10 electrons per pulse and an average current of about 1 A.
+scientific_discipline: Physics > Particle Physics

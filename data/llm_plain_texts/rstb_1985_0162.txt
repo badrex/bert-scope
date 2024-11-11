@@ -1,0 +1,10 @@
+article_id: 'rstb_1985_0162'
+revised_title: 'Organic Radicals in Vitamin B12-Dependent Enzymatic Reactions'
+semantic_tags:
+  - Biochemistry
+  - Radical Chemistry
+  - Vitamin B12
+  - Enzyme Catalysis
+  - Organic Reactions
+tldr: This article discusses the role of organic radicals as intermediates in vitamin B12-dependent enzymatic reactions. The authors present theoretical and model studies supporting the intermediacy of radicals in reactions catalyzed by diol dehydratase and methylmalonyl mutase enzymes. They also explore the activation of alkyl groups bonded to cobalt in corrinoid-like environments using model compounds, such as alkylcobaloximes.
+scientific_discipline: Chemistry > Biochemistry

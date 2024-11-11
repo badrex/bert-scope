@@ -1,0 +1,10 @@
+article_id: 'rspl_1888_0110'
+revised_title: 'Relative Voltaic Energy of Dissolved Chemical Compounds'
+semantic_tags:
+  - Electrochemistry
+  - Chemical Affinity
+  - Voltaic Energy
+  - Electrolytic Substances
+  - Aqueous Solutions
+tldr: 'The author measured the relative voltaic energy of nearly 250 aqueous solutions of dissolved chemical compounds using the "voltaic balance" method. The study supports the conclusion that every electrolytic substance or mixture can unite chemically in indefinite proportions with other dissolved substances, provided no separation occurs. The research discovered nearly 250 such compounds that exist in aqueous solutions and are decomposed on evaporation or crystallization.'
+scientific_discipline: Chemistry > Electrochemistry

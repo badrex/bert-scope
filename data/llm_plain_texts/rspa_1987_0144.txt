@@ -1,0 +1,10 @@
+article_id: rspa_1987_0144
+revised_title: 'Effects of Odd Zonal Harmonics and Atmospheric Oblateness on Satellite Orbits'
+semantic_tags:
+  - Satellite Orbits
+  - Atmospheric Oblateness
+  - Odd Zonal Harmonics
+  - Orbital Lifetime
+  - Geopotential
+tldr: This study investigates the effects of odd zonal harmonics and atmospheric oblateness on the lifetime of satellites in orbit. The research shows that these factors can change the lifetime of a satellite by up to 35%, and when combined, they can produce changes of up to 60%. These effects need to be considered for accurate estimates of satellite decay dates in the last few months of their lives.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

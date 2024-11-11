@@ -1,0 +1,12 @@
+article_id: rspa_1984_0094
+revised_title: Weak Coupling in Stochastic Systems: Characterization and Examples
+semantic_tags:
+  - Stochastic Systems
+  - Markov Processes
+  - Statistical Mechanics
+  - Network Theory
+  - Equilibrium Distribution
+tldr: The article discusses the concept of weak coupling in stochastic systems, which refers to the preservation of a system's structure when components are connected. The author defines a class of components called weakly coupling, which includes structureless and reactionless components. The study of weak coupling is important for understanding the behavior of complex systems, such as networks of processors or queues with customers.
+scientific_discipline: Mathematics > Applied Mathematics
+sub_discipline: >-
+  Stochastic Processes and Queuing Theory

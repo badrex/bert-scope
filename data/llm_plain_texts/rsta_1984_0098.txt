@@ -1,0 +1,10 @@
+article_id: rsta_1984_0098
+revised_title: One-Electron Theory of Nonlinear Refraction: Analyzing the Nonlinear Optical Properties of Semiconductors
+semantic_tags:
+  - Nonlinear Optics
+  - Semiconductor Physics
+  - Optical Bistability
+  - Refractive Index
+  - Optical Switching
+tldr: This article presents a one-electron theory of nonlinear refraction, focusing on the design of optically bistable cavities for low-power switching. The author discusses analytic expressions for scaling and reviews the connection between giant nonlinearities and nonlinear optical mixing processes. The self-consistent semiconductor optical bistability problem is also summarized, providing a comprehensive understanding of the nonlinear optical properties of semiconductors.
+scientific_discipline: Physics > Optics

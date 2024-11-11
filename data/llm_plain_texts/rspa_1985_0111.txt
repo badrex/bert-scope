@@ -1,0 +1,10 @@
+article_id: rspa_1985_0111
+revised_title: 'Anisotropic Elastic Half-Spaces: Surface Impedance Method for Free Surface Waves'
+semantic_tags:
+  - Elasticity Theory
+  - Anisotropic Materials
+  - Surface Waves
+  - Wave Propagation
+  - Solid Mechanics
+tldr: The authors develop a framework using the surface impedance tensor to study free surface waves in anisotropic elastic half-spaces. They provide a self-contained treatment of the subject, recovering and extending previous results, and establishing a definite existence criterion for numerical studies. This approach can also be used to study Stoneley waves in bonded anisotropic half-spaces.
+scientific_discipline: Physics > Solid Mechanics

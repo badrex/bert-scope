@@ -1,0 +1,10 @@
+article_id: rspa_1966_0128
+revised_title: Extended Hartree-Fock Approximation for Atomic Properties
+semantic_tags:
+  - Quantum Chemistry
+  - Atomic Physics
+  - Hartree-Fock Approximation
+  - Atomic Properties
+  - Electron Configuration
+tldr: The authors present an expansion method for calculating atomic properties using the extended Hartree-Fock approximation. They examine the influence of direct and exchange interactions on atomic properties and find that the direct interactions increase the amount of screening, while the exchange interactions show no regularity. The effect of configuration mixing is generally very slight, and the accuracy of the method improves with increasing nuclear charge and penetration of electron orbitals towards the nucleus.
+scientific_discipline: Physics > Quantum Chemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1970_0180
+revised_title: Riemannian Geometry in Gibbsian Phase Space
+semantic_tags:
+  - Riemannian geometry
+  - Gibbsian phase space
+  - Geodesics
+  - Energy surface
+  - Classical trajectories
+tldr: The author introduces a Riemannian line-element in Gibbsian phase space, invariant under extended point transformations and preserving the Gibbsian volume. They investigate geodesics in the energy subspace and find that they coincide with classical trajectories when the energy is conserved. The Riemannian metric allows for a separation of the geodesic into a geodesic in phase space and a geodesic on the unit sphere, providing insights into the behavior of dynamical systems.
+scientific_discipline: Mathematics > Geometry

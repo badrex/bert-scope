@@ -1,0 +1,10 @@
+article_id: rspa_1952_0025
+revised_title: Energy Expenditure per Ion Pair for Electrons in Gases and Gas Mixtures
+semantic_tags:
+  - Ionization chambers
+  - Proportional counters
+  - Gas mixtures
+  - Energy measurement
+  - Nuclear physics
+tldr: The authors determined the energy expenditure per ion pair for electrons in various gases and gas mixtures using ion chambers and proportional counters with end-effect correcting terminals. They investigated the variation of energy expenditure with the energy of ionizing electrons in nitrogen and found only a small variation. The results are important for understanding energy measurement in atomic and nuclear physics.
+scientific_discipline: Physics > Nuclear Physics

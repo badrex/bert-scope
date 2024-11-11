@@ -1,0 +1,10 @@
+article_id: 'rstl_1879_0064'
+revised_title: 'Experimental Examination of Direction and Strength of Lines of Pressure in Radiometers'
+semantic_tags:
+  - Radiometry
+  - Molecular Pressure
+  - Radiation
+  - Optics
+  - Radiometer Design
+tldr: The author conducted experiments with radiometers to study the direction and strength of lines of pressure caused by radiation. They discovered that introducing screens made of mica in various positions within the radiometer allowed them to determine the direction of pressure and modify its force. The author found that the action of radiometers is influenced by the warming up of surfaces and the deflection of molecular pressure, which can be explained by two hypotheses.
+scientific_discipline: Physics > Optics

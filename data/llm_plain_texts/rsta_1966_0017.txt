@@ -1,0 +1,10 @@
+article_id: rsta_1966_0017
+revised_title: Drift Velocity and Mobility of Positive Ions in Nitrogen
+semantic_tags:
+  - Ion mobility
+  - Gas physics
+  - Ion drift
+  - Gas ionization
+  - Ion sources
+tldr: This article presents an experimental study on the motion of slow positive ions in gases, focusing on potassium and nitrogen ions in nitrogen. The authors describe the design and operation of their apparatus, which combines a time-of-drift electrode system and a lateral diffusion system. They measure the drift velocity of ions and discuss the limitations of their method. The findings contribute to the understanding of ion mobility and gas physics.
+scientific_discipline: Physics > Ion mobility and gas physics

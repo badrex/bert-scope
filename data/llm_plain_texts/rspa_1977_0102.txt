@@ -1,0 +1,10 @@
+article_id: rspa_1977_0102
+revised_title: Renormalization Theory of Charged Particles in an Insulator and Effective-Mass Approximation
+semantic_tags:
+  - Many-electron perturbation theory
+  - Renormalization theory
+  - Effective mass approximation
+  - Insulators
+  - Quasiparticles
+tldr: The article presents a unified many-electron theory to analyze charged particles added to a perfect insulator using time-independent perturbation theory. The theory shows that all added particles, both classical and quantum, interact via a screened Coulomb potential when they are far apart. The results establish the general validity of the effective-mass equation, which describes the motion of quasiparticles and the low-lying excitations of the many-electron system.
+scientific_discipline: Physics > Condensed Matter Physics

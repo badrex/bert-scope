@@ -1,0 +1,10 @@
+article_id: rspa_1918_0009
+revised_title: 'Theoretical Discussion and Practical Applications of Scattering Media in Fully Diffused Light'
+semantic_tags:
+  - Light scattering
+  - Photometry
+  - Optics
+  - Diffusing media
+  - Obstructance
+tldr: The authors discuss the behavior of scattering media in fully diffused light, introducing the concepts of rejectance, obstructance, and transmittance. They develop equations to describe the relationships between these properties and explore how they change with the thickness of the medium. The authors also propose a method for measuring these properties in practical photometry applications.
+scientific_discipline: Physics > Optics

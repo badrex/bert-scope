@@ -1,0 +1,10 @@
+article_id: rspa_1978_0209
+revised_title: 'Effects of Small Deflection Approximations on Creep Buckling Predictions'
+semantic_tags:
+  - Creep buckling
+  - Buckling analysis
+  - Column studies
+  - Small deflection approximations
+  - Structural engineering
+tldr: This article examines the effects of small deflection approximations on the analysis of creep buckling in structures. It explores the differences in behavior predicted by previous creep buckling studies and establishes rules to predict the accuracy of these approximations. The study focuses on columns, plates, and cylindrical shells, discussing the implications of these approximations on their buckling behavior.
+scientific_discipline: Engineering and Technology > Structural Engineering

@@ -1,0 +1,10 @@
+article_id: rspa_1909_0068
+revised_title: 'Effect of Previous Magnetic History on Magnetisation'
+semantic_tags:
+  - Magnetism
+  - Magnetic hysteresis
+  - Magnetic properties of materials
+  - Iron and steel
+  - Magnetic viscosity
+tldr: The authors conducted experiments to study the effect of previous magnetic history on the magnetisation of iron and steel samples. They discovered that the energy required to perform a complete cycle of magnetisation depends on the previous history of the material. The results showed that iron requires more energy when in a state following the application of a larger force to produce previous history. The authors also observed that the effects attributed to magnetic viscosity are more pronounced in solid specimens than in laminated ones.
+scientific_discipline: Physics > Magnetism

@@ -1,0 +1,10 @@
+article_id: rspa_1926_0095
+revised_title: 'Atomic States and Spectral Terms: A Study of Elements'
+semantic_tags:
+  - Atomic states
+  - Spectral terms
+  - Quantum mechanics
+  - Spectroscopy
+  - Periodic table
+tldr: The authors apply the Heisenberg-Hund theory to analyze the atomic states and spectral terms of various elements, including manganese, gold, platinum, and palladium. They explain the method of determining the lowest spectral terms involved in the structure of arc and spark spectra of atoms, providing a foundation for understanding the optical spectra of elements.
+scientific_discipline: Physics > Quantum mechanics

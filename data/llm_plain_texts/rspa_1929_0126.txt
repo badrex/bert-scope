@@ -1,0 +1,10 @@
+article_id: 'rspa_1929_0126'
+revised_title: 'Interpretation of Relativity Wave Equation for Two Electrons'
+semantic_tags:
+  - Quantum Mechanics
+  - Relativity
+  - Wave Function
+  - Electrons
+  - Quantum Dynamics
+tldr: The authors discuss the interpretation of the relativity wave equation for two electrons in quantum dynamics. They explain that the wave function must satisfy certain conditions to make sense, such as ensuring no collision is taking place and the second electron is far enough away to not be disturbed by the first electron's detection. This is important for understanding and interpreting the wave equation accurately.
+scientific_discipline: Physics > Quantum Mechanics

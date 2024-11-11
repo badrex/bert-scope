@@ -1,0 +1,10 @@
+article_id: 'rspb_1993_0099'
+revised_title: 'Evolution of Multiple Sexual Preferences in Species'
+semantic_tags:
+  - Sexual Selection
+  - Evolutionary Biology
+  - Fisher's Runaway Process
+  - Sexual Ornaments
+  - Mate Preference
+tldr: This study investigates the evolution of multiple sexual preferences in species through Fisher's runaway process of sexual selection. The authors find that multiple female preferences can evolve when the joint cost of choice is relatively low. As the joint cost increases, one preference tends to dominate, while other preferences persist but are weaker. The genetic mechanism controlling preference and the male trait are not crucial in determining equilibrium. Fisher's process can explain the presence of multiple sexual ornaments in species.
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

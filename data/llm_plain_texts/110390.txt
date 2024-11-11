@@ -1,0 +1,10 @@
+article_id: 110390
+revised_title: Discovering a New Property of Equilateral Hyperbola Arcs
+semantic_tags:
+  - Analytical Geometry
+  - Hyperbolas
+  - Mathematical Theorems
+  - Henry Fox Talbot
+  - Mathematical Research
+tldr: Henry Fox Talbot discovered a new property of equilateral hyperbola arcs through an analytical process. He proved that if three abscissae of an equilateral hyperbola are dependent, the sum of the arcs they subtend is equal to three-quarters of their product or differs by a constant quantity. Talbot confirmed his theorem through numerical examples.
+scientific_discipline: Mathematics > Analytical Geometry

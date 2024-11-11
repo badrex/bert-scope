@@ -1,0 +1,10 @@
+article_id: rspa_1982_0133
+revised_title: Modified Green Functions in Exterior Problems for the Helmholtz Equation
+semantic_tags:
+  - Helmholtz equation
+  - Green functions
+  - Boundary integral equation
+  - Exterior problems
+  - Mathematical physics
+tldr: The authors present a method to overcome the non-uniqueness problem in boundary integral equation formulations of exterior problems for the Helmholtz equation. They incorporate Jones's modification into the boundary integral equation formalism and provide explicit results for both Dirichlet and Neumann problems. The coefficients of the added terms are chosen to minimize the least-squares difference between the modified and exact Green functions.
+scientific_discipline: Mathematics > Applied Mathematics

@@ -1,0 +1,11 @@
+article_id: 'rspb_1994_0158'
+revised_title: 'Binocular Attributes of Length Summation and End Stopping in Cat Striate Cortex'
+semantic_tags:
+  - Visual Perception
+  - Binocular Vision
+  - Neurons
+  - Cat Striate Cortex
+  - Length Summation
+  - End Stopping
+tldr: The study investigates the binocular attributes of length summation and end stopping in cat striate cortex. It compares length selectivity for each eye in strongly binocular, striate cortical neurons in adult cats. The results show that many neurons have different optimal length and/or end stopping for each eye, with a marked tendency for receptive fields to be relatively smaller on average but more strongly end-stopped for contralateral input. These findings may provide a basis for encoding visual perspective cues.
+scientific_discipline: Biology and Life Sciences > Neuroscience

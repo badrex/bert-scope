@@ -1,0 +1,10 @@
+article_id: rspa_1966_0145
+revised_title: Density of States in Dilute Solid Solutions: A Comparative Analysis
+semantic_tags:
+  - Solid solutions
+  - Density of states
+  - Green function method
+  - Perturbation theory
+  - Specific heat
+scientific_discipline: Physics > Condensed Matter Physics
+tldr: This article explores the density of states in dilute solid solutions and demonstrates that the Green function method and the conservation of the number of states yield identical results. The study also applies the findings to the specific heat of dilute solid solutions, providing a new result that differs from previous works.

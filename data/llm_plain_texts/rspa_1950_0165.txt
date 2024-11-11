@@ -1,0 +1,10 @@
+article_id: rspa_1950_0165
+revised_title: 'Classical Approach to the Interaction Representation of Quantum Theory'
+semantic_tags:
+  - Quantum Field Theory
+  - Classical Field Dynamics
+  - Interaction Representation
+  - Tomonaga-Schwinger Theory
+  - Analytical Dynamics
+tldr: The authors introduce a classical approach to the interaction representation of quantum theory, based on Weiss' classical field dynamics. They develop the classical part of the theory in detail and explain how the consistency of the representation can be established. This approach provides a general and complete method for understanding the interaction representation and constructing the interaction Hamiltonian function.
+scientific_discipline: Physics > Quantum Mechanics

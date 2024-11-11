@@ -1,0 +1,10 @@
+article_id: rspa_1992_0122
+revised_title: Indeterminate Sub-Critical Bifurcations in Parametric Resonance
+semantic_tags:
+  - Nonlinear Dynamics
+  - Parametric Resonance
+  - Bifurcation Theory
+  - Chaos Theory
+  - Fractal Basin Boundaries
+tldr: This article explores a new type of indeterminate sub-critical bifurcation found in nonlinear parametrically excited systems. It describes how, at a sub-critical bifurcation, the unstable manifold of the resonant saddle becomes tangled with the stable manifold of a remote saddle, creating a fractal boundary between two remote attractors. This situation leads to unpredictable outcomes and cannot be predicted even with infinitesimal noise. The article provides an example of a nonlinear oscillator subjected to harmonic parametric excitation and discusses the behavior of a one-degree-of-freedom mechanical oscillator with inertia, linear viscous damping, and time-dependent nonlinear stiffness.
+scientific_discipline: Mathematics > Dynamical Systems

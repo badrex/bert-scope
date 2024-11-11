@@ -1,0 +1,10 @@
+article_id: rspa_1961_0173
+revised_title: 'Weak Gravitational Fields and the Importance of Internal Structure'
+semantic_tags:
+  - Gravitational Fields
+  - General Relativity
+  - Stress and Equilibrium
+  - Stationary Fields
+  - Weak Field Approximation
+tldr: The authors present a method of successive approximations to obtain the field of a single body at rest or in steady motion, focusing on stationary weak gravitational fields. They emphasize the importance of the internal structure of gravitating matter, which influences the field outside the matter and is often overlooked. The method can be applied to various models, but the calculations are complex.
+scientific_discipline: Physics > Relativity

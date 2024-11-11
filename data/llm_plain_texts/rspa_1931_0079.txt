@@ -1,0 +1,10 @@
+article_id: rspa_1931_0079
+revised_title: 'X-ray Spectra and Chemical Combination in Sulphur Compounds'
+semantic_tags:
+  - X-ray spectroscopy
+  - Chemical compounds
+  - Sulphur
+  - Absorption edges
+  - Emission lines
+tldr: The author investigates the effect of chemical combination on X-ray absorption edges and emission lines in various sulphur compounds. They observe changes in the relative intensities and sharpness of the X-ray lines, indicating that the surrounding atoms cause a redistribution of electrons and energy within the atom. The study also highlights the suppression of certain X-ray lines in some sulphur compounds, such as silicon oxide and caesium sulphate.
+scientific_discipline: Chemistry > Spectroscopy

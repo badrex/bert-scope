@@ -1,0 +1,10 @@
+article_id: rspa_1964_0049
+revised_title: 'The K<sub>2</sub> Tide in Oceans Bounded by Meridians and Parallels: A Numerical Approach'
+semantic_tags:
+  - Tides
+  - Oceanography
+  - Numerical modeling
+  - Laplace's tidal equations
+  - Finite difference method
+tldr: This article presents a numerical solution for the K<sub>2</sub> tide in oceans of uniform depth, bounded by meridians and parallels. The authors use finite difference methods and Laplace's tidal equations to calculate the tide's co-tidal and co-range lines, demonstrating the feasibility of solving complex oceanic problems numerically.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

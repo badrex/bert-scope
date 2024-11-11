@@ -1,0 +1,10 @@
+article_id: 'rspa_1963_0126'
+revised_title: 'Dynamical Behavior of Struts in Rigidly Jointed Truss Frameworks'
+semantic_tags:
+  - Structural Analysis
+  - Truss Structures
+  - Strut Dynamics
+  - Mechanical Engineering
+  - Applied Mechanics
+tldr: The authors experimentally examined the behavior of a strut in a rigidly jointed truss framework. They found that the dynamic jump is governed by the interchange of elastic strain energy, plastic work, and kinetic and potential energy. The strut's behavior is oscillatory, and the amplitude of oscillations is small compared to the initial jump. The study focused on understanding the deformation modes and the effect of strut length on the dynamic behavior.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

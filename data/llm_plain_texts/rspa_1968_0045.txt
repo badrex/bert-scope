@@ -1,0 +1,10 @@
+article_id: rspa_1968_0045
+revised_title: Ionospheric Refraction Effects on Polar Diagrams of Short Radio Antennas
+semantic_tags:
+  - Radio Astronomy
+  - Ionosphere
+  - Electromagnetic Fields
+  - Antenna Design
+  - Radio Signal Propagation
+tldr: This article explores the impact of ionospheric refraction on the polar diagrams of short radio antennas. The author explains how to calculate electric and magnetic field components within the ionosphere when a plane wave is incident from outside the Earth. The anisotropy of the ionosphere, caused by the Earth's magnetic field, significantly affects these fields. The received signal voltage across a small dipole or loop antenna can be determined based on the orientation of the antenna. The article provides examples of polar diagrams showing the variation in sensitivity of the receiving system depending on the direction of the incident wave.
+scientific_discipline: Physics > Electromagnetism

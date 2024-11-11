@@ -1,0 +1,10 @@
+article_id: rspa_1951_0061
+revised_title: 'Electrical Processes in the Intervals between Strokes of Lightning Discharges'
+semantic_tags:
+  - Lightning
+  - Electric fields
+  - Thunderstorms
+  - Streamers
+  - Charge separation
+tldr: The authors studied the electric fields of thunderstorms in the intervals between the separate strokes of lightning discharges. They used a new electric fluxmeter to record the fields and discovered that the process links the positively charged top of the lightning channel with fresh regions of negative charge within the cloud, giving rise to separate strokes. The mechanism of intermittent discharge of this column is discussed, and evidence is provided from field-change records.
+scientific_discipline: Physics > Electromagnetism

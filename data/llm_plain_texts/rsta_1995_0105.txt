@@ -1,0 +1,10 @@
+article_id: 'rsta_1995_0105'
+revised_title: 'Advances in Micromechanics: Sensors and Actuators'
+semantic_tags:
+  - Micromechanics
+  - Microsensors
+  - Microactuators
+  - MEMS
+  - Surface Micromachining
+tldr: The article discusses the advancements in micromechanics, specifically in the development of sensors and actuators. It highlights the improvements in force sensitivity, power dissipation, and the use of surface micromachining techniques for creating pressure transducers. The article also explores the challenges and future prospects of micromechanics in the field of microelectromechanical systems (MEMS).
+scientific_discipline: Engineering and Technology > Micromechanics

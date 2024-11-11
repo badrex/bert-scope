@@ -1,0 +1,10 @@
+article_id: 'rsta_1989_0081'
+revised_title: 'Quantum Groups and Conformal Field Theories: Advances and Applications'
+semantic_tags:
+  - Quantum Groups
+  - Conformal Field Theory
+  - Fusion Algebra
+  - Quantum Deformations
+  - String Theory
+tldr: This article explores the relationship between quantum groups and conformal field theories, focusing on the fusion algebra and its connection to modular transformations. The authors discuss two applications of quantum groups in conformal field theory: open Verlinde operators and solutions to polynomial equations. They also examine the representation theory of quantum groups and their potential role in understanding the space of classical solutions to string theories.
+scientific_discipline: Physics > Particle Physics

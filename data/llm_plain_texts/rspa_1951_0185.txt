@@ -1,0 +1,10 @@
+article_id: rspa_1951_0185
+revised_title: 'Conformal Solutions Theory Applied to Carbon Dioxide-Ethylene System'
+semantic_tags:
+  - Thermodynamics
+  - Phase Equilibrium
+  - Conformal Solutions Theory
+  - Azeotropic Systems
+  - Carbon Dioxide-Ethylene
+tldr: The authors apply the conformal solutions theory to the carbon dioxide-ethylene system, calculating the liquid-vapour phase diagram in the critical region. They find that the theory accurately predicts the thermodynamic behavior of the system, establishing its usefulness in this area. The study provides insights into the behavior of azeotropic systems and can be applied to other similar systems.
+scientific_discipline: Chemistry > Thermodynamics and Phase Equilibrium

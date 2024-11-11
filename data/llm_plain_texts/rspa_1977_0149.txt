@@ -1,0 +1,10 @@
+article_id: rspa_1977_0149
+revised_title: 'Asymptotic Properties of the Random Record Model'
+semantic_tags:
+  - Point Processes
+  - Record Values
+  - Stochastic Processes
+  - Probability Theory
+  - Mathematical Statistics
+tldr: The article presents a detailed study of the random record model, a process of successive upper records in a sequence of independent and identically distributed variates occurring at the points of an independent point process. Asymptotic properties of record and inter-record times, and the number of records in a fixed interval, are derived for both large time intervals and large record index numbers. A generalization permitting some dependence between the variates and the point process is also discussed.
+scientific_discipline: Mathematics > Probability Theory

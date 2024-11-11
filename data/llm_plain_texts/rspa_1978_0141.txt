@@ -1,0 +1,10 @@
+article_id: rspa_1978_0141
+revised_title: 'Decay Time and Temperature Dependence of N3 Luminescence in Natural Diamond'
+semantic_tags:
+  - Diamond physics
+  - Luminescence
+  - Nitrogen impurities
+  - Temperature dependence
+  - Decay time
+tldr: The authors measured the decay time of photoluminescence from the N3 center, an impurity center commonly found in natural diamonds. They found that the intrinsic decay time at low temperature is in the nanosecond range. The decay time is specimen-dependent and decreases with increasing concentrations of pairs of substitutional nitrogen atoms in the diamonds. The data suggest that the N3 centers have a more complex energy level structure than previously realized. The radiative lifetime of the N3 luminescence transition is estimated at 150 ns, in agreement with previous luminescence efficiency measurements.
+scientific_discipline: Physics > Optics

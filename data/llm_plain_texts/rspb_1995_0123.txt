@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0123'
+revised_title: 'Deafferentation of Pigeon Extraocular Muscles and its Impact on Eye Movements'
+semantic_tags:
+  - Oculomotor control
+  - Eye movements
+  - Extraocular muscles
+  - Deafferentation
+  - Pigeon neuroscience
+tldr: The authors conducted experiments on decerebrate pigeons to study the effects of deafferentation of extraocular muscles on eye movements. They found that deafferentation disrupts the vestibuloocular reflex and the stability of the eye at rest, suggesting that proprioceptive signals from extraocular muscles play an important role in oculomotor stabilization.
+scientific_discipline: Biology and Life Sciences > Neuroscience

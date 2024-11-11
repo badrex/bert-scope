@@ -1,0 +1,10 @@
+article_id: rspa_1909_0015
+revised_title: Specific Heats of Air and Carbon Dioxide at Atmospheric Pressure
+semantic_tags:
+  - Thermodynamics
+  - Gas Laws
+  - Heat Transfer
+  - Specific Heat
+  - Atmospheric Science
+tldr: This study measures the specific heats of air and carbon dioxide at atmospheric pressure using the continuous electrical method at 20°C and 100°C. The research provides accurate values for specific heats, which are essential for understanding heat transfer and gas laws in various applications. The results agree closely with theoretical predictions and previous experimental data.
+scientific_discipline: Chemistry > Thermodynamics

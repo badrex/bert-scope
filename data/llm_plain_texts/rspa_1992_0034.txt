@@ -1,0 +1,10 @@
+article_id: rspa_1992_0034
+revised_title: Energy Flows in Multi-Modal Elastic Subsystems: Extending SEA Theory
+semantic_tags:
+  - Statistical Energy Analysis
+  - Vibration Energy
+  - Coupled Subsystems
+  - Modal Analysis
+  - Monte Carlo Techniques
+tldr: This article extends the theory of energy flow between multi-modal elastic subsystems, allowing for arbitrary numbers of subsystems and various coupling configurations. The author presents deterministic and ensemble average energy flow calculations for different configurations and compares them with traditional SEA calculations. The study shows that the new theory can provide more accurate results for systems with strong couplings or repetitive geometries.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

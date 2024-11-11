@@ -1,0 +1,10 @@
+article_id: 'rspb_1970_0048'
+revised_title: 'Gene Action and Transdetermination in Imaginal Disks of Drosophila'
+semantic_tags:
+  - Developmental Biology
+  - Genetics
+  - Gene Expression
+  - Drosophila melanogaster
+  - Cell Differentiation
+tldr: This article discusses gene action and its control in imaginal disks of Drosophila, focusing on determination and transdetermination. It explains that individual disks are determined for specific body parts of the adult organism, and that single cells can be determined for structures of a specific body region. The article also explores transdetermination, where cells change their determined state, and how it is related to homoiotic mutations and phenocopies in Drosophila.
+scientific_discipline: Biology and Life Sciences > Developmental Biology

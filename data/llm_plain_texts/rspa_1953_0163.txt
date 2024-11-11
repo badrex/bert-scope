@@ -1,0 +1,10 @@
+article_id: rspa_1953_0163
+revised_title: Photographic Comparison of Line Standards of Length
+semantic_tags:
+  - Photometry
+  - Metrology
+  - Image Analysis
+  - Precision Measurement
+  - Optics
+tldr: The authors explore the possibility of comparing line standards of length through photographic methods, aiming to achieve higher precision and reduce labor compared to traditional visual methods. They propose a definition for the position of a line in a photographic image and discuss the potential advantages of this approach for measuring distances between lines on reference standards. 
+scientific_discipline: Physics > Optics

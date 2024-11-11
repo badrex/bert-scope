@@ -1,0 +1,10 @@
+article_id: 'rsta_1891_0012'
+revised_title: 'On Stokes' Current Function and Fluid Dynamics'
+semantic_tags:
+  - Fluid Dynamics
+  - Mathematical Physics
+  - Electromagnetism
+  - Hydrodynamics
+  - Potential Theory
+tldr: The authors discuss Stokes' current function and its application to fluid dynamics. They explore the concept of extended doublets and how they can be used to create sinks or sources in a liquid. The authors also explain the difference between irrotational and rotational motion in fluids and how it affects the current function.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1980_0035
+revised_title: 'Experimental Study of Radiation Pressure in Refractive Media via the Photon Drag Effect'
+semantic_tags:
+  - Radiation Pressure
+  - Photon Drag Effect
+  - Refractive Medium
+  - Minkowski's Formulation
+  - Semiconductor Band Structure
+tldr: The authors conducted experiments to study the pressure of radiation in refractive media using the photon drag effect in germanium and silicon. They found that at long wavelengths, the effect is independent of the semiconductor band structure and depends on the radiation pressure in the dielectric. The results support Minkowski's original expression for radiation momentum. This research provides additional experimental information on radiation pressure and contributes to the understanding of the photon drag effect in refractive media.
+scientific_discipline: Physics > Optics

@@ -1,0 +1,10 @@
+article_id: rspa_1957_0036
+revised_title: 'Electron and Lattice Conduction in Metals: A Re-examination of the Theory'
+semantic_tags:
+  - Thermal Conductivity
+  - Thermo-electric Power
+  - Electron-lattice Interaction
+  - Transport Phenomena
+  - Metals
+tldr: The authors re-examine the theory of transport phenomena in metals, taking into account the non-equilibrium distribution functions of both electrons and the lattice. They find that the non-equilibrium of the lattice leads to a first-order term in the thermo-electric power, which has a more complex temperature variation. This theory can account for the observed thermo-electric power of sodium at low temperatures and provides a possible explanation for some of the observed complexities in the thermo-electric effects in metals.
+scientific_discipline: Physics > Materials Science

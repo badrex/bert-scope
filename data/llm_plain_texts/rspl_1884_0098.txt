@@ -1,0 +1,10 @@
+article_id: rspl_1884_0098
+revised_title: 'Magnetisation Effects on the Length of Iron, Steel, and Nickel Rods'
+semantic_tags:
+  - Magnetism
+  - Iron
+  - Steel
+  - Nickel
+  - Magnetisation effects
+tldr: The author conducted experiments on the effects of magnetisation on the length of iron, steel, and nickel rods. They discovered that magnetisation causes elongation in iron and steel rods, while nickel rods experience retraction. The study also found that the critical point for magnetisation depends on the hardness of the metal and that stretching reduces the critical magnetising force in iron rods.
+scientific_discipline: Physics > Magnetism

@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0053'
+revised_title: 'Advances in Carbon Fiber Structure: New Fibers and Their Composites'
+semantic_tags:
+  - Carbon fiber
+  - Fiber composites
+  - Material science
+  - PAN-based fibers
+  - Electron microscopy
+tldr: This article discusses recent advances in understanding the structure of carbon fibers and their composites, particularly PAN-based fibers. The authors use techniques like electron microscopy and small-angle X-ray scattering to study the structure and properties of these fibers. They find that the skin regions of type I carbon fibers contain flaws that limit the material's tensile strength, while type II and type A fibers have different structural characteristics. The study highlights the importance of oxidation in the production of carbon fibers from PAN and the role of electron microscopy in characterizing their structure.
+scientific_discipline: Materials Science > Fiber Composites

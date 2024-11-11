@@ -1,0 +1,10 @@
+article_id: rspa_1938_0045
+revised_title: 'Modified Vorticity Transport Theory Applied to Jet Turbulence'
+semantic_tags:
+  - Fluid Dynamics
+  - Turbulence
+  - Jet Flow
+  - Vorticity
+  - Boundary Layer Theory
+tldr: The authors apply Taylor's modified vorticity transport theory to study the turbulent spreading of an air jet. They calculate the distribution of mean axial velocity in the jet and compare their results with Gottingen measurements, finding a fairly good agreement. This research contributes to the understanding of fluid dynamics and turbulence.
+scientific_discipline: Physics > Fluid Dynamics

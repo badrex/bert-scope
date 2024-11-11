@@ -1,0 +1,10 @@
+article_id: 'rsta_1987_0088'
+revised_title: 'Stable Isotope Measurements of Meteorites and Cosmic Dust Grains: Interstellar Dust Components'
+semantic_tags:
+  - Meteorites
+  - Cosmic Dust
+  - Stable Isotopes
+  - Interstellar Dust
+  - Carbonaceous Chondrites
+tldr: The article discusses the discovery of interstellar dust grains in meteorites through stable isotope measurements. The authors review the latest state of knowledge regarding dust components in meteorites, which are believed to be produced in novae and red giants. Nitrogen isotopic measurements help distinguish between different types of dust, suggesting a non-carbonaceous material in the meteorite Bencubbin may be a relic of supernovae outbursts. The article highlights the importance of stepped combustion extraction procedures in identifying interstellar dust components in meteorites.
+scientific_discipline: Chemistry > Isotopes and Nuclear Chemistry

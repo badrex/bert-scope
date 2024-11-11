@@ -1,0 +1,10 @@
+article_id: rspa_1955_0190
+revised_title: Gravity Waves in Flowing Water: Linear and Non-Linear Theories
+semantic_tags:
+  - Fluid Dynamics
+  - Wave Propagation
+  - Hydrodynamics
+  - Stream Velocity
+  - Froude Number
+tldr: This article examines the effect of a non-uniform current on two-dimensional gravity waves in flowing water. It considers linear and non-linear theories, finding that the velocity of wave propagation can be determined in terms of ascending powers of the square root of the Froude number. The non-linear waves are also analyzed, deriving the solitary and cnoidal wave solutions to a first approximation.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1960_0126
+revised_title: Ion Mobilities in Molecular Gases: A Study by A. M. Arthurs, A. Dalgarno, and D. R. Bates
+semantic_tags:
+  - Gas dynamics
+  - Ion mobility
+  - Molecular physics
+  - Plasma physics
+  - Gas ionization
+tldr: This article by A. M. Arthurs, A. Dalgarno, and D. R. Bates investigates the mobility of ions in molecular gases. They present experimental data and discuss the factors affecting ion mobility, such as gas pressure, temperature, and the nature of the gas molecules. The study contributes to the understanding of ion behavior in plasmas and gas discharges.
+scientific_discipline: Physics > Plasma Physics

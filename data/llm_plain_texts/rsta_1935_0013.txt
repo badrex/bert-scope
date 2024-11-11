@@ -1,0 +1,10 @@
+article_id: rsta_1935_0013
+revised_title: 'Investigation of Combustion Products and Knock Phenomenon in Petrol Engines'
+semantic_tags:
+  - Internal Combustion Engines
+  - Knock Phenomenon
+  - Fuel Combustion
+  - Engine Performance
+  - Organic Peroxides
+tldr: This article investigates the combustion products in petrol engines and their relation to the 'knock' phenomenon. The authors analyze the gases from the cylinder during different stages of the engine cycle and find that the oxygen content decreases rapidly during combustion, while carbon dioxide and carbon monoxide increase. They also study the effect of adding aldehydes and hydrogen peroxides to the fuel and their impact on engine performance and knock phenomenon.
+scientific_discipline: Engineering and Technology > Internal Combustion Engines

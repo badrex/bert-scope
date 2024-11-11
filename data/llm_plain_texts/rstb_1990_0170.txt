@@ -1,0 +1,10 @@
+article_id: 'rstb_1990_0170'
+revised_title: 'Extracting Single Channel Currents from Noise using Hidden Markov Models'
+semantic_tags:
+  - Signal Processing
+  - Hidden Markov Models
+  - Biophysics
+  - Ion Channels
+  - Noise Reduction
+tldr: This article describes a method for extracting small single channel ion currents from background noise using digital signal processing techniques based on Hidden Markov Models. The technique allows for the computation of transition probabilities, open- and closed-time durations, and other relevant signal statistics, providing a more precise characterization of single channel currents.
+scientific_discipline: Physics > Biophysics

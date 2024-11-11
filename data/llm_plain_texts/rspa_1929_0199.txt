@@ -1,0 +1,10 @@
+article_id: rspa_1929_0199
+revised_title: Thermodynamic Analysis of Osmotic Pressures in Protein Salts Solutions
+semantic_tags:
+  - Osmotic pressure
+  - Protein salts
+  - Thermodynamics
+  - Protein ions
+  - Diffusible ions
+scientific_discipline: Chemistry > Biochemistry
+tldr: This article explores the thermodynamic analysis of osmotic pressures in protein salts solutions. The author develops a more general method based on Gibbs' fundamental equations to interpret osmotic pressures of concentrated protein solutions. The study focuses on a system composed of haemoglobin, water, potassium chloride, disodium phosphate, and potassium dihydrogen phosphate. The results provide insights into the partial pressures of protein ions and diffusible ions in protein solutions, which can be applied to the calculation of molecular weights of proteins.

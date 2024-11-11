@@ -1,0 +1,11 @@
+article_id: 110446
+revised_title: A New Method for Discovering Caustics Equations
+semantic_tags:
+  - Calculus
+  - Geometry
+  - Optics
+  - Mathematical Physics
+  - Caustics
+  - Differential Equations
+tldr: The author presents a new method for finding the equations of caustics, which are curves formed by the intersection of reflected rays. The new method is simpler, more elegant, and more general than previous methods. The author demonstrates the effectiveness of the method with several examples.
+scientific_discipline: Mathematics > Calculus and Analysis

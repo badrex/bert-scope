@@ -1,0 +1,10 @@
+article_id: rspa_1995_0116
+revised_title: 'On the Dynamical Theory of Incompressible Viscous Fluids and the Criterion'
+semantic_tags:
+  - Fluid dynamics
+  - Viscosity
+  - Reynolds number
+  - Turbulence
+  - Boundary layer
+tldr: The author examines the equations of motion for incompressible viscous fluids and introduces the concept of the Reynolds number as a criterion for the onset of turbulence in fluid flow. The paper discusses the significance of this criterion and how it can be used to understand the behavior of fluids in various situations.
+scientific_discipline: Physics > Fluid dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1962_0203
+revised_title: Resonance Scattering of Electrons in Molecules
+semantic_tags:
+  - Electron scattering
+  - Resonance scattering
+  - Molecular vibrations
+  - Kapur-Peierls formalism
+  - Nitrogen molecules
+tldr: The authors study the excitation of vibrational energy levels in molecules during collisions with electrons using a modified Kapur-Peierls formalism. They apply this theory to the scattering of electrons from nitrogen molecules, explaining the observed peaks in cross-sections and the oscillatory behavior of partial inelastic cross-sections as functions of energy.
+scientific_discipline: Physics > Optics

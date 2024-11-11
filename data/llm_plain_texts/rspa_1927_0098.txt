@@ -1,0 +1,10 @@
+article_id: rspa_1927_0098
+revised_title: 'Spectral Analysis of Water Vapour Bands'
+semantic_tags:
+  - Spectroscopy
+  - Molecular spectroscopy
+  - Water vapor spectrum
+  - Band spectrum
+  - Quantum mechanics
+tldr: The authors conducted experiments to analyze the band spectrum of water vapor, discovering similarities between various bands and providing insights into the moments of inertia of the emitter. They used spectrographs to measure the wavelengths and intensities of the bands, leading to a better understanding of the water vapor spectrum and its underlying quantum mechanics.
+scientific_discipline: Physics > Spectroscopy

@@ -1,0 +1,10 @@
+article_id: 'rspb_1970_0054'
+revised_title: 'Gene Action and Its Control in Development: Insights from Paramecium'
+semantic_tags:
+  - Developmental Biology
+  - Gene Regulation
+  - Cellular Assembly
+  - Cilia and Flagella
+  - Paramecium
+tldr: This article discusses gene action and its control in development, focusing on the assembly of genic products into organized structures in the ciliated protozoan Paramecium aurelia. The author examines processes such as homonucleation, heteronucleation, and allosteric transitions, which are essential for the development of cilia, their basal bodies, and associated structures. The findings suggest that existing structures play a crucial role in determining development, and genes control the synthesis of molecular building blocks but not their assembly or positioning.
+scientific_discipline: Biology and Life Sciences > Developmental Biology

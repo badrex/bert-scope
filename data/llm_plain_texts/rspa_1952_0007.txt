@@ -1,0 +1,10 @@
+article_id: rspa_1952_0007
+revised_title: 'The Thermo-Osmosis of Gases through a Membrane: A Theoretical Study'
+semantic_tags:
+  - Thermo-osmosis
+  - Membrane transport
+  - Gas solubility
+  - Heat of transport
+  - Onsager's theory
+tldr: This article presents a theoretical study of thermo-osmosis, the process of gas diffusion through a membrane due to a temperature gradient. The authors develop a theory based on Onsager's treatment of irreversible processes, which leads to equations for the rate of permeation and the pressure ratio at the stationary state. The effect of thermo-osmosis depends on the sum of the heat of solution and the heat of transport within the membrane.
+scientific_discipline: Chemistry > Physical Chemistry

@@ -1,0 +1,10 @@
+article_id: '109538'
+revised_title: 'Davy's Experiments on Galvanic Combinations and Voltaic Pile'
+semantic_tags:
+  - Electrochemistry
+  - Voltaic Pile
+  - Galvanic Cells
+  - Chemical Reactions
+  - Humphry Davy
+tldr: Humphry Davy describes his experiments on galvanic combinations using single metallic plates and fluids, similar to the new galvanic apparatus of Mr. Volta. He found that alternating metallic plates with acids or other fluids capable of oxidizing one metal could produce galvanic effects. Davy also explains how to create a powerful battery using metallic substances oxidizable in acids and capable of acting on solutions of sulfurets, connected with oxidizing fluids and solutions of sulfurets of potash.
+scientific_discipline: Chemistry > Electrochemistry

@@ -1,0 +1,10 @@
+article_id: 'rspa_1932_0172'
+revised_title: 'Determination of Nitrogen's Heat of Dissociation through Nitrous Oxide Absorption Spectrum'
+semantic_tags:
+  - Spectroscopy
+  - Nitrogen chemistry
+  - Absorption spectrum
+  - Photochemical reactions
+  - Heat of dissociation
+tldr: The authors investigated the absorption spectrum of nitrous oxide to determine the heat of dissociation of nitrogen. They found that nitrous oxide begins to absorb light from 2760 Å, and calculated the heat of dissociation to be 69 volts. This study provides a more accurate estimation of the heat of dissociation of nitrogen.
+scientific_discipline: Chemistry > Spectroscopy

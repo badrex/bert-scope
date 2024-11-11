@@ -1,0 +1,10 @@
+article_id: rspl_1878_0172
+revised_title: Utilizing Sensitive Conductors for Measuring and Regulating Current
+semantic_tags:
+  - Electrical Engineering
+  - Temperature Sensitivity
+  - Current Regulation
+  - Conductivity
+  - Measurement Techniques
+tldr: The author discusses the use of sensitive conductors to measure and regulate current in electrical circuits. They explain how small variations in current are proportional to the temperature of the conductor, and describe methods for determining the value of a diagram in webers or other units of current. The thin conductor can be used to limit the amount of electricity flowing through a circuit or to produce a record of the current passed through a circuit over time.
+scientific_discipline: Engineering and Technology > Electrical Engineering

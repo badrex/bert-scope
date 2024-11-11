@@ -1,0 +1,10 @@
+article_id: rsta_1992_0071
+revised_title: Recent Advances in Separation of Variables Methods in General Relativity
+semantic_tags:
+  - General Relativity
+  - Separation of Variables
+  - Dirac Equation
+  - Kerr Black Holes
+  - Robertson-Walker Space-Time
+tldr: This review article explores recent advancements in the use of separation of variables methods for solving important systems of equations in general relativity. It focuses on recent progress in solving Dirac's equation, Maxwell's equations, and gravitational perturbation equations in Kerr black hole and Robertson-Walker space-time backgrounds. The article also discusses the role of generalized Hertz potentials and other aspects of this subject.
+scientific_discipline: Physics > General Relativity

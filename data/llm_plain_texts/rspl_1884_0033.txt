@@ -1,0 +1,10 @@
+article_id: rspl_1884_0033
+revised_title: Continuous Calculating Machines and a New Mechanism for Various Applications
+semantic_tags:
+  - Calculating Machines
+  - Mechanism Design
+  - Mathematical Operations
+  - Integration
+  - Differentiation
+tldr: The authors present a new mechanism for continuous calculating machines that can perform mathematical operations such as differentiation and integration. They discuss the advantages of this mechanism over existing ones, like the disk and roller, and explore various applications, including planimeters, sliding rules, and H.P. indicators.
+scientific_discipline: Mathematics > Mechanism Design

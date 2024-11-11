@@ -1,0 +1,10 @@
+article_id: 'rstb_1996_0011'
+revised_title: 'Interleukin 1 and Tumour Necrosis Factor Signalling Pathways'
+semantic_tags:
+  - Cytokines
+  - Signal Transduction
+  - Inflammation
+  - Protein Kinases
+  - Cellular Responses
+tldr: The article discusses the biological actions and signal transduction of inflammatory cytokines interleukin 1 (IL1) and tumour necrosis factor (TNF). These cytokines have a broad range of physiological effects, including inducing gene expression, activating protein kinases, and modulating cellular processes. The article focuses on the activation of different types of mitogen-activated protein (MAP) kinases and their significance in various biological responses.
+scientific_discipline: Biology and Life Sciences > Cell Biology

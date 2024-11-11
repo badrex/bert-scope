@@ -1,0 +1,9 @@
+article_id: rspl_1897_0042
+revised_title: Dielectric Constants of Certain Frozen Electrolytes at and above Liquid Air Temperature
+semantic_tags:
+  - Dielectric constants
+  - Frozen electrolytes
+  - Low temperatures
+  - Condenser design
+  - Electromagnetism
+tldr: This article describes the development of a condenser design that can be used with frozen electrolytes as dielectrics at and above the temperature of liquid air. The authors determined the dielectric constants of various frozen electrolytes, finding that electric conductivity extends far down into the solid condition but is limited by a specific temperature for each electrolyte.

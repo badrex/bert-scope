@@ -1,0 +1,10 @@
+article_id: rspa_1973_0066
+revised_title: Two Theoretical Models of Fatigue Crack Propagation: Dislocation Model and Generalized Growth Law
+semantic_tags:
+  - Fatigue crack propagation
+  - Dislocation model
+  - Stress intensity factors
+  - Fracture mechanics
+  - Materials science
+tldr: This article presents two theoretical models for understanding fatigue crack propagation. The first model is the dislocation model, which describes a slit crack in an infinite medium using an array of parallel dislocations. The second model is a generalized theory that simplifies the crack growth law, allowing for a more straightforward application to various materials and situations. The article provides equations and relations for both models, which can be used to predict the behavior of cracks under stress and improve the understanding of fatigue in materials.
+scientific_discipline: Engineering and Technology > Materials Science

@@ -1,0 +1,10 @@
+article_id: rspa_1980_0118
+revised_title: 'Influence of Flameholder Conductance on Plane Flame Static Stability'
+semantic_tags:
+  - Combustion
+  - Flame Dynamics
+  - Flame Stability
+  - Porous-Plug Flameholder
+  - Large-Activation Energy Asymptotics
+tldr: The authors analyze the influence of a flameholder on a plane flame, focusing on its static stability. They use large-activation energy asymptotics to derive a theory that shows the relation between the mass flux of reactants through the flameholder and the burnt-gas temperature. The flameholder's conductance plays a significant role in the equilibrium between the flame and the flameholder, affecting the flame's behavior and stability.
+scientific_discipline: Engineering and Technology > Combustion and Flame

@@ -1,0 +1,10 @@
+article_id: 'rstl_1886_0011'
+revised_title: 'Effects of Stress and Magnetisation on the Thermoelectric Quality of Iron'
+semantic_tags:
+  - Thermoelectricity
+  - Iron properties
+  - Stress effects
+  - Magnetisation
+  - Material science
+tldr: 'The author conducted experiments on the effects of stress and magnetisation on the thermoelectric quality of iron. They discovered that the initial effect of loading an annealed iron wire is negative, causing a current to flow from the unstressed to the stressed portion of the wire. However, when the application of load is continued beyond the limit of elasticity, the negative effect passes a maximum and can change to positive. The author also observed a unique phenomenon where the thermoelectric changes during the application and removal of load differ significantly, which was later confirmed by other researchers.'
+scientific_discipline: 'Engineering and Technology > Material Science'

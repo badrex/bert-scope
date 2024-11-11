@@ -1,0 +1,10 @@
+article_id: 'rstb_1981_0024'
+revised_title: 'Exploring Hominoid Brain Endocast Dorsal Surface Morphology'
+semantic_tags:
+  - Neuroanatomy
+  - Hominoid Brain Evolution
+  - Stereoplotter Analysis
+  - Discriminant Analysis
+  - Endocast Morphology
+tldr: The study explores a method to measure the dorsal surface of hominoid brain endocasts using a coordinate stereoplotter. The research reveals taxonomically different data in various cortical regions after correcting for overall endocast size. The method shows promise in depicting shape differences in functionally understood cortical regions through multivariate statistical analyses, providing valuable information for understanding the evolution of the hominid brain.
+scientific_discipline: Biology and Life Sciences > Neuroanatomy and Evolution

@@ -1,0 +1,11 @@
+article_id: rsta_1977_0143
+revised_title: Controllable Deformations in Isotropic Elastic Membranes
+semantic_tags:
+  - Elasticity Theory
+  - Finite Deformations
+  - Thin Shells
+  - Strain Energy
+  - Controllable Solutions
+tldr: This paper explores static solutions for finitely deformed elastic membranes, focusing on deformations that can be maintained in every isotropic elastic material without body force. The study covers edge loads and uniform normal surface loads on thin shell-like bodies. The main results are summarized in three theorems and several corollaries, covering developable, spherical, and surfaces of variable Gaussian curvature. These solutions are exhaustive for the class of elastic materials characterized by the strain energy response function used.
+scientific_discipline: Mathematics > Applied Mathematics
+sub_discipline: Mechanics > Solid Mechanics

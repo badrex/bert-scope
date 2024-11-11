@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0230'
+revised_title: 'Helium Line Emission and Atmospheric Structure in the Sun and Heliosphere'
+semantic_tags:
+  - Heliosphere
+  - Solar Physics
+  - Atmospheric Structure
+  - Helium Emission
+  - Transition Region
+tldr: The authors study the relationship between helium line emission and atmospheric structure in the Sun and heliosphere. They propose that non-thermal ion motions observed in the transition region can transport helium ions across the steep temperature gradient. The helium emission's intensity varies across the Sun, and the authors relate this to the temperature gradient in coronal holes and the transition region.
+scientific_discipline: Physics > Astronomy

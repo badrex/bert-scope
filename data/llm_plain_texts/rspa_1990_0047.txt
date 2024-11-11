@@ -1,0 +1,10 @@
+article_id: rspa_1990_0047
+revised_title: Asymptotic Evolution Laws for One-Dimensional Shock Waves in Simple Materials with Memory
+semantic_tags:
+  - Shock Waves
+  - Materials with Memory
+  - Nonlinear Viscoelasticity
+  - Evolution Laws
+  - Singular Surface Theory
+scientific_discipline: Physics > Mechanics
+tldr: This paper investigates the asymptotic evolution laws for one-dimensional shock waves in simple materials with memory. Two approximation methods, singular surface theory and shock-fitting, are used to derive a system of coupled first-order ordinary differential equations for the shock amplitude and the accompanying second-order discontinuity. The study shows how plane shock waves evolve under the combined effects of material nonlinearity and internal dissipation, and highlights the importance of these factors in understanding the behavior of shock waves in viscoelastic materials.

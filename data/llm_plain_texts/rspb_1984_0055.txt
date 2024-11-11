@@ -1,0 +1,10 @@
+article_id: 'rspb_1984_0055'
+revised_title: 'Saxitoxin Binding in Squid Giant Axon: A Study on Neurotransmitter Receptor Sites'
+semantic_tags:
+  - Neurotransmitter Receptors
+  - Saxitoxin
+  - Sodium Channels
+  - Squid Axon
+  - Neurobiology
+tldr: The authors measured the binding capacity of labeled saxitoxin to squid giant axons and found a maximum saturable binding capacity of 290 binding sites per square micrometer of membrane. This study helps to estimate the density of sodium channels in the axons and provides insights into the neurotransmitter receptor sites.
+scientific_discipline: Biology and Life Sciences > Neurobiology

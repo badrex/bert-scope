@@ -1,0 +1,10 @@
+article_id: rspa_1962_0066
+revised_title: 'Cohesive and Surface Energies of Crystals with Fluorite Structure'
+semantic_tags:
+  - Crystallography
+  - Surface Energy
+  - Cohesive Energy
+  - Ionic Crystals
+  - Fluorite Structure
+tldr: The authors conducted a study on the cohesive and surface energies of crystals with the fluorite structure using the Born-Mayer model. They found that varying the constants and approach to the problem significantly affected the calculated energies. The study demonstrated the importance of considering different factors when calculating cohesive and surface energies in ionic structures.
+scientific_discipline: Chemistry > Crystallography

@@ -1,0 +1,10 @@
+article_id: rsta_1951_0018
+revised_title: Underwater Explosion Measurements: Effects of Charge Shape and Range
+semantic_tags:
+  - Underwater explosions
+  - Shock waves
+  - Pressure-time records
+  - Explosive charges
+  - Shock-wave parameters
+tldr: This study examines the effects of charge shape and range on underwater explosion measurements. Experiments were conducted using small charges, and pressure-time records were obtained at various distances from the charge. The results showed that shock-wave parameters, particularly close to the charge, depend on the shape of the explosive charge. The study confirms the importance of afterflow energy-flux density relative to the primary shock-wave energy-flux density, especially near the charge, and provides general confirmation of theories developed in the United States and the United Kingdom.
+scientific_discipline: Physics > Fluid Dynamics

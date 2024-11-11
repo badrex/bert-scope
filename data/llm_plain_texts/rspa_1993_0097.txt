@@ -1,0 +1,10 @@
+article_id: rspa_1993_0097
+revised_title: 'Magnetic Domain Configurations in Iron-Silicon Alloy Single-Crystal Plates: X-ray Topographic Observations and Interpretation'
+semantic_tags:
+  - Ferromagnetism
+  - Iron-silicon alloy
+  - X-ray topography
+  - Domain walls
+  - Crystallography
+tldr: The authors study the magnetic domain configurations in single-crystal plates of iron-silicon alloy using X-ray topography. They develop a model using a regular octahedron to represent the possible magnetization states and derive rules for domain shapes and volumes. The findings help in understanding the hierarchy of domains in (112)-orientation plates and provide insights into the magnetization process.
+scientific_discipline: Physics > Materials Science

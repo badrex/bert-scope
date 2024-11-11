@@ -1,0 +1,10 @@
+article_id: 'rstb_1984_0104'
+revised_title: 'Structure and Function of Variant Surface Glycoproteins in Trypanosoma brucei'
+semantic_tags:
+  - 'Trypanosoma brucei'
+  - 'Variant surface glycoproteins'
+  - 'Antigenic variation'
+  - 'Protozoal diseases'
+  - 'Immunology'
+tldr: The article discusses the structure and function of variant surface glycoproteins (VSGs) in Trypanosoma brucei, a protozoan parasite responsible for African sleeping sickness. The VSGs form a surface coat that helps the parasite evade the host's immune system. The article highlights the genetic basis of VSG structure, the two distinct domains of VSGs, and the conservation of cysteine residues in the carboxy terminal domain. The surface coat's role in antigenic variation and the parasite's immune evasion strategies are also discussed.
+scientific_discipline: Biology and Life Sciences > Parasitology

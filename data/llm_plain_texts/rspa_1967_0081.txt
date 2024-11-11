@@ -1,0 +1,10 @@
+article_id: rspa_1967_0081
+revised_title: Surface Wave Damping in Closed Basins: The Role of Surface Films and Capillary Hysteresis
+semantic_tags:
+  - Fluid Dynamics
+  - Surface Waves
+  - Boundary Layer Theory
+  - Surface Films
+  - Capillary Hysteresis
+tldr: This article investigates the damping of surface waves in closed basins due to viscous dissipation, surface contamination, and capillary hysteresis. The authors propose a new approach using boundary layer approximations to analyze the effects of surface films and capillary hysteresis on wave damping. The results are compared with previous experimental observations, suggesting that both surface films and capillary hysteresis contribute to the discrepancies in observed damping rates.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

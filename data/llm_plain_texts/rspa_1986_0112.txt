@@ -1,0 +1,10 @@
+article_id: rspa_1986_0112
+revised_title: Vibrations of a Heavily Loaded, Semi-Infinite Cylindrical Elastic Shell: Part I
+semantic_tags:
+  - Elasticity
+  - Fluid-Structure Interaction
+  - Acoustics
+  - Cylindrical Shells
+  - Wiener-Hopf Technique
+tldr: The article presents a mixed boundary-value problem to describe the axisymmetric coupled motion between an inviscid, compressible fluid and a semi-infinite cylindrical elastic shell. The shell is rigidly bonded to a hollow cylindrical duct, acting as a waveguide for the plane acoustic wave that forces the system. An exact solution is obtained using the Wiener-Hopf technique, focusing on the heavy fluid loading and long waves limit.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

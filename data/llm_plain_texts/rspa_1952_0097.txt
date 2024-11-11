@@ -1,0 +1,10 @@
+article_id: 'rspa_1952_0097'
+revised_title: 'A Review of Friction Research and Its Influencing Factors'
+semantic_tags:
+  - Friction
+  - Metallic Transfer
+  - Surface Deformation
+  - Material Properties
+  - Wear
+tldr: 'This article discusses the coefficient of friction and the factors that influence it, such as the macroscopic radius of curvature of sliding members, their hardness, and surface roughness. The authors mention ongoing research to study the effect of these variables on the breakdown load and cite relevant literature on the topic.'
+scientific_discipline: Engineering and Technology > Materials Science

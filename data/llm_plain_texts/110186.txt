@@ -1,0 +1,10 @@
+article_id: 110186
+revised_title: 'Investigating the Electricity of the Torpedo'
+semantic_tags:
+  - Electrochemistry
+  - Biology
+  - Marine Biology
+  - Electricity
+  - Voltaic Pile
+tldr: The author, Humphry Davy, conducted experiments on the Torpedo's electricity while on the coast of the Mediterranean in 1814 and 1815. He tested the shocks given by living torpedoes through various circuits and found that they did not decompose water or produce magnetic effects. Davy concluded that the Torpedo's electrical organs function similarly to a weakly charged Voltaic pile with an impermeable fluid conductor.
+scientific_discipline: Biology > Marine Biology

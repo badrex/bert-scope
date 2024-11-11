@@ -1,0 +1,10 @@
+article_id: rspa_1949_0095
+revised_title: One-Dimensional Dislocations: Static Theory and Applications
+semantic_tags:
+  - Dislocations
+  - Crystallography
+  - Surface Science
+  - Material Science
+  - Elasticity
+tldr: The authors develop a simplified model of one-dimensional dislocations and their properties. They explore the equilibrium conditions, energy calculations, and critical conditions for spontaneous generation or escape of dislocations. The model has applications in understanding dislocations in monolayers on crystalline substrates and edge rows of molecules in growing crystals.
+scientific_discipline: Physics > Material Science

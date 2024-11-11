@@ -1,0 +1,10 @@
+article_id: rspa_1947_0122
+revised_title: The Anomalous Skin Effect in Normal Metals: A Semi-Classical Model
+semantic_tags:
+  - Superconductivity
+  - Skin Effect
+  - Anomalous Skin Conductivity
+  - Electromagnetic Theory
+  - Metallic Conductors
+tldr: This article investigates the anomalous skin effect in normal metals, focusing on the behavior of electrons and the skin conductivity. The authors propose a semi-classical model to explain the phenomenon, which occurs when the mean free path of electrons becomes much greater than the skin depth. They also discuss the effect of surface roughness and temperature on the skin resistivity, and provide experimental results for various metals.
+scientific_discipline: Physics > Electromagnetism

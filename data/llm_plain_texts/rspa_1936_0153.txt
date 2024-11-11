@@ -1,0 +1,10 @@
+article_id: rspa_1936_0153
+revised_title: 'Artificial Radioactivity Induced by Alpha Particles in Magnesium Isotopes'
+semantic_tags:
+  - Nuclear Physics
+  - Radioactivity
+  - Isotopes
+  - Alpha Particles
+  - Magnesium
+tldr: The authors conducted experiments to study the artificial radioactivity produced in magnesium isotopes when bombarded with alpha particles. They identified three radioactive bodies, Al28, Si27, and Al29, and analyzed the decay curves and cross-sections for activation of these isotopes. The results showed significant differences in the integrated cross-sections for the isotopes, highlighting the importance of studying the behavior of isotopes under alpha particle bombardment.
+scientific_discipline: Physics > Nuclear Physics

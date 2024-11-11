@@ -1,0 +1,10 @@
+article_id: 'rstb_1990_0021'
+revised_title: 'Microbial Membrane Transport Systems: The Melibiose/Na Symporter'
+semantic_tags:
+  - Membrane Transport
+  - Microbiology
+  - Symporter
+  - Melibiose
+  - Cation Coupling
+tldr: This article investigates the microbial membrane transport system of Escherichia coli, specifically the melibiose/Na symporter. The study examines the role of the co-transported cation in the coupling mechanism and analyzes the effects of different cations on sugar-binding activity and facilitated diffusion reactions. The results suggest that the coupling cation not only activates sugar-binding but also regulates the rate of dissociation of co-substrates in the cytoplasm. The melibiose permease is identified as a membrane protein, and site-directed mutagenesis is used to explore the functional contribution of histidine residues to the symport mechanism.
+scientific_discipline: Biology and Life Sciences > Microbiology

@@ -1,0 +1,10 @@
+article_id: rsta_1988_0051
+revised_title: "Deep Ocean Tracer Release Experiments: A Feasible Approach to Measure Vertical Mixing Rates"
+semantic_tags:
+  - Oceanography
+  - Tracer experiments
+  - Vertical mixing
+  - Diapycnal mixing
+  - Perfluorinated tracers
+tldr: "The authors discuss the use of purposefully released tracers, specifically perfluorinated compounds, to measure vertical mixing rates in the ocean. They explain the advantages and disadvantages of using these tracers and describe a feasible experimental plan to tackle the diapycnal mixing problem. The authors also review the properties and potential uses of perfluorinated tracers in marine studies, highlighting their sensitivity and conservative behavior beneath the surface layer."
+scientific_discipline: Environmental and Earth Sciences > Oceanography

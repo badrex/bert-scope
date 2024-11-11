@@ -1,0 +1,10 @@
+article_id: rspa_1961_0042
+revised_title: 'Investigation of Dielectric Properties of Adsorbed Vapours and Gases at Low Surface Coverages'
+semantic_tags:
+  - Dielectric properties
+  - Adsorption
+  - Surface chemistry
+  - Vycor glass
+  - Ammonia adsorption
+tldr: The authors studied the dielectric properties of adsorbed vapours and gases at low surface coverages using ammonia adsorbed on porous Vycor glass. They found hysteresis in the adsorption isotherm and different types of adsorption sites on the Vycor glass. The results indicate a redistribution of adsorbate molecules before reaching equilibrium and provide insights into the dielectric properties of adsorbate-adsorbent systems.
+scientific_discipline: Chemistry > Surface chemistry

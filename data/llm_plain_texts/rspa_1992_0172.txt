@@ -1,0 +1,10 @@
+article_id: rspa_1992_0172
+revised_title: Quadrupole Collision Cell Design: Hill's Equation Applications
+semantic_tags:
+  - Quadrupole Mass Filter
+  - Hill's Equation
+  - Collision Induced Dissociation
+  - Mass Spectrometry
+  - Ion Motion
+tldr: This article investigates the application of Hill's equation to quadrupole collision cell design in mass spectrometry. The authors explore the properties of square wave, triangular wave, and sawtooth waveforms to enhance the performance of quadrupole collision cells. They discuss the mathematical findings and their design implications, as well as the stability diagrams for different waveforms.
+scientific_discipline: Physics > Electromagnetism

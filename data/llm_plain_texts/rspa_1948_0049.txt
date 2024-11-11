@@ -1,0 +1,10 @@
+article_id: rspa_1948_0049
+revised_title: 'A Direct Study of Wave Interaction and its Implications on Ionospheric Absorption'
+semantic_tags:
+  - Ionosphere
+  - Radio Waves
+  - Wave-Interaction
+  - Absorption Theory
+  - Bailey and Martyn's Theory
+tldr: The authors conducted experiments to study the interaction of radio waves and its effects on the ionosphere. They tested Bailey and Martyn's absorption theory, which suggests that the interaction occurs due to the absorption of waves in the ionosphere. The experiments provided valuable information about the absorbing portions of the ionosphere and supported the absorption hypothesis. The results showed that wave interaction can be used to study the ionosphere's absorption and the relaxation time of electrons.
+scientific_discipline: Physics > Electromagnetism

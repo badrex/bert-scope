@@ -1,0 +1,10 @@
+article_id: 'rspa_1982_0143'
+revised_title: 'Special Invariance Properties of Pade Approximants in Rayleigh-Schrodinger Perturbation Theory for Molecular Interaction Energies'
+semantic_tags:
+  - Molecular Physics
+  - Quantum Chemistry
+  - Pade Approximants
+  - Molecular Interaction Energies
+  - Rayleigh-Schrodinger Perturbation Theory
+tldr: This article discusses the use of Pade approximants in calculating molecular potential energy curves and surfaces. It shows that Pade approximants to the interaction energy are more useful than Pade approximants to the total energy when complete potential energy curves and surfaces are being calculated. The author presents illustrative calculations for some four-electron diatomic systems and considers the long-range behavior of Pade approximants to potential energy curves.
+scientific_discipline: Chemistry > Quantum Chemistry

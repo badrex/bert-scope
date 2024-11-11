@@ -1,0 +1,10 @@
+article_id: 'rspa_1957_0061'
+revised_title: 'Interpretation of Proton Shifts in Nuclear Magnetic Resonance'
+semantic_tags:
+  - Nuclear Magnetic Resonance
+  - Chemical Shifts
+  - Molecular Orbital Theory
+  - Diamagnetic and Paramagnetic Effects
+  - Quantum Chemistry
+tldr: This article explores the theory of chemical shifts in nuclear magnetic resonance, focusing on the interpretation of proton shifts. It discusses the role of local diamagnetic currents, paramagnetic circulations, and molecular orbital theory in understanding these shifts. The authors provide calculations and examples for various molecules, including acetylene, water, and ammonia.
+scientific_discipline: Chemistry > Quantum Chemistry

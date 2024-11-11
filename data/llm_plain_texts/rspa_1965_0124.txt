@@ -1,0 +1,10 @@
+article_id: rspa_1965_0124
+revised_title: 'Electron Correlations in Narrow Energy Bands: Reformulation and Extension'
+semantic_tags:
+  - Quantum Mechanics
+  - Solid State Physics
+  - Band Theory
+  - Electron Correlations
+  - Crystal Field Theory
+scientific_discipline: Physics > Solid State Physics
+tldr: The article presents a reformulation and extension of the previous theory of electron correlations in narrow energy bands. The new formulation is conceptually simpler and can be developed in close analogy with the usual theory of spin waves. It allows for the consideration of interactions between electrons on different atoms and the study of anti-ferromagnetic and more complicated spin arrangements. The theory is developed using the equation of motion method and includes the crystal field, Weiss molecular field, spin waves, polarization waves, and quasi-electron theory in its simplest approximations.

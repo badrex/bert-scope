@@ -1,0 +1,10 @@
+article_id: 'rstb_1986_0050'
+revised_title: 'Expression and Manipulation of Bacterial Rubisco Genes in Escherichia Coli'
+semantic_tags:
+  - 'Rubisco'
+  - 'Gene expression'
+  - 'Mutagenesis'
+  - 'Photosynthesis'
+  - 'Enzyme structure'
+tldr: 'The authors successfully expressed bacterial Rubisco genes in Escherichia coli, allowing for the production of active enzymes. They used site-directed mutagenesis to modify the active site structure of the carboxylase, aiming to determine the role of individual amino acid residues in the catalytic process and improve our understanding of the enzyme's function.'
+scientific_discipline: Biology and Life Sciences > Biochemistry

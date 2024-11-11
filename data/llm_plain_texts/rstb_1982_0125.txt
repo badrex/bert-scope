@@ -1,0 +1,10 @@
+article_id: 'rstb_1982_0125'
+revised_title: 'Molecular Mechanisms of Cell Locomotion: The Solation-Contraction Coupling Hypothesis'
+semantic_tags:
+  - Cell Biology
+  - Actin Cytoskeleton
+  - Cellular Contractility
+  - Calcium Signaling
+  - Cell Motility
+tldr: The authors present the solation-contraction coupling hypothesis, which explains the relationship between cytoplasmic structure and contractility in amoeboid cells. They study the effects of calcium and pH on cytoplasmic gelation and contraction in cell extracts and living cells, and propose that this model can be useful in understanding various cell motility phenomena.
+scientific_discipline: Biology and Life Sciences > Cell Biology

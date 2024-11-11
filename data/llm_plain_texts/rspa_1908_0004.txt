@@ -1,0 +1,10 @@
+article_id: rspa_1908_0004
+revised_title: 'Directional Sensitivity of the Ear to Explosive Sounds'
+semantic_tags:
+  - Acoustics
+  - Ballistics
+  - Sound directionality
+  - Wave propagation
+  - Velocity of sound
+tldr: The author conducted experiments to study how the ear can accurately determine the direction of explosive sounds, even when the sound consists of only two waves. The findings show that the ear can distinguish the direction of a sound by the actual difference in the times at which a single pulse reaches each ear, in addition to differences in phase. This research helps to understand the accuracy of the ear in detecting the direction of sounds and has implications for the study of ballistics and acoustics.
+scientific_discipline: Physics > Acoustics

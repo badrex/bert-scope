@@ -1,0 +1,10 @@
+article_id: rsta_1995_0096
+revised_title: Orbifold Approach to the Narasimhan-Seshadri Theorem for Parabolic Bundles
+semantic_tags:
+  - Geometry
+  - Algebraic Geometry
+  - Differential Geometry
+  - Riemann Surfaces
+  - Yang-Mills Connections
+tldr: The authors prove a version of the Narasimhan-Seshadri theorem for stable parabolic bundles using an orbifold approach. They establish a correspondence between stable parabolic structures on Riemann surfaces and Yang-Mills connections on associated orbifold bundles, providing a new insight into the problem and its potential applications.
+scientific_discipline: Mathematics > Algebraic Geometry

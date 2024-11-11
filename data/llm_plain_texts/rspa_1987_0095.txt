@@ -1,0 +1,10 @@
+article_id: 'rspa_1987_0095'
+revised_title: 'Dynamical Chaos: A Confluence of Ideas and Approaches'
+semantic_tags:
+  - Chaos Theory
+  - Differential Equations
+  - Ergodic Theory
+  - Strange Attractors
+  - Nonlinear Dynamics
+tldr: This article discusses the understanding of chaos and strange attractors in deterministic systems, emphasizing the confluence of various mathematical and scientific ideas. It highlights the influence of differential topology, classical differential equations, ergodic theory, fast interactive graphics, precision experiments, and chaotic biological systems on the study of chaos. The author also mentions the need for further research and the potential for a fascinating future in the field.
+scientific_discipline: Mathematics > Dynamical Systems

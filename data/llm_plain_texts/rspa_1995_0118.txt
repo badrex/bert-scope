@@ -1,0 +1,10 @@
+article_id: rspa_1995_0118
+revised_title: One-Point Modelling of Rapidly Deformed Homogeneous Turbulence: A New Approach
+semantic_tags:
+  - Turbulence Modeling
+  - Fluid Dynamics
+  - Reynolds Stress
+  - Rapid Distortion Theory
+  - Fluid Mechanics
+tldr: This article discusses the limitations of current one-point turbulence models and proposes a new approach to model rapidly deformed homogeneous turbulence. The authors argue that the Reynolds stresses alone are insufficient for predicting Reynolds stresses in nonequilibrium turbulent flows and introduce additional one-point tensors to overcome this deficiency. They develop a new linear model that captures some features of rapidly rotated anisotropic turbulence but ultimately conclude that a more complicated nonlinear model is necessary.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1993_0128'
+revised_title: 'Characterization of Cloned cGMP-Activated Channels from Retinal Rods'
+semantic_tags:
+  - Ion channels
+  - Retinal biology
+  - Electrophysiology
+  - cGMP-activated channels
+  - Xenopus oocytes
+tldr: The authors analyzed the single-channel properties of a cloned cGMP-activated channel from retinal rods. They found that the channel had a single-channel conductance of 32 pS at +120 mV and 25 pS at -120 mV. The channel's conductance was not significantly affected by varying cGMP concentration. The cloned channel had similar ionic selectivity and sensitivity to divalent cations as the native channel in rod outer segments of the tiger salamander. However, the cloned channel had longer mean open times, especially at positive potentials, compared to the native channel.
+scientific_discipline: Biology and Life Sciences > Neuroscience

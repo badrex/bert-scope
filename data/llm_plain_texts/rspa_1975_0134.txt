@@ -1,0 +1,10 @@
+article_id: rspa_1975_0134
+revised_title: 'Internal Relaxation, Ionization, and Recombination in a Dense Hydrogen Plasma: Singular Perturbation Theory Application'
+semantic_tags:
+  - Plasma physics
+  - Ionization
+  - Recombination
+  - Singular perturbation theory
+  - Hydrogen plasma
+tldr: The authors develop a singular perturbation theory to study internal relaxation, ionization, and recombination in a dense hydrogen plasma. They find two distinct time regimes in the relaxation process, with a fast initial transient involving internal redistribution of atoms and a slower phase leading to the equilibrium distribution. The ionization rate is related to the smallest eigenvalue of the relaxation matrix, and the rate-quotient law holds approximately.
+scientific_discipline: Physics > Plasma Physics

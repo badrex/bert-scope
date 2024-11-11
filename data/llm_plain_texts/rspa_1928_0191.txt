@@ -1,0 +1,10 @@
+article_id: rspa_1928_0191
+revised_title: 'A New Method for Analyzing Flow in Compressible Fluids'
+semantic_tags:
+  - Fluid Dynamics
+  - Compressible Fluids
+  - Aerodynamics
+  - Mathematical Analysis
+  - Engineering Applications
+tldr: The authors present a new method for analyzing flow in compressible fluids, which involves using electric analogies to test the correctness of density distribution. This method can be used to find the true solution of problems related to flow in compressible fluids, such as those involving high-speed aircraft.
+scientific_discipline: Engineering and Technology > Fluid Dynamics

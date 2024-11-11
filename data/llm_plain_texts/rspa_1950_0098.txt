@@ -1,0 +1,10 @@
+article_id: rspa_1950_0098
+revised_title: Homotopy Invariants and Continuous Mappings: A New Approach
+semantic_tags:
+  - Algebraic Topology
+  - Homotopy Theory
+  - Cohomology
+  - Homotopy Invariants
+  - Continuous Mappings
+tldr: This article introduces new numerical invariants called secondary torsions, which, along with Betti numbers and coefficients of torsion, help characterize the homotopy type of a certain class of polyhedra. These invariants are also applied to classify continuous mappings of an n-dimensional polyhedron into an n-sphere. The study provides a new approach to understanding the topology of polyhedra and their mappings.
+scientific_discipline: Mathematics > Algebraic Topology

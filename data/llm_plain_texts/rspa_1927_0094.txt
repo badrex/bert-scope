@@ -1,0 +1,10 @@
+article_id: rspa_1927_0094
+revised_title: 'Appleton and Ratcliffe's Investigations on Wireless Signal Variations'
+semantic_tags:
+  - Wireless communication
+  - Signal fading
+  - Radio wave propagation
+  - Ionosphere
+  - Direction-finding
+tldr: Appleton and Ratcliffe's research focuses on understanding the nature of wireless signal variations, particularly the fluctuations in the angle of incidence of downcoming waves. They develop a method to suppress ground waves and investigate the changes in intensity of the downcoming waves. Their findings reveal that most signal changes are due to variations in the intensity of the normally polarized component of the downcoming waves, rather than changes in the angle of incidence or phase.
+scientific_discipline: Physics > Electromagnetism

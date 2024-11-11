@@ -1,0 +1,10 @@
+article_id: rspl_1884_0059
+revised_title: Reflex Cardiac Inhibition in Fishes
+semantic_tags:
+  - Cardiology
+  - Reflex inhibition
+  - Fish physiology
+  - Vagus nerve
+  - Medulla oblongata
+tldr: The authors conducted experiments on eels and other fish species to study reflex cardiac inhibition. They discovered that stimulation of the gills, skin of the head, or tail could cause a profound and temporary arrest of the heart's action. This phenomenon occurs through the branchial nerves, which transmit the afferent impulse to the medulla oblongata, where it becomes an inhibitory impulse that travels down the vagus nerve to the heart. The authors also found that ether or chlorform could prevent cardiac arrest, but only when used in amounts that did not affect the medulla's activity.
+scientific_discipline: Biology and Life Sciences > Physiology

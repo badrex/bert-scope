@@ -1,0 +1,10 @@
+article_id: rspa_1943_0008
+revised_title: 'Magnetic Study of Iron-Nickel Alloys: Phase Segregation and Equilibrium Diagram'
+semantic_tags:
+  - Iron-Nickel Alloys
+  - Phase Diagram
+  - Magnetic Properties
+  - Annealing Experiments
+  - Allotropic Transformation
+tldr: The authors conducted a magnetic study of iron-nickel alloys to determine their phase boundaries and equilibrium diagram. They found that the mechanism of phase segregation from the single-phase a-state involves one phase crystallizing out in its equilibrium concentration while the rest of the alloy approaches equilibrium composition. The study also revealed the rate of attainment of equilibrium and extended the phase diagram to lower temperatures.
+scientific_discipline: Materials Science > Metallurgy

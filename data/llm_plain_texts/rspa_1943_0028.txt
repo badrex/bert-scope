@@ -1,0 +1,10 @@
+article_id: rspa_1943_0028
+revised_title: The Refractive Index of an Ionized Medium: A Positive Confirmation
+semantic_tags:
+  - Plasma Physics
+  - Electromagnetic Waves
+  - Ionosphere
+  - Refraction
+  - Polarization
+scientific_discipline: Physics > Electromagnetism
+tldr: The author investigates the refractive index of an ionized medium and confirms the use of the Sellmeyer formula instead of the Lorentz formula for determining the refractive index in the context of the ionosphere. The study focuses on the effects of collisions between free electrons and positive ions, which influence the refractive index and the polarization of the medium.

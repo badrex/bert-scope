@@ -1,0 +1,11 @@
+article_id: 'rspb_1968_0011'
+revised_title: 'Electron Resonance Studies of Haemoglobin Derivatives: Line-width and g-value Measurements of Acid-Met Myoglobin and Met Myoglobin Azide Derivatives'
+semantic_tags:
+  - Electron Paramagnetic Resonance (EPR)
+  - Haemoglobin
+  - Myoglobin
+  - Azide Derivatives
+  - Crystallography
+  - Protein Structure
+tldr: The authors conducted electron resonance studies on haemoglobin derivatives, focusing on acid-met myoglobin and met myoglobin azide derivatives. They measured line-width and g-value variations and analyzed the results in relation to the orientation of the azide group and the haem plane. The study provides insights into the structure and properties of haemoglobin and myoglobin proteins, contributing to the understanding of their function and interactions within the body.
+scientific_discipline: Biology and Life Sciences > Biochemistry and Molecular Biology

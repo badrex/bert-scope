@@ -1,0 +1,10 @@
+article_id: 'rspa_1954_0257'
+revised_title: 'Simpler Form of the Whitehead-Rayner Expanding Universe'
+semantic_tags:
+  - Cosmology
+  - General Relativity
+  - Whitehead's Gravitational Theory
+  - Expanding Universe
+  - Lorentz Transformations
+tldr: The author presents a simpler derivation of the fundamental form of an expanding universe based on Whitehead's gravitational theory. By considering a distribution of matter in flat space-time, the author obtains an equivalent form of Rayner's model through straightforward calculations. The resulting Whitehead-Rayner universe model accounts for gravity and is invariant under Lorentz transformations.
+scientific_discipline: Physics > Cosmology

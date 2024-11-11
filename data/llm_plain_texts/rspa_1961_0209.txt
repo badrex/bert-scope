@@ -1,0 +1,10 @@
+article_id: rspa_1961_0209
+revised_title: 'The s.p-o Method: A New Approach to Electron Correlation in Molecular Orbital Calculations'
+semantic_tags:
+  - Quantum Chemistry
+  - Molecular Orbital Theory
+  - Electron Correlation
+  - Split-p-orbital Method
+  - Acetylene
+tldr: The authors develop the split-p-orbital (s.p-o) method, which allows for better inclusion of electron correlation in molecular orbital calculations. This method is applied to acetylene, showing improved agreement with experimental data and suggesting that it may provide a non-empirical treatment for unsaturated compounds. The s.p-o method simplifies calculations by using correlated orbital functions and considering vertical correlation of electrons in p-orbitals.
+scientific_discipline: Chemistry > Quantum Chemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1929_0023
+revised_title: 'Investigating the Counting of Scintillations Produced by Alpha Particles: Practical Applications'
+semantic_tags:
+  - Particle physics
+  - Scintillation detection
+  - Alpha particles
+  - Optics
+  - Magnification
+tldr: The authors conducted experiments to understand the factors influencing the counting of scintillations produced by alpha particles. They found that the numerical aperture and magnification of the optical system used play a significant role in the number of particles observed. The study also determined the velocity of the slowest alpha particles capable of producing a visible scintillation.
+scientific_discipline: Physics > Particle Physics

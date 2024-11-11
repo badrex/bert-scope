@@ -1,0 +1,10 @@
+article_id: rspa_1984_0050
+revised_title: A Unified Theory of Surface Roughness: Analyzing Peak Heights and Curvatures
+semantic_tags:
+  - Surface Roughness
+  - Random Noise Signal
+  - Correlation Function
+  - Sampling Interval
+  - Surface Profile
+tldr: The article presents a unified theory of surface roughness, focusing on the properties of peaks and summits of a rough surface. The authors predict the heights of maxima and the frequency of excursions above a particular level using the correlation function. They also discuss the impact of the sampling interval on the surface properties and propose a new random surface theory that accounts for a finite sampling interval and an arbitrary correlation function.
+scientific_discipline: Engineering and Technology > Materials Science

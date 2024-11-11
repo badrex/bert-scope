@@ -1,0 +1,10 @@
+article_id: rspa_1987_0133
+revised_title: Stability Analysis of a Rotating Liquid Drop in a Corotating Fluid
+semantic_tags:
+  - Fluid Dynamics
+  - Rotating Liquid Drops
+  - Corotating Fluids
+  - Equilibrium Shapes
+  - Stability Analysis
+tldr: This article investigates the stability of a rotating liquid drop immersed in a corotating fluid with different densities. The equilibrium shapes are approximated by oblate or prolate spheroids, and a dispersion relation is derived using the energy integral method. The study finds that dynamical instability may initiate before the point of bifurcation is attained, and stability occurs for low or high eccentricities (or angular momenta) while instability occurs for intermediate eccentricities (or angular momenta).
+scientific_discipline: Physics > Fluid Dynamics

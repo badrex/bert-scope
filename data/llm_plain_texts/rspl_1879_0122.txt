@@ -1,0 +1,9 @@
+article_id: rspl_1879_0122
+revised_title: Electro-Magnetic Gyroscope and its Applications
+semantic_tags:
+  - Electromagnetism
+  - Electromagnetic Induction
+  - Gyroscopes
+  - Magneto-electrical Machines
+scientific_discipline: Physics > Electromagnetism
+tldr: The author presents an electro-magnetic gyroscope apparatus and its various phenomena. The gyroscope can rotate in different directions depending on the position of magnets and the direction of the current. The author explains that these phenomena can be explained using Faraday's laws of induction and suggests that a motive power comparable to other magneto-electrical machines may be obtained by exploiting these properties.

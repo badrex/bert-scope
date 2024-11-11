@@ -1,0 +1,10 @@
+article_id: rspa_1924_0019
+revised_title: 'Determination of Coefficients of Diffusion in Gels and Comparison with Indicator Method'
+semantic_tags:
+  - Diffusion
+  - Gels
+  - Chemical analysis
+  - Indicator method
+  - Coefficient of diffusion
+tldr: The authors investigated the coefficients of diffusion in gels using chemical analysis and compared the results with the indicator method. They determined the factors influencing the rate of diffusion, such as the nature of the diffusing salt, its concentration, and temperature. The study focused on sodium chloride and calcium chloride diffusion in a 2% agar-agar gel.
+scientific_discipline: Chemistry > Physical Chemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1983_0023
+revised_title: 'Influence of Residual Stresses on Machining Damage in Brittle Materials'
+semantic_tags:
+  - Residual Stresses
+  - Machining Damage
+  - Brittle Materials
+  - Fracture Mechanics
+  - Surface Finishing
+tldr: The authors investigate the micromechanics of failure from machining-induced cracks in brittle materials. They find that residual stresses play a significant role in the crack response and propose a model to explain the behavior of these cracks. The study has implications for non-destructive evaluation of surface damage and the reliability of brittle materials as structural components.
+scientific_discipline: Materials Science > Fracture Mechanics

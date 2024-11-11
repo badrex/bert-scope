@@ -1,0 +1,10 @@
+article_id: rspa_1959_0203
+revised_title: 'Isotope Concentration and Thermal Conductivity in Lithium Fluoride Crystals'
+semantic_tags:
+  - Thermal conductivity
+  - Lattice conduction
+  - Isotope concentration
+  - Lithium fluoride
+  - Point imperfections
+tldr: The authors conducted experiments on lithium fluoride crystals with varying isotope concentrations to study the effect of point imperfections on lattice conduction. They discovered that the extra thermal resistance is not proportional to the effective concentration of isotopes and proposed a new variational method to explain their findings and the available experimental data on the effect of mass variation on thermal conductivity.
+scientific_discipline: Physics > Solid State Physics

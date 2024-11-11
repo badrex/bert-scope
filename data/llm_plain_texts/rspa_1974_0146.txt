@@ -1,0 +1,10 @@
+article_id: rspa_1974_0146
+revised_title: 'Effect of Emulsifying Agents on the Relative Wetting of Sand by Crude Oil and Water'
+semantic_tags:
+  - Adhesion tension
+  - Wetting of sand
+  - Emulsifying agents
+  - Oil recovery
+  - Petroleum reservoirs
+tldr: The authors developed a dynamic method to measure adhesion tension in liquids moving through powders, using a gradient of hydrostatic pressure. They studied the effect of emulsifying agents on the wetting of sand by crude oil and water, finding that emulsifying agents reduce adhesion tension, increasing the sand's wetting by oil. The research has implications for oil recovery, water displacement in porous media, and oil-polluted beach cleaning.
+scientific_discipline: Environmental and Earth Sciences > Soil and Sediment Management

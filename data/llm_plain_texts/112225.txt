@@ -1,0 +1,10 @@
+article_id: 112225
+revised_title: 'On the Theory of Probabilities: Analytical Foundations and Applications'
+semantic_tags:
+  - Probability Theory
+  - Mathematical Logic
+  - Statistics
+  - Data Analysis
+  - Bayesian Inference
+tldr: This article by George Boole investigates the analytical conditions of a method for solving problems in probability theory. It discusses the application of the method to various problems and explores the use of mathematical logic to construct the problem without adding to the data. The article also explains the role of ideal events in probability calculations and the conditions under which probabilities can be determined.
+scientific_discipline: Mathematics > Probability Theory

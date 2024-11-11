@@ -1,0 +1,10 @@
+article_id: rspl_1881_0102
+revised_title: 'A Study on the Electrical Conductivity of Glass and a New Electrical Storage Battery'
+semantic_tags:
+  - Electrical conductivity
+  - Glass chemistry
+  - Batteries
+  - Electrochemistry
+  - Thomson's electrometer
+tldr: The author investigates the relationship between the density and electrical conductivity of glass. They find that the conductivity is lowest when the glass is an exact chemical compound. Additionally, the author presents a new electrical storage battery design using a copper case, a lead amalgamated plate, and a solution of cupric sulfate with hydric sulfate.
+scientific_discipline: Chemistry > Electrochemistry

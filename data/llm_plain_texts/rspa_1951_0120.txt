@@ -1,0 +1,10 @@
+article_id: rspa_1951_0120
+revised_title: 'Perturbation Theory and the Spectrum of Differential Equations'
+semantic_tags:
+  - Perturbation Theory
+  - Differential Equations
+  - Mathematical Physics
+  - Spectral Theory
+  - Boundary Value Problems
+tldr: The author investigates the behavior of the spectrum of a differential equation when the spectrum of the unperturbed equation is discrete and the perturbed spectrum is continuous. They explore a special case where the boundary condition at infinity is satisfied, and analyze the effect of the perturbation on the spectrum and the eigenvalues. The results provide insights into the representation of an arbitrary function in terms of the solutions of the perturbed equation.
+scientific_discipline: Mathematics > Analysis

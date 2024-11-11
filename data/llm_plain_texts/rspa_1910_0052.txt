@@ -1,0 +1,10 @@
+article_id: 'rspa_1910_0052'
+revised_title: 'Redetermination of Dispersion of Argon, Helium, Neon, Krypton, and Xenon'
+semantic_tags:
+  - 'Optical Physics'
+  - 'Refractivity'
+  - 'Inert Gases'
+  - 'Dispersion Formula'
+  - 'Interference'
+tldr: 'The authors conducted experiments to determine the refractivity and dispersion of argon, helium, neon, krypton, and xenon. They used a method of least squares to calculate the values of the constants and found that their results were accurate and consistent with previous measurements. The study contributed to the understanding of the properties of inert gases and their applications in optics.'
+scientific_discipline: 'Physics > Optics'

@@ -1,0 +1,10 @@
+article_id: rspa_1981_0130
+revised_title: Evolution of Baroclinic Wave Packets in a Flow with Continuous Shear and Stratification
+semantic_tags:
+  - Geophysical Fluid Dynamics
+  - Baroclinic Waves
+  - Continuous Shear
+  - Stratification
+  - Sine-Gordon Equation
+tldr: This article presents the evolution equations for weakly nonlinear baroclinic wave packets in a flow with continuous shear and stratification. The authors demonstrate that when wave dispersion is forced by using sloping upper and lower boundaries, these evolution equations can be transformed into the sine-Gordon equation. The study discusses the relation between the behavior in this model and that in discrete-layer models of baroclinic instability and compares the solutions with experimental results.
+scientific_discipline: Physics > Fluid Dynamics

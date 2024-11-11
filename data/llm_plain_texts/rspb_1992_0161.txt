@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0161'
+revised_title: 'The Glial Spike Theory and its Implications for Migraine'
+semantic_tags:
+  - Neurology
+  - Migraine
+  - Glial cells
+  - Spreading depression
+  - Neuroglia
+tldr: The author proposes a new theory, the glial spike hypothesis, which suggests that spreading depression, a phenomenon linked to the neurological auras of migraine, is primarily driven by a regenerative event in the neuroglial compartment. This glial spike can alter the neuronal microenvironment and trigger neuronal depolarization, while being facilitated by neuronally released agents. The propagation mechanism of spreading depression is proposed to be a wave of intracellular Ca2+-induced Ca2+ release (cytocal wave) traveling through the glial compartment. This theory could lead to a better understanding and management of migraine.
+scientific_discipline: Biology and Life Sciences > Neurology

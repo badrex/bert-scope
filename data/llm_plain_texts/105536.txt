@@ -1,0 +1,10 @@
+article_id: 105536
+revised_title: Observations of the Solar Eclipse of April 1, 1764, at Brompton Park
+semantic_tags:
+  - Astronomy
+  - Solar Eclipse
+  - Timekeeping
+  - Observational Astronomy
+  - Telescope
+tldr: In 1764, Samuel Dunn observed the solar eclipse using a reflecting telescope and a refracting telescope. He found that his watch lost 4 seconds of time compared to the clocks, and the eclipse ended at 12:03. Dunn's observations allowed him to create a map of the eclipse phases and confirm Brompton Park's location relative to Greenwich and Paris.
+scientific_discipline: Astronomy > Observational Astronomy

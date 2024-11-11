@@ -1,0 +1,10 @@
+article_id: rspa_1967_0097
+revised_title: 'Infrared Determination of Optical Constants and Vibrational Band Intensities of Liquids Using Attenuated Total Reflexion'
+semantic_tags:
+  - Infrared spectroscopy
+  - Optical constants
+  - Vibrational band intensities
+  - Attenuated total reflexion
+  - Refractive index
+tldr: This article presents a method for determining the refractive index and vibrational absorption band intensities of liquids in the infrared using attenuated total reflexion. The authors apply this method to benzene, carbon tetrachloride, chloroform, bromoform, tetrabromoethane, and carbon disulphide, providing valuable data for evaluating theories about solvent effects on absorption bands and estimating the intensities of vibrational bands of the liquids.
+scientific_discipline: Physics > Optics

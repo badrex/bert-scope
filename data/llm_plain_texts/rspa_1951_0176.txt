@@ -1,0 +1,10 @@
+article_id: rspa_1951_0176
+revised_title: Asymptotic Behaviour of Viscous Fluid Flow and Filon's Paradox Resolution
+semantic_tags:
+  - Fluid Dynamics
+  - Viscosity
+  - Asymptotic Analysis
+  - Oseen Approximation
+  - Fluid Mechanics
+tldr: The author investigates the asymptotic behavior of viscous fluid flow at a great distance from a cylindrical body, focusing on resolving Filon's paradox. They use the Oseen type of successive approximation to determine the stream function and find that the paradox arises from the need for more accurate information about the flow at large distances. The study confirms the usefulness of the Oseen type of successive approximation in dealing with the Navier-Stokes equations.
+scientific_discipline: Physics > Fluid Dynamics

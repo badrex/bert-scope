@@ -1,0 +1,10 @@
+article_id: rspa_1938_0199
+revised_title: Statistical Mechanics of Cooperative Assemblies: Regular Solutions and Quasi-Chemical Equilibria
+semantic_tags:
+  - Statistical mechanics
+  - Thermodynamics
+  - Regular solutions
+  - Co-operative assemblies
+  - Quasi-chemical equilibrium
+tldr: The authors develop a statistical mechanical approach to study regular assemblies, a class of cooperative assemblies with specific properties. They construct the grand partition function and derive expressions for average properties, such as the fraction of sites occupied and the probability of a given site being occupied. They also introduce quasi-chemical equilibrium relations to analyze the problem and determine the free energy of the assembly.
+scientific_discipline: Physics > Thermodynamics

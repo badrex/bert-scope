@@ -1,0 +1,10 @@
+article_id: rspa_1974_0054
+revised_title: The Expanding and Contracting Hinge in a Rapidly Heated Rigid-Plastic Beam
+semantic_tags:
+  - Plasticity
+  - Beam Theory
+  - Thermal Analysis
+  - Hinge Mechanics
+  - Rigid-Plastic Theory
+tldr: The article discusses the behavior of a rigid-plastic beam subjected to rapid thermal curvature, where deformation cannot take place by means of discrete hinges. Instead, expanding and contracting hinges occupy varying lengths of the beam. The analysis provides a general understanding of the mechanics and behavior of these hinges, which is essential for understanding the deformations of beams of fissile material subjected to large neutron pulses.
+scientific_discipline: Engineering and Technology > Mechanics and Materials Science

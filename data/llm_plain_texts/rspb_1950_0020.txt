@@ -1,0 +1,10 @@
+article_id: 'rspb_1950_0020'
+revised_title: 'Molecular Mechanism of Muscle Contraction and Relaxation'
+semantic_tags:
+  - Muscle Contraction
+  - ATP
+  - Muscle Relaxation
+  - Entropy Cycle
+  - Muscle Proteins
+tldr: This article discusses the molecular mechanism of muscle contraction and relaxation, focusing on the role of ATP and the physical and chemical changes that occur in muscle proteins. The authors propose an entropy cycle theory, where the strength of intermolecular attractions decreases during contraction. They also explore the use of a chemical entropy engine model and the role of plasticizers in muscle contraction.
+scientific_discipline: Biology and Life Sciences > Muscle Physiology

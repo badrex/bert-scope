@@ -1,0 +1,10 @@
+article_id: rspa_1977_0084
+revised_title: Angular Momentum in General Relativity: Perturbations of a Rotating Black Hole
+semantic_tags:
+  - Black Holes
+  - General Relativity
+  - Angular Momentum
+  - Gravitational Perturbations
+  - Kerr Metrics
+tldr: This article investigates the effect of matter and gravitational perturbations on the angular momentum of a rotating black hole. The author uses the Kerr metric to describe the background space-time and Teukolsky's solutions to find the shear induced in the event horizon by the perturbation. The results verify Bekenstein's formula relating the rate of change of angular momentum to the rate of change of mass caused by a plane wave. The author also discusses the behavior of black holes under different perturbations, such as a single moon, multiple moons, and a ring of matter.
+scientific_discipline: Physics > General Relativity

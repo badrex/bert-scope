@@ -1,0 +1,10 @@
+article_id: 110677
+revised_title: Lunar Phases and Atmospheric Variations
+semantic_tags:
+  - Lunar cycles
+  - Barometer
+  - Temperature
+  - Rainfall
+  - Atmospheric science
+tldr: The author, Luke Howard, studied the variations in the mean height of the barometer, mean temperature, and depth of rain in relation to lunar phases from 1815 to 1823. Observations made in the London area showed that during the last quarter of the moon, the barometer was highest, temperature slightly above average, and rainfall was the least. During the new moon period, both the barometer and temperature were lower, and rainfall increased. The first quarter showed further barometer depression, but temperature rose, and rainfall increased but not proportionally. The full moon resulted in lowered temperature, maximum mean barometer height, and the highest rainfall.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

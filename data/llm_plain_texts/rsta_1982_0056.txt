@@ -1,0 +1,10 @@
+article_id: rsta_1982_0056
+revised_title: 'Advancements in Analytical Chemistry: Flow-Injection Methods'
+semantic_tags:
+  - Analytical Chemistry
+  - Flow-Injection Analysis
+  - Instrumental Analysis
+  - Spectrophotometry
+  - Chemical Techniques
+tldr: This article discusses the advancements in analytical chemistry, specifically focusing on flow-injection methods as a new tool for instrumental analysis. The author reviews gradient flow-injection techniques and their applications in serial assays and research in instrumental methods of analysis. The increasing importance of flow injection analysis as a solution-handling technique in laboratories is demonstrated through various examples.
+scientific_discipline: Chemistry > Analytical Chemistry

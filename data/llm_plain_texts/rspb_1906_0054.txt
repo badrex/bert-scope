@@ -1,0 +1,10 @@
+article_id: 'rspb_1906_0054'
+revised_title: 'The Effects of Chloroform on Frog's Skin and its Implications on Electrical Mechanism'
+semantic_tags:
+  - Electrophysiology
+  - Frog skin
+  - Anaesthetics
+  - Chloroform
+  - Electrical resistance
+tldr: The authors conducted experiments to study the effects of chloroform on the frog's skin and its electrical properties. They discovered that chloroform abolishes the current when applied to the outer surface of the skin, indicating that the apparatus generating the current is located at or near the outer surface. This finding helps to understand the electrical mechanism in the frog's skin and the role of anaesthetics in it.
+scientific_discipline: Biology and Life Sciences > Electrophysiology

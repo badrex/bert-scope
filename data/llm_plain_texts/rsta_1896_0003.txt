@@ -1,0 +1,10 @@
+article_id: 'rsta_1896_0003'
+revised_title: 'Experimental Study of Fluid Viscosity and Stability'
+semantic_tags:
+  - Fluid dynamics
+  - Viscosity
+  - Fluid stability
+  - Annular space
+  - Temperature effects
+tldr: 'The authors conducted experiments to measure the moment transmitted by fluid viscosity across the annular space between two concentric cylinders. They studied the limits of stable motion and the manner in which stability broke down. The experiments also explored the effects of temperature on the critical velocity and the coefficient of viscosity.'
+scientific_discipline: Physics > Fluid Dynamics

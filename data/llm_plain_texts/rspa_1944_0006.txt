@@ -1,0 +1,10 @@
+article_id: rspa_1944_0006
+revised_title: Impulse-Energy Tensor of Material Particles: Mesons, Electrons, and Vector Mesons
+semantic_tags:
+  - Quantum Field Theory
+  - Particle Physics
+  - Electromagnetic Field
+  - Mesons
+  - Electrons
+scientific_discipline: Physics > Particle Physics
+tldr: The article presents a direct and general construction of a real, symmetrical, and gauge-invariant impulse-energy tensor for material particles, such as mesons, electrons, and vector mesons. The tensor's divergence is equal to the four-force experienced by the matter. The author derives the tensor's expression for various types of particles and demonstrates its properties, including its relation to the Hamiltonian of the matter and the energy-momentum density.

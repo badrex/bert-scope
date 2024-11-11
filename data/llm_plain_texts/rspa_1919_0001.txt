@@ -1,0 +1,10 @@
+article_id: rspa_1919_0001
+revised_title: Haidinger's Rings and Their Optical Properties in Mica
+semantic_tags:
+  - Optics
+  - Crystallography
+  - Interference
+  - Polarized light
+  - Mica
+tldr: The authors study Haidinger's rings, interference patterns observed in mica under polarized light. They describe a new method for observing and photographing the rings and discuss the optical properties of mica, including the relationship between the rings and the crystal's optic axes. The authors also explain the mathematical basis for the formation of the rings and the lines of minimum visibility.
+scientific_discipline: Physics > Optics

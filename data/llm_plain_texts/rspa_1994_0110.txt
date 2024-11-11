@@ -1,0 +1,10 @@
+article_id: rspa_1994_0110
+revised_title: A 2+1-Dimensional Integrable Ernst-Type Equation
+semantic_tags:
+  - Integrable Systems
+  - Ernst's Equation
+  - General Relativity
+  - Lax Pairs
+  - Loewner-Konopelchenko-Rogers Representation
+tldr: The author proposes a 2+1-dimensional integrable extension of Ernst's equation of general relativity. The linear problem for this equation is embedded in the Loewner-Konopelchenko-Rogers representation, which is a reinterpretation and generalization of a class of infinitesimal Backlund transformations. The author demonstrates the richness of this extension through various canonical dimensional reductions and specializations, leading to formal analogues of well-known integrable systems.
+scientific_discipline: Mathematics > Differential Geometry

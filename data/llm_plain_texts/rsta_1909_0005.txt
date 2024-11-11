@@ -1,0 +1,10 @@
+article_id: rsta_1909_0005
+revised_title: Eutectic Research: The Lead-Tin Alloy System
+semantic_tags:
+  - Alloy research
+  - Eutectic alloys
+  - Lead-tin alloys
+  - Thermal analysis
+  - Phase transitions
+tldr: This article investigates the eutectic research of the lead-tin alloy system. The authors found that the composition of the eutectic alloy is different from previous findings, with 37% lead and 63% tin. They also discovered a transformation occurring in lead-rich alloys at temperatures below complete solidification. The study uses thermal analysis and cooling curves to determine the equilibrium of the lead-tin system and the properties of the eutectic alloy.
+scientific_discipline: Chemistry > Materials Science

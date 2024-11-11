@@ -1,0 +1,10 @@
+article_id: rspa_1910_0016
+revised_title: 'Extinction of Colour and Luminosity Reduction: A Study on Spectral Rays'
+semantic_tags:
+  - Color Perception
+  - Luminosity
+  - Spectroscopy
+  - Optics
+  - Visual Perception
+tldr: The author conducted experiments to study the extinction of color and the reduction of luminosity in spectral rays. They used an annulus to dim both color and white light and observed the point at which colors disappeared. The results showed that the extinction of color depended on the size of the area being observed and the luminosity of the light source. This research contributed to understanding how colors and light intensity affect human visual perception.
+scientific_discipline: Physics > Optics

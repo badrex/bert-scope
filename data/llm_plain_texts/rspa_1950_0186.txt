@@ -1,0 +1,10 @@
+article_id: 'rspa_1950_0186'
+revised_title: 'Enumerations in Genetics and Combinatorial Theorems'
+semantic_tags:
+  - Genetics
+  - Combinatorics
+  - Mathematical Biology
+  - Statistical Genetics
+  - Partition Functions
+tldr: The author presents a class of enumerations important in genetics, such as sets of isomorphic genotypes and modes of gamete formation. These enumerations can be expressed as mean powers of appropriate series of bases, yielding integral values for all integral exponents. The paper provides a combinatorial theorem and illustrates its application in confirming and extending established genetic formulae.
+scientific_discipline: Mathematics > Combinatorics

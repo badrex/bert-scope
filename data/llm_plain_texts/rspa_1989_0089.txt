@@ -1,0 +1,10 @@
+article_id: rspa_1989_0089
+revised_title: 'Exploring the Influence of Diffusion on Current-Voltage Curves in Flame Ionization Detectors'
+semantic_tags:
+  - Flame ionization detector
+  - Diffusion
+  - Current-voltage curve
+  - Ion mobility
+  - Electric field
+scientific_discipline: Physics > Electromagnetism
+tldr: This article investigates the influence of diffusion on the current-voltage curve in a flame ionization detector. The authors extend a previous analysis to include the effect of ion diffusion and present solutions for both one-dimensional and two-dimensional cases. They find that the addition of the diffusion term changes the structure of the solution and provides a partial explanation for the behavior at low currents. The results help to improve our understanding of the underlying physics of flame ionization detectors.

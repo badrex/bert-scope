@@ -1,0 +1,10 @@
+article_id: 'rsta_1994_0023'
+revised_title: 'High-resolution Imaging of C60 Films by Scanning Tunnelling Microscopy'
+semantic_tags:
+  - Scanning Tunnelling Microscopy
+  - Fullerenes
+  - C60 Films
+  - Crystallography
+  - Nanotechnology
+tldr: The authors conducted high-resolution scanning tunnelling microscopy studies on C60 films and discovered the characteristic fcc lattice of C60 clusters with intermolecular distances matching diffraction data. They also observed nanometric defect structures and resolved the cage morphology of buckyballs in the finest details. This research provides insights into the molecular lattice structure and atomic morphology of C60 films, which can be useful for understanding their physical and chemical properties.
+scientific_discipline: Chemistry > Nanotechnology

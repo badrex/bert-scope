@@ -1,0 +1,10 @@
+article_id: rsta_1981_0160
+revised_title: Relativistic Elasticity and Shock Formation in Anisotropic Materials
+semantic_tags:
+  - Relativistic Elasticity
+  - Shock Formation
+  - Anisotropic Materials
+  - Magnetoclasticity
+  - Wave Propagation
+tldr: The authors develop a theory of rays, or bicharacteristics, within the relativistic framework for anisotropic elastic materials and their generalization to magnetic bodies. They obtain an equation governing the evolution of the amplitude of weak waves, allowing them to discuss the influence of relativistic effects and initial states on the formation of shocks. Analytic expressions are derived for the critical values of the characteristic parameter corresponding to the breakdown of the weak-wave solution for various settings of the initial magnetic field.
+scientific_discipline: Physics > Relativity

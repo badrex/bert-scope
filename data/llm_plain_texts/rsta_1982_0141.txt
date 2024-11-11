@@ -1,0 +1,10 @@
+article_id: 'rsta_1982_0141'
+revised_title: 'Ruthenium and Osmium Cluster Chemistry: Synthesis, Structure, and Bonding'
+semantic_tags:
+  - Cluster chemistry
+  - Ruthenium compounds
+  - Osmium compounds
+  - Metal carbonyl compounds
+  - Coordination chemistry
+tldr: The article discusses the synthesis, structure, and bonding of cluster carbonyl compounds of ruthenium and osmium. The authors describe various reactions and mechanisms that produce these clusters, which exhibit diverse chemistry and can be understood through simple bonding arguments. The article also explores the relationship between the metal clusters and boranes, as well as the factors influencing the geometry of the clusters.
+scientific_discipline: Chemistry > Coordination Chemistry

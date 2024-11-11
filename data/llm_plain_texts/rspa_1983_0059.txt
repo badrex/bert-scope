@@ -1,0 +1,10 @@
+article_id: rspa_1983_0059
+revised_title: Novel Features and Experiments in Enhanced Nuclear Magnetism
+semantic_tags:
+  - Nuclear Magnetism
+  - Dynamic Nuclear Polarization
+  - Adiabatic Demagnetization
+  - Neutron Scattering
+  - Lanthanide Ions
+tldr: This article discusses enhanced nuclear magnetism, focusing on new features and prospective experiments. It explores dynamic nuclear polarization, adiabatic demagnetization in the rotating frame, and the interactions of neutrons with enhanced nuclear moments. The article also considers the production of ordered states and the use of neutron diffraction to separate and study the Van Vleck magnetization and the electronic magnetization induced by the hyperfine interaction.
+scientific_discipline: Physics > Optics

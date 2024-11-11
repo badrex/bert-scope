@@ -1,0 +1,10 @@
+article_id: 'rspa_1980_0149'
+revised_title: 'Ion Channels in Membranes and Ionic Hydration Energies'
+semantic_tags:
+  - Membrane Biology
+  - Ion Channels
+  - Electrostatic Energy
+  - Ordered Water Cage Structures
+  - Ionic Hydration Energies
+tldr: The authors discuss the challenges of modeling ion channels in membranes due to the low electrostatic energy of small ions in aqueous solutions. They propose that models based on ordered water cage structures provide suitable low-energy binding sites that are selective for unhydrated ionic size and valence. The study also shows that the barriers for ion motion within these channels are low.
+scientific_discipline: Biology and Life Sciences > Membrane Biology

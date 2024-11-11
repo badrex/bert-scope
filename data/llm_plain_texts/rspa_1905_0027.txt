@@ -1,0 +1,10 @@
+article_id: rspa_1905_0027
+revised_title: 'Magnetic Properties of Heusler Alloys: A Study of Copper, Aluminium, and Manganese Compositions'
+semantic_tags:
+  - Magnetic materials
+  - Heusler alloys
+  - Copper-aluminum-manganese alloys
+  - Magnetic properties
+  - Ferromagnetic materials
+tldr: This article presents a study on the magnetic properties of Heusler alloys, specifically copper, aluminum, and manganese compositions. The authors measure the magnetic constants of these alloys and find that they exhibit ferromagnetic properties, similar to iron, nickel, and cobalt. The study provides a foundation for further research into the development of new magnetic materials.
+scientific_discipline: Physics > Magnetism

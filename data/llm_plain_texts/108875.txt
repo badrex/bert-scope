@@ -1,0 +1,10 @@
+article_id: 108875
+revised_title: 'Spectra of Stars: Early Observations and Apparatus'
+semantic_tags:
+  - Astronomy
+  - Spectroscopy
+  - Stellar Spectra
+  - Early Observations
+  - Telescope Design
+tldr: This article discusses the early observations and methods used to study the spectra of stars. The authors describe their apparatus and techniques for analyzing the light emitted by stars, focusing on the challenges of observing through Earth's atmosphere and the difficulties in accurately measuring the spectra. They also mention previous work by Fraunhofer, Donati, and others in this field.
+scientific_discipline: Astronomy > Stellar Spectroscopy

@@ -1,0 +1,10 @@
+article_id: 106053
+revised_title: The Sieve of Eratosthenes: A Method for Finding Prime Numbers
+semantic_tags:
+  - Number Theory
+  - Prime Numbers
+  - Ancient Mathematics
+  - Eratosthenes
+  - Sieve Method
+tldr: The author explains the Sieve of Eratosthenes, a method invented by Eratosthenes to find all prime numbers. This method involves creating a list of odd numbers and eliminating multiples of each prime number found, leaving only the prime numbers. The author also discusses the differences between prime and composite numbers and provides a detailed explanation of the sieve's operation.
+scientific_discipline: Mathematics > Number Theory

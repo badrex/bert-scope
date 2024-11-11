@@ -1,0 +1,10 @@
+article_id: rspa_1957_0066
+revised_title: 'Improving Arc Temperature Determination Using Shock Velocities'
+semantic_tags:
+  - Shock wave physics
+  - High gas temperature measurement
+  - Arc discharge
+  - Gas temperature determination
+  - Shock tube experiments
+tldr: The authors developed a new method to measure high gas temperatures in arc discharges by determining the velocity of strong shock waves propagated through the arc. This method provides more accurate and consistently measurable records compared to previous techniques. The authors describe their experimental technique and present a one-dimensional analysis to calculate arc temperatures from shock velocities.
+scientific_discipline: Physics > Fluid Dynamics

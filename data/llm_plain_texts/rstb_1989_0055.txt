@@ -1,0 +1,10 @@
+article_id: 'rstb_1989_0055'
+revised_title: 'Impact of Forests on Mesoscale Meteorology: Surface Energy Budget and Atmospheric Circulations'
+semantic_tags:
+  - Forest Meteorology
+  - Mesoscale Meteorology
+  - Surface Energy Budget
+  - Atmospheric Circulations
+  - Forest Breeze Circulation
+tldr: This study investigates the impact of forests on local meteorological circulations, focusing on the consequences of their lower albedo, enhanced roughness, and larger minimal stomatal resistance compared to agricultural crops. The authors use numerical simulations with two different mesoscale atmospheric models to analyze the surface energy budget and atmospheric response to forest-induced surface flux variations. The results show that forests can significantly affect local meteorological circulations, leading to changes in wind patterns, temperature, and moisture distribution.
+scientific_discipline: Environmental and Earth Sciences > Meteorology and Climatology

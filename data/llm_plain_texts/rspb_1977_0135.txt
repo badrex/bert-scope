@@ -1,0 +1,10 @@
+article_id: 'rspb_1977_0135'
+revised_title: 'Ionophore Effects on Renin Secretion and Renal Vasoconstriction'
+semantic_tags:
+  - Renin secretion
+  - Renal vasoconstriction
+  - Ionophores
+  - Calcium flux
+  - Kidney physiology
+tldr: The study investigates the effects of ionophores A23187 and R02-2985 on renin secretion and renal vasoconstriction in isolated perfused rat kidneys. The results show that both ionophores cause vasoconstriction and inhibit renin release, with A23187 showing a more significant effect. The effects are calcium-dependent, supporting the link between renin release, renal vasoconstriction, and calcium flux.
+scientific_discipline: Biology and Life Sciences > Physiology

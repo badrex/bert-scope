@@ -1,0 +1,10 @@
+article_id: 'rspa_1925_0102'
+revised_title: 'X-ray Spectra Analysis of Long-Chain Organic Compounds'
+semantic_tags:
+  - X-ray crystallography
+  - Organic chemistry
+  - Molecular structure
+  - Intensity distribution
+  - Crystallographic planes
+tldr: 'The authors investigate the X-ray spectra of long-chain organic compounds and find that the spacing between crystal planes is related to the number of carbon atoms in the molecule. They also predict the orientation of the molecules within the crystal and explain the intensity distribution in the X-ray spectra based on molecular structure.'
+scientific_discipline: Chemistry > Organic Chemistry

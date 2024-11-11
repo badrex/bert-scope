@@ -1,0 +1,10 @@
+article_id: rspa_1966_0068
+revised_title: Specific Adsorption of Anions in the Electrical Double Layer: A New Isotherm
+semantic_tags:
+  - Electrochemistry
+  - Electrical Double Layer
+  - Anion Adsorption
+  - Surface Chemistry
+  - Devanathan's Model
+tldr: The authors present a new isotherm for the specific adsorption of anions in the electrical double layer based on Devanathan's model. This isotherm explains the main experimental facts related to anion adsorption, such as the relationship between adsorbed charge and bulk concentration, the behavior of the Esin-Markov effect, and the variation of the surface excess with concentration. The new isotherm provides a better understanding of the forces involved in the specific adsorption of ions at metal-solution interfaces and offers a more accurate representation of the electrical double layer.
+scientific_discipline: Chemistry > Electrochemistry

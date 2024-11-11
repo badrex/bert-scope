@@ -1,0 +1,10 @@
+article_id: 105612
+revised_title: Observations of Venus and the Discovery of Its Atmosphere
+semantic_tags:
+  - Astronomy
+  - Planetary science
+  - Observational astronomy
+  - Atmospheric science
+  - Telescopes
+tldr: In 1761, Samuel Dunn observed the planet Venus passing over the sun's disk to study its atmosphere. He used a six-foot Newtonian reflecting telescope and found that the thread of light in the point of contact was obscured, making it difficult to determine the exact instant of the internal contact. This led him to conclude that there must be an atmosphere around Venus, which affected the accuracy of the observation.
+scientific_discipline: Astronomy > Observational astronomy

@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0140'
+revised_title: 'X-ray Photoelectron Spectroscopy Study of Silicate Surface Chemistry and Pathogenicity'
+semantic_tags:
+  - Surface Chemistry
+  - Silicate Minerals
+  - X-ray Photoelectron Spectroscopy
+  - Pathogenicity
+  - Biomedical Applications
+tldr: This study investigates the surface chemistry of silicates and their interactions with living cells using X-ray photoelectron spectroscopy. The researchers found that certain silicate minerals, such as amphiboles, can induce pathogenic processes in living systems. They monitored changes in the surface chemistry of these minerals and observed modifications in the chemical composition of aluminum, magnesium, and iron, which may contribute to the biological effects of silicates.
+scientific_discipline: Environmental and Earth Sciences > Mineralogy and Crystallography

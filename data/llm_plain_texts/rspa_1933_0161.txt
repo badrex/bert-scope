@@ -1,0 +1,10 @@
+article_id: rspa_1933_0161
+revised_title: 'Theoretical Study of Positive Ion Passage through Gases'
+semantic_tags:
+  - Atomic physics
+  - Ion collisions
+  - Quantum mechanics
+  - Collision theory
+  - Ionization
+tldr: This article presents a theoretical study of the passage of positive ions through gases, focusing on the processes of elastic collisions, inelastic collisions, and neutralization through electron capture. The authors develop a theory applicable to ions and atoms with velocities lower than the orbital electrons of the atoms they collide with, providing a detailed analysis of the impact of two atoms and the cross-section for excitation of the state of the system by the impact.
+scientific_discipline: Physics > Atomic and Molecular Physics

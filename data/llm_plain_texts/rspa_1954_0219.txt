@@ -1,0 +1,10 @@
+article_id: rspa_1954_0219
+revised_title: 'Diffraction of Waves by Irregular Refracting Media: A Simplified Method'
+semantic_tags:
+  - Wave Diffraction
+  - Electromagnetic Waves
+  - Phase Irregularities
+  - Statistical Analysis
+  - Radio Wave Propagation
+tldr: The authors present a simplified method for calculating the diffraction effects produced by a thick stratum of an irregular refracting medium. They demonstrate that their method, which treats phase irregularities as if they were produced by a thin phase-changing screen, leads to the same results as a previous method by Fejer. This method can be applied to various cases of volume irregularities and provides a closed-form expression for the autocorrelation function of the complex wave amplitude.
+scientific_discipline: Physics > Electromagnetism

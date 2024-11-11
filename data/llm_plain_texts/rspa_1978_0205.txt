@@ -1,0 +1,10 @@
+article_id: rspa_1978_0205
+revised_title: 'Doubly Excited Mg I Spectrum Extensions in Vacuum Ultraviolet'
+semantic_tags:
+  - Atomic Physics
+  - Spectroscopy
+  - Magnesium Spectra
+  - Ab Initio Calculations
+  - Vacuum Ultraviolet
+tldr: The authors investigated the absorption spectrum of Mg i vapor using the Bonn 500 MeV electron synchrotron as the source of background radiation. They extended the double excitation spectrum of the valence shell and compared it with electron impact spectroscopy data. Ab initio calculations were also extended to high series members, revealing the transition from LS to jj coupling responsible for the appearance of a 1S0-3P1 series not previously detected by photoabsorption.
+scientific_discipline: Physics > Atomic Physics

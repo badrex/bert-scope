@@ -1,0 +1,10 @@
+article_id: rspa_1933_0101
+revised_title: 'Investigation of the Upper Pressure Limit in Hydrogen and Oxygen Chain Reaction'
+semantic_tags:
+  - Chain Reaction
+  - Gas Phase Deactivation
+  - Explosion Pressure
+  - Ternary Collisions
+  - Chemical Kinetics
+tldr: 'This article investigates the upper pressure limit in the chain reaction between hydrogen and oxygen. The authors find that the explosion is caused by gas phase deactivation of reaction chains, and they develop a theory based on ternary collisions to explain the phenomenon. The results show that inert gases lower the partial pressure of hydrogen and oxygen at the limit, and the relative speeds of the different molecules determine their effectiveness in deactivating the reaction chains.'
+scientific_discipline: Chemistry > Chemical Kinetics

@@ -1,0 +1,10 @@
+article_id: rspa_1983_0056
+revised_title: 'Advancements in Confocal Microscopy for Extended Depth of Field'
+semantic_tags:
+  - Microscopy
+  - Confocal microscopy
+  - Optical microscopy
+  - Depth of field
+  - Image processing
+tldr: The authors describe a method to extend the depth of field in optical microscopy using confocal imaging systems. This technique allows for high-resolution, diffraction-limited imaging with an extended depth of field, which is particularly useful for high magnification and large numerical aperture microscopes. The method relies on scanning the object through a confocal spot and summing the images of different object slices to generate an image with an extended depth of field. The authors demonstrate the effectiveness of this technique with various examples, including images of an ant.
+scientific_discipline: Physics > Optics

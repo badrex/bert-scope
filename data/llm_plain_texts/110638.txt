@@ -1,0 +1,10 @@
+article_id: 110638
+revised_title: 'Correction for Compass Deviation in Iron-Built Ships'
+semantic_tags:
+  - Magnetism
+  - Shipbuilding
+  - Navigation
+  - Compass correction
+  - Iron-induced magnetism
+tldr: The author, George Biddell Airy, investigates the problem of compass deviation in iron-built ships due to the influence of iron. He determines the principles for correcting this deviation and provides practical methods to neutralize the deviating forces. The author also discusses the effects of induced magnetism combined with permanent magnetism and proposes a correction method for compasses disturbed by these forces.
+scientific_discipline: Engineering and Technology > Shipbuilding and Naval Architecture

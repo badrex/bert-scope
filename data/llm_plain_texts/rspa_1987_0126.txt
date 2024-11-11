@@ -1,0 +1,10 @@
+article_id: rspa_1987_0126
+revised_title: A New Set of Composition Variables for Reactive-Phase Diagrams
+semantic_tags:
+  - Chemical Engineering
+  - Phase Equilibrium
+  - Reactive Separation Systems
+  - Material-Balance Equations
+  - Transformed Composition Variables
+tldr: The authors introduce a new set of transformed composition variables for representing reactive-phase diagrams, which are more convenient than mole fractions. These variables help in defining non-reactive limits, making equilibrium surfaces tangent at azeotropic states, and simplifying the material-balance equations for reactive mixtures.
+scientific_discipline: Chemistry > Chemical Engineering

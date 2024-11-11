@@ -1,0 +1,10 @@
+article_id: rsta_1967_0034
+revised_title: Data and Orbit Analysis for the US Navy Satellite Doppler System
+semantic_tags:
+  - Satellite Navigation
+  - Geodesy
+  - Orbit Determination
+  - Doppler Effect
+  - Satellite Tracking
+tldr: This paper discusses the data and orbit analysis activities at The Johns Hopkins University Applied Physics Laboratory in support of the U.S. Navy satellite Doppler system, Tranet. The authors focus on two topics closely related to geodetic research: editing and archiving of Doppler data and generating accurate satellite orbit parameters and ephemerides. They describe the methods used to analyze the data, including the editing process and the generation of accurate satellite trajectories.
+scientific_discipline: Physics > Satellite Navigation

@@ -1,0 +1,10 @@
+article_id: 111603
+revised_title: Electrical Discharge in Vacuo: Experiments with Voltaic Battery
+semantic_tags:
+  - Electrochemistry
+  - Electrical Discharge
+  - Vacuum Physics
+  - Battery Technology
+  - Gas Carbon
+tldr: The author conducted experiments with an extended series of the voltaic battery and observed electrical discharge in vacuo. They discovered that the stratified discharge could be obtained from both the water battery and Grove's nitric acid battery. The author also observed a change in the character of the stratifications when heating potassa, which led to a brilliant white discharge and intense chemical action in the battery.
+scientific_discipline: Physics > Electrochemistry

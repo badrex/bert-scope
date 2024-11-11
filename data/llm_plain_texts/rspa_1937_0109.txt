@@ -1,0 +1,10 @@
+article_id: rspa_1937_0109
+revised_title: Properties of Sufficiency and Statistical Tests in the Context of Fiducial Distributions
+semantic_tags:
+  - Statistical Theory
+  - Fiducial Distribution
+  - Sufficient Statistic
+  - Test of Significance
+  - Conditional Variation
+tldr: The authors discuss the properties of sufficiency and statistical tests in the context of fiducial distributions. They explore the relationship between sufficient statistics and fiducial distributions, and how they can be used to test hypotheses and make inferences about population parameters. The authors also consider the use of conditional variation and exact tests of significance in statistical analysis.
+scientific_discipline: Mathematics > Statistics

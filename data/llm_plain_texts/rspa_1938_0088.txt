@@ -1,0 +1,10 @@
+article_id: rspa_1938_0088
+revised_title: The Rigorous Calculation of the Cascade Theory of Electronic Showers
+semantic_tags:
+  - Particle Physics
+  - Electromagnetic Showers
+  - High-Energy Physics
+  - Nuclear Physics
+  - Quantum Field Theory
+tldr: The authors present a rigorous calculation of the cascade theory of electronic showers, explaining how the number of particles and photons change due to pair production and collision radiation. They introduce a new variable to simplify the fundamental equations and provide a parametric representation of the distribution function. The study helps to understand the behavior of high-energy particles and photons in matter.
+scientific_discipline: Physics > Particle Physics

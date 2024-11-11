@@ -1,0 +1,10 @@
+article_id: 'rspa_1943_0030'
+revised_title: 'Discovery of Penetrating Showers and N-Radiation'
+semantic_tags:
+  - Cosmic Rays
+  - Particle Physics
+  - Nuclear Radiation
+  - Neutrons
+  - Penetrating Showers
+tldr: The authors conducted an experiment using coincidence counters to study penetrating showers and discovered a new type of radiation called N-radiation. They found that N-radiation is more penetrating than photons and suggested that it might consist of neutrons. This discovery expanded the understanding of cosmic radiation.
+scientific_discipline: Physics > Particle Physics

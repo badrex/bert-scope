@@ -1,0 +1,10 @@
+article_id: rspa_1965_0043
+revised_title: Ion Technique and Viscous Flow Stability in Rotating Cylinders
+semantic_tags:
+  - Fluid dynamics
+  - Ion technique
+  - Viscous flow
+  - Rotating cylinders
+  - Stability
+tldr: The authors develop a theory for the ion technique to study the stability of viscous flow between rotating cylinders. They explain that the current changes are linearly proportional to the radial component of the perturbations on the flow. The results help to understand the observations made in the experiments, showing that convection has no effect on the solution unless there is a component parallel to the concentration gradient.
+scientific_discipline: Physics > Fluid Dynamics

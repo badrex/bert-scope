@@ -1,0 +1,10 @@
+article_id: rsta_1933_0011
+revised_title: Pressure Effects on Dielectric Constant of Carbon Dioxide
+semantic_tags:
+  - Dielectric constant
+  - Carbon dioxide
+  - Pressure
+  - High-pressure physics
+  - Gas physics
+tldr: The authors conducted experiments to study the influence of pressure on the dielectric constant of carbon dioxide between 25 and 150 degrees Celsius. They found that the dielectric constant increased linearly with pressure, which implies a change in the Clausius-Mosotti expression due to the deviation from Boyle's Law. This discovery has implications for understanding the behavior of gases and liquids under high pressure.
+scientific_discipline: Physics > Gas physics

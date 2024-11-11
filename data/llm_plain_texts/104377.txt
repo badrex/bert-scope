@@ -1,0 +1,10 @@
+article_id: 104377
+revised_title: A Rule for Finding Meridional Parts in Spheroids
+semantic_tags:
+  - Geometry
+  - Spherical Trigonometry
+  - Calculus
+  - Astronomy
+  - Navigation
+tldr: The author presents a method for finding the meridional parts of a spheroid with the same exactness as in a sphere. The rule involves using the semidiameter of the equator, the distance of the focus of the generating ellipse from the center, and the latitude for which the meridional parts are required. This method is useful for navigation and astronomy.
+scientific_discipline: Mathematics > Geometry

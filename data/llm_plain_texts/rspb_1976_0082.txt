@@ -1,0 +1,10 @@
+article_id: 'rspb_1976_0082'
+revised_title: 'Afferent Input to Movement-Related Precentral Neurons in Conscious Monkeys: Exploring the Role of Natural Stimuli'
+semantic_tags:
+  - Motor Cortex
+  - Afferent Input
+  - Movement-Related Neurons
+  - Natural Stimuli
+  - Monkeys
+tldr: The study investigates the afferent input to movement-related precentral neurons in conscious monkeys. The researchers found that most precentral neurons had small, stable input zones on the contralateral arm, with joint movement being the most common natural stimulus influencing these neurons. The findings suggest that afferent input to the precentral motor cortex is not organized to provide independent and spatially segregated projections from particular peripheral sites to limited and localized radial aggregations of neurons.
+scientific_discipline: Biology and Life Sciences > Neuroscience

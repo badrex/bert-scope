@@ -1,0 +1,10 @@
+article_id: 106649
+revised_title: Analyzing Centripetal Forces and Their Applications
+semantic_tags:
+  - Mechanics
+  - Calculus
+  - Celestial Mechanics
+  - Fluid Dynamics
+  - Optics
+scientific_discipline: Physics > Mechanics
+tldr: The author, Edward Waring, explores centripetal forces and their applications in various scenarios, including projectiles, forces acting on bodies in different directions, and resistance in mediums. He provides mathematical equations and methods to determine the curves described by these bodies, with examples in celestial mechanics and fluid dynamics.

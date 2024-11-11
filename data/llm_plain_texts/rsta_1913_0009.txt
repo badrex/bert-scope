@@ -1,0 +1,10 @@
+article_id: 'rsta_1913_0009'
+revised_title: 'Optical Rotatory Dispersion: Natural and Magnetic Rotatory Dispersion in Quartz'
+semantic_tags:
+  - Optical Physics
+  - Rotatory Dispersion
+  - Quartz
+  - Crystallography
+  - Spectroscopy
+tldr: The author presents a study on the optical rotatory dispersion of quartz, examining its natural and magnetic rotatory dispersion for twenty-four wavelengths in the visible spectrum. The research aims to test the methods for measuring rotatory dispersion and provide data for understanding the mechanism of light propagation through matter. The findings contribute to the understanding of the relationships between rotatory power and wavelength, as well as the validity of G. Wiedemann's Law of the proportionality of natural and magnetic rotatory dispersions.
+scientific_discipline: Physics > Optics

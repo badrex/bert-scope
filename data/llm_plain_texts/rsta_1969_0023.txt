@@ -1,0 +1,10 @@
+article_id: rsta_1969_0023
+revised_title: Far Infrared Sky Survey: Initial Observations and Upper Limits
+semantic_tags:
+  - Infrared Astronomy
+  - Far Infrared Sky Survey
+  - Balloon-borne Instrument
+  - Celestial Sphere Survey
+  - Interstellar Grains
+tldr: The authors conducted the first two flights of a series of balloon-borne far-infrared sky surveys, focusing on the 300 to 1 mm wavelength range. They detected the thermal emission of the Moon and set upper limits on the flux from other sources, such as interstellar grains. These observations can be used to study the opacity and temperature of interstellar grains and help set the stage for further flights at shorter wavelengths and with increased sensitivity.
+scientific_discipline: Astronomy > Infrared Astronomy

@@ -1,0 +1,10 @@
+article_id: 108563
+revised_title: Molecular Influences on Heat Transmission in Organic Structures
+semantic_tags:
+  - Heat conduction
+  - Molecular structure
+  - Organic structures
+  - Thermodynamics
+  - Wood conductivity
+tldr: The author investigates the molecular structure of organic materials, specifically wood, and its influence on heat transmission. They develop an instrument to measure the conductivity of wood and discover that the velocity of heat transmission is greater along the fibers than across them. This research contributes to understanding the role of molecular structure in heat conduction and the behavior of organic materials.
+scientific_discipline: Physics > Thermodynamics

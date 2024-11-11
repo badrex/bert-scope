@@ -1,0 +1,10 @@
+article_id: rspa_1931_0028
+revised_title: 'The Discontinuous Nature of Sorption of Gases and Vapors by Porous Solids'
+semantic_tags:
+  - Adsorption
+  - Porous solids
+  - Gas sorption
+  - Vapour sorption
+  - Discontinuous process
+tldr: The authors conducted experiments to study the sorption of gases and vapors by porous solids, discovering that the process is essentially discontinuous. They found that adsorption isothermals are composed of a series of loops, cutting one another at specific pressures. This research sheds light on the behavior of gases and vapors in porous materials, such as charcoal, and has implications for various applications, including gas storage and separation.
+scientific_discipline: Chemistry > Adsorption and Porosity

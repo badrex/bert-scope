@@ -1,0 +1,10 @@
+article_id: rspa_1952_0158
+revised_title: Relativistic Poisson Brackets and Commutation Laws in Field Theory
+semantic_tags:
+  - Quantum Field Theory
+  - Relativity
+  - Poisson Brackets
+  - Commutation Laws
+  - Canonical Transformation
+tldr: The author introduces a new definition of Poisson brackets in relativistic field theory, which is related to the action principle and does not require the introduction of canonical variables. This definition allows for the formulation of commutation laws in a manifestly covariant way. The author also discusses the extension of this method to cases that cannot be written in canonical form.
+scientific_discipline: Physics > Quantum Mechanics

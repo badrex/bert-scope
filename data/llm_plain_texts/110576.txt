@@ -1,0 +1,10 @@
+article_id: 110576
+revised_title: Equilibrium of Homogeneous Ellipsoids in a Centrifugal Force Field
+semantic_tags:
+  - Celestial mechanics
+  - Equilibrium
+  - Ellipsoids
+  - Centrifugal force
+  - Astrophysics
+tldr: The author investigates the equilibrium of ellipsoids in a centrifugal force field, focusing on the relationship between the ellipsoid's shape, rotation, and the balance of gravitational and centrifugal forces. The study includes the specific case of spheroids of revolution and the limits of equilibrium for different ellipsoid shapes.
+scientific_discipline: Physics > Celestial mechanics

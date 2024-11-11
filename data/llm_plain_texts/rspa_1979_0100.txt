@@ -1,0 +1,10 @@
+article_id: rspa_1979_0100
+revised_title: Asymptotic Behavior of Scalar Waves in Schwarzschild Space-Time
+semantic_tags:
+  - General Relativity
+  - Schwarzschild Space-Time
+  - Scalar Wave Equation
+  - Asymptotic Analysis
+  - Conformal Rescaling
+tldr: This paper studies the asymptotic behavior of solutions to the zero rest mass scalar wave equation in the Schwarzschild space-time, including parts of future and past null infinity. The authors find that the behavior of scalar fields in Schwarzschild space-time is different from that in a flat space-time, and that the source term modifies the asymptotic behavior in an essential way. The paper also discusses the intrinsic properties of Schwarzschild space-time and the conformal structure.
+scientific_discipline: Physics > General Relativity

@@ -1,0 +1,10 @@
+article_id: rspa_1963_0042
+revised_title: Euclidean Approach to General Relativity
+semantic_tags:
+  - General Relativity
+  - Euclidean Space
+  - Relativistic Equations
+  - Space-Time
+  - Non-Euclidean Geometry
+tldr: The author presents a rigorous derivation of the equations of general relativity within the framework of a strictly Euclidean space and independent time. This approach allows for a clearer understanding of the theory without encountering the conceptual difficulties associated with non-Euclidean space and curved time. The author also discusses the possibility of extending this method to the two-body problem and the potential benefits for the study of general relativity.
+scientific_discipline: Physics > Relativity

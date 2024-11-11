@@ -1,0 +1,10 @@
+article_id: rsta_1982_0093
+revised_title: A New Approach to Solving the 4x4 Magic Square Problem
+semantic_tags:
+  - Magic Squares
+  - Number Theory
+  - Combinatorics
+  - Frenicle's Method
+  - Analytical Methods
+tldr: The authors present a new method to confirm the number of 4x4 magic squares, which was previously established by Frenicle over 300 years ago. They classify all solutions into six 'genera' and use analytical methods to enumerate all possible solutions. This method also provides the first analytical proof that 12 and only 12 patterns formed by linking complementary numbers within a square are necessary and sufficient to describe all solutions.
+scientific_discipline: Mathematics > Combinatorics

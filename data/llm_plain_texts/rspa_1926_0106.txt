@@ -1,0 +1,10 @@
+article_id: rspa_1926_0106
+revised_title: Molecular Fields of Hydrogen, Nitrogen, and Neon: A Comparative Study
+semantic_tags:
+  - Molecular fields
+  - Gas isotherms
+  - Molecular forces
+  - Virial coefficients
+  - Gas equation of state
+tldr: This article presents a comparative study of the molecular fields of hydrogen, nitrogen, and neon. The authors use gas isotherms and molecular force calculations to determine the repulsive and attractive forces between molecules. They find that hydrogen, nitrogen, and neon can be adequately represented by spherical fields, and their results are compared with previous studies on viscosity and thermal conductivity.
+scientific_discipline: Chemistry > Physical Chemistry

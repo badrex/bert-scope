@@ -1,0 +1,10 @@
+article_id: 'rspa_1925_0011'
+revised_title: 'Extreme Ultra-Violet Spark-Spectra of Indium and Gallium'
+semantic_tags:
+  - Spectroscopy
+  - Indium
+  - Gallium
+  - Spark-spectra
+  - Extreme Ultra-Violet Region
+tldr: 'The authors, Mollie Weinberg and Prof. J. C. McLennan, conducted experiments to study the spark-spectra of indium and gallium in the extreme ultra-violet region. They measured the wave-lengths of each element and compared their results with previous measurements by Saunders and Klein. The study found that all of Saunders' lines were present in their measurements, and the results were in good agreement, considering the limits of accuracy.'
+scientific_discipline: Chemistry > Spectroscopy

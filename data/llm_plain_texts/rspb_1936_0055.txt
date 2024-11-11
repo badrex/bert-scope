@@ -1,0 +1,10 @@
+article_id: 'rspb_1936_0055'
+revised_title: 'The Inhibition and Absolute Activity of Choline-Esterase'
+semantic_tags:
+  - Enzyme inhibition
+  - Cholinesterase
+  - Enzyme kinetics
+  - Acetylcholine
+  - Physostigmine
+tldr: The authors investigated the inhibition and absolute activity of choline-esterase, an enzyme responsible for breaking down acetylcholine. They discovered that certain drugs, like physostigmine, inhibit choline-esterase by binding to the enzyme, preventing it from breaking down acetylcholine. The authors developed a method to determine the absolute activity of choline-esterase by measuring the inhibition produced by different concentrations of the inhibitor. This research has implications for understanding the role of choline-esterase in the nervous system and the potential use of inhibitors as therapeutic agents.
+scientific_discipline: Biology and Life Sciences > Biochemistry

@@ -1,0 +1,10 @@
+article_id: rsta_1995_0001
+revised_title: 'Shear Effects on Thermotropic Liquid Crystalline Polymers: Optical, X-ray, and Rheological Studies'
+semantic_tags:
+  - Liquid Crystals
+  - Polymer Rheology
+  - Shear Effects
+  - Optical Texture
+  - X-ray Measurements
+tldr: This study investigates the effect of shear on thermotropic liquid crystalline polymers (TLCPS) through optical, X-ray, and rheological measurements. The researchers observe changes in optical textures and discuss the role of local anisotropy, molecular correlation coefficient, and defect structure in the material's response to shear. They also present a numerical scheme that predicts the observed behavior of TLCPS under shear.
+scientific_discipline: Materials Science > Polymer Science

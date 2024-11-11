@@ -1,0 +1,10 @@
+article_id: rspa_1928_0086
+revised_title: An Experimental Study of Turbulent Flow in Pipes of Rectangular Section
+semantic_tags:
+  - Fluid dynamics
+  - Turbulence
+  - Pipe flow
+  - Viscosity
+  - Reynolds number
+tldr: The authors conducted experiments to study the flow of water in pipes of rectangular section and found that the critical velocity for flow between flat plates occurs at a lower Reynolds number than in pipes of circular cross-section. They also discovered that the influence of disturbing factors, such as temperature variations, can affect the flow and that the region of the critical velocity is particularly unstable.
+scientific_discipline: Physics > Fluid Dynamics

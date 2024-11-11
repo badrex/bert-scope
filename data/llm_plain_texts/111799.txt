@@ -1,0 +1,10 @@
+article_id: 111799
+revised_title: 'Experiments with the Submarine Cable of the Mediterranean Electric Telegraph'
+semantic_tags:
+  - Telecommunications
+  - Submarine cables
+  - Electric Telegraph
+  - Electromagnetism
+  - Induction
+tldr: The author conducted experiments with the submarine cable of the Mediterranean Electric Telegraph, manufactured by Messrs. Kuper and Co. The cable was 110 miles long and contained six copper wires insulated with gutta percha, surrounded by an iron envelope. The experiments demonstrated the phenomena of induction and the effects of the iron envelope on the electric current. The findings have practical implications for the development of telecommunication systems.
+scientific_discipline: Engineering and Technology > Telecommunications

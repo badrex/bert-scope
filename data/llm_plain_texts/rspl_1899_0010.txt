@@ -1,0 +1,10 @@
+article_id: rspl_1899_0010
+revised_title: 'Investigation of Luminosity in Rare Earths Heated by Cathode Rays'
+semantic_tags:
+  - Cathode rays
+  - Luminosity
+  - Rare Earths
+  - Vacuum tubes
+  - Optoelectronics
+tldr: The author conducted experiments using cathode rays to heat rare earth oxides in a vacuum tube and observed their luminosity. They found that certain mixtures of thorium oxide and cerium oxide produced the maximum luminosity. The author also discovered that the rare earth oxides' fluorescence changed under different vacuum levels and gas atmospheres.
+scientific_discipline: Physics > Optoelectronics

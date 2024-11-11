@@ -1,0 +1,10 @@
+article_id: 'rstb_1991_0054'
+revised_title: 'Water Movement Sensitivity in Leech CNS: The Role of CBW Cells'
+semantic_tags:
+  - Leech Biology
+  - Sensory Processing
+  - Water Movement Detection
+  - Neural Sensory Cells
+  - Sensory Integration
+tldr: The authors discovered a population of bilaterally distributed cells (CBW cells) in the medicinal leech's CNS that are sensitive to water movement. These cells, located in each segmental ganglion, respond to water movement on both sides of the body and are involved in the leech's ability to orientate and swim towards the source of water disturbance. The CBW cells' morphology and physiological properties are described, providing insights into their role in water movement detection and sensory integration in the leech.
+scientific_discipline: Biology and Life Sciences > Neuroscience

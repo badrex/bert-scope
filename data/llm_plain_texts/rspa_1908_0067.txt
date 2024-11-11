@@ -1,0 +1,10 @@
+article_id: rspa_1908_0067
+revised_title: 'Experimental Investigation of Alpha Particle Scattering'
+semantic_tags:
+  - Nuclear Physics
+  - Particle Scattering
+  - Radioactivity
+  - Atomic Structure
+  - Rutherford Scattering
+tldr: The authors conducted experiments to study the scattering of alpha particles when passing through matter. They observed a significant scattering effect, which they attributed to the particles being deflected by the positive charge in the matter. This discovery provided evidence for the nuclear model of the atom, where a small, dense nucleus contains a positive charge and is surrounded by negatively charged electrons.
+scientific_discipline: Physics > Nuclear Physics

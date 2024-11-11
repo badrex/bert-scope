@@ -1,0 +1,10 @@
+article_id: rspa_1965_0198
+revised_title: 'Oxidation of Acetylene: Glyoxal as a Degenerate Branching Intermediate'
+semantic_tags:
+  - Chemical kinetics
+  - Oxidation reactions
+  - Glyoxal
+  - Acetylene
+  - Degenerate branching
+tldr: The authors studied the oxidation of acetylene at temperatures between 300-500°C, confirming previous findings and establishing new kinetic data. They discovered that glyoxal acts as a degenerate branching intermediate in the reaction, and the course of the oxidation can be explained by a degenerately branched chain reaction. The results challenge the recent suggestion that the oxidation of acetylene does not involve degenerate branching and that glyoxal is a by-product rather than the key intermediate.
+scientific_discipline: Chemistry > Chemical kinetics

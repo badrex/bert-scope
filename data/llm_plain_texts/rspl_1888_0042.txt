@@ -1,0 +1,11 @@
+article_id: rspl_1888_0042
+revised_title: On Certain Definite Integrals and Meldrum's Rules for Handling Ships
+semantic_tags:
+  - Calculus
+  - Integral calculus
+  - Navigation
+  - Oceanography
+  - Ship handling
+tldr: The author, W. H. L. Russell, explores definite integrals and their applications, particularly in relation to Meldrum's rules for handling ships in the Southern Indian Ocean. He examines these rules critically, using published observations and unpublished records, and provides additional explanations and improvements to the rules.
+scientific_discipline: Mathematics > Calculus
+sub_discipline: Oceanography > Ship handling

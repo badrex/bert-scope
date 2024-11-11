@@ -1,0 +1,10 @@
+article_id: rspa_1978_0201
+revised_title: 'Ignition and Flame Quenching of Quiescent Fuel Mists: A Comprehensive Study'
+semantic_tags:
+  - Combustion
+  - Fuel Mists
+  - Ignition
+  - Flame Quenching
+  - Droplet Size
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science
+tldr: This study investigates the ignition and flame quenching of quiescent fuel mists, focusing on the effects of variables such as overall equivalence ratio, air density, mean drop size, and fuel volatility. A new model is proposed, assuming that chemical reaction rates are infinitely fast, and the essential ingredient for successful ignition is an adequate concentration of fuel vapor in the ignition zone. The results show that both quenching distance and minimum ignition energy are strongly dependent on droplet size and are also dependent, but to a lesser extent, on air density, equivalence ratio, and fuel volatility.

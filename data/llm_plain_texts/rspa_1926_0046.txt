@@ -1,0 +1,10 @@
+article_id: rspa_1926_0046
+revised_title: 'Wave Resistance: A Study of Solid Motion Through Fluids'
+semantic_tags:
+  - Fluid dynamics
+  - Wave resistance
+  - Inertia coefficients
+  - Wave theory
+  - Solid motion
+tldr: The author investigates the wave resistance experienced by a solid moving through a fluid, focusing on the case of a solid moving horizontally under water. They develop a mathematical model to calculate the wave resistance and provide a formula for the energy dissipation due to the resistance. This study contributes to the understanding of wave behavior and fluid dynamics.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: 'rsta_1990_0112'
+revised_title: 'Vibrationally Mediated Photodissociation and Intramolecular Motion in HOOH and HOOD'
+semantic_tags:
+  - Photofragment mapping
+  - Intramolecular motion
+  - Vibrationally mediated photodissociation
+  - Quantum state distributions
+  - Vector correlations
+scientific_discipline: Chemistry > Spectroscopy
+tldr: The authors studied the intramolecular motion in HOOH and HOOD molecules using photofragment mapping after populating specific rovibrational levels with a tunable, pulsed laser. They obtained quantum state distributions, vector correlations, and vibrational and rotational fragment pair correlations using polarized, Doppler-resolved laser-induced fluorescence techniques. The results provide insights into the energy redistribution within the molecules and highlight the role of rotation in promoting rotation-vibration coupling.

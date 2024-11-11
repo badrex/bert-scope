@@ -1,0 +1,10 @@
+article_id: rspa_1978_0196
+revised_title: Ergoregion Instability in Rotating Stars
+semantic_tags:
+  - General Relativity
+  - Ergoregion
+  - Rotating Stars
+  - Instability
+  - Scalar Field
+tldr: This article explores the ergoregion instability in rotating stars, which occurs due to the existence of an ergoregion, a region where all trajectories are in the direction of the star's rotation. The instability leads to the emission of scalar, electromagnetic, and gravitational radiation from the star. The authors calculate eigenfrequencies for stable and unstable modes of a scalar field on a background metric with an ergoregion and find that unstable modes exist for all stars, but with a folding time that is several orders of magnitude longer than the age of the universe.
+scientific_discipline: Physics > General Relativity

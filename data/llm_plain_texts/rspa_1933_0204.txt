@@ -1,0 +1,10 @@
+article_id: rspa_1933_0204
+revised_title: 'Mathematical Modeling of Interactions Between Multiple Host and Parasite Species'
+semantic_tags:
+  - Population dynamics
+  - Mathematical biology
+  - Parasitology
+  - Host-parasite interactions
+  - Epidemiology
+tldr: The article investigates the mathematical formulation of interactions between multiple host and parasite species. It presents a comprehensive theory that takes into account the age distribution of the interacting species and examines whether the neglect of this factor in earlier models by Lotka and Volterra can be justified. The study also discusses the possibility of a steady state when the number of parasite species is less than the number of host species.
+scientific_discipline: Biology and Life Sciences > Ecology and Population Biology

@@ -1,0 +1,10 @@
+article_id: rspa_1985_0043
+revised_title: Solvent-Mediated Phase Transformations: A Theoretical Framework
+semantic_tags:
+  - Solid-state chemistry
+  - Crystal growth
+  - Polymorphism
+  - Kinetics
+  - Mineralogy
+tldr: The authors develop a model for solvent-mediated phase transformations, focusing on the case of polymorphic phase changes. They introduce the concepts of dissolution and growth time scales and demonstrate that their sum is the time required for the disappearance of the metastable phase. The model is applied to simulate available kinetic data for the polymorphic transformation in copper phthalocyanine.
+scientific_discipline: Chemistry > Solid-state chemistry

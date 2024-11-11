@@ -1,0 +1,10 @@
+article_id: 'rstb_1994_0039'
+revised_title: 'Molecular Biology of Prion Diseases: Nucleic Acids in Prion Preparations'
+semantic_tags:
+  - Prion diseases
+  - Nucleic acids
+  - Prion protein
+  - Prion purification
+  - Scrapie
+tldr: This article investigates the presence of nucleic acids in prion preparations and their potential role in prion diseases. The authors find that while nucleic acids are present, they do not seem to be essential for scrapie infectivity. The study puts constraints on the size of any hypothetical scrapie-specific nucleic acids, but further research is needed to determine their exact role in prion diseases.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

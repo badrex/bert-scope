@@ -1,0 +1,10 @@
+article_id: rspa_1989_0064
+revised_title: 'Innovative Approaches to Higher Derivatives in Geometry and Physics'
+semantic_tags:
+  - Differential Geometry
+  - Tensor Analysis
+  - Higher Derivatives
+  - New-Tensors
+  - Derivative Strings
+tldr: The article explores two methods to study higher derivatives, new-tensors, and derivative strings, and introduces the concept of suppression operators. It also discusses the impact of these new approaches on physics, including the extension of Riemann metrics and the exploration of electrogravitic potentials.
+scientific_discipline: Mathematics > Differential Geometry

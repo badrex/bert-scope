@@ -1,0 +1,10 @@
+article_id: rspa_1983_0122
+revised_title: Network Connectivity and Adsorption-Desorption Hysteresis in Porous Materials
+semantic_tags:
+  - Adsorption
+  - Desorption
+  - Porous materials
+  - Network theory
+  - Capillary condensation
+tldr: The author presents a model of adsorption-desorption hysteresis in which hysteresis is primarily developed by the interconnections in a network of pores. The model considers a porous material as an assembly of individual pores connected via constrictions, and analyzes the behavior of these pores in terms of their connectivity and filling radius. The model predicts the adsorption-desorption boundary curves and primary scanning curves, providing a quantitative explanation for the capillary condensation portion of these processes.
+scientific_discipline: Environmental and Earth Sciences > Soil Science

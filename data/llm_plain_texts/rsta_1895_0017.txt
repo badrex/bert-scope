@@ -1,0 +1,10 @@
+article_id: 'rsta_1895_0017'
+revised_title: 'Stability of Electrified Vortex Rings and Periods of Fluted Vibrations'
+semantic_tags:
+  - Fluid Dynamics
+  - Vortex Rings
+  - Electromagnetism
+  - Hydrodynamics
+  - Stability Analysis
+tldr: The authors investigate the stability of electrified vortex rings and the periods of fluted vibrations. They find that the hollow vortex is stable for all displacements of its surface, except for sinuous vibrations of slow type. The electric charge increases the cross-section and aperture of the ring, causing changes in fluid velocity and pressure. The kinetic energy of the fluid is affected by the electric charge, and the stability is analyzed through the periods of small flutations.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0002'
+revised_title: 'Gating Properties of Connexin32 Cell-Cell Channels and Their Mutants'
+semantic_tags:
+  - Cell Biology
+  - Gap Junctions
+  - Connexin32
+  - Xenopus Oocytes
+  - Gating Mechanisms
+tldr: The article investigates the gating properties of connexin32 cell-cell channels and their mutants expressed in Xenopus oocytes. The researchers found that oocytes expressing a mutant lacking 58 carboxyl terminal amino acids exhibited junctional conductances similar to those expressing wild-type connexin32. The gating properties of the channels formed by this mutant were indistinguishable from those of wild-type connexin32 channels, including a novel pH-dependent voltage gate. This research helps to understand the role of carboxyl terminal domains in the regulation of connexin channels.
+scientific_discipline: Biology and Life Sciences > Cell Biology

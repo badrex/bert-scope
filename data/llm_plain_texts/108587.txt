@@ -1,0 +1,10 @@
+article_id: 108587
+revised_title: 'Tasinomic Coefficients and Elasticity Axes in Crystalline Forms'
+semantic_tags:
+  - Crystallography
+  - Elasticity
+  - Solid mechanics
+  - Stress
+  - Strain
+tldr: The author discusses the theory of axes of elasticity and crystalline forms, focusing on the coefficients of elasticity and their applications in solid mechanics. They introduce the concept of Thipsimetric and Tasinometric Invariants, which are used to describe the properties of elastic forces in solids. The author also explains the difference between Orthotatic and Heterotatic axes and their significance in understanding the behavior of elastic solids.
+scientific_discipline: Physics > Solid mechanics

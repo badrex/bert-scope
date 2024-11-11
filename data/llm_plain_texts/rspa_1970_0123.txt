@@ -1,0 +1,10 @@
+article_id: rspa_1970_0123
+revised_title: 'Effects of Uniform Injection of Foreign Gas on Laminar Boundary Layer'
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer
+  - Mass Transfer
+  - Gas Injection
+  - Nonsimilar Solutions
+tldr: The article investigates the effects of uniformly injecting different gases into the laminar boundary layer of a flat plate in a pure air stream. It examines how the presence of a foreign gas affects the boundary-layer development and the decay of surface shear, demonstrating that the approach to 'blowoff' is significantly influenced by the type of injected species.
+scientific_discipline: Physics > Fluid Dynamics

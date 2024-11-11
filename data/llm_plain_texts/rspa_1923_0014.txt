@@ -1,0 +1,10 @@
+article_id: rspa_1923_0014
+revised_title: Fluid Motion Discontinuity Past Circular and Elliptic Cylinders
+semantic_tags:
+  - Fluid dynamics
+  - Aerodynamics
+  - Cylinders
+  - Ellipses
+  - Streamlines
+tldr: The authors study the fluid motion past circular and elliptic cylinders, focusing on the symmetrical problem where the direction of relative motion is parallel to the plane of symmetry. They use a modified transformation to analyze the problem and find that the radius of curvature of the free streamline is generally zero at the ends of the cylinder, leading to the condition for a real problem. They provide approximations for circular and elliptic cylinders, showing that the pressure on the barrier is in the plane of symmetry.
+scientific_discipline: Physics > Fluid Dynamics

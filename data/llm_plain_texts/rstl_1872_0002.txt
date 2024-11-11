@@ -1,0 +1,10 @@
+article_id: "rstl_1872_0002"
+revised_title: "Magnetic Survey of the East of France in 1869"
+semantic_tags:
+  - Geomagnetism
+  - Magnetic declination
+  - Magnetic survey
+  - Magnetic field measurements
+  - Earth's magnetic field
+tldr: The author conducted a magnetic survey in the east of France in 1869 to study the Earth's magnetic field. They collected data on magnetic declination, dip, and intensity at various locations using multiple instruments. The results showed a mean annual change in the dip and provided insights into the secular variation of the Earth's magnetic field in the region. The study also compared the findings with previous observations in the west of France.
+scientific_discipline: Environmental and Earth Sciences > Geomagnetism

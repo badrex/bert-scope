@@ -1,0 +1,10 @@
+article_id: rspa_1911_0030
+revised_title: Chemical Action of Electric Discharge in Electrolytic Gas
+semantic_tags:
+  - Electrochemistry
+  - Gas discharge
+  - Ionization
+  - Chemical reactions
+  - Oxygen-hydrogen reactions
+tldr: The authors conducted experiments on the chemical effects of electric discharges in electrolytic gas. They discovered that the chemical activity in the positive column of the discharge is due to the collisions of negative ions with oxygen molecules, which are dissociated into atoms and can combine with hydrogen. The energy of formation of an oxygen molecule is estimated to be less than 1.4 x 10^-12 ergs, and the energy of formation of a water molecule is nearly 1.6 x 10^-12 ergs.
+scientific_discipline: Chemistry > Electrochemistry

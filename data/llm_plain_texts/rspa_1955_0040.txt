@@ -1,0 +1,10 @@
+article_id: rspa_1955_0040
+revised_title: 'Paramagnetic Resonance in Trigonal Symmetry Copper Salts'
+semantic_tags:
+  - Paramagnetic Resonance
+  - Crystal Field Theory
+  - Trigonal Symmetry
+  - Copper Salts
+  - Lanthanum Nitrate
+tldr: The authors studied the paramagnetic resonance in diluted copper salts with trigonal symmetry, focusing on copper lanthanum nitrate. They observed a transition in the spectrum from a nearly isotropic line at high temperatures to an anisotropic spectrum at low temperatures, which they analyzed using the spin Hamiltonian. Their findings provide insights into the behavior of copper ions in trigonal symmetry and the effects of crystal field on their magnetic properties.
+scientific_discipline: Physics > Materials Science

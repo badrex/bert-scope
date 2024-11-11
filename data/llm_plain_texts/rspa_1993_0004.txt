@@ -1,0 +1,10 @@
+article_id: rspa_1993_0004
+revised_title: Thermodynamic Model for Subcritical Ammonium Perchlorate Deflagration
+semantic_tags:
+  - Thermodynamics
+  - Ammonium Perchlorate
+  - Deflagration
+  - Subcritical Regime
+  - Fuel Systems
+tldr: The authors propose a thermodynamic model to explain the deflagration mechanism of ammonium perchlorate (AP) in the subcritical pressure regime. By augmenting the initial temperature and adding fuels, they studied the combustion of AP below the critical limit. The model helps explain the criticality of deflagration in AP and AP/fuel systems, as well as subtle features like intermittent, plateau, and flameless combustion.
+scientific_discipline: Chemistry > Thermodynamics

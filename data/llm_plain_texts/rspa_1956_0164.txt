@@ -1,0 +1,10 @@
+article_id: rspa_1956_0164
+revised_title: 'Effective Viscosity of Suspensions of Spherical Particles: A Mathematical Approach'
+semantic_tags:
+  - Fluid dynamics
+  - Rheology
+  - Suspension mechanics
+  - Viscosity
+  - Statistical modeling
+tldr: This article presents a mathematical method to calculate the effective viscosity of suspensions of spherical particles in a fluid. The study focuses on low concentrations and uses a statistical model to determine the fluid velocity and pressure distribution. The results provide a better understanding of the behavior of suspensions and can be applied to other non-spherical particles as well.
+scientific_discipline: Physics > Fluid dynamics

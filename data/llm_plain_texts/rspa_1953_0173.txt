@@ -1,0 +1,10 @@
+article_id: rspa_1953_0173
+revised_title: 'Catalysis of Ortho-Para Hydrogen Conversion by Solid Free Radical -Picryl Hydrazyl'
+semantic_tags:
+  - Catalysis
+  - Ortho-Para Hydrogen Conversion
+  - Solid Free Radical
+  - Adsorption
+  - Paramagnetic Substances
+tldr: The authors studied the catalysis of ortho-para hydrogen conversion by the solid free radical -picryl hydrazyl. They found that the conversion follows first-order kinetics and is independent of pressure. The rate of conversion decreases with increasing temperature, suggesting that the process occurs in a physically adsorbed layer of hydrogen molecules. The authors also investigated the adsorption of hydrogen on the free radical and concluded that the catalysis is due to the interaction between hydrogen molecules in the adsorbed layer and the inhomogeneous magnetic field at the catalyst's surface.
+scientific_discipline: Chemistry > Catalysis

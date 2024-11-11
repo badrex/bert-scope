@@ -1,0 +1,10 @@
+article_id: rspa_1949_0144
+revised_title: 'Elastic Theory of Dislocations in Crystalline Materials'
+semantic_tags:
+  - Crystallography
+  - Dislocations
+  - Elasticity
+  - Materials Science
+  - Solid Mechanics
+tldr: This article presents an elastic theory of dislocations in crystalline materials, describing the internal stresses caused by slip processes. The theory is based on the concept of dislocations in the mathematical theory of elasticity and expands on Volterra's work. The author provides examples of dislocations in cylinders and discusses the general screw dislocation, showing that one type of dislocation is equivalent to a distribution of Volterra dislocations.
+scientific_discipline: Physics > Materials Science

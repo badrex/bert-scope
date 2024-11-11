@@ -1,0 +1,10 @@
+article_id: rspa_1996_0073
+revised_title: Vector-valued Multifractal Measures and their Applications
+semantic_tags:
+  - Multifractal Measures
+  - Vector Analysis
+  - Fractals
+  - Self-similar Measures
+  - Turbulence
+tldr: The authors propose a framework for vector-valued measures that allows for the study of multifractal phenomena. They explore properties of these measures, including their multifractal spectrum and dimensions, and provide examples of self-similar vector measures. This work extends the understanding of multifractal theory to vector situations, which is useful for representing features of vectorial form in various scientific fields.
+scientific_discipline: Mathematics > Analysis

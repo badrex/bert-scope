@@ -1,0 +1,10 @@
+article_id: 'rstb_1990_0017'
+revised_title: 'Periplasmic Binding Protein-Dependent Transport Systems: Membrane-Associated Components and Mechanisms'
+semantic_tags:
+  - Membrane transport
+  - Periplasmic binding proteins
+  - ATP-binding proteins
+  - Bacterial transport systems
+  - Eukaryotic transport systems
+tldr: This article discusses the membrane-associated components and mechanisms of periplasmic binding protein-dependent transport systems. These systems are widespread in nature and serve various functions. The membrane-associated components are essential for transporting substrates across the membrane, and the periplasmic binding proteins help deliver the substrate to these complexes. The energy for transport is primarily derived from ATP hydrolysis, and the ATP-binding transport components are the best-characterized proteins in this family.
+scientific_discipline: Biology and Life Sciences > Biochemistry and Molecular Biology

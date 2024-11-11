@@ -1,0 +1,10 @@
+article_id: rspa_1993_0078
+revised_title: 'Thermoelectroelastic Moduli Relations in Heterogeneous Materials'
+semantic_tags:
+  - Composite Materials
+  - Thermoelectroelasticity
+  - Piezoelectricity
+  - Micromechanics
+  - Heterogeneous Media
+tldr: The author derived exact relations between the effective thermoelectroelastic moduli of two-phase heterogeneous materials and their corresponding isothermal effective electroelastic moduli. These relations can be used to calculate the effective thermal expansion and pyroelectric coefficients of the composite when the effective electroelastic moduli are known. The results also provide a way to assess the internal consistency of any micromechanics model proposed for estimating the thermoelectroelastic and electroelastic moduli of the composite.
+scientific_discipline: Engineering and Technology > Materials Science

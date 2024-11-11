@@ -1,0 +1,10 @@
+article_id: rspa_1932_0055
+revised_title: Analyzing Elastic Stability and Distortion in Struts
+semantic_tags:
+  - Elastic stability
+  - Strut design
+  - Structural engineering
+  - Material strength
+  - Load-deflection curves
+tldr: The author investigates the behavior of struts under load and the factors affecting their stability. They analyze the differences between theoretical predictions and experimental results, considering the effects of material strength, workmanship, and initial deflections. The author proposes a method for plotting load-deflection curves to better understand and compare theoretical and experimental data.
+scientific_discipline: Engineering and Technology > Structural Engineering

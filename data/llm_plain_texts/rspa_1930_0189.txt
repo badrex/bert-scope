@@ -1,0 +1,10 @@
+article_id: rspa_1930_0189
+revised_title: The Swelling of Charcoal: Preliminary Experiments with Water Vapor, Carbon Dioxide, Ammonia, and Sulphur Dioxide
+semantic_tags:
+  - Adsorption
+  - Charcoal expansion
+  - Gas adsorption
+  - Sorption
+  - Hyperbolic equations
+tldr: This study investigates the swelling of charcoal when exposed to various gases, including water vapor, carbon dioxide, ammonia, and sulfur dioxide. The researchers developed an extensometer to measure the linear expansion of charcoal while simultaneously determining the weight of gas absorbed. The results show that the expansion follows a hyperbolic relationship with the amount of gas adsorbed, with each gas having distinct constants. The study concludes that adsorption affects the internal structure of charcoal's macropores and that the limiting sorption values represent nearly equal volumes of the normal liquids for each gas.
+scientific_discipline: Chemistry > Adsorption and Porosity

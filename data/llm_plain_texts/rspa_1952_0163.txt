@@ -1,0 +1,10 @@
+article_id: rspa_1952_0163
+revised_title: Angular Distribution and Attenuation of Cosmic Ray Star-Producing Component
+semantic_tags:
+  - Cosmic Rays
+  - Nuclear Disintegrations
+  - Angular Distribution
+  - Attenuation Length
+  - Lead Absorbers
+tldr: The authors studied the properties of cosmic radiation that causes nuclear disintegrations (stars) by observing them in G5 emulsion under lead absorbers. They designed an experiment to investigate the angular distribution and attenuation of the star-producing component of cosmic rays. The results showed that the rate of star production in nuclear emulsion is higher than previously reported, and they determined the attenuation length for stars with different properties.
+scientific_discipline: Physics > Particle Physics

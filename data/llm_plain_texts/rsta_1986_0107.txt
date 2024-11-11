@@ -1,0 +1,10 @@
+article_id: rsta_1986_0107
+revised_title: Ultrasonic Techniques for Non-Destructive Examination of Microcrystalline Structures
+semantic_tags:
+  - Non-destructive testing
+  - Ultrasonics
+  - Microstructure examination
+  - Material properties
+  - Material characterization
+tldr: This article discusses novel ultrasonic techniques for non-destructive examination and validation of microcrystalline structures in materials. The author explores the use of ultrasonics to measure velocity, attenuation, absorption, and scattering to gain information about the microstructure of materials. The techniques can be used to determine correlations between microstructural parameters and material properties, such as strength, hardness, and toughness, which are essential for designing and constructing components and systems.
+scientific_discipline: Engineering and Technology > Non-Destructive Testing

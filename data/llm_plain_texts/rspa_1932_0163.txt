@@ -1,0 +1,10 @@
+article_id: rspa_1932_0163
+revised_title: 'An Investigation of Alpha Particle Scattering by Helium'
+semantic_tags:
+  - Nuclear Physics
+  - Scattering Theory
+  - Helium
+  - Alpha Particles
+  - Coulomb Forces
+tldr: This article investigates the scattering of alpha particles at small angles by helium using experimental methods. The results show that the scattering is in close agreement with the predictions of wave mechanics and provides insights into the forces at play during these interactions. The findings contribute to the understanding of nuclear physics and the behavior of subatomic particles.
+scientific_discipline: Physics > Nuclear Physics

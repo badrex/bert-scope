@@ -1,0 +1,10 @@
+article_id: rspa_1955_0159
+revised_title: Boundary Layer Growth and Separation in Fluid Dynamics
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Separation Distance
+  - Viscous Fluids
+  - Aerodynamics
+tldr: This article extends Blasius' work on boundary-layer growth at a cylinder and demonstrates that if the velocity of the cylinder varies with time, the velocity distributions are similar at different times. The author calculates the second approximation to the velocity in the boundary layer and finds a first approximation for the distance traveled before separation begins. The article also discusses the separation distance and presents numerical results for the variation with time of the separation distance.
+scientific_discipline: Physics > Fluid Dynamics

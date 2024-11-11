@@ -1,0 +1,10 @@
+article_id: rsta_1978_0020
+revised_title: 'Wakes of Cylindrical Bluff Bodies: Visualization and Low Reynolds Number Effects'
+semantic_tags:
+  - Fluid Dynamics
+  - Wake Formation
+  - Bluff Bodies
+  - Flow Visualization
+  - Low Reynolds Number
+tldr: The author investigates the wakes of cylindrical bluff bodies at low Reynolds numbers using flow visualization techniques. They observe various flow patterns and mechanisms, including transition to turbulence and vortex formation, and discuss the effects of Reynolds number on wake behavior. This study provides a comprehensive understanding of the complex fluid dynamics in bluff body wakes.
+scientific_discipline: Physics > Fluid Dynamics

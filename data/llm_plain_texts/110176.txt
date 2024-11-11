@@ -1,0 +1,10 @@
+article_id: '110176'
+revised_title: 'Diurnal Changes in Magnetic Intensity and the Earth's Polarizing Axis'
+semantic_tags:
+  - Geomagnetism
+  - Earth's rotation
+  - Magnetic dip
+  - Polarization
+  - Sun's influence
+tldr: 'The author, Henry Foster, conducted experiments using two needles, a dipping-needle and a horizontal-needle, at Treurenburgh Bay in Spitsbergen to study the diurnal changes in magnetic intensity. The results indicated a constant inflexion of the magnetic pole towards the sun during the day, suggesting that the sun is the primary agent in producing these changes. The study also provided insights into the radius of the circle of rotation of the earth's polarizing axis.'
+scientific_discipline: 'Earth Sciences > Geomagnetism'

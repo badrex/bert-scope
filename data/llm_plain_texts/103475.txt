@@ -1,0 +1,10 @@
+article_id: '103475'
+revised_title: 'Evaluating the Relationship Between Moving Forces and Velocities'
+semantic_tags:
+  - Mechanics
+  - Force
+  - Velocity
+  - Motion
+  - Physics
+tldr: The author examines the relationship between moving forces and velocities using the Doctrine of Composition and Resolution of Forces. They argue that the forces of a moving body are not as the velocities but as the squares of the velocities. However, the author concludes that this argument is inconclusive and does not prove the relationship between forces and velocities.
+scientific_discipline: Physics > Mechanics

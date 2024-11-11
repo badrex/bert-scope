@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0069'
+revised_title: 'Magnesium's Impact on Neuronal Nicotinic Acetylcholine Receptor Channel Conductance'
+semantic_tags:
+  - Neurophysiology
+  - Ion channels
+  - Magnesium
+  - Neuronal nicotinic acetylcholine receptors
+  - Patch-clamp technique
+tldr: Researchers investigated the effect of magnesium on the single-channel conductance of neuronal nicotinic acetylcholine receptors in nerve growth factor-treated rat pheochromocytoma cells. They found that magnesium selectively modifies the inward conductance of the channel without affecting the outward conductance. The study suggests that the density and number of charges on either side of the ion pore differ, and the amino acids screened by divalent cations sense electric fields weakly.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

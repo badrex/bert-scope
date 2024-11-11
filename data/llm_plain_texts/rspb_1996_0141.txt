@@ -1,0 +1,9 @@
+article_id: 'rspb_1996_0141'
+revised_title: 'Nonlinear Shunting Model of the Pupil Light Reflex: Exploring Dynamics and Responses'
+semantic_tags:
+  - Pupil Light Reflex
+  - Nonlinear Dynamics
+  - Shunting Model
+  - Retinal System
+  - Neurophysiology
+tldr: The authors extend the Longtin-Milton model to include a shunting equation representing the dynamics of the retinal system. This new model accounts for features such as frequency-dependent shifts in the average pupil response and nonlinear summation of signals from both eyes. The study helps to determine the location and nature of nonlinearities within the reflex arc and how signals from the two eyes combine, providing a better understanding of the pupil light reflex mechanism.

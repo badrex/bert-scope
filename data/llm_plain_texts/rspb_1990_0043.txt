@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0043'
+revised_title: 'Intracellular Fluoride and Leak Conductance in Ascidian Oocytes'
+semantic_tags:
+  - Ion channels
+  - Membrane conductance
+  - Fluoride effects
+  - Dialysis
+  - Ascidian biology
+tldr: The article investigates the effect of intracellular fluoride on the leak conductance of dialyzed oocytes in the ascidian Styela plicata. The researchers found that fluoride causes the formation of a leak conductance with giant membrane channels, and that fluoride and calcium, or hexacyanoferrate(III) and cobalt can precipitate in the membrane and plug these channels. This study provides insights into the preferred composition of intracellular dialysis media.
+scientific_discipline: Biology and Life Sciences > Cell Biology

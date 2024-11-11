@@ -1,0 +1,10 @@
+article_id: rspa_1932_0209
+revised_title: Internal Conversion of Gamma Rays: Quadripole and Dipole Fields
+semantic_tags:
+  - Nuclear Physics
+  - Gamma Rays
+  - Internal Conversion
+  - Quantum Mechanics
+  - Atomic Physics
+tldr: The authors explore the internal conversion of gamma rays, studying the probability of electrons being ejected from an atom's inner shell when a gamma ray is absorbed. They compare the effects of dipole and quadripole fields on the conversion coefficient and discuss the implications for nuclear theory.
+scientific_discipline: Physics > Nuclear Physics

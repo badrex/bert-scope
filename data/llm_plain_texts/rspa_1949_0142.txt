@@ -1,0 +1,10 @@
+article_id: rspa_1949_0142
+revised_title: 'Production of Mesons by Electrons: Cross-Section and Energy Spectrum'
+semantic_tags:
+  - Particle Physics
+  - Meson Production
+  - High-Energy Accelerators
+  - Nuclear Interactions
+  - Electromagnetic Field
+tldr: The authors calculate the cross-section of producing mesons in collisions between electrons and atomic nuclei, assuming electrons interact with nucleons through the electromagnetic field. They find that for electrons of energy 300, the cross-section is roughly proportional to the mass number of the target nucleus, ranging from 0.1 to 1 cm^2 per nucleon for different nuclei. The energy spectrum of emitted mesons is also determined.
+scientific_discipline: Physics > Particle Physics

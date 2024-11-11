@@ -1,0 +1,10 @@
+article_id: 111451
+revised_title: A Memoir on the Theory of Matrices and their Applications
+semantic_tags:
+  - Linear Algebra
+  - Matrix Theory
+  - Determinants
+  - Algebraic Functions
+  - Mathematical Notation
+tldr: In this memoir, Arthur Cayley explores the theory of matrices, focusing on square and rectangular matrices. He introduces the concept of matrices as sets of linear equations and discusses their properties, such as addition, multiplication, and the formation of powers and functions. Cayley also presents a theorem that demonstrates the relationship between matrices and algebraic equations, and discusses the applications of this theory, including finding convertible matrices and extending notions to rectangular matrices.
+scientific_discipline: Mathematics > Linear Algebra

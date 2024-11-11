@@ -1,0 +1,10 @@
+article_id: rspa_1990_0082
+revised_title: 'A General Theory for the Motion of a Body Through a Fluid at Low Reynolds Number'
+semantic_tags:
+  - Fluid Dynamics
+  - Low Reynolds Number
+  - Asymptotic Analysis
+  - Navier-Stokes Equations
+  - Stokes Approximation
+tldr: The authors develop a general theory for the motion of a body through a fluid at low Reynolds numbers. They derive equations of motion and present a higher approximation for the force and couple experienced by the body, assuming the Stokes solution is known. The theory is applicable to various types of motion, including translation and rotation, and can be used for quasi-steady or slowly varying situations.
+scientific_discipline: Physics > Fluid Dynamics

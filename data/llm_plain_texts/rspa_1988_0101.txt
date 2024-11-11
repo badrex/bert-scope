@@ -1,0 +1,10 @@
+article_id: rspa_1988_0101
+revised_title: The Impact of g-Jitter on Heat Transfer in Microgravity Environments
+semantic_tags:
+  - Heat Transfer
+  - Microgravity
+  - Fluid Mechanics
+  - Buoyancy
+  - g-Jitter
+tldr: This study examines the effect of g-jitter, a fluctuating gravitational field, on heat transfer in a fluid medium in microgravity environments. The research focuses on a heated sphere and explores how the induced fluid flow affects heat transfer due to the fluctuating buoyancy force. The findings suggest that g-jitter can significantly modify the time-averaged heat transfer from the sphere, with implications for materials processing and solidification processes in space.
+scientific_discipline: Physics > Fluid Mechanics

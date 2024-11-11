@@ -1,0 +1,10 @@
+article_id: rspa_1914_0052
+revised_title: The Dispersion of Light Pulses by Prisms and its Relation to Planck's Law
+semantic_tags:
+  - Wave Optics
+  - Dispersion
+  - Planck's Law
+  - Blackbody Radiation
+  - Spectroscopy
+tldr: The author investigates the dispersion of a light pulse by a prism and its relation to Planck's Law. They derive the shape of the disturbance after passing through the prism and show that the pulse remains relatively thin. The study provides insight into the distribution of energy in the spectrum, which is essential for understanding blackbody radiation and spectroscopy.
+scientific_discipline: Physics > Optics

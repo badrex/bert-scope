@@ -1,0 +1,10 @@
+article_id: rspa_1931_0048
+revised_title: 'Forces on a Solid Body Moving Through Viscous Fluid: A Theoretical Analysis'
+semantic_tags:
+  - Fluid dynamics
+  - Viscosity
+  - Boundary layer
+  - Lift and drag forces
+  - Fluid mechanics
+tldr: This article presents a theoretical analysis of the forces acting on a solid body moving through a viscous fluid. The authors derive equations for the fluid velocity and pressure, and discuss the lift and drag forces experienced by the body. They also consider the effects of the fluid's viscosity on the flow around the body, and provide a detailed explanation of the boundary layer and its role in determining the forces on the body.
+scientific_discipline: Physics > Fluid mechanics

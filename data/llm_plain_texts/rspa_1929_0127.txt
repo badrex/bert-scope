@@ -1,0 +1,10 @@
+article_id: rspa_1929_0127
+revised_title: The Scattering of Fast Electrons by Atomic Nuclei and the Role of Spin
+semantic_tags:
+  - Quantum Mechanics
+  - Atomic Physics
+  - Electron Scattering
+  - Nuclear Physics
+  - Spin Polarization
+tldr: The authors investigate the scattering of fast electrons by atomic nuclei using Dirac's wave equation. They find that the scattered intensity depends on the spin direction of the incident electrons, indicating that the spin direction has a physical meaning. The study also provides a formula for the scattering of an unpolarized beam, replacing the Rutherford formula for fast electrons.
+scientific_discipline: Physics > Atomic Physics

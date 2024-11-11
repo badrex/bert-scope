@@ -1,0 +1,11 @@
+article_id: 'rspb_1960_0092'
+revised_title: 'The Study of Remanent Magnetism in Varved Sediments'
+semantic_tags:
+  - Geomagnetism
+  - Sedimentation
+  - Paleomagnetism
+  - Magnetic particles
+  - Magnetic secular variation
+tldr: This study investigates the remanent magnetism of recent varved sediments, focusing on Swedish and Icelandic samples. The research examines the factors affecting the alinement of these sediments, such as the slope of the bed and the water velocity. The authors also study the remanence of artificially deposited sediments under controlled conditions. They propose a theory to explain the known facts of depositional magnetization and discuss the potential for determining magnetic secular variation from varved sediments.
+scientific_discipline: Environmental and Earth Sciences > Sedimentology
+```

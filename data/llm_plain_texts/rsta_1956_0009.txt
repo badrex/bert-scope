@@ -1,0 +1,10 @@
+article_id: rsta_1956_0009
+revised_title: The Role of Impurities in Superconductivity Transitions
+semantic_tags:
+  - Superconductivity
+  - Impurities
+  - Indium-Tin Alloys
+  - Thermodynamics
+  - Physics
+tldr: The article investigates the effect of impurities on the transition to superconductivity in tin-indium alloys. It discusses the behavior of these alloys and how impurities can influence the transition temperature and critical field. The study provides evidence for the existence of a range of coherence in the superconducting phase and supports Pippard's phenomenological theory of superconductivity.
+scientific_discipline: Physics > Thermodynamics

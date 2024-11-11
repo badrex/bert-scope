@@ -1,0 +1,10 @@
+article_id: 'rstb_1976_0110'
+revised_title: 'Exploring the Nucleation Region of Tobacco Mosaic Virus RNA'
+semantic_tags:
+  - RNA sequencing
+  - Virus assembly
+  - Nucleotide binding
+  - RNA structure
+  - Tobacco mosaic virus
+tldr: The authors studied the interaction between tobacco mosaic virus (TMV) RNA and the disk aggregate of TMV protein during the initiation of assembly. They identified a population of RNA fragments originating from a unique region of TMV RNA that is involved in the nucleation of assembly. The nucleation region's length and complexity may reflect the efficient mediation of the conformational change from disk to helix of TMV protein, playing a crucial role in the specificity of assembly initiation.
+scientific_discipline: Biology and Life Sciences > Virology

@@ -1,0 +1,10 @@
+article_id: rspa_1987_0115
+revised_title: Hamiltonian Systems and Discontinuous Solutions in One-Dimension
+semantic_tags:
+  - Hamiltonian mechanics
+  - Discontinuous solutions
+  - Conservation laws
+  - Symmetries
+  - One-dimensional systems
+tldr: The authors investigate a class of one-dimensional evolutionary equations with hamiltonian structure, focusing on discontinuous solutions. They establish a connection between conservation laws and symmetries of the system, and classify various types of discontinuous solutions systematically. The study also provides a variational characterization of discontinuities and simple algebraic representations for discontinuities of limitingly small strength.
+scientific_discipline: Mathematics > Differential Equations

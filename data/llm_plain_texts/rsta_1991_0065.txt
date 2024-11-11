@@ -1,0 +1,10 @@
+article_id: rsta_1991_0065
+revised_title: Vortical Structures and Coherent Motion in Turbulent Flow Over Smooth and Rough Boundaries
+semantic_tags:
+  - Turbulence
+  - Vortical structures
+  - Boundary layer
+  - Fluid mechanics
+  - Flow visualization
+tldr: The authors conducted experiments and used novel velocity measurement techniques to study vortical structures in turbulent boundary layers over smooth and rough walls. They discovered that these vortex structures are linked to bursting events and are present in both types of walls. The measurements indicate that the scale of the near-wall vortex structures is directly proportional to the size of the boundary roughness elements under fully rough conditions. The findings have implications for environmental impact assessment and engineering design.
+scientific_discipline: Physics > Fluid mechanics

@@ -1,0 +1,10 @@
+article_id: rspa_1969_0055
+revised_title: Symmetry Analysis of Lattice Vibrations in Zincblende and Diamond Structures
+semantic_tags:
+  - Crystallography
+  - Lattice Dynamics
+  - Symmetry in Physics
+  - Vibrational Modes
+  - Multiplier Groups
+tldr: The authors present a method for analyzing the vibrational symmetries in perfect crystals, focusing on the zincblende and diamond structures. They use a factorization technique to break down the space spanned by normal modes into a cell space and a complex Euclidean space, making it easier to determine the symmetry of all normal modes. This approach helps in understanding various features of vibrational spectra and provides insights into the nature of atomic motion in lattice vibrations.
+scientific_discipline: Physics > Crystallography

@@ -1,0 +1,11 @@
+article_id: 'rspb_1922_0048'
+revised_title: 'Enzyme Action and the Oxidation of Xanthin and Hypoxanthin'
+semantic_tags:
+  - Enzyme catalysis
+  - Biochemistry
+  - Xanthine oxidation
+  - Methylene blue
+  - Heterolytic enzymes
+tldr: The author discusses enzyme action and the oxidation of xanthin and hypoxanthin. They propose that the enzyme is a selective catalyst and classify enzymes into two categories: homo-lytic and hetero-lytic. The study reveals that the enzyme can influence or direct attack at two centers simultaneously in hypoxanthin, while affecting only one in xanthin.
+scientific_discipline: Biology and Life Sciences > Biochemistry
+```

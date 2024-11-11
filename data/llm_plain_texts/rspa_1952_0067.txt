@@ -1,0 +1,10 @@
+article_id: rspa_1952_0067
+revised_title: Elastic Stability of Bent I-Section Beams: End-Fixing Effects
+semantic_tags:
+  - Beam Theory
+  - Elastic Stability
+  - Structural Engineering
+  - Aluminum Alloy
+  - End-Fixing
+tldr: This article investigates the elastic stability of I-section beams bent in the plane of their web and provides a more accurate critical moment calculation by considering the effects of end-fixing on the beam and its flanges. The study also includes experimental verification of the derived formulas.
+scientific_discipline: Engineering and Technology > Structural Engineering

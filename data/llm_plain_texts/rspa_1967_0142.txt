@@ -1,0 +1,10 @@
+article_id: rspa_1967_0142
+revised_title: 'Random-Walk Theory of Tarnishing Reactions and Oxidation Kinetics'
+semantic_tags:
+  - Oxidation
+  - Tarnishing
+  - Random Walk Theory
+  - Metallic Tarnishing
+  - Kinetics
+tldr: The authors apply a random-walk theory to study the oxidation of metals and tarnishing reactions. They develop a one-dimensional random-walk model and a pseudo three-dimensional model to analyze the growth laws of oxide layers. The study covers various rate laws, including linear, parabolic, and logarithmic growth laws, and discusses the effects of temperature, oxide layer thickness, and electric fields on the oxidation process.
+scientific_discipline: Chemistry > Materials Science

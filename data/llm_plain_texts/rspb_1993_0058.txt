@@ -1,0 +1,10 @@
+article_id: 'rspb_1993_0058'
+revised_title: 'Neuronal Nicotinic Receptor Subunit Interactions and the Kinetics of Inhibition by Neuronal Bungarotoxin'
+semantic_tags:
+  - 'Neurochemistry'
+  - 'Neuronal Nicotinic Receptors'
+  - 'Neuropharmacology'
+  - 'Receptor Subunit Interactions'
+  - 'Neuronal Bungarotoxin'
+tldr: The authors discovered that the amino terminal half of the nicotinic P-subunit extracellular domain regulates the kinetics of inhibition by neuronal bungarotoxin. They found that the first 121 amino acids of the beta subunit extracellular domain are sufficient to control the kinetics of NBT inhibition. This domain also plays a crucial role in determining whether cytisine acts as a full or partial agonist of nicotinic receptors formed with a3 subunits.
+scientific_discipline: Biology and Life Sciences > Neurochemistry

@@ -1,0 +1,10 @@
+article_id: 'rsta_1983_0041'
+revised_title: 'Satellite Imagery for Geological Exploration and Terrain Analysis'
+semantic_tags:
+  - Remote Sensing
+  - Geology
+  - Terrain Analysis
+  - Mineral Exploration
+  - Satellite Imagery
+tldr: The authors discuss the use of satellite imagery for studying the land surface and ocean from satellites. They emphasize the importance of integrating satellite imagery with other techniques in mineral exploration and terrain analysis. The authors also highlight the potential of multispectral satellite imagery in identifying geological structures, lithologies, and geothermal activity. They provide examples of successful applications of satellite imagery in different environments, including arid and humid lands, and stress the need for ground truth data and field investigations for effective interpretation of the imagery.
+scientific_discipline: Earth Sciences > Geology and Geophysics

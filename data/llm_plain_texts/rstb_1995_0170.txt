@@ -1,0 +1,10 @@
+article_id: rstb_1995_0170
+revised_title: "Persistence Function: A Novel Approach to Characterize Ion-Channel Activity"
+semantic_tags:
+  - Ion channels
+  - Persistence function
+  - Single-channel patch-clamp recordings
+  - Ion-channel kinetics
+  - Conductance levels
+tldr: The authors introduce the persistence function, a new statistical technique for characterizing ion-channel activity in single-channel patch-clamp recordings. The persistence function is a function of current and time, representing the probability that the current is at a given level, conditional on it having been at that level at an earlier time. This technique helps identify conductance levels and qualitatively analyze the kinetics associated with each level, providing valuable information for understanding ion-channel activity.
+scientific_discipline: Biology and Life Sciences > Cell Biology and Physiology

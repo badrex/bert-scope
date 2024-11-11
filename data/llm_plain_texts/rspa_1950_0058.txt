@@ -1,0 +1,10 @@
+article_id: rspa_1950_0058
+revised_title: 'Separation and Integration of Laminar Boundary Layer Equation for an Elliptic Cylinder'
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Separation Point
+  - Elliptic Cylinder
+  - Flow Analysis
+tldr: The article discusses the integration of the laminar boundary layer equation and its application to the motion of an elliptic cylinder. The authors find the separation point by approaching it from downstream and provide a more accurate position of the separation point compared to previous measurements. They also analyze the flow behavior downstream of the separation point using an approximate integration method.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1970_0215
+revised_title: 'High-Temperature Binary Diffusion Coefficients: Thermal Diffusion Measurements and Predictions for Carbon Dioxide and Nitrogen'
+semantic_tags:
+  - Thermal diffusion
+  - Binary diffusion coefficients
+  - Carbon dioxide
+  - Nitrogen
+  - High-temperature gas mixtures
+tldr: The authors conducted thermal diffusion measurements for the carbon dioxide and nitrogen gas mixture at various temperatures and compositions. They used these measurements in conjunction with an extended technique to determine binary diffusion coefficients at elevated temperatures. The results provide valuable insights into the interaction forces between carbon dioxide and nitrogen molecules and help predict high-temperature values of binary diffusion coefficients with a few percent accuracy.
+scientific_discipline: Chemistry > Physical Chemistry

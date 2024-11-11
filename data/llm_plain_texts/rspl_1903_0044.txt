@@ -1,0 +1,10 @@
+article_id: rspl_1903_0044
+revised_title: Investigating the Diffusion of Salts in Solution
+semantic_tags:
+  - Diffusion
+  - Salt solutions
+  - Density
+  - Chemical analysis
+  - Physical chemistry
+tldr: The authors developed a method to measure the diffusion of salts in solution using a cylindrical glass vessel. They allowed the salt solution to drop into the vessel, forcing the water upwards and out through a pipe. By analyzing the density of each stratum, they plotted a curve to determine the diffusion rate. This method allowed for a more accurate understanding of the diffusion process and its impact on salt solutions.
+scientific_discipline: Chemistry > Physical chemistry

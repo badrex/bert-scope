@@ -1,0 +1,10 @@
+article_id: 'rspb_1986_0023'
+revised_title: 'Quantum Yield and Light Saturation of Photosynthesis in Spinach Leaves'
+semantic_tags:
+  - Photosynthesis
+  - Quantum yield
+  - Chlorophyll fluorescence
+  - Spinach plants
+  - Light saturation
+tldr: The authors used a leaf disc electrode to measure the quantum yield of photosynthesis in spinach leaves grown in different light conditions. They found that leaves grown in low light had a higher quantum yield and lower light saturation point compared to those grown in high light. The study also showed that chlorophyll fluorescence oscillations were affected by the light exposure and orientation of the leaves.
+scientific_discipline: Biology and Life Sciences > Photosynthesis

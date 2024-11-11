@@ -1,0 +1,10 @@
+article_id: rspa_1954_0109
+revised_title: 'Investigation of a New Micro-Wave Interferometer for Electromagnetic Wave Velocity Determination'
+semantic_tags:
+  - Interferometry
+  - Electromagnetic waves
+  - Micro-wave technology
+  - Velocity measurement
+  - Diffraction correction
+tldr: The authors developed a new micro-wave interferometer to measure the velocity of electromagnetic waves. The device uses four electromagnetic horns and can measure wavelengths in air, allowing for the calculation of phase velocity in vacuo. The study focuses on diffraction correction, errors from wave-front distortion, and random scattering of micro-wave energy. The interferometer shows potential for high-precision velocity measurements at higher frequencies.
+scientific_discipline: Physics > Electromagnetism

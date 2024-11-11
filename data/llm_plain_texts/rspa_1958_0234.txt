@@ -1,0 +1,10 @@
+article_id: 'rspa_1958_0234'
+revised_title: 'Oxidation of Mixed Tertiary Amines: N-Methyl Diethylamine and N-Ethyl Dimethylamine'
+semantic_tags:
+  - Organic Chemistry
+  - Oxidation reactions
+  - Tertiary amines
+  - Peroxy radicals
+  - Intramolecular attack
+tldr: The authors studied the gaseous oxidation of mixed tertiary amines, N-methyl diethylamine, and N-ethyl dimethylamine. They found that both amines undergo different oxidation mechanisms, with N-methyl diethylamine producing primary amine in the later stages of the reaction, similar to triethylamine. N-ethyl dimethylamine, on the other hand, only forms secondary amine, like trimethylamine. The authors propose that the presence of at least two ethyl groups in the tertiary amine molecule allows for intramolecular attack of peroxy radicals, which is not possible with N-ethyl dimethylamine.
+scientific_discipline: Chemistry > Organic Chemistry

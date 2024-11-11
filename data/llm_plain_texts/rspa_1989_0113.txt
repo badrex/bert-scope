@@ -1,0 +1,10 @@
+article_id: rspa_1989_0113
+revised_title: Cosmic String Vortex Motion and Fluid Dynamics
+semantic_tags:
+  - Cosmic strings
+  - Fluid dynamics
+  - Vortex motion
+  - Incompressible flow
+  - Complex geometry
+tldr: The author investigates the motion of vortices near a cosmic string using complex variable techniques. They find that a single vortex cannot remain at rest but must orbit the cosmic string. The study also discusses the motion of vortices in the wake induced by a moving cosmic string, with potential connections to string theory.
+scientific_discipline: Physics > Fluid Dynamics

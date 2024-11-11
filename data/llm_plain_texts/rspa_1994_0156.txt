@@ -1,0 +1,10 @@
+article_id: 'rspa_1994_0156'
+revised_title: 'Solutions of the Lanczos Vacuum Wave Equation in Various Space-Times'
+semantic_tags:
+  - General Relativity
+  - Lanczos Potential
+  - Weyl Tensor
+  - Spinor Analysis
+  - Space-Time Metrics
+tldr: The authors explore solutions to the Lanczos vacuum wave equation in various space-times, focusing on the Lanczos potential and its relationship with the Weyl tensor. They analyze different space-time metrics, such as the Bondi and Kasner space-times, and use spinor analysis to derive the Weyl-Lanczos relations.
+scientific_discipline: Physics > General Relativity

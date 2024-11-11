@@ -1,0 +1,10 @@
+article_id: rsta_1991_0027
+revised_title: Pseudopotentials and High Temperature Superconductivity: Understanding Cuprate Superconductors
+semantic_tags:
+  - Superconductivity
+  - Pseudopotentials
+  - Hubbard Model
+  - Electronic Structure
+  - Many-Body Theory
+tldr: The author discusses two uses of pseudopotentials in understanding high-temperature superconductivity in cuprate superconductors. They explain the 'chemical pseudopotential' scheme and the effective 'Huckel' type hamiltonian for energy levels. The author also highlights the non-Fermi liquid character of the two-dimensional Hubbard model and the role of pseudopotentials in determining particle-particle interactions.
+scientific_discipline: Physics > Condensed Matter Physics

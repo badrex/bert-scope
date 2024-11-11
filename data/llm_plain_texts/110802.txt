@@ -1,0 +1,10 @@
+article_id: 110802
+revised_title: Proving Ellipse and Hyperbola Properties from a Circle Property
+semantic_tags:
+  - Geometry
+  - Ellipse
+  - Hyperbola
+  - Mathematical Proof
+  - Conic Sections
+tldr: Frederick Pollock presents a method to prove the three leading properties of ellipses and hyperbolas using a well-known property of circles. This method assumes that the ellipse is the curve whose ordinate, at right angles to its axis, is to the corresponding ordinate of the circle in a constant ratio. The author demonstrates several propositions related to this curve.
+scientific_discipline: Mathematics > Geometry

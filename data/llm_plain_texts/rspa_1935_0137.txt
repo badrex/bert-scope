@@ -1,0 +1,10 @@
+article_id: rspa_1935_0137
+revised_title: 'Crystal and Slit Systems for X-ray Monochromatization and Spectroscopy: A Comprehensive Study'
+semantic_tags:
+  - X-ray physics
+  - Crystallography
+  - Monochromators
+  - Spectroscopy
+  - Aperture systems
+tldr: This article presents a systematic theory of crystal and slit systems for X-ray monochromatization and spectroscopy, discussing their effects on intensity distribution in the reflected beam. The authors analyze three cases of aperture systems and provide a comprehensive understanding of how aperture function, aperture width, and aperture height influence the performance of these systems. The study offers valuable insights for designing efficient monochromators and improving the accuracy of X-ray spectroscopy.
+scientific_discipline: Physics > Optics

@@ -1,0 +1,10 @@
+article_id: rspa_1980_0030
+revised_title: Spectroscopic Investigations of Hydrogen Bonding Interactions in Gas Phase: Determination of Geometry and Dissociation Energy of HCN-HF Dimer
+semantic_tags:
+  - Spectroscopy
+  - Hydrogen bonding
+  - Gas phase chemistry
+  - Molecular geometry
+  - Microwave rotational spectrum
+tldr: The authors investigated the hydrogen bonding interactions in the gas phase by studying the geometry, dissociation energy, potential constants, and electric dipole moment of the hydrogen-bonded heterodimer HCN-HF using its microwave rotational spectrum. They found that the spectroscopic constants allowed them to evaluate parameters characterizing the potential energy function of the isolated dimer and provided insights into the electric charge distribution and hydrogen bond formation.
+scientific_discipline: Chemistry > Spectroscopy

@@ -1,0 +1,10 @@
+article_id: rsta_1969_0024
+revised_title: Near-Infrared Sky Background Observations: A Discussion on Infrared Astronomy
+semantic_tags:
+  - Infrared astronomy
+  - Near-infrared sky background
+  - Rocket-borne telescope
+  - Ground-based observations
+  - Attitude control system
+scientific_discipline: Astronomy > Infrared Astronomy
+tldr: This article discusses near-infrared sky background observations conducted using both a rocket-borne telescope and ground-based equipment. The authors present their findings on the near-infrared radiation incident on the top of the atmosphere and analyze the signals detected by the detectors. They also discuss the challenges faced during the flight and the potential improvements for future observations.

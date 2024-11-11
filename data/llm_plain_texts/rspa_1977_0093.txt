@@ -1,0 +1,10 @@
+article_id: rspa_1977_0093
+revised_title: 'Steady Motion Through a Branching Tube: Analyzing Fluid Dynamics'
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Pipe Flow
+  - Three-Dimensional Flow
+  - Bifurcation
+tldr: The article investigates the fluid motion through a branching tube, focusing on the steady laminar flow of an incompressible fluid in a straight pipe that bifurcates into two semi-circular pipes. The study aims to discover the dynamical attributes of the three-dimensionality of the bifurcation and analyze the initial development of the induced pressure gradient and secondary flow. The research provides insight into the long-scale flow and its structure, which implies a strong favorable pressure gradient and substantial rise in velocities and stresses near the sidewalls.
+scientific_discipline: Physics > Fluid Dynamics

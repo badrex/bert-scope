@@ -1,0 +1,10 @@
+article_id: 'rspa_1919_0025'
+revised_title: 'A New Method for Determining the Size of Colloidal Particles'
+semantic_tags:
+  - Colloidal chemistry
+  - Particle size determination
+  - Electrochemistry
+  - Brownian motion
+  - Stokes' law
+tldr: The authors developed a new method to determine the size of colloidal particles by observing their settling in an electric field. They found that particles with a smaller size experience more Brownian movement, which prevents them from settling due to gravity. By applying an electric field, the particles are dragged up or down, and their settling can be measured, providing a way to determine their size.
+scientific_discipline: Chemistry > Colloidal chemistry

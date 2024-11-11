@@ -1,0 +1,10 @@
+article_id: 'rspa_1953_0053'
+revised_title: 'Interpreting Survival Curves of Bacterial Populations'
+semantic_tags:
+  - Bacterial survival
+  - Survival curves
+  - Random events
+  - Cell activities
+  - Adaptive adjustments
+tldr: This study investigates the death rate of bacterial populations and the factors affecting their survival curves. The authors suggest that the form of the survival curve depends on the speed of the progressive destruction of cell activities and the probability of random events. They propose that the element of chance in survival is due to complex fluctuations in molecular species concentrations, which can cause certain cell activities to fall below a critical level for viability.
+scientific_discipline: Biology and Life Sciences > Microbiology

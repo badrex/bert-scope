@@ -1,0 +1,10 @@
+article_id: rspa_1982_0128
+revised_title: Spectra of Operators on Complex Projective Spaces
+semantic_tags:
+  - Complex Geometry
+  - Group Theory
+  - Supersymmetry
+  - Differential Geometry
+  - Quantum Field Theory
+tldr: The author investigates the eigenvalues and degeneracies of Laplace-type operators on complex projective spaces using group theory and projection along the Hopf fibration. The study simplifies the problem by recognizing the differential operators in terms of Casimir operators of the symmetry group and using properties of these operators to obtain the eigenvalues and degeneracies. The results have implications for supersymmetric theories in curved Euclidean backgrounds.
+scientific_discipline: Mathematics > Geometry

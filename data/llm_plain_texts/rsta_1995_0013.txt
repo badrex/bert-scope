@@ -1,0 +1,10 @@
+article_id: rsta_1995_0013
+revised_title: Hydrogen Incorporation and Defects in Oxides and Silicates: Computational Modeling and Implications
+semantic_tags:
+  - Materials Science
+  - Computational Chemistry
+  - Defect Chemistry
+  - Hydrogen in Materials
+  - Oxides and Silicates
+tldr: This article reviews the incorporation of water and hydrogen in oxides and silicates, focusing on computational techniques to investigate the structures and energies of hydrogen-containing defects in these materials. The authors discuss various defect reactions, defect structures, and the role of computational methods in understanding hydrogen behavior in materials. They also explore the implications of their findings for materials science and engineering applications.
+scientific_discipline: Materials Science > Defect Chemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1980_0078
+revised_title: Reducing Variability in Spectral Estimation from Randomly Sampled Signals
+semantic_tags:
+  - Signal Processing
+  - Spectral Analysis
+  - Random Sampling
+  - Data Filtering
+  - Poisson Sampling
+tldr: This article presents a method to reduce variability in spectral estimation from randomly sampled signals, particularly in cases of Poisson sampling. The authors derive estimators for both the direct transform and correlation plane methods, and show how filtering out parts of the spectral energy can lead to improved estimates. Analytical expressions for the bias and variability of these new estimates are compared with numerical experiments on simulated data arrays.
+scientific_discipline: Engineering and Technology > Signal Processing

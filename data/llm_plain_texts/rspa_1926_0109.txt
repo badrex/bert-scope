@@ -1,0 +1,10 @@
+article_id: rspa_1926_0109
+revised_title: 'Effect of High Frequency Alternating Current on Zinc-Sulphric Acid-Carbon Primary Cell'
+semantic_tags:
+  - Electrochemistry
+  - Alternating Current
+  - Polarisation
+  - Zinc Electrode
+  - High Frequency Current
+tldr: The authors investigated the effect of superposed alternating current on the polarizable primary cell zinc-sulphric acid-carbon. They discovered that high-frequency alternating currents do not affect the polarization of a carbon cathode charged with hydrogen, but they do have a significant impact on the zinc electrode, increasing the cell's current output. The results provide insights into the behavior of primary cells under alternating current and contribute to the understanding of electrode polarization.
+scientific_discipline: Physics > Electromagnetism

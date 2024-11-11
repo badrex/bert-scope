@@ -1,0 +1,11 @@
+article_id: rspa_1956_0073
+revised_title: 'A Detailed Investigation of Methane Oxidation Mechanism'
+semantic_tags:
+  - Combustion
+  - Methane oxidation
+  - Chemical kinetics
+  - Formaldehyde
+  - Hydrogen peroxide
+  - Activation energy
+scientific_discipline: Chemistry > Combustion Chemistry
+tldr: This study investigates the mechanism of methane oxidation by analyzing the products of oxidation at various stages of the reaction and following the rate of pressure changes. The reaction was studied over the temperature range of 440 to 520°C. The authors found that formaldehyde and hydrogen peroxide are formed during the reaction, and the overall activation energy of the reaction ranges from 29 to 41 kcal/mol. The results provide a more detailed understanding of methane oxidation and its implications for the more complex oxidation of other hydrocarbons.

@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0077'
+revised_title: 'Neural Basis of Willed Action and Prefrontal Cortex'
+semantic_tags:
+  - Neuroimaging
+  - Prefrontal Cortex
+  - Willed Action
+  - PET Scans
+  - Cognitive Neuroscience
+tldr: The authors used positron emission tomography (PET) to study the brain activity associated with willed action. They found that willed acts in two response modalities (speaking a word or lifting a finger) were linked to increased blood flow in the dorsolateral prefrontal cortex. Willed acts were also associated with decreased blood flow, with the location of these decreases depending on the response modality. This research provides insights into the neural basis of willed action and the role of the prefrontal cortex in decision-making and cognitive control.
+scientific_discipline: Neuroscience > Cognitive Neuroscience

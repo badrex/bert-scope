@@ -1,0 +1,10 @@
+article_id: 'rstb_1978_0021'
+revised_title: 'Nucleosome Structure and Chromatin Organization'
+semantic_tags:
+  - Chromatin structure
+  - Nucleosome
+  - Histone proteins
+  - DNA packaging
+  - Eukaryotic chromosomes
+tldr: The authors present electron microscopic and biochemical evidence supporting the structure of nucleosomes in eukaryotic chromosomes. They find that two molecules of each histone H2A, H2B, H3, and H4 are necessary and sufficient to form a nucleosome with a diameter of 12.5 nm and containing about 200 base pairs of DNA. The study also suggests that chromatin should be viewed as a dynamic structure, oscillating between a compact structure (the nucleosome) and more open structures depending on environmental conditions.
+scientific_discipline: Biology and Life Sciences > Genetics and Epigenetics

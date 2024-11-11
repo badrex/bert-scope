@@ -1,0 +1,10 @@
+article_id: rspa_1928_0008
+revised_title: Resistance to a Barrier in the Shape of an Arc of a Circle: A Mathematical and Physical Analysis
+semantic_tags:
+  - Fluid Dynamics
+  - Aeronautics
+  - Streamline Flow
+  - Aerodynamics
+  - Cambered Aerofoils
+tldr: This paper presents a mathematical and physical analysis of the resistance to a barrier in the shape of an arc of a circle when placed in a streaming fluid. The authors solve the problem of a circular barrier placed in any position in the fluid, with the condition that neither end of the barrier is in the "dead" fluid. They find that the final result depends on the angular extent of the barrier and the angle made by the axis of the barrier with the direction of streaming. The authors also discuss the center of pressure for various barriers and explain a well-known phenomenon associated with cambered aerofoils.
+scientific_discipline: Physics > Fluid Dynamics

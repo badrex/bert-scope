@@ -1,0 +1,10 @@
+article_id: rspa_1946_0057
+revised_title: 'Activation Energy of the Hydrogen-Oxygen Reaction in Alkali Chloride-Coated Vessels'
+semantic_tags:
+  - Chemical kinetics
+  - Activation energy
+  - Chain reactions
+  - Hydrogen-oxygen reaction
+  - Alkali chloride coatings
+tldr: The authors studied the hydrogen-oxygen reaction in vessels coated with alkali chloride, measuring the reaction rates at different temperatures. They found that the activation energy of the initiating process is responsible for starting the chains in the reaction. The results support the idea that the gas-phase dissociation of hydrogen molecules is the main method of chain initiation under these conditions.
+scientific_discipline: Chemistry > Chemical kinetics

@@ -1,0 +1,10 @@
+article_id: rspa_1937_0227
+revised_title: 'Investigating the Nature of Neutron and Proton Interaction through Scattering Experiments'
+semantic_tags:
+  - Nuclear physics
+  - Neutron-proton interaction
+  - Nuclear forces
+  - Scattering experiments
+  - Nuclear binding energy
+tldr: The authors conducted scattering experiments to study the interaction between neutrons and protons. They tested different forms of the interaction, such as spherical, Gauss, inverse fifth power, and exponential fields, and found that the ratio of binding energies for parallel and antiparallel spins is nearly the same for all fields. The results provide insights into the nature of the neutron-proton interaction and help to understand the binding energies of atomic nuclei.
+scientific_discipline: Physics > Nuclear Physics

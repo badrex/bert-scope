@@ -1,0 +1,10 @@
+article_id: rspa_1930_0048
+revised_title: 'Effect of Water Vapour on Diffusion Coefficients and Mobilities of Ions in Air'
+semantic_tags:
+  - Ion diffusion
+  - Gas humidity
+  - Atmospheric science
+  - Electrostatics
+  - Electrometry
+tldr: The authors conducted experiments to determine the effect of water vapor on the diffusion coefficients and mobilities of ions in air. They found that the mobility and diffusion coefficient of ions are affected by the presence of water vapor, and they provided a detailed method for measuring these effects. This research contributes to the understanding of ion diffusion in atmospheric science and has implications for the accuracy of measurements in related fields.
+scientific_discipline: Physics > Atmospheric Science

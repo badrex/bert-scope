@@ -1,0 +1,10 @@
+article_id: 'rspa_1909_0026'
+revised_title: 'Stability Analysis of Jacobi's Ellipsoid and the Hydrogen Spectrum'
+semantic_tags:
+  - Celestial mechanics
+  - Hydrogen spectrum
+  - Stability of equilibrium
+  - Mathematical analysis
+  - Astrophysics
+tldr: The author investigates the stability of Jacobi's ellipsoid and the hydrogen spectrum, providing a mathematical analysis and discussing the controversy between Angstrom and Wullner on the plurality of spectra. The study concludes that the series used in the analysis give good results, indicating that the author's previous conclusion on the pear-shaped figure of equilibrium is likely correct.
+scientific_discipline: Physics > Astrophysics

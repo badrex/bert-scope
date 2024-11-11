@@ -1,0 +1,10 @@
+article_id: 'rspb_1956_0009'
+revised_title: 'General Formulation for Genetical Recombination and its Impact on Linkage Mapping'
+semantic_tags:
+  - Genetics
+  - Genetical recombination
+  - Linkage mapping
+  - Interference levels
+  - Intercept length distribution
+tldr: The authors develop a general formula for the probability of genetical recombination, which can be used to calculate map distances and recombination fractions between any pair of markers. They explore the genetic consequences of different intercept length distributions and find that the theory of interference based on these distributions is more in line with observed genetic evidence. This work provides a flexible and realistic approach to understanding genetical recombination and its impact on linkage mapping.
+scientific_discipline: Biology and Life Sciences > Genetics

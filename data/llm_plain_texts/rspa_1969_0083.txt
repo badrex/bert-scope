@@ -1,0 +1,10 @@
+article_id: rspa_1969_0083
+revised_title: 'Numerical Solution for the Development of Boundary Layer over an Impulsively Started Flat Plate'
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer
+  - Numerical Solution
+  - Impulsively Started Flat Plate
+  - Blasius Solution
+tldr: The authors present a numerical solution for the development of the boundary layer over an impulsively started flat plate. They use a mixed explicit-implicit finite-difference technique to solve the unsteady two-dimensional boundary-layer equations and obtain a solution by iteration. The study focuses on the transition from the Rayleigh to the Blasius state, and the results show the rapidity of this transition.
+scientific_discipline: Physics > Fluid Dynamics

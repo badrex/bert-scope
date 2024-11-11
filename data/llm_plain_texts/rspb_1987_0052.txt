@@ -1,0 +1,10 @@
+article_id: 'rspb_1987_0052'
+revised_title: 'Exploring the Regulation of HMG-CoA Reductase through Mevalonate-derived Sterols'
+semantic_tags:
+  - 'Sterol regulation'
+  - 'Mevalonate metabolism'
+  - 'HMG-CoA reductase'
+  - 'Cell biology'
+  - 'Molecular biology'
+tldr: Researchers investigated the effects of three inhibitors on 3-hydroxy-3-methylglutaryl coenzyme A (HMG-CoA) reductase in cultured rat hepatoma cells. They found that mevalonate, a sterol, suppresses the reductase's activity, suggesting that it may act as a repressor derived from mevalonate metabolism. This discovery provides insights into the regulation of cholesterol synthesis in cells.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

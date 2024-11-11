@@ -1,0 +1,10 @@
+article_id: rspa_1959_0199
+revised_title: Electromagnetic Diffraction in Optical Systems: Integral Representation of Image Field
+semantic_tags:
+  - Electromagnetic Diffraction
+  - Optical Systems
+  - Integral Representation
+  - Huygens-Fresnel Principle
+  - Aberration Function
+tldr: The authors present an integral representation for the electromagnetic field in the image space of an optical system, which helps determine the complete structure of the image. This representation is connected to the Huygens-Fresnel principle and can be used for systems of low and high angular aperture. The findings can be applied to the fields of optics and microwaves.
+scientific_discipline: Physics > Optics

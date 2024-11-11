@@ -1,0 +1,10 @@
+article_id: rspa_1955_0201
+revised_title: Reassessment of the Spin-Wave Theory of Antiferromagnetism
+semantic_tags:
+  - Antiferromagnetism
+  - Spin-wave theory
+  - Magnetic materials
+  - Quantum mechanics
+  - Crystal lattice
+tldr: The author criticizes the spin-wave theory of antiferromagnetism, pointing out that the theory's assumption of a small anisotropic term is not valid. The author shows that the spin-wave theory's ground state contains a significant contribution from fictitious states, which affects the accuracy of the theory's predictions. The author suggests that the spin-wave theory may be valid for larger values of the anisotropic term, but this remains uncertain.
+scientific_discipline: Physics > Condensed Matter Physics

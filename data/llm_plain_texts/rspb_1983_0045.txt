@@ -1,0 +1,10 @@
+article_id: 'rspb_1983_0045'
+revised_title: 'Sex Ratio Abnormalities in Lymantria Dispar: A Reassessment of Haldane's Rule'
+semantic_tags:
+  - Genetics
+  - Sex Ratio
+  - Haldane's Rule
+  - Lepidoptera
+  - Insect Biology
+tldr: The authors study the sex ratio abnormalities in the insect species Lymantria dispar and find that the Haldane's rule explains the observed patterns in Fx, F2, and backcross generations. They also provide evidence against the Goldschmidt hypothesis, which suggests that excess males are the result of transformation of females into males. The findings support the idea that genic imbalance between the X and Y chromosomes or between the autosomes and sex chromosomes causes the sex ratio abnormalities.
+scientific_discipline: Biology and Life Sciences > Genetics

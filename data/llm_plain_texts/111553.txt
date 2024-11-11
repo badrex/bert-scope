@@ -1,0 +1,10 @@
+article_id: 111553
+revised_title: 'Inquiries into the Phenomena of Respiration: Carbon Dioxide Excretion and Effects of Exertion and Temperature'
+semantic_tags:
+  - Respiration
+  - Carbon Dioxide
+  - Exertion
+  - Temperature
+  - Human Physiology
+tldr: The author conducted experiments to measure the amount of carbonic acid expired and air inspired during various activities and under different conditions. They used a spirometer and an analytical apparatus to collect data on carbon dioxide excretion, the rate of respiration, and the effects of temperature, exertion, and season. The results showed that the amount of carbon dioxide varied depending on the individual, activity level, and environmental factors, with the lowest amounts occurring during the hot summer months.
+scientific_discipline: Biology and Life Sciences > Human Physiology

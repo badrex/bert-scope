@@ -1,0 +1,10 @@
+article_id: 'rsta_1981_0145'
+revised_title: 'High Energy Gamma-Ray Observations of the Crab Pulsar'
+semantic_tags:
+  - Gamma-Ray Astronomy
+  - Crab Pulsar
+  - High Energy Physics
+  - Cosmic Rays
+  - Pulsar Astronomy
+tldr: Researchers used the Lodz extensive air shower array to search for high-energy gamma rays from the direction of the Crab pulsar. They found a clear excess of showers from the general direction of the Crab, with the fractional excess increasing with shower size. The results suggest that the excess events may be due to the Crab pulsar itself or a nearby source, and further work is needed to distinguish the possibilities.
+scientific_discipline: Physics > Astronomy

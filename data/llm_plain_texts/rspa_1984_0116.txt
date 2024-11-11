@@ -1,0 +1,10 @@
+article_id: rspa_1984_0116
+revised_title: Predicting Creep Crack Growth from Uniaxial Creep Data
+semantic_tags:
+  - Creep mechanics
+  - Fracture mechanics
+  - Creep crack growth
+  - Material properties
+  - Stress analysis
+tldr: This article presents a model for predicting creep crack growth rates in materials with various creep ductilities. The authors use uniaxial tensile creep data and fracture mechanics concepts to develop an expression for creep crack growth. They find that crack growth rates are insensitive to the creep process zone size but inversely proportional to creep ductility. The model allows for primary, secondary, and tertiary creep, and can predict crack growth rates for a wide range of materials and stress states.
+scientific_discipline: Engineering and Technology > Materials Science

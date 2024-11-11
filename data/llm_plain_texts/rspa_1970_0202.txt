@@ -1,0 +1,10 @@
+article_id: 'rspa_1970_0202'
+revised_title: 'Displacement Vectors of {13#x305;2} and {101} Faults in Rutile'
+semantic_tags:
+  - Crystallography
+  - Rutile
+  - Displacement vectors
+  - X-ray diffraction
+  - Crystal defects
+tldr: The authors studied the displacement vectors of {13#x305;2} and {101} faults in rutile crystals using X-ray diffraction and electron microscopy. They found that the displacement vector for {13#x305;2} faults is R2 = [x2,1 +?, y'2, z2], and for {101} faults, it is R2 = [1 + x2, y'2, 1 + z2]. These findings help in understanding the structure and properties of rutile crystals and their defects.
+scientific_discipline: Physics > Crystallography

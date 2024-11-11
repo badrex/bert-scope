@@ -1,0 +1,10 @@
+article_id: rspa_1991_0154
+revised_title: Stokes' Phenomenon for Superfactorial Asymptotic Series: A Simplified Approach
+semantic_tags:
+  - Asymptotic Analysis
+  - Stokes Phenomenon
+  - Superfactorial Series
+  - Borel Summation
+  - Error Function
+scientific_discipline: Mathematics > Asymptotic Analysis
+tldr: The author explores the Stokes phenomenon for superfactorial asymptotic series, which are series with terms that grow faster than any power of the variable. They develop a simplified method to obtain the Stokes smoothing formula for these series, which is useful when Borel summation fails. The author also discusses the connection between this method and subtractions used in quantum field theory.

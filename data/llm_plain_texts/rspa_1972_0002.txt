@@ -1,0 +1,10 @@
+article_id: rspa_1972_0002
+revised_title: 'Stability and Disintegration of Falling Water Sheets'
+semantic_tags:
+  - Fluid Dynamics
+  - Surface Tension
+  - Water Waves
+  - Fluid Mechanics
+  - Hydrodynamics
+tldr: This study investigates the stability and disintegration of water sheets falling vertically from a slit under different conditions. The experiments reveal that oscillations and disintegration occur due to self-induced disturbances and interaction with surrounding air. The findings contribute to understanding the behavior of water sheets in various applications, such as weirs and water management systems.
+scientific_discipline: Physics > Fluid Mechanics

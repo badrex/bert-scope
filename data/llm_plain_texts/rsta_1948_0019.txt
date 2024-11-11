@@ -1,0 +1,10 @@
+article_id: rsta_1948_0019
+revised_title: 'Mechanical and Thermal Processes of Explosive Sensitiveness'
+semantic_tags:
+  - Explosives
+  - Sensitiveness
+  - Mechanical action
+  - Thermal processes
+  - Initiation
+tldr: The author investigates the sensitiveness of explosives to mechanical and thermal processes, focusing on lead azide, mercury fulminate, and lead styphnate. They examine friction sensitiveness with grit of varying hardness and compare percussion sensitiveness using different confining metals. The study reveals that grit does not significantly sensitize initiators unless it is harder than 3-5 on Moh's scale, and that percussion sensitiveness depends on the confining metal used. The author also discusses the mechanisms of sensitiveness, including the formation of "hot spots" and tribo-chemical "trigger reactions."
+scientific_discipline: Chemistry > Materials Science

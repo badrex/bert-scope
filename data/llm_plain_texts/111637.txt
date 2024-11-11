@@ -1,0 +1,10 @@
+article_id: 111637
+revised_title: 'Investigation of Liquid Metals and Electrolytes Movements in Voltaic Circuits'
+semantic_tags:
+  - Electrochemistry
+  - Voltaic cells
+  - Electrolytes
+  - Liquid metals
+  - Conductivity
+tldr: The author, George Gore, conducted experiments to understand the movements of liquid metals and electrolytes in voltaic circuits. He discovered that both substances must be in a liquid state and one of them must be a metallic conductor of electricity. The power of producing these movements is a general property of electrolytes and liquid metals. The direction of the movement is influenced by the chemical nature of the electrolyte and the presence of metallic impurities in the mercury.
+scientific_discipline: Chemistry > Electrochemistry

@@ -1,0 +1,10 @@
+article_id: 112337
+revised_title: Elasticity of Air and Freezing Point of Mercury
+semantic_tags:
+  - Atmospheric Science
+  - Thermodynamics
+  - Gas Properties
+  - Temperature Measurement
+  - Cryogenics
+tldr: The author, Balfour Stewart, conducted experiments to determine the change in the elastic force of dry atmospheric air between 32°F and 212°F. He also investigated the temperature of the freezing point of mercury. The results showed a slightly different coefficient of increase of elasticity of air compared to Regnault's findings. Additionally, Stewart discovered that the temperature of the freezing point of mercury remains constant, with a difference in readings between an air-thermometer and a standard mercurial thermometer due to an anomalous contraction of mercury before freezing.
+scientific_discipline: Physics > Thermodynamics

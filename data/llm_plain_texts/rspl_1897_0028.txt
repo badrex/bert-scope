@@ -1,0 +1,10 @@
+article_id: rspl_1897_0028
+revised_title: 'Harmonic Analysis and Tides: Laplace's Oscillations'
+semantic_tags:
+  - Tides
+  - Harmonic Analysis
+  - Oceanography
+  - Fluid Dynamics
+  - Geophysics
+tldr: The authors apply harmonic analysis to the dynamical theory of tides, focusing on Laplace's equations. They derive equations for oceanic oscillations and discuss the relationship between surface waves and depth. The authors also explore the role of water density variations in ocean currents and the potential impact of forces like unequal rainfall distribution on these currents.
+scientific_discipline: Earth Sciences > Oceanography

@@ -1,0 +1,10 @@
+article_id: rsta_1948_0006
+revised_title: Three-Dimensional Stress Systems in Isotropic Plates: A Comprehensive Analysis
+semantic_tags:
+  - Solid Mechanics
+  - Stress Analysis
+  - Elasticity Theory
+  - Plate Theory
+  - Stress Concentration
+tldr: This article presents a comprehensive analysis of three-dimensional stress systems in isotropic plates with a circular cylindrical hole. The study focuses on stress distributions in a plate under uniform tension parallel to its faces, providing numerical work for the case when the hole's diameter is equal to the plate's thickness. The research aims to extend the scope of two-dimensional stress analysis and assess the validity of the generalized plane stress theory.
+scientific_discipline: Engineering and Technology > Solid Mechanics

@@ -1,0 +1,11 @@
+article_id: rspa_1953_0085
+revised_title: 'Vibration-Rotation Band of Deuterium Chloride: Molecular Constants and Isotopic Comparisons'
+semantic_tags:
+  - Molecular spectroscopy
+  - Vibration-rotation band
+  - Deuterium chloride
+  - Isotopic molecules
+  - Rotational constants
+tldr: The authors re-examined the fundamental vibration-rotation band of deuterium chloride using a lead telluride photoconductive cell in a grating spectrometer, achieving higher resolving power than previous studies. They determined rotational constants for the two combining states and obtained values for the centrifugal stretching constants. The results show a high degree of agreement with other isotopic molecules and provide secondary wavelength standards for the spectral region.
+
+scientific_discipline: Chemistry > Molecular Spectroscopy

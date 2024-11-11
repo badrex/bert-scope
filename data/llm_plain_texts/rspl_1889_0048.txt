@@ -1,0 +1,10 @@
+article_id: rspl_1889_0048
+revised_title: 'Development of Voltaic Electricity through Atmospheric Oxidation of Combustible Gases'
+semantic_tags:
+  - Electrochemistry
+  - Voltaic electricity
+  - Atmospheric oxidation
+  - Aeration cells
+  - Gas batteries
+tldr: The authors conducted experiments with aeration cells, which use atmospheric oxidation to generate voltaic electricity. They found that by using combustible gases like hydrogen, they could create a gas battery that produced continuous currents. However, the cost of large-scale production made it impractical for commercial use. The authors also discussed a new dry gas battery invented by Ludwig Mond and Carl Langer, which was more efficient and powerful than their own experiments.
+scientific_discipline: Chemistry > Electrochemistry

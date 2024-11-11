@@ -1,0 +1,10 @@
+article_id: rspa_1921_0034
+revised_title: Explaining the Hardening Effect in Solid Solution Alloys
+semantic_tags:
+  - Solid solutions
+  - Alloy properties
+  - Crystal structure
+  - Space-lattice distortion
+  - Hardness
+tldr: The author explains the hardening effect in solid solution alloys by suggesting that the distortion of the space-lattice in the solvent metal, caused by the introduction of a dissolved atom, governs both the limiting solubility of the dissolved metal and the degree of hardening produced in the alloy. This conclusion is based on the understanding that the distortion hinders the ability of the crystals to undergo slip, which is essential for plastic deformation and ductility.
+scientific_discipline: Materials Science > Alloy Properties

@@ -1,0 +1,11 @@
+article_id: rsta_1996_0072
+revised_title: Electrocatalyst Development for Fuel Cells: A Review
+semantic_tags:
+  - Fuel cells
+  - Electrocatalysts
+  - Electrochemistry
+  - Energy conversion
+  - Alternative energy
+tldr: This article reviews the development of electrocatalysts for various types of fuel cells, discussing their composition, performance, and potential improvements. The six types of fuel cells, including alkaline fuel cells, proton exchange membrane fuel cells, and solid oxide fuel cells, are described in the context of their electrocatalyst requirements. The authors analyze the limitations of current electrocatalysts and propose opportunities for enhancing their performance. The article concludes with details of precious metal-based electrocatalyst development for proton exchange, solid polymer fuel cells.
+scientific_discipline: Engineering and Technology > Energy and Power
+```

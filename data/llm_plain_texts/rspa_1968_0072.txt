@@ -1,0 +1,10 @@
+article_id: rspa_1968_0072
+revised_title: Viscoelastic Relaxation Spectra of Lubricating Oils and Their Component Fractions: A New Approach
+semantic_tags:
+  - Viscoelasticity
+  - Lubricating oils
+  - Spectra analysis
+  - Fractionation
+  - Rheology
+tldr: This study investigates the viscoelastic relaxation spectra of lubricating oils and their component fractions. The authors found that the relaxation spectrum cannot be solely interpreted in terms of hydrocarbon type analysis, indicating that other unknown characteristics have a significant influence. A new mechanical model for viscoelasticity is proposed, which fits the experimental results for the oils and their fractions over a wide range of frequencies.
+scientific_discipline: Chemistry > Rheology

@@ -1,0 +1,10 @@
+article_id: rspa_1930_0178
+revised_title: Elastic Scattering of Electrons in Molecular Hydrogen: Theory and Calculations
+semantic_tags:
+  - Quantum Mechanics
+  - Atomic and Molecular Physics
+  - Scattering Theory
+  - Electron Scattering
+  - Hydrogen Molecules
+tldr: This article presents a theoretical study of the elastic scattering of electrons in molecular hydrogen using quantum mechanical methods. The authors calculate the effective cross sections presented by hydrogen molecules to electron beams and find that diffraction effects are to be expected, with intensities determined by the orientation of the molecular axis relative to the initial and final electron beams.
+scientific_discipline: Physics > Atomic and Molecular Physics

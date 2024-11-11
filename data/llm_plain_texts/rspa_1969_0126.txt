@@ -1,0 +1,10 @@
+article_id: rspa_1969_0126
+revised_title: 'Wedge Indentation Mechanisms and the Role of Elastic Deformation'
+semantic_tags:
+  - Material Science
+  - Mechanics
+  - Friction and Wear
+  - Hardness Testing
+  - Elasticity
+tldr: The authors investigate the mechanisms of deformation in materials when indented by wedges, focusing on the role of elastic deformation. They identify four main mechanisms of deformation, including the plastic rigid solid mechanism and radial compression. The study also highlights the importance of the angle of the wedge and the elasticity of the indented material in determining the deformation process.
+scientific_discipline: Engineering and Technology > Mechanics

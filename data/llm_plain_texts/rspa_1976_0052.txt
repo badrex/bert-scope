@@ -1,0 +1,10 @@
+article_id: rspa_1976_0052
+revised_title: Two-Fluid Solar Wind Continuum Theory for Small Mass Ratio
+semantic_tags:
+  - Solar wind
+  - Plasma physics
+  - Astrophysics
+  - Fluid dynamics
+  - Asymptotic analysis
+tldr: The authors develop an asymptotic solution for the two-fluid solar wind continuum theory, focusing on the small mass ratio limit. They use the method of matched asymptotic expansions to construct a solution that starts from the base of the corona and extends out to a diffuse shock layer. The results obtained parallel the one-fluid theory, and the temperatures in the corona eventually become the well-known behaviors for electrons and protons.
+scientific_discipline: Physics > Astrophysics

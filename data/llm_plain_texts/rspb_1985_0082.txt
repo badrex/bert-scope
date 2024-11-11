@@ -1,0 +1,10 @@
+article_id: 'rspb_1985_0082'
+revised_title: 'Molecular Analysis of myc Gene Mutants and Oncogene Role in Normal and Malignant Growth'
+semantic_tags:
+  - Oncogenes
+  - Gene mutation
+  - Cancer research
+  - Cell transformation
+  - Molecular biology
+tldr: The authors generated and characterized deletion mutants of the avian acute leukemia virus MC29 to study the function of the myc gene in normal and malignant growth. They found that the mutants, deleted in the 3' portion of the myc gene, failed to transform macrophages in vitro or induce tumors in vivo but still transformed fibroblasts. This allowed them to investigate the mechanism by which the virus (or oncogene) preferentially transforms one cell type. The study also revealed the narrow pathogenic spectrum of the laboratory strain of MC29, inducing only endotheliomas.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

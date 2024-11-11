@@ -1,0 +1,10 @@
+article_id: rsta_1982_0111
+revised_title: Development of a Single-Well Oil Production System for Offshore Oil Fields
+semantic_tags:
+  - Offshore oil production
+  - Oil reservoir testing
+  - Dynamic positioning
+  - Vessel design
+  - Subsea well technology
+tldr: This article discusses the development of a Single-Well Oil Production System (SWOPS) for offshore oil fields. SWOPS is a self-contained, itinerant vessel that can produce and store oil from exploration wells and transport it to shore terminals. The system includes a subsea well, a rigid riser system, and a dynamically positioned tanker with integral process equipment and storage facilities. The design focuses on maintaining production in severe weather conditions and minimizing downtime, making it suitable for small, well-defined oil accumulations that may not be economically viable with conventional methods.
+scientific_discipline: Engineering and Technology > Offshore Oil Production

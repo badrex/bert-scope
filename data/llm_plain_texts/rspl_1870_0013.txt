@@ -1,0 +1,10 @@
+article_id: rspl_1870_0013
+revised_title: 'A Reassessment of Jacobi's Theorem and Ivory's Contributions'
+semantic_tags:
+  - Fluid Mechanics
+  - Equilibrium
+  - Ellipsoids
+  - Theoretical Physics
+  - Mathematical Analysis
+tldr: This article examines Jacobi's theorem on the relative equilibrium of an ellipsoid of fluid and critiques the work of James Ivory. The author, I. Todhunter, corrects errors in Ivory's work and provides a clearer understanding of Jacobi's theorem and its implications for fluid mechanics and theoretical physics.
+scientific_discipline: Mathematics > Applied Mathematics

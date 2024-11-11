@@ -1,0 +1,10 @@
+article_id: rsta_1892_0003
+revised_title: 'Experimental Study of Water and Steam Properties'
+semantic_tags:
+  - Thermodynamics
+  - Vapour Pressure
+  - Steam Density
+  - Water Expansion
+  - Gas Laws
+tldr: This article presents experiments conducted on water and steam properties, including the expansion of liquid water, density of unsaturated and saturated steam, and the effect of temperature and pressure on these properties. The authors used various methods and formulas to calculate and compare the results, providing valuable insights into the behavior of water and steam under different conditions.
+scientific_discipline: Chemistry > Thermodynamics

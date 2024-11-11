@@ -1,0 +1,10 @@
+article_id: rspa_1937_0002
+revised_title: The Effect of Space-Charge on Secondary Current in a Triode: A Theoretical Analysis
+semantic_tags:
+  - Space-charge
+  - Triode
+  - Secondary current
+  - Electron emission
+  - Vacuum electronics
+tldr: This article investigates the effect of space-charge on the secondary current in a triode. The authors develop a theoretical model to determine the relationship between the anode and grid potentials and the primary and secondary anode currents in the condition of space-charge limitation. The study provides insights into the behavior of secondary electrons and helps improve the understanding of vacuum electronics.
+scientific_discipline: Engineering and Technology > Electronics and Electrical Engineering

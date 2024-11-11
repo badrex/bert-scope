@@ -1,0 +1,10 @@
+article_id: rspa_1963_0210
+revised_title: First-order Exchange Approximation in Atomic Scattering
+semantic_tags:
+  - Atomic Physics
+  - Quantum Mechanics
+  - Scattering Theory
+  - Electron Impact
+  - Exchange Scattering
+tldr: The authors present a first-order exchange approximation to improve the Born-Oppenheimer approximation in calculating scattering amplitudes for the excitation of hydrogen atoms by electron impact and elastic scattering of electrons by hydrogen atoms. The first-order exchange approximation accounts for terms of the first order in the interaction energy between colliding particles, leading to more accurate cross-section calculations and addressing the ambiguity in the original approximation.
+scientific_discipline: Physics > Atomic Physics

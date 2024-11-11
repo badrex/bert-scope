@@ -1,0 +1,10 @@
+article_id: '103676'
+revised_title: 'Determining Geographical Longitude Using Falling Stars'
+semantic_tags:
+  - Astronomy
+  - Geographical Longitude
+  - Meteor Observation
+  - Celestial Navigation
+  - Timekeeping
+tldr: 'George Lynn proposes a method to determine geographical longitude using the appearance of falling stars. He suggests that if observers in different locations note the time of a falling star's appearance, the difference in their recorded times would give the difference in longitude between the two places. This method could be used without the need for telescopes and could help improve navigation and timekeeping.'
+scientific_discipline: Astronomy > Celestial Navigation

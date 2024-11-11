@@ -1,0 +1,10 @@
+article_id: 'rspb_1994_0111'
+revised_title: 'Differential Processes in Second-Order Motion Detection at Low and High Temporal Frequencies'
+semantic_tags:
+  - Motion perception
+  - Temporal frequency
+  - Adaptation
+  - Visual processing
+  - Psychophysics
+tldr: The authors conducted experiments to determine if first- and second-order motion stimuli are detected by the same mechanism. They found that at high temporal frequencies, both stimulus types are processed similarly, but at low temporal frequencies, separate processes are involved in detecting second-order motion. This research supports the idea that fast second-order motion is detected by Fourier-type mechanisms, while slow second-order motion is detected through a process involving a comparison of local luminance features.
+scientific_discipline: Psychology > Perception

@@ -1,0 +1,10 @@
+article_id: rspa_1960_0012
+revised_title: 'Advancements in Measuring Adhesion of Thin Films'
+semantic_tags:
+  - Thin film adhesion
+  - Vacuum deposition
+  - Surface science
+  - Material properties
+  - Mechanical testing
+tldr: This article presents a method for measuring the adhesion of thin films, specifically for films produced by vacuum deposition. The authors describe a technique using a rounded steel point to gradually increase the load on the film's surface until it is removed, leaving a clear channel. They analyze the method and propose a suitable mechanism, showing that the shearing force required to remove a film can be calculated from the critical load, the tip radius of the point, and the indentation hardness of the substrate. The authors also discuss the effects of film and substrate materials, film thickness, and the presence of oxide layers on the adhesion measurements.
+scientific_discipline: Materials Science > Surface Science

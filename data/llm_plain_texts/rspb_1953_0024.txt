@@ -1,0 +1,10 @@
+article_id: 'rspb_1953_0024'
+revised_title: 'Exploring Protein Structure: Insights from Gramicidin B and Insulin Crystallography'
+semantic_tags:
+  - Protein Structure
+  - Crystallography
+  - Peptide Chain Models
+  - A-helix Model
+  - Protein Folding
+tldr: This article discusses the structure of proteins, specifically focusing on peptide chain models in relation to crystallographic data for gramicidin B and insulin. The authors analyze the chemical and crystallographic evidence for these molecules and explore different chain models, including the a-helix model proposed by Pauling, Corey, and Branson. They also consider the implications of cystine residues and the complexities of X-ray patterns observed in natural a-keratin fibers.
+scientific_discipline: Biology and Life Sciences > Protein Structure and Function

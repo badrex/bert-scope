@@ -1,0 +1,10 @@
+article_id: 'rspa_1947_0143'
+revised_title: 'Hodograph Transformation in Trans-Sonic Flow: Tables and Applications'
+semantic_tags:
+  - Fluid Dynamics
+  - Transonic Flow
+  - Compressible Flow
+  - Aerodynamics
+  - Hypersonic Flow
+tldr: This article presents tables of functions and their derivatives for use in solving problems related to transonic and compressible flow. The authors tabulate the functions for values of the adiabatic index between 1 and 15, and demonstrate their application in solving a physical problem involving gas flow from a slit in an infinite plane wall. The results are useful for understanding and designing channels and other structures in high-speed fluid dynamics.
+scientific_discipline: Engineering and Technology > Fluid Dynamics

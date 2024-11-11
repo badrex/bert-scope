@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0182'
+revised_title: 'Cosmological Evolution of Active Galaxies and the Luminosity Function'
+semantic_tags:
+  - Galaxy formation and evolution
+  - Active galaxies
+  - Cosmology
+  - Luminosity function
+  - Redshift
+tldr: The authors analyze the spatial distribution and evolution of active galaxies, such as quasars and radio galaxies, using the luminosity-volume test and the Hubble diagram. They find evidence for the cosmological evolution of active galaxies and discuss the implications of their findings for the luminosity function and the nature of the universe.
+scientific_discipline: Astronomy > Galaxy formation and evolution

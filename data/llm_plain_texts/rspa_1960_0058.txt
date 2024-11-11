@@ -1,0 +1,10 @@
+article_id: rspa_1960_0058
+revised_title: Oxygen Adsorption and Photo-Adsorption on Zinc Oxide Surfaces
+semantic_tags:
+  - Surface chemistry
+  - Chemisorption
+  - Zinc oxide
+  - Photo-adsorption
+  - Semiconductor materials
+tldr: This article investigates the reactions of oxygen on dark and irradiated zinc oxide surfaces. The authors discuss chemisorption, the development of a potential barrier, and the influence of the boundary layer on adsorption and desorption processes. They also explore the role of temperature and irradiation wavelength in photo-adsorption and negative photoconductivity.
+scientific_discipline: Chemistry > Surface chemistry

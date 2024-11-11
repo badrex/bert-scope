@@ -1,0 +1,10 @@
+article_id: rsta_1996_0126
+revised_title: 'Oxygen Bombardment in SIMS Depth Profiling: Transient Phenomena and Impurity Relocation'
+semantic_tags:
+  - Secondary Ion Mass Spectrometry (SIMS)
+  - Impurity Analysis
+  - Depth Profiling
+  - Transient Phenomena
+  - Sputtering Yield
+tldr: The article discusses the challenges and transient phenomena encountered in secondary ion mass spectrometry (SIMS) depth profiling using oxygen bombardment. It focuses on the effects of oxygen incorporation, sputtering yield changes, and ionization probability increases on the accuracy of depth calibration and impurity analysis in silicon samples. The authors propose a simple sputtering-oxidation model to describe these transient phenomena and provide suggestions for optimizing operating parameters to improve depth calibration and analysis of shallow impurity distributions.
+scientific_discipline: Physics > Materials Science

@@ -1,0 +1,10 @@
+article_id: rspa_1954_0249
+revised_title: Cross-Sections and Angular Distributions of D-D Reactions
+semantic_tags:
+  - Nuclear Physics
+  - Particle Acceleration
+  - Cross-Section Measurements
+  - Angular Distributions
+  - Deuterium-Deuterium Reactions
+tldr: The authors conducted experiments to measure the cross-sections and angular distributions of the D-D reactions between 150 and 450 keV. They used a thin gas target and proportional counters to collect data on the neutron and proton reactions. The results showed that the angular distributions of the reactions are different, with the asymmetry of the neutron-producing reaction being greater. The total cross-section of the neutron reaction is also greater than that of the proton reaction, and the ratio of the cross-sections increases with bombarding energy.
+scientific_discipline: Physics > Nuclear Physics

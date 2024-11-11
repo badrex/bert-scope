@@ -1,0 +1,10 @@
+article_id: rspa_1984_0121
+revised_title: Dynamic Aspects of Spontaneous Ignition: Thermal Runaway Induced by Increasing Ambient Temperature
+semantic_tags:
+  - Thermal Runaway
+  - Spontaneous Ignition
+  - Ambient Temperature
+  - Heat Transfer
+  - Chemical Reaction
+tldr: This study investigates the effects of increasing ambient temperature on exothermic reactions, considering factors such as heat loss, heat generation, and reactant consumption. The authors provide a mathematical model for spatially uniform reactions and determine the conditions for thermal ignition when the ambient temperature increases linearly over time. The findings can be applied to understanding and interpreting experimental measurements of ignition temperatures in various chemical processes.
+scientific_discipline: Environmental and Earth Sciences > Chemistry

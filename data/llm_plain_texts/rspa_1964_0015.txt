@@ -1,0 +1,10 @@
+article_id: rspa_1964_0015
+revised_title: 'Phonon Spectrum and Thermal Energy of Sodium: Toya's Method with a Modified Interference Factor'
+semantic_tags:
+  - Phonon spectrum
+  - Sodium
+  - Thermal energy
+  - Toya's method
+  - Interference factor
+tldr: The authors used Toya's method to study the interaction of lattice vibrations with electrons in sodium. They modified the interference factor to improve the accuracy of the phonon spectrum and thermal energy calculations. The results show good agreement with experimental data for frequencies above 40 K, but some disagreement below this temperature may be due to the existence of two phases.
+scientific_discipline: Physics > Solid State Physics

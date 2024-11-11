@@ -1,0 +1,10 @@
+article_id: rspa_1952_0195
+revised_title: Discontinuities in the Physical Properties of Supercooled Liquids
+semantic_tags:
+  - Supercooling
+  - Viscosity
+  - Electrical conductivity
+  - Density
+  - Ionic migration
+tldr: The authors measured the viscosity, electrical conductivity, and density of several liquids, including boron trifluoride complexes with acetic acid and its esters, over a range of temperatures above and below their melting points. They discovered significant discontinuities in the logarithm of viscosity and conductivity plotted against the reciprocal absolute temperature. These results provide a clearer understanding of the supercooled state and its properties.
+scientific_discipline: Chemistry > Physical Chemistry

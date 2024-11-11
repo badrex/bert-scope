@@ -1,0 +1,10 @@
+article_id: 'rstb_1931_0019'
+revised_title: 'A Method for Estimating Kojic Acid in the Presence of Glucose'
+semantic_tags:
+  - Biochemistry
+  - Microbiology
+  - Kojic Acid
+  - Estimation
+  - Reaction Mechanism
+tldr: The authors developed a method to estimate kojic acid in the presence of glucose using the iodine absorption method. They discovered that kojic acid reacts quantitatively with iodine in alkaline solution, and they investigated the reaction mechanism, products, and conditions for accurate estimation. This method can be used to follow the production of kojic acid by certain molds.
+scientific_discipline: Chemistry > Biochemistry

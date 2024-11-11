@@ -1,0 +1,10 @@
+article_id: rspa_1992_0103
+revised_title: Monoclinic Media Elastic Surface Waves
+semantic_tags:
+  - Elasticity
+  - Surface Waves
+  - Monoclinic Crystals
+  - Symmetry in Physics
+  - Mathematical Physics
+tldr: The article discusses the behavior of elastic surface waves in monoclinic media, where the reference plane coincides with a plane of material symmetry. The authors provide a detailed analysis of the propagation of these waves, evaluating the necessary integrals and deriving an explicit formula connecting a fourth integral to the other three. They present illustrative numerical results for 12 monoclinic crystals, focusing on the transitions between subsonic and supersonic surface-wave propagation.
+scientific_discipline: Physics > Elasticity

@@ -1,0 +1,10 @@
+article_id: rspa_1938_0195
+revised_title: 'Polar Molecule Behavior in Solid Paraffin Wax'
+semantic_tags:
+  - Dielectric materials
+  - Molecular dipoles
+  - Solid-state physics
+  - Esters
+  - Paraffin wax
+tldr: The authors studied the behavior of polar molecules in solid paraffin wax, focusing on the effects of different long-chain esters on the time constants of molecular rotation. They measured the dielectric constant and loss-angle of 5% solutions of various esters in paraffin wax at various temperatures below the solidification point. Their findings provide insights into the behavior of polar molecules in solids and contribute to the development of a better understanding of molecular processes in these materials.
+scientific_discipline: Physics > Solid-state physics

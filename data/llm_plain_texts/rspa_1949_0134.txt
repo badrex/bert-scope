@@ -1,0 +1,10 @@
+article_id: rspa_1949_0134
+revised_title: Order-Disorder Statistics in Two-Dimensional Models
+semantic_tags:
+  - Statistical mechanics
+  - Lattice models
+  - Thermodynamics
+  - Order-disorder transitions
+  - Two-dimensional systems
+tldr: This article explores the calculation of partition functions for a two-dimensional lattice model, focusing on the order-disorder statistics. The author presents a method for expanding eigenvectors and eigenvalues as power series about zero temperature, which can be applied to finite and infinite matrices. The study also discusses the effects of magnetic fields and binary solid solutions on the system.
+scientific_discipline: Physics > Statistical Mechanics

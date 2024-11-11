@@ -1,0 +1,10 @@
+article_id: rspa_1985_0029
+revised_title: Molecular Dynamics Simulation of Defect Motion in Model Normal and Fast-Ion Conductors
+semantic_tags:
+  - Computational Chemistry
+  - Molecular Dynamics
+  - Defect Migration
+  - Ionic Conductors
+  - Frenkel Defects
+tldr: The authors used molecular dynamics simulations to study the motion of Frenkel defects in model normal and fast-ion conductors, focusing on NaCl and AgCl. They observed direct interstitial jumps, collinear interstitialcy migration, and [110] vacancy jumps, and analyzed the time dependence of mean square displacements to understand defect migration mechanisms. This research provides insights into the ionic transport in fast-ion conductors and the behavior of Frenkel defects.
+scientific_discipline: Physics > Materials Science

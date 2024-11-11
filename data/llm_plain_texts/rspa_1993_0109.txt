@@ -1,0 +1,10 @@
+article_id: rspa_1993_0109
+revised_title: Crystal Vibrations and Cyclic Boundary Conditions
+semantic_tags:
+  - Crystal Vibration
+  - Lattice Dynamics
+  - Cyclic Boundary Conditions
+  - Solid State Physics
+  - Quantum Mechanics
+tldr: The author presents a new approach to understanding crystal vibrations by introducing a finite transformation of particle displacements from their reference configuration. This transformation accounts for all degrees of freedom, including rotational and homogeneous deformational modes, and shows that some normal modes cannot satisfy the Born cyclic boundary conditions. The author also discusses the vibrational Hamiltonian, which contains elastic energy, elastic-phonon interaction terms, and inhomogeneous vibrations. In the limit of a large crystal, the homogeneous coordinates can be considered static, allowing for a more complete treatment of lattice dynamics.
+scientific_discipline: Physics > Solid State Physics

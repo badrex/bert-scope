@@ -1,0 +1,10 @@
+article_id: rsta_1987_0046
+revised_title: 'Comparing Experiment and Theory in Controlled Nuclear Fusion: The JET Project'
+semantic_tags:
+  - Nuclear Fusion
+  - Tokamak
+  - Plasma Physics
+  - Magnetic Confinement
+  - Energy Confinement Time
+tldr: The JET project explores controlled nuclear fusion and compares experimental results with the predictions of the classical theory of tokamaks. The actual energy transport rate is found to be much higher than predicted, leading to a need for further understanding of plasma instabilities and their effects on device performance. The study discusses the consequences of a simple model with a fixed temperature profile and the role of electrostatic and magnetic instabilities in the plasma.
+scientific_discipline: Physics > Plasma Physics

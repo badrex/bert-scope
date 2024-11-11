@@ -1,0 +1,10 @@
+article_id: rsta_1980_0196
+revised_title: Skylab 1 Rocket: Orbit Determination and Analysis
+semantic_tags:
+  - Spacecraft Orbits
+  - Satellite Tracking
+  - Geopotential Harmonics
+  - Atmospheric Rotation
+  - Orbit Resonance
+tldr: The author analyzes the orbit of the Skylab 1 rocket, which entered a nearly circular orbit at a height of 400 km in 1973. The orbit was determined using various observations, and the author found that the satellite passed through the 31:2 geopotential resonance, allowing them to analyze variations in eccentricity and inclination. The results provided crucial tests for geopotential models and confirmed the accuracy of atmospheric rotation rates at different heights.
+scientific_discipline: Physics > Space Science

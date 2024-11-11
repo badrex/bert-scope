@@ -1,0 +1,10 @@
+article_id: 'rspb_1915_0012'
+revised_title: 'Investigating Arterial Pressure and Peripheral Conditions'
+semantic_tags:
+  - Blood pressure measurement
+  - Arterial pressure
+  - Peripheral resistance
+  - Venous pressure
+  - Systolic and diastolic pressure
+tldr: The authors conducted a series of experiments to understand the effects of compression on arterial pressure in the human arm. They found that the simple schema of compressing an artery in a chamber does not accurately represent the conditions in the arm. The authors developed a more complex schema to better mimic the conditions in the arm, which included a tissue schema and a compression chamber. They discovered that the behavior of the artery is significantly influenced by the compression of a vessel placed distally to it, and thus, studying the compression of a length of artery in a simple schema does not fully explain the compression of the brachial artery in the arm.
+scientific_discipline: Medicine and Health Sciences > Physiology

@@ -1,0 +1,10 @@
+article_id: rspa_1957_0086
+revised_title: 'Mechanical Properties of Single Crystal Metals: Copper'
+semantic_tags:
+  - Crystallography
+  - Materials Science
+  - Mechanical Properties
+  - Copper
+  - Deformation Bands
+tldr: This article investigates the mechanical behavior of single crystals of copper, focusing on the variation of easy glide with the orientation of crystal axes relative to the direction of tension. The authors found that this variation can be quantitatively expressed by a specific factor on active glide planes and a general factor that applies to both active and latent glide planes. The study also examines the effects of temperature on the glide properties and critical shear stress of copper crystals.
+scientific_discipline: Materials Science > Crystallography

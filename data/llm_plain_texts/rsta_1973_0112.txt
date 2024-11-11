@@ -1,0 +1,9 @@
+article_id: rsta_1973_0112
+revised_title: Finite Element Solution of Boundary-Value Problems with Non-Removable Singularities: Applications in Engineering
+semantic_tags:
+  - Finite Element Method
+  - Boundary-Value Problems
+  - Singularities
+  - Rayleigh-Ritz Method
+  - Engineering Applications
+tldr: This article presents a modified Rayleigh-Ritz method for solving boundary-value problems with non-removable singularities, focusing on practical applications in engineering. The method allows for a more extensive exploitation of singular functions and provides a versatile mode of calculation. The author demonstrates the effectiveness of the method in solving a one-dimensional interpolation problem and a plane harmonic mixed boundary-value problem. Finally, the article applies the method to the plane stress elastic analysis of plates with cracks, which is essential in fracture mechanics and predicting structural failure.

@@ -1,0 +1,10 @@
+article_id: rsta_1996_0031
+revised_title: 'Advancements in Blue and Green Light Sources for Compact Disc Systems'
+semantic_tags:
+  - Visible light sources
+  - Blue-green light technology
+  - Frequency upconversion
+  - Optoelectronics
+  - Compact disc systems
+tldr: This paper reviews the development of compact, efficient blue and green light sources for use in consumer applications, such as compact disc systems. The two main approaches discussed are upconversion fiber lasers and second-harmonic generation. These alternative methods use low-power infrared diode lasers to achieve blue and green light powers in the range of several watts. The paper highlights the need for cheap and simple frequency control and stabilization for these sources to be widely used in consumer applications.
+scientific_discipline: Engineering and Technology > Optoelectronics

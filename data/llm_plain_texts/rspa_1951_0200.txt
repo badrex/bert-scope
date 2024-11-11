@@ -1,0 +1,10 @@
+article_id: rspa_1951_0200
+revised_title: 'Motion of Test Particles in General Relativity'
+semantic_tags:
+  - General Relativity
+  - Gravitational Field
+  - Test Particles
+  - Equations of Motion
+  - Spinning Particles
+tldr: The authors derive the equations of motion for spinning test particles in a given gravitational field using the method of Fock. They focus on the motion of pole-dipole particles, which include spinning particles, and discuss the implications of their findings for physical problems and the accuracy of the equations of motion.
+scientific_discipline: Physics > General Relativity

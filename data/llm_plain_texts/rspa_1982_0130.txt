@@ -1,0 +1,10 @@
+article_id: rspa_1982_0130
+revised_title: Separable Solutions of Dirac's Equation for the Electron
+semantic_tags:
+  - Dirac Equation
+  - Quantum Mechanics
+  - Particle Physics
+  - Spinors
+  - Hamilton-Jacobi Operators
+tldr: The author investigates separable solutions of Dirac's equation for the electron, focusing on flat space-time and coordinate systems. The study explores the properties of the Laplacian and Hamilton-Jacobi operators, and the forms of Dirac's equation in curvilinear coordinates using both fixed and rotating tetrads. The research aims to construct the matrices and potentials when possible, providing explicit solutions for various systems.
+scientific_discipline: Physics > Quantum Mechanics

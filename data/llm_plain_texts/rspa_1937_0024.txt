@@ -1,0 +1,10 @@
+article_id: rspa_1937_0024
+revised_title: 'Quasi-Detonation in Methane-Air Mixtures: A Study of Explosion Waves and Shock Waves'
+semantic_tags:
+  - Explosion waves
+  - Shock waves
+  - Quasi-detonation
+  - Methane-air mixtures
+  - Detonation
+tldr: The authors conducted experiments on explosion waves and shock waves in methane-air mixtures, focusing on the phenomenon of quasi-detonation. They discovered that the addition of secondary energy, such as heat, can render methane-air mixtures capable of maintaining a quasi-detonation, which is not true detonation. The study provides insights into the ignition of methane-air mixtures by mining explosives and the propagation of flame in these mixtures ignited by sources of varying intensity.
+scientific_discipline: Physics > Fluid Dynamics

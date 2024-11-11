@@ -1,0 +1,10 @@
+article_id: rspl_1884_0104
+revised_title: 'Thermal Properties and Vapour-Density of Ethyl Alcohol'
+semantic_tags:
+  - Thermodynamics
+  - Alcohol Chemistry
+  - Vapour-Density
+  - Critical Point
+  - Liquids
+tldr: This study investigates the thermal properties and vapour-density of ethyl alcohol, comparing it to other substances. The research establishes relationships between the volume of liquid alcohol, temperature, and pressure, and determines the critical point of ethyl alcohol. The findings show that alcohol vapour in contact with liquid acquires a normal density at about 50°C, unlike other compounds that may exhibit increased density on lowering temperature and pressure.
+scientific_discipline: Chemistry > Alcohol Chemistry

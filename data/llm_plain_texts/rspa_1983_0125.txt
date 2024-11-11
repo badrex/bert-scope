@@ -1,0 +1,10 @@
+article_id: rspa_1983_0125
+revised_title: 'A New Model for Relaxation Phenomena in Imperfect Materials'
+semantic_tags:
+  - Relaxation Spectroscopy
+  - Imperfect Materials
+  - Structural Organization
+  - Cluster Approach
+  - Dielectric Relaxation
+tldr: The authors propose a new theory for explaining relaxation phenomena in imperfect materials, such as solids and liquids. They introduce a cluster approach that considers the structural organization of macroscopic samples and the steady-state distribution of clusters. This model helps to understand the dynamics of imperfect materials and their relaxation behavior, providing insights into dielectric relaxation spectroscopy and the structure of imperfect materials.
+scientific_discipline: Physics > Condensed Matter Physics

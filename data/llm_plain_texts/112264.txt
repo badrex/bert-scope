@@ -1,0 +1,10 @@
+article_id: 112264
+revised_title: Applications of Polyhedra in Geometry and Enumeration
+semantic_tags:
+  - Polyhedra
+  - Geometry
+  - Enumeration
+  - Combinatorial Mathematics
+  - Symmetry
+tldr: The author presents a method for constructing and enumerating polyhedra using tables of perfect edges and summits. The method involves forming and crowning propyramidal and pyramidal perfect reticulations, and then using metapyramidal edges and summits to create more complex polyhedra. This approach allows for efficient computation and enumeration of polyhedra with fewer edges and simplifies the process of determining the properties of more complex polyhedra.
+scientific_discipline: Mathematics > Combinatorial Mathematics

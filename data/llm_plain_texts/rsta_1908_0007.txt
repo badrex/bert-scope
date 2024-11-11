@@ -1,0 +1,10 @@
+article_id: rsta_1908_0007
+revised_title: Dispersion in Artificial Double Refraction: A Study of Stress-Optical Coefficient
+semantic_tags:
+  - Stress-Optics
+  - Double Refraction
+  - Dispersion
+  - Glass Physics
+  - Optics
+tldr: This article investigates the effect of color on artificial double refraction in glass. The author develops a new method to observe the variation of the stress-optical coefficient continuously throughout the spectrum, confirming previous findings that the coefficient varies with the wavelength. The study provides insights into the behavior of light and stress in transparent materials, paving the way for further research in the field of optics and glass physics.
+scientific_discipline: Physics > Optics

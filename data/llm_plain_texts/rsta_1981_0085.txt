@@ -1,0 +1,10 @@
+article_id: rsta_1981_0085
+revised_title: Reversed Field Pinch Plasma Physics: Applications and Recent Experiments
+semantic_tags:
+  - Plasma physics
+  - Fusion energy
+  - Reversed field pinch
+  - Magnetic confinement
+  - High temperature plasma
+tldr: This article discusses the reversed field pinch (RFP) concept in plasma physics, which is a method of confining plasma using a toroidal magnetic field. The RFP offers the potential for high-temperature plasma confinement with relatively low magnetic fields. The article reviews the principles of RFPs, their formation through self-reversal, and the latest experimental results, focusing on the Eta Beta II device. It also explores the theory of relaxed states, stability, and the mechanism of self-reversal and relaxation in RFPs.
+scientific_discipline: Physics > Plasma Physics

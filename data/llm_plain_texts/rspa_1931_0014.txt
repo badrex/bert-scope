@@ -1,0 +1,10 @@
+article_id: 'rspa_1931_0014'
+revised_title: 'Photo-Elastic Dispersion of Vitreous Silica: Experimental Analysis and Observations'
+semantic_tags:
+  - Photo-elasticity
+  - Stress-optical coefficient
+  - Vitreous silica
+  - Dispersion
+  - Anomalous dispersion
+scientific_discipline: Physics > Optics
+tldr: The authors conducted experiments to study the photo-elastic dispersion of vitreous silica, a type of glass. They used a photo-elastic meter to measure the stress-induced birefringence in the glass and found that the stress-optical coefficient for silica is different from that of other glasses. The results help to understand the behavior of light in materials under stress and the nature of the silicon atoms in vitreous silica.

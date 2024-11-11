@@ -1,0 +1,10 @@
+article_id: rspa_1951_0181
+revised_title: 'Revisiting the Interaction of Two Electrons in Quantum Electrodynamics'
+semantic_tags:
+  - Quantum Electrodynamics
+  - Relativistic Wave Equation
+  - Two-Electron Interactions
+  - Negative-Energy States
+  - Perturbation Theory
+tldr: The authors derive a relativistic wave equation for helium-like systems using quantum electrodynamics, focusing on the interaction of two electrons. They address the issue of negative-energy states and provide a new approach to calculate energy levels with improved accuracy.
+scientific_discipline: Physics > Quantum Mechanics

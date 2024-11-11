@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0091'
+revised_title: 'A Mathematical Model of Photosynthetic Oscillations and its Implications'
+semantic_tags:
+  - Photosynthesis
+  - Oscillations
+  - Mathematical modeling
+  - Metabolism
+  - Carbon cycle
+tldr: The authors propose a simple mathematical model of photosynthetic oscillations that incorporates the turnover of adenylates and reductive pentose phosphate cycle intermediates, along with inorganic phosphate. The model produces oscillations with observed periods and damping constants, supporting the two-kinases hypothesis. This approach provides insights into the underlying mechanisms of photosynthetic oscillations and helps interpret the results in physiological terms.
+scientific_discipline: Biology and Life Sciences > Photosynthesis

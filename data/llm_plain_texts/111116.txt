@@ -1,0 +1,10 @@
+article_id: 111116
+revised_title: Experimental Researches on Atmospheric Magnetism and Temperature Effects
+semantic_tags:
+  - Atmospheric magnetism
+  - Temperature effects
+  - Electromagnetism
+  - Magnetic declination
+  - Magnetic variation
+tldr: Faraday conducted experiments using a ring helix to study the effects of atmospheric temperature on magnetic forces. He observed the deflection of magnetic needles in various positions and conditions, including near magnets and in different regions of the Earth. Faraday applied these findings to explain magnetic variations, such as night action, early morning effects, and differences in local time. He concluded that his experimental results supported his views on the cause of magnetic variations.
+scientific_discipline: Physics > Electromagnetism

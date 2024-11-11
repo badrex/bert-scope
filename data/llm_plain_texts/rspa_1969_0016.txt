@@ -1,0 +1,10 @@
+article_id: rspa_1969_0016
+revised_title: 'Numerical Solution for Subcritical Flow Past a Lifting Aerofoil'
+semantic_tags:
+  - Fluid Dynamics
+  - Aerofoil Design
+  - Computational Fluid Dynamics
+  - Stream Function
+  - Subsonic Flow
+tldr: The authors present a numerical method for solving the subcritical flow past a lifting aerofoil. They introduce the stream function and use a conformal mapping to transform the exterior of the aerofoil into the interior of a circle. A uniform grid is imposed on the circle, and the modified stream function is put into difference form. The iterative method of solution is convergent, and results are presented for various aerofoil sections.
+scientific_discipline: Physics > Fluid Dynamics

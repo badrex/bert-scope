@@ -1,0 +1,10 @@
+article_id: 110962
+revised_title: Investigating Magnetic Influences on Cavendish Apparatus Density Measurements
+semantic_tags:
+  - Density of Earth
+  - Cavendish Experiment
+  - Magnetic Influences
+  - Diamagnetism
+  - Gravitation
+tldr: The author examines discrepancies in the Cavendish apparatus for determining the Earth's mean density, suggesting that magnetic influences, specifically diamagnetic forces, may be causing the anomalies. They propose methods to eliminate this source of error and believe that further investigation could lead to significant discoveries.
+scientific_discipline: Physics > Earth and Planetary Science

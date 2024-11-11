@@ -1,0 +1,10 @@
+article_id: rsta_1902_0015
+revised_title: "Throw-Testing Machine for Reversals of Mean Stress: A Study on Fatigue and Material Properties"
+semantic_tags:
+  - Fatigue
+  - Material Science
+  - Stress Analysis
+  - Mechanical Engineering
+  - Oscillatory Stress
+tldr: This article presents a study on a throw-testing machine designed to investigate the effects of repeated stress on materials. The machine applies direct tension and compression stress to specimens at high frequencies, allowing researchers to study the relationship between stress range, frequency, and material fatigue. The research provides valuable insights into the behavior of materials under repeated stress, which is essential for understanding and improving the performance of machinery and structures subjected to cyclic loading.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

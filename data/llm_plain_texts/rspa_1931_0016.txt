@@ -1,0 +1,10 @@
+article_id: 'rspa_1931_0016'
+revised_title: 'Physical Properties of Methane-Hydrogen System'
+semantic_tags:
+  - Thermodynamics
+  - Physical Chemistry
+  - Phase Equilibrium
+  - Gas Hydrates
+  - Cryogenics
+tldr: 'This article presents an experimental study of the physical constants of the methane-hydrogen system. The authors measured the vapor pressures of methane, hydrogen, and their mixtures at various temperatures and pressures. They also determined the composition of liquid and vapor phases in equilibrium and discussed the melting point curve of methane. The results provide valuable data for understanding the thermodynamics of the methane-hydrogen system and its applications, such as gas hydrates and cryogenics.'
+scientific_discipline: Chemistry > Physical Chemistry

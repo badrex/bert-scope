@@ -1,0 +1,10 @@
+article_id: rspa_1982_0065
+revised_title: 'Nonlinear Shear Stress-Strain Rate Behavior of Supercooled Liquids'
+semantic_tags:
+  - Viscosity
+  - Shear stress
+  - Supercooled liquids
+  - Eyring theory
+  - Hopkinson torsion bar
+tldr: The authors developed a technique using a split Hopkinson torsion bar to measure the viscosity of supercooled liquids at high shear rates. They found nonlinearity in the shear-stress-shear-strain-rate relation when the stress exceeded about 3 MPa, supporting the Eyring theory of viscous flow. This technique allowed them to study the nonlinear properties of fluids at high shear stresses without the influence of viscous heating.
+scientific_discipline: Physics > Materials Science

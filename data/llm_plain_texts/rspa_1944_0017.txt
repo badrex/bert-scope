@@ -1,0 +1,10 @@
+article_id: rspa_1944_0017
+revised_title: 'Investigation of High-Energy Particle Scattering Using Photographic Method'
+semantic_tags:
+  - Particle Scattering
+  - Cyclotron
+  - Photographic Detection
+  - Nuclear Physics
+  - High-Energy Physics
+tldr: The authors developed a photographic method to detect and study the scattering of high-energy particles from a cyclotron. This method allowed them to record scattered particles at various angles simultaneously, reducing the time needed for experiments and providing a more detailed analysis of the scattering processes. The authors tested this method on protons and deuterons, demonstrating its effectiveness in studying high-energy particle scattering.
+scientific_discipline: Physics > Nuclear Physics

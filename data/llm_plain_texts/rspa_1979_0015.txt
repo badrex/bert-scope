@@ -1,0 +1,10 @@
+article_id: rspa_1979_0015
+revised_title: 'Low Energy Electron-Induced Luminescence in Solid Nitrogen'
+semantic_tags:
+  - Solid-state physics
+  - Luminescence
+  - Nitrogen
+  - Low energy electrons
+  - Excitation
+tldr: 'The article investigates the visible luminescence spectrum of solid nitrogen when excited by low energy electrons. The authors focus on the interpretation of the most intense transition in the visible region, which is both parity and spin forbidden in the gas phase. They find that the lower energy of the exciting electrons causes changes in the structure of the emission spectrum, which can be attributed to the presence of nitrogen atoms trapped on the surface of the solid film.'
+scientific_discipline: Physics > Solid-state physics

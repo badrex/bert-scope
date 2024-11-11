@@ -1,0 +1,10 @@
+article_id: rspa_1987_0102
+revised_title: Chaos and Turbulence in Fluid Dynamics
+semantic_tags:
+  - Chaos Theory
+  - Turbulence
+  - Fluid Dynamics
+  - Nonlinear Dynamics
+  - Bifurcation Theory
+tldr: The article discusses the relationship between chaos and turbulence in fluid dynamics, exploring how certain mathematical models and equations can lead to chaotic behavior. It also examines the role of coherent structures and the potential for chaos to emerge in turbulent fluids.
+scientific_discipline: Physics > Fluid Dynamics

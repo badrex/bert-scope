@@ -1,0 +1,9 @@
+article_id: rsta_1975_0026
+revised_title: Field Emission and Field Ionization in Liquid Helium: Experimental Investigation and Analysis
+semantic_tags:
+  - Liquid Helium
+  - Field Emission
+  - Field Ionization
+  - Spacecharge Limited Emission
+  - Ionic Mobilities
+tldr: This article investigates spacecharge limited field emission and field ionization in liquid 4He at temperatures above 0.3K and pressures up to the solidification point. The authors present a simple analysis that enables an understanding of the discharge mechanisms without requiring detailed knowledge of the current-generating processes. They deduce values of ionic mobilities from the experimental data and discuss the conduction mechanism below 0.7K, which is not yet fully understood. The findings suggest that an effective mobility can describe ionic motion through a self-generated vortex tangle at low temperatures.

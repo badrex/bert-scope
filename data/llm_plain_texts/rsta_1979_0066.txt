@@ -1,0 +1,10 @@
+article_id: rsta_1979_0066
+revised_title: 'Deep-Water Wave Interactions with Currents: Steady Waves on Current Distributions'
+semantic_tags:
+  - Fluid dynamics
+  - Wave theory
+  - Oceanography
+  - Currents
+  - Nonlinear waves
+tldr: The authors study the interaction between deep-water waves and currents, focusing on steady periodic waves on current distributions. They develop an averaged Lagrangian to describe the properties of slowly varying wave trains and examine two examples of waves on large-scale currents. The results provide insights into wave behavior, including the formation of caustics and the concept of group velocity in nonlinear waves.
+scientific_discipline: Physics > Fluid Dynamics

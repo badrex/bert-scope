@@ -1,0 +1,10 @@
+article_id: 'rspb_1969_0079'
+revised_title: 'Insect Fibrillar Muscle Mechanical Properties at Large Oscillation Amplitudes'
+semantic_tags:
+  - Muscle Physiology
+  - Insect Flight Muscle
+  - Mechanical Work
+  - Oscillation Amplitude
+  - Glycerol-Extracted Fibers
+tldr: The study investigates the mechanical properties of insect fibrillar muscle at large oscillation amplitudes. Glycerol-extracted fibers from Lethocerus flight muscle were oscillated in a solution containing Mg-ATP and Ca2+ to generate mechanical work. The results showed that the mean tension in the muscle is critical for work production, and factors such as fiber length, Ca2+ concentration, and ADP concentration are not essential for oscillation. The study also found that linear control theory cannot be used to analyze performance at high amplitudes, and the limits of performance are likely present in living insects and are characteristics of the entire contractile material.
+scientific_discipline: Biology and Life Sciences > Muscle Physiology

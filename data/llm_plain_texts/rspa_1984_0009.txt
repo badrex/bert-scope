@@ -1,0 +1,10 @@
+article_id: rspa_1984_0009
+revised_title: Electromagnetic Surface Wave Scattering by Dielectric Spheroids
+semantic_tags:
+  - Electromagnetic waves
+  - Wave scattering
+  - Dielectric materials
+  - Spheroids
+  - Surface waves
+tldr: This article investigates the scattering of electromagnetic surface waves by dielectric spheroids. The authors find reflection and transmission coefficients for the scattering of the waves by a dielectric axisymmetric spheroid. They also explore the possibility of zero reflection of the incident wave mode and provide conditions for achieving this phenomenon.
+scientific_discipline: Physics > Electromagnetism

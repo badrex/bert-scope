@@ -1,0 +1,10 @@
+article_id: rspl_1899_0111
+revised_title: The Critical Density Ratio in Planetary Atmospheres
+semantic_tags:
+  - Planetary Atmospheres
+  - Kinetic Theory
+  - Gas Distribution
+  - Molecular Velocity
+  - Critical Surface
+tldr: The author investigates the application of the kinetic theory to planetary atmospheres, focusing on the critical density ratio and its impact on the permanence of gases in these atmospheres. The study considers gases like helium, hydrogen, and water vapor on planets like Earth and Mars, concluding that helium cannot practically escape from Earth's atmosphere, and water vapor cannot escape from Mars' atmosphere at existing temperatures.
+scientific_discipline: Environmental and Earth Sciences > Planetary Atmospheres

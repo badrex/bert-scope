@@ -1,0 +1,10 @@
+article_id: rspa_1951_0133
+revised_title: 'Anharmonicity and Frequencies of Alkali Halide Crystal Oscillations'
+semantic_tags:
+  - Crystallography
+  - Lattice oscillations
+  - Alkali halides
+  - Anharmonicity
+  - Born model
+tldr: The authors calculate the frequencies and anharmonicities of lattice oscillations in alkali halide crystals using the Born model. They find that the anharmonicity varies with the direction of oscillation and discuss its effects on the frequency of the octave and specific heat at constant volume.
+scientific_discipline: Physics > Crystallography

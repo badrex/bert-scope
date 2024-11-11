@@ -1,0 +1,10 @@
+article_id: rsta_1901_0006
+revised_title: Double Gamma Function and Double Bernoullian Numbers
+semantic_tags:
+  - Special Functions
+  - Number Theory
+  - Mathematical Analysis
+  - Algebraic Geometry
+  - Mathematical Physics
+tldr: The author introduces a double gamma function and its related double Bernoullian numbers, expanding on their properties and applications. They develop a theory for these functions, including their algebraic solutions, asymptotic expansions, and transformation properties. The double gamma function and double Bernoullian numbers have applications in various fields, such as mathematical physics and number theory.
+scientific_discipline: Mathematics > Algebra and Number Theory

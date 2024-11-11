@@ -1,0 +1,10 @@
+article_id: 110074
+revised_title: The Effects of Air Density on Chronometer Rates
+semantic_tags:
+  - Chronometry
+  - Atmospheric pressure
+  - Air density
+  - Timekeeping
+  - Physics
+tldr: George Harvey's experiments showed that chronometers gained time when placed in air with less density and lost time in air with greater density. This effect was more noticeable in pocket chronometers. The author concluded that the changes in rate were due to variations in the arc of vibration caused by changes in air density.
+scientific_discipline: Physics > Atmospheric Physics

@@ -1,0 +1,10 @@
+article_id: 'rsta_1898_0007'
+revised_title: 'On the Probable Errors of Frequency Constants and the Influence of Random Selection on Variation and Correlation'
+semantic_tags:
+  - Statistical Analysis
+  - Evolutionary Biology
+  - Natural Selection
+  - Correlation Theory
+  - Probability Distributions
+tldr: The authors discuss the probable errors of frequency constants and the influence of random selection on variation and correlation in biological populations. They explore how random selection can lead to changes in the variations and correlations of different organs, potentially contributing to the evolution and differentiation of species.
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

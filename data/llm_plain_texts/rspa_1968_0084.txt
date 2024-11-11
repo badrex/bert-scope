@@ -1,0 +1,10 @@
+article_id: rspa_1968_0084
+revised_title: 'Experimental and Theoretical Oscillator Strengths in Alkali Metal Vapours'
+semantic_tags:
+  - Atomic physics
+  - Oscillator strengths
+  - Alkali metal vapours
+  - Photoionization
+  - Atomic spectroscopy
+tldr: The authors conducted experiments and calculations to determine the oscillator strengths in alkali metal vapours. They analyzed the available experimental data on the principal line series and associated photoionization continuum for each alkali metal atom, enabling them to estimate the oscillator strengths for the high series members. The results provide a better understanding of the absorption and photoionization processes in these elements. 
+scientific_discipline: Physics > Atomic and Molecular Physics

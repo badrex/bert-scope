@@ -1,0 +1,10 @@
+article_id: rspa_1917_0002
+revised_title: On the Order of Magnitude of Fourier Series Coefficients
+semantic_tags:
+  - Fourier series
+  - Order of magnitude
+  - Convergence
+  - Cesaro summability
+  - Mathematical analysis
+tldr: The author investigates the order of magnitude of the coefficients in a Fourier series and their convergence, particularly when considering Cesaro summability. The study focuses on functions of bounded variation and their properties, providing insights into the behavior of Fourier series coefficients.
+scientific_discipline: Mathematics > Analysis

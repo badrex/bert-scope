@@ -1,0 +1,10 @@
+article_id: rspa_1930_0198
+revised_title: 'Magnetisation Direction in Ferromagnetic Single Crystals'
+semantic_tags:
+  - Ferromagnetism
+  - Crystallography
+  - Magnetic properties
+  - Crystalline field
+  - Magnetic interaction
+tldr: The authors study the direction of magnetization in single ferromagnetic crystals and propose a theory that takes into account the crystalline field, which is fixed in the crystal and interacts with each electron and its atom. The theory explains the deviation between the applied field and the magnetization in both cubic and non-cubic crystals, and it is in agreement with spectroscopic data. The study of ferromagnetic crystals might help to clarify the problem of the failure of the Weiss law just above the Curie point.
+scientific_discipline: Physics > Magnetism

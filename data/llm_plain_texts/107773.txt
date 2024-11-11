@@ -1,0 +1,10 @@
+article_id: 107773
+revised_title: 'Improving the Differential Barometer for Measuring Air Pressure'
+semantic_tags:
+  - Barometer
+  - Atmospheric pressure
+  - Fluid mechanics
+  - Instrumentation
+  - Wind measurement
+tldr: The author, William Hyde Wollaston, describes an improved differential barometer that can measure small differences in barometric pressure with greater accuracy. The instrument uses a compact glass tube with two legs connected to separate cisterns filled with water and oil. By adjusting the oil-water mixture, the instrument can detect even the slightest changes in air pressure, making it useful for measuring wind forces and understanding how air moves through spaces.
+scientific_discipline: Physics > Fluid mechanics

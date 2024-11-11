@@ -1,0 +1,10 @@
+article_id: rspa_1952_0098
+revised_title: 'Impact Excitation of the 2s Level of Atomic Hydrogen: Distorted Wave Treatment'
+semantic_tags:
+  - Atomic Physics
+  - Quantum Mechanics
+  - Atomic Scattering
+  - Impact Excitation
+  - Variational Methods
+tldr: The authors calculate the cross-section for the excitation of the 2s level of atomic hydrogen using the distorted wave method, which takes into account exchange and polarization effects. They find that this method provides a better approximation than the first-order Born-Oppenheimer method, especially when exchange effects are important. The distorted wave method can be useful for treating collisions where exchange effects are large, such as the excitation of the 2s level of atomic hydrogen.
+scientific_discipline: Physics > Atomic Physics

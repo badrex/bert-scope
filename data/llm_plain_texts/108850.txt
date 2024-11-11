@@ -1,0 +1,10 @@
+article_id: 108850
+revised_title: 'Earthquake Wave Experiments and Rock Compressibility'
+semantic_tags:
+  - Seismology
+  - Earthquake waves
+  - Rock mechanics
+  - Compression experiments
+  - Geological properties
+tldr: The author conducted experiments on the compressibility of slate and quartz rocks to understand their behavior during earthquake waves. They discovered that the softest specimens of quartz rock are more compressible than the softest slate when compressed in the direction of or parallel to the lamination. The experiments also showed that the rocks have different powers of transmitting wave-impulses depending on the amount of primary compression. These findings can help in understanding the behavior of rocks during earthquakes and the transmission of wave-impulses.
+scientific_discipline: Earth Sciences > Geology

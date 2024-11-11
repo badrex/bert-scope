@@ -1,0 +1,10 @@
+article_id: rspa_1947_0081
+revised_title: 'Solar Radio Radiation and Its Connection to Sunspots'
+semantic_tags:
+  - Solar Physics
+  - Sunspots
+  - Radio Astronomy
+  - Electromagnetic Radiation
+  - Astrophysics
+tldr: This article investigates solar radiation at radio frequencies and its connection to sunspots. The authors discovered that the radiation has characteristics similar to thermal radiation but is much stronger. They found a correlation between the day-to-day intensity variations and sunspots. Using directional observations, they determined that the radiation originates in restricted areas near sunspot groups, suggesting that another mechanism, possibly electrical discharges, produces the radiation.
+scientific_discipline: Physics > Electromagnetic Radiation

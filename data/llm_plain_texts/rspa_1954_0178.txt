@@ -1,0 +1,10 @@
+article_id: rspa_1954_0178
+revised_title: 'Thermal Decomposition of Aromatic Compounds: Dichlorobenzenes'
+semantic_tags:
+  - Organic Chemistry
+  - Thermal Decomposition
+  - Kinetics
+  - Aromatic Compounds
+  - Chlorine-Containing Compounds
+tldr: The authors studied the thermal decomposition of dichlorobenzenes and found that the three isomers behave similarly. The decomposition is a predominantly homogeneous reaction, first-order over a considerable range of pressure, with normal frequency factors and similar activation energies. The main gaseous decomposition product is hydrogen chloride, and nearly all the combined chlorine can be accounted for as this product. The carbon formed during the decomposition is largely identical to that formed from chlorobenzene.
+scientific_discipline: Chemistry > Organic Chemistry

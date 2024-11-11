@@ -1,0 +1,10 @@
+article_id: 'rspb_1963_0002'
+revised_title: 'Interference of Rabbit y-Globulin and its Fragments on the Uptake of Guinea-Pig Agglutinins in Mice'
+semantic_tags:
+  - Immunology
+  - Protein Interactions
+  - Antibody Uptake
+  - Serum Proteins
+  - Molecular Biology
+tldr: The study investigates the interference of rabbit y-globulin and its fragments on the uptake of guinea-pig agglutinins in mice. It found that rabbit serum's interference is mostly due to its y-globulin, and fragment III has at least 3.5 times greater interference than the whole y-globulin molecule. The results suggest that most of the configurations of the rabbit y-globulin molecule recognized by mouse cells as heterologous are carried on fragment III.
+scientific_discipline: Biology and Life Sciences > Immunology

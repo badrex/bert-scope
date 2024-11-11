@@ -1,0 +1,10 @@
+article_id: rspl_1892_0056
+revised_title: 'Investigation of Potential Difference and Spark Length in Air at Different Pressures'
+semantic_tags:
+  - Electrostatics
+  - Gas discharge
+  - Spark gap
+  - Atmospheric pressure
+  - Electrostatic force
+tldr: The authors conducted experiments to study the relationship between potential difference, spark length, and pressure when discharge occurs between two parallel plates in air. They found that the potential difference required to produce a spark decreases to a minimum value and then increases rapidly as the pressure diminishes. This effect was further investigated using a new apparatus, revealing that the curves connecting potential difference and pressure exhibit minima and cross each other, showing that shorter sparks require a greater potential difference at low pressures.
+scientific_discipline: Physics > Electrostatics

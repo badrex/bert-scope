@@ -1,0 +1,10 @@
+article_id: '111071'
+revised_title: 'Thermometrical Observations and Their Connection to Climate and Urban Heat Islands'
+semantic_tags:
+  - Climate
+  - Meteorology
+  - Urban Heat Islands
+  - Temperature Measurements
+  - Thermometers
+tldr: The author, James Glaisher, analyzed thermometrical observations made at the Royal Society's Apartments and the Royal Observatory at Greenwich to determine mean temperatures and establish the laws of periodic variation. He found that the vicinity of the River Thames to the observation sites contributed to higher winter temperatures and lower summer temperatures, a phenomenon known as an urban heat island effect. Glaisher also compared the temperature of the water in the Thames with simultaneous observations at the Royal Observatory, concluding that the water's temperature significantly affected the air temperature at different times of the day.
+scientific_discipline: Environmental and Earth Sciences > Climate and Meteorology

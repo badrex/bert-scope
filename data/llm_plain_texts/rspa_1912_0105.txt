@@ -1,0 +1,10 @@
+article_id: rspa_1912_0105
+revised_title: Direct Production of Characteristic X-Rays by Cathode Particles
+semantic_tags:
+  - X-rays
+  - Cathode rays
+  - Characteristic radiation
+  - Independent radiation
+  - Barkla effect
+tldr: The authors conducted experiments to study the production of characteristic X-rays by cathode particles. They discovered that the bulk of the effect is due to a direct transformation of the energy of the cathode rays into characteristic X-rays, while the indirect action suggested by Barkla and Sadler is a small remainder. The direct and indirect effects happen simultaneously when the speed of the cathode rays exceeds a definite value.
+scientific_discipline: Physics > Electromagnetism

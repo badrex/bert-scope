@@ -1,0 +1,10 @@
+article_id: rspa_1937_0199
+revised_title: 'Experimental Investigation of Gas Diffusion Coefficients'
+semantic_tags:
+  - Gas diffusion
+  - Kinetic theory
+  - Quantum theory
+  - Gas properties
+  - Experimental methods
+tldr: The authors conducted diffusion experiments with pairs of gases, nitrogen-carbon monoxide and nitrous oxide-carbon dioxide, to study their self-diffusion coefficients. The gases had similar physical properties, making the experiments a close approximation to self-diffusion. The results showed that the coefficients of self-diffusion were between the values given by the classical theory for Maxwellian molecules and rigid elastic spheres. The findings were consistent with the predictions of the quantum theory of collisions.
+scientific_discipline: Physics > Thermodynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1982_0153
+revised_title: Oscillating Stagnation Point Flow: Analytic Approximations and Applications
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Stagnation Point Flow
+  - Unsteady Flow
+  - Navier-Stokes Equations
+tldr: The authors present a solution to the Navier-Stokes equations for an incompressible oscillating stagnation point flow. They provide analytic approximations in the low and high frequency limits and discuss the application of these results to the boundary layer receptivity problem. This study contributes to the understanding of unsteady flow and its effects on boundary layers.
+scientific_discipline: Physics > Fluid Dynamics

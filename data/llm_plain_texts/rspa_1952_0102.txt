@@ -1,0 +1,10 @@
+article_id: rspa_1952_0102
+revised_title: Bose-Einstein Gas and Grand Canonical Ensembles
+semantic_tags:
+  - Statistical mechanics
+  - Quantum statistics
+  - Bose-Einstein condensation
+  - Grand canonical ensembles
+  - Quantum thermodynamics
+tldr: The article discusses the perfect Bose-Einstein gas and its properties using the theory of quantum-mechanical grand canonical ensembles. It derives the average number of particles in different energy levels, the fluctuations in these numbers, and the equation of state. The Einstein condensation phenomenon is also explored, showing that the isotherm of a perfect Bose-Einstein gas consists of two analytically different parts in the limit where the number of particles in the system goes to infinity.
+scientific_discipline: Physics > Statistical Mechanics

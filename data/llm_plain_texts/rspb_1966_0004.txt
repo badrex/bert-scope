@@ -1,0 +1,10 @@
+article_id: 'rspb_1966_0004'
+revised_title: 'Stereochemistry of Hydrogen Eliminations and C-C Bond Formations in Squalene Biosynthesis'
+semantic_tags:
+  - Cholesterol biosynthesis
+  - Stereochemistry
+  - Isopentenyl pyrophosphate
+  - Farnesyl pyrophosphate
+  - Squalene
+tldr: The authors conducted a series of experiments to study the stereochemistry of hydrogen eliminations and C-C bond formations during squalene biosynthesis. They used stereospecific chemical reactions and enzymatic methods to determine the absolute configuration of hydrogen atoms and the formation of new C-C bonds in the process. The results showed that the eliminations and bond formations were stereospecific, providing insights into the biosynthesis of cholesterol.
+scientific_discipline: Chemistry > Organic Chemistry

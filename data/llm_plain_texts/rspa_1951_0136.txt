@@ -1,0 +1,10 @@
+article_id: rspa_1951_0136
+revised_title: 'Advancements in Measuring Vapour Densities and Limiting Densities'
+semantic_tags:
+  - Gas Density
+  - Vapour Pressure
+  - Molecular Weight
+  - Compressibility
+  - Microbalance
+tldr: The authors developed a new experimental method using a microbalance and multiple-point manometer to accurately measure the densities and limiting densities of vapours at low pressures. They tested the method with benzene vapour and found it to be reliable and applicable to other vapours. This method provides a more precise way to study vapour properties and offers insights into the behaviour of vapours at low pressures.
+scientific_discipline: Chemistry > Physical Chemistry

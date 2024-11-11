@@ -1,0 +1,10 @@
+article_id: 'rsta_1918_0007'
+revised_title: 'Intensities of Spectral Lines in Hydrogen and Helium'
+semantic_tags:
+  - Spectroscopy
+  - Atomic Physics
+  - Intensity Measurements
+  - Spectral Series
+  - Photographic Intensity
+tldr: The authors conducted a study on the relative intensities of hydrogen and helium spectral lines under different conditions. They used a neutral-tinted wedge and a spectrophotometer to measure the intensities, which were then converted into photographic intensities. This research aimed to improve our understanding of the distribution of intensity in spectral series and the relationship between different series, which is essential for the study of celestial spectra and the constitution of atoms.
+scientific_discipline: Physics > Atomic Physics

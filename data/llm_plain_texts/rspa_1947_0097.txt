@@ -1,0 +1,10 @@
+article_id: rspa_1947_0097
+revised_title: Vibration Spectrum and Molecular Configuration of 1,4-Dioxane
+semantic_tags:
+  - Molecular configuration
+  - Vibration spectrum
+  - Infrared spectroscopy
+  - Raman spectroscopy
+  - Dioxane
+tldr: The authors investigated the vibration spectrum and molecular configuration of 1,4-dioxane using infrared and Raman spectroscopy. They found that the symmetry properties and selection rules for the normal vibrations of 1,4-dioxane do not differentiate between the 'chair' and planar configurations. However, the number of observed infrared frequencies slightly favors the 'chair' structure. The authors also calculated the vibration frequencies of the dioxane ring using a simple valency force field and derived information about the strengths of the C-C and C-O bonds in the molecule.
+scientific_discipline: Chemistry > Organic Chemistry

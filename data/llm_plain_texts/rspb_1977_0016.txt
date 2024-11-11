@@ -1,0 +1,10 @@
+article_id: 'rspb_1977_0016'
+revised_title: 'Computer-Controlled Learning in Insects: A Model System for Cellular Neuronal Events'
+semantic_tags:
+  - Neurobiology
+  - Learning
+  - Insect Physiology
+  - Operant Conditioning
+  - Tonic Motoneurone
+tldr: The authors developed computer programs for on-line control of training in an insect preparation, allowing them to study cellular neuronal events underlying learning. They demonstrated that locusts could learn to change the frequency of discharge of a tonic motoneurone, showing that plasticity of tonic motoneurones may be a widespread phenomenon. This preparation can serve as a model system for cellular learning studies, with both up-learning and down-learning occurring and being reversible.
+scientific_discipline: Biology and Life Sciences > Neurobiology

@@ -1,0 +1,10 @@
+article_id: rspa_1970_0003
+revised_title: 'Optical Study of Pre-Ignition Heat Release in Ethylene-Air Mixtures'
+semantic_tags:
+  - Combustion
+  - Heat Release Rate
+  - Ignition Phenomena
+  - Optical Methods
+  - Fluid Dynamics
+tldr: This study measures the distributions of temperature and velocity in an ethylene-air mixture flowing against a heated surface to determine the profile of heat release rate before ignition. The research uses optical methods, such as cine-interferometry and particle tracking, to investigate the heat release rate-temperature relation and compare it with flame structure analysis. The findings reveal a constant activation energy of 8.8 kcal and differ from heat release rate laws in equivalent premixed flat flames, providing insights into predicting ignition in flow systems.
+scientific_discipline: Physics > Fluid Dynamics

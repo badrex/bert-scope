@@ -1,0 +1,10 @@
+article_id: rspa_1955_0160
+revised_title: 'An Analytical Solution of Navier-Stokes Equations for Fluctuating Fluid Flow'
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Laminar Flow
+  - Kinetic Temperature
+  - Asymptotic Suction
+tldr: The author presents an exact solution of the Navier-Stokes equations for a two-dimensional fluid flow with a fluctuating stream velocity. The study focuses on an infinite plane porous wall with a constant velocity component normal to the wall. The findings demonstrate how velocity fluctuations affect the skin friction and the kinetic temperature of the wall, providing insights into the behavior of boundary layers under fluctuating conditions.
+scientific_discipline: Physics > Fluid Dynamics

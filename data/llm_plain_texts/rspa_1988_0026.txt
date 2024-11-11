@@ -1,0 +1,10 @@
+article_id: rspa_1988_0026
+revised_title: Crystal Field and Zeeman Spectrum of Enhanced Nuclear Magnet HoVO4
+semantic_tags:
+  - Crystal Field Theory
+  - Zeeman Effect
+  - Van Vleck Paramagnetism
+  - Lanthanide Compounds
+  - Nuclear Magnetism
+tldr: The authors studied the crystal field and Zeeman spectrum of the enhanced nuclear magnet HoVO4. They used a novel approach to fit the experimental results and found agreement with the optical spectrum for the lowest energy levels. The optical Zeeman effect was calculated and compared with the experimental results for magnetic fields up to 15.
+scientific_discipline: Physics > Optics

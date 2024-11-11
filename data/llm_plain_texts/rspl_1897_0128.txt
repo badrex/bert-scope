@@ -1,0 +1,10 @@
+article_id: rspl_1897_0128
+revised_title: Ancestral Heredity and Regression in Inheritance
+semantic_tags:
+  - Genetics
+  - Heredity
+  - Regression analysis
+  - Evolutionary biology
+  - Population genetics
+tldr: The author discusses the concept of ancestral heredity and regression in inheritance, proposing a new interpretation of Galton's law. By considering the correlation between offspring and ancestors, the author develops a formula that can predict the values of all correlation coefficients of heredity and form the basis for understanding inheritance patterns.
+scientific_discipline: Mathematics > Statistics

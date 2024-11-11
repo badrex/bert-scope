@@ -1,0 +1,10 @@
+article_id: rspa_1920_0033
+revised_title: The Development and Theory of the Katharometer
+semantic_tags:
+  - Gas analysis
+  - Thermal conductivity
+  - Wheatstone bridge
+  - Instrumentation
+  - Gas purity
+tldr: The authors developed the katharometer, an instrument that measures the purity of gases by detecting changes in thermal conductivity. They describe the apparatus, its working principle, and the theory behind it. The katharometer proved valuable during wartime for testing hydrogen purity in balloons and airship fabrics, as well as for research purposes.
+scientific_discipline: Physics > Thermodynamics

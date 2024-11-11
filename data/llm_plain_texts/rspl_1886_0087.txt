@@ -1,0 +1,10 @@
+article_id: rspl_1886_0087
+revised_title: 'Stellar Photography and Photometry: Establishing a Relationship Between Image Diameters and Photometric Magnitudes'
+semantic_tags:
+  - Astrophotography
+  - Photometry
+  - Stellar measurements
+  - Astronomical observations
+  - Star brightness
+tldr: The author conducted a series of experiments to establish a relationship between the diameters of photographic images of stars and their photometric magnitudes. They found that there is a definite relation between the two, which can be used to improve astronomical observations and measurements. This research also highlights the importance of considering factors such as exposure time, altitude, and the chemical composition of the photographic film in obtaining accurate results.
+scientific_discipline: Astronomy > Astrophotography

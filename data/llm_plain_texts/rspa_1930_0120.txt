@@ -1,0 +1,10 @@
+article_id: rspa_1930_0120
+revised_title: Investigating the Exchange of Energy Between Gas, Solid, and Adsorbed Layer in Vacuo
+semantic_tags:
+  - Surface Science
+  - Adsorption
+  - Gas-solid interactions
+  - Vacuum technology
+  - Thermal efficiency
+tldr: The authors developed a method to detect variations in the thermal efficiency of molecular collisions between gas, solid, and adsorbed layers in a vacuum. They observed a 20% change in a certain function of the accommodation coefficient as the surface was progressively freed from adsorbed vapour. This method can help in understanding the physics of adsorption and heterogeneous chemical reactions.
+scientific_discipline: Physics > Surface Science

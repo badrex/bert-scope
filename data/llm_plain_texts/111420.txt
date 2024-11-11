@@ -1,0 +1,10 @@
+article_id: 111420
+revised_title: Further Studies on the Partition of Numbers
+semantic_tags:
+  - Number Theory
+  - Combinatorics
+  - Mathematical Theorems
+  - Abstract Algebra
+  - Mathematical Applications
+tldr: Arthur Cayley's paper is an extension of his previous work on the partition of numbers. It includes additional developments related to a specific theorem and an application to determine the expression for P(1, 2, 3, 4, 5, 6)9.
+scientific_discipline: Mathematics > Number Theory

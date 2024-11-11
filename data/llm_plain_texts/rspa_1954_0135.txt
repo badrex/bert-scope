@@ -1,0 +1,10 @@
+article_id: rspa_1954_0135
+revised_title: 'Thermal and Magnetic Properties of Chromium Methylamine Alum'
+semantic_tags:
+  - Magnetism
+  - Chromium compounds
+  - Adiabatic demagnetization
+  - Low-temperature physics
+  - Thermodynamics
+tldr: The authors conducted experiments on chromium methylamine alum to study its thermal and magnetic properties at low temperatures. They determined the absolute temperature down to 0.01 K and found the Curie point at 0.7 K. The results were compared with theory and showed good agreement above the Curie point. The study enabled a comparison between the Curie points of two alums differing only in their monovalent cations.
+scientific_discipline: Physics > Magnetism

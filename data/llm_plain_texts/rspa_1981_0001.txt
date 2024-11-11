@@ -1,0 +1,10 @@
+article_id: rspa_1981_0001
+revised_title: Frictional Anisotropy of Diamond: A Study of Load and Stylus Radius Effects
+semantic_tags:
+  - Friction
+  - Diamond
+  - Crystallography
+  - Surface Science
+  - Material Science
+tldr: This study investigates the frictional anisotropy of diamond by examining the effects of load and stylus radius. The results show that the frictional anisotropy disappears below a critical load, which is proportional to the stylus's radius of curvature. The critical contact pressure for both type I and type II diamonds is found to be around 20 GN. The frictional anisotropy is attributed to surface and subsurface damage produced in preferred crystallographic directions by the sliding process itself, which leads to crack formation and plastic deformation.
+scientific_discipline: Material Science > Crystallography

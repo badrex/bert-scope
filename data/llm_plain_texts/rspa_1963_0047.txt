@@ -1,0 +1,10 @@
+article_id: rspa_1963_0047
+revised_title: 'Vibrationally Excited Cyanogen Radicals: Flash Photolysis of Cyanogen and Cyanogen Halides'
+semantic_tags:
+  - Chemical reactions
+  - Flash photolysis
+  - Cyanogen radicals
+  - Vibrationally excited molecules
+  - Spectroscopy
+tldr: The authors studied the flash photolysis of cyanogen, cyanogen bromide, and cyanogen iodide to produce and observe vibrationally excited cyanogen radicals spectroscopically. They found that these radicals were produced by excitation from the zeroth levels and that the vibrationally excited species were not created by excess energy appearing as electronic excitation of the CN radical. The rate constant for the recombination of cyanogen radicals at room temperature was also determined.
+scientific_discipline: Chemistry > Chemical reactions and kinetics

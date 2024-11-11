@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0131'
+revised_title: 'Ammonium Release Characteristics in High Maltose-Releasing Symbiotic Chlorella Strains'
+semantic_tags:
+  - 'Symbiosis'
+  - 'Chlorella'
+  - 'Ammonium release'
+  - 'Maltose'
+  - 'Carbon metabolism'
+tldr: 'This study investigates the characteristics of ammonium release by a high maltose-releasing strain of Chlorella, called 3N813A. The research finds that the release of ammonium is significantly higher in darkness and is stimulated by amino acids and the glutamine synthetase inhibitor methionine sulphoximine. The findings suggest that ammonium release may be a result of deamination and an inability to reassimilate ammonium due to limited 2-oxoglutarate supply. This process may be similar to that in ferredoxin-dependent glutamate synthase-deficient mutants of higher plants.'
+scientific_discipline: Biology and Life Sciences > Symbiosis

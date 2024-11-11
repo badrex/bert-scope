@@ -1,0 +1,10 @@
+article_id: rsta_1975_0098
+revised_title: Ionospheric Alteration by Man-Made Waves: A Review of Early Research and Theoretical Developments
+semantic_tags:
+  - Ionospheric research
+  - Plasma physics
+  - Electromagnetic waves
+  - Parametric instabilities
+  - Radio wave transmissions
+tldr: This article discusses the early days of ionospheric research and the effects of man-made radio waves on the ionosphere and magnetosphere. The author describes various observed phenomena, such as artificial spread F, field-aligned scatter, and airglow enhancement, and provides a theoretical framework for understanding these effects. The article highlights the interplay between observation and theory in this field and emphasizes the need for further experimental and theoretical work to fully understand the underlying processes.
+scientific_discipline: Physics > Plasma Physics

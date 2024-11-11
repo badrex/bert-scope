@@ -1,0 +1,10 @@
+article_id: rspa_1991_0051
+revised_title: Thermal Explosion Theory with Arrhenius Kinetics: Inhomogeneous Media
+semantic_tags:
+  - Thermal explosion
+  - Arrhenius kinetics
+  - Inhomogeneous media
+  - Effective thermal diffusivity
+  - Random distribution
+scientific_discipline: Environmental and Earth Sciences > Thermodynamics
+tldr: This article explores the thermal explosion theory with Arrhenius kinetics in inhomogeneous media. It considers a slab with a random distribution of reactants and replaces it with a homogeneous medium with an effective temperature distribution and thermal diffusivity. The analysis shows that a random distribution decreases the thermal stability when compared to criticality with mean properties.

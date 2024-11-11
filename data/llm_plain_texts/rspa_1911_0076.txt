@@ -1,0 +1,10 @@
+article_id: 'rspa_1911_0076'
+revised_title: 'Investigation of the Resistance to Motion of a Thread of Mercury in a Glass Tube'
+semantic_tags:
+  - Fluid dynamics
+  - Surface tension
+  - Viscosity
+  - Capillary action
+  - Mercury
+tldr: The authors studied the resistance to motion of a thread of mercury in a glass tube, considering both surface tension and viscosity forces. They developed an expression for the pressure necessary to drive the drop with a given velocity and tested their formula using experiments with different tube diameters and mercury threads.
+scientific_discipline: Physics > Fluid Dynamics

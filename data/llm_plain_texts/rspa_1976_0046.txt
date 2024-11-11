@@ -1,0 +1,11 @@
+article_id: rspa_1976_0046
+revised_title: Asymptotic Theory for Stefan's Problem for Spheres
+semantic_tags:
+  - Heat Conduction
+  - Stefan Problem
+  - Asymptotic Analysis
+  - Solidification
+  - Thermal Conductivity
+tldr: The authors provide an asymptotic theory for Stefan's problem, which involves heat conduction and phase transitions across moving boundaries, specifically focusing on the inward solidification of a sphere. They develop an outer solution and an inner solution, and explain the crucial role of the innermost region in determining the final temperature profile. The study may help with questions of uniqueness and provide insights into the behavior of materials undergoing phase transitions.
+scientific_discipline: Mathematics > Applied Mathematics
+```

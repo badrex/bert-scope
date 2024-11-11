@@ -1,0 +1,10 @@
+article_id: rspa_1964_0003
+revised_title: 'Relativistic Analysis of Shock Waves in an Ultra-Relativistic Fluid'
+semantic_tags:
+  - Relativistic Fluid Dynamics
+  - Shock Waves
+  - Ultra-Relativistic Gas
+  - Conservation Equations
+  - Special Theory of Relativity
+tldr: The authors analyze the motion of plane shock waves in an ultra-relativistic fluid using the special theory of relativity. They derive equations for the properties of normal and oblique shock waves and demonstrate that the equation of state for an ultra-relativistic gas makes the problem determinate. The study focuses on an ultra-relativistic gas, such as pure radiation, and avoids questions of relativistic thermodynamics and statistical mechanics.
+scientific_discipline: Physics > Fluid Dynamics

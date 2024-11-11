@@ -1,0 +1,10 @@
+article_id: rsta_1994_0083
+revised_title: 'Exploring Local Order in Polymer Glasses and Melts'
+semantic_tags:
+  - Polymer Physics
+  - Local Order
+  - Chain Segments
+  - Molecular Arrangements
+  - Neutron Scattering
+tldr: This article explores the local order in polymer glasses and melts, moving beyond the simple consideration of local parallelism of chain segments to focus on the relationship between local chemical order and molecular arrangements. The authors evaluate recent developments in neutron scattering and atomistic computer simulations to understand the local structure of polymer systems, discussing the role of chain interactions in blends and deformation.
+scientific_discipline: Physics > Materials Science

@@ -1,0 +1,10 @@
+article_id: rsta_1898_0006
+revised_title: Electrification of Air, Gases, and Atmospheric Electricity
+semantic_tags:
+  - Atmospheric Electricity
+  - Electrification
+  - Gas Properties
+  - Electrometry
+  - Electric Filters
+tldr: The authors conducted experiments on the electrification of air and other gases, using various methods to test the electrification and diselectrification of air. They discovered that certain filters, such as a filter made of fine brass filings, could effectively remove electricity from electrified air. The authors also found the greatest electric density they could communicate to air using electrified needle points and discussed the potential use of their findings in meteorological observatories.
+scientific_discipline: Physics > Electromagnetism

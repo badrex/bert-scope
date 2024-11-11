@@ -1,0 +1,10 @@
+article_id: rspa_1936_0036
+revised_title: The Inertia of Electrons in Metals: A Study of Acceleration and Electric Force
+semantic_tags:
+  - Electromechanics
+  - Conductivity
+  - Quantum mechanics
+  - Electron acceleration
+  - Metal physics
+tldr: The author investigates the relationship between the acceleration of metals and the apparent mass of electrons within them. They find that the mass of electrons in metals, as measured in experiments, is the same as the mass of free electrons and is not affected by the disturbance of energy levels. This discovery helps to understand the lattice structure of metals and the behavior of electrons within them.
+scientific_discipline: Physics > Electromechanics

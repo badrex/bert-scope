@@ -1,0 +1,10 @@
+article_id: 'rsta_1988_0022'
+revised_title: 'Improving Weather Forecasting with Satellite Imagery and Numerical Models'
+semantic_tags:
+  - Meteorology
+  - Satellite Imagery
+  - Numerical Weather Prediction
+  - Mesoscale Weather
+  - Interactive Forecasting
+tldr: This article discusses the integration of meteorological satellite imagery and numerical dynamical forecast models to improve weather forecasting. The authors describe the use of a videographic interactive computer system, such as McIDAS, to overlay model forecast fields over satellite imagery, allowing for dynamic assessment of forecast accuracy. The system can help diagnose phase and amplitude errors in real-time, leading to improved numerical weather forecasts. The authors provide an example of using this system to analyze a cyclone off the east coast of the United States, demonstrating the potential impact of this technology on future weather analysis and forecasting.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

@@ -1,0 +1,10 @@
+article_id: rstb_1991_0058
+revised_title: Comparative Analysis of Carbon Flows in Six Marine Ecosystems
+semantic_tags:
+  - Marine Ecology
+  - Network Analysis
+  - Ecosystem Evolution
+  - Ascendancy
+  - System Maturity
+tldr: This study compares six marine ecosystems worldwide, using a network analysis of carbon flows in the Swartkops and Ems estuaries, Chesapeake Bay, the Baltic Sea, and the Peruvian and Benguela upwelling regions. The authors find an inverse correlation between the Finn Cycling Index and the normalized internal ascendancy or system maturity. They also show that the production-to-biomass ratio cannot be used as an indicator of marine ecosystem evolution. The study concludes that a network representation is a suitable methodology for inter-ecosystem comparisons.
+scientific_discipline: Environmental and Earth Sciences > Ecology

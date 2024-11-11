@@ -1,0 +1,10 @@
+article_id: rspl_1896_0066
+revised_title: 'Selective Conductivity in Polarising Substances: Nemalite and Chrysotile'
+semantic_tags:
+  - Electromagnetism
+  - Conductivity
+  - Polarization
+  - Crystallography
+  - Material Science
+tldr: The authors, Jagadis Chunder Bose and Lord Rayleigh, studied the selective conductivity of polarizing substances, specifically nemalite and chrysotile. They discovered that these materials exhibit double conductivity and double absorption, which leads to the polarization of electric rays. This research suggests that substances with a double-conducting structure often show double absorption and consequent polarization. The authors also found that an ordinary book can act as a perfect polarizer of electric rays due to its unequal conductivity in different directions.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rsta_1978_0002
+revised_title: Creep of Engineering Materials and Earth: A Comparative Study
+semantic_tags:
+  - Creep mechanics
+  - Earth's crust deformation
+  - Geological processes
+  - Material science
+  - Viscosity of materials
+tldr: This article discusses the similarities and differences in the mechanisms of slow deformation of solids at elevated temperatures in engineering materials and the Earth's crust. It explores the various types of creep, their laws, and the materials involved in these processes. The article also highlights the importance of understanding these mechanisms to predict the behavior of geological features and design more durable engineering components.
+scientific_discipline: Earth Sciences > Geology

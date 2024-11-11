@@ -1,0 +1,10 @@
+article_id: rspa_1946_0063
+revised_title: 'Investigation of the Photochemical Polymerization Mechanism of Methyl Vinyl Ketone Vapour'
+semantic_tags:
+  - Polymerization
+  - Photochemistry
+  - Methyl Vinyl Ketone
+  - Reaction Kinetics
+  - Free Radical Mechanism
+tldr: The authors investigated the photochemical polymerization of methyl vinyl ketone vapour, focusing on the reaction kinetics and the role of pressure and temperature. They found that the reaction has an abnormal high pressure dependence and a negative temperature coefficient, suggesting a branched chain mechanism. The polymerization occurs through the splitting of the methyl vinyl ketone molecule into free radicals, leading to a free radical polymerization process.
+scientific_discipline: Chemistry > Polymer Chemistry

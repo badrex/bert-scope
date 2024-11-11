@@ -1,0 +1,10 @@
+article_id: 111918
+revised_title: Improving the Method for Measuring Electric Resistance
+semantic_tags:
+  - Electrical resistance
+  - Measurement
+  - Conductivity
+  - Wheatstone's bridge
+  - Electricians
+tldr: The author presents a new method for measuring electric resistance that minimizes errors caused by uncertainty in connections. The method involves using two auxiliary conductors, called primary and secondary testing-conductors, to divide the resistance between the standard and tested conductors. This method is particularly useful for measuring the resistances of short lengths of wire and can be applied to various types of conductors, such as mercury standards.
+scientific_discipline: Physics > Electricity and Magnetism

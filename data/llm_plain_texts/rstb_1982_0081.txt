@@ -1,0 +1,10 @@
+article_id: 'rstb_1982_0081'
+revised_title: 'Neuropsychology of Cognitive Function: Neural Systems Control of Spatial Orienting'
+semantic_tags:
+  - 'Attention control'
+  - 'Neural networks'
+  - 'Spatial orienting'
+  - 'Overt and covert attention'
+  - 'Parietal lobe'
+tldr: 'The article investigates the time course and effects of mid-brain and cortical damage on the components of spatial orienting. It explores the relationship between covert attention movements and eye movements, and how attention can be drawn from external sources or moved according to internal expectations. The study also examines the balance between orienting of attention and sensory inhibition, and its implications for cognitive function.'
+scientific_discipline: 'Neuroscience > Attention control'

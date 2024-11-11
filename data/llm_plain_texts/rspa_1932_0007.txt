@@ -1,0 +1,10 @@
+article_id: rspa_1932_0007
+revised_title: High-Pressure Oxidation of Methane and Formation of Methyl Alcohol
+semantic_tags:
+  - Combustion chemistry
+  - High-pressure reactions
+  - Methane oxidation
+  - Methyl alcohol formation
+  - Hydroxylation theory
+tldr: The authors conducted experiments on the slow combustion of methane at high pressures and discovered that methyl alcohol is formed as the primary oxidation product. Their findings support the hydroxylation theory of hydrocarbon combustion, which states that hydrocarbons are oxidized by hydroxyl groups, rather than peroxides. The experiments were carried out at high pressures to favor the survival of the alcohol, as at ordinary pressures, further oxidation occurs rapidly.
+scientific_discipline: Chemistry > Combustion Chemistry

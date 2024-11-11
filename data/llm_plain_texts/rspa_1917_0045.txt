@@ -1,0 +1,10 @@
+article_id: 'rspa_1917_0045'
+revised_title: 'Historical Note on the Relation between Gravitational Attraction and Elastic Depression in Isotropic Elastic Solids'
+semantic_tags:
+  - Elasticity
+  - Geophysics
+  - Solid mechanics
+  - Gravity
+  - Earth's surface
+tldr: This article discusses the relationship between the gravitational attraction of a load and the elastic depression caused by that load on an isotropic elastic solid. The author presents a historical overview of the topic, tracing its origins to a note by Sir G. H. Darwin in 1882. The article focuses on the case of an incompressible material and provides a proof for this specific scenario.
+scientific_discipline: Environmental and Earth Sciences > Geophysics

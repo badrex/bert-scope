@@ -1,0 +1,10 @@
+article_id: 'rspa_1928_0117'
+revised_title: 'Series in the Spark Spectra of Germanium: A Theoretical and Experimental Analysis'
+semantic_tags:
+  - Atomic physics
+  - Germanium spectroscopy
+  - Quantum mechanics
+  - Spectral series
+  - Periodic Table
+tldr: The authors analyzed the spark spectrum of germanium to identify series systems and assign them to specific stages of ionization. They found that the structure of the germanium spectrum is in agreement with theoretical predictions based on the Periodic Table and quantum mechanics. The study provides a deeper understanding of germanium's atomic structure and its place in the periodic table.
+scientific_discipline: Chemistry > Atomic Physics

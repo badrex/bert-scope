@@ -1,0 +1,10 @@
+article_id: rspa_1994_0077
+revised_title: High-Resolution Laser-Radiofrequency Double Resonance Molecular Spectroscopy: Advances and Applications
+semantic_tags:
+  - Laser spectroscopy
+  - Radiofrequency spectroscopy
+  - Molecular spectroscopy
+  - Vibrational-rotational transitions
+  - Nuclear hyperfine splitting
+scientific_discipline: Chemistry > Spectroscopy
+tldr: This article presents a high-resolution laser-radiofrequency double resonance molecular spectroscopy technique that combines a carbon dioxide laser with radiofrequency spectroscopy to study molecular vibration-rotation states and nuclear hyperfine splitting. The new resolution and precision available are applied to hyperfine transitions in the ground and excited states of molecules, leading to a critical assessment of current theoretical approaches and the introduction of a new term to represent vibration-nuclear magnetic coupling.

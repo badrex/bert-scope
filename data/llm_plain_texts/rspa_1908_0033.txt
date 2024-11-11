@@ -1,0 +1,10 @@
+article_id: 'rspa_1908_0033'
+revised_title: 'Comparison of the Board of Trade Ampere-Standard Balance and Ayrton-Jones Current-Weigher'
+semantic_tags:
+  - Electrical Standards
+  - Current Measurement
+  - Electromotive Force
+  - Board of Trade Balance
+  - Ayrton-Jones Current-Weigher
+tldr: The authors compared the Board of Trade ampere-standard balance and the Ayrton-Jones current-weigher to determine the accuracy and relationship between the two instruments. They found that the currents measured by the Board of Trade balance were approximately 1% higher than their values in terms of the Ayrton-Jones balance. This result is satisfactory as it confirms the intended standards for the Board of Trade ampere and the ampere as determined by the Ayrton-Jones balance.
+scientific_discipline: Engineering and Technology > Electrical Engineering

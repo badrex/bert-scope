@@ -1,0 +1,10 @@
+article_id: 'rspb_1967_0026'
+revised_title: 'Investigating the Role of the Visuo-Motor System in Octopus Locomotion'
+semantic_tags:
+  - Cephalopod neurobiology
+  - Locomotion
+  - Optic lobe
+  - Peduncle lobe
+  - Visual system
+tldr: The study investigates the effects of lesions to the visuo-motor system in Octopus, specifically the optic and peduncle lobes, on the animal's locomotion. The results show that both systems are necessary for complete visual motor control, with the peduncle lobe playing a crucial role in maintaining posture and controlling the contralateral motor system. The optic lobes are the prime instigators of motor commands following visual stimuli, while the peduncle lobes modify these commands based on changing visual cues.
+scientific_discipline: Biology and Life Sciences > Neurobiology and Behavior

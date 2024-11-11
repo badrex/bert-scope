@@ -1,0 +1,10 @@
+article_id: 'rspb_1909_0029'
+revised_title: 'Electrical Detection of Tubercle Bacilli in Urine'
+semantic_tags:
+  - Bacteriology
+  - Electrochemistry
+  - Tuberculosis
+  - Urine analysis
+  - Microbiology
+tldr: The authors conducted experiments to determine if bacteria could be attracted to an electrode through an electric current. They found that certain bacteria, including the tubercle bacillus, could be attracted to the electrodes in different electrolytes. They then applied this knowledge to develop a method for detecting tubercle bacilli in urine using an electric current. This method could potentially help in the diagnosis of tuberculosis.
+scientific_discipline: Biology and Life Sciences > Microbiology

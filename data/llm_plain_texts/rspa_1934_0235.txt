@@ -1,0 +1,10 @@
+article_id: rspa_1934_0235
+revised_title: 'Experimental Determination of Mean Lives of Excited Hydrogen Atoms'
+semantic_tags:
+  - Atomic Physics
+  - Spectroscopy
+  - Quantum Mechanics
+  - Hydrogen Atom
+  - Collision Radius
+tldr: The authors used a Kerr cell and a Geissler tube to study the mean lives of excited hydrogen atoms. They found that the mean life of the state decreases with increasing pressure, which allowed them to determine the probability of a collision resulting in the atom leaving the state. This led to the calculation of the collision radius, which is the average distance between the centers of colliding molecules for collisions that affect transitions from the state.
+scientific_discipline: Physics > Atomic Physics

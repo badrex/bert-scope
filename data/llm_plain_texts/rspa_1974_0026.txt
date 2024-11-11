@@ -1,0 +1,10 @@
+article_id: rspa_1974_0026
+revised_title: 'New Method for Measuring Mutual Diffusion Coefficients in Ethanol-Water Mixtures'
+semantic_tags:
+  - Diffusion coefficient
+  - Ethanol-water mixtures
+  - Liquid phase diffusion
+  - Laminar flow
+  - Liquid chromatography
+scientific_discipline: Chemistry > Physical Chemistry
+tldr: The authors developed a rapid and simple method to measure the mutual diffusion coefficient of ethanol-water mixtures using liquid chromatography and laminar flow. The technique involves measuring the dispersion of a tracer pulse in a fluid flowing through a tube and is based on Taylor's analysis of solute dispersion. This method provides accurate and reliable results for the entire composition range and can be used to evaluate friction coefficients in the statistical mechanical theory of transport in liquid mixtures.

@@ -1,0 +1,10 @@
+article_id: 'rspb_1957_0041'
+revised_title: 'Iron Deficiency Effects on Pea Root Growth and Metabolism'
+semantic_tags:
+  - Plant Physiology
+  - Iron Deficiency
+  - Root Growth
+  - Metabolic Processes
+  - Pea Plants
+tldr: 'This study investigates the impact of iron deficiency on the growth and metabolism of pea roots. Researchers found that when roots are cultured in an iron-deficient medium, growth ceases after seven days due to a halt in cell division. The synthesis of amino acids continues, but they accumulate in mature cells instead of being used for new cell formation. The study also suggests a possible link between the cessation of cell division and the activity of a cytochrome oxidase system, which may require a minimal amount of iron for cell formation.'
+scientific_discipline: Biology and Life Sciences > Plant Physiology

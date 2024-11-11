@@ -1,0 +1,10 @@
+article_id: rspa_1980_0089
+revised_title: Motion of a Charged Black Hole in an Electromagnetic Field
+semantic_tags:
+  - Black Holes
+  - Electromagnetic Fields
+  - Gravitational Perturbations
+  - Hamiltonian Formalism
+  - Reissner-Nordstrom Black Hole
+tldr: The authors analyze the motion of a charged black hole in a weak, uniform electric field using the Hamiltonian formalism for coupled electromagnetic and gravitational perturbations of the Reissner-Nordstrom metric. They find that the black hole accelerates according to Newton's law and explain the relation of their approximate solution to Ernst's exact solution representing the charged-metric without nodal singularity.
+scientific_discipline: Physics > Electromagnetism

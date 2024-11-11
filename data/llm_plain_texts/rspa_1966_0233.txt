@@ -1,0 +1,10 @@
+article_id: rspa_1966_0233
+revised_title: Spin Waves and Ferromagnetic Stability in Metals
+semantic_tags:
+  - Spin waves
+  - Ferromagnetism
+  - Band theory of metals
+  - Magnetic properties
+  - Alloy systems
+tldr: This article discusses the experimental and theoretical background of spin waves and their stability in metals. The authors review the coefficient in the spin wave dispersion law and its correlation with other magnetic properties of metals and alloys, such as the Curie temperature. They present a calculation of the coefficient for a simple cubic lattice and explore the factors influencing its value, such as the effective interaction between itinerant electrons and the number of electrons per atom. The authors also test the stability of the ferromagnetic ground state by considering a phase diagram relating the reduced effective interaction with the number of electrons per atom.
+scientific_discipline: Physics > Condensed Matter Physics

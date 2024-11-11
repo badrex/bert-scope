@@ -1,0 +1,10 @@
+article_id: 'rstb_1990_0188'
+revised_title: 'Exploring Density Dependence, Regulation, and Variability in Animal Populations'
+semantic_tags:
+  - Population Ecology
+  - Density Dependence
+  - Population Regulation
+  - Population Variability
+  - Animal Populations
+tldr: This article reviews various approaches to studying density dependence, regulation, and variability in animal populations using single-species, multi-species, and life table time series data. The author emphasizes the importance of understanding the degree of density dependence in the level of variability, which is related to population regulation. The study finds that vertebrates generally have less variable populations than arthropods, and the degree of density dependence of variability is negatively correlated with the average level of variability, suggesting that more regulated populations are less variable.
+scientific_discipline: Biology and Life Sciences > Ecology

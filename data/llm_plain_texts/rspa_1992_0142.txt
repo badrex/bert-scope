@@ -1,0 +1,10 @@
+article_id: rspa_1992_0142
+revised_title: Compression Dependence of Element Melting: Understanding Anomalous and Normal Melting
+semantic_tags:
+  - Thermodynamics
+  - Melting point
+  - Compression
+  - Anomalous melting
+  - Crystal and liquid phases
+tldr: This article investigates the effect of compression on the melting of elements, distinguishing between normal and anomalous melting. It explores the entropy of fusion and the density derivative of the melting function, providing insights into the behavior of elements under compression and the role of electronic structure in the melting process.
+scientific_discipline: Physics > Thermodynamics

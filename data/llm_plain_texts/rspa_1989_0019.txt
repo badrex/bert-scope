@@ -1,0 +1,10 @@
+article_id: rspa_1989_0019
+revised_title: Wave Propagation in Transversely Isotropic Elastic Media
+semantic_tags:
+  - Elasticity
+  - Wave Propagation
+  - Transverse Isotropy
+  - Homogeneous Plane Waves
+  - Surface Waves
+tldr: This article presents a detailed study of wave propagation in transversely isotropic elastic media, focusing on homogeneous plane waves. The authors classify materials based on their plane-wave speeds and examine the shape of the slowness surface, which helps understand the behavior of surface waves. They also discuss exceptional transonic states, where certain waves produce zero traction on specific planes, and provide calculations for the limiting speeds of these states.
+scientific_discipline: Physics > Mechanics

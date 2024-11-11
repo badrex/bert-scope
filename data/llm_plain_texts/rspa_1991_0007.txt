@@ -1,0 +1,10 @@
+article_id: rspa_1991_0007
+revised_title: Tangled Saddle-Node Bifurcation and Indeterminate Jumps to Resonance
+semantic_tags:
+  - Chaos Theory
+  - Nonlinear Dynamics
+  - Bifurcation Theory
+  - Resonance Phenomena
+  - Fractal Geometry
+tldr: The authors identify a new type of bifurcation called the "tangled saddle-node" that causes indeterminate jumps to resonance in dissipative systems. This phenomenon occurs when a system sits on a fractal basin boundary, making the outcome of the jump unpredictable. The authors demonstrate this new phenomenon in various softening oscillators and discuss its implications for resonance and escape boundaries in nonlinear dynamics.
+scientific_discipline: Mathematics > Chaos Theory

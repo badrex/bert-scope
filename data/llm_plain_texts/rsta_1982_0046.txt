@@ -1,0 +1,10 @@
+article_id: rsta_1982_0046
+revised_title: Advances in Atomic Absorption and Atomic Fluorescence Methods of Elemental Analysis
+semantic_tags:
+  - Analytical Chemistry
+  - Atomic Absorption Spectroscopy
+  - Atomic Fluorescence Spectroscopy
+  - Elemental Analysis
+  - Atomization Techniques
+tldr: This article discusses the merits and limitations of atomic absorption and atomic fluorescence methods of elemental analysis. It covers the principles, atomization techniques, and advancements in these methods, including electrothermal atomization and simultaneous multi-element analysis. The article also highlights the challenges faced by these methods, such as incomplete atomization and matrix interferences, and the potential for further development and improvement.
+scientific_discipline: Chemistry > Analytical Chemistry

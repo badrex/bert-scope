@@ -1,0 +1,10 @@
+article_id: rsta_1895_0012
+revised_title: Oscillations of a Rotating Ellipsoidal Shell Containing Fluid
+semantic_tags:
+  - Fluid dynamics
+  - Ellipsoidal shell
+  - Oscillations
+  - Earth's rotation
+  - Vortex motion
+tldr: The author investigates the oscillations of a rotating ellipsoidal shell containing fluid, focusing on the effects of the fluid's motion on the shell. They find that the oscillations can be of two types: one type is similar to forced nutations of the Earth, while the other type is analogous to the motion of a rigid body. The study provides insight into the complex interactions between the Earth's interior and its surface, and the possible influence on latitude variations.
+scientific_discipline: Physics > Fluid dynamics

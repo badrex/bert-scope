@@ -1,0 +1,10 @@
+article_id: rstb_1994_0137
+revised_title: Rebound Bursting in Mammalian Neurons: A Physiological Model
+semantic_tags:
+  - Neuronal oscillations
+  - Thalamic neurons
+  - Lateral habenula
+  - Rebound bursting
+  - Neuronal models
+tldr: The authors develop a simplified model of a thalamic neuron to explain rebound bursting in mammalian neurons. They add a hyperpolarization-activated potassium current to their previous model, which produces a change in the bifurcation diagram and alters the dynamics of the cell. This model helps to understand the mechanism behind rebound oscillations and provides insights into the physiology of these cells.
+scientific_discipline: Biology and Life Sciences > Neuroscience

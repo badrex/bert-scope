@@ -1,0 +1,10 @@
+article_id: rspa_1961_0165
+revised_title: Double Resonance Experiment and Light Modulation Theory
+semantic_tags:
+  - Atomic Physics
+  - Quantum Mechanics
+  - Double Resonance
+  - Fluorescent Light
+  - Optical and Radio-Frequency Radiation
+tldr: The authors present a theory explaining the modulation observed in fluorescent light from atoms exposed to both optical and radio-frequency radiation. The optical field stimulates specific excited states, while the radio-frequency field establishes coherence between these states, leading to interference and modulation in the fluorescent radiation. The study focuses on the Zeeman structure of transitions in mercury and predicts modulation at various frequencies and resonant effects at specific magnetic fields.
+scientific_discipline: Physics > Atomic and Quantum Physics

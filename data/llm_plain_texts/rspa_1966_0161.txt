@@ -1,0 +1,10 @@
+article_id: rspa_1966_0161
+revised_title: Gas Phase Electron Resonance Spectroscopy of Excited State SO
+semantic_tags:
+  - Electron resonance spectroscopy
+  - Diatomic free radicals
+  - Molecular constants
+  - Spin-spin coupling
+  - Nuclear hyperfine interactions
+tldr: The authors studied the gas phase reaction between carbonyl sulphide and oxygen products from a microwave discharge, observing a four-line pattern due to SO in its excited state. They analyzed the spectrum, determining the rotational constant for the state and calculating the bond length. This is the first observation of an electronically excited free radical by electron resonance, apart from the work of Falick, Mahan, and Myers. The technique of gas phase electron resonance spectroscopy can be useful in studying diatomic and linear radicals in both ground and excited states, provided there are electric dipole transitions accessible at the frequencies and field strengths used.
+scientific_discipline: Chemistry > Spectroscopy

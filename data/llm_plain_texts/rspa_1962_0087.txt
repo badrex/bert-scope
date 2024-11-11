@@ -1,0 +1,10 @@
+article_id: rspa_1962_0087
+revised_title: 'Uniqueness and Asymptotic Series Solutions for Laminar Flow in Symmetrical Channels with Slightly Curved Walls'
+semantic_tags:
+  - Fluid Dynamics
+  - Laminar Flow
+  - Asymptotic Analysis
+  - Boundary Layer Theory
+  - Channel Flow
+tldr: The article investigates laminar flow in symmetrical channels with slightly curved walls, focusing on the Jeffery-Hamel solutions for flow between plane walls. The author presents an approach to derive an asymptotic series solution for a class of channels with nearly straight walls, leading to unique solutions in a limited domain of physical parameters. The resulting velocity profiles include parabolic ones and profiles with a single region of flow reversal at each wall.
+scientific_discipline: Physics > Fluid Dynamics

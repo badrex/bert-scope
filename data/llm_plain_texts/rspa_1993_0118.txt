@@ -1,0 +1,11 @@
+article_id: rspa_1993_0118
+revised_title: 'Invariants in the Transformation of Wave Equations in Fluid Dynamics'
+semantic_tags:
+  - Fluid dynamics
+  - Wave motion
+  - General unsteady flow
+  - Electromagnetic waves
+  - Galilean transformation
+tldr: The author derived ten equations that govern small general perturbations in the general unsteady flow of a general fluid. They determined the condition for any hypersurface to be a wave hypersurface and found the envelope of all wave hypersurfaces, called the wave hyperconoid. The results were progressively specialized to different types of fluid flow, including steady uniform flow and the reference frame relative to which the flow is at rest. The author also discussed the application of these results to electromagnetic waves and more general equations for electric and magnetic field-strengths.
+scientific_discipline: Mathematics > Applied Mathematics
+´´´

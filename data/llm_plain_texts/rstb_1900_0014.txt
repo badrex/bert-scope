@@ -1,0 +1,10 @@
+article_id: 'rstb_1900_0014'
+revised_title: 'Static Diffusion of Gases and Liquids in Plants: Implications for Assimilation and Translocation'
+semantic_tags:
+  - Plant Physiology
+  - Gas Exchange
+  - Osmosis
+  - Stomata
+  - Photosynthesis
+tldr: The authors conducted experiments to study gas and liquid diffusion in plants, specifically focusing on the role of stomata in the exchange of carbon dioxide. They found that under normal conditions, osmosis through the cuticle and epidermis does not play a significant role in gas exchange, and that the primary pathway for carbon dioxide is through open stomata via free diffusion. This research has implications for understanding the processes of assimilation and translocation in plants.
+scientific_discipline: Biology and Life Sciences > Plant Physiology

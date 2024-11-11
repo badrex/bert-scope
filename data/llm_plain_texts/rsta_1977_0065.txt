@@ -1,0 +1,12 @@
+article_id: rsta_1977_0065
+revised_title: Lunar Regolith: Physical Characteristics and Dynamics
+semantic_tags:
+  - Lunar geology
+  - Regolith
+  - Grain size analysis
+  - Chondrules
+  - Solar wind
+scientific_discipline: Earth Sciences > Geology
+```yaml
+tldr: This article discusses the physical characteristics and dynamics of the lunar regolith, focusing on its composition, grain size distribution, and maturity. The regolith is primarily composed of particles resulting from meteoroid impacts on the lunar surface. The size frequency distribution of the regolith tends to be bimodal, with a broad mode due to agglutination and another mode at finer sizes caused by the ballistic influx of fine particles. The article also highlights the importance of lunar chondrules, which have textures similar to meteoritic chondrules and may have significant implications for the origin and history of meteorites.
+```

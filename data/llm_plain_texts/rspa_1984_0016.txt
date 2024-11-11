@@ -1,0 +1,10 @@
+article_id: rspa_1984_0016
+revised_title: 'Critical Properties of Electron Eigenstates in Incommensurate Systems: A Renormalization Group Approach'
+semantic_tags:
+  - Quantum Mechanics
+  - Solid State Physics
+  - Renormalization Group
+  - Localization Transition
+  - Incommensurate Systems
+tldr: This article explores the properties of electron eigenstates in incommensurate systems, focusing on the critical points and localization transitions. The authors use a renormalization group method to analyze the eigenvalue equation and provide a physical interpretation of Azbel's result. The study has implications for understanding electron behavior in one-dimensional solids with incommensurate structures and in models for energy bands of Bloch electrons in a magnetic field.
+scientific_discipline: Physics > Quantum Mechanics

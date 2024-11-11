@@ -1,0 +1,10 @@
+article_id: 'rsta_1977_0005'
+revised_title: 'Magnetic Properties of Luna 16 and 20 Lunar Samples'
+semantic_tags:
+  - Lunar Geophysics
+  - Planetary Magnetism
+  - Apollo Missions
+  - Lunar Soil Analysis
+  - Superparamagnetism
+tldr: The authors analyzed the magnetic properties of rock samples collected by Luna 16 and 20 missions. They found that the natural remanent magnetization of the samples was mainly due to metallic iron particles, with Luna 16 samples having four times more iron content than Luna 20 samples. The study also revealed that the magnetic behavior of the samples was dominated by small superparamagnetic iron particles with a grain size less than about 13 nm.
+scientific_discipline: Earth Sciences > Geophysics

@@ -1,0 +1,10 @@
+article_id: rspa_1986_0063
+revised_title: 'Magnetization Density Distribution in Rb\lt;sub\gt;2\lt;/sub\gt;CrCl\lt;sub\gt;4\lt;/sub\gt; Ionic Ferromagnet'
+semantic_tags:
+  - Crystallography
+  - Ferromagnetism
+  - Jahn-Teller distortion
+  - Polarized neutron diffraction
+  - Orbital ordering
+tldr: The magnetization density distribution in the ionic ferromagnet Rb\lt;sub\gt;2\lt;/sub\gt;CrCl\lt;sub\gt;4\lt;/sub\gt; was studied using polarized neutron diffraction. The results confirmed the presence of orbital ordering due to the cooperative Jahn-Teller distortion in the basal plane, which is responsible for the ferromagnetic exchange interaction. The study also estimated the fraction of unpaired spin transferred to the bridging ions in the basal plane.
+scientific_discipline: Physics > Condensed Matter Physics

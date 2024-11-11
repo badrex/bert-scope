@@ -1,0 +1,10 @@
+article_id: rspa_1952_0011
+revised_title: 'Delta Function Transformations and Applications in Visco-Elasticity'
+semantic_tags:
+  - Delta functions
+  - Viscoelasticity
+  - Relaxation and creep behavior
+  - Electric network analogues
+  - Mathematical physics
+tldr: This article explores the relations between delta functions and their applications in visco-elasticity. The authors present two methods to derive a transformation relation for the delta function, one based on a general result for the relation between relaxation times and creep, and the other using an electric network analogy. They verify the relation for two special representations and discuss its implications for the study of visco-elastic materials.
+scientific_discipline: Mathematics > Applied Mathematics

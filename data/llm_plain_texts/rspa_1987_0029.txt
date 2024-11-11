@@ -1,0 +1,10 @@
+article_id: rspa_1987_0029
+revised_title: 'Quantitative Characterization of Electronic Processes in Small Semiconductor Particles'
+semantic_tags:
+  - Semiconductor particles
+  - Electronic processes
+  - Redox indicators
+  - Interfacial electron transfer
+  - Competition kinetics
+tldr: This article demonstrates the use of redox indicators and competition kinetics to study and quantify electronic processes in small semiconductor particles. The authors investigate various processes, such as electron-hole recombination and interfacial electron transfer, in and at the surface of these crystallites, which have potential applications in solar energy conversion and other areas.
+scientific_discipline: Chemistry > Materials Science

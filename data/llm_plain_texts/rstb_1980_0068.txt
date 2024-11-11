@@ -1,0 +1,10 @@
+article_id: 'rstb_1980_0068'
+revised_title: 'In Situ Identification of Human Physiological Fluids by Nuclear Magnetism in Earth's Field'
+semantic_tags:
+  - Nuclear Magnetic Resonance
+  - Medical Imaging
+  - Biological Fluids
+  - Earth's Magnetic Field
+  - T2 Relaxation Time
+tldr: The authors developed a technique to identify and analyze human physiological fluids, such as blood and urine, using nuclear magnetism in the Earth's magnetic field. This method allows for non-invasive studies of internal fluids and provides information about their composition and volume.
+scientific_discipline: Medicine and Health Sciences > Medical Imaging

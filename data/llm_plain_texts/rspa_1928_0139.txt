@@ -1,0 +1,10 @@
+article_id: rspa_1928_0139
+revised_title: 'Infra-Red Spectrometry: Techniques and Applications in Gas Absorption Studies'
+semantic_tags:
+  - Infra-Red Spectroscopy
+  - Gas Absorption
+  - Spectrometry Techniques
+  - Molecular Structure
+  - Chemical Analysis
+tldr: The authors describe the development and use of a prism spectrometer to study the absorption of gases, such as arsenic hydride, phosphine, and ammonia, in the infra-red region of the spectrum. They discuss the challenges and techniques used to obtain accurate and reliable results, including maintaining a constant source of energy, calibrating the mechanism for reading wavelengths, and shielding the thermopile from variations in air pressure. The authors' work has implications for understanding molecular structure and chemical analysis.
+scientific_discipline: Chemistry > Spectroscopy

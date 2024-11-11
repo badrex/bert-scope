@@ -1,0 +1,10 @@
+article_id: 'rstb_1995_0135'
+revised_title: 'Molecular and Cellular Events in Lateral Root Meristem Formation in Higher Plants'
+semantic_tags:
+  - Plant Development
+  - Lateral Root Meristem
+  - Gene Expression
+  - Ribosomal Protein Genes
+  - Auxin
+tldr: This article investigates the molecular and cellular events involved in the formation of lateral root meristems in higher plants, specifically in radish and Arabidopsis. The authors analyze gene expression patterns and cellular division patterns in pericycle cells to understand how lateral roots are initiated and organized. They find that lateral root formation is a two-stage process, with the formation of a primordium followed by the subset of primordial cells functioning as the lateral root apical meristem. The study has implications for understanding pattern formation in newly organizing organs.
+scientific_discipline: Biology and Life Sciences > Plant Biology

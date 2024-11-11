@@ -1,0 +1,10 @@
+article_id: 'rspa_1989_0077'
+revised_title: 'Semi-Batch Reactor Dynamics for Autocatalytic Reactions'
+semantic_tags:
+  - Chemical Reactors
+  - Autocatalysis
+  - Reaction Kinetics
+  - Dimensionless Analysis
+  - Reactor Design
+tldr: This article investigates the dynamic behavior of semi-batch reactors used for autocatalytic reactions. It focuses on the reaction kinetics, dimensionless analysis, and reactor design. The authors provide a general procedure for generating appropriate equations and discuss the initial conditions and critical values for the reactor's performance.
+scientific_discipline: Chemistry > Chemical Reactor Engineering

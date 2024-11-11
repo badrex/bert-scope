@@ -1,0 +1,10 @@
+article_id: rspa_1958_0033
+revised_title: Fitting Boundary Conditions in the Cellular Method for Hexagonal Lattices
+semantic_tags:
+  - Crystallography
+  - Computational Mathematics
+  - Materials Science
+  - Zirconium Metal
+  - Boundary Conditions
+tldr: The authors present a new method for fitting boundary conditions in the cellular method for close-packed hexagonal lattices, specifically applying it to zirconium metal. They develop a technique for dealing with a least squares problem and create a program for a digital computer to carry out the cellular computation automatically. The energy eigenvalues for all 12 irreducible representations of zirconium metal are provided.
+scientific_discipline: Physics > Materials Science

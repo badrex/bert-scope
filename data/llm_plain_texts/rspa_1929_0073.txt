@@ -1,0 +1,10 @@
+article_id: rspa_1929_0073
+revised_title: 'Magnetic Field Effects on Electrical Conductivity: A Comprehensive Analysis'
+semantic_tags:
+  - Electromagnetism
+  - Conductivity
+  - Magnetic fields
+  - Physics
+  - Material Science
+tldr: This article investigates the change of electrical conductivity in strong magnetic fields. The authors analyze the experimental results and propose a hypothesis to explain the observed phenomena. They find that the change of resistance is proportional to the square of the magnetic field at first, and later becomes directly proportional to the field. The authors also discuss the differences in the change of resistance due to the transverse and parallel fields and provide a comparison of their findings with previous research.
+scientific_discipline: Physics > Electromagnetism

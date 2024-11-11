@@ -1,0 +1,10 @@
+article_id: 'rstb_1980_0056'
+revised_title: 'Nuclear Magnetic Resonance in Intact Biological Systems: Red Cell Studies'
+semantic_tags:
+  - Nuclear Magnetic Resonance
+  - Red Blood Cells
+  - Metabolite Concentrations
+  - Spectroscopy
+  - Biochemistry
+tldr: The authors used nuclear magnetic resonance (NMR) to study red blood cells and their internal processes. They observed the concentrations of various metabolites, such as 2,3-diphosphoglycerate, ATP, and inorganic phosphate, and monitored the transport of small molecules into cells. NMR allowed them to examine the behavior of molecules inside intact cells, providing valuable insights into cellular processes and interactions.
+scientific_discipline: Biology and Life Sciences > Biochemistry

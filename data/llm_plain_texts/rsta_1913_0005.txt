@@ -1,0 +1,10 @@
+article_id: rsta_1913_0005
+revised_title: A New Method for Analyzing Optical Aberrations
+semantic_tags:
+  - Optical Aberrations
+  - Geometrical Optics
+  - Optical Systems
+  - Refracting Surfaces
+  - Telescope Objectives
+tldr: The author presents a new method for analyzing optical aberrations in optical systems, extending the existing method by Gauss. This new approach allows for the calculation of aberrations in any axial system, providing a more efficient way to analyze and measure the faults of an optical image. The method is particularly useful for numerical calculations in telescopic objectives.
+scientific_discipline: Physics > Optics

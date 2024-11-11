@@ -1,0 +1,10 @@
+article_id: rspa_1932_0023
+revised_title: 'Investigation of Particle Collisions and Energy Loss in Matter'
+semantic_tags:
+  - Particle Physics
+  - Atomic Physics
+  - Collision Theory
+  - Energy Loss
+  - Relativity
+scientific_discipline: Physics > Particle Physics
+tldr: This article discusses the passage of alpha and beta particles through matter, focusing on the energy loss and ionization processes. The authors compare the theoretical estimates of energy loss by Bethe and Gaunt and analyze the discrepancies between them. They also explore the effects of relativity on particle collisions and ionization produced by high-energy particles.

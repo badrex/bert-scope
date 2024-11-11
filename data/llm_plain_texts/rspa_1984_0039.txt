@@ -1,0 +1,10 @@
+article_id: rspa_1984_0039
+revised_title: Electrical Discharges and Intense Vortices: A Study of Tornado Formation
+semantic_tags:
+  - Tornadoes
+  - Electrical activity
+  - Fluid dynamics
+  - Magnetohydrodynamics
+  - Atmospheric science
+tldr: This article investigates the relationship between electrical discharges and intense vortices, specifically tornadoes. The author proposes a model that considers the magnetohydrodynamic effects of corona discharges, which can generate a flow field driven by the Lorentz force. The model, though simple, is compatible with updraft velocities and provides a qualitative understanding of tornado formation, supporting the idea that electrical activity plays a role in tornadoes.
+scientific_discipline: Physics > Fluid Dynamics

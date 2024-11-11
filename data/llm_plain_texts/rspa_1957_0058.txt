@@ -1,0 +1,10 @@
+article_id: rspa_1957_0058
+revised_title: The Mechanics of Twinning and the Interrelation of Slip and Twinning in Zinc Crystals
+semantic_tags:
+  - Crystallography
+  - Zinc
+  - Twinning
+  - Slip
+  - Mechanical properties
+tldr: The authors conducted experiments on zinc crystals to study the mechanics of twinning and the interrelation between slip and twinning. They found that twinning occurs after plastic deformation by slip on the (1122) plane, and the twinning stress depends on the work hardening accompanying the slip. The study suggests that slip is a necessary prelude to twin nucleation, and the observations provide insights into the mechanical resistance of metals to twinning.
+scientific_discipline: Materials Science > Crystallography

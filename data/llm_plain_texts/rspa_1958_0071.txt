@@ -1,0 +1,10 @@
+article_id: rspa_1958_0071
+revised_title: Magnetic Dipole and Electric Quadrupole Moments of Dysprosium Isotopes
+semantic_tags:
+  - Nuclear Magnetic Resonance
+  - Dysprosium Isotopes
+  - Crystal Field Theory
+  - Spin Hamiltonian
+  - Paramagnetic Resonance
+tldr: The authors studied the magnetic dipole and electric quadrupole moments of dysprosium isotopes 161 and 163 using paramagnetic resonance. They observed the spectra in dysprosium acetate and double nitrate crystals and determined the nuclear magnetic moments and estimated the nuclear electric quadrupole moments. This research provided more reliable values for these moments and helped understand the electronic ground state of dysprosium ions in the salt.
+scientific_discipline: Physics > Nuclear Physics

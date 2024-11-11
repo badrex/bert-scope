@@ -1,0 +1,10 @@
+article_id: 112234
+revised_title: 'Spectra of Electric Light and the Influence of Electrodes and Discharge Media'
+semantic_tags:
+  - Spectroscopy
+  - Electromagnetism
+  - Plasma physics
+  - Gas discharge
+  - Light spectra
+tldr: The author conducted experiments to study the spectra of electric light and how it is affected by the nature of electrodes and discharge media. They found that the bright lines in the spectra are not solely dependent on the chemical nature of the substances present and that the spectra can change based on the density of the medium. This research suggests that the electric spectrum should not be solely relied upon for analysis without considering the conditions that may affect its indications.
+scientific_discipline: Physics > Electromagnetism

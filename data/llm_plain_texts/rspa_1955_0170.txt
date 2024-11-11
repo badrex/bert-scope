@@ -1,0 +1,10 @@
+article_id: rspa_1955_0170
+revised_title: 'Hertzian Electromagnetic Potentials and Gauge Transformations'
+semantic_tags:
+  - Electromagnetic Theory
+  - Gauge Theory
+  - Hertzian Potentials
+  - Maxwell Equations
+  - Electromagnetic Fields
+tldr: The author investigates Hertzian electromagnetic potentials and their associated gauge transformations, showing that these potentials can be subjected to a new type of transformation that leaves the electromagnetic field invariant. The author also generalizes the inhomogeneous Maxwell equations, allowing for a more comprehensive understanding of Hertzian representations and their applications in various media.
+scientific_discipline: Physics > Electromagnetic Theory

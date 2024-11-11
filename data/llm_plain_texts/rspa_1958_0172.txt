@@ -1,0 +1,10 @@
+article_id: rspa_1958_0172
+revised_title: Improved Measurement of Free-Space Velocity of Electromagnetic Waves
+semantic_tags:
+  - Electromagnetic waves
+  - Interferometry
+  - Refractive index
+  - Microwave frequency
+  - Cavity resonator
+tldr: The authors developed an advanced millimetre-wave interferometer to measure the phase velocity of electromagnetic waves with high accuracy. They used a cavity resonator refractometer to directly determine the refractive index of the air near the interferometer, improving the measurement of the free-space wavelength and frequency. This research led to a more precise determination of the free-space velocity of electromagnetic waves.
+scientific_discipline: Physics > Electromagnetism

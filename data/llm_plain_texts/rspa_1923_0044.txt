@@ -1,0 +1,10 @@
+article_id: rspa_1923_0044
+revised_title: Improved Method for Measuring Electrical Charge of Colloidal Particles
+semantic_tags:
+  - Colloidal chemistry
+  - Electrochemistry
+  - Potential gradient
+  - Colloidal arsenious sulphide
+  - Moving boundary method
+tldr: The authors present an improved method for measuring the electrical charge of colloidal particles using the moving boundary technique. They address the sources of error in previous methods and introduce a direct measurement of the potential gradient across the boundary. This new method allows for more accurate determination of the electrical charge and provides a better understanding of colloidal properties.
+scientific_discipline: Chemistry > Colloidal chemistry

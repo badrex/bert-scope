@@ -1,0 +1,10 @@
+article_id: rsta_1973_0088
+revised_title: Advances in Heavy Electrical Plant: SF6 Switchgear for Outdoor and Indoor Switching Stations
+semantic_tags:
+  - Switchgear
+  - High-voltage circuit breakers
+  - SF6 gas
+  - Circuit breaker design
+  - Outdoor and indoor switching stations
+tldr: This article discusses the development and design of heavy electrical plant, specifically SF6 switchgear for outdoor and indoor switching stations. The author explains the advantages of SF6 gas as an interrupting and insulating medium, and presents the results of investigations on plasma properties, gas flow problems, and dielectric phenomena related to the design of interrupter units and metal-clad switchgear. The article covers outdoor circuit-breakers for 230 to 420 kV and metal-clad substations for 110 kV, as well as recent designs for voltages up to 1300 kV.
+scientific_discipline: Engineering and Technology > Electrical Engineering

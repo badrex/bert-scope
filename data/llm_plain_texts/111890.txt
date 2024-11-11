@@ -1,0 +1,10 @@
+article_id: 111890
+revised_title: 'Internal Radiation in Uniaxal Crystals: Theoretical Conclusions and Experiments'
+semantic_tags:
+  - Thermal Radiation
+  - Crystal Optics
+  - Heat Exchange
+  - Equilibrium of Temperature
+  - Optical Principles
+tldr: The author, Balfour Stewart, investigates the phenomenon of internal radiation in uniaxal crystals, proposing a method to determine the internal radiation in different directions. He concludes that the fundamental law of action and reaction in the impact of elastic bodies and the law of equality between action and reaction in heat exchange are essential for maintaining an equilibrium of temperature in the case of internal radiation.
+scientific_discipline: Physics > Crystal Optics

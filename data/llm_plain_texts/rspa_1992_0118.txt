@@ -1,0 +1,10 @@
+article_id: rspa_1992_0118
+revised_title: 'Development of a Viscous Boundary Element Method for Fluid Actions and Velocity Flow Field in Manoeuvring Bodies'
+semantic_tags:
+  - Fluid Dynamics
+  - Viscous Flow
+  - Manoeuvring Bodies
+  - Boundary Element Method
+  - Oseen Equation
+tldr: The authors developed a viscous boundary element method to directly determine the fluid actions and velocity flow field associated with a body moving in a viscous fluid. This method involves a convolution-integral formulation and is based on the Oseen equation, which is central to the theoretical development of the fundamental viscous solution. The authors present analytical expressions for the fundamental solutions (or transient oseenlets) for various types of manoeuvring problems, including translational, rotational, and combined motions. This research aims to improve the prediction of fluid actions and flow patterns in real-world scenarios, where viscous effects play a significant role.
+scientific_discipline: Engineering and Technology > Fluid Dynamics

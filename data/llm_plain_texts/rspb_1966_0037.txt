@@ -1,0 +1,10 @@
+article_id: 'rspb_1966_0037'
+revised_title: 'Understanding Genetic Polymorphism and its Role in Evolution'
+semantic_tags:
+  - Genetics
+  - Evolution
+  - Polymorphism
+  - Dominance
+  - Heterozygous advantage
+tldr: The article discusses genetic polymorphism, which is the occurrence of multiple forms of a species within the same habitat. It explains that for polymorphism to be permanent, the gene must have an advantage when rare, and its frequency must increase or decrease depending on the environment. The author also highlights the importance of understanding dominance and recessiveness in genes and their role in polymorphism, as well as the various ways in which polymorphism can be maintained in a population.
+scientific_discipline: Biology and Life Sciences > Genetics and Evolution

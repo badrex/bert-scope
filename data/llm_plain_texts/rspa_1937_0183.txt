@@ -1,0 +1,10 @@
+article_id: rspa_1937_0183
+revised_title: 'Introudction, Drift, Equilibrium, and A.C. Bridge Measurements of Osglim Lamps'
+semantic_tags:
+  - Electrical Engineering
+  - Analogous Psychology
+  - Osglim Lamp Behavior
+  - Electrical Circuits
+  - Oscillography
+tldr: The author investigates the behavior of an osglim lamp, focusing on its intrinsic properties to predict its behavior in external circuits. The study includes equilibrium, drift, and slow drift measurements, as well as the use of an A.C. bridge to analyze the lamp's electrical properties. The research aims to develop a comprehensive understanding of the lamp's behavior for various applications in electrical engineering and analogous psychological studies.
+scientific_discipline: Engineering and Technology > Electrical Engineering

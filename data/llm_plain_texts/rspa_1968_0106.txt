@@ -1,0 +1,10 @@
+article_id: rspa_1968_0106
+revised_title: 'Solving the Wiener-Hopf Equation in Elastic Contact Problems'
+semantic_tags:
+  - Elasticity
+  - Contact mechanics
+  - Wiener-Hopf technique
+  - Integral equations
+  - Fourier transforms
+tldr: The authors solve the Wiener-Hopf equation arising in elastic contact problems using the Fourier transforms and the technique of modifying the kernel. They find the solution for the homogeneous equation and then apply it to the inhomogeneous equation, providing a polynomial solution for the problem.
+scientific_discipline: Mathematics > Applied Mathematics

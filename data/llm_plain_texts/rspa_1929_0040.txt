@@ -1,0 +1,10 @@
+article_id: 'rspa_1929_0040'
+revised_title: 'Partial Hydrogenation of Higher Monoethylenic Esters and Formation of Iso-Oleic Acids'
+semantic_tags:
+  - Fatty Acid Hydrogenation
+  - Iso-Oleic Acids
+  - Oleic Acid
+  - Catalytic Action
+  - Fatty Acid Isomerization
+tldr: The authors studied the partial hydrogenation of higher monoethylenic esters, focusing on the formation of "iso-oleic" acids. They discovered that during hydrogenation, a mixture of geometrical and structural isomers of oleic acids is formed due to the reversed hydrogenation (dehydrogenation) process before the saturated compound dissociates from the catalyst surface. This phenomenon is more common in higher unsaturated fatty acids and esters with lengthy, unsubstituted carbon chains.
+scientific_discipline: Chemistry > Organic Chemistry

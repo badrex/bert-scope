@@ -1,0 +1,10 @@
+article_id: rspa_1932_0051
+revised_title: 'Magnetostriction in Strong Magnetic Fields: Theoretical and Experimental Study'
+semantic_tags:
+  - Magnetostriction
+  - Physics
+  - Electromagnetism
+  - Material Science
+  - Crystallography
+tldr: The authors conducted experiments on magnetostriction in strong magnetic fields, focusing on bismuth and other weakly magnetic substances. They discovered that magnetostriction is closely connected to crystal orientation and is influenced by factors such as temperature, strain, and chemical impurities. The study also found a possible relation between magnetostriction and changes in resistance in certain metals.
+scientific_discipline: Physics > Electromagnetism

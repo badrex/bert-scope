@@ -1,0 +1,10 @@
+article_id: 'rstb_1980_0088'
+revised_title: 'The Perception of Apparent Movement: Local and Global Mechanisms'
+semantic_tags:
+  - Motion perception
+  - Visual psychology
+  - Apparent movement
+  - Correspondence problem
+  - Visual system
+tldr: The authors studied the perception of apparent movement by manipulating the similarity and timing of successive images. They discovered that human motion perception involves two separate mechanisms: a peripheral system that detects local point-by-point correlations and a more cognitive system that analyzes global correspondences and extracts edges before processing motion. The study helps to understand how the visual system processes motion and perceives continuous motion from a set of discrete stimuli.
+scientific_discipline: Psychology > Visual Perception

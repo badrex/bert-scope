@@ -1,0 +1,10 @@
+article_id: rspa_1974_0145
+revised_title: Fluid Forces on a Body in Shear-Flow: Experimental Use of Stationary Flow
+semantic_tags:
+  - Fluid Dynamics
+  - Shear-Flow
+  - Lift Force
+  - Drag Force
+  - Open Channel Flow
+tldr: The author conducted experiments to measure the lift and drag forces on a sphere and a transverse cylinder in a shear-flow close to the liquid boundary. They used a moving-bed channel to make the fluid velocity at a given distance from the boundary zero relative to the observer, allowing for accurate measurements. The results showed that the lift force was affected by the resistance to rotation of the body, and it decreased with increasing clearance between the body and the boundary. This research has implications for understanding the motion of unsuspended solids in saltation over a stream bed.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

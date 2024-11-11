@@ -1,0 +1,10 @@
+article_id: rspa_1930_0065
+revised_title: 'Experimental Study of Electron Emission from Metal Surfaces by Positive Ions'
+semantic_tags:
+  - Ion bombardment
+  - Electron emission
+  - Surface science
+  - Helium ions
+  - Retarding potential method
+tldr: 'This article describes experiments conducted to understand the reaction between positive ions and metal surfaces, specifically focusing on the liberation of electrons. The authors used helium ions and two methods, retarding potential and magnetic analysis, to study the effect of ion energy and angle of incidence on electron emission from metal surfaces. The results showed that electron emission increased linearly with ion energy and was influenced by the surface temperature of the target.'
+scientific_discipline: Physics > Surface Science

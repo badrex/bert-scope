@@ -1,0 +1,10 @@
+article_id: 'rspb_1949_0034'
+revised_title: 'The Mechanism of Muscle Relaxation'
+semantic_tags:
+  - Muscle Physiology
+  - Relaxation Mechanism
+  - Muscle Contraction
+  - Muscle Latent Period
+  - Biophysics
+tldr: The author conducted experiments to determine if muscle relaxation is an active process. They found that the latent period of muscle contraction remains nearly constant over a wide range of lengths, indicating that relaxation is not an active process. The author also discovered that a resting muscle exerts measurable tension down to 60-75% of its natural length, and that previous stimulation can increase the range of lengths within which measurable tension is exerted. This research provides evidence against the belief that relaxation after contraction is an active process.
+scientific_discipline: Biology and Life Sciences > Muscle Physiology

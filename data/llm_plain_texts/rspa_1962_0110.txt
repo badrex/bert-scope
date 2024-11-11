@@ -1,0 +1,10 @@
+article_id: rspa_1962_0110
+revised_title: 'Dielectric Absorption Mechanism in the Microwave Region: A New Model'
+semantic_tags:
+  - Dielectric materials
+  - Microwave absorption
+  - Molecular interactions
+  - Debye-Frohlich mechanism
+  - Temperature-dependent transitions
+tldr: The authors propose a new model to explain the dielectric absorption mechanism in the microwave region for long-chain aliphatic compounds. The model considers the molecule as consisting of an active group inside a self-consistent molecular field, with the interaction of the active group with the molecular field playing a crucial role. The mechanism involves two distinct types of temperature-dependent and temperature-independent transitions, which cannot be fully explained by the conventional Debye-Frohlich mechanism.
+scientific_discipline: Physics > Electromagnetism

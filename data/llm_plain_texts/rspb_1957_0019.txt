@@ -1,0 +1,10 @@
+article_id: 'rspb_1957_0019'
+revised_title: 'Oxidation-Reduction Potentials, pH, and Oxygen Tension Measurements in Tumors'
+semantic_tags:
+  - Biochemistry
+  - Cancer Treatment
+  - Oxidation-Reduction Potentials
+  - Tumor Biology
+  - Radiosensitization
+tldr: The authors investigated the oxidation-reduction potentials, pH, and oxygen tension in tumors using a potentiometric method. They found that breathing oxygen caused a rise in oxidation-reduction potential and oxygen tension in most tissues, while intravenous injection of 2-methyl-1:4-naphthohydroquinone diphosphate (Synkavit) caused a fall in oxidation-reduction potentials. The experiments suggest the presence of a'redox' buffering system in tissues and provide insights into cancer treatment.
+scientific_discipline: Biology and Life Sciences > Biochemistry

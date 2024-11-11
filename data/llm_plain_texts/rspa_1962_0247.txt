@@ -1,0 +1,10 @@
+article_id: 'rspa_1962_0247'
+revised_title: 'A New Approach to Insect Vision: Fourier Images and Partial Coherence'
+semantic_tags:
+  - Insect Vision
+  - Fourier Optics
+  - Partial Coherence
+  - Resolving Power
+  - Model Eye
+tldr: The authors re-examine insect vision theories based on recent resolving power measurements. They propose a diffraction theory using Fourier images and partial coherence, explaining the high resolving power in insect vision. A new method of imaging a small monochromatic source is also introduced.
+scientific_discipline: Physics > Optics

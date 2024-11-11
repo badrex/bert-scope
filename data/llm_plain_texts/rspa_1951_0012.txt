@@ -1,0 +1,10 @@
+article_id: rspa_1951_0012
+revised_title: Statistical Kinetics of Hevea Rubber Cyclization: A Revisit
+semantic_tags:
+  - Polymer Chemistry
+  - Rubber Science
+  - Statistical Mechanics
+  - Reaction Kinetics
+  - Polymerization
+tldr: The authors studied the cyclization of Hevea rubber, a type of natural rubber, and found that the reaction follows a statistical cyclization law rather than a first-order equation. This discovery is important because it provides evidence that the polymer units participate in the rate-determining transition complex, supporting the accepted proton transfer mechanism. The research also confirms the dependence of cyclization rate on Hammett's acidity function.
+scientific_discipline: Chemistry > Polymer Chemistry

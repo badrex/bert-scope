@@ -1,0 +1,10 @@
+article_id: rspa_1939_0025
+revised_title: 'Revisiting the Theory of Melting and its Discontinuous Nature'
+semantic_tags:
+  - Phase transitions
+  - Disorder phenomena
+  - Thermodynamics
+  - Crystal structure
+  - Melting points
+tldr: The authors discuss the nature of melting as a disorder phenomenon and propose a new approach to understanding phase transitions. They argue that melting is a first-order transition with latent heat and relatively little "premelting." The authors introduce a new definition of order and apply the Bragg-Williams theory to explain the melting process, emphasizing the importance of co-operative effects and the distortion of the crystal structure.
+scientific_discipline: Physics > Thermodynamics

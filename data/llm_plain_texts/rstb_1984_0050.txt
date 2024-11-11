@@ -1,0 +1,9 @@
+article_id: rstb_1984_0050
+revised_title: Morphological Parameters of Hovering Insect Flight
+semantic_tags:
+  - Insect flight
+  - Aerodynamics
+  - Morphology
+  - Hovering flight
+  - Wing shape
+tldr: This article presents morphological parameters for various insects that have been filmed in free flight, focusing on their wing shape and mass distribution. The study finds that intraspecific coefficients of variation for shape parameters are very low, and interspecific allometric relations are extremely strong. The research also explores the moments of wing area, mass, and virtual mass to understand the aerodynamics of hovering insect flight.

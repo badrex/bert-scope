@@ -1,0 +1,10 @@
+article_id: 'rstb_1980_0125'
+revised_title: 'Neutron Scattering Techniques and Developments in Experimental Neutron Physics'
+semantic_tags:
+  - Neutron spectroscopy
+  - Neutron diffraction
+  - Neutron physics
+  - Neutron scattering
+  - Neutron instrumentation
+tldr: This article presents a review of recent methodical developments in neutron spectroscopy, diffraction, and beam techniques at the Institut Laue-Langevin. Topics covered include high-resolution spectroscopy, methods for enhancing intensities and count rates, production of high-intensity polarized neutrons, and achieving high fluxes or densities of ultra-cold neutrons. The article discusses various techniques such as time-of-flight methods, backscattering spectroscopy, and spin echo spectroscopy, and their applications in biology, chemistry, and physics.
+scientific_discipline: Physics > Optics

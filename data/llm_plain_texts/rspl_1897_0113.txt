@@ -1,0 +1,10 @@
+article_id: rspl_1897_0113
+revised_title: 'Determination of the Indices of Refraction of Glass for Electric Rays'
+semantic_tags:
+  - Electromagnetic waves
+  - Refraction
+  - Dielectric constant
+  - Glass properties
+  - Electromagnetic fields
+tldr: The authors conducted experiments to determine the indices of refraction of glass for electric rays. They used a method that depends on the determination of the critical angle at which total reflection takes place. The results showed that the index of refraction for glass varies with the frequency of the electric field, which contributes to the understanding of the behavior of electromagnetic waves in different materials.
+scientific_discipline: Physics > Electromagnetism

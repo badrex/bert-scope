@@ -1,0 +1,10 @@
+article_id: 111952
+revised_title: 'Influence of Stresses on Crystallization and Liquefaction'
+semantic_tags:
+  - Crystallography
+  - Solid-state physics
+  - Thermodynamics
+  - Material science
+  - Mechanical stress
+tldr: The author investigates the effects of mechanical stresses on the crystallization and liquefaction of substances, particularly ice and salt. They discovered that stresses tending to change the form of crystals in their saturated solutions cause them to dissolve away and generate new crystals without the applied stresses. This research has implications for understanding the behavior of materials under stress and the potential for new applications in material science.
+scientific_discipline: Physics > Solid-state physics

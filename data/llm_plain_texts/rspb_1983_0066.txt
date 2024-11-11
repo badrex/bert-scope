@@ -1,0 +1,10 @@
+article_id: 'rspb_1983_0066'
+revised_title: 'Neuronal Morphology and Function in Locust Brain and Suboesophageal Ganglion for Walking'
+semantic_tags:
+  - 'Neuroanatomy'
+  - 'Locust Neurobiology'
+  - 'Neural Circuits'
+  - 'Walking Initiation and Maintenance'
+  - 'Extracellular Staining'
+tldr: The authors studied the morphology and function of neurons in locust brain and suboesophageal ganglion involved in initiating and maintaining walking. They used extracellular staining through a stimulating electrode to visualize the neurons and found that primary sensory fibers, particularly those in the dorsal tegumentary nerve, were often stained. The results provide insights into the structural substrate that transmits signals for walking between the head ganglia and the thorax.
+scientific_discipline: Biology and Life Sciences > Neurobiology

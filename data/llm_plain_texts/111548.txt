@@ -1,0 +1,10 @@
+article_id: 111548
+revised_title: 'Ocean Influence on the Plumb-Line in India'
+semantic_tags:
+  - Geodesy
+  - Oceanography
+  - Gravity
+  - Surveying
+  - Geophysics
+tldr: This paper examines the influence of the ocean on the plumb-line in India, considering the geographical position of the country and the effects of mountain and ocean attractions on the deflection of the plumb-line. The author calculates the deflections at various stations and the rise of the sea-level at Karachi above that at Cape Comorin due to the ocean's deficiency of attraction.
+scientific_discipline: Earth Sciences > Geophysics

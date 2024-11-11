@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0146'
+revised_title: 'Neural Activation Differences in Retrieving Animal Names and Words Beginning with T'
+semantic_tags:
+  - Neuropsychology
+  - Brain activation
+  - Word retrieval
+  - Semantic memory
+  - Categorical fluency
+tldr: This study used positron emission tomography to investigate how the brain processes word retrieval in response to different prompts. The results showed that retrieving words based on initial letters activated the left frontal regions, while retrieving words based on animal categories activated the left temporal regions. These findings support the idea that word retrieval is not a uniformly distributed function within the brain and are compatible with category-specific deficits observed after some focal lesions.
+scientific_discipline: Neuroscience > Neuropsychology

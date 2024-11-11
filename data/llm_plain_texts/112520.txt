@@ -1,0 +1,10 @@
+article_id: 112520
+revised_title: 'Investigating the Resistance of Air to Rifled Projectiles'
+semantic_tags:
+  - Ballistics
+  - Fluid dynamics
+  - Aerodynamics
+  - Projectile motion
+  - Resistance of air
+tldr: This study investigates the resistance of air to rifled projectiles using experiments and calculations. The author found that the resistance of air to projectiles increases with the cube of their velocity. This research confirms previous findings by other scientists and provides valuable data for small arms.
+scientific_discipline: Physics > Fluid dynamics

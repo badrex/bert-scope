@@ -1,0 +1,10 @@
+article_id: rspa_1927_0115
+revised_title: A Simple Radioactive Method for Measuring X-Ray Spectra Intensity
+semantic_tags:
+  - X-ray spectroscopy
+  - Radioactivity
+  - Crystallography
+  - Photometry
+  - Electroscope
+tldr: The authors developed a simple and cost-effective method to estimate the intensity distribution of X-ray spectra using a carbon print and a -ray electroscope. This method integrates the -ray intensity of a crystal reflection, which can be useful for accurate -ray analysis. The authors tested the method on mica and copper samples, obtaining satisfactory results that agree with previous findings.
+scientific_discipline: Physics > Optics

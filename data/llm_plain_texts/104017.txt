@@ -1,0 +1,10 @@
+article_id: '104017'
+revised_title: 'Improvement of Microscopes using Catoptric Design'
+semantic_tags:
+  - Microscopy
+  - Optics
+  - Catoptric Microscope
+  - Telescope design
+  - Robert Barker
+tldr: 'Robert Barker presents a new design for a microscope, the Catoptric Microscope, which improves upon the limitations of refracting glass microscopes. The Catoptric Microscope uses a model similar to the Newtonian Telescope, offering better focus and magnification, allowing for clearer vision of small objects. This innovation addresses issues with previous microscopes, such as difficulty in viewing small parts of large objects and the need for objects to be brought very close to the microscope, which often resulted in poor visibility.'
+scientific_discipline: Engineering and Technology > Optics

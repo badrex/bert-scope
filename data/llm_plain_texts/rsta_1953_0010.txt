@@ -1,0 +1,10 @@
+article_id: rsta_1953_0010
+revised_title: Forced Flow of a Rotating Viscous Liquid Heated from Below
+semantic_tags:
+  - Fluid Dynamics
+  - Meteorology
+  - Heat Transfer
+  - Viscosity
+  - Rotating Fluids
+tldr: The article investigates the forced flow of a rotating viscous liquid heated from below, focusing on the symmetrical forced flow. The study finds that the relative forced flow tends to become zonal in character when the vessel rotates at a sufficiently high angular velocity. The zonal motion is primarily in the direction of rotation, except near the outer portion of the fluid, where it is in the opposite direction. This phenomenon has significant meteorological implications.
+scientific_discipline: Physics > Fluid Dynamics

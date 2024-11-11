@@ -1,0 +1,10 @@
+article_id: rspa_1933_0104
+revised_title: 'Mechanical Properties of Flour Dough: Elasticity, Plasticity, and Hysteresis'
+semantic_tags:
+  - Rheology
+  - Dough properties
+  - Elasticity
+  - Plasticity
+  - Hysteresis
+tldr: This article investigates the relationship between viscosity, elasticity, and plastic strength in flour dough. The authors study the dough's mechanical properties, such as elastic after-effect and hysteresis, and find that these properties are essential for understanding the dough's behavior. They also discuss the challenges in measuring these properties and propose a method to obtain more accurate values for the relaxation time and viscosity.
+scientific_discipline: Physics > Materials Science

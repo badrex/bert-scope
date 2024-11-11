@@ -1,0 +1,10 @@
+article_id: rsta_1987_0044
+revised_title: 'Experimental Results from the TFTR Tokamak: Advancements in Controlled Nuclear Fusion'
+semantic_tags:
+  - Nuclear Fusion
+  - Tokamak
+  - Plasma Physics
+  - Neutral Beam Heating
+  - Plasma Confinement
+tldr: The article discusses the experimental results from the Tokamak Fusion Test Reactor (TFTR) and its advancements in controlled nuclear fusion. The TFTR tokamak has reached its original machine-design specifications and has extended its operating regime in both ohmic and neutral-beam-heated discharges. The focus is on the wide operating range of TFTR, which has facilitated transport and scaling studies, and the results of these confinement studies are presented.
+scientific_discipline: Physics > Plasma Physics

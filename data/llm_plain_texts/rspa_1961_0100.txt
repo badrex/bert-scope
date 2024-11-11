@@ -1,0 +1,10 @@
+article_id: rspa_1961_0100
+revised_title: 'Temperature Measurements of Shock Waves and Detonations by Spectrum-Line Reversal: Observations with Chromium Lines'
+semantic_tags:
+  - Shock wave physics
+  - Detonation phenomena
+  - Spectroscopy
+  - Temperature measurement
+  - Chromium spectroscopy
+tldr: The authors conducted experiments using chromium lines to measure temperatures in shock waves and detonations. They introduced controlled amounts of chromium carbonyl into explosive mixtures, enabling them to study relaxation effects in various gases and the rate of heat release behind detonation fronts. This method provided valuable insights into the behavior of shock waves and detonations, as well as the excitation processes in monatomic gases.
+scientific_discipline: Physics > Shock wave physics

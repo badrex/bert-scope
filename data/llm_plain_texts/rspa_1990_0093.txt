@@ -1,0 +1,10 @@
+article_id: rspa_1990_0093
+revised_title: 'Travelling Waves in Isothermal Chemical Systems: Cubic Autocatalysis with Quadratic and Linear Decay'
+semantic_tags:
+  - Reaction-diffusion waves
+  - Chemical kinetics
+  - Nonlinear dynamics
+  - Mathematical modeling
+  - Autocatalysis
+tldr: This article examines the development of travelling waves in a simple isothermal chemical system with cubic autocatalysis, considering both quadratic and linear decay. The authors find that for the quadratic decay case, a wave will develop if a certain non-dimensional parameter is above a threshold, while for the linear decay case, wave initiation depends on another parameter and requires a minimum input threshold. The study also explores the behavior of the travelling wave solutions and their stability.
+scientific_discipline: Mathematics > Applied Mathematics

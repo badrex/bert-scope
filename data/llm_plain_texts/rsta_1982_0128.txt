@@ -1,0 +1,10 @@
+article_id: rsta_1982_0128
+revised_title: Advances in Astronomical Spectroscopy: New Techniques in Optical and Infrared Detectors
+semantic_tags:
+  - Astronomical spectroscopy
+  - Optical detectors
+  - Infrared detectors
+  - Image photon-counting
+  - Charge-coupled devices
+tldr: This article discusses advances in optical and infrared detectors for astronomical spectroscopy. It focuses on image-reproducing detectors, such as image photon-counting and charge-coupled devices, and their applications in astronomy. The author highlights the importance of electronic data processing and computer techniques in improving the accuracy of image recording in astronomical observations.
+scientific_discipline: Physics > Optics

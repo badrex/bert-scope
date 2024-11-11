@@ -1,0 +1,10 @@
+article_id: rspa_1976_0119
+revised_title: 'Distance Estimation and Analysis of the Candidate Star A0620-00'
+semantic_tags:
+  - Astronomy
+  - Astrophysics
+  - X-ray sources
+  - Interstellar medium
+  - Distance measurement
+tldr: The authors used the Ariel 5 satellite to study the candidate star A0620-00. They analyzed the spectra and found that the star is likely between 1.5 and 2.5 kpc away from Earth, with a most reasonable value of 2 kpc. The study also provided insights into the interstellar medium and the distance measurement techniques.
+scientific_discipline: Astronomy > Astrophysics

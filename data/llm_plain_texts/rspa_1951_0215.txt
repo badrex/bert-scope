@@ -1,0 +1,10 @@
+article_id: 'rspa_1951_0215'
+revised_title: 'Second-order Theory of Conformal Solutions in Multicomponent Systems'
+semantic_tags:
+  - Statistical thermodynamics
+  - Thermodynamic properties
+  - Conformal solutions
+  - Multicomponent systems
+  - Interaction constants
+tldr: This article discusses the second-order theory of conformal solutions in multicomponent systems. It presents a new method to calculate the thermodynamic properties of these systems using a reference substance and interaction constants. The authors explore the excess free enthalpy of mixing at constant temperature and pressure, and evaluate the second-order terms in the process. They provide an expression for the second-order free enthalpy of mixing and explain how the coefficients can be related to the thermodynamic properties of the reference species.
+scientific_discipline: Chemistry > Thermodynamics

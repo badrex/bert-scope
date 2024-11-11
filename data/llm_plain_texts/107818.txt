@@ -1,0 +1,10 @@
+article_id: 107818
+revised_title: 'Improving Geodetic Observations through Solar Reflection and Focal Lights'
+semantic_tags:
+  - Geodesy
+  - Surveying
+  - Solar reflection
+  - Focal lights
+  - Triangulation
+tldr: The author, Thomas Drummond, discusses methods to improve the observation of distant stations in geodetic operations. He explains the use of solar reflection from plane mirrors and the development of a powerful focal light for better visibility in triangulation. These techniques were applied to the new survey of Ireland and the connection of western shores of Scotland and England.
+scientific_discipline: Earth Sciences > Geodesy

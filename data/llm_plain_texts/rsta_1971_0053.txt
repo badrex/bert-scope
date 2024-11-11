@@ -1,0 +1,10 @@
+article_id: rsta_1971_0053
+revised_title: A Unified Theory of Conjugate Flows in Fluid Dynamics
+semantic_tags:
+  - Fluid Dynamics
+  - Conjugate Flows
+  - Hydrodynamics
+  - Wave Phenomena
+  - Nonlinear Operator Equations
+tldr: This article presents a unified theory of conjugate flows in fluid dynamics, explaining how they are crucial to understanding wave phenomena in various systems, including open-channel flows. The author identifies the elements responsible for universal properties and uses mathematical methods to classify and analyze conjugate flows, their existence, and uniqueness.
+scientific_discipline: Physics > Fluid Dynamics

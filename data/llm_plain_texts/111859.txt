@@ -1,0 +1,10 @@
+article_id: 111859
+revised_title: 'Magnetization and Torsion of Iron and Steel: Recent Research Findings'
+semantic_tags:
+  - Magnetism
+  - Electromagnetism
+  - Iron and Steel Properties
+  - Torsion
+  - Voltaic Current
+tldr: This article discusses recent research by Professor Wiedemann on the magnetization of iron and steel. He discovered that when a voltaic current is passed through an iron wire, it becomes magnetic, and the direction of the twist determines the polarity. The experiments also showed that the magnetism can be influenced by the intensity of the current, the weight, and the direction of the transmitted current. These findings may be explained by the hypothesis of molecular magnets and their movements, which can cause permanent magnetism and torsion in materials.
+scientific_discipline: Physics > Electromagnetism

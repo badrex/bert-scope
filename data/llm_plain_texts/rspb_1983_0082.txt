@@ -1,0 +1,10 @@
+article_id: 'rspb_1983_0082'
+revised_title: 'Sodium Channel Inactivation Model Based on Modulated Blocker'
+semantic_tags:
+  - Ion channels
+  - Sodium channels
+  - Inactivation
+  - Gating
+  - Modulated blocker
+tldr: The article presents a model of sodium channel inactivation based on the modulated blocker concept. The model predicts the voltage dependence of the equilibrium inactivation characteristic, the negative shift in membrane voltage, the bell-shaped dependence of inactivation time constant on membrane voltage, and the similarity of the membrane voltage dependence of the time constant of recovery from inactivation. The modulated blocker theory explains how changes in electrostatic potential at the binding site affect ion binding, leading to channel inactivation.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

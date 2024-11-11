@@ -1,0 +1,10 @@
+article_id: rsta_1967_0005
+revised_title: Large-Deflexion Vibrations of Elliptical Elastic Plates
+semantic_tags:
+  - Plate Vibrations
+  - Nonlinear Analysis
+  - Large-Deflexion Phenomena
+  - Elliptical Plates
+  - Structural Engineering
+tldr: The authors present an exact large-deflexion analysis of the free vibrations of unsupported elliptical plates of lenticular section, considering the influence of membrane action and the effects of large deflections. The study focuses on the three fundamental modal components, two bending and one twisting, and provides valuable insights into the behavior of plates with variable thickness and initial curvature. This research is significant for understanding the nonlinear vibrations of structures in the field of high-speed aerodynamics and engineering.
+scientific_discipline: Engineering and Technology > Structural Engineering

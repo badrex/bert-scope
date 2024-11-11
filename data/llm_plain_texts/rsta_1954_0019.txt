@@ -1,0 +1,10 @@
+article_id: rsta_1954_0019
+revised_title: Two-Dimensional Theory of Elasticity for Finite Deformations
+semantic_tags:
+  - Elasticity
+  - Finite Deformations
+  - Plane Stress
+  - Complex Variable Notation
+  - Approximation Methods
+tldr: The authors develop a general theory of plane stress for large elastic deformations of isotropic materials using complex variable notation. They introduce an approximation method for unsymmetrical problems and provide a general formulation of the second-order theory for two-dimensional problems, which can be applied to both plane stress and plane strain cases.
+scientific_discipline: Mathematics > Applied Mathematics

@@ -1,0 +1,10 @@
+article_id: rspa_1984_0031
+revised_title: Advances and Future Prospects in Optical Fibre Communication
+semantic_tags:
+  - Optical Fibre Communication
+  - Telecommunications
+  - Fiber Optics
+  - Laser Technology
+  - Integrated Optics
+tldr: The author discusses the advancements in optical fibre communication technology, from the initial development of low attenuation fibre and long-lived semiconductor lasers to the second-generation single-mode systems entering service. They examine the future possibilities and limitations of optical fibre systems, including attenuation mechanisms, dispersion, and nonlinear effects. The paper also explores various fibre designs, cable techniques, and operational planning for future land and undersea cable systems.
+scientific_discipline: Engineering and Technology > Telecommunications

@@ -1,0 +1,10 @@
+article_id: rspa_1968_0030
+revised_title: 'Field-Emission Microscope Study of Whiskers Formation on Tungsten due to Chloromethane Adsorption'
+semantic_tags:
+  - Field-emission microscopy
+  - Whisker growth
+  - Tungsten carbide
+  - Chloromethane adsorption
+  - Surface chemistry
+scientific_discipline: Engineering and Technology > Materials Science
+tldr: The article discusses the use of a field-emission microscope to study the formation and growth of whiskers on tungsten due to chloromethane adsorption. The authors found that the growth rate of the whiskers was influenced by the applied electric field, surface contamination, and gas pressure. The research has implications for surface chemistry and electrical breakdown in vacuo.

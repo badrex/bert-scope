@@ -1,0 +1,10 @@
+article_id: rspa_1963_0220
+revised_title: 'Random Electrodynamics and the Harmonic Oscillator'
+semantic_tags:
+  - Quantum Mechanics
+  - Electrodynamics
+  - Harmonic Oscillator
+  - Uncertainty Principle
+  - Classical Mechanics
+tldr: This paper explores the behavior of a statistical ensemble of classical harmonic oscillators, which is stationary in time and has position and momentum distribution functions similar to those of the corresponding quantum-mechanical oscillator in its ground state. The author suggests that a random electromagnetic field must be present to maintain the distribution's stationarity. The study also discusses the limitations of classical statistical mechanics and the breakdown of the deterministic interpretation in the presence of a quadratic term in the potential.
+scientific_discipline: Physics > Electromagnetism

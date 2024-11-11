@@ -1,0 +1,10 @@
+article_id: 'rspa_1972_0143'
+revised_title: 'Magnetic Resonance of Aligned Spin-Assembly: Equations of Motion and Resonance Functions'
+semantic_tags:
+  - Magnetic Resonance
+  - Spin-Alinement
+  - Spin-Assembly
+  - Anisotropic Damping
+  - Axial Symmetry
+tldr: The article discusses the magnetic resonance of a spin-assembly with aligned spins, focusing on the equations of motion and resonance functions. The authors introduce a phenomenological approach to include anisotropic damping and axial symmetry, leading to a set of equations that reduce to the Bloch equations for isotropic relaxation. The study provides insights into the behavior of spin-assemblies in magnetic resonance without necessarily having a net magnetization.
+scientific_discipline: Physics > Optics

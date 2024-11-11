@@ -1,0 +1,10 @@
+article_id: rspa_1975_0021
+revised_title: 'Experimental Investigation of Large Amplitude Kelvin-Helmholtz Waves on Thin Liquid Sheets'
+semantic_tags:
+  - Fluid Dynamics
+  - Wave Mechanics
+  - Surface Tension
+  - Liquid Sheets
+  - Jet Physics
+tldr: This study investigates the formation of large amplitude waves on thin liquid sheets when forced vibrations are applied to the nozzle. The experiments reveal that the existing linearized theory of wave growth in this system is inadequate, and a preliminary theory for large amplitude waves is presented. The findings provide insights into the behavior of thin liquid sheets and the role of surface tension in maintaining their motion.
+scientific_discipline: Physics > Fluid Dynamics

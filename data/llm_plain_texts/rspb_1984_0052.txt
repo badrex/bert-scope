@@ -1,0 +1,10 @@
+article_id: 'rspb_1984_0052'
+revised_title: 'Electrical Activity and Excitability of Mouse Motor Nerve Terminals'
+semantic_tags:
+  - Neuromuscular Junction
+  - Motor Nerve Terminal
+  - Electrical Excitability
+  - Action Potentials
+  - Neurophysiology
+tldr: The authors conducted experiments on mouse motor nerve terminals and found that they are electrically excitable, contrary to a recent claim that they are not. They demonstrated that a net inward current occurs in the terminals at sites of transmitter release. This discovery has important implications for the release of neurotransmitter and the mechanisms governing the spatial distribution of ion-selective channels in the mammalian nervous system.
+scientific_discipline: Neuroscience > Neuromuscular Junction

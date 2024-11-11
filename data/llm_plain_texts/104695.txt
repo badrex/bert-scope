@@ -1,0 +1,10 @@
+article_id: 104695
+revised_title: Explanation of Dr. Halley's Demonstration of Logarithmic Tangents and its Applications
+semantic_tags:
+  - Mathematics
+  - Geometry
+  - Trigonometry
+  - Navigation
+  - Astronomy
+tldr: The author explains Dr. Halley's demonstration of the analogy between logarithmic tangents and the meridian line, and its applications in navigation and astronomy. The text covers the proportional spiral, logarithmic spirals, the relationship between rhumb lines and logarithmic tangents, and the differences between Napier's and Briggs' logarithmic tangents. The author also discusses the connection between stereographic projections and the representation of geographical coordinates on a map.
+scientific_discipline: Mathematics > Geometry and Trigonometry

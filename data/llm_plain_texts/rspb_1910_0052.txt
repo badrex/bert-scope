@@ -1,0 +1,10 @@
+article_id: 'rspb_1910_0052'
+revised_title: 'Quantitative Estimation of Hydrocyanic Acid in Vegetable and Animal Tissues'
+semantic_tags:
+  - Biochemistry
+  - Toxicology
+  - Analytical chemistry
+  - Hydrocyanic acid detection
+  - Anaesthetics
+tldr: The author developed a method to quantify hydrocyanic acid in vegetable and animal tissues using a reaction between picric acid and hydrocyanic acid. This method allows for the detection of minute amounts of HCN and has applications in studying the effects of anaesthetics on living organisms. The author also found that the evolution of hydrocyanic acid is a sign of loss of life rather than a sign of life, as previously thought.
+scientific_discipline: Chemistry > Analytical Chemistry

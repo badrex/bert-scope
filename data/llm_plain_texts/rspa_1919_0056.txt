@@ -1,0 +1,10 @@
+article_id: rspa_1919_0056
+revised_title: 'Experimental Verification of Adsorption Constants in Theoretical Adsorption Isostere'
+semantic_tags:
+  - Adsorption
+  - Gas adsorption
+  - Isotherms
+  - Surface chemistry
+  - Physical chemistry
+tldr: 'This article presents experimental verification of the constants in the theoretical adsorption isostere. The authors study the adsorption of gases like helium, argon, nitrogen, carbon monoxide, methane, carbon dioxide, and ethylene by cocoanut charcoal. They find that the constants A and B are appreciably constant over a range of 200 degrees Centigrade, indicating that the range of cohesive forces is appreciably constant. This discovery provides a new method of placing values of the internal cohesion of gases.'
+scientific_discipline: Chemistry > Physical chemistry

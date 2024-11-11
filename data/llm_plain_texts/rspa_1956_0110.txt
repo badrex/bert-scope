@@ -1,0 +1,10 @@
+article_id: rspa_1956_0110
+revised_title: Dynamic Compression and Yield Behavior of Mild Steel
+semantic_tags:
+  - Material Science
+  - Mechanical Properties
+  - Stress-Strain Curve
+  - Dynamic Compression
+  - Impact Testing
+tldr: This article investigates the yield behavior of mild steel under dynamic compression using a modified impact apparatus. The authors found that mild steel requires a higher stress to cause yield under rapid loading than under slow loading. They also discovered that the hardening effect of dynamic working is less than that of static working, which has implications for the material's strength properties after dynamic straining.
+scientific_discipline: Engineering and Technology > Material Science

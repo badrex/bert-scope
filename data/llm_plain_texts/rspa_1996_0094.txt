@@ -1,0 +1,10 @@
+article_id: rspa_1996_0094
+revised_title: Numerical Computation of Titchmarsh-Weyl Matrix for Fourth-Order Problems
+semantic_tags:
+  - Matrix Theory
+  - Titchmarsh-Weyl Theory
+  - Hamiltonian Systems
+  - Numerical Methods
+  - Boundary Value Problems
+tldr: This article presents a numerical procedure for evaluating the Titchmarsh-Weyl matrix associated with fourth-order problems. The authors cast the problem as a Hamiltonian system and use results from matrix theory to estimate the matrix. They compare their numerical results with special functions and discuss the challenges in computing the matrix near a pole.
+scientific_discipline: Mathematics > Matrix Theory

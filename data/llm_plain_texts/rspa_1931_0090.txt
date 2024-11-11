@@ -1,0 +1,10 @@
+article_id: rspa_1931_0090
+revised_title: The Effect of Foreign Gases on the Lower Critical Oxidation Limit of Phosphorus Vapour
+semantic_tags:
+  - Chemical kinetics
+  - Chain reactions
+  - Oxidation of phosphorus
+  - Gas diffusion
+  - Inert gases
+tldr: This study investigates the effect of foreign gases on the lower critical oxidation limit of phosphorus vapour. The authors found that the oxidation process can be explained by chain reactions, and the presence of foreign gases affects the reaction rate. The results show that the effect of foreign gases is independent of their nature and can be expressed by the same equation for various gases and vapours.
+scientific_discipline: Chemistry > Chemical kinetics and reaction mechanisms

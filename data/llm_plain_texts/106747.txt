@@ -1,0 +1,10 @@
+article_id: 106747
+revised_title: 'On the Summation of Infinite Series and the Nature of the Series 1/2~/3+3/4&c.'
+semantic_tags:
+  - Infinite Series
+  - Mathematical Analysis
+  - Mathematical Notation
+  - Mathematical Proof
+  - Mathematical Applications
+tldr: The author, S. Vince, provides an explanation for the summation of infinite series and demonstrates how to find the sum of a specific series, 1/2~/3+3/4&c. He also clarifies the misunderstanding of his previous work and acknowledges the contributions of George Atwood and Mr. Wales. The method of correction is applied to various cases, showing how the value of the correction changes depending on the nature of the quantity being expanded.
+scientific_discipline: Mathematics > Mathematical Analysis

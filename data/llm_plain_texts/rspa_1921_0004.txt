@@ -1,0 +1,10 @@
+article_id: rspa_1921_0004
+revised_title: 'Magnetic and Mechanical Analysis of Manganese Steel'
+semantic_tags:
+  - Magnetism
+  - Steel
+  - Heat Treatment
+  - Mechanical Properties
+  - Villari Effect
+tldr: The authors conducted a study on the magnetic and mechanical properties of manganese steel. They discovered that applying tension to the steel increased its magnetic intensity and found a correlation between the changes in length and the intensity of magnetization. The study also highlighted the importance of surface conditions and oxidation on the magnetic properties of the steel.
+scientific_discipline: Materials Science > Steel Properties

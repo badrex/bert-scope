@@ -1,0 +1,10 @@
+article_id: 'rspb_1988_0008'
+revised_title: 'Investigation of Biosynthesis Pathways in Paracoccus denitrificans'
+semantic_tags:
+  - Metabolic pathways
+  - Amino acid biosynthesis
+  - Carbon flux
+  - Gas chromatography-mass spectrometry
+  - Bacterial metabolism
+tldr: The article investigates the biosynthesis pathways in Paracoccus denitrificans, a type of bacteria, when grown on succinate. Using gas chromatography-mass spectrometry, the distribution of labeled carbon in various metabolites, including amino acids, sugars, and purines, was analyzed. The results showed that the bacteria use carbon intermediates from energy metabolism as precursors for the biosynthesis of amino acids. The study also found alternative routes for ribose biosynthesis and confirmed the generally accepted biosynthetic pathway for phenylalanine.
+scientific_discipline: Biology and Life Sciences > Microbiology

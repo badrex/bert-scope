@@ -1,0 +1,10 @@
+article_id: rspl_1904_0056
+revised_title: Experimental Determinations of Physical Constants in Saturated Solutions
+semantic_tags:
+  - Solution chemistry
+  - Osmotic pressure
+  - Solubility
+  - Thermodynamics
+  - Physical chemistry
+tldr: This study investigates the physical constants of concentrated solutions, focusing on saturated solutions, as they have minimal dissociation. The authors determined densities and solubilities using two methods and observed the solutions at various temperatures between 0°C and 90°C. They also measured osmotic pressures at boiling points, providing a tabular form of their findings.
+scientific_discipline: Chemistry > Physical chemistry

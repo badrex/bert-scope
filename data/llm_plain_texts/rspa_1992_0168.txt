@@ -1,0 +1,10 @@
+article_id: rspa_1992_0168
+revised_title: Non-Singular Electrodynamics of a Point Particle
+semantic_tags:
+  - Electrodynamics
+  - Point Particle
+  - Action Integral
+  - Electromagnetic Moments
+  - Regular Current
+tldr: The author presents a new approach to classical electrodynamics of a point particle using a non-singular current. This current, called a pointlike current, is used in the standard action integral to create a non-singular theory. The theory conserves energy-momentum and angular momentum and is applicable to particles with arbitrary finite electromagnetic moments.
+scientific_discipline: Physics > Electromagnetism

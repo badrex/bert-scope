@@ -1,0 +1,11 @@
+article_id: 'rspa_1992_0040'
+revised_title: 'Errata Corrections in Selected Royal Society of London Publications'
+semantic_tags:
+  - Mathematics
+  - Physics
+  - Corrections
+  - Errata
+  - Scientific Publications
+tldr: This article provides corrections for errors found in several Royal Society of London publications from 1991. It lists corrections for specific pages and equations in various articles, including those related to chaotic combustion, acoustic scattering, and the plastic zone of a mode II crack in an elastic perfectly plastic solid.
+scientific_discipline: Mathematics > Applied Mathematics
+second_level_subdiscipline: Error Correction in Scientific Publications

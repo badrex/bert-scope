@@ -1,0 +1,10 @@
+article_id: rspa_1992_0100
+revised_title: A Mathematical Model for Urban Growth and Spread
+semantic_tags:
+  - Urban Growth
+  - Mathematical Modeling
+  - Population Density
+  - Logistic Growth
+  - Diffusion
+tldr: This article presents a simple mathematical model for urban growth and spread, incorporating local growth, diffusion, and an inhibitory effect of congested central areas. The model uses a reaction-diffusion equation and takes into account factors such as local density growth, population spread, and the negative impact of high-density inner cores on settlement. The authors discuss the steady-state solutions and the potential for future applications in city planning and understanding urban dynamics.
+scientific_discipline: Social Sciences, Art, and Humanities > Urban Studies and Planning

@@ -1,0 +1,10 @@
+article_id: 'rspb_1973_0058'
+revised_title: 'Exploring the Potential of Computer-based Records in Clinical Settings'
+semantic_tags:
+  - Medical Records
+  - Health Informatics
+  - Data Processing
+  - Hypertension Management
+  - Clinical Research
+tldr: The article discusses the development and implementation of a computer-based system for managing medical records in hypertension clinics. The system aimed to improve data collection, processing, and display, making it more clinically useful and accessible for research purposes. The authors describe the design objectives, challenges, and potential benefits of this innovative approach to medical recordkeeping.
+scientific_discipline: Health Sciences > Medical Informatics

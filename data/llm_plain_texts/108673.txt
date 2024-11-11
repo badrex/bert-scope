@@ -1,0 +1,10 @@
+article_id: 108673
+revised_title: 'Supplementary Notes on Curves of the Third Order'
+semantic_tags:
+  - Algebraic Geometry
+  - Geometry
+  - Conic Sections
+  - Cubic Curves
+  - Mathematical Analysis
+tldr: The author provides supplementary notes to a previous memoir on curves of the third order. They discuss the formation of equations of conics touching a cubic curve and the relationship between conics and tangents. The author also explores the concept of the "opposite" point of five consecutive points on a cubic curve and its applications.
+scientific_discipline: Mathematics > Algebraic Geometry

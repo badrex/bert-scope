@@ -1,0 +1,10 @@
+article_id: 'rsta_1984_0104'
+revised_title: 'Optical Bistability in Indium Arsenide and Theoretical Predictions'
+semantic_tags:
+  - Nonlinear Optics
+  - Bistability
+  - Indium Arsenide
+  - Nonlinear Dielectrics
+  - Dynamic Burstein-Moss Shift
+tldr: The authors experimentally observed optical bistability in indium arsenide at low power levels and theoretically predicted it for a new class of nonlinear dielectrics. They demonstrated that the dynamic Burstein-Moss shift is responsible for the large nonlinear index in indium arsenide at the band gap. The findings suggest the potential for an impressive room-temperature computational capability using indium arsenide.
+scientific_discipline: Physics > Optics

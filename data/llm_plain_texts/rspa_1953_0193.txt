@@ -1,0 +1,10 @@
+article_id: rspa_1953_0193
+revised_title: 'Diffraction of Light by Ultrasonic Waves: Approximate Expressions for Intensities and Comparison with Experiment'
+semantic_tags:
+  - Diffraction
+  - Ultrasonic waves
+  - Wave optics
+  - Electromagnetic waves
+  - Wave-particle duality
+tldr: This article presents approximate expressions for the intensities of diffracted spectra in the diffraction of light by ultrasonic waves. The authors use perturbation methods to solve the equations and calculate intensities for specific cases. The results are compared with experimental data and found to be in satisfactory agreement. The theory also explains the asymmetry in diffracted spectra for oblique incidence.
+scientific_discipline: Physics > Optics

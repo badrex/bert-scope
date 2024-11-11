@@ -1,0 +1,10 @@
+article_id: rspa_1986_0046
+revised_title: Double-Cusp Model in Two-Mode Buckling of Imperfect Beams on Elastic Foundation
+semantic_tags:
+  - Beam Buckling
+  - Elasticity
+  - Catastrophe Theory
+  - Postbuckling Analysis
+  - Imperfection Sensitivity
+tldr: This paper investigates the two-mode postbuckling behavior of geometrically imperfect beams on elastic foundations under compression. By adjusting the beam length to the characteristic length ratio and setting the quadratic foundation stiffness to zero, the two-mode stability problem is classified as the double-cusp model in catastrophe theory. The paper is the first in the open literature to apply the double-cusp model to a two-mode stability problem that displays imperfection-sensitivity.
+scientific_discipline: Engineering and Technology > Mechanics

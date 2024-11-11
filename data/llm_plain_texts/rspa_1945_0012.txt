@@ -1,0 +1,10 @@
+article_id: rspa_1945_0012
+revised_title: 'Stationary Electron Swarms in Electromagnetic Fields: Applications and Challenges'
+semantic_tags:
+  - Electron optics
+  - Space charge
+  - Magnetron
+  - Electron cloud
+  - Statistical mechanics
+tldr: The authors explore stationary electron swarms in electromagnetic fields and their potential applications in electron optics and magnetron technology. They discuss the challenges in understanding electron interactions and the development of random motion in electron clouds, which can impact the design and performance of electron optical devices like electron microscopes.
+scientific_discipline: Physics > Electromagnetism

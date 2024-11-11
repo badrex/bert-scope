@@ -1,0 +1,10 @@
+article_id: 'rstb_1984_0046'
+revised_title: 'Ferritin: Design and Formation of an Iron-Storage Molecule in Biology'
+semantic_tags:
+  - Iron-storage molecule
+  - Ferritin
+  - Protein structure
+  - Iron mineralization
+  - Biomineralization
+tldr: 'Ferritin is an iron-storage molecule found in various eukaryotic cells. It has a unique structure consisting of 24 protein subunits that form a hollow shell. The central cavity of ferritin contains an iron core called ferrihydrite, which can store up to 4500 iron atoms. Ferritin plays a crucial role in maintaining iron homeostasis and is involved in the delivery of iron for hem synthesis. The formation of ferritin from apoferritin is self-catalyzing, and its structure provides insights into how iron is deposited and stored within the protein shell.'
+scientific_discipline: Biology and Life Sciences > Biochemistry

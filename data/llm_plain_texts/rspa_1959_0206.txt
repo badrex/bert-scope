@@ -1,0 +1,10 @@
+article_id: 'rspa_1959_0206'
+revised_title: 'A Discussion on Space Research: Advancements and Challenges'
+semantic_tags:
+  - Space Exploration
+  - Satellite Technology
+  - Astronomy
+  - Astrophysics
+  - Planetary Science
+tldr: This article discusses the advancements and challenges in space research, focusing on the use of instrumented satellites and space probes for studying the outer atmosphere, the sun, and other celestial bodies. The discussion covers topics such as the limitations of guidance, control, and tracking of space vehicles, as well as the recovery of data from them. The article also highlights the importance of using automatically operated instruments for scientific research and the need for further exploration in space travel.
+scientific_discipline: Physics > Astronomy

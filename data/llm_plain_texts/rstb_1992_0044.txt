@@ -1,0 +1,10 @@
+article_id: 'rstb_1992_0044'
+revised_title: 'Characterization of Myosin ATPase Active Site through Photochemical Mapping'
+semantic_tags:
+  - Myosin
+  - ATPase
+  - Muscle Contraction
+  - Protein Structure
+  - Photoreactive Analogues
+tldr: The authors used photochemical mapping and photoreactive analogues of ATP to partially characterize the active sites of myosin from skeletal, smooth, and scallop muscle. They identified key residues that bind at or near the adenine, ribose, and y-phosphate of ATP, which could aid in understanding the molecular structure and function of myosin, a molecular motor involved in muscle contraction.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

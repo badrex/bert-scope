@@ -1,0 +1,10 @@
+article_id: 'rsta_1972_0062'
+revised_title: 'Building Technology in the 1980s: Analytical Techniques and Design Considerations'
+semantic_tags:
+  - Structural Engineering
+  - Building Design
+  - Analytical Techniques
+  - Finite Elements
+  - Structural Analysis
+tldr: The article discusses the development of new analytical techniques in building technology during the 1980s. It highlights the importance of considering overall building design and materials, rather than solely relying on structural analysis. The author also warns against the dangers of relying too heavily on computers and codes of practice, emphasizing the need for engineers to have a broad education and understanding of structural behavior.
+scientific_discipline: Engineering and Technology > Structural Engineering

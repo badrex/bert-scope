@@ -1,0 +1,10 @@
+article_id: 109876
+revised_title: Investigating Parallax and Temperature Variations in Observations
+semantic_tags:
+  - Astronomy
+  - Observational Astronomy
+  - Parallax
+  - Temperature Variations
+  - Instrumentation
+tldr: The author conducted experiments to determine if temperature variations affected parallax observations. By maintaining a consistent temperature in the observatory, they found no indication of periodical variation in the stars observed. The results of fixed instruments in the future will help confirm these findings.
+scientific_discipline: Astronomy > Observational Astronomy

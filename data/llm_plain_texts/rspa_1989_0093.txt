@@ -1,0 +1,10 @@
+article_id: rspa_1989_0093
+revised_title: 'Electron Scavenging Yields in N-Methylpyrrolidinone: The Radiation Chemistry of Organic Amides'
+semantic_tags:
+  - Radiation chemistry
+  - Organic amides
+  - Electron scavenging
+  - Methyl bromide
+  - Trans-stilbene
+tldr: The article investigates the electron scavenging yields in N-methylpyrrolidinone, a cyclic organic amide, using methyl bromide and trans-stilbene as solutes. The study found that the yield of methane increased from 62 to 166 mol as the concentration of trans-stilbene was increased from 0.1 mol to 0.5 mol. The results provide insights into the radiation chemistry of organic amides and the ability of solutes to scavenge electrons in these solvents.
+scientific_discipline: Chemistry > Organic Chemistry

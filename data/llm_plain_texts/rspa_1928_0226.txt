@@ -1,0 +1,10 @@
+article_id: 'rspa_1928_0226'
+revised_title: 'Einstein's New Metric and the Wave Equation'
+semantic_tags:
+  - General Relativity
+  - Wave Equation
+  - Five-dimensional Continuum
+  - Electromagnetism
+  - Geometry
+tldr: The authors explore Einstein's new metric and its application to the wave equation. They discuss the five-dimensional continuum and how it unites gravitational and electromagnetic phenomena. The new metric allows for a simpler wave equation and offers a potential solution to the challenges of four-dimensional observation.
+scientific_discipline: Physics > General Relativity

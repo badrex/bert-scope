@@ -1,0 +1,10 @@
+article_id: rspa_1964_0171
+revised_title: 'Asymptotic Expansions and Modified Bessel Functions: A Study of Green-Type, Transitional, and Uniform Solutions'
+semantic_tags:
+  - Asymptotic Expansions
+  - Differential Equations
+  - Modified Bessel Functions
+  - Mellin Transform
+  - Green-Type Solutions
+scientific_discipline: Mathematics > Applied Mathematics
+tldr: The author presents a method to derive Green-type, transitional, and uniform asymptotic expansions from differential equations, focusing on modified Bessel functions of large order. The study involves reformulating the problem and using the Mellin transform to find expansions for these functions, providing solutions valid in various regions.

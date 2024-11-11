@@ -1,0 +1,10 @@
+article_id: rspa_1991_0142
+revised_title: Multiple Scattering Perturbation Theory for Electron Densities
+semantic_tags:
+  - Electron density functional theory
+  - Perturbation theory
+  - Quantum mechanics
+  - Statistical mechanics
+  - Solid-state physics
+tldr: The authors present a new derivation of the multiple scattering perturbation theory for electron densities, which allows for a more generalized and practical application compared to previous derivations. The new derivation demonstrates that the electron density should be independent of the energy origin chosen for calculations, enabling the use of various physical models and providing explicit formulae for corrections to the Thomas-Fermi theory.
+scientific_discipline: Physics > Solid-state physics

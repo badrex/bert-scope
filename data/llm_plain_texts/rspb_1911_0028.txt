@@ -1,0 +1,10 @@
+article_id: 'rspb_1911_0028'
+revised_title: 'The Influence of Arsenates and Arsenites on the Fermentation of Sugars by Yeast Juice'
+semantic_tags:
+  - Fermentation
+  - Yeast
+  - Arsenates
+  - Phosphates
+  - Sugar metabolism
+tldr: The authors conducted experiments to study the effect of arsenates and arsenites on the fermentation of sugars by yeast juice. They discovered that arsenates significantly affect fermentation, causing a temporary acceleration in the rate of carbon dioxide evolution. Unlike phosphates, arsenates do not form organic combinations and their effect on fermentation continues even after the evolution of an equivalent amount of carbon dioxide. The study also found that there is an optimum concentration of arsenate that corresponds to a maximum rate of fermentation.
+scientific_discipline: Chemistry > Biochemistry

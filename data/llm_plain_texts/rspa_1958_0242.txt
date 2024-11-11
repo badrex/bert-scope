@@ -1,0 +1,10 @@
+article_id: rspa_1958_0242
+revised_title: 'Investigations of Alkali Metals in Hydrogen Flame Gases: Thermal and Chemiluminescent Effects of Free Radicals'
+semantic_tags:
+  - Flame chemistry
+  - Free radicals
+  - Flame photometry
+  - Sodium emission
+  - Chemical kinetics
+tldr: The authors studied the effects of alkali metals in hydrogen flame gases, focusing on the thermal and chemiluminescent effects produced by free radicals. They observed a rapid rise in intensity at the reaction zone followed by a steady increase in flame temperature. The results were used to estimate the concentration of free radicals and provide insights into the velocity constants of ternary reactions.
+scientific_discipline: Chemistry > Chemical kinetics

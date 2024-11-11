@@ -1,0 +1,10 @@
+article_id: 'rsta_1975_0067'
+revised_title: 'Ultraviolet Interstellar Extinction: TD1 Satellite Observations'
+semantic_tags:
+  - Interstellar Medium
+  - Ultraviolet Astronomy
+  - Extinction Law
+  - TD1 Satellite
+  - Galactic Regions
+tldr: 'The authors used the TD1 satellite to study interstellar extinction in the ultraviolet range. They derived accurate extinction curves for three galactic regions: Cygnus, galactic center, and anticenter. The results showed no variation in the extinction curves for different directions and indicated that the strong absorption band at 2200 A may require more than one type of particle for explanation.'
+scientific_discipline: Astronomy > Ultraviolet Astronomy

@@ -1,0 +1,10 @@
+article_id: 'rspa_1933_0017'
+revised_title: 'Air Pressure on a Cone Moving at High Speeds'
+semantic_tags:
+  - Fluid Dynamics
+  - Aerodynamics
+  - Conical Flow
+  - High-Speed Flows
+  - Gas Dynamics
+tldr: 'This article explores the air pressure on a cone moving at high speeds. The authors find that under certain conditions, a conical regime is possible, and they work out a complete solution through numerical integration for three different cone angles. The calculated pressures are compared with experimental observations, showing good agreement. The study also discusses the limitations of the conical solution and the possible regimes near the conical nose of a projectile moving at less than the critical speed.'
+scientific_discipline: 'Engineering and Technology > Fluid Dynamics'

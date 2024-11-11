@@ -1,0 +1,10 @@
+article_id: rspa_1987_0136
+revised_title: 'Meniscus Configurations and Curvatures in Non-Axisymmetric Pores of Open and Closed Uniform Cross Section: A Study of Terminal and Arc Menisci'
+semantic_tags:
+  - Capillary surfaces
+  - Meniscus shapes
+  - Non-axisymmetric tubes
+  - Terminal menisci
+  - Arc menisci
+tldr: This study investigates the various shapes and configurations of menisci in non-axisymmetric pores of uniform cross section. The authors describe different types of menisci, such as arc menisci and terminal menisci, and explain how they form and interact with each other. They also discuss the method of determining capillary pressures and curvatures in these systems, which can be applied to a wide variety of tube shapes. The research focuses on tubes formed from two rods separated from a plate, providing a simple arrangement that allows for the observation and measurement of meniscus configurations and curvatures.
+scientific_discipline: Physics > Fluid Mechanics

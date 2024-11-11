@@ -1,0 +1,11 @@
+article_id: rspa_1985_0060
+revised_title: 'Uniform Asymptotic Approximations to Orr-Sommerfeld Equation for Asymptotic Suction Boundary Layer Profile'
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Orr-Sommerfeld Equation
+  - Asymptotic Analysis
+  - Airy Functions
+tldr: The article presents uniform asymptotic approximations to the solutions of the Orr-Sommerfeld equation for the asymptotic suction boundary layer profile. The dominant-recessive solutions are found to be free of logarithmic terms at all orders of approximation, and the partly balanced solutions involve the generalized Airy functions for specific values only. The analysis demonstrates the validity of the approximations for the asymptotic suction boundary layer profile and provides insights into the behavior of the solutions.
+scientific_discipline: Mathematics > Applied Mathematics
+```

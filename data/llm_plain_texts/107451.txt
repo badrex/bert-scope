@@ -1,0 +1,10 @@
+article_id: '107451'
+revised_title: 'Double Distillation Using Latent Heat'
+semantic_tags:
+  - Distillation
+  - Latent Heat
+  - Heat Transfer
+  - Steam
+  - Vacuum
+tldr: The author explains a method to produce a double distillation using the same heat by exploiting latent heat. The process involves condensing steam in a vacuum, which can be used to distill water without additional fire. This method has potential applications in economizing fuel consumption and providing fresh water on ships.
+scientific_discipline: Chemistry > Heat Transfer and Thermodynamics

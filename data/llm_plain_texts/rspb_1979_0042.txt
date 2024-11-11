@@ -1,0 +1,10 @@
+article_id: 'rspb_1979_0042'
+revised_title: 'Stereoscopic Vision: Understanding Stereoscopic Subsystems for Position and Motion in Depth'
+semantic_tags:
+  - Stereopsis
+  - Visual Perception
+  - Motion Perception
+  - Visual Cognition
+  - Depth Perception
+tldr: The article describes psychophysical evidence that the human visual system contains channels for motion in depth, in addition to those for position in depth. The author proposes that the visual pathway contains stereoscopic motion filters that respond to specific directions of motion in depth. At the single-neuron level, cat visual cortex contains neurons that emphasize information about the direction of motion at the expense of positional information. The author also discusses the existence of channels that are sensitive to changing size, separate from the channels for motion and flicker. The findings link the stereoscopic motion filters and the changing-size filters, both feeding the same motion-in-depth stage.
+scientific_discipline: Psychology > Visual Perception

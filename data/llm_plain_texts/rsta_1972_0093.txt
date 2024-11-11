@@ -1,0 +1,10 @@
+article_id: rsta_1972_0093
+revised_title: Dynamics of Earth's Liquid Core
+semantic_tags:
+  - Geophysics
+  - Earth's Core
+  - Tides
+  - Love Numbers
+  - Density Stratification
+tldr: This article presents an asymptotic theory for the long-period bodily tides in an Earth model with a liquid core. The authors find that the yielding inside the core is different for stable and unstable density stratification. They also clarify the Jeffreys-Vicente conjecture and provide Love numbers for various types of liquid cores. The study shows that a liquid core does not need to be in neutral equilibrium and that the displacements and stresses within a liquid core in tidal yielding are determinate.
+scientific_discipline: Earth Sciences > Geophysics

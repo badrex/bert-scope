@@ -1,0 +1,10 @@
+article_id: 'rsta_1979_0059'
+revised_title: 'Advancements and Limitations of X-ray Image Intensifiers in Medical Diagnosis'
+semantic_tags:
+  - Medical Imaging
+  - Radiology
+  - X-ray Technology
+  - Image Intensifiers
+  - Fluoroscopy
+tldr: This article discusses the advancements and limitations of X-ray image intensifiers in medical diagnosis. It explores the history and development of image intensifiers, their applications, and current limitations. The author highlights the importance of increased quantum efficiency in primary screens and the need for further developments in technology to improve image quality and reduce radiation dosage for patients and operators.
+scientific_discipline: Engineering and Technology > Medical Imaging

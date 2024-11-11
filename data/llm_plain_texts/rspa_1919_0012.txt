@@ -1,0 +1,10 @@
+article_id: rspa_1919_0012
+revised_title: Vacuum Arc Spectra of Various Elements in the Extreme Ultra-Violet: Techniques and Findings
+semantic_tags:
+  - Spectroscopy
+  - Vacuum arc
+  - Extreme ultra-violet
+  - Ionization potentials
+  - Metal spectra
+tldr: The authors conducted experiments to study the spectra of various elements in the extreme ultra-violet region using a vacuum arc spectrograph. They developed a new method to remove water vapor from the spectrograph and obtained arc spectra for elements like copper, aluminum, zinc, carbon, iron, tin, thallium, lead, nickel, cobalt, and cadmium. The study helped in determining the ionization potentials and comparing metal spectra with hydrogen spectra.
+scientific_discipline: Physics > Spectroscopy

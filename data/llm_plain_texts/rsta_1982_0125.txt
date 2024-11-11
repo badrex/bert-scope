@@ -1,0 +1,10 @@
+article_id: rsta_1982_0125
+revised_title: Fourier Transform Spectrometry: Advancements and Comparisons
+semantic_tags:
+  - Spectroscopy
+  - Fourier Transform Spectrometry
+  - Passive Spectrometry
+  - Grating Spectrograph
+  - Fabry-Perot Interferometer
+tldr: This article explores the relative merits of Fourier transform spectrometers and alternative passive spectrometers, focusing on the quantity, quality, and cost of information flow. It compares the techniques of Fourier transform spectrometry, grating spectrographs, and Fabry-Perot interferometers, discussing their throughput, detector considerations, spectral coverage, resolution, accuracy in intensity and wavelength, and cost of construction and data reduction.
+scientific_discipline: Physics > Optics

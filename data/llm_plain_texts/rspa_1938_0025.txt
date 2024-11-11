@@ -1,0 +1,10 @@
+article_id: 'rspa_1938_0025'
+revised_title: 'Comparison of Molecular Orbital and Valence Bond Methods in Polyenes and Aromatic Molecules'
+semantic_tags:
+  - Molecular Orbital Theory
+  - Valence Bond Theory
+  - Aromaticity
+  - Polyenes
+  - Quantum Chemistry
+tldr: The authors compare molecular orbital and valence bond methods in studying the electronic structure of polyenes and aromatic molecules. They find that molecular orbital treatment accounts for ionic structures, which are not considered in valence bond treatment, leading to a more accurate prediction of energy levels and stability of molecular states.
+scientific_discipline: Chemistry > Quantum Chemistry

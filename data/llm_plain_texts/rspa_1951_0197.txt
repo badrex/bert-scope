@@ -1,0 +1,10 @@
+article_id: rspa_1951_0197
+revised_title: 'Growth Mechanisms in Graphitizing and Non-Graphitizing Carbons'
+semantic_tags:
+  - Carbonization
+  - Graphite structure
+  - X-ray diffraction
+  - Crystallite growth
+  - Graphitizing and non-graphitizing carbons
+tldr: The authors investigated the structure of carbons with different origins after heating them between 1000 and 3000°C. They found that graphitizing and non-graphitizing carbons form two distinct classes. Graphitizing carbons have a more compact structure with neighboring crystallites having a strong tendency to lie in nearly parallel orientations, while non-graphitizing carbons have a random orientation of crystallites due to strong cross-linking. Crystallite growth in graphitizing carbons is facilitated by pre-orientation, while in non-graphitizing carbons, growth is impeded by cross-linking and random orientation.
+scientific_discipline: Chemistry > Materials Science

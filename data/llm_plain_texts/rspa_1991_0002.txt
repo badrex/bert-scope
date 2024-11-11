@@ -1,0 +1,10 @@
+article_id: rspa_1991_0002
+revised_title: 'Droplet Impact Dynamics on Solid Surfaces: The Effect of Surface Temperature'
+semantic_tags:
+  - Fluid Dynamics
+  - Heat Transfer
+  - Surface Science
+  - Thermodynamics
+  - High-Speed Photography
+tldr: The study examines the effect of surface temperature on the impact dynamics of a liquid droplet on a solid surface using a flash photographic method. The experiments were conducted with a fixed initial impact energy and varying surface temperatures. The results show that the evolution of wetted area and spreading rate are independent of surface temperature during the early period of impact. The findings provide insights into droplet impact processes in various applications, such as fire suppression, gas turbine engine cooling, and combustion of sprays in confined geometries.
+scientific_discipline: Physics > Fluid Dynamics

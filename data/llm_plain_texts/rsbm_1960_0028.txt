@@ -1,0 +1,10 @@
+article_id: 'rsbm_1960_0028'
+revised_title: 'Max von Laue: A Pioneer in Physics and Crystallography'
+semantic_tags:
+  - Physics
+  - Crystallography
+  - X-ray diffraction
+  - Quantum physics
+  - Relativity
+tldr: 'Max von Laue, a prominent physicist, made significant contributions to the fields of thermodynamics, optics, relativity, and superconductivity. He is best known for his 1912 discovery of X-ray diffraction by crystals, which revolutionized our understanding of the solid state and laid the foundation for X-ray crystallography. Laue's work on the special theory of relativity and his influence on the development of atomic theory and X-ray spectroscopy further solidified his legacy in the world of physics.'
+scientific_discipline: Physics > Optics

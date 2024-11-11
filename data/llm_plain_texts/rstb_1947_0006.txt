@@ -1,0 +1,10 @@
+article_id: 'rstb_1947_0006'
+revised_title: 'The Role of Parameters in Polysomic Inheritance and Gamete Formation'
+semantic_tags:
+  - Genetics
+  - Inheritance
+  - Polysomic inheritance
+  - Gamete formation
+  - Gene linkage
+tldr: This article discusses the combinatorial and statistical aspects of linkage in polysomic inheritance. It explores the parameters needed to specify the frequencies of modes of gamete formation and the enumeration of segregating genotypes in polysomic organisms. The author also explains the distinction between disomic and polysomic inheritance and how the number of genotypes in polysomic organisms can be large and challenging to enumerate. The article emphasizes the importance of understanding the relationship between gene content and the frequencies of different modes of gametogenesis in polysomic organisms.
+scientific_discipline: Biology and Life Sciences > Genetics

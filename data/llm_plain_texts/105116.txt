@@ -1,0 +1,10 @@
+article_id: 105116
+revised_title: Assessing the Accuracy and Limitations of Earth's Figure Observations
+semantic_tags:
+  - Geodesy
+  - Earth's figure
+  - Observational errors
+  - Newtonian theory
+  - Spheroids
+scientific_discipline: Earth Sciences > Geodesy
+tldr: The author discusses the limitations and accuracy of observations related to the Earth's figure, considering various measurements and theories. They analyze the differences between observations made by different scientists and the Newtonian theory, emphasizing the importance of considering observational errors and the need for more precise measurements. The author also critiques some of the methods used in determining the Earth's figure and suggests improvements for future research.

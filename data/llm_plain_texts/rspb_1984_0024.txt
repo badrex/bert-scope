@@ -1,0 +1,10 @@
+article_id: 'rspb_1984_0024'
+revised_title: 'A New Model for Neuronal Bursting Using Three Coupled First Order Differential Equations'
+semantic_tags:
+  - Neuronal bursting
+  - Action potential
+  - Differential equations
+  - Molluscan burst neurons
+  - Phase plane analysis
+tldr: The authors present a modified model of the action potential using three coupled first-order differential equations. This model introduces two additional equilibrium points and explains the transition from a silent state to a repetitively firing state when triggered by a short current pulse. The model also accounts for adaptation, resulting in either an isolated burst or a depolarizing afterpotential. The authors demonstrate that this model can produce periodic bursting and provide a simpler representation of bursting properties in terms of a Bonhoeffer-van der Pol type of model.
+scientific_discipline: Biology and Life Sciences > Neuroscience

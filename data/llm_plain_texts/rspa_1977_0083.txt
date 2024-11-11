@@ -1,0 +1,10 @@
+article_id: rspa_1977_0083
+revised_title: Correction to Ionization and Recombination in Flames
+semantic_tags:
+  - Plasma physics
+  - Ionization
+  - Recombination
+  - Flames
+  - Equations
+tldr: This article is a correction to a previous paper on ionization and recombination in flames. The author corrects a mathematical error in the original paper, clarifying the summation in equation (19). The correct form of the equation was used in the computations.
+scientific_discipline: Physics > Plasma Physics

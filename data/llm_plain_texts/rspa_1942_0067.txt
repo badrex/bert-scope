@@ -1,0 +1,10 @@
+article_id: rspa_1942_0067
+revised_title: 'Detection of Condensation in High-Velocity Steam Using Electrical Resistance'
+semantic_tags:
+  - Condensation Detection
+  - Steam Engineering
+  - Thermodynamics
+  - Fluid Mechanics
+  - Electrical Resistance
+tldr: The authors developed a method to detect condensation in high-velocity steam using electrical resistance. They found that a wire's resistance changed sharply when it passed through the point where condensation began in a steam nozzle. This method could be used in pipes and turbine passages to study condensation behavior.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

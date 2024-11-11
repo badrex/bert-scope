@@ -1,0 +1,10 @@
+article_id: 'rspb_1957_0039'
+revised_title: 'Ejection Seat Design and Human Body Ballistics'
+semantic_tags:
+  - Human Physiology
+  - Ejection Seats
+  - Aviation Medicine
+  - Acceleration Tolerance
+  - Seat Cushions
+tldr: This study investigates the physiological and anatomical challenges of ejection seats in high-speed aircraft. Researchers tested various acceleration rates and cushion designs to determine the maximum acceleration and rate of change of acceleration that the seated human body can tolerate. They found that a rate of change of acceleration of 300 g/s with a maximum peak acceleration of 25 g should be considered as limiting factors for accelerations tolerable by the body. The study also highlights the importance of seat cushion characteristics and the blind firing technique to improve ejection seat safety.
+scientific_discipline: Engineering and Technology > Aviation and Aeronautics

@@ -1,0 +1,10 @@
+article_id: rspa_1979_0073
+revised_title: 'Penetrable Sphere Model: Gas-Liquid Surface Properties and Van der Waals Approximation'
+semantic_tags:
+  - Surface Thermodynamics
+  - Van der Waals Theory
+  - Penetrable Sphere Model
+  - Surface Profile
+  - Surface Tension
+tldr: The authors analyze the gas-liquid surface properties of the penetrable sphere model using the van der Waals approximation. They compare the results with the mean-field approximation and find that the van der Waals approach is a tolerable approximation at temperatures down to about half the critical point but unsatisfactory at lower temperatures. A generalization proposed by Yang et al. (1976) is shown to overcome this difficulty and provide better results at all temperatures.
+scientific_discipline: Physics > Thermodynamics

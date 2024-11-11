@@ -1,0 +1,10 @@
+article_id: 'rspa_1909_0047'
+revised_title: 'Investigation of Electrostatic Induction through Solid Insulators'
+semantic_tags:
+  - Electrostatics
+  - Insulators
+  - Capacitance
+  - Dielectrics
+  - Condensers
+tldr: The author conducted experiments on the variation of the capacity of condensers with solid dielectrics, exploring the influence of potential difference and time. They investigated the effect of temperature on the results and found that the capacity of the ebonite condenser fell slowly at constant temperature, while after a fall in temperature, its capacity slowly increased.
+scientific_discipline: Physics > Electromagnetism

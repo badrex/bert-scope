@@ -1,0 +1,10 @@
+article_id: 'rspb_1946_0002'
+revised_title: 'Anti-Rickettsial Action of p-Sulphonamidobenzamidine and Related Compounds'
+semantic_tags:
+  - Rickettsial infections
+  - Chemotherapy
+  - Anti-rickettsial activity
+  - Sulphonamidobenzamidine
+  - Typhus
+tldr: Researchers discovered that p-sulphonamidobenzamidine and related compounds have anti-rickettsial activity, which can be effective in treating typhus infections in mice. The study found that only a few closely related compounds showed therapeutic action, and any further modifications to the structure led to a loss of activity. This discovery led to the development of new drugs for treating rickettsial infections.
+scientific_discipline: Biology and Life Sciences > Microbiology and Infectious Diseases

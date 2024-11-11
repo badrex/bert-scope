@@ -1,0 +1,10 @@
+article_id: rspa_1981_0031
+revised_title: Photodissociation of Organic Ions in Gas Phase: A High-Resolution Mass Spectrometer Design
+semantic_tags:
+  - Mass spectrometry
+  - Photodissociation
+  - Organic ions
+  - Laser excitation
+  - Ion kinetic energy
+tldr: The authors designed a high-resolution mass spectrometer to study the photodissociation of organic ions in the gas phase. They used an argon-ion laser to irradiate ions and distinguished photodissociation from unimolecular dissociation by mechanically chopping the laser beam and using phase-sensitive detection. The photodissociation of nitrotoluene isomers was investigated, revealing different fragmentation pathways from unimolecular dissociations.
+scientific_discipline: Chemistry > Spectroscopy

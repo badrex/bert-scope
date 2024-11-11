@@ -1,0 +1,10 @@
+article_id: rspa_1995_0108
+revised_title: Spacetime Calculus Invariant Under Null Rotations
+semantic_tags:
+  - General Relativity
+  - Spacetime Geometry
+  - Null Rotations
+  - Spinors
+  - Differential Operators
+tldr: The authors present a spacetime calculus that is invariant under null rotations, using totally symmetric spinors and four new differential operators. This formalism is useful in studying the geometry of spacelike 2-surfaces and type spacetimes, and it can simplify calculations in general relativity.
+scientific_discipline: Physics > General Relativity

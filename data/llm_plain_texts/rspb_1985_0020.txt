@@ -1,0 +1,10 @@
+article_id: 'rspb_1985_0020'
+revised_title: 'Interpolation and Extrapolation of Depth in Visual Perception'
+semantic_tags:
+  - Visual Perception
+  - Depth Perception
+  - Stereopsis
+  - Cognitive Psychology
+  - Binocular Vision
+tldr: This study examines how the human visual system interprets depth and surface shapes in visual input, particularly in random-dot stereograms. The research focuses on how depth properties of stereo surfaces influence the appearance of neighboring monocular regions and how depth extrapolates over monocular surfaces segmented by discontinuities in texture or motion. The findings suggest that the visual system uses both two-dimensional and three-dimensional features to segment scenes into separate surfaces and that global pictorial and stereo cues interact to determine the appearance of monocular surfaces.
+scientific_discipline: Psychology > Cognitive Psychology

@@ -1,0 +1,10 @@
+article_id: rspa_1906_0082
+revised_title: 'Experimental Evidence of Ionic Migration in the Natural Diffusion of Acids and Salts'
+semantic_tags:
+  - Electrochemistry
+  - Diffusion
+  - Ionic migration
+  - Nernst-Planck theory
+  - Electrolytes
+tldr: The authors conducted experiments to study the diffusion of acids and salts in jellies, observing the movement of hydrogen ions and the role of anions in the process. They found that the rate of diffusion followed Stefan's law and provided evidence of ionic migration in the natural diffusion of acids and salts. This research extended the Nernst-Planck theory and had implications for understanding the behavior of electrolytes.
+scientific_discipline: Chemistry > Electrochemistry

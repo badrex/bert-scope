@@ -1,0 +1,10 @@
+article_id: rspa_1959_0027
+revised_title: Accelerated Self-Constricted Electron Streams in Plasma: Analysis and Effects of Collisions
+semantic_tags:
+  - Plasma physics
+  - Accelerator physics
+  - Electron streams
+  - Plasma oscillations
+  - Electron-proton collisions
+tldr: This article explores the mechanism of radial oscillations in a neutralized cylindrical electron stream in an accelerating electric field. The analysis is based on the two-fluid model of plasma, and it considers the effects of electron-positive ion collisions on the stream's acceleration. The study finds that dense streams in low electric fields can be destroyed by radial oscillations, preventing their acceleration.
+scientific_discipline: Physics > Plasma Physics

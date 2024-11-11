@@ -1,0 +1,10 @@
+article_id: 106206
+revised_title: 'Astronomical Observations and Latitude Determination in Leicester'
+semantic_tags:
+  - Astronomy
+  - Latitude determination
+  - Quadrant measurements
+  - Celestial navigation
+  - Clock accuracy
+tldr: The author, Mr. Ludlam, conducted astronomical observations to determine the latitude of Leicester using a quadrant and recorded the zenith distances of various stars. The observations also examined the accuracy of a clock and compared it to mean time. The latitude of Leicester was determined to be 52°38', and the clock was found to be 14.6 seconds slow compared to mean time.
+scientific_discipline: Astronomy > Celestial Navigation

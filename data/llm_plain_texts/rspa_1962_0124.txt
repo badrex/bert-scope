@@ -1,0 +1,10 @@
+article_id: rspa_1962_0124
+revised_title: Extensible Model of the Electron: A New Approach to Electron Structure
+semantic_tags:
+  - Electromagnetism
+  - Quantum Mechanics
+  - Particle Physics
+  - Electron Theory
+  - Muon
+scientific_discipline: Physics > Electromagnetism
+tldr: The author proposes a new model of the electron, considering it as a charged conducting surface with surface tension to prevent it from breaking apart under repulsive forces. The equations of motion are derived from an action principle, and a Hamiltonian formalism is obtained. The energy of the first excited state with spherical symmetry is calculated, and it is suggested that this state may be considered as a muon. This model provides a new perspective on the structure and behavior of the electron.

@@ -1,0 +1,10 @@
+article_id: rspl_1886_0090
+revised_title: A New Method for Determining Organic Matter in Air
+semantic_tags:
+  - Air quality
+  - Environmental chemistry
+  - Gas analysis
+  - Organic compounds
+  - Atmospheric science
+tldr: The author presents a new method for determining the amount of organic matter in air, overcoming previous methods' limitations. The process involves using potassium permanganate to measure the bleaching effect of air on the permanganate, providing a more accurate and efficient way to analyze air quality. The method is useful for comparing organic matter levels in various environments and understanding the relationship between organic matter and factors like weather, combustion of coal, and carbon dioxide levels.
+scientific_discipline: Chemistry > Environmental and Earth Sciences

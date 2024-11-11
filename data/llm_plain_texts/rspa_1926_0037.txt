@@ -1,0 +1,10 @@
+article_id: rspa_1926_0037
+revised_title: 'New Experiments on the Combustion of Carbon Monoxide and Oxygen Mixtures'
+semantic_tags:
+  - Combustion
+  - Gas Mixtures
+  - Chemical Reactions
+  - Flame Spectra
+  - Atmospheric Pressure
+tldr: The authors conducted experiments on the combustion of carbon monoxide and oxygen mixtures to understand the role of moisture in their chemical reactions. They found that the presence of water vapor has little influence on the rate of pressure development in the explosion of these mixtures at high pressures. The experiments also showed that carbon monoxide can combine directly with oxygen under certain conditions, challenging the idea that they are mutually inert.
+scientific_discipline: Chemistry > Combustion and Flame

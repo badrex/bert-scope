@@ -1,0 +1,10 @@
+article_id: 'rspb_1966_0092'
+revised_title: 'Exploring the Specificity of Antigenic Recognition in Antibody Heavy Chains'
+semantic_tags:
+  - Immunology
+  - Antibody structure
+  - Antigen-antibody interaction
+  - Protein structure
+  - Molecular biology
+tldr: This study examines the specificity of antigenic recognition in antibody heavy chains. The researchers separated and analyzed heavy and light chains of two related high-affinity antibodies, finding that heavy chains can identify closely related ligands. The results suggest that heavy chains bear the specificity of their parent molecules, but the role of homologous light chains in antigenic recognition remains unclear.
+scientific_discipline: Biology and Life Sciences > Immunology

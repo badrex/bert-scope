@@ -1,0 +1,10 @@
+article_id: rspa_1987_0015
+revised_title: 'Three-dimensional Instabilities in Steady and Unsteady Non-parallel Boundary Layers'
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Stability Analysis
+  - Non-parallel Flow
+  - Tollmien-Schlichting Disturbances
+tldr: This article investigates the linear stability of steady and unsteady two- and three-dimensional incompressible boundary layers with non-parallel basic flows. The study focuses on the effects of non-parallelism on the growth rate of instability waves and how it influences the direction of maximum linear growth. The research also explores the impact of cross flow on Tollmien-Schlichting instabilities and provides insights into other instabilities and interactions, linear and nonlinear.
+scientific_discipline: Physics > Fluid Dynamics

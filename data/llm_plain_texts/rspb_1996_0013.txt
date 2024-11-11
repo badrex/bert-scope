@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0013'
+revised_title: 'Testing the Mass Action Assumption in Bacillus thuringiensis Infection of Plodia interpunctella'
+semantic_tags:
+  - Host-Pathogen Dynamics
+  - Transmission Coefficient
+  - Mass Action Assumption
+  - Bacillus thuringiensis
+  - Plodia interpunctella
+tldr: The authors tested the mass action assumption in the transmission dynamics of Bacillus thuringiensis infecting Plodia interpunctella. They found that transmission increased more than linearly with host density and decreased with the density of infectious cadavers. Food availability also played a significant role in this process, indicating that the mass action assumption does not apply in this experimental system.
+scientific_discipline: Biology and Life Sciences > Ecology and Population Biology

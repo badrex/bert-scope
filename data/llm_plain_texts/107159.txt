@@ -1,0 +1,10 @@
+article_id: 107159
+revised_title: Cohesion of Fluids and Capillary Action
+semantic_tags:
+  - Fluid mechanics
+  - Surface tension
+  - Capillary action
+  - Fluid dynamics
+  - Adhesion
+tldr: The author investigates the cohesion of fluids and the phenomena of capillary tubes. They discuss the angle of contact between a fluid and a solid, and the tension in fluid surfaces. The author also explores the effects of curvature on fluid surfaces and the application of these principles to the elevation and depression of fluids in capillary tubes and between plates.
+scientific_discipline: Physics > Fluid mechanics

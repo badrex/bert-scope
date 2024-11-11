@@ -1,0 +1,10 @@
+article_id: rspl_1876_0046
+revised_title: "Investigations on Volta's Experiment: Electricity Produced by Metallic Contact"
+semantic_tags:
+  - Electrochemistry
+  - Voltaic Pile
+  - Electrometry
+  - Contact Electricity
+  - Galvanometer
+tldr: This article presents an experimental investigation of the electricity produced by the contact and separation of different metals, specifically copper and zinc. The authors constructed a mechanism to test the effect of metallic contact on a Thomson-Becker quadrant electrometer and a Thomson galvanometer. They found that the contact of dissimilar metals produced a small but measurable amount of electricity, which could be detected using sensitive electrometers and galvanometers.
+scientific_discipline: Physics > Electrochemistry

@@ -1,0 +1,11 @@
+article_id: rspa_1985_0120
+revised_title: Stability Analysis of Nonlinear Parabolic Amplitude Equation for Plane Poiseuille Flow
+semantic_tags:
+  - Fluid Dynamics
+  - Nonlinear Equations
+  - Bifurcation Theory
+  - Stability Analysis
+  - Plane Poiseuille Flow
+tldr: The article investigates the stability conditions of plane waves in plane Poiseuille flow against three-dimensional perturbations using a nonlinear parabolic amplitude equation. The study finds that if certain conditions are met, a wave is totally stable. The center manifold theorem is used to analyze the nature of solutions that bifurcate from a marginally unstable plane wave, leading to Hopf bifurcations and the formation of limit cycles or tori.
+scientific_discipline: Mathematics > Applied Mathematics
+```

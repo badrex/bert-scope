@@ -1,0 +1,10 @@
+article_id: rspa_1923_0095
+revised_title: 'Advancements in Measuring Thermal Conductivity'
+semantic_tags:
+  - Thermal Conductivity
+  - Heat Transfer
+  - Material Testing
+  - Engineering
+  - Physics
+tldr: This article describes the development of a technique for measuring the thermal conductivity of various materials, including metals, timbers, and poor conductors. The authors designed three different apparatus to test materials with different characteristics, focusing on accuracy and efficiency. The technique involved measuring the energy input and output, as well as the temperature gradient across the material. The results provide valuable data for understanding and improving the thermal properties of materials in various industries.
+scientific_discipline: Engineering > Heat Transfer

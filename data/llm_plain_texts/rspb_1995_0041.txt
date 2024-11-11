@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0041'
+revised_title: 'ATP-Activated Conductances in Schwann Cells: Implications for Neuro-Glial Communication'
+semantic_tags:
+  - Neurophysiology
+  - Glial cells
+  - ATP signaling
+  - Ion channels
+  - P2 purinoceptors
+tldr: This study investigates the effects of adenosine 5'-triphosphate (ATP) on the electrical properties of mouse Schwann cells. The researchers found that external ATP activates a conductance that carries both cations (potassium and calcium) and anions (chloride). This ATP-activated conductance resembles a P2-mediated response in its kinetics, agonist potency, and blockade by suramin, but differs in its requirement for high concentrations of ATP and the activation of a cationic as well as anionic conductance.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

@@ -1,0 +1,10 @@
+article_id: 'rsta_1983_0067'
+revised_title: 'Hydraulic Cement Technology: T.e.m. Studies of Cement Clinker Compounds and Their Hydration'
+semantic_tags:
+  - Cement chemistry
+  - Cement hydration
+  - Transmission electron microscopy
+  - Cement clinker
+  - Cement pastes
+tldr: This article examines the microstructure and hydration of cement clinker compounds using transmission electron microscopy (t.e.m.). The study focuses on pure tricalcium silicate and tricalcium aluminate, observing their lattice structures and early stages of hydration. The research also compares the microstructure of high-strength cement pastes with other pastes of low water content. The findings suggest that calcium chloride may accelerate hydration by improving access to the surface, while calcium sulfate retards hydration by blocking access to the surface.
+scientific_discipline: Engineering and Technology > Materials Science

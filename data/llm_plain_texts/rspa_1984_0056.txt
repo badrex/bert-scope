@@ -1,0 +1,10 @@
+article_id: rspa_1984_0056
+revised_title: 'Analysis of the Orbit of Cosmos 482 in its Last 15 Days: Atmospheric Rotation Rate and Density Variations'
+semantic_tags:
+  - Satellite Orbit Analysis
+  - Atmospheric Rotation Rate
+  - Upper Atmosphere Density
+  - Spacecraft Decay
+  - COSPAR International Reference Atmosphere
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science
+tldr: The author analyzes the orbit of the satellite Cosmos 482 during its last 15 days to study the atmospheric rotation rate and density variations near perigee. The study provides two values for the atmospheric rotation rate at heights near 200 km and reveals weak meridional winds. The research also determines density scale heights at heights of 180-220 km and suggests that the COSPAR International Reference Atmosphere underestimates scale heights during high solar activity levels.

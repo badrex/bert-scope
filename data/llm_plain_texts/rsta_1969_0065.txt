@@ -1,0 +1,10 @@
+article_id: rsta_1969_0065
+revised_title: A Laboratory Model for Studying the General Ocean Circulation
+semantic_tags:
+  - Oceanography
+  - Fluid Dynamics
+  - Geophysical Fluid Dynamics
+  - Vorticity Balance
+  - Sverdrup Balance
+scientific_discipline: Environmental and Earth Sciences > Oceanography
+tldr: The authors created a laboratory model to study the general ocean circulation, focusing on the barotropic aspect. They used a fluid enclosed in a specific volume defined by the intersection of two spherical surfaces and a circular cylinder, which was rotated to create an interior circulation. The model allowed them to observe phenomena like meridional Sverdrup flow, zonal flow, and western boundary currents, which agreed with theoretical predictions. This model helps to enhance our understanding of the general ocean circulation and its complex processes.

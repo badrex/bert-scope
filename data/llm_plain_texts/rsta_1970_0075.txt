@@ -1,0 +1,10 @@
+article_id: rsta_1970_0075
+revised_title: 'Exploring the Current-Voltage Characteristics of SNS Junctions and Other Superconducting Weak Links'
+semantic_tags:
+  - Superconductivity
+  - Quantum Mechanics
+  - Tunnel Junctions
+  - Josephson Effect
+  - Weak Links
+tldr: This article investigates the current-voltage characteristics of SNS junctions and other superconducting weak links. The authors develop a model to explain the behavior of these junctions, including the effects of external radiation and noise. They also discuss the differences between various types of weak links and their critical parameters.
+scientific_discipline: Physics > Electromagnetism

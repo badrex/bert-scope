@@ -1,0 +1,10 @@
+article_id: rspa_1996_0050
+revised_title: Intrinsic Characterization of Separation Constants in Kerr Geometry
+semantic_tags:
+  - Kerr geometry
+  - Spin one and gravitational perturbations
+  - Hertz potentials
+  - Separation constant
+  - Killing-Yano tensor
+tldr: The authors provide an intrinsic characterization of the separation constant for spin one and gravitational perturbations in Kerr geometry. They use Hertz potential methods to derive a covariant equation that admits separable solutions for all components. The key to understanding the mechanism of separation lies in the existence of a Killing-Yano tensor, which is crucial to the description of the explicit solutions obtained in a Kerr spacetime background for spin wave fields.
+scientific_discipline: Mathematics > Differential Geometry

@@ -1,0 +1,11 @@
+article_id: rspl_1891_0003
+revised_title: 'Experiments on the Discharge of Leyden Jars and the Phenomena of Electromagnetic Waves'
+semantic_tags:
+  - Electromagnetic waves
+  - Discharge of Leyden jars
+  - Alternative path
+  - Overflow
+  - Recoil-kick
+  - Surging circuit
+tldr: The author conducted experiments with Leyden jars and long conductors to study the discharge of electricity and the phenomena of electromagnetic waves. They discovered that when a discharge chose a wire, the spark was weaker, and when it chose an air-gap, the spark was stronger. The author also observed that connecting the machine side of the jar to earth increased the strength of the sparks. These findings contributed to the understanding of electromagnetic wave transmission and the development of early electrical technologies.
+scientific_discipline: Physics > Electromagnetism

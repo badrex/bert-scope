@@ -1,0 +1,10 @@
+article_id: rspa_1954_0031
+revised_title: 'Observation and Analysis of T-Meson Decay'
+semantic_tags:
+  - Particle Physics
+  - Meson Decay
+  - Nuclear Physics
+  - High-Energy Physics
+  - Emulsion Experiments
+tldr: The authors observed a T-meson decay in an Ilford G5 emulsion exposed under 14.5 cm of iron. They found that the secondary particles were all n-mesons, and the Q-value of the decay was 79 MeV, corresponding to a mass for the T-meson of 983 MeV. The data on T-mesons is discussed, and it is suggested that all secondary particles are likely zr-mesons.
+scientific_discipline: Physics > Particle Physics

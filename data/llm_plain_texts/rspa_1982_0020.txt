@@ -1,0 +1,10 @@
+article_id: rspa_1982_0020
+revised_title: 'Effect of Vessel Wall on Floating Bodies: A Comprehensive Study'
+semantic_tags:
+  - Fluid Mechanics
+  - Capillary Rise
+  - Meniscus
+  - Cylindrical Vessel
+  - Floating Bodies
+tldr: This study investigates the effect of the vessel wall on the stability of floating bodies in a cylindrical vessel. The authors found that the restoring force acting on a vertical cylinder floating or suspended at the liquid interface in a vertical cylindrical vessel is determined when the cylinder is displaced horizontally from the symmetrical position. The force acts to centralize the inner cylinder when the cylinder radii are small, and when both walls are wetted or unwetted, an approximate expression for the restoring force is provided. The study also confirms the expression for wetted walls for different liquids and cylinder geometries and derives limiting solutions for small gap widths and small displacements of the inner cylinder.
+scientific_discipline: Engineering and Technology > Fluid Mechanics

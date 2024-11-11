@@ -1,0 +1,10 @@
+article_id: rspa_1990_0015
+revised_title: Electro-Optic Observations of Electrodynamic Band Formation in Colloidal Suspensions
+semantic_tags:
+  - Colloidal suspensions
+  - Electrodynamic band formation
+  - Electro-optic observations
+  - Kaolinite
+  - Electric fields
+tldr: The authors observed an unusual type of association in colloidal suspensions called 'banding' under alternating electric fields. They studied aqueous suspensions of the discotic mineral kaolinite and found that the bands formed predominantly perpendicular to the field vector. The phenomenon of band formation depends on field strength, frequency, and application time, and it has potential as a mechanism for concentrating dispersed colloidal particles into regions of high local density.
+scientific_discipline: Physics > Electromagnetism

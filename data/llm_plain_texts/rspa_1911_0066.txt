@@ -1,0 +1,10 @@
+article_id: rspa_1911_0066
+revised_title: The Mechanism of the Nitrogen-Burning Arc Flame
+semantic_tags:
+  - Plasma physics
+  - Gas discharge
+  - Nitrogen chemistry
+  - Ozone formation
+  - Afterglow phenomenon
+tldr: The author investigates the flame produced by an alternating arc in nitrogen and air. They discover that the flame is due to the oxidation of nitrogen oxides by ozone, which is produced by the arc. The flame is also connected to the "afterglow" phenomenon observed in vacuum tubes containing air. The author provides experimental evidence to support their findings.
+scientific_discipline: Chemistry > Plasma chemistry

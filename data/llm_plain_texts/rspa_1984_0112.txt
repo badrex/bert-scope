@@ -1,0 +1,10 @@
+article_id: rspa_1984_0112
+revised_title: 'Energy Losses Due to Vortex Shedding: A Quantitative Assessment'
+semantic_tags:
+  - Fluid Dynamics
+  - Vortex Shedding
+  - Wave Energy
+  - Coastal Engineering
+  - Bessel Functions
+tldr: 'The authors studied the energy losses caused by vortex shedding from a vertical plate attacked by surface waves. They derived a theoretical formula that shows the ratio of energy taken out by the vortex generation process to the incoming wave energy flux. The formula is in good agreement with experimental evidence, and the relative energy loss varies between 5% and 18%. The study provides a quantitative assessment of the energy transfer from waves to vortices.'
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

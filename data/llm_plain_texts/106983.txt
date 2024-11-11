@@ -1,0 +1,10 @@
+article_id: 106983
+revised_title: On the Roots of Equations and Their Classification
+semantic_tags:
+  - Algebra
+  - Equation Solving
+  - Imaginary Roots
+  - Quadratic Equations
+  - Mathematical Analysis
+tldr: The author, James Wood, presents a method for finding the roots of equations and classifying them as positive, negative, or imaginary. He demonstrates how to determine the nature of the roots and reduce equations to their simplest form, providing a direct method for solving equations with multiple dimensions.
+scientific_discipline: Mathematics > Algebra

@@ -1,0 +1,10 @@
+article_id: 'rspb_1926_0067'
+revised_title: 'Fractional Muscle Activation in Reflex Responses'
+semantic_tags:
+  - Muscle Physiology
+  - Reflexes
+  - Spinal Reflexes
+  - Motor Neurons
+  - Afferent Nerves
+tldr: The authors conducted experiments on cats to study how a muscle responds to different afferent nerve stimulations. They found that a single afferent nerve usually activates only a fraction of the muscle, and the size of the fraction depends on the size and location of the afferent nerve. The results suggest that the additive principle applies to the afferent side of the reflex response, and the size of the reflex effect is influenced by the numerical strength of a collection of afferent fibers.
+scientific_discipline: Biology and Life Sciences > Muscle Physiology

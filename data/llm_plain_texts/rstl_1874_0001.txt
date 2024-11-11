@@ -1,0 +1,10 @@
+article_id: rstl_1874_0001
+revised_title: A Standard Voltaic Battery with Uniform Electromotive Force
+semantic_tags:
+  - Electrochemistry
+  - Batteries
+  - Electromotive force
+  - Standard units
+  - Electrical measurement
+tldr: The authors, Latimer Clark and Sir William Thomson, developed a standard voltaic battery with a constant electromotive force to address the need for a uniform difference of electric potential in electrical measurements. They created a battery element using zinc, mercury, and their sulfates, which maintained a consistent electromotive force for extended periods. This battery served as a standard for comparing other elements and sources of potential in electrical measurements.
+scientific_discipline: Physics > Electromagnetism

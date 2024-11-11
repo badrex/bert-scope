@@ -1,0 +1,10 @@
+article_id: rspa_1955_0180
+revised_title: Meson Production and Reabsorption in High-Energy Nuclear Disintegrations
+semantic_tags:
+  - Nuclear Physics
+  - Meson Production
+  - High-Energy Physics
+  - Nuclear Disintegrations
+  - Particle Physics
+tldr: The authors conducted an experiment to study the nuclear disintegrations produced by 950 MeV protons. They found that meson production and reabsorption play a significant role in these disintegrations. The results indicate that a substantial fraction of the mesons created are reabsorbed in the parent nucleus, contributing mainly to the excitation energy of the residual nucleus. This study helps to understand the behavior of high-energy nuclear disintegrations and the role of mesons in the process.
+scientific_discipline: Physics > Nuclear Physics

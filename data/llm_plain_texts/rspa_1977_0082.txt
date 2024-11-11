@@ -1,0 +1,10 @@
+article_id: 'rspa_1977_0082'
+revised_title: 'Understanding the Relationship Between Group Velocity and Energy Flux'
+semantic_tags:
+  - Wave Propagation
+  - Electromagnetic Waves
+  - Group Velocity
+  - Energy Flux
+  - Dispersion Relation
+tldr: The article demonstrates that the mean energy flux velocity vector for a single infinite train of elliptically polarized harmonic small amplitude plane waves propagating in a homogeneous conservative, dispersive system is equal to the group velocity. This conclusion is based on three assumptions and the dispersion relation for the system.
+scientific_discipline: Physics > Wave Propagation

@@ -1,0 +1,10 @@
+article_id: rspa_1939_0027
+revised_title: Hyperfine Structure and Nuclear Spin of Iodine
+semantic_tags:
+  - Nuclear Physics
+  - Hyperfine Structure
+  - Iodine Nuclear Spin
+  - Atomic Spectroscopy
+  - Quantum Mechanics
+tldr: The authors analyze the hyperfine structure of iodine's atomic spectrum and determine its nuclear spin. They find that the nuclear spin of iodine is responsible for the observed distortions in the hyperfine structure, which they attribute to the interaction between the angular momentum of the non-spherically symmetrical electron configuration and the spin of the non-spherically symmetrical nucleus.
+scientific_discipline: Physics > Nuclear Physics

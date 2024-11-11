@@ -1,0 +1,10 @@
+article_id: rspa_1949_0039
+revised_title: The Interaction of Atomic Hydrogen with Olefines: Diffusion Theory
+semantic_tags:
+  - Chemical kinetics
+  - Diffusion theory
+  - Hydrogen-olefine interaction
+  - Atomic hydrogen
+  - Molecular diffusion
+tldr: This article explores the interaction of atomic hydrogen with olefines, focusing on the diffusion theory. The author describes a system where hydrogen atoms diffuse in one dimension and can be removed by an olefine molecule before reaching their target. The study calculates the diffusion coefficient and determines the efficiency of gas-phase removal, providing insights into the reaction between atomic hydrogen and olefines.
+scientific_discipline: Chemistry > Chemical kinetics and reaction dynamics

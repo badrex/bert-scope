@@ -1,0 +1,10 @@
+article_id: rsta_1987_0047
+revised_title: Reactor Requirements for Controlled Nuclear Fusion in JET Project
+semantic_tags:
+  - Nuclear Fusion
+  - Tokamak
+  - Plasma Physics
+  - Reactor Design
+  - Energy Technology
+tldr: This article discusses the reactor requirements for controlled nuclear fusion in the JET project. It explores the interdependence between plasma physics, technology, and engineering requirements to identify the most promising route towards optimizing reactor performance. The main performance parameters, such as power density, confinement, particle and power load at the divertor target, and burn length, are analyzed. The article also presents the device parameters for the predesign of NET, an engineering test facility for reactor-relevant plasma operation.
+scientific_discipline: Engineering and Technology > Energy Technology

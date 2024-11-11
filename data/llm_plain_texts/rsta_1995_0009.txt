@@ -1,0 +1,10 @@
+article_id: rsta_1995_0009
+revised_title: Hydrogen in Materials: Modeling and Implications in Semiconductors
+semantic_tags:
+  - Materials Science
+  - Semiconductors
+  - Hydrogen diffusion
+  - Muon implantation
+  - Defects in materials
+tldr: This article investigates the physics and chemistry of hydrogen in materials, focusing on its behavior in monocrystalline semiconductors. The authors use muon implantation to model hydrogen atoms and complexes, exploring their effects on the properties of these materials. The study provides insights into hydrogen solubility, hidden hydrogen, and the diffusivity of interstitial oxygen atoms, contributing to a better understanding of the interactions between hydrogen and semiconductors.
+scientific_discipline: Materials Science > Semiconductors

@@ -1,0 +1,10 @@
+article_id: rspa_1952_0092
+revised_title: Justification of Scalar Diffraction Theory in Optical Imaging
+semantic_tags:
+  - Diffraction Theory
+  - Optical Imaging
+  - Scalar Theory
+  - Vector Theory
+  - Monochromatic Light
+tldr: The authors investigate the relationship between the rigorous vector theory and the approximate scalar theory of optical imaging. They justify the use of a single scalar wave-function for calculating intensity in a wide class of optical instruments, finding that the main reason for the validity of the scalar theory is the nearly constant properties of monochromatic components over geometrical wave fronts.
+scientific_discipline: Physics > Optics

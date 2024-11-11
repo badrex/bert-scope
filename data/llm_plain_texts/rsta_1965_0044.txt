@@ -1,0 +1,11 @@
+article_id: 'rsta_1965_0044'
+revised_title: 'Adsorption of Krypton and Xenon on Evaporated Metal Films: A Study of Surface Interactions'
+semantic_tags:
+  - Surface Chemistry
+  - Adsorption
+  - Metal Films
+  - Gas Adsorption
+  - Xenon
+  - Krypton
+tldr: This study investigates the adsorption of krypton and xenon on evaporated metal films, focusing on the interactions between the gases and the metal surfaces. The authors find that the adsorption behavior is influenced by the arrangement of metal atoms and the attractive interactions between the gas molecules and the metal surface. The results provide insights into the adsorption mechanisms and potential applications of metal films in gas separation and sensing.
+scientific_discipline: Chemistry > Surface Chemistry

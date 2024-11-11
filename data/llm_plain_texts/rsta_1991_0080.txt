@@ -1,0 +1,11 @@
+article_id: rsta_1991_0080
+revised_title: New Particle Searches and Discoveries at LEP
+semantic_tags:
+  - Particle Physics
+  - Large Electron Positron Collider
+  - CERN
+  - Higgs Boson
+  - Supersymmetry
+  - Compositeness
+scientific_discipline: Physics > Particle Physics
+tldr: The article discusses the results from the Large Electron Positron Collider at CERN, focusing on new particle searches and discoveries. The authors describe the principles, techniques, and results of these searches by the four collaborations. They explore indirect and direct searches for new particles, setting limits on their masses and discussing the search for quarks and leptons, Higgs bosons, and supersymmetry or compositeness. The article concludes that no evidence has been found for these particles, but the experiments have excluded the minimal Standard Model Higgs boson from zero mass to close to 50 GeV.

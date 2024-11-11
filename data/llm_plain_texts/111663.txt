@@ -1,0 +1,10 @@
+article_id: 111663
+revised_title: 'Introduction to Scalar and Clinant Algebraical Coordinate Geometry'
+semantic_tags:
+  - Analytical Geometry
+  - Coordinate Systems
+  - Algebraic Geometry
+  - Mathematical Theories
+  - Geometry Applications
+tldr: The author, Alexander J. Ellis, introduces a new and more general theory of analytical geometry, including the concept of scalar and clinant values in coordinate systems. This theory expands upon the received theory by recognizing two equations for a curve, rather than just one. The author demonstrates the application of this theory to various geometric shapes and explains how it can be used to determine the properties of curves and lines.
+scientific_discipline: Mathematics > Analytical Geometry

@@ -1,0 +1,10 @@
+article_id: rspa_1955_0024
+revised_title: Charge Exchange and Electron Detachment Cross-Sections in Rare Gases and Hydrogen
+semantic_tags:
+  - Atomic and Molecular Physics
+  - Ion energies
+  - Charge exchange
+  - Electron detachment
+  - Cross-sections
+tldr: This article presents the measurement of charge transfer cross-sections for protons, molecular hydrogen ions, and helium ions in rare gases and hydrogen, as well as electron detachment cross-sections for negative atomic hydrogen ions in rare gases. The experiments cover ion energies ranging from 3 to 40 keV and 100 to 4000 eV, and the results are discussed in terms of the pseudo-adiabatic hypothesis. The authors compare their findings with other experimental results and discuss anomalous molecular cases in terms of reactions involving anti-bonding states.
+scientific_discipline: Physics > Atomic and Molecular Physics

@@ -1,0 +1,10 @@
+article_id: rsta_1989_0064
+revised_title: Advances in Photoelectronic Integrated Circuits for Wideband Local Networks
+semantic_tags:
+  - Photonic integrated circuits
+  - Optical communication
+  - Compound semiconductor technologies
+  - Laser diodes
+  - Photodetectors
+scientific_discipline: Engineering and Technology > Electronics
+tldr: This article discusses the development of photoelectronic integrated circuits (oeics) for wideband local networks. The author highlights the motivation for using oeics, which include high performance, compactness, stability, and potential for mass production. The article also covers recent advances in device-level integration, such as monolithic integration of laser diodes and the integration of electronic circuits and photonic devices. The author reviews various material technologies, thin-layer structures, processes, device design, and computer-aided design in the development of oeics.

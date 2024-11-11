@@ -1,0 +1,10 @@
+article_id: rspa_1979_0127
+revised_title: Turbulent Flame Characteristics and Modeling: A Review of the Three-Region Model
+semantic_tags:
+  - Turbulence
+  - Combustion
+  - Flame Structure
+  - Reynolds Stress
+  - Laminar Burning Velocity
+tldr: This article investigates the behavior of premixed turbulent flames, focusing on the second region of the three-region model. The authors analyze the effects of turbulence intensity, laminar burning velocity, and other factors on flame structure and propagation. They also discuss the challenges in modeling the Reynolds stress and dissipation terms in turbulent flames and propose a method for calculating the advection term.
+scientific_discipline: Physics > Fluid Dynamics

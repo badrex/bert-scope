@@ -1,0 +1,10 @@
+article_id: 'rspa_1979_0111'
+revised_title: 'Global General Relativity and the Cosmic Censorship Hypothesis'
+semantic_tags:
+  - General Relativity
+  - Black Holes
+  - Space-time Singularities
+  - Cosmic Censorship
+  - Singularity Theorems
+tldr: The authors discuss the global qualitative techniques in General Relativity, focusing on the inevitability of space-time singularities in situations of gravitational collapse, such as black holes and the big bang. They also explore the cosmic censorship hypothesis, which suggests that singularities are hidden behind event horizons, and the potential consequences of this hypothesis on the Universe's topology and entropy imbalance.
+scientific_discipline: Physics > General Relativity

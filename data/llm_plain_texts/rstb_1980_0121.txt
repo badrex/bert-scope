@@ -1,0 +1,10 @@
+article_id: 'rstb_1980_0121'
+revised_title: 'Neutron Scattering in Biology: Studying Protein-RNA Interactions'
+semantic_tags:
+  - Neutron scattering
+  - Protein-RNA interactions
+  - Nucleoprotein systems
+  - Structural biology
+  - Molecular biology
+tldr: 'Neutron scattering is a powerful tool for studying protein-RNA interactions in biological systems. This method provides structural information on the molecules involved in the interaction, allowing researchers to better understand the role of these interactions in cell life and gene expression. Neutron scattering can reveal details about the three-dimensional structure of RNA and proteins, providing insights into their function and how they work together in various biological processes.'
+scientific_discipline: Biology and Life Sciences > Molecular Biology

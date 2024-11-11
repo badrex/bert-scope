@@ -1,0 +1,10 @@
+article_id: rspa_1980_0151
+revised_title: 'Three-Dimensional Boundary Layer Flow Over Surface Irregularities: Numerical Analysis and Findings'
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Pipe Flow
+  - Numerical Methods
+  - Surface Irregularities
+tldr: This article presents a numerical method for solving the three-dimensional pipe flow boundary layer equations, focusing on the effects of surface irregularities on the flow. The study calculates some three-dimensional separated flows and discusses the challenges of the external triple-deck problem. The findings contribute to the understanding of boundary layer interactions and fluid dynamics in complex flow situations.
+scientific_discipline: Physics > Fluid Dynamics

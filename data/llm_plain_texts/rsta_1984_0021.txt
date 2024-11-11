@@ -1,0 +1,10 @@
+article_id: rsta_1984_0021
+revised_title: Continuum Damage Mechanics in Creep Rupture of Notched Bars
+semantic_tags:
+  - Creep damage
+  - Continuum damage mechanics
+  - Notched bars
+  - Stress concentration
+  - Finite element analysis
+tldr: The authors study the development of continuum damage in the creep rupture of notched bars, both experimentally and numerically. They use a time-iterative numerical procedure to model the formation and growth of creep damage as a field quantity, and find close agreement between experimental and theoretical values of rupture stress, zones of creep damage, and crack development. The study validates the numerical procedures and provides a better understanding of the mechanisms by which cracks grow due to creep.
+scientific_discipline: Engineering and Technology > Materials Science

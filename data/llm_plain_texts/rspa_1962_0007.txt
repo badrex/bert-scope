@@ -1,0 +1,10 @@
+article_id: rspa_1962_0007
+revised_title: Rational Points on Algebraic Varieties
+semantic_tags:
+  - Algebraic Geometry
+  - Number Theory
+  - Diophantine Geometry
+  - Rational Points
+  - Waring's Problem
+tldr: The article proves that a homogeneous form of degree d with rational coefficients has rational points if it has non-singular real points and non-singular p-adic points for every p, and if its singular locus has codimension sufficiently large compared to the degree. The methods used are derived from those of Davenport, and the results are applied to forms with integral coefficients and algebraic number fields.
+scientific_discipline: Mathematics > Algebraic Geometry

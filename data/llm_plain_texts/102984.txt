@@ -1,0 +1,10 @@
+article_id: 102984
+revised_title: Experiment on Sound Diminution in Rarefied Air
+semantic_tags:
+  - Acoustics
+  - Sound propagation
+  - Air pressure
+  - Experimental physics
+  - Rarefaction
+tldr: Fr. Hauksbee conducted an experiment at a Royal Society meeting to study the effect of air rarefaction on sound propagation. He placed a bell inside a receiver and observed that as the air pressure decreased, the sound became weaker and more distant-sounding. When the air pressure was restored, the sound became clearer and more audible. This experiment demonstrated the relationship between air pressure and sound propagation.
+scientific_discipline: Physics > Acoustics

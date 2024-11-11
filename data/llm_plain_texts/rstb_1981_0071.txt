@@ -1,0 +1,10 @@
+article_id: 'rstb_1981_0071'
+revised_title: 'Structural Analysis and Prediction of Glycolytic Enzymes'
+semantic_tags:
+  - Protein Structure
+  - Glycolysis
+  - Enzyme Evolution
+  - Structural Motifs
+  - Protein Crystallography
+tldr: The authors analyze the three-dimensional structures of 10 of the 13 enzymes in the glycolytic pathway. They find that most of the enzyme domains are variations and extensions of a basic theme of a many-stranded, predominantly parallel beta-sheet surrounded by alpha-helices. The study also reveals strong structural similarities between some of the enzymes, which may have evolved from a common ancestor.
+scientific_discipline: Biology and Life Sciences > Biochemistry

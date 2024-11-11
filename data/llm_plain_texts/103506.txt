@@ -1,0 +1,10 @@
+article_id: 103506
+revised_title: 'Advanced Algebraic Techniques for Solving Equations'
+semantic_tags:
+  - Algebra
+  - Equation Solving
+  - Roots of Equations
+  - Quadratic Equations
+  - Cubic Equations
+tldr: The author, Colin Mac Laurin, presents advanced algebraic techniques for solving equations, focusing on the roots of equations and the conditions under which those roots are real or imaginary. He demonstrates methods for determining the roots of cubic and biquadratic equations, as well as providing a general approach for solving equations with multiple terms.
+scientific_discipline: Mathematics > Algebra

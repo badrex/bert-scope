@@ -1,0 +1,10 @@
+article_id: 112772
+revised_title: 'Sphygmograph Trace Analysis and Cardiac Systole Duration'
+semantic_tags:
+  - Cardiology
+  - Sphygmography
+  - Cardiac Physiology
+  - Heart Rate
+  - Medical Diagnosis
+tldr: The author used the sphygmograph to study the radial artery pulse trace and discovered that the duration of the first part of the trace, which marks the beginning of the heart's systole, is almost constant regardless of heart rate. The study also found that the second part of the trace, which represents the closure of the aortic valve, varies with heart rate. This research helps in diagnosing circulatory system issues and understanding cardiac physiology.
+scientific_discipline: Medicine and Health Sciences > Cardiology

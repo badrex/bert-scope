@@ -1,0 +1,10 @@
+article_id: 'rspb_1959_0004'
+revised_title: 'Catalase Activity Variations in Bacterial Growth Cycles'
+semantic_tags:
+  - Enzyme activity
+  - Bacterial growth
+  - Catalase synthesis
+  - pH and enzyme activity
+  - Acid conditions
+tldr: The article investigates the variations in catalase activity during a bacterial growth cycle. It shows that the rate of catalase synthesis is low during the early phase of growth, but increases rapidly as the pH of the medium falls. The increased activity is not a direct result of acidity, but is attributed to modifications in cell metabolism under acid conditions that require more catalase. The study also explores the effects of pH on catalase activity and the role of various factors in the increase of enzyme activity during the growth cycle.
+scientific_discipline: Biology and Life Sciences > Microbiology

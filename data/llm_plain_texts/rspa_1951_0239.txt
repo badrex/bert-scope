@@ -1,0 +1,10 @@
+article_id: rspa_1951_0239
+revised_title: Diamagnetism of Free Electrons: Quantum Theory and Fermi-Dirac Statistics
+semantic_tags:
+  - Quantum Mechanics
+  - Diamagnetism
+  - Fermi-Dirac Statistics
+  - Magnetic Susceptibility
+  - De Haas-van Alphen Effect
+tldr: The authors present a rigorous quantum theory of the diamagnetism of free electrons, showing that the partition function can be calculated for arbitrary magnetic fields and temperatures without explicit knowledge of energy levels. They also demonstrate how the de Haas-van Alphen effect arises from the singularities of the partition function in Fermi-Dirac statistics. This theory confirms previous results and provides a solid foundation for understanding the behavior of electrons in metals.
+scientific_discipline: Physics > Electromagnetism

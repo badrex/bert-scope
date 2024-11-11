@@ -1,0 +1,10 @@
+article_id: rspa_1976_0059
+revised_title: 'Effects of Viscosity on Solar Wind Theory'
+semantic_tags:
+  - Solar wind
+  - Viscosity
+  - Fluid dynamics
+  - Astrophysics
+  - Plasma physics
+tldr: This article examines the influence of small viscous effects on the solar wind, a stream of charged particles flowing from the Sun. The author analyzes the idealized, steady, one-fluid solar wind equations and finds that including viscosity has a significant impact on solutions far from the Sun. The study clarifies the relationship between different solutions and highlights the importance of considering viscous effects in solar wind theory.
+scientific_discipline: Physics > Fluid Dynamics

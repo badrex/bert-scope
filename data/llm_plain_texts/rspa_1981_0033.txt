@@ -1,0 +1,10 @@
+article_id: rspa_1981_0033
+revised_title: Simplified Digital Synthesis of Ultrasonic Images: A New Technique for Improved Imaging
+semantic_tags:
+  - Ultrasonic Imaging
+  - Medical Imaging
+  - Engineering Inspection
+  - Digital Signal Processing
+  - Microprocessor Applications
+tldr: The article presents a new technique for ultrasonic image synthesis that simplifies data collection and image construction processes. By using information collected from a transducer scanning a surface, the technique produces images with wavelength-order resolution in all directions. It is capable of imaging specular reflectors and suppressing spurious images caused by mode conversion. Demonstrations of in vivo biological imaging, water, and steel imaging are provided, with image processing times of a few seconds using a microprocessor. The technique has potential for use in both engineering and medicine.
+scientific_discipline: Engineering and Technology > Signal Processing and Imaging

@@ -1,0 +1,10 @@
+article_id: 'rsbm_1995_0028'
+revised_title: 'The Discovery of Reverse Transcription and its Impact on Molecular Biology'
+semantic_tags:
+  - Molecular Biology
+  - Genetics
+  - Retroviruses
+  - Reverse Transcription
+  - Cancer Research
+tldr: 'Howard Temin, along with David Baltimore, discovered the mechanism of reverse transcription, where information is transferred from RNA to DNA. This groundbreaking discovery challenged the "central dogma of molecular biology" and provided a connection between DNA and RNA genes. Reverse transcription has significant implications in understanding the origin of life, shaping genomes, and detecting and quantifying viruses like HIV.'
+scientific_discipline: Biology and Life Sciences > Genetics

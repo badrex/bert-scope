@@ -1,0 +1,10 @@
+article_id: rspa_1950_0042
+revised_title: 'Oxidation Mechanisms of Gaseous Methyl Ethyl Ketone'
+semantic_tags:
+  - Chemical kinetics
+  - Oxidation reactions
+  - Peroxides
+  - Hydrocarbon oxidation
+  - Low-temperature oxidation
+tldr: The authors investigated the reaction between oxygen and gaseous methyl ethyl ketone (butanone) and found that the rate of oxidation varies in a unique way with the initial pressure of butanone and oxygen. They observed a transition from a low-temperature mode of oxidation to a high-temperature mode, which they attributed to the role of peroxides in generating branching chains. The authors used a modified theory to explain the complex relationships between the rate of oxidation and the concentrations of reactants, and they tested the validity of the theory by comparing it to experimental results.
+scientific_discipline: Chemistry > Chemical kinetics

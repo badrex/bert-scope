@@ -1,0 +1,10 @@
+article_id: rspa_1977_0188
+revised_title: 'Partial Cross Sections and Photoelectron Spectrum of N2: A Study of Vibrational and Electronic States'
+semantic_tags:
+  - Photochemistry
+  - Molecular Physics
+  - Spectroscopy
+  - Photoionization
+  - Nitrogen Gas
+tldr: The authors conducted experiments using synchrotron radiation to study the photoelectron spectrum and partial cross sections of nitrogen gas (N2). They analyzed the distribution of cross-sections among various ionic states and vibrational levels, providing insights into the interactions between these states and the photoionization process. Their findings contribute to a better understanding of nitrogen's absorption spectrum and the behavior of photoelectrons in the gas.
+scientific_discipline: Chemistry > Molecular Physics

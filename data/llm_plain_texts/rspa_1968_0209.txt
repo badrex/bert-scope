@@ -1,0 +1,10 @@
+article_id: rspa_1968_0209
+revised_title: Formation, Reaction, and Deactivation of O2(a1Δg)
+semantic_tags:
+  - Atmospheric Chemistry
+  - Photophysics
+  - Ozone
+  - Oxygen Excited States
+  - Reaction Kinetics
+tldr: The authors investigate the formation, reaction, and deactivation of the excited state of molecular oxygen (O2(a1Δg)) using a flow technique. They study the reaction with ozone and quenching by other molecules, providing rate constants and an estimate of wall deactivation efficiency. The results are compared with previous studies and used to calculate the rate constant for the energy-pooling reaction.
+scientific_discipline: Chemistry > Atmospheric Chemistry

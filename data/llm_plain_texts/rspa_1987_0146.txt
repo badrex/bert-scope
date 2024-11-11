@@ -1,0 +1,10 @@
+article_id: rspa_1987_0146
+revised_title: The Beam Balance as a Gravitational Detector in Experimental Gravitation
+semantic_tags:
+  - Gravitational Theory
+  - Beam Balance
+  - High-Precision Measurements
+  - Gravitational Constant
+  - Gravitational Experiments
+tldr: The authors describe the construction and performance of a beam balance designed for use in tests of gravitational theory. They report a sensitivity to gravitational acceleration and discuss its potential for measuring the newtonian gravitational constant and other tests. The beam balance offers a promising alternative to traditional Cavendish balance methods for measuring gravitational effects.
+scientific_discipline: Physics > Mechanics

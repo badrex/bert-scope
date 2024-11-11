@@ -1,0 +1,10 @@
+article_id: rspa_1955_0209
+revised_title: 'Low-Pressure Measurements of Xenon Isothermals and Gas Density'
+semantic_tags:
+  - Gas Laws
+  - Xenon Properties
+  - Gas Compressibility
+  - Density Measurements
+  - Microbalance Technique
+tldr: The authors conducted experiments to measure the isothermals of xenon at low pressures and determine its density. They used a microbalance technique to compare xenon to nitrogen, finding accurate density values and a molecular weight in close agreement with mass spectrograph results. This work aimed to establish xenon as a standard for comparing densities of heavy vapors, providing a valuable tool for future research.
+scientific_discipline: Chemistry > Gas Laws and Properties

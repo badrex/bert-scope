@@ -1,0 +1,10 @@
+article_id: rspa_1988_0104
+revised_title: Magnetization Density of Hexacyanoferrate(III) Ion: Polarized Neutron Diffraction in Cs2KFe(CN)6
+semantic_tags:
+  - Crystallography
+  - Magnetism
+  - Neutron diffraction
+  - Transition metal complexes
+  - Ligand field
+tldr: The authors conducted a polarized neutron diffraction experiment on Cs2KFe(CN)6 to measure the magnetization density of the hexacyanoferrate(III) ion. They analyzed the magnetic structure factors using a model for the magnetization density of multipoles and valence functions on the iron and ligand atoms. The results showed that the iron electronic configuration corresponds to the cubic configuration of the low-spin ion with all spin in the d orbitals. The spin delocalization onto nitrogen atoms reflects covalence, and the ligand populations deviate from cubic symmetry due to the influence of the crystal structure.
+scientific_discipline: Chemistry > Crystallography

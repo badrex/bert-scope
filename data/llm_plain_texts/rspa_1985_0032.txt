@@ -1,0 +1,10 @@
+article_id: rspa_1985_0032
+revised_title: Configurational and Mechanical Forces in the Interaction of Elastic Singularities
+semantic_tags:
+  - Elasticity
+  - Dislocations
+  - Configurational forces
+  - Material forces
+  - Nonlinear elasticity
+tldr: This article explores the interaction between elastic singularities, such as dislocations and dilated cylinders, and the forces acting on them. It distinguishes between configurational forces and material forces and investigates the role of nonlinear elasticity in their interaction. The study provides insights into the mechanics of defects and their behavior in materials.
+scientific_discipline: Physics > Materials Science

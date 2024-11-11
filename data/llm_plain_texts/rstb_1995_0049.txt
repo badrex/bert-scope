@@ -1,0 +1,10 @@
+article_id: 'rstb_1995_0049'
+revised_title: 'Folding and Chaperone Interaction of Nascent Chains during Elongation on Ribosomes'
+semantic_tags:
+  - Protein folding
+  - Ribosomes
+  - Chaperones
+  - Nascent chains
+  - Elongation
+tldr: The article investigates the folding process of nascent chains during protein synthesis on ribosomes using monoclonal antibodies. It provides evidence that some ribosome-bound chains can fold even before the synthesis of the complete N-terminal domain, and that they can interact with chaperones while still bound to the ribosome.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

@@ -1,0 +1,10 @@
+article_id: '110616'
+revised_title: 'Crystallography and the Influence of Solutions on Crystallization'
+semantic_tags:
+  - Crystallography
+  - Crystallization
+  - Molecular Theory
+  - Polarity in Crystallization
+  - Crystal Forms
+tldr: The author discusses the importance of understanding the influence of solutions on crystal forms and proposes a new molecular theory for crystallography. He suggests that ellipsoidal molecules group in solids of the same form, and the effect of obstacles, such as molecular attraction and medium attraction, leads to the formation of tangent planes and polyhedral surfaces. This theory helps explain why certain crystals form simple shapes in pure water and more complex shapes in other solutions.
+scientific_discipline: Chemistry > Crystallography

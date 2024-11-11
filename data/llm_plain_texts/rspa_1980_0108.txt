@@ -1,0 +1,10 @@
+article_id: rspa_1980_0108
+revised_title: 'Relativistic Convective Differentiation and Continuum Electrodynamics'
+semantic_tags:
+  - Electromagnetic Medium
+  - Rheometric Structure Theory
+  - Convective Differentiation
+  - Continuum Mechanics
+  - Electrodynamics
+tldr: The article presents a formalism of relativistic convective differentiation to relate the equations of motion to the rheometric structure of a continuous medium. The author applies this formalism to an ideal electrodynamic medium, demonstrating that the resulting theory can be given a variational form. The theory is useful for describing the mechanics of continuous media, particularly in the context of perfect electromagnetic media and the detection of gravitational waves.
+scientific_discipline: Physics > Electromagnetism

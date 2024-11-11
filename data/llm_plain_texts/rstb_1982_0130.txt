@@ -1,0 +1,10 @@
+article_id: 'rstb_1982_0130'
+revised_title: 'Molecular Mechanisms of Actin and Myosin Filament Assembly and Regulation'
+semantic_tags:
+  - Actin
+  - Myosin
+  - Filament Assembly
+  - Cellular Locomotion
+  - Dictyostelium
+tldr: This article discusses the molecular biology of cell locomotion, focusing on the control of actin and myosin filament assembly. The authors describe their experiments with Dictyostelium amoebae, which revealed that actin filaments are stable and have a low critical concentration for polymerization. They also found that myosin thick-filament formation is regulated by phosphorylation. The results provide insights into the transient nature of filamentous assemblies in non-muscle cells and the role of accessory proteins in controlling actin and myosin assembly.
+scientific_discipline: Biology and Life Sciences > Cell Biology

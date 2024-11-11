@@ -1,0 +1,10 @@
+article_id: 'rsta_1893_0007'
+revised_title: 'The Effect of Salt and Soap Concentration on the Thickness of Thin Liquid Films'
+semantic_tags:
+  - Surface tension
+  - Soap films
+  - Liquid films
+  - Refractive index
+  - Film thickness
+tldr: The authors conducted experiments to study the effect of salt and soap concentration on the thickness of thin liquid films. They found that the mean thickness of black films increased when the proportion of potassium nitrate or soap concentration was reduced. The authors also discovered that the thickness of black films varied depending on the composition of the soap solution, with films containing 3% potassium nitrate having a thinner mean thickness than those without.
+scientific_discipline: Physics > Surface tension

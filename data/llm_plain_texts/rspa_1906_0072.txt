@@ -1,0 +1,10 @@
+article_id: rspa_1906_0072
+revised_title: 'Production of Secondary Rays by α Rays from Polonium'
+semantic_tags:
+  - Nuclear Physics
+  - Particle Acceleration
+  - Electromagnetic Fields
+  - Electrometers
+  - Polonium
+tldr: The authors conducted experiments to study the production of secondary rays by α rays from polonium. They discovered that a magnetic field could prevent negatively charged particles from reaching a plate, and that the positive current from one plate to another consisted of two parts: a stream of α particles and a stream of negatively charged particles. This research provided insights into the behavior of particles under electric and magnetic fields.
+scientific_discipline: Physics > Nuclear Physics

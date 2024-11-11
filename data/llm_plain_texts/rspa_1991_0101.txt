@@ -1,0 +1,10 @@
+article_id: rspa_1991_0101
+revised_title: Wiener-Hopf Factorization of a 2x2 Matrix
+semantic_tags:
+  - Matrix Analysis
+  - Wiener-Hopf Theory
+  - Linear Algebra
+  - Mathematical Physics
+  - Applied Mathematics
+tldr: The authors present an explicit representation of the Wiener-Hopf factors of a 2x2 matrix, which depends on the determination of a single scalar. They develop the general properties of this scalar and provide its explicit form in various special cases. This work contributes to the understanding and application of Wiener-Hopf splitting in matrix analysis and mathematical physics.
+scientific_discipline: Mathematics > Linear Algebra

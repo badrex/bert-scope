@@ -1,0 +1,10 @@
+article_id: rspa_1968_0206
+revised_title: 'Experimental Investigation of the Induction Period in Flame Spread Across Liquid Surfaces'
+semantic_tags:
+  - Combustion
+  - Heat Transfer
+  - Fluid Dynamics
+  - Fire Safety
+  - Chemical Engineering
+tldr: This study investigates the factors affecting the induction period in the spread of flame across liquid surfaces. The researchers focus on a one-dimensional system, examining the liquid's behavior during ignition and the subsequent heat transfer processes. They analyze the effects of depth, surface dimensions, and initial liquid temperature on the duration of the induction period and propose a probable sequence of events that determine its end.
+scientific_discipline: Environmental and Earth Sciences > Fire Safety and Combustion

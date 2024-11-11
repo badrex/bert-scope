@@ -1,0 +1,10 @@
+article_id: rspa_1969_0085
+revised_title: 'Adhesion of Viscoelastic Materials to Rigid Substrates: A Study on Cohesive and Adhesive Failure Transitions'
+semantic_tags:
+  - Adhesion
+  - Viscoelasticity
+  - Cohesive failure
+  - Adhesive failure
+  - Polymer
+scientific_discipline: Materials Science > Polymer Science
+tldr: The authors conducted experiments to understand the forces required to peel a thin layer of a viscoelastic adhesive off a rigid substrate. They discovered that the adhesive's behavior changes from liquid-like to rubber-like, and then to glass-like, as the peel rate increases. The transition from cohesive to adhesive failure at a critical peel rate was found to be due to a change in the deformation process in the adhesive. The study provides insights into the mode of failure and the development of maximum peel strength in viscoelastic materials.

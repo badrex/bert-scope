@@ -1,0 +1,10 @@
+article_id: rspa_1976_0063
+revised_title: 'Ellipsoidal Harmonics in Molecular Electrostatics and Magnetostatics'
+semantic_tags:
+  - Electromagnetic Theory
+  - Molecular Physics
+  - Ellipsoidal Harmonics
+  - Multipole Moments
+  - Molecular Shape
+tldr: The authors propose the use of ellipsoidal harmonics to expand the electrostatic potential and isotropic magnetic shielding outside non-spherical molecules. This method improves the representation of the external molecular potential and provides a better level of accuracy for a given number of harmonic terms compared to conventional multipolar expansions. The ellipsoidal harmonics can be used for potential problems in molecular physics, even for inhomogeneous and irregularly shaped molecules.
+scientific_discipline: Physics > Electromagnetic Theory

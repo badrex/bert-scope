@@ -1,0 +1,10 @@
+article_id: 'rspa_1972_0017'
+revised_title: 'Slip System Determination in Cubic Carbides: Hardness Anisotropy and Temperature Dependence'
+semantic_tags:
+  - 'Cubic Carbides'
+  - 'Hardness Anisotropy'
+  - 'Slip Systems'
+  - 'Temperature Dependence'
+  - 'Indentation'
+tldr: The authors studied the hardness anisotropy and slip systems in cubic carbides like titanium carbide, vanadium carbide, zirconium carbide, and niobium carbide at different temperatures. They found that the anisotropy in hardness can be used to determine the operative slip systems, identifying three different temperature regimes for the anisotropy. The results help explain the change in slip systems based on temperature-dependent changes in bonding in the carbides.
+scientific_discipline: Materials Science > Mechanics of Materials

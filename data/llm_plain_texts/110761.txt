@@ -1,0 +1,10 @@
+article_id: 110761
+revised_title: Design and Function of a Calculating Machine
+semantic_tags:
+  - Computing
+  - Mathematical Machines
+  - Early Computing Devices
+  - Charles Babbage
+  - Analytical Engine
+tldr: The author provides an overview of a calculating machine, its essential parts, and the theory behind its operation. This machine is an early precursor to modern computers and is closely related to Charles Babbage's Analytical Engine.
+scientific_discipline: Mathematics > History of Computing

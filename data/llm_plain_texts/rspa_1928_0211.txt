@@ -1,0 +1,10 @@
+article_id: 'rspa_1928_0211'
+revised_title: 'Refractive Index of Quartz: The Extraordinary Ray'
+semantic_tags:
+  - Crystallography
+  - Refractive Index
+  - Quartz
+  - Optical Properties
+  - Wave-length
+tldr: This article presents a formula for calculating the refractive index of quartz for the extraordinary ray. The authors used previous work on optical rotatory power and recent measurements of wave-lengths to derive the equation. They also provide a table comparing calculated and observed refractive indices for 18 lines in the visible and ultra-violet spectrum.
+scientific_discipline: Physics > Crystallography

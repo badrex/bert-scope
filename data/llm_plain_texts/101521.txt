@@ -1,0 +1,10 @@
+article_id: 101521
+revised_title: A Simple Method for Finding the Year of the Julian Period
+semantic_tags:
+  - Astronomy
+  - Calendar Systems
+  - Julian Calendar
+  - Timekeeping
+  - Mathematics
+tldr: The author presents a new and easy method for finding the year of the Julian Period using cycles of the sun, moon, and indiction. The example given in the text demonstrates how to calculate the year using these cycles.
+scientific_discipline: Mathematics > Number Theory

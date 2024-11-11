@@ -1,0 +1,10 @@
+article_id: rspa_1907_0060
+revised_title: The Osmotic Pressure of Compressible Solutions
+semantic_tags:
+  - Osmotic pressure
+  - Solution theory
+  - Vapour pressure
+  - Hydrostatic pressure
+  - Thermodynamics
+tldr: This article presents a theory of osmotic pressure in compressible solutions, taking into account the influence of hydrostatic pressure on osmotic pressure. The author demonstrates the effect of pressure on osmotic pressure for solutions and includes the impact of the variability of vapour pressure with hydrostatic pressure. The findings can be applied to various solutions and help understand osmotic equilibrium.
+scientific_discipline: Chemistry > Solution Theory

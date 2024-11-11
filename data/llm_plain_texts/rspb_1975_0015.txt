@@ -1,0 +1,10 @@
+article_id: 'rspb_1975_0015'
+revised_title: 'Leishmania Transmission in Sandflies: The Insusceptibility of Sandfly Larvae'
+semantic_tags:
+  - Leishmania
+  - Sandflies
+  - Parasitology
+  - Invertebrate Hosts
+  - Evolution
+tldr: 'This study investigates the susceptibility of sandfly larvae to Leishmania, a parasite transmitted by sandflies. The researchers found that neither larvae nor adult flies reared from the larvae became infected. They suggest that during evolution, Leishmania may have lost the ability to be transmitted from one invertebrate host to another, unlike its related genus, Leptomonas. The findings support the belief that Leishmania does not produce resistant cysts capable of development in invertebrate hosts.'
+scientific_discipline: Biology and Life Sciences > Parasitology

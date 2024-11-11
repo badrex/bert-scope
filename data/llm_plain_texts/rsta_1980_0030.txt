@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0030'
+revised_title: 'Satellite Doppler Tracking and Geodetic Applications: UK Doppler Campaigns Field Operations and Instrumentation'
+semantic_tags:
+  - Satellite Doppler tracking
+  - Geodesy
+  - Field operations
+  - Instrumentation
+  - Geodetic applications
+tldr: The article discusses the satellite Doppler tracking and its geodetic applications in the United Kingdom. It describes two observational campaigns conducted in 1976 and 1978, focusing on field operations, equipment used, and the precautions taken to minimize errors. The campaigns aimed to establish translation parameters, assess the accuracy of relative positioning, and test the'short arc' technique. The results showed the importance of geodetic advice when converting satellite-derived geocentric coordinates into a national or local reference system.
+scientific_discipline: Engineering and Technology > Geodesy

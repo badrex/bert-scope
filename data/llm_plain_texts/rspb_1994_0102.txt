@@ -1,0 +1,10 @@
+article_id: 'rspb_1994_0102'
+revised_title: 'The Evolution of Satyric Mimicry in Hoverflies'
+semantic_tags:
+  - Mimicry
+  - Evolution
+  - Biology
+  - Animal Behavior
+  - Batesian Mimicry
+tldr: The authors propose a new theory called satyric mimicry, which explains the existence of imperfect hoverfly species that mimic wasps. They suggest that the apparent imperfection in these mimics creates ambiguity or presents a sign in an incongruous context, making it difficult for predators to interpret the meaning of the message. This delay in interpretation gives the prey time to escape. Satyric mimicry is divided into two types: type I, where a sign is presented in an unfamiliar context, and type II, where there is true ambiguity due to two equally probable interpretations.
+scientific_discipline: Biology > Animal Behavior

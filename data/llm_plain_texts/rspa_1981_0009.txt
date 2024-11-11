@@ -1,0 +1,10 @@
+article_id: rspa_1981_0009
+revised_title: Determining the Earth's Core Size from Geomagnetic Secular Variation
+semantic_tags:
+  - Geomagnetism
+  - Earth's core
+  - Secular variation
+  - Hydromagnetic dynamo action
+  - Geophysical fluid dynamics
+tldr: The authors propose a method to determine the size of the Earth's core from observations of the geomagnetic secular variation. They apply this method to the best available geomagnetic data and compare the resulting "magnetic" radius with the "seismological" value. This method has potential for use on other planets once accurate magnetic measurements become available.
+scientific_discipline: Earth Sciences > Geomagnetism

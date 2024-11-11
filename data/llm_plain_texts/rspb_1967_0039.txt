@@ -1,0 +1,10 @@
+article_id: 'rspb_1967_0039'
+revised_title: 'Lysozyme as a Transferase: Structure and Function'
+semantic_tags:
+  - Enzyme kinetics
+  - Glycoside hydrolases
+  - Lysozyme
+  - Protein structure
+  - Transferase
+tldr: 'The article discusses the structure and function of lysozyme as a transferase. The authors found that lysozyme can transfer sugar molecules between different substrates, leading to the formation of chitin-like products. They also studied the interaction between lysozyme and chitin, discovering that an enzyme-substrate complex is formed in weak acidic or neutral medium with salts present. This complex is decomposed by water or acids, possibly due to the salt changing the molecule's conformation or hydration.'
+scientific_discipline: Biology and Life Sciences > Enzymes and Protein Structure

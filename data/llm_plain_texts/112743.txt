@@ -1,0 +1,10 @@
+article_id: 112743
+revised_title: 'Advanced Techniques for Solving Linear Differential Equations'
+semantic_tags:
+  - Differential Equations
+  - Mathematical Analysis
+  - Applied Mathematics
+  - Partial Differential Equations
+  - Linear Algebra
+tldr: The author presents advanced techniques for solving linear differential equations, focusing on the integration of equations with rational and entire functions. The paper discusses the integration process, modifications required when the degree of coefficients varies, and methods for determining factors in coefficients. The author also highlights a proposition of importance in the theory of linear differential equations.
+scientific_discipline: Mathematics > Applied Mathematics

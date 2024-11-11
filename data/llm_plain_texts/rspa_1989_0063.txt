@@ -1,0 +1,10 @@
+article_id: rspa_1989_0063
+revised_title: 'Kinematics and Dynamics of a Movable Pair of Tetrahedra'
+semantic_tags:
+  - Geometry
+  - Kinematics
+  - Mechanics
+  - Tetrahedra
+  - Bar structures
+tldr: The authors analyze the kinematics and dynamics of a unique structure consisting of two regular tetrahedra that can move relative to each other while maintaining the condition that their intersecting edges remain coplanar. They provide a mathematical and engineering investigation of the structure's properties, including its finite and infinitesimal degrees of freedom, and discuss the differences between physically admissible and inadmissible motions.
+scientific_discipline: Mathematics > Geometry

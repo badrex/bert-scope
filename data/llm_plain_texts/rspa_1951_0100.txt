@@ -1,0 +1,10 @@
+article_id: 'rspa_1951_0100'
+revised_title: 'Electronegativity Theory and Bond Energies: A Theoretical Approach'
+semantic_tags:
+  - Electronegativity
+  - Bond Energies
+  - Atomic Orbital Approximation
+  - Molecular Orbital Method
+  - Electronegativity Scale
+tldr: The authors discuss bond energies and bond lengths, focusing on the concept of electronegativity. They present a theoretical approach to calculating electronegativities and apply it to hydrogen, carbon, nitrogen, and oxygen atoms. The results show that sp2 and sp hybrid orbitals have greater electronegativities than hydrogen, while an sp3 hybrid orbital of quadrivalent carbon is less electronegative.
+scientific_discipline: Chemistry > Electronegativity and Bonding

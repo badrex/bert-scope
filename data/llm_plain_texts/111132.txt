@@ -1,0 +1,10 @@
+article_id: 111132
+revised_title: Investigating the Relationship Between Wind Direction and Moon Age
+semantic_tags:
+  - Meteorology
+  - Astronomy
+  - Wind patterns
+  - Lunar phases
+  - Observational study
+tldr: The author, G. B. Airy, conducted a study to investigate the relationship between wind direction and the age of the moon using data from the Royal Observatory in Greenwich. The study aimed to determine if there was a physical foundation for the belief that a northerly wind may be expected during new moon. After analyzing data from 1840 to 1847, the study found no significant relationship between wind direction and moon age.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

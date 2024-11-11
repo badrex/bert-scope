@@ -1,0 +1,10 @@
+article_id: rspa_1926_0157
+revised_title: 'Investigations on the Scattering of Light by Individual Particles in Smokes'
+semantic_tags:
+  - Light scattering
+  - Particle size
+  - Smokes
+  - Optics
+  - Rayleigh scattering
+tldr: 'This article presents an investigation on the scattering of light by individual particles in smokes. The authors found that the particles' size and density affect the scattering intensity, and that the scattering does not follow Rayleigh's law or Mie's theory for the particles studied. They provide experimental results for various types of smokes, including magnesium oxide, silver, and mercuric chloride.'
+scientific_discipline: Physics > Optics

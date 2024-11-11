@@ -1,0 +1,10 @@
+article_id: 109845
+revised_title: Development of Exponential Functions and Finite Differences Theorems
+semantic_tags:
+  - Mathematics
+  - Calculus
+  - Exponential functions
+  - Finite differences
+  - Lagrange's theorems
+tldr: John Frederick W. Herschel expanded on the theorems of Lagrange, which express the connection between exponential indices and differentiation/integration. He developed a general formula for exponential functions and demonstrated its application to specific cases previously treated by Dr. Brinkley.
+scientific_discipline: Mathematics > Calculus

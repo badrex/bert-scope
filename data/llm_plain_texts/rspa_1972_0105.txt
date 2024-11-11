@@ -1,0 +1,10 @@
+article_id: rspa_1972_0105
+revised_title: 'Mechanisms of Fracture in Glassy Polymers'
+semantic_tags:
+  - Polymer Fracture
+  - Glass Transition
+  - Craze Formation
+  - Viscous Flow
+  - Striations
+tldr: The authors study the fracture mechanisms in glassy polymers, focusing on the processes of craze formation, viscous flow, and the resulting striations on the fracture surfaces. They explain that the fracture starts with the separation of molecule bundles, forming a craze, followed by the fracture or rupture of the craze by sliding of the molecule bundles. The authors also discuss the differences in fracture mechanisms between polystyrene and cast polymethylmethacrylate (PMMA).
+scientific_discipline: Materials Science > Polymer Science

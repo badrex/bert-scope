@@ -1,0 +1,10 @@
+article_id: 'rspa_1971_0020'
+revised_title: 'Computer Aids in Mechanical Engineering Design and Manufacture: State of the Art'
+semantic_tags:
+  - Computer Aided Design
+  - Numerical Control
+  - Manufacturing Industry
+  - Engineering Design
+  - Automation
+tldr: This article discusses the state of computer aids in mechanical engineering design and manufacture. It explores the use of computers in organizing production processes, numerical control of machine tools, and computer-aided design. The author highlights the potential of computer aids to expand the span of individual segments, increase parallel processing, and improve feedback in industrial activity, leading to a transformation of manufacturing industry similar to the first industrial revolution.
+scientific_discipline: Engineering and Technology > Manufacturing Industry

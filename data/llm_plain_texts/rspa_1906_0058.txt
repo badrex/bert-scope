@@ -1,0 +1,10 @@
+article_id: 'rspa_1906_0058'
+revised_title: 'Osmotic Pressures of Aqueous Solutions: Sugar, Dextrose, Galactose, and Mannite'
+semantic_tags:
+  - Osmotic pressure
+  - Aqueous solutions
+  - Sugar solutions
+  - Membrane filtration
+  - Ferrocyanide membranes
+tldr: This article presents measurements of osmotic pressures in aqueous solutions of cane sugar, dextrose, galactose, and mannite. The authors use a method involving a semi-permeable membrane and a gradually increasing pressure to determine osmotic pressure. They cover a pressure range from 12 to 135 atmospheres and discuss the methods used for creating copper ferrocyanide membranes. The results show that even small leaks in the membrane can significantly affect the observed pressure.
+scientific_discipline: Chemistry > Biochemistry

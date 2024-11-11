@@ -1,0 +1,10 @@
+article_id: 'rspa_1930_0135'
+revised_title: 'The Discovery and Analysis of Ionised Fluorine Spectrum (F II)'
+semantic_tags:
+  - Atomic Physics
+  - Fluorine Spectrum
+  - Ionised Atoms
+  - Spectroscopy
+  - Quantum Mechanics
+tldr: The authors conducted experiments to study the spectrum of ionised fluorine (F II) using powerful discharges through silicon tetrafluoride in vacuum tubes. They obtained 469 lines, with nearly 200 classified, confirming the assignment of the spectrum to the singly ionised fluorine atom. The study provides insights into the atomic structure and electron configurations of the F+ ion in its ground and excited states, contributing to the understanding of atomic physics and spectroscopy.
+scientific_discipline: Chemistry > Atomic Physics

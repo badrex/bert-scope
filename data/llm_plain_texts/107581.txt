@@ -1,0 +1,10 @@
+article_id: 107581
+revised_title: 'On the Analogy Between Calculus of Functions and Other Branches of Analysis'
+semantic_tags:
+  - Mathematical Analysis
+  - Calculus
+  - Functional Equations
+  - Analogical Reasoning
+  - Algebraic Equations
+tldr: The author, Charles Babbage, discusses the analogy between the calculus of functions and other branches of analysis, focusing on the use of analogical reasoning in mathematical subjects. He explores various types of equations and their solutions, including functional equations, differential equations, and partial differentials, and emphasizes the importance of understanding the relationship between these concepts for the advancement of mathematical science.
+scientific_discipline: Mathematics > Calculus

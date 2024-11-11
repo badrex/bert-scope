@@ -1,0 +1,10 @@
+article_id: 'rspb_1914_0004'
+revised_title: 'The Impact of Aceto-Acetic Acid on Creatine Excretion in Carbohydrate Starvation'
+semantic_tags:
+  - Metabolism
+  - Nutrition
+  - Urine analysis
+  - Creatine
+  - Carbohydrate metabolism
+tldr: The authors conducted experiments to study the excretion of creatine in carbohydrate starvation. They discovered that aceto-acetic acid, a byproduct of carbohydrate metabolism, interferes with the estimation of creatinine in urine samples. This finding helps explain previous discrepancies in research on creatine excretion during fasting and highlights the importance of accounting for aceto-acetic acid when analyzing urine samples for creatinine levels.
+scientific_discipline: Biology and Life Sciences > Metabolism

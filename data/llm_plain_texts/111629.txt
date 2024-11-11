@@ -1,0 +1,10 @@
+article_id: 111629
+revised_title: 'Refractive Indices and the Limitations of the Undulatory Theory'
+semantic_tags:
+  - Optics
+  - Refractive Index
+  - Light Dispersion
+  - Wave Theory
+  - Mathematical Physics
+tldr: The author compares recent refractive index measurements with the wave theory of light, concluding that the current theory is inadequate for highly dispersive substances. The author calls for improvements in the theory to better explain the behavior of light in various media.
+scientific_discipline: Physics > Optics

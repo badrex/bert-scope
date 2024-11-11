@@ -1,0 +1,10 @@
+article_id: 'rspa_1937_0079'
+revised_title: 'Diamagnetic Susceptibilities of Salts with Inert Gas Configurations'
+semantic_tags:
+  - Diamagnetism
+  - Crystallography
+  - Ionic susceptibility
+  - Alkaline earth halides
+  - Crystal structures
+tldr: The authors studied the diamagnetic susceptibilities of salts forming ions with inert gas configurations, focusing on the alkaline earth halides. They found that the change in ionic susceptibility is related to the change in the number of contacts an atom makes with surrounding atoms, or the co-ordination number. The results showed a decrease in susceptibility with an increase in co-ordination number. The crystal structures of the studied salts were also discussed, revealing that most magnesium and calcium halides have structures with co-ordination numbers 6 and 3, while strontium and barium halides have structures with co-ordination numbers 8 and 4.
+scientific_discipline: Chemistry > Crystallography

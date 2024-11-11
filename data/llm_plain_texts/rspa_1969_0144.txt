@@ -1,0 +1,10 @@
+article_id: rspa_1969_0144
+revised_title: Optimal Functions for Mass and Energy Flow in Space Maneuvers
+semantic_tags:
+  - Spacecraft Propulsion
+  - Orbital Mechanics
+  - Space Maneuvers
+  - Optimal Control Theory
+  - Spacecraft Design
+tldr: The authors investigate the optimal time behavior of spacecraft propulsion variables, such as mass flow and energy flow, to maximize the residual mass of a spacecraft or minimize the total energy required for a given total equivalent velocity change. They find that an optimum relation exists between mass flow and energy flow, and that the results depend only on the total energy supplied, not on the way it is released.
+scientific_discipline: Engineering and Technology > Spacecraft Engineering

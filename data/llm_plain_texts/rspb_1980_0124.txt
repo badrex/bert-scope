@@ -1,0 +1,10 @@
+article_id: 'rspb_1980_0124'
+revised_title: 'Neuroactive Peptides: Exploring the Roles of Carnosine, Enkephalin, Substance P, and TRH in the Central Nervous System'
+semantic_tags:
+  - Neurotransmitters
+  - Peptides
+  - Neuronal Function
+  - Neurochemistry
+  - Central Nervous System
+tldr: This article investigates the potential roles of four neuropeptides - carnosine, enkephalin, substance P, and TRH - as excitatory neurotransmitters in the central nervous system. The authors examine their effects on various neurons using in vitro preparations and intracellular recording methods. They find that substance P and TRH have some characteristics of a classical excitatory transmitter, while enkephalin indirectly excites neurons by blocking inhibitory potentials. The exact function of carnosine remains unclear, but it may have roles other than neurotransmission in the olfactory system.
+scientific_discipline: Biology and Life Sciences > Neurobiology

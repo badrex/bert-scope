@@ -1,0 +1,10 @@
+article_id: rspa_1939_0050
+revised_title: 'A Reassessment of Classical Theory of Radiation'
+semantic_tags:
+  - Quantum Theory
+  - Electromagnetic Radiation
+  - Atomic Spectra
+  - Classical Electrodynamics
+  - Radiationless Orbits
+tldr: This article presents a theory of radiation by G. A. Schott, which attempts to explain the observed properties of radiation, such as the line character of spectra, the Planck-Einstein law, interference over long distances, and ionization of atoms, using classical lines. Schott's theory assumes the existence of stationary states or radiationless orbits and calculates the radiation during transitions between these orbits. The theory provides qualitative agreement with experimental facts but falls short of a quantitative explanation. It highlights the limitations of classical theory in explaining atomic radiation and the need for a more comprehensive understanding of quantum mechanics.
+scientific_discipline: Physics > Electromagnetic Theory

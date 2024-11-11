@@ -1,0 +1,10 @@
+article_id: rsta_1921_0003
+revised_title: Investigations on Lightning Discharges and Electric Field of Thunderstorms
+semantic_tags:
+  - Atmospheric Electricity
+  - Lightning
+  - Thunderstorms
+  - Electric Field
+  - Electrometry
+tldr: The author conducted experiments at the Solar Physics Observatory in Cambridge to study the effects of lightning discharges and the electric field of thunderstorms. They used a special type of capillary electrometer to measure the quantity of electricity that flowed to earth through exposed conductors during lightning flashes. The author found that the electric field changes and the quantity of electricity discharged in lightning flashes varied depending on the distance from the observer. This research provided valuable data for understanding the behavior of thunderstorms and their impact on the environment.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

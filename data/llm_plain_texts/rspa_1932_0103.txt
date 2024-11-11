@@ -1,0 +1,10 @@
+article_id: 'rspa_1932_0103'
+revised_title: 'Evaluation of Ionic Diamagnetic Susceptibilities Using Slater's Formula'
+semantic_tags:
+  - Diamagnetism
+  - Ionic susceptibilities
+  - Quantum mechanics
+  - Atomic physics
+  - Chemical bonding
+tldr: The authors calculate ionic diamagnetic susceptibilities using Slater's formula and a slight modification of the method for evaluating the effective nuclear charge. They compare their results with other methods and experimental data, finding that their modified Slater's method provides the best agreement with experimental results for a wide range of compounds.
+scientific_discipline: Physics > Atomic and Molecular Physics

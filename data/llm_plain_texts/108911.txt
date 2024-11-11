@@ -1,0 +1,10 @@
+article_id: 108911
+revised_title: 'Application of Local Probability to Straight Lines Drawn at Random in a Plane'
+semantic_tags:
+  - Probability Theory
+  - Geometrical Probability
+  - Randomness
+  - Mathematical Analysis
+  - Calculus
+tldr: The author applies the theory of local probability to the problem of straight lines drawn at random in a plane. They develop methods to calculate the number of random lines intersecting a given closed convex plane boundary and demonstrate how to apply these principles to various scenarios, such as determining the probability of a line intersecting multiple boundaries.
+scientific_discipline: Mathematics > Calculus

@@ -1,0 +1,10 @@
+article_id: rspa_1925_0125
+revised_title: The Ratio of Specific Heats of Hydrogen: A Review of Experimental Methods and Findings
+semantic_tags:
+  - Thermodynamics
+  - Gas Laws
+  - Calorimetry
+  - Heat Capacity
+  - Hydrogen
+tldr: This article discusses the experiments conducted to determine the ratio of specific heats of hydrogen. The authors used various methods, including adiabatic and isothermal expansion, to measure the heat capacity of hydrogen. They found that previous experimental results had inconsistencies and errors, and they provide a detailed analysis of the corrections needed for accurate calculations. The article also compares different experimental methods and their results, highlighting the challenges and limitations of each approach.
+scientific_discipline: Physics > Thermodynamics

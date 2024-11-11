@@ -1,0 +1,10 @@
+article_id: rspa_1909_0048
+revised_title: Dielectric Constants Measurement Using Oscillations of Ellipsoids and Cylinders
+semantic_tags:
+  - Dielectric constants
+  - Electromagnetic field
+  - Insulating materials
+  - Alternating current
+  - Oscillations
+scientific_discipline: Physics > Electromagnetism
+tldr: The authors present a method to measure dielectric constants by observing the oscillations of ellipsoids and cylinders in an electromagnetic field. They use alternating current and small samples of insulating materials to achieve high accuracy and compare their results with previous determinations. This method can be applied to solids and liquids, providing valuable information about dielectrics in unidirectional fields.

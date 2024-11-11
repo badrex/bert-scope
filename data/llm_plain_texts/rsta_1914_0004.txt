@@ -1,0 +1,10 @@
+article_id: 'rsta_1914_0004'
+revised_title: 'Investigating the Capacity for Heat of Metals at Different Temperatures'
+semantic_tags:
+  - Thermal properties of metals
+  - Heat capacity
+  - Temperature dependence
+  - Experimental methods
+  - Differential platinum thermometers
+tldr: This article presents an investigation into the capacity for heat of various metals at different temperatures. The authors conducted experiments using an innovative method that eliminated many sources of error in previous studies. They found that the capacity for heat of metals is a function of temperature, and their results provide valuable data for future researchers in the field.
+scientific_discipline: Physics > Thermodynamics

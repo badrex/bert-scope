@@ -1,0 +1,10 @@
+article_id: rspl_1871_0057
+revised_title: The Action of Oxygen on Copper Nitrate and its Impact on Metallic Deposition
+semantic_tags:
+  - Electrochemistry
+  - Copper oxide
+  - Metallic deposition
+  - Gas interactions
+  - Chemical reactions
+tldr: This article explores the interaction between copper and nitrate of silver in solution, specifically the deposition of a copper suboxide layer on silver crystals. The authors discovered that this deposition occurs when oxygen is present and is accompanied by a corresponding solution of copper from the other plate. They also found that the electric current responsible for this process is not due to the action of oxygen on copper but rather the tension created by the simultaneous action of the two metals.
+scientific_discipline: Chemistry > Electrochemistry

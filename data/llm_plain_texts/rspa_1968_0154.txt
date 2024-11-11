@@ -1,0 +1,10 @@
+article_id: rspa_1968_0154
+revised_title: Ferromagnetism and Magnetic Dipole Interactions in Dysprosium Ethyl Sulfate
+semantic_tags:
+  - Magnetic dipole interactions
+  - Ferromagnetism
+  - Dysprosium ethyl sulfate
+  - Crystal properties
+  - Magnetic anisotropy
+tldr: The authors studied the magnetic and thermal properties of dysprosium ethyl sulfate below its Curie temperature. They found that the ferromagnetism is mainly due to magnetic dipole interactions, which are highly anisotropic. The system closely resembles a ferromagnetic Ising model. The ordered state is ferromagnetic, with long domains parallel to the crystal axis. Relaxation effects, such as domain wall movement and single spin reversals, influence the alternating field susceptibility.
+scientific_discipline: Physics > Condensed Matter Physics

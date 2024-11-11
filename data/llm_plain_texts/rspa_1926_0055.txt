@@ -1,0 +1,10 @@
+article_id: rspa_1926_0055
+revised_title: Specific Heats Ratios of Nitrogen at Atmospheric Pressure and Varying Temperatures
+semantic_tags:
+  - Thermodynamics
+  - Gas properties
+  - Heat capacity
+  - Nitrogen
+  - Temperature
+tldr: This study investigates the ratios of specific heats of nitrogen at atmospheric pressure and temperatures ranging from 10°C to -183°C. The authors present actual observations and calculate the mean values for each temperature, providing a better understanding of nitrogen's heat capacity and its behavior under different conditions.
+scientific_discipline: Physics > Thermodynamics

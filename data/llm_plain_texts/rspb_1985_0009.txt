@@ -1,0 +1,20 @@
+article_id: 'rspb_1985_0009'
+revised_title: 'Awards and Achievements in Science: Royal Society Anniversary Address 1984'
+semantic_tags:
+  - Biology
+  - Physics
+  - Chemistry
+  - Engineering
+  - Medicine
+  - Astrophysics
+  - Evolutionary Biology
+  - Biotechnology
+  - Relativity
+  - Polymer Science
+  - Fluid Dynamics
+  - Medical Instruments
+  - Nuclear Magnetic Resonance Imaging
+scientific_discipline: Biology > Evolutionary Biology
+```yaml
+tldr: The President's Anniversary Address highlights the achievements and contributions of various scientists in different fields of study. Notable recipients include Subrahmanyan Chandrasekhar for his work in theoretical physics, H. H. Hopkins for his contributions to medical instruments, and Dr. Mary F. Lyon for her discovery of X-chromosome inactivation. Other awards recognize advancements in microwave engineering, polymer chemistry, and fluidized beds, as well as entrepreneurial innovations in technology.
+```

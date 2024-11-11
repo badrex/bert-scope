@@ -1,0 +1,10 @@
+article_id: 'rstb_1992_0134'
+revised_title: 'Exploring Calcium Channels in Plant Vacuoles: Multiple Pathways for Intracellular Calcium Mobilization'
+semantic_tags:
+  - Calcium channels
+  - Plant vacuoles
+  - Intracellular calcium mobilization
+  - Inositol 1,4,5-trisphosphate
+  - Tonoplast
+tldr: This article discusses the discovery of two different pathways for calcium mobilization from the vacuole of Beta vulgaris taproots. The first pathway is InsP3-gated, which is similar to animal counterparts and is sensitive to changes in the vacuolar membrane potential. The second pathway is voltage-gated, with channel openings promoted by positive shifts in the vacuolar membrane potential. These findings provide insights into the flexibility of intracellular calcium mobilization in plant cells.
+scientific_discipline: Biology and Life Sciences > Plant Physiology

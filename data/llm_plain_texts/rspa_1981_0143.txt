@@ -1,0 +1,10 @@
+article_id: rspa_1981_0143
+revised_title: Scattering of Sound by Heavily Loaded Finite Elastic Plates: Asymptotic Analysis and Resonance Phenomena
+semantic_tags:
+  - Acoustics
+  - Fluid-structure interaction
+  - Elastic plates
+  - Resonance
+  - Asymptotic expansions
+tldr: The article presents an asymptotic analysis of sound scattering by heavily loaded finite elastic plates. It examines the interaction between the plate and the surrounding fluid, focusing on the resonance phenomena that occur when the plate's half-length matches specific values. The study uses the method of matched asymptotic expansions to derive an approximate solution for the acoustic field, considering both the non-wavy and wavy parts of the potential. The findings have implications for understanding and predicting sound propagation in underwater acoustics and aerodynamic noise theory.
+scientific_discipline: Environmental and Earth Sciences > Acoustics

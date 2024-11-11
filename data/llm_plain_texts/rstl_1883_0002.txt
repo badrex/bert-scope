@@ -1,0 +1,10 @@
+article_id: 'rstl_1883_0002'
+revised_title: 'Determination of the Specific Resistance of Mercury'
+semantic_tags:
+  - Electrical resistance
+  - Mercury
+  - Physics
+  - Measurement
+  - Temperature corrections
+tldr: 'The authors conducted experiments to determine the specific resistance of mercury, which is crucial for expressing electrical measurements in terms of mercury. They used various methods to measure the length, section, and resistance of mercury columns and applied temperature corrections. The results were compared with other experiments, and the specific resistance of mercury was calculated.'
+scientific_discipline: Physics > Electricity and Magnetism

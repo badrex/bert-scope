@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0086'
+revised_title: 'Explaining the Movement Illusion through Ocular Aberrations'
+semantic_tags:
+  - Visual Perception
+  - Ocular Aberrations
+  - Eye Movements
+  - Illusions
+  - Optics
+tldr: The authors analyze the movement illusion that occurs when fixating certain high-contrast patterns and propose that it is caused by ocular aberrations rather than cortical or accommodative mechanisms. They explain that the illusion is a result of asymmetric shifts in the geometrical position of the retinal image due to small eye movements and optical aberrations, which create a contrast reversal and Phi movement. This hypothesis is supported by evidence from previous studies and the observation that the illusion is diminished when using a pinhole to reduce peripheral aberrations.
+scientific_discipline: Psychology > Visual Perception

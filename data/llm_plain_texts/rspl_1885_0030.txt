@@ -1,0 +1,10 @@
+article_id: rspl_1885_0030
+revised_title: 'Investigation of Wave Surface Separation in Quartz'
+semantic_tags:
+  - Crystallography
+  - Wave Optics
+  - Quartz Properties
+  - Wave Retardation
+  - Sarrau's Theory
+tldr: The authors conducted experiments to measure the wave surface separation in quartz, which is responsible for its unique optical properties. They used a series of measurements of the "dark rings" of quartz to determine the separation between the two sheets of the wave surface. Their findings support Sarrau's theory and provide insight into the behavior of light in quartz crystals.
+scientific_discipline: Physics > Optics

@@ -1,0 +1,10 @@
+article_id: rspa_1973_0094
+revised_title: Stability and Graphs in Chemical Kinetics: A Study of Short Complexes
+semantic_tags:
+  - Chemical Kinetics
+  - Graph Theory
+  - Stability
+  - Mass-Action Systems
+  - Reaction Networks
+tldr: This article explores the relationship between the stability of open reaction systems and the properties of their complex graphs. It focuses on short complexes, which involve only two reactant and two product molecules, and applies the theory to mass-action systems with restricted elementary reactions. The study relates the quasi-thermodynamic behavior of these systems to the properties of their complex graphs, providing insights into the dynamic behavior of chemical reactions.
+scientific_discipline: Chemistry > Chemical Kinetics

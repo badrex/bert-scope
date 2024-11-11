@@ -1,0 +1,10 @@
+article_id: 106849
+revised_title: Spherical Motion and the Investigation of its Properties
+semantic_tags:
+  - Celestial Mechanics
+  - Newtonian Mechanics
+  - Rotational Motion
+  - Spherical Geometry
+  - Mathematical Physics
+tldr: The author, Charles Wildbore, investigates the properties of spherical motion and the behavior of a revolving globe. He explores the velocity of any great circle on the surface of the globe and the relationship between the motion of the globe and its axis. Wildbore also examines the angular velocity of a sphere and the role of the pole in equable motion.
+scientific_discipline: Physics > Classical Mechanics

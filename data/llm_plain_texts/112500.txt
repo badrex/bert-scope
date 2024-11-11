@@ -1,0 +1,10 @@
+article_id: 112500
+revised_title: 'Spectrum-Telescope for Observing Meteors and Celestial Objects'
+semantic_tags:
+  - Astronomy
+  - Spectroscopy
+  - Meteor observation
+  - Telescope design
+  - Spectral lines
+tldr: The author, William Huggins, describes a hand-held spectrum-telescope designed for observing the spectra of meteors and celestial objects. The instrument uses a direct-vision prism and a small achromatic telescope to collect and analyze light from distant objects. Huggins explains the advantages of this telescope, such as its ability to collect a large amount of light and its ease of use, and discusses potential applications, including observing the spectra of meteors, testing the efficiency of the instrument with fireworks, and using it during the 1868 solar eclipse.
+scientific_discipline: Astronomy > Spectroscopy

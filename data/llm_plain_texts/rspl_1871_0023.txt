@@ -1,0 +1,10 @@
+article_id: rspl_1871_0023
+revised_title: Determination of Surface-Conductivity for Heat in Absolute Measure
+semantic_tags:
+  - Thermoelectricity
+  - Heat conductivity
+  - Temperature measurement
+  - Heat transfer
+  - Thermal conductivity
+tldr: The authors conducted experiments to determine the surface-conductivity for heat in absolute measure. They compared the results of two series of experiments, one with moist air and the other with dried air, and found that the effects of air moisture were negligible. They obtained a formula to calculate the rate at which the temperature difference between junctions varies per minute.
+scientific_discipline: Physics > Thermodynamics

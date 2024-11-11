@@ -1,0 +1,10 @@
+article_id: rspa_1949_0089
+revised_title: 'Kinetic Theory of Diffusion in Gases and Liquids: Diffusion and Brownian Motion'
+semantic_tags:
+  - Diffusion
+  - Brownian motion
+  - Kinetic theory
+  - Gas diffusion
+  - Liquid diffusion
+tldr: The authors explore the phenomenon of diffusion through the lens of the Brownian motion theory. They calculate the coefficient of self-diffusion in gases and provide a method to approximate the coefficient of diffusion in liquids. The study reveals the differences between self-diffusion and mutual diffusion and highlights the importance of obtaining the true local velocity distribution for a more accurate understanding of diffusion in liquids.
+scientific_discipline: Physics > Thermodynamics

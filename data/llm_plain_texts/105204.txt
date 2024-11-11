@@ -1,0 +1,10 @@
+article_id: 105204
+revised_title: Electrical Experiments with Club Moss Seeds and Aurum Fulminans
+semantic_tags:
+  - Electricity
+  - Leyden jar
+  - Electrostatics
+  - Club moss
+  - Aurum fulminans
+tldr: In this letter, John Henry Winkler shares two electrical experiments he conducted. In the first experiment, he used a metal plate covered with club moss seeds connected to a Leyden jar. When he brought a metal sphere charged with electricity near the plate, the seeds caught fire, proving that the electricity was real. In the second experiment, he placed aurum fulminans on a parchment circle attached to a metal plate and discharged the Leyden jar onto it. The aurum fulminans exploded, and the parchment circle was torn apart. These experiments demonstrate the power of electricity and its potential dangers.
+scientific_discipline: Physics > Electrostatics

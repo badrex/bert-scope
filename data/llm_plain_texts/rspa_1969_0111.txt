@@ -1,0 +1,10 @@
+article_id: 'rspa_1969_0111'
+revised_title: 'Magnetic Hyperfine Field and Gyromagnetic Factors in Iron and Rotational Band of Hf Isotope'
+semantic_tags:
+  - Nuclear Physics
+  - Gyromagnetic Factors
+  - Magnetic Hyperfine Field
+  - Rotational Band
+  - Isotope Separation
+tldr: The authors conducted experiments to determine the magnetic hyperfine field acting on Hf nuclei implanted in an iron foil using an isotope separator. They measured the integral rotation of the directional correlation and found the effective internal field. The study also determined the gyromagnetic factors and mixing ratios of the transitions in the 624 rotational band of Hf, providing insights into the properties of deformed nuclei.
+scientific_discipline: Physics > Nuclear Physics

@@ -1,0 +1,10 @@
+article_id: rstb_1996_0130
+revised_title: Executive Functions and Memory Processing in the Prefrontal Cortex
+semantic_tags:
+  - Prefrontal Cortex
+  - Executive Functions
+  - Working Memory
+  - Memory Processing
+  - Cognitive Functions
+tldr: The article discusses the specialized systems within the primate frontal cortex for processing mnemonic information. It proposes a two-level hypothesis that the mid-dorsolateral frontal cortex is responsible for monitoring and manipulating information within working memory, while the mid-ventrolateral frontal cortex is involved in retrieving information from posterior cortical association areas. The study provides evidence from functional activation studies and lesion experiments in monkeys, demonstrating the critical role of the lateral frontal cortex in executive functions and memory processing.
+scientific_discipline: Neuroscience > Cognitive Functions

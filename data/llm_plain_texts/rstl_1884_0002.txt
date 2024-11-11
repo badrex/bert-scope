@@ -1,0 +1,10 @@
+article_id: 'rstl_1884_0002'
+revised_title: 'Investigating Aerial Vortices and Air Circulation in Kundt's Tubes'
+semantic_tags:
+  - Fluid dynamics
+  - Aerial vortices
+  - Acoustics
+  - Kundt's tubes
+  - Air circulation
+tldr: 'The author examines the circulation of air in Kundt's tubes and related acoustical problems, focusing on the role of aerial vortices and their impact on the motion of fluids. The study provides insights into the behavior of air currents and the formation of dust figures in the tubes, with potential applications in understanding sound waves and fluid dynamics.'
+scientific_discipline: Physics > Fluid dynamics

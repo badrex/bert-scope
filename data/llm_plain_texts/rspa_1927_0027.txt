@@ -1,0 +1,10 @@
+article_id: rspa_1927_0027
+revised_title: 'Decomposition of Diethyl Ether: A Study of Unimolecular Reactions'
+semantic_tags:
+  - Chemical kinetics
+  - Unimolecular reactions
+  - Lindemann mechanism
+  - Decomposition of diethyl ether
+  - Internal degrees of freedom
+tldr: This article investigates the decomposition of diethyl ether in the gaseous state and how it follows the unimolecular reaction law. The author discusses the Lindemann mechanism and how it applies to complex molecules with many internal degrees of freedom. The decomposition of diethyl ether is found to be unimolecular over a wide range of pressures, but its specific rate decreases at lower pressures. The author also examines the behavior of molecules with many degrees of freedom, focusing on organic compounds in the gaseous state.
+scientific_discipline: Chemistry > Chemical kinetics

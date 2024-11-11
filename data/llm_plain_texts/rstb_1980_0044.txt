@@ -1,0 +1,9 @@
+article_id: 'rstb_1980_0044'
+revised_title: 'Penicillin's Mechanism of Action: Covalent Binding and Acyl-Enzyme Intermediates'
+semantic_tags:
+  - Antibiotics
+  - Penicillin
+  - Cephalosporins
+  - Enzyme Inhibition
+  - Bacterial Cell Wall Biosynthesis
+tldr: This article discusses the mechanism of action of penicillin and related cephalosporins, which are active site-directed acylating agents. The authors provide evidence supporting the substrate analogue hypothesis, showing that these antibiotics inactivate bacterial cell wall biosynthesis enzymes by binding covalently and forming acyl-enzyme intermediates. The study focuses on penicillin-sensitive enzymes, carboxypeptidases, and their interactions with penicillin, offering insights into the antibiotics' clinical effectiveness and their role in studying bacterial cell wall biosynthesis.

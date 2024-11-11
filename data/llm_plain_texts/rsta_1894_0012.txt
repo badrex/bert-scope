@@ -1,0 +1,10 @@
+article_id: rsta_1894_0012
+revised_title: A New Approach to Electric and Luminiferous Medium Dynamics
+semantic_tags:
+  - Electromagnetism
+  - Maxwell's Equations
+  - Luminiferous Medium
+  - Electrodynamics
+  - Mathematical Physics
+tldr: The author presents a dynamical theory of the electric and luminiferous medium, considering the medium as continuous and reducing the problem to a line integral along the wire. The potentials are expressed in terms of ideal mass-distributions of densities, providing a new approach to understanding the behavior of electric and luminiferous mediums.
+scientific_discipline: Physics > Electromagnetism

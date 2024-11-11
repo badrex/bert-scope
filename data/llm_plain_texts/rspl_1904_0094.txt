@@ -1,0 +1,10 @@
+article_id: rspl_1904_0094
+revised_title: Gas Absorption and Thermal Evolution in Charcoal at Low Temperatures
+semantic_tags:
+  - Gas absorption
+  - Low temperature physics
+  - Charcoal
+  - Vacuum
+  - Calorimetry
+tldr: The author investigates the absorption and thermal evolution of gases occluded in charcoal at low temperatures. They use liquid gases like oxygen or air as calorimetric agents and find that the amount of gas occluded has been greatly increased at low temperatures. This research has potential applications in creating high vacuums and improving means of getting high vacuums for practical use.
+scientific_discipline: Physics > Thermodynamics

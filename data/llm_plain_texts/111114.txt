@@ -1,0 +1,10 @@
+article_id: 111114
+revised_title: On the Magnetic and Diamagnetic Condition of Bodies and the Discovery of Paramagnetism
+semantic_tags:
+  - Magnetism
+  - Diamagnetism
+  - Paramagnetism
+  - Gas properties
+  - Atmospheric magnetism
+tldr: In this research, Michael Faraday investigates the magnetic and diamagnetic properties of various substances, particularly gases. He discovers that some materials, like oxygen, are attracted to magnetic fields (paramagnetic), while others, like nitrogen, are repelled (diamagnetic). Faraday also establishes the concept of a magnetic zero and distinguishes between paramagnetic and diamagnetic substances. He plans to further study the relationship between atmospheric gases and magnetism in future research.
+scientific_discipline: Physics > Electromagnetism

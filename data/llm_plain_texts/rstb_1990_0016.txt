@@ -1,0 +1,10 @@
+article_id: 'rstb_1990_0016'
+revised_title: 'Atomic Structures of Periplasmic Binding Proteins and High-Affinity Active Transport Systems in Bacteria'
+semantic_tags:
+  - Protein Structure
+  - Membrane Transport
+  - Bacterial Biology
+  - X-ray Crystallography
+  - Active Transport Systems
+tldr: The article discusses the X-ray crystal structures of six periplasmic binding proteins that serve as initial receptors for active transport in bacteria. These proteins share common features in their tertiary structures and atomic interactions, which help understand their function. The binding proteins undergo a ligand-induced conformational change, and the authors propose a mechanism for the binding protein-dependent, high-affinity active transport system.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

@@ -1,0 +1,10 @@
+article_id: rspa_1970_0145
+revised_title: Duality, Reggeons, and Resonances in Elementary Particle Processes
+semantic_tags:
+  - Particle Physics
+  - Quantum Field Theory
+  - Regge Theory
+  - Resonance Phenomena
+  - Elementary Particles
+tldr: This article discusses the concept of duality and its relation to resonance phenomena in elementary particle processes. The authors clarify the notion of resonance and explain how it is related to the existence of eigenstates and eigenvalues in the scattering matrix. They also explore the connection between resonance and background scattering, and the role of eigenphases in understanding resonance behavior.
+scientific_discipline: Physics > Particle Physics

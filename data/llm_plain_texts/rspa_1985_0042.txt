@@ -1,0 +1,10 @@
+article_id: rspa_1985_0042
+revised_title: 'Enhancing Compton Scattering Spectrometer Efficiency with Annular Geometry'
+semantic_tags:
+  - Compton scattering
+  - Spectrometer design
+  - Annular geometry
+  - X-ray detection
+  - Momentum resolution
+tldr: The authors present a new design for an X-ray Compton scattering spectrometer using annular geometry, which increases the intensity by a factor of up to 50 while maintaining resolution. This improvement allows for the study of compounds with small single crystals that were previously difficult to analyze due to shielding and resolution limitations. The design is demonstrated with measurements on the Compton profile of aluminum.
+scientific_discipline: Physics > Optics

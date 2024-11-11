@@ -1,0 +1,10 @@
+article_id: rspa_1934_0232
+revised_title: 'Measurement of the Magnetic Moment of the Cesium Nucleus'
+semantic_tags:
+  - Nuclear physics
+  - Magnetic moment
+  - Hyperfine structure
+  - Spectroscopy
+  - Cesium
+tldr: The authors investigated the magnetic moment of the cesium nucleus by analyzing the hyperfine structure of its spectral lines. They used a high-resolution spectrograph and a Fabry-Perot etalon to measure the separations of the hyperfine structure levels. The results showed that the magnetic moment of the cesium nucleus is approximately one Bohr magneton.
+scientific_discipline: Physics > Nuclear Physics

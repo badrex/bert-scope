@@ -1,0 +1,10 @@
+article_id: rspa_1990_0146
+revised_title: Electromagnetic Fields in Conducting Media with Constant Conductivity
+semantic_tags:
+  - Electromagnetic Theory
+  - Conductivity
+  - Maxwell's Equations
+  - Vector Fields
+  - Riemann Functions
+tldr: The authors solve the time-dependent Maxwell's equations for an infinite medium with constant conductivity, including the effects of charge density distribution and external current density. They find that the longitudinal component of the magnetic field is zero, and the longitudinal component of the electric field is the gradient of the Coulomb potential. The transverse electromagnetic fields are solved in terms of the initial values of the transverse fields and the transverse part of the external current density. The study has implications in biology and naval communications.
+scientific_discipline: Physics > Electromagnetism

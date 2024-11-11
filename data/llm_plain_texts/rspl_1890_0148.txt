@@ -1,0 +1,10 @@
+article_id: rspl_1890_0148
+revised_title: Electrostatic Screening by Gratings, Nets, or Perforated Sheets of Conducting Material
+semantic_tags:
+  - Electrostatics
+  - Gratings
+  - Conducting materials
+  - Screening
+  - Physics
+tldr: This article discusses the phenomenon of electrostatic screening using gratings, nets, or perforated sheets of conducting material. The author, Sir William Thomson, presents a valuable investigation of this topic and provides a helpful diagram to understand and extend the theory. The study is less rigorous when assuming the grate-bars are circular cylinders, but this assumption is not necessary for the overall understanding of the subject.
+scientific_discipline: Physics > Electrostatics

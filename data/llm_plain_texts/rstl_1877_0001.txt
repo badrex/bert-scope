@@ -1,0 +1,10 @@
+article_id: rstl_1877_0001
+revised_title: Determination of Verdet's Constant in Absolute Units
+semantic_tags:
+  - Electromagnetism
+  - Verdet's Constant
+  - Magnetic Potential
+  - Electromagnetic Rotation
+  - Polarized Light
+tldr: The authors conducted experiments to determine Verdet's constant, which measures the angular rotation of plane-polarized light passing through a medium under the influence of a magnetic field. They used an electromagnet without an iron core and bisulphide of carbon as the medium to measure the rotation accurately. The research aimed to express the measurements in absolute units and improve upon previous methods.
+scientific_discipline: Physics > Electromagnetism

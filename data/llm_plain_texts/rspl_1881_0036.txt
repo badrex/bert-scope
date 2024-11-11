@@ -1,0 +1,10 @@
+article_id: rspl_1881_0036
+revised_title: Effects of Electrical Stimulation, Temperature, and Drugs on the Frog's Heart
+semantic_tags:
+  - Cardiology
+  - Electrophysiology
+  - Heart physiology
+  - Pharmacology
+  - Refractory period
+tldr: The authors conducted experiments on frog hearts to study the effects of electrical stimulation, temperature, and various drugs on their contractions and rhythms. They found that electrical stimulation can have varying effects depending on the timing, strength, and location of stimulation. Cold, heat, and certain drugs like strychnine and ammonia can also modify the heart's response to electrical stimulation by altering the refractory period and contraction latency.
+scientific_discipline: Biology and Life Sciences > Cardiology

@@ -1,0 +1,10 @@
+article_id: rsta_1909_0006
+revised_title: Emission and Transmission of X-Rays: Atomic Weight and Radiation Intensity
+semantic_tags:
+  - X-rays
+  - Atomic weight
+  - Radiation intensity
+  - Ionization method
+  - Röntgen rays
+tldr: The authors conducted experiments to study the emission and transmission of X-rays using various elements as anticathodes in a discharge tube. They found a rough relation between atomic weight and radiation intensity, and observed that heavier metals produce more intense X-rays. The study also highlights the advantages of using an ionization method for measuring intensities.
+scientific_discipline: Physics > Electromagnetism

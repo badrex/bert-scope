@@ -1,0 +1,11 @@
+article_id: 'rspa_1908_0096'
+revised_title: 'Horizontal Receivers and Transmitters in Wireless Telegraphy: Analysis and Comparison of Marconi, Braun, and Artom's Arrangements'
+semantic_tags:
+  - Wireless telegraphy
+  - Antenna design
+  - Radio wave interference
+  - Marconi's arrangement
+  - Braun's arrangement
+  - Artom's arrangement
+tldr: This article discusses the principles of horizontal receivers and transmitters in wireless telegraphy, comparing and analyzing the arrangements of Marconi, Braun, and Artom. It explains how the distance between the sources and the horizontal conductor affects the potential difference and the phase of the oscillations, leading to different interference patterns and optimal antenna designs for each arrangement.
+scientific_discipline: Engineering and Technology > Telecommunications

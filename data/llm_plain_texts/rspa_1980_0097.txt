@@ -1,0 +1,10 @@
+article_id: rspa_1980_0097
+revised_title: Machining Theory for Predicting Chip Geometry and Cutting Forces
+semantic_tags:
+  - Machining
+  - Metalworking
+  - Cutting forces
+  - Chip formation
+  - Material properties
+tldr: The authors developed a machining theory that considers the temperature and strain-rate dependent properties of the work material to predict chip geometry and cutting forces. The theory accounts for the strain rates in the zones of intense plastic deformation and the chip interface, using flow stress data from high-speed compression tests. The results show good agreement between predicted and experimental cutting forces, tool/chip interface plastic zone thickness, and temperatures and strain rates in the plastic zone.
+scientific_discipline: Engineering and Technology > Manufacturing and Machining

@@ -1,0 +1,10 @@
+article_id: 109878
+revised_title: A New Method for Measuring Altitudes Using a Thermometrical Barometer
+semantic_tags:
+  - Barometer
+  - Altitude Measurement
+  - Thermometer
+  - Atmospheric Pressure
+  - Temperature
+tldr: The author, Francis John Hyde Wollaston, developed a thermometrical barometer for measuring altitudes with greater accuracy and convenience than previous methods. The instrument measures the variations in heat of boiling water corresponding to changes in atmospheric pressure and barometer height. Wollaston describes the construction and use of the instrument, as well as experiments conducted to test its accuracy.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

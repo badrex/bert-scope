@@ -1,0 +1,10 @@
+article_id: rspa_1973_0129
+revised_title: 'Incorporating Time-History Effects in Ship Directional Stability Analysis'
+semantic_tags:
+  - Ship Stability
+  - Fluid Dynamics
+  - Hydrodynamics
+  - Naval Architecture
+  - Manoeuvrability
+tldr: The authors present a method to incorporate time-history effects into the hydrodynamic representation of a ship's directional stability and control. By using a functional analysis, they show how to account for the time history of motion and improve the accuracy of the fluid components. This approach allows for a more comprehensive analysis of directional stability and control, leading to better understanding and design of ships.
+scientific_discipline: Engineering and Technology > Naval Architecture

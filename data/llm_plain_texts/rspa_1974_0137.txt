@@ -1,0 +1,10 @@
+article_id: rspa_1974_0137
+revised_title: 'Observations of Structure in the Zn I Absorption Spectrum'
+semantic_tags:
+  - Atomic Physics
+  - Spectroscopy
+  - X-ray Absorption
+  - Quantum Mechanics
+  - Rydberg Series
+tldr: The authors report new structure in the absorption spectrum of Zn I vapor between 70 and 105 Å, due to the excitation of the 3s2 subshell. They interpret the structure as a Rydberg series and compare their findings with semi-empirical and Hartree-Fock predictions. The study provides insights into the atomic structure and electronic transitions of zinc atoms.
+scientific_discipline: Physics > Atomic Physics

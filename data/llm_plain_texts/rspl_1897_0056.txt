@@ -1,0 +1,10 @@
+article_id: rspl_1897_0056
+revised_title: The Relative Behaviour of Calcium's H and K Lines in the Solar Spectrum
+semantic_tags:
+  - Spectroscopy
+  - Solar Physics
+  - Calcium Spectrum
+  - Stellar Spectra
+  - Astronomical Phenomena
+tldr: The authors conducted laboratory experiments to study the behavior of calcium's H and K lines in the solar spectrum. They discovered that under certain conditions, the intensity of other calcium lines, such as the strong blue line, is greatly reduced compared to H and K. This phenomenon helps explain the modifications of the calcium spectrum observed in solar and stellar phenomena.
+scientific_discipline: Astronomy > Solar Physics

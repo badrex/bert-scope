@@ -1,0 +1,10 @@
+article_id: rspa_1994_0145
+revised_title: Generalized Hashin-Shtrikman Bounds for Nonlinear Composite Dielectrics
+semantic_tags:
+  - Nonlinear composites
+  - Dielectrics
+  - Hashin-Shtrikman bounds
+  - Convex potential functions
+  - Comparison medium
+tldr: This article presents a method for constructing bounds for the properties of nonlinear composite dielectrics using a nonlinear comparison medium and trial fields with the property of 'bounded mean oscillation.' The approach relies on the Hashin-Shtrikman methodology and can be applied to a wider range of nonlinear composite problems.
+scientific_discipline: Mathematics > Applied Mathematics

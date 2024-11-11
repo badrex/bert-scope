@@ -1,0 +1,10 @@
+article_id: rspl_1901_0058
+revised_title: 'Experiments on Liquefaction and Properties of Hydrogen and Helium'
+semantic_tags:
+  - Cryogenics
+  - Thermometry
+  - Liquefaction of gases
+  - Gas separation
+  - Low-temperature physics
+tldr: The author conducted experiments on the liquefaction and properties of hydrogen and helium. They determined the boiling and melting points of hydrogen using a helium thermometer and discussed the electric resistance thermometry at the boiling point of hydrogen. The author also explored the liquefaction of helium at the melting point of hydrogen and the separation of gases from air. Additionally, they studied the surface tension and capillary ascents of various liquids, including water, liquid air, and liquid hydrogen.
+scientific_discipline: Physics > Thermodynamics

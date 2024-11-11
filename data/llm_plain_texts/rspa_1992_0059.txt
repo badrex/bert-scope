@@ -1,0 +1,10 @@
+article_id: 'rspa_1992_0059'
+revised_title: 'Density of Smooth Functions in Orlicz-Sobolev Spaces'
+semantic_tags:
+  - Functional Analysis
+  - Sobolev Spaces
+  - Orlicz Spaces
+  - Mollifiers
+  - Mathematical Physics
+tldr: The authors investigated the density of smooth functions in Orlicz-Sobolev spaces, which are mathematical structures used to study properties of functions in various fields, including physics and engineering. They found that under certain conditions, the set of smooth functions is dense in these spaces, which has implications for understanding the behavior of functions with variable power and their applications.
+scientific_discipline: Mathematics > Functional Analysis

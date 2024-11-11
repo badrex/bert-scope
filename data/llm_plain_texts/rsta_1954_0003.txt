@@ -1,0 +1,10 @@
+article_id: rsta_1954_0003
+revised_title: A Comprehensive Study of Uniform Polyhedra
+semantic_tags:
+  - Geometry
+  - Polyhedra
+  - Symmetry
+  - Mathematical Notation
+  - Archimedean Solids
+tldr: This article presents a comprehensive study of uniform polyhedra, which are polyhedra with regular faces meeting at every vertex. The authors classify and enumerate various types of uniform polyhedra, including the five Platonic solids, the thirteen Archimedean solids, and other polyhedra. They also introduce a systematic notation and classification method for these shapes, providing drawings and descriptions of each type.
+scientific_discipline: Mathematics > Geometry

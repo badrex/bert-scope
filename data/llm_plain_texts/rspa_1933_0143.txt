@@ -1,0 +1,10 @@
+article_id: rspa_1933_0143
+revised_title: 'Molecular Scattering in Gases: The Method of Crossed Molecular Beams'
+semantic_tags:
+  - Molecular beams
+  - Gas scattering
+  - Crossed beams technique
+  - Molecular collisions
+  - Surface ionization gauge
+scientific_discipline: Physics > Optics
+tldr: The authors developed a method called the "crossed molecular beams" technique to study molecular collisions in gases. They used a beam of alkali metal atoms and a heavy, slow-moving molecule as a scatterer. The scattered atoms were collected using a surface ionization gauge, allowing them to measure the angular distribution of the scattered atoms. This method provided a direct experimental study of collision phenomena in gases, offering a new way to investigate intermolecular interactions.

@@ -1,0 +1,10 @@
+article_id: 103483
+revised_title: "Demonstration and Analysis of Newton's 11th Proposition"
+semantic_tags:
+  - Calculus
+  - Geometry
+  - Mathematical Analysis
+  - Sir Isaac Newton
+  - Fluxions
+tldr: The article demonstrates and analyzes Sir Isaac Newton's 11th proposition, which deals with the measurement of curves and their areas. It explains how to calculate the areas of various curves related to the first curve and provides formulas for the areas and their fluxions. The author also discusses the relationship between the curves and their distances from the first curve, as well as the connection between the decrements of areas and the increments of other areas.
+scientific_discipline: Mathematics > Calculus

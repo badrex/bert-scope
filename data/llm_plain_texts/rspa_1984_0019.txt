@@ -1,0 +1,10 @@
+article_id: 'rspa_1984_0019'
+revised_title: 'Experimental Study of Turbulent Burning Velocities and Flame Straining in Explosions'
+semantic_tags:
+  - Combustion
+  - Turbulence
+  - Flame Propagation
+  - Explosion Dynamics
+  - Laser Doppler Anemometry
+tldr: This study measures turbulent burning velocities in an explosion bomb with high-speed fans and laser doppler anemometry. The results are analyzed in terms of dimensionless parameters, and the two-eddy theory of burning is compared with experimental values. The effects of flame quenching and high strain rates on laminar burning velocities are examined, and the findings are relevant to gasoline engines and atmospheric explosions.
+scientific_discipline: Engineering and Technology > Combustion and Flame

@@ -1,0 +1,10 @@
+article_id: 'rspb_1929_0035'
+revised_title: 'Investigating Heat Production and Recovery in Crustacean Nerves'
+semantic_tags:
+  - Neurophysiology
+  - Heat production
+  - Oxygen consumption
+  - Nerve stimulation
+  - Crab and lobster nerves
+tldr: 'The author conducted experiments to measure the heat production in stimulated crab and lobster nerves and found that the heat production can be separated into two phases: initial and recovery. The study also showed that the nerves' ability to recover is dependent on oxygen supply, as without oxygen, the nerve remains "discharged."'
+scientific_discipline: Biology and Life Sciences > Neurophysiology

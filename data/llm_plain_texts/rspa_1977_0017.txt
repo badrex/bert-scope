@@ -1,0 +1,10 @@
+article_id: rspa_1977_0017
+revised_title: Two-Electron Excitation and Inter-Subshell Correlations in the 4d Spectrum of In I
+semantic_tags:
+  - Atomic Physics
+  - Spectroscopy
+  - Indium Spectrum
+  - Two-Electron Detachment
+  - Inter-Subshell Correlations
+tldr: The absorption spectrum of In I between 320 and 1000 A has been recorded for the first time, revealing over 100 new transitions. The most intense lines are assigned to transitions, and their identifications are supported by Hartree-Fock energy calculations. Series due to simultaneous excitation of two electrons occur in the vicinity of the transitions, and intensity peculiarities suggest that these series arise through inter-subshell correlations. The quenching of the series is observed as the threshold for detachment of two electrons is approached.
+scientific_discipline: Chemistry > Atomic Physics

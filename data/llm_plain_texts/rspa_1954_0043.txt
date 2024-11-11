@@ -1,0 +1,10 @@
+article_id: rspa_1954_0043
+revised_title: 'Verification of the Proportionality between Radiation Pressure and Refractive Index'
+semantic_tags:
+  - Radiation Pressure
+  - Refractive Index
+  - Optics
+  - Electromagnetic Theory
+  - Experimental Physics
+tldr: The authors conducted an experiment to verify the prediction that the normal pressure of radiation on a body is proportional to the refractive index of the medium in which the body is immersed. They used a metal vane mounted on a torsional suspension and measured the pressure on the vane in different liquids and air. The results confirmed the proportionality within experimental error, supporting the electromagnetic theory of light.
+scientific_discipline: Physics > Optics

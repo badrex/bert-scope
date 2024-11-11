@@ -1,0 +1,10 @@
+article_id: 'rspa_1910_0072'
+revised_title: 'Wave-Making Resistance of Ships: A Study of Model Experiment Series'
+semantic_tags:
+  - Fluid Dynamics
+  - Ship Resistance
+  - Model Experiments
+  - Wave Interference
+  - Naval Architecture
+tldr: This article investigates the wave-making resistance of ships through a study of model experiments. The author examines the effects of wave interference at the bow and stern of ships, proposing a formula to calculate the resistance. The study focuses on the variations in resistance-speed curves and provides insights into the effective horse-power of ships, with implications for naval architecture and ship design.
+scientific_discipline: Engineering and Technology > Naval Architecture

@@ -1,0 +1,10 @@
+article_id: rspa_1950_0112
+revised_title: 'Selenium Rectifier Photocell: Constitution and Mechanism'
+semantic_tags:
+  - Photovoltaics
+  - Selenium rectifier
+  - Thin films
+  - Semiconductor materials
+  - Photocell mechanism
+tldr: The authors conducted experiments to understand the structure and mechanism of the selenium rectifier photocell. They developed a technique to create thin films of cadmium oxide on pure crystalline selenium, resulting in cells with high light sensitivity, open-circuit voltages, and quantum efficiencies. The study provides insights into the essential mechanism of the photocell, which involves a contact between two dissimilar semi-conductors.
+scientific_discipline: Physics > Materials Science

@@ -1,0 +1,10 @@
+article_id: rspa_1955_0173
+revised_title: 'Transport Properties of Gaseous Hydrocarbons: Experimental Measurements and Analysis'
+semantic_tags:
+  - Transport properties
+  - Hydrocarbons
+  - Viscosity
+  - Thermal conductivity
+  - Kinetic theory of gases
+tldr: The authors conducted experimental measurements of viscosity and thermal conductivity for various gaseous hydrocarbons. They found that highly flexible molecules show systematically lower values of the ratio of transport properties, suggesting a special type of intermolecular collision involving some degree of orientation between the two molecules. This finding is relevant to the interpretation of recent work on the vibrational activation of ethylene molecules and the kinetics of thermal decomposition of gaseous hydrocarbons.
+scientific_discipline: Physics > Thermodynamics

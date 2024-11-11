@@ -1,0 +1,10 @@
+article_id: rspa_1950_0084
+revised_title: Supersonic Aerofoil Theory and Transient Source Solutions
+semantic_tags:
+  - Fluid Dynamics
+  - Supersonic Flow
+  - Aerofoil Theory
+  - Wave Equations
+  - Operational Calculus
+scientific_discipline: Physics > Fluid Dynamics
+tldr: The authors explore transient source and doublet solutions in the linearized equations of supersonic flow, focusing on aerofoil theory. They introduce the Heaviside step function and its derivatives to analyze the velocity potential and pressure distribution in compressible gas flow. The study provides a way to derive potential solutions for supersonic flow, which can be useful in understanding aerofoil behavior and fluid dynamics.

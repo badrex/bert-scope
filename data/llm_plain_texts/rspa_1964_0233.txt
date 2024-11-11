@@ -1,0 +1,10 @@
+article_id: rspa_1964_0233
+revised_title: 'Ion-ion Oscillatory Potentials in Liquid Metals: Insights and Analysis'
+semantic_tags:
+  - Liquid metals
+  - Pair potentials
+  - Born-Green theory
+  - Percus-Yevick theory
+  - Direct correlation function
+scientific_discipline: Physics > Condensed Matter Physics
+tldr: The authors analyze radial distribution functions of eight liquid metals and find that ion-ion pair potentials exhibit long-range oscillatory interactions. They demonstrate that these oscillations are due to conduction electron screening of ions and suggest that the Born-Green theory is useful for understanding liquid metals' properties. The study also shows that liquid insulators have different pair interactions, which can be distinguished using the Ornstein-Zernike direct correlation function.

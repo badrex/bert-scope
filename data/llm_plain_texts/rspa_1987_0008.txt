@@ -1,0 +1,10 @@
+article_id: rspa_1987_0008
+revised_title: Stress Analysis in Machining with Sapphire Tools: A Review
+semantic_tags:
+  - Machining
+  - Stress Analysis
+  - Sapphire Tools
+  - Photoelasticity
+  - Metal Cutting
+tldr: This article presents a study on stress analysis in machining using sapphire tools. Sapphire, a transparent single-crystal aluminum oxide, was used for the first time in photoelasticity studies to determine the stress distribution near the cutting edge of a tool in metal machining. The authors found that the normal stress peaked at the cutting edge and decreased exponentially, while the shear stress was either zero or very small at the edge, increasing to a maximum in the middle of the contact length. The experimental setup and results provide valuable insights into the stress boundary conditions in metal cutting and forming operations.
+scientific_discipline: Engineering and Technology > Manufacturing and Machining

@@ -1,0 +1,10 @@
+article_id: 103967
+revised_title: Observations of Jupiter's First Satellite Eclipses and Their Use in Determining Longitude
+semantic_tags:
+  - Astronomy
+  - Celestial mechanics
+  - Navigation
+  - Time measurement
+  - Telescopes
+tldr: The author compared 244 observations of the eclipses of Jupiter's first satellite with the Flamsteedian Tables to determine their accuracy. He found that most observations did not differ by more than five minutes, making them useful for determining longitude at sea. The author encourages others to use this method until better methods are developed.
+scientific_discipline: Astronomy > Celestial mechanics

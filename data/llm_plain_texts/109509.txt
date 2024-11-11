@@ -1,0 +1,10 @@
+article_id: 109509
+revised_title: 'Explaining Double Images Caused by Atmospherical Refraction'
+semantic_tags:
+  - Atmospheric Optics
+  - Refraction
+  - Light Refraction
+  - Fluid Dynamics
+  - Density Variations
+tldr: The author investigates the phenomenon of double and triple images of objects caused by atmospheric refraction near the horizon. They explain these phenomena using theoretical principles and demonstrate their conclusions through artificial experiments. The author explores the effects of varying densities in fluids and the atmosphere, showing how these variations can cause light rays to converge or diverge, resulting in multiple images of the same object.
+scientific_discipline: Physics > Optics

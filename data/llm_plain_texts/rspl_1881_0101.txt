@@ -1,0 +1,10 @@
+article_id: rspl_1881_0101
+revised_title: 'Electric Conductivity of Glass: Density and Chemical Composition'
+semantic_tags:
+  - Glass Physics
+  - Electrical Conductivity
+  - Glass Density
+  - Glass Composition
+  - Chemical Compounds
+tldr: This paper presents the results of experiments on the relationship between the electric conductivity of glass and its density and chemical composition. The author found that the conductivity of glass decreases with increasing density and that glasses with a high conductivity have a composition different from that of a chemical compound. The author also suggests that further experiments should be conducted to determine if more dense glass has a higher conductivity.
+scientific_discipline: Physics > Materials Science

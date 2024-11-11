@@ -1,0 +1,10 @@
+article_id: rspa_1994_0081
+revised_title: A Pseudospectral Approach for Scattering of Water Waves
+semantic_tags:
+  - Wave mechanics
+  - Water waves
+  - Wave scattering
+  - Numerical methods
+  - Coastal engineering
+tldr: This article presents a pseudospectral approach to model the scattering of water waves, including both forward and backward wave fields. The method is valid for all angles of incidence and can be used to calculate wave refraction and focusing in coastal engineering applications.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

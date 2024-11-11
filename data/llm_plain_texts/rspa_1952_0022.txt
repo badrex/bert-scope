@@ -1,0 +1,10 @@
+article_id: rspa_1952_0022
+revised_title: 'Experimental Determination of Viscosities of Liquid Lithium, Rubidium, and Caesium'
+semantic_tags:
+  - Viscosity
+  - Alkali metals
+  - Liquid state
+  - Statistical mechanics
+  - Experimental physics
+tldr: The authors conducted experiments to determine the viscosities of liquid lithium, rubidium, and caesium. They used a specialized apparatus to measure the damping of oscillations in the liquid metals and applied a theoretical formula to calculate their viscosities. The results provide valuable data for understanding the properties of liquid metals and the liquid state in general.
+scientific_discipline: Physics > Condensed Matter Physics

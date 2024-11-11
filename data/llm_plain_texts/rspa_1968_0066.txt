@@ -1,0 +1,10 @@
+article_id: rspa_1968_0066
+revised_title: 'Investigation of Remanent Magnetization in Haematite Single Crystals'
+semantic_tags:
+  - Magnetism
+  - Haematite
+  - Crystallography
+  - Ferromagnetism
+  - Antiferromagnetism
+tldr: The authors studied the remanent magnetization of haematite single crystals and found that the synthetic crystals showed a sharp reduction in remanent magnetization over a narrow temperature range, while natural crystals exhibited a smaller reduction over a wider temperature range. The results challenge theoretical predictions and provide insights into the behavior of haematite crystals.
+scientific_discipline: Physics > Magnetism

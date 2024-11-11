@@ -1,0 +1,10 @@
+article_id: 111897
+revised_title: 'Optical Constants of Crystallized Substances and Their Impact on Crystal Physics'
+semantic_tags:
+  - Crystallography
+  - Optical properties
+  - Refraction
+  - Dispersion
+  - Crystal physics
+tldr: The author conducted extensive research on the optical constants of crystallized substances, focusing on refractive and dispersive powers. They aimed to establish a connection between chemical composition, morphology, and optical properties, contributing to the understanding of crystal physics. The study involved various theorems, calculations, and applications, with the goal of providing a foundation for a future scientific theory.
+scientific_discipline: Physics > Crystallography

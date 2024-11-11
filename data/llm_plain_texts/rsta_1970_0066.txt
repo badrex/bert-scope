@@ -1,0 +1,10 @@
+article_id: rsta_1970_0066
+revised_title: Photoelectron Spectroscopy: Orderings of Ionization Potentials in Carbocyclic and Heterocyclic Aromatic Compounds
+semantic_tags:
+  - Photoelectron spectroscopy
+  - Molecular orbital theory
+  - Aromatic compounds
+  - Ionization potentials
+  - Orbital energies
+tldr: This article discusses the orderings of orbital energies and ionization potentials in carbocyclic and heterocyclic aromatic compounds through photoelectron spectroscopy. The authors compare calculated orbital energies with experimentally measured ionization potentials and explore the effects of different light sources and analyzers on the orbital orderings. They present two possible interpretations for the ordering of ionization potentials in pyridine and discuss the photoelectron spectra of substituted pyridines and diazines.
+scientific_discipline: Chemistry > Organic Chemistry

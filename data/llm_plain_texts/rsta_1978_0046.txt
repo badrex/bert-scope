@@ -1,0 +1,10 @@
+article_id: rsta_1978_0046
+revised_title: Long Term Developments in Telecommunications Switching
+semantic_tags:
+  - Telecommunications
+  - Switching Techniques
+  - Optical Switching
+  - Digital Switching
+  - Transmission Networks
+tldr: This article discusses the advancements and future predictions in telecommunications switching during the 1980s and beyond. It covers various aspects of switching techniques, including connection and control techniques, interaction of switching and transmission, facilities offered, and network topology. The author predicts the extensive use of electronic digital multiplex connecting networks, optical connecting techniques, stored program control, distributed control techniques, and semiconductor integrated circuits in the future of telecommunications.
+scientific_discipline: Engineering and Technology > Telecommunications

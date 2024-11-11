@@ -1,0 +1,10 @@
+article_id: 110192
+revised_title: Investigating the Difference in Pendulum Vibrations at the Royal Observatory and a London House
+semantic_tags:
+  - Pendulum
+  - Timekeeping
+  - Astronomy
+  - Observatories
+  - Vibrations
+tldr: Captain Edward Sabine conducted experiments to determine the difference in the number of vibrations made by an invariable pendulum at the Royal Observatory in Greenwich and a house in London. The results showed a diurnal acceleration, which led to further investigation into the cause of this anomaly.
+scientific_discipline: Physics > Mechanics

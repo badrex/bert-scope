@@ -1,0 +1,10 @@
+article_id: rspa_1970_0190
+revised_title: 'Molecular Geometry of Simple Liquids: A Study of Random Packings and Monte Carlo Simulations'
+semantic_tags:
+  - Liquids
+  - Molecular geometry
+  - Monte Carlo simulation
+  - Random packing
+  - Hard sphere model
+tldr: This article explores the molecular geometry of simple liquids through the study of random packings and Monte Carlo simulations. The authors compare the structures of simulated liquid arrays with random packing and demonstrate the validity of Bernal's concept of the liquid state. They also examine the structural differences between real and idealized systems by artificially hardening the interaction potential.
+scientific_discipline: Chemistry > Physical Chemistry

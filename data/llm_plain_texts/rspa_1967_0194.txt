@@ -1,0 +1,9 @@
+article_id: rspa_1967_0194
+revised_title: 'Quasi-elastic Neutrino Interactions: Experimental Results and Analysis'
+semantic_tags:
+  - Neutrino physics
+  - Weak interaction
+  - Particle physics
+  - Nuclear physics
+  - Axial vector mass
+tldr: The article discusses a series of experiments conducted at the Argonne 12-5 GeV proton-synchrotron to study quasi-elastic neutrino interactions. The researchers used iron as the primary target and a spark chamber detector to analyze the interactions. The data collected provided a measure of the momentum transfer dependence or form factor for the axial vector part of the weak interaction, which is expressed in terms of an axial vector mass or a mean square radius for the axial vector interaction. The results from these experiments could help determine the axial vector mass with an accuracy of approximately 20%.

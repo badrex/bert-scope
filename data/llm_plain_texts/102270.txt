@@ -1,0 +1,10 @@
+article_id: 102270
+revised_title: Ancient Methods of Approximation in Extracting Surd Roots
+semantic_tags:
+  - Number Theory
+  - Approximation Methods
+  - Surd Roots
+  - Decimal Fractions
+  - Mathematical History
+tldr: The author discusses the methods of approximation for extracting surd roots, focusing on the ancient techniques used by the Greeks and their improvements over time. The text explores the methods of decimal fractions and various approaches, such as those by Newton, Raphson, and Halley, while emphasizing the historical foundation and applications of these methods.
+scientific_discipline: Mathematics > Number Theory

@@ -1,0 +1,10 @@
+article_id: 'rspb_1988_0016'
+revised_title: 'Clarification of Rat Liver Gap Junction Protein Molecular Sizes'
+semantic_tags:
+  - 'Gap Junctions'
+  - 'Molecular Biology'
+  - 'Biochemistry'
+  - 'Electrophoresis'
+  - 'Protein Structure'
+tldr: The authors analyze the rat liver gap junction protein and clarify the molecular size anomalies. They demonstrate that all molecular masses, including 27 kDa, 32 kDa, 47 kDa, and 54 kDa, are derived from the same protein. The results help to understand the protein's structure and function, indicating that it undergoes no major post-translational modification.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

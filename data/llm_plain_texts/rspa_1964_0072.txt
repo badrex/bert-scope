@@ -1,0 +1,10 @@
+article_id: rspa_1964_0072
+revised_title: 'European Contributions to the Development of Elementary Particle Physics: The Nimrod Proton Synchrotron'
+semantic_tags:
+  - Particle Physics
+  - Proton Synchrotron
+  - Accelerator Technology
+  - Elementary Particles
+  - High Energy Physics
+tldr: The article discusses the Nimrod proton synchrotron, a constant-gradient or weak-focusing accelerator designed for a maximum energy of 7 GeV at the Rutherford High Energy Laboratory. It describes the machine's design, components, and capabilities, as well as its potential for producing a powerful source of elementary particles for research. The synchrotron's three large bubble-chambers, including a 1.5 m liquid-hydrogen chamber, a heavy-liquid chamber, and a liquid-helium chamber, are also mentioned as essential tools for studying elementary particle processes and tracking particle tracks.
+scientific_discipline: Physics > Particle Physics

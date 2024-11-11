@@ -1,0 +1,10 @@
+article_id: rstb_1990_0086
+revised_title: "Palaeolimnology and Lake Acidification: Modelling Long-term Acidification and Reversibility"
+semantic_tags:
+  - Lake Acidification
+  - Palaeolimnology
+  - Acidification Reversibility
+  - Hydrochemical Simulation Models
+  - Diatom Analysis
+scientific_discipline: Environmental and Earth Sciences > Limnology
+tldr: This study compares long-term acidification models with diatom reconstructions to understand lake acidification and its potential reversibility. The authors use the magic model to simulate historical water quality and compare it to diatom analysis of sediment cores from six sites in Scotland. Both techniques show similar historical acidification trends and match observed present-day pH levels. The study suggests that acidification may be reversing at some sites and predicts that surface water acidification will continue to improve under various deposition reduction scenarios.

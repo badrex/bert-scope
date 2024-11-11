@@ -1,0 +1,10 @@
+article_id: rspa_1989_0120
+revised_title: 'Approximate Solutions for Nonlinear Acoustic Propagation Over Long Ranges'
+semantic_tags:
+  - Nonlinear Acoustics
+  - Wave Propagation
+  - Asymptotic Solutions
+  - Burgers Equations
+  - Geometrical Acoustics
+tldr: This article presents approximate solution methods for nonlinear acoustic propagation over long ranges, focusing on the generalized Burgers equations. The authors explore asymptotic solutions for weakly nonlinear acoustic waves under the influence of geometrical spreading and thermoviscous diffusion, considering both small diffusivity and large source disturbance amplitude. They discuss simpler approximate techniques and compare them with previously established methods, demonstrating their validity for various physical situations.
+scientific_discipline: Physics > Acoustics

@@ -1,0 +1,10 @@
+article_id: rspa_1926_0059
+revised_title: Investigating the Factors Affecting Transfer Resistance
+semantic_tags:
+  - Electrochemistry
+  - Electrode materials
+  - Surface properties
+  - Current density
+  - Transfer resistance
+tldr: The authors conducted experiments to study the controlling factors of transfer resistance in electrodes. They found that over-voltage and transfer resistance are two separate factors, with transfer resistance being affected by the mechanical condition of the surface and current density. The study also showed that transfer resistance is independent of the chemical constitution of the electrode.
+scientific_discipline: Physics > Electrochemistry

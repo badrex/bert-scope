@@ -1,0 +1,10 @@
+article_id: rspa_1928_0046
+revised_title: 'The Effect of Lubricant Purity and Molecular Order on Adhesion'
+semantic_tags:
+  - Adhesion
+  - Lubrication
+  - Surface chemistry
+  - Molecular order
+  - Chemical purity
+tldr: This study investigates the relationship between the purity of lubricants and their adhesion to solid surfaces. The authors found that adhesion increases during the latent period when the lubricant is composed of a single pure chemical substance, while it may increase or decrease during this period when the lubricant contains multiple substances. The results suggest that the orderliness of the lubricant's molecular structure plays a crucial role in adhesion, with higher orderliness leading to increased adhesion and decreased friction.
+scientific_discipline: Chemistry > Surface chemistry

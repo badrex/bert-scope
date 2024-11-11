@@ -1,0 +1,10 @@
+article_id: 110260
+revised_title: Effects of Iron in Ships on Compass Deviation
+semantic_tags:
+  - Magnetism
+  - Compass deviation
+  - Ship construction
+  - Iron attraction
+  - Navigation
+tldr: The author, Peter Barlow, discusses the significant increase in compass deviation due to the increased use of iron in ship construction. He explains that the large amount of iron in modern ships creates a powerful magnetic mass, causing errors in the compass readings. Barlow emphasizes the importance of addressing this issue and applying proper correction methods to improve navigation.
+scientific_discipline: Engineering and Technology > Shipbuilding and Naval Architecture

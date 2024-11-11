@@ -1,0 +1,10 @@
+article_id: 'rstb_1984_0090'
+revised_title: 'Biochemistry and Genetics of Complement: Structure and Function of C1r and C1s'
+semantic_tags:
+  - Complement system
+  - Biochemistry
+  - Genetics
+  - Serine proteinase
+  - Complement activation
+tldr: This article discusses the biochemistry and genetics of the complement system, focusing on the structure and activity of C1r and C1s, which are enzymes involved in the activation of the classical complement pathway. The authors describe the molecular properties, biological activities, and amino acid sequences of C1r and C1s, and how they interact with other complement components. They also model the structures of these enzymes to understand their catalytic mechanisms and specificity.
+scientific_discipline: Biology and Life Sciences > Biochemistry

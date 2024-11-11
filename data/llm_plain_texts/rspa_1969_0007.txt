@@ -1,0 +1,10 @@
+article_id: rspa_1969_0007
+revised_title: 'Optimizing Electrical Propulsion for Space Maneuvers and Scientific Investigations'
+semantic_tags:
+  - Space Propulsion
+  - Orbital Mechanics
+  - Electrical Systems
+  - Space Science
+  - Satellite Technology
+tldr: The article discusses the use of electrical propulsion for space maneuvers and its potential to greatly extend the scope for scientific investigations in space. It explores the relationship between various propulsion parameters, such as exhaust velocity, mass of expellent, and energy consumption, and how these factors can be optimized for different types of orbital transfers. The article also highlights the advantages of electrical propulsion systems in terms of their high exhaust velocities and the ability to maneuver in the vicinity of gravitational fields.
+scientific_discipline: Engineering and Technology > Spacecraft Engineering

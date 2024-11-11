@@ -1,0 +1,10 @@
+article_id: rspa_1941_0045
+revised_title: 'Susceptibility of Paramagnetic Powders and the Demagnetizing Field'
+semantic_tags:
+  - Magnetic susceptibility
+  - Paramagnetism
+  - Demagnetizing field
+  - Low-temperature physics
+  - Powder materials
+tldr: This study measures the effective susceptibility of a paramagnetic powder, providing insight into the demagnetizing field and its impact on temperature scale calculations. The research validates the use of Breit's expression for the demagnetizing field in various powder forms, including loosely packed salts, for determining the Curie temperature.
+scientific_discipline: Physics > Materials Science

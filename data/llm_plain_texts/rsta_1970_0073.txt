@@ -1,0 +1,10 @@
+article_id: rsta_1970_0073
+revised_title: 'Baroclinic Waves in a Rotating Fluid: Theoretical Ideas and Experimental Results'
+semantic_tags:
+  - Geophysical Fluid Dynamics
+  - Baroclinic Instability
+  - Atmospheric Science
+  - Rotating Fluids
+  - Heat Transfer
+tldr: This article explores the behavior of baroclinic waves in a rotating fluid subject to internal heating. The authors discuss the theoretical ideas behind the problem, including equations of the problem, the impressed temperature field, geostrophy, and horizontal heat transfer. They also describe the design and construction of the experimental apparatus and present the results of the experiments, which provide insights into the dynamics of rotating fluids and their applications in atmospheric science.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

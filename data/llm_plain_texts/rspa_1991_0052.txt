@@ -1,0 +1,10 @@
+article_id: rspa_1991_0052
+revised_title: 'Quantum Theory of Vacuum Field Fluctuations and Spontaneous Emission Near Dielectric Surfaces'
+semantic_tags:
+  - Quantum Electrodynamics
+  - Electromagnetic Field Theory
+  - Dielectric Materials
+  - Spontaneous Emission
+  - Vacuum Fluctuations
+tldr: The authors quantize the electromagnetic field in a system with half of space filled with a dielectric material and the other half empty. They calculate the vacuum electric field fluctuations and spontaneous emission rates inside and outside the dielectric. The results show significant modifications near the dielectric interface, which can be useful for understanding and controlling the behavior of light and matter interactions in various applications.
+scientific_discipline: Physics > Electromagnetic Theory

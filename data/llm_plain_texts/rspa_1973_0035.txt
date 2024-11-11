@@ -1,0 +1,10 @@
+article_id: rspa_1973_0035
+revised_title: 'Anthracene Crystal Exciton-Photon States and Fluorescence'
+semantic_tags:
+  - Crystal Optics
+  - Molecular Fluorescence
+  - Exciton-Photon States
+  - Anthracene Crystal
+  - Thin Crystal
+tldr: The authors extended the theory of excited states in thin molecular crystals, focusing on anthracene crystals with two molecules per unit cell. They found new features, such as heavily damped levels below the exciton band, and discussed the nature of quasi-stationary states participating in processes of emission and absorption. The study provides insights into the fluorescence and absorption properties of thin molecular crystals.
+scientific_discipline: Physics > Optics

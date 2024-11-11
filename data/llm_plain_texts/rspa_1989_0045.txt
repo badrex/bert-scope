@@ -1,0 +1,10 @@
+article_id: rspa_1989_0045
+revised_title: 'Diffusion-Controlled Growth and Fractals in Anisotropic Systems'
+semantic_tags:
+  - Fractals
+  - Diffusion-controlled growth
+  - Anisotropy
+  - Dendritic solidification
+  - Crystal growth
+tldr: This article discusses the importance of anisotropy in diffusion-controlled growth, particularly in dendritic solidification and crystal growth. The authors explore the role of growth tips and the fractal dimension in these processes, using examples from two-dimensional models and lattice simulations. They also examine the relationship between diffusion-limited growth and solidification, considering the effects of surface tension and the selection criterion for tip radius and velocity.
+scientific_discipline: Physics > Optics

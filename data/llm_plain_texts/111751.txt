@@ -1,0 +1,10 @@
+article_id: 111751
+revised_title: 'Thermal Effects of Fluids in Motion and the Development of an Absolute Scale of Temperature'
+semantic_tags:
+  - Thermodynamics
+  - Fluid dynamics
+  - Heat transfer
+  - Gas properties
+  - Temperature scales
+tldr: This article presents experiments conducted by Joule and Thomson on the thermal effects of fluids in motion. They discovered that the cooling effect experienced by air and other gases passing through a porous plug is proportional to the excess pressure of the entering air. The authors also developed a new absolute scale of temperature based on the principles of thermodynamics and investigated the properties of gases like carbonic acid and hydrogen.
+scientific_discipline: Physics > Thermodynamics

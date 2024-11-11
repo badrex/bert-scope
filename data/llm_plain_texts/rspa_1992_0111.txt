@@ -1,0 +1,10 @@
+article_id: rspa_1992_0111
+revised_title: "Post-Newtonian Approximations: A Formal Definition and Comparison with Existing Approaches"
+semantic_tags:
+  - General Relativity
+  - Post-Newtonian Approximations
+  - Gravitational Theory
+  - Gauge Conditions
+  - Asymptotic Flatness
+tldr: The author provides a formal definition of post-Newtonian approximations in general relativity and compares it with existing approaches to the Newtonian limit and post-Newtonian approximations. The study focuses on the choice of gauge conditions and the solvability of the first post-Newtonian equations for the gravitational field in appropriate function spaces.
+scientific_discipline: Physics > Gravitational Theory

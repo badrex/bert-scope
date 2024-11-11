@@ -1,0 +1,10 @@
+article_id: 'rstb_1979_0056'
+revised_title: 'Marker Induction Mechanism for Retinotectal Mapping: A Detailed Analysis'
+semantic_tags:
+  - Neural Mapping
+  - Retinotectal Projection
+  - Marker Theory
+  - Neurobiology
+  - Developmental Biology
+tldr: This article explores the idea that ordered neural patterns are established through marker induction. The authors propose a model for the retinotectal mapping in amphibia and fishes, suggesting that markers carried by individual cells are induced from the retina into the tectum. This mechanism, along with another that orients the map pieces, helps create a continuous or piece-wise continuous projection. The model accounts for various experimental findings and sheds light on the role of growth and regeneration in shaping the developing projection.
+scientific_discipline: Biology and Life Sciences > Developmental Biology

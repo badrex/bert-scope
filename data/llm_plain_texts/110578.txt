@@ -1,0 +1,10 @@
+article_id: 110578
+revised_title: Calculus of Variations: Triple Integral and its Applications
+semantic_tags:
+  - Calculus of Variations
+  - Differential Equations
+  - Mathematical Analysis
+  - Optimization
+  - Applied Mathematics
+tldr: The author, Richard Abbott, investigates the case of a triple integral in the calculus of variations. He explores the variation of the given integral, which is composed of two distinct parts: a triple integral and another part determined from the limits of the triple integral. This work contributes to the understanding of optimization problems and the solution of equations in mathematical analysis.
+scientific_discipline: Mathematics > Calculus of Variations

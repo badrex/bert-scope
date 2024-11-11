@@ -1,0 +1,11 @@
+article_id: rspa_1942_0035
+revised_title: 'Adsorption, Migration, and Evaporation of Thorium, Barium, and Sodium on Tungsten and Molybdenum'
+semantic_tags:
+  - Surface chemistry
+  - Adsorption
+  - Surface migration
+  - Evaporation
+  - Tungsten
+  - Molybdenum
+tldr: The authors studied the adsorption, migration, and evaporation of thorium, barium, and sodium on tungsten and molybdenum using single crystal metal points. They found that the deposited electropositive atoms distribute themselves over certain crystal faces and observed different migration patterns for each element. This research helps to understand the behavior of contaminants on metal surfaces and their potential impact on electronic devices.
+scientific_discipline: Chemistry > Surface chemistry

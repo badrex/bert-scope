@@ -1,0 +1,10 @@
+article_id: 112459
+revised_title: 'Verification of Sextants: Cooke's Apparatus and Method'
+semantic_tags:
+  - Astronomy
+  - Sextant calibration
+  - Optics
+  - Observational astronomy
+  - Instrumentation
+tldr: The author describes an apparatus designed by T. Cooke for verifying the accuracy of sextants at Kew Observatory. The apparatus uses two collimators, one with a vertical line and the other with cross lines, which are illuminated and placed at known angular distances. The author explains the method of adjusting and fixing the collimators and how to use a theodolite to measure the angular distances between them. The apparatus allows for accurate testing of sextants and can help improve their precision.
+scientific_discipline: Astronomy > Observational astronomy and instrumentation

@@ -1,0 +1,10 @@
+article_id: 'rstb_1983_0044'
+revised_title: 'Chloroplast Protein Phosphorylation and Photosynthesis Regulation'
+semantic_tags:
+  - Photosynthesis
+  - Chloroplasts
+  - Protein phosphorylation
+  - Light-harvesting chlorophyll a/b complex
+  - Photosystem I and II
+tldr: The article discusses how chloroplast proteins, specifically the light-harvesting chlorophyll a/b complex (LHC), are reversibly phosphorylated to regulate photosynthesis. Phosphorylation of LHC increases the proportion of excitation energy transferred to photosystem I at the expense of photosystem II, allowing the photosynthetic membrane to balance the rate of excitation of the two photosystems. This regulation enables the chloroplast to control the rates of cyclic and non-cyclic electron transport, coordinating the production of ATP and NADPH with the demands of the Calvin cycle and other metabolic pathways within the organelle.
+scientific_discipline: Biology and Life Sciences > Photosynthesis

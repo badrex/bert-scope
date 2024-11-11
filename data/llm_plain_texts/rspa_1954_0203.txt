@@ -1,0 +1,10 @@
+article_id: rspa_1954_0203
+revised_title: 'The Structure of Haemoglobin: Sign Determination by the Isomorphous Replacement Method'
+semantic_tags:
+  - Crystallography
+  - Haemoglobin
+  - Protein Structure
+  - Isomorphous Replacement Method
+  - X-ray Diffraction
+tldr: The authors used the isomorphous replacement method to determine the sign of the structure factors in haemoglobin crystals. They attached mercury and silver atoms to the haemoglobin molecules, which allowed them to find the signs of over two-thirds of the reflexions. This method confirmed the sign relations established by the transform method and provided a way to find the phases in protein crystals even when the transform method is not feasible.
+scientific_discipline: Chemistry > Crystallography

@@ -1,0 +1,10 @@
+article_id: rsta_1889_0014
+revised_title: 'Magnetic and Other Physical Properties of Iron at High Temperatures'
+semantic_tags:
+  - Magnetism
+  - Iron properties
+  - High-temperature physics
+  - Steel properties
+  - Critical temperature
+tldr: The author investigates the magnetic and physical properties of iron at high temperatures, discovering that the critical temperature for various iron samples ranges from 69°C to 77°C. The study also reveals that the temperature coefficient of electrical resistance is greater for iron than for other metals, and that recalescence occurs at the critical temperature.
+scientific_discipline: Physics > Materials Science

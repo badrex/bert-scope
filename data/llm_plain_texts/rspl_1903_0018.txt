@@ -1,0 +1,10 @@
+article_id: rspl_1903_0018
+revised_title: 'Effects of Extreme Cold on Radium Emanations'
+semantic_tags:
+  - Radioactivity
+  - Cryogenics
+  - Vacuum Physics
+  - Electromagnetism
+  - Radium
+tldr: 'Sir William Crookes and Professor James Dewar conducted experiments to study the effects of extreme cold on radium emanations. They found that the scintillations produced by radium on a sensitive blende screen became fainter when cooled with liquid air but became brighter when the screen was cooled while the radium salt was at the ordinary temperature. The experiments showed that the highest vacuum that can be obtained by the action of cold does not diminish the scintillations. The authors also observed the activity of radium in rendering air electrically conductive and the luminosity of the radium salt in liquid hydrogen.'
+scientific_discipline: Physics > Electromagnetism

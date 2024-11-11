@@ -1,0 +1,10 @@
+article_id: 110716
+revised_title: Electro-Magnetic Clock: A Revolutionary Timekeeping Device
+semantic_tags:
+  - Electromagnetism
+  - Clock technology
+  - Voltaic battery
+  - Timekeeping
+  - Electrical engineering
+tldr: The author, C. Wheatstone, describes the electro-magnetic clock, a revolutionary timekeeping device that eliminates the need for traditional clock parts. The clock uses an electro-magnet and a constant voltaic battery to create a circuit that periodically makes and breaks, allowing the second, minute, and hour hands to move simultaneously. This invention offers improved accuracy and cost-effectiveness compared to independent clocks.
+scientific_discipline: Engineering and Technology > Electrical engineering

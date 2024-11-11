@@ -1,0 +1,10 @@
+article_id: 'rstb_1987_0021'
+revised_title: 'Amperometric Enzyme Electrodes: Applications and Mechanisms'
+semantic_tags:
+  - Biosensors
+  - Enzyme Electrodes
+  - Electrochemistry
+  - Glucose Monitoring
+  - Toxic Gas Detection
+tldr: The article discusses the development and mechanisms of amperometric enzyme electrodes, which are used for various applications such as glucose monitoring in vivo and detecting low levels of toxic gases. The authors propose a heterogeneous redox catalysis mechanism for enzyme electrodes and describe the use of a chemical canary sensor for monitoring environmental toxins.
+scientific_discipline: Biology and Life Sciences > Biochemistry

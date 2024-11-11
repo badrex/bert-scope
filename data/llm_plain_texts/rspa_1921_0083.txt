@@ -1,0 +1,10 @@
+article_id: rspa_1921_0083
+revised_title: Heat Conduction in Hollow Cylinders
+semantic_tags:
+  - Heat conduction
+  - Bessel functions
+  - Temperature distribution
+  - Cylindrical geometry
+  - Thermal conductivity
+tldr: This article discusses a problem in the theory of heat conduction in hollow cylinders. The author presents a solution for the temperature distribution in the external medium and the rate of heat leakage from the cylinder. The solution involves the use of Bessel functions and is applicable to various scenarios, including the effect of a cylindrical heat source.
+scientific_discipline: Physics > Thermodynamics

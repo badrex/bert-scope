@@ -1,0 +1,10 @@
+article_id: rspa_1970_0168
+revised_title: Interface Effects and Work of Fracture in Fibrous Composites
+semantic_tags:
+  - Composite Materials
+  - Fracture Mechanics
+  - Interface Strength
+  - Fibers
+  - Epoxy Resin
+tldr: The author discusses the stresses near the tip of a crack in a fibrous composite, specifically a carbon-reinforced epoxy resin, and the work of fracture in such materials. They find that the composite's extreme elastic anisotropy leads to a large concentration of shear stress parallel to the fibers, which exceeds the transverse stress normal to the fibers. This results in the matrix shearing parallel to the fibers before a fiber ahead of the crack is broken, and the crack advances. The author also explores the effects of interface strength on the material's behavior.
+scientific_discipline: Engineering and Technology > Materials Science

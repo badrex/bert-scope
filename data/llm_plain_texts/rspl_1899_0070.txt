@@ -1,0 +1,10 @@
+article_id: rspl_1899_0070
+revised_title: Discovery of Silicon in Stars through Unknown Spectral Lines
+semantic_tags:
+  - Astrophysics
+  - Spectroscopy
+  - Silicon
+  - Stars
+  - Element discovery
+tldr: The authors discovered that certain unknown lines in the spectra of stars were actually due to the element silicon. They found that when using a highly disruptive electrical discharge, the glass tubes containing gases like argon and helium would produce the unknown lines and the spectrum of oxygen. By examining the spark between glass and platinum terminals, they confirmed that the element was silicon. This discovery helped in understanding the composition of stars and the presence of silicon in their spectra.
+scientific_discipline: Chemistry > Silicon and its compounds

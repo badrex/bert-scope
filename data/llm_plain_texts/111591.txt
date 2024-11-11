@@ -1,0 +1,10 @@
+article_id: 111591
+revised_title: Electric Properties of Insulating and Non-Conducting Bodies
+semantic_tags:
+  - Electromagnetism
+  - Electricity
+  - Insulators
+  - Molecular electric polarization
+  - Faraday's hypothesis
+tldr: The author, Carlo Matteucci, conducted experiments to understand the electric properties of insulating or non-conducting bodies. He found that when an electrified body is near an insulating cylinder, the particles or molecules of the cylinder acquire different electrical states at their opposite ends. This phenomenon, called molecular electric polarization, demonstrates Faraday's hypothesis. The insulating power of a substance is greater when its degree of polarization is weaker. The electric capacity of a conducting body is also higher when surrounded by insulating substances like sulphur compared to air.
+scientific_discipline: Physics > Electromagnetism

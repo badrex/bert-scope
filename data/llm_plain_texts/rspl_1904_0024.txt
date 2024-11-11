@@ -1,0 +1,10 @@
+article_id: 'rspl_1904_0024'
+revised_title: 'Compressibilities of Oxygen, Hydrogen, Nitrogen, and Carbonic Oxide: Preliminary Notice'
+semantic_tags:
+  - Gas compressibility
+  - Atomic weights
+  - Physical chemistry
+  - Gas properties
+  - Thermodynamics
+tldr: 'Lord Rayleigh and his team conducted experiments on the compressibilities of oxygen, hydrogen, nitrogen, and carbonic oxide at varying pressures. They used a modified apparatus to eliminate errors and aimed to extend their research to other gases like nitrous oxide and carbonic anhydride. This study contributes to understanding gas properties and atomic weights of elements.'
+scientific_discipline: Chemistry > Physical chemistry

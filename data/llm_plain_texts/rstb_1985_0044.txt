@@ -1,0 +1,10 @@
+article_id: 'rstb_1985_0044'
+revised_title: 'Interactions between Fibers in Neuromata and Pain: Experimental Findings in Rats'
+semantic_tags:
+  - Nociception
+  - Neuromata
+  - Pain
+  - Fibers Interactions
+  - Rat Experiments
+tldr: This study investigates the interactions between nerve fibers in experimental neuromata in rats and their potential role in pain. The authors found that indirect interactions between fibers ending in a stump neuroma can alter the patterns of spontaneous activity. They observed that repetitive stimulation of the nerve proximal to the neuroma produced an increase in impulse discharge rate in about two-thirds of the fibers. This response could have implications for understanding the aetiology of painful disturbances of sensation following peripheral nerve injury.
+scientific_discipline: Biology and Life Sciences > Neuroscience

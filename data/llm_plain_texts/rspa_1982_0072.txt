@@ -1,0 +1,10 @@
+article_id: rspa_1982_0072
+revised_title: Stress Equivalence in Solution Hardening: A Labusch Theory Analysis
+semantic_tags:
+  - Solid Solution Hardening
+  - Dislocation Theory
+  - Stress Equivalence
+  - Labusch Theory
+  - Activation Volume
+tldr: The author investigates the stress equivalence in the theory of solution hardening and finds that it occurs in Labusch's theory, where the process of activation involves the motion of a dislocation segment past a large number of solute atoms. The activation volume is determined by the distance a dislocation moves forward when the applied stress is increased, and it is shown that the stress dependence of the activation volume follows Labusch's theory. The author also discusses the transition from coordinated motion to independent motion of partial dislocations and the onset of Friedel statistics at very low concentrations of solute.
+scientific_discipline: Physics > Materials Science

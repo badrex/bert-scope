@@ -1,0 +1,10 @@
+article_id: 'rstb_1984_0111'
+revised_title: 'Immunological Control of Leishmaniasis: Mechanisms of Acquired Immunity'
+semantic_tags:
+  - Leishmaniasis
+  - Immunity
+  - Parasitology
+  - Macrophage activation
+  - T cell response
+tldr: This article discusses the mechanisms of acquired immunity in leishmaniasis, focusing on the role of T cell-mediated immune activation of infected macrophages. It explores the nature of the healing response, the basis for failure of this response, and the induction and nature of protection induced by prophylactic immunization. The article highlights the importance of Lyt-1+2 T cell response in controlling leishmanial infections and the failure of immunological control in certain cases due to resistance of the parasite or specific suppression of cell-mediated immunity.
+scientific_discipline: Biology and Life Sciences > Immunology

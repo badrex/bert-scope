@@ -1,0 +1,10 @@
+article_id: rsta_1956_0001
+revised_title: 'Vibrations of a Rigid Circular Plate on Elastic Spaces and Strata'
+semantic_tags:
+  - Elasticity
+  - Vibrations
+  - Mechanics
+  - Geophysics
+  - Engineering
+tldr: The author investigates the forced vibrations of a rigid circular plate on a semi-infinite elastic space and an elastic stratum. They determine the impedance of the plate for its four degrees of freedom and analyze the in-phase and out-of-phase components of displacement. The study also explores the effects of loading the plate with mass or moment of inertia and discusses the implications of these findings in geophysics and engineering.
+scientific_discipline: Engineering and Technology > Mechanics

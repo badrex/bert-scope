@@ -1,0 +1,10 @@
+article_id: rspa_1973_0124
+revised_title: 'Perturbation Theory for Projected States: Convergence Criteria and a Soluble Model'
+semantic_tags:
+  - Quantum Mechanics
+  - Perturbation Theory
+  - Schrödinger Equation
+  - Projected States
+  - Convergence Criteria
+tldr: The authors develop a perturbation theory for projected states and demonstrate that it satisfies the Schrödinger equation. They propose a new series for the perturbation theory and discuss its convergence criteria. The method is applied to the Lipkin model, a two-level many-body problem, and is shown to provide a good approximation and better convergence than ordinary perturbation theory.
+scientific_discipline: Physics > Quantum Mechanics

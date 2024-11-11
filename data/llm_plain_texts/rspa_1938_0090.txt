@@ -1,0 +1,10 @@
+article_id: rspa_1938_0090
+revised_title: 'Spectrum Analysis of Thallium Chloride: Electronic Transitions and Vibrational Constants'
+semantic_tags:
+  - Spectroscopy
+  - Thallium chloride
+  - Vibrational analysis
+  - Electronic transitions
+  - Band spectra
+tldr: The authors studied the spectrum of thallium chloride and analyzed its electronic transitions and vibrational constants. They found that the electronic levels of thallium chloride are lower than those of thallium fluoride, as expected due to the heavier mass of thallium chloride. The intensity distribution of the bands in the spectrum follows a narrow Condon parabola, which is a common feature in halide spectra.
+scientific_discipline: Chemistry > Spectroscopy

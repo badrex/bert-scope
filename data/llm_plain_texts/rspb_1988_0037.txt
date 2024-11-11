@@ -1,0 +1,10 @@
+article_id: 'rspb_1988_0037'
+revised_title: 'Characterization of a Fast Transient Outward Potassium Current in Xenopus Oocytes'
+semantic_tags:
+  - Ion channels
+  - Potassium current
+  - Xenopus oocytes
+  - Voltage-activated currents
+  - Neuroscience
+tldr: The article describes a fast transient outward potassium current found in native Xenopus oocytes. This current is activated by depolarization and is independent of extracellular calcium. The authors also discuss the ionic basis of the current and its voltage dependence, concluding that it is carried largely by an efflux of potassium ions. The fast potassium current has implications for understanding the function of ion channels in oocytes and their potential use as a translation system for the expression of exogenous membrane channels.
+scientific_discipline: Biology and Life Sciences > Neuroscience

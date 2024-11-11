@@ -1,0 +1,10 @@
+article_id: 'rspa_1991_0170'
+revised_title: 'Errata in Two Papers: Flux Integral for Axisymmetric Perturbations and Diffracted Intensities from Crystals'
+semantic_tags:
+  - Mathematical Physics
+  - Astrophysics
+  - Crystallography
+  - Diffraction
+  - Space-time
+tldr: This article provides corrections for two papers published in the Proceedings of the Royal Society of London. The first paper discusses the flux integral for axisymmetric perturbations of static space-times, and the second paper focuses on calculating diffracted intensities from crystals containing planar faults. The corrections address various typographical and mathematical errors found in the original papers.
+scientific_discipline: Mathematics > Applied Mathematics

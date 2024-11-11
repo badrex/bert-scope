@@ -1,0 +1,10 @@
+article_id: rspa_1965_0230
+revised_title: A Comprehensive Method for Numerical Solution of Rectangular Plate Problems
+semantic_tags:
+  - Plate theory
+  - Fourier series
+  - Numerical methods
+  - Engineering mathematics
+  - Structural analysis
+tldr: The author presents a comprehensive method for the numerical solution of rectangular plate problems under various loadings and boundary conditions. The method involves obtaining a particular integral as a double Fourier sine series and summing it to a highly convergent single series. This approach is suitable for programming on an electronic computer and can be applied to various types of loads, including concentrated and distributed loads.
+scientific_discipline: Engineering and Technology > Structural Engineering

@@ -1,0 +1,10 @@
+article_id: 111545
+revised_title: On the Mathematical Theory of Sound: Discovering the Integral of Wave Motion
+semantic_tags:
+  - Acoustics
+  - Wave Theory
+  - Sound Velocity
+  - Elasticity
+  - Differential Equations
+tldr: The author, S. Earnshaw, presents a mathematical theory of sound and discovers an integral for a class of differential equations related to wave motion. This integral helps explain various phenomena, such as the relation between pressure and velocity, the velocity of sound, and the formation of bores in wave fronts. The author also accounts for previously unexplained phenomena, like double reports of fire-arms, outrunning of sounds, and the transmission of sound through different media.
+scientific_discipline: Physics > Acoustics

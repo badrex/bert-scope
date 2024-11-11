@@ -1,0 +1,10 @@
+article_id: 'rspa_1922_0089'
+revised_title: 'Electrode Potential Drop Measurements with Direct and Alternating Current Electrolysis'
+semantic_tags:
+  - Electrochemistry
+  - Electrode potential
+  - Alternating current
+  - Direct current
+  - Electrolysis
+tldr: The authors conducted experiments to measure the electrode potential drop in direct and alternating current electrolysis. They found that the electrode potential drop increases with time and that the rate of increase depends on the type of metal and electrolysis method used. The results provide insights into the phenomena occurring at the electrode during electrolysis and the factors affecting the electrode potential drop.
+scientific_discipline: Chemistry > Electrochemistry

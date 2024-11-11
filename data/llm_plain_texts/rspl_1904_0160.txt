@@ -1,0 +1,10 @@
+article_id: rspl_1904_0160
+revised_title: The Role of Diffusion in the Catalysis of Hydrogen Peroxide by Colloidal Platinum
+semantic_tags:
+  - Catalysis
+  - Diffusion
+  - Colloidal platinum
+  - Hydrogen peroxide
+  - Reaction-velocity
+tldr: The authors investigate the role of diffusion in the catalysis of hydrogen peroxide by colloidal platinum. They find that when the rate of diffusion is much greater than the observed reaction-velocity, the concentration at the surface of the particles is maintained at a level close to the average concentration in the solution, making the effect of convection negligible. This suggests that the observed reaction-velocity depends only on the diffusion and convection of the reacting material to the boundary, supporting Nernst's hypothesis.
+scientific_discipline: Chemistry > Catalysis

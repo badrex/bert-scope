@@ -1,0 +1,10 @@
+article_id: 'rspb_1980_0030'
+revised_title: 'Microbial Evolution and the Development of New Metabolic Activities'
+semantic_tags:
+  - Microbial evolution
+  - Enzyme development
+  - Metabolic activities
+  - Bacterial genetics
+  - Plasmids
+tldr: The author discusses experiments in microbial evolution that have led to the development of new metabolic activities in bacteria. By studying the enzymes of various catabolic pathways, researchers have observed the evolution of new activities through regulatory or structural gene mutations, gene duplications, and plasmid exchange. This research has implications for understanding biodegradation of synthetic organic chemicals and the development of new microbial strains for industrial use.
+scientific_discipline: Biology and Life Sciences > Microbiology

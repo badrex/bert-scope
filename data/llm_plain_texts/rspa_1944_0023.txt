@@ -1,0 +1,10 @@
+article_id: rspa_1944_0023
+revised_title: "Equation of State for Solids: A Monatomic Substance with Face-Centered Cubic Lattice"
+semantic_tags:
+  - Crystal Lattice
+  - Equation of State
+  - Statistical Thermodynamics
+  - Interatomic Forces
+  - Lattice Energy
+tldr: The authors develop a method to determine the exponents in the force law for a given element from measurements of the sublimination energy, compressibility, thermal expansion coefficient, and the dependence of these quantities on pressure and temperature. They apply this method to a large number of elements and find that the compression and thermal expansion of these substances, as predicted by the theory, are in satisfactory agreement with the measured values up to high pressure and temperatures near the melting point.
+scientific_discipline: Physics > Crystallography

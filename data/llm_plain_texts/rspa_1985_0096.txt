@@ -1,0 +1,10 @@
+article_id: rspa_1985_0096
+revised_title: 'Liquid Impact Studies: Two-Dimensional Liquid-Wedge Impact and Its Relevance to Liquid-Drop Impact Problems'
+semantic_tags:
+  - Fluid Mechanics
+  - Impact Dynamics
+  - High-Speed Photography
+  - Erosion
+  - Material Damage
+scientific_discipline: Physics > Fluid Mechanics
+tldr: This study investigates the behavior of liquid impact using two-dimensional liquid wedges to understand the initial stage of liquid-drop impact. The experiments use water-gelatine mixtures to create preformed liquid shapes and high-speed photography to observe the impact events. The results confirm the main features of the model, providing information on edge pressures, jetting, cavitation in the liquid, and the effect of the solid's admittance. The findings have implications for understanding damage and erosion of materials subjected to liquid impact.

@@ -1,0 +1,10 @@
+article_id: rspl_1898_0025
+revised_title: A Compensated Interference Dilatometer: Improving Sensitivity for Crystal Expansion Measurements
+semantic_tags:
+  - Interference Dilatometer
+  - Fizeau Interference
+  - Crystal Expansion
+  - Temperature Coefficient
+  - Precision Measurement
+tldr: The author describes a new form of Fizeau interference dilatometer that enhances sensitivity and allows for the measurement of crystal expansion in smaller samples. The compensated dilatometer uses a tripod of platinum-iridium and a disc of aluminum to provide absolute measurements of expansion. The instrument can be used for various crystals, including chemical preparations, and offers improved precision compared to previous methods.
+scientific_discipline: Physics > Optics

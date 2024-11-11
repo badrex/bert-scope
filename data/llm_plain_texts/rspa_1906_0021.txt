@@ -1,0 +1,10 @@
+article_id: rspa_1906_0021
+revised_title: 'Polarisation in Secondary Röntgen Radiation: Experimental Evidence'
+semantic_tags:
+  - X-rays
+  - Polarization
+  - Röntgen radiation
+  - Secondary radiation
+  - Atomic weight
+tldr: The author conducted experiments using carbon as a secondary radiator to study the polarization of secondary Röntgen radiation. They discovered that the secondary radiation proceeding from carbon in a direction perpendicular to the primary radiation's propagation is polarized, providing evidence for the theory of secondary X-rays production in substances of low atomic weight.
+scientific_discipline: Physics > Electromagnetism

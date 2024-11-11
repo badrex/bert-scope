@@ -1,0 +1,10 @@
+article_id: 111406
+revised_title: 'Optical and Chemical Extinction of Chemical Rays: A Study on Light and Photochemical Reactions'
+semantic_tags:
+  - Photochemistry
+  - Light extinction
+  - Chemical reactions
+  - Refraction
+  - Coefficient of extinction
+tldr: This article investigates the relationship between light and chemical reactions, specifically the optical and chemical extinction of chemical rays. The authors found that the amount of light absorbed by a substance is proportional to the density of the absorbing medium and the intensity of the light. They also discovered that the chemical rays from different light sources have different coefficients of extinction and can affect photochemical phenomena in vegetation.
+scientific_discipline: Chemistry > Photochemistry

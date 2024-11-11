@@ -1,0 +1,10 @@
+article_id: 'rspa_1967_0154'
+revised_title: 'Kinetics and Energetics of Gas Hydrates Formation with Argon, Krypton, and Xenon'
+semantic_tags:
+  - Gas hydrates
+  - Kinetics
+  - Energetics
+  - Inert gases
+  - Clathrate structures
+tldr: The authors studied the formation and equilibria of gas hydrates containing argon, krypton, and xenon. They found that inert gases react rapidly with ice crystals when agitated, allowing them to measure sorption isotherms in hydrates of types I and II. The authors evaluated the heats of intercalation for the rare gases and derived overall heats of reaction between ice and inert gas. They also discussed the significance of these findings in the context of clathrate structures and potential applications in fractionation of gas mixtures.
+scientific_discipline: Chemistry > Materials Science

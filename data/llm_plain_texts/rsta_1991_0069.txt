@@ -1,0 +1,10 @@
+article_id: rsta_1991_0069
+revised_title: Coherent Structure Model of Turbulent Boundary Layer and Reynolds Number Dependence
+semantic_tags:
+  - Turbulence
+  - Fluid Dynamics
+  - Boundary Layer
+  - Coherent Structures
+  - Reynolds Number
+tldr: The authors develop a coherent structure model of the turbulent boundary layer, focusing on the outer and wall region subsets. They analyze the contributions of coherent motions, such as large-scale motions, typical eddies, and their interactions, to the Reynolds stress. The model predicts Reynolds number dependence and provides insights into turbulence production and evolution in boundary layers.
+scientific_discipline: Physics > Fluid Dynamics

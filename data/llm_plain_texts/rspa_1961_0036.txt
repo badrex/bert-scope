@@ -1,0 +1,10 @@
+article_id: 'rspa_1961_0036'
+revised_title: 'Decomposition Mechanism of Acetaldoxime and its Interaction with Nitric Oxide'
+semantic_tags:
+  - 'Chemistry'
+  - 'Aldoxime decomposition'
+  - 'Pyrolysis'
+  - 'Nitric oxide interaction'
+  - 'Free radical mechanism'
+tldr: The authors studied the pyrolysis of acetaldoxime in the temperature range of 330 to 440°C. They found that the reaction is partly heterogeneous and has an induction period. The decomposition orders and activation energies were determined for the reaction during the induction period and the subsequent fast reaction. Analyzing the products, they suggested a mechanism involving both free radical and molecular processes. The reaction during the induction period mainly forms methyl cyanide and water, while the fast reaction involves a catalytic chain mechanism with nitric oxide and oxygen. The addition of nitric oxide reduces the reaction rate, indicating the presence of free radicals in the system.
+scientific_discipline: Chemistry > Organic Chemistry

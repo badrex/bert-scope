@@ -1,0 +1,10 @@
+article_id: rspa_1978_0041
+revised_title: 'Self-Consistent Estimates for Viscoelastic Creep Compliances of Composite Materials'
+semantic_tags:
+  - Composite Materials
+  - Viscoelasticity
+  - Creep Compliances
+  - Self-Consistent Method
+  - Inclusion Problem
+tldr: The authors present a study on the viscoelastic creep compliances of composite materials using the self-consistent method. They estimate the overall compliances of various composites with anisotropic phases and different concentrations. The study focuses on solving the misfitting viscoelastic inclusion problem and provides numerical solutions for specific composite materials, such as isotropic dispersions of spheres and unidirectional fiber-reinforced materials.
+scientific_discipline: Engineering and Technology > Materials Science

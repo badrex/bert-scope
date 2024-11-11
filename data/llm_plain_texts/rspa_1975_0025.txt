@@ -1,0 +1,10 @@
+article_id: rspa_1975_0025
+revised_title: 'Modeling Dislocation Creep in Materials with Threshold Stress'
+semantic_tags:
+  - Dislocation Creep
+  - Materials Science
+  - Threshold Stress
+  - Solid Solutions
+  - Creep Equations
+tldr: The author develops a model for dislocation creep in materials with a threshold stress, where dislocation creep only occurs when a certain stress is exceeded. The theoretical equation for this type of material is compared with experimental results, showing reasonable agreement. The model can be used to predict the creep rate and behavior of materials with a dispersion of impenetrable obstacles.
+scientific_discipline: Materials Science > Dislocation Creep

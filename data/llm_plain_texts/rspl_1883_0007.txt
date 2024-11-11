@@ -1,0 +1,10 @@
+article_id: rspl_1883_0007
+revised_title: 'Improving Sextant Accuracy: Dark Glass and Mirror Examination Techniques'
+semantic_tags:
+  - Astronomy
+  - Sextant calibration
+  - Optical instruments
+  - Telescope design
+  - Heliostat
+tldr: The authors describe an apparatus used at Kew Observatory to examine and test the accuracy of dark glasses and mirrors of sextants. The instrument, consisting of a telescope, collimators, and a heliostat, allows for precise measurements of errors in the shades and mirrors, ensuring accurate observations. The authors' method has been adopted by the Kew Committee for marking and approving sextant components.
+scientific_discipline: Astronomy > Optical instruments

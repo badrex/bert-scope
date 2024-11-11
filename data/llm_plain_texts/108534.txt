@@ -1,0 +1,10 @@
+article_id: 108534
+revised_title: On the Efficiency of Air-Engines and Their Comparison to Steam-Engines
+semantic_tags:
+  - Air-engine
+  - Steam-engine
+  - Thermodynamics
+  - Heat engines
+  - Mechanical work
+tldr: This article discusses the performance and efficiency of air-engines compared to steam-engines. The author calculates the work absorbed and evolved by air-engines under various pressures and temperatures, and compares their economical value to steam-engines. The results show that air-engines can be more efficient in certain conditions, but other factors such as heat loss during the evaporation process in steam-engines must also be considered.
+scientific_discipline: Physics > Thermodynamics

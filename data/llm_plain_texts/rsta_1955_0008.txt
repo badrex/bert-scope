@@ -1,0 +1,10 @@
+article_id: rsta_1955_0008
+revised_title: High-Precision Calorimetry for Measuring Heats of Combustion
+semantic_tags:
+  - Calorimetry
+  - Heat of Combustion
+  - Aneroid Calorimeter
+  - Combustion Bomb
+  - Temperature Measurement
+tldr: The authors developed a high-precision aneroid calorimeter for measuring heats of combustion, specifically focusing on the heat of combustion of succinic acid. The calorimeter eliminates several sources of error found in water calorimeters, and the authors found that the heat of combustion of succinic acid agrees well with previous high-precision measurements. The aneroid calorimeter offers a more accurate and precise method for measuring heats of combustion, making it a suitable tool for chemical applications and research.
+scientific_discipline: Chemistry > Calorimetry

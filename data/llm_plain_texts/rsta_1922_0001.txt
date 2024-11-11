@@ -1,0 +1,10 @@
+article_id: 'rsta_1922_0001'
+revised_title: 'Electron Emission from Metals under Chemical Action'
+semantic_tags:
+  - Electron Emission
+  - Chemical Reaction
+  - Electromotive Force
+  - Electrons
+  - Metals
+tldr: The author investigates the emission of electrons from metals under the influence of chemical action, focusing on the liquid alloy of sodium and potassium. They found that the chemical electron current exhibits saturation with zero applied potential difference, and the currents in any accelerating or retarding field are a measure of the number of electrons with kinetic energy exceeding the applied potential difference.
+scientific_discipline: Physics > Electromagnetism

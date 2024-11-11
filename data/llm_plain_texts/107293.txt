@@ -1,0 +1,10 @@
+article_id: 107293
+revised_title: 'Hydraulic Investigations and the Motion of Blood'
+semantic_tags:
+  - Fluid dynamics
+  - Blood circulation
+  - Hydraulics
+  - Friction
+  - Pipe flow
+tldr: The author, Thomas Young, conducted experiments on the flow of water through pipes and discovered a formula that accurately predicts the velocity of water in pipes with different diameters and pressures. This formula is useful for understanding blood circulation and can be applied to various hydraulic systems. Young also investigated the resistance caused by pipe flexure and proposed a new method for calculating this resistance.
+scientific_discipline: Physics > Fluid dynamics

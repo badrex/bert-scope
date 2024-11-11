@@ -1,0 +1,10 @@
+article_id: rspl_1879_0126
+revised_title: Critical State of Gases and Liquid-Gas Separation
+semantic_tags:
+  - Thermodynamics
+  - Gas-liquid separation
+  - Critical point
+  - Compressibility
+  - Refractive index
+tldr: The author conducted experiments on the critical state of gases and their separation from liquids. They observed that at the critical point, the liquid and gas have the same specific gravity and refractive indices. The author also discovered that liquids above their critical points are not uniformly compressible and proposed methods to prevent or delay the mixing of gas and liquid.
+scientific_discipline: Chemistry > Thermodynamics

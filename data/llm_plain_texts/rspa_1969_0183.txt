@@ -1,0 +1,10 @@
+article_id: rspa_1969_0183
+revised_title: 'Experimental Investigation of Impact Overload Tests on Triangulated Steel Frames'
+semantic_tags:
+  - Structural Engineering
+  - Steel Structures
+  - Dynamic Loads
+  - Frame Analysis
+  - Impact Testing
+tldr: This study presents experimental data on the behavior of pin-jointed steel frames under dynamic loads. The research focuses on the impact overload tests conducted on sixteen triangulated steel frames with varying strengths. The results provide insights into the deformation patterns, failure modes, and load-displacement relationships of these structures under impact loading conditions.
+scientific_discipline: Engineering and Technology > Structural Engineering

@@ -1,0 +1,10 @@
+article_id: rsta_1969_0007
+revised_title: Infrared Astronomy and Thermal Conductivity Equation in Radiative Energy Transfer
+semantic_tags:
+  - Infrared astronomy
+  - Thermal conductivity
+  - Radiative energy transfer
+  - Astrophysics
+  - Heat transfer
+tldr: This article discusses the problem of the thermal conductivity equation in the presence of radiative energy transfer. The authors derive the thermal conductivity equation and boundary conditions for this problem, considering both molecular thermal conductivity and radiative energy transfer. They find that the radiant thermal conductivity coefficient in the boundary conditions is times less than in the differential equation, and that the correct system of equations is needed for solving the thermal problem accurately.
+scientific_discipline: Physics > Astrophysics

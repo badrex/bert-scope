@@ -1,0 +1,10 @@
+article_id: rspl_1902_0002
+revised_title: 'Magnetism and Temperature Changes in Drawn Steel'
+semantic_tags:
+  - Magnetism
+  - Temperature coefficient
+  - Steel properties
+  - Resistivity
+  - Young's modulus
+tldr: This article investigates the changes in magnetism and its temperature coefficients in drawn steel. The author examines the effects of drawing, annealing, and tempering on the properties of steel, including magnetization, resistivity, Young's modulus, and density. The results show that drawing significantly affects the magnetic properties and the temperature coefficients of steel, while resistivity and Young's modulus are related to the density and magnetic intensity.
+scientific_discipline: Physics > Materials Science

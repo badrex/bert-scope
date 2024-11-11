@@ -1,0 +1,10 @@
+article_id: rspa_1956_0096
+revised_title: Generalized Functions and Dirichlet's Principle: A Simplified Approach
+semantic_tags:
+  - Calculus of Variations
+  - Dirichlet's Principle
+  - Generalized Functions
+  - Distribution Theory
+  - Harmonic Functions
+tldr: This paper provides a simplified approach to Dirichlet's principle using the method of generalized functions and distribution theory. The author proves Dirichlet's principle for any bounded domain and demonstrates that the minimizing sequence represents a generalized function, which is harmonic and equivalent to an ordinary numerical function. The paper also discusses the weak form of Green's theorem and the differentiability of the generalized function.
+scientific_discipline: Mathematics > Calculus of Variations

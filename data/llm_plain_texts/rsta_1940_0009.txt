@@ -1,0 +1,10 @@
+article_id: rsta_1940_0009
+revised_title: Investigating Soft X-Ray Spectroscopy of Solids
+semantic_tags:
+  - X-ray spectroscopy
+  - Solid state physics
+  - Energy levels
+  - Metals
+  - Insulators
+tldr: The author investigates the soft x-ray spectroscopy of solid elements in the first two groups of the periodic table, focusing on metals and insulators. They discovered new features of the emission bands and studied the temperature effects on the emission band edges of metals, providing a direct confirmation of the Fermi-Dirac statistics applied to conduction electrons.
+scientific_discipline: Physics > Solid State Physics

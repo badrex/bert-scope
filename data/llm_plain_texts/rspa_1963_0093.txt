@@ -1,0 +1,10 @@
+article_id: rspa_1963_0093
+revised_title: Interfacial Instability in Finite Elasticity Under Initial Stress: A Study of Two Adhering Anisotropic Half-Spaces
+semantic_tags:
+  - Elasticity
+  - Anisotropy
+  - Surface Instability
+  - Orthotropic Materials
+  - Stoneley Waves
+tldr: This article investigates the interfacial instability of two adhering anisotropic half-spaces with different rigidities under initial stress. The author derives the general characteristic equation for interfacial instability and evaluates the critical stress as a function of the rigidity ratio in the case of isotropy. The findings are relevant to the study of Stoneley waves and surface instability in elastic materials.
+scientific_discipline: Physics > Materials Science

@@ -1,0 +1,10 @@
+article_id: rspa_1975_0018
+revised_title: 'Integral Properties of Periodic Gravity Waves: A Deep Dive'
+semantic_tags:
+  - Wave Mechanics
+  - Fluid Dynamics
+  - Oceanography
+  - Wave Theory
+  - Hydrodynamics
+tldr: This article explores the integral properties of periodic gravity waves of finite amplitude in deep water. The author establishes exact relations for the mean fluxes of mass, momentum, and energy, and relates these properties to the constants and in cnoidal wave theory. The study also investigates the speed, momentum, and energy of deep-water waves and finds that these values are greatest when the wave height is less than the maximum. The findings have implications for understanding wave behavior and breaking in shallow water.
+scientific_discipline: Physics > Fluid Dynamics

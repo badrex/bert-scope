@@ -1,0 +1,10 @@
+article_id: rspa_1977_0172
+revised_title: Analyzing the Gaussian Model of an Imperfect Gas
+semantic_tags:
+  - Statistical mechanics
+  - Thermodynamics
+  - Gas theory
+  - Graph theory
+  - Phase transitions
+tldr: The author analyzes the Gaussian model of an imperfect gas, which is a model where the Mayer function is the Gaussian function of the distance between two molecules. They show that by grouping irreducible graphs according to their cyclomatic number, the virial series can be expanded in powers of a parameter. The author suggests that a phase transition may occur in the model, and its analytic behavior is similar to that of lattice-type antiferromagnetic models.
+scientific_discipline: Physics > Thermodynamics

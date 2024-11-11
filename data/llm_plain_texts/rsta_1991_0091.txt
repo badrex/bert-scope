@@ -1,0 +1,10 @@
+article_id: rsta_1991_0091
+revised_title: 'Energetic Particles in Solar Flares: Theory and Diagnostics'
+semantic_tags:
+  - Solar Flares
+  - Energetic Particles
+  - Particle Diagnostics
+  - Particle Acceleration
+  - Plasma Physics
+tldr: This article reviews recent progress and future prospects in diagnosing energetic electrons and ions in solar flares. It discusses the roles these particles play in the flare as a whole, focusing on hard-ray and gamma-ray emission data and thermal plasma data. The article also explores the acceleration and transport of these particles, as well as their potential impact on space and equipment.
+scientific_discipline: Physics > Plasma Physics

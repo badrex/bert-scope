@@ -1,0 +1,10 @@
+article_id: rspa_1931_0116
+revised_title: Stability of Superposed Fluids with Different Densities
+semantic_tags:
+  - Fluid dynamics
+  - Stratification
+  - Density
+  - Stability
+  - Wave motion
+tldr: This article investigates the stability of superposed fluid layers with different densities, focusing on the effect of density stratification on preventing turbulence. The study considers various scenarios, including the influence of transition layers and the impact of density changes on potential energy and inertia. The results provide insights into the conditions for stability and instability in stratified fluids.
+scientific_discipline: Physics > Fluid Dynamics

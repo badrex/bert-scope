@@ -1,0 +1,10 @@
+article_id: 101014
+revised_title: Estimating Water Weight in Water Using Ordinary Balances and Weights
+semantic_tags:
+  - Hydraulics
+  - Fluid mechanics
+  - Boyle's Law
+  - Density
+  - Experimentation
+tldr: The author, Robert Boyle, presents an invention for estimating the weight of water in water using ordinary balances and weights. The method involves using a glass bubble, heating it to rarify the air, and sealing it before submerging it in water. By comparing the weight of the glass bubble and the weight of the water it displaces, the weight of water in water can be estimated.
+scientific_discipline: Physics > Fluid mechanics

@@ -1,0 +1,10 @@
+article_id: 110401
+revised_title: Hamilton's General Method in Dynamics
+semantic_tags:
+  - Mathematical Physics
+  - Classical Mechanics
+  - Differential Equations
+  - Variational Calculus
+  - Hamiltonian Mechanics
+tldr: William Rowan Hamilton introduced a general method in dynamics that simplifies the study of free systems of attracting or repelling points. This method reduces the study to finding and differentiating a central relation or characteristic function. This approach revolutionized the understanding of classical mechanics and laid the foundation for modern Hamiltonian mechanics.
+scientific_discipline: Mathematics > Mathematical Physics

@@ -1,0 +1,10 @@
+article_id: 'rspa_1909_0043'
+revised_title: 'Advanced Techniques in Elimination Theory'
+semantic_tags:
+  - Algebra
+  - Determinants
+  - Elimination Theory
+  - Mathematical Analysis
+  - Linear Algebra
+tldr: The author presents new methods for deriving expressions for the eliminants of two and three quantics in one or two variables. By using determinants and mathematical analysis, the author demonstrates how to obtain the eliminants as a sum of terms, expanding the understanding of elimination theory.
+scientific_discipline: Mathematics > Algebra

@@ -1,0 +1,10 @@
+article_id: rspa_1971_0115
+revised_title: Disproof of a Conjecture in Projective Geometry
+semantic_tags:
+  - Projective Geometry
+  - Linear Algebra
+  - Mathematics
+  - Computational Mathematics
+  - Counterexamples
+tldr: The author presents a numerical disproof of a conjecture in projective geometry by using modern computers and integer arithmetic. They provide two counterexamples that disprove the conjecture for any number of lines greater than six. The method involves calculating line coordinates and determining the intersection of lines, verifying theorems, and checking the accuracy of calculations.
+scientific_discipline: Mathematics > Linear Algebra

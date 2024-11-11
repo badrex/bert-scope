@@ -1,0 +1,10 @@
+article_id: 'rspb_1943_0004'
+revised_title: 'Newton's Experiments on Light and Color'
+semantic_tags:
+  - 'Optics'
+  - 'Color Theory'
+  - 'Refraction'
+  - 'Spectrum'
+  - 'Prism'
+tldr: 'The article discusses Newton's experiments on light and color, focusing on his fundamental researches on the composition of white light. Newton discovered that white light is made up of different colors that can be separated by a prism, and each color has a unique refractive index. This led to the understanding that the sun's light consists of colored components, which are bent to different extents by a prism, resulting in the formation of a spectrum.'
+scientific_discipline: 'Physics > Optics'

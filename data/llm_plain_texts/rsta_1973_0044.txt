@@ -1,0 +1,10 @@
+article_id: rsta_1973_0044
+revised_title: Strain Measurement Instrumentation and Techniques: A Review
+semantic_tags:
+  - Geophysics
+  - Strain measurement
+  - Instrumentation
+  - Earth's surface strain
+  - Strain theory
+tldr: This article reviews the development of strain measurement instruments for geophysical purposes, focusing on the methods, techniques, and challenges involved in measuring strain in the Earth's surface. It discusses various types of strain meters, their designs, and the importance of instrument siting. The article also highlights the limitations of strain measurement data and the need for better understanding of strain theory and site inhomogeneity effects.
+scientific_discipline: Earth Sciences > Geophysics

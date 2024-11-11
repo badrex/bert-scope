@@ -1,0 +1,10 @@
+article_id: rsta_1976_0047
+revised_title: Observational Data and Magnetic Field Configurations in Solar Flares
+semantic_tags:
+  - Solar Physics
+  - Solar Flares
+  - Magnetic Fields
+  - Particle Acceleration
+  - Solar Atmosphere
+tldr: This article discusses recent observational data on solar flares, focusing on the flare build-up process, time scales involved, and possible magnetic field configurations. The authors suggest a multiply kinked or supertwisted flux tube as a possible magnetic field configuration and explore the role of plasma turbulence and the Fermi mechanism in particle acceleration. They also analyze the relation between flares and magnetic field changes, as well as the connection between flares and other solar phenomena such as surges and filaments.
+scientific_discipline: Physics > Plasma Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1946_0037
+revised_title: Integral Equation Method for Solving Plane Diffraction Problems
+semantic_tags:
+  - Electromagnetic Waves
+  - Diffraction Theory
+  - Integral Equations
+  - Maxwell's Equations
+  - Green's Functions
+tldr: The article presents an integral equation method for solving plane diffraction problems using electromagnetic waves. The method involves determining the scattered field by considering a magnetic charge and current sheet over the holes in the screen. This approach can be applied to various diffraction problems, including those involving a narrow slit, a narrow blade, a small circular disk, or a small circular hole.
+scientific_discipline: Physics > Electromagnetism

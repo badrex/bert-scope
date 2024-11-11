@@ -1,0 +1,10 @@
+article_id: 'rstb_1993_0028'
+revised_title: 'Molecular Chaperones: Chaperonins and Protein Folding Mechanisms'
+semantic_tags:
+  - Protein folding
+  - Molecular chaperones
+  - Chaperonin-60
+  - Chaperonin-10
+  - ATP-dependent processes
+tldr: This article discusses the role of molecular chaperones, specifically chaperonins, in facilitating protein folding. Chaperonins form stable binary complexes with non-native protein states, preventing aggregation and arresting spontaneous folding. The release of target proteins in a state committed to the native state requires chaperonin-10 and ATP hydrolysis. The mechanisms of chaperonin-facilitated folding vary depending on the target protein, highlighting the complexity and unity of these processes.
+scientific_discipline: Biology and Life Sciences > Biochemistry

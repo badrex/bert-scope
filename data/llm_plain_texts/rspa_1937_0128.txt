@@ -1,0 +1,10 @@
+article_id: rspa_1937_0128
+revised_title: Generalization of Self-Consistent Field Equations for Two-Electron Configurations
+semantic_tags:
+  - Quantum Mechanics
+  - Atomic Physics
+  - Wave Function
+  - Self-Consistent Field
+  - Two-Electron Configurations
+tldr: The authors developed a generalized method for the self-consistent field equations to improve the accuracy of calculations for two-electron configurations in atomic physics. This method allows for better understanding of the behavior of electrons in atoms and can be applied to various configurations without considering configuration interaction.
+scientific_discipline: Physics > Atomic Physics

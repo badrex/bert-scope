@@ -1,0 +1,11 @@
+article_id: 'rstl_1885_0004'
+revised_title: 'Dynamical Principles Applied to Physical Phenomena'
+semantic_tags:
+  - Thermodynamics
+  - Electromagnetism
+  - Elasticity
+  - Heat
+  - Electricity
+  - Magnetism
+tldr: The author applies dynamical principles and methods to explain various physical phenomena, including elasticity, heat, electricity, and magnetism. They discuss the use of coordinates to describe the configuration of these systems and explore the relationship between kinetic and potential energy. This approach aims to provide a more fundamental understanding of physical phenomena and predict new phenomena.
+scientific_discipline: Physics > Electromagnetism

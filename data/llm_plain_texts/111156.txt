@@ -1,0 +1,10 @@
+article_id: 111156
+revised_title: Investigating the Sun's Influence on Electrical Currents
+semantic_tags:
+  - Solar Energy
+  - Electromagnetism
+  - Solar Physics
+  - Galvanometers
+  - Solar Radiation
+tldr: The author conducted experiments using a galvanometer to study the effects of sunlight on electrical currents. They discovered that the sun's rays could create a current in the helix of the instrument, and the strength of the current depended on the amount of sunlight exposure. This research supported the idea that there is one universal force with varying characteristics, such as light, heat, electricity, and magnetism.
+scientific_discipline: Physics > Electromagnetism

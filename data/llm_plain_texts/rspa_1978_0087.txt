@@ -1,0 +1,10 @@
+article_id: rspa_1978_0087
+revised_title: 'Exploring the Non-Unique Nature of the Machining Process'
+semantic_tags:
+  - Metalworking
+  - Slip-line field theory
+  - Machining process
+  - Chip control
+  - Orthogonal machining
+tldr: The author investigates the non-uniqueness of the machining process and explores different slip-line field solutions. They find that the process is not uniquely defined and that the range of possible solutions varies with the tool rake angle and interfacial shear stress. The author also discusses the role of chip curl and the limitations of slip-line field models in describing the machining process.
+scientific_discipline: Engineering and Technology > Metalworking

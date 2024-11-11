@@ -1,0 +1,10 @@
+article_id: rspl_1896_0024
+revised_title: 'Selective Absorption of X-Rays: Evidence for Heterogeneous Nature'
+semantic_tags:
+  - X-Rays
+  - Absorption
+  - Homogeneity
+  - Fluorescent Substances
+  - Material Properties
+tldr: The authors conducted experiments to determine if Röntgen rays were homogeneous in nature. They found that some substances, such as fluorescent dyes and screens, absorbed Röntgen rays more selectively than others, like glass and tinfoil. This evidence suggests that Röntgen rays are not all of one kind and may be heterogeneous in nature.
+scientific_discipline: Physics > Material Science

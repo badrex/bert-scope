@@ -1,0 +1,11 @@
+article_id: 'rstb_1996_0012'
+revised_title: 'Janus Kinases and Their Role in Cytokine Signaling'
+semantic_tags:
+  - 'Cytokine Receptors'
+  - 'Janus Kinases'
+  - 'Signal Transduction'
+  - 'Tyrosine Phosphorylation'
+  - 'Hematopoiesis'
+tldr: 'The article discusses the role of Janus kinases (Jaks) in cytokine signaling pathways. Jaks are protein tyrosine kinases that play a crucial role in the activation of signaling pathways when cytokines bind to their receptors. The activation of Jaks leads to the phosphorylation of receptor chains and the recruitment of signaling proteins, ultimately affecting cellular processes such as hematopoiesis.'
+scientific_discipline: 'Biology and Life Sciences > Cell Biology'
+´´´

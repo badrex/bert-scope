@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0122'
+revised_title: 'Improving Welded Steel Construction Toughness with Titanium Additions'
+semantic_tags:
+  - Welding
+  - Steel
+  - Titanium
+  - Materials Science
+  - Mechanical Properties
+tldr: The authors investigated the effects of various alloying additions on the toughness of welded constructional steels. They found that the presence of 0.2% Mo improves the toughness and lowers the transition temperature. However, stress-relieving heat treatments cause a decrease in toughness in alloys without Mo, while steels containing Mo show a slight increase. Titanium additions were found to refine the as-welded microstructure and decrease grain boundary carbides in the weld deposit.
+scientific_discipline: Materials Science > Mechanical Properties

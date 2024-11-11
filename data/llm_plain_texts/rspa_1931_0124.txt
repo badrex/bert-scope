@@ -1,0 +1,10 @@
+article_id: rspa_1931_0124
+revised_title: 'Investigations on the Core and Wing Effects in Fluorescent Excitation of Mercury'
+semantic_tags:
+  - Fluorescence
+  - Atomic absorption
+  - Mercury spectroscopy
+  - Quantum mechanics
+  - Spectroscopy
+tldr: The author investigates the fluorescent excitation of mercury using resonance frequency and lower frequencies. They discovered that the core effect, excited by the atomic resonance line, is extinguished by a trace of hydrogen, while the wing effect, caused by molecular or quasi-molecular absorption, can tolerate any amount of hydrogen. This distinction confirms the difference between the core and wing effects and supports the connection between the core effect and atomic absorption.
+scientific_discipline: Physics > Atomic and Molecular Physics

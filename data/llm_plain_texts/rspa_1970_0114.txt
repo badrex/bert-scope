@@ -1,0 +1,10 @@
+article_id: rspa_1970_0114
+revised_title: Investigation of Reaction Mechanism in a Rich Hydrogen-Nitrogen-Oxygen Flame
+semantic_tags:
+  - Flame Chemistry
+  - Reaction Kinetics
+  - Hydrogen-Nitrogen-Oxygen Flames
+  - Computational Methods
+  - Flame Mechanism
+tldr: This article investigates the reaction mechanism in a rich hydrogen-nitrogen-oxygen flame using a combination of computational methods. The authors found that hydroperoxyl participates in the flame mechanism, and the main reactions in the flame are (i), (ii), (iii), (iv), and (xv). The results show that the interplay between these reactions makes it impossible to use the atmospheric pressure flame for an independent, precise determination of the hydrogen-oxygen chain branching-rate constant.
+scientific_discipline: Chemistry > Chemical Kinetics

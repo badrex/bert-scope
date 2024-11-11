@@ -1,0 +1,10 @@
+article_id: rspa_1967_0185
+revised_title: 'Microwave Absorption Phenomena in Rare Earth Metals: Tb, Dy, Ho, and Er'
+semantic_tags:
+  - Magnetic Resonance
+  - Rare Earth Metals
+  - Spin Wave Modes
+  - Crystal Field Anisotropy
+  - Microwave Absorption
+tldr: The authors studied microwave absorption phenomena in rare earth metals Tb, Dy, Ho, and Er. They observed absorption at critical field transitions and found additional absorption lines associated with ferromagnetic spin configurations. The microwave results were discussed in terms of normal mode frequencies derived from the spin wave approximation. This research provided insights into the magnetic properties of heavy rare earth elements and their magnetic resonance phenomena.
+scientific_discipline: Physics > Condensed Matter Physics

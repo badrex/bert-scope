@@ -1,0 +1,10 @@
+article_id: rspa_1993_0083
+revised_title: A New Canonical Form for Complex Symmetric Matrices in Physics
+semantic_tags:
+  - Linear Algebra
+  - Matrix Theory
+  - Symmetric Matrices
+  - Orthogonal Similarity Transformations
+  - Eigenvalues and Eigenvectors
+tldr: The author presents a block diagonal canonical form for complex symmetric matrices, which is orthogonally similar to a diagonal matrix. This new form consists of diagonal or quasi-diagonal blocks, where each block has a repeated eigenvalue and an isotropic eigenvector. This canonical form is useful in various applications, such as wave propagation in continuous media and gravitational fields in the general theory of relativity.
+scientific_discipline: Mathematics > Linear Algebra

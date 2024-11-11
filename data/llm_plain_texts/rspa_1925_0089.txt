@@ -1,0 +1,10 @@
+article_id: rspa_1925_0089
+revised_title: 'In-Depth Analysis of Helium Band Spectrum Structure'
+semantic_tags:
+  - Spectroscopy
+  - Quantum Mechanics
+  - Atomic Physics
+  - Helium
+  - Band Spectrum
+tldr: The authors conducted a detailed study of the structure of helium's band spectrum, focusing on the doublet bands. They used a quartz spectrograph to photograph the bands and analyzed their wave-lengths, wave-numbers, and intensities. The study found that the bands followed a combination principle, which helped in understanding the relations between the terms and the initial and final states of the helium atoms. This research contributed to the broader understanding of band spectra and atomic physics.
+scientific_discipline: Physics > Atomic Physics

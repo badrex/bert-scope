@@ -1,0 +1,10 @@
+article_id: rspa_1968_0016
+revised_title: Applications of Electron Spin Resonance in Polymer Chemistry
+semantic_tags:
+  - Polymer Chemistry
+  - Electron Spin Resonance
+  - Free Radicals
+  - Polymerization
+  - Oxidation
+tldr: This article discusses the applications of electron spin resonance (ESR) in studying reactive intermediates in chemical reactions, particularly in polymer chemistry. The author explores two topics: free radicals in radiation-induced oxidation of high polymers and free radicals during liquid-phase polymerization of monomers. ESR provides valuable information on reaction mechanisms, radical concentrations, and steric structures of radicals, which can help improve our understanding of polymer degradation and formation processes.
+scientific_discipline: Chemistry > Polymer Chemistry

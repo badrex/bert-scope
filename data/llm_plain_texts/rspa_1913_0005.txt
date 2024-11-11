@@ -1,0 +1,10 @@
+article_id: rspa_1913_0005
+revised_title: A New Approach to Determining the Radiation Constant
+semantic_tags:
+  - Radiation constant
+  - Stefan-Boltzmann law
+  - Thermodynamics
+  - Heat transfer
+  - Temperature measurement
+tldr: This article presents a new experimental method for determining the radiation constant using a more accurate full radiator design. The authors describe their setup, which includes a small Heraeus furnace as the emitter and an aniline thermometer as the receiver. They also discuss the challenges and improvements made to minimize energy losses and ensure accurate measurements. The results provide a preliminary estimation of the radiation constant, with further research planned using a more advanced full radiator design.
+scientific_discipline: Physics > Thermodynamics

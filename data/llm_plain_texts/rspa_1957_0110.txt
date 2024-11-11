@@ -1,0 +1,10 @@
+article_id: rspa_1957_0110
+revised_title: Hydrodynamic Stability of Helium II Between Rotating Cylinders
+semantic_tags:
+  - Fluid dynamics
+  - Helium
+  - Rotating cylinders
+  - Stability
+  - Turbulence
+tldr: The author investigates the hydrodynamic stability of helium II between rotating cylinders, focusing on the characteristic value problems and the nature of the instabilities that occur in this problem. The study provides a method to solve the characteristic value problem with the correct set of boundary conditions and examines the growth rate of small perturbations. The results help understand the transition from stability to instability as the parameters of the problem change.
+scientific_discipline: Physics > Fluid Dynamics

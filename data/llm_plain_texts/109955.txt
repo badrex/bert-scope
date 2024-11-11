@@ -1,0 +1,10 @@
+article_id: 109955
+revised_title: Investigating the Errors in Longitude Determined by Chronometers at Sea
+semantic_tags:
+  - Chronometers
+  - Navigation
+  - Magnetism
+  - Shipbuilding
+  - Timekeeping
+tldr: The author, George Fisher, examines the errors in longitude determination by chronometers at sea, which are often attributed to the ship's motion. He suggests that the iron in ships can cause magnetic action on the chronometers, leading to changes in their rates. Fisher also discusses experiments on the effects of magnets on chronometers and the possible impact on balance springs.
+scientific_discipline: Engineering and Technology > Navigation

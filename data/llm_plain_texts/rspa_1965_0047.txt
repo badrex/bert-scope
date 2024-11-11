@@ -1,0 +1,10 @@
+article_id: 'rspa_1965_0047'
+revised_title: 'Mercury-Photosensitized Decomposition of Carbonyl Compounds: Type I and Type II Reactions'
+semantic_tags:
+  - Photochemistry
+  - Carbonyl compounds
+  - Type I and Type II reactions
+  - Mercury photosensitization
+  - Vapour-phase chromatography
+tldr: The authors studied the mercury-photosensitized decomposition of carbonyl compounds, such as n-butyric acid, n-butyraldehyde, and methyl n-propyl ketone. They discovered that both type I (scission of the bond adjacent to the carbonyl group) and type II (rearrangement to form an olefin and a lower carbonyl compound) reactions occur in these compounds. The type II reaction was previously thought to not occur in these specific carbonyl compounds, but the authors found that secondary reactions involving the consumption of ethylene were responsible for the absence of ethylene in earlier studies.
+scientific_discipline: Chemistry > Photochemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1970_0177
+revised_title: 'Elastic-Plastic Behavior of Polycrystalline Metals and Composites: A Review'
+semantic_tags:
+  - Materials Science
+  - Solid Mechanics
+  - Plasticity
+  - Polycrystalline Metals
+  - Composites
+tldr: This article explores the elastic-plastic behavior of polycrystalline metals and composites using self-consistent models based on the properties of single crystal constituents. The study focuses on Hill's self-consistent model, which embraces various accepted results for the overall properties of elastic systems. Tensile stress-strain curves for face-centered cubic polycrystals are presented, showing the effects of elastic anisotropy and hardening of the crystals. The article also discusses the comparison of different models and their applications in understanding the yield surface and stress-strain behavior at a corner of the yield surface.
+scientific_discipline: Materials Science > Solid Mechanics

@@ -1,0 +1,10 @@
+article_id: rsta_1982_0013
+revised_title: Geomagnetic Variations and Field-Aligned Currents: Relations to Solar Wind Parameters
+semantic_tags:
+  - Magnetosphere
+  - Geomagnetic field
+  - Solar wind
+  - Field-aligned currents
+  - Interplanetary Magnetic Field
+tldr: This study investigates the relationship between geomagnetic variations and field-aligned currents at high latitudes, and their connection to solar wind parameters. By using statistical analysis, the authors found that different parameters of the solar wind control geomagnetic variations, and they determined equivalent current systems for the 1968 summer and winter seasons. The authors also proposed a correlation model to predict geomagnetic field variations at high latitudes and reconstructed the space-time distribution of field-aligned currents. This model helps interpret magnetic disturbances observed by satellites and understand discrepancies between observations and previous models.
+scientific_discipline: Environmental and Earth Sciences > Magnetosphere

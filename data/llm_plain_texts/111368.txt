@@ -1,0 +1,10 @@
+article_id: 111368
+revised_title: Generalization of Determining Unknown Functions in Definite Integrals
+semantic_tags:
+  - Calculus
+  - Integral calculus
+  - Function determination
+  - Mathematical analysis
+  - Mathematical notation
+tldr: In this article, J. Gomes De Souza expands on his previous work on determining unknown functions evolved under definite integrals. He presents a more general approach using terms of the form A,. Sj'e-(wlmr)dw, allowing for greater flexibility in the function of z. This work contributes to the field of integral calculus and mathematical analysis.
+scientific_discipline: Mathematics > Calculus

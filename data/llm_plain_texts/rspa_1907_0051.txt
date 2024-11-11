@@ -1,0 +1,10 @@
+article_id: rspa_1907_0051
+revised_title: 'Advanced Grating Theory: Dynamical Approach and Applications'
+semantic_tags:
+  - Wave Optics
+  - Gratings
+  - Boundary Conditions
+  - Fourier Analysis
+  - Electromagnetic Waves
+tldr: The author presents a dynamical theory of gratings, extending previous work on the subject. They analyze the behavior of waves at the boundary between two media and consider the reflection and refraction of light through gratings. The study includes the formation of lateral spectra and the distribution of energy between the regular reflection and the various reflected spectra. The author's findings contribute to the understanding of wave optics and have implications for applications in fields such as electromagnetism and acoustics.
+scientific_discipline: Physics > Optics

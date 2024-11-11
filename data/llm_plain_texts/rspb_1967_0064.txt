@@ -1,0 +1,10 @@
+article_id: 'rspb_1967_0064'
+revised_title: 'Lymphocyte Migration and Its Influence on Antibody Formation in the Isolated, Perfused Spleen'
+semantic_tags:
+  - Immunology
+  - Lymphocyte migration
+  - Antibody formation
+  - Spleen function
+  - Cellular immunology
+tldr: The authors investigated the role of lymphocyte migration in antibody formation using the isolated, perfused spleen of rats. They found that the magnitude of the antibody response depends on the concentration of lymphocytes in the perfusate at the time of antigen addition, rather than the total number of lymphocytes in the spleen. The study suggests that lymphocytes that have recently migrated from the blood play a crucial role in antibody formation.
+scientific_discipline: Biology and Life Sciences > Immunology

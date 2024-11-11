@@ -1,0 +1,10 @@
+article_id: rspa_1972_0134
+revised_title: 'Active Nitrogen Vacuum Ultraviolet Emission: Population Rates and Kinetics'
+semantic_tags:
+  - Gas kinetics
+  - Molecular physics
+  - Spectroscopy
+  - Chemical reactions
+  - Atmospheric chemistry
+tldr: The authors studied the vacuum ultraviolet emission by active nitrogen and found that the energy transfer from N2(a) to CO and CO4+ emission occurs through two processes. They determined the individual rate coefficients for these energy transfers and analyzed the kinetics of the CO fourth positive emission. The results provide insights into the formation of excited CO from low levels of N2(a) and the role of CO in quenching the emission.
+scientific_discipline: Chemistry > Molecular physics

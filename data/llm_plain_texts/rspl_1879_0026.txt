@@ -1,0 +1,10 @@
+article_id: rspl_1879_0026
+revised_title: Overcoming Microscopic Challenges through High Power Definition
+semantic_tags:
+  - Microscopy
+  - Optics
+  - Diffraction
+  - Achromatism
+  - Microscope design
+tldr: This article discusses the difficulties faced in microscopic research due to overlapping images, residual aberrations, diffraction effects, and the use of large angular apertures. The author proposes solutions to these challenges, such as using high power definition and large aperture objectives, and introduces a new test for microscopes that displays bright and sharp black lines.
+scientific_discipline: Physics > Optics

@@ -1,0 +1,10 @@
+article_id: rspa_1961_0202
+revised_title: Covariant Analysis of Outgoing Radiation Fields in General Relativity
+semantic_tags:
+  - Gravitational Waves
+  - General Relativity
+  - Outgoing Radiation Condition
+  - Riemann Tensor
+  - Petrov Classification
+tldr: The authors propose a covariant outgoing radiation condition for gravitational fields in general relativity. They analyze the Riemann tensor and its algebraic and differential properties to relate the absence of incoming radiation to the asymptotic behavior of the tensor. This condition helps to identify fields that are algebraically special in the Petrov classification and provides a criterion for outgoing radiation fields.
+scientific_discipline: Physics > General Relativity

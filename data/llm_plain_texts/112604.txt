@@ -1,0 +1,10 @@
+article_id: 112604
+revised_title: 'Solving the Motion of a Rigid Body and its Relation to the Ellipsoidal Top'
+semantic_tags:
+  - Rigid body dynamics
+  - Ellipsoidal top
+  - Kinematics
+  - Euler's equations
+  - Poinsot's central ellipsoid
+tldr: The author presents a method to represent the motion of a free rotating rigid body in both space and time using Poinsot's central ellipsoid. The author also demonstrates a dynamic relationship between the free rotating body and the ellipsoidal top, showing that their velocities remain in a constant ratio throughout the motion. Additionally, the author discusses the existence of two related disks that can be used to represent the motion of a free rotating body, reducing the distinction between the two comprehensive cases of the motion of a free rotating body.
+scientific_discipline: Physics > Mechanics

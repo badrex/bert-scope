@@ -1,0 +1,10 @@
+article_id: 108600
+revised_title: A New Method for Solving the Three-Body Problem in Gravitational Theory
+semantic_tags:
+  - Celestial Mechanics
+  - Three-Body Problem
+  - Gravitational Theory
+  - Mathematical Physics
+  - Astronomy
+tldr: The author presents a new method for solving the three-body problem in gravitational theory, which involves determining the motion of three bodies mutually attracting according to the law of gravity. The method uses analysis to find the forms of expressions for the radius-vector, longitude, latitude, secular, and periodic inequalities, and is applicable to both lunar and planetary motions.
+scientific_discipline: Mathematics > Applied Mathematics

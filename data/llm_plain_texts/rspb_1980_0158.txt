@@ -1,0 +1,10 @@
+article_id: 'rspb_1980_0158'
+revised_title: 'Paracellular Water Flow in Leaky Epithelia: Solvent Drag of Large Solutes'
+semantic_tags:
+  - Epithelial transport
+  - Paracellular pathway
+  - Solvent drag
+  - Leakiness
+  - Osmotic gradients
+tldr: The authors conducted experiments on guinea-pig gall bladders to study the flow of matter across leaky epithelia. They found that large solutes, such as sucrose, inulin, and dextran, were dragged by water flow through the paracellular pathway. This indicates that more than 50% of the water flows paracellularly under normal physiological conditions. The findings challenge previous beliefs that water flow in leaky epithelia is minimal or non-existent.
+scientific_discipline: Biology and Life Sciences > Cell Biology and Physiology

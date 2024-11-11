@@ -1,0 +1,10 @@
+article_id: rspa_1970_0034
+revised_title: 'Model Systems for Photosynthesis: Energy Transfer and Light Harvesting Mechanisms'
+semantic_tags:
+  - Photosynthesis
+  - Energy transfer
+  - Light harvesting
+  - Chlorophyll
+  - Lecithin
+tldr: This article investigates model systems for photosynthesis, focusing on energy transfer and light harvesting mechanisms. The authors study absorption spectra, triplet states, and fluorescence properties of chlorophylls and pheophytins in lecithin solutions. They find that energy transfer between these molecules can be described by the Forster inductive resonance mechanism. The results provide insights into the self-quenching of fluorescence and triplet state formation, and the authors discuss the relevance of these models to photosystem II in photosynthesis.
+scientific_discipline: Biology and Life Sciences > Photosynthesis

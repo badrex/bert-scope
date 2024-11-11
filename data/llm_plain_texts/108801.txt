@@ -1,0 +1,10 @@
+article_id: 108801
+revised_title: Temperature Influence on Electric Conducting-Power of Thallium and Iron
+semantic_tags:
+  - Thermoelectricity
+  - Conductivity
+  - Thallium
+  - Iron
+  - Temperature effects
+tldr: The authors conducted experiments to understand the influence of temperature on the electric conducting-power of thallium and iron. They found that the conducting-power of both metals decreases with increasing temperature. The results showed that thallium and iron follow different patterns of conductivity, with thallium having a higher percentage decrement in conducting-power compared to iron.
+scientific_discipline: Physics > Thermoelectricity

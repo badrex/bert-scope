@@ -1,0 +1,10 @@
+article_id: 'rspa_1969_0166'
+revised_title: 'Nonlinear Wave Processes in Electrodynamics: A Review'
+semantic_tags:
+  - Nonlinear Electrodynamics
+  - Wave Propagation
+  - Nonlinear Dispersion
+  - Nonlinear Optics
+  - Electromagnetic Waves
+tldr: This article provides a review of the progress made in the study of nonlinear wave processes in electrodynamics. It discusses the effects of nonlinear properties in solid materials and the dispersion in guiding systems, which enable the realization of various nonlinear wave processes. The article classifies these processes into weak dispersion, special dispersion, strong dispersion, and active media, and highlights the specific characteristics and applications of each type.
+scientific_discipline: Physics > Electromagnetism

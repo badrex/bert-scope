@@ -1,0 +1,10 @@
+article_id: 'rspa_1934_0104'
+revised_title: 'Differential Titration of Mixed Strong and Weak Acids: A Method for Free HCl in Gastric Contents'
+semantic_tags:
+  - Acid Titration
+  - Amino Acid Estimation
+  - Gastric Contents Analysis
+  - Electrodialysis
+  - pH Titration
+tldr: The authors present a new method for estimating "free HCl" in acid mixtures, specifically in gastric contents. They compare and supersede existing methods with a titration in 90% acetone solution to successive end-points at pH 3.4 and 4.0 using p-benzenesulphonic acid-azo-a-naphthylamine as an indicator. This method is more accurate and simpler than previous methods.
+scientific_discipline: Chemistry > Analytical Chemistry

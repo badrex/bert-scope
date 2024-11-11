@@ -1,0 +1,10 @@
+article_id: rspa_1987_0019
+revised_title: Mechanics of Matrix Cracking in Brittle-Matrix Fiber-Reinforced Composites: Energy Balance and Fracture Criterion
+semantic_tags:
+  - Composite Materials
+  - Fracture Mechanics
+  - Matrix Cracking
+  - Energy Balance
+  - Brittle-Matrix Fiber-Reinforced Composites
+tldr: This article presents energy-balance calculations for a continuum model of matrix cracking in fiber-reinforced composites with a brittle matrix. The author shows how the crack boundary condition and the Griffith fracture criterion are valid for matrix cracking in composites. The article also describes an improved numerical method for solving a crack problem related to matrix cracking in brittle-matrix composites, providing accurate results on the relationship between cracking stress and the size of pre-existing defects.
+scientific_discipline: Engineering and Technology > Materials Science

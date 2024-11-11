@@ -1,0 +1,10 @@
+article_id: 'rspb_1983_0093'
+revised_title: 'A New Approach to Modeling Pharmacological Agonism'
+semantic_tags:
+  - Pharmacology
+  - Receptor theory
+  - Agonist action
+  - Bioassays
+  - Drug-receptor interactions
+tldr: The authors propose a new approach to modeling pharmacological agonism, focusing on the observation that agonist concentration-effect curves are commonly hyperbolic. They develop a general model that explicitly describes agonism with three parameters: an agonist-receptor dissociation constant, the total receptor concentration, and a parameter defining the transduction of the agonist-receptor complex into pharmacological effect. This model offers a more straightforward and chemically grounded understanding of agonist action, providing a foundation for future research in pharmacology.
+scientific_discipline: Chemistry > Pharmacology

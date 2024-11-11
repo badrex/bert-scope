@@ -1,0 +1,10 @@
+article_id: 111383
+revised_title: On the Use of Eliminants in Geometry and Algebra
+semantic_tags:
+  - Linear algebra
+  - Determinants
+  - Geometry
+  - Algebraic geometry
+  - Surfaces of the Second Degree
+tldr: The author, Francis Newman, advocates for the use of determinants, also known as eliminants, in algebra and geometry, particularly in the study of surfaces of the second degree. He demonstrates their utility in solving equations, analyzing geometric shapes, and understanding the properties of various surfaces.
+scientific_discipline: Mathematics > Linear algebra

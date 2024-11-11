@@ -1,0 +1,10 @@
+article_id: rspa_1985_0067
+revised_title: 'Simultaneous Diamagnetic and Paschen-Back Effects in In(I) Rydberg Series'
+semantic_tags:
+  - Atomic Physics
+  - Quantum Mechanics
+  - Diamagnetic Shifts
+  - Paschen-Back Effect
+  - Indium Spectroscopy
+tldr: The authors studied the magnetic structures in the Rydberg series of In(I) and discovered that both diamagnetic and Paschen-Back effects can occur simultaneously. They provided a quantitative description of this combination and discussed the implications for understanding the behavior of magnetic patterns in complex atomic systems.
+scientific_discipline: Physics > Atomic Physics

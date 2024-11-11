@@ -1,0 +1,10 @@
+article_id: rspa_1953_0064
+revised_title: Topological Framework for Estimating Precision in Spherical Measurements
+semantic_tags:
+  - Statistical Analysis
+  - Topology
+  - Error Theory
+  - Geometric Distribution
+  - Spherical Measurements
+tldr: The author develops a mathematical theory for estimating precision in spherical measurements, considering the topological framework of the surface of a sphere. This theory is useful for understanding vectors with large natural dispersions, such as remanent magnetism in rocks. The author also discusses the distribution of the sum of random unit vectors and its implications for estimating the direction and length of the resultant vector.
+scientific_discipline: Mathematics > Statistics

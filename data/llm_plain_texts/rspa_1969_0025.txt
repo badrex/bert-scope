@@ -1,0 +1,10 @@
+article_id: 'rspa_1969_0025'
+revised_title: 'The Extension of Hydroperoxide Chain Mechanism to Long-Chain Alkanes and High Temperatures in Autoxidation'
+semantic_tags:
+  - 'Autoxidation'
+  - 'Hydroperoxide Chain Mechanism'
+  - 'Long-Chain Alkanes'
+  - 'High Temperatures'
+  - 'Oxidation Products'
+tldr: The authors studied the liquid-phase oxidation of 2-methylhexadecane to understand how well the hydroperoxide chain mechanism describes the oxidation of high molecular weight alkanes and the changes in the mechanism due to increased temperature. They found that the attack on 2-methylhexadecane at various temperatures is selective, indicating that chain propagation occurs predominantly by the reaction of alkylperoxy radicals with alkane molecules followed by the addition of oxygen to the alkyl radicals. The results help predict the properties of a high-temperature antioxidant.
+scientific_discipline: Chemistry > Organic Chemistry

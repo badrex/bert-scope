@@ -1,0 +1,10 @@
+article_id: rspa_1984_0048
+revised_title: Stability Analysis of Laminar Boundary Layer in a Streamwise Corner
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Stability Analysis
+  - Asymptotic Analysis
+  - Corner Boundary Layer Problem
+tldr: This article investigates the stability of the laminar boundary layer in a streamwise corner, focusing on the blending boundary layer region where corner effects are significant. The authors derive uniformly valid approximations to solutions of the governing differential equations and analyze the stability of the mean corner flow velocity profile. The study provides insights into the behavior of the secondary flow and the critical layer in the blending boundary layer region.
+scientific_discipline: Physics > Fluid Dynamics

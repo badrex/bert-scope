@@ -1,0 +1,10 @@
+article_id: rspa_1966_0240
+revised_title: Gas-Liquid Chromatography for Determining Activity Coefficients and Second Virial Coefficients of Mixtures
+semantic_tags:
+  - Gas-liquid chromatography
+  - Activity coefficients
+  - Second virial coefficients
+  - Hydrocarbon solutes
+  - Thermodynamics
+tldr: The authors developed a new packed column gas-liquid chromatograph to study the thermodynamics of mixtures. They used this apparatus to measure activity coefficients and second virial coefficients of hydrocarbon solutes in various stationary liquids with different carrier gases. The results were compared with values obtained from other methods, showing satisfactory agreement. This research provides a better understanding of the behavior of mixtures in gas-liquid chromatography.
+scientific_discipline: Chemistry > Analytical Chemistry

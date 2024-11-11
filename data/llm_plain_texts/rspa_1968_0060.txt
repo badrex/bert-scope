@@ -1,0 +1,10 @@
+article_id: rspa_1968_0060
+revised_title: Quenching of Resonance Radiation of Metal Atoms: Results for Potassium, Rubidium, and Caesium
+semantic_tags:
+  - Spectroscopy
+  - Atomic physics
+  - Quenching cross sections
+  - Flame fluorescence
+  - Alkali metals
+tldr: This study investigates the quenching of resonance radiation of metal atoms, focusing on potassium, rubidium, and caesium. The flame fluorescence method is used to measure the fluorescence yield and quenching rates of these metals in various hydrogen-oxygen flames diluted with different gases. The cross sections for quenching are derived from these measurements, providing insights into the interaction between metal atoms and quenching species in flames.
+scientific_discipline: Physics > Atomic and Molecular Physics

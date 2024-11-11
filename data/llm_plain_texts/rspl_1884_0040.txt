@@ -1,0 +1,10 @@
+article_id: rspl_1884_0040
+revised_title: 'Observations on the Harmonics of a String Struck at One-Eighth of its Length'
+semantic_tags:
+  - String vibrations
+  - Musical acoustics
+  - Harmonics
+  - Piano mechanics
+  - Musical instrument design
+tldr: The author conducted experiments on a steel pianoforte wire to study the harmonics produced when struck at one-eighth of its length. They discovered that certain harmonics were still present even when the string was struck at specific nodes, challenging previous theories on the effect of striking place on harmonics. The findings contribute to the understanding of musical acoustics and piano mechanics.
+scientific_discipline: Physics > Acoustics

@@ -1,0 +1,10 @@
+article_id: 110960
+revised_title: Reabsorption of Mixed Gases in a Voltameter: Jacobi's Experiments
+semantic_tags:
+  - Electrochemistry
+  - Gas reabsorption
+  - Voltameter
+  - Decomposition of water
+  - Michael Faraday
+tldr: In a letter to Michael Faraday, M. H. Jacobi discovered that mixed gases produced from water decomposition in a voltaic cell gradually diminish and disappear when in contact with the fluid that created them. Jacobi hypothesized that this phenomenon occurs due to gases diffusing throughout the liquid and recombining on the platinum plates, ultimately converting back into water.
+scientific_discipline: Chemistry > Electrochemistry

@@ -1,0 +1,10 @@
+article_id: 110423
+revised_title: Influence of Direction, Latitude, and Barometric Conditions on Projectile Path
+semantic_tags:
+  - Ballistics
+  - Projectiles
+  - Atmospheric conditions
+  - Geographical coordinates
+  - Military science
+tldr: The author investigates the impact of the direction of projection relative to cardinal points, the latitude of the place, and the barometric conditions of the atmosphere on the path of a projectile. He believes that these factors can affect the trajectory of a projectile on Earth's surface.
+scientific_discipline: Physics > Ballistics

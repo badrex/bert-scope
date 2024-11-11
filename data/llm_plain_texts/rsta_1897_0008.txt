@@ -1,0 +1,10 @@
+article_id: rsta_1897_0008
+revised_title: 'Magnetic Stress and Deformation in Nickel: Experiments and Theoretical Analysis'
+semantic_tags:
+  - Magnetism
+  - Nickel properties
+  - Magnetic stress
+  - Magnetic deformation
+  - Experimental physics
+tldr: The authors conducted experiments to determine the relationship between magnetic stress and magnetic deformation in nickel. They found that the observed deformation in nickel is due to stresses that arise from the dependence of magnetization on strain. This research contributes to the understanding of the behavior of magnetic materials under stress and the development of magnetic devices.
+scientific_discipline: Physics > Materials Science

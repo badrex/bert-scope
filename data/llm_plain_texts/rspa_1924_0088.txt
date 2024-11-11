@@ -1,0 +1,10 @@
+article_id: rspa_1924_0088
+revised_title: 'The Principle of Detailed Balancing in Statistical Equilibrium'
+semantic_tags:
+  - Statistical Mechanics
+  - Thermodynamics
+  - Quantum Mechanics
+  - Atomic Physics
+  - Particle Physics
+tldr: The author presents the principle of detailed balancing for atomic encounters in statistical equilibrium, which states that every kind of encounter must occur with the same frequency as its reverse encounter. This principle is applied to various processes, such as ionization by absorption of radiation, scattering of radiation by free electrons, and absorption and emission of radiation by atoms.
+scientific_discipline: Physics > Statistical Mechanics

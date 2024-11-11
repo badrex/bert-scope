@@ -1,0 +1,10 @@
+article_id: 103948
+revised_title: A Water-Level Apparatus for Accurate Sea Navigation
+semantic_tags:
+  - Navigation
+  - Marine technology
+  - Astronomy
+  - Horology
+  - Optics
+tldr: Charles Leigh presents a water-level apparatus that can be fixed to Davis's Quadrant to help navigators take accurate observations at sea, even in thick and hazy weather. The device relies on the principle that the surface of all liquids, when free from external causes and in communication with each other, will be in a horizontal plane. This innovation aims to prevent shipwrecks and loss of life due to inaccurate observations caused by obscured horizons.
+scientific_discipline: Engineering and Technology > Navigation

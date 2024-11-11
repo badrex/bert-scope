@@ -1,0 +1,10 @@
+article_id: rspl_1887_0082
+revised_title: Experiments on Discharge of Electricity Through Gases
+semantic_tags:
+  - Electrical Discharge
+  - Gas Discharge Physics
+  - Electrification
+  - Electromagnetic Fields
+  - Electrostatics
+tldr: The author conducted experiments to study the discharge of electricity through gases and the effects of electrification on surfaces. They discovered that a steady current of electricity can be obtained in air from electrodes at a low difference of potential when an independent current is maintained in the same closed vessel. This finding challenges the idea of a finite difference of potential between a gas and a metal in contact.
+scientific_discipline: Physics > Electromagnetism

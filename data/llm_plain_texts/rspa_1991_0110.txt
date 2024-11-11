@@ -1,0 +1,10 @@
+article_id: rspa_1991_0110
+revised_title: Elastic Fields in Joined Half-Spaces: A Simplified Approach to Nuclei of Strain
+semantic_tags:
+  - Elasticity Theory
+  - Stress Analysis
+  - Galerkin Vectors
+  - Nuclei of Strain
+  - Joined Half-Spaces
+tldr: The authors present a simplified method for obtaining the Galerkin vectors for 40 physically significant nuclei of strain in two joined elastic half-spaces. By using new expressions for the nuclei of strain, the complexity of the expressions for displacements and stresses is reduced, making it easier to apply and verify the results. The method is demonstrated with an example of a single force in the joined half-spaces.
+scientific_discipline: Engineering and Technology > Mechanics of Materials

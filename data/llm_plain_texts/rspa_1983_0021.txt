@@ -1,0 +1,10 @@
+article_id: rspa_1983_0021
+revised_title: Analytical Solution to Parallel Transport Equations in Kerr Geometry
+semantic_tags:
+  - Kerr geometry
+  - Parallel transport
+  - Tidal tensor
+  - Time-like geodesics
+  - Black holes
+scientific_discipline: Physics > General Relativity
+tldr: The article presents an analytical solution to the problem of constructing an orthonormal tetrad that is parallel-propagated along an arbitrary time-like geodesic in Kerr geometry. The authors calculate the components of the tidal tensor explicitly using the constructed tetrad, which can be useful for studying the behavior of a body moving in the Kerr space-time, particularly near a black hole.

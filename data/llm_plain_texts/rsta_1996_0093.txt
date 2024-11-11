@@ -1,0 +1,10 @@
+article_id: rsta_1996_0093
+revised_title: Triply Periodic Minimal Surfaces: Construction and Numerical Computation
+semantic_tags:
+  - Geometry
+  - Minimal surfaces
+  - Discrete mathematics
+  - Surface tension
+  - Topology
+tldr: This article discusses triply periodic minimal surfaces from a mathematical perspective, focusing on their construction and numerical computation. The authors introduce new concepts and techniques for creating new examples and discuss the properties of these surfaces, including their symmetry and embeddedness. They also present a wealth of old and new examples and suggest directions for further generalizations.
+scientific_discipline: Mathematics > Geometry

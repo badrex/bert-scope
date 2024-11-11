@@ -1,0 +1,10 @@
+article_id: rsta_1948_0013
+revised_title: The Sensitiveness of Explosives: Delay to Ignition and Its Temperature Coefficient
+semantic_tags:
+  - Explosives
+  - Ignition
+  - Temperature coefficient
+  - Heat sensitivity
+  - Initiation
+tldr: The author investigates the delay to ignition and its temperature coefficient in various explosives, such as lead azide, fulminate, and barium styphnate. They found that the delay to ignition can be expressed by an Arrhenius equation and that the heat sensitiveness of explosives depends on the activation energy of the physico-chemical process controlling it. The author also discovered that initiators like lead azide can be permanently sensitized by heat treatment or photochemical action, which affects their ignition times.
+scientific_discipline: Chemistry > Materials Science

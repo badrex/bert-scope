@@ -1,0 +1,10 @@
+article_id: 'rspa_1932_0071'
+revised_title: 'Mobility of Alkali Ions in Argon, Neon, and Helium: A Study of Ion Mobility'
+semantic_tags:
+  - Ion mobility
+  - Alkali ions
+  - Gas physics
+  - Gas ionization
+  - Electrometer current-frequency
+tldr: This study investigates the mobility of positive alkali ions in argon, neon, and helium gases using Kunsman sources. The authors found that the mobility of ions in argon closely follows the mass relation, while there is some deviation in neon and helium. The results demonstrate the sensitivity of the method in detecting traces of heavier alkalies and the profound effect of impurities on ion mobility.
+scientific_discipline: Physics > Gas Physics

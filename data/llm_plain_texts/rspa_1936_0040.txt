@@ -1,0 +1,10 @@
+article_id: rspa_1936_0040
+revised_title: 'The Effect of Concentration on the Mobility of Potassium on Tungsten'
+semantic_tags:
+  - Surface diffusion
+  - Adsorption
+  - Alkali metals
+  - Tungsten
+  - Activation energy
+tldr: 'The authors investigated the mobility of potassium films on tungsten surfaces and found that the diffusion coefficient increases with surface concentration. They attributed this increase to the mutual repulsion of adsorbed positive ions, which assists surface movement and equalizes surface concentration. The study provides insights into the behavior of alkali metals on inert metals and has implications for various applications, such as surface science and materials engineering.'
+scientific_discipline: Chemistry > Surface Chemistry

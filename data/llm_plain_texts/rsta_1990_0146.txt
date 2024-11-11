@@ -1,0 +1,10 @@
+article_id: rsta_1990_0146
+revised_title: Trace Analysis in Soils: Techniques and Challenges
+semantic_tags:
+  - Soil Chemistry
+  - Trace Elements
+  - Analytical Techniques
+  - Environmental Science
+  - Soil Pedogenesis
+tldr: This article discusses the importance of determining trace elements in soils for understanding plant growth and water chemistry. It explores various analytical techniques, such as flame AAS, furnace AAS, ICP-AES, ICP-MS, cold vapor AFS, hydride generation AAS, and ion chromatography, and their limitations. The article also highlights the role of optimization in trace analysis and the challenges of contamination in the working environment.
+scientific_discipline: Environmental and Earth Sciences > Soil Chemistry

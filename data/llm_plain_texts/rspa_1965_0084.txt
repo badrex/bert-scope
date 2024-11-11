@@ -1,0 +1,10 @@
+article_id: 'rspa_1965_0084'
+revised_title: 'A Discussion on Damage and Failure Mechanisms of Heavy-Section Steel Structures'
+semantic_tags:
+  - Structural Engineering
+  - Material Science
+  - Fatigue
+  - Creep
+  - Stress Corrosion
+scientific_discipline: Engineering and Technology > Structural Engineering
+tldr: This article discusses the various mechanisms of failure in heavy-section steel structures, including excessive plastic deformation, instability, creep, stress corrosion, fatigue, and brittle fracture. The author emphasizes the importance of understanding these failure modes and developing appropriate design methods to prevent them. The discussion also highlights the need for further research in areas such as fatigue, creep, and stress corrosion to improve the safety and reliability of steel structures.

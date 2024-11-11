@@ -1,0 +1,10 @@
+article_id: 'rspb_1911_0020'
+revised_title: 'Investigating Complement Deviation in Mouse Carcinoma'
+semantic_tags:
+  - Immunology
+  - Cancer Research
+  - Complement Fixation
+  - Tumor Immunology
+  - Mouse Models
+tldr: The authors conducted experiments to investigate the presence of antibodies in the blood plasma of mice with carcinoma. They used the method of complement fixation and found that the presence of complement in the serum of mice with tumors caused a deviation in the complement fixation test. This study provided insights into the immune response to malignant growths and the potential for further research in tumor immunology.
+scientific_discipline: Biology and Life Sciences > Immunology

@@ -1,0 +1,10 @@
+article_id: 'rspa_1993_0167'
+revised_title: 'Erratum: On the instability of flow in a streamwise corner'
+semantic_tags:
+  - Fluid Dynamics
+  - Stability Theory
+  - Boundary Layer
+  - Error Correction
+  - Mathematical Physics
+tldr: This article corrects errors in a previous paper on the instability of flow in a streamwise corner. The author clarifies the most unstable disturbance mode and the associated boundary conditions. The corrected paper provides a more accurate understanding of the flow instability and its stability characteristics.
+scientific_discipline: Mathematics > Applied Mathematics > Fluid Dynamics

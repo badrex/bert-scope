@@ -1,0 +1,10 @@
+article_id: 'rspl_1899_0110'
+revised_title: 'Investigating Hydrogen Density with Liquid Air Desiccation'
+semantic_tags:
+  - Gas Density
+  - Liquid Air
+  - Desiccation
+  - Phosphoric Anhydride
+  - Scientific Experimentation
+tldr: 'Lord Rayleigh conducted an experiment to determine the weight of hydrogen desiccated by liquid air, comparing it to the weight of hydrogen dried by phosphoric anhydride. The experiment aimed to test whether using liquid air as a cooling agent could introduce new impurities or errors in the measurement of gas density. The results showed no significant difference in the weights, indicating that liquid air desiccation is a viable method for measuring gas density.'
+scientific_discipline: Chemistry > Physical Chemistry

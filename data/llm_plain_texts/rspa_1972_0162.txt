@@ -1,0 +1,10 @@
+article_id: rspa_1972_0162
+revised_title: 'Experimental Study of Van Der Waals Dispersion Forces in the Range 1.5 to 130 NM'
+semantic_tags:
+  - Van Der Waals Forces
+  - Surface Physics
+  - Mica Surfaces
+  - Atomic and Molecular Forces
+  - Macroscopic Theory
+tldr: The authors conducted an experimental study of van der Waals dispersion forces between curved mica surfaces, measuring the forces in the range of 1.5 to 130 nanometers. They used two methods, the jump method and a dynamic method, to determine the forces and found a gradual transition between non-retarded and retarded forces as the separation increased. The study also explored the influence of adsorbed fatty acid monolayers on the van der Waals interaction between mica surfaces.
+scientific_discipline: Physics > Optics

@@ -1,0 +1,10 @@
+article_id: rspa_1948_0005
+revised_title: Relativistic Equations for Elementary Particles: A New Approach
+semantic_tags:
+  - Quantum Mechanics
+  - Relativity
+  - Particle Physics
+  - Lorentz Transformation
+  - Wave Equation
+tldr: The author presents a new approach to the wave equation of elementary particles, focusing on the relativistic invariance and the principle of decomposability. They introduce the concept of complete decomposition and show that the equation of motion for an elementary particle must be indecomposable. The author also discusses the two cases of singular and non-singular matrices and the additional assumptions made for the particle to be considered elementary.
+scientific_discipline: Physics > Particle Physics

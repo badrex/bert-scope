@@ -1,0 +1,10 @@
+article_id: rspa_1977_0086
+revised_title: Relativistic Axially Symmetric Flows of a Perfect Fluid: Stream Function and Angular Momentum
+semantic_tags:
+  - Relativity
+  - Fluid Dynamics
+  - Astrophysics
+  - General Relativity
+  - Hydrodynamics
+tldr: The article discusses axially symmetric stationary relativistic flows of a perfect fluid with a general density-pressure relation. It shows that the meridional components of velocity can be derived from a stream-function, and the trajectories of fluid particles are spirals wound around torus-shaped surfaces. The relativistic angular-momentum-density is conserved only in a fluid where the velocity of sound equals the velocity of light. The total angular momentum and energy of a spherical vortex in such a fluid are evaluated.
+scientific_discipline: Physics > Astrophysics

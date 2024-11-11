@@ -1,0 +1,10 @@
+article_id: rsta_1955_0006
+revised_title: Development of an Improved Bomb Calorimeter for Accurate Heat Measurements
+semantic_tags:
+  - Calorimetry
+  - Heat transfer
+  - Temperature control
+  - Thermodynamics
+  - Energy measurement
+tldr: The authors describe the development of an electrically calibrated bomb calorimeter with improved design and modifications to enhance accuracy in measuring heat of combustion. They discuss the theory, design, and results of their experiments, focusing on controlling stray heat, heat transfer, and heat of stirring. This calorimeter allows for precise measurements of heat, which is essential for determining the heats of formation of chemicals and understanding the equilibrium of chemical reactions.
+scientific_discipline: Physics > Thermodynamics

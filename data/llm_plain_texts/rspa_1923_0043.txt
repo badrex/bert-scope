@@ -1,0 +1,10 @@
+article_id: rspa_1923_0043
+revised_title: 'Investigating the Nature of Atmospherics and Their Effects on Radio Waves'
+semantic_tags:
+  - Electromagnetic waves
+  - Radio interference
+  - Atmospheric electricity
+  - Radio communication
+  - Oscillograph
+tldr: The authors conducted experiments to determine the intensity and duration of naturally occurring electric waves called atmospherics. They used a cathode-ray oscillograph to record the electric field changes and found that increasing the resistance in the aerial system made it either critically damped or slightly aperiodic. This allowed them to obtain a faithful record of the "wave-form" of the atmospheric and register the rate of change of the electric field. The research provided valuable information for radiotelegraphists and meteorologists studying the effects of atmospherics on radio communication and thunderstorm areas.
+scientific_discipline: Physics > Electromagnetic Waves

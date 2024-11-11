@@ -1,0 +1,10 @@
+article_id: rspa_1982_0084
+revised_title: Quantum Theory and the Equivalence Principle Revisited
+semantic_tags:
+  - Quantum Gravity
+  - Equivalence Principle
+  - Gravitational Coupling
+  - Semiclassical Gravity
+  - Consistency Conditions
+tldr: The authors examine the principle of equivalence in a quantum context, exploring the relationship between quantum field theory and gravity. They argue that a consistent theory of gravity coupled to matter, based on an action principle, is only possible if the gravitational coupling is universal. The authors demonstrate this through a set of consistency conditions connecting successive orders of the gravitational perturbation expansion.
+scientific_discipline: Physics > Quantum Gravity

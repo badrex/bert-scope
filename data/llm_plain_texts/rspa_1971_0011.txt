@@ -1,0 +1,10 @@
+article_id: rspa_1971_0011
+revised_title: 'Multiple Scatter Scintillation of Extended Radio Sources: Theory and Applications'
+semantic_tags:
+  - Radio Astronomy
+  - Scintillation
+  - Electromagnetic Waves
+  - Multiple Scatter
+  - Radio Source
+tldr: This article explores the scintillation of extended radio sources when the receiver has a finite bandwidth, focusing on multiple scatter. The authors develop a theory to deal with this case, providing valuable information about the interplanetary medium and interstellar space, which is essential for understanding radio astronomy and pulsar signal fluctuations.
+scientific_discipline: Physics > Electromagnetism

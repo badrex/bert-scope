@@ -1,0 +1,10 @@
+article_id: 'rspb_1993_0131'
+revised_title: 'Frequency-Dependent Selection and the Evolution of Sex'
+semantic_tags:
+  - Evolutionary Biology
+  - Sexual Reproduction
+  - Frequency-Dependent Selection
+  - Asexual Reproduction
+  - Beneficial Mutations
+tldr: This article presents a mathematical model that suggests sexual reproduction offers advantages over asexual reproduction when beneficial mutations arise in a population undergoing frequency-dependent selection. In sexual populations, beneficial mutations are less likely to be lost due to genetic drift, allowing for better adaptation and evolution.
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

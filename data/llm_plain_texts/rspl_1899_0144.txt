@@ -1,0 +1,10 @@
+article_id: rspl_1899_0144
+revised_title: Electrical Conductivity in Gases Traversed by Cathode Rays
+semantic_tags:
+  - Plasma physics
+  - Gas discharge
+  - Cathode rays
+  - Ionization
+  - Conductivity
+tldr: This paper investigates the nature of conductivity produced in different gases when cathode rays pass through them. The author, J. J. Thomson, found that gases become conductive when traversed by cathode rays, due to the production of positive and negative ions. Laws connecting the absorption of cathode rays with the number of ions produced in the gases are developed.
+scientific_discipline: Physics > Plasma Physics

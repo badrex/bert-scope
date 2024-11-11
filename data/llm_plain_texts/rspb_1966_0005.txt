@@ -1,0 +1,10 @@
+article_id: 'rspb_1966_0005'
+revised_title: 'Stereochemistry of Phytoene Biosynthesis'
+semantic_tags:
+  - Carotenoid biosynthesis
+  - Stereochemistry
+  - Mevalonic acid
+  - Squalene
+  - Terpenoids
+tldr: The authors conducted experiments using carrot root preparations to study the stereochemistry of phytoene biosynthesis. They found that all the eliminations of hydrogen at C-4 of mevalonic acid during its conversion into phytoene have the same stereospecificity, with the 4-R hydrogen being retained and the 4$ hydrogen being eliminated. This result also confirmed that the biosynthesis of squalene follows the same stereospecific pattern as in animals.
+scientific_discipline: Biology and Life Sciences > Biochemistry

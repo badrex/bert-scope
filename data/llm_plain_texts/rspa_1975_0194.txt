@@ -1,0 +1,10 @@
+article_id: rspa_1975_0194
+revised_title: 'Nonlinear Behavior of Finite Amplitude Electron Plasma Waves: Electron Trapping Effects'
+semantic_tags:
+  - Plasma physics
+  - Nonlinear dynamics
+  - Electron trapping
+  - Landau damping
+  - Plasma waves
+tldr: This article investigates the nonlinear behavior of finite amplitude electron plasma waves, focusing on electron trapping effects. The authors compare the spatial evolution of a stable, finite amplitude wave with theory and find that trapped particles play a crucial role in the development of instabilities. The study provides insight into the development of strong turbulence in high-temperature plasmas found in astrophysics and fusion devices.
+scientific_discipline: Physics > Plasma Physics

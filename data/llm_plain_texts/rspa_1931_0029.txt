@@ -1,0 +1,10 @@
+article_id: rspa_1931_0029
+revised_title: 'The Uncertainty Principle and Electrometers'
+semantic_tags:
+  - Quantum Mechanics
+  - Uncertainty Principle
+  - Electrometers
+  - Stark Effect
+  - Quantum Dynamics
+tldr: The author demonstrates how the uncertainty principle affects the precision of an electrometer, a device used to measure electric charges. By considering the electron's position and momentum, the author shows that it is impossible to know both accurately, leading to limitations in the electrometer's ability to measure electric charges. This highlights the importance of the uncertainty principle in quantum mechanics.
+scientific_discipline: Physics > Quantum Mechanics

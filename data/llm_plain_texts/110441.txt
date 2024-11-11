@@ -1,0 +1,10 @@
+article_id: '110441'
+revised_title: 'Faraday's Research on Electricity and Electromagnets'
+semantic_tags:
+  - Electromagnetism
+  - Electricity
+  - Electromotor
+  - Electromagnetic Induction
+  - Electro-Magnetic Machines
+tldr: 'Michael Faraday conducted experiments on electricity and discovered that a powerful electric current can be generated when a conductor, such as a long wire, is broken. He also found that this effect is enhanced when the wire is coiled into a helix or used as the helix of an electro-magnet. This discovery led to the development of electromagnets and electromagnetic machines.'
+scientific_discipline: Physics > Electromagnetism

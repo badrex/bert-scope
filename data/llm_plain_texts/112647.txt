@@ -1,0 +1,10 @@
+article_id: 112647
+revised_title: A New Method for Calculating the Statical Stability of Ships
+semantic_tags:
+  - Naval Architecture
+  - Ship Stability
+  - Fluid Mechanics
+  - Geometry
+  - Conic Sections
+tldr: The author presents a new method for calculating the statical stability of ships using conic sections. The method allows for a more efficient calculation of a ship's stability, taking into account the center of buoyancy and the metacentre. This new approach can be used by anyone with a basic understanding of simple equilibrium, either algebraically or geometrically.
+scientific_discipline: Engineering and Technology > Naval Architecture

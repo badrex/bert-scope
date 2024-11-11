@@ -1,0 +1,10 @@
+article_id: rspa_1954_0142
+revised_title: 'Study of Thallium Vapour Absorption and Auto-Ionization Phenomena'
+semantic_tags:
+  - Atomic physics
+  - Absorption spectroscopy
+  - Auto-ionization
+  - Thallium
+  - Quantum mechanics
+tldr: The authors conducted experiments to study the absorption of light by thallium vapour and observed auto-ionization phenomena. They measured the atomic cross-section at various wavelengths and found that the absorption cross-section at the series limit is the highest among the metallic cross-sections determined so far. The authors also discussed the probability of radiationless transitions, the effects of auto-ionization on the absorption lines, and the need for further experimental and theoretical studies to understand these transitions better.
+scientific_discipline: Physics > Atomic and Molecular Physics

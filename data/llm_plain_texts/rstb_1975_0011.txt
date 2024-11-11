@@ -1,0 +1,10 @@
+article_id: rstb_1975_0011
+revised_title: Surface Charge and Ion Interactions in Nerve Sodium Channels
+semantic_tags:
+  - Ion channels
+  - Surface charge
+  - Sodium channels
+  - Divalent ions
+  - Monovalent ions
+tldr: This article investigates the role of surface charge and interactions between divalent and monovalent ions in nerve sodium channels. The authors provide evidence for a high density of negative surface charge near sodium channels and analyze the effects of varying external variables, such as divalent ion concentration and type, monovalent concentration, and pH. The results are explained using a surface potential hypothesis, which considers the influence of available counterions on the surface potentials and their effects on the voltage dependence of sodium channel activation.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

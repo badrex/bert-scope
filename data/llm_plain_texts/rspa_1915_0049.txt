@@ -1,0 +1,10 @@
+article_id: rspa_1915_0049
+revised_title: 'Analysis of Longitudinal Stress in Cylinders Closed by Screw Plugs'
+semantic_tags:
+  - Mechanics
+  - Stress analysis
+  - Engineering
+  - Materials science
+  - Pressure vessels
+tldr: The authors investigate the stress distribution in cylinders closed by screw plugs under internal pressure. They find that the stress is not uniformly distributed and is greatest on the surface where the force is applied. The study provides a method to calculate the maximum stress on the screwed part of the cylinder, which is essential for designing safe and efficient pressure vessels.
+scientific_discipline: Engineering and Technology > Mechanics

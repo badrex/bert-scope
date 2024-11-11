@@ -1,0 +1,10 @@
+article_id: 111353
+revised_title: 'Symmetric Functions of Roots in Systems of Two Equations'
+semantic_tags:
+  - Algebra
+  - Symmetric Functions
+  - Linear Equations
+  - Ternary Equations
+  - Resultant
+tldr: The author, Arthur Cayley, explores the symmetric functions of roots in systems of two equations, specifically focusing on linear and ternary equations. He explains a process to determine the symmetric functions of these systems and applies it to two particular cases: a linear equation and a quadratic equation, and a linear equation and a cubic equation.
+scientific_discipline: Mathematics > Algebra

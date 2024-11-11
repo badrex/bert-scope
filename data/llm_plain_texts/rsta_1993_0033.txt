@@ -1,0 +1,10 @@
+article_id: rsta_1993_0033
+revised_title: 'Motion of Granular Avalanches in Convex and Concave Curved Chutes: Experiments and Theoretical Predictions'
+semantic_tags:
+  - Granular materials
+  - Avalanche mechanics
+  - Chute flow
+  - Friction
+  - Numerical integration
+tldr: This study investigates the motion of granular avalanches in curved chutes, focusing on the effects of a convex curved 'bump'. The authors conducted experiments with different granular materials and compared the results with theoretical predictions. They found excellent agreement between the two, demonstrating the effectiveness of the theoretical model in predicting the behavior of granular avalanches in complex chute geometries.
+scientific_discipline: Environmental and Earth Sciences > Geophysics and Geotechnics

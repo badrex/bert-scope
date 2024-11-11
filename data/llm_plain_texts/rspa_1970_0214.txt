@@ -1,0 +1,9 @@
+article_id: rspa_1970_0214
+revised_title: 'Interactions between Ce Ions in Crystal Lattices'
+semantic_tags:
+  - Crystallography
+  - Rare Earth Ions
+  - Spin Hamiltonian
+  - Lattice Distortion
+  - Superexchange
+tldr: The authors studied the interactions between pairs of Ce ions in crystal lattices using electron paramagnetic resonance (e.p.r.) spectroscopy. They found that the interactions are influenced by lattice distortion and the anions' properties in the crystal. The results demonstrate the importance of anions in interaction processes and show that the usual form of exchange Hamiltonian cannot explain the observed interactions.

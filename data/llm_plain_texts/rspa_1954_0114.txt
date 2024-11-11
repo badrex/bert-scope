@@ -1,0 +1,10 @@
+article_id: rspa_1954_0114
+revised_title: 'Decomposition of Solid Azides by Electron Bombardment: A Comparative Study'
+semantic_tags:
+  - Solid state chemistry
+  - Electron bombardment
+  - Azide decomposition
+  - Barium azide
+  - Sodium azide
+tldr: The authors investigated the decomposition of solid azides, specifically barium and sodium azide, by electron bombardment. They found that the decomposition rate is affected by the accelerating potential and the anode current. The results showed that the rate of nitrogen evolution increased with time, and the authors proposed a mechanism of decomposition that takes into account the differences between electron bombardment and ultra-violet irradiation.
+scientific_discipline: Chemistry > Solid state chemistry

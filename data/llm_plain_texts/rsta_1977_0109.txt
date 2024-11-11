@@ -1,0 +1,10 @@
+article_id: rsta_1977_0109
+revised_title: Infrared Absorption Spectra of Hydrogen-Bonded Species: The Kinematic and Electronic Coupling Mechanisms
+semantic_tags:
+  - Vibrational spectroscopy
+  - Hydrogen bonding
+  - Infrared absorption
+  - Anharmonic coupling
+  - Potential energy surface
+tldr: This article presents a theory of the broadening of infrared absorption spectra of hydrogen-bonded species, focusing on the kinematic and electronic coupling mechanisms. The authors develop an extended model to account for the effect of varying hydrogen bond length on the electron distribution of the XH molecule. They construct effective potential curves for the hydrogen bond vibration in the ground and first excited state, and discuss the implications of these findings on the structure of vibration-rotation bands and the infrared spectrum of hydrogen chloride (HCl) complexes.
+scientific_discipline: Chemistry > Spectroscopy

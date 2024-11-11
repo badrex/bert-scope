@@ -1,0 +1,10 @@
+article_id: rspl_1873_0015
+revised_title: Electrotorsion: A New Phenomenon in Iron Rods and Wires
+semantic_tags:
+  - Electromagnetism
+  - Torsion
+  - Electrotorsion
+  - Residuary Magnetism
+  - Iron
+tldr: This article describes a new phenomenon called electrotorsion, where iron rods and wires twist under the influence of electric currents. The author, George Gore, explains the conditions, apparatus, and methods required to produce this phenomenon. He also discusses the relationship between electrotorsion, magnetic effects, and sounds produced by electric currents. The phenomenon can be used as a test and measure of residual magnetism in iron.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rspa_1957_0031
+revised_title: 'Optical Method for Studying Diffraction from Imperfect Crystals'
+semantic_tags:
+  - Crystallography
+  - Diffraction
+  - Imperfect crystals
+  - Optical methods
+  - Gratings
+tldr: The authors developed an optical method to study the diffraction from imperfect crystals using two-dimensional gratings. They constructed a grating machine to create these gratings and observed the diffraction patterns using an optical diffractometer. This method can be used to determine the nature of diffraction from modulated structures, such as crystals with dislocations and stacking faults.
+scientific_discipline: Physics > Crystallography

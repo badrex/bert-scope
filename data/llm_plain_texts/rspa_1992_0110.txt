@@ -1,0 +1,10 @@
+article_id: rspa_1992_0110
+revised_title: Hydrodynamic Force on a Moving Circular Cylinder in a General Fluid Flow: A Revised Approach
+semantic_tags:
+  - Fluid Dynamics
+  - Hydrodynamics
+  - Offshore Engineering
+  - Wave Loading
+  - Circular Cylinder
+scientific_discipline: Engineering and Technology > Offshore Engineering
+tldr: This article develops an expression for the fluid loading on a circular cylinder due to classical inviscid, irrotational, and incompressible flow. The cylinder has an arbitrary rigid body movement, and the fluid has an arbitrary flow pattern. The result is intended to be used as the "inertia" force component of wave loading on the cylindrical members of offshore structures in Morison's Equation formulation. The article extends these results to allow for the cylinder to be moving, considering translation and rotation of the structure. The force per unit length acting on the cylinder is calculated using pressure integration and the velocity potential of the fluid flow.

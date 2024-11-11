@@ -1,0 +1,10 @@
+article_id: 109708
+revised_title: 'Correcting Atmospherical Refraction in Astronomical Observations'
+semantic_tags:
+  - Atmospheric Refraction
+  - Astronomy
+  - Observational Astronomy
+  - Transit Circle
+  - Refraction Correction
+tldr: 'S. Groombridge conducted a series of observations using a transit circle to determine the effects of atmospheric refraction on astronomical observations. He found that the current mean refraction values were too small and proposed a new value for mean refraction at 45 degrees. Groombridge also compared his results with other astronomers, such as Piazzi, and discussed the formulas used to correct for refraction at low altitudes.'
+scientific_discipline: Astronomy > Observational Astronomy

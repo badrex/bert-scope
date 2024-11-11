@@ -1,0 +1,10 @@
+article_id: 107270
+revised_title: Electrochemical Decomposition of Animal Fluids and Albumen
+semantic_tags:
+  - Electrochemistry
+  - Animal Chemistry
+  - Albumen
+  - Saliva
+  - Mucus
+tldr: The author, William Brande, conducted experiments to separate albumen and other components in animal fluids using electrochemical decomposition. He discovered that albumen can exist in states of combination that are not detected by usual tests but can be separated using electricity. This method was applied to saliva, mucus, and other animal fluids, revealing the presence of alkaline and acid matter.
+scientific_discipline: Chemistry > Electrochemistry

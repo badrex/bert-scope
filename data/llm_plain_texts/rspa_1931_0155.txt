@@ -1,0 +1,10 @@
+article_id: rspa_1931_0155
+revised_title: Analysis of Alpha-Particles Emitted from Thorium C and Actinium C
+semantic_tags:
+  - Nuclear Physics
+  - Radioactivity
+  - Alpha-Particles
+  - Thorium
+  - Actinium
+tldr: The authors conducted experiments to analyze the long-range alpha-particles emitted from thorium C and actinium C. They used an automatic counting method to study the alpha-particles' distribution and found that the groups of alpha-particles were complex. The ratio of the numbers of alpha-particles in the two groups was about 1 to 3, with the longer range being more numerous. The authors concluded that the emission of y-rays from radium C is connected to the appearance of these groups of long-range alpha-particles, suggesting that the energies of the individual alpha-particles in the groups represent the energies of possible alpha-particle levels in the excited nucleus.
+scientific_discipline: Physics > Nuclear Physics

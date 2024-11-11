@@ -1,0 +1,10 @@
+article_id: 'rspb_1931_0029'
+revised_title: 'Adsorption of Substances by Fuller's Earth: A Study of Mechanisms'
+semantic_tags:
+  - Adsorption
+  - Fuller's Earth
+  - Chemical Adsorption
+  - Displacement of Ions
+  - Surface Chemistry
+tldr: The authors studied the adsorption of various substances by fuller's earth and found that the mechanism of adsorption depends on the acidity of the solution. In more alkaline solutions, adsorption is a true apolar process, while in more acidic solutions, it proceeds mainly by the displacement of calcium ions from the fuller's earth. The study also suggests that the adsorption of oxalic acid is due to the formation of insoluble calcium oxalate at the surface.
+scientific_discipline: Chemistry > Surface Chemistry

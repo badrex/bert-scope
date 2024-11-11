@@ -1,0 +1,10 @@
+article_id: 'rspb_1975_0091'
+revised_title: 'Discovering the Troponin Binding Site on Tropomyosin'
+semantic_tags:
+  - 'Muscle Contraction'
+  - 'Tropomyosin Structure'
+  - 'Troponin-tropomyosin-actin System'
+  - 'Molecular Biology'
+  - 'Muscle Regulation'
+tldr: 'The authors used selective staining with methyl mercury to locate the position of the thiol groups in magnesium paracrystals of a-tropomyosin. This information established the absolute orientation of the tropomyosin molecules in the paracrystal, locating the troponin binding site approximately 14 nm from the carboxyl terminus of the molecule. This discovery helped to understand the regulatory process of muscle contraction in vertebrate skeletal muscles.'
+scientific_discipline: Biology and Life Sciences > Molecular Biology

@@ -1,0 +1,10 @@
+article_id: rspa_1943_0016
+revised_title: 'Continuous Absorption of Light in Potassium Vapour: A New Technique and Results'
+semantic_tags:
+  - Atomic absorption
+  - Potassium vapour
+  - Absorption coefficient
+  - Vaccum ultra-violet
+  - Exchange effects
+scientific_discipline: Physics > Atomic and Molecular Physics
+tldr: The authors developed a new technique to study the continuous absorption of light in potassium vapour, overcoming previous difficulties with measuring atomic and molecular absorption. They found that at short wavelengths, atomic absorption increases rapidly and varies linearly with frequency. The results, however, conflict with existing theory, suggesting that exchange effects may be at play in the absorption process.

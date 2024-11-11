@@ -1,0 +1,10 @@
+article_id: rspa_1960_0195
+revised_title: Variational Solution of Molecular Many-Electron Wave Equation using Gaussian Functions
+semantic_tags:
+  - Quantum Chemistry
+  - Molecular Physics
+  - Wave Equation
+  - Gaussian Functions
+  - Electronic Correlation
+tldr: The authors present a method for solving the molecular many-electron wave equation using Gaussian functions, which allows for direct electronic correlation. This approach provides a variational solution for molecular systems, improving upon previous methods.
+scientific_discipline: Chemistry > Quantum Chemistry

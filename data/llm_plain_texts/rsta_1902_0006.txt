@@ -1,0 +1,10 @@
+article_id: 'rsta_1902_0006'
+revised_title: 'Equilibrium Figure of a Rotating Mass of Liquid: Pear-Shaped Figure'
+semantic_tags:
+  - Fluid dynamics
+  - Celestial mechanics
+  - Ellipsoidal harmonics
+  - Rotating bodies
+  - Equilibrium
+tldr: The author investigates the pear-shaped figure of equilibrium of a rotating mass of liquid using ellipsoidal harmonics and mathematical methods. They find that the figure is determined by the moment of inertia and angular velocity of the liquid, and that the potential energy of the system is related to its kinetic energy. This study contributes to understanding the behavior of rotating fluids and celestial bodies.
+scientific_discipline: Physics > Fluid dynamics

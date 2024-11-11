@@ -1,0 +1,10 @@
+article_id: 103949
+revised_title: 'Improvement to Davis's Quadrant for Accurate Latitude Determination'
+semantic_tags:
+  - Navigation
+  - Astronomy
+  - Marine Instruments
+  - Latitude Determination
+  - Mercurial Level
+tldr: The author presents an improved version of Davis's quadrant, which uses a mercurial level to measure the altitude of the sun or stars at sea without relying on the visible horizon. This innovation allows for more accurate latitude determination, even in challenging conditions such as hazy weather or calm seas. The author shares details of the instrument's design and demonstrates its effectiveness through experiments at sea.
+scientific_discipline: Physics > Optics

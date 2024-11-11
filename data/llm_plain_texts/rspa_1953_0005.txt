@@ -1,0 +1,10 @@
+article_id: rspa_1953_0005
+revised_title: Generalization and Convergence of Approximations in Regular Mixtures Theory
+semantic_tags:
+  - Statistical mechanics
+  - Thermodynamics
+  - Lattice models
+  - Regular mixtures
+  - Quasi-chemical approximation
+tldr: The authors propose an alternative method of approximation for regular mixtures, which is equivalent to Kikuchi's approximation. They discuss the implications of this new approximation and analyze its convergence compared to the quasi-chemical approximation. The study focuses on lattice models and the thermodynamics of regular mixtures.
+scientific_discipline: Physics > Statistical Mechanics

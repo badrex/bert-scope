@@ -1,0 +1,10 @@
+article_id: rspa_1967_0191
+revised_title: 'Electrical Properties of Thin Insulating Films and their Memory Phenomena'
+semantic_tags:
+  - Thin film insulators
+  - Conduction processes
+  - Memory effects
+  - Ion injection
+  - Impedance states
+tldr: This article describes the electrical properties of thin insulating films formed by the electrolytic introduction of gold ions. The films exhibit temperature-independent conductivity, voltage-controlled negative resistance, and reversible voltage and thermal-voltage memory effects. The conduction process is explained by a model involving ion injection, impurity band conduction, and electron trapping. The memory effects allow the films to switch between different impedance states, making them useful for various applications.
+scientific_discipline: Physics > Materials Science

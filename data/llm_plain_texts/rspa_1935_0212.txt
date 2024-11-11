@@ -1,0 +1,10 @@
+article_id: rspa_1935_0212
+revised_title: Phase Equilibrium of Supraconductors in a Magnetic Field
+semantic_tags:
+  - Supraconductivity
+  - Phase transition
+  - Magnetic field
+  - Thermodynamics
+  - Stress tensor
+tldr: The authors explore the phase equilibrium of supraconductors in a magnetic field, focusing on the relationship between magnetic fields, current densities, and the two-phase hypothesis. They derive an exact equilibrium condition and discuss the behavior of supraconductors with small dimensions, providing insights into the energy and free energy changes during phase transformations.
+scientific_discipline: Physics > Electromagnetism

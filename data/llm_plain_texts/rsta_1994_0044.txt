@@ -1,0 +1,10 @@
+article_id: rsta_1994_0044
+revised_title: Oblique Waves Reflexion and Transmission at Shore Fast Sea Ice
+semantic_tags:
+  - Ocean Waves
+  - Sea Ice
+  - Ice-Coupled Waves
+  - Wave-ice Interaction
+  - Elastic Response
+scientific_discipline: Environmental and Earth Sciences > Oceanography
+tldr: This article presents a mathematical model that describes the oblique reflection and penetration of ocean waves into shore fast sea ice. The model allows for precise matching of velocity potentials in open water and ice-covered regions, enabling the calculation of reflection and transmission coefficients at the ice edge. The study also predicts a critical angle beyond which no traveling wave penetrates the ice sheet, and discusses the strain field set up within the ice sheet due to incoming waves.

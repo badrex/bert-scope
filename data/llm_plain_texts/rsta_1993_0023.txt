@@ -1,0 +1,10 @@
+article_id: rsta_1993_0023
+revised_title: Diamond as a Wear-Resistant Coating: Advancements in Thin Film Technology
+semantic_tags:
+  - Diamond coatings
+  - Wear resistance
+  - Chemical vapor deposition
+  - Tool materials
+  - Industrial applications
+tldr: This article discusses the development of thin film diamond coatings for wear-resistant applications. The low-pressure chemical vapor deposition (CVD) technique offers more flexibility, lower cost, and better performance compared to high-pressure methods. The potential applications of these coatings include cutting tools, anti-wear parts, and decorative surfaces. The article also compares in-situ CVD coating and bonding of freestanding diamond sheets, highlighting their advantages and limitations.
+scientific_discipline: Engineering and Technology > Materials Science

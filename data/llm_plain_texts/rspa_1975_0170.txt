@@ -1,0 +1,10 @@
+article_id: rspa_1975_0170
+revised_title: 'Inherently Non-Stoichiometric Germanium Niobium Oxide: A Block Structure Study'
+semantic_tags:
+  - Crystallography
+  - Inorganic Chemistry
+  - Defect Structures
+  - Non-Stoichiometry
+  - Oxide Materials
+tldr: The authors studied the structure of germanium niobium oxide, an inherently non-stoichiometric compound, using a combination of lattice imaging electron microscopy, neutron diffraction, and X-ray diffraction. They found that the anion lattice is essentially complete, and the cation excess is accommodated by inserting cations into octahedral sites in the square tunnels formed by the junctions between columnar elements of the structure. This model can be generalized to interpret the metal-excess composition ranges found for other niobium oxide structures.
+scientific_discipline: Chemistry > Inorganic Chemistry

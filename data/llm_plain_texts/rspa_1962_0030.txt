@@ -1,0 +1,10 @@
+article_id: rspa_1962_0030
+revised_title: The Effect of Linear Energy Transfer on Aqueous Solution Radiation Chemistry
+semantic_tags:
+  - Radiation chemistry
+  - Aqueous solutions
+  - Linear energy transfer
+  - Polonium alpha-particle tracks
+  - Chemical reactions
+tldr: The authors investigated the effect of changing linear energy transfer along a polonium alpha-particle track in aqueous solutions. They found that the number of hydroxyl radicals and molecular products varied as linear energy transfer increased. The study provides insights into the radiation chemistry of aqueous solutions and the reactions occurring along particle tracks.
+scientific_discipline: Chemistry > Radiation Chemistry

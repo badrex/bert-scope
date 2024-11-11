@@ -1,0 +1,10 @@
+article_id: rspa_1938_0007
+revised_title: 'Investigations of Temporal Variations in the Ionosphere'
+semantic_tags:
+  - Ionosphere
+  - Radio wave propagation
+  - Atmospheric science
+  - Geophysics
+  - Radio communication
+tldr: The authors conducted a series of experiments to study the temporal variations in the ionosphere using the Breit and Tuve pulse method. They observed that the threshold frequencies varied smoothly on some occasions, which they called "ionospherically quiet," while on other occasions, they varied rapidly and irregularly, termed "disturbed." The authors also investigated the effects of thunderstorms on the ionosphere and found that the number of ions of molecular mass was too small to be measured using their method.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

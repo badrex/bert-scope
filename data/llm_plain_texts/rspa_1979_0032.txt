@@ -1,0 +1,10 @@
+article_id: rspa_1979_0032
+revised_title: Crystal Chemistry of Metallic Phases with AlB2 and Related Structures
+semantic_tags:
+  - Crystallography
+  - Metallic phases
+  - AlB2 structure
+  - Hexagonal symmetry
+  - Intermetallic phases
+tldr: The article examines the crystal chemistry of metallic phases with the AlB2 structure, focusing on two groups of phases with different dependencies of the axial ratio on the radius ratio of component atoms. The study reveals that the M-N distances are an invariant feature of the structure, while the N-N distances depend on the Group of the Periodic Table, radius ratio, and atom diameter. This analysis helps explain the atomic arrangements found in the o0 phase and related structures.
+scientific_discipline: Chemistry > Crystallography

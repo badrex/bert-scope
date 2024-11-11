@@ -1,0 +1,10 @@
+article_id: 'rspa_1915_0022'
+revised_title: 'Temperature Refraction Coefficients of Optical Glass'
+semantic_tags:
+  - Refractive Index
+  - Optical Glass
+  - Temperature Coefficients
+  - Atmospheric Pressure
+  - Barometer Changes
+tldr: This article presents the temperature refraction coefficients of various types of optical glass and discusses the influence of atmospheric pressure on refractive index measurements. The authors find that the refractive index in air generally increases with temperature, except for a few special cases. They also note that changes in atmospheric pressure have a significant impact on the apparent refractive index.
+scientific_discipline: Physics > Optics

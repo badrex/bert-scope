@@ -1,0 +1,10 @@
+article_id: 'rstb_1987_0077'
+revised_title: 'Control over the Onset of DNA Synthesis in Fission Yeast'
+semantic_tags:
+  - Cell Cycle
+  - Fission Yeast
+  - DNA Replication
+  - Gene Functions
+  - Molecular Biology
+tldr: 'The article discusses the control over the onset of DNA synthesis in fission yeast, specifically focusing on the gene functions required for the cell to become committed to the mitotic cell cycle and initiate the processes leading to chromosome replication in S-phase. The cdc2 and cdclO gene functions are essential for the cell to traverse "start" and proceed from G1 into S-phase. The molecular functions of these genes have been investigated, with cdc2 being shown to be a protein kinase, suggesting that phosphorylation may play a role in controlling the transition from G1 to S-phase.'
+scientific_discipline: Biology and Life Sciences > Molecular Biology

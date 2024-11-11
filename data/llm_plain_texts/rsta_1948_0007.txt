@@ -1,0 +1,10 @@
+article_id: rsta_1948_0007
+revised_title: 'Magnetic Hysteresis Mechanism in Heterogeneous Alloys'
+semantic_tags:
+  - Magnetic Materials
+  - Ferromagnetism
+  - Hysteresis
+  - Alloy Science
+  - Domain Boundary Movement
+tldr: The authors propose a new mechanism for magnetic hysteresis in heterogeneous alloys, which can account for high coercivity values. This mechanism involves change of magnetization in single-domain particles through rotation of the magnetization vector. The character of the magnetization curves depends on the degree of magnetic anisotropy of the particle and the orientation of easy axes with respect to the field. The authors provide a detailed quantitative treatment of the effect of shape anisotropy in ellipsoids of revolution and a less detailed treatment for the general ellipsoidal form.
+scientific_discipline: Physics > Materials Science

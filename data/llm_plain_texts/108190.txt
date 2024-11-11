@@ -1,0 +1,10 @@
+article_id: 108190
+revised_title: 'Experimental Researches in Electricity: Eleventh Series and the Invention of the Differential Inductometer'
+semantic_tags:
+  - Electricity
+  - Electromagnetism
+  - Inductance
+  - Dielectrics
+  - Electrometers
+tldr: In this article, Michael Faraday describes his experimental research on specific inductive capacity and introduces the Differential Inductometer, a new instrument that can measure the differences in inductive capacity between materials. He demonstrates the device's sensitivity by using gold leaves as a test and discusses potential applications, such as examining gases and crystals.
+scientific_discipline: Physics > Electromagnetism

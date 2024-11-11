@@ -1,0 +1,10 @@
+article_id: 'rspb_1985_0093'
+revised_title: 'Effect of Methyl Viologen on Slow Secondary Fluorescence Kinetics in Photosynthetic Chloroplasts'
+semantic_tags:
+  - Photosynthesis
+  - Chloroplasts
+  - Methyl Viologen
+  - Fluorescence Kinetics
+  - Pseudocyclic Electron Transport
+tldr: The study investigates the effect of methyl viologen on slow secondary fluorescence kinetics in intact isolated chloroplasts performing photosynthetic carbon assimilation. Methyl viologen induces pronounced secondary kinetics in fluorescence, which are associated with the induction phase of O2 evolution. The research demonstrates that methyl viologen increases ATP production linked to pseudocyclic electron transport, adjusting ATP and NADPH production to meet the requirements of the reductive pentose phosphate pathway during induction.
+scientific_discipline: Biology and Life Sciences > Photosynthesis

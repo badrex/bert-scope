@@ -1,0 +1,10 @@
+article_id: rspa_1927_0161
+revised_title: 'A New Theory of Electric and Magnetic Birefringence in Liquids'
+semantic_tags:
+  - Electromagnetism
+  - Birefringence
+  - Molecular orientation
+  - Optical anisotropy
+  - Kerr effect
+tldr: The authors propose a new theory of electric and magnetic birefringence in liquids, revising the premises of the Langevin-Born theory. They consider the local polarization field acting on a molecule to be dependent on its orientation with respect to the external field, leading to a modification of the Kerr constant. This new theory explains the deviation of Langevin's theory from observation in the Kerr effect.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: 110307
+revised_title: 'Experimental Researches in Electricity: Induction and Magnetism'
+semantic_tags:
+  - Electromagnetism
+  - Electromagnetic induction
+  - Faraday's law
+  - Magnetism and electricity
+  - Voltaic electricity
+scientific_discipline: Physics > Electromagnetism
+tldr: In this paper, Faraday and Christie discuss their experimental research on electricity and magnetism. They discovered that voltaic electricity can induce momentary currents in a nearby wire, and that this effect can be increased when using iron. They also found that continuous action can be achieved by using a revolving copper disc near a magnet. This research showed that electricity can be produced by ordinary magnetism and has implications for the study of the connection between magnetism and electricity.

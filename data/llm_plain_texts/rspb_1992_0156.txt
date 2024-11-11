@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0156'
+revised_title: 'Ecological Concepts in Modeling the Immune Response to Malaria'
+semantic_tags:
+  - Malaria
+  - Immune response
+  - Parasite competition
+  - Host-parasite interactions
+  - Ecological modeling
+tldr: The author uses ecological concepts to model the immune response to malaria, focusing on the interactions between different parasite genotypes and the host's immune system. The study highlights the importance of considering short-term behavior and superinfections in understanding the development of immunity to malaria.
+scientific_discipline: Biology and Life Sciences > Ecology

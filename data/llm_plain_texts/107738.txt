@@ -1,0 +1,10 @@
+article_id: 107738
+revised_title: A New Floating Collimator for Accurate Telescope Alignment
+semantic_tags:
+  - Astronomy
+  - Telescope design
+  - Instrumentation
+  - Level and plumb line
+  - Refraction
+scientific_discipline: Physics > Optics
+tldr: The author, Henry Kater, describes a new floating collimator device to improve the accuracy of telescope alignment. The device uses a floating support with a telescope attached, which eliminates the need for a level and reduces errors from its use. This innovation allows for more precise observations and measurements in astronomy, especially when dealing with small instruments.

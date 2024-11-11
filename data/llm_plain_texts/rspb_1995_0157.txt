@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0157'
+revised_title: 'Discovery of Human Minisatellite Loci Composed of Interspersed GGA-GGT Triplet Repeats'
+semantic_tags:
+  - 'Genetics'
+  - 'DNA Fingerprinting'
+  - 'Human Genome'
+  - 'Polymorphism'
+  - 'Chromosome Mapping'
+tldr: 'The authors discovered two human loci composed of long arrays of interspersed GGA-GGT trinucleotide repeats, which display substantial length polymorphism. These loci may represent a transitional state between simple repeat loci and some minisatellites. The researchers mapped the loci to chromosomes 15 and 22 and found that alleles at these loci can contain thousands of repeats, greatly exceeding repeat copy number at most trinucleotide and other simple repeat loci.'
+scientific_discipline: 'Biology and Life Sciences > Genetics'

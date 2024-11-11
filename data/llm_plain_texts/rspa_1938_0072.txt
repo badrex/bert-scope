@@ -1,0 +1,10 @@
+article_id: rspa_1938_0072
+revised_title: 'Thermal Conductivity in Hydrogen-Deuterium Mixtures: A Study of Gas Decomposition and Apparatus Design'
+semantic_tags:
+  - Thermal conduction
+  - Gas mixtures
+  - Hydrogen-deuterium
+  - Gas decomposition
+  - Apparatus design
+tldr: This article presents a study on the thermal conductivity of hydrogen-deuterium gas mixtures. The author describes the design and use of an apparatus to prepare and analyze the mixtures, as well as the methods used to eliminate convective heat losses and account for temperature drops between the gas and solid surfaces. The results provide accurate data on thermal conduction in these mixtures, which can be applied to the analysis of gas mixtures using the thermal conductivity method.
+scientific_discipline: Physics > Thermodynamics

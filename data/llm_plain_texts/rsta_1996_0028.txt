@@ -1,0 +1,10 @@
+article_id: rsta_1996_0028
+revised_title: 'Nonlinear Materials for Advanced Optical Communications and Signal Processing'
+semantic_tags:
+  - Nonlinear Optics
+  - All-Optical Devices
+  - Nonlinear Materials
+  - Optical Communications
+  - Signal Processing
+tldr: This article discusses the state-of-the-art of nonlinear optical materials suitable for ultrafast all-optical applications. It covers progress in the third-order nonlinear properties of semiconductors, polymers, and glasses and their applications to devices. The article also explores a second-order nonlinearity-based approach called "cascading" for all-optical effects. The focus is on applications that involve manipulating signals, such as all-optical logic, routing functions, and wavelength shifting, which are essential for high bit rate communications.
+scientific_discipline: Physics > Optics

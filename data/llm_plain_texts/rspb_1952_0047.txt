@@ -1,0 +1,10 @@
+article_id: 'rspb_1952_0047'
+revised_title: 'Mechanisms of Nuclear Ratio Adjustment in Penicillium Heterokaryons'
+semantic_tags:
+  - Genetics
+  - Fungi
+  - Heterokaryons
+  - Nuclear division
+  - Gene expression
+tldr: The authors studied the mechanism of variation in Penicillium heterokaryons, which contain two or more types of nuclei. They discovered that the proportion of these nuclei varies according to the medium in which the heterokaryon grows. The researchers found that the adjustment of nuclear ratios and genetic balance occurs within the tip cells of the hyphae, where the two types of nuclei divide at different rates. This process is controlled by the cytoplasm, which affects the division rates and maintains a stable nuclear ratio.
+scientific_discipline: Biology and Life Sciences > Genetics

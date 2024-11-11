@@ -1,0 +1,11 @@
+article_id: rspl_1881_0103
+revised_title: On Definite Integrals and Manometric Observations in the Electric Arc
+semantic_tags:
+  - Calculus
+  - Integration
+  - Manometry
+  - Electric Arc
+  - Gas Pressure
+tldr: This article presents a method for solving certain definite integrals and discusses manometric observations in the electric arc. The author, W. H. L. Russell, develops a technique for integrating specific types of equations and shares his findings on the behavior of gas pressure in electric arcs, as observed by Professor Dewar.
+scientific_discipline: Mathematics > Calculus
+sub_discipline: Applied Mathematics > Dynamical Problems

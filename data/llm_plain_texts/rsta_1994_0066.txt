@@ -1,0 +1,10 @@
+article_id: rsta_1994_0066
+revised_title: Interest Rate Volatility and Term Structure Shape in Affine Yield Models
+semantic_tags:
+  - Finance
+  - Term Structure Models
+  - Interest Rate Volatility
+  - Affine Yield Class
+  - Duration
+tldr: This article explores a broad class of term structure models called the affine yield class, which includes the Cox-Ingersoll-Ross (CIR) model. It shows a simple relation between the shape of the forward rate curve, the sensitivity of the zero-coupon yield curve to the state variables, and the variance-covariance matrix of the state variables. The article also investigates the factor structure of yield curve movements and the sensitivity of the yield curve to factor shifts, providing insights into interest rate volatility and the term structure shape.
+scientific_discipline: Mathematics > Finance

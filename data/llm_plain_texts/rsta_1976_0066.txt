@@ -1,0 +1,10 @@
+article_id: rsta_1976_0066
+revised_title: Natural Strain and Geological Structure: Displacement and Strain Analysis
+semantic_tags:
+  - Geology
+  - Strain analysis
+  - Tectonics
+  - Rock deformation
+  - Finite strain measurement
+tldr: This article discusses the advancements in understanding and measuring finite strains in rocks deformed by natural tectonic processes. It reviews various techniques for measuring strain and evaluates the sequence of displacement and progressive strain in orogenic zones. The article also explores the integration of strain analysis with physical and computer modeling to better understand fold formation and deformation history.
+scientific_discipline: Earth Sciences > Geology

@@ -1,0 +1,10 @@
+article_id: 'rspa_1927_0058'
+revised_title: 'Capture of Electrons by Moving Electrified Particles: A Theoretical Analysis'
+semantic_tags:
+  - Particle physics
+  - Atomic physics
+  - Electrons
+  - Rutherford scattering
+  - Statistical mechanics
+tldr: The authors analyze the process of electron capture by moving electrified particles, considering two cases where the three-body collision can be broken down into two successive two-body collisions. They calculate the chance of electron capture and compare their results with experimental data, finding satisfactory agreement.
+scientific_discipline: Physics > Atomic and Particle Physics

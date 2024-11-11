@@ -1,0 +1,10 @@
+article_id: rspa_1964_0028
+revised_title: Cosmic Background Radio Signal Reception in the Ionosphere
+semantic_tags:
+  - Ionosphere
+  - Radio Astronomy
+  - Electromagnetic Waves
+  - Cosmic Microwave Background
+  - Anisotropic Medium
+tldr: The authors study the electric and magnetic fields within the ionosphere from a uniformly distributed cosmic background radio signal. They analyze the ray theory for an isotropic and anisotropic ionosphere, considering the effects of the earth's magnetic field on the radiation. The results provide insights into the behavior of electromagnetic waves in the ionosphere and their potential applications in radio astronomy.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rspa_1910_0084
+revised_title: 'Investigating the Anomalous Behavior of Delicate Balances and Improving Weighing Accuracy'
+semantic_tags:
+  - Balance technology
+  - Weighing accuracy
+  - Temperature effects
+  - Experimental physics
+  - Instrumentation
+tldr: This article investigates the causes of irregularities in delicate balances and provides methods to increase their accuracy. The authors discover that temperature fluctuations and the time needed for the balance to settle are significant factors affecting the resting-point. They recommend ways to minimize these effects, such as allowing the balance to fatigue for a certain period and surrounding the beam with an extra inner case to protect it from temperature variations.
+scientific_discipline: Physics > Experimental Physics

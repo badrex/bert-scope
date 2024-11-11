@@ -1,0 +1,10 @@
+article_id: rspa_1995_0130
+revised_title: Bargaining Strategies in Cooperative Games with Linearly Distributed Utility
+semantic_tags:
+  - Game Theory
+  - Cooperative Games
+  - Bargaining Theory
+  - Linear Utility Distribution
+  - Coalition Structures
+tldr: The author investigates bargaining strategies in n-person cooperative games with linearly distributed, transferable utility. They introduce the concept of a coalition-tree to describe coalition structures and propose a new approach to finding the optimal tree representing the chosen structure. The study focuses on linear distribution methods and provides solutions for 3-player games, while highlighting the complexity of 4-player games.
+scientific_discipline: Mathematics > Game Theory

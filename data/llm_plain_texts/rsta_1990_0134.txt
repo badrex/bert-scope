@@ -1,0 +1,10 @@
+article_id: rsta_1990_0134
+revised_title: Development of a Crossed Fizeau Interferometer for Spectral Analysis
+semantic_tags:
+  - Interferometry
+  - Spectroscopy
+  - Optical Spectrometry
+  - Two-dimensional interferometry
+  - Fizeau interferometer
+tldr: The authors developed a novel crossed Fizeau interferometer that provides high-resolution spectral analysis in a compact design. This new concept uses orthogonally mounted Fizeau interferometers to output data as two-dimensional images, allowing for quantification through image detection and processing. The device offers improved resolution and spectral range while being suitable for use in adverse environments.
+scientific_discipline: Engineering and Technology > Optics and Optical Instruments

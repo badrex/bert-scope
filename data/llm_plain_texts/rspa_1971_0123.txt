@@ -1,0 +1,10 @@
+article_id: rspa_1971_0123
+revised_title: Isotropic Radiation from Steadily Pulsating Multidimensional Distributions
+semantic_tags:
+  - Wave Theory
+  - Isotropic Radiation
+  - Multidimensional Analysis
+  - Homogeneous Media
+  - Oscillatory Systems
+tldr: The author investigates isotropic radiation from a steadily pulsating multidimensional distribution in a homogeneous medium. They derive a Green function and construct general exact solutions for arbitrary spatial distributions of the source function. Special cases, such as asymptotic, spherically symmetric, and axisymmetric solutions, are considered. The study has implications for magneto-fluid dynamics and elastic media.
+scientific_discipline: Physics > Wave Theory

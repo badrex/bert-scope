@@ -1,0 +1,10 @@
+article_id: rspa_1981_0027
+revised_title: 'Boltzmann Equation General Solution and Maxwellian Tails Formation'
+semantic_tags:
+  - Boltzmann equation
+  - Maxwellian distribution
+  - Nonlinear dynamics
+  - Gas dynamics
+  - Thermodynamics
+tldr: The authors present a formal derivation of the general solution to a classical Boltzmann equation, which describes the evolution of a gas towards a Maxwellian equilibrium state. They construct a countable ensemble of particular solutions called pure solutions and combine them to form the general solution. The study focuses on the relaxation of non-equilibrium distribution functions to Maxwellian form and the formation of the high-energy tail of the velocity distribution.
+scientific_discipline: Physics > Thermodynamics

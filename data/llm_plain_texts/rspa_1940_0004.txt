@@ -1,0 +1,10 @@
+article_id: rspa_1940_0004
+revised_title: 'Kinetics of the Thermal Decomposition of Fully Deuterated Diethyl Ether'
+semantic_tags:
+  - Chemical kinetics
+  - Thermal decomposition
+  - Deuterium compounds
+  - Chain reactions
+  - Activation energy
+scientific_discipline: Chemistry > Chemical kinetics
+tldr: This article investigates the thermal decomposition of fully deuterated diethyl ether and its reaction kinetics. The authors found that the presence of deuterium slows down some stages of the chain process more than it does the molecular reaction. The study also shows that the activation energy for the deuterium compound is higher than that for the hydrogen compound, indicating that the decomposition probability of the activated deuterium compound is somewhat greater than that of the hydrogen compound.

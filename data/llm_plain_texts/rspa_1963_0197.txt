@@ -1,0 +1,10 @@
+article_id: rspa_1963_0197
+revised_title: 'Investigation of Sensitized <italic>P</italic>-type Delayed Fluorescence Mechanisms'
+semantic_tags:
+  - Delayed Fluorescence
+  - Sensitization
+  - Triplet Energy Transfer
+  - Anthracene
+  - Naphthacene
+tldr: The authors study the mechanisms of sensitized <italic>P</italic>-type delayed fluorescence, focusing on the interaction between anthracene and naphthacene. They propose two mechanisms for this process, both involving triplet energy transfer. The authors provide experimental evidence supporting the mixed triplet quenching mechanism, which leads to the emission of delayed fluorescence. This research contributes to the understanding of the underlying processes in delayed fluorescence and the potential applications in various fields.
+scientific_discipline: Chemistry > Spectroscopy and Photophysics

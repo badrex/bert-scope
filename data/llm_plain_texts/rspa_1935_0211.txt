@@ -1,0 +1,10 @@
+article_id: rspa_1935_0211
+revised_title: Relativistic Self-Consistent Field in Atomic Systems
+semantic_tags:
+  - Quantum Mechanics
+  - Relativity
+  - Atomic Physics
+  - Wave Functions
+  - Self-Consistent Field
+tldr: The authors present a method to extend the self-consistent field theory to include both relativistic effects and exchange interactions in atomic systems. They derive the relativistic self-consistent field equations and demonstrate their application by deriving the equations for two types of wave functions for copper.
+scientific_discipline: Physics > Quantum Mechanics

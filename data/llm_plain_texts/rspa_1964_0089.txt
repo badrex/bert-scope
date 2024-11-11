@@ -1,0 +1,10 @@
+article_id: rspa_1964_0089
+revised_title: 'Electron Microscopic Observation of Single Polymer Molecules and Molecular Weight Determination'
+semantic_tags:
+  - Polymer Science
+  - Electron Microscopy
+  - Molecular Weight Determination
+  - Polymer Solutions
+  - Polymer Morphology
+tldr: The authors describe an electron microscopy technique to observe single polymer molecules and determine their molecular weight. They investigate the conditions needed to produce tightly coiled spheres of amorphous polymers, which are suitable for quantitative analysis. This method provides a valuable alternative for determining molecular weights and their distribution in high molecular weight polymers, where conventional methods are unreliable.
+scientific_discipline: Chemistry > Polymer Science

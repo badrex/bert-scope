@@ -1,0 +1,10 @@
+article_id: rsta_1952_0018
+revised_title: Electronic Wave Functions: Theorems for Evaluating Schrödinger Integrals
+semantic_tags:
+  - Quantum Mechanics
+  - Schrödinger Equation
+  - Wave Functions
+  - Vector-Coupled Functions
+  - Atomic Physics
+tldr: The authors present theorems that simplify the evaluation of Schrödinger integrals for vector-coupled functions, reducing the labor of calculation and providing alternative methods for evaluating two-electron integrals. These methods are useful in convergent variational calculations of atomic wave functions and applicable to various problems requiring the evaluation of Schrödinger integrals.
+scientific_discipline: Physics > Quantum Mechanics

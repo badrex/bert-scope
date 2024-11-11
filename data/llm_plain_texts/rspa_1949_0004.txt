@@ -1,0 +1,10 @@
+article_id: rspa_1949_0004
+revised_title: Large Elastic Deformations of Isotropic Materials: The Problem of Flexure
+semantic_tags:
+  - Elasticity
+  - Large deformations
+  - Incompressible materials
+  - Stress-strain relations
+  - Cylindrical flexure
+tldr: The article discusses the problem of flexure for a cuboid of highly elastic, incompressible material. The stored-energy function is considered to be a function of strain invariants, and the method is employed to calculate the surface tractions required to maintain the state of flexure. The conditions for vanishing tractions on the curved surfaces and the resultants of the surface tractions applied to the remaining boundary surfaces are found. Finally, the stress components are determined for a general stored-energy function.
+scientific_discipline: Engineering and Technology > Materials Science

@@ -1,0 +1,10 @@
+article_id: rspa_1935_0043
+revised_title: 'Internal Conversion of Beta-Rays and Production of Electrons and Positrons'
+semantic_tags:
+  - Nuclear Physics
+  - Particle Physics
+  - Quantum Mechanics
+  - Electrons
+  - Positrons
+tldr: The authors explore the process of internal conversion of beta-rays, where a beta-ray emitted from a radioactive atom's nucleus can be absorbed by an outer electron, resulting in the production of an electron and a positron. They provide a rigorous calculation of the matrix elements involved and discuss the experimental data related to this phenomenon.
+scientific_discipline: Physics > Nuclear Physics

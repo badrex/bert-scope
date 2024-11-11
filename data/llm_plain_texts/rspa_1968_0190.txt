@@ -1,0 +1,10 @@
+article_id: rspa_1968_0190
+revised_title: Hydrogen-Oxygen Diffusion Flame Structure
+semantic_tags:
+  - Combustion
+  - Diffusion flames
+  - Hydrogen-oxygen reactions
+  - Kinetics
+  - Flame structure
+tldr: This article investigates the structure of a hydrogen-oxygen diffusion flame using a simplified scheme of four chemical reactions. The flame is assumed to form behind a body of parabolic meridian profile with a downstream-pointing vertex, separating oxygen and hydrogen streams. The results show that the thin-sheet model is a consequence of the large equilibrium constant for the dissociation-recombination reaction of hydrogen. The method of matched asymptotic expansions is used to analyze the flame structure, providing insights into the concentration of the hydroxyl radical in the hot zone.
+scientific_discipline: Chemistry > Combustion

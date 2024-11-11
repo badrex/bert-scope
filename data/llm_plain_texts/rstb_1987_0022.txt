@@ -1,0 +1,9 @@
+article_id: 'rstb_1987_0022'
+revised_title: 'Advancements in Immunosenors: Techniques and Applications'
+semantic_tags:
+  - Biosensors
+  - Immunosenors
+  - Enzyme Immunoassay
+  - Fluoroimmunoassay
+  - Chemical Amplification
+tldr: This article discusses the development and applications of immunosensors, which use biomolecules for high selectivity and electronic devices for signal transduction. It covers various types of immunosensors, including non-labeled and labeled, and their applications in fields such as syphilis detection, blood typing, and human chorionic gonadotropin (hCG) detection. The article also highlights the potential of enzyme immunosensors and bioaffinity sensors in detecting trace amounts of substances like alpha-fetoprotein (AFP) and ochratoxin A (OTA).

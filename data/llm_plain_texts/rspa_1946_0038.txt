@@ -1,0 +1,10 @@
+article_id: rspa_1946_0038
+revised_title: Overcoming the Divergence Difficulty in Quantized Field Theories
+semantic_tags:
+  - Quantum Field Theory
+  - Radiation Reaction
+  - Secular Perturbation Theory
+  - Elementary Particles
+  - Interaction of Fields
+tldr: The authors address the divergence difficulty in quantized field theories and propose a rigorous treatment of radiation reaction using secular perturbation theory. They explain the interaction of elementary particles through quantized fields and demonstrate how to calculate cross-sections for particle collisions, leading to a better understanding of the behavior of particles in these theories.
+scientific_discipline: Physics > Quantum Mechanics

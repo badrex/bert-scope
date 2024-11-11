@@ -1,0 +1,10 @@
+article_id: rspa_1927_0039
+revised_title: Quantum Theory of Emission and Absorption of Radiation
+semantic_tags:
+  - Quantum mechanics
+  - Electromagnetic radiation
+  - Atomic physics
+  - Light-quantum interaction
+  - Quantum electrodynamics
+tldr: The authors Dirac and Bohr develop a new quantum theory for the interaction of atoms and electromagnetic waves. They show that this theory correctly explains the emission and absorption of radiation, and they demonstrate a harmony between the light-quantum and wave descriptions of the interaction. The mathematical development of the theory is based on the authors' general transformation theory of quantum mechanics.
+scientific_discipline: Physics > Atomic and Quantum Physics

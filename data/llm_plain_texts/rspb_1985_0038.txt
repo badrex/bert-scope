@@ -1,0 +1,10 @@
+article_id: 'rspb_1985_0038'
+revised_title: 'Glutamate and GABA Receptor Channels in Cultured Cerebellar Neurons'
+semantic_tags:
+  - Neuroscience
+  - Glutamate receptors
+  - GABA receptors
+  - Ion channels
+  - Cerebellar neurons
+tldr: This study investigates the properties of glutamate and GABA receptor channels in cultured cerebellar neurons of rats. The researchers found evidence for at least two types of glutamate receptor-channels in these cells. They also discovered that GABA channel noise could be fitted by two component spectra, indicating the presence of different types of channels. These findings contribute to the understanding of neurotransmitters and their role in the central nervous system.
+scientific_discipline: Biology and Life Sciences > Neuroscience

@@ -1,0 +1,10 @@
+article_id: 108031
+revised_title: 'Researches in the Integral Calculus: Part I'
+semantic_tags:
+  - Integral Calculus
+  - Elliptic Integrals
+  - Abel's Theorem
+  - Legendre's Work
+  - Mathematical Analysis
+tldr: The author, H. F. Talbot, explores the integral calculus and its applications, focusing on elliptic integrals and the work of mathematicians such as Euler, Abel, and Legendre. The text also discusses the development of mathematical analysis and its impact on the understanding of integrals and their applications.
+scientific_discipline: Mathematics > Analysis

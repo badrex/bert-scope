@@ -1,0 +1,10 @@
+article_id: rsta_1936_0011
+revised_title: Advances in Atomic Weight Determination Using the Microbalance
+semantic_tags:
+  - Atomic weight
+  - Microbalance
+  - Gas properties
+  - Molecular weight
+  - Compressibility
+scientific_discipline: Chemistry > Atomic and Molecular Physics
+tldr: The authors developed an improved microbalance technique to determine atomic weights, focusing on carbon, nitrogen, and fluorine. They used the method of limiting pressures, which involves measuring the pressures of two gases at which they have equal densities. This technique allows for more accurate determination of atomic weights and molecular properties, such as compressibility. The authors' advancements in the microbalance method have contributed to a better understanding of atomic weights and the behavior of gases.

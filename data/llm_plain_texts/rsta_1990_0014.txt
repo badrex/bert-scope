@@ -1,0 +1,10 @@
+article_id: 'rsta_1990_0014'
+revised_title: 'Organometallic Ferromagnets: Exploring Ferromagnetic Coupling in Molecular Solids'
+semantic_tags:
+  - Ferromagnetism
+  - Organometallic chemistry
+  - Molecular electronics
+  - Magnetic properties
+  - Charge transfer
+tldr: This article discusses the development of organometallic ferromagnets, which are materials that exhibit ferromagnetic behavior due to the alignment of their spins. The author describes a mechanism called configuration mixing, which involves the interaction of a high-spin excited state to stabilize ferromagnetic coupling. This mechanism is applied to various electron configurations, leading to the identification of configurations that stabilize ferromagnetic coupling for specific directions of charge transfer. The article also presents experimental evidence of ferromagnetic behavior in molecular compounds, such as decamethylferrocenium tetracyanoethylenide (TCNE), and discusses the magnetic properties of these materials.
+scientific_discipline: Chemistry > Organometallic Chemistry

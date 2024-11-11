@@ -1,0 +1,10 @@
+article_id: 108506
+revised_title: 'Thermal Effects of Fluids in Motion: Part II'
+semantic_tags:
+  - Fluid dynamics
+  - Thermodynamics
+  - Heat transfer
+  - Porous materials
+  - Temperature measurement
+tldr: This article explores the thermal effects of fluids in motion, focusing on the role of porous materials in heat transfer. The authors describe their experiments with a boxwood nozzle and a plug of cotton wool to study the cooling effects of fluids at low pressures. They discuss the various factors affecting temperature fluctuations and propose a mathematical model to explain the convective effects of heat transfer through porous materials.
+scientific_discipline: Physics > Fluid dynamics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1948_0009'
+revised_title: 'Quantitative Analysis of Vertebrate Brain and Applicability of Allometric Formulae'
+semantic_tags:
+  - Brain anatomy
+  - Allometry
+  - Statistical methods
+  - Neurobiology
+  - Evolutionary biology
+tldr: The authors present a new method for estimating the parameters in the allometric equation, which is used to analyze the relationship between brain weight and body weight in vertebrates. They criticize previous methods for their arbitrary choice of values and inefficient estimation techniques, and propose a more accurate approach using statistical methods. This analysis provides a deeper understanding of the comparative anatomy and ontogenetic and phylogenetic development of the vertebrate brain.
+scientific_discipline: Biology and Life Sciences > Neurobiology

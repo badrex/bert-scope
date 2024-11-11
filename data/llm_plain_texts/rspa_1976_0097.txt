@@ -1,0 +1,10 @@
+article_id: rspa_1976_0097
+revised_title: 'Diameter Singularity in Binary Liquid Systems: Carbon Disulphide + Nitromethane and Cyclohexane + Acetic Anhydride'
+semantic_tags:
+  - Critical phenomena
+  - Binary liquid systems
+  - Coexistence curves
+  - Scaling theory
+  - Diameter singularity
+tldr: The authors examine the coexistence curves of two binary liquid systems, carbon disulphide + nitromethane and cyclohexane + acetic anhydride, and find evidence of a diameter singularity. They develop a scaling theory for critical phenomena in binary liquid systems, incorporating the diameter singularity, and discuss its implications and potential future experiments.
+scientific_discipline: Chemistry > Physical Chemistry

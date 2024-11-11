@@ -1,0 +1,10 @@
+article_id: rspa_1988_0108
+revised_title: 'Debye Temperature Determination via Electron Paramagnetic Resonance'
+semantic_tags:
+  - Debye temperature
+  - Electron paramagnetic resonance
+  - Lattice vibrations
+  - Spin-hamiltonian
+  - Temperature dependence
+tldr: The authors used electron paramagnetic resonance to study the interaction between paramagnetic electrons and lattice vibrations in four different systems. They found that the temperature dependence of the zero-field splitting can be used to measure the Debye temperature, providing insights into the dynamical interaction between electrons and phonons.
+scientific_discipline: Physics > Condensed Matter Physics

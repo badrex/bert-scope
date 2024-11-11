@@ -1,0 +1,10 @@
+article_id: rspa_1981_0111
+revised_title: Defect Chemistry and Transport Properties of Silver Selenide
+semantic_tags:
+  - Solid-state chemistry
+  - Defect chemistry
+  - Silver selenide
+  - Electronic conductivity
+  - Ionic conductivity
+tldr: The authors investigated the defect chemistry and transport properties of silver selenide using single crystal samples prepared by solid-state electrochemical methods. They found that electronic conductivity in the high-temperature phase exhibits a stoichiometry-controlled transition, while ionic conductivity remains relatively constant. The study provides valuable insights into the conduction mechanisms in silver selenide.
+scientific_discipline: Chemistry > Solid-state chemistry

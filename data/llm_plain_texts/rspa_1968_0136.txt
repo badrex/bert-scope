@@ -1,0 +1,10 @@
+article_id: rspa_1968_0136
+revised_title: 'Effects of Bromine Compounds on the Thermal Degradation of Polyolefins'
+semantic_tags:
+  - Polymer Chemistry
+  - Thermal Degradation
+  - Bromine Compounds
+  - Polyethylene
+  - Polypropylene
+tldr: The authors studied the effects of bromine compounds on the thermal degradation of polyolefins, such as polyethylene, polypropylene, and a polyethylene-polypropylene copolymer. They found that the presence of bromine accelerates the degradation of polypropylene and the copolymer while retarding the breakdown of polyethylenes with a small degree of branching. The results can be explained by a mechanism involving bromine atoms as chain carriers, with the different rates of thermal degradation being due to the more facile abstraction of hydrogen from tertiary than secondary C-H groups.
+scientific_discipline: Chemistry > Polymer Chemistry

@@ -1,0 +1,10 @@
+article_id: 'rspa_1913_0030'
+revised_title: 'Abnormal Kinetic Energy of Ions in Gases: A Theoretical Analysis'
+semantic_tags:
+  - Kinetic Theory of Gases
+  - Ion Kinetic Energy
+  - Gas Dynamics
+  - Maxwell's Theory
+  - Collision Theory
+tldr: This paper investigates the abnormal kinetic energy of ions in gases, questioning the law of equipartition of energy. The author analyzes the kinetic theory of gases and the velocity of agitation of ions and molecules. They consider different laws of force and discuss the distribution of velocities in various directions. The findings suggest that Maxwell's law of distribution serves as a useful approximation.
+scientific_discipline: Physics > Gas Dynamics

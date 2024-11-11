@@ -1,0 +1,10 @@
+article_id: rspa_1994_0078
+revised_title: 'Dispersion Effect on Nearshore Currents'
+semantic_tags:
+  - Coastal Engineering
+  - Fluid Dynamics
+  - Oceanography
+  - Turbulence
+  - Longshore Currents
+tldr: The authors analyze the effect of current dispersion caused by the nonlinear interaction between wave-generated cross- and longshore currents. They find that this interaction includes a mechanism that has an effect similar to traditional turbulent mixing but is an order of magnitude stronger than the mixing that can be justified based on available information about turbulence in the nearshore region. This dispersion effect plays a crucial role in the distribution of nearshore currents and can explain the previously assumed strong mixing in numerical models of longshore currents.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

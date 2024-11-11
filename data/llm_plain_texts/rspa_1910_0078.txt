@@ -1,0 +1,10 @@
+article_id: rspa_1910_0078
+revised_title: Determination of the Ratio of Mass to Weight for a Radioactive Substance
+semantic_tags:
+  - Mass
+  - Weight
+  - Radioactivity
+  - Pendulum
+  - Physics Experiments
+tldr: The authors conducted experiments to determine if radioactive substances have a different ratio of mass to weight compared to non-radioactive substances. They used a pendulum to measure the time it took for the substances to swing back and forth and found that the ratio of mass to weight did not differ significantly between radioactive and non-radioactive substances.
+scientific_discipline: Physics > Mechanics

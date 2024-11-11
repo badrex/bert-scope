@@ -1,0 +1,10 @@
+article_id: rsta_1981_0024
+revised_title: Extinction and Asymmetric Limits in X-ray Diffraction from Imperfect Crystals
+semantic_tags:
+  - X-ray diffraction
+  - Crystallography
+  - Extinction
+  - Asymmetric limits
+  - Takagi-Taupin equations
+tldr: The article explores the behavior of X-ray diffraction from imperfect crystals using the Takagi-Taupin equations. It investigates the effects of extinction and the asymmetric limits on the diffraction properties of bent and mosaic crystals. The results confirm that the asymmetric limits are universal extinction-free limits, providing valuable insights into the functional dependence of extinction on the path through the crystal and the accuracy of available extinction theories.
+scientific_discipline: Physics > Crystallography

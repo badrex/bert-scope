@@ -1,0 +1,10 @@
+article_id: rspl_1892_0007
+revised_title: 'Investigating the Clark Cell as a Standard of Electromotive Force'
+semantic_tags:
+  - Electromotive force
+  - Clark cell
+  - Electromagnetic standards
+  - Electrical measurements
+  - Electrochemistry
+tldr: The authors conducted experiments to determine the electromotive force of a Clark cell and investigated its sources of error. They compared multiple cells from different makers and found that they agreed closely. The authors also provided detailed instructions for setting up a Clark cell as a standard of electromotive force.
+scientific_discipline: Physics > Electromagnetism

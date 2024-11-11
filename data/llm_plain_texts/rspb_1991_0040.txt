@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0040'
+revised_title: 'InsP3-Induced Calcium Release: A Steady-State Mechanism'
+semantic_tags:
+  - Calcium signaling
+  - Inositol trisphosphate
+  - Cellular signaling
+  - Calcium release channels
+  - Quantal release
+tldr: The authors propose a steady-state mechanism for the release of calcium by inositol 1,4,5-trisphosphate (InsP3) in cells. They model this mechanism and perform experiments on rat liver microsomes to test its consistency with published data. The model can simulate quantal release, where InsP3 causes a rapid initial release of calcium from a store, followed by a slower one-way flux at a steady state. The model provides a possible explanation for various experimental results related to calcium release and signaling.
+scientific_discipline: Biology and Life Sciences > Cellular Biology and Physiology

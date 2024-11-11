@@ -1,0 +1,10 @@
+article_id: rspa_1982_0136
+revised_title: 'Symmetry Groups of Regular Tessellations of S and their Representations'
+semantic_tags:
+  - Group Theory
+  - Symmetry
+  - Geometry
+  - Mathematical Physics
+  - Representation Theory
+tldr: This article discusses the symmetry groups of regular tessellations of S and their representations. The author describes the construction of these symmetry groups for regular complexes that tessellate S and presents their presentations and subgroups of products of the binary polyhedral groups. The article also provides character tables for the symmetry groups relevant to this work.
+scientific_discipline: Mathematics > Group Theory

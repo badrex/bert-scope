@@ -1,0 +1,10 @@
+article_id: 107184
+revised_title: On the Mechanics of Percussion and the Nature of Force
+semantic_tags:
+  - Mechanics
+  - Force
+  - Velocity
+  - Momentum
+  - Energy
+tldr: The author discusses the controversy surrounding the estimation of forces exerted by moving bodies, comparing the views of Leibnitz and Newton. They present experiments and analyze the concept of mechanic force, concluding that it is proportional to the magnitude of the body and the square of its velocity. The author also clarifies the distinction between different types of force and their effects, emphasizing the importance of understanding the nature of force in various applications.
+scientific_discipline: Physics > Mechanics

@@ -1,0 +1,10 @@
+article_id: 107907
+revised_title: 'Comparing the Rate of an Invariable Pendulum in Greenwich and Altona Observatories'
+semantic_tags:
+  - Pendulum experiments
+  - Timekeeping accuracy
+  - Temperature effects
+  - Barometer
+  - Thermometer comparison
+tldr: This article describes experiments conducted to determine the difference in the number of vibrations made by an invariable pendulum at the Royal Observatories of Greenwich and Altona. The author compares the results obtained at both locations and discusses the factors affecting the pendulum's rate, such as temperature and barometer readings.
+scientific_discipline: Physics > Mechanics

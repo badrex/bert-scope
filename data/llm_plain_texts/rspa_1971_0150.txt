@@ -1,0 +1,10 @@
+article_id: rspa_1971_0150
+revised_title: Structural Imperfections and Photodimerization in 9-Cyanoanthracene
+semantic_tags:
+  - Photodimerization
+  - Crystallography
+  - Solid-state chemistry
+  - Dislocations
+  - Excitation energy
+tldr: The authors investigate the role of structural imperfections in the photodimerization of 9-cyanoanthracene. They find that stacking faults act as traps for excitation energy and help bring monomer molecules to the required orientation for the production of the trans dimer. The study uses crystallography, interference-contrast microscopy, and fluorescence microscopy to examine cleaved, etched, and photodimerized surfaces of 9-cyanoanthracene.
+scientific_discipline: Chemistry > Solid-state chemistry

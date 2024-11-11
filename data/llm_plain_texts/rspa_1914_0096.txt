@@ -1,0 +1,10 @@
+article_id: rspa_1914_0096
+revised_title: 'Interpretation of Atomic Structure Indications in Crystals with X-rays'
+semantic_tags:
+  - Crystallography
+  - X-ray diffraction
+  - Atomic structure
+  - Space lattices
+  - Symmetry
+tldr: The author explores the effects of atomic structure on the arrangement of crystals when exposed to X-rays. They demonstrate how certain deformations of atomic systems can be detected using X-ray diffraction, and discuss the implications for understanding crystal symmetry and atomic structure.
+scientific_discipline: Physics > Crystallography

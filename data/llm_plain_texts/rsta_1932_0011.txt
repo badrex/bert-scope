@@ -1,0 +1,10 @@
+article_id: rsta_1932_0011
+revised_title: 'Combustion Mechanisms of Colloidal Propellants'
+semantic_tags:
+  - Combustion
+  - Colloidal propellants
+  - Propellant explosion
+  - Kinetic theory of gases
+  - Quantum theory
+scientific_discipline: Chemistry > Physical Chemistry
+tldr: The authors investigate the combustion of colloidal propellants, focusing on the effects of pressure and temperature on the rate of burning. They propose a new approach based on the quantum theory to explain the combustion mechanisms and test their hypothesis through experiments. The study provides insights into the complex interactions between temperature, pressure, and chemical reactions in propellants, which can help improve the understanding and control of propellant combustion.

@@ -1,0 +1,10 @@
+article_id: 'rsta_1944_0001'
+revised_title: 'Tensor Theory and Group Characters in Invariant Theory'
+semantic_tags:
+  - Group Theory
+  - Tensor Calculus
+  - Invariant Theory
+  - Algebraic Geometry
+  - Concomitants
+tldr: This article explores the relationship between tensor calculus and invariant theory, demonstrating their mathematical equivalence in elementary applications. It develops a technique for constructing concomitants using tensors and group theory, providing a foundation for understanding geometric configurations and their properties. The author also applies this theory to classical problems in invariant theory, such as generating functions and sets of concomitants.
+scientific_discipline: Mathematics > Group Theory

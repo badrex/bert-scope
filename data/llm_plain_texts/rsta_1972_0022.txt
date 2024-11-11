@@ -1,0 +1,10 @@
+article_id: 'rsta_1972_0022'
+revised_title: 'Mesospheric Temperatures and Winds During Stratospheric Warmings: A Study of European D and E Region Winds'
+semantic_tags:
+  - Stratospheric warming
+  - Mesospheric temperatures
+  - Atmospheric circulation
+  - Atmospheric waves
+  - Rocket experiments
+tldr: This study examines mesospheric temperatures and winds during a stratospheric warming over Europe. The authors conducted rocket experiments at Esrange, Sweden, and analyzed data from other locations to understand the relationship between stratospheric and mesospheric temperatures and winds. They found that a warmer stratopause is linked to a colder middle mesosphere and that horizontal winds remain stable during the warming. The study also discusses the importance of downward motion and adiabatic compression in producing stratospheric warmings and the role of planetary waves in deviations from symmetrical circulation patterns.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

@@ -1,0 +1,10 @@
+article_id: rspa_1926_0005
+revised_title: Experimental Determination of Thermal Conductivities of Gases: A New Method
+semantic_tags:
+  - Thermal conductivity
+  - Gas properties
+  - Heat conduction
+  - Convection
+  - Radiation
+scientific_discipline: Physics > Thermodynamics
+tldr: This article presents a new method for accurately measuring the thermal conductivities of gases. The authors discuss the challenges of disentangling conduction, convection, and radiation effects in previous experiments and introduce a modified hot-wire method to overcome these difficulties. They also compare their results with other methods, such as the plate method, and provide data for atmospheric air.

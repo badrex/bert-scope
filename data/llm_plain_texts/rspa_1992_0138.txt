@@ -1,0 +1,10 @@
+article_id: rspa_1992_0138
+revised_title: Element Removal Method for Singular Minimizers in Variational Problems
+semantic_tags:
+  - Variational methods
+  - Lavrentiev phenomenon
+  - Numerical methods
+  - Finite-element method
+  - Minimizers
+tldr: The author presents a new numerical method called the element removal method to calculate singular minimizers in variational problems that cannot be approximated by standard numerical methods due to the Lavrentiev phenomenon. The method is proven to be convergent and effective, as demonstrated by numerical experiments.
+scientific_discipline: Mathematics > Calculus of Variations

@@ -1,0 +1,10 @@
+article_id: 'rstb_1978_0040'
+revised_title: 'Selective Gene Expression in Amphibian Oocytes: Reprogramming Somatic Nuclei'
+semantic_tags:
+  - Epigenetics
+  - Gene Expression
+  - Chromatin Structure
+  - Somatic Cell Nuclear Transfer
+  - Amphibian Development
+tldr: 'This study demonstrates that somatic nuclei injected into amphibian oocytes can express their genes in a selective and biologically meaningful way. The oocyte cytoplasm reprograms the injected nuclei to conform to the oocyte pattern of gene expression, providing a valuable experimental system for understanding eukaryotic transcription.'
+scientific_discipline: Biology and Life Sciences > Epigenetics and Gene Regulation

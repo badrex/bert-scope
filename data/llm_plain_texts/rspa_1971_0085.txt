@@ -1,0 +1,10 @@
+article_id: rspa_1971_0085
+revised_title: Coordinate Conditions in Riemannian Spaces for Coordinates Based on a Subspace
+semantic_tags:
+  - Riemannian geometry
+  - Coordinate conditions
+  - Geodesics
+  - Subspace coordinates
+  - Metric tensor
+tldr: The authors present coordinate conditions for a Riemannian space based on geodesics drawn orthogonal to a subspace. They derive simple coordinate conditions that express the metric tensor in terms of integrals of the linear part of the covariant Riemann tensor. These results are applicable to the space-time of general relativity.
+scientific_discipline: Mathematics > Geometry

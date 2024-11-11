@@ -1,0 +1,10 @@
+article_id: 108582
+revised_title: "Partition Theory: Decomposition of Algebraic Fractions"
+semantic_tags:
+  - Number Theory
+  - Algebraic Fractions
+  - Mathematical Functions
+  - Partition Theory
+  - Coefficient Expansion
+tldr: The author presents a method for decomposing algebraic fractions using partition theory. The method involves expanding algebraic fractions and determining coefficients of mathematical functions. This research focuses on the expansion of algebraic fractions with factors of the form 1-x and provides a formula for the decomposition of certain fractions.
+scientific_discipline: Mathematics > Number Theory

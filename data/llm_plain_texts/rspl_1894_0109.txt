@@ -1,0 +1,10 @@
+article_id: rspl_1894_0109
+revised_title: Canonical Invariants and Differential Covariants of Twisted Curves
+semantic_tags:
+  - Differential Geometry
+  - Algebraic Geometry
+  - Curve Theory
+  - Mathematical Analysis
+  - Invariants
+tldr: This paper explores the canonical invariants and differential covariants of twisted curves, providing a method to express relations between them without the intervention of other invariants. The author demonstrates how to determine the series of canonical invariants and the connections between the invariants of a curve, ultimately integrating the differential equations of a twisted curve to find its absolute invariant.
+scientific_discipline: Mathematics > Differential Geometry

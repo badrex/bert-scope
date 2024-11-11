@@ -1,0 +1,10 @@
+article_id: rspa_1917_0015
+revised_title: 'Application of Probability Theory to A Priori Pathometry'
+semantic_tags:
+  - Epidemiology
+  - Infectious Diseases
+  - Mathematical Modeling
+  - Disease Transmission
+  - Probability Theory
+tldr: The authors apply the theory of probabilities to study the spread of infectious diseases, focusing on the factors that influence infectivity and transmission. They develop mathematical models to analyze the impact of changes in infectivity and environment on disease outbreaks, providing insights into the behavior of epidemics and the potential for controlling their spread.
+scientific_discipline: Social Sciences > Epidemiology

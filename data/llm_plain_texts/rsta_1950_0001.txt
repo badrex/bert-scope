@@ -1,0 +1,10 @@
+article_id: rsta_1950_0001
+revised_title: Lateral Instability of Yielded Mild Steel Beams: Rectangular Cross-Section
+semantic_tags:
+  - Beam buckling
+  - Steel structures
+  - Yield range
+  - Torsional rigidity
+  - Flexural rigidity
+tldr: This study investigates the lateral buckling phenomenon in deep mild steel beams of rectangular cross-section. The authors examine the flexural rigidity and initial torsional rigidity of the beams, which are crucial factors in determining the critical load causing lateral buckling. The research provides a theoretical and experimental analysis of these factors and their impact on the stability of the beams under load. The findings contribute to the development of design methods for steel structures based on the calculation of collapse loads.
+scientific_discipline: Engineering and Technology > Structural Engineering

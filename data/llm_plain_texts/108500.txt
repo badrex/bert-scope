@@ -1,0 +1,10 @@
+article_id: 108500
+revised_title: Introduction to Quantics and Covariants
+semantic_tags:
+  - Algebra
+  - Geometry
+  - Mathematical Notation
+  - Covariants
+  - Invariants
+scientific_discipline: Mathematics > Algebra and Geometry
+tldr: The author introduces the concept of quantics, which are mathematical expressions involving multiple variables and coefficients. They also discuss covariants, which are functions that remain unchanged under certain transformations. The text provides a detailed explanation of the mathematical notation and operations used in this field, with examples and applications in geometry.

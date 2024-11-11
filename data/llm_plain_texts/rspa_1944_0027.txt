@@ -1,0 +1,10 @@
+article_id: rspa_1944_0027
+revised_title: Removing Infinite Self-Energies of Point-Particles in Physics
+semantic_tags:
+  - Quantum Field Theory
+  - Particle Physics
+  - Energy-Momentum Tensor
+  - Mathematical Physics
+  - Electromagnetic Fields
+tldr: The authors present a method to modify the energy-momentum tensor to remove infinite self-energies of point-particles without affecting the equations of motion. They demonstrate this method for electromagnetic and meson fields, showing that the modified tensor leads to a finite integral of energy and momentum over any space-like surface. This approach helps avoid spurious infinities and provides a finite total energy and momentum.
+scientific_discipline: Physics > Quantum Field Theory

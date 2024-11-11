@@ -1,0 +1,10 @@
+article_id: rspa_1970_0074
+revised_title: Particle Scattering Factor of Stiff Chain Molecules
+semantic_tags:
+  - Polymer Chemistry
+  - Macromolecular Physics
+  - Scattering Theory
+  - Polymer Statistics
+  - Chain Molecules
+tldr: The authors derived analytic expressions for the particle scattering factor of stiff chain molecules, both for the wormlike and a discrete chain model with an axial symmetric potential of hindered rotation. The results agree well with Monte Carlo calculations for chains longer than five persistence lengths. The particle scattering factor of short chains can be represented by the Guinier approximation. The study provides insights into the behavior of linear macromolecules and their scattering patterns, which can be useful for understanding polymers like polynucleic acids and cellulose derivatives.
+scientific_discipline: Physics > Optics

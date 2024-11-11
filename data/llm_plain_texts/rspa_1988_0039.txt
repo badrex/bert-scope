@@ -1,0 +1,10 @@
+article_id: rspa_1988_0039
+revised_title: 'Advanced Bifurcation Analysis of Coupled Ordinary Differential Equations'
+semantic_tags:
+  - Bifurcation Theory
+  - Nonlinear Dynamics
+  - Ordinary Differential Equations
+  - Singularity Theory
+  - Hopf Bifurcation
+scientific_discipline: Mathematics > Applied Mathematics
+tldr: The authors present a method for analyzing two coupled ordinary differential equations with three parameters, using recent advances in bifurcation theory. They focus on co-dimension 2 degeneracies and the Hopf bifurcation, providing a systematic approach to understanding the qualitative behavior of the system. This method can be applied to various fields, including physics, engineering, and biology, where such systems arise.

@@ -1,0 +1,10 @@
+article_id: rspa_1971_0159
+revised_title: Testing TCP Invariance in Neutral Kaon Decays
+semantic_tags:
+  - Particle Physics
+  - Quantum Theory
+  - Symmetry and Invariance
+  - Kaon Decays
+  - CP Violation
+tldr: The authors present a systematic analysis of tests of TCP invariance in neutral kaon decays. They explore the relations between observable parameters in neutral kaon decay and demonstrate how different relations test the TCP invariance of various types of interactions. The study aims to test the hypothesis that neutral kaon decays may demonstrate the failure of the superposition principle and to examine the conditions imposed by TCP invariance on decay amplitudes.
+scientific_discipline: Physics > Particle Physics

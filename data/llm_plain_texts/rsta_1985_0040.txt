@@ -1,0 +1,10 @@
+article_id: rsta_1985_0040
+revised_title: 'PVT Properties of Deuterium Oxide: A Comprehensive Study'
+semantic_tags:
+  - Thermodynamics
+  - Deuterium oxide
+  - Heavy water
+  - Isotopic composition
+  - Density
+tldr: The authors conducted a comprehensive study on the properties of deuterium oxide (heavy water) in the temperature range of 150-500°C and pressure range of 0-100 MPa. They measured the density of heavy water with accurately known isotopic composition and provided accurate thermodynamic properties for use in nuclear reactors and power generation. The study extended previous work on ordinary water and used similar experimental techniques and apparatus.
+scientific_discipline: Chemistry > Thermodynamics

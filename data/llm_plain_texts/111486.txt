@@ -1,0 +1,10 @@
+article_id: '111486'
+revised_title: 'Challenging the Hadley Theory of Winds'
+semantic_tags:
+  - Atmospheric Science
+  - Meteorology
+  - Equilibrium of Pressure
+  - Solar Heating
+  - Trade Winds
+tldr: The author, Thomas Hopkins, critiques the Hadley theory of winds, which states that heated air in the tropics rises and flows laterally towards the poles, returning in the lower regions. Hopkins argues that solar heating expands gases without causing them to rise and overflow, maintaining the atmospheric equilibrium. He proposes that disturbances in the atmosphere are caused by heat conveyed from the Earth's surface in vapor, which is then condensed and released at various heights, creating ascending currents and horizontal winds.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

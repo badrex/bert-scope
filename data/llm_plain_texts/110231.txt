@@ -1,0 +1,10 @@
+article_id: 110231
+revised_title: 'Invention and Application of a New Universal Pyrometer'
+semantic_tags:
+  - Thermometry
+  - Temperature Measurement
+  - Pyrometry
+  - Scientific Instruments
+  - Temperature Scales
+tldr: The author, Edward Sabine, developed a new pyrometer for measuring high temperatures and determining the higher degrees of temperature on the common thermometric scale. He discusses the limitations of previous methods and instruments, such as Wedgwood's pyrometer and Guyton de Morveau's use of platina expansions. Sabine's new pyrometer consists of two parts: the register and the scale, and it can be applied to various scientific researches and art purposes.
+scientific_discipline: Physics > Thermodynamics

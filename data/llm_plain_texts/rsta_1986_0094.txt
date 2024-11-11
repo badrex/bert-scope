@@ -1,0 +1,10 @@
+article_id: rsta_1986_0094
+revised_title: Radionuclide Pathways and Environmental Transport Models for Land Disposal Sites
+semantic_tags:
+  - Radioactive waste management
+  - Environmental modeling
+  - Radionuclide transport
+  - Groundwater contamination
+  - Risk assessment
+tldr: This article discusses the various pathways and scenarios for radionuclide releases from land disposal sites, focusing on the transport of radionuclides through the environment and the potential risks to humans. The authors review the types of releases, mathematical models used for radionuclide transport, and the challenges in predicting future environmental conditions. They also describe the structure and components of a compartment model, such as the bios model, used to assess the potential radiological impact on humans.
+scientific_discipline: Environmental and Earth Sciences > Environmental Modeling and Assessment

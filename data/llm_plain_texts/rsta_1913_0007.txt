@@ -1,0 +1,10 @@
+article_id: rsta_1913_0007
+revised_title: 'Investigations on the Emission Velocities of Photo-electrons'
+semantic_tags:
+  - Photoelectric effect
+  - Emission velocities
+  - Surface preparation
+  - Wave-lengths
+  - Mercury arc
+tldr: This article presents experiments conducted on the emission velocities of photo-electrons from various metal surfaces when illuminated by light. The author discusses the importance of surface preparation and the use of a mercury arc as a light source. The study aims to provide quantitative evidence on the relationship between the maximum emission velocity of photo-electrons and the wavelength of incident light.
+scientific_discipline: Physics > Electromagnetism

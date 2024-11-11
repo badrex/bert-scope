@@ -1,0 +1,10 @@
+article_id: 'rspa_1951_0027'
+revised_title: 'Radial Integrals for Nuclear Structure: Theoretical Studies and Applications'
+semantic_tags:
+  - Nuclear Physics
+  - Quantum Mechanics
+  - Nuclear Structure
+  - Nuclear Energy Levels
+  - Nuclear Interactions
+tldr: This article presents a theoretical study of radial integrals for nuclear s, p, and d shells, focusing on the interaction potential and particle radial wave-functions. The author evaluates integrals for the Gaussian and meson interactions, providing explicit expressions and numerical values for various integrals and ratios relevant to nuclear energy levels and spectroscopy.
+scientific_discipline: Physics > Nuclear Physics

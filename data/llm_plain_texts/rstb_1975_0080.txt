@@ -1,0 +1,10 @@
+article_id: 'rstb_1975_0080'
+revised_title: 'Cell Communication by Periodic Cyclic-AMP Pulses in Dictyostelium Discoideum'
+semantic_tags:
+  - Cell Biology
+  - Signal Transduction
+  - Cyclic AMP
+  - Cell Communication
+  - Dictyostelium discoideum
+tldr: This article discusses the physics and chemistry of biological recognition, focusing on cell communication in Dictyostelium discoideum through periodic cyclic-AMP pulses. The authors describe the mechanisms of signal relaying, chemotaxis, and the role of cyclic-AMP in cell aggregation and development. They also explore the similarities between cellular communication in Dictyostelium and synaptic transmission in higher organisms.
+scientific_discipline: Biology and Life Sciences > Cell Biology

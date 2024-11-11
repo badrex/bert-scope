@@ -1,0 +1,10 @@
+article_id: 'rspa_1941_0004'
+revised_title: 'Mobility of Positive Ions in Their Own Gas: A Study of Electron Exchange'
+semantic_tags:
+  - Ion mobility
+  - Electron exchange
+  - Gas purification
+  - Alkali ions
+  - Gas physics
+tldr: 'The authors conducted experiments to measure the mobility of positive ions in their own gas, focusing on neon, argon, krypton, and xenon. They discovered that the mobility of ions in their own gas is lower than that of corresponding alkali ions due to the phenomenon of electron exchange. This study provides insights into the behavior of ions in gases and the impact of electron exchange on ion mobility.'
+scientific_discipline: Physics > Gas Physics

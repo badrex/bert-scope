@@ -1,0 +1,10 @@
+article_id: 110119
+revised_title: 'Mathematical Theory of Suspension Bridges and Construction Tables'
+semantic_tags:
+  - Civil Engineering
+  - Bridge Design
+  - Suspension Bridges
+  - Mathematical Formulas
+  - Engineering Tables
+tldr: The author, Davies Gilbert, discusses the mathematical theory of suspension bridges and provides tables for facilitating their construction. He addresses the insufficient depth of curvature in the Menai Bridge and presents formulae and tables for the catenary of equal strength, which is useful for constructing bridges with very wide spans.
+scientific_discipline: Engineering and Technology > Civil Engineering > Bridge Design

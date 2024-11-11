@@ -1,0 +1,10 @@
+article_id: rspl_1891_0008
+revised_title: On the Kinetic Theory of Gases and the Distribution of Energy
+semantic_tags:
+  - Statistical mechanics
+  - Kinetic theory of gases
+  - Maxwell-Boltzmann distribution
+  - Energy distribution
+  - Thermodynamics
+tldr: The author examines the Maxwell-Boltzmann distribution of energy in a system of atoms and doublets, testing the proposition that the time-averaged kinetic energy of each atom, shell, and globule will be equal. The author presents a series of test cases to validate this proposition and discusses the implications for the kinetic theory of gases.
+scientific_discipline: Physics > Thermodynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1955_0171
+revised_title: Continuous Distributions of Dislocations and Non-Riemannian Geometry
+semantic_tags:
+  - Dislocation Theory
+  - Non-Riemannian Geometry
+  - Crystal Lattice
+  - Torsion Tensor
+  - Asymmetric Connection
+tldr: The authors introduce the concept of continuous dislocation distributions in crystals and develop a theory using non-Riemannian geometry. They define the dislocated state by relating the local basis at each point to a reference lattice and introduce the dislocation density, which is the torsion tensor associated with the asymmetric connection. This theory helps in understanding the arrangement of dislocations in deformed crystals and provides a foundation for further research in dislocation theory.
+scientific_discipline: Mathematics > Geometry

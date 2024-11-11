@@ -1,0 +1,10 @@
+article_id: rspa_1932_0117
+revised_title: Lunar Diurnal Variation of Atmospheric Temperature at Batavia
+semantic_tags:
+  - Atmospheric temperature
+  - Lunar tides
+  - Atmospheric pressure
+  - Heat flow
+  - Temperature variation
+tldr: The author investigates the lunar diurnal variation of atmospheric temperature at Batavia, focusing on the lunar tide's impact on atmospheric pressure and temperature changes. They analyze a long series of hourly temperature values and discuss the challenges in determining the lunar variation due to solar diurnal variations. The study concludes that the temperature variation is likely to be associated with the lunar atmospheric tide at land stations.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

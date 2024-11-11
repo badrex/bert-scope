@@ -1,0 +1,10 @@
+article_id: rspa_1928_0120
+revised_title: 'Further Experiments on the Diffraction of Cathode Rays'
+semantic_tags:
+  - Electron diffraction
+  - Cathode rays
+  - Crystallography
+  - De Broglie waves
+  - Platinum
+scientific_discipline: Physics > Crystallography
+tldr: The authors conducted further experiments on the diffraction of cathode rays, using metals like aluminum, gold, and platinum. They explained the discrepancy between the crystal constants of metals determined by X-rays and those found using the de Broglie theory. The authors also observed diffraction patterns in platinum, which had not been achieved before, and measured the magnetic deflection of the diffracted rays, confirming that the rays had the same speed as the main beam of cathode rays.

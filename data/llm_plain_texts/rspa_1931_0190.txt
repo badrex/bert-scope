@@ -1,0 +1,10 @@
+article_id: rspa_1931_0190
+revised_title: Improved Expansion Formula for Bessel Functions
+semantic_tags:
+  - Bessel functions
+  - Number theory
+  - Mathematical analysis
+  - Dirichlet's theorem
+  - Convergence of series
+tldr: The author presents an improved form of an expansion formula for Bessel functions using a convergent series. They also prove related theorems and discuss the convergence of the series. This work contributes to the mathematical analysis of Bessel functions and number theory.
+scientific_discipline: Mathematics > Analysis

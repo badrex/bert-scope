@@ -1,0 +1,10 @@
+article_id: rspa_1933_0063
+revised_title: The Change of Resistance of a Semi-conductor in a Magnetic Field: A Review
+semantic_tags:
+  - Semiconductors
+  - Magnetic fields
+  - Conductivity
+  - Fermi-Dirac statistics
+  - Hall effect
+tldr: This article discusses the change of resistance in a semi-conductor when exposed to a magnetic field. The author explains the importance of considering the Fermi-Dirac statistics and the influence of the Hall effect in understanding the behavior of electrons in a metal. The study focuses on semi-conductors like germanium, tellurium, and molecular graphite, which are more amenable to mathematical treatment. The author concludes that the theory of resistance change in semi-conductors gives the correct form of the curve and the right order of magnitude for the resistance change, although the numerical values are lower than those found by other methods.
+scientific_discipline: Physics > Semiconductors

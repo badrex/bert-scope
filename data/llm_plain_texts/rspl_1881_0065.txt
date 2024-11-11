@@ -1,0 +1,10 @@
+article_id: rspl_1881_0065
+revised_title: 'Experimental Researches on Heat Conduction in Bone, Brain-Tissue, and Skin'
+semantic_tags:
+  - Thermodynamics
+  - Heat conduction
+  - Bone conductivity
+  - Brain conductivity
+  - Skin conductivity
+tldr: This article presents experimental research on the propagation of heat by conduction in bone, brain tissue, and skin. The authors conducted over 900 experiments using thermo-electric apparatus and found that bone is the best conductor of heat, followed by brain tissue and then skin. The results provide insights into the differences in conductivity among these tissues and their implications for understanding heat transfer in living organisms.
+scientific_discipline: Physics > Thermodynamics

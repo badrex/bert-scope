@@ -1,0 +1,10 @@
+article_id: 'rspb_1989_0072'
+revised_title: 'Doubly Modifiable Synapses: A Model for Short and Long Term Auto-Associative Memory Improvement'
+semantic_tags:
+  - Neural Networks
+  - Memory Storage
+  - Synaptic Plasticity
+  - Auto-Associative Memory
+  - Cognitive Science
+tldr: This article presents a model of auto-associative memory using doubly modifiable synapses, which improve short-term performance and long-term capacity. The model allows for storage, consolidation, and recall of patterns with a single presentation, reducing errors and enhancing memory performance.
+scientific_discipline: Cognitive Science > Memory and Learning

@@ -1,0 +1,10 @@
+article_id: rspa_1957_0037
+revised_title: 'Brueckner's Many-Body Theory and Feynman Graphs'
+semantic_tags:
+  - Quantum Mechanics
+  - Many-Body Theory
+  - Perturbation Theory
+  - Feynman Graphs
+  - Nuclear Physics
+tldr: The author presents a new perturbation theory for many-body problems, using Feynman graphs to derive series and define linked terms. This approach is applied to the Brueckner many-body theory, which deals with strong potentials and provides a solution to the problem of unlinked clusters. The theory is particularly relevant to nuclear physics, offering a reconciliation between the shell model, strong two-nucleon interactions, and the observed two-body correlations in the nucleus.
+scientific_discipline: Physics > Quantum Mechanics

@@ -1,0 +1,10 @@
+article_id: 'rsta_1988_0008'
+revised_title: 'Millimetre and Submillimetre Wave Spectroscopy of Molecular Ions'
+semantic_tags:
+  - 'Molecular spectroscopy'
+  - 'Millimetre-wave spectroscopy'
+  - 'Submillimetre-wave spectroscopy'
+  - 'Molecular ions'
+  - 'Astrophysics'
+tldr: 'This article discusses the advancements in millimetre and submillimetre wave spectroscopy of molecular ions. It highlights the development of highly sensitive spectrometers and efficient methods of ion production, and presents some recent results obtained in Lille. The study provides essential information about energy-level configurations and molecular structure, and contributes to the understanding of interstellar chemistry and astrophysics.'
+scientific_discipline: Chemistry > Spectroscopy

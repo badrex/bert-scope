@@ -1,0 +1,10 @@
+article_id: rspa_1973_0131
+revised_title: Absolute Radiometry Using a Black Body Source
+semantic_tags:
+  - Black body radiation
+  - Radiometry
+  - Photometry
+  - Spectroradiometry
+  - Temperature scales
+tldr: The authors demonstrate the use of a black body source for absolute radiometry, establishing a standard spectral power distribution known in absolute terms. This method provides a practical alternative to the conventional approach using freezing platinum, and effectively intercompares four basic scales maintained by the National Physical Laboratory.
+scientific_discipline: Physics > Optics

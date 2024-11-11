@@ -1,0 +1,10 @@
+article_id: rspa_1958_0109
+revised_title: Statistical Distribution of Intervals between Successive Zeros of a Random Function
+semantic_tags:
+  - Probability Theory
+  - Random Functions
+  - Statistical Analysis
+  - Signal Processing
+  - Fourier Analysis
+tldr: The authors present a new approach to the problem of the statistical distribution of the intervals between successive zeros of a random, Gaussian function. They derive a sequence of approximations to the desired probability density and discuss the properties of these approximations. The analysis also gives rise to an alternative approximation that is less accurate for small values of the interval but more accurate for larger values. Numerical computation of the approximations is carried out for a low-pass spectrum, and the results are compared with experimental data, showing encouraging agreement.
+scientific_discipline: Mathematics > Probability Theory

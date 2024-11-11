@@ -1,0 +1,10 @@
+article_id: '110052'
+revised_title: 'Astronomical Refractions and Atmospheric Height'
+semantic_tags:
+  - Atmospheric Optics
+  - Refraction
+  - Astronomy
+  - Atmospheric Density
+  - Temperature
+tldr: The author discusses the historical understanding of astronomical refractions and the methods used to calculate them. They explore various theories on the height and density of the atmosphere, considering factors such as temperature and pressure. The author also investigates the motion of light and its relation to atmospheric refraction, comparing their findings with observed astronomical data.
+scientific_discipline: Physics > Optics

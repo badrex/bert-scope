@@ -1,0 +1,10 @@
+article_id: 'rspb_1925_0036'
+revised_title: 'Exploring the Hydrogen-Ion Concentration and Oxidation-Reduction Potential in Cell Interiors'
+semantic_tags:
+  - Biochemistry
+  - Oxidation-Reduction Potential
+  - Micro-injection
+  - Cell Biology
+  - Indophenol Reaction
+tldr: The authors conducted micro-injection experiments to study the hydrogen-ion concentration and oxidation-reduction potential within cell interiors. They used dyes that changed color according to oxidation-reduction potential, allowing them to determine the pH and rH (reduction potential) of the cytoplasm in Amoeba proteus cells. This research provided a significant advancement in understanding the relationship between acidity and oxidation-reduction potential in cells.
+scientific_discipline: Biology and Life Sciences > Cell Biology

@@ -1,0 +1,10 @@
+article_id: 111495
+revised_title: On the Thermal Effects of Drawing Out a Film of Liquid
+semantic_tags:
+  - Thermodynamics
+  - Capillary action
+  - Carnot's cycle
+  - Heat absorption
+  - Temperature variation
+tldr: The author, William Thomson, discovered that drawing out a film of liquid, such as a soap bubble, causes a cooling effect. This occurs due to the work done in expanding the surface area of the liquid, which results in a decrease in temperature. The amount of cooling can be calculated by considering the heat absorbed at higher temperatures and the heat released at lower temperatures.
+scientific_discipline: Physics > Thermodynamics

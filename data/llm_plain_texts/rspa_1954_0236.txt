@@ -1,0 +1,10 @@
+article_id: 'rspa_1954_0236'
+revised_title: 'A Discussion on Fluid Viscosity and Thermodynamic Pressures'
+semantic_tags:
+  - Fluid Dynamics
+  - Rheology
+  - Viscosity
+  - Thermodynamics
+  - Fluid Mechanics
+tldr: This article discusses the first and second viscosities of fluids and their relationship with hydrodynamic and thermodynamic pressures. The author presents equations to express the rheological equations of state and explores the connection between hydrodynamic pressure and static pressure in thermodynamics. The article also examines the different approaches to explain excess absorption of sound energy, such as the relaxation theory, molecular structure theory, and second viscosity theory.
+scientific_discipline: Physics > Fluid Mechanics

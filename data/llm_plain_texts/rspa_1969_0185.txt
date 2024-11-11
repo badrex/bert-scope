@@ -1,0 +1,10 @@
+article_id: rspa_1969_0185
+revised_title: Theoretical Calculations of Vibration/Internal-Rotation Spectra in Molecules
+semantic_tags:
+  - Molecular Spectroscopy
+  - Internal Rotation
+  - Vibrational Spectra
+  - Symmetric Top Molecules
+  - Quantum Mechanics
+tldr: The authors conducted theoretical calculations to understand the effects of rotational barriers and non-degeneracy of perpendicular symmetric top vibrations on the vibration/internal-rotation spectra of molecules. They found that these factors affect the fine structure of the spectra, generating rotational wings outside the frequency range and causing more intensity to occur near the vibrational frequencies. This study helps in understanding the behavior of molecules with internal rotation and can aid in the recognition of these effects in real molecules.
+scientific_discipline: Chemistry > Molecular Spectroscopy

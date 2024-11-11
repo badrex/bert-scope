@@ -1,0 +1,10 @@
+article_id: rspa_1955_0214
+revised_title: 'Efficient Beam Extraction from the Liverpool Synchrocyclotron'
+semantic_tags:
+  - Particle Accelerators
+  - Synchrocyclotron
+  - Beam Extraction
+  - Strong Focusing
+  - Alternating Gradient Focusing
+tldr: The authors describe the theoretical aspects of extracting a beam from the Liverpool synchrocyclotron using a magnetic deflector. They explain how the deflector produces radially unstable orbits while maintaining vertical stability, leading to efficient beam extraction. This method later became the basis for the operation of alternating gradient strong focusing accelerators.
+scientific_discipline: Physics > Particle Accelerators

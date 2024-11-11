@@ -1,0 +1,10 @@
+article_id: 112611
+revised_title: Stability Analysis of Domes: A Mathematical Approach
+semantic_tags:
+  - Structural Engineering
+  - Dome Design
+  - Equilibrium
+  - Stability
+  - Architectural Mathematics
+tldr: The author presents a mathematical analysis of dome stability, focusing on the equilibrium and thrust of spherical domes built with stone or brick. By considering the dome as a series of arched ribs, the author calculates the conditions necessary for stability between the dome and the supporting walls. The study provides practical guidelines for architects and engineers in designing stable domes.
+scientific_discipline: Engineering and Technology > Structural Engineering

@@ -1,0 +1,10 @@
+article_id: 'rsta_1982_0136'
+revised_title: 'Advancements in Optoacoustic and Optogalvanic Spectroscopy Techniques'
+semantic_tags:
+  - Spectroscopy
+  - Optoacoustic spectroscopy
+  - Optogalvanic spectroscopy
+  - Laser applications
+  - Gas detection
+tldr: This article discusses the optoacoustic and optogalvanic effects, which are becoming increasingly important in spectroscopy. These techniques are highly sensitive and have diverse applications in physics, chemistry, biology, and medicine. The optoacoustic effect involves the conversion of absorbed radiation energy into thermal energy, while the optogalvanic effect is the change in impedance of a gas discharge due to absorbed radiation. The article highlights various applications and advancements in these spectroscopy methods, such as trace-element detection, atmospheric absorption measurements, and the detection of nonlinear optical effects.
+scientific_discipline: Physics > Optics

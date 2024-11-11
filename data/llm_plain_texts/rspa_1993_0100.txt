@@ -1,0 +1,10 @@
+article_id: rspa_1993_0100
+revised_title: X-ray Crystallography of Molecular Charge Transfer Salt a'-(BEDT-TTF)2AuBr2
+semantic_tags:
+  - Crystallography
+  - Charge transfer salts
+  - High pressure
+  - Low temperature
+  - X-ray diffraction
+tldr: The authors used X-ray diffraction techniques to study the crystal structure of the molecular charge transfer salt a'-(BEDT-TTF)2AuBr2 under high pressure and low temperature. They found that the isobaric thermal expansions and isothermal compressibilities are anisotropic, and the effect of applying pressure at ambient temperature is not equivalent to lowering the temperature at ambient pressure. The results provide insights into the structural phase transition and the electrical transport properties of the compound.
+scientific_discipline: Chemistry > Crystallography

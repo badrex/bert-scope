@@ -1,0 +1,10 @@
+article_id: rspa_1961_0134
+revised_title: 'Completeness of Eigenfunction Formulae in Relativistic Quantum Mechanics'
+semantic_tags:
+  - Quantum mechanics
+  - Relativity
+  - Eigenfunctions
+  - Legendre functions
+  - Fourier series
+tldr: The author investigates the completeness problem for eigenfunction formulae in relativistic quantum mechanics, specifically in the case of a scalar potential that is a function of the radial coordinate only. The analysis involves the use of Stieltjes integrals and Legendre functions, and it is shown that Darwin's functions form a complete set.
+scientific_discipline: Physics > Quantum Mechanics

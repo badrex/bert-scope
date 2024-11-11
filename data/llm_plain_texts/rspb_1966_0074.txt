@@ -1,0 +1,10 @@
+article_id: 'rspb_1966_0074'
+revised_title: 'Effects of Irradiation on Tissue Transplantation Immunity'
+semantic_tags:
+  - Immunology
+  - Transplantation
+  - Radiation
+  - Lymphocytes
+  - Antigen
+tldr: This study investigates the effects of X- and gamma-irradiation on transplantation immunity. The research found that irradiation prolongs the life of skin homografts on CBA mice and affects the normal lymphocyte transfer (NLT) reaction, a graft-versus-host type of immunological response. The effects of irradiation can be explained by its antiproliferative action and the fact that lymphocytes acquire radioresistance once exposed to an antigen, committing them to an immunological response.
+scientific_discipline: Biology and Life Sciences > Immunology

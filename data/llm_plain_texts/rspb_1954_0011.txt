@@ -1,0 +1,10 @@
+article_id: 'rspb_1954_0011'
+revised_title: 'Enzyme Function and Localization in Cells: Microscopy and Quantitative Methods'
+semantic_tags:
+  - Cellular organization
+  - Enzyme function
+  - Microscopy
+  - Quantitative analysis
+  - Cellular processes
+tldr: This article discusses the organization of enzymatic processes within cells and the challenges of studying them. The author emphasizes the importance of microscopy and quantitative methods to understand the spatial relationships and activities of enzymes in cells. They also explore the potential use of information theory and machine aids, such as the flying spot microscope, to improve the analysis of cellular processes.
+scientific_discipline: Biology and Life Sciences > Cell Biology

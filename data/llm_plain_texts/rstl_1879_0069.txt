@@ -1,0 +1,10 @@
+article_id: 'rstl_1879_0069'
+revised_title: 'Microrheometer: A New Apparatus for Measuring the Flow of Liquids'
+semantic_tags:
+  - Rheology
+  - Capillary flow
+  - Fluid dynamics
+  - Temperature effects
+  - Saline solutions
+tldr: The author presents a new apparatus called the microrheometer to study the flow of liquids through capillary tubes. The microrheometer allows for more accurate measurements and takes into account the effects of temperature and pressure. The author investigates the flow of saline solutions and finds that the rate of flow is affected by the temperature and the concentration of the salt. This work has implications for understanding the behavior of liquids and their applications in various fields.
+scientific_discipline: Physics > Fluid Dynamics

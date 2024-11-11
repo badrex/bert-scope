@@ -1,0 +1,10 @@
+article_id: rspa_1968_0091
+revised_title: 'Nuclear Magnetic Pulsed Double Resonance in Alkali Halide Crystals'
+semantic_tags:
+  - Nuclear Magnetic Resonance
+  - Quadrupole Interactions
+  - Alkali Halide Crystals
+  - Impurities
+  - Field Gradient Tensor
+tldr: The authors used nuclear magnetic pulsed double-resonance technique to study the field gradients at nuclei surrounding a substituted ion in a single crystal of potassium fluoride (KF). They determined the quadrupole interactions of nuclei at and lattice sites relative to the substituted impurity. The results were compared with a simple ionic model, and the best agreement with the experiment was found when using the shell model modification of Dick (1966) to the Tessman, Kahn, and Shockley (1953) ionic polarizabilities.
+scientific_discipline: Physics > Materials Science

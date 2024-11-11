@@ -1,0 +1,10 @@
+article_id: rspa_1928_0189
+revised_title: 'Investigations of Ion Mobility in Air: Development of Two New Methods'
+semantic_tags:
+  - Ion mobility
+  - Air ionization
+  - Electrometry
+  - Atmospheric science
+  - Physics
+tldr: The authors developed two new methods to measure the mobility of ions in air, which allowed them to study the behavior of negative and positive ions in air containing water vapor. They discovered that the mobility of negative ions is independent of age, while the mobility of positive ions is highly variable and influenced by uncontrolled factors, such as the presence of trace substances on the electrodes or walls of the apparatus.
+scientific_discipline: Physics > Electromagnetism

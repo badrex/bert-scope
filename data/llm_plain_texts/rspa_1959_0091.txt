@@ -1,0 +1,10 @@
+article_id: rspa_1959_0091
+revised_title: 'Stability Criteria for Viscous Flow Between Horizontal Concentric Cylinders'
+semantic_tags:
+  - Fluid Dynamics
+  - Hydrodynamics
+  - Viscosity
+  - Taylor Vortices
+  - Stability Criteria
+tldr: This article investigates the stability of viscous flow between horizontal concentric cylinders, focusing on the formation of Taylor vortices. The authors propose a dimensionless number to correlate critical values of various parameters at the onset of these vortices, which can predict the critical conditions for different flow scenarios. Experimental verification of the theoretical work is also provided.
+scientific_discipline: Physics > Fluid Dynamics

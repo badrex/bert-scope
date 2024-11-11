@@ -1,0 +1,10 @@
+article_id: rspa_1937_0022
+revised_title: 'Bonds of Fractional Order in Aromatic Molecules'
+semantic_tags:
+  - Quantum Chemistry
+  - Aromatic Compounds
+  - Resonance Theory
+  - Bond Order
+  - Molecular Structure
+tldr: The author proposes a new method to calculate the order of bonds in aromatic molecules with resonance, which can help estimate the heat of formation and predict molecular structures. The method is based on the vector model and focuses on the interactions between neighboring atoms, providing a more accurate representation of bond orders in aromatic compounds.
+scientific_discipline: Chemistry > Quantum Chemistry

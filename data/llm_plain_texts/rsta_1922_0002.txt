@@ -1,0 +1,10 @@
+article_id: 'rsta_1922_0002'
+revised_title: 'The Problem of Finite Focal Depth in Seismometers'
+semantic_tags:
+  - Seismology
+  - Earthquake
+  - Seismic waves
+  - Focal depth
+  - Seismometers
+tldr: 'The author discusses the problem of finite focal depth in seismometers and analyzes the data from direct measurements of the angle of emergence. They find that a significant depth of focus implies a minimum angle of emergence and a point of inflexion on the time curve, which has important consequences for understanding seismic waves and the behavior of the Earth.'
+scientific_discipline: 'Environmental and Earth Sciences > Seismology'

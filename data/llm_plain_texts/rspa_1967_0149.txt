@@ -1,0 +1,10 @@
+article_id: rspa_1967_0149
+revised_title: Fracture Initiation at Elliptical Notches: A Study of Plasticity and Displacement
+semantic_tags:
+  - Fracture mechanics
+  - Plasticity
+  - Notch stress
+  - Anti-plane strain
+  - Elliptical notch
+tldr: This article investigates the initiation of fractures at elliptical notches in a semi-infinite body under anti-plane strain conditions. The study focuses on the spread of plasticity and the displacement of surfaces at the notch root as functions of the applied stress. The findings are compared with those for a sharp crack, providing insights into fracture initiation at defects in large structures.
+scientific_discipline: Engineering and Technology > Materials Science

@@ -1,0 +1,10 @@
+article_id: 106724
+revised_title: A New Method for Arranging Logarithmic Differences
+semantic_tags:
+  - Mathematics
+  - Logarithms
+  - Geometry
+  - Computation
+  - Mathematical Instruments
+tldr: The author, William Nicholson, presents a new method for arranging the differences of logarithms on lines graduated for computation. This method allows for easier calculations and the creation of mathematical instruments that can be used to find the relationships between numbers in geometrical progressions.
+scientific_discipline: Mathematics > Geometry

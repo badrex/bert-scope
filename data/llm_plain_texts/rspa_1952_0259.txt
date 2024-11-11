@@ -1,0 +1,10 @@
+article_id: 'rspa_1952_0259'
+revised_title: 'Erratum: The Initiation, Burning, and Thermal Decomposition of Gunpowder'
+semantic_tags:
+  - Chemistry
+  - Explosives
+  - Combustion
+  - Gunpowder
+  - Error Correction
+tldr: This article provides an erratum for the original paper on the initiation, burning, and thermal decomposition of gunpowder. It corrects a calculation error and updates the values for the burning rate and other parameters. The article also briefly reviews the history of gunpowder research and its various investigations.
+scientific_discipline: Chemistry > Explosives

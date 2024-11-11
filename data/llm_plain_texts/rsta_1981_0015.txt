@@ -1,0 +1,10 @@
+article_id: 'rsta_1981_0015'
+revised_title: 'Assessment of Defects: The C.O.D. Approach in Fracture Mechanics'
+semantic_tags:
+  - Fracture mechanics
+  - Materials science
+  - Welding
+  - Elasticity
+  - Plasticity
+tldr: The article discusses the concept of critical crack opening displacement (C.O.D.) as a measure of fracture toughness in assessing the significance of defects in structures and materials. The C.O.D. approach has been used in the assessment of failures and selection of material toughness requirements, but it has also faced criticism for being overly conservative in some cases.
+scientific_discipline: Engineering and Technology > Materials Science

@@ -1,0 +1,10 @@
+article_id: 'rstb_1970_0018'
+revised_title: 'X-ray Diffraction Studies of Rennin Crystals and Heavy Atom Uptake'
+semantic_tags:
+  - Crystallography
+  - Protein Structure
+  - X-ray Diffraction
+  - Heavy Atom Derivatives
+  - Rennin
+tldr: The authors studied the crystal structure of rennin using X-ray diffraction and explored the effects of various factors on heavy atom uptake. They found that crosslinking the crystals with glutaraldehyde improved their robustness and allowed for more experiments to influence heavy atom uptake. Despite these efforts, the authors were unable to find a simple heavy atom adduct that would provide a clear solution for the protein structure. The study raises questions about the relationship between protein size, accessibility of positive charges, and the complexity of heavy atom adducts.
+scientific_discipline: Biology and Life Sciences > Protein Structure and Crystallography

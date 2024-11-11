@@ -1,0 +1,10 @@
+article_id: rspa_1978_0136
+revised_title: 'Rotating Charged Dust in General Relativity: Analyzing the Newtonian Problem'
+semantic_tags:
+  - General Relativity
+  - Rotating Charged Dust
+  - Einstein-Maxwell Equations
+  - Astrophysics
+  - Gravitational Force
+tldr: This article explores the problem of charged dust rotating around an axis of symmetry in both Newtonian physics and general relativity. The author derives new cylindrically symmetric solutions for constant rotation and reduces the problem of differential rotation to a system of four coupled equations for four unknowns. The study provides insight into general relativity and the behavior of rotating particles in the theory.
+scientific_discipline: Physics > Astrophysics

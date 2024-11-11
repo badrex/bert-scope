@@ -1,0 +1,10 @@
+article_id: rsta_1995_0031
+revised_title: Correcting Surface Exchange Measurements of Nitrogen Oxides: A New Procedure
+semantic_tags:
+  - Atmospheric Chemistry
+  - Nitrogen Oxides
+  - Surface Exchange
+  - Micrometeorological Methods
+  - Environmental Science
+tldr: The authors developed a one-dimensional surface layer model to simulate the exchange of nitrogen oxides between land and atmosphere, accounting for chemical reactions in the air. They tested and compared various correction procedures to improve the accuracy of flux measurements. A new, simple correction procedure was introduced, which yielded more accurate results for surface fluxes of nitrogen oxides. This research is essential for understanding and managing air pollution and its impact on the environment.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

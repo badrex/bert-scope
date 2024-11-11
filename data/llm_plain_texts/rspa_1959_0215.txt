@@ -1,0 +1,10 @@
+article_id: rspa_1959_0215
+revised_title: Techniques of Physical Measurement in Space Research
+semantic_tags:
+  - Space Research
+  - Physical Measurement
+  - Spacecraft Instrumentation
+  - Satellite Technology
+  - Langmuir Probes
+tldr: This article discusses various techniques of physical measurement used in space research, including the use of unmanned laboratories, different types of instruments, and the adaptation of the Langmuir probe for rocket and satellite instrumentation. It highlights the challenges and environmental hazards faced in space research and the importance of making the most of available resources and technology.
+scientific_discipline: Engineering and Technology > Spacecraft Instrumentation

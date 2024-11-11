@@ -1,0 +1,10 @@
+article_id: rspa_1920_0045
+revised_title: Temperature Influence on Metal Rigidity
+semantic_tags:
+  - Material Science
+  - Metal Properties
+  - Temperature Effects
+  - Torsion-Balance
+  - Viscosity
+tldr: The author conducted experiments to study the effect of temperature on the rigidity of metals using a torsion-balance. They found that metals with lower melting points have a greater variation in rigidity with temperature. The author also discovered that metals have internal viscosity, which affects the measurements. The results show that the more fusible a metal, the greater the change in rigidity with temperature.
+scientific_discipline: Physics > Material Science

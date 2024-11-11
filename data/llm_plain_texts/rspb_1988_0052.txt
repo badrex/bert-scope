@@ -1,0 +1,10 @@
+article_id: 'rspb_1988_0052'
+revised_title: 'Effects of Calcitonin Gene-Related Peptide on Synaptic Acetylcholine Receptor-Channels in Rat Muscle Fibers'
+semantic_tags:
+  - 'Neurotransmitter Receptors'
+  - 'Calcitonin Gene-Related Peptide'
+  - 'Rat Muscle Fibers'
+  - 'Synaptic Acetylcholine Receptor-Channels'
+  - 'cAMP'
+tldr: The article investigates the effects of calcitonin gene-related peptide (CGRP) on synaptic acetylcholine receptor-channels in rat muscle fibers. The study found that CGRP significantly increased the variance of the acetylcholine receptor-channel amplitude distribution at the synaptic region of muscle fibers. This suggests that CGRP may regulate the synaptic acetylcholine receptor-channel conductance through second messenger systems.
+scientific_discipline: Biology and Life Sciences > Neurobiology

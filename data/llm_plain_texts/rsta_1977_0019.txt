@@ -1,0 +1,10 @@
+article_id: rsta_1977_0019
+revised_title: Advancements in Lunar and Satellite Laser Ranging Techniques
+semantic_tags:
+  - Laser Ranging
+  - Satellite Laser Ranging
+  - Lunar Laser Ranging
+  - Laser Technology
+  - Astronomy
+tldr: The article discusses the advancements in lunar and satellite laser ranging systems, focusing on second-generation systems using mode-locked Nd:YAG lasers and epoch timers. These systems can achieve an accuracy of a few centimeters and have the potential for even higher accuracy with the use of streak tubes and measurements at two wavelengths. The author also explores future developments, such as improvements in reflectivity, new host materials, and the use of heterodyne detection for more accurate measurements.
+scientific_discipline: Physics > Astronomy

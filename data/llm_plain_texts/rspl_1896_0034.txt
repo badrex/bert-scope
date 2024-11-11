@@ -1,0 +1,10 @@
+article_id: rspl_1896_0034
+revised_title: A Magnetic Detector for Electrical Waves and Its Applications
+semantic_tags:
+  - Electromagnetism
+  - Electrical waves
+  - Detector design
+  - Alternating currents
+  - Leyden jar discharges
+tldr: The authors investigate a magnetic detector for electrical waves and its applications. They demonstrate that the demagnetization of strongly magnetized steel needles can be used to detect and compare rapid alternating currents. The detector's sensitivity allows for detecting electrical waves at long distances and can be used to study waves along wires and free vibrating circuits of short wavelengths. The authors also explore methods for determining the period of oscillation of a Leyden jar circuit and the constants of a discharge circuit.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rspa_1973_0130
+revised_title: 'Heat Conduction in Random Suspensions of Spheres'
+semantic_tags:
+  - Heat conduction
+  - Suspension
+  - Sphere interactions
+  - Statistical mechanics
+  - Effective conductivity
+tldr: The authors study the conduction of heat through a random suspension of spherical particles in a matrix of uniform conductivity. They calculate the average heat flux to the second order, considering interactions between pairs of spheres, and provide a modified equation for the effective conductivity of the suspension.
+scientific_discipline: Physics > Thermodynamics

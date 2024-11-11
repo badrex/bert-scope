@@ -1,0 +1,10 @@
+article_id: rspa_1983_0016
+revised_title: 'Thermal Explosion and Times-to-Ignition in Systems with Distributed Temperatures: Part I - Reactant Consumption Ignored'
+semantic_tags:
+  - Thermal explosion
+  - Times-to-ignition
+  - Distributed temperatures
+  - Heat conduction
+  - Arrhenius temperature-dependence
+tldr: This article explores the evolution of temperature profiles in systems capable of reacting exothermically and potentially exploding, focusing on distributed temperatures and heat conduction. The authors provide analytical solutions for temperature histories in subcritical, critical, and supercritical circumstances, with a particular emphasis on marginally supercritical cases. The results have a simple and readily computable form for various geometries and rate laws, making the calculations easily extendable to further scenarios.
+scientific_discipline: Engineering and Technology > Heat Transfer and Thermal Engineering

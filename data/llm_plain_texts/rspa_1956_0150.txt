@@ -1,0 +1,10 @@
+article_id: rspa_1956_0150
+revised_title: 'Dislocation Density and Shape Strain in Deformed Crystals'
+semantic_tags:
+  - Crystallography
+  - Dislocations
+  - Continuum Mechanics
+  - Geometrical Transformations
+  - Strain Theory
+tldr: The authors explore the concept of dislocation density and shape strain in deformed crystals. They introduce a metric to measure distances in the dislocated state and discuss the implications of using a metric with a specific connection. The study focuses on the compatibility equations for finite strains and the relationship between dislocation density and shape strain in crystals.
+scientific_discipline: Physics > Crystallography

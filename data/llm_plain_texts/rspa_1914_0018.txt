@@ -1,0 +1,10 @@
+article_id: rspa_1914_0018
+revised_title: 'Discovery of Positive Ions from Hot Metals and Their Properties'
+semantic_tags:
+  - Ionization
+  - Thermionic emission
+  - Metal physics
+  - Electric charge
+  - Atomic structure
+tldr: 'The author, O.W. Richardson, investigates the positive ions emitted from hot metals and their properties. He discovers that the electric atomic weight of these ions is of the order of 30 for various tested substances, suggesting that they are atoms of sodium and potassium or molecules of common gases. The study improves the understanding of ionization and thermionic emission in metals.'
+scientific_discipline: Physics > Electromagnetism

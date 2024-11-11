@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0022'
+revised_title: 'Nucleotide-Induced Inhibition and Stimulation of ATP-Regulated K+ Channels in Pancreatic Cells'
+semantic_tags:
+  - Ion channels
+  - Nucleotide regulation
+  - Pancreatic cells
+  - ATP sensitivity
+  - Channel inhibition
+tldr: The article investigates the mechanisms by which nucleotides affect the activity of ATP-regulated potassium channels in mouse pancreatic cells. The authors find that ATP inhibits channel activity, while ADP, GDP, and GTP can stimulate the channels. They also discover that the inhibitory and stimulatory effects of nucleotides are mediated by separate processes, not by competition for a common inhibitory site. This suggests that nucleotides may modulate channel activity through various mechanisms, including regulation of cytoplasmic constituents and direct interaction with the channel and associated control proteins.
+scientific_discipline: Biology and Life Sciences > Cell Biology

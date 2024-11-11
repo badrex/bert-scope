@@ -1,0 +1,10 @@
+article_id: rspl_1880_0065
+revised_title: Experiments on Metallic Reflexion and Optical Constants of Gold
+semantic_tags:
+  - Optics
+  - Metallic reflection
+  - Gold surface properties
+  - Polarization
+  - Brewster's law
+tldr: The author conducted experiments on metallic reflection using gold plates and various liquids. They observed the effects of different polishing powders on the optical constants of the gold plates and tested the validity of Brewster's law for glass in contact with air, water, and carbon tetrachloride. The experiments showed that Brewster's law holds true for transparent bodies.
+scientific_discipline: Physics > Optics

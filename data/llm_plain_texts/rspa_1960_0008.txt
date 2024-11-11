@@ -1,0 +1,10 @@
+article_id: rspa_1960_0008
+revised_title: 'Electron Resonance Studies of Transition Metal Oxyions: Theory of Electron Resonance in Manganate'
+semantic_tags:
+  - Electron resonance
+  - Transition metal oxyions
+  - Manganate
+  - Spin Hamiltonian
+  - Crystal lattice
+tldr: This article presents a theory of electron resonance in manganate, a transition metal oxyion. The authors explain the ground state and the spin Hamiltonian, which describes the electron resonance spectrum of manganate. They also discuss the effects of the applied magnetic field, the interaction of electronic and nuclear magnetic moments, and the nuclear quadrupole interaction on the manganate's electron resonance spectrum. The study provides insights into the electronic structure and bonding in manganate compounds.
+scientific_discipline: Physics > Solid State Physics

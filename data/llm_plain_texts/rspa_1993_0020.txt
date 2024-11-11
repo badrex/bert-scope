@@ -1,0 +1,10 @@
+article_id: rspa_1993_0020
+revised_title: Nonlinear Resonant Response and Collapse of Hanging Chains: Theory and Experiment
+semantic_tags:
+  - Nonlinear Dynamics
+  - Chain Mechanics
+  - Resonance
+  - Cable Loading
+  - Asymptotic Analysis
+tldr: The authors study the three-dimensional nonlinear dynamics of a hanging chain driven by harmonic excitation at the top. They find that the chain's response is sensitive to excitation frequency and amplitude, with distinct regions of stable two-dimensional and three-dimensional response. The chain can also experience irregular motions, collapse, and self-intersection under certain conditions. The theoretical predictions are confirmed by experimental results.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

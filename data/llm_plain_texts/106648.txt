@@ -1,0 +1,10 @@
+article_id: 106648
+revised_title: 'Monthly Mean Heat of London from 1763 to 1772'
+semantic_tags:
+  - Climate
+  - Meteorology
+  - Temperature
+  - Historical data
+  - London
+tldr: This article presents a table of the mean heat of every month in London from 1763 to 1772. The data is collected by William Heberden and provides valuable information about the temperature variations in London during that period. The table includes the average temperature of the day and night, as well as the mean between these two values. The data is complemented with the mean of the coldest night recorded in Marlborough-street over twenty years by Lord Charles Cavendish.
+scientific_discipline: Environmental and Earth Sciences > Climate Science

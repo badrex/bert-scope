@@ -1,0 +1,10 @@
+article_id: rspa_1994_0118
+revised_title: 'Stability Analysis of Reaction-Diffusion Fronts in Cubic Autocatalysis'
+semantic_tags:
+  - Reaction-Diffusion Systems
+  - Nonlinear Stability Analysis
+  - Front Propagation
+  - Cubic Autocatalysis
+  - Mathematical Modeling
+tldr: The authors conducted a linear stability analysis of reaction-diffusion fronts with cubic autocatalysis, finding that the critical wavenumber for instability increases with the ratio of the diffusion coefficient of the reactant to that of the autocatalyst. This study improves upon previous work by using a numerically determined steady-state solution, providing more accurate results for the stability of reaction-diffusion fronts.
+scientific_discipline: Mathematics > Applied Mathematics

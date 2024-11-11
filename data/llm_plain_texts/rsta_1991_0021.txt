@@ -1,0 +1,10 @@
+article_id: 'rsta_1991_0021'
+revised_title: 'Many-Atom Interactions in Solids: Challenges and Approaches in Modeling Bonding'
+semantic_tags:
+  - Condensed Matter Physics
+  - Interatomic Interactions
+  - Computational Chemistry
+  - Quantum Mechanics
+  - Materials Science
+tldr: This article discusses the challenges in understanding and modeling bonding in condensed matter, particularly in complex processes involving atoms far from standard bonding patterns. It highlights the importance of many-atom interactions and reviews different approaches to modeling these interactions in computer simulations. The authors emphasize the need for accurate and versatile interatomic potential models to better understand and predict the behavior of materials in various conditions.
+scientific_discipline: Physics > Condensed Matter Physics

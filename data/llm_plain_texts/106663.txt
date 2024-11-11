@@ -1,0 +1,10 @@
+article_id: 106663
+revised_title: 'On the Probabilities of Survivorships and the Method of Determining Reversions'
+semantic_tags:
+  - Actuarial Science
+  - Probability Theory
+  - Life Insurance
+  - Life Expectancy
+  - Reversionary Payments
+tldr: The author, William Morgan, presents a method for determining the probabilities of survivorship between two individuals of any given ages using real observations from tables. This method can be used to calculate the value of reversions depending on those survivorships. The author also discusses the limitations of previous methods, such as the hypothesis of an equal decrement of life, and provides a new approach to calculating probabilities, which can be used to determine the value of annuities and life insurance policies.
+scientific_discipline: Mathematics > Actuarial Science

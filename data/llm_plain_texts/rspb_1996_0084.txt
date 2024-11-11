@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0084'
+revised_title: 'Optimal Resource Allocation and Interspecific Life-History Patterns in Animals with Indeterminate Growth'
+semantic_tags:
+  - Life-history patterns
+  - Resource allocation
+  - Indeterminate growth
+  - Optimal allocation
+  - Animal biology
+tldr: The author's model explains interspecific life-history patterns in animals with indeterminate growth, such as fish and reptiles, by considering optimal allocation of resources. The study shows that in a seasonal environment, animals should grow after maturation and allocate more resources to reproduction as they age. This leads to growth curves similar to Bertalanffy's, with growth constants and asymptotic lengths. The model generates patterns consistent with empirical findings, including positive correlations between mortality rate, growth constant, and size at maturity, and between size at maturity and asymptotic length.
+scientific_discipline: Biology and Life Sciences > Ecology and Evolution

@@ -1,0 +1,10 @@
+article_id: rspa_1963_0144
+revised_title: 'Energy of Vacancies in Graphite Crystals: A Theoretical Study'
+semantic_tags:
+  - Graphene
+  - Crystal defects
+  - Vacancy formation energy
+  - Carbon materials
+  - Nuclear graphite
+tldr: The authors conducted a theoretical study on the energy of vacancies in graphite crystals, focusing on the loss of electron energy due to the formation of vacancies. They calculated the energies of various electronic states and found that the lowest state for a neutral vacancy would be a doubly excited state of symmetry. The study provides insights into the physical and chemical properties of irradiated graphite, which is essential for understanding and preventing accidents in nuclear reactors.
+scientific_discipline: Physics > Materials Science

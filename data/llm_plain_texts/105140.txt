@@ -1,0 +1,10 @@
+article_id: 105140
+revised_title: Servington Savery's Invention of a New Micrometer for Measuring the Sun's Diameter
+semantic_tags:
+  - Micrometry
+  - Astronomy
+  - Telescope design
+  - Sun's diameter measurement
+  - Optics
+tldr: The article discusses Servington Savery's invention of a new micrometer for measuring the difference in the sun's diameter at different times of its orbit. The micrometer is placed in a telescope and can measure the distance between two images of the sun, allowing for more accurate measurements of the sun's diameter. The author also describes the design and construction of the telescope, which uses both dioptric and reflecting lenses to achieve the desired magnification.
+scientific_discipline: Physics > Astronomy

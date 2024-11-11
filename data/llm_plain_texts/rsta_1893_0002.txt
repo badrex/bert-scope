@@ -1,0 +1,10 @@
+article_id: rsta_1893_0002
+revised_title: The Potential and Kinetic Energy of Anchor Rings
+semantic_tags:
+  - Fluid Dynamics
+  - Hydrodynamics
+  - Laplace's Equation
+  - Elliptic Functions
+  - Anchor Ring Geometry
+tldr: The author presents a method for dealing with questions related to anchor rings and their potential. They derive solutions to Laplace's equation for various cases and discuss the kinetic energy of anchor rings. The study of anchor rings and their potential has applications in fluid dynamics and hydrodynamics.
+scientific_discipline: Mathematics > Applied Mathematics

@@ -1,0 +1,10 @@
+article_id: rspa_1980_0145
+revised_title: Imaginary-Frequency Modes of Black Holes: A Mathematical Analysis
+semantic_tags:
+  - Black Holes
+  - Gravitational Physics
+  - Astrophysics
+  - Mathematics
+  - Spheroidal Wave Equations
+tldr: This article explores the interior modes of black holes using imaginary-frequency waves. The authors analyze the radial wave equation and the spin-weighted spheroidal wave equation to understand the behavior of waves inside black holes. They find that these waves are analogous to external quasi-normal modes and can be used to study the interior of black holes and their properties.
+scientific_discipline: Physics > Astrophysics

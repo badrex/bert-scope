@@ -1,0 +1,10 @@
+article_id: rsta_1989_0056
+revised_title: Optical Technology and Wideband Local Networks: All-Digital Techniques for Optical Broadband ISDN
+semantic_tags:
+  - Optical Communications
+  - Broadband Networks
+  - Asynchronous Transfer Mode
+  - Fiber Optics
+  - Switching Techniques
+tldr: This article discusses the development of all-digital techniques for optical broadband ISDN (Integrated Services Digital Network) and the use of space division circuit switching and high-speed packet switching in wideband local networks. The focus is on the hardware for a second-generation prototype of a local access B1SDN (Broadband ISDN) that uses single-mode fiber and S0NET (Standard Optical Network) transmission system. The article also explores the advantages and challenges of asynchronous transfer mode and the interface parameters for B1SDN.
+scientific_discipline: Engineering and Technology > Telecommunications

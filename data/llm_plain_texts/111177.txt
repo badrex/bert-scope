@@ -1,0 +1,10 @@
+article_id: 111177
+revised_title: 'Experimental Researches in Electricity: Twenty-Ninth Series'
+semantic_tags:
+  - Electromagnetism
+  - Faraday's law
+  - Magnetic force
+  - Electromagnetic induction
+  - Magnetism
+tldr: In this series of experiments, Michael Faraday investigates the principles of magnetic force and the relationship between the number of lines of force intersected by a moving wire and the amount of deflection produced. He also explores the effects of different wire thicknesses and arrangements, and the influence of magnets on each other's forces. Faraday concludes that coalescing lines of force from different magnets does not increase the total force and that the analogy between magnets and voltaic piles is perfect.
+scientific_discipline: Physics > Electromagnetism

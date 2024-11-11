@@ -1,0 +1,10 @@
+article_id: 108012
+revised_title: 'Faraday's Experiments on Electrochemical Decomposition and the Role of Poles'
+semantic_tags:
+  - Electrochemistry
+  - Decomposition
+  - Electricity
+  - Faraday's Law
+  - Electrodes
+tldr: 'In this series of experiments, Michael Faraday investigates the role of poles in electrochemical decomposition. He demonstrates that a single pole can cause decomposition and the transfer of elements in a decomposing body, challenging the notion that two metallic poles are required for electrochemical reactions. Faraday also discovers that the direction of the electric current determines the element's transfer and the formation of acids and alkalis.'
+scientific_discipline: Chemistry > Electrochemistry

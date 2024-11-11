@@ -1,0 +1,10 @@
+article_id: 'rsta_1992_0042'
+revised_title: 'Thermochemistry and Reaction Pathways of Energetic Material Decomposition and Combustion'
+semantic_tags:
+  - Energetic materials
+  - Thermochemistry
+  - Decomposition
+  - Combustion
+  - Quantum chemistry
+tldr: This article investigates the chemical processes involved in the decomposition and combustion of energetic materials using quantum chemical methods to determine their thermochemistry and reaction pathways. The Bond-Additivity-Corrected Møller-Plesset fourth-order perturbation theory method is used to calculate heats of formation and free energies of reaction intermediates, as well as reaction pathways. The study focuses on nitramines and nitromethane, discussing differences in decomposition mechanisms for gas and condensed phases and the effects of amines on the initial stages of condensed-phase nitromethane decomposition.
+scientific_discipline: Chemistry > Thermochemistry

@@ -1,0 +1,10 @@
+article_id: 'rspa_1994_0082'
+revised_title: 'Inverse Problem Method for Crack Detection in Elastic Materials'
+semantic_tags:
+  - Elasticity
+  - Inverse problem
+  - Crack detection
+  - Anti-plane strain
+  - Boundary integral equations
+tldr: The authors developed a simple inverse problem method for detecting cracks in elastic materials under anti-plane strain. They assumed that the medium has an internal closed boundary with known displacements and stresses and that the crack begins on this boundary. Using Cauchy's theorem for integration of analytic functions, they created a method to determine the parametric equations of each side of the crack using the corresponding displacements as parameters. This method is valid for functions that tend to infinity and for finite and infinite cracks.
+scientific_discipline: Engineering and Technology > Materials Science

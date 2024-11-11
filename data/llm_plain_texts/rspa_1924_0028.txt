@@ -1,0 +1,10 @@
+article_id: rspa_1924_0028
+revised_title: 'The Influence of Varying Initial Pressures on Gaseous Combustion and Nitrogen Activation in Carbon Monoxide-Air Explosions'
+semantic_tags:
+  - Combustion
+  - High-pressure chemistry
+  - Nitrogen activation
+  - Gas explosions
+  - Carbon monoxide
+scientific_discipline: Chemistry > Chemical kinetics
+tldr: This study investigates the effect of varying initial pressures on the rate of pressure development and nitrogen activation in carbon monoxide-air explosions. The authors found that nitrogen absorbs energy from burning carbon monoxide, causing it to become more active. This energy absorption affects the rate of pressure development and leads to a slower cooling period, which can be observed in the pressure-time curves. The findings provide insight into the complex processes involved in high-pressure combustion and the role of nitrogen in these reactions.

@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0159'
+revised_title: 'Investigation of Single-Channel Currents from Recombinant NMDA NR1a/NR2D Receptors in Xenopus Oocytes'
+semantic_tags:
+  - 'Neuroscience'
+  - 'Recombinant NMDA receptors'
+  - 'Single-channel currents'
+  - 'Xenopus oocytes'
+  - 'Glutamate activation'
+tldr: 'The study investigates the single-channel currents and properties of recombinant NMDA NR1a/NR2D receptors expressed in Xenopus oocytes. The researchers found that the EC50 for apparent steady-state activation of NR1a/NR2D receptors by glutamate was 450 nM, and extracellular Mg2+ produced a voltage-dependent block of glutamate responses with an IC50 of 440 µM at -70 mV. The study provides insights into the single-channel conductance and behavior of these receptors, which can help in understanding their role in the central nervous system.'
+scientific_discipline: Biology and Life Sciences > Neuroscience

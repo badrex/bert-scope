@@ -1,0 +1,10 @@
+article_id: 'rspb_1976_0086'
+revised_title: 'Changes in Target Cell Susceptibility During the Cell Cycle in T Cell Mediated Cytotoxicity'
+semantic_tags:
+  - Immunology
+  - Cytotoxicity
+  - T cell
+  - Cell cycle
+  - Target cell susceptibility
+tldr: The authors conducted experiments to understand the changes in target cell susceptibility during the cell cycle in T cell mediated cytotoxicity. They found that mastocytoma P815 shows higher susceptibility to specific anti-H2d cytotoxic T cells during the early phases of the cell cycle. The changes in H2d antigen density and susceptibility to T cells vary independently. Meth A, a methylcholanthrene-induced tumor, shows no changes in susceptibility to T cell cytotoxicity during the cell cycle. These findings suggest that the greater susceptibility to T cell cytotoxicity during the G1 phase is not a trivial consequence of increased sensitivity or directly related to changes in antigen density.
+scientific_discipline: Biology and Life Sciences > Immunology

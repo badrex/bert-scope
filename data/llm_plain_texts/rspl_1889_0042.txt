@@ -1,0 +1,10 @@
+article_id: 'rspl_1889_0042'
+revised_title: 'Temperature Effects on the Specific Inductive Capacity of Dielectrics'
+semantic_tags:
+  - Dielectrics
+  - Temperature effects
+  - Specific inductive capacity
+  - Electromagnetic theory
+  - Refractive index
+tldr: This article investigates the effect of temperature on the specific inductive capacity of various dielectrics, including mica and liquids. The author measures the capacity using different methods and compares the results with the rate of change of refractive index. The findings show that for some dielectrics, the effects of temperature on specific inductive capacity and refractive index are of the same order of magnitude, while for others, like glycerine, there is no similarity.
+scientific_discipline: Physics > Electromagnetism

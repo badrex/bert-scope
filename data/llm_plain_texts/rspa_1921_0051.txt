@@ -1,0 +1,10 @@
+article_id: rspa_1921_0051
+revised_title: 'Investigation of Thermal Diffusion in Gas Mixtures'
+semantic_tags:
+  - Thermal diffusion
+  - Gas mixtures
+  - Gas separation
+  - Katharometer
+  - Gas analysis
+tldr: This article presents experiments on thermal diffusion in gas mixtures of hydrogen and carbon dioxide. The authors use a katharometer to measure the differences in composition due to thermal diffusion. They find that the effect increases with the temperature gradient and is greatest when the gases are mixed in nearly equal proportions. The results support the theoretical predictions of Dr. S. Chapman and show that the maximum separation occurs in mixtures containing about 50% of each gas.
+scientific_discipline: Physics > Thermodynamics

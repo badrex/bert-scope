@@ -1,0 +1,10 @@
+article_id: rspa_1951_0160
+revised_title: 'Modes of Rupture in the Thermal Decomposition of Paraffin Hydrocarbons'
+semantic_tags:
+  - Chemical kinetics
+  - Thermal decomposition
+  - Carbon chain rupture
+  - Paraffin hydrocarbons
+  - Activation energy
+tldr: The authors studied the thermal decomposition of normal paraffin hydrocarbons and found that the modes of rupture in the carbon chain are independent of temperature and pressure. They discovered that the relative probability of rupture decreases with distance from the end of the carbon chain, and the proportions of the products formed remain unchanged in both inhibited and non-inhibited reactions.
+scientific_discipline: Chemistry > Chemical kinetics

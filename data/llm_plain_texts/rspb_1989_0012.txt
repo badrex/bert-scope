@@ -1,0 +1,10 @@
+article_id: 'rspb_1989_0012'
+revised_title: 'Non-Mitochondrial Calcium Ion Regulation in Rat Cardiac Myocytes: A Study on Cellular Calcium Exchange'
+semantic_tags:
+  - Calcium regulation
+  - Cardiac muscle
+  - Cellular compartments
+  - Calcium exchange
+  - Sarcoplasmic reticulum
+tldr: This study investigates the non-mitochondrial calcium ion regulation in rat ventricular myocytes. Researchers found that the non-mitochondrial fraction of the cell has a large capacity for calcium accumulation and can significantly contribute to tension relaxation in rat cardiac muscle. The findings suggest that both non-mitochondrial and mitochondrial fractions of the cell can reduce the sarcoplasmic concentration rapidly enough to account for the observed transient nature of the isometric twitch.
+scientific_discipline: Biology and Life Sciences > Cellular Biology and Physiology

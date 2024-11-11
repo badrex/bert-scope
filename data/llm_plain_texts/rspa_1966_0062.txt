@@ -1,0 +1,10 @@
+article_id: rspa_1966_0062
+revised_title: Advances in Seismic Recording and Analysis Techniques
+semantic_tags:
+  - Seismology
+  - Earthquake detection
+  - Data processing
+  - Epicenter determination
+  - Seismic station readings
+tldr: This article discusses recent advancements in the technique of seismic recording and analysis, focusing on the collection and processing of seismic station readings. The International Seismological Research Centre in Edinburgh uses a standardized format for submitting data, which is then fed into a computer for error checking and epicenter determination. The article also explores the use of reference points and travel times to locate the source of seismic events and improve the efficiency of earthquake detection.
+scientific_discipline: Earth Sciences > Seismology

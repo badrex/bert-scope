@@ -1,0 +1,10 @@
+article_id: rspl_1901_0072
+revised_title: The Stability of Spherical Nebulae and Meteoric Swarms
+semantic_tags:
+  - Astrophysics
+  - Nebulae
+  - Meteorites
+  - Celestial mechanics
+  - Fluid dynamics
+tldr: This paper examines the stability of spherical nebulae and meteoric swarms, focusing on the differences between liquid and gaseous masses. The author concludes that while a liquid's stability relies on gravitation, a gaseous mass' stability is influenced by elasticity and rotation. The paper also discusses the potential division of a nebula into two smaller ones and the regaining of stability during cooling.
+scientific_discipline: Physics > Astrophysics

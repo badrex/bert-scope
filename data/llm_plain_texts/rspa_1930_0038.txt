@@ -1,0 +1,10 @@
+article_id: rspa_1930_0038
+revised_title: The Interaction of Electric Charges and the Nature of Space-Time
+semantic_tags:
+  - Quantum Mechanics
+  - Electromagnetism
+  - Space-Time
+  - Matrix Theory
+  - Lorentz Transformations
+tldr: The author, A. S. Eddington, investigates the interaction of electric charges and proposes a new way to understand space-time using matrix theory. They introduce the concept of space-vectors with five components, which can be rotated like vectors in the elementary theory of vectors. Eddington identifies this 5-dimensional domain with real space-time, where three dimensions are spacelike and two are timelike. This domain allows for all rotations of space axes, a rotation between the two time axes, and Lorentz transformations between any space axis and either time axis.
+scientific_discipline: Physics > Electromagnetism

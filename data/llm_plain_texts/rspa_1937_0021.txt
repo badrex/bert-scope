@@ -1,0 +1,10 @@
+article_id: rspa_1937_0021
+revised_title: Electronic Structure of Aromatic Molecules
+semantic_tags:
+  - Quantum Chemistry
+  - Molecular Orbital Theory
+  - Aromaticity
+  - Organic Chemistry
+  - Chemical Bonding
+tldr: The authors apply molecular orbital theory to study the electronic structure of aromatic molecules like benzene and cyclobutadiene. They find that benzene exists as a regular hexagon, while other cyclic molecules are irregular with alternating link lengths. The authors also calculate the energy levels and resonance energies of these molecules, providing insights into their stability and reactivity.
+scientific_discipline: Chemistry > Organic Chemistry

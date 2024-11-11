@@ -1,0 +1,10 @@
+article_id: rspa_1931_0159
+revised_title: 'Spectral Analysis of Iodine Arc Spectrum'
+semantic_tags:
+  - Spectroscopy
+  - Iodine Spectrum
+  - High Frequency Discharge
+  - Quartz Capillary
+  - Term Scheme
+tldr: The authors conducted an experiment to analyze the arc spectrum of iodine using a high-frequency discharge in a quartz capillary. They found that the strong arc lines were between X 4700 and the infra-red limit of the sensitized photographic plate. The study also investigated the behavior of doublets and groups of lines in the red and far-red region, which were suggested to belong to the arc spectrum. The authors provided a theoretical term scheme for iodine, which showed that terms based on 3P of the ion were expected to be more prominent than those based on XD and XS.
+scientific_discipline: Physics > Spectroscopy

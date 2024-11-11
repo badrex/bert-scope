@@ -1,0 +1,10 @@
+article_id: rspa_1974_0028
+revised_title: 'Rational Approximants in Multiple Variables: Properties and Generalizations'
+semantic_tags:
+  - Approximation Theory
+  - Pade Approximants
+  - Complex Variables
+  - Homographic Transformations
+  - Rational Functions
+tldr: The article introduces rational approximants in multiple variables, extending the concept of Pade approximants. It discusses their properties, such as symmetry, existence, and uniqueness, and provides proofs for homographic invariance and reciprocal invariance. The authors also define three-variable and -variable approximants, generalizing the two-variable case, and outline their geometrical configurations and associated properties.
+scientific_discipline: Mathematics > Approximation Theory

@@ -1,0 +1,11 @@
+article_id: rspa_1982_0148
+revised_title: 'Exact Analytical Solutions for the Few-Particle Schrödinger Equation: A Perturbation Study'
+semantic_tags:
+  - Quantum Mechanics
+  - Schrödinger Equation
+  - Perturbation Theory
+  - Rayleigh-Schrodinger Perturbation Equations
+  - Hermitian Operators
+tldr: This article presents a perturbation study on finding exact analytical solutions for the few-particle Schrödinger equation. The authors use Rayleigh-Schrodinger perturbation theory to analyze restricted two- and three-body systems. They demonstrate the procedure by applying it to a hydrogen atom perturbed by stationary point charges, providing results for the ground and some excited states.
+
+scientific_discipline: Physics > Quantum Mechanics

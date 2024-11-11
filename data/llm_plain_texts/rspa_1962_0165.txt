@@ -1,0 +1,10 @@
+article_id: rspa_1962_0165
+revised_title: 'Comparing the Effects of Ultra-Violet and Gamma Radiation on Polymethylmethacrylate'
+semantic_tags:
+  - Polymer degradation
+  - Radiation chemistry
+  - Ultra-violet radiation
+  - Gamma radiation
+  - Polymethylmethacrylate
+tldr: The authors compared the effects of ultra-violet and gamma radiation on polymethylmethacrylate, a common plastic. They found that at room temperature, ultra-violet radiation causes random main chain fractures, while gamma radiation leads to chain depolymerization. The energy absorbed per main chain fracture is higher for gamma radiation. Both types of radiation produce similar reactions, with the number of fractures proportional to the dose and similar radicals formed. The study shows that ultra-violet and gamma radiation have different effects on the polymer, with minimal contribution from ionization in gamma radiation.
+scientific_discipline: Chemistry > Polymer Science

@@ -1,0 +1,10 @@
+article_id: rspa_1965_0027
+revised_title: Hyperfine Coupling Field and Nuclear Magnetic Dipole Moment in Gold Isotopes in Iron
+semantic_tags:
+  - Nuclear Physics
+  - Hyperfine Coupling
+  - Nuclear Magnetic Resonance
+  - Ferromagnetic Metals
+  - Radioactive Decay
+tldr: The authors studied the hyperfine coupling field and nuclear magnetic dipole moment in radioactive gold isotopes dissolved in iron. They used a refined technique to measure the temperature and found two independent and self-consistent values of the hyperfine coupling field. This allowed them to determine the nuclear magnetic dipole moment for the gold isotope. The results were compared with calculations based on the nuclear single-particle model and showed good agreement with previous Mossbauer studies.
+scientific_discipline: Physics > Nuclear Physics

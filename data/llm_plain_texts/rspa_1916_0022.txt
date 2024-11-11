@@ -1,0 +1,10 @@
+article_id: rspa_1916_0022
+revised_title: 'Effect of Speed and Recovery in Alternating Stress Tests'
+semantic_tags:
+  - Fatigue
+  - Mechanical properties of materials
+  - Stress analysis
+  - Torsion tests
+  - Material hardening
+tldr: The authors conducted experiments on steel torsion tests and found that the non-elastic strain changes depending on the frequency of the stress cycles. When the frequency is decreased, the non-elastic strain increases, and when the frequency is increased, the non-elastic strain decreases. This phenomenon is explained by the hardening or loss of mobility in the material. The rate of recovery is significant just after the change of speed and then diminishes quickly.
+scientific_discipline: Engineering and Technology > Mechanical properties of materials

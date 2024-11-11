@@ -1,0 +1,10 @@
+article_id: rsta_1958_0002
+revised_title: Ion Mobilities in Unike Gases: Theoretical Analysis and Approximations
+semantic_tags:
+  - Ion mobility
+  - Gas interactions
+  - Theoretical physics
+  - Approximation methods
+  - Diffusion cross-section
+tldr: The authors analyze the mobility of ions in unlike gases, focusing on the interaction between an ion and a gas atom. They discuss various approximations, such as Jeffreys's and Born's, to evaluate the phase shifts and diffusion cross-sections. The study demonstrates that the diffusion cross-sections and mobility are independent of short-range repulsive forces when they are negligible at certain separations. The findings are relevant to understanding gas interactions and ion mobility at low temperatures.
+scientific_discipline: Physics > Theoretical Physics

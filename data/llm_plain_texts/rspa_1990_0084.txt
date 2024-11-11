@@ -1,0 +1,10 @@
+article_id: rspa_1990_0084
+revised_title: 'Oscillations and Deformations of Electrostatically Levitated Drops'
+semantic_tags:
+  - Fluid Dynamics
+  - Electrostatics
+  - Drop Dynamics
+  - Oscillations
+  - Levitation
+tldr: This article presents an asymptotic analysis of the axisymmetric oscillations of charged conducting drops levitated in a uniform electric field. The authors develop a mathematical framework of multiple-parameter perturbations to investigate the complex behaviors of electrostatically levitated drops. The study is relevant to various applications, including aerosol particle investigations, thunderstorm research, radar signal analysis, and containerless material processing.
+scientific_discipline: Physics > Fluid Dynamics

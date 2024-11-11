@@ -1,0 +1,10 @@
+article_id: rsta_1968_0033
+revised_title: Investigating the Shape of Progressive Internal Waves
+semantic_tags:
+  - Fluid Dynamics
+  - Internal Waves
+  - Wave Theory
+  - Oceanography
+  - Density Profiles
+tldr: This article explores the shape and behavior of progressive internal waves in a stably stratified fluid. The authors review previous studies on small amplitude internal waves and present new findings on finite amplitude waves in interfacial and continuously stratified fluids. They also examine the validity of the Boussinesq approximation and discuss experimental evidence confirming some theoretical predictions. 
+scientific_discipline: Physics > Fluid Dynamics

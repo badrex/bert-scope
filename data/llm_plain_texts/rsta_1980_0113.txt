@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0113'
+revised_title: 'The Impact of Trace Elements on the Creep and Stress-Rupture Properties of Nimonic 105'
+semantic_tags:
+  - Materials Science
+  - Creep Properties
+  - Stress-Rupture
+  - Trace Elements
+  - Alloy
+tldr: This study investigates the influence of trace elements, such as lead, tin, technetium, selenium, and thallium, on the creep and stress-rupture properties of Nimonic 105. The research found that these elements, except for tin, reduce the life to rupture and ductility at failure when present in significant amounts. The most damaging impurities were tellurium and lead. The presence of impurities accelerates the rate of cavitation damage during creep, leading to a higher density of cavitation in fractured specimens and lower elongation at rupture.
+scientific_discipline: Materials Science > Alloy Properties

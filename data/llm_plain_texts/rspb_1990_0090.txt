@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0090'
+revised_title: 'Revisiting Inclusive Fitness and its Measurement'
+semantic_tags:
+  - Evolutionary Biology
+  - Inclusive Fitness Theory
+  - Social Behavior
+  - Cooperative Breeding Systems
+  - Animal Behavior
+tldr: The author discusses the challenges in applying inclusive fitness theory to field studies and proposes a modified definition of inclusive fitness based on Hamilton's original model. This new definition helps resolve the issue of breeding animals having no fitness in cooperative breeding systems, such as in dwarf mongooses and other obligate cooperative breeders.
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

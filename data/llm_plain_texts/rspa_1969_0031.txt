@@ -1,0 +1,10 @@
+article_id: rspa_1969_0031
+revised_title: Crystallography and Paramagnetic Anisotropy of Potassium Ferricyanide
+semantic_tags:
+  - Crystallography
+  - Paramagnetism
+  - Potassium Ferricyanide
+  - Crystal Field Theory
+  - X-ray Crystallography
+tldr: The authors conducted X-ray crystallography studies on potassium ferricyanide to determine its crystal structure at 300 and 95 Kelvin. They found that the coordination octahedra are slightly distorted, with a small tetragonal elongation along Fe-CN bonds. The crystal paramagnetic susceptibilities are characterized by a unique, lower moment parallel to the c-axis. The crystal anisotropy is dominated by the coulombic field set up by adjacent potassium ions in the lattice. A simple crystal-field approach using symmetry-adapted, zero-order wavefunctions on the iron atoms predicts the correct direction and relative magnitudes of the crystal magnetic anisotropies.
+scientific_discipline: Chemistry > Crystallography

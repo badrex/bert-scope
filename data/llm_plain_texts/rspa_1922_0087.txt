@@ -1,0 +1,10 @@
+article_id: 'rspa_1922_0087'
+revised_title: 'Investigation of Alpha-Particle Tracks and the Inverse Square Law of Force'
+semantic_tags:
+  - Nuclear Physics
+  - Particle Acceleration
+  - Atomic Collisions
+  - Nuclear Force
+  - Experimental Physics
+tldr: 'The authors used C.T.R. Wilson's cloud chamber method to study the tracks of alpha particles passing through gases. They found that the frequency of sudden bends in the tracks increased towards the end of the particle's range, but the distribution of bends was consistent with the inverse square law of force between the alpha particles and atomic nuclei. This study did not support the hypothesis of anomalous collisions near the end of the tracks and provided insights into the dynamics of atomic collisions.'
+scientific_discipline: Physics > Nuclear Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1923_0103
+revised_title: 'Motion of Solid Bodies in Rotating Fluids: Experiments and Observations'
+semantic_tags:
+  - Fluid dynamics
+  - Rotating fluids
+  - Streamlines
+  - Vortices
+  - Experimental physics
+tldr: The author conducted experiments to study the motion of solid bodies in rotating fluids. They observed that the motion of a cylinder or sphere in a rotating fluid creates a unique pattern of vortices and streamlines. The experiments showed that the fluid behaves as if a solid cylindrical body were being moved through it, providing insights into the complex interactions between rotating fluids and solid objects.
+scientific_discipline: Physics > Fluid Dynamics

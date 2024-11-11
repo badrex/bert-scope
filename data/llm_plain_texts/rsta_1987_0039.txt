@@ -1,0 +1,10 @@
+article_id: rsta_1987_0039
+revised_title: Wall Effects and Impurities in JET: A Review of Impurity Investigations in the JET Tokamak
+semantic_tags:
+  - Nuclear Fusion
+  - Tokamak
+  - Impurities
+  - Plasma Physics
+  - Wall Effects
+tldr: This article discusses the impurity investigations carried out on the JET tokamak, focusing on wall effects and impurities' impact on plasma conditions. The main contaminants in JET are carbon, oxygen, and nickel, and their concentrations depend on wall conditioning methods, plasma parameters, and heating power. Impurities can dilute the reacting plasma, reducing fusion power and causing radiation losses. The article highlights various methods to control impurities and improve plasma conditions for controlled nuclear fusion.
+scientific_discipline: Physics > Plasma Physics

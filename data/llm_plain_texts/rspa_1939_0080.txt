@@ -1,0 +1,10 @@
+article_id: rspa_1939_0080
+revised_title: 'Mean Free Path of Electrons in Polar Crystals: A Theoretical Study'
+semantic_tags:
+  - Semiconductors
+  - Crystal Physics
+  - Electron Scattering
+  - Polar Crystals
+  - Thermal Equilibrium
+tldr: This article calculates the mean free path of electrons in polar crystals, focusing on slow electrons in thermal equilibrium. The authors use a theoretical formula to determine the mean free path and compare their results with experimental data from semi-conductors and photo-conductive materials. The study provides insights into the behavior of electrons in polar crystals and their interaction with lattice vibrations.
+scientific_discipline: Physics > Crystal Physics

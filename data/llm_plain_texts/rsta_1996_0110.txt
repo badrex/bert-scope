@@ -1,0 +1,10 @@
+article_id: rsta_1996_0110
+revised_title: Advances in Semiconductor Tunnelling Devices for Terahertz Circuits and Simulations
+semantic_tags:
+  - Terahertz technology
+  - Semiconductor devices
+  - Circuit design
+  - Quantum hydrodynamic models
+  - Resonant tunnelling diodes
+tldr: This article reviews the current state-of-the-art in device and circuit simulation, design, and application for semiconductor devices operating in the terahertz regime. It discusses the evolution of physical models to describe and investigate tunnelling and other ultra-small device structures, as well as simulations based on quantum hydrodynamic models and self-consistent solutions of the Poisson and Schrodinger equations. The article also explores equivalent circuit extraction methods, device models, and examples of results obtained from simulations of terahertz devices, including resonant tunnelling structures.
+scientific_discipline: Physics > Electromagnetism

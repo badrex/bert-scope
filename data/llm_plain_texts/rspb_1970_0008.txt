@@ -1,0 +1,10 @@
+article_id: 'rspb_1970_0008'
+revised_title: 'Effects of Nerve Stimulation on Transmitter Overflow and Gluconeogenesis in Perfused Rat Liver'
+semantic_tags:
+  - 'Liver perfusion'
+  - 'Gluconeogenesis'
+  - 'Sympathetic transmitter'
+  - 'Nerve stimulation'
+  - 'Rat physiology'
+tldr: The authors developed a simplified method for perfusing a rat's liver with blood and studied the effects of nerve stimulation on transmitter overflow and gluconeogenesis. They found that nerve stimulation caused a transient increase in gluconeogenesis and that transmitter overflows were small for rat livers but larger for guinea-pig livers. This research provides insights into the relationship between sympathetic nervous system and liver metabolism.
+scientific_discipline: Biology and Life Sciences > Physiology

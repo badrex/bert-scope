@@ -1,0 +1,10 @@
+article_id: 112010
+revised_title: 'Comparison of Magnetic Disturbances at Kew and Lisbon in 1863'
+semantic_tags:
+  - Magnetography
+  - Geomagnetism
+  - Magnetic disturbances
+  - Self-recording magnetographs
+  - Lisbon Observatory
+tldr: This article compares the magnetic disturbances recorded by self-recording magnetographs at Kew and Lisbon Observatories during July 15-25, 1863. The authors found that the disturbances affected the horizontal force, vertical force, and declination differently, and that the Lisbon curves showed a nearly constant ratio between the changes in the vertical force and declination. The study also revealed that there might be two independent forces acting simultaneously at Lisbon, one approximately horizontal and the other in the vertical plane.
+scientific_discipline: Physics > Geomagnetism

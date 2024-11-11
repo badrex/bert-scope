@@ -1,0 +1,10 @@
+article_id: rspa_1956_0155
+revised_title: 'Paramagnetic Resonance in Dilute Iron Group Fluorides: Wave Functions of Magnetic Electrons'
+semantic_tags:
+  - Magnetic Resonance
+  - Iron Group Fluorides
+  - Wave Functions
+  - Spin Hamiltonian
+  - Crystal Lattice
+tldr: The article explores the wave functions of magnetic electrons in dilute iron group fluorides using paramagnetic resonance. The authors interpret data on the hyperfine structure and coupling tensors to understand the charge transfer and probability of magnetic electrons in the crystal lattice. They suggest that fluorine s and p functions are required to explain the observed effects, and discuss the role of orbital interactions and spin-orbit coupling in these systems.
+scientific_discipline: Physics > Solid State Physics

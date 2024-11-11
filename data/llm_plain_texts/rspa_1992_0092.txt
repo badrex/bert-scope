@@ -1,0 +1,10 @@
+article_id: rspa_1992_0092
+revised_title: Acoustic Signature Analysis of Surface-Cracking Using Point Focus Microscope
+semantic_tags:
+  - Acoustic Microscopy
+  - Surface-Cracking Detection
+  - Rayleigh Waves
+  - Scanning Acoustic Microscope
+  - Elastic Materials
+tldr: This study constructs the acoustic signature of a surface-breaking crack in an elastic material produced by a point focus scanning acoustic microscope. The authors develop a theoretical calculation for the incident axisymmetric focused beam and the wavefields scattered from the specimen. They also estimate the wavefield scattered from the crack by tracing leaky Rayleigh rays reflected and transmitted by the crack. Lastly, they calculate the acoustic signature using an electromechanical reciprocity identity, which links the voltage measured at the microscope's transducer to the scattered acoustic wavefields at the surface of the specimen.
+scientific_discipline: Engineering and Technology > Acoustic Engineering

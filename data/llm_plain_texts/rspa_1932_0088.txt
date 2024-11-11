@@ -1,0 +1,10 @@
+article_id: rspa_1932_0088
+revised_title: Quantum Mechanics and Electrochemistry: A Comprehensive Study
+semantic_tags:
+  - Electrochemistry
+  - Quantum mechanics
+  - Electrode potential
+  - Contact potential
+  - Solution pressure
+scientific_discipline: Chemistry > Electrochemistry
+tldr: This article explores the application of quantum mechanics to electrochemical problems, focusing on electrode potentials, contact potentials, and solution pressure. The authors discuss the behavior of metal-metal contact and the potential energy of ions in the context of electrochemistry, providing a deeper understanding of the underlying processes.

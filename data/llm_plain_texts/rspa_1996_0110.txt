@@ -1,0 +1,10 @@
+article_id: rspa_1996_0110
+revised_title: 'Analysis of a Generalized Becker-Döring Model for Self-Replicating Micelles'
+semantic_tags:
+  - Micelles
+  - Self-replication
+  - Non-equilibrium chemistry
+  - Chemical kinetics
+  - Supramolecular chemistry
+tldr: The authors analyze a generalized Becker-Döring model for self-replicating micelles, which provides a more fundamental, non-equilibrium description of micelle formation. They derive a reduced description of the system and estimate the induction time, which is in good agreement with experimental results. This model has implications for understanding the chemical mechanisms underlying the origin of life on Earth.
+scientific_discipline: Chemistry > Supramolecular Chemistry

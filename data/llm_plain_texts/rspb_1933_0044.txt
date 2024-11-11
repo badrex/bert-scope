@@ -1,0 +1,10 @@
+article_id: 'rspb_1933_0044'
+revised_title: 'The Effect of Radium on Cancer Cells and the Role of Respiration'
+semantic_tags:
+  - Radiobiology
+  - Cancer Treatment
+  - Cell Respiration
+  - Radiation Therapy
+  - Tumor Metabolism
+tldr: The authors conducted experiments to understand the susceptibility of cancer cells to radium and found that the damage inflicted on the cell by irradiation operates through an action on its respiratory mechanism. They tested this hypothesis by irradiating sections of transplantable tumors in vitro under different conditions and then transplanting them. The results showed that the respiratory system is the most vulnerable to short-wave radiations and that altering the functional activity of the respiratory mechanism can affect the susceptibility of cells to radium.
+scientific_discipline: Biology and Life Sciences > Cell Biology

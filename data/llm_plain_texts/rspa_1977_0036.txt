@@ -1,0 +1,10 @@
+article_id: rspa_1977_0036
+revised_title: Laser Magnetic Resonance Spectra Analysis of NH2 Molecule
+semantic_tags:
+  - Molecular Spectroscopy
+  - Laser Magnetic Resonance
+  - NH2 Molecule
+  - Spin-rotation Interaction
+  - Zeeman Effect
+tldr: The authors studied the laser magnetic resonance spectra of the NH2 molecule using 15 far-infrared laser frequencies. They analyzed the effective Hamiltonian and the spin-rotation interaction, comparing their findings with other techniques. The results provide insights into the molecular parameters and help in understanding the behavior of the NH2 molecule under varying magnetic fields.
+scientific_discipline: Chemistry > Spectroscopy

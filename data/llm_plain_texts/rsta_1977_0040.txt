@@ -1,0 +1,10 @@
+article_id: rsta_1977_0040
+revised_title: 'Moon Composition: A New Model for Understanding Lunar and Terrestrial Basalts'
+semantic_tags:
+  - Geochemistry
+  - Planetary Science
+  - Lunar Geology
+  - Chondrites
+  - Planetary Differentiation
+tldr: The author proposes a new model for understanding the chemical compositions of the Moon, Earth, and eucrite parent body. By assuming that the inner planets experienced the same processes as chondrites, the model constructs abundance tables for 83 elements and predicts the abundance ratios of certain refractory element pairs, the density of the Moon, and the major rock types. This model can help create a detailed geochemical profile of a differentiated planet after a single visit by an unmanned spacecraft.
+scientific_discipline: Earth Sciences > Geochemistry

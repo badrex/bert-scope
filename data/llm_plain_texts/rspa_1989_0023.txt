@@ -1,0 +1,10 @@
+article_id: rspa_1989_0023
+revised_title: Rigorous Bounds for Overall Mechanical Properties of Nonlinearly Elastic Composites
+semantic_tags:
+  - Composite Materials
+  - Nonlinear Elasticity
+  - Polyconvexity
+  - Hashin-Shtrikman Variational Structure
+  - Overall Constitutive Behaviour
+tldr: This article presents a study on the overall constitutive behavior of composite materials with nonlinearly elastic phases. The authors use the framework of Hill for defining overall mechanical properties and Ball's constitutive assumption of polyconvexity. They obtain rigorous first-order and second-order bounds on the overall properties of composite materials with nonlinearly elastic phases, which are tighter than previous results. The study focuses on composites with known initial volume fractions of the phases and macroscopically random and isotropic structures.
+scientific_discipline: Engineering and Technology > Materials Science

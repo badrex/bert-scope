@@ -1,0 +1,10 @@
+article_id: rsta_1971_0070
+revised_title: 'A Review of Solar Particle Events and Their Classification'
+semantic_tags:
+  - Solar physics
+  - Space observations
+  - Particle acceleration
+  - Solar flares
+  - Solar proton events
+tldr: The article discusses solar particle events, focusing on their classification and the various processes involved. It highlights the different types of particle events, such as prompt and delayed events, and their association with solar flares and magnetic field configurations. The article also explores the role of parameters in determining the size and impact of these events on Earth and spacecraft.
+scientific_discipline: Physics > Astronomy

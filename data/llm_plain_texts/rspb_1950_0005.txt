@@ -1,0 +1,10 @@
+article_id: 'rspb_1950_0005'
+revised_title: 'The Role of Potassium in Bacterial Metabolism and Growth'
+semantic_tags:
+  - Microbiology
+  - Bacterial Metabolism
+  - Potassium Utilization
+  - Enzyme Function
+  - Hydrion Concentration
+tldr: 'This study investigates the role of potassium in the growth and metabolism of Bact. lactis aerogenes. The experiments show that cells take up nearly all the potassium from the medium, and potassium is essential for the growth of these cells. The findings suggest that potassium may play a specific role in the metabolism of sugars by the cells and that there may be an antagonism between potassium ions and hydrions. The study also explores the theoretical displacement of potassium by hydrions during growth and the role of potassium ions in enzyme function.'
+scientific_discipline: Biology and Life Sciences > Microbiology

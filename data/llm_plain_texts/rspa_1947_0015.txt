@@ -1,0 +1,10 @@
+article_id: rspa_1947_0015
+revised_title: 'Inhibition of Corrosion Fatigue in Mild Steel'
+semantic_tags:
+  - Corrosion Fatigue
+  - Electrochemistry
+  - Mild Steel
+  - Cathodic Protection
+  - Material Science
+tldr: The authors conducted experiments to understand the mechanism of corrosion fatigue in mild steel. They found that alternating stress affects the corrosion process by altering the anodic and cathodic polarization of the metal. The application of a cathodic current can help prevent corrosion fatigue by reducing the rate of production of iron compounds and the number of cracks. The study provides insights into the factors that contribute to corrosion fatigue and suggests ways to prevent it.
+scientific_discipline: Engineering and Technology > Material Science

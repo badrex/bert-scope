@@ -1,0 +1,10 @@
+article_id: rspa_1975_0140
+revised_title: The Impact of Dispersion on Transverse Fresnel Aether Drag Experiment
+semantic_tags:
+  - Aether drag
+  - Dispersion
+  - Optics
+  - Interference
+  - Fourier transform
+tldr: The author explains the presence of a dispersion term in the transverse Fresnel aether drag experiment by Jones. They analyze the experiment's optical system and demonstrate how the longitudinal entrainment of the side lobes of the index system's diffraction pattern leads to a transverse shift due to dispersion. The author also calculates the effective phase shift and lateral shift in the grating image, resulting in a dispersion term in the formula for lateral shift.
+scientific_discipline: Physics > Optics

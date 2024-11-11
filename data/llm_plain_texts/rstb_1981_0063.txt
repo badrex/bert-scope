@@ -1,0 +1,10 @@
+article_id: 'rstb_1981_0063'
+revised_title: 'Phosphoglycerate Kinase: Structure, Function, and Evolution'
+semantic_tags:
+  - Enzyme kinetics
+  - Glycolysis
+  - Phosphoglycerate kinase
+  - Molecular structure
+  - Protein evolution
+tldr: The article discusses the structure, activity, and evolution of phosphoglycerate kinase, an enzyme that plays a crucial role in glycolysis. The enzyme's molecular structure is conserved, with two separated domains that bind substrates and facilitate the high-energy phosphoryl transfer reaction. The author also explores the enzyme's catalytic mechanism, its interactions with substrates and anions, and its importance in various organisms.
+scientific_discipline: Biology and Life Sciences > Biochemistry

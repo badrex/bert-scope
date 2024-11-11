@@ -1,0 +1,10 @@
+article_id: rspa_1966_0036
+revised_title: 'Enhanced Transfer Rates in Thick Non-Equilibrium Helium II Films'
+semantic_tags:
+  - Helium II
+  - Superfluidity
+  - Film thickness
+  - Transfer rates
+  - Two-fluid model
+tldr: The authors conducted experiments on helium II films and discovered that thicker non-equilibrium films can have increased transfer rates. They explained this phenomenon using the two-fluid model and discussed the implications for the traditional view of the "critical velocity" in helium films.
+scientific_discipline: Physics > Fluid Dynamics

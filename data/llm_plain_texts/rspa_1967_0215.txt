@@ -1,0 +1,10 @@
+article_id: rspa_1967_0215
+revised_title: 'Poiseuille Gas Flow in the Transition Regime: Formulation of the General Theory'
+semantic_tags:
+  - Gas flow
+  - Transition regime
+  - Boltzmann equation
+  - Poiseuille flow
+  - Elliptical cross-section
+tldr: The article presents a theoretical treatment of gas flow through a tube with an arbitrary ratio of intermolecular collision mean free path to tube radius. The author provides a general solution of the Boltzmann equation, which is valid for any intermolecular collision operator. The spatial variation of this solution is exhibited explicitly, and its velocity dependence is given in terms of the solution of certain integral equations. The study extends previous results to a tube of elliptical cross-section and shows that the cross-section must be elliptical for a solution to be obtained by the present approach.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1937_0082
+revised_title: The Normal Quantum Theory of Cosmic Showers
+semantic_tags:
+  - Cosmic rays
+  - Particle physics
+  - Electrons
+  - Quantum mechanics
+  - High-energy physics
+tldr: The authors propose a new theory explaining cosmic showers, which are phenomena observed in cosmic ray experiments. They argue that the energy loss of fast electrons is in agreement with the theoretical predictions, and they explain the mechanism of energy loss through the emission of radiation quanta. The authors also predict that the number of particles emerging from a plate of given thickness depends on the ratio of the initial energy of the electron or positron creating the shower to the minimum energy of the particles considered in the shower.
+scientific_discipline: Physics > Particle Physics

@@ -1,0 +1,10 @@
+article_id: 'rstb_1989_0013'
+revised_title: 'Automated Measurement of Leaf Photosynthesis: A Function of Photon Flux Density'
+semantic_tags:
+  - Photosynthesis
+  - Photon Flux Density
+  - Leaf Photosynthesis
+  - Automated Measurement
+  - Quantum Yield
+tldr: The article describes an automated procedure for measuring the rate of leaf photosynthesis as a function of photon flux density (PFD). The method uses a leaf-disc electrode, an array of light-emitting diodes, and a computer to determine the rate of photosynthesis within 30 minutes. The procedure is applied to shade and sun plants, studies of photoinhibition, and analysis of the Kok effect. The results show differences in photosynthetic rates and light compensation points between sun and shade leaves, as well as variations in nominal light utilization capacity.
+scientific_discipline: Biology and Life Sciences > Photosynthesis

@@ -1,0 +1,10 @@
+article_id: rspa_1940_0112
+revised_title: 'The Action of Long-Chain Polar Compounds in Boundary Lubrication'
+semantic_tags:
+  - Lubrication
+  - Boundary Lubrication
+  - Long-chain Polar Compounds
+  - Friction
+  - Electron Diffraction
+tldr: The authors studied the effect of long-chain polar compounds on the coefficient of kinetic friction under boundary conditions using the Boerlage four-ball friction apparatus. They discovered a new frictional effect, the 'wedging effect,' which is directly correlated with the orientation of the adsorbed lubricant film. This effect leads to a type of lubrication called 'quasi-hydrodynamic.' The investigation shows that long-chain polar compounds primarily act by inducing the 'wedging effect' and not by providing direct protection to the surface.
+scientific_discipline: Chemistry > Materials Science

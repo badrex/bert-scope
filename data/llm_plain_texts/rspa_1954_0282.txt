@@ -1,0 +1,10 @@
+article_id: rspa_1954_0282
+revised_title: Renormalization of Transformation Operators in Quantum Electrodynamics
+semantic_tags:
+  - Quantum Electrodynamics
+  - Renormalization
+  - Transformation Operators
+  - Mass and Charge Renormalization
+  - Covariant Procedure
+tldr: The authors demonstrate how to remove infinities in the transformation operators of quantum electrodynamics by using mass and charge renormalization. They develop a covariant procedure to isolate the divergent parts and show that all infinities can be eliminated by using Gupta's renormalized Lagrangian. The coefficients of the counter terms are power series in the time-dependent charge, with coefficients independent of the time interval being considered.
+scientific_discipline: Physics > Quantum Field Theory

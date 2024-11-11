@@ -1,0 +1,11 @@
+article_id: rspa_1990_0143
+revised_title: Generalization of Singularity Theorem to Non-Chronological Space-Times
+semantic_tags:
+  - Singularity Theorem
+  - Hawking-Penrose Theorem
+  - Causality Violations
+  - Non-Chronological Space-Times
+  - General Relativity
+tldr: The author proves a generalization of the singularity theorem of Hawking and Penrose, which allows for the consideration of space-times with causality violations. This generalization is essential for understanding the existence of the Big Bang and black holes, as it addresses limitations in previous attempts to generalize the theorem to non-chronological space-times.
+scientific_discipline: Mathematics > Differential Geometry
+```

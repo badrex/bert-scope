@@ -1,0 +1,10 @@
+article_id: 'rspa_1960_0105'
+revised_title: 'Auroral Radio Echoes at Halley Bay: Specular Reflexion and Diurnal Variations'
+semantic_tags:
+  - Auroras
+  - Ionospheric Physics
+  - Radio Echoes
+  - Geomagnetic Fields
+  - International Geophysical Year
+tldr: The authors studied auroral radio echoes observed at Halley Bay during the International Geophysical Year. They found that the echoes fit the case of specular reflexion from columns of ionization aligned along the local magnetic field at a height of about 100 km. The diurnal variations in activity were presented, and the daily durations of activity were compared with those at Jodrell Bank and with the daily sum of the planetary magnetic K-indices, Kp.
+scientific_discipline: Environmental and Earth Sciences > Ionospheric Physics

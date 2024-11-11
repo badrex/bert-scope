@@ -1,0 +1,10 @@
+article_id: 111651
+revised_title: "Electromotive Force and Spark Distance: A Study by W. Thomson"
+semantic_tags:
+  - Electromagnetic Force
+  - Spark Discharge
+  - Electromotive Force Measurement
+  - Electrometry
+  - Physics Experiments
+tldr: "In this study, W. Thomson investigates the electromotive force required to produce a spark between parallel metal plates at different distances. He discovered that greater electromotive force per unit length of air is needed to create a spark at short distances than at long distances. This finding challenges the understanding of the time and raises questions about the behavior of electric forces in air."
+scientific_discipline: Physics > Electromagnetism

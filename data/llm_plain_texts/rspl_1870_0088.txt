@@ -1,0 +1,10 @@
+article_id: rspl_1870_0088
+revised_title: Improved Method for Determining a Ship's Position
+semantic_tags:
+  - Navigation
+  - Marine Science
+  - Astronomy
+  - Geodesy
+  - Chronometer
+tldr: The author presents an improved method for working out a ship's position using Sumner's method. This method involves using a table and two solutions to interpolate the hour-angle, altitude, and azimuth. The author finds this method to be easier and less fatiguing than the traditional method. They plan to publish a paper with practical directions and examples to help others assess the usefulness of this method.
+scientific_discipline: Mathematics > Navigation

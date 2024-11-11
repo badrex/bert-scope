@@ -1,0 +1,10 @@
+article_id: rspa_1975_0130
+revised_title: Axisymmetric Perturbations of Kerr Black Holes
+semantic_tags:
+  - Black Holes
+  - Kerr Metric
+  - Gravitational Waves
+  - Relativistic Astrophysics
+  - Teukolsky's Equation
+tldr: The authors analyze Teukolsky's equation for axisymmetric perturbations of the Kerr black hole and show how it can be reduced to a one-dimensional wave equation with four possible potentials. They also demonstrate that all four potentials lead to the same reflection and transmission coefficients, providing insights into the behavior of gravitational waves near Kerr black holes.
+scientific_discipline: Physics > Relativistic Astrophysics

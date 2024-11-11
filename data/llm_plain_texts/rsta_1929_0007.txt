@@ -1,0 +1,10 @@
+article_id: rsta_1929_0007
+revised_title: Stability and Streamlines of Kármán Streets of Vortices in a Channel of Finite Breadth
+semantic_tags:
+  - Fluid dynamics
+  - Vortices
+  - Kármán street
+  - Turbulence
+  - Hydrodynamics
+tldr: This article investigates the streamlines and stability of Kármán streets of vortices in a channel of finite breadth, considering both unsymmetrical and symmetrical double rows. The study focuses on the effect of plane barriers on the motion and stability of these systems, which is important for understanding two-dimensional turbulent flow between parallel plane barriers.
+scientific_discipline: Physics > Fluid dynamics

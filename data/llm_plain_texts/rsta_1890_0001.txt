@@ -1,0 +1,10 @@
+article_id: rsta_1890_0001
+revised_title: Temperature Effects on the Specific Inductive Capacity of Dielectrics
+semantic_tags:
+  - Dielectrics
+  - Electromagnetic theory
+  - Temperature effects
+  - Capacitance
+  - Condensers
+tldr: The authors conducted experiments to understand the effect of temperature on the specific inductive capacity of dielectrics. They observed an increase in the capacity of a glass condenser when heated and compared the effects of temperature on specific inductive capacity and refractive index. The results showed that the specific inductive capacity of a substance has a maximum value near its melting point.
+scientific_discipline: Physics > Electromagnetism

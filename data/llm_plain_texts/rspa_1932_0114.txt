@@ -1,0 +1,10 @@
+article_id: rspa_1932_0114
+revised_title: Detection of Neutron-Electron Interactions
+semantic_tags:
+  - Neutron physics
+  - Particle detectors
+  - Nuclear physics
+  - Quantum mechanics
+  - Nuclear radiation
+tldr: The authors conducted experiments using a Wilson chamber to study the interaction of neutrons with electrons. They found that the probability of interaction between a neutron and an electron is not much greater than 1% of the probability of interaction between a neutron and a nitrogen nucleus. The results provide insights into the nature of neutron-induced electron recoils and contribute to the understanding of nuclear physics.
+scientific_discipline: Physics > Nuclear Physics

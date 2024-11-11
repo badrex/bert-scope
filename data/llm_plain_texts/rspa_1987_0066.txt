@@ -1,0 +1,10 @@
+article_id: rspa_1987_0066
+revised_title: 'New Expressions for Plane-Wave Diffraction by Rational Wedges'
+semantic_tags:
+  - Acoustics
+  - Diffraction
+  - Wedge problems
+  - Geometrical acoustics
+  - Green's function
+tldr: The article presents new expressions for the acoustic field produced when a plane-wave source of sound is diffracted by a soft, hard, or mixed soft-hard wedge whose angle can be expressed as a rational multiple. The solution is expressed in terms of geometrical acoustic source terms and real integrals representing the diffracted field, allowing for easy calculation of the acoustic field and providing a uniform valid expression for the far field.
+scientific_discipline: Physics > Acoustics

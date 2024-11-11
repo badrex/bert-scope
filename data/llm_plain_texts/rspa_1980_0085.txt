@@ -1,0 +1,10 @@
+article_id: rspa_1980_0085
+revised_title: 'Benard Convection with Perturbed Lower Wall: Steady-State and Nonlinear Solutions'
+semantic_tags:
+  - Fluid Dynamics
+  - Convection
+  - Heat Transfer
+  - Rayleigh-Bénard Convection
+  - Fluid Mechanics
+tldr: The author investigates a modified Benard convection problem where the lower wall is perturbed. They derive modified amplitude equations and calculate modified critical Rayleigh numbers. The study shows that the horizontal wavenumber of the solution is uniquely determined, which is different from the classical Benard problem where the wavenumber is a free parameter.
+scientific_discipline: Physics > Fluid Dynamics

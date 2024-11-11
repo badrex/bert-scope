@@ -1,0 +1,10 @@
+article_id: '108814'
+revised_title: 'Analysis of Magnetic Storms and Their Impact on Terrestrial Magnetism'
+semantic_tags:
+  - Magnetism
+  - Magnetic Storms
+  - Terrestrial Magnetism
+  - Magnetic Instruments
+  - Royal Observatory
+tldr: The author analyzed 177 magnetic storms recorded by the magnetic instruments at the Royal Observatory, Greenwich, from 1841 to 1857. They found that the disturbances in the magnetic field were connected and could not be separated into distinct events. The study aimed to understand the nature of the acting forces and their impact on the general means of magnetic observations.
+scientific_discipline: Physics > Electromagnetism

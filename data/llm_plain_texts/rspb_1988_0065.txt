@@ -1,0 +1,10 @@
+article_id: 'rspb_1988_0065'
+revised_title: 'Effects of Lambert-Eaton Myasthenic Syndrome Antibody on Cardiac Ventricular Slow Action Potentials in Mice'
+semantic_tags:
+  - Cardiology
+  - Myasthenia Gravis
+  - Calcium Channels
+  - Electrophysiology
+  - Cardiac Muscle Cells
+tldr: The study investigates the effect of Lambert-Eaton myasthenic syndrome (LEMS) antibody on slow action potentials in mouse cardiac ventricles. The results show that LEMS IgG does not affect the rate of rise, amplitude, or duration of slow action potentials, suggesting antigenic differences between calcium channels at motor nerve terminals and the heart.
+scientific_discipline: Biology and Life Sciences > Cardiology

@@ -1,0 +1,9 @@
+article_id: rspa_1937_0042
+revised_title: Cosmic-Ray Showers: Studies by Quintuple Coincidences
+semantic_tags:
+  - Cosmic rays
+  - Particle physics
+  - Nuclear physics
+  - Shower production
+  - Transition curves
+tldr: The authors conducted experiments using a quintuple coincidence method to study cosmic-ray showers. They found that the number of recorded showers is greatest when the distance between counters is least. The results also showed that the number of quintuple coincidences caused by showers produced in different elements is roughly proportional to the square of the atomic number, indicating a relationship between the atomic density and shower production.

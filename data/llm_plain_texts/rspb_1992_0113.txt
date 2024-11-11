@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0113'
+revised_title: 'Localization of Cholinergic and Purinergic Receptors in Cochlear Hair Cells'
+semantic_tags:
+  - 'Cochlear Hair Cells'
+  - 'Cholinergic Receptors'
+  - 'Purinergic Receptors'
+  - 'Guinea Pig Cochlea'
+  - 'Ion Channels'
+tldr: 'This study investigates the localization of cholinergic and purinergic receptors on outer hair cells isolated from the guinea pig cochlea. Acetylcholine and adenosine 5'-triphosphate (ATP) act in opposing ways on these cells via receptors found in different fluid compartments of the organ of Corti. Cholinergic receptors are localized at the basal region of the cells and activate a rapidly desensitizing hyperpolarizing K+ current, while purinergic receptors are found at the apical surface and activate a depolarizing non-selective cation current with inward rectification and no desensitization. These findings suggest that ATP may modulate the mechano-electrical transduction process in the cochlea.'
+scientific_discipline: Biology and Life Sciences > Neuroscience

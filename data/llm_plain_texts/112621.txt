@@ -1,0 +1,10 @@
+article_id: 112621
+revised_title: 'Graham's Experiments on Gas Separation and Absorption by Colloid Septa'
+semantic_tags:
+  - Gas separation
+  - Dialysis
+  - Colloid chemistry
+  - Gas absorption
+  - Metal properties
+tldr: Thomas Graham's experiments demonstrate the absorption and dialytic separation of gases by colloid septa, particularly using caoutchouc and metals like platinum and palladium. He found that these materials can selectively absorb and separate individual gases from a mixture, such as liquefying hydrogen and separating it from other gases using palladium foil. This discovery has implications for understanding the properties of gases and the potential for new technologies in gas separation and purification.
+scientific_discipline: Chemistry > Colloid Chemistry

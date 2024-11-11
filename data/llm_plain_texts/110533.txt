@@ -1,0 +1,10 @@
+article_id: 110533
+revised_title: Analytical Operations and Their Applications
+semantic_tags:
+  - Mathematics
+  - Algebra
+  - Analytical Theory
+  - Functions
+  - Theorems
+tldr: The author, Robert Murphy, discusses the theory of analytical operations, which are either monomial or polynomial and can be linear or non-linear. He presents various theorems for developing functions and investigates the laws relating to analytical operations and their transformation.
+scientific_discipline: Mathematics > Algebra

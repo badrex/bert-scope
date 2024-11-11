@@ -1,0 +1,10 @@
+article_id: rspa_1958_0161
+revised_title: 'Experimental Determination of the Second Virial Coefficient of Benzene at Low Pressures'
+semantic_tags:
+  - Virial Coefficient
+  - Benzene
+  - Adsorption
+  - Microbalance
+  - Gas Density
+tldr: The authors conducted experiments to determine the second virial coefficient of benzene at low pressures using a microbalance method. They improved the accuracy of the method by compensating for adsorption and carefully controlling the experimental conditions. The results provide a more accurate understanding of the behavior of benzene vapor at low pressures.
+scientific_discipline: Chemistry > Physical Chemistry

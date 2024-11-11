@@ -1,0 +1,10 @@
+article_id: '108469'
+revised_title: 'The Effect of Surrounding Media on Voltaic Ignition'
+semantic_tags:
+  - Electrochemistry
+  - Gas properties
+  - Voltaic ignition
+  - Thermometry
+  - Gas cooling effects
+tldr: The author, W.R. Grove, conducted experiments to study the effect of surrounding gases on the ignition of a platinum wire by a voltaic current. The results showed that hydrogen had a lesser cooling effect on the ignited wire compared to oxygen and other gases. The author also investigated the role of specific heat and conducting powers of gases and liquids, concluding that specific heat alone cannot account for the observed phenomenon.
+scientific_discipline: Chemistry > Electrochemistry

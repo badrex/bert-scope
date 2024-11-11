@@ -1,0 +1,10 @@
+article_id: rspa_1968_0202
+revised_title: Spatial Autocorrelation Functions of Waves in Irregular Media
+semantic_tags:
+  - Wave Scattering
+  - Radio Signal Scintillation
+  - Spatial Correlation
+  - Electromagnetic Waves
+  - Plasma Physics
+tldr: This article explores the spatial autocorrelation functions of intensity and phase fluctuations in a plane parallel to the wave front of an incident wave when passing through a non-absorbing medium with random irregularities. The study focuses on multiple scattering and its effects on radio signals from stellar sources, providing valuable information about the scattering medium causing the scintillations.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rspl_1881_0006
+revised_title: Permanent Molecular Torsion in Conducting Wires due to Electric Current
+semantic_tags:
+  - Electromagnetism
+  - Molecular Torsion
+  - Electric Currents
+  - Iron Wires
+  - Induction Currents
+scientific_discipline: Physics > Electromagnetism
+tldr: The author discovered that an electric current passing through a conducting wire, such as an iron wire, causes a permanent molecular twist in the wire. This twist can be measured using an electromagnetic induction balance and is not visible or detectable by touch. The phenomenon occurs in both iron and steel wires and can be reversed by changing the direction of the electric current. The author also found that a strong permanent magnet can instantly reduce the twist caused by the electric current.

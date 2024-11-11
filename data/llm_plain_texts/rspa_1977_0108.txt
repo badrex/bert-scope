@@ -1,0 +1,10 @@
+article_id: rspa_1977_0108
+revised_title: Discovery of a New Particle and Search for More
+semantic_tags:
+  - Particle Physics
+  - Quantum Numbers
+  - High-Energy Physics
+  - Particle Accelerators
+  - Particle Detection
+tldr: The article describes an experiment conducted at the Alternating Gradient Synchrotron to search for new particles. The experiment resulted in the discovery of a new particle, J, which decays to e+e- with a width consistent with zero. The authors also present experimental searches for more new particles, discussing various aspects of the experiment and its results.
+scientific_discipline: Physics > Particle Physics

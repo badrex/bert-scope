@@ -1,0 +1,9 @@
+article_id: rspa_1974_0079
+revised_title: Ionization of Alkaline Earth Additives in Hydrogen Flames: Hydrogen Atom Concentrations and Ion Stabilities
+semantic_tags:
+  - Plasma chemistry
+  - Flame ionization
+  - Mass spectrometry
+  - Ionization potential
+  - Alkaline earth elements
+tldr: This study investigates the ions present in hydrogen flames with trace amounts of alkaline earth additives, focusing on calcium and strontium. The researchers used mass spectrometry to measure the concentration of individual ions at various points in the flame. They found that the ions present were primarily Ca+ and Sr+, with the only negatively charged species being free electrons. The study provides insights into the ionization process and the stability of these ions in flames, which can be useful for understanding combustion processes and flame chemistry.

@@ -1,0 +1,10 @@
+article_id: rspa_1970_0013
+revised_title: 'Scattering of Multipole Near-Field Sound by a Gas Bubble: A Comprehensive Study'
+semantic_tags:
+  - Acoustics
+  - Fluid Dynamics
+  - Bubble Dynamics
+  - Underwater Acoustics
+  - Monopole and Dipole Sources
+tldr: This study investigates the scattering of multipole near-field sound by a gas bubble in a liquid. The authors develop a theory for the scattering by a single spherical gas bubble near a compressible spherical monopole and dipole source. The theory is in good agreement with experiments using bubbles near a spherical monopole source and in fair agreement with experiments on bubbles near nonspherical monopole and dipole sources.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rsta_1988_0108
+revised_title: Stereoselective Reactions of Chiral α-Amino Aldehydes in Organometallic Chemistry
+semantic_tags:
+  - Organometallic chemistry
+  - Stereoselective reactions
+  - Chiral α-amino aldehydes
+  - Grignard reactions
+  - Aldol additions
+tldr: The article discusses the influence of organometallic chemistry on the stereoselective reactions of chiral α-amino aldehydes. The authors describe the synthesis of doubly protected α-dibenzyl α-amino aldehydes and their reactions with Grignard reagents, lithium enolates, and other organometallic reagents. They found that these reactions exhibit high diastereoselectivity and non-chelation control, which can be explained by molecular modeling and the Felkin-Anh model. This method allows for the effective exploitation of the chiral pool of amino acids in organic synthesis.
+scientific_discipline: Chemistry > Organometallic Chemistry

@@ -1,0 +1,10 @@
+article_id: 'rstb_1991_0055'
+revised_title: 'Universal Regulation of the Cell Division Cycle'
+semantic_tags:
+  - Cell Cycle Regulation
+  - Cell Division
+  - Eukaryotic Cells
+  - Fission Yeast
+  - Protein Kinase
+tldr: The author discusses the regulation of the cell division cycle in eukaryotic cells, focusing on the role of the p34cdc2 protein kinase in controlling mitosis. They argue that a universal control mechanism exists in all eukaryotic cells, and provide evidence from fission yeast and vertebrate cells to support this claim.
+scientific_discipline: Biology and Life Sciences > Cell Biology

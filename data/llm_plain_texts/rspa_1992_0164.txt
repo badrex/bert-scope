@@ -1,0 +1,10 @@
+article_id: 'rspa_1992_0164'
+revised_title: 'Matrix-Based Kinematics Analysis for Two and Three-Dimensional Mechanisms'
+semantic_tags:
+  - Kinematics
+  - Matrix Analysis
+  - Mechanism Design
+  - Robotics
+  - Multibody Dynamics
+tldr: The author presents a matrix-based method for calculating velocities and accelerations in two and three-dimensional mechanisms. This method is simple to implement as a computer algorithm and can be applied to mechanisms of any complexity. The matrix assembled for kinematic analysis can also be used for dynamic force analysis and stress analysis in the mechanism's members.
+scientific_discipline: Engineering and Technology > Mechanism Design

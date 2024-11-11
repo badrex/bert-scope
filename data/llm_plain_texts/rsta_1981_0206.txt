@@ -1,0 +1,10 @@
+article_id: rsta_1981_0206
+revised_title: Lunar Librations and Core-Mantle Dynamics
+semantic_tags:
+  - Lunar dynamics
+  - Planetary exploration
+  - Core-mantle interaction
+  - Tidal forces
+  - Librations
+tldr: This article discusses the free librations of a dissipative Moon, focusing on the force librations detected by laser ranging. The authors explore the mechanisms that couple the motion of a fluid core with its mantle envelope, such as core-mantle friction and impacts. They analyze the observed latitude offset and its relation to the factor for the Moon, which is the fraction of tidal strain energy dissipated per flexing cycle. The authors also consider the role of impacts and turbulent core-mantle friction as plausible excitation mechanisms for lunar librations.
+scientific_discipline: Earth Sciences > Planetary Geology

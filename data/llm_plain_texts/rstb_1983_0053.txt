@@ -1,0 +1,10 @@
+article_id: 'rstb_1983_0053'
+revised_title: 'The Influence of Visual Information on Auditory Memory'
+semantic_tags:
+  - Memory
+  - Auditory Perception
+  - Speech Processing
+  - Cognitive Psychology
+  - Lateral Inhibition
+tldr: This article explores the role of visual information in influencing auditory memory and perception. The author proposes a grid model of auditory sensory memory (PAS II) that incorporates time and source channel dimensions. The model suggests that auditory input is represented as a rough spectrogram at specific time-channel intersections, and that lateral inhibition between these intersections plays a crucial role in memory and perception processes.
+scientific_discipline: Psychology > Cognitive Psychology

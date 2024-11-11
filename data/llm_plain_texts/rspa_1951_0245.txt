@@ -1,0 +1,9 @@
+article_id: rspa_1951_0245
+revised_title: 'Perturbation Theory in Electron Optics: Characteristic Functions and Applications'
+semantic_tags:
+  - Electron Optics
+  - Perturbation Theory
+  - Characteristic Functions
+  - Electron Microscopy
+  - Electron Lenses
+tldr: The authors develop a perturbation theory for electron optics, introducing characteristic functions to analyze the effects of perturbations on electron-optical systems. They apply this theory to calculate geometrical, chromatic, and mixed aberrations in electron lenses and electron-optical instruments with curved axes, providing a foundation for understanding and improving electron microscopy and related technologies.

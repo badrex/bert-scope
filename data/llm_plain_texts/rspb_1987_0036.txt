@@ -1,0 +1,11 @@
+article_id: 'rspb_1987_0036'
+revised_title: 'Glucose Metabolism into Glutamate via Hexose Monophosphate Shunt and its Inhibition by 6-Aminonicotinamide in Rat Brain'
+semantic_tags:
+  - Metabolism
+  - Glucose
+  - Glutamate
+  - Hexose Monophosphate Shunt
+  - 6-Aminonicotinamide
+tldr: The study investigates the metabolism of glucose into glutamate in the rat brain through the hexose monophosphate shunt and its inhibition by 6-aminonicotinamide. The treatment of rats with 6-aminonicotinamide resulted in an increase in the concentration of 6-phosphogluconate and changes in other metabolites, suggesting that the utilization of glucose via the hexose monophosphate shunt is functionally important in the rat brain.
+scientific_discipline: Biology and Life Sciences > Biochemistry
+```

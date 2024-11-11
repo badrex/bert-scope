@@ -1,0 +1,10 @@
+article_id: rspa_1939_0164
+revised_title: 'Investigation of Inner Electron Excitation in Zinc, Cadmium, and Mercury'
+semantic_tags:
+  - Electron impact
+  - Inner electron excitation
+  - Spectroscopy
+  - Atomic physics
+  - Quantum mechanics
+tldr: The authors conducted experiments to study the excitation of inner electrons in zinc, cadmium, and mercury using electron impact. They discovered that the ultra-ionization potential losses in these elements could be explained by the excitation of inner electrons, a process that had not been previously recognized in electron collision experiments. This finding connects optical and X-ray spectra and provides a better understanding of atomic physics.
+scientific_discipline: Physics > Atomic and Molecular Physics

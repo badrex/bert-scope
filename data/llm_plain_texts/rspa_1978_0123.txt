@@ -1,0 +1,10 @@
+article_id: rspa_1978_0123
+revised_title: 'Propagation of Long Waves on the Surface of Helium II: Linearized Theory'
+semantic_tags:
+  - Superfluidity
+  - Helium physics
+  - Fluid dynamics
+  - Wave propagation
+  - Surface waves
+tldr: This article investigates the propagation of long waves on the surface of helium II, considering the linearized theory. The authors use Landau's two-fluid model to study the effects of viscosity, heat conduction, and other properties of helium. They non-dimensionalize the equations and choose a suitable limiting process to formulate the linear problem, which will be extended to include higher-order effects in a later paper.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,11 @@
+article_id: '103188'
+revised_title: 'The Study of Drop Ascension between Two Glass Planes: Hauksbee's Experiment'
+semantic_tags:
+  - Fluid dynamics
+  - Surface tension
+  - Capillary action
+  - Experimentation
+  - Physics
+tldr: 'Fr. Hauksbee conducted an experiment to study the ascending of drops of spirit of wine between two glass planes. He observed the distances from the touching ends of the planes and the angles of elevation. The experiment helped him understand the behavior of fluids and the forces acting on them, contributing to the study of fluid dynamics and surface tension.'
+scientific_discipline: Physics > Fluid dynamics
+```

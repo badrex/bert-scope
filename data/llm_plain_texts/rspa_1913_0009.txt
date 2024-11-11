@@ -1,0 +1,10 @@
+article_id: rspa_1913_0009
+revised_title: 'Investigation of Light Scattering and Absorption in Gaseous Media'
+semantic_tags:
+  - Astrophysics
+  - Atmospheric Science
+  - Light Scattering
+  - Atmospheric Attenuation
+  - Solar Radiation
+tldr: The authors investigate the scattering and absorption of light in gaseous media, with applications to the intensity of sky radiation. They introduce a second term in the differential equation for loss of intensity in a beam of radiation, accounting for absorption without scattering. They also consider the effects of self-illumination on the intensity of sky radiation and apply their findings to the problem of absorption and scattering of solar radiation by the Earth's atmosphere.
+scientific_discipline: Physics > Astrophysics

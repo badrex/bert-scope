@@ -1,0 +1,10 @@
+article_id: 'rsta_1987_0111'
+revised_title: 'Recent Developments in Stratospheric Chemistry and its Impact on Ozone'
+semantic_tags:
+  - Stratospheric Chemistry
+  - Ozone Depletion
+  - Chlorofluorocarbons
+  - Atmospheric Measurements
+  - Chemical Reactions
+tldr: The article discusses recent advancements in understanding the chemistry of the stratosphere, focusing on the role of chemical reactions and trace species in the destruction of stratospheric ozone. It highlights the importance of laboratory measurements, model validation, and the impact of human activities on the stratosphere, particularly the release of chlorofluorocarbons and their effect on ozone depletion.
+scientific_discipline: Chemistry > Atmospheric Chemistry

@@ -1,0 +1,10 @@
+article_id: rsta_1994_0051
+revised_title: Dynamics of Rigid Block Impact Oscillators Confined Between Side-Walls
+semantic_tags:
+  - Rigid block dynamics
+  - Earthquake engineering
+  - Impact oscillators
+  - Side-wall confinement
+  - Periodic solutions
+scientific_discipline: Engineering and Technology > Civil Engineering
+tldr: The article investigates the dynamics of rigid block impact oscillators confined between side-walls, focusing on the equations governing their motion and the existence and stability of periodic solutions. The study has applications in the nuclear industry, where fuel rods can impact the sides of their containers during earthquakes.

@@ -1,0 +1,10 @@
+article_id: rsta_1965_0015
+revised_title: Attractive Dislocation Intersections and their Impact on Work Hardening in Metals
+semantic_tags:
+  - Materials Science
+  - Dislocation Theory
+  - Work Hardening
+  - Metal Mechanics
+  - Crystallography
+tldr: This article investigates the behavior of intersecting dislocations in a stressed crystal and its relation to work hardening in metals. The authors examine the effects of changing applied stress and Burgers vectors of the dislocations, making quantitative estimates of the yield stress and comparing them with experimental results. The study suggests that the attractive dislocation intersections mechanism may play a significant role in describing the temperature dependence of the flow stress, orientation dependence of work hardening, the Bauschinger effect, and the formation of cell walls.
+scientific_discipline: Materials Science > Dislocation Theory

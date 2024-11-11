@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0108'
+revised_title: 'Sequence Similarities between the Gene Specifying 1-Phosphofructokinase and Other Kinases in Escherichia Coli K12 and lacC of Staphylococcus Aureus'
+semantic_tags:
+  - Biochemistry
+  - Molecular Biology
+  - Gene Sequencing
+  - Escherichia Coli
+  - Staphylococcus Aureus
+tldr: The authors determined the sequence of the fruK gene of Escherichia coli K12 and found significant sequence similarities with the minor 6-phosphofructokinase gene (pfkB) of E. coli, the lacC gene product of Staphylococcus aureus, and the ribokinase gene of E. coli. These findings suggest a possible role for the lacC gene product in similar metabolic pathways.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

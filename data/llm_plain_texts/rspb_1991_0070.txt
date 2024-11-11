@@ -1,0 +1,11 @@
+article_id: 'rspb_1991_0070'
+revised_title: 'Thermodynamic Sensitivity Analysis of Oxidative Phosphorylation'
+semantic_tags:
+  - Biochemistry
+  - Thermodynamics
+  - Oxidative phosphorylation
+  - Sensitivity analysis
+  - Non-equilibrium thermodynamics
+tldr: The author developed a new method to analyze the dynamic properties of oxidative phosphorylation, focusing on the sensitivity of the phosphate potential to fluctuating cellular ATP utilization. Using eigenvalue sensitivity analysis, the study revealed that oxidative phosphorylation has minimal sensitivity and highest buffering capacity at a specific degree of coupling, which aligns with the optimal efficiency of ATP production in living cells.
+scientific_discipline: Biology and Life Sciences > Biochemistry
+```

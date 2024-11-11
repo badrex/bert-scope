@@ -1,0 +1,10 @@
+article_id: 'rspa_1951_0060'
+revised_title: 'Photodisintegration of the Alpha-Particle and its Inverse Processes'
+semantic_tags:
+  - Nuclear Physics
+  - Nuclear Reaction
+  - Photodisintegration
+  - Alpha-Particle
+  - Radiative Capture
+scientific_discipline: Physics > Nuclear Physics
+tldr: The article discusses the photodisintegration of the alpha-particle and its inverse processes. The authors calculate the partial cross-sections for photodisintegration using first-order perturbation theory and find that the yield of gamma-rays from the reaction increases with bombarding energy. They also investigate the radiative capture of thermal neutrons by helium-4 and the gamma-ray yield of the reaction, concluding that the radiative cross-section for the reaction should be smaller than that for the photodisintegration reaction at corresponding energies by a factor of about 10.

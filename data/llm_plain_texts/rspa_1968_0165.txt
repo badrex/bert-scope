@@ -1,0 +1,10 @@
+article_id: rspa_1968_0165
+revised_title: Photolysis of Hexafluoroacetone Vapour: Fluorescence and Phosphorescence
+semantic_tags:
+  - Fluorescence
+  - Phosphorescence
+  - Photolysis
+  - Hexafluoroacetone
+  - Quantum yields
+scientific_discipline: Chemistry > Spectroscopy
+tldr: This study investigates the photolysis of hexafluoroacetone vapour, focusing on the fluorescence and phosphorescence processes. The relative quantum yields for total and fluorescent emissions were examined over a range of ketone pressures with excitation at different wavelengths. The results showed that the ratio of quantum yield for phosphorescence to that for fluorescence increased with ketone pressure, providing insights into the mechanism of the primary photochemical process in the molecule.

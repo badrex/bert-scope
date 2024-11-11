@@ -1,0 +1,10 @@
+article_id: rspa_1957_0181
+revised_title: 'Study of Cold Neutron Scattering by Liquid Helium'
+semantic_tags:
+  - Neutron scattering
+  - Liquid helium
+  - Cold neutrons
+  - Low-temperature physics
+  - Nuclear reactor
+tldr: The authors conducted an experiment to study the scattering of cold neutrons by liquid helium. They measured the differential cross-section and average energy loss of neutrons at various angles and liquid temperatures. The results provided insights into the radial distribution function and the zero-angle cross-sections, which were close to those given by the theory of density fluctuations in a liquid. The energy transfers could not be explained without a liquid model, and the backward scattering could be explained as either a free atom process or one involving phonon excitation.
+scientific_discipline: Physics > Nuclear and Particle Physics

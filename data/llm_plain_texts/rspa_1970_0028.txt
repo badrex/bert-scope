@@ -1,0 +1,10 @@
+article_id: rspa_1970_0028
+revised_title: Factorized Shell Atomic Structure Calculations
+semantic_tags:
+  - Atomic structure
+  - Quantum mechanics
+  - Group theory
+  - Matrix elements
+  - Reduced matrix elements
+tldr: The authors present a method for calculating matrix elements of operators in a factorized shell using a new basis that simplifies the process and reduces the need for fractional parentage coefficients. They also provide a concise table of reduced matrix elements for electrons, which can be used for various calculations in atomic structure.
+scientific_discipline: Physics > Atomic and Molecular Physics

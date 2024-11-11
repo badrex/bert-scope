@@ -1,0 +1,10 @@
+article_id: rspa_1940_0099
+revised_title: Turbulence and Tidal Current Dynamics
+semantic_tags:
+  - Fluid Dynamics
+  - Tidal Currents
+  - Turbulence
+  - Oceanography
+  - Reynolds Stress
+tldr: This article investigates the dynamics of a tidal current when turbulence is significant, focusing on the forces of internal friction, rates of doing work, and energy relations. The author examines the effects of the earth's rotation and the oscillatory nature of tidal currents, concluding that isotropic turbulence cannot account for the forces of internal friction relevant to tidal currents. The study emphasizes the importance of considering the interaction between mean motion and turbulent motion in understanding tidal current dynamics.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

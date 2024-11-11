@@ -1,0 +1,10 @@
+article_id: rspa_1923_0011
+revised_title: 'A New Approach to the Zeeman Effect in Quantum Theory'
+semantic_tags:
+  - Quantum Mechanics
+  - Zeeman Effect
+  - Atomic Physics
+  - Quantum Theory
+  - Relativity
+tldr: The authors explore the Zeeman effect in the context of quantum theory, proposing an extended form of the quantum restrictions that leads to the simple Zeeman effect. They demonstrate that the presence of a magnetic field splits each component of the fine structure into a simple triplet, providing a deeper understanding of the phenomenon.
+scientific_discipline: Physics > Atomic Physics

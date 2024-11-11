@@ -1,0 +1,10 @@
+article_id: 'rspb_1987_0020'
+revised_title: 'The Evolution of Visual Processing and Seeing Systems in Animals'
+semantic_tags:
+  - Visual Processing
+  - Evolution of Vision
+  - Motion Perception
+  - Artificial Vision Systems
+  - Insect Vision
+tldr: The author discusses the evolution of visual processing in animals and how it relates to the construction of seeing systems. They explore how different animals perceive motion and how this can be applied to the development of artificial visual systems. The author also touches upon the role of memory and cognitive processes in the perception of objects and the challenges of synthesizing artificial vision.
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

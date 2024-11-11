@@ -1,0 +1,10 @@
+article_id: 'rspa_1933_0164'
+revised_title: 'Internal Conversion Coefficient of Beta-Rays: A Reevaluation'
+semantic_tags:
+  - Nuclear Physics
+  - Quantum Mechanics
+  - Beta Decay
+  - Electromagnetic Field
+  - Dirac Equation
+tldr: The authors reevaluate the internal conversion coefficient of beta-rays, providing a new method for calculating the probability of beta-ray emission by considering the whole system of the nucleus and electron. They also discuss the electromagnetic field radiated by the system and its effect on the outgoing beta-ray wave.
+scientific_discipline: Physics > Nuclear Physics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1973_0046'
+revised_title: 'Atropine's Effect on Acetylcholine Action at the Neuromuscular Junction'
+semantic_tags:
+  - Neuromuscular junction
+  - Acetylcholine
+  - Atropine
+  - Neurotransmitter
+  - Receptor binding
+tldr: The authors studied the effect of atropine on acetylcholine action at the neuromuscular junction. They found that atropine reduces the voltage amplitude and shortens the underlying ionic current pulse, indicating that it modifies the molecular 'gating action' of acetylcholine. This differs from curare, which simply reduces the frequency of molecular gating actions by blocking receptors. The results suggest that atropine may also lower the conductance of the ion channel and alter the Na-K selectivity of the ion channel.
+scientific_discipline: Biology and Life Sciences > Neurobiology

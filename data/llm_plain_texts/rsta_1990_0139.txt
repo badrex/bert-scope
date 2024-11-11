@@ -1,0 +1,10 @@
+article_id: rsta_1990_0139
+revised_title: Fibre-Optic-Based Fluoroimmunosensors: Trace Analysis and Applications
+semantic_tags:
+  - Fluoroimmunosensors
+  - Trace analysis
+  - Fiber optics
+  - Fluorescence
+  - Immunoassay
+tldr: This article discusses the development of fibre-optic-based fluoroimmunosensors for trace analysis, which use the specificity of antibody-antigen interactions and the sensitivity of laser-excited fluorimetry to perform remote and in situ measurements of chemical concentrations. The authors describe the use of passive and regenerable sensors for measuring naturally fluorescent compounds and large proteins, demonstrating their potential for various applications, including continuous monitoring and hostile or inaccessible locations.
+scientific_discipline: Chemistry > Analytical Chemistry

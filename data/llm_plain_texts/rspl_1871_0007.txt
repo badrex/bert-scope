@@ -1,0 +1,10 @@
+article_id: rspl_1871_0007
+revised_title: 'Corrections and Additions to the Theory of Reciprocal Surfaces'
+semantic_tags:
+  - Geometry
+  - Mathematical Physics
+  - Surface Theory
+  - Optics
+  - Wave-Optics
+tldr: The author presents corrections and additions to the memoir on the theory of reciprocal surfaces, focusing on the wave-lengths of spectral lines produced by the atmosphere and metals. He discusses the applicability of Kirchhoff's lines and the discrepancies between Angstrom's and Ditschei's measures. The author provides a general table of corrections and tables of the lengths of light-waves for the air and metals, as corrected by the quantities deduced from the table.
+scientific_discipline: Mathematics > Geometry

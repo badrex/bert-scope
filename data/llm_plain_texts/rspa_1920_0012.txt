@@ -1,0 +1,10 @@
+article_id: rspa_1920_0012
+revised_title: Investigation of Electron Collisions with Platinum and Hydrogen
+semantic_tags:
+  - Electron collisions
+  - Ionisation
+  - Platinum
+  - Hydrogen
+  - Metal surfaces
+tldr: The authors conducted experiments to determine if the production of ionisation from platinum is due to occluded hydrogen. They found that ionisation occurs at the metal surface when electrons have a velocity as small as 11 volts, but it is not conclusive whether the ionisation is caused by the metal itself or hydrogen attached to the metal surface.
+scientific_discipline: Physics > Electricity and Magnetism

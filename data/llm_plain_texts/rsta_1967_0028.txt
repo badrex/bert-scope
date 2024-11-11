@@ -1,0 +1,10 @@
+article_id: rsta_1967_0028
+revised_title: Radar Tracking Techniques for Satellite Orbit Analysis
+semantic_tags:
+  - Satellite Tracking
+  - Radar Technology
+  - Satellite Orbit Determination
+  - Spacecraft Navigation
+  - Satellite Communications
+tldr: The article discusses the development and use of radar tracking technology at R.R.E., Malvern for analyzing satellite orbits. The authors describe the historical background, system setup, and various techniques used for tracking and controlling satellite movements. They also highlight the challenges faced and the methods employed to improve tracking accuracy and efficiency.
+scientific_discipline: Engineering and Technology > Satellite Technology

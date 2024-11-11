@@ -1,0 +1,10 @@
+article_id: rspa_1957_0008
+revised_title: 'Diffusion and Observation of Excitons in Aromatic Hydrocarbons'
+semantic_tags:
+  - Excitons
+  - Diffusion
+  - Aromatic Hydrocarbons
+  - Anthracene
+  - Fluorescence
+scientific_discipline: Chemistry > Physical Chemistry
+tldr: The authors describe a method to measure the diffusion of excitons in anthracene, an aromatic hydrocarbon, and observe their migration across a thin specimen. They apply this method experimentally and find that the observed diffusion length is 460 Å, which suggests that exciton migration occurs most easily between molecules in adjacent b-c planes in the graphite-like structure of anthracene.

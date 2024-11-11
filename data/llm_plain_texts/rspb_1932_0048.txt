@@ -1,0 +1,10 @@
+article_id: 'rspb_1932_0048'
+revised_title: 'Separation of Antibodies from Serum Proteins: A Method and Its Applications'
+semantic_tags:
+  - Immunology
+  - Antibodies
+  - Serum proteins
+  - Kaolin adsorption
+  - Elution
+tldr: The authors developed a method to separate antibodies from serum proteins using kaolin adsorption and elution with glycocol and sodium chloride solutions. This method allowed them to obtain protein-free antibodies, which they tested with diphtheria antitoxin and antityphoid serum, demonstrating the effectiveness of the technique. This discovery had significant implications for the study of antibodies and their applications in medicine.
+scientific_discipline: Biology and Life Sciences > Immunology

@@ -1,0 +1,10 @@
+article_id: rsta_1976_0049
+revised_title: Nonlinear Viscoelastic Tube Deformations and Polypropylene Applications
+semantic_tags:
+  - Viscoelasticity
+  - Polymer Science
+  - Material Science
+  - Nonlinear Mechanics
+  - Polypropylene
+tldr: The authors developed a theoretical framework for the deformation of a thin-walled tube made of an isotropic nonlinear viscoelastic material. They applied this theory to experimental results obtained with a polypropylene tube, demonstrating how stress dependence of the material response functions can be examined systematically by varying independently the two stress invariants involved.
+scientific_discipline: Engineering and Technology > Material Science

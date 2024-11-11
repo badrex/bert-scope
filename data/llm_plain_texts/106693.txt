@@ -1,0 +1,10 @@
+article_id: 106693
+revised_title: 'On the Resolution of Attractive Forces and Attraction of Surfaces and Solids'
+semantic_tags:
+  - Mathematical Physics
+  - Mechanics
+  - Attraction Laws
+  - Fluxions
+  - Geometry
+tldr: The author, Edward Waring, explores the resolution of attractive forces acting on a point and the attraction of surfaces and solids on a given point. He develops methods to calculate the force resulting from multiple forces acting on a point and applies these methods to problems involving lines, surfaces, and solids. This work contributes to the understanding of attraction laws and the mathematical foundations of mechanics.
+scientific_discipline: Mathematics > Mathematical Physics

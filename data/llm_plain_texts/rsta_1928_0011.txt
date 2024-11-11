@@ -1,0 +1,10 @@
+article_id: rsta_1928_0011
+revised_title: On the Law of Large Numbers and Probability Distributions
+semantic_tags:
+  - Probability Theory
+  - Statistics
+  - Mathematical Analysis
+  - Random Variables
+  - Large Deviations
+tldr: The authors discuss the law of large numbers and probability distributions, focusing on the behavior of random variables and their deviations. They develop methods to estimate and analyze these deviations, providing insights into the behavior of large and complex systems.
+scientific_discipline: Mathematics > Probability Theory

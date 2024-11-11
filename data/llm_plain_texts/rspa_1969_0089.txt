@@ -1,0 +1,10 @@
+article_id: rspa_1969_0089
+revised_title: 'Phonon Scattering by Paramagnetic Ions in Magnesium Oxide: Thermal Magnetoresistance Measurements'
+semantic_tags:
+  - Thermal magnetoresistance
+  - Phonon scattering
+  - Paramagnetic ions
+  - Magnesium oxide
+  - Crystallography
+tldr: The authors investigated the thermal magnetoresistance of magnesium oxide and observed phonon scattering by paramagnetic ions. They identified the impurity ions responsible for scattering phonons and studied their properties. By making certain assumptions about the phonons responsible for the heat current, they obtained values for the relaxation time and other parameters that are consistent with other methods. The magnetoresistance of the specimens was highly sensitive to the concentration of ions present, which determined the form of the heat current's spectral distribution.
+scientific_discipline: Physics > Materials Science

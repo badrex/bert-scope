@@ -1,0 +1,10 @@
+article_id: rspl_1891_0018
+revised_title: 'On the Measurement of Heat Produced by Compressing Liquids and Solids'
+semantic_tags:
+  - Thermodynamics
+  - Heat compression
+  - Thermoelectricity
+  - Materials science
+  - Experimental methods
+tldr: This article discusses the methods used to measure the heat produced by compressing liquids and solids. The authors describe their experimental setup and the results obtained from compressing various substances, including beeswax, chloroform, ether, paraffin, and phosphorus. They also discuss the differences in heat production between different materials and the potential implications for understanding the physical properties of allotropic forms of elementary substances.
+scientific_discipline: Physics > Thermodynamics

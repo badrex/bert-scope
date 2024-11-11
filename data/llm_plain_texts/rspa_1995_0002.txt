@@ -1,0 +1,10 @@
+article_id: rspa_1995_0002
+revised_title: 'Wave Radiation and Diffraction by a Submerged Sphere in Finite Water Depth'
+semantic_tags:
+  - Fluid Dynamics
+  - Wave Mechanics
+  - Hydrodynamics
+  - Marine Engineering
+  - Multipole Expansion
+tldr: 'This article analyzes the wave radiation and diffraction by a submerged sphere advancing in water waves of finite depth. The author uses the multipole expansion method to obtain numerical results for wave-making resistance, lift, added masses, damping coefficients, and exciting forces. The results are compared with far field equations, showing excellent agreement.'
+scientific_discipline: Engineering and Technology > Marine Engineering

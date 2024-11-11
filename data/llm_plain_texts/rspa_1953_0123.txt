@@ -1,0 +1,10 @@
+article_id: rspa_1953_0123
+revised_title: Nuclear Magnetic Resonance Investigation of Solid Benzenes
+semantic_tags:
+  - Nuclear Magnetic Resonance
+  - Solid State Chemistry
+  - Benzene Isotopes
+  - Crystal Lattice
+  - Spin-Lattice Relaxation Time
+tldr: The authors conducted a nuclear magnetic resonance investigation of three solid benzenes, measuring the absorption spectrum and spin-lattice relaxation time between 75 and 27 K. They found that the spectrum narrowed considerably at about 11 K, and developed a method to separate the intra- and intermolecular contributions to the second moment of the spectrum without needing to know the crystal structure. This study provided insights into the molecular structure and behavior of benzene in a solid state.
+scientific_discipline: Chemistry > Solid State Chemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1971_0029
+revised_title: 'Computer Aids in Mechanical Engineering Design and Manufacture: The Multipatch and Multiobject Design Systems'
+semantic_tags:
+  - Computer-Aided Design
+  - Mechanical Engineering
+  - Interactive Design Systems
+  - Graphics
+  - Engineering Design
+tldr: This article discusses the Multipatch and Multiobject design systems, which are computer-aided design tools used in mechanical engineering. These systems allow for interactive design and have been tested in various applications, such as designing ducts, aircraft skins, and locating design flaws. The author also describes the development of the more advanced Multiobject system, which can handle more complex shapes and user commands.
+scientific_discipline: Engineering and Technology > Computer-Aided Design

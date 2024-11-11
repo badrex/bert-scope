@@ -1,0 +1,10 @@
+article_id: 111356
+revised_title: 'Conditions for Existence of Systems of Equalities among Equation Roots'
+semantic_tags:
+  - Algebra
+  - Invariant Theory
+  - Equations
+  - Symmetric Functions
+  - Cayley's Theorem
+tldr: The author, Arthur Cayley, presents a memoir on finding conditions for the existence of systems of equalities among the roots of an equation. He extends the existing theory by showing how to form a series of types of functions that vanish for one or more systems of equalities among the roots. This work is particularly useful for quartic and quintic equations, providing distinctive conditions for different systems of equalities.
+scientific_discipline: Mathematics > Algebra

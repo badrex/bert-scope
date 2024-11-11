@@ -1,0 +1,10 @@
+article_id: rspa_1913_0084
+revised_title: Diamond Crystal Structure Analysis
+semantic_tags:
+  - Crystallography
+  - X-ray diffraction
+  - Diamond structure
+  - Cubic crystals
+  - Lattice structure
+tldr: The authors used X-ray diffraction and crystallography techniques to analyze the structure of the diamond. They discovered that the diamond has a face-centered cubic lattice with carbon atoms arranged in a specific pattern. The analysis also revealed that the diamond has no second-order spectrum, which helped in determining the number of carbon atoms in the crystal structure.
+scientific_discipline: Physics > Crystallography

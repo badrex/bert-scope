@@ -1,0 +1,10 @@
+article_id: rspa_1962_0190
+revised_title: Oxygen-17 Nuclear Magnetic Resonance in Inorganic Compounds
+semantic_tags:
+  - Nuclear Magnetic Resonance
+  - Inorganic Chemistry
+  - Transition Metals
+  - Molecular Orbital Model
+  - Paramagnetic Shielding
+tldr: The authors measured the oxygen-17 nuclear magnetic resonance of various inorganic compounds, focusing on the closed-shell oxy-anions of transition metals. They observed a high degree of paramagnetic shielding around the oxygen nuclei in these anions and used a molecular orbital model to explain this phenomenon. The study also found a linear relationship between chemical shifts and the lowest-energy electronic transitions in these compounds.
+scientific_discipline: Chemistry > Inorganic Chemistry

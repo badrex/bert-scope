@@ -1,0 +1,10 @@
+article_id: rspa_1951_0216
+revised_title: 'Diffusion of Heat Spots in Isotropic Turbulence: Experimental Techniques and Findings'
+semantic_tags:
+  - Turbulence
+  - Heat transfer
+  - Fluid dynamics
+  - Diffusion
+  - Isotropic turbulence
+tldr: The author conducted experiments to study the diffusion of heat spots in isotropic turbulence using a technique that involved producing small heat spots in the turbulent flow behind bi-plane square-mesh grids. They found that the transverse spatial distribution function of the heat spots was a Gaussian error function at all distances, in agreement with previous results on the temperature wake of a long thin wire. The mean peak temperature of the spots was found to decrease with distance downstream more rapidly in turbulent flow than in non-turbulent flow, suggesting that heat is probably concentrated in a contorted thin layer, and the shear pattern remains nearly constant in type, decaying aperiodically with the turbulence.
+scientific_discipline: Physics > Fluid Dynamics

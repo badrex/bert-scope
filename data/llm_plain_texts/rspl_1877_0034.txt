@@ -1,0 +1,10 @@
+article_id: rspl_1877_0034
+revised_title: Hyperjacobian Surfaces and Curves: Extensions and Properties
+semantic_tags:
+  - Algebraic Geometry
+  - Geometry
+  - Curves and Surfaces
+  - Mathematical Analysis
+  - Mathematical Theories
+tldr: The author investigates hyperjacobian surfaces and curves, extending the concepts of jacobian surfaces and curves to higher degrees of contact. They explore the properties of these surfaces, including the nature of contact with a given surface and the multiplicity of the hyperjacobian curve at the principal points of the system. The study covers cases of two-branch and three-branch contact with different types of pencils.
+scientific_discipline: Mathematics > Algebraic Geometry

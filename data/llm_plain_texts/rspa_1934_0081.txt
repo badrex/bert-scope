@@ -1,0 +1,10 @@
+article_id: rspa_1934_0081
+revised_title: Two-Dimensional Oscillations in Divergent Jets of Compressible Fluid: Analyzing Radial Flow and Streamlines
+semantic_tags:
+  - Fluid dynamics
+  - Jet physics
+  - Compressible fluid
+  - Streamline analysis
+  - Oscillations
+tldr: This article explores the oscillations in divergent jets of compressible fluids, focusing on radial flow and streamline analysis. The author discovers that there are only a finite number of oscillations in the fluid's behavior, and the oscillations become more frequent and concentrated near the point where the speed of sound is attained. The study provides insights into the behavior of fluids in nozzles of varying angles and contributes to the understanding of fluid dynamics and jet physics.
+scientific_discipline: Physics > Fluid Dynamics

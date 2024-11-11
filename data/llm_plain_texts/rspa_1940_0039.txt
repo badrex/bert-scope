@@ -1,0 +1,10 @@
+article_id: rspa_1940_0039
+revised_title: 'Investigating the Reciprocity Failure of Photographic Materials at Short Exposure Times'
+semantic_tags:
+  - Photographic Materials
+  - Reciprocity Failure
+  - Exposure Times
+  - Photometry
+  - Photography
+tldr: This article investigates the reciprocity failure of photographic materials at short exposure times. The authors found that reciprocity failure disappears for all tested emulsions at sufficiently short exposure times. The point where the reciprocity curve bends over into the horizontal is always at the same exposure time of about 0.5 seconds, independent of the type of emulsion or density. The position of the bend-over point depends on temperature, shifting towards longer exposures as temperature decreases.
+scientific_discipline: Physics > Optics

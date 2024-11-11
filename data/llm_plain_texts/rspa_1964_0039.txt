@@ -1,0 +1,10 @@
+article_id: rspa_1964_0039
+revised_title: 'Electron Attachment in Irradiated Solutions: The Formation of Ketyl Radical Ions'
+semantic_tags:
+  - Radical chemistry
+  - Electron attachment
+  - Ketyl radical ions
+  - Benzophenone
+  - Pulsed radiolysis
+tldr: The authors conducted experiments using pulsed radiolysis to study the effects of electron attachment in irradiated solutions of benzophenone. They discovered that the hydrated electron can react directly with benzophenone, producing a ketyl radical ion as a primary product. This finding demonstrates that in neutral and alkaline solutions, the hydrated electron reacts directly with the solute, while in acidic solutions, it is converted to the hydrogen atom before reacting with the solute.
+scientific_discipline: Chemistry > Radical chemistry

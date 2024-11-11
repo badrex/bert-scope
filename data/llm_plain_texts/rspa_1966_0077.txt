@@ -1,0 +1,10 @@
+article_id: rspa_1966_0077
+revised_title: Perchloric Acid-Initiated Polymerization of Styrene
+semantic_tags:
+  - Polymer Chemistry
+  - Styrene Polymerization
+  - Perchloric Acid
+  - Cationic Polymerization
+  - Polymerization Kinetics
+tldr: The authors studied the polymerization of styrene using perchloric acid as an initiator. They found that the reaction rates and degrees of polymerization were proportional to the first power of monomer concentration and the initial concentration of perchloric acid. The polymerization process was found to be "transfer-dominated" living polymerization, with a fast initiation and no termination. The overall rate was determined to be that of the propagation step.
+scientific_discipline: Chemistry > Polymer Chemistry

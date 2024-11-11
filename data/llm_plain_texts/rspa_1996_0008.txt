@@ -1,0 +1,10 @@
+article_id: rspa_1996_0008
+revised_title: 'Continuum Mechanical Description for Elastic Type-II Superconductors'
+semantic_tags:
+  - Superconductivity
+  - Continuum mechanics
+  - Magnetoelasticity
+  - Ginzburg-Landau theory
+  - Vortex state
+tldr: The authors develop a continuum mechanical description for elastic type-II superconductors using rigorous irreversible thermodynamics. They propose macroscopic independent variables and explore dissipation processes from vortex motion, electric current, heat flux, and superelectron relaxation. The transport properties of type-II superconductors in the vortex state are also discussed in detail.
+scientific_discipline: Physics > Electromagnetism

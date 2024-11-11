@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0034'
+revised_title: 'Satellite Doppler Tracking and Geodetic Applications in the North Sea'
+semantic_tags:
+  - Satellite Doppler tracking
+  - Geodetic applications
+  - North Sea
+  - Datum transformation
+  - European Datum
+tldr: This article discusses the use of satellite Doppler tracking for geodetic applications in the North Sea. It explains the need for accurate datum transformation parameters to relate satellite data to the local onshore geodetic datum, European Datum 1950. The article reviews existing parameters and describes how they were determined, how they should be used, and how errors can be avoided. It also highlights the importance of continuous geodetic information for offshore exploration and the need for accurate geoidal height information.
+scientific_discipline: Earth Sciences > Geodesy

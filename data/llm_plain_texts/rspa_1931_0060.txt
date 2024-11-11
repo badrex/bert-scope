@@ -1,0 +1,10 @@
+article_id: 'rspa_1931_0060'
+revised_title: 'Molecular Refractivities and Partial Molar Volumes of Lithium Chloride in Water-Ethyl Alcohol Solutions'
+semantic_tags:
+  - Electrolytes
+  - Solvents
+  - Molecular Refractivity
+  - Partial Molar Volumes
+  - Lithium Chloride
+tldr: This article investigates the behavior of electrolytes in mixed solvents, specifically focusing on the molecular refractivities and partial molar volumes of lithium chloride in water-ethyl alcohol solutions. The authors found that the molecular refractivity of lithium chloride remains constant in both solvents, while the partial molar volume changes with the composition of the solvent. The results suggest that the variation in molecular refractivity and partial molar volume can provide insights into the composition of the solvent and the behavior of ions in solution.
+scientific_discipline: Chemistry > Electrochemistry

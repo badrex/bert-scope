@@ -1,0 +1,10 @@
+article_id: 'rsta_1994_0101'
+revised_title: 'Nonlinear Forecasting of Non-Uniform Chaotic Attractors in Enzyme Reactions'
+semantic_tags:
+  - Chaos Theory
+  - Nonlinear Dynamics
+  - Enzyme Reaction
+  - Time Series Analysis
+  - Biological Systems
+tldr: The authors used nonlinear forecasting to study the chaotic dynamics of the peroxidase-oxidase reaction, a biochemical system. They found that short-term forecasting with local linear predictors can yield consistent results supporting the hypothesis of low-dimensional chaos. However, adding small amounts of observational error can cause most evidence for nonlinear determinism to disappear. The study also showed that effective forecasting is possible for points on Poincare sections and that including a second variable (NADH concentration) can improve forecasting efficacy.
+scientific_discipline: Physics > Chaos Theory

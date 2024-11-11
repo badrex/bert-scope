@@ -1,0 +1,9 @@
+article_id: rspa_1991_0126
+revised_title: Errata: Analytical Approach to Near-Earth Orbit Predictions
+semantic_tags:
+  - Celestial Mechanics
+  - Orbit Predictions
+  - Analytical Methods
+  - Corrections
+tldr: This article provides corrections to a previous publication on analytical methods for near-Earth orbit predictions, including drag. The corrections address a line in page 124 and an equation in page 125.
+scientific_discipline: Physics > Astronomy

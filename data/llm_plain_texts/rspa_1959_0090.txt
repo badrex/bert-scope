@@ -1,0 +1,10 @@
+article_id: rspa_1959_0090
+revised_title: Vibrational Analysis and Decomposition of Hydrogen Peroxide Molecule
+semantic_tags:
+  - Molecular dynamics
+  - Vibrational spectroscopy
+  - Chemical kinetics
+  - Hydrogen peroxide
+  - Slater's theory
+tldr: The authors conducted a vibrational analysis of the hydrogen peroxide molecule using the matrix method of Howard and Wilson. They calculated the amplitude factors for each of the six normal modes of vibration and used Slater's equation to calculate the rates of energization. The results showed that the chosen critical reaction coordinate led to a rate of energization close to the experimental value, and the maximum possible rate predicted by the equation was also close to the experimental value. This study provides insights into the decomposition of hydrogen peroxide and helps test theories related to unimolecular reactions.
+scientific_discipline: Chemistry > Chemical kinetics and molecular dynamics

@@ -1,0 +1,10 @@
+article_id: rsta_1991_0125
+revised_title: Quasi-Steady-State Assumption Applied to Enzyme Reactions with Diffusion
+semantic_tags:
+  - Enzyme kinetics
+  - Biochemical reactions
+  - Diffusion
+  - Singular perturbation
+  - Quasi-steady-state assumption
+tldr: The authors extend the quasi-steady-state assumption (QSSA) to include enzyme-substrate reactions with diffusion. They analyze the enzyme suicide-substrate reaction and the Michaelis-Menten reaction, showing that the region where the QSSA holds depends on space and time. This study provides a more accurate analysis for a wide range of biochemically relevant problems.
+scientific_discipline: Chemistry > Biochemistry

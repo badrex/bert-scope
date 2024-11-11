@@ -1,0 +1,10 @@
+article_id: rspa_1969_0100
+revised_title: Techniques for Preparing Damage-Free Single Crystal Surfaces for Ion Implantation and Hyperfine Interactions
+semantic_tags:
+  - Surface Preparation
+  - Ion Implantation
+  - Crystallography
+  - Hyperfine Interactions
+  - Target Preparation
+tldr: This article discusses various techniques for preparing undamaged single crystal surfaces for ion implantation and hyperfine interactions. It covers sectioning, grinding, and polishing methods, as well as the damage introduced by these processes. The article also highlights the importance of removing damaged layers to obtain accurate measurements of channelling processes, Rutherford scattering, electron emission, and transmission.
+scientific_discipline: Physics > Materials Science

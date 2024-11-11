@@ -1,0 +1,10 @@
+article_id: rspl_1895_0075
+revised_title: Unrestricted Spherical Harmonics and Their Applications
+semantic_tags:
+  - Spherical harmonics
+  - Mathematical physics
+  - Applied mathematics
+  - Astronomy
+  - Geophysics
+tldr: This article explores a new type of spherical harmonics with unrestricted degree, order, and argument. The author, E. W. Hobson, presents a general treatment of various types of harmonics, including toroidal functions and conal harmonics. The investigation focuses on two particular functions that satisfy the differential equation and are defined uniformly over the whole complex plane. The author also provides precise definitions of the integrands and discusses their properties, including degenerate forms and special restrictions.
+scientific_discipline: Mathematics > Applied Mathematics

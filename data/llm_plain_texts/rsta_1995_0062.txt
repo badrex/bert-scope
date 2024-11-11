@@ -1,0 +1,10 @@
+article_id: rsta_1995_0062
+revised_title: Propagation and Interaction of Waves in a Relaxing Gas: A Comprehensive Analysis
+semantic_tags:
+  - Nonlinear Waves
+  - Geometrical Optics
+  - Vibrational Relaxation
+  - Wavefront Distortion
+  - Signal Transmission
+tldr: This article analyzes the propagation and interaction of nonlinear waves in a relaxing gas within a duct with varying cross-sections. The study focuses on the effects of relaxation and non-planar wavefront configurations on the distortion, attenuation, and shock formation of pulses as they propagate. The research also explores the coupling between the interaction and distortion of component waves that make up the motion, and the implications of this theory on small-amplitude high-frequency pulses.
+scientific_discipline: Physics > Fluid Dynamics

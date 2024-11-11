@@ -1,0 +1,10 @@
+article_id: rspa_1981_0149
+revised_title: The Motion and Structure of Dislocations in Wavefronts: A Theoretical Framework
+semantic_tags:
+  - Wavefront Dislocations
+  - Scalar Waves
+  - Dislocation Trajectories
+  - Edge-Screw Dislocations
+  - Glide and Climb
+tldr: This article explores the motion and structure of dislocations in wavefronts, providing a theoretical framework for understanding the local phase structure and motion of dislocations in scalar waves. It explains how dislocations, which are analogous to crystal dislocations, move along trajectory surfaces and how their edge-screw character changes as they move. The article also discusses how to categorize and describe dislocations in complex and real scalar waves.
+scientific_discipline: Physics > Optics

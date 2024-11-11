@@ -1,0 +1,10 @@
+article_id: 'rspa_1923_0042'
+revised_title: 'Inductively Coupled Low Resistance Circuits: A Simplified Approach'
+semantic_tags:
+  - Electromagnetism
+  - Circuit Theory
+  - Wireless Telegraphy
+  - Electrical Engineering
+  - Mutual Inductance
+tldr: The author presents a simplified approach to analyze inductively coupled low resistance circuits. By neglecting damping, the author derives expressions for frequencies, amplitudes, and coupling directly from the differential equations of the circuits. A graphical method is also introduced to solve the problem. This study has implications for understanding the behavior of electrical circuits and their applications in wireless telegraphy.
+scientific_discipline: Engineering and Technology > Electrical Engineering

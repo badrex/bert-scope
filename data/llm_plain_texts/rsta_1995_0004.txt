@@ -1,0 +1,10 @@
+article_id: rsta_1995_0004
+revised_title: Polyhomogeneity and Gravitational Waves in General Relativity
+semantic_tags:
+  - Gravitational Waves
+  - General Relativity
+  - Polyhomogeneous Metrics
+  - Bondi-Sachs Expansion
+  - Asymptotic Expansion
+tldr: The article explores the properties of polyhomogeneous metrics in the context of gravitational waves and general relativity. It shows that the presence of certain terms in the asymptotic expansion of the metric is natural and does not lead to significant difficulties in analyzing the geometry. The study also demonstrates the validity of the Bondi mass loss formula and the peeling-off property of the Riemann tensor in the polyhomogeneous case.
+scientific_discipline: Physics > General Relativity

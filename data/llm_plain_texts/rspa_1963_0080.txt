@@ -1,0 +1,10 @@
+article_id: 'rspa_1963_0080'
+revised_title: 'Kinetic Spectroscopy of Ammonia and Hydrazine Explosive Oxidation'
+semantic_tags:
+  - 'Chemistry'
+  - 'Oxidation'
+  - 'Kinetic Spectroscopy'
+  - 'Ammonia'
+  - 'Hydrazine'
+tldr: The authors studied the explosive oxidation of ammonia and hydrazine using kinetic spectroscopy. They found that the main product of ammonia oxidation is nitric oxide, while hydrazine's oxidation has two mechanisms for two overall reactions. The authors also investigated the photolysis of ammonia and hydrazine, discovering that high radical concentrations and temperatures lead to fast decomposition of any hydrazine formed.
+scientific_discipline: Chemistry > Oxidation Chemistry

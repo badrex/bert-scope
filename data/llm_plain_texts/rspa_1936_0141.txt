@@ -1,0 +1,10 @@
+article_id: rspa_1936_0141
+revised_title: 'Quantitative Analysis of Photochemical Bleaching of Visual Purple Solutions in Monochromatic Light'
+semantic_tags:
+  - Photochemistry
+  - Visual Purple
+  - Photonic Cell
+  - Monochromatic Light
+  - Spectrophotometry
+tldr: The authors studied the photochemical bleaching of visual purple solutions using monochromatic light and absolute determinations of light intensity. They found that the bleaching process follows the kinetics of a monomolecular reaction, with the velocity constant being proportional to the intensity of the bleaching light. This research applied fundamental photochemical principles to the reaction and provided insights into the role of visual purple in scotopic vision.
+scientific_discipline: Chemistry > Photochemistry

@@ -1,0 +1,10 @@
+article_id: 'rspb_1941_0005'
+revised_title: 'Quantitative Analysis of Haptenes and their Effect on Antigen-Antibody Reactions'
+semantic_tags:
+  - Immunology
+  - Haptenes
+  - Antigens
+  - Antibodies
+  - Inhibition
+tldr: This study investigates the effect of haptene concentration on the reaction between antigens and antibodies. The researchers found that the degree of inhibition depends on the concentration of haptene, rather than the total amount present. They also discovered that the presence of haptene affects the composition of the precipitate, lowering the ratio of antibody to azo-protein. This work provides valuable insights into the chemical basis of specificity between pathogens and their antisera.
+scientific_discipline: Biology and Life Sciences > Immunology

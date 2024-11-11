@@ -1,0 +1,10 @@
+article_id: rspa_1954_0218
+revised_title: Stability of the Plane Free Surface of a Liquid in Vertical Periodic Motion
+semantic_tags:
+  - Fluid dynamics
+  - Surface waves
+  - Mathieu's equation
+  - Standing waves
+  - Vibration
+tldr: The authors investigate the stability of a plane free surface of a liquid in a vertically vibrating cylinder. They develop an ideal-fluid theory and use Mathieu's equation to explain the formation of standing waves and the stability conditions. The theory can explain the discrepancies between previous experiments by Faraday, Rayleigh, and Matthiessen.
+scientific_discipline: Physics > Fluid dynamics

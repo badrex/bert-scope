@@ -1,0 +1,10 @@
+article_id: '107932'
+revised_title: 'Meteorological Observations at the Royal Society: Barometer Fluctuations and Aerial Tides'
+semantic_tags:
+  - Meteorology
+  - Barometer
+  - Aerial Tides
+  - Atmospheric Pressure
+  - Moon's Influence
+tldr: The author analyzes meteorological observations made at the Royal Society's apartments during 1827-1829, focusing on barometer fluctuations and the influence of the moon on atmospheric pressure. The study reveals that the annual variations in barometer height appear to be independent of diurnal variations, and the fluctuations due to the moon are relatively small. The author also discusses the importance of considering the direction of the wind as a significant factor affecting barometer readings.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

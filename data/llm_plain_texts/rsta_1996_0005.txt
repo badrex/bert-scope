@@ -1,0 +1,10 @@
+article_id: 'rsta_1996_0005'
+revised_title: 'Poincaré-Andronov-Hopf Bifurcations in Periodically Forced Nonlinear Oscillators'
+semantic_tags:
+  - Bifurcations
+  - Nonlinear Oscillators
+  - Variable-coefficient Harmonic Balance
+  - Poincaré-Andronov-Hopf
+  - Control Space
+tldr: The authors apply the variable-coefficient harmonic balance method to study the role of Poincaré-Andronov-Hopf bifurcations in periodically forced nonlinear oscillators, specifically the Duffing and van der Pol oscillator equations. They demonstrate how these bifurcations relate to various local bifurcations in the solutions of these oscillators and construct control space diagrams to track critical eigenvalues associated with the bifurcations.
+scientific_discipline: Mathematics > Dynamical Systems

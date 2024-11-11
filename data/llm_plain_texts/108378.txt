@@ -1,0 +1,10 @@
+article_id: 108378
+revised_title: 'Magnetic Observations and Experiments on Russian Steel'
+semantic_tags:
+  - Terrestrial Magnetism
+  - Magnetic Determinations
+  - Russian Steel
+  - Magnetometer
+  - Magnetic Needles
+tldr: This article discusses the magnetic observations and experiments conducted on Russian steel by Edward Sabine. The author describes the process of determining the temperature coefficients of magnetic intensity needles and the effects of temperature on Russian steel. The article also highlights the importance of maintaining the steadiness of magnetic needles during long voyages and the use of intercomparison to detect any losses or gains in magnetism.
+scientific_discipline: Physics > Electromagnetism

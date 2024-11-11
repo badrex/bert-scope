@@ -1,0 +1,10 @@
+article_id: 'rsta_1978_0058'
+revised_title: 'Strategic Systems Planning for Telecommunications in the 1980s and Beyond'
+semantic_tags:
+  - Telecommunications
+  - System X
+  - Strategic planning
+  - Network architecture
+  - System concepts
+tldr: This article discusses the challenges and opportunities in telecommunications during the 1980s and beyond. It outlines the process of strategic systems planning, which involves identifying and defining development projects to create a framework for coordinated telecommunications systems development. The article also explores various system concepts and network architectures, such as digital transmission, integrated digital switching, and common channel signaling, to improve the cost-effectiveness and evolutionary capabilities of the British network.
+scientific_discipline: Engineering and Technology > Telecommunications

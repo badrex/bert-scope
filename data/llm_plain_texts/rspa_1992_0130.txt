@@ -1,0 +1,10 @@
+article_id: rspa_1992_0130
+revised_title: 'Influence of Reflection Coefficient Statistics on Seismic Method: Scattering Attenuation and Transmission Wavelets'
+semantic_tags:
+  - Seismic attenuation
+  - Elastic scattering
+  - Internal multiples
+  - Transmission wavelets
+  - Reflection coefficient statistics
+tldr: The authors investigate the influence of reflection coefficient statistics on seismic methods, focusing on scattering attenuation and transmission wavelets. They discuss the propagation of seismic energy through layered media and the effect of an overburden on the detectability of target horizons. The study derives attenuation laws for the two-way transmission using statistical models of real reflection series and checks the implications against synthetic seismograms derived from real sonic logs.
+scientific_discipline: Environmental and Earth Sciences > Geophysics

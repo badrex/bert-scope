@@ -1,0 +1,10 @@
+article_id: rspa_1975_0033
+revised_title: Absorption Cross Sections and Oscillator Strengths of Chromium I between 179.8 and 200 nm Wavelengths
+semantic_tags:
+  - Atomic physics
+  - Spectroscopy
+  - Chromium
+  - Absorption cross sections
+  - Oscillator strengths
+tldr: The authors studied the absorption spectrum of chromium vapor at wavelengths below 200 nm and measured the absorption cross-sections and oscillator strengths of the autoionized lines. They also determined the ionization potential and reported new wavelengths and transition probabilities of unlisted transitions. This research provides valuable data for understanding the continuous absorption cross-sections of iron-group metals in astrophysics.
+scientific_discipline: Physics > Atomic and Molecular Physics

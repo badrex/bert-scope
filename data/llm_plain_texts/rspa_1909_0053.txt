@@ -1,0 +1,10 @@
+article_id: rspa_1909_0053
+revised_title: 'Ionisation Produced by an Alpha Particle: Part I'
+semantic_tags:
+  - Nuclear Physics
+  - Ionization
+  - Radioactivity
+  - Alpha particles
+  - Rutherford's experiments
+tldr: The authors conducted experiments to determine the number of ions produced by an alpha particle along its entire path. They used a method that involved measuring the ionization current at low pressure and a small portion of the alpha particle's range. The results showed that the ionization produced by an alpha particle decreases as it travels through its path.
+scientific_discipline: Physics > Nuclear Physics

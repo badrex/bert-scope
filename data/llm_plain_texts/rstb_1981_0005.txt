@@ -1,0 +1,10 @@
+article_id: 'rstb_1981_0005'
+revised_title: 'Microparasites and Invertebrate Hosts: Population Dynamics and Regulation'
+semantic_tags:
+  - Population Biology
+  - Invertebrate Pathology
+  - Disease Transmission
+  - Host-Parasite Interaction
+  - Biological Control
+tldr: The article explores how directly transmitted microparasites, including viruses, bacteria, protozoans, and fungi, can regulate natural populations of invertebrate hosts. The study combines elements of epidemiology and prey-predator studies to create simple models that analyze the dynamical behavior of host-pathogen systems. The models examine factors such as disease-induced mortality, reduced reproduction in infected hosts, and the interplay between disease and other density-dependent constraints on host population growth. The findings suggest that pathogens can generate cyclic patterns in host abundance and infection prevalence, which can be observed in temperate forest insects like the European larch budmoth.
+scientific_discipline: Biology and Life Sciences > Ecology and Population Biology

@@ -1,0 +1,11 @@
+article_id: 'rspb_1987_0042'
+revised_title: 'Mossy-Fibre Arrival Volleys and Their Impact on Cerebellar Cortex Electrophysiology'
+semantic_tags:
+  - Cerebellum
+  - Mossy fibres
+  - Electrophysiology
+  - Synaptic potentials
+  - Granule cells
+tldr: The authors studied the effects of tightly-timed mossy-fibre arrival volleys in the cerebellar cortex. They identified presynaptic spike potentials, synaptic potentials, and granule-cell firing patterns. The research also revealed single glomerular potentials, which can sometimes be confused with cellular spike potentials. This work provides insights into the electrophysiology of the mossy-fibre pathway in the cerebellum.
+scientific_discipline: Biology and Life Sciences > Neuroscience
+```

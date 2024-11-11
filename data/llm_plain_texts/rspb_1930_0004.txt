@@ -1,0 +1,10 @@
+article_id: 'rspb_1930_0004'
+revised_title: 'The Effect of Anaesthetics on Amoeboid Movement'
+semantic_tags:
+  - Cellular Respiration
+  - Amoeba Movement
+  - Anaesthetics
+  - Oxygen Deficiency
+  - Respiratory Mechanisms
+tldr: The author conducted experiments to understand the effects of anaesthetics on amoeboid movement. They found that cyanides, sulphides, and pyrophosphates affect amoeboid movement similarly to oxygen deficiency. Cyanides cause a progressive fall in velocity, ultimately ending in complete inhibition. The author also discovered that the effects of cyanides are reversible and do not cause cytolysis, unlike in freshwater Amoeba proteus.
+scientific_discipline: Biology and Life Sciences > Cellular Biology and Physiology

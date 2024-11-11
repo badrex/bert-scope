@@ -1,0 +1,10 @@
+article_id: rspa_1966_0217
+revised_title: Green Function Formulation of the Dirac Field in Curved Space
+semantic_tags:
+  - Dirac Field
+  - Green Function
+  - Curved Space
+  - Spinor Wave Equation
+  - Mass Field
+tldr: The article presents a Green function formulation of the Dirac field in curved space, considering both constant mass and mass as a direct particle field. The author defines Dirac fields in terms of spinor Green functions and geometry-independent fields, and demonstrates that the field equations obtained from this formulation are the same as those derived from a suitable Lagrangian.
+scientific_discipline: Physics > Quantum Mechanics

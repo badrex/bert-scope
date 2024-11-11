@@ -1,0 +1,10 @@
+article_id: 'rstb_1971_0036'
+revised_title: 'Scanning Electron Microscopy Applications in Modern Biology'
+semantic_tags:
+  - Electron Microscopy
+  - Biological Research
+  - Tissue Preparation
+  - Specimen Signal Acquisition
+  - X-ray Microanalysis
+tldr: This article discusses the advancements in scanning electron microscopy and its applications in biological research. It explores various techniques for specimen preparation and signal acquisition, including topographical detail, cathodoluminescence, and X-ray microanalysis. The article highlights the potential of scanning electron microscopy in studying cell and molecular structures, as well as its use in detecting elements and analyzing elemental distribution in biological samples.
+scientific_discipline: Biology and Life Sciences > Cell Biology and Molecular Biology

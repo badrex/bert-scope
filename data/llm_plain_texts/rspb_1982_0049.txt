@@ -1,0 +1,10 @@
+article_id: 'rspb_1982_0049'
+revised_title: 'Inactivating Fraction of Asymmetry Current and Sodium Channel Gating in Squid Giant Axon'
+semantic_tags:
+  - Neurophysiology
+  - Ion channels
+  - Sodium channels
+  - Gating mechanisms
+  - Squid axon
+tldr: The authors studied the relationship between the inactivating fraction of the asymmetry current and the gating of sodium channels in the squid giant axon. They found that activation of the sodium system involves either three subunits operating in parallel or a three-step series mechanism. The results support a trimeric parallel system or the corresponding three-step series system. The study provides insights into the molecular models of sodium gating mechanisms.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

@@ -1,0 +1,10 @@
+article_id: rspa_1994_0034
+revised_title: Failure Assessment Diagrams: Generalizing Crack Driving Force as a Functional
+semantic_tags:
+  - Fracture Mechanics
+  - Failure Assessment Diagrams
+  - Crack Driving Force
+  - Ductile Tearing Instability
+  - Elastic-Plastic Analysis
+scientific_discipline: Engineering and Technology > Materials Science
+tldr: This article explores the concept of crack driving force as a functional in failure assessment diagrams. The authors demonstrate that even when the crack driving force is a functional, the tangency condition for instability can still be applied. They also discuss the implications of this approach for failure assessment procedures and fracture mechanics in general.

@@ -1,0 +1,10 @@
+article_id: rsta_1978_0052
+revised_title: Optical Fibre Systems: Progress and Challenges in the 1980s
+semantic_tags:
+  - Optical Communications
+  - Fiber Optics
+  - Telecommunications
+  - Optical Fibre Attenuation
+  - Optical Sources
+tldr: This article reviews the state of research and development in optical fibre systems for telecommunications in the 1980s. It discusses the progress made in reducing attenuation, increasing bandwidth, and improving the technology of optical sources. The author highlights the challenges remaining, such as the need for more reliable and efficient optical sources, and predicts future developments in the field.
+scientific_discipline: Engineering and Technology > Telecommunications

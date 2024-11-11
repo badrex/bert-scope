@@ -1,0 +1,10 @@
+article_id: rspa_1969_0170
+revised_title: Ductility and Friction in Clean Metals at Low Temperatures
+semantic_tags:
+  - Tribology
+  - Low-temperature physics
+  - Ductility
+  - Friction
+  - Surface properties
+tldr: The authors conducted experiments on the friction and deformation of clean metals at very low temperatures, ranging from 25 K to room temperature. They found that the ductility of metals plays a crucial role in determining the friction and surface damage produced. The results showed that many common metals have reduced ductility at low temperatures, leading to limited friction and junction tearing caused by tensile stresses resulting from the interaction of junction growth and ploughing deformations.
+scientific_discipline: Physics > Materials Science

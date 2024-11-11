@@ -1,0 +1,10 @@
+article_id: rspl_1879_0156
+revised_title: The Effect of Pressure on the Freezing Point of Water
+semantic_tags:
+  - Thermodynamics
+  - Pressure
+  - Freezing point
+  - Temperature
+  - Physics
+tldr: The author conducted experiments to study the effect of pressure on the freezing point of water. They used a Cailletet pump to observe the thermal effects of compression on solid and fluid substances. The results showed that the calculated value of the variation of the freezing point of water, deduced from the observed difference of volume of ice and water, and the latent heat of fluidity at the melting point under one atmosphere of pressure, is identical with the mean experimental value obtained from a series of observations extending to 700 atmospheres.
+scientific_discipline: Physics > Thermodynamics

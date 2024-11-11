@@ -1,0 +1,10 @@
+article_id: 'rsta_1981_0005'
+revised_title: 'Advancements in Fracture Mechanics and Notch Toughness for Improved Structural Durability'
+semantic_tags:
+  - Fracture mechanics
+  - Notch toughness
+  - Steel materials
+  - Welded structures
+  - Structural durability
+tldr: This article discusses the importance of fracture mechanics and the development of notch-tough steel for improving the durability of structures. It highlights the need for better understanding of material defects and their impact on service performance, and the advancements made in steel materials and design to prevent catastrophic brittle fractures in welded structures.
+scientific_discipline: Engineering and Technology > Materials Science

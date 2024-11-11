@@ -1,0 +1,10 @@
+article_id: rspa_1962_0063
+revised_title: 'Decay and Reactions of the Metastable Triplet State of Mercury'
+semantic_tags:
+  - Atomic Physics
+  - Metastable State
+  - Mercury
+  - Spectroscopy
+  - Chemical Reactions
+tldr: The authors studied the metastable triplet state of mercury and its decay and reactions with various gases. They found that collision of Hg(6^3P1) with Hg(6^3P0) is the main cause of deactivation in nitrogen. The authors also determined approximate values for the rate constants of reactions of the metastable state with different gases.
+scientific_discipline: Chemistry > Atomic Physics

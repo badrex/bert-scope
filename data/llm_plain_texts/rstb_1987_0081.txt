@@ -1,0 +1,10 @@
+article_id: 'rstb_1987_0081'
+revised_title: 'Chromosome Structure and Gene Expression: The Role of Scaffold-Associated Regions'
+semantic_tags:
+  - Chromosome structure
+  - Gene expression
+  - Scaffold-associated regions
+  - Topoisomerase II
+  - Chromatin loops
+tldr: The article discusses the relationship between chromosome organization and gene expression. It explores scaffold-associated regions (SARs) and their role in the structure and function of chromatin loops. The study finds that specific SARs are present near regulated genes and that topoisomerase II, a major component of the scaffold, plays a crucial role in chromosome organization and gene expression.
+scientific_discipline: Biology and Life Sciences > Genetics and Epigenetics

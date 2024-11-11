@@ -1,0 +1,9 @@
+article_id: 'rspb_1970_0014'
+revised_title: 'Morphological Changes in Growing Bacterial Colonies'
+semantic_tags:
+  - Microbiology
+  - Bacterial Growth
+  - Colony Morphology
+  - Diffusion-Limited Growth
+  - Aerobacter Aerogenes
+tldr: The authors studied the morphological changes in growing colonies of Aerobacter aerogenes, observing that the initially circular colonies become increasingly irregular as they grow. This irregularity is due to diffusion-controlled growth, where the balance between nutrient inflow and toxic metabolite outflow affects the colony's development. The authors also found that varying the composition of the gel or using drug-resistant strains can alter the colony's morphology.

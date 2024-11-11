@@ -1,0 +1,10 @@
+article_id: rsta_1986_0120
+revised_title: Surface-Acoustic-Wave Generation by Thermoelasticity: Techniques and Applications
+semantic_tags:
+  - Surface Acoustic Waves
+  - Thermoelasticity
+  - Non-destructive Testing
+  - Laser Techniques
+  - Material Characterization
+tldr: This article explores the generation of surface acoustic waves (SAWs) on aluminum using short laser pulses via the thermoelastic effect. The authors found that there is a simple relation between the temporal and spatial pulse width at which SAWs exhibit maximal amplitude. This technique plays an essential role in non-destructive testing, especially when the specimen needs to be tested at elevated temperatures or is not directly accessible.
+scientific_discipline: Engineering and Technology > Materials Science and Characterization

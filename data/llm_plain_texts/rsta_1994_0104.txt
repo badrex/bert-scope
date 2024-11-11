@@ -1,0 +1,10 @@
+article_id: rsta_1994_0104
+revised_title: Fractals in Earthquakes: The Stick-Slip Model and Earthquake Predictability
+semantic_tags:
+  - Earthquake prediction
+  - Fractals
+  - Stick-slip model
+  - Seismic phenomena
+  - Earthquake forecasting
+tldr: This article discusses the fractal nature of earthquakes and the stick-slip model, which can explain the fractal features of seismic phenomena. The authors explore the predictability of destructive earthquakes using the stick-slip model and its modifications, focusing on the two-dimensional and one-dimensional versions of the model. They also introduce a hypothesis for aftershock occurrences based on the entropy relaxation and partial melting of the crust.
+scientific_discipline: Environmental and Earth Sciences > Seismology

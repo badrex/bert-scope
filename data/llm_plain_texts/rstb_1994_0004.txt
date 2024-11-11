@@ -1,0 +1,10 @@
+article_id: 'rstb_1994_0004'
+revised_title: 'Generalizing Plankton Ecosystem Simulations with the Lagrangian Ensemble Method'
+semantic_tags:
+  - Marine Ecology
+  - Plankton
+  - Demography
+  - Environmental Modeling
+  - Oceanography
+tldr: The authors present the Lagrangian Ensemble method, a mathematical simulation tool for studying plankton ecosystems. This method generates large data sets with complete information on all families living in the simulated ecosystem, allowing for detailed demographic analysis. The authors review recent papers based on the Lagrangian Ensemble method and discuss its potential for understanding the complex dynamics of plankton survival, natural selection, and adaptation in the open ocean.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

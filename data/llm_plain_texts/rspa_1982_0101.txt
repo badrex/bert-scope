@@ -1,0 +1,10 @@
+article_id: rspa_1982_0101
+revised_title: Non-Unique Solutions in Thermoelectric Magnetohydrodynamic Heat Convection
+semantic_tags:
+  - Magnetohydrodynamics
+  - Thermoelectricity
+  - Heat Convection
+  - Fluid Mechanics
+  - Fusion Reactor Technology
+tldr: The author investigates the non-unique solutions in thermoelectric magnetohydrodynamic heat convection, focusing on a spherical container with a conducting wall. The study reveals multiple non-uniqueness, bifurcation, and catastrophe-type behavior when the problem is specified in terms of known heat transfer rates. The findings have implications for liquid lithium cells in fusion reactor blankets and potential experimental applications.
+scientific_discipline: Physics > Fluid Mechanics

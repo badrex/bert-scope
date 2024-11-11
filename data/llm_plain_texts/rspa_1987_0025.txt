@@ -1,0 +1,10 @@
+article_id: rspa_1987_0025
+revised_title: 'Wind-Driven Water Waves: A Study of Short-Scale Phenomena'
+semantic_tags:
+  - Fluid Dynamics
+  - Wave Generation
+  - Linear Stability Theory
+  - Viscous Interface Conditions
+  - Surface Tension
+tldr: This article investigates the linear stability of wind-driven water waves, focusing on short-scale waves. The study finds that these waves are driven predominantly by surface tension, local shear stresses, and viscous forces, with gravity and other factors playing a lesser role. The findings agree with observations of "cat's paws" on wind-driven water surfaces and provide insights into the dynamics of the ocean surface, affecting atmospheric drag, radar "snow," and microwave backscatter.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

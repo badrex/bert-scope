@@ -1,0 +1,10 @@
+article_id: rspa_1959_0124
+revised_title: 'Plane Gravitational Waves in General Relativity: Exact Solutions and Properties'
+semantic_tags:
+  - Gravitational Waves
+  - General Relativity
+  - Plane Waves
+  - Symmetry Conditions
+  - Riemann Tensor
+tldr: The authors discuss plane gravitational waves in the context of general relativity, defining them as non-flat solutions of Einstein's empty space-time field equations that possess a high degree of symmetry. They present a general plane-wave metric and study the properties of plane wave space-times, including their characterization as 'plane' and their ability to transport energy. The authors also explore the effects of null rotations on these waves and their potential applications in understanding gravitational radiation.
+scientific_discipline: Physics > General Relativity

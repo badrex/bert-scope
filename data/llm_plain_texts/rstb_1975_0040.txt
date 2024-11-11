@@ -1,0 +1,10 @@
+article_id: 'rstb_1975_0040'
+revised_title: 'The Use of Bole Surface in Estimating Woodland Production'
+semantic_tags:
+  - Forest Ecology
+  - Biomass Estimation
+  - Silviculture
+  - Ecosystem Production
+  - Forest Inventory
+tldr: The article discusses the use of bole surface in estimating woodland production and its potential applications in silviculture. The authors propose a primary matrix that includes volume, surface, and length to interrelate ecosystem production and silvicultural practices. This matrix can be used to estimate biomass, energy, water, and nutrient flows, and to determine the distribution of organic matter among trees, shrubs, and herbaceous plants. The primary matrix can also help in estimating the potential production of various timber products and provide a basis for practical choices among alternative silvicultural actions.
+scientific_discipline: Environmental and Earth Sciences > Forest Ecology

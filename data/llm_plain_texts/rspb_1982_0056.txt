@@ -1,0 +1,9 @@
+article_id: 'rspb_1982_0056'
+revised_title: 'Exploring the Calcium-Dependent Transient Outward Current in Xenopus laevis Oocytes'
+semantic_tags:
+  - Ion channels
+  - Membrane potential
+  - Calcium ions
+  - Xenopus laevis
+  - Neurotransmitter receptors
+tldr: The author investigates the transient outward current in Xenopus laevis oocytes and discovers that it is calcium-dependent. The current is generated when the membrane potential is depolarized, and its amplitude increases with higher external calcium concentrations. The current is abolished by manganese, cobalt, and lanthanum ions, suggesting that calcium ions entering the oocyte trigger the outward current. This finding contributes to the understanding of the complex ionic channels in oocyte membranes and their role in cellular processes.

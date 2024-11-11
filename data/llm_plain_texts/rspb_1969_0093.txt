@@ -1,0 +1,10 @@
+article_id: 'rspb_1969_0093'
+revised_title: 'Buoyancy Mechanism in Cranchid Squid'
+semantic_tags:
+  - Marine Biology
+  - Squid Buoyancy
+  - Biomechanics
+  - Osmotic Pressure
+  - Ammonium Chloride
+tldr: The authors discovered a buoyancy mechanism in cranchid squid, which allows them to maintain near-neutral buoyancy in seawater. The large coelom in these squid is filled with a fluid that has a lower density than seawater, providing enough lift to balance the denser tissues of the animal. The coelomic fluid is nearly iso-osmotic with seawater, and its low density is mainly due to being a solution of ammonium chloride in water. This buoyancy mechanism is likely used by all Cranchidae species.
+scientific_discipline: Biology and Life Sciences > Marine Biology

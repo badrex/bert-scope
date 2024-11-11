@@ -1,0 +1,10 @@
+article_id: rspl_1897_0102
+revised_title: 'Refractivities of Air, Oxygen, Nitrogen, Argon, Hydrogen, and Helium'
+semantic_tags:
+  - Gas Refractivity
+  - Gas Mixtures
+  - Gas Properties
+  - Gas Theory
+  - Gas Mixtures Refractivity
+tldr: The authors conducted experiments to measure the refractivities of various gases, including air, oxygen, nitrogen, argon, hydrogen, and helium. They found that the refractivity of a gas mixture is not always equal to the sum of the refractivities of its individual components. This discovery suggests that gases are not entirely indifferent to one another's presence and can modify each other's properties, similar to liquids. The authors also observed that the presence of argon in air has a negligible effect on refractivity.
+scientific_discipline: Chemistry > Gas Properties

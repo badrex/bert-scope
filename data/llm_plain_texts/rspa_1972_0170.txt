@@ -1,0 +1,10 @@
+article_id: rspa_1972_0170
+revised_title: High-Pressure Microviscometer Based on Refractive Index: A New Method for Measuring Viscosity
+semantic_tags:
+  - High-pressure microviscometer
+  - Refractive index
+  - Viscosity measurement
+  - Fluid density
+  - Lubricants
+tldr: The authors developed a new method for measuring viscosity in high-pressure lubricants using refractive index. The technique involves trapping a fluid in a point contact between a ball and a flat surface, then measuring the refractive index to determine the fluid's density, pressure, and viscosity. This method allows for the measurement of extremely high viscosities and provides valuable insights into the behavior of fluids under high pressure.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

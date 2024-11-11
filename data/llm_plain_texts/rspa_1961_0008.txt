@@ -1,0 +1,10 @@
+article_id: rspa_1961_0008
+revised_title: Spin-Dependent Density Matrices in Many-Electron Quantum Mechanics
+semantic_tags:
+  - Quantum mechanics
+  - Density matrix theory
+  - Spin coupling
+  - Spin-dependent operators
+  - Irreducible tensor operators
+tldr: This article explores the spin dependence of density and transition density matrices in many-electron quantum mechanics. It separates space and spin variables to utilize the symmetry properties under rotations in spin space and applies the theory of irreducible tensor operators to establish the basic results. The study focuses on spin-dependent operators and their effects on density matrices, providing a powerful tool for discussing the behavior of many-electron systems.
+scientific_discipline: Physics > Quantum Mechanics

@@ -1,0 +1,10 @@
+article_id: rspa_1910_0019
+revised_title: Investigation of Magneto-Cathodic Rays and Their Electric Charge
+semantic_tags:
+  - Electromagnetism
+  - Cathode rays
+  - Electric charge
+  - Magnetic fields
+  - Ray properties
+tldr: The authors conducted experiments to investigate the nature of magneto-cathodic rays, which are rays that appear when a tube with an electric discharge is placed in a strong magnetic field. They found that these rays consist of slowly moving negatively electrified particles that form a fine spiral along the lines of magnetic force passing through the cathode. The authors also discovered that these rays do not carry an electric charge.
+scientific_discipline: Physics > Electromagnetism

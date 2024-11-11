@@ -1,0 +1,9 @@
+article_id: rspa_1984_0081
+revised_title: Energy Calculations for Planar Faults in Reduced Rutile (TiO2)
+semantic_tags:
+  - Crystallography
+  - Defect structure
+  - Rutile
+  - Point defects
+  - Polarizability
+tldr: The authors conducted energy calculations for planar faults in reduced rutile using the polarizable point ion shell model. They took into account electronic polarizabilities of the ions and found that relaxation energy due to polarization effects played a significant role in energy calculations. The study provides insights into the crystal chemistry of slightly substoichiometric rutile and the formation of vacancy disc structures.

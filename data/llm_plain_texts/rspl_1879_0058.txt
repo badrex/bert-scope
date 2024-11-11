@@ -1,0 +1,11 @@
+article_id: rspl_1879_0058
+revised_title: On the Convergence of Definite Integrals
+semantic_tags:
+  - Calculus
+  - Mathematical Analysis
+  - Infinite Series
+  - Convergence
+  - Fourier Series
+tldr: The author discusses the convergence of definite integrals, particularly in relation to Fourier series. They explore the behavior of sine and cosine functions in these integrals and consider the work of Professor Stokes. The article contributes to the understanding of mathematical analysis and its applications.
+scientific_discipline: Mathematics > Calculus
+sub_discipline: Mathematical Analysis > Convergence

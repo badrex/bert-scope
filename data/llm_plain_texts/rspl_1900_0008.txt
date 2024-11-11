@@ -1,0 +1,10 @@
+article_id: rspl_1900_0008
+revised_title: Ion Diffusion in Air: Effects of Radioactive Substances, Ultra-Violet Light, and Point Discharges
+semantic_tags:
+  - Ion diffusion
+  - Radioactivity
+  - Ultra-violet light
+  - Point discharges
+  - Gas diffusion
+tldr: This paper investigates the diffusion of ions produced in air by the action of radioactive substances, ultra-violet light, and point discharges. The experiments show that the rate of diffusion of ions into a gas is inversely proportional to the pressure of the gas. The study also compares the diffusion rates of ions produced by different methods, such as radioactive substances, ultra-violet light, and point discharges.
+scientific_discipline: Physics > Electromagnetism

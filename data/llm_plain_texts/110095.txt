@@ -1,0 +1,10 @@
+article_id: 110095
+revised_title: 'On the Magnetism of Iron Arising from Its Rotation: A Peculiar Magnetic Action'
+semantic_tags:
+  - Magnetism
+  - Iron
+  - Rotation
+  - Dipping-needle
+  - Magnetic action
+tldr: 'Samuel Hunter Christie discovered a new magnetic action in iron arising from its rotation. This action influences the polarity of the iron and affects the directive power of a compass. The author conducted numerous experiments and established a general law for the deviation due to rotation in a dipping-needle. He also proposed a theoretical investigation of the effect of a plate of soft iron with two poles developed in given positions, acting on a needle in the plane of the plate.'
+scientific_discipline: Physics > Magnetism

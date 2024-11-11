@@ -1,0 +1,10 @@
+article_id: rsta_1975_0079
+revised_title: Mass Loss from A-Type Supergiant Stars: The Case of Cygni
+semantic_tags:
+  - Astronomy
+  - Stellar Evolution
+  - Mass Loss
+  - Ultraviolet Astronomy
+  - Spectroscopy
+tldr: The author studies the mass loss from the A-type supergiant star Cygni using ultraviolet spectroscopy. They find that the star is losing mass at a rate of around 10^-5 solar masses per year, with an outward acceleration due to radiation pressure from the Mg II resonance lines. This mass loss is likely due to the radiation pressure from other resonance lines in the near-ultraviolet spectrum of A-type stars.
+scientific_discipline: Astronomy > Stellar Evolution

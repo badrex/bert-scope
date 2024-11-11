@@ -1,0 +1,10 @@
+article_id: rspa_1989_0033
+revised_title: A Refinement of the Radon Transform and Its Inverse
+semantic_tags:
+  - Mathematics
+  - Fourier Analysis
+  - Transform Theory
+  - Signal Processing
+  - Image Reconstruction
+tldr: The authors introduce a refinement of the Radon transform, which uses a generalized hemisphere instead of the full sphere for the inverse transformation. This refinement provides a more one-to-one correspondence between the function and its transform, and requires less of the transform to reconstruct the function. The authors discuss potential applications in tomography and other areas.
+scientific_discipline: Mathematics > Fourier Analysis

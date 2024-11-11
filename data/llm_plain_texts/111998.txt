@@ -1,0 +1,10 @@
+article_id: 111998
+revised_title: 'Meteorological Observations of Sudden Squalls in October and November 1863'
+semantic_tags:
+  - Meteorology
+  - Atmospheric Pressure
+  - Electrometry
+  - Weather Phenomena
+  - Squalls
+tldr: This article discusses two sudden squalls that occurred on October 30th and November 21st, 1863. The author, Balfour Stewart, analyzes the changes in atmospheric pressure, temperature, and air electricity during these events using barographs and electrometers at Kew and Oxford. The results show a rapid rise in barometric pressure and an increase in wind velocity during both squalls, with the air at Kew remaining negatively electrified throughout.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

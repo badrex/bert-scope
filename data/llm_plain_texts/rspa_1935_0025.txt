@@ -1,0 +1,10 @@
+article_id: 'rspa_1935_0025'
+revised_title: 'Vibrational Spectrum of Cubical Lattices and Its Application to the Specific Heat of Crystals'
+semantic_tags:
+  - Crystallography
+  - Specific Heat
+  - Vibrational Spectrum
+  - Lattice Theory
+  - Thermal Physics
+tldr: The authors studied the vibrational spectrum of cubical lattices and its application to the specific heat of crystals. They found that the Debye theory is successful in predicting the specific heat of crystals, although a parameter theory could hardly be expected to be so. The authors also discussed the lower and higher maxima in the region of temperature between the two extremes and their effects on the specific heat.
+scientific_discipline: Physics > Thermal Physics

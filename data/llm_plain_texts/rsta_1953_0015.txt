@@ -1,0 +1,10 @@
+article_id: rsta_1953_0015
+revised_title: Wave Functions for the Nuclear p-Shell: Part B
+semantic_tags:
+  - Nuclear structure
+  - Wave functions
+  - Fractional parentage coefficients
+  - Nuclear physics
+  - Quantum mechanics
+tldr: This article presents a method for transforming wave functions of the nuclear p-shell into linear combinations of antisymmetric states for particles vector-coupled to antisymmetric states of particles. The authors provide a new notation for symbols describing the irreducible representations of special unitary groups and tabulate the coefficients required for the calculations. This form of wave functions is suitable for evaluating two-body interactions and has been used in investigations on the effect of non-central forces on the levels of p-shell nuclei.
+scientific_discipline: Physics > Nuclear Physics

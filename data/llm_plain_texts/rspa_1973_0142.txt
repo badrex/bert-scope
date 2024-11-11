@@ -1,0 +1,10 @@
+article_id: rspa_1973_0142
+revised_title: Kinetics and Mechanism of Atomic Oxygen Reaction with Acetylene
+semantic_tags:
+  - Chemical kinetics
+  - Reaction mechanisms
+  - Photoionization mass spectrometry
+  - Atomic oxygen
+  - Acetylene
+tldr: This study investigates the reaction of atomic oxygen with acetylene using a photoionization mass spectrometer. The researchers found that the primary reaction channels producing free radicals, such as HCCO and CH2, account for about 95% of the initial reaction path. The study provides detailed information on the primary and secondary intermediates and discusses the reaction mechanism.
+scientific_discipline: Chemistry > Chemical kinetics

@@ -1,0 +1,10 @@
+article_id: rspa_1932_0058
+revised_title: 'Advancements in Sensitivity and Detection Techniques in Atomic Analysis by X-rays'
+semantic_tags:
+  - X-ray spectroscopy
+  - Atomic analysis
+  - Sensitivity
+  - Detection techniques
+  - X-ray tube voltage
+tldr: The authors conducted experiments to improve the sensitivity of atomic analysis by X-rays. They found that a high applied voltage and efficient scattering shields are necessary for better sensitivity. The authors also discussed the factors that can influence sensitivity, such as the depth of penetration of cathode rays, selective absorption of spectral lines, and the intensity of continuous radiation. These findings help improve the accuracy of atomic analysis and the detection of trace elements in mixtures.
+scientific_discipline: Physics > Optics

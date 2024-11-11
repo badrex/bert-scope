@@ -1,0 +1,10 @@
+article_id: rspa_1938_0180
+revised_title: 'Potassium Chloride Diffusion in Water: The Porous Diaphragm Method'
+semantic_tags:
+  - Diffusion
+  - Porous Diaphragm Method
+  - Potassium Chloride
+  - Electrolyte
+  - Chemical Analysis
+tldr: The authors developed a method to measure the diffusion velocity of substances in dilute solutions using a porous diaphragm. They applied this method to study the diffusion of potassium chloride in water, finding that the rate of diffusion is an explicit function of the concentration and the diffusion coefficient. This method provides a more accurate and controlled way to study diffusion in various solutions.
+scientific_discipline: Chemistry > Electrochemistry

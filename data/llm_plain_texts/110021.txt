@@ -1,0 +1,10 @@
+article_id: 110021
+revised_title: Chronometer and Eclipses: Determining Longitudes and Locations
+semantic_tags:
+  - Astronomy
+  - Navigation
+  - Chronometer
+  - Eclipses
+  - Geographical coordinates
+tldr: This article discusses the author's efforts to determine the longitudes and locations of various places using chronometers and eclipses of Jupiter's satellites. The author found a close agreement between the longitude of Masulipatam determined by these two methods, and provides the latitude and longitude of Point de Galle and the longitude of Canton.
+scientific_discipline: Astronomy > Navigation

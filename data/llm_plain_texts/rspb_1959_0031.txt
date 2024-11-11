@@ -1,0 +1,10 @@
+article_id: 'rspb_1959_0031'
+revised_title: 'Enzyme Activity Variations in Bacterial Growth and Adaptation'
+semantic_tags:
+  - Bacterial growth
+  - Enzyme activity
+  - Adaptation
+  - Dehydrogenase
+  - Deaminase
+tldr: The author studied the changes in dehydrogenase and deaminase enzyme activities during bacterial growth in different media. They found that asparagine deaminase activity increases towards the end of the growth cycle, while glucose and succinic dehydrogenase activities remain constant. During adaptation to a succinate medium, succinic dehydrogenase activity increases significantly, and cells lose their high activity when returned to a glucose medium. These findings provide insights into the physiological state of cells and the processes of adaptation to different growth media.
+scientific_discipline: Biology and Life Sciences > Microbiology

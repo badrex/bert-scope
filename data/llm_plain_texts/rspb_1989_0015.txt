@@ -1,0 +1,10 @@
+article_id: 'rspb_1989_0015'
+revised_title: Automated Site-Directed Drug Design: A General Algorithm for Hydrogen-Bonding Regions at Protein Surfaces
+semantic_tags:
+  - Drug Design
+  - Protein Structure
+  - Expert Systems
+  - Hydrogen Bonding
+  - Molecular Graphics
+tldr: The authors present a general algorithm called HS1TE for computing hydrogen-bonding regions at protein surfaces using atomic coordinates from the Brookhaven Protein Data Bank. This algorithm helps in identifying potential site points for ligand attachment and can be used as part of a knowledge base for automated site-directed drug design. The program generates a map of hydrogen-bonding regions, which can be used to create novel ligands that fit specified binding sites.
+scientific_discipline: Biology and Life Sciences > Biochemistry

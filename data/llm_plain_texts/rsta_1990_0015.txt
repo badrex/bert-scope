@@ -1,0 +1,10 @@
+article_id: rsta_1990_0015
+revised_title: Spectral Solution of Boltzmann Equation for Infinitely Strong Shock
+semantic_tags:
+  - Boltzmann equation
+  - Kinetic theory
+  - Shock waves
+  - Rarefied gas dynamics
+  - Irreducible tensors
+tldr: The authors present a spectral method for solving the Boltzmann equation, using the theory of irreducible tensors and Dirac's symbolic notation. They apply this method to the problem of the infinitely strong shock, demonstrating that the distribution function can be decomposed into a singular part representing the molecular beam and a regular part for the background gas. The chosen basis provides an efficient and elegant solution to this nonlinear problem.
+scientific_discipline: Physics > Fluid Dynamics

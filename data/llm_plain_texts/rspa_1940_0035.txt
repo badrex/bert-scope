@@ -1,0 +1,10 @@
+article_id: 'rspa_1940_0035'
+revised_title: 'Isotope Effects on Repulsive Forces Between Molecules'
+semantic_tags:
+  - Isotopes
+  - Molecular forces
+  - Coulomb forces
+  - Nuclear masses
+  - Virial coefficients
+tldr: The author explores the impact of nuclear masses on the repulsive forces between isotopic molecules, specifically focusing on Coulomb repulsion. They develop a simple model to estimate the isotope effect and suggest that this effect could be measurable through the difference in second virial coefficients of hydrogen and deuterium.
+scientific_discipline: Chemistry > Molecular Physics

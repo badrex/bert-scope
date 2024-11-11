@@ -1,0 +1,10 @@
+article_id: rspa_1968_0152
+revised_title: A Simplified Method for Evaluating the Failure Loads of Plane Frames
+semantic_tags:
+  - Structural Engineering
+  - Plasticity
+  - Frame Analysis
+  - Structural Stability
+  - Load Factor
+tldr: This article presents a new method for evaluating the failure loads of plane frames without following the sequence of plastic hinge formation. Instead, the proposed method utilizes the elastic and plastic load-deformation characteristics of frames, including second-order effects. The theoretical validity of the method is studied, and comparisons are made with experimental observations on frames loaded proportionally up to collapse.
+scientific_discipline: Engineering and Technology > Structural Engineering

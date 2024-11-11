@@ -1,0 +1,10 @@
+article_id: rspa_1964_0086
+revised_title: 'Energy Balance and Recombination in Decaying Plasmas'
+semantic_tags:
+  - Plasma physics
+  - Recombination
+  - Energy balance
+  - Plasma decay
+  - Hydrogen atoms
+tldr: The authors study the thermal economy of a decaying plasma, focusing on plasmas that are magnetically confined, so only atoms can strike the containing walls. They discuss the complex of interacting collisional and radiative processes involved in collisional-radiative recombination and ionization. The authors also examine the energy balance equations for the hydrogen ion and hydrogen atom gases, considering the effects of elastic collisions and inelastic collisions on the energy balance.
+scientific_discipline: Physics > Plasma Physics

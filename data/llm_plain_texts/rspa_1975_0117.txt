@@ -1,0 +1,10 @@
+article_id: rspa_1975_0117
+revised_title: 'Storm Surges in the Southern North Sea and River Thames: A Numerical Model and the Impact of the Thames Barrier'
+semantic_tags:
+  - Storm Surges
+  - Numerical Modeling
+  - Coastal Flooding
+  - River Thames
+  - Flood Defense
+tldr: This article presents a numerical model for predicting storm surges in the southern North Sea and River Thames. The model simulates tide and surge propagation to help in flood prevention measures and designing flood defense works. The authors also investigate the impact of the Thames Barrier on storm surges and find that it significantly reduces the amplitude of reflected waves.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

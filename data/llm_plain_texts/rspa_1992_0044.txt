@@ -1,0 +1,10 @@
+article_id: rspa_1992_0044
+revised_title: Time-domain Asymptotics and Applications of the Method of Stationary Phase
+semantic_tags:
+  - Asymptotic Analysis
+  - Waveform Asymptotics
+  - Time-domain Method of Stationary Phase
+  - Fourier Analysis
+  - Wave Equations
+tldr: The author presents a time-domain version of the method of stationary phase for oscillatory integrals, focusing on the behavior of integrals with periodic functions and discontinuities. The theory is applied to boundary-integral solutions of the wave equation, providing insights into characteristics, rays, and caustics, as well as wave patterns and diffraction phenomena.
+scientific_discipline: Mathematics > Asymptotic Analysis

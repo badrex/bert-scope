@@ -1,0 +1,10 @@
+article_id: rspa_1906_0019
+revised_title: 'The Relationship between Osmotic Pressure and Vapour Pressure in Concentrated Solutions: A Thermodynamic Analysis'
+semantic_tags:
+  - Osmotic pressure
+  - Vapour pressure
+  - Thermodynamics
+  - Concentrated solutions
+  - Equilibrium
+tldr: This article investigates the relationship between osmotic pressure and vapour pressure in concentrated solutions. The author presents a thermodynamic argument to explain the discrepancy between previous results obtained by other methods. The study emphasizes the importance of considering the hydrostatic pressure of the solvent in osmotic pressure calculations.
+scientific_discipline: Chemistry > Physical Chemistry

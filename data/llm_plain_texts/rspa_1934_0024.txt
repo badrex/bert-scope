@@ -1,0 +1,10 @@
+article_id: rspa_1934_0024
+revised_title: 'Transport Number and Conductivity Measurements of Colloidal Electrolytes: Benzidine Dyes'
+semantic_tags:
+  - Colloidal electrolytes
+  - Benzidine dyes
+  - Transport number
+  - Conductivity
+  - Micelle size
+tldr: The authors conducted transport number and conductivity measurements on benzidine dyes to study their aggregation and micelle size. They found that both dyes have similar states of aggregation in their N/70 solutions, and the transport number of the negative radical increases with increasing aggregation. This research helps to understand the constitution of micelles in colloidal electrolytes.
+scientific_discipline: Chemistry > Colloidal Chemistry

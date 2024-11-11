@@ -1,0 +1,10 @@
+article_id: 106576
+revised_title: 'Determining the Distance, Magnitude, and Weight of Stars through Light Diminution'
+semantic_tags:
+  - Astronomy
+  - Gravitational force
+  - Light velocity
+  - Celestial mechanics
+  - Star systems
+tldr: The author proposes a method to determine the distance, magnitude, and weight of stars by observing the diminution of light velocity due to gravitational forces. This method involves measuring the velocity of light from stars with known density and comparing it to the velocity of light from other stars. The author also discusses the relationship between the velocity of light, the velocity of falling bodies, and the distance from celestial bodies.
+scientific_discipline: Physics > Astronomy

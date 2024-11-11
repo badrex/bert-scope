@@ -1,0 +1,10 @@
+article_id: rspa_1932_0188
+revised_title: Wave Resistance Theory for Submerged Solids
+semantic_tags:
+  - Fluid Dynamics
+  - Wave Resistance
+  - Ship Hydrodynamics
+  - Fluid Mechanics
+  - Surface Waves
+tldr: The author presents a mathematical theory for calculating the wave resistance of submerged solids, using a method that involves analyzing the distribution of sources and doublets over the solid's surface. The theory can be applied to various shapes, including spheres, ellipsoids, and ships, providing a more accurate estimation of wave resistance for different types of submerged objects.
+scientific_discipline: Physics > Fluid Dynamics

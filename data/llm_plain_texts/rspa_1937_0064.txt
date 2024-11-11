@@ -1,0 +1,10 @@
+article_id: rspa_1937_0064
+revised_title: Magnetic Anisotropy and Electronic Structure of Aromatic Molecules: A Quantum-Mechanical Approach
+semantic_tags:
+  - Quantum Mechanics
+  - Aromatic Compounds
+  - Magnetic Anisotropy
+  - Molecular Orbitals
+  - Diamagnetic Susceptibility
+tldr: The author investigates the magnetic anisotropy and electronic structure of aromatic molecules, focusing on benzene and its derivatives. They apply the theory of molecular orbitals to explain the diamagnetic anisotropy and find that the average effective radius of the normal valency electrons in benzene derivatives increases as the number of aliphatic carbon atoms and hydrogen atoms in the molecule increases. The study also reveals that the average effective radius of the -electron orbits in mono-nuclear compounds is approximately equal to the radius of the benzene nucleus.
+scientific_discipline: Chemistry > Organic Chemistry

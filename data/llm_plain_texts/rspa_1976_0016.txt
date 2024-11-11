@@ -1,0 +1,10 @@
+article_id: rspa_1976_0016
+revised_title: 'General Formalism for Indirect Auger Effect in Semiconductors'
+semantic_tags:
+  - Semiconductor Physics
+  - Auger Recombination
+  - Band-Band Processes
+  - Indirect Gaps
+  - Impact Ionization
+tldr: The authors developed a general formalism for calculating band-band Auger recombination and impact ionization rates in diamond and zinc blende type semiconductors. The formalism considers indirect gaps and can be applied to a wide range of materials, improving previous theoretical values for germanium and silicon. This work provides a more accurate and transparent approach to understanding collision or Auger recombination in semiconductors.
+scientific_discipline: Physics > Semiconductor Physics

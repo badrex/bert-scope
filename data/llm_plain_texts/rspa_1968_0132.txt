@@ -1,0 +1,10 @@
+article_id: rspa_1968_0132
+revised_title: 'Hydrogen Atom Recombination Rate Measurement at Room Temperature via ESR Spectroscopy'
+semantic_tags:
+  - Electron Spin Resonance Spectroscopy
+  - Hydrogen Atom Recombination
+  - Gas-Phase Reaction
+  - Kinetic Analysis
+  - Second-Order Reaction
+scientific_discipline: Chemistry > Physical Chemistry
+tldr: The authors used electron spin resonance (ESR) spectroscopy to measure the rate of recombination of hydrogen atoms at room temperature. They analyzed the kinetics of hydrogen atom decay in a gas-flow system and determined the absolute concentrations of hydrogen atoms. The study provided reliable values for the rate constants of the decay processes, including the second-order gas-phase recombination reaction and the first-order surface recombination reaction. No evidence was found for the presence of a third-order gas-phase recombination reaction.

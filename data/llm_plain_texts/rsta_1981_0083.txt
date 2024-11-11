@@ -1,0 +1,10 @@
+article_id: rsta_1981_0083
+revised_title: 'Fluctuations and Cross-Field Transport in Idealized Magnetic Confinement Systems'
+semantic_tags:
+  - Plasma physics
+  - Magnetic confinement
+  - Fluctuations
+  - Cross-field transport
+  - Idealized systems
+tldr: This article discusses the study of plasma fluctuations and confinement in idealized magnetic confinement systems, such as octupoles and levitrons, to understand cross-field transport processes. The linear theory of plasma instabilities is well developed, but predicting cross-field transport coefficients is limited due to the complexity of nonlinear calculations. The diffusion coefficient scales similarly to classical collisional diffusion under collisional conditions, while Bohm diffusion scaling is observed under collisionless conditions. Nonlinearly generated long-wavelength low-frequency electric fields, or convection cells, can also contribute to cross-field transport.
+scientific_discipline: Physics > Plasma Physics

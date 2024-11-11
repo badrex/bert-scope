@@ -1,0 +1,10 @@
+article_id: 'rstb_1992_0105'
+revised_title: 'Insect Vision: Lessons for Engineering and Understanding Visual Processing'
+semantic_tags:
+  - Insect Vision
+  - Visual Processing
+  - Natural Vision Systems
+  - Robotics
+  - Neural Networks
+tldr: The article explores the unique mechanisms of insect vision and how they can inspire advancements in engineering and technology. Insect vision, with its minimal weight and efficient processing, offers valuable lessons for developing artificial visual systems. The study of insect visual performance, electrophysiology, and neuronal mechanisms can help us understand how to achieve complex tasks with simple components and parallel processing.
+scientific_discipline: Biology and Life Sciences > Neurobiology and Cognitive Science

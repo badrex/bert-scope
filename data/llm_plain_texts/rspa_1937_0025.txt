@@ -1,0 +1,11 @@
+article_id: 'rspa_1937_0025'
+revised_title: 'Lorentz Transformations in Quantum Electrodynamics'
+semantic_tags:
+  - Quantum Electrodynamics
+  - Lorentz Transformations
+  - Relativity
+  - Field Theory
+  - Commutation Rules
+tldr: The authors prove the Lorentz invariance of the commutation rules in quantum electrodynamics. They consider infinitesimally small Lorentz transformations and show that the transformation rules for the fundamental field vectors are valid for both finite and infinitesimal transformations due to the group character of Lorentz transformations.
+scientific_discipline: Physics > Relativity
+```

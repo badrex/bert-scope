@@ -1,0 +1,10 @@
+article_id: 111738
+revised_title: Introduction to Quantics and Covariants
+semantic_tags:
+  - Algebra
+  - Geometry
+  - Covariants
+  - Homogeneous functions
+  - Mathematical notation
+tldr: This memoir introduces the subject of Quantics, which are rational and integral functions that are homogeneous in regard to a set of factors. It focuses on the functions called quantics and their derivatives, called covariants. The author provides a general definition of covariants and discusses their properties and relations to the quantic. The latter part of the memoir explores the theory of quantics and the number of covariants and their relationships.
+scientific_discipline: Mathematics > Algebra

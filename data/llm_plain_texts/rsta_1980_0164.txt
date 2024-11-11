@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0164'
+revised_title: 'Satellite Ozone Measurements: Techniques and Findings'
+semantic_tags:
+  - Atmospheric Science
+  - Remote Sensing
+  - Ozone Layer
+  - Satellite Technology
+  - Environmental Monitoring
+tldr: This article reviews satellite methods for measuring ozone in the middle atmosphere, discussing various techniques such as backscatter ultraviolet, infrared limb and nadir radiance, and stellar and solar occultation methods. The authors present findings from these methods, including ozone profiles, total ozone measurements, and seasonal and latitudinal variations. They also discuss the development and limitations of these techniques and their importance for environmental monitoring and research.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

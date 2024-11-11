@@ -1,0 +1,10 @@
+article_id: rsta_1990_0135
+revised_title: Advances in Quantitative Electron Paramagnetic Resonance
+semantic_tags:
+  - EPR spectroscopy
+  - Trace analysis
+  - Spectrometer calibration
+  - Quantitative measurements
+  - Spin concentration
+tldr: This article discusses the improvements in quantitative electron paramagnetic resonance (EPR) spectroscopy, focusing on trace analysis, spectrometer calibration, and accurate spin concentration measurements. The authors highlight the importance of attention to operating procedures and instrumentation, as well as the use of signal-averaging techniques and computer-interfaced spectrometers for better accuracy and sensitivity.
+scientific_discipline: Physics > Optics

@@ -1,0 +1,10 @@
+article_id: 112676
+revised_title: 'Application of the Principle of Correspondence in Determining Curves'
+semantic_tags:
+  - Algebraic Geometry
+  - Mathematical Analysis
+  - Geometry
+  - Mathematical Theory
+  - Mathematical Applications
+tldr: This article explores the Principle of Correspondence in finding the number of curves that satisfy given conditions. It focuses on the application of this principle to conics and discusses the difficulties in determining the expression of the Supplement. The author uses the number of proper solutions to deduce the Supplement's expression a posteriori.
+scientific_discipline: Mathematics > Algebraic Geometry

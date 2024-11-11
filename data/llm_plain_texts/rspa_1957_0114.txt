@@ -1,0 +1,10 @@
+article_id: rspa_1957_0114
+revised_title: Dielectric Saturation's Influence on Aqueous Ions' Thermodynamic Properties
+semantic_tags:
+  - Electrochemistry
+  - Dielectric constant
+  - Aqueous solutions
+  - Ions
+  - Thermodynamics
+tldr: The authors examine the applicability of the Born model for ions in aqueous solutions, focusing on free energy and entropy expressions. They find that the model is valid as a first approximation but that deviations are significant, especially for ions with high charge and small radius. The authors apply modern theories of the dielectric constant of water to provide a higher-approximation treatment, improving the interpretation of experimental free energies and entropies.
+scientific_discipline: Chemistry > Electrochemistry

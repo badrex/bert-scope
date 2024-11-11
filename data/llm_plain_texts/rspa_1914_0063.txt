@@ -1,0 +1,10 @@
+article_id: 'rspa_1914_0063'
+revised_title: 'Experimental Investigation of Similarity of Motion in Fluids and Surface Friction'
+semantic_tags:
+  - Fluid Dynamics
+  - Surface Friction
+  - Viscosity
+  - Reynolds Number
+  - Pipe Flow
+tldr: 'The authors conducted experiments to investigate the similarity of motion in fluids with different viscosities and densities flowing over geometrically similar surfaces. They found that the resistance per unit area of the surface, density, velocity, and other factors affect the similarity of motion. The experiments confirmed the index law of fluid resistance and provided insights into the variation of the ratio of mean velocity to maximum velocity in pipes.'
+scientific_discipline: Physics > Fluid Dynamics

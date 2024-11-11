@@ -1,0 +1,10 @@
+article_id: 112758
+revised_title: 'Chemical Intensity of Total Daylight and its Relation to Solar Altitude'
+semantic_tags:
+  - Solar Energy
+  - Atmospheric Science
+  - Chemistry
+  - Photometry
+  - Climate Science
+tldr: This study investigates the relationship between the chemical intensity of total daylight and the solar altitude. The authors conducted experiments in Lisbon and found that the mean chemical intensity of total daylight at hours equidistant from noon remained the same. They also discovered that the relation between total chemical intensity and solar altitude can be represented by a straight line for altitudes above 10°. The variation in this line is due to the opalescence of the atmosphere, and the authors demonstrate that for equal altitudes, the higher intensity is found where the mean temperature of the air is greater.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

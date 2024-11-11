@@ -1,0 +1,10 @@
+article_id: 107056
+revised_title: Investigation of the Prismatic Colors' Heating and Illuminating Powers
+semantic_tags:
+  - Thermometry
+  - Color Thermodynamics
+  - Light refraction
+  - Telescope design
+  - Solar observation
+tldr: The author, William Herschel, conducted experiments to investigate the heating and illuminating powers of different prismatic colors. He discovered that the heating power of the colors is not equally distributed, with red rays having the highest heating power and violet rays having the lowest. Additionally, he found that the illuminating power of colors affects the visibility of objects, with yellow and green providing the best illumination for microscopy.
+scientific_discipline: Physics > Optics

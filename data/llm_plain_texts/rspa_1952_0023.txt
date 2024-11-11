@@ -1,0 +1,10 @@
+article_id: rspa_1952_0023
+revised_title: Ionic Equilibria in Hydrogen-Air Flames: Alkali Metal Salts
+semantic_tags:
+  - Flame Chemistry
+  - Ionization
+  - Alkali Metal Salts
+  - Hydrogen-Air Flames
+  - Thermochemistry
+tldr: The authors studied the ionization produced by metallic salts in flames, focusing on ionic equilibria in hydrogen/air flames containing alkali metal salts. They found that the electron concentration varied with flame temperature and ionization potential of the alkali metal, differing from theoretical predictions. The presence of hydroxyl ions in the flames was identified as a plausible explanation for some discrepancies. The results suggest a value for the electron affinity of hydroxyl, providing insights into flame chemistry and thermochemistry.
+scientific_discipline: Chemistry > Thermochemistry

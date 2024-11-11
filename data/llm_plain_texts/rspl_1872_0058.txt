@@ -1,0 +1,10 @@
+article_id: rspl_1872_0058
+revised_title: The Effect of Pressure on the Spectra of Gases and the Role of Electricity
+semantic_tags:
+  - Spectroscopy
+  - Gas spectra
+  - Electrical discharge
+  - Atmospheric pressure
+  - Plasma physics
+tldr: The authors conducted experiments to study the effect of pressure on the spectra of gases and found that the production of line-spectrum and the expansion of hydrogen lines depend on the intensity of the electric charge. They discovered that many of the observed changes in gas spectra are not due to the density of the gas but rather the intensity of the electric charge. This research helps to understand the behavior of gases under different conditions and the role of electricity in their spectra.
+scientific_discipline: Physics > Plasma Physics

@@ -1,0 +1,10 @@
+article_id: 'rsta_1981_0013'
+revised_title: 'Fracture Mechanics in Design and Service: A Review of Traditional Design Codes and Their Relevance in Relation to Fracture'
+semantic_tags:
+  - Fracture mechanics
+  - Design codes
+  - Material properties
+  - Welding techniques
+  - Fracture prevention
+tldr: This article reviews traditional design codes and their relevance in fracture prevention, focusing on British Standards for low-temperature storage tanks and quality pressure vessels. It discusses the use of experimental data and wide plate testing to establish code requirements and assess the effects of heat treatment on material toughness and residual weld stresses. The article also covers stress levels, manufacturing activities, and inspection techniques in relation to fracture prevention.
+scientific_discipline: Engineering and Technology > Materials Science and Engineering

@@ -1,0 +1,10 @@
+article_id: rsta_1982_0131
+revised_title: High-Resolution Spectroscopy Based on Atomic Coherences
+semantic_tags:
+  - Atomic Coherences
+  - High-Resolution Spectroscopy
+  - Quantum Beats
+  - Optical and Infrared Spectroscopy
+  - Dye Lasers
+tldr: The article discusses the techniques of Doppler-free spectroscopy based on the creation and detection of Hertzian coherence in atomic and molecular systems. It explores the use of broadband optical excitation, pulsed tunable dye lasers, and time-resolved observations to study the interference phenomenon known as quantum beats and determine Landé factors, fine, and hyperfine splittings of excited levels. The review also covers recent advancements in probe-beam monitoring and pulse trains from mode-locked dye lasers.
+scientific_discipline: Physics > Optics

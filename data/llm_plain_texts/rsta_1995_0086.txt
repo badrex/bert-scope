@@ -1,0 +1,10 @@
+article_id: 'rsta_1995_0086'
+revised_title: 'Exploring Chaotic Behavior in Electronic Circuits: Chua's Oscillator'
+semantic_tags:
+  - Nonlinear Dynamics
+  - Chaotic Systems
+  - Electronic Circuits
+  - Chua's Circuit
+  - Bifurcations
+tldr: The authors present Chua's oscillator, a simple electronic circuit that exhibits chaotic behavior. Chua's oscillator consists of two linear resistors, two linear capacitors, one linear inductor, and one nonlinear resistor. By varying the parameters of the circuit, various nonlinear phenomena such as bifurcations, self-similarity, and chaos can be observed. The circuit's ability to model the dynamical behavior of the physical system accurately makes it a valuable tool for studying chaotic systems.
+scientific_discipline: Engineering and Technology > Electronic Circuits

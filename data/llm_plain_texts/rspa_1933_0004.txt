@@ -1,0 +1,10 @@
+article_id: rspa_1933_0004
+revised_title: High-Pressure Gaseous Combustion and Nitric Oxide Formation
+semantic_tags:
+  - Combustion
+  - High-pressure chemistry
+  - Nitric oxide formation
+  - Explosion physics
+  - Gas dynamics
+tldr: This article describes experiments conducted on explosions of hydrogen-air and carbonic oxide-air mixtures at high initial pressures up to 1000 atmospheres. The authors discovered that nitrogen activation in carbonic oxide-air explosions increases with the density of the medium, and they observed nitric oxide formation in these explosions. They also designed and tested a new bomb capable of withstanding explosion pressures up to 10,000 atmospheres for further experiments.
+scientific_discipline: Physics > Fluid dynamics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1946_0010'
+revised_title: 'The Effect of Surface Active Substances on the Penetration of Hexyl Resorcinol into Ascaris lumbricoides'
+semantic_tags:
+  - Detergents
+  - Bile salts
+  - Penetration of drugs
+  - Surface activity
+  - Ascaris lumbricoides
+tldr: The authors studied the effect of surface active substances, such as soaps and bile salts, on the penetration of hexyl resorcinol into the parasitic worm Ascaris lumbricoides. They found that the biological activity of hexyl resorcinol is determined by the interfacial activity of the mixture, and that soap micelles can either accelerate or inhibit the penetration of the drug depending on their concentration. The maximum biological activity occurs at the critical concentration for micelle formation.
+scientific_discipline: Biology and Life Sciences > Parasitology

@@ -1,0 +1,10 @@
+article_id: rspa_1975_0069
+revised_title: 'Measurement of Electron Impact Ionization Cross Section of Atomic Hydrogen in Metastable 2S State'
+semantic_tags:
+  - Atomic physics
+  - Ionization cross section
+  - Electron impact
+  - Metastable state
+  - Hydrogen atom
+tldr: The authors measured the total ionization cross section for electrons colliding with metastable hydrogen atoms using a crossed beam technique. They found that the ionization cross section for metastable atoms rises to a maximum at about four times the ionization energy of the state. The results show that the maximum ionization cross section for metastable atoms is 13 times larger than that of ground state atoms. The experimental technique allows measurement of the ionization cross section up to electron energies several orders larger than the threshold of the metastable state.
+scientific_discipline: Physics > Atomic and Molecular Physics

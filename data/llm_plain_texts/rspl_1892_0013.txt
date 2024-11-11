@@ -1,0 +1,10 @@
+article_id: rspl_1892_0013
+revised_title: 'Detection of Benzoline Vapour and Inflammable Vapours Using the Safety-Lamp'
+semantic_tags:
+  - Gas detection
+  - Safety-lamp
+  - Inflammable vapours
+  - Benzoline vapour
+  - Explosive mixtures
+tldr: The authors conducted experiments to determine if the safety-lamp could detect benzoline vapour and other inflammable vapours in the air. They found that the 10mm hydrogen flame in the Ashworth safety-lamp could detect a quantity of benzoline vapour that was one thirty-sixth of the explosive proportion and one twentieth of the inflammable proportion. The benzoline flame also showed a distinct "cap" when the amount of benzoline vapour was one-ninth of the explosive mixture and one-fifth of the inflammable mixture. Further experiments with alcohol and ether vapours are being conducted.
+scientific_discipline: Chemistry > Chemical Safety and Analysis

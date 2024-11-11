@@ -1,0 +1,10 @@
+article_id: 'rspb_1916_0006'
+revised_title: 'Investigating the Mechanism of Chemical Temperature Regulation in Animals'
+semantic_tags:
+  - Thermoregulation
+  - Animal Physiology
+  - Shivering
+  - Oxygen Consumption
+  - Temperature Regulation
+tldr: The author conducted experiments on anaesthetized cats and rabbits to study the mechanism of chemical temperature regulation in animals. They found that the extra oxygen consumed during shivering is proportional to the extent to which the subcutaneous temperature has fallen below a fixed point. This indicates that the fall of skin temperature results in a demand for muscle activity, which is essential for maintaining body temperature in warm-blooded animals.
+scientific_discipline: Biology and Life Sciences > Animal Physiology

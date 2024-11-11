@@ -1,0 +1,10 @@
+article_id: rspa_1961_0133
+revised_title: 'Iodine Atom Complexes and Recombination'
+semantic_tags:
+  - Chemistry
+  - Iodine complexes
+  - Charge transfer complexes
+  - Flash photolysis
+  - Atom recombination
+tldr: The authors studied the recombination of iodine atoms by creating complexes with solvents and chaperon molecules. They observed transient absorption spectra after flash photolysis and found that the wavelength of maximum absorption correlates with the ionization potential of the solvent. This supports the idea that the complexes are charge transfer complexes, which play a role in the atom recombination process.
+scientific_discipline: Chemistry > Chemical Bonding and Molecular Geometry

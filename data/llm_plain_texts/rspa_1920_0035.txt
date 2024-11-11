@@ -1,0 +1,10 @@
+article_id: rspa_1920_0035
+revised_title: 'In-Depth Analysis of the Balmer Series of Hydrogen Lines'
+semantic_tags:
+  - Spectroscopy
+  - Hydrogen Spectrum
+  - Quantum Theory
+  - Atomic Physics
+  - Balmer Series
+tldr: The author investigates the structure of the Balmer series of hydrogen lines, discovering that the series is a principal series with wave-number separations converging to the limit of the series. The study also explores the complexities of the lines' structure and the effects of different conditions of excitation on their appearance.
+scientific_discipline: Physics > Atomic Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1931_0057
+revised_title: The Chemical Constant of Chlorine Vapour and Entropy of Crystalline Chlorine
+semantic_tags:
+  - Chemical constant
+  - Entropy
+  - Chlorine vapour
+  - Statistical mechanics
+  - Isotopes
+scientific_discipline: Chemistry > Physical Chemistry
+tldr: The authors investigate the composition of chlorine gas, focusing on the relative numbers of molecules of different sorts present in the ordinary gas. They use statistical mechanics to calculate the chemical constant of chlorine vapour and the entropy of crystalline chlorine at the absolute zero of temperature, providing a value in agreement with experimental results.

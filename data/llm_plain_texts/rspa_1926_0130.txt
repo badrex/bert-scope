@@ -1,0 +1,10 @@
+article_id: rspa_1926_0130
+revised_title: 'Investigating the Total Photo-Electric Emission of Electrons from Metals'
+semantic_tags:
+  - Photoelectric effect
+  - Thermionic emission
+  - Black-body radiation
+  - Metal properties
+  - Experimental physics
+tldr: The authors conducted experiments to study the total photo-electric emission of electrons from metals when exposed to different temperatures and radiation frequencies. They found that the amount of thermionic emission was much higher than the total photo-electric emission, which led to a better understanding of the differences between thermionic and photo-electric phenomena. This research helped to strengthen the radiation theory of thermionic emission.
+scientific_discipline: Physics > Electromagnetism

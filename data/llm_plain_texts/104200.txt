@@ -1,0 +1,10 @@
+article_id: 104200
+revised_title: New Principles of Gunnery: Determining the Force of Gunpowder and Investigating Air Resistance
+semantic_tags:
+  - Ballistics
+  - Gunpowder
+  - Air resistance
+  - Elasticity
+  - Fluid dynamics
+tldr: The author presents a book that explores the force of gunpowder and the resistance of air to projectiles. They discuss the determination of the force of gunpowder through the action of a permanent elastic fluid produced by the explosion and the investigation of air resistance to bullets and shells moving at high velocities. The author also introduces a method to determine the velocities of bullets, which can be carried to a high degree of accuracy and is not affected by air resistance.
+scientific_discipline: Physics > Fluid dynamics

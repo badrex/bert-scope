@@ -1,0 +1,10 @@
+article_id: rspa_1967_0174
+revised_title: Clebsch-Gordan Coefficients for SL(n, C)
+semantic_tags:
+  - Group Theory
+  - Representation Theory
+  - Quantum Mechanics
+  - Particle Physics
+  - Mathematical Physics
+tldr: The authors calculate Clebsch-Gordan coefficients for the coupling of certain degenerate representations of SL(n, C) using generalized hypergeometric functions. These coefficients are essential for determining the baryon 'current' coupled to the lowest state of a meson tower in particle physics. The authors also explore the asymptotic behavior of the coefficients and prove orthogonality and completeness relations.
+scientific_discipline: Mathematics > Group Theory

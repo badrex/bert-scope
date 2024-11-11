@@ -1,0 +1,10 @@
+article_id: rspa_1955_0136
+revised_title: The Impact of Low Activation Energy Reactions on Combustion Mechanisms
+semantic_tags:
+  - Combustion Theory
+  - Chemical Kinetics
+  - Activation Energy
+  - Chain-Branching Reactions
+  - Radical Reactions
+tldr: This article explores the significance of reactions with low activation energies in the mechanism of combustion. The author suggests that these reactions, such as chain-branching radical reactions, have a more rapid rate of increase with temperature compared to reactions between whole molecules. This can lead to a build-up of active centers during the temperature rise in the pre-ignition zone of a flame front, making them important in understanding combustion processes.
+scientific_discipline: Chemistry > Chemical Kinetics

@@ -1,0 +1,10 @@
+article_id: rspa_1934_0228
+revised_title: Investigation of the Oxygen Afterglow and Its Dependence on Gaseous Impurities
+semantic_tags:
+  - Gas discharge phenomena
+  - Oxygen afterglow
+  - Surface chemistry
+  - Spectroscopy
+  - Gas purification
+tldr: The author investigates the oxygen afterglow phenomenon and its dependence on gaseous impurities. They develop a method to produce extremely pure oxygen and study its afterglow under various conditions. The results suggest that certain impurities, such as nitrogen and argon, play a significant role in the production of the oxygen afterglow. The author also describes the preparation and purification of various gases used in the experiments.
+scientific_discipline: Physics > Gas discharge phenomena

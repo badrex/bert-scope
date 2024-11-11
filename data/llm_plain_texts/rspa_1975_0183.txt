@@ -1,0 +1,10 @@
+article_id: rspa_1975_0183
+revised_title: 'Studying the Instability of a Straight Vortex Filament in a Strain Field'
+semantic_tags:
+  - Fluid Dynamics
+  - Vortex Instability
+  - Strain Field
+  - Vortex Filament
+  - Vortex Rings
+scientific_discipline: Physics > Fluid Dynamics
+tldr: The authors examine the instability of a straight vortex filament in a strain field, demonstrating that the vortex is unstable to disturbances with axial wavelengths in a narrow band. This instability is related to the mechanism proposed by Widnall, Bliss, and Tsai for vortex ring instability. The study provides insight into the behavior of vortices in fluid dynamics and has implications for understanding and predicting vortex instabilities.

@@ -1,0 +1,10 @@
+article_id: rspa_1961_0093
+revised_title: The Role of Oxygen and Film Structure in the Adhesion of Evaporated Metal Films on Glass
+semantic_tags:
+  - Adhesion
+  - Metal films
+  - Glass
+  - Oxide layer
+  - Film structure
+tldr: This study investigates the adhesion of evaporated metal films on glass surfaces and finds that the affinity of the metal for oxygen plays a significant role. The formation of an intermediate oxide layer at the metal-glass interface is crucial for good adhesion. The nature and pressure of the residual atmosphere during deposition determine the extent of the oxide layer formation, affecting the initial adhesion of the films. The film structure also plays a role in the adhesion, as it influences the diffusion of gas to the interface.
+scientific_discipline: Engineering and Technology > Materials Science

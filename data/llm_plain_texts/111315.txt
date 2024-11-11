@@ -1,0 +1,10 @@
+article_id: 111315
+revised_title: 'Thermal Effects of Fluids in Motion: A Study on Air'
+semantic_tags:
+  - Fluid dynamics
+  - Thermodynamics
+  - Gas laws
+  - Temperature
+  - Airflow
+tldr: This article discusses the thermal effects experienced by fluids in motion, particularly air, and how the temperature changes as air moves through narrow passages. The authors examine the relationship between the velocity of air and the lowering of temperature, and how the air's intrinsic energy changes based on temperature and pressure. They also explore the effects of fluid friction and the role it plays in temperature changes.
+scientific_discipline: Physics > Fluid Dynamics

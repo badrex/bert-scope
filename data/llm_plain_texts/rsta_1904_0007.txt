@@ -1,0 +1,10 @@
+article_id: rsta_1904_0007
+revised_title: Investigation of Electricity Discharge from Hot Platinum
+semantic_tags:
+  - Electricity discharge
+  - Hot platinum
+  - Gas ionization
+  - Temperature coefficient
+  - Atmospheric pressure
+tldr: The author conducted experiments on the discharge of electricity from hot platinum in various gases and pressures. They discovered that hot platinum discharges negative electricity more readily than positive electricity, and explained the phenomena through ionization and gas ion behavior. The study also investigated the effects of temperature, pressure, and gas nature on the discharge.
+scientific_discipline: Physics > Electricity and Magnetism

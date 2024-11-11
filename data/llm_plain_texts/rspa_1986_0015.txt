@@ -1,0 +1,10 @@
+article_id: rspa_1986_0015
+revised_title: Singularity Theory Applied to Isothermal Autocatalytic Open Systems
+semantic_tags:
+  - Chemical Reactions
+  - Autocatalysis
+  - Bifurcation Diagrams
+  - Singularity Theory
+  - Reaction Kinetics
+tldr: The authors apply singularity theory to study the stationary-state behavior of simple autocatalytic models in isothermal open systems. They identify various patterns of dependence of the stationary-state extent of conversion on the residence time (bifurcation diagrams) and analyze the ranges of experimental conditions where these patterns occur. The study has implications for understanding chemical feedback, enzyme reactions, and population growth in mathematical biology.
+scientific_discipline: Chemistry > Chemical Reactions and Reaction Kinetics

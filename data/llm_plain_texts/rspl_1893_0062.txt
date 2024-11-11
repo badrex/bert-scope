@@ -1,0 +1,10 @@
+article_id: rspl_1893_0062
+revised_title: 'Graphical Representation of the Twenty-Seven Lines on a Cubic Surface'
+semantic_tags:
+  - Algebraic Geometry
+  - Geometry
+  - Projective Geometry
+  - Cubic Surfaces
+  - Analytic Geometry
+tldr: This article presents a graphical method to represent the intersections of the twenty-seven lines on a cubic surface using a plane diagram. It also demonstrates how to obtain the remaining fifteen straight lines on the surface using quadratic equations and establishes new theorems related to these lines.
+scientific_discipline: Mathematics > Algebraic Geometry

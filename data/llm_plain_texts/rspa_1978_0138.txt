@@ -1,0 +1,10 @@
+article_id: rspa_1978_0138
+revised_title: 'Exploring the Coupling of Rydberg Series to Continua of Finite Bandwidth'
+semantic_tags:
+  - Atomic Physics
+  - Quantum Mechanics
+  - Spectroscopy
+  - Resonances
+  - Perturbation Theory
+tldr: The authors investigate the coupling of a Rydberg series of discrete levels to a continuum of finite bandwidth, using the theory of Cohen-Tannoudji and Avan (1977). They analyze a series of resonances in the Tl I absorption spectrum and suggest some revisions to previous assignments in the inner shell spectra of Tl I, In I, and Ga I. The study provides insights into the behavior of discrete levels coupled to continua of finite bandwidth and has implications for understanding atomic and molecular processes.
+scientific_discipline: Physics > Atomic Physics

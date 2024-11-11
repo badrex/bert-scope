@@ -1,0 +1,10 @@
+article_id: rspa_1994_0066
+revised_title: 'Investigation of Plastic Ratchetting in Metallic Wear'
+semantic_tags:
+  - Metallic wear
+  - Plastic ratchetting
+  - Surface engineering
+  - Contact mechanics
+  - Tribology
+tldr: The authors conducted experiments to study the mechanism of metallic wear, specifically plastic ratchetting. They discovered that this process occurs when stress concentrations at the edges of a hard slider cause the softer surface to accumulate plastic deformation. This mechanism can happen under frictionless conditions and is responsible for the formation of thin wear particles in sliding contact.
+scientific_discipline: Engineering and Technology > Tribology

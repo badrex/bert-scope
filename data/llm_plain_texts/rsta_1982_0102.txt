@@ -1,0 +1,10 @@
+article_id: rsta_1982_0102
+revised_title: 'Spectrum of the Cosmic Microwave Background Radiation: A Review of Measurements and Challenges'
+semantic_tags:
+  - Cosmology
+  - Microwave background radiation
+  - Spectrum measurement
+  - Black-body spectrum
+  - Space exploration
+tldr: This article reviews the current status of measurements of the cosmic microwave background (CMB) spectrum and discusses the challenges faced by experimenters. The experimental spectrum is found to be approximately that of a 3 K black body, with a peak at 180 GHz. The article highlights the difficulties in accurately measuring the spectrum, including unwanted signals from the apparatus and the sky, and the need for high-frequency measurements to be done from higher sites like aircraft, balloons, rockets, or satellites. The importance of atmospheric corrections and the potential of space satellites for future high-frequency measurements is also discussed.
+scientific_discipline: Physics > Cosmology

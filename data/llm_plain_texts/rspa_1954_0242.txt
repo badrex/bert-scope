@@ -1,0 +1,10 @@
+article_id: rspa_1954_0242
+revised_title: Dynamic Lateral Instability of Beams: Experiments and Theoretical Analysis
+semantic_tags:
+  - Beam Instability
+  - Vibration Analysis
+  - Structural Engineering
+  - Mechanics
+  - Cantilever Beams
+tldr: This article investigates the dynamic lateral instability of beams, specifically focusing on the vibrations of a deep slender beam bent by forces acting in the plane of maximum stiffness. The author presents a theoretical analysis and an iterative method to predict the frequencies of vibration in cantilever beams. Experiments conducted on an I-section cantilever carrying an end mass support the theoretical analysis and provide insight into the behavior of beams under lateral instability.
+scientific_discipline: Engineering and Technology > Structural Engineering

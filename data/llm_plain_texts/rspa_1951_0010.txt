@@ -1,0 +1,10 @@
+article_id: rspa_1951_0010
+revised_title: 'Fresnel Diffraction and Light Distribution Near Focus in Error-Free Images'
+semantic_tags:
+  - Diffraction
+  - Optical Systems
+  - Light Distribution
+  - Fresnel Diffraction
+  - Bessel Functions
+tldr: The authors derived expressions for the total illumination in receiving planes near the focus of spherical waves issuing from a circular aperture, using Lommel's treatment of Fresnel diffraction. The solution takes the form of rapidly convergent series involving Bessel functions, providing a mathematical basis for discussing the imaging properties of optical systems with chromatic variation of focus as the only appreciable aberration.
+scientific_discipline: Physics > Optics

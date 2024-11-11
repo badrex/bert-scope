@@ -1,0 +1,10 @@
+article_id: rspa_1969_0058
+revised_title: Charge Transfer and Vibrational Excitations in Molecular Ion Collisions
+semantic_tags:
+  - Atomic and Molecular Physics
+  - Charge transfer
+  - Vibrational excitations
+  - Collision processes
+  - Quantum mechanics
+tldr: The article investigates charge transfer and vibrational excitations in collisions between molecular ions and their neutral parents. The authors use the impact parameter method and a multi-state approximation to study the interactions and cross-sections of these collisions. They find that at low velocities, the charge transfer cross-section is dominated by curve-crossings, while at high velocities, the cross-sections are influenced by the electronic splitting of the molecular ion. The predicted cross-section curves are consistent with available experimental data.
+scientific_discipline: Physics > Atomic and Molecular Physics

@@ -1,0 +1,10 @@
+article_id: rsta_1995_0026
+revised_title: Shape Detection and Exploitation of Symmetry in Affine Images
+semantic_tags:
+  - Computer Vision
+  - Shape Recognition
+  - Symmetry Detection
+  - Affine Transformations
+  - Image Processing
+tldr: The authors present a method for detecting and exploiting symmetries in affine images to improve shape recognition and understanding. They demonstrate how local reflectional symmetries can be used for tasks such as image back-projection, slant and tilt determination, and coplanarity tests. This research contributes to the field of computer vision and shape representation.
+scientific_discipline: Computer Science > Computer Vision

@@ -1,0 +1,10 @@
+article_id: 'rsta_1900_0006'
+revised_title: 'Investigation of Electric Spark and Metal Diffusion'
+semantic_tags:
+  - Electric Spark
+  - Metal Diffusion
+  - Spectroscopy
+  - Spark Spectra
+  - High-Speed Photography
+tldr: The authors conducted experiments to measure the velocity of metal diffusion during an electric spark using high-speed photography and spectroscopy. They discovered that the metal vapors can diffuse through measurable distances during the short duration of the spark. The research focused on comparing different metals and lines of the same metal, providing insights into the behavior of electric sparks and their spectra.
+scientific_discipline: Physics > Electromagnetism

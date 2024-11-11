@@ -1,0 +1,10 @@
+article_id: rspa_1934_0090
+revised_title: 'Quantitative Analysis of Turbulence in Air Flow through a Pipe'
+semantic_tags:
+  - Fluid Dynamics
+  - Turbulence
+  - Air Flow
+  - Schlieren Method
+  - Reynolds Number
+tldr: The authors used the Schlieren method to study turbulence in air flow through a pipe. They identified small masses of air, heated them with an electric spark, and photographed their movements. This allowed them to obtain quantitative results in statistical form, showing the magnitude of the mean turbulence at any point in the flow and its distribution over the field. The method was applied to air flow above the critical Reynolds number, similar to conditions in water flow experiments with an ultramicroscope.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1966_0215
+revised_title: 'Electrons in Nearly Periodic Fields: Density of States and Band Distortion'
+semantic_tags:
+  - Solid State Physics
+  - Alloy Physics
+  - Electronic Structure
+  - Green Functions
+  - Density of States
+tldr: The author investigates the electronic structure and density of states in disordered alloys, focusing on the effects of aperiodic fields on the energy spectrum. They develop a mathematical model using Green functions and screened charges to analyze the changes in the density of states at the Fermi limit. The results provide insights into the behavior of electrons in dilute solid solutions and their relevance to thermal and magnetic properties.
+scientific_discipline: Physics > Solid State Physics

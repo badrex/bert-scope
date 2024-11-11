@@ -1,0 +1,10 @@
+article_id: rsta_1961_0001
+revised_title: Ionization Fronts in Interstellar Gas and the Expansion of HII Regions
+semantic_tags:
+  - Astrophysics
+  - HII regions
+  - Ionization fronts
+  - Gas dynamics
+  - Stellar evolution
+tldr: The authors investigate the gas dynamical effects of expanding HII regions, which are associated with the formation of stars. They study the ionization fronts and accompanying shocks, and provide similarity solutions for spherical and cylindrical problems. The paper also discusses the heating and cooling processes in the HII region, allowing for recombination of ions and electrons and the absorption of radiation. The temperature of the ionized gas in the HII region is found to be approximately uniform, even though the region is expanding.
+scientific_discipline: Physics > Astrophysics

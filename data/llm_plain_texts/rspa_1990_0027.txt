@@ -1,0 +1,10 @@
+article_id: rspa_1990_0027
+revised_title: Magnetization and Crystal Field Effects in Deuterated Ammonium Ferrous Tutton Salt
+semantic_tags:
+  - Magnetization
+  - Crystal Field Theory
+  - Ferromagnetism
+  - Neutron Diffraction
+  - Ammonium Ferrous Tutton Salt
+tldr: The authors studied the magnetization of deuterated ammonium ferrous Tutton salt, exploring the effects of crystal field and magnetic anisotropy on the iron atom sites. They used polarized neutron diffraction to analyze the magnetization density and found that the magnetization direction in the paramagnet deviates from the magnetic field, indicating significant magnetic anisotropy. The results provide insights into the bonding and electronic structure of the iron atom in the salt.
+scientific_discipline: Physics > Magnetism

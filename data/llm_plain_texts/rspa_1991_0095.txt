@@ -1,0 +1,10 @@
+article_id: rspa_1991_0095
+revised_title: 'Surface Diffusion Coefficients in Capillary Porous Materials: Influence of Structural Heterogeneity'
+semantic_tags:
+  - Surface diffusion
+  - Porous materials
+  - Heterogeneous surfaces
+  - Adsorption-desorption phenomena
+  - Pore size distribution
+tldr: The authors study the influence of structural heterogeneity, specifically pore size distribution, on surface diffusion coefficients in capillary porous materials. They develop a pore size-dependent Langmuirian isotherm model and find that surface diffusion coefficients are strongly influenced by heterogeneity, with a stronger increase with overall coverage than predicted by the Darken equation. The results match experimental data without the use of a fitting parameter.
+scientific_discipline: Environmental and Earth Sciences > Soil Science

@@ -1,0 +1,10 @@
+article_id: rspa_1908_0048
+revised_title: 'Measurement and Analysis of Atmospheric Electric Potential Gradient and Earth-Air Current'
+semantic_tags:
+  - Atmospheric electricity
+  - Electric potential gradient
+  - Earth-air current
+  - Electrometry
+  - Atmospheric science
+tldr: 'The author, C. T. R. Wilson, describes a method to measure the atmospheric electric potential gradient and the earth-air current. They conducted experiments using a gold leaf electrometer and found that the ratio of the current to the charge remained consistent when the test-plate was covered with turf. This research aimed to determine the charge per square centimeter of the ground and the current entering each square centimeter of the ground.'
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

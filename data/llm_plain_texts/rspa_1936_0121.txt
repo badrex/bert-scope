@@ -1,0 +1,10 @@
+article_id: rspa_1936_0121
+revised_title: Turbulent Flow Static Pressure Analysis
+semantic_tags:
+  - Fluid Dynamics
+  - Turbulence
+  - Fluid Mechanics
+  - Aerodynamics
+  - Wind Tunnel Experiments
+tldr: The authors conducted experiments in a small wind tunnel to analyze the static pressure in fully developed turbulent flow. They analyzed the data and presented their findings in a table, showing the relationship between the position in the wake, film measurements, and cylinder orientation. The results provide insight into the behavior of turbulent flow and can be used to improve our understanding of fluid mechanics and aerodynamics.
+scientific_discipline: Physics > Fluid Mechanics

@@ -1,0 +1,10 @@
+article_id: 'rsta_1984_0128'
+revised_title: 'Observation of Bifurcation to Chaos in a Passive All-Optical Fabry-Perot Resonator'
+semantic_tags:
+  - Chaos Theory
+  - Optics
+  - Nonlinear Optics
+  - Optical Bistability
+  - Fabry-Perot Resonator
+tldr: The authors report the first observations of bifurcation routes to chaos in an all-optical resonator. They generate deep and sustained Ikeda oscillation of smooth laser input pulses at twice the round-trip time of the Fabry-Perot resonator, creating a high-frequency passive optical modulator device. The results are in excellent agreement with the adapted optical bistability theory to the time-dependent regime, showing the transition to chaos in a passive all-optical resonator.
+scientific_discipline: Physics > Optics

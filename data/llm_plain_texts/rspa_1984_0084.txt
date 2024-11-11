@@ -1,0 +1,10 @@
+article_id: rspa_1984_0084
+revised_title: 'Drift and Dynamics of Articulated Cylinders in Regular Waves'
+semantic_tags:
+  - Fluid Dynamics
+  - Wave Mechanics
+  - Offshore Engineering
+  - Hydrodynamics
+  - Articulated Structures
+tldr: 'This article investigates the wave-induced harmonic response and mean drift of an articulated column in regular waves using potential flow theory. The mean drift horizontal force is evaluated using the Stokes expansion to second order in wave steepness. The study shows that the drift forces on a column, although of second order, can excite responses of first order due to the low natural frequency in the tilt mode. The theoretical results are compared with experimental data from a model tested in regular waves, showing reasonable agreement for the drift forces over a range of frequencies and wave heights.'
+scientific_discipline: Engineering and Technology > Offshore Engineering

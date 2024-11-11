@@ -1,0 +1,10 @@
+article_id: 'rspb_1983_0035'
+revised_title: 'Spatial Order Analysis in Haploid Chromosome Complements'
+semantic_tags:
+  - Cytogenetics
+  - Chromosome Analysis
+  - Genetics
+  - Plant Breeding
+  - Centromere Positioning
+tldr: The authors tested Bennett's model, which predicts a mean ordered arrangement of chromosomes in a haploid genome based on associations of pairs of most similar long and short chromosome arms. They used chromosome arm volumes and centromere positions to analyze the spatial order of chromosomes in four grass species. The predicted order was among the top 5% of orders in all species, demonstrating the effectiveness of the model and analysis. This test can be applied to other materials with simple haploid genomes containing between six and about ten biarmed chromosomes.
+scientific_discipline: Biology and Life Sciences > Genetics

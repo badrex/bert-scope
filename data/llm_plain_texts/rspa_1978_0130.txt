@@ -1,0 +1,10 @@
+article_id: rspa_1978_0130
+revised_title: Green's Functions in the Early Universe: Scalar, Electromagnetic, and Gravitational Fields
+semantic_tags:
+  - Cosmology
+  - Green's Functions
+  - Early Universe
+  - Gravitational Waves
+  - Electromagnetic Fields
+tldr: This article investigates the Green functions for scalar, electromagnetic, and gravitational fields in the early universe. The authors construct the Green functions for these fields in a cosmological model that describes the rapid expansion of the universe. They find that the absence of backscattering is a property of these functions, and the initial-value problem for each field can be solved in a closed form. The results have implications for the behavior of electrons and the nature of Huygens' principle in the early universe.
+scientific_discipline: Physics > Cosmology

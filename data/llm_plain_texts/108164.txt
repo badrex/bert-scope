@@ -1,0 +1,10 @@
+article_id: 108164
+revised_title: 'Investigations into the Efficiency and Effects of Voltaic Combinations'
+semantic_tags:
+  - Electrochemistry
+  - Battery design
+  - Electrolysis
+  - Electric current
+  - Electromagnetic effects
+tldr: The author conducted experiments with different voltaic battery designs and combinations to understand their efficiency and effects. They discovered that cylinders of a specific diameter produce the most effective conducting plates in a voltaic arrangement. The author also observed intense light and heat produced by a high-intensity, constant current and the transfer of matter between electrodes during the disruptive discharge.
+scientific_discipline: Physics > Electromagnetism

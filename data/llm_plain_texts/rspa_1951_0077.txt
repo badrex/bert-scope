@@ -1,0 +1,10 @@
+article_id: rspa_1951_0077
+revised_title: Investigating the Aerodynamic Drag of Free Water Surface Waves
+semantic_tags:
+  - Fluid Dynamics
+  - Wind Waves
+  - Boundary Layer
+  - Wind Tunnel Experiments
+  - Wave Mechanics
+tldr: This study investigates the aerodynamic drag of free water surface waves using a wind tunnel. The researchers found that increasing wind speed causes the waves to grow larger and more irregular, eventually leading to breaking waves. The study provides valuable insights into the relationship between wind and wave behavior, which is essential for understanding the transfer of heat and water vapor in the atmosphere and the characteristics of ocean waves.
+scientific_discipline: Physics > Fluid Dynamics

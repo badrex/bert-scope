@@ -1,0 +1,10 @@
+article_id: 'rspb_1963_0035'
+revised_title: 'Intracellular Degradation of Ribonucleic Acid in the Cell Nucleus'
+semantic_tags:
+  - RNA degradation
+  - Polynucleotide phosphorylase
+  - Ribonucleic acid
+  - Chromosome complex
+  - Nucleus
+tldr: The author investigates the breakdown of ribonucleic acid (RNA) in the cell nucleus and discovers that the enzyme responsible for this process is a polynucleotide phosphorylase. This enzyme acts preferentially on rapidly labeled RNA and appears to degrade it to nucleoside-5' diphosphates. Both the rapidly labeled RNA and the enzyme are apparently attached to the chromosome, suggesting that they form part of the chromosome complex itself.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

@@ -1,0 +1,10 @@
+article_id: rspa_1954_0151
+revised_title: Investigation of Forced Flow of a Thin Layer of Viscous Fluid on a Rotating Sphere
+semantic_tags:
+  - Fluid Dynamics
+  - Atmospheric Circulation
+  - Heat Transfer
+  - Viscosity
+  - Geostrophic Flow
+tldr: This study investigates the motion of a thin layer of viscous fluid on a rotating sphere due to heating and rotation. The research focuses on the velocity field, pressure distribution, and temperature distribution in the fluid. The findings reveal the presence of trade winds at low latitudes and easterlies in higher latitudes. The study uses a method of expansion in powers of a small nondimensional parameter to analyze the effect of nonlinear terms on the fluid's motion.
+scientific_discipline: Physics > Fluid Dynamics

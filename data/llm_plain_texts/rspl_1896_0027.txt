@@ -1,0 +1,10 @@
+article_id: rspl_1896_0027
+revised_title: Improved Method for Determining Freezing Points
+semantic_tags:
+  - Thermometry
+  - Temperature measurement
+  - Freezing point determination
+  - Ice formation
+  - Temperature control
+tldr: The authors describe a new method for accurately determining the freezing point of liquids using a combination of a thermostat, a cooler, and a platinum thermometer. The method involves cooling distilled water below freezing, inserting the thermometer, and then adding a crystal of ice to initiate freezing. The final temperature is maintained within one or two ten-thousandths of a degree for an hour at a time. This method improves upon existing techniques and allows for more consistent results.
+scientific_discipline: Physics > Thermodynamics

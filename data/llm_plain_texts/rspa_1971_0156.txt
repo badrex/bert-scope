@@ -1,0 +1,10 @@
+article_id: rspa_1971_0156
+revised_title: Reaction Orders and Isotope Effects in the Reversible Addition of Water to 1,3-Dichloroacetone
+semantic_tags:
+  - Reaction kinetics
+  - Isotope effects
+  - Catalysis
+  - Organic chemistry
+  - Transition state
+tldr: The authors studied the kinetics of the reversible addition of water to 1,3-dichloroacetone in aqueous dioxan with and without catalysts. They determined reaction orders with respect to water and measured kinetic isotope effects in systems containing 60 and 100 atom% of deuterium. The results suggest that the uncatalyzed reaction involves a cyclic transition state containing two extra water molecules, and the dependence of kinetic orders and isotope effects on the nature of the catalyst is attributed mainly to differences in the hydration or other properties of the catalyst in the initial state.
+scientific_discipline: Chemistry > Organic Chemistry

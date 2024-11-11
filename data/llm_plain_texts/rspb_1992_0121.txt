@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0121'
+revised_title: 'Asymmetry of AChR Channel Subunits in the Pore'
+semantic_tags:
+  - 'Neuroscience'
+  - 'Ion Channels'
+  - 'Acetylcholine Receptor'
+  - 'Molecular Biology'
+  - 'Structural Biology'
+tldr: 'The authors discovered that the acetylcholine receptor (AChR) channel has an asymmetrical structure in its narrow region. They found that the channel's conductance is determined by the size of amino acid residues in specific subunits. The results suggest that the AChR channel's narrow region is formed by hydroxylated amino acids from the a-, y-, and 8-subunits, with the 8-subunit's serine being a main determinant of the channel conductance.'
+scientific_discipline: Biology and Life Sciences > Neuroscience

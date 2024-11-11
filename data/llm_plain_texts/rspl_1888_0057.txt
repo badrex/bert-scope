@@ -1,0 +1,10 @@
+article_id: rspl_1888_0057
+revised_title: Analytical Geometry Theorems and Applications
+semantic_tags:
+  - Analytical Geometry
+  - Algebraic Geometry
+  - Conic Sections
+  - Envelopes and Poles
+  - Geometric Transformations
+tldr: This article presents theorems in analytical geometry, focusing on the determination of envelopes and poles of curves. It covers topics such as conic sections, geometric transformations, and the calculation of double tangents and inflection points for curves of higher orders.
+scientific_discipline: Mathematics > Analytical Geometry

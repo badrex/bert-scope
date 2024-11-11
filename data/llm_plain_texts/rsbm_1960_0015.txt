@@ -1,0 +1,10 @@
+article_id: 'rsbm_1960_0015'
+revised_title: 'Ludwig Prandtl: A Pioneer in Aerodynamics and Fluid Mechanics'
+semantic_tags:
+  - Aerodynamics
+  - Fluid Mechanics
+  - Boundary Layer Theory
+  - Wind Tunnels
+  - Compressible Flow
+scientific_discipline: Physics > Fluid Dynamics
+tldr: Ludwig Prandtl was a German physicist who made significant contributions to the fields of aerodynamics and fluid mechanics. He is best known for his work on boundary layer theory, which explains the behavior of fluids near solid surfaces. Prandtl's research also led to the development of wind tunnels, which are used to study the effects of air flow on aircraft and other objects. His work on compressible flow and the Prandtl-Glauert rule helped lay the foundation for modern aerodynamics.

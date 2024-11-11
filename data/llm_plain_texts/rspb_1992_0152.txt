@@ -1,0 +1,12 @@
+article_id: 'rspb_1992_0152'
+revised_title: 'Nonlinear Mechanical Responses of Cochlear Hair Bundles in Mice'
+semantic_tags:
+  - Hair Cell Mechanotransduction
+  - Cochlear Hair Bundle Mechanics
+  - Nonlinear Stiffness
+  - Gating-Spring Hypothesis
+  - Mouse Cochlear Cultures
+tldr: Researchers studied the mechanical properties of mouse cochlear hair bundles and found that their stiffness is nonlinear, declining by about 20% when displaced by 20 nm in the excitatory direction. This discovery supports the 'gating-spring' hypothesis of hair-cell transduction and could help improve our understanding of the inner workings of the ear.
+
+scientific_discipline: Biology and Life Sciences > Neuroscience
+```

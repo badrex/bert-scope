@@ -1,0 +1,10 @@
+article_id: rspl_1892_0024
+revised_title: Stellar Photometry: Determining the Intensity of Stars
+semantic_tags:
+  - Astrophysics
+  - Photometry
+  - Stellar luminosity
+  - Star color
+  - Telescope technology
+tldr: This article discusses the methods used to determine the intensity and color of stars. The author created a series of artificial stars with known intensity and color, and used various techniques to compare them to actual stars. The methods explored include reflection from a plane mirror, a modified Zollner's lamp, and adjusting the distance between a lamp and a ground blue glass. The results allowed for the calculation of the relative intensity of stars and the total quantity of light provided by them.
+scientific_discipline: Astronomy > Astrophysics

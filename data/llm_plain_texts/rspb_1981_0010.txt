@@ -1,0 +1,10 @@
+article_id: 'rspb_1981_0010'
+revised_title: 'Investigating Temporal Summation of Moving Images in the Human Visual System'
+semantic_tags:
+  - Visual Perception
+  - Temporal Summation
+  - Motion Perception
+  - Visual Neuroscience
+  - Psychophysics
+tldr: The authors conducted experiments to understand how the human visual system processes moving images. They found that the visual system can effectively summate energy from moving images, improving visibility and motion perception. This ability is essential for detecting and recognizing low-contrast targets in motion, which is crucial for survival. The study also revealed that the visual system achieves this by using a process called resonance of temporally tuned filters.
+scientific_discipline: Psychology > Visual Perception

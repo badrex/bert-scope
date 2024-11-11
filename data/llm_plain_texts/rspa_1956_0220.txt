@@ -1,0 +1,10 @@
+article_id: rspa_1956_0220
+revised_title: Perturbation Calculation of Properties of 1s and 2p States of HeH
+semantic_tags:
+  - Molecular Physics
+  - Quantum Mechanics
+  - Perturbation Theory
+  - Atomic and Molecular Structure
+  - Molecular Properties
+tldr: The authors conducted a perturbation calculation to study the properties of the 1s and 2p states of the HeH molecule. They calculated the total energy, potential and kinetic energies, dipole moments, and quadrupole moments to various orders. The results were compared with exact and variationally determined wave functions, showing that perturbation calculations can achieve high accuracy over a wide range of nuclear separations.
+scientific_discipline: Chemistry > Molecular Physics

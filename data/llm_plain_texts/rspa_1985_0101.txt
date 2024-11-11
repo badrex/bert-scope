@@ -1,0 +1,10 @@
+article_id: rspa_1985_0101
+revised_title: Angular Velocity and Optical Flow: Ambiguity and Information in Motion Perception
+semantic_tags:
+  - Optical Flow
+  - Computer Vision
+  - Motion Perception
+  - Rigid Environment
+  - Image Processing
+tldr: The authors study the optical flowfield produced by a camera moving through a rigid environment. They find that the instantaneous flowfield can be compatible with up to three distinct values for the angular velocity. This ambiguity in the flowfield can lead to multiple hypotheses about the shape of the environment, making it difficult to determine the exact motion and shape of objects. The study provides a method for constructing flowfields compatible with more than one angular velocity, which can help improve understanding of motion perception and image processing in computer vision.
+scientific_discipline: Physics > Optics

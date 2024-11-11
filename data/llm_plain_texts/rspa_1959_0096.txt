@@ -1,0 +1,10 @@
+article_id: rspa_1959_0096
+revised_title: Spin-Orbit Interaction in the Configuration f: Applications to Neodymium
+semantic_tags:
+  - Atomic Physics
+  - Quantum Mechanics
+  - Rare Earth Elements
+  - Spectroscopy
+  - Neodymium
+tldr: This article presents the spin-orbit interaction matrices for the configuration f and applies the theory to neodymium. The authors tabulate the spin-orbit interaction matrix elements using group theoretical methods to help assign values to energy levels observed in neodymium salts. They also discuss various Zeeman effects and provide a simple explanation for one feature of the spectrum of neodymium.
+scientific_discipline: Physics > Atomic Physics

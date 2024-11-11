@@ -1,0 +1,10 @@
+article_id: rspa_1933_0048
+revised_title: 'High-Speed Particle Tracks and Their Interaction with Matter'
+semantic_tags:
+  - Particle Physics
+  - Nuclear Radiation
+  - Cloud Chamber
+  - Particle Acceleration
+  - Nuclear Interactions
+tldr: The authors developed a method to capture high-speed particle tracks associated with penetrating radiation using cloud chambers. They observed that 80% of photographs contained tracks, and the majority of these particles had energies greater than 300 million volts. The authors also studied the interaction of these particles with various materials, such as lead, copper, and tungsten, and found that some tracks were due to particles with a positive charge but much lower mass than a proton.
+scientific_discipline: Physics > Particle Physics

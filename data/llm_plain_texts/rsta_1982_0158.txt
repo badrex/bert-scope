@@ -1,0 +1,10 @@
+article_id: rsta_1982_0158
+revised_title: Elastic Wave Scattering by a Circular Crack: A Numerical Method
+semantic_tags:
+  - Elastic waves
+  - Scattering
+  - Circular crack
+  - Boundary value problem
+  - Numerical methods
+tldr: The authors present a numerical method for solving the problem of elastic wave scattering by a circular crack. They use a direct integral equation approach, expanding stresses and displacements on the crack surface in terms of trigonometric functions and orthogonal polynomials. The method allows for the evaluation of specific characteristics of the scattered field, such as the far field and stress intensity factors. The results are given in the form of maps of the scattered far field and scattering cross sections.
+scientific_discipline: Engineering and Technology > Mechanics of Materials

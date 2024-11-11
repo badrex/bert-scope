@@ -1,0 +1,10 @@
+article_id: rspa_1964_0182
+revised_title: 'Phonon Critical-Point Analysis of Diamond, Silicon, and Germanium'
+semantic_tags:
+  - Lattice Dynamics
+  - Phonon Spectra
+  - Critical Points
+  - Infra-red Absorption
+  - Raman Scattering
+tldr: The authors conducted a critical-point analysis of the phonon spectra of diamond, silicon, and germanium using lattice dynamics calculations and neutron scattering results. They proposed a scheme for the positions and types of critical points in these materials, which helped interpret infra-red absorption and Raman scattering spectra. This analysis provided more accurate phonon frequencies at specific symmetry points in the Brillouin zone.
+scientific_discipline: Physics > Solid State Physics

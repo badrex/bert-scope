@@ -1,0 +1,11 @@
+article_id: rspa_1935_0053
+revised_title: 'Relativistic and Non-Relativistic Analysis of Photoelectric Absorption of Beta-Rays in Heavy Elements'
+semantic_tags:
+  - Quantum Mechanics
+  - Relativity
+  - Atomic Physics
+  - Absorption Coefficient
+  - Heavy Elements
+  - Beta-Rays
+tldr: The authors conducted a study on the absorption of beta-rays in heavy elements, using both relativistic and non-relativistic methods. They found that the absorption coefficient is proportional to the fourth power of the atomic number and that relativistic effects are essential for accurate calculations, especially for heavier elements.
+scientific_discipline: Physics > Atomic Physics

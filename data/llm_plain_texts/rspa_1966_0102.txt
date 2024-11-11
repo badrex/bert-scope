@@ -1,0 +1,10 @@
+article_id: rspa_1966_0102
+revised_title: Detection and Properties of Double Molecules in Gases
+semantic_tags:
+  - Gas molecules
+  - Dimer detection
+  - Mass spectrometry
+  - Van der Waals interaction
+  - Gas mixtures
+tldr: The authors discovered the existence of double molecules, or dimers, in various gases using mass spectrometry. They found that these dimers exist in gases at low temperatures and high pressures, where attractive van der Waals interactions are significant. The dimers were observed in carbon dioxide, nitrous oxide, nitrogen, oxygen, argon, and xenon, and are believed to play a role in the condensation process. The study provides insights into the properties and behavior of double molecules in gases.
+scientific_discipline: Chemistry > Physical Chemistry

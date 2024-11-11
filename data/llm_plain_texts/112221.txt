@@ -1,0 +1,10 @@
+article_id: 112221
+revised_title: 'Polarized Light Reflection from Polished Surfaces'
+semantic_tags:
+  - Polarized Light
+  - Reflection
+  - Optical Properties
+  - Metals
+  - Transparent Bodies
+tldr: The author, Samuel Haughton, conducted experiments to study the reflection of polarized light from polished surfaces. He discovered that when a plane-polarized beam of light hits a polished surface at a specific angle, the reflected light becomes circularly polarized. The paper discusses the determination of optical constants for various substances, including metals and transparent bodies, and the resulting properties like brilliancy and lustre.
+scientific_discipline: Physics > Optics

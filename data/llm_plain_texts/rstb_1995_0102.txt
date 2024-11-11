@@ -1,0 +1,10 @@
+article_id: 'rstb_1995_0102'
+revised_title: 'G-protein-based Model of Signal Transduction in Dictyostelium discoideum'
+semantic_tags:
+  - Signal transduction
+  - G-proteins
+  - Cellular slime mould
+  - Adaptation
+  - Oscillations and wave propagation
+tldr: The authors developed a G-protein-based model for signal transduction in the cellular slime mould Dictyostelium discoideum, which can account for the results from perfusion experiments. The model predicts excitation, sustained oscillations, or spiral waves and target patterns depending on the developmental stage of the cells and experimental conditions. The interaction between different pacemakers is also studied.
+scientific_discipline: Biology and Life Sciences > Cell Biology

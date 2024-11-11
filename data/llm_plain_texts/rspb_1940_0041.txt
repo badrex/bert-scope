@@ -1,0 +1,10 @@
+article_id: 'rspb_1940_0041'
+revised_title: 'X-ray Analysis of Myosin Molecular Structure and Supercontraction'
+semantic_tags:
+  - Protein Structure
+  - Muscle Contraction
+  - X-ray Crystallography
+  - Keratin
+  - Supercontraction
+tldr: The authors conducted X-ray studies on the molecular structure of myosin, a protein found in muscle tissue. They discovered that myosin shares similarities with keratin, a protein found in hair, in terms of molecular configuration and elastic properties. The authors also found that myosin undergoes a process called supercontraction, which involves a reversible folding of the protein chain system. This discovery helps explain the contractile properties of muscle tissue and the extensibility of hair.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

@@ -1,0 +1,10 @@
+article_id: rspa_1957_0054
+revised_title: 'Infra-Red Spectrum and Molecular Configuration of Sodium Deoxyribonucleate'
+semantic_tags:
+  - Biochemistry
+  - Nucleic Acids
+  - Molecular Configuration
+  - Infra-Red Spectroscopy
+  - DNA Structure
+tldr: The authors investigated the infra-red spectra of oriented films of sodium deoxyribonucleate under varying degrees of relative humidity. They found that the infra-red dichroism of nearly every band increased with humidity. By analyzing the spectra, they deduced the molecular configuration of the phosphate groups in the DNA, which differed from the Crick-Watson model. This study provided insights into the structure of DNA, a crucial molecule for life.
+scientific_discipline: Chemistry > Biochemistry

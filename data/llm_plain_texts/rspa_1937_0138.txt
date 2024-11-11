@@ -1,0 +1,10 @@
+article_id: rspa_1937_0138
+revised_title: Kinetics of Adsorption with Interaction Between Adsorbed Particles
+semantic_tags:
+  - Adsorption kinetics
+  - Surface chemistry
+  - Statistical mechanics
+  - Thermodynamics
+  - Gas adsorption
+tldr: This article explores the kinetics of adsorption with interaction between adsorbed particles, focusing on the effects of interaction energy on adsorption isotherms. The author derives expressions for the rates of individual processes and compares them to the Langmuir adsorption isotherm, demonstrating the impact of interaction between adsorbed particles on adsorption behavior.
+scientific_discipline: Chemistry > Surface Chemistry

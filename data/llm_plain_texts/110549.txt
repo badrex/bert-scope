@@ -1,0 +1,10 @@
+article_id: 110549
+revised_title: On the Connection between the Phenomena of Light Absorption and Thin Plate Colors
+semantic_tags:
+  - Optics
+  - Color Theory
+  - Thin Film Interference
+  - Light Absorption
+  - Periodic Colors
+tldr: The author, Sir David Brewster, studied the connection between the phenomena of light absorption and the colors of thin plates. He observed that the spectrum has alternating dark and colored bands, which change with the plate's inclination. Brewster compared these phenomena with absorption exhibited by solid, fluid, and gaseous bodies, concluding that the transmitted colors are produced by the same causes and are generally complementary to the sum of the reflected tints.
+scientific_discipline: Physics > Optics

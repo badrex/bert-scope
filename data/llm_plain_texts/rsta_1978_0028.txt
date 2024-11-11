@@ -1,0 +1,10 @@
+article_id: rsta_1978_0028
+revised_title: 'Thermodynamics of Pyroxene Geotherms and the Formation of Garnet Herzolites'
+semantic_tags:
+  - Geothermics
+  - Mineral Equilibria
+  - Thermodynamics
+  - Garnet Herzolites
+  - Mantle Geology
+tldr: This article explores the thermodynamics of pyroxene geotherms and their application to the calculation of temperature and pressure of formation of garnet herzolites. The authors discuss the importance of correctly formulating thermodynamics to accurately apply experimental results to natural systems. They present new methods for calculating both temperature and pressure for garnet herzolites, which reveal that these rocks formed at lower pressures than previously suggested, indicating a steeper geotherm at the time of their formation.
+scientific_discipline: Earth Sciences > Geology

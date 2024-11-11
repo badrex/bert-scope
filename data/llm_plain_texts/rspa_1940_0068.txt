@@ -1,0 +1,10 @@
+article_id: rspa_1940_0068
+revised_title: 'Radial Flow of Viscous Fluid Between Inclined Plane Walls'
+semantic_tags:
+  - Fluid Dynamics
+  - Viscosity
+  - Boundary Layer
+  - Elliptic Functions
+  - Fluid Mechanics
+tldr: This article investigates the steady radial flow of viscous fluid between two inclined plane walls, focusing on the mathematical aspects of the problem. The author provides a general solution in terms of elliptic functions and discusses various types of flow, including symmetrical and non-symmetrical cases. The study also explores the relationship between Reynolds number and flow behavior, as well as the role of boundary conditions and pressure distributions in real-world experiments.
+scientific_discipline: Physics > Fluid Dynamics

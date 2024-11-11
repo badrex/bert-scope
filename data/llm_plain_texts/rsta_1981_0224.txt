@@ -1,0 +1,10 @@
+article_id: 'rsta_1981_0224'
+revised_title: 'Astrophysical Observations and Molecular Spectroscopy'
+semantic_tags:
+  - Molecular spectroscopy
+  - Astrophysics
+  - Interstellar molecules
+  - Radio frequency transitions
+  - Astronomical observations
+tldr: The article discusses the importance of molecular spectroscopy in understanding astrophysical observations. It highlights the detection of various molecules in interstellar space through radio frequency transitions and the challenges in identifying and studying these molecules. The author emphasizes the need for accurate measurements and theoretical understanding of molecular spectra to interpret astronomical observations.
+scientific_discipline: Astronomy > Astrophysics

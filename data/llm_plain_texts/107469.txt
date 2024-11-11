@@ -1,0 +1,10 @@
+article_id: 107469
+revised_title: 'The Laws of Polarisation and Double Refraction in Regularly Crystallized Bodies'
+semantic_tags:
+  - Crystallography
+  - Polarization
+  - Double refraction
+  - Optics
+  - Mineralogy
+tldr: The author examines the properties of 165 crystals, discovering that many have two or more axes of double refraction. This challenges previous theories and leads to a new, rigorously physical law for double refraction, which can be used to calculate the behavior of light in crystals.
+scientific_discipline: Physics > Optics

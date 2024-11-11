@@ -1,0 +1,10 @@
+article_id: 101177
+revised_title: 'A Critique of Newton's Theory of Light and Colours'
+semantic_tags:
+  - Optics
+  - Light refraction
+  - Color Theory
+  - Experimental philosophy
+  - Astronomy
+tldr: Linus critiques Newton's theory of light and colors, arguing that the observed spectrum's length exceeding its breadth is due to sunlight passing through clouds rather than the prism's refraction. He suggests that the experiment's results do not support Newton's theory, and he questions the validity of using the received laws of refraction to explain the phenomenon.
+scientific_discipline: Physics > Optics

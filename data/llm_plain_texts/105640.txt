@@ -1,0 +1,10 @@
+article_id: 105640
+revised_title: Observations of Venus and the Sun's Conjunction
+semantic_tags:
+  - Astronomy
+  - Planetary observation
+  - Solar observation
+  - Celestial mechanics
+  - Geometric calculations
+tldr: In 1761, Eustachio Zanotto observed the conjunction of Venus and the Sun, making precise measurements to determine the planet's position and motion. The observations were conducted at the Bologna Observatory, with the assistance of several astronomers. The data collected allowed for the calculation of the difference in longitude between the Sun and Venus, as well as the planet's latitude. The findings contributed to a better understanding of Venus's orbit and its relationship to the ecliptic.
+scientific_discipline: Astronomy > Planetary Science

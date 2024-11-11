@@ -1,0 +1,10 @@
+article_id: 'rspa_1928_0023'
+revised_title: 'Dirac's Quantum Theory of the Electron'
+semantic_tags:
+  - Quantum mechanics
+  - Particle physics
+  - Relativity
+  - Electron
+  - Wave equation
+tldr: Dirac and Fowler present a wave equation that is invariant under a Lorentz transformation and equivalent to the previous wave equation in the limit of large quantum numbers. They introduce new dynamical variables and discuss the behavior of an electron in a central field of force, finding that the electron behaves as though it has a magnetic moment and an electric moment. The wave equation is then transformed into a differential equation in the radial variable, with the orientation of the system removed.
+scientific_discipline: Physics > Particle physics

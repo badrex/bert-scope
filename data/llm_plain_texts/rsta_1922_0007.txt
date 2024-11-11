@@ -1,0 +1,10 @@
+article_id: rsta_1922_0007
+revised_title: Aerodynamics of Spinning Shells: Unraveling the Motion of Spinning Projectiles
+semantic_tags:
+  - Ballistics
+  - Aerodynamics
+  - Shell Stability
+  - Yaw
+  - Top Motion
+tldr: This article investigates the aerodynamics of spinning shells and their stability during flight. The authors analyze the motion of spinning projectiles, focusing on the effect of axial spin on their stability and the forces acting on them. They extend the understanding of shell behavior up to 35 degrees of yaw and provide insights into the force system acting on spinning shells, which can be applied to improve projectile design and performance.
+scientific_discipline: Physics > Mechanics

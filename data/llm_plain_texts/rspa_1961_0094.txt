@@ -1,0 +1,10 @@
+article_id: rspa_1961_0094
+revised_title: 'Elasto-Hydrodynamic Lubrication at Point Contacts'
+semantic_tags:
+  - Lubrication
+  - Elasto-Hydrodynamic Theory
+  - Point Contacts
+  - Friction
+  - Electrical Resistance
+scientific_discipline: Engineering and Technology > Mechanical Engineering
+tldr: The authors conducted experiments on a special apparatus to study the lubrication at point contacts between rotating steel cylinders. They discovered that hydrodynamic lubrication can occur under a wide range of conditions, even at heavy loads and low speeds. The experiments also showed that the electrical resistance and capacity measurements can help determine the film thickness and the state of lubrication. The findings contribute to the understanding of elasto-hydrodynamic lubrication in engineering applications.

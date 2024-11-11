@@ -1,0 +1,10 @@
+article_id: 'rspa_1973_0055'
+revised_title: 'Photoelectron Spectra of Thiocarbonyl Halides: Ionization Potentials and Molecular Orbital Assignments'
+semantic_tags:
+  - Photochemistry
+  - Molecular Orbital Theory
+  - Ionization Potentials
+  - Thiocarbonyl Halides
+  - Vibrational Spectroscopy
+tldr: The authors measured the photoelectron spectra of thiocarbonyl fluoride and thiocarbonyl chloride, identifying ionization potentials and assigning molecular orbitals associated with lone pair electrons, C=S π orbitals, and σ-bonding electrons. They compared their findings with other related molecules, such as thioformaldehyde, carbonyl fluoride, and carbonyl chloride, and discussed the changes in geometry upon ionization.
+scientific_discipline: Chemistry > Spectroscopy

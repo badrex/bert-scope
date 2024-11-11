@@ -1,0 +1,10 @@
+article_id: rspa_1971_0006
+revised_title: Limitations of Determining Force Constants from Lattice Frequencies
+semantic_tags:
+  - Lattice dynamics
+  - Force constants
+  - Crystal structure
+  - Eigenvectors
+  - Frequency measurements
+tldr: The authors demonstrate that force constants of a solid cannot be deduced from lattice frequencies alone, and even with exact frequency measurements, there can be a wide range of different force constant sets that satisfy the frequencies. They argue that detailed eigenvector measurements are necessary to resolve the uncertainty and improve the accuracy of force constant calculations.
+scientific_discipline: Physics > Solid State Physics

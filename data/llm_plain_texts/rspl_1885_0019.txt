@@ -1,0 +1,10 @@
+article_id: rspl_1885_0019
+revised_title: 'Geometrical Construction of the Honey Bee's Cell'
+semantic_tags:
+  - Geometry
+  - Honey Bee Biology
+  - Mathematical Modeling
+  - Beeswax Structure
+  - Hexagonal Cells
+tldr: The author presents a new method for constructing the honey bee's hexagonal cell using geometrical principles. The method involves inscribing an equilateral triangle in a hexagon and bisecting its sides. By drawing parallel lines and folding the resulting trapeziums, a hexagonal prism is formed that accommodates three lozenges, replicating the structure of a honey bee's cell.
+scientific_discipline: Environmental and Earth Sciences > Biology and Life Sciences > Honey Bee Biology

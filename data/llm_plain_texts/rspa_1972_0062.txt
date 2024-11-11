@@ -1,0 +1,10 @@
+article_id: rspa_1972_0062
+revised_title: Ideal Points in Space-Time: A Causal Approach
+semantic_tags:
+  - Space-Time Geometry
+  - General Relativity
+  - Causal Structures
+  - Singularities
+  - Conformal Infinity
+tldr: The authors develop a method to attach ideal points to a space-time, based on its causal structure, to incorporate singular and non-singular points. This construction allows for the introduction of ideal points in a broad class of causal spaces and can be used to define the domain of dependence concept. The authors also suggest a topology for space-time with its ideal points.
+scientific_discipline: Physics > General Relativity

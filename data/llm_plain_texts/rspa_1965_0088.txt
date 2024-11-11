@@ -1,0 +1,10 @@
+article_id: rspa_1965_0088
+revised_title: 'Damage and Failure Mechanisms of Heavy-Section Steel: Strain Concentration Effects in Large Structures'
+semantic_tags:
+  - Fracture mechanics
+  - Strain concentration
+  - Notch sensitivity
+  - Steel structures
+  - Brittle fracture
+tldr: This article discusses the damage and failure mechanisms of heavy-section steel structures, focusing on strain concentration effects and fracture initiation. The authors analyze the role of notches, inclusions, and defects in the behavior of steel structures and propose a theoretical approach to determine the fracture stress of large plates containing notches.
+scientific_discipline: Engineering and Technology > Materials Science

@@ -1,0 +1,10 @@
+article_id: 'rspa_1954_0230'
+revised_title: 'A Discussion on the First and Second Viscosities of Fluids: A Note on Sir Geoffrey Taylor's Paper'
+semantic_tags:
+  - Fluid dynamics
+  - Viscosity
+  - Compressibility
+  - Bulk viscosity
+  - Relaxation
+scientific_discipline: Physics > Fluid Dynamics
+tldr: This article discusses the first and second viscosities of fluids, focusing on Sir Geoffrey Taylor's model. By considering the compressibility of the liquid, the model is modified to exhibit relaxation. The authors find a relaxation law and an effective bulk viscosity for frequencies satisfying certain conditions. This work extends Taylor's original findings and provides a deeper understanding of fluid dynamics.

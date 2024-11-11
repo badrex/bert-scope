@@ -1,0 +1,10 @@
+article_id: rspa_1980_0099
+revised_title: Radio-Frequency Susceptibility of H0 VO\lt;sub\gt;4\lt;/sub\gt; at Low Temperatures
+semantic_tags:
+  - Magnetic susceptibility
+  - Nuclear paramagnets
+  - Zeeman effect
+  - Radio-frequency techniques
+  - Low-temperature physics
+tldr: This article investigates the radio-frequency susceptibility of the Van Vleck electronic paramagnet at low temperatures. The authors use radio-frequency methods to determine the variation of the adiabatic susceptibility and the magnetic specific heat of the enhanced nuclear system. The results are in good agreement with values deduced from optical and nuclear magnetic resonance measurements.
+scientific_discipline: Physics > Condensed Matter Physics

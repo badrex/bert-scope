@@ -1,0 +1,10 @@
+article_id: rspa_1925_0100
+revised_title: 'Gyro-magnetic Ratio Measurements on Magnetite and Cobalt'
+semantic_tags:
+  - Magnetism
+  - Ferromagnetism
+  - Material Science
+  - Physics
+  - Resonance
+tldr: The authors conducted experiments to measure the gyro-magnetic ratio for magnetite and cobalt. They developed a method to create uniform specimens of these materials and used them in a setup to measure the gyro-magnetic resonance amplitude. The results showed that the gyro-magnetic ratio for magnetite was close to the theoretical value, while for cobalt, it was lower. The authors discussed the experimental difficulties and improvements made to achieve accurate measurements.
+scientific_discipline: Physics > Magnetism

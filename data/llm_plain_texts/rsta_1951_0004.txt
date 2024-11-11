@@ -1,0 +1,10 @@
+article_id: rsta_1951_0004
+revised_title: Large Elastic Deformations of Isotropic Materials: Experiments on Rubber
+semantic_tags:
+  - Rubber elasticity
+  - Material properties
+  - Deformation mechanics
+  - Stress-strain relationships
+  - Mooney-Rivlin model
+tldr: This article presents experiments on the deformation of rubber under various conditions, such as pure shear, pure shear superposed on simple extension, and simple extension. The authors use a mathematical theory to describe the deformation of incompressible and isotropic materials and explain the load-deformation characteristics of vulcanized rubber. They find that the material properties, such as stress and strain, vary with the applied load and the deformation.
+scientific_discipline: Engineering and Technology > Materials Science

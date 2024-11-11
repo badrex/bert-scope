@@ -1,0 +1,10 @@
+article_id: 'rsta_1891_0009'
+revised_title: 'The Influence of Stress and Strain on the Physical Properties of Matter: Part III - Magnetic Induction and Internal Friction in Nickel and Cobalt'
+semantic_tags:
+  - Magnetic Induction
+  - Internal Friction
+  - Nickel
+  - Cobalt
+  - Annealing
+tldr: The author investigates the influence of stress and strain on the physical properties of matter, specifically focusing on the internal friction of nickel and cobalt. The study uses magnetic cycles of very minute range to measure the magnetic induction and the effect of annealing on the metals. The results show that a high temperature and slow cooling are crucial for achieving optimal properties in these materials.
+scientific_discipline: Physics > Materials Science

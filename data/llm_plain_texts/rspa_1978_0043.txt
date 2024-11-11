@@ -1,0 +1,10 @@
+article_id: rspa_1978_0043
+revised_title: 'Computer Experiment on Ionic Recombination in an Ambient Gas'
+semantic_tags:
+  - Plasma Physics
+  - Recombination Coefficient
+  - Monte Carlo Simulation
+  - Gas Ionization
+  - Atmospheric Science
+tldr: The authors conducted a computer experiment to study ionic recombination in an ambient gas, taking into account binary recombination. They found that the recombination coefficient for ambient gas (termolecular) recombination follows the quasi-equilibrium statistical method in low-density regions and the Langevin-Harper formula in high-density regions. The Natanson formula, which was introduced to bridge the gap between these regions, was found to be unsuccessful.
+scientific_discipline: Physics > Plasma Physics

@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0031'
+revised_title: 'Satellite Doppler Tracking and Geodetic Applications: The United Kingdom Doppler Campaign'
+semantic_tags:
+  - Satellite Doppler Tracking
+  - Geodesy
+  - Geodetic Applications
+  - United Kingdom Doppler Campaign
+  - Ephemeris Systems
+tldr: The first United Kingdom Doppler campaign studied satellite-Doppler tracking and its geodetic applications. The campaign involved 13 stations of the primary triangulation network of Great Britain and was supplemented by additional observations in 1978. The data was processed using both broadcast and precise ephemeris, revealing significant discrepancies between the geocentric coordinates obtained by each type. The study concluded with practical suggestions to help organizations processing Doppler data with only the broadcast ephemeris.
+scientific_discipline: Earth Sciences > Geodesy

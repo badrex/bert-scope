@@ -1,0 +1,10 @@
+article_id: 'rspa_1933_0159'
+revised_title: 'The Spark Spectrum of Gold: Au II and Electronic Configurations'
+semantic_tags:
+  - Atomic Physics
+  - Spectroscopy
+  - Gold Chemistry
+  - Hund's Theory
+  - Electronic Configurations
+tldr: 'The authors analyzed the spark spectrum of gold (Au II) and identified electronic configurations and terms for various configurations. They found all the terms resulting from the 5d9 6s, 5d97s, and 5# 6p configurations, and nearly all the terms arising from the 5d9 6d configuration. The study supports Hund's theory and provides a better understanding of gold's atomic structure.'
+scientific_discipline: Chemistry > Atomic Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1971_0033
+revised_title: Complex Ray Tracing in Radio Wave Propagation
+semantic_tags:
+  - Radio Wave Propagation
+  - Complex Space
+  - Ionosphere
+  - Electromagnetic Waves
+  - Ray Tracing Techniques
+tldr: The article discusses the extension of ray tracing techniques to use complex space for studying radio wave propagation in complex media, such as the ionosphere. The authors explore the effects of ray convergence and divergence on the energy flux in a ray pencil and provide specific applications, including the determination of the angular diameter of the Ellis window.
+scientific_discipline: Physics > Electromagnetism

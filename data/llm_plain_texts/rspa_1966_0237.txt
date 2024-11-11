@@ -1,0 +1,10 @@
+article_id: rspa_1966_0237
+revised_title: Friction and Wear of Clean Crystal Surfaces
+semantic_tags:
+  - Surface Physics
+  - Friction
+  - Wear
+  - Crystallography
+  - Vacuum Technology
+tldr: This study investigates the frictional behavior of clean crystal surfaces, such as diamond, magnesium oxide, and sapphire, when sliding on themselves in high vacuum. The experiments show that clean crystal surfaces can be obtained by rubbing the crystals on one another under high vacuum conditions. The friction and wear of these clean surfaces are directly related to the adhesion at the interface and can be influenced by the crystal structure, bonding, and the direction of sliding. The findings are relevant to the operation of bearings and the wear of surfaces in space.
+scientific_discipline: Physics > Surface Physics

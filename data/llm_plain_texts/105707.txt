@@ -1,0 +1,11 @@
+article_id: '105707'
+revised_title: 'A Critique of Mercator's Chart and Mr. West's Claims'
+semantic_tags:
+  - Navigation
+  - Geometricians
+  - Mercator's Chart
+  - Edward Wright
+  - Fluxions
+tldr: The author critiques Mr. West's claims about Mercator's chart and its inaccuracies. They argue that West and his editor misunderstood Edward Wright's work and principles. The author also questions whether any papers have been published in the Philosophical Transactions discussing a sphere inscribed in a hollow cylinder for constructing a more accurate navigation chart.
+scientific_discipline: Mathematics > Geometry
+```

@@ -1,0 +1,10 @@
+article_id: rspa_1939_0139
+revised_title: 'Molecular Volume and Gas Compressibilities: A Study of Non-Polar Gases'
+semantic_tags:
+  - Gas compressibility
+  - Molecular volume
+  - Non-polar gases
+  - Expansion coefficients
+  - Beattie-Bridgeman equation
+tldr: The author investigates the compressibilities and expansion coefficients of non-polar gases at low pressures and their relation to molecular volume. They propose a method to express these properties in terms of effective molecular volume and find that compressibilities and expansion coefficients are linear functions of molecular volume for non-polar gases. The study also highlights the differences in behavior between non-polar and polar gases.
+scientific_discipline: Chemistry > Physical Chemistry

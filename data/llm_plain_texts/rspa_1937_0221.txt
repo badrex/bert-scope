@@ -1,0 +1,10 @@
+article_id: rspa_1937_0221
+revised_title: 'X-ray Examination of the Structure of Micas and its Relation to Thermal Conductivity'
+semantic_tags:
+  - Crystallography
+  - Thermal conductivity
+  - Mica
+  - X-ray diffraction
+  - Lattice structure
+tldr: The author conducted an X-ray examination of the structure of certain micas during a temperature cycle from 16 to 400°C. They discovered that heat treatment can cause a mosaic formation in the micas, which is partially reversible on cooling. This structural change is closely related to the anomalous decrease in thermal conductivity observed at elevated temperatures. The thermal expansion of the lattice constant and the sharpness of high-order spectra indicate that the atomic arrangement in the individual crystallites remains perfect during the breakdown of the large-scale crystal.
+scientific_discipline: Physics > Crystallography

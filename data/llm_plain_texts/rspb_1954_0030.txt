@@ -1,0 +1,10 @@
+article_id: 'rspb_1954_0030'
+revised_title: 'Sodium and Potassium Fluxes in Frog Muscle'
+semantic_tags:
+  - Ion channels
+  - Membrane potential
+  - Muscle physiology
+  - Neurophysiology
+  - Sodium-potassium pump
+tldr: The authors describe methods for measuring the absolute sizes of the inward and outward fluxes of radioactive sodium and potassium in frog muscle fibers. They found that the sodium fluxes were of the order of 10, and the potassium fluxes were nearly doubled in 5 mm-K. The results suggest that there may be a form of coupling between sodium efflux and potassium influx in frog muscle.
+scientific_discipline: Biology and Life Sciences > Muscle Physiology

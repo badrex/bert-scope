@@ -1,0 +1,10 @@
+article_id: rspa_1958_0131
+revised_title: Mechanism of Initiation and Growth of Explosion in Solids
+semantic_tags:
+  - Detonation
+  - Explosives
+  - Gas Dynamics
+  - Burning Rate
+  - Pressure Increase
+scientific_discipline: Physics > Gas Dynamics
+tldr: The authors discuss the initiation and growth of explosions in solids, focusing on the mechanism of detonation in explosives. They consider various ways of initiating detonation, such as burning at different conditions and transmission of detonation over distance. The main cause of detonation seems to be a sudden rise in pressure when a suspension of an explosive in gaseous products of burning is formed and exploded. Different ways of forming such a suspension are discussed, and the authors analyze the balance of gas formation and escape at burning to determine the possibility of a pressure rise.

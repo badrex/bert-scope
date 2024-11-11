@@ -1,0 +1,10 @@
+article_id: 111490
+revised_title: 'Investigating the Resistance of Tubes to Collapse in Boilers'
+semantic_tags:
+  - Boiler engineering
+  - Pressure vessels
+  - Mechanical engineering
+  - Steam engine
+  - Material science
+tldr: 'This article by William Fairbairn investigates the factors affecting the resistance of tubes in boilers to collapse under external pressure. The author examines the impact of tube length, diameter, and thickness on their strength and proposes modifications to boiler construction to improve safety at higher pressures. The findings provide valuable insights into boiler engineering and mechanical design for steam engines.'
+scientific_discipline: Engineering and Technology > Mechanical Engineering

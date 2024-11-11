@@ -1,0 +1,10 @@
+article_id: rsta_1967_0003
+revised_title: A New Absolute Determination of Gravity at the National Physical Laboratory
+semantic_tags:
+  - Gravitation
+  - Metrology
+  - Physics Experiments
+  - Time Measurement
+  - Acceleration
+tldr: The authors conducted an experiment to determine the acceleration due to gravity at the National Physical Laboratory using a symmetrical free motion method. They timed a glass ball as it passed through two horizontal planes, measuring the time intervals and distances between them. The results were then compared to the British Fundamental Gravity Station, providing a more accurate measurement of gravity. This method allowed for a more precise determination of forces and helped in realizing other fundamental constants in physics.
+scientific_discipline: Physics > Mechanics

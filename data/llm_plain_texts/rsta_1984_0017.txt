@@ -1,0 +1,10 @@
+article_id: 'rsta_1984_0017'
+revised_title: 'Isotopic Data on the Origin of Mesozoic and Tertiary Granitic Rocks in the Western United States'
+semantic_tags:
+  - Geochemistry
+  - Isotopic analysis
+  - Tectonics
+  - Continental crust
+  - Mantle-derived magma
+tldr: The authors conducted a regional study of initial Nd and Sr isotopic compositions of Mesozoic and Tertiary granitic rocks in the western United States. They found that the plutons in accreted terrains represent mantle-derived magma that assimilated crust while differentiating at deep levels, while those emplaced into Precambrian basement are mainly derived from the crust. The regional patterns can be understood in terms of the flux of mantle magma entering the crust, crustal thickness, and crustal age.
+scientific_discipline: Earth Sciences > Geology

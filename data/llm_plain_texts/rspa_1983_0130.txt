@@ -1,0 +1,9 @@
+article_id: rspa_1983_0130
+revised_title: 'Thermal Explosions, Criticality, and the Disappearance of Criticality in Systems with Distributed Temperatures: Arbitrary Biot Number and General Reaction-Rate Laws'
+semantic_tags:
+  - Thermal explosions
+  - Criticality
+  - Biot number
+  - Reaction-rate laws
+  - Heat transfer
+tldr: The authors study thermal explosions in systems with distributed temperatures, focusing on the Biot number and general reaction-rate laws. They evaluate critical values for the parameter and the dimensionless central-temperature excess for the whole range of Biot numbers, from the uniform case to the Frank-Kamenetskii extreme. The results are applicable to various temperature-dependence of reaction rates and are compared with earlier work.

@@ -1,0 +1,10 @@
+article_id: rspa_1966_0213
+revised_title: Total Electronic Band Structure Energy for 29 Elements
+semantic_tags:
+  - Band structure
+  - Pseudopotential
+  - Electronic properties
+  - Metal properties
+  - Atomic properties
+tldr: The authors calculated the total electronic band structure energy for 29 elements using the screened model potential of Heine and Abarenkov. They divided the total energy of a metal into free electron energy, band structure energy, and electrostatic energy, and found a more convenient expression for the total band structure energy applicable to determining atomic properties, phonon spectra, interatomic forces, and liquid metal properties.
+scientific_discipline: Physics > Solid State Physics

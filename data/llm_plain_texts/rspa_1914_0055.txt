@@ -1,0 +1,10 @@
+article_id: 'rspa_1914_0055'
+revised_title: 'Long Waves and Bore Theory: A Study on Gravity and Fluid Dynamics'
+semantic_tags:
+  - Fluid Dynamics
+  - Wave Theory
+  - Bore Formation
+  - Gravity Waves
+  - Hydrodynamics
+tldr: 'The author investigates the behavior of long waves and bores in fluid dynamics, focusing on the role of gravity and the conditions required for their propagation. The study explores the relationship between wave velocity, water depth, and gravity, and applies the findings to the case of bores, where water transitions from one uniform level to another. The author concludes that a suitable law of gravity can compensate for pressure changes in long waves and bores, allowing for their existence and providing insight into their behavior.'
+scientific_discipline: Physics > Fluid Dynamics

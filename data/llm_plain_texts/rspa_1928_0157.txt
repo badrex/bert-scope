@@ -1,0 +1,10 @@
+article_id: rspa_1928_0157
+revised_title: 'Investigation of the Effect of Strong Electric Fields on Thermionic Current'
+semantic_tags:
+  - Thermionic emission
+  - Electric fields
+  - Electron emission
+  - Maxwell-Boltzmann distribution
+  - Experimental physics
+tldr: The authors conducted experiments to study the effect of strong electric fields on the current from a thermionic cathode. They found that the current increases with the applied voltage and discovered a method to determine the value of the electronic charge. The results provide insights into the velocity distribution of electrons and the thermionic emission process.
+scientific_discipline: Physics > Electromagnetism

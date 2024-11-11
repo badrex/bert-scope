@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0073'
+revised_title: 'Conformational Analysis of Thr-Gly Repeat in Drosophila Clock Protein'
+semantic_tags:
+  - Protein Conformation
+  - Circadian Rhythm
+  - Drosophila melanogaster
+  - Molecular Biology
+  - Temperature Compensation
+tldr: The authors conducted a conformational study of the Thr-Gly repeat in the Drosophila clock protein, PERIOD. They found that the hexapeptide (Thr-Gly)3 represents a 'conformational monomer' and generates a stable type II or type III turn. The flexibility of these peptides may help understand the molecular mechanism of temperature compensation and the geographical distribution of Thr-Gly length polymorphism in D. melanogaster.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

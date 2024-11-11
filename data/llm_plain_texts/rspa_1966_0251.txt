@@ -1,0 +1,10 @@
+article_id: rspa_1966_0251
+revised_title: Stability of Infinite Periodic Sequences of Noncoplanar Cracks
+semantic_tags:
+  - Fracture mechanics
+  - Dislocation theory
+  - Crack propagation
+  - Elasticity
+  - Materials science
+tldr: This article investigates the stability of infinite periodic sequences of noncoplanar dislocation-type cracks in materials. The study examines the interaction between cracks under different modes of deformation, such as anti-plane strain, plane strain shear, and plane strain tension. The authors determine the criteria for complete fracture and the effects of crack distribution on the material's stability.
+scientific_discipline: Engineering and Technology > Materials Science

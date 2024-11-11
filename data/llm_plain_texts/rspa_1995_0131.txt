@@ -1,0 +1,10 @@
+article_id: rspa_1995_0131
+revised_title: 'Investigation of the Completeness of the Classification of Cases of Elliptic Anisotropy'
+semantic_tags:
+  - Elasticity Theory
+  - Anisotropy
+  - Stiffness Tensors
+  - Slowness Surface
+  - Christoffel Matrix
+tldr: The author investigates the completeness of the classification of cases of elliptic anisotropy, focusing on the stiffness tensors and slowness surfaces of anisotropic elastic media. They analyze the Christoffel matrix and its eigensystem, proving theorems and lemmas to show that the classification is complete, even though some cases may not have positive definite stiffness tensors.
+scientific_discipline: Physics > Elasticity Theory

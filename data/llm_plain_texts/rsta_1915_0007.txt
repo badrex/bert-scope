@@ -1,0 +1,10 @@
+article_id: rsta_1915_0007
+revised_title: Thermomagnetic Study of the Eutectoid Transition Point in Carbon Steels
+semantic_tags:
+  - Steel metallurgy
+  - Thermomagnetism
+  - Eutectoid transition
+  - Iron-carbon alloys
+  - Phase transitions
+tldr: This article investigates the thermomagnetic properties of carbon steels, focusing on the eutectoid transition point where steel changes from a homogeneous material to a heterogeneous mixture of iron and carbide. The study finds that the eutectoid transition occurs at a specific temperature, and the loss of magnetism in the steel begins at this temperature. The results provide insights into the equilibrium diagram of steel and its phase transitions.
+scientific_discipline: Materials Science > Steel Metallurgy

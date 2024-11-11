@@ -1,0 +1,10 @@
+article_id: 112540
+revised_title: 'On the Impact of Compressible Bodies and the Theory of Pressure'
+semantic_tags:
+  - Fluid dynamics
+  - Compressible fluids
+  - Pressure theory
+  - Collision mechanics
+  - Momentum transfer
+tldr: The author explores the impact of compressible bodies and how the theory of pressure applies to them. They discuss the transfer of momentum during collisions and how compressibility affects the distribution of velocity in the colliding bodies. The author also explains how discontinuity in the tendency to compression in different parts of a system can lead to the transmission of a finite amount of momentum.
+scientific_discipline: Physics > Fluid dynamics

@@ -1,0 +1,10 @@
+article_id: 110385
+revised_title: Determining Relative Magnetic Forces in the West Indies and North America
+semantic_tags:
+  - Magnetism
+  - Geomagnetism
+  - Magnetic declination
+  - Navigation
+  - Compass variation
+tldr: This article presents experiments conducted by James Napier in the West Indies and North America to determine the relative magnetic forces in 1831, 32, and 33. The results were used to compute the relative forces at different places and provide a table of magnetic declination values for navigation purposes.
+scientific_discipline: Earth Sciences > Geomagnetism

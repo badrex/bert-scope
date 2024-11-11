@@ -1,0 +1,10 @@
+article_id: 110753
+revised_title: 'The Theory of Machines and the Efficiency of Work'
+semantic_tags:
+  - Mechanical Engineering
+  - Thermodynamics
+  - Efficiency
+  - Work
+  - Friction
+tldr: The author, H. Moseley, researches the theory of machines and introduces the concept of 'work' as the operation of force in machinery. He presents the principle of vis viva and the modulus of a machine, which helps determine the efficiency of work in various types of machines. The author also discusses the application of these principles to simple machines, such as pulleys, considering factors like friction and the weight of the machine.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

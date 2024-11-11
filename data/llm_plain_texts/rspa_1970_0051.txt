@@ -1,0 +1,10 @@
+article_id: rspa_1970_0051
+revised_title: 'A New Approach to Solving Steady Surface Waves Equations'
+semantic_tags:
+  - Fluid Dynamics
+  - Wave Theory
+  - Integral Equations
+  - Hydrodynamics
+  - Surface Waves
+tldr: The author presents an exact integral equation for steady surface waves, which can be used to solve various types of waves, including solitary waves and waves of maximum height. This new equation is derived using a method similar to Long's approach and offers advantages over previous methods, such as Nekrasov's equation. The equation can be used to find the height of the waves explicitly and has the potential to improve our understanding of fluid dynamics and wave theory.
+scientific_discipline: Mathematics > Applied Mathematics

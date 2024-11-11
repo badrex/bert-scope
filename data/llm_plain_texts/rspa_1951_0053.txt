@@ -1,0 +1,10 @@
+article_id: rspa_1951_0053
+revised_title: 'Vibrational Analysis of Substituted Ethylenes and Related Compounds'
+semantic_tags:
+  - Molecular Vibrations
+  - Force Constants
+  - Substituted Ethylenes
+  - Group Frequencies
+  - Normal Co-ordinate Theory
+tldr: The authors conducted a study on the non-planar vibrations of substituted ethylenes and related compounds using a general normal co-ordinate treatment. They found consistent sets of force constants for non-planar bending motions and correlated their variation with the observed shifts in group frequencies and the properties of substituents. The results suggest that the main effect is the electromeric effect, directing aromatic substitution, and can be extended to include related unsaturated compounds.
+scientific_discipline: Chemistry > Molecular Vibrations

@@ -1,0 +1,10 @@
+article_id: rspa_1968_0085
+revised_title: 'Asymptotic Expansion of Unsteady Flow at Infinite Mach Number'
+semantic_tags:
+  - Fluid Dynamics
+  - Hypersonic Flow
+  - Asymptotic Analysis
+  - Blast Wave
+  - Boundary Layer
+tldr: The authors numerically investigated the one-dimensional unsteady flow at infinite Mach number to understand the role of the blast wave analogy in interpreting experimental data on fluid motion past an obstacle at hypersonic speeds. They found that the blast wave is the correct limit of the flow, and the integral in question is very small, within the anticipated numerical error. However, they also discovered that an infinite set of integrals must vanish to prevent a contradiction in the matching procedure.
+scientific_discipline: Physics > Fluid Dynamics

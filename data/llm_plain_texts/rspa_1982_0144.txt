@@ -1,0 +1,10 @@
+article_id: rspa_1982_0144
+revised_title: Non-Relativistic Quantum Electrodynamics in the Lorentz Gauge
+semantic_tags:
+  - Quantum Electrodynamics
+  - Lorentz Gauge
+  - Non-Relativistic Theory
+  - Electromagnetic Fields
+  - Gauge Transformations
+tldr: The author demonstrates how the conventional Lagrangian of non-relativistic quantum electrodynamics can lead to a theory in the Lorentz gauge, treating the scalar potential on an equal footing with the transverse and longitudinal components of the vector potential. This requires the introduction of an indefinite metric. The author applies this formalism to compute the order-e2 correction to the energy levels of a bound electron, showing remarkable exact cancellations between parts of the contribution arising from the scalar field and the entire contribution from the longitudinal field to order. The effective shift is identical to Bethe's expression where only transverse photons are involved.
+scientific_discipline: Physics > Electromagnetism

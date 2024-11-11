@@ -1,0 +1,10 @@
+article_id: rspl_1894_0176
+revised_title: Investigating Dielectric Hysteresis in a Condenser
+semantic_tags:
+  - Dielectric materials
+  - Hysteresis
+  - Electromagnetic phenomena
+  - Condensers
+  - Electromotive intensity
+tldr: The authors conducted experiments on a condenser to determine if dielectric hysteresis exists. They found that the charge of the condenser was the same for a given potential difference, whether it was arrived at from higher or lower values. This indicates that there is no hysteresis in the condenser under the tested conditions. 
+scientific_discipline: Physics > Electromagnetism

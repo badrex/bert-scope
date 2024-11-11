@@ -1,0 +1,10 @@
+article_id: 'rstb_1980_0123'
+revised_title: 'Molecular Dynamics of Hydrated Proteins: Neutron Scattering Applications'
+semantic_tags:
+  - Neutron scattering
+  - Protein hydration
+  - Molecular dynamics
+  - Biopolymers
+  - Hydration dynamics
+tldr: The authors conducted neutron scattering experiments on hydrated proteins, specifically deuterated phycocyanin extracted from blue-green algae. They studied the dynamics of protein hydration by analyzing the Doppler-like broadening of the quasi-elastic line at various sub-monolayer hydration levels. The results showed oscillatory behavior in the hydration structure, which was explained using a Chudley-Elliott jump diffusion model. This research provided insights into the molecular-level understanding of protein hydration and its dynamics.
+scientific_discipline: Physics > Optics

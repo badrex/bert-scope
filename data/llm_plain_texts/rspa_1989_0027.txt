@@ -1,0 +1,10 @@
+article_id: rspa_1989_0027
+revised_title: 'Asymptotic Analysis of the Nonlinear Cahn-Hilliard Equation for Front Migration'
+semantic_tags:
+  - Nonlinear PDEs
+  - Cahn-Hilliard Equation
+  - Phase Separation
+  - Asymptotic Analysis
+  - Front Migration
+tldr: The author analyzes the nonlinear Cahn-Hilliard equation to describe the later stages of phase separation in a chemical mixture. They use matched asymptotic expansions to study the behavior of the solution on different timescales, focusing on the internal structure of transition layers and the migration of fronts. The results provide insights into the dynamics of phase separation and the role of interface motion in the process.
+scientific_discipline: Mathematics > Partial Differential Equations

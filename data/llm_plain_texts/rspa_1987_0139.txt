@@ -1,0 +1,10 @@
+article_id: rspa_1987_0139
+revised_title: Conformal Geodesics and their Applications in General Relativity
+semantic_tags:
+  - General Relativity
+  - Conformal Geodesics
+  - Conformal Structures
+  - Space-Time Curves
+  - Asymptotically Simple Solutions
+scientific_discipline: Physics > General Relativity
+tldr: The article discusses conformal geodesics, which are space-time curves related to conformal structures, and their applications in general relativity. The author introduces conformal normal coordinates and conformal Gauss coordinates, which are used to study asymptotically simple solutions of Einstein's field equations. Conformal geodesics are found to be useful in analyzing the behavior of physical geodesics near conformal infinity and provide a simple transition from the conformal to the physical description of space-time.

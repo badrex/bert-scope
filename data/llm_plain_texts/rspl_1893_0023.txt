@@ -1,0 +1,10 @@
+article_id: rspl_1893_0023
+revised_title: Investigating Magnetic Viscosity and Time Effects in Electromagnetic Induction
+semantic_tags:
+  - Electromagnetism
+  - Magnetic Viscosity
+  - Time Effects
+  - Hysteresis
+  - Alternating Currents
+tldr: This article presents experiments conducted by J. Hopkinson, E. Wilson, and F. Lydall to study magnetic viscosity and time effects in electromagnetic induction. They used a steel wire ring and alternating currents to observe the relationship between magnetizing force and induction. The results showed that a true time effect exists, which becomes more noticeable with higher frequencies, and that this effect is not due to the ballistic galvanometer. The findings contribute to the understanding of hysteresis and the behavior of magnetic materials under varying conditions.
+scientific_discipline: Physics > Electromagnetism

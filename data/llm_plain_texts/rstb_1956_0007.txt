@@ -1,0 +1,10 @@
+article_id: 'rstb_1956_0007'
+revised_title: 'Biology and Physics of Locust Flight: A Critical Review'
+semantic_tags:
+  - Insect flight
+  - Aerodynamics
+  - Kinematics
+  - Energetics
+  - Locusts
+tldr: This critical review examines the biology and physics of locust flight, focusing on the principles of insect flight and the mechanics and energetics of flight. The authors discuss the challenges in understanding the kinematics and dynamics of natural flapping flight and emphasize the importance of considering aerodynamic, inertial, and elastic factors in the energy account and regulation of power output. The study uses the desert locust, Schistocerca gregaria, as a model organism due to its economic importance and suitability for experimental studies.
+scientific_discipline: Biology > Zoology

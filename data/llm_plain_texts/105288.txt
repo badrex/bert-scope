@@ -1,0 +1,10 @@
+article_id: 105288
+revised_title: 'Investigation of the Fall of Water Under Bridges'
+semantic_tags:
+  - Fluid dynamics
+  - Hydraulics
+  - Bridge engineering
+  - Water flow
+  - River mechanics
+tldr: The author investigates the fall of water under bridges, particularly London and Westminster bridges, and provides a mathematical analysis of the problem. They explain the principles of water flow, velocity, and the effect of obstacles on the water's height and fall. The author's calculations show that the fall under London Bridge is 4 feet 9 inches and under Westminster Bridge is about 1 inch.
+scientific_discipline: Environmental and Earth Sciences > Hydraulics

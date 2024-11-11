@@ -1,0 +1,10 @@
+article_id: rspa_1979_0071
+revised_title: 'Cracking and Splitting Behavior of Glass and Carbon Fiber Reinforced Epoxy Cross Ply Laminates'
+semantic_tags:
+  - Composite Materials
+  - Mechanics of Materials
+  - Fiber Reinforced Polymers
+  - Tensile Testing
+  - Fracture Mechanics
+tldr: This study investigates the transverse cracking and longitudinal splitting behavior of glass and carbon fiber reinforced epoxy cross ply laminates, focusing on the effects of Poisson and thermally generated strain. The research includes experimental results and energetics arguments to explain the observed behavior and predict both transverse cracking and longitudinal splitting behavior in these composites.
+scientific_discipline: Materials Science > Composite Materials

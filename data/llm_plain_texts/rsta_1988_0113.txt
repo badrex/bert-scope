@@ -1,0 +1,10 @@
+article_id: 'rsta_1988_0113'
+revised_title: 'Asymmetric Synthesis via Chiral Transition Metal Auxiliaries: Applications and Future Prospects'
+semantic_tags:
+  - Organometallic Chemistry
+  - Asymmetric Synthesis
+  - Transition Metal Auxiliaries
+  - Chiral Catalysts
+  - Stereochemistry
+tldr: The article discusses the influence of organometallic chemistry on asymmetric synthesis, focusing on the use of chiral transition metal auxiliaries to control the stereochemistry of reactions. The author demonstrates the potential of chiral iron acyl reagents and arene chromium tricarbonyl complexes in synthesizing enantiomerically pure organic molecules. The article also highlights the development of new synthetic methods and the application of these techniques in the synthesis of various compounds, including captopril, a widely used angiotensin-converting enzyme inhibitor.
+scientific_discipline: Chemistry > Organometallic Chemistry

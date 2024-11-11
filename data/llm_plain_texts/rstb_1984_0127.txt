@@ -1,0 +1,10 @@
+article_id: 'rstb_1984_0127'
+revised_title: 'Regulated Expression of P-Globin Genes in Murine Erythroleukemia Cells'
+semantic_tags:
+  - Gene expression
+  - DNA sequences
+  - Globin genes
+  - Murine erythroleukemia cells
+  - Gene regulation
+tldr: The authors studied the DNA sequences required for the regulated expression of p-globin genes in murine erythroleukemia (MEL) cells. They found that human p-globin gene expression is regulated during MEL cell differentiation and that the regulatory DNA sequences are located both 5' and 3' to the translation initiation site.
+scientific_discipline: Biology and Life Sciences > Genetics and Molecular Biology

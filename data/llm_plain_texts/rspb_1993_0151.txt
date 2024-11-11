@@ -1,0 +1,10 @@
+article_id: 'rspb_1993_0151'
+revised_title: 'Spectral Shift in Squid Rhodopsins and its Molecular Basis'
+semantic_tags:
+  - 'Squid Rhodopsins'
+  - 'Molecular Biology'
+  - 'Visual Pigments'
+  - 'Amino Acid Sequence'
+  - 'Spectral Tuning'
+tldr: The authors examined the molecular basis of spectral tuning in the rhodopsins of two squid species from different photic environments. They found a 5 nm red shift in the rhodopsin extracts from Alloteuthis subulata compared to Loligo forbesi. The study revealed that a substitution at a specific site in the amino acid sequence of the opsin protein is responsible for the spectral shift. This discovery helps understand how visual pigments adapt to different light environments and contributes to the study of molecular biology and visual perception.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

@@ -1,0 +1,10 @@
+article_id: rspa_1928_0180
+revised_title: Aerofoil Properties of Small Thickness
+semantic_tags:
+  - Aerodynamics
+  - Aerofoil design
+  - Fluid mechanics
+  - Lift and drag
+  - Wing thickness
+tldr: The author investigates the properties of aerofoils with small thickness, extending the work of Munk, Birnbaum, and Glauert. They find that thickness affects the lift and moment coefficients, and the center of pressure is displaced along the aerofoil. The study provides insight into the behavior of real-world wings with finite thickness.
+scientific_discipline: Engineering and Technology > Aerodynamics

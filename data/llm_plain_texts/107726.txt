@@ -1,0 +1,10 @@
+article_id: '107726'
+revised_title: 'Cape Town Observatory: Catalogue of Southern Stars and Observational Methods'
+semantic_tags:
+  - Astronomy
+  - Observational Astronomy
+  - Star Catalogs
+  - Cape Town Observatory
+  - Instrumentation
+tldr: The author, Fearon Fallows, describes the process of creating a star catalog for the southern hemisphere using a small wooden house converted into a temporary observatory in Cape Town. He provides a brief description of the instruments used, such as the transit instrument and altitude and azimuth circle, and explains the methods employed for obtaining accurate right ascensions and declinations of stars. This catalog and the methods described were intended to be useful when more extensive means of accomplishing the work with greater accuracy might be available.
+scientific_discipline: Astronomy > Observational Astronomy

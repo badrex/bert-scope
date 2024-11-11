@@ -1,0 +1,10 @@
+article_id: rspa_1958_0089
+revised_title: 'Application of Refractivity Measurements in Calculating Virial Coefficients'
+semantic_tags:
+  - Gas Refractivity
+  - Virial Coefficients
+  - Gas Polarization
+  - Lorenz-Lorentz Relation
+  - Gas Density
+scientific_discipline: Chemistry > Physical Chemistry
+tldr: The authors conducted precise measurements of the refractive index of ethylene and neopentane to calculate virial coefficients. They also discussed the use of the Rayleigh refractometer and its limitations. The study showed that inaccuracies in gas densities at low pressures significantly affect the Lorenz-Lorentz function, and the refractivity virial coefficients can be derived from theoretical considerations.

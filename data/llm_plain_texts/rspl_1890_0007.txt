@@ -1,0 +1,10 @@
+article_id: rspl_1890_0007
+revised_title: 'Vapour-Density Experiments on Bromine'
+semantic_tags:
+  - Vapour-Density
+  - Bromine
+  - Gas Laws
+  - Chemical Dissociation
+  - Experimental Chemistry
+tldr: The author conducted experiments to determine if bromine has a tendency to dissociate at low pressures and moderate temperatures. They used a modified Dumas method to measure the vapour-densities and found that bromine does not tend to form molecules with more than two atoms as the pressure decreases. The results indicate that there is no significant dissociation of bromine under the tested conditions, but further experiments are needed to explore dissociation at higher temperatures.
+scientific_discipline: Chemistry > Gas Laws and Chemical Dissociation

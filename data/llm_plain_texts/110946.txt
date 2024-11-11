@@ -1,0 +1,10 @@
+article_id: 110946
+revised_title: Generalizing Newton's Method for Finding Limits of Equations
+semantic_tags:
+  - Mathematics
+  - Calculus
+  - Newton's Method
+  - Equation Solving
+  - Universal Formula
+tldr: The author, Herbert Panmure Ribton, believes that by generalizing from successive inductions of equations, a more universal formula than Newton's Binomial could be found. This new formula would improve the method of finding the limits of the roots of equations.
+scientific_discipline: Mathematics > Calculus

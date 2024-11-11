@@ -1,0 +1,10 @@
+article_id: 'rspa_1973_0102'
+revised_title: 'Synthesis and Chemical Characterization of Intramolecularly Crosslinked Polystyrene Molecules'
+semantic_tags:
+  - Polymer Chemistry
+  - Crosslinking
+  - Polymer Synthesis
+  - Polymer Characterization
+  - Polystyrene
+tldr: The authors synthesized intramolecularly crosslinked polystyrene molecules with a narrow molecular weight distribution. They achieved this by controlled chloromethylation of anionic polystyrene, followed by reaction with butylamine and crosslinking with a diisocyanate in dilute solution. The number of crosslinks in each sample was determined by quantitative infrared studies. This research contributes to the understanding of polymer dimensions and properties.
+scientific_discipline: Chemistry > Polymer Chemistry

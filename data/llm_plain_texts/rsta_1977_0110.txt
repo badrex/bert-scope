@@ -1,0 +1,10 @@
+article_id: rsta_1977_0110
+revised_title: Crystallographic Shear Planes in Reduced Tungsten Trioxide: Elastic Strain Energy and Microstructure
+semantic_tags:
+  - Crystallography
+  - Tungsten Trioxide
+  - Crystallographic Shear Planes
+  - Elastic Strain Energy
+  - Microstructure
+tldr: The authors conducted calculations of the elastic strain energy of crystallographic shear planes in reduced tungsten trioxide, finding that the magnitude of the energy was in the sequence {103}. They compared these results with experimental observations of crystal structures containing quasi-ordered arrays of shear planes and found that the elastic strain energy plays a significant role in controlling the microstructure of these arrays.
+scientific_discipline: Materials Science > Crystallography

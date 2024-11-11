@@ -1,0 +1,10 @@
+article_id: rspa_1976_0150
+revised_title: Electronic Structure of HCP Electron Phases Based on Noble Metals
+semantic_tags:
+  - Electronic band structure
+  - HCP phases
+  - Noble metals
+  - Electronic heat capacity
+  - Density of states
+tldr: The authors conducted experiments on several h.c.p. intermediate phases in the systems Cu-Ge, Ag-Sn, and Ag-Cd, measuring their electronic specific heat coefficients and limiting Debye temperatures. The results conform to a general pattern that suggests a common nearly rigid band for the conduction electrons in h.c.p. phases based on noble metals. The density of states trends show a large peak in the range of electron concentration between 1.4 and 1.8, likely due to Fermi surface contacts with the {10.1} Brillouin zone planes and overlaps across the {10.0} and {00.2} zone planes.
+scientific_discipline: Physics > Materials Science

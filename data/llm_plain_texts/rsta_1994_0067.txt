@@ -1,0 +1,10 @@
+article_id: rsta_1994_0067
+revised_title: Multi-Factor Term Structure Models in Finance
+semantic_tags:
+  - Finance
+  - Term Structure Models
+  - Stochastic Calculus
+  - Interest Rates
+  - Financial Markets
+tldr: This article surveys multi-factor term structure models in finance, focusing on models with a finite-dimensional state-space representation. It discusses the use of continuous-time stochastic calculus in constructing and applying these models, particularly for managing interest-rate risk and understanding the process by which interest rates change over time. The article also explores single-factor and infinite-factor models, as well as the calibration and empirical comparisons of these models.
+scientific_discipline: Mathematics > Finance

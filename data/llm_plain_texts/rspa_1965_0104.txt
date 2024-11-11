@@ -1,0 +1,10 @@
+article_id: rspa_1965_0104
+revised_title: 'Massless Particle Representations and Zero-Mass Limits in Helicity Theory'
+semantic_tags:
+  - Particle Physics
+  - Quantum Field Theory
+  - Representation Theory
+  - Lorentz Group
+  - Helicity Representation
+tldr: The article explores the construction of unitary irreducible representations of the inhomogeneous Lorentz group for zero mass and finite or continuous spin. The authors use the little-group technique to derive these representations from the helicity representation for positive mass, demonstrating that the limits of the matrix elements of the helicity representation for mass and spin are the matrix elements constructed for zero mass and finite and continuous spin. This work has significant implications for the general theory of covariant wave equations for zero-mass systems.
+scientific_discipline: Physics > Particle Physics

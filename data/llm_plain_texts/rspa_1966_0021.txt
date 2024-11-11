@@ -1,0 +1,10 @@
+article_id: rspa_1966_0021
+revised_title: 'Time Dependence of Scintillation Intensity in Aromatic Materials: Theoretical Model and Experimental Interpretation'
+semantic_tags:
+  - Organic Scintillators
+  - Time-Dependent Scintillation
+  - Excitation Kinetics
+  - Diffusion Process
+  - Singlet and Triplet Excitations
+scientific_discipline: Chemistry > Organic Chemistry
+tldr: This article explores the time dependence of scintillation intensity in aromatic materials, focusing on the prompt and delayed components of light emission. The authors develop a theoretical model for the time dependence of scintillation emission, considering factors such as diffusion, singlet and triplet excitations, and bimolecular reactions. They also provide an experimental interpretation of pulse-shapes, allowing for a better understanding of the scintillation process.

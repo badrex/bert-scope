@@ -1,0 +1,10 @@
+article_id: rspa_1936_0041
+revised_title: Properties and Applications of Sufficiency in Statistical Estimation
+semantic_tags:
+  - Statistical inference
+  - Estimation theory
+  - Sufficient statistics
+  - Information theory
+  - Statistical methods
+tldr: This article discusses the concept of statistical information and properties of sufficiency in statistical estimation. It explains how the information available from a fraction of a distribution does not add to the information available from the remaining portion to give the information contained in the entire distribution. The article also explores the use of sufficient statistics and their importance in providing all the information in the sample for all values of a parameter.
+scientific_discipline: Mathematics > Statistics

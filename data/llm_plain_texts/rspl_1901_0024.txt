@@ -1,0 +1,10 @@
+article_id: rspl_1901_0024
+revised_title: 'Becquerel Rays Conductivity in Gases: Experiments and Findings'
+semantic_tags:
+  - Radioactivity
+  - Gas Conductivity
+  - Becquerel Radiation
+  - Gas Density
+  - Radium
+tldr: This paper presents experiments on the relative conductivities of gases under Becquerel radiation from various radioactive bodies. The author explains the conditions required to determine the constants involved and describes the methods used to measure the conductivity. The results show that both deflectable and undeflectable rays give relative conductivities nearly equal to the relative densities, but deflectable rays have slightly different conductivities. These findings are distinguished from Rontgen rays, which have much higher relative conductivities.
+scientific_discipline: Physics > Electromagnetism and Radiation

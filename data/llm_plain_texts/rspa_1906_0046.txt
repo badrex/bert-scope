@@ -1,0 +1,10 @@
+article_id: rspa_1906_0046
+revised_title: 'Continuous Currents from Magnetic Detectors: A New Method'
+semantic_tags:
+  - Electromagnetism
+  - Wireless communication
+  - Electric currents
+  - Magnetic detectors
+  - Hysteresis loss
+tldr: The author, L. H. Walter, developed a method to obtain continuous unidirectional currents from a magnetic detector of the self-restoring type. This method uses a magnetic mass undergoing reversals of magnetism in the magnetic field of the generator, which generates a unidirectional electromotive force (EMF). The generated EMFs are equal and opposite, resulting in a continuous unidirectional current during the time that oscillations act upon the magnetic mass. This discovery could improve telephonic reception and rapid recording work.
+scientific_discipline: Physics > Electromagnetism

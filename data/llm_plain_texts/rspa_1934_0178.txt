@@ -1,0 +1,10 @@
+article_id: 'rspa_1934_0178'
+revised_title: 'The Effect of Solute Nature on Aqueous Solution Compressibility'
+semantic_tags:
+  - Solution compressibility
+  - Aqueous solutions
+  - Solvent properties
+  - Chemical series
+  - Pressure effects
+tldr: This study investigates the compressibility of various aqueous solutions with different solutes, focusing on the relationship between the solute's chemical nature and its effect on the compressibility of water. The results show that when solutes have a close chemical relationship, their compressibility curves are more similar, while when there is no chemical relationship, the curves are more widely spaced. This suggests that the nature of the solute molecule has an impact on the compressibility of the solvent, water.
+scientific_discipline: Chemistry > Solution Chemistry

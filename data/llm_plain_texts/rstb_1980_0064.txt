@@ -1,0 +1,9 @@
+article_id: rstb_1980_0064
+revised_title: 'Nuclear Magnetic Resonance in Intact Biological Systems: Magic Angle Sample Spinning in Inhomogeneously Broadened Systems'
+semantic_tags:
+  - Nuclear Magnetic Resonance
+  - Magic Angle Sample Spinning
+  - Biological Membranes
+  - Bone Mineral Phases
+  - Chemical Shift Anisotropy
+tldr: This article discusses the use of nuclear magnetic resonance (NMR) techniques, specifically magic angle sample spinning (MAS), to obtain high-resolution spectra of complex biological systems. The authors demonstrate how MAS can be combined with dilute spin double resonance techniques to study biological membranes and bone mineral phases, providing valuable insights into their structure and composition. The technique allows for the extraction of shift anisotropies from sideband intensities, enabling the analysis of systems with inhomogeneous broadening, such as solid or semi-solid biological samples.

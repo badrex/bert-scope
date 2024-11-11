@@ -1,0 +1,10 @@
+article_id: 'rsta_1994_0080'
+revised_title: 'Self-Order and Form in Polymeric Materials: Self-Order in Flexible Non-Mesogenic Macromolecules'
+semantic_tags:
+  - Polymer Chemistry
+  - Liquid Crystals
+  - Polyorganosiloxanes
+  - Thermotropic Mesophases
+  - Molecular Structure
+tldr: This article discusses the self-ordering behavior of flexible, non-mesogenic macromolecules, specifically linear and cyclolinear polyorganosiloxanes. These materials can form thermodynamically stable thermotropic ordered phases with two-dimensional long-range order and short-range order along the chain direction. The article explores the influence of molecular structure, molecular mass, and side-chain length on the temperature stability and phase behavior of these materials.
+scientific_discipline: Chemistry > Polymer Chemistry

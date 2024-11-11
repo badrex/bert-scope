@@ -1,0 +1,10 @@
+article_id: 'rsta_1918_0010'
+revised_title: 'A Study of Spectral Series: The Structure of Spark Spectra'
+semantic_tags:
+  - Spectroscopy
+  - Atomic Physics
+  - Spark Spectra
+  - Wave-Number
+  - Linkages
+scientific_discipline: Physics > Atomic Physics
+tldr: This article investigates the structure of spark spectra, focusing on the spectra of silver (Ag) and gold (Au). The author discovers that the majority of spark lines are connected through linkages, which are sets of lines with constant differences in wave-numbers. These linkages are attached to related lines in the ordinary series. The study provides a better understanding of the underlying structure of spark spectra and the relationships between different lines within them.

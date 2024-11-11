@@ -1,0 +1,10 @@
+article_id: rspa_1948_0115
+revised_title: 'Critique of Fürt's Theory on Electrical Fluctuations'
+semantic_tags:
+  - Electrical fluctuations
+  - Noise theory
+  - Thermionic valves
+  - Statistical thermodynamics
+  - Nyquist's theorem
+tldr: The author critiques Fürt's theory on electrical fluctuations and challenges the application of Nyquist's theorem to thermionic valves under all operating conditions. The author also discusses the limitations of Fürt's analysis and the importance of considering the space-charge region of valve operation.
+scientific_discipline: Physics > Electrical Engineering

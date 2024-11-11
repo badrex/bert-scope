@@ -1,0 +1,10 @@
+article_id: 106120
+revised_title: 'A New Approach to Analyzing the Proportion of Space Covered by Circles and Interstices'
+semantic_tags:
+  - Geometry
+  - Mathematical Analysis
+  - Mathematical Modeling
+  - Optimal Arrangement
+  - Area Calculation
+tldr: The author presents a mathematical analysis of the arrangement of equal circles on a plane surface to determine the proportion of space covered by the circles and the space occupied by their interstices. The study focuses on the closest arrangement of circles and the impact of adding more rows and circles on the overall space distribution. The author demonstrates that when the number of rows and circles is infinitely large, the proportion of space covered by the circles to the space occupied by the interstices is constant.
+scientific_discipline: Mathematics > Geometry

@@ -1,0 +1,10 @@
+article_id: rspa_1935_0023
+revised_title: New Developments in Electromagnetic Field Theory
+semantic_tags:
+  - Electromagnetic Field Theory
+  - Quantum Mechanics
+  - Mathematical Physics
+  - Relativity Theory
+  - Projective Scalar Density
+tldr: The authors present a new field theory for the electromagnetic field, addressing the issue of self-energy of the electron. They introduce a line-element and potential, and derive the non-trivial field equations, leading to the conservation of projective divergence. This work expands on the previous theories of relativity and electromagnetic fields.
+scientific_discipline: Physics > Electromagnetic Theory

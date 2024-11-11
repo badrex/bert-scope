@@ -1,0 +1,10 @@
+article_id: rspa_1960_0156
+revised_title: 'Influence of Quenching on Order-Disorder Phenomena in α-Brass'
+semantic_tags:
+  - Materials Science
+  - Order-Disorder Phenomena
+  - Quenching
+  - Brass
+  - Vacancies
+tldr: The authors studied the transformation from disorder to partial order in α-brass by quenching and slow cooling. They found that specimens quenched from 600°C reordered rapidly below 160°C, while specimens quenched from 300°C had a slower reordering process. The different behavior after quenching from 600°C is attributed to a higher concentration of quenched-in vacancies. The results indicate that quenched-in vacancies and short-range order both contribute to the changes in properties of quenched α-brass.
+scientific_discipline: Materials Science > Order-Disorder Phenomena

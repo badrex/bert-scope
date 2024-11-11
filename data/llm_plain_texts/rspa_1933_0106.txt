@@ -1,0 +1,10 @@
+article_id: 'rspa_1933_0106'
+revised_title: 'Epidemic Modeling with Non-Specific Death Rates'
+semantic_tags:
+  - Epidemiology
+  - Disease Spread
+  - Mathematical Modeling
+  - Public Health
+  - Demography
+tldr: This article extends previous work on mathematical modeling of disease spread by introducing non-specific death rates. The authors analyze the effects of these rates on the steady state of the disease and the rate of disease incidence. They provide conditions for a steady state and discuss the impact of changes in immigration, birth, and death rates on disease spread.
+scientific_discipline: Social Sciences, Art, and Humanities > Epidemiology

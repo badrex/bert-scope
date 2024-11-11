@@ -1,0 +1,10 @@
+article_id: rsta_1995_0059
+revised_title: Investigating the Cohesion of Solid Magnesium and Calcium Oxide
+semantic_tags:
+  - Solid state chemistry
+  - Oxide ion
+  - Electron correlation
+  - Density functional theory
+  - Crystal geometry
+tldr: This article investigates the cohesive properties of solid magnesium and calcium oxide using a fully ionic description. The authors calculate the portions of the inter-ionic potential energy function that do not arise from electron correlation and describe the modifications of each anion wavefunction due to the crystalline environment. They use density functional theory to evaluate the contribution of electron correlation to the oxide-ion rearrangement energy. The results show that the lattice energies, closest equilibrium cation-anion separations, and bulk compressibilities for both magnesium and calcium oxide agree well with experimental values, with no significant covalent contribution to their cohesion.
+scientific_discipline: Chemistry > Solid state chemistry

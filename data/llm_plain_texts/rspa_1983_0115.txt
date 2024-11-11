@@ -1,0 +1,10 @@
+article_id: rspa_1983_0115
+revised_title: Quasi-Local Charges in Yang-Mills Theory: A New Approach
+semantic_tags:
+  - Yang-Mills Theory
+  - Gauge Theory
+  - Quasi-Local Charges
+  - Penrose's Quasi-Local Momentum
+  - Holomorphic Structures
+scientific_discipline: Physics > Gauge Theory
+tldr: The article introduces a definition of quasi-local charges in Yang-Mills theory, inspired by Penrose's quasi-local momentum in general relativity. The charges are defined through an endomorphism of a vector space of solutions to certain equations, and their eigenvalues represent the charges. The author also discusses the dimension of the vector space and provides an example using Lienard-Wiechert solutions.

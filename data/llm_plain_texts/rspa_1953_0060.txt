@@ -1,0 +1,10 @@
+article_id: rspa_1953_0060
+revised_title: Antiferromagnetic Properties of Mixed Cobalt and Manganese Oxides: Neel Temperatures and Ordering
+semantic_tags:
+  - Antiferromagnetism
+  - Mixed cobalt and manganese oxides
+  - Neel temperature
+  - Antiferromagnetic materials
+  - Solid solutions
+tldr: The authors studied the antiferromagnetic properties of mixed cobalt and manganese oxides, focusing on their Neel temperatures and ordering. They found that the observed Neel temperatures are linearly related to the atomic composition of the mixture. Neutron diffraction experiments showed that the magnetic ordering below the Neel temperature is of the second kind. The authors also discussed Anderson's molecular field theory of face-centered cubic antiferromagnetics and its application to mixed systems.
+scientific_discipline: Physics > Condensed Matter Physics

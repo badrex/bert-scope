@@ -1,0 +1,10 @@
+article_id: 'rspb_1958_0047'
+revised_title: 'The Relative Effects of Direct and Indirect Actions of Ionizing Radiations on Deoxyribonucleic Acid'
+semantic_tags:
+  - DNA damage
+  - Ionizing radiation
+  - Radiobiology
+  - Viscosity
+  - Molecular biology
+tldr: This study investigates the effects of direct and indirect actions of ionizing radiations on deoxyribonucleic acid (DNA). The researchers found that the number of ionizations required to damage DNA is approximately constant across different concentrations, indicating that both direct and indirect actions play a role in causing damage. The findings suggest that indirect effects become more important in dilute solutions, while direct effects dominate in more concentrated solutions. The study provides insights into the complex interactions between radicals and DNA, which can help in understanding the mechanisms of radiation damage and potential ways to mitigate it.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

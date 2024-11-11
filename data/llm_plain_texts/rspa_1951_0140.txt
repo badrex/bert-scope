@@ -1,0 +1,10 @@
+article_id: rspa_1951_0140
+revised_title: The Mechanics of Glacier and Ice-Sheet Flow
+semantic_tags:
+  - Glaciology
+  - Plasticity
+  - Ice deformation
+  - Glacier mechanics
+  - Ice-sheet dynamics
+tldr: The article presents a theoretical analysis of the flow of glaciers and ice-sheets as a problem in plasticity. The author assumes that ice has a constant yield stress and obeys the Levy-Mises equations of flow and either the Mises or Tresca criterion of yielding. The study calculates the stress and velocity distribution in a long slab of ice sliding down a rough slope and discusses the appearance of crevasses and shear faults in the context of the calculated stress distribution.
+scientific_discipline: Environmental and Earth Sciences > Glaciology

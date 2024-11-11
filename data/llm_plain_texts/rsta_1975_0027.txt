@@ -1,0 +1,10 @@
+article_id: rsta_1975_0027
+revised_title: 'Elastic Strain Influence on Superconductors' Magnetic Transition'
+semantic_tags:
+  - Superconductivity
+  - Thermodynamics
+  - Elasticity
+  - Phase transitions
+  - Magnetic fields
+tldr: This study investigates the magnetic transition in moderately small superconductors and the influence of elastic strain on them. The researchers conducted experiments on tin whiskers, measuring the onset of the superconducting phase transition as a function of temperature, magnetic field, and elastic strain up to 2%. They derived phase diagrams and analyzed the thermodynamic properties of the superconductors, verifying some of the Ehrenfest relations experimentally.
+scientific_discipline: Physics > Condensed Matter Physics

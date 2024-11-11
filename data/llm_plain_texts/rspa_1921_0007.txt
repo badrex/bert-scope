@@ -1,0 +1,10 @@
+article_id: rspa_1921_0007
+revised_title: Tidal Motion, Currents, and Energy in the Irish Sea
+semantic_tags:
+  - Tides
+  - Ocean currents
+  - Hydrodynamics
+  - Irish Sea
+  - Tidal energy
+tldr: This study investigates the tidal motion, currents, and energy in the Irish Sea. The authors apply Laplacian theory to derive results connecting tidal flow, free surface of the sea, and its rotation. They apply these relations to the Irish Sea and find a satisfactory agreement between theory and observation. The study also reveals a steady residual drift of water northwards and evaluates the mean rates of flow and energy transfer in the Irish Sea.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

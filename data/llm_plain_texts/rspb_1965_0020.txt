@@ -1,0 +1,10 @@
+article_id: 'rspb_1965_0020'
+revised_title: 'Electrophoresis and Characterization of Metagons in Paramecium aurelia'
+semantic_tags:
+  - 'Paramecium aurelia'
+  - 'Metagons'
+  - 'Electrophoresis'
+  - 'RNA'
+  - 'Ribosomes'
+tldr: Researchers conducted experiments to study the electrophoresis of extracts from Paramecium aurelia containing metagons. They found that metagons, which are gene-initiated cytoplasmic particles, can be separated using cellulose acetate paper electrophoresis. The potential biological activity of metagons remained throughout the process, and they were found to be initially associated with ribosomes but could be dissociated by electrophoresis in a low Mg2+ buffer. The base composition of the metagon-containing band was compared with the DNA of P. aurelia.
+scientific_discipline: Biology and Life Sciences > Genetics and Molecular Biology

@@ -1,0 +1,10 @@
+article_id: 'rstb_1993_0037'
+revised_title: 'Resolving the Controversy: Inhibitory Mechanism in Insect Movement Detection'
+semantic_tags:
+  - Insect Vision
+  - Movement Detection
+  - Neural Network
+  - Inhibition Mechanism
+  - Directional Selectivity
+tldr: The author investigates the elementary movement detection mechanism in insect vision, focusing on the nature of the nonlinear interaction between signals in adjacent points of the eye. The study disproves a hypothesis suggesting that only a facilitatory mechanism can account for the response of a fly wide-field movement-detecting neuron (HI) to sequential stimulation of a pair of adjacent photoreceptors. The research shows that the responses of a directionally selective movement-detecting neural network architecture, based on lateral inhibitory interactions, match the recorded responses of the fly HI neuron, supporting an inhibitory interaction mechanism.
+scientific_discipline: Biology and Life Sciences > Neurobiology

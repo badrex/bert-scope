@@ -1,0 +1,10 @@
+article_id: 'rspb_1954_0023'
+revised_title: 'Adaptation Mechanisms in Bacteria: Lactose Adaptation in E. Coli Mutabile'
+semantic_tags:
+  - Bacterial adaptation
+  - Lactose metabolism
+  - Microbiology
+  - Enzymatic adaptation
+  - Mutation theory
+tldr: The author investigates the adaptation of E. coli mutabile to lactose and finds that a large proportion of the bacterial population is potentially adaptable. The study challenges the mutation theory, which claims that a rare type of mutant is responsible for lactose adaptation, and supports the idea that an adaptive process occurs during the lag phase in a liquid medium.
+scientific_discipline: Biology and Life Sciences > Microbiology

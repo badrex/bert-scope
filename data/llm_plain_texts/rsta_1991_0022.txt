@@ -1,0 +1,10 @@
+article_id: rsta_1991_0022
+revised_title: Electronic Fluctuations and the van der Waals Metal: Bonding and Structure of Solids
+semantic_tags:
+  - Solid State Physics
+  - van der Waals Interactions
+  - Electromagnetic Fluctuations
+  - Metallic State
+  - Condensed Matter
+tldr: This article explores the role of electronic fluctuations in the bonding and structure of solids, particularly in the van der Waals metal. It introduces a reduced Hamiltonian to describe the metallic state and examines the effects of electromagnetic fluctuations on the cohesive properties of metals. The author emphasizes the importance of considering both bound and free charge fluctuations in understanding bonding, structure, and ordering in condensed matter.
+scientific_discipline: Physics > Solid State Physics

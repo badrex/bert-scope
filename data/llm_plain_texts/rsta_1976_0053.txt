@@ -1,0 +1,10 @@
+article_id: rsta_1976_0053
+revised_title: Materials Selection and High Temperature Mechanical Properties in Engineering Design
+semantic_tags:
+  - Materials Science
+  - Mechanical Properties
+  - Creep
+  - Fatigue
+  - Fracture Mechanics
+tldr: This article discusses the importance of considering high-temperature mechanical properties in materials selection for engineering design. It highlights the need for a better understanding of physical mechanisms and the development of constitutive equations to relate material behavior to component performance. The authors also emphasize the importance of incorporating biaxial and triaxial stress systems in design and testing.
+scientific_discipline: Engineering and Technology > Materials Science

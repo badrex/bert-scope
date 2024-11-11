@@ -1,0 +1,10 @@
+article_id: rspa_1950_0049
+revised_title: The Formation of a Blast Wave by a Very Intense Explosion: Theoretical Discussion
+semantic_tags:
+  - Blast wave
+  - Shock wave
+  - Nuclear explosion
+  - Atomic bomb
+  - Air pressure
+scientific_discipline: Physics > Fluid Dynamics
+tldr: This article discusses the theoretical formation of a blast wave by a very intense explosion, focusing on the propagation and decay of the blast wave in air. The author, Sir Geoffrey Taylor, analyzes the pressure, density, and radial velocity of the air and compares the results with experimental data. The study predicts that an atomic bomb would be only half as efficient as a high explosive in producing blast, due to the degradation of energy into heat.

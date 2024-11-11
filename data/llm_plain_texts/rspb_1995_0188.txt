@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0188'
+revised_title: 'Cell-specific Expression of the a9 n-ACh Receptor Subunit in Auditory Hair Cells'
+semantic_tags:
+  - 'Neuroscience'
+  - 'Cell Biology'
+  - 'Auditory System'
+  - 'Receptor Subunits'
+  - 'Single-cell RT-PCR'
+tldr: 'The study investigates the cell-specific expression of the a9 n-ACh receptor subunit in auditory hair cells using single-cell reverse transcription polymerase chain reaction (RT-PCR). The research finds that the a9 subunit is expressed in inner hair cells and outer hair cells, supporting the hypothesis that it contributes to calcium-permeable ionotropic ACh receptors.'
+scientific_discipline: Biology and Life Sciences > Neuroscience

@@ -1,0 +1,10 @@
+article_id: 'rspb_1980_0162'
+revised_title: 'D600's Mechanism of Action on Acetylcholine-Induced Channels'
+semantic_tags:
+  - Neuropharmacology
+  - Ion channels
+  - Neuromuscular junction
+  - Calcium channel blockers
+  - Acetylcholine receptors
+tldr: The article investigates the blocking action of D600 on acetylcholine-induced channels in frog endplates. D600, a calcium channel blocker, can be applied iontophoretically and rapidly blocks active channels. The blocking action persists for a long time, and the recovery process takes around 12-20 seconds. The study suggests that uncharged molecules of D600 enter the lipid phase of the membrane and bind to a site on the active ACh-receptor-channel complex, causing it to close rapidly.
+scientific_discipline: Biology and Life Sciences > Neurobiology

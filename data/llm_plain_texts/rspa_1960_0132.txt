@@ -1,0 +1,10 @@
+article_id: rspa_1960_0132
+revised_title: 'Doppler Broadening and Natural Width in Gamma-Ray Resonance'
+semantic_tags:
+  - Gamma-Ray Resonance
+  - Doppler Broadening
+  - Natural Width
+  - Electron Capture
+  - Resonance Scattering
+tldr: The authors conducted an experiment to study the resonance scattering of gamma-rays by moving a radioactive source on a high-speed rotor. They observed the resonance fluorescence intensity and compared it with a theoretical curve that took into account Doppler effects and thermal motions but neglected the natural line widths. The results showed that thermal broadening was dominant in restoring the resonance, while the line wing overlap was negligible. This study helps to understand the shape of gamma-ray lines and their applications in various fields.
+scientific_discipline: Physics > Nuclear Physics

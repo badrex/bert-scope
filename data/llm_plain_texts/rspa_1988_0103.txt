@@ -1,0 +1,10 @@
+article_id: rspa_1988_0103
+revised_title: Multisingularity and Scaling in Partial Differential Approximants
+semantic_tags:
+  - Partial Differential Equations
+  - Multisingularity
+  - Scaling
+  - Approximation Theory
+  - Critical Phenomena
+tldr: This article investigates the general form of the solution of the defining equation of partial differential approximants, focusing on the characteristic singularity structure. The authors analyze the intrinsic multisingularities and show that they obey asymptotic scaling, which is familiar in the theory of critical phenomena. They provide a practical numerical method for computing the characteristic properties of the dominant singularities, which are essential in many applications.
+scientific_discipline: Mathematics > Approximation Theory

@@ -1,0 +1,10 @@
+article_id: rspl_1904_0123
+revised_title: The Effect of Liquid Air Temperatures on Iron and Iron Alloys
+semantic_tags:
+  - Iron and Steel
+  - Cryogenics
+  - Material Science
+  - Alloy Properties
+  - Low Temperature Physics
+tldr: This article investigates the effects of liquid air temperatures on the mechanical properties of iron and its alloys. The experiments show that cooling iron to extremely low temperatures significantly increases its tensile strength while reducing its ductility. The findings also reveal that the brittleness caused by low temperatures is temporary and can be altered by adding other elements to the iron. The research confirms the importance of understanding the physical properties of metals at low temperatures for various applications.
+scientific_discipline: Materials Science > Iron and Steel Alloys

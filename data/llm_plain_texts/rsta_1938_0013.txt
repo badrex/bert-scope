@@ -1,0 +1,10 @@
+article_id: rsta_1938_0013
+revised_title: 'The Discovery and Analysis of Platinum's First Spark Spectrum'
+semantic_tags:
+  - Spectroscopy
+  - Plasma Physics
+  - Material Science
+  - Atomic Physics
+  - Physical Chemistry
+tldr: 'Researchers A. G. Shenstone and R. H. Fowler successfully analyze the first spark spectrum of platinum, providing valuable insights into the element's atomic structure and properties. They used a modified method to obtain high-quality spectra, and their findings contribute to the understanding of the behavior of heavy metals in various states of excitation.'
+scientific_discipline: Physics > Material Science

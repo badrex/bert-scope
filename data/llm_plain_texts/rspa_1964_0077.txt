@@ -1,0 +1,10 @@
+article_id: rspa_1964_0077
+revised_title: Cross-Section Calculations for Elastic Collisions of Slow Positrons by Hydrogen Atoms
+semantic_tags:
+  - Positron scattering
+  - Hydrogen atoms
+  - Cross-sections
+  - Integro-differential equations
+  - Virtual positronium formation
+tldr: The authors calculated cross-sections for the elastic collisions of slow positrons by hydrogen atoms using various approximations, including virtual positronium formation and polarization potential. They found that these approximations provided satisfactory results when compared to other methods. This study may help in understanding the relative importance of different effects in positron scattering and could be useful for dealing with slow collisions of positrons with other atoms.
+scientific_discipline: Physics > Atomic and Molecular Physics

@@ -1,0 +1,10 @@
+article_id: 'rstl_1880_0019'
+revised_title: 'Electromagnetic Theory of Light Reflection and Refraction'
+semantic_tags:
+  - Electromagnetic Theory
+  - Light Reflection
+  - Light Refraction
+  - Maxwell's Equations
+  - Optics
+tldr: The author presents an analysis of light reflection and refraction using Maxwell's electromagnetic theory. They derive equations for the transmission of light through different media and discuss the superficial conditions for reflection and refraction. The study focuses on non-conductive media and assumes magnetic isotropy, providing a foundation for further research in optics.
+scientific_discipline: Physics > Electromagnetism

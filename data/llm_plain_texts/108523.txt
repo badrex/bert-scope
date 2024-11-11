@@ -1,0 +1,10 @@
+article_id: 108523
+revised_title: 'Dynamical Problems and Differential Equations: Applications and Transformations'
+semantic_tags:
+  - Differential Equations
+  - Dynamical Problems
+  - Mathematical Physics
+  - Astronomy
+  - Astrophysics
+tldr: This article explores a class of differential equations and their applications in dynamical problems. It also discusses the transformation of these equations using the variation of elements and the transformation of differential equations in planetary theory. The author believes that a more rigorous and symmetric approach to physical astronomy could lead to new discoveries and collaborations between mathematicians and astronomers.
+scientific_discipline: Mathematics > Applied Mathematics

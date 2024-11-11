@@ -1,0 +1,10 @@
+article_id: 112042
+revised_title: On the Connection Between Differential Equations and Algebraic Equations
+semantic_tags:
+  - Differential Equations
+  - Algebraic Equations
+  - Mathematical Analysis
+  - George Boole
+  - Abstract Algebra
+tldr: The author investigates the relationship between differential equations and algebraic equations, specifically focusing on the differential equations that determine the form of the roots of algebraic equations. They explore the generalization of a particular type of differential equation and its connection to a large class of differential equations. The author also solves the general differential equation by definite integrals and determines the arbitrary constants of the solution.
+scientific_discipline: Mathematics > Abstract Algebra

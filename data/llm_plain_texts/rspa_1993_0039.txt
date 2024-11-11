@@ -1,0 +1,10 @@
+article_id: rspa_1993_0039
+revised_title: Elastodynamic Solutions for Anisotropic Media with Ellipsoidal Slowness Surfaces
+semantic_tags:
+  - Elasticity Theory
+  - Anisotropic Materials
+  - Elastodynamics
+  - Ellipsoidal Slowness Surfaces
+  - Orthorhombic Symmetry
+tldr: The authors investigate anisotropic elastic materials with ellipsoidal slowness surfaces, focusing on the conditions for orthorhombic symmetry and the properties of the eigenvalues and eigenvectors of the acoustical tensor. They find that these materials have a threefold classification and provide a method for constructing the fundamental, or Green's, tensor for an unbounded body.
+scientific_discipline: Mathematics > Applied Mathematics > Elasticity Theory

@@ -1,0 +1,10 @@
+article_id: rspa_1986_0064
+revised_title: Spinodal Equation for Polydisperse Polymer Solutions: A Simplified Approach
+semantic_tags:
+  - Polymer Chemistry
+  - Thermodynamics
+  - Polymer Solutions
+  - Free-Energy Functions
+  - Spinodal Equations
+tldr: This article presents a simplified approach to the spinodal equation for polydisperse polymer solutions. The authors prove a spinodal theorem that allows for the investigation of a matrix without the need to transition to a spinodal equivalent distribution, simplifying the process of studying thermodynamic stability in polymer solutions.
+scientific_discipline: Chemistry > Polymer Chemistry

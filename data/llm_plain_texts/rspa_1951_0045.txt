@@ -1,0 +1,10 @@
+article_id: 'rspa_1951_0045'
+revised_title: 'Dielectric Constant Method for Studying Polymerization Rates and Radical Lifetimes'
+semantic_tags:
+  - Polymerization
+  - Dielectric constant
+  - Radical lifetimes
+  - Chemical kinetics
+  - Polymer chemistry
+tldr: The authors used a dielectric constant method to study the non-stationary state in polymerization, focusing on the polymerization of styrene, vinyl acetate, methyl acrylate, and butyl acrylate. They determined the rates of polymerization and radical lifetimes for these monomers. The results showed that the rate of reaction reached a constant value within 0.1 seconds, and the kinetic lifetime was less than 0.1 seconds. The authors also found that the rate of reaction was proportional to the square root of the light intensity, indicating the absence of inhibitor termination.
+scientific_discipline: Chemistry > Polymer chemistry

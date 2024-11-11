@@ -1,0 +1,10 @@
+article_id: rspa_1952_0055
+revised_title: Magnetic Properties of Metals: Large Systems and General Introduction
+semantic_tags:
+  - Magnetic susceptibility
+  - Quantum theory
+  - Diamagnetism
+  - Fermi-Dirac statistics
+  - Electron gas
+scientific_discipline: Physics > Condensed Matter Physics
+tldr: The article discusses the magnetic properties of large systems of electrons in metals, focusing on the general introduction and properties of these systems. It explores the magnetic susceptibility, diamagnetism, and the influence of factors such as electron spin, lattice field, and the finite size of the system on the behavior of electrons in metals. The article also compares the magnetic properties of large systems with those of small systems and intermediate systems.

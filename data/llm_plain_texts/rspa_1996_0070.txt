@@ -1,0 +1,10 @@
+article_id: rspa_1996_0070
+revised_title: 'A Study of Self-Exciting Single-Disk Homopolar Dynamos: Theory and Applications'
+semantic_tags:
+  - Dynamo Theory
+  - Geomagnetic Field
+  - Nonlinear Dynamics
+  - Chaotic Systems
+  - Electromechanical Systems
+tldr: The authors study two novel self-exciting single-disk homopolar dynamos, one with a capacitor and the other with a motor in series with the coil. They analyze the behavior of these systems, including their sensitivity to initial conditions, and find that they can exhibit periodic and chaotic oscillations. The dynamos can be used as analogues in the study of phenomena in geophysical fluid dynamics, such as the Earth's main geomagnetic field and the El Niño-Southern Oscillation.
+scientific_discipline: Physics > Electromagnetism

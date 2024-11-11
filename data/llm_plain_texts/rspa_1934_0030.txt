@@ -1,0 +1,10 @@
+article_id: rspa_1934_0030
+revised_title: Neutron Production and Heavy Hydrogen Isotope Bombardment
+semantic_tags:
+  - Nuclear Physics
+  - Neutron
+  - Heavy Hydrogen
+  - Isotope
+  - Atomic Structure
+tldr: The authors conducted experiments to test whether neutrons are produced when heavy water (containing a significant amount of diplogen) is bombarded by fast particles. They found that the efficiency of neutron production in heavy water is significantly lower than in beryllium. The results suggest that the breaking up of a diplon into a proton and a neutron is a rare occurrence under their experimental conditions.
+scientific_discipline: Physics > Nuclear Physics

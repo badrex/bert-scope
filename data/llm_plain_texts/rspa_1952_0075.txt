@@ -1,0 +1,10 @@
+article_id: rspa_1952_0075
+revised_title: Multi-Oscillator Processes in Neutron Scattering by Crystals
+semantic_tags:
+  - Neutron scattering
+  - Crystal lattice
+  - Phonon
+  - Cross-sections
+  - Magnesium and Nickel
+tldr: The authors investigated the scattering of slow neutrons by crystals, focusing on nickel and magnesium. They expanded on Weinstock's theory by considering multi-oscillator processes, where the neutron exchanges more than one phonon with the crystal lattice. The results showed that the calculated cross-sections for these processes agreed with experimental data within 4%, providing a more accurate understanding of neutron scattering in crystals.
+scientific_discipline: Physics > Condensed Matter Physics

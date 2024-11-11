@@ -1,0 +1,10 @@
+article_id: rspa_1979_0058
+revised_title: Precise Positioning of Galactic X-ray Sources
+semantic_tags:
+  - X-ray astronomy
+  - Galactic X-ray sources
+  - Positional analysis
+  - Ariel 5 r.m.c.
+  - Satellite attitude determination
+tldr: The author presents a method for determining precise positions of galactic X-ray sources using the Ariel 5 rotation modulation collimator (r.m.c.) experiment. The r.m.c. allows for accurate positioning of X-ray sources, which is essential for identifying optical counterparts in the region of the galactic center. The author describes the data analysis process, including the use of benchmark sources to determine satellite attitude and the development of a 'hill-climbing' technique for detecting weaker sources. The results of this study contribute to a better understanding of the positions and properties of galactic X-ray sources.
+scientific_discipline: Environmental and Earth Sciences > Astronomy

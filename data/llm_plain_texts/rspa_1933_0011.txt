@@ -1,0 +1,10 @@
+article_id: rspa_1933_0011
+revised_title: 'Photosensitization of Hydrogen and Oxygen Combustion by Nitrogen Peroxide'
+semantic_tags:
+  - Chain reactions
+  - Photochemistry
+  - Combustion
+  - Nitrogen peroxide
+  - Sensitization
+tldr: The authors studied the reaction between hydrogen and oxygen, which is a chain reaction. They found that nitrogen peroxide can act as a catalyst for this reaction, but only within specific pressure limits. The reaction is also influenced by light, as it can be photosensitized by nitrogen peroxide. This research helps to understand the conditions that can lead to explosive reactions between hydrogen and oxygen.
+scientific_discipline: Chemistry > Chemical kinetics

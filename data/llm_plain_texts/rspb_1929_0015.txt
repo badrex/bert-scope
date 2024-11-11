@@ -1,0 +1,10 @@
+article_id: 'rspb_1929_0015'
+revised_title: 'Titration Curves of Amino-Acids in Presence of Formaldehyde'
+semantic_tags:
+  - Biochemistry
+  - Amino-acids
+  - Titration
+  - Acid-base equilibrium
+  - Formaldehyde
+tldr: The authors conducted a study on the effect of varying formaldehyde concentration on the acid-base equilibrium and titration curves of amino-acids. They found that the addition of formaldehyde to amino-acids increases their acidity, which is the basis of the Sorensen method for their estimation by titration with soda. The study also provided evidence in support of the "zwitterion" theory of amino-acid structure and explored the use of titration dissociation constants for calculating the titration curves of amino-acids.
+scientific_discipline: Chemistry > Biochemistry

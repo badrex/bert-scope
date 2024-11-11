@@ -1,0 +1,10 @@
+article_id: rspa_1977_0175
+revised_title: 'Unified Theory of Metastability and Tensile Strength of Liquids'
+semantic_tags:
+  - Metastability
+  - Phase transitions
+  - Tensile strength
+  - Nucleation
+  - Equilibrium theory
+tldr: The authors combine the nucleation and equilibrium approaches to study the tensile strength of liquids, concluding that the predicted tensile strength is insensitive to the time of the experiment. They analyze various experimental methods and discuss the limitations of each. The results show substantial agreement between the theoretical predictions and experimental data, with the tensile strength of water ranging between 250 and 500 atmospheres.
+scientific_discipline: Physics > Materials Science

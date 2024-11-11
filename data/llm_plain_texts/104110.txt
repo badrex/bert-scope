@@ -1,0 +1,10 @@
+article_id: '104110'
+revised_title: 'Navigational Observations and Variation during a Voyage from Java Head to St. Hellena'
+semantic_tags:
+  - Navigation
+  - Geomagnetism
+  - Astronomy
+  - Nautical science
+  - Latitude and Longitude
+tldr: 'This article presents observations of latitude and variation taken on board the Hartford during its voyage from Java Head to St. Hellena. Edmund Halley, the author, records various measurements of latitude and magnetic variation, which were crucial for navigation during that time. These observations helped improve the understanding of geomagnetism and contributed to the development of nautical science.'
+scientific_discipline: 'Environmental and Earth Sciences > Geomagnetism'

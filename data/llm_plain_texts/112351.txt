@@ -1,0 +1,10 @@
+article_id: 112351
+revised_title: 'Discovery of the Lightning Spectrum and its Characteristics'
+semantic_tags:
+  - Atmospheric Electricity
+  - Lightning Phenomenon
+  - Spectroscopy
+  - Astronomy
+  - Chemistry
+tldr: The author, John Herschel, observed the spectrum of lightning and discovered a continuous spectrum crossed by numerous bright lines. He found that the relative intensities of these lines and the continuous spectrum varied in different lightning flashes. The most prominent line was identified as the nitrogen line, similar to that found in nebulae by Mr. Huggins. The study of the lightning spectrum provided insights into the chemical composition and characteristics of lightning.
+scientific_discipline: Physics > Atmospheric Electricity

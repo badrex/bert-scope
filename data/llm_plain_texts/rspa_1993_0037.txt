@@ -1,0 +1,10 @@
+article_id: rspa_1993_0037
+revised_title: 'Symmetry Considerations in the Agmon Spectral Function for Molecular Hamiltonians'
+semantic_tags:
+  - Quantum Mechanics
+  - Spectral Analysis
+  - Agmon Spectral Function
+  - Symmetry in Physics
+  - Schrodinger Operators
+tldr: The authors introduce the Agmon spectral function with symmetry considerations for molecular Hamiltonians. They show that this function is symmetric for an n-body Schrodinger operator restricted to a subspace of prescribed symmetry and demonstrate how it can be used to obtain criteria for the finiteness and infiniteness of bound states of polyatomic systems.
+scientific_discipline: Physics > Quantum Mechanics

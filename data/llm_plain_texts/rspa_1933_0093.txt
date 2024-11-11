@@ -1,0 +1,10 @@
+article_id: rspa_1933_0093
+revised_title: 'Polishing and its Effects on Metal Surfaces'
+semantic_tags:
+  - Surface finishing
+  - Metal polishing
+  - Crystal structure
+  - Electron diffraction
+  - Refractive index
+tldr: The authors study the process of polishing metals and its effects on the surface structure. They use electron diffraction to observe changes in the crystal structure of metals during the polishing process. The results show that polishing blurs the sharp rings in the diffraction pattern, indicating that the large crystals are broken into smaller ones. The authors also discuss the formation of the Beilby layer, a super-cooled liquid-like layer that forms on the metal surface during polishing.
+scientific_discipline: Physics > Materials Science

@@ -1,0 +1,10 @@
+article_id: '111649'
+revised_title: 'Investigation of Metal Expansion in Pure and Alloyed States'
+semantic_tags:
+  - Metal Expansion
+  - Alloy Composition
+  - Thermal Expansion
+  - Material Science
+  - Purity of Metals
+tldr: The authors conducted experiments to determine the rate of expansion of pure metals and alloys. They found that the expansion rates varied significantly depending on the purity of the metals and the molecular state of the materials. The study highlights the importance of using pure metals for accurate expansion measurements and demonstrates the influence of molecular state on thermal expansion and conductivity.
+scientific_discipline: 'Engineering and Technology > Material Science'

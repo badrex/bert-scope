@@ -1,0 +1,10 @@
+article_id: rspa_1978_0071
+revised_title: High-Temperature Raman Scattering in Fluorite Crystals
+semantic_tags:
+  - Raman scattering
+  - Fluorite crystals
+  - Anharmonicity
+  - High-temperature disorder
+  - Lattice dynamics
+tldr: This article presents experimental and theoretical studies of the effects of anharmonicity and high-temperature disorder on Raman scattering in fluorite crystals. The authors find that below a certain temperature, the position and shape of the Raman-active phonon can be explained by third- and fourth-order anharmonicity. At higher temperatures, additional scattering develops on the low-energy side of the phonon, which is accounted for by a theory of defect-induced scattering that considers both anion vacancies and interstitials.
+scientific_discipline: Physics > Optics

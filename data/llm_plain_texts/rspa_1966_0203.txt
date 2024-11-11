@@ -1,0 +1,10 @@
+article_id: rspa_1966_0203
+revised_title: 'Luminosity and Gravitational Lensing in Distant Galaxies'
+semantic_tags:
+  - Gravitational lensing
+  - Cosmology
+  - Galaxy luminosity
+  - Red shift
+  - Intergalactic matter
+tldr: This article discusses the effects of intergalactic matter and gravitational lensing on the apparent luminosity of distant galaxies. The authors derive a general formula that takes into account these corrections and applies it to the relationships between observables such as apparent magnitude, apparent diameter, red shift, and number count. The study shows that precise measurements of these relationships could lead to an independent determination of the ratio of intergalactic matter density to the total density, providing valuable information about the composition of the universe.
+scientific_discipline: Physics > Cosmology

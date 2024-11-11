@@ -1,0 +1,10 @@
+article_id: 'rspb_1950_0049'
+revised_title: 'Isolation and Identification of the Toxic Factor in Proteins Treated with Nitrogen Trichloride'
+semantic_tags:
+  - Toxicology
+  - Protein chemistry
+  - Methionine
+  - Nitrogen trichloride
+  - Animal nutrition
+tldr: The authors discovered that when proteins with high methionine content are treated with nitrogen trichloride, they become toxic to certain animals. They isolated and identified the toxic factor as a pure crystalline substance derived from methionine. This toxic factor is produced by the interaction of nitrogen trichloride with various proteins, including zein, gluten, and egg albumen, leading to symptoms like hysteria, aimless running, and epileptiform fits in animals.
+scientific_discipline: Chemistry > Toxicology

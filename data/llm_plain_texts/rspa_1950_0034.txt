@@ -1,0 +1,10 @@
+article_id: rspa_1950_0034
+revised_title: Supersonic Flow of Compressible Fluids in Axially Symmetric Tubes
+semantic_tags:
+  - Fluid Dynamics
+  - Supersonic Flow
+  - Compressible Fluids
+  - Axially Symmetric Tubes
+  - Potential Theory
+tldr: The authors study the supersonic flow of compressible fluids through axially symmetric tubes, focusing on irrotational flows with streamlines concave towards the axis. They explore the use of velocity potentials expressible as series of Bessel functions and discuss the limitations of linearized approaches in representing certain types of flows.
+scientific_discipline: Physics > Fluid Dynamics

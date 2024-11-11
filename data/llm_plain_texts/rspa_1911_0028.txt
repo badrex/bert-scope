@@ -1,0 +1,10 @@
+article_id: 'rspa_1911_0028'
+revised_title: 'Measurement of Specific Inductive Capacity of Water'
+semantic_tags:
+  - Dielectric materials
+  - Electromagnetism
+  - Capacitance
+  - Physics
+  - Electrostatics
+tldr: The author conducted experiments to measure the specific inductive capacity of water. They used a condenser and a cymometer to determine the dielectric capacity of water at different temperatures. The results showed that water has a high dielectric capacity, which is important for understanding its behavior in electrical circuits and other applications.
+scientific_discipline: Physics > Electromagnetism

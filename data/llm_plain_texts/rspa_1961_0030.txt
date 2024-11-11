@@ -1,0 +1,10 @@
+article_id: rspa_1961_0030
+revised_title: Temperature Variations of Magnetic Susceptibility in Transition Elements
+semantic_tags:
+  - Magnetic susceptibility
+  - Transition elements
+  - Temperature dependence
+  - Band theory of metals
+  - Diamagnetism
+tldr: The authors measured the magnetic susceptibility of several transition elements at various temperatures. They found that the generalization proposed by Kriessman and Callen regarding the temperature gradient of magnetic susceptibility alternating in sign in successive columns of the periodic table is not supported by their results. The findings are discussed in relation to the band theory of metals, and some generalizations about the d-band forms of the three transition metal series are made.
+scientific_discipline: Chemistry > Materials Science

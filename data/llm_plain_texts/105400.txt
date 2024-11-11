@@ -1,0 +1,10 @@
+article_id: 105400
+revised_title: 'A New Method for Summing Infinite Series'
+semantic_tags:
+  - Mathematics
+  - Infinite Series
+  - Mathematical Analysis
+  - Number Theory
+  - Calculus
+tldr: The author presents a new method for computing the sums of certain infinite series, which can be used to improve calculations in various branches of science. The method involves using fluents and applying the new technique to different series, leading to the discovery of new formulas and values for the series.
+scientific_discipline: Mathematics > Calculus

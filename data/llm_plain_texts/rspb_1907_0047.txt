@@ -1,0 +1,10 @@
+article_id: 'rspb_1907_0047'
+revised_title: 'The Time Taken for Impulses to Cross Synapses in the Frog's Spinal Cord'
+semantic_tags:
+  - Neurophysiology
+  - Reflexes
+  - Synaptic transmission
+  - Strychnine
+  - Frog
+tldr: This study measures the time it takes for an impulse to cross a synapse in the spinal cord of a frog. The researchers found that a single induction shock could only produce a reflex response in the gastrocnemius muscle when applied to the sciatic nerve of the same side. When the opposite sciatic nerve was stimulated, the response was only possible if the cord's excitability was raised by a drug like strychnine. The time difference between the two responses was affected by the drug and the circulation. The researchers suggest that their method of measuring cord-delay can help determine the number of synapses involved in a reflex and that there is usually one synapse in the same-side reflex and two in the crossed reflex.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

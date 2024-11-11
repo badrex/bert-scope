@@ -1,0 +1,10 @@
+article_id: rsta_1970_0067
+revised_title: Angular Distributions of Photoelectrons and Partial Photoionization Cross-Sections
+semantic_tags:
+  - Photoelectron spectroscopy
+  - Angular distribution
+  - Partial photoionization cross-sections
+  - Asymmetry factor
+  - Autoionization
+tldr: The authors present an experimental arrangement for measuring the angular distribution of photoelectrons and discuss the asymmetry factor, which uniquely describes the distribution. They also provide partial photoionization cross-sections for various wavelengths and analyze the effects of autoionization on the population of vibrational states.
+scientific_discipline: Physics > Optics

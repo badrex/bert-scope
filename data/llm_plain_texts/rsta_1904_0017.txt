@@ -1,0 +1,10 @@
+article_id: rsta_1904_0017
+revised_title: On the Integrals of Ellipsoidal Surface Harmonic Functions
+semantic_tags:
+  - Ellipsoidal Harmonics
+  - Mathematical Physics
+  - Applied Mathematics
+  - Partial Differential Equations
+  - Potential Theory
+tldr: The author explores the integrals of ellipsoidal surface harmonic functions, providing formulas for the coefficients and expressions for the functions. They discuss the properties and applications of these functions, including their use in potential theory and mathematical physics.
+scientific_discipline: Mathematics > Applied Mathematics

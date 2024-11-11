@@ -1,0 +1,10 @@
+article_id: rspa_1978_0068
+revised_title: Generalization of Wave Propagation Identities in Self-Adjoint and Hermitian Operators
+semantic_tags:
+  - Wave Propagation
+  - Self-adjoint Operators
+  - Hermitian Operators
+  - Differential Equations
+  - Electromagnetic Waves
+tldr: The author investigates general theorems related to wave propagation governed by self-adjoint and Hermitian self-adjoint differential operators of order 2r. They develop a theory that applies to various physical models, including fourth-order linear differential equations in the theory of electromagnetic waves in an ionosphere and isotropic gyrotational media. The study provides a deeper understanding of wave processes and the underlying mathematical structure.
+scientific_discipline: Mathematics > Linear Algebra

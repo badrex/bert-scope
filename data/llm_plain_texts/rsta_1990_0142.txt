@@ -1,0 +1,10 @@
+article_id: rsta_1990_0142
+revised_title: Elemental Trace Analysis of Surfaces and Interfaces: Techniques and Challenges
+semantic_tags:
+  - Surface Analysis
+  - Trace Element Analysis
+  - Secondary Ion Mass Spectrometry (SIMS)
+  - Quantitative Analysis
+  - Materials Science
+tldr: This article discusses the goals, accomplishments, and challenges of elemental trace analysis of surfaces and interfaces, focusing on the technique of secondary ion mass spectrometry (SIMS). The author presents a strategy for quantitative trace analysis using SIMS, addressing issues such as random and systematic errors, calibration with reference materials, and the potential of high-performance sector field instruments for technical materials analysis.
+scientific_discipline: Chemistry > Materials Science

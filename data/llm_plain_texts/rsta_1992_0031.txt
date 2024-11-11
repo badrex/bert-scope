@@ -1,0 +1,10 @@
+article_id: rsta_1992_0031
+revised_title: A Unified Approach to Room Temperature Calculation
+semantic_tags:
+  - Thermal Modeling
+  - Heat Transfer
+  - Building Physics
+  - Environmental Comfort
+  - Radiant Exchange
+tldr: This article presents a new approach to calculating room temperature by combining radiation and convection mechanisms. The author proposes a room index temperature that takes into account both air and radiant temperatures, providing a more accurate measure of thermal comfort in indoor spaces. The article also offers formulas for calculating heat needs based on comfort temperature.
+scientific_discipline: Environmental and Earth Sciences > Building Physics

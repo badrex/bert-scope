@@ -1,0 +1,10 @@
+article_id: rspa_1994_0144
+revised_title: 'Exploring the Self-Similar Structure of Turbulence through Wavelet Transform'
+semantic_tags:
+  - Turbulence
+  - Wavelet Transform
+  - Self-similarity
+  - Fractals
+  - Fluid Dynamics
+tldr: The authors introduce two new techniques based on the wavelet transform to analyze the self-similar structure of turbulence. The first method redefines the concept of 'eddy' using the Mexican Hat wavelet transform, allowing for a space-scale characterization of turbulence. The second method proposes a test for discriminating between local and global self-similarity based on successive averages of wavelet transforms. These techniques are applied to a high Reynolds number turbulence velocity signal, revealing insights into the nature of self-similarity at different scales of turbulence.
+scientific_discipline: Physics > Fluid Dynamics

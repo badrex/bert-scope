@@ -1,0 +1,10 @@
+article_id: 'rspb_1931_0057'
+revised_title: 'Investigating the Bioelectrical Properties of the Unfertilised Trout's Egg'
+semantic_tags:
+  - Electrochemistry
+  - Membrane potential
+  - Cell biology
+  - Trout egg
+  - Surface potential
+tldr: 'The author examines the potential difference across the surface of an unfertilised trout egg and compares its behavior to a negatively charged collodion membrane. The study explores the effects of changes in the composition and concentration of electrolytes in the surrounding medium on the potential difference. The findings reveal that the potential difference is a function of the state of the egg surface and the ionic difference in concentration between the interior of the cell and the external fluid.'
+scientific_discipline: Biology and Life Sciences > Cell Biology

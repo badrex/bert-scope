@@ -1,0 +1,10 @@
+article_id: 'rstb_1973_0013'
+revised_title: 'The Role of Electrogenic Sodium Pump in Vertebrate Smooth Muscle Physiology'
+semantic_tags:
+  - Smooth Muscle Physiology
+  - Acetylcholine
+  - Electrogenic Sodium Pump
+  - Membrane Potential
+  - Ileum Muscle
+tldr: The article discusses the effects of acetylcholine on the longitudinal muscle of the guinea-pig ileum, specifically the role of an electrogenic sodium pump. Intracellular recordings of membrane potential reveal that acetylcholine increases internal sodium and external potassium concentrations, stimulating the activity of the electrogenic sodium pump. This leads to an increased electrogenic contribution to the membrane potential, resulting in an after-hyperpolarization, a feature of the response to acetylcholine.
+scientific_discipline: Biology and Life Sciences > Smooth Muscle Physiology

@@ -1,0 +1,10 @@
+article_id: rspa_1967_0224
+revised_title: 'Calculation of n.m.r. Spin-Spin Coupling Constants in Ethylene'
+semantic_tags:
+  - Nuclear Magnetic Resonance (NMR)
+  - Spin-Spin Coupling
+  - Quantum Chemistry
+  - Molecular Orbital Theory
+  - Configuration Interaction
+tldr: The authors conducted a comparative study of various methods to calculate nuclear magnetic resonance (NMR) spin-spin coupling constants in ethylene. They found that semi-empirical methods were inadequate and that a self-consistent-field calculation with configuration interaction provided good agreement with experimental results. The study highlights the importance of considering electron correlation in accurate calculations of spin-spin coupling constants.
+scientific_discipline: Chemistry > Quantum Chemistry

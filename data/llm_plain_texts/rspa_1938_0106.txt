@@ -1,0 +1,10 @@
+article_id: rspa_1938_0106
+revised_title: 'Energy Loss of Penetrating Cosmic-Ray Particles in Copper: A Study of Absorption and Radiation'
+semantic_tags:
+  - Cosmic Rays
+  - Particle Physics
+  - Energy Loss
+  - Copper Absorption
+  - Radiation
+tldr: 'This article presents a study on the energy loss of penetrating cosmic-ray particles in copper. The authors conducted experiments using a cloud chamber and magnetic field to measure the energy loss and absorption properties of these particles. They found that the energy loss in copper is smaller than in lead, and the observed mean relative energy loss is small compared to the spread of individual values due to measurement errors. The authors compared their results with the theoretical values for classical electrons and discussed the distribution of energy losses for both classical and less absorbable particles.'
+scientific_discipline: Physics > Particle Physics

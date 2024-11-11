@@ -1,0 +1,10 @@
+article_id: rspa_1970_0081
+revised_title: Unusual Infrared Bands in Hydrogen Bonding in the Vapour Phase
+semantic_tags:
+  - Hydrogen bonding
+  - Infrared spectroscopy
+  - Molecular complexes
+  - Vibrational modes
+  - Hydrogen halides
+tldr: This article explores the unusual type of infrared bands observed in hydrogen bonding in the vapour phase. The authors studied association bands in mixtures of alkyl cyanides with hydrogen chloride or deuterium chloride and found that the vibration frequencies of the hydrogen bonds could be estimated. They also discovered that the excitation of the hydrogen halide stretching vibration leads to a shortening of the hydrogen bond, which has implications for understanding the behavior of molecular complexes in the gas phase.
+scientific_discipline: Chemistry > Spectroscopy

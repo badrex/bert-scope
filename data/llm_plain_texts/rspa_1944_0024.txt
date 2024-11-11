@@ -1,0 +1,10 @@
+article_id: rspa_1944_0024
+revised_title: 'Atomic Oxygen's Role in Combustion: Continuous Spectra in Flames'
+semantic_tags:
+  - Combustion
+  - Atomic oxygen
+  - Flame chemistry
+  - Spectroscopy
+  - Nitric oxide
+tldr: The authors discuss the causes and types of continuous spectra emitted by flames, emphasizing the role of atomic oxygen in combustion. They show that the yellow-green continuous spectrum in flames containing oxides of nitrogen is likely due to a reaction between nitric oxide and atomic oxygen. This discovery allows for testing the presence of atomic oxygen in a flame by introducing nitric oxide and observing yellow-green emission. The authors also explore the combustion mechanism using this knowledge.
+scientific_discipline: Chemistry > Chemical kinetics and reaction dynamics

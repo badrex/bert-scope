@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0011'
+revised_title: 'Glycosylation's Role in Functional Voltage-Activated Channels in Developing Neocortical Neurons'
+semantic_tags:
+  - Neuronal development
+  - Glycosylation
+  - Voltage-activated channels
+  - Neocortical neurons
+  - Tunicamycin
+tldr: The study investigates the effects of tunicamycin, an inhibitor of protein N-glycosylation, on voltage-activated currents in cultured neocortical neurons from rat embryos. The results show that N-linked carbohydrate attachment is essential for the functional expression of voltage-operated channels during the early stages of nerve cell growth in culture, while channels in mature neurons become less dependent on glycosylation.
+scientific_discipline: Biology and Life Sciences > Neuroscience

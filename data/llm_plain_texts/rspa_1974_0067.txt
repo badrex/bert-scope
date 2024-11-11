@@ -1,0 +1,10 @@
+article_id: rspa_1974_0067
+revised_title: The Controversy on the Torque on a Magnet in a Permeable Fluid
+semantic_tags:
+  - Magnetism
+  - Electromagnetism
+  - Magnetic torque
+  - Magnetic materials
+  - Permeability
+tldr: The author investigates the controversy surrounding the torque on a magnet immersed in a permeable fluid. They provide a simple and unambiguous calculation of the torque and discuss why other calculations give incorrect answers. The study focuses on a soft ellipsoidal magnet and its field distribution in a permeable medium, resolving the ongoing debate on the correct formulation for the torque on a magnet.
+scientific_discipline: Physics > Electromagnetism

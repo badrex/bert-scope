@@ -1,0 +1,10 @@
+article_id: rspa_1966_0073
+revised_title: 'Electronic States of Mixed Molecular Crystals: Application to Naphthalene and Deuteronaphthalenes'
+semantic_tags:
+  - Mixed molecular crystals
+  - Naphthalene
+  - Deuteronaphthalenes
+  - Exciton band structure
+  - Spectral properties
+scientific_discipline: Chemistry > Spectroscopy
+tldr: The authors studied the electronic states of mixed molecular crystals, specifically naphthalene and deuteronaphthalene, and applied their theory to mixed crystals of these compounds. They calculated the exciton band structure and properties of dilute mixed crystals, finding that the polarized transition is at the bottom of the exciton band. Their results agree with experimental findings, supporting the octupole-octupole coupling mechanism for interpreting the crystal spectrum.

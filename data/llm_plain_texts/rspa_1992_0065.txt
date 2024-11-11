@@ -1,0 +1,10 @@
+article_id: rspa_1992_0065
+revised_title: Rigorous Treatment of Berry's Smoothing Result for Stokes Discontinuities
+semantic_tags:
+  - Asymptotic Analysis
+  - Differential Equations
+  - Stokes Phenomenon
+  - Mathematical Physics
+  - Resummation of Divergent Series
+tldr: The author provides a rigorous proof for Berry's smoothing result, which explains how the change in coefficients of an analytic function with two asymptotic forms takes place. This result is important for understanding the behavior of functions with discontinuous coefficients in sectors of the complex plane.
+scientific_discipline: Mathematics > Asymptotic Analysis

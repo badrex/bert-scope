@@ -1,0 +1,10 @@
+article_id: 'rspb_1974_0065'
+revised_title: 'Phosphotransferase-mediated Syntheses of Fructose 1-Phosphate and Fructose 6-Phosphate in Escherichia Coli Growth on Fructose'
+semantic_tags:
+  - Metabolism
+  - Microbiology
+  - Fructose
+  - Enzymes
+  - Escherichia Coli
+tldr: The article investigates the role of phosphotransferase-mediated syntheses of fructose 1-phosphate and fructose 6-phosphate in the growth of Escherichia coli on fructose. The authors describe the isolation and properties of mutants impaired in a component of the phosphotransferase system, PtsP, and PtsX, which affect the utilization of fructose in the bacteria. The study provides evidence for two routes through which external fructose can be utilized by and transformed to fructose 1,6-diphosphate in E. coli.
+scientific_discipline: Biology and Life Sciences > Microbiology

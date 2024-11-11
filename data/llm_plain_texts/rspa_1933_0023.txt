@@ -1,0 +1,10 @@
+article_id: rspa_1933_0023
+revised_title: 'Internal Conversion of Beta-Rays and Nuclear Level Systems of Thorium B and C Bodies'
+semantic_tags:
+  - Nuclear Physics
+  - Beta Decay
+  - Nuclear Level Systems
+  - Thorium Decay
+  - Internal Conversion Coefficients
+tldr: The authors investigate the internal conversion of beta-rays and nuclear level systems of thorium B and C bodies. They use the relativistic wave equation of Dirac to calculate internal conversion coefficients and find that most rays' coefficients lie on two curves, one for dipole radiation and one for quadrupole radiation. The authors also analyze the level system of thorium C and discuss the importance of understanding internal conversion coefficients for classifying beta-ray spectra.
+scientific_discipline: Physics > Nuclear Physics

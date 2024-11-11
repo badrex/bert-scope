@@ -1,0 +1,10 @@
+article_id: rspa_1960_0045
+revised_title: 'Solvent Effects on Infra-Red Group Frequencies: A Discussion on the Influence of Molecular Polarity and Local Association'
+semantic_tags:
+  - Molecular spectroscopy
+  - Solvent effects
+  - Infra-red group frequencies
+  - Molecular polarity
+  - Local association
+tldr: The authors studied the effects of solvents on infra-red group frequencies and found that solvent effects on molecular energy levels are primarily due to local association rather than dielectric constant factors. They also discovered that molecular polarity and bond polarity play a significant role in determining the sensitivity of molecules to solvent effects.
+scientific_discipline: Chemistry > Spectroscopy

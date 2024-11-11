@@ -1,0 +1,10 @@
+article_id: 110350
+revised_title: Acoustic Figures and Vibrating Surfaces
+semantic_tags:
+  - Acoustics
+  - Vibration
+  - Chladni figures
+  - Sound waves
+  - Elasticity
+tldr: The author, Charles Wheatstone, studied the figures created by strewing sand on vibrating surfaces, also known as acoustic figures. He proposed a notation system for expressing these figures and discussed the different modes of vibration in square plates. He also explored the figures obtained on plates with varying degrees of elasticity and described optical methods to represent these figures.
+scientific_discipline: Physics > Acoustics

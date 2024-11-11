@@ -1,0 +1,10 @@
+article_id: rspa_1991_0072
+revised_title: Robust Nonlinear Control of Non-isothermal Continuous Stirred Tank Reactor
+semantic_tags:
+  - Nonlinear Control
+  - Robust Control
+  - Non-isothermal Reactor
+  - Adaptive Control
+  - Nonlinear Dynamics
+tldr: The authors present a new method for robust control of nonlinear systems, focusing on a non-isothermal continuous stirred tank reactor. They combine nonlinear internal model control (1MC) with an adaptive controller to improve performance and maintain stability in the presence of multistationarity and unstable solutions. This approach demonstrates excellent servo and regulatory control capabilities, even with deterministic and stochastic disturbances and modeling errors.
+scientific_discipline: Engineering and Technology > Control Systems

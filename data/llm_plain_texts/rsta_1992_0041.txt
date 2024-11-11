@@ -1,0 +1,10 @@
+article_id: rsta_1992_0041
+revised_title: 'Energetic Materials: Shock Discontinuity Zone Effect and Explosive Decomposition Detonation Process'
+semantic_tags:
+  - Energetic materials
+  - Shock discontinuity zone
+  - Explosive decomposition
+  - Detonation process
+  - Condensed explosives
+tldr: The article presents a new conception of the detonation mechanism in condensed explosives, which consists of two stages: non-equilibrium and equilibrium. The non-equilibrium stage occurs inside the detonation wave shock front, where the high rate of loading leads to the excitation and destruction of complex explosive molecules. This process results in the creation of active particles that govern the explosive detonation decomposition during the equilibrium stage. The weak dependence of the detonation decomposition time for condensed explosives on pressure is explained by the low activation energy and the shock front effect, which causes the unusual destruction of aromatic compounds.
+scientific_discipline: Physics > Materials Science

@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0142'
+revised_title: 'Auditory Processing in Dyslexia: A Focus on Temporal Coding'
+semantic_tags:
+  - Dyslexia
+  - Auditory processing
+  - Temporal coding
+  - Neural discharges
+  - Brainstem nuclei
+tldr: The study investigates auditory temporal coding in dyslexic adults and reveals a low-level auditory impairment traceable to the brainstem nuclei. Dyslexics were found to be selectively impaired in tasks that rely on decoding neural discharges phase-locked to the fine structure of the stimulus, demonstrating a potential underlying issue in their ability to process auditory information. This research challenges the belief that dyslexia results from impaired linguistic processing and highlights the need for further investigation into potential interventions for dyslexic individuals.
+scientific_discipline: Psychology > Cognitive Psychology

@@ -1,0 +1,10 @@
+article_id: rspa_1961_0222
+revised_title: 'Shear Flow Analysis in Aerofoil Cascades'
+semantic_tags:
+  - Fluid Dynamics
+  - Aerofoil Design
+  - Shear Flow
+  - Cascade Theory
+  - Aerodynamics
+tldr: This article investigates an inviscid shear flow through a cascade of aerofoils spanning two parallel plane walls, using thin aerofoil theory. The study focuses on the spanwise distribution of lift coefficient, flow features far downstream from the cascade, and induced drag due to non-uniform lift distribution. The authors provide a theoretical analysis with numerical examples, contributing to the understanding of non-uniform flow through cascades of lifting surfaces.
+scientific_discipline: Engineering and Technology > Fluid Dynamics

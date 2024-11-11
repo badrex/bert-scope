@@ -1,0 +1,10 @@
+article_id: 'rspb_1994_0156'
+revised_title: 'Kin Selection and Virulence in the Evolution of Protocells and Parasites'
+semantic_tags:
+  - Evolutionary Biology
+  - Kin Selection
+  - Parasite Virulence
+  - Protocells
+  - Symbiosis
+tldr: The author analyzes the tradeoff between competitiveness, virulence, and horizontal transmission in the evolution of protocells and parasites. Kin selection plays a significant role in these processes, as genetic relatedness within hosts influences the competition among genotypes for resources and the evolution of transmission rates. The study provides insights into the origin of cooperative genomes and the balance between cooperation and competition in early cellular evolution.
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

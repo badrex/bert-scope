@@ -1,0 +1,10 @@
+article_id: rspa_1925_0084
+revised_title: High-Pressure Gaseous Combustion: Explosion of Hydrogen-Air and Carbon Monoxide-Air Mixtures
+semantic_tags:
+  - Combustion
+  - High-pressure experiments
+  - Gas explosions
+  - Hydrogen-air mixtures
+  - Carbon monoxide-air mixtures
+tldr: The authors conducted experiments on the explosion of hydrogen-air and carbon monoxide-air mixtures at varying initial pressures up to 175 atmospheres. They found that the ratio of maximum pressure to initial pressure increased as the initial pressure rose, suggesting that the mixtures behaved differently at higher pressures. This research provides important insights into the behavior of gaseous explosions and the factors affecting them.
+scientific_discipline: Chemistry > Combustion and Flame

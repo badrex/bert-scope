@@ -1,0 +1,10 @@
+article_id: rspa_1983_0139
+revised_title: Self-Accelerating Particles in General Relativity
+semantic_tags:
+  - General Relativity
+  - Gravitational Radiation
+  - Asymptotic Structure
+  - Curzon-Chazy Particles
+  - Boost-Rotation Symmetry
+tldr: The authors present solutions to the Einstein equations representing two independent particles uniformly accelerated in opposite directions without nodal singularities. These self-accelerating particles are useful for examining the general theory of asymptotic structure and gravitational radiation. The solution is derived from the Bonnor and Swaminarayan solution for two pairs of uniformly accelerated particles by a limiting procedure, resulting in a metric function composed of monopole and dipole parts.
+scientific_discipline: Physics > General Relativity

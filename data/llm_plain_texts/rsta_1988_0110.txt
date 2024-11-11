@@ -1,0 +1,10 @@
+article_id: rsta_1988_0110
+revised_title: 'Transient and Stable Intermediates in Cross-Coupling Reactions'
+semantic_tags:
+  - Organometallic Chemistry
+  - Cross-Coupling Reactions
+  - Palladium Complexes
+  - Platinum Complexes
+  - Catalytic Asymmetric Synthesis
+tldr: The authors studied the mechanism of catalytic cross-coupling reactions mediated by palladium complexes. They observed the formation of transient and stable intermediates, including biphosphine palladium(0) species, -olefin complexes, and -alkenyl bromide complexes. The authors also demonstrated that the -alkenyl iodide is a true intermediate in cross-coupling reactions and that the reaction cycle occurs without the intervention of a second molecule of substrate. Additionally, they explored the use of platinum complexes in cross-coupling reactions, which have greater stability than their organopalladium counterparts.
+scientific_discipline: Chemistry > Organometallic Chemistry

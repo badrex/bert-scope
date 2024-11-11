@@ -1,0 +1,11 @@
+article_id: 'rstb_1995_0147'
+revised_title: 'The Adaptive Advantages of Phenotypic Memory in Changing Environments'
+semantic_tags:
+  - Evolutionary Biology
+  - Ecology
+  - Epigenetics
+  - Environmental Adaptation
+  - Carry-Over Effects
+tldr: This article explores the adaptive value of carry-over effects, which are the persistence of induced phenotypes for several generations despite changes in the conditions that initially induced them. The authors compare three organismal strategies - non-inducible (genetic), completely inducible (plastic), and intermediate (carry-over) - in different environments. Analytical results and simulations show that carry-over effects can be advantageous in stochastic environments, even over organisms with high adaptive plasticity. The authors argue that carry-over effects represent an adaptive mechanism on the ecological timescale, filling the gap between short-term individual adaptations and long-term evolutionary adaptations.
+scientific_discipline: Biology and Life Sciences > Ecology
+```

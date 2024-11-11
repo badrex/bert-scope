@@ -1,0 +1,10 @@
+article_id: 'rstb_1990_0176'
+revised_title: 'Mathematical Modeling of Soil Productivity and Environmental Pollution'
+semantic_tags:
+  - Soil Productivity
+  - Environmental Pollution
+  - Mathematical Models
+  - Crop Growth
+  - Root:Shoot Ratio
+tldr: The authors develop a mathematical model to understand the soil-atmosphere-crop relation and its impact on soil productivity and environmental pollution. They explore the relationship between crop growth, temperature, and light, and how the root:shoot ratio changes during a crop's growth. The model also considers the role of fertilizers and the growth of grains and tubers on the plant.
+scientific_discipline: Environmental and Earth Sciences > Soil Science

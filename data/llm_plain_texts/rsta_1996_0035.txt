@@ -1,0 +1,10 @@
+article_id: rsta_1996_0035
+revised_title: Homoclinic Explosions and Implosions in Dynamical Systems
+semantic_tags:
+  - Dynamical Systems
+  - Bifurcations
+  - Homoclinic Orbits
+  - Heteroclinic Orbits
+  - Topological Methods
+tldr: This paper studies the interaction of local saddle node and Hopf bifurcations with global recurrent orbits in a four-parameter family of three-dimensional vector fields. The authors discover homoclinic bifurcations where a unique connecting orbit is replaced by a countable infinity of orbits (explosion) and where a countable infinity collapses to a unique orbit (implosion). They also find a rich variety of heteroclinic connections among fixed points and periodic orbits. These findings have implications for the study of travelling wave structures in the complex Ginzburg-Landau partial differential equation.
+scientific_discipline: Mathematics > Dynamical Systems

@@ -1,0 +1,10 @@
+article_id: rspa_1947_0009
+revised_title: 'Wedge Indentation of Ductile Materials: A Theoretical Analysis'
+semantic_tags:
+  - Plasticity
+  - Material Science
+  - Mechanics
+  - Ductile Materials
+  - Indentation
+tldr: The authors present a theoretical solution for the deformation caused by a rigid frictionless wedge penetrating a plastic material. They determine the form of the lip and the deformation in the material squeezed out towards the surface. The force required for penetration is also determined in terms of the yield stress in a tensile test. The study provides a basis for understanding and correlating hardness test results with the deformation properties of materials under different stress conditions.
+scientific_discipline: Engineering and Technology > Mechanics of Materials

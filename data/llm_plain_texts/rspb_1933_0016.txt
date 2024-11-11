@@ -1,0 +1,10 @@
+article_id: 'rspb_1933_0016'
+revised_title: 'Investigating the Biological Effects of Homogeneous and Heterogeneous X-rays'
+semantic_tags:
+  - X-ray biology
+  - Radiation effects
+  - Allantois development
+  - Egg irradiation
+  - X-ray intensity
+tldr: The authors conducted experiments to investigate the biological effects of homogeneous and heterogeneous X-rays on the allantois of hens' eggs. They found that a homogeneous beam of X-rays had a greater biological effect per unit intensity compared to a heterogeneous beam. The study also demonstrated that there was an antagonism between X-rays of different wavelengths in their biological effects.
+scientific_discipline: Biology and Life Sciences > Developmental Biology

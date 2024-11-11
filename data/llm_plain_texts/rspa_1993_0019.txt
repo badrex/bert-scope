@@ -1,0 +1,13 @@
+article_id: rspa_1993_0019
+revised_title: Dynamics of Interfaces in Coherent Two-Phase Elastic Solids with Mass Transport
+semantic_tags:
+  - Continuum mechanics
+  - Two-phase systems
+  - Mass transport
+  - Interface dynamics
+  - Elastic solids
+tldr: The authors develop a theory for the dynamics of interfaces in two-phase elastic solids driven by mass transport and stress. They consider a system of bulk regions separated by a sharp interface with energy and capable of supporting force. The theory is based on balance laws for mass and force, and it provides a constitutive theory for the interface. The field equations are developed in terms of the diffusion potential and its time derivatives, leading to a hierarchy of variational principles that describe the equilibrium shapes of misfitting particles and possible microstructures.
+scientific_discipline: Mathematics > Applied Mathematics
+sub_discipline: >-
+  Mechanics > Solid Mechanics > Continuum Mechanics > Two-Phase Systems and
+  Multiphase Flows

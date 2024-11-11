@@ -1,0 +1,10 @@
+article_id: 41141784
+revised_title: 'Magnetic Properties of Iron Plates and Their Impact on Compass Readings'
+semantic_tags:
+  - Magnetism
+  - Geomagnetism
+  - Compass navigation
+  - Iron and steel
+  - Experimental physics
+tldr: The author, S. H. Christie and Henry Foster, conducted experiments on the magnetic properties of iron plates when rotated. They discovered that rotating an iron plate could cause deviations in a compass needle's reading, with the extent of the deviation depending on the plate's orientation and the direction of rotation. The findings could have implications for navigation and understanding the Earth's magnetic field.
+scientific_discipline: Physics > Magnetism

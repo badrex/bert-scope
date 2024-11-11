@@ -1,0 +1,10 @@
+article_id: 'rstb_1984_0099'
+revised_title: 'Molecular Analysis of Murine Complement C4 and C4-S1p Isoforms'
+semantic_tags:
+  - Biochemistry
+  - Genetics
+  - Complement system
+  - Molecular biology
+  - Immunogenetics
+tldr: The authors isolated and analyzed complementary DNA clones related to the C4 and C4-S1p isoforms of the fourth complement component in mice. They found sequence heterogeneity in the carboxy-terminal half of the chain and identified a potential glycosylation site in the protein encoded by one of the clones. The study also demonstrated that the presence of a Hind III restriction site can be used as a marker for the isotypic variation between C4 and C4-S1p genes in most mouse strains.
+scientific_discipline: Biology and Life Sciences > Genetics and Molecular Biology

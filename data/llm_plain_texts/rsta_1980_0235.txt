@@ -1,0 +1,10 @@
+article_id: rsta_1980_0235
+revised_title: X-ray Bright Points and the Solar Cycle: Implications for Solar Activity
+semantic_tags:
+  - Solar Physics
+  - Magnetic Flux
+  - Solar Cycle
+  - X-ray Astronomy
+  - Coronal Emission
+tldr: The authors studied X-ray bright points (XBP) on the Sun and found that they represent small, short-lived regions of emerging magnetic flux. XBP form a broad spectrum of activity that is continuous with active regions. The number of XBP appears to be anticorrelated with traditional activity indices such as sunspot numbers. The solar cycle may be more of an oscillation in the wavenumber distribution of emerging flux rather than the total quantity of magnetic flux produced.
+scientific_discipline: Physics > Astronomy

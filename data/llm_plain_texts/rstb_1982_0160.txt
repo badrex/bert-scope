@@ -1,0 +1,10 @@
+article_id: 'rstb_1982_0160'
+revised_title: 'Asparagine-Linked Carbohydrate Units of Glycoproteins: Enzymatic Steps and Regulation'
+semantic_tags:
+  - Glycoprotein synthesis
+  - Asparagine-linked carbohydrate units
+  - Enzymatic steps
+  - Glycosylation regulation
+  - Dolichol-linked oligosaccharide
+tldr: The article discusses the synthesis and processing of asparagine-linked carbohydrate units of glycoproteins, focusing on the enzymatic steps involved in the assembly of the precursor oligosaccharide, its transfer to protein, and subsequent processing. The glucose sequence in the oligosaccharide is crucial for effective glycosylation and is assembled from dolichol-P-glucose through the action of at least two transferases. The article also highlights the potential for regulation of glycoprotein synthesis through the availability of dolichyl phosphate for the formation of lipid-linked mono- and oligosaccharides.
+scientific_discipline: Biology and Life Sciences > Biochemistry

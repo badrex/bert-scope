@@ -1,0 +1,10 @@
+article_id: rspa_1969_0094
+revised_title: 'Exploring the Intersection of Ion Implantation and Hyperfine Interactions'
+semantic_tags:
+  - Ion implantation
+  - Hyperfine interactions
+  - Nuclear magnetic resonance
+  - Solid state physics
+  - Nuclear physics
+tldr: This article discusses the overlap between ion implantation and hyperfine interaction measurements. It explores the use of ion implantation techniques to extend the capabilities of hyperfine interaction measurements and apply them to problems faced by those using ion implantation for other purposes. The article also addresses the challenges of understanding the location of implanted ions and their interactions within the lattice.
+scientific_discipline: Physics > Solid State Physics

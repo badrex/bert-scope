@@ -1,0 +1,10 @@
+article_id: rspa_1905_0055
+revised_title: 'High-Pressure Explosives and Combustion: A Study of Cordite and Gas Mixtures'
+semantic_tags:
+  - Explosives
+  - Combustion
+  - High-Pressure Physics
+  - Gas Mixtures
+  - Kinetic Theory of Gases
+tldr: This study investigates the pressure and combustion of solid and gaseous explosives, focusing on cordite and gas mixtures. The research uses a specially designed manometer to measure pressures ranging from 100 to 1800 atmospheres. The findings confirm that combustion of cordite proceeds according to parallel surfaces, and the rate at which the flame travels is proportional to the pressure. The study also explores the effect of enclosure shape on the maximum pressure developed and the rate of cooling, concluding that the rate of cooling depends on the thermal conductivity of the enclosure rather than the gas.
+scientific_discipline: Physics > High-Pressure Physics

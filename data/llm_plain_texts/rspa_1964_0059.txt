@@ -1,0 +1,10 @@
+article_id: rspa_1964_0059
+revised_title: Cyclotron Resonance in the Extreme Anomalous Relaxation Region
+semantic_tags:
+  - Cyclotron Resonance
+  - Anomalous Skin Effect
+  - Electron Scattering
+  - Magnetic Fields
+  - Semiconductors
+tldr: The authors present a reformulation of the theory of cyclotron resonance in metals as a variational problem, combining it with the exact solution of the Boltzmann equation. They calculate the surface resistance of an isotropic electron gas in the extreme anomalous relaxation region as a function of an applied magnetic field parallel to the surface of the medium. The line shapes depend on the diffuse or specular nature of electron scattering at the surface and the longitudinal or transverse orientation of the magnetic field relative to the current. This effect should be observable in degenerate semiconductors and semimetals at infra-red frequencies.
+scientific_discipline: Physics > Electromagnetism

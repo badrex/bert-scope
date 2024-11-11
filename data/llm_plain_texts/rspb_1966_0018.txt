@@ -1,0 +1,10 @@
+article_id: 'rspb_1966_0018'
+revised_title: 'Polymorphism and Mesomorphic Properties of 2,3-Diacyl-DL-Phosphatidylethanolamines'
+semantic_tags:
+  - Lipids
+  - Liquid Crystals
+  - Polymorphism
+  - Phospholipids
+  - Biological Membranes
+tldr: 'The study investigates the polymorphic and mesomorphic properties of 2,3-diacyl-DL-phosphatidylethanolamines using various physical techniques. The research shows that these phospholipids exhibit polymorphism and undergo liquid crystalline phase transitions. The transition temperature is influenced by the degree of unsaturation and the nature of the unsaturation in the fatty-acid residues. The findings have implications for interpreting infrared spectra, understanding the rigidity of phospholipid monolayers and bilayers, and the general properties of biological membranes.'
+scientific_discipline: Chemistry > Lipids

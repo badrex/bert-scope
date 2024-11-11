@@ -1,0 +1,10 @@
+article_id: 'rspa_1914_0101'
+revised_title: 'Flow of Viscous Fluids through Smooth Circular Pipes: A Theoretical Analysis'
+semantic_tags:
+  - Fluid dynamics
+  - Viscosity
+  - Pipe flow
+  - Turbulence
+  - Hydraulics
+tldr: This article investigates the flow of viscous fluids through smooth circular pipes, focusing on the relationship between fluid velocity, pipe diameter, and pressure difference. The author presents a theoretical analysis and formula for calculating the resistance of fluid flow, which can be applied to various engineering applications.
+scientific_discipline: Engineering and Technology > Fluid Mechanics

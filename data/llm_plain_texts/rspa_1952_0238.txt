@@ -1,0 +1,10 @@
+article_id: rspa_1952_0238
+revised_title: 'Investigation of Friction and Wear Processes in Cemented Carbide Tools'
+semantic_tags:
+  - Friction
+  - Wear
+  - Cemented Carbide Tools
+  - Steel Cutting
+  - Alloy Formation
+tldr: The authors studied the friction and wear processes in cemented carbide tools used for cutting steel. They discovered that high temperatures generated at the friction surface lead to the formation of an alloy between steel and tungsten carbide, causing rapid wear. The presence of titanium carbide in the carbide tools reduces the rate of wear by resisting alloy formation with steel at high temperatures.
+scientific_discipline: Engineering and Technology > Materials Science

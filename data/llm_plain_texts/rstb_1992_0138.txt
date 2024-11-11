@@ -1,0 +1,10 @@
+article_id: 'rstb_1992_0138'
+revised_title: 'Optimizing Bipedal Locomotion with Compliant Legs'
+semantic_tags:
+  - Bipedal Locomotion
+  - Gait Analysis
+  - Leg Compliance
+  - Stride Length
+  - Duty Factor
+scientific_discipline: 'Engineering and Technology > Mechanical Engineering'
+tldr: The author develops a simple mathematical model to analyze bipedal locomotion, considering leg mass and elastic compliance. The model predicts the optimal combination of duty factor, force pattern, and stride length for different speeds, helping to understand human movement and gait transitions.

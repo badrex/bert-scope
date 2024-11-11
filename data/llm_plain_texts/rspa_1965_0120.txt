@@ -1,0 +1,10 @@
+article_id: rspa_1965_0120
+revised_title: 'Intermolecular Activation Energy Discontinuities in Aqueous Ethyl Alcohol Solutions'
+semantic_tags:
+  - Viscosity
+  - Hydroxylic Liquids
+  - Activation Energy
+  - Alcohol-Water System
+  - Temperature Dependence
+tldr: The authors conducted experiments on the intermolecular activation energy of flow in aqueous ethyl alcohol solutions. They discovered sharp discontinuities in the activation energy at specific temperature intervals, indicating possible changes in clustering. The findings provide insights into the behavior of hydrogen-bonded liquids like the alcohol-water system.
+scientific_discipline: Chemistry > Physical Chemistry

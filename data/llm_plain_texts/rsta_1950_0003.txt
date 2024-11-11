@@ -1,0 +1,10 @@
+article_id: rsta_1950_0003
+revised_title: Diophantine Inequalities with an Infinity of Solutions: A Study of Star Bodies and Automorphisms
+semantic_tags:
+  - Diophantine Equations
+  - Geometry of Numbers
+  - Lattice Points
+  - Star Bodies
+  - Automorphisms
+tldr: The authors explore Diophantine inequalities with an infinity of solutions, focusing on star bodies and automorphisms. They develop the theory of inequalities with infinitely many solutions and investigate the number and distribution of solutions for various Diophantine inequalities. The study of star bodies and automorphisms helps to better understand the properties of these inequalities.
+scientific_discipline: Mathematics > Geometry of Numbers

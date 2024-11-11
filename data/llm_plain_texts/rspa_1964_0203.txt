@@ -1,0 +1,10 @@
+article_id: rspa_1964_0203
+revised_title: 'Solar X-Ray Emission and Its Impact on the Earth's Ionosphere'
+semantic_tags:
+  - Solar X-rays
+  - Ionosphere
+  - Solar Flares
+  - X-ray Spectroscopy
+  - Space Physics
+tldr: The authors discuss the results from the first Anglo-American satellite, Ariel I, and related observations of the solar spectrum in the wavelength band 4 to 14 Å. They analyze the variations in the short-wavelength 'tail' of the solar X-ray spectrum under non-flare and flare-active conditions. The study highlights the impact of solar X-rays on the Earth's ionosphere and the importance of obtaining more detailed experimental data on solar emission for further progress in understanding the solar X-ray emission mechanism.
+scientific_discipline: Physics > Space Physics

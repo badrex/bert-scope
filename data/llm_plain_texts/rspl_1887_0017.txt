@@ -1,0 +1,10 @@
+article_id: rspl_1887_0017
+revised_title: 'On Waves and Vortex Formation in Fluids'
+semantic_tags:
+  - Fluid Dynamics
+  - Wave Propagation
+  - Vortex Formation
+  - Mathematical Physics
+  - Wave Velocity
+tldr: The author investigates the behavior of waves and vortices in fluids, particularly in water. They explore wave propagation, wave velocity, and the formation of coreless vortices when a solid object moves through an incompressible fluid. The study also includes the critical wave-length that gives minimum wave-velocity and the important properties of these cases.
+scientific_discipline: Physics > Fluid Dynamics

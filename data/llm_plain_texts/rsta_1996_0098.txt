@@ -1,0 +1,10 @@
+article_id: rsta_1996_0098
+revised_title: Extending Information Theory for Visual Communication Assessment
+semantic_tags:
+  - Visual Communication
+  - Information Theory
+  - Electro-Optical Design
+  - Image Coding
+  - Image Restoration
+tldr: The authors extend information theory to assess the visual communication channel by uniting electro-optical design with digital image processing. They introduce six figures of merit to evaluate the performance of image gathering, coding, and restoration, aiming to produce the best possible picture at the lowest data rate. This approach considers critical limiting factors such as spatial frequency response, sampling, and reconstruction noises, leading to improved visual communication.
+scientific_discipline: Engineering and Technology > Telecommunications and Signal Processing

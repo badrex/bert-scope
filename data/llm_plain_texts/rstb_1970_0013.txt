@@ -1,0 +1,10 @@
+article_id: 'rstb_1970_0013'
+revised_title: 'Crystal Structure Analysis of Porcine Pancreatic Elastase'
+semantic_tags:
+  - Protein Structure
+  - Enzyme Mechanism
+  - Crystallography
+  - Molecular Biology
+  - Serine Proteinases
+tldr: The authors investigated the three-dimensional structure of crystalline porcine pancreatic elastase, a proteolytic enzyme with high amino acid sequence homology to other serine proteinases. They used heavy atom derivatives and X-ray diffraction techniques to determine the enzyme's structure at a resolution of 0.35 nm. The electron density map revealed the molecular boundaries, the single polypeptide chain, and the positions of various amino acid side chains. This study provided insights into the structural differences responsible for the varying specificities of serine proteinases.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

@@ -1,0 +1,10 @@
+article_id: rspa_1933_0116
+revised_title: 'Invariable Pendulums for Measuring Gravity: A New Method and Apparatus'
+semantic_tags:
+  - Gravity
+  - Pendulum
+  - Geophysics
+  - Timekeeping
+  - Wireless signals
+tldr: The authors describe a new method and apparatus for measuring gravity using invariable pendulums and wireless signals. They developed a portable and accurate system that allows for rapid observation of gravity changes, which can be used to study the distribution of matter within the Earth. This method has the potential to improve our understanding of Earth's gravitational field and its variations.
+scientific_discipline: Physics > Geophysics

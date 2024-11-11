@@ -1,0 +1,10 @@
+article_id: rspa_1962_0095
+revised_title: Proton-Proton Spin-Orbit Interaction and the Repulsive Core
+semantic_tags:
+  - Nuclear Physics
+  - Spin-Orbit Interaction
+  - Repulsive Core
+  - Dirac Equation
+  - Quantum Mechanics
+tldr: The authors investigate the proton-proton spin-orbit interaction and its connection to the repulsive core using a truncated potential that only couples positive energy states. They propose an iterative method of solution and apply it to a square repulsive core potential. The phase shifts show splitting, as expected from Thomas term arguments, indicating that the method is effective in explaining the spin-orbit force in the proton-proton interaction.
+scientific_discipline: Physics > Nuclear Physics

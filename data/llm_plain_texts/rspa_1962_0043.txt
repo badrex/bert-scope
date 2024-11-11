@@ -1,0 +1,10 @@
+article_id: rspa_1962_0043
+revised_title: Thermoelastic Stresses in Initially Stressed Bodies: Applications and Wave Propagation
+semantic_tags:
+  - Elasticity
+  - Thermoelasticity
+  - Stress analysis
+  - Wave propagation
+  - Crystallography
+tldr: This article presents a general theory for small thermoelastic deformations in a body that has been subjected to initial stress and was initially anisotropic. The author examines two special cases, one concerning small thermoelastic deformations in a body under initial stress, and the other considering the torsion of an initially stretched rhombic crystal and wave propagation in homogeneously stressed bodies. The study aims to clarify the stress-strain relations and energy function for small elastic deformations of initially stressed bodies.
+scientific_discipline: Physics > Elasticity

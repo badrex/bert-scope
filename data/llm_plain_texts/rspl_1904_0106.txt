@@ -1,0 +1,10 @@
+article_id: rspl_1904_0106
+revised_title: 'Wetting of Cotton by Water and Water Vapour: A Study of Temperature Changes'
+semantic_tags:
+  - Thermodynamics
+  - Heat transfer
+  - Absorption
+  - Temperature measurement
+  - Cotton properties
+tldr: This article investigates the temperature changes in cotton when exposed to water and water vapor. The author discovers that the wetting of cotton causes a rise in temperature due to the condensation of water vapor on the cotton fibers. The study also examines the effects of varying conditions, such as the initial dryness of the cotton and the surrounding temperature, on the temperature changes.
+scientific_discipline: Physics > Thermodynamics

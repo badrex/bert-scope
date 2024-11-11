@@ -1,0 +1,10 @@
+article_id: rsta_1968_0016
+revised_title: Establishing a Criterion for Safe Noise Exposure in Industrial Environments
+semantic_tags:
+  - Hearing loss
+  - Noise exposure
+  - Occupational health
+  - Industrial noise
+  - Hearing protection
+tldr: This article investigates the relationship between noise exposure and hearing loss in industrial environments. The authors establish a criterion for safe noise exposure, focusing on steady-state noise with continuous exposure during five 8-hour workdays per week. They find that the median hearing loss caused by noise remains constant after an exposure time of 10 years, and propose using noise rating numbers to estimate hearing loss and determine safe noise levels.
+scientific_discipline: Engineering and Technology > Occupational Health and Safety

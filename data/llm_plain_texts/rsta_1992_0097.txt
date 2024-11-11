@@ -1,0 +1,10 @@
+article_id: rsta_1992_0097
+revised_title: Direct Free Energy Minimization Methods for Modeling Processes in Solids and Grain Boundaries
+semantic_tags:
+  - Materials Science
+  - Solid State Physics
+  - Grain Boundaries
+  - Free Energy Minimization
+  - Computational Materials Science
+tldr: The article presents a critical review of direct free energy minimization methods for determining atomic structures and solute concentration profiles at defects in elemental solids and substitutional alloys. The methods offer a significant computational advantage and allow for exploring trends in behavior. The author discusses the approximations and physical assumptions involved in these methods and provides examples of their application to grain boundaries and other defects in materials.
+scientific_discipline: Physics > Materials Science

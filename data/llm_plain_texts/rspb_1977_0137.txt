@@ -1,0 +1,10 @@
+article_id: 'rspb_1977_0137'
+revised_title: 'Fluctuations and Relaxation of Membrane Currents in Drug-Operated Channels'
+semantic_tags:
+  - Ion channels
+  - Drug action
+  - Membrane potential
+  - Spectral analysis
+  - Fluctuations in membrane current
+tldr: The article discusses the relaxation and fluctuations of membrane currents that flow through drug-operated channels. The authors present a theoretical background for understanding the relaxation of drug-induced membrane currents and the fluctuations of membrane current about its equilibrium value. They provide general expressions that relate the relaxation current, autocovariance function, spectral density function, fluctuation variance, and mean open channel lifetime to the rate constants and single channel conductances for any theory of drug action based on the law of mass action. The authors also discuss the limitations of the classical theory of drug action and present more complicated theories that attempt to explain the physical mechanisms involved in drug action.
+scientific_discipline: Biology and Life Sciences > Neuroscience

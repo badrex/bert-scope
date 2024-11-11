@@ -1,0 +1,10 @@
+article_id: rspa_1925_0064
+revised_title: 'Investigating the Thermal Decomposition of Derivatives of Oxalacetic Ester'
+semantic_tags:
+  - Chemical reactions
+  - Unimolecular reactions
+  - Activation energy
+  - Reaction kinetics
+  - Decomposition
+tldr: The authors studied the thermal decomposition of derivatives of oxalacetic ester, a unimolecular reaction, to understand the energy exchanges in chemical reactions. They found that the decomposition followed a unimolecular law and that the unimolecular velocity constant was proportional to the concentration of the reaction product. The authors also investigated the influence of various factors, such as the carbon dioxide stream, the degree of dryness, and the presence of polar substances, on the reaction's velocity.
+scientific_discipline: Chemistry > Chemical kinetics

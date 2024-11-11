@@ -1,0 +1,10 @@
+article_id: 'rspb_1952_0053'
+revised_title: 'Exploring Monosynaptic Excitation and Inhibition in the Spinal Cord'
+semantic_tags:
+  - Neurophysiology
+  - Synaptic transmission
+  - Excitation and inhibition
+  - Motoneurones
+  - Spinal cord
+tldr: The article discusses the nature of monosynaptic excitatory and inhibitory processes in the spinal cord. The authors, Brock, Coombs, and Eccles, recorded intracellular potentials from motoneurones subjected to monosynaptic excitation and inhibition. They found that synaptic excitatory action depolarizes motoneurones, while inhibitory action hyperpolarizes them. The Golgi-cell hypothesis of synaptic inhibition is falsified, and chemical transmitter action seems to be the only probable explanation. The authors also explain the electrical events occurring during post-synaptic potentials and the differences between monosynaptic excitation and inhibition.
+scientific_discipline: Biology and Life Sciences > Neurobiology

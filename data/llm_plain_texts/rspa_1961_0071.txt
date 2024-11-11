@@ -1,0 +1,10 @@
+article_id: rspa_1961_0071
+revised_title: Magnetic Anisotropy and Susceptibility of Fe(NH4SO4)2, 6H2O
+semantic_tags:
+  - Magnetic Anisotropy
+  - Magnetic Susceptibility
+  - Crystal Field Theory
+  - Spin-Orbit Coupling
+  - Tutton Salts
+tldr: The authors studied the magnetic anisotropy and susceptibility of Fe(NH4SO4)2, 6H2O, a type of Tutton salt. They found that the anisotropic part of the crystal field changes with temperature due to thermal expansion of the crystal lattice. The spin-orbit coupling coefficient had to be decreased by 20% from its free ion value, indicating some overlap between the d and s charge clouds. The theoretical values agreed well with experimental results within the limitations of the approximations used.
+scientific_discipline: Physics > Materials Science

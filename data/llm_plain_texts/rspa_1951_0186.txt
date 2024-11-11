@@ -1,0 +1,10 @@
+article_id: rspa_1951_0186
+revised_title: Surface Diffusion and Activation Energies in Gases and Vapors through Micropores
+semantic_tags:
+  - Surface diffusion
+  - Adsorption
+  - Activation energy
+  - Micropores
+  - Physical chemistry
+tldr: The authors studied the diffusion and flow of gases and vapors through micropores, focusing on surface diffusion coefficients and activation energies. They found that surface-diffusion coefficients decrease rapidly with decreasing coverage and that surface diffusion is an activated process. The authors also discussed the importance of pore structure on adsorption isotherms and its effect on surface-diffusion coefficients.
+scientific_discipline: Chemistry > Physical chemistry

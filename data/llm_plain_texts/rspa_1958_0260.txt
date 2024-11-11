@@ -1,0 +1,10 @@
+article_id: rspa_1958_0260
+revised_title: Measurement of Neutron-Proton Capture Cross-Section and Boron Sensitivity in Photographic Emulsion
+semantic_tags:
+  - Nuclear physics
+  - Neutron capture
+  - Boron-loaded photographic emulsion
+  - Neutron detector
+  - Nuclear research
+tldr: The authors conducted an experiment to measure the neutron-proton capture cross-section using boron-loaded photographic emulsion as a neutron detector. They found a ratio of the cross-sections of boron and hydrogen, which helped determine the cross-section of hydrogen for capture of thermal neutrons. This research contributed to understanding the range of nuclear forces in the singlet state of the neutron-proton system and testing the hypothesis of charge independence of nuclear forces.
+scientific_discipline: Physics > Nuclear Physics

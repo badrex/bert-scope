@@ -1,0 +1,10 @@
+article_id: rspa_1915_0005
+revised_title: Explaining the Origin of Spectral Series Through Permanent Electronic Orbits
+semantic_tags:
+  - Spectral Series
+  - Electronic Orbits
+  - Atomic Physics
+  - Balmer Series
+  - Rydberg Formula
+tldr: The author investigates the electronic orbits and their permanence within a nucleus, explaining the origin of spectral series. They find that certain orbits give rise to series of spectral lines of recognized types, such as the Balmer and Rydberg series. The study also predicts the Zeeman effect and provides an estimate for the atomic radius.
+scientific_discipline: Physics > Atomic Physics

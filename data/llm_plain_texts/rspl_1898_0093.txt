@@ -1,0 +1,10 @@
+article_id: rspl_1898_0093
+revised_title: Magnetic Force Components in Solenoids of Circular Cross-Section
+semantic_tags:
+  - Electromagnetism
+  - Magnetic fields
+  - Solenoids
+  - Spherical harmonics
+  - Mathematical physics
+tldr: The authors present expressions for the radial and axial components of the magnetic force in the interior of solenoids with circular cross-sections. They use zonal spherical harmonics and their first derivatives to calculate these components for any point within the coil. The study improves the understanding of magnetic forces in solenoids and contributes to the development of more efficient devices.
+scientific_discipline: Physics > Electromagnetism

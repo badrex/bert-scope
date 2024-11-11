@@ -1,0 +1,10 @@
+article_id: rspl_1878_0045
+revised_title: Thermo-Electric Properties of Liquids: Improved Apparatus and Experimental Results
+semantic_tags:
+  - Thermo-electricity
+  - Electrochemistry
+  - Liquid conductivity
+  - Molecular structure
+  - Contact theory of voltaic electricity
+tldr: The author presents an improved apparatus for examining the thermo-electric properties of liquids and conducts experiments with various electrically-conducting solutions. The results challenge the previous understanding that acid liquids are thermo-electro-positive and alkaline ones thermo-electro-negative. The author concludes that electric currents are produced purely by heat and suggests the use of this method for discovering anomalous molecular alterations in electrically conducting liquids.
+scientific_discipline: Chemistry > Electrochemistry

@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0120'
+revised_title: 'Topological Analysis of Point Singularities in Stimulus Preference Maps'
+semantic_tags:
+  - Neuroscience
+  - Topology
+  - Visual Cortex
+  - Homotopy Theory
+  - Neural Networks
+tldr: The author demonstrates that the topology of stimulus space in the primary visual cortex is equivalent to the Klein bottle, a shape with no distinction between inside and outside. This leads to a systematic categorization of point singularities in the arrangement of optimal orientation and phase in the cortex. The analysis predicts different types of orientation centers and point singularities related to the optimal phase, which are confirmed through computer simulations based on the author's thermodynamic model for neural network self-organization.
+scientific_discipline: Biology and Life Sciences > Neuroscience

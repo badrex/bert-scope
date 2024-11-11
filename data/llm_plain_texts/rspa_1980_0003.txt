@@ -1,0 +1,10 @@
+article_id: rspa_1980_0003
+revised_title: Temperature and Density Dependence of Ionic Recombination in an Ambient Gas
+semantic_tags:
+  - Ion recombination
+  - Gas density
+  - Temperature effects
+  - Computer-simulated experiments
+  - Hard sphere interactions
+tldr: The author conducted computer-simulated experiments to study the rate of ionic recombination in an ambient gas based on temperature and density. They found that the results for termolecular recombination can be represented by a quasi-universal curve, while binary recombination requires scaling procedures. The study also explored the influence of collision parameters on the recombination coefficients.
+scientific_discipline: Chemistry > Physical Chemistry

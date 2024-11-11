@@ -1,0 +1,10 @@
+article_id: rsta_1979_0045
+revised_title: 'Kinetic Mechanism, Structure, and Properties of Premixed Flames in Hydrogen-Oxygen-Nitrogen Mixtures: A Comprehensive Study'
+semantic_tags:
+  - Combustion
+  - Flame kinetics
+  - Hydrogen oxidation
+  - Premixed flames
+  - Reaction mechanisms
+tldr: This study investigates the kinetic mechanism, structure, and properties of premixed flames in hydrogen-oxygen-nitrogen mixtures. The authors used the composite flux method to compute detailed temperature and composition profiles in various flames, comparing the results with published measurements. They found that the main heat-releasing reactions occur at lower temperatures, and the flame properties can be predicted using partial equilibrium and quasi-steady state assumptions. The study also provides insights into the propagation mechanism of hydrogen-air flames and the effect of various factors on flame properties.
+scientific_discipline: Chemistry > Combustion Chemistry

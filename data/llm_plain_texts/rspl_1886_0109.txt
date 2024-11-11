@@ -1,0 +1,10 @@
+article_id: rspl_1886_0109
+revised_title: 'A New Form of Direct Vision Spectroscope for Enhanced Observations'
+semantic_tags:
+  - Spectroscopy
+  - Optics
+  - Astronomy
+  - Telescope design
+  - Spectral analysis
+tldr: The authors developed a new form of direct vision spectroscope with improved design and functionality. The instrument features three symmetrically arranged prisms that provide better dispersion, definition, and range for observing and analyzing light spectra, particularly for rapid and precise observations of celestial objects like aurorae and meteors.
+scientific_discipline: Physics > Optics

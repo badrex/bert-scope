@@ -1,0 +1,10 @@
+article_id: 'rspa_1908_0103'
+revised_title: 'Comparing Mutual Inductance and Resistance with Two-Phase Alternating Currents'
+semantic_tags:
+  - Electromagnetism
+  - Alternating Currents
+  - Electrical Measurements
+  - Inductance
+  - Electrical Resistance
+tldr: The authors describe a method for comparing mutual inductance and resistance using two-phase alternating currents. They explain the ideal case and discuss some practical difficulties, such as obtaining pure sine wave-forms. The authors also investigate the effects of self-inductance in the resistance and distributed capacity in the secondary coil, finding that they can be practically negligible or easily corrected. Preliminary experiments show promising results for the accuracy of the method.
+scientific_discipline: Physics > Electromagnetism

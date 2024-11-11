@@ -1,0 +1,10 @@
+article_id: rspl_1878_0089
+revised_title: 'Reversal of Metallic Vapour Lines and Spectral Analysis'
+semantic_tags:
+  - Spectroscopy
+  - Absorption lines
+  - Metallic vapours
+  - Crystal optics
+  - Light deviation
+tldr: The authors, G. D. Liveing and J. Dewar, study the reversal of absorption lines in metallic vapours, specifically magnesium, potassium, and sodium, when mixed with hydrogen. They also investigate the optical properties of biaxal crystals and the velocity of normal propagation of plane waves in these crystals. Their findings contribute to the understanding of light refraction and the behavior of metallic vapours in different conditions.
+scientific_discipline: Physics > Crystal Optics

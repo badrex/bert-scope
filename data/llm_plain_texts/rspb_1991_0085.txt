@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0085'
+revised_title: 'Population Genetics and Bacterial Clones'
+semantic_tags:
+  - Population Genetics
+  - Bacterial Clones
+  - Bacterial Evolution
+  - Recombination
+  - Ecotypic Structure
+tldr: The author examines the population genetics of bacteria, specifically the high variability and clonal population structure observed in bacterial populations. They propose a more complex model that incorporates hitchhiking, localized recombination, and ecotypic structure to better explain these observations. The study concludes that these factors contribute to the understanding of bacterial evolution and adaptation to different habitats.
+scientific_discipline: Biology and Life Sciences > Genetics

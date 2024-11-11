@@ -1,0 +1,10 @@
+article_id: rspa_1956_0107
+revised_title: 'Enhancement of Fluorescence Efficiency in Perylene Vapour'
+semantic_tags:
+  - Fluorescence
+  - Quantum Yield
+  - Molecular Interactions
+  - Energy Transfer
+  - Vibrational and Rotational Energy
+tldr: The authors studied the enhancement of fluorescence in perylene vapour by adding various gases. They found that the quantum yield of fluorescence increases when certain gases are present, and explained this effect in terms of the removal of excess energy from excited molecules. The efficiency of energy removal depends on the molecular weight and structure of the colliding molecules, suggesting that strong intermolecular forces play a role in influencing the equilibria in collisional processes.
+scientific_discipline: Chemistry > Physical Chemistry

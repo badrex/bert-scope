@@ -1,0 +1,10 @@
+article_id: rspa_1974_0158
+revised_title: Excitation and Propagation of Earth-Ionosphere Waveguide by Downgoing Whistlers
+semantic_tags:
+  - Ionosphere
+  - Whistlers
+  - Waveguide Modes
+  - Electromagnetic Waves
+  - Earth's Magnetic Field
+tldr: This article discusses the excitation of the Earth-ionosphere waveguide by downgoing whistlers with wave normals in the magnetic meridian. The author suggests that the wave normal is scattered into the acceptance cone by spread-F irregularities. The article explores reflexion and coupling coefficients, and shows that for some angles of incidence, the signal is trapped in the waveguide. The range in the waveguide is computed as a function of the angle of incidence, and the properties of the waveguide modes are discussed.
+scientific_discipline: Physics > Electromagnetism

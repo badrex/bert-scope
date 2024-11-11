@@ -1,0 +1,10 @@
+article_id: rspa_1923_0091
+revised_title: The Latent Period and Mixtures of Two Lubricants in Boundary Lubrication
+semantic_tags:
+  - Lubrication
+  - Boundary lubrication
+  - Latent period
+  - Lubricant mixtures
+  - Surface orientation
+tldr: This article investigates the latent period in boundary lubrication, which is the time it takes for a lubricant's molecules to orient themselves at a solid surface. The author explores the effects of temperature, mechanical agitation, and mixtures of lubricants on the latent period and its importance in practical lubrication.
+scientific_discipline: Engineering and Technology > Lubrication and Tribology

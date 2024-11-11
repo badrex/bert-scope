@@ -1,0 +1,10 @@
+article_id: rspa_1967_0219
+revised_title: 'Hydromagnetic Couette Flow Instability: Oscillatory Modes and Transition'
+semantic_tags:
+  - Fluid Dynamics
+  - Magnetohydrodynamics
+  - Hydromagnetic Couette Flow
+  - Oscillatory Modes
+  - Instability
+tldr: The authors studied the onset of instability in hydromagnetic Couette flow, focusing on oscillatory modes. They found that at high magnetic field strengths, oscillatory disturbances can become more critical for the flow's stability. The research applies to incompressible, conducting fluids between coaxial, rotating cylinders under an axially applied magnetic field. The study considers three different flow conditions: rotating inner wall with a stationary outer wall, counterrotating walls, and corotating walls.
+scientific_discipline: Physics > Fluid Dynamics

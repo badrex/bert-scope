@@ -1,0 +1,10 @@
+article_id: rspa_1977_0096
+revised_title: Unsteady Two-Dimensional Boundary Layer Calculations with Fluctuating External Velocity
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Turbulence Modeling
+  - Numerical Methods
+  - Laminar and Turbulent Flows
+tldr: The author presents a numerical method for calculating unsteady two-dimensional laminar and turbulent boundary layers with fluctuations in external velocity. The method uses an eddy-viscosity formulation to model the Reynolds shear stress term and an efficient two-point finite-difference method to solve the governing boundary-layer equations. The results are compared with previous solutions and experimental data, showing good agreement and providing insights into the behavior of unsteady boundary layers.
+scientific_discipline: Physics > Fluid Dynamics

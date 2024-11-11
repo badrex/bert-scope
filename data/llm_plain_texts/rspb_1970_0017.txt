@@ -1,0 +1,10 @@
+article_id: 'rspb_1970_0017'
+revised_title: 'Insulin and Glucagon's Impact on Bile Secretion in Rabbits'
+semantic_tags:
+  - Hormones
+  - Bile secretion
+  - Insulin
+  - Glucagon
+  - Physiology
+tldr: The authors conducted experiments on rabbits to study the effects of insulin and glucagon on bile secretion. They found that insulin concentration in hepatic bile is about 50% higher than in the inferior vena cava blood. Insulin does not affect bile flow, but there is a positive correlation between resting bile flow and insulin concentration in bile. Glucagon reduces bile flow, and the concentration of insulin in gall bladder bile is surprisingly high. These findings provide insights into the complex interactions between hormones and bile secretion.
+scientific_discipline: Biology and Life Sciences > Physiology

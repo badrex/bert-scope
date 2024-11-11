@@ -1,0 +1,10 @@
+article_id: 'rstb_1991_0017'
+revised_title: 'Cell Lineage Restrictions and Rhombomere Formation in the Chick Embryo Hindbrain'
+semantic_tags:
+  - Neural Development
+  - Cell Lineage
+  - Rhombomeres
+  - Hindbrain
+  - Segmentation
+tldr: The article discusses the development and regeneration of the nervous system, specifically focusing on cell lineage restrictions in the chick embryo hindbrain. The author explains how early neuronal differentiation and axonogenesis follow a segmented pattern in the hindbrain, with each segment, or rhombomere, acting as a lineage-restriction unit constructing a defined part of the hindbrain. The study also highlights the importance of rhombomeres in generating level-specific anatomical structures and the role of regulatory genes in their formation.
+scientific_discipline: Biology and Life Sciences > Developmental Biology

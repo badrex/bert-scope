@@ -1,0 +1,10 @@
+article_id: 109554
+revised_title: 'Oblique Refraction of Iceland Crystal: Wollaston's Hypothesis and Observations'
+semantic_tags:
+  - Crystallography
+  - Optics
+  - Refraction
+  - Iceland crystal
+  - Huygens' theory
+tldr: Dr. Wollaston investigates the oblique refraction of Iceland crystal and finds that its refractive properties can be explained by Huygens' theory. He deduces a ratio between the sine of incidence and the sine of refraction and provides a method for constructing a spheroid to model the crystal's refraction. His observations support Huygens' hypothesis, demonstrating the accuracy of the results.
+scientific_discipline: Physics > Optics

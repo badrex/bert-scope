@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0054'
+revised_title: 'Exploring Animal Camouflage and its Implications for Visual Mechanisms'
+semantic_tags:
+  - Animal Camouflage
+  - Visual Mechanisms
+  - Edge Detection
+  - Frog Coloration
+  - Snake Vision
+tldr: This article explores the effectiveness of animal camouflage patterns, particularly the enhanced edge profiles found in frog coloration, in deceiving visual predators like snakes. The authors argue that these patterns can reveal insights into the early stages of visual processing in predators. They simulate the performance of three edge-detection mechanisms to demonstrate how these camouflage patterns can be effective over a wide range of spatial scales.
+scientific_discipline: Biology and Life Sciences > Animal Behavior and Ecology

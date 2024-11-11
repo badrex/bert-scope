@@ -1,0 +1,11 @@
+article_id: rspa_1961_0153
+revised_title: 'Erdos' Set Function and Uniform Convergence'
+semantic_tags:
+  - Measure Theory
+  - Mathematical Analysis
+  - Probability Theory
+  - Set Theory
+  - Convergence
+tldr: The authors explore the properties of Erdos' set function and its relation to uniform convergence. They prove that for a certain class of set functions, uniform convergence can be achieved. This work contributes to the understanding of mathematical analysis and probability theory.
+scientific_discipline: Mathematics > Analysis
+```

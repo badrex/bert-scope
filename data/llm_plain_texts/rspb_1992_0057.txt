@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0057'
+revised_title: 'Discovery of Homeoboxes in Cnidarian Genomes'
+semantic_tags:
+  - Homeobox genes
+  - Cnidarians
+  - Evolutionary biology
+  - Metazoan genomes
+  - Co-option hypothesis
+tldr: The authors discovered the first homeobox gene, eveC, in a diploblastic organism, the cnidarian Acropora formosa. This finding supports the co-option hypothesis, suggesting that homeobox genes were an early feature of metazoan genomes and were later co-opted for roles in segmentation in triploblastic organisms.
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

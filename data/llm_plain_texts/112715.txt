@@ -1,0 +1,10 @@
+article_id: 112715
+revised_title: 'Mechanical Description of Curves: A Novel Approach'
+semantic_tags:
+  - Geometry
+  - Calculus
+  - Machine Theory
+  - Mathematical Modeling
+  - Trigonometry
+tldr: The author, W. H. L. Russell, presents a novel method for mechanically describing curves using a combination of wheels and gears. By attaching nuts to the wheels and connecting them through a series of rods and pulleys, the author demonstrates how to trace complex curves based on the angles described by the wheels. This method allows for the mechanical representation of equations of any order, opening up new possibilities for mathematical modeling and machine theory.
+scientific_discipline: Mathematics > Geometry

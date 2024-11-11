@@ -1,0 +1,10 @@
+article_id: rspa_1979_0049
+revised_title: Spin-Dependent Rotational Energy Transfer in Open-Shell Collisions
+semantic_tags:
+  - Molecular Collisions
+  - Open-Shell Systems
+  - Spin-Exchange Interactions
+  - Rotational Energy Transfer
+  - Scattering Theory
+tldr: The authors develop a theory for rotational energy transfer in collisions between open-shell molecules and atoms, focusing on the spin-exchange interactions and their influence on the process. They discuss the consequences of exchange interactions on the spin states during inelastic collisions and present a scattering theory approach to calculate scattering cross-sections for spin-independent and spin-correlated cases. The study is relevant to understanding processes in the upper atmosphere and interstellar space.
+scientific_discipline: Chemistry > Molecular Collisions

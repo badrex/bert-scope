@@ -1,0 +1,10 @@
+article_id: rsta_1986_0123
+revised_title: Ultrasonic Measurement of Internal Temperature Distribution in Metals
+semantic_tags:
+  - Non-destructive examination
+  - Ultrasonic measurement
+  - Temperature sensing
+  - Materials processing
+  - Steel and aluminum
+tldr: The authors developed a non-destructive ultrasonic method to measure internal temperature distribution in solidifying metal bodies, focusing on steel. They used the relationship between ultrasound velocity and temperature to convert an ultrasonic-velocity distribution (tomogram) into an internal temperature distribution. This technique can be applied to other materials, such as aluminum, and has potential applications in materials processing.
+scientific_discipline: Engineering and Technology > Materials Science

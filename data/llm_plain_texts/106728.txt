@@ -1,0 +1,10 @@
+article_id: 106728
+revised_title: 'Improving the Detection of Atmospheric Electricity with a Doubler'
+semantic_tags:
+  - Electricity
+  - Atmospheric electricity
+  - Electrometers
+  - Volta's condenser
+  - Abraham Bennet
+scientific_discipline: Physics > Electromagnetism
+tldr: The author, Abraham Bennet, invents a doubler machine that can amplify small amounts of electricity from the atmosphere, making it easier to detect and study. This device can be used in conjunction with an electrometer or to produce visible sparks. Bennet's doubler improves upon previous methods, such as Volta's condenser and Cavalllo's improvements, and can be used to better understand atmospheric phenomena and their effects on vegetation growth.

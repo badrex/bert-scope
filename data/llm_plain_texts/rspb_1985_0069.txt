@@ -1,0 +1,10 @@
+article_id: 'rspb_1985_0069'
+revised_title: 'Nuclear Magnetic Resonance Imaging in Medicine: Physical Principles and Applications'
+semantic_tags:
+  - Magnetic Resonance Imaging
+  - Medical Imaging Techniques
+  - Nuclear Magnetic Resonance
+  - Proton Density
+  - Relaxation Times
+scientific_discipline: Medicine and Health Sciences > Medical Imaging
+tldr: The article discusses the physical principles and applications of nuclear magnetic resonance (NMR) imaging in medicine. It explains how NMR can provide excellent images of the human body, which are useful in medical practice. The author outlines the development of NMR imaging, its methods, and techniques, and gives examples of images obtained. The article also covers the use of time efficiency in NMR imaging, such as multiecho-multislice procedures and real-time NMR imaging.

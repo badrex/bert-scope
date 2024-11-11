@@ -1,0 +1,10 @@
+article_id: rspa_1951_0050
+revised_title: 'Hamiltonian Dynamics of Non-Holonomic Systems: A Poisson Bracket Approach'
+semantic_tags:
+  - Non-holonomic systems
+  - Poisson brackets
+  - Hamiltonian mechanics
+  - Lagrange multipliers
+  - Quantum mechanics
+tldr: The author develops a formalism to express the equations of motion of non-holonomic systems in Poisson form, using locally free variables and constrained variables. They also study Hamilton's principal function and its properties, showing that it is a non-integrable function. The theory is applicable to the development of non-holonomic quantum mechanics.
+scientific_discipline: Physics > Mechanics

@@ -1,0 +1,10 @@
+article_id: rsta_1993_0026
+revised_title: Multifractal Analysis of Turbulence and Lagrangian Dynamics
+semantic_tags:
+  - Turbulence
+  - Multifractals
+  - Lagrangian Dynamics
+  - Fluid Mechanics
+  - Intermittency
+tldr: This article explores the multifractal nature of turbulence and its impact on Lagrangian dynamics. The author reviews the multifractal formalism for Eulerian statistics of small-scale dynamics in turbulent flows and extends these results to predict properties of the probability distribution of the local energy dissipation rate at a fixed point. The improved parametrization of the Eulerian statistics allows the determination of Lagrangian statistics, which can predict several properties of particle trajectories in a turbulent flow. The author contrasts the smooth and unremarkable features of these trajectories with the often suggested description of highly convoluted and intricately structured 'fractal' curves. Finally, the article discusses the limitations of traditional dispersion results and how they are influenced by the intermittency inherent in the multifractal character of turbulence.
+scientific_discipline: Physics > Fluid Mechanics

@@ -1,0 +1,10 @@
+article_id: 'rspa_1924_0009'
+revised_title: 'Effects of Temperature on the Properties of Metals: Summary of Experiments from 1918 to 1923'
+semantic_tags:
+  - Thermal expansion
+  - Specific heat
+  - Metal properties
+  - Steel
+  - Iron
+tldr: This article summarizes the results of experiments conducted between 1918 and 1923 on the effects of temperature on the properties of metals, specifically iron and steel. The author found that thermal expansion coefficients and specific heat ratios change with temperature, and that the critical temperature for steel varies depending on its carbon content. The elastic rigidity and viscosity of metals also change with temperature, but these changes do not coincide with the change of state.
+scientific_discipline: Physics > Materials Science

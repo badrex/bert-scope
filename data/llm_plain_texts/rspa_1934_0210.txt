@@ -1,0 +1,10 @@
+article_id: rspa_1934_0210
+revised_title: Sorption of Vapours by Ferric Oxide Gel: Aliphatic Alcohols
+semantic_tags:
+  - Adsorption
+  - Alcohols
+  - Ferric Oxide Gel
+  - Isothermals
+  - Surface Chemistry
+tldr: The author investigates the sorption of various aliphatic alcohols by ferric oxide gel, focusing on the isothermals and hysteresis phenomena. The study reveals that the amount of alcohol taken up at saturation varies between 223 and 229 mg/gm, and the inflexion in the desorption curve occurs at about 160 mg/gm. The findings contribute to the understanding of adsorption and surface chemistry.
+scientific_discipline: Chemistry > Surface Chemistry

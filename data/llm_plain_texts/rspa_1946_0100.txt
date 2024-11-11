@@ -1,0 +1,10 @@
+article_id: rspa_1946_0100
+revised_title: Mechanism of Catalytic Oxidation of Ethylene
+semantic_tags:
+  - Catalysis
+  - Ethylene oxidation
+  - Adsorption
+  - Surface chemistry
+  - Reaction kinetics
+tldr: The authors conducted experiments to study the mechanism of the catalytic oxidation of ethylene. They found that the reaction between ethylene and chemisorbed oxygen monolayers can occur directly, producing carbon dioxide without passing through ethylene oxide. The reaction kinetics were measured, and the results showed that the rate of oxidation to carbon dioxide is proportional to the square of the concentration of adsorbed oxygen.
+scientific_discipline: Chemistry > Surface chemistry

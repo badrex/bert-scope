@@ -1,0 +1,10 @@
+article_id: rspa_1960_0097
+revised_title: 'Kinetics of Electrolytic Hydrogen and Deuterium Evolution: A Study of Rate-Determining Mechanisms'
+semantic_tags:
+  - Electrochemistry
+  - Hydrogen evolution
+  - Deuterium evolution
+  - Tafel analysis
+  - Isotopic effects
+tldr: The authors conducted experiments to study the kinetics of electrolytic hydrogen and deuterium evolution. They measured the cathodic polarization behavior of various solid metals in solutions of HC1 and DC1 and discussed the possible rate-determining mechanisms in the overall process. The results showed significant isotopic effects and provided insights into the role of surface coverage by adsorbed hydrogen and deuterium in the reaction. 
+scientific_discipline: Chemistry > Electrochemistry

@@ -1,0 +1,10 @@
+article_id: 'rstl_1879_0070'
+revised_title: 'Experimental Determination of Velocities of Normal Propagation in Biaxal Crystals'
+semantic_tags:
+  - Crystallography
+  - Wave Propagation
+  - Optics
+  - Crystal Physics
+  - Fresnel's Theory
+tldr: The author conducted experiments to determine the velocities of normal propagation of plane waves in different directions in a biaxal crystal. They compared the results with Fresnel's theory and found that the agreement between the two was fairly close. The experiments also provided a test for other theories of double refraction.
+scientific_discipline: Physics > Optics

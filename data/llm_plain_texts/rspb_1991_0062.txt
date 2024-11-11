@@ -1,0 +1,11 @@
+article_id: 'rspb_1991_0062'
+revised_title: 'Characterization of the FNR Protein of Escherichia Coli: An Iron-Binding Transcriptional Regulator'
+semantic_tags:
+  - 'Iron-binding protein'
+  - 'Transcriptional regulation'
+  - 'Escherichia coli'
+  - 'Anaerobic functions'
+  - 'Oxygen sensing'
+tldr: The FNR protein in Escherichia coli is a transcriptional regulator that activates or represses various genes in response to anoxia. The protein contains an iron-binding domain and is essential for the regulation of anaerobic functions. The study provides evidence that FNR is an iron-binding protein, with iron binding involving the N-terminal cysteine cluster.
+
+scientific_discipline: Biology and Life Sciences > Microbiology

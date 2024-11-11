@@ -1,0 +1,10 @@
+article_id: 112107
+revised_title: 'Stonyhurst Observatory Magnetical Observations in 1864'
+semantic_tags:
+  - Geomagnetism
+  - Magnetic surveys
+  - Magnetic declination
+  - Magnetic dip
+  - Secular variation
+tldr: This article presents monthly magnetical observations taken at the College Observatory, Stonyhurst, in 1864. The author calculates the horizontal, vertical, and total forces and discusses the discrepancies in the observations. The data is used to deduce the approximate amount of the secular change of magnetic dip and the total magnetic force at Stonyhurst. The author also compares their findings with those from Kew Observatory and the British Survey.
+scientific_discipline: Environmental and Earth Sciences > Geomagnetism

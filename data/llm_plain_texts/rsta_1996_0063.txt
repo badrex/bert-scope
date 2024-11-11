@@ -1,0 +1,10 @@
+article_id: rsta_1996_0063
+revised_title: Advances in Nickel Hydroxide Electrode for Electrochemical Power Systems
+semantic_tags:
+  - Electrochemistry
+  - Battery technology
+  - Nickel hydroxide electrode
+  - Solid-state chemistry
+  - Material science
+tldr: This article explores the nickel hydroxide electrode from a solid-state chemistry perspective, focusing on material preparation and structural characterization. The authors discuss the stabilization of the electrode and its electrochemical behavior, highlighting the importance of cobalt and iron substitution for improved cycle life and performance in alkaline batteries.
+scientific_discipline: Chemistry > Electrochemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1971_0135
+revised_title: 'Electric Fields for Dispersing and Manipulating Combustion of Particulate Suspensions'
+semantic_tags:
+  - Combustion control
+  - Electrical dispersion
+  - Particle manipulation
+  - Fluid dynamics
+  - Electrostatics
+tldr: The authors explore the use of electric fields to disperse solid and liquid fuels and control the trajectories of charged particles and droplets. They establish the feasibility of the method using powdered solids and distilled water, then apply it to paraffin as fuel. The study covers dispersion, droplet charging, movement in fields, and combustion control, leading to the development of burners operated entirely by fields that draw in and accelerate air from the surroundings using corona discharges in multi-stage ion lamps.
+scientific_discipline: Engineering and Technology > Fluid Dynamics and Combustion Control

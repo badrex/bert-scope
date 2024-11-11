@@ -1,0 +1,10 @@
+article_id: rspa_1964_0240
+revised_title: Vibrational Energy Transfer Between Molecules: A Theoretical and Experimental Study
+semantic_tags:
+  - Vibrational energy transfer
+  - Quantum mechanics
+  - Molecular collisions
+  - Relaxation processes
+  - Polyatomic gases
+tldr: The authors conducted experiments and theoretical calculations to study the transfer of vibrational energy between molecules in various gas mixtures. They found that near-resonant energy transfer between molecules with similar vibrational modes is efficient and plays a significant role in the relaxation of vibrational energy. The results provide insights into the complex collision processes and the efficiency of energy transfer between molecules.
+scientific_discipline: Chemistry > Molecular Physics

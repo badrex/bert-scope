@@ -1,0 +1,10 @@
+article_id: 'rspb_1962_0048'
+revised_title: 'The Role of the Thymus in Immune Response and Lymphocyte Development'
+semantic_tags:
+  - Immunology
+  - Thymus
+  - Lymphocyte development
+  - Neonatal thymectomy
+  - Immune response
+tldr: The authors conducted experiments on mice to understand the role of the thymus in the immune response and lymphocyte development. They found that neonatal thymectomy led to severe depletion in the lymphocyte population and impaired immune response in the mature animal. Thymectomy after 3 weeks of age did not have any significant impact on the immune response. The study concluded that the thymus produces the progenitors of immunologically competent cells during early life, which mature and migrate to other sites.
+scientific_discipline: Biology and Life Sciences > Immunology

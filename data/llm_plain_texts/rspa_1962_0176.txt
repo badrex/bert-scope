@@ -1,0 +1,10 @@
+article_id: 'rspa_1962_0176'
+revised_title: 'Corrigendum: Discussion on Non-Gauge Invariant Equations and Particle Systems'
+semantic_tags:
+  - Quantum Field Theory
+  - Particle Physics
+  - Electromagnetism
+  - Nonlinear Physics
+  - Gauge Theory
+tldr: The author discusses the solutions of non-gauge invariant equations representing systems of particles, neutral and charged. These systems are independent and involve only one component of the four-potential. The charged system has an ellipsoidal surface dividing space into a linear and a localized nonlinear region. The neutral doublets in the ground state need explanation in relation to the accepted vector character of the tt mesons and the charge independence of nuclear forces.
+scientific_discipline: Physics > Particle Physics

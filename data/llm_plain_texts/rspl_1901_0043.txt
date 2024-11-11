@@ -1,0 +1,10 @@
+article_id: rspl_1901_0043
+revised_title: High-Pressure Gas Heat Dissipation in Platinum Surfaces
+semantic_tags:
+  - Thermodynamics
+  - Heat Transfer
+  - High-Pressure Gases
+  - Engineering Applications
+  - Gas Properties
+tldr: This article investigates the rate of heat dissipation by a platinum surface at high temperatures in various gases at pressures up to one atmosphere. The authors present a formula to express the rate of heat dissipation and discuss the influence of experimental conditions, such as gas temperature and radiator dimensions. They also explore the practical implications of their findings for modern engineering problems.
+scientific_discipline: Engineering and Technology > Heat Transfer

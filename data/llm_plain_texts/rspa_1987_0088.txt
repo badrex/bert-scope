@@ -1,0 +1,10 @@
+article_id: rspa_1987_0088
+revised_title: 'Nuclear Spin Ordering and Magnetic Order'
+semantic_tags:
+  - Nuclear Magnetic Resonance
+  - Spin Polarization
+  - Magnetic Order
+  - Zeeman Order
+  - Dynamic Nuclear Polarization
+scientific_discipline: Physics > Condensed Matter Physics
+tldr: This lecture discusses the methods for producing, observing, and describing exotic states of nuclear spins. It explains the difference between Zeeman order, induced by an external magnetic field, and dipolar magnetic order caused by interactions between nuclear spins. The author also describes the "brute-force method" and the "King Solomon method" for enhancing nuclear spin polarization and achieving long-range magnetic order.

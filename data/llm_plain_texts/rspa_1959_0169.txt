@@ -1,0 +1,10 @@
+article_id: rspa_1959_0169
+revised_title: 'Nuclear Magnetic Resonance Spectra of Hydrocarbon Groupings: Internal Rotation in Substituted Ethanes and Cyclic Ethers'
+semantic_tags:
+  - Nuclear Magnetic Resonance (NMR)
+  - Hydrocarbon Groupings
+  - Internal Rotation
+  - Substituted Ethanes
+  - Cyclic Ethers
+tldr: The authors studied the hydrogen chemical shifts and coupling constants in chloroethanes, bromoethanes, and cyclic ethers like dioxan, dioxalan, and ethylene oxide. They used nuclear magnetic resonance (NMR) to analyze the spectra and found that the trans coupling constants were greater than the gauche constants. The authors also investigated the effect of restricted rotation about C-C bonds in different molecules and used temperature and solvent dependence to determine the relative abundance of rotational isomers.
+scientific_discipline: Chemistry > Spectroscopy

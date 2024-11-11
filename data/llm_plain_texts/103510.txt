@@ -1,0 +1,10 @@
+article_id: 103510
+revised_title: Explaining the Balance Phenomenon with an Experiment
+semantic_tags:
+  - Mechanics
+  - Balance
+  - Center of Gravity
+  - Force
+  - Equilibrium
+tldr: The author, J.T. Desaguliers, explains a balance phenomenon that has not been noticed by mechanical writers. He demonstrates that when a person pushes upwards on a balance beam, they become heavier if the scale is hanging at one end and lighter if the scale is hanging at the other end. This occurs due to the change in the direction and force of the push, affecting the balance's center of gravity and equilibrium.
+scientific_discipline: Physics > Mechanics

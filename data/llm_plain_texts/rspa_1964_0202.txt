@@ -1,0 +1,10 @@
+article_id: rspa_1964_0202
+revised_title: 'Electron Temperature Measurements in the Upper Ionosphere from Ariel I Satellite'
+semantic_tags:
+  - Ionosphere
+  - Satellite Technology
+  - Electron Temperature
+  - Space Research
+  - Geomagnetic Field
+tldr: This article discusses the analysis of electron temperature data collected from the Ariel I satellite, which carried two Langmuir probes to measure the density and temperature of ionospheric electrons. The authors describe the storage and processing of the probe measurements, the method of analysis, and the impact of solar electromagnetic radiation on the results. The study provides insights into the electron temperature distribution in the upper ionosphere.
+scientific_discipline: Physics > Space Physics

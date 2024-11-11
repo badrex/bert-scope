@@ -1,0 +1,10 @@
+article_id: 'rspa_1926_0066'
+revised_title: 'Thermal Decomposition of Gaseous Acetone: A Homogeneous Unimolecular Reaction'
+semantic_tags:
+  - Chemical kinetics
+  - Acetone decomposition
+  - Unimolecular reactions
+  - Gas-phase reactions
+  - Thermodynamics
+tldr: This study investigates the thermal decomposition of gaseous acetone in a homogeneous unimolecular reaction. The researchers used finely-ground flanges and a capillary tube with a resistance wire to heat the acetone and measure the reaction rates. They found that the reaction was first-order and provided insights into the reaction mechanism and thermodynamics.
+scientific_discipline: Chemistry > Chemical kinetics

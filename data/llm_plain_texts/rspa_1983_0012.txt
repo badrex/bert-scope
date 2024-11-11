@@ -1,0 +1,10 @@
+article_id: rspa_1983_0012
+revised_title: Conserved Quantities of Spinning Test Particles in General Relativity
+semantic_tags:
+  - General Relativity
+  - Conserved Quantities
+  - Spinning Test Particles
+  - Killing Tensor
+  - Quadratic First Integral
+tldr: This article explores conserved quantities of spinning test particles in general relativity. The author introduces new variables and a transformation to simplify the equations and separate trivial conserved quantities from non-trivial ones. The study focuses on the quadratic case and demonstrates that a reduced form of the equations exists, which implies the existence of a quadratic first integral. The findings have implications for understanding the behavior of spinning test particles in the context of general relativity.
+scientific_discipline: Physics > General Relativity

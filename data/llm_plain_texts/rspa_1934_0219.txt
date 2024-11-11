@@ -1,0 +1,10 @@
+article_id: rspa_1934_0219
+revised_title: 'Carbon Monoxide Sound Velocity Method for Specific Heat Determination'
+semantic_tags:
+  - Gas thermodynamics
+  - Sound velocity
+  - Carbon monoxide
+  - Specific heat
+  - High-temperature physics
+tldr: 'This study explores the determination of specific heat in gases at high temperatures using the sound velocity method, focusing on carbon monoxide. The authors developed an apparatus that produces sound waves of definite frequency and accurately measures temperature. They found that using multiple frequencies is essential for accurate measurements, as sound dispersion can affect the results. The research provides a new approach to measuring specific heats at high temperatures, improving the understanding of gas thermodynamics.'
+scientific_discipline: Physics > Thermodynamics

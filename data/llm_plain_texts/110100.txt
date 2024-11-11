@@ -1,0 +1,10 @@
+article_id: 110100
+revised_title: Repetition of M. Arago's Experiments on Magnetism in Rotating Substances
+semantic_tags:
+  - Magnetism
+  - Electromagnetism
+  - Metals
+  - Rotation
+  - Magnetic properties
+tldr: The authors, C. Babbage and J. F. W. Herschel, repeated M. Arago's experiments on the magnetism exhibited by various substances during rotation. They found that substances like copper, zinc, silver, and others followed the motion of a rotating magnet, while non-conductors like sulfuric acid and resin showed no magnetism. The authors also investigated the effect of solution of continuity on metals and the law of diminution of the force by increase of distance, concluding that time is necessary for the development and loss of magnetism in different metals.
+scientific_discipline: Physics > Electromagnetism

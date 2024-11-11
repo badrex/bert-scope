@@ -1,0 +1,10 @@
+article_id: rspa_1969_0038
+revised_title: Contracted Correlation Functions for Inter-electronic Correlation
+semantic_tags:
+  - Quantum Chemistry
+  - Wavefunction Optimization
+  - Molecular Orbital Theory
+  - Interelectronic Correlation
+  - Contracted Correlation Functions
+tldr: The authors introduce a new method to remove indeterminacy in interelectronic correlation functions by proposing a contraction condition that only involves six-dimensional integrals. This contracted form provides canonical expressions for correlation functions and orbitals, allowing for easier comparison between different calculations. The method is applicable to atoms, molecules, and other many-electron wavefunctions, and has been found to increase convergence stability and provide a more systematic procedure for calculating correlated wavefunctions.
+scientific_discipline: Chemistry > Quantum Chemistry

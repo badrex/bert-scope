@@ -1,0 +1,10 @@
+article_id: rsta_1905_0012
+revised_title: Temperature Effects on Thermal Conductivities of Electrical Insulators
+semantic_tags:
+  - Thermal conductivity
+  - Temperature effects
+  - Insulators
+  - Heat transfer
+  - Physics of materials
+tldr: This article investigates the impact of temperature on the thermal conductivities of electrical insulators. The authors develop a method to measure the temperature difference and analyze the results, providing insights into the relationship between temperature and thermal conductivity in insulating materials.
+scientific_discipline: Physics > Materials Science

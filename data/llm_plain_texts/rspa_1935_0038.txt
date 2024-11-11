@@ -1,0 +1,10 @@
+article_id: rspa_1935_0038
+revised_title: 'Investigating the Radioactivity of Potassium and Rubidium'
+semantic_tags:
+  - Radioactivity
+  - Nuclear physics
+  - Isotopes
+  - Decay constants
+  - Alkali metals
+tldr: The author conducted experiments to study the radioactivity of potassium and rubidium. They found that the data for potassium and rubidium do not fit the previously established relations between decay constants and maximum energy of the emitted rays. The author tested various theories to explain the discrepancies and ultimately suggested a new way to understand the disintegration process. The experiments did not support the simultaneous emission of two rays from decaying atoms, emission of two rays from the alkali metals, or the emission of very slow particles from the atoms. The author did not detect any chlorine isotope, which would have a short life, and found no evidence of an -decay process in potassium and rubidium.
+scientific_discipline: Physics > Nuclear Physics

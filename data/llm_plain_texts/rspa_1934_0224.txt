@@ -1,0 +1,10 @@
+article_id: rspa_1934_0224
+revised_title: Bloch Theory Applications in Alloys and Bismuth Properties
+semantic_tags:
+  - Alloy Chemistry
+  - Bismuth Properties
+  - Crystal Structure
+  - Bloch Theory
+  - X-ray Crystallography
+tldr: This article applies the Bloch theory to study the properties of alloys and bismuth. It examines the lattice parameters of s- and -phases in binary alloys and the structure of bismuth. The author also discusses the internal stresses arising from electron distribution in space and the energy discontinuities in crystal structures.
+scientific_discipline: Physics > Crystallography

@@ -1,0 +1,10 @@
+article_id: rsta_1993_0132
+revised_title: Additive Forms and Fractional Parts: Advances in Number Theory
+semantic_tags:
+  - Number Theory
+  - Additive Forms
+  - Algebraic Numbers
+  - Exponential Sums
+  - Large Sieve Inequality
+tldr: This article explores the methods of Vaughan and Wooley to investigate the fractional parts of additive forms with algebraic coefficients. The author demonstrates how these methods can be used to obtain results near the best possible for such forms and extends the findings to make several additive forms simultaneously small. The key ingredients in this work are mean value theorems for exponential sums, the use of a small common factor for the integer variables, and the large sieve inequality.
+scientific_discipline: Mathematics > Number Theory

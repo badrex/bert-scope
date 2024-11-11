@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0137'
+revised_title: 'Role of Serotonin in the Development of Swimming Rhythmicity in Xenopus laevis'
+semantic_tags:
+  - 'Neurotransmitter modulation'
+  - 'Swimming development'
+  - 'Serotonin and development'
+  - 'Xenopus laevis'
+  - 'Neural development'
+tldr: The study investigates the influence of 5-hydroxytryptamine (5HT; serotonin) on the neural network underlying swimming during early post-embryonic life in Xenopus tadpoles. The results show that the sensitivity of the swimming rhythm to exogenous 5HT follows a strict rostrocaudal gradient, suggesting that a functional endogenous 5HT system may have an important role in the ontogeny and subsequent modulation of Xenopus swimming motor output.
+scientific_discipline: Biology and Life Sciences > Neurobiology and Developmental Biology

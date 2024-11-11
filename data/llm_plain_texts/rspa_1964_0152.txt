@@ -1,0 +1,10 @@
+article_id: rspa_1964_0152
+revised_title: 'Extending the Smith-Stone Theory of Fish Propulsion with Wake Correction'
+semantic_tags:
+  - Fish locomotion
+  - Fluid dynamics
+  - Hydrodynamics
+  - Wake effect
+  - Theodorsen function
+tldr: 'This article extends the Smith-Stone theory of fish propulsion by incorporating the wake effect. The authors use a flexible plate model to simulate fish motion in a two-dimensional flow field and solve the Laplace equation in an elliptic cylindrical coordinate system. The results are shown to be identical to those derived by Siekmann, and a simple example is provided for illustration, with predicted results compared to experimental data.'
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

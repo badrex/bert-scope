@@ -1,0 +1,10 @@
+article_id: 'rstb_1992_0156'
+revised_title: 'Exploring Biodiversity Through the Daisyworld Model'
+semantic_tags:
+  - Biodiversity
+  - Ecological Modeling
+  - Climate Change
+  - Evolutionary Biology
+  - Daisyworld Model
+tldr: The author presents a numerical model called Daisyworld, which explores the relationship between organisms and their environment. The model, an imaginary planet with two types of daisy species, demonstrates how the evolution of organisms and their physical environment can be considered as a single process. The model shows how the growth of daisies and the rise in temperature are interconnected, highlighting the importance of coupling physical and biological processes in understanding and maintaining biodiversity.
+scientific_discipline: Environmental and Earth Sciences > Ecology

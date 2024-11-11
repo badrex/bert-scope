@@ -1,0 +1,10 @@
+article_id: rspa_1962_0080
+revised_title: Grain Boundary Migration and Recrystallization in Polycrystalline Metals
+semantic_tags:
+  - Materials Science
+  - Crystallography
+  - Recrystallization
+  - Grain Boundary Migration
+  - Deformation in Metals
+tldr: The authors conducted electron microscope observations on polycrystalline copper, nickel, and silver to study the recrystallization process in metals. They discovered that recrystallization occurs by the migration of original grain boundaries. A theory based on this mechanism can explain the known form of recrystallization kinetics without introducing anisotropy in grain boundary mobility. This research provides insights into the understanding of the recrystallization process in cold-worked metals.
+scientific_discipline: Materials Science > Crystallography

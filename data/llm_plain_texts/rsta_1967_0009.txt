@@ -1,0 +1,10 @@
+article_id: rsta_1967_0009
+revised_title: 'Magnetohydrodynamic Power Generation: Thermal Efficiency and Economics'
+semantic_tags:
+  - Magnetohydrodynamics
+  - Power generation
+  - Energy conversion
+  - Thermal efficiency
+  - Large-scale power stations
+tldr: The authors discuss the potential of magnetohydrodynamic (MHD) power generation for large-scale power stations, focusing on thermal efficiency and economics. They analyze various factors, such as air preheat temperatures, generator outlet temperatures, and duct lengths, to determine the optimal conditions for MHD power stations. The study concludes that with high air preheating temperatures and efficient magnet systems, MHD power stations can achieve over 50-60% overall efficiency, making them a promising alternative for high-cost fuel sources.
+scientific_discipline: Engineering and Technology > Power Generation and Distribution

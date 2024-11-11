@@ -1,0 +1,10 @@
+article_id: 'rsta_1969_0056'
+revised_title: 'Interhemispheric Transfer of Radioactive Pollution from Nuclear Explosions'
+semantic_tags:
+  - Air pollution
+  - Radioactive pollution
+  - Nuclear explosions
+  - Atmospheric science
+  - Environmental science
+tldr: This article discusses the transfer of radioactive pollution from nuclear explosions between the northern and southern hemispheres. The authors use a simple model of the atmosphere to derive expressions for fission product reservoirs and estimate the rate of interhemispheric transfer and the ratio of northern and southern reservoirs. The study provides insights into the behavior of the atmosphere and the fate of pollution from nuclear explosions.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

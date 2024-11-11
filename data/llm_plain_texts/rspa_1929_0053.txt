@@ -1,0 +1,10 @@
+article_id: rspa_1929_0053
+revised_title: 'Reflection and Transmission of Electric Waves in Transparent Media'
+semantic_tags:
+  - Electromagnetic Waves
+  - Wave Optics
+  - Interface Physics
+  - Transparent Media
+  - Boundary Conditions
+tldr: This article investigates the reflection and transmission of electric waves at the interface between two transparent media. The author derives approximate expressions for the electric and magnetic forces in the transmitted and reflected waves, considering various scenarios such as total reflection and the presence of a sphere. The study provides insights into the behavior of electromagnetic waves at the boundary of different media.
+scientific_discipline: Physics > Electromagnetic Waves

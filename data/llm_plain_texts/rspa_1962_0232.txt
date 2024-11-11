@@ -1,0 +1,10 @@
+article_id: rspa_1962_0232
+revised_title: 'Valence Bands of Tetrahedral Intermetallic Compounds: A Study Using Linear Combination of Bond Orbitals'
+semantic_tags:
+  - Solid State Physics
+  - Band Theory
+  - Crystallography
+  - Semiconductor Materials
+  - Quantum Chemistry
+tldr: The author presents a method called the linear combination of bond orbitals (l.c.b.o.) to calculate the valence bands of tetrahedral intermetallic compounds, such as GaAs, InSb, CdTe, diamond, Si, Ge, and grey tin. The l.c.b.o. method is based on localized bond orbitals and forms Bloch functions to create crystal orbitals. The author demonstrates the method's application to boron nitride and discusses the valence bands of other zinc-blende and diamond-type crystals. This study provides a general understanding of the valence bands in these materials, which are important semi-conductors.
+scientific_discipline: Physics > Solid State Physics

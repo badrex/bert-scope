@@ -1,0 +1,10 @@
+article_id: rspl_1895_0076
+revised_title: Memoir on the Theory of Partitions of Numbers
+semantic_tags:
+  - Combinatorics
+  - Number Theory
+  - Mathematical Partition
+  - Graph Theory
+  - Sylvester's Theorem
+tldr: This article presents a memoir on the theory of partitions of numbers, focusing on the method of compositions and the constructive theory of partitions. It explores the correspondence between the partitions of unipartite and bipartite numbers, as well as the graphical representation of multipartite numbers. The author also discusses Sylvester's theorem and its application to graph theory.
+scientific_discipline: Mathematics > Combinatorics

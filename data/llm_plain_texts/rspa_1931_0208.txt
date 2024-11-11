@@ -1,0 +1,10 @@
+article_id: rspa_1931_0208
+revised_title: Commutative Ordinary Differential Operators and Their Applications
+semantic_tags:
+  - Differential Equations
+  - Commutative Operators
+  - Algebraic Geometry
+  - Abelian Functions
+  - Bessel Functions
+tldr: This article explores the properties and applications of commutative ordinary differential operators, focusing on the identity P and its solutions. The authors discuss the different types of solutions, their connections, and the significance of the order of the operators. They also provide examples of specific solutions and their relationships to Bessel functions and Abelian functions.
+scientific_discipline: Mathematics > Algebraic Geometry

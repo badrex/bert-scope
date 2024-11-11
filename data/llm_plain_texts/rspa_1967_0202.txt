@@ -1,0 +1,10 @@
+article_id: rspa_1967_0202
+revised_title: 'Absorption by Vibrations of Uncharged Atoms in Covalent Crystals'
+semantic_tags:
+  - Crystallography
+  - Vibrational Absorption
+  - Impurity Atoms
+  - Dielectric Interaction
+  - Covalent Crystals
+tldr: The authors study the absorption of vibrations in covalent crystals, specifically focusing on the absorption by uncharged impurity atoms and their surrounding neighbors. They find that the absorption due to the vibrations of the neighbors of the impurity is of similar magnitude or larger than the absorption by the vibration of the impurity itself, leading to a larger total absorption than expected. The study is relevant to understanding the behavior of impurities in materials like silicon and diamond.
+scientific_discipline: Physics > Crystallography

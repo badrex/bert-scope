@@ -1,0 +1,10 @@
+article_id: 'rstb_1991_0039'
+revised_title: 'Enzymic Catalysis: The Structural and Functional Aspects of Triosephosphate Isomerase'
+semantic_tags:
+  - Enzyme Catalysis
+  - Triosephosphate Isomerase
+  - Enolization
+  - Protein Structure
+  - Glycolytic Pathway
+tldr: 'The article discusses the structural and functional aspects of triosephosphate isomerase, an enzyme that catalyzes the interconversion of dihydroxyacetone phosphate and glyceraldehyde 3-phosphate in the glycolytic pathway. The enzyme's active site, substrate binding, and the chemical steps of enolization are examined, revealing the precise positioning of catalytic groups and the importance of enzyme structure for efficient catalysis.'
+scientific_discipline: 'Biology and Life Sciences > Biochemistry'

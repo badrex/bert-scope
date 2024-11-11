@@ -1,0 +1,10 @@
+article_id: rspa_1920_0067
+revised_title: Investigating the Relationship between Pressure and Temperature in the Free Atmosphere
+semantic_tags:
+  - Atmospheric Science
+  - Meteorology
+  - Climate Science
+  - Statistical Analysis
+  - Correlation Coefficients
+tldr: This article examines the correlation between pressure and temperature at the same level in the free atmosphere using statistical analysis. The authors calculate the true correlation coefficients, accounting for errors of observation, and discuss the implications of their findings for understanding atmospheric conditions.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

@@ -1,0 +1,10 @@
+article_id: rspa_1982_0042
+revised_title: Covering Radius and Holes in the Leech Lattice
+semantic_tags:
+  - Lattices in mathematics
+  - Geometry
+  - Packing and covering problems
+  - Coxeter-Dynkin diagrams
+  - Niemeier lattices
+tldr: The authors investigate the points in 24-dimensional space at maximum distance from the Leech lattice, which is an even unimodular lattice with minimum norm 4. They determine the covering radius of the lattice and classify all the holes of maximum radius, establishing a connection between these holes and the Niemeier lattices. The covering radius of the Leech lattice is found to be times the packing radius.
+scientific_discipline: Mathematics > Geometry

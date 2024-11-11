@@ -1,0 +1,10 @@
+article_id: rsta_1948_0025
+revised_title: Ternary Quadratic Types and Their Irreducible Systems
+semantic_tags:
+  - Algebra
+  - Ternary Quadratics
+  - Concomitants
+  - Symbolic Algebra
+  - Irreducible Forms
+tldr: The authors present a complete system for five ternary quadratic forms and demonstrate its irreducibility. They use symbolic algebra to analyze the concomitants of these forms and establish a classification of irreducible concomitants for any number of ternary quadratics. This work contributes to the understanding of ternary quadratic types and their applications in various mathematical fields.
+scientific_discipline: Mathematics > Algebra

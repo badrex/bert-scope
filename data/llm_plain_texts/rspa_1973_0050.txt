@@ -1,0 +1,10 @@
+article_id: rspa_1973_0050
+revised_title: Shear Strength Properties of Thin Lubricant Films
+semantic_tags:
+  - Tribology
+  - Lubrication
+  - Surface Science
+  - Friction
+  - Contact Mechanics
+tldr: This study investigates the shear strength properties of thin lubricant films, focusing on the effects of pressure and temperature on materials such as calcium stearate, stearic acid, and high-density polythene. The research uses a sphere-on-flat geometry and molecularly smooth surfaces to measure the frictional force and determine the area of the film being sheared. The findings reveal that the shear strength of these materials increases with pressure and decreases with temperature.
+scientific_discipline: Engineering and Technology > Tribology

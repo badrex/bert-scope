@@ -1,0 +1,10 @@
+article_id: 'rsta_1983_0045'
+revised_title: 'Advances in Satellite Image Processing for Remote Sensing'
+semantic_tags:
+  - Remote Sensing
+  - Image Processing
+  - Land Surface Analysis
+  - Satellite Technology
+  - Earth Observation
+tldr: This article discusses various methods for analyzing and processing satellite images to study the Earth's land surface and ocean. Techniques range from simple pixel-by-pixel classification to more advanced algorithms that incorporate contextual information and spatial dependencies. The goal is to improve the reliability and accuracy of interpreting remote sensing data.
+scientific_discipline: Environmental and Earth Sciences > Remote Sensing

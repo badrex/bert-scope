@@ -1,0 +1,10 @@
+article_id: 'rspa_1953_0020'
+revised_title: 'Infra-Red Absorption Bands in Dimeric Carboxylic Acids'
+semantic_tags:
+  - 'Carboxylic Acids'
+  - 'Infra-Red Spectroscopy'
+  - 'Dimeric Units'
+  - 'Hydrogen Bonding'
+  - 'Vibrational Spectra'
+tldr: 'The authors investigated the infra-red absorption bands of various dimeric carboxylic acids and their COOD derivatives. They found that the COOH group typically has absorption bands in the regions of 1420, 1300, and 935 cm⁻¹, which correspond to different types of vibrations. The study aimed to provide a consistent interpretation of the characteristic frequencies of the COOH group in dimeric hydrogen-bonded states.'
+scientific_discipline: 'Chemistry > Organic Chemistry'

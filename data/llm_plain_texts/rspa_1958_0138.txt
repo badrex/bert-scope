@@ -1,0 +1,10 @@
+article_id: 'rspa_1958_0138'
+revised_title: 'Empty Space-Time and Gravitational Field Vanishing'
+semantic_tags:
+  - General Relativity
+  - Gravitational Field
+  - Space-Time
+  - Curvature Tensor
+  - Bianchi Identities
+tldr: The authors prove that if empty space-time contains a smooth non-null 3-space where the gravitational field vanishes, then the gravitational field vanishes everywhere. This discovery helps to understand the behavior of gravity in space-time and the existence of gravitational waves.
+scientific_discipline: Physics > General Relativity

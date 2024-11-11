@@ -1,0 +1,10 @@
+article_id: rspa_1905_0065
+revised_title: A Quantitative Spectroscopic Method for Determining Lead in Cerebrospinal Fluid
+semantic_tags:
+  - Spectroscopy
+  - Lead detection
+  - Biological analysis
+  - Analytical chemistry
+  - Environmental chemistry
+tldr: This article describes a spectroscopic method for accurately measuring small concentrations of lead in cerebrospinal fluid. The method is precise, requires minimal sample preparation, and can detect lead concentrations between 1 x 10^-8 and 2 x 10^-5 gm/cc. The authors discuss the underlying principles of this type of analysis.
+scientific_discipline: Chemistry > Analytical Chemistry

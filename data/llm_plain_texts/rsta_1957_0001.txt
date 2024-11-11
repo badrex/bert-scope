@@ -1,0 +1,10 @@
+article_id: rsta_1957_0001
+revised_title: The de Haas-van Alphen Effect in Aluminum: Experimental Results and Analysis
+semantic_tags:
+  - Magnetism
+  - Materials Science
+  - Crystallography
+  - Metals
+  - Oscillations
+tldr: This article presents an experimental study of the de Haas-van Alphen effect in aluminum. The authors measure the torque on a crystal of aluminum in a uniform magnetic field and analyze the resulting oscillations to determine the periods of the high-frequency oscillations. The study provides insights into the magnetic properties and behavior of aluminum and contributes to the understanding of the de Haas-van Alphen effect in metals.
+scientific_discipline: Physics > Materials Science

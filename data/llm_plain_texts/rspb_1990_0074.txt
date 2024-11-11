@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0074'
+revised_title: 'Excitatory Synaptic Currents in Purkinje Cells: Non-NMDA Receptor Mediation'
+semantic_tags:
+  - Glutamate Receptors
+  - Purkinje Cells
+  - Excitatory Postsynaptic Currents
+  - Non-NMDA Receptors
+  - Cerebellum
+tldr: This study investigates the types of receptors responsible for excitatory synaptic transmission in the cerebellum, specifically in Purkinje cells. Researchers found that both types of excitatory input to adult Purkinje cells, parallel fibers, and climbing fibers, are mediated exclusively by glutamate receptors of the non-NMDA type, and that these cells entirely lack NMDA receptors.
+scientific_discipline: Biology and Life Sciences > Neuroscience

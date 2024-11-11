@@ -1,0 +1,10 @@
+article_id: 108728
+revised_title: 'Symbolical Calculus and Applications to Differential Equations'
+semantic_tags:
+  - Differential Equations
+  - Calculus
+  - Algebra
+  - Mathematical Analysis
+  - Mathematical Notation
+tldr: The author, W.H.L. Russell, develops a new algebraic system for non-commutative symbols to improve the methods of calculating differential equations. This system allows for the integration of linear differential equations with variable coefficients and expands upon the work of Professor Boole. Russell applies these methods to binomial and multinomial theorems, providing new insights into the integration of differential equations.
+scientific_discipline: Mathematics > Calculus

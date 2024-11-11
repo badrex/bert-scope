@@ -1,0 +1,10 @@
+article_id: rspa_1955_0042
+revised_title: Introduction to the Theory of Generalized Functions
+semantic_tags:
+  - Functional Analysis
+  - Mathematical Physics
+  - Generalized Functions
+  - Distributions
+  - Fourier Analysis
+tldr: This article introduces the concept of generalized functions, which are defined to ensure that continuous functions possess derivatives that are generalized functions. It discusses the representation of generalized functions by distributions and sequences of ordinary functions, and explores the properties of regular approximations. The theory of generalized functions unifies various techniques for the analytical interpretation of improper or ideal functions and is essential for applied mathematicians and physicists.
+scientific_discipline: Mathematics > Functional Analysis

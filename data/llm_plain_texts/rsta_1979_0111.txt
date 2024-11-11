@@ -1,0 +1,10 @@
+article_id: rsta_1979_0111
+revised_title: Picosecond Raman Scattering: Investigating Vibrational Dynamics in Liquids
+semantic_tags:
+  - Raman Spectroscopy
+  - Vibrational Dynamics
+  - Dephasing Processes
+  - Molecular Subgroups
+  - Coherent Raman Scattering
+tldr: This article discusses the use of picosecond Raman techniques to study vibrational dynamics in liquids. The authors explore various experimental methods, such as coherent anti-Stokes and Stokes scattering, incoherent anti-Stokes Raman scattering, and fluorescence probing, to investigate vibrational dephasing processes and gain insights into molecular behavior in liquids.
+scientific_discipline: Physics > Optics

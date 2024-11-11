@@ -1,0 +1,10 @@
+article_id: rspa_1992_0008
+revised_title: Asymptotic Expansion of Fourier Integrals
+semantic_tags:
+  - Fourier Analysis
+  - Asymptotic Expansions
+  - Laplace Transforms
+  - Mathematical Physics
+  - Applied Mathematics
+tldr: The authors developed a formula that gives the asymptotic expansion of the Fourier transform of a function with a general asymptotic series behavior near the origin. This expansion is an extension of a theorem by Olver, who obtained an analogue for Fourier transforms of Watson's lemma for Laplace transforms. The method used in this paper relies on results on Laplace transforms and a novel technique to handle the appearance of divergent integrals in such problems.
+scientific_discipline: Mathematics > Applied Mathematics

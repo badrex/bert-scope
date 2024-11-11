@@ -1,0 +1,10 @@
+article_id: rspa_1988_0090
+revised_title: Deformation and Rotation of a Viscous Inclusion in Stokes Flow
+semantic_tags:
+  - Fluid Dynamics
+  - Inclusion Deformation
+  - Stokes Flow
+  - Viscosity
+  - Elliptic Inclusion
+tldr: The authors study the deformation and rotation of a viscous inclusion in Stokes flow, extending previous work on symmetrical inclusions to include non-symmetrical shapes with center lines. They develop a system of equations to describe the evolution of the center line and thickness profile of the inclusion, and find that slender inclusions rotate with the flow while undergoing stretching and distortion. The study provides a starting point for numerical investigations of flow past inclusions of arbitrary shape.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1985_0056
+revised_title: Electromagnetic Wave Properties in Ferrites: A Comparative Study with Magnetized Plasmas
+semantic_tags:
+  - Electromagnetic Waves
+  - Ferrites
+  - Magnetized Plasmas
+  - Wave Propagation
+  - Wave Dispersion
+tldr: The authors present a comprehensive study of electromagnetic wave properties in ferrites, drawing a close analogy with cold magnetized plasmas. They derive the wave equation for ferrites and explore the anisotropic and dispersive nature of waves in these materials. The study provides insight into phenomena such as cut-offs, resonances, and wave-focusing, which are crucial for understanding wave behavior in ferrites.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rspa_1932_0167
+revised_title: Investigation of Quartz Piezo-Electric Plate Vibration Modes Using Interferometry
+semantic_tags:
+  - Piezoelectricity
+  - Quartz crystal
+  - Interferometry
+  - Vibration modes
+  - Crystal oscillators
+tldr: The authors investigated the modes of vibration in quartz piezo-electric plates using an interferometer. They observed the deformation of the plate's surface by creating interference fringes, which helped them understand the type of motion occurring in the plates. This study provided valuable insights into the behavior of quartz resonators and oscillators, contributing to the development of more precise and reliable devices.
+scientific_discipline: Physics > Electromechanics

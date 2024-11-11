@@ -1,0 +1,10 @@
+article_id: 106116
+revised_title: Kepler's Method for Computing Moon's Parallaxes in Solar Eclipses
+semantic_tags:
+  - Astronomy
+  - Solar Eclipses
+  - Kepler's Method
+  - Lunar Parallax
+  - Celestial Mechanics
+tldr: The author presents an improved method for calculating the Moon's parallaxes in solar eclipses using Kepler's original method. The new method allows for more accurate calculations of the Moon's apparent latitude and diameter during eclipses, which can be applied to all degrees of the Moon's latitude. This method is essential for understanding the behavior of the Moon and its position in the sky.
+scientific_discipline: Astronomy > Celestial Mechanics

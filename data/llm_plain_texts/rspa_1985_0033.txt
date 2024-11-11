@@ -1,0 +1,10 @@
+article_id: rspa_1985_0033
+revised_title: 'Einstein-Maxwell Theory and Colliding Waves: A New Solution'
+semantic_tags:
+  - Gravitational Waves
+  - Einstein-Maxwell Equations
+  - Space-Time Singularities
+  - Black Holes
+  - Electromagnetic Waves
+tldr: The authors present an exact solution to the Einstein-Maxwell equations that describes the collision of two parallelly polarized plane impulsive gravitational waves. They find that the collision results in the scattering and focusing of the waves and the development of a space-time singularity. This solution resolves previous conceptual difficulties and demonstrates the inner consistency of general relativity.
+scientific_discipline: Physics > Gravitational Waves

@@ -1,0 +1,10 @@
+article_id: 105771
+revised_title: 'Astronomical Observations and Techniques by John Smeaton and Nevil Maskelyne'
+semantic_tags:
+  - Astronomy
+  - Planetary observation
+  - Parallax
+  - Astronomical measurement
+  - Refraction
+tldr: The author introduces two papers by John Smeaton that discuss methods for observing the positions of celestial bodies and calculating their parallax. The papers also propose a new method for measuring the places of heavenly bodies outside the meridian, independent of refraction. These techniques are valuable for improving astronomical calculations and understanding the dimensions of planetary orbits.
+scientific_discipline: Astronomy > Planetary observation

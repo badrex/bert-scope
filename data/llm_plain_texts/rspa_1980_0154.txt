@@ -1,0 +1,10 @@
+article_id: rspa_1980_0154
+revised_title: Geometric Approach to Soliton Equations and Prolongation Structure
+semantic_tags:
+  - Nonlinear Equations
+  - Soliton Equations
+  - Prolongation Structure
+  - Differential Geometry
+  - Scattering Theory
+tldr: The author investigates a class of nonlinear equations that can be solved using a scattering problem. They develop a systematic geometric method to exploit conservation laws and prolongation structures. The method is applied to a general 3-scattering problem, which is reduced to three sub-2 problems and their conservation laws. This approach provides a coherent understanding of soliton physics using simple differential geometric ideas and the calculus of exterior differential forms.
+scientific_discipline: Mathematics > Differential Geometry

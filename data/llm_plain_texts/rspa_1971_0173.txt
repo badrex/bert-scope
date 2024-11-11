@@ -1,0 +1,10 @@
+article_id: rspa_1971_0173
+revised_title: 'Investigation of Electrical Conductivity in Sodium Chlorate Crystals'
+semantic_tags:
+  - Crystallography
+  - Ionic conductivity
+  - Activation energy
+  - Impurities in crystals
+  - Sodium chlorate
+tldr: The authors studied the electrical conductivity of sodium chlorate crystals and found that the addition of divalent cations increased conductivity. They determined the activation energy for ion migration and the energy of thermal defect formation. The results were discussed in relation to the crystal's optical absorption, thermal expansion, and dielectric constant.
+scientific_discipline: Physics > Crystallography

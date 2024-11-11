@@ -1,0 +1,10 @@
+article_id: rspa_1942_0070
+revised_title: 'Improved Method for Determining Half-Value Periods Using a Single Geiger Counter'
+semantic_tags:
+  - Radioactivity
+  - Nuclear Physics
+  - Geiger Counter
+  - Coincidence Counting
+  - Half-Value Periods
+tldr: The author presents a new method for determining half-value periods of radioactive substances using a single Geiger counter and a coincidence circuit. The method is based on the analysis of the distribution in time of the impulses recorded in the Geiger counter. The author demonstrates the technique by measuring the half-value periods of actinium, thorium A, and radium, and discusses the limitations and possible sources of error in the method.
+scientific_discipline: Physics > Nuclear Physics

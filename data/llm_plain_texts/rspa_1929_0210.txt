@@ -1,0 +1,10 @@
+article_id: 'rspa_1929_0210'
+revised_title: 'Magnetic and Optical Properties of Benzene Ring in Aromatic Compounds'
+semantic_tags:
+  - Crystallography
+  - Magnetic susceptibility
+  - Optical properties
+  - Aromatic compounds
+  - Benzene ring
+tldr: The authors studied the magnetic and optical properties of benzene rings in aromatic compounds, specifically hexamethylbenzene. They discovered that the crystal's magnetic susceptibility is a minimum along the benzene ring's axis and a maximum perpendicular to it. The optical properties also show that the crystal has an intermediate refractive index for incident light vibrating along the benzene ring's axis. These findings indicate that the crystalline properties are largely determined by the molecule itself.
+scientific_discipline: Chemistry > Organic Chemistry

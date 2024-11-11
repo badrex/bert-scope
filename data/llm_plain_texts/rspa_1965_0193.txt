@@ -1,0 +1,10 @@
+article_id: rspa_1965_0193
+revised_title: 'Spontaneous Breakdown of Symmetry in Axiomatic Theory: Goldstone's Theorem'
+semantic_tags:
+  - Symmetry Breaking
+  - Axiomatic Theory
+  - Goldstone's Theorem
+  - Wightman Theory
+  - Gauge Invariance
+tldr: The authors prove two results related to the spontaneous breakdown of symmetry in axiomatic theory. First, they demonstrate that Goldstone's theorem can be proven in a Wightman theory with a conserved current that generates a broken symmetry. Second, they show that for such theories, there exist infinitely many Lorentz-invariant positive linear functionals leading to a theory with positive energy. This means that the vacuum functional is non-unique, and there are multiple physically admissible inequivalent representations in the theory.
+scientific_discipline: Mathematics > Algebra and Logic

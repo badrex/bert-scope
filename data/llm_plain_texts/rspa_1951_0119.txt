@@ -1,0 +1,9 @@
+article_id: rspa_1951_0119
+revised_title: 'Investigating Bond Lengths in Naphthalene and Anthracene'
+semantic_tags:
+  - Chemistry
+  - Molecular Orbital Theory
+  - Aromatic Hydrocarbons
+  - Bond Length
+  - Crystallography
+tldr: The authors conducted a study on the bond lengths in naphthalene and anthracene molecules. They used experimental measurements and theoretical approaches to analyze the bond distances and found that the concept of fractional bond order can be used to infer bond lengths accurately. Both molecular orbital and resonance methods were found to be equally effective for this purpose. The study also confirmed the planarity of the molecules and the regular trigonal hybridization around each carbon atom, which helped in understanding the bond distances better.

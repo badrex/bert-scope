@@ -1,0 +1,10 @@
+article_id: 'rspa_1996_0071'
+revised_title: 'Analytical Properties of Two-Dimensional Steadily Translating Inviscid Bubbles'
+semantic_tags:
+  - Fluid Dynamics
+  - Conformal Mapping
+  - Bubble Dynamics
+  - Surface Tension
+  - Bernoulli Equation
+tldr: The author investigates the analytical properties of a two-dimensional steadily translating inviscid bubble in a fluid. They use conformal mapping to analyze the bubble's shape and behavior, considering surface tension effects and neglecting gravity. The study determines the pole locations and corresponding residues of the conformal mapping function, providing numerical and asymptotic results for specific limits.
+scientific_discipline: Mathematics > Fluid Dynamics

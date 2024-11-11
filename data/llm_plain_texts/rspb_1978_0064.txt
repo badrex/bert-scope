@@ -1,0 +1,10 @@
+article_id: 'rspb_1978_0064'
+revised_title: 'Genetic Analysis of Coxal Chaetae in Drosophila melanogaster'
+semantic_tags:
+  - Genetics
+  - Drosophila melanogaster
+  - Gene selection
+  - Polygenic system
+  - Inherited traits
+tldr: 'The authors conducted experiments on Drosophila melanogaster to study the genetics of coxal chaetae, which are hairs on the legs of the fruit fly. They found that the number of chaetae is controlled by a polygenic system involving three types of genes: a, (3, and y genes. The authors also observed the responses of chaetae numbers to different types of selection, which supported their hypothesis of the three types of genes. This research helps us understand how inherited traits are determined by multiple genes.'
+scientific_discipline: Biology and Life Sciences > Genetics

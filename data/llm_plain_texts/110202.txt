@@ -1,0 +1,10 @@
+article_id: 110202
+revised_title: 'Geometrical Representation of Square Roots of Negative Quantities: Addressing Objections'
+semantic_tags:
+  - Algebra
+  - Geometry
+  - Imaginary Numbers
+  - Mathematical Representation
+  - Mathematical Hypothesis
+tldr: The author, John Warren, addresses objections raised against the geometrical representation of the square roots of negative quantities. He argues that these quantities, often considered "impossible," can be real and significant in certain cases, similar to fractional and negative roots. Warren also establishes a necessary connection between algebra and geometry, using examples from series expansions and trigonometric expressions. He believes that a better understanding of these square roots' nature will be useful in various mathematical applications, including dynamics.
+scientific_discipline: Mathematics > Algebra and Geometry

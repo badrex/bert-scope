@@ -1,0 +1,10 @@
+article_id: rspl_1890_0110
+revised_title: A New Method for Measuring Electric Power in Any Circuit
+semantic_tags:
+  - Electromagnetism
+  - Electrical Measurements
+  - Alternating Currents
+  - Wattmeter
+  - Electromagnetic Induction
+tldr: The authors present a new method for measuring the power given by any electric current to any circuit using an ordinary alternating-current voltmeter. This method is independent of assumptions about the nature of the current or the circuit and can be applied to measure power in alternating-current arcs and arc-lamps. The method is based on the difference of phase between the potential difference and the current.
+scientific_discipline: Physics > Electromagnetism

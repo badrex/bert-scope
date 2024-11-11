@@ -1,0 +1,10 @@
+article_id: 'rspb_1986_0064'
+revised_title: 'The Impact of Menadion on Slow Secondary Fluorescence Kinetics in Intact Isolated Chloroplasts'
+semantic_tags:
+  - Photosynthesis
+  - Chlorophyll fluorescence
+  - Cyclic electron flow
+  - Menadion
+  - Antimycin A
+tldr: The authors discovered that adding menadion, a compound believed to be a natural component of chloroplasts, to intact isolated chloroplasts can induce a characteristic transient in slow chlorophyll a fluorescence kinetics. This transient, called the M peak, is associated with the exponential increase in CO2-dependent O2 evolution and CO2 fixation. The study provides insights into the relationship between the onset of photosynthetic carbon assimilation and the slow kinetics of chlorophyll a fluorescence.
+scientific_discipline: Biology and Life Sciences > Photosynthesis

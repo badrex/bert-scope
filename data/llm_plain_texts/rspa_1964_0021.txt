@@ -1,0 +1,10 @@
+article_id: rspa_1964_0021
+revised_title: Fluorescence Lifetime Studies of Benzanthracene Derivatives in Solution
+semantic_tags:
+  - Fluorescence
+  - Excimer fluorescence
+  - Benzanthracene derivatives
+  - Reaction kinetics
+  - Spectroscopy
+tldr: The authors conducted experiments on the fluorescence lifetimes of 1:2-benzanthracene and its derivatives in dilute and concentrated deoxygenated cyclohexane solutions. They used phase and modulation fluorometer and pulsed light source techniques to measure the time response functions of monomer and excimer fluorescence components. The results were analyzed to determine the rate parameters of monomer and excimer fluorescence and excimer formation and dissociation. The study found that only about half the collisions between excited and unexcited monomers result in excimer formation, which is different from pyrene and indicates weaker excimer interaction in 1:2-benzanthracene derivatives.
+scientific_discipline: Chemistry > Spectroscopy

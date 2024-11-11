@@ -1,0 +1,10 @@
+article_id: 'rspb_1989_0064'
+revised_title: 'Active Vision for Unifying Shading and Texture'
+semantic_tags:
+  - Computer Vision
+  - Active Perception
+  - Shape Recovery
+  - Texture Analysis
+  - Shading
+tldr: The author proposes a theory for shape extraction using active vision, which unifies shading and texture analysis. By manipulating constraints and observing the optic flow, the method can recover shape from both shading and texture, even in complex scenarios with irregular textures or non-planar surfaces. This approach avoids the need for local correspondence and can work with both differential and non-differential image functions.
+scientific_discipline: Computer Science > Computer Vision

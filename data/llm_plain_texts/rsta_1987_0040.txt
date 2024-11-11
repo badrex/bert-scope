@@ -1,0 +1,10 @@
+article_id: rsta_1987_0040
+revised_title: Advances in Ion-Cyclotron Wave Heating for Nuclear Fusion Experiments on JET
+semantic_tags:
+  - Nuclear Fusion
+  - Plasma Physics
+  - Ion-Cyclotron Resonance
+  - Tokamak
+  - Plasma Heating
+tldr: This article discusses the JET project's additional heating experiments using ion-cyclotron waves for controlled nuclear fusion. The research focuses on the physics aspects of plasma heating and the potential benefits of ion-cyclotron range of frequency (ICRF) heating. The JET project aims to break the link between confinement and heating in tokamak plasmas, using a combination of neutral-beam injection and ICRF heating methods. The article reviews the major physics aspects of ICRF heating, including the localization of energy deposition and the non-Maxwellian distribution of resonating minority ions.
+scientific_discipline: Physics > Plasma Physics

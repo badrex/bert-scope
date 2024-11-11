@@ -1,0 +1,10 @@
+article_id: rspa_1967_0164
+revised_title: 'Causality and Singularities in Cosmology: Theoretical Developments and Implications'
+semantic_tags:
+  - Cosmology
+  - Singularity
+  - General Relativity
+  - Causality
+  - Space-time
+scientific_discipline: Physics > Cosmology
+tldr: The article discusses the occurrence of singularities in cosmology and the implications of causality and singularities in space-time. The author presents two theorems that demonstrate the inevitability of singularities under certain conditions, such as the strong causality assumption and the energy-momentum tensor obeying the usual inequality. The nature of these singularities is also explored, and it is suggested that they may indicate a breakdown of the Einstein theory in very strong fields rather than the actual occurrence of singularities in the universe.

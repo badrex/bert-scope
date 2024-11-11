@@ -1,0 +1,10 @@
+article_id: rsta_1993_0140
+revised_title: A Macroscopic Dynamical Theory of Solids with Dislocations
+semantic_tags:
+  - Crystal Plasticity
+  - Continuum Mechanics
+  - Dislocations
+  - Cosserat Continuum
+  - Constitutive Equations
+tldr: The authors present a macroscopic dynamical theory of solids that incorporates the effect of atoms and their arrangements, focusing on the continuous distribution of dislocations in crystal plasticity. The theory uses a triad of directors to represent lattice vectors and includes additional momentum-like balance laws for the rate of change of director fields. This approach provides a better understanding of plastic deformation, dislocation density, and constitutive response functions for both viscoplasticity and rate-independent plasticity.
+scientific_discipline: Physics > Materials Science

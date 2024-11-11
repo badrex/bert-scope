@@ -1,0 +1,10 @@
+article_id: rspa_1935_0050
+revised_title: 'Investigation of the Accommodation Coefficient and Evaporation of Water'
+semantic_tags:
+  - Thermodynamics
+  - Evaporation
+  - Heat transfer
+  - Surface tension
+  - Temperature equilibrium
+tldr: The authors conducted experiments to study the evaporation coefficient and accommodation coefficient of water. They found that, despite only a small fraction of vapor molecules entering the liquid, all of them reach temperature equilibrium with the surface before re-evaporating into the vapor. The study provides insights into the evaporation process and the energy transfer between vapor molecules and liquid surfaces.
+scientific_discipline: Chemistry > Thermodynamics

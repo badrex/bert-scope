@@ -1,0 +1,10 @@
+article_id: rsta_1984_0091
+revised_title: 'Astronomy - Asteroid Rotation Rates and Distribution'
+semantic_tags:
+  - Asteroid rotation
+  - Solar System
+  - Astronomy
+  - Space dynamics
+  - Celestial mechanics
+tldr: This article explores the distribution and evolution of asteroid rotation rates, analyzing the data on more than 500 asteroids. The authors find a V-shaped distribution of rotation frequencies, with some evidence that C-type asteroids rotate faster than S-type and M-type asteroids. They discuss various factors affecting asteroid rotation, such as diameter, type, and family membership, and propose an angular momentum drain mechanism that may explain the distribution.
+scientific_discipline: Astronomy > Celestial mechanics

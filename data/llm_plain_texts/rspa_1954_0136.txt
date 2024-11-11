@@ -1,0 +1,10 @@
+article_id: rspa_1954_0136
+revised_title: High-Temperature Debye-Scherrer Camera and Structures of y- and β-Manganese
+semantic_tags:
+  - X-ray crystallography
+  - High-temperature materials
+  - Phase transitions
+  - Crystal structures
+  - Manganese alloys
+tldr: The authors developed a pressurized high-temperature Debye-Scherrer camera to study the structures of y- and β-manganese at elevated temperatures. They found that y-manganese has a face-centered cubic structure, and β-manganese has a body-centered cubic structure. The study also provided accurate curves of lattice spacing against temperature for both phases and evaluated the linear coefficients of thermal expansion and volume changes resulting from the transformations.
+scientific_discipline: Physics > Materials Science

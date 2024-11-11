@@ -1,0 +1,10 @@
+article_id: rspl_1897_0090
+revised_title: On the Geometrical Treatment of Normal Correlation and Its Applications
+semantic_tags:
+  - Statistics
+  - Probability Theory
+  - Correlation Analysis
+  - Statistical Inference
+  - Data Analysis
+tldr: This article presents a geometrical approach to the treatment of normal correlation and its applications. It discusses the correlation-solid of two correlated distributions, the distribution of values in a case of normal correlation, and the use of medians and mean squares in statistical analysis. The author also explores the applications of this method in various fields, such as error estimation and hypothesis testing.
+scientific_discipline: Mathematics > Statistics

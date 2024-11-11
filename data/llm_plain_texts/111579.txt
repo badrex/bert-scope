@@ -1,0 +1,10 @@
+article_id: 111579
+revised_title: 'On the Comparison of Hyperbolic Arcs: A New Approach'
+semantic_tags:
+  - Elliptic Functions
+  - Hyperbolic Geometry
+  - Mathematical Analysis
+  - Algebraic Transformations
+  - Elliptic Integrals
+tldr: The author, C. W. Merrifield, develops a new method for comparing hyperbolic arcs by applying algebraic transformations to elliptic integrals. This approach simplifies the comparison process and allows for the tabulation of certain elliptic integrals of the third kind. The author also discusses the potential for a correlative calculus to solve remaining cases in the field.
+scientific_discipline: Mathematics > Algebraic Geometry

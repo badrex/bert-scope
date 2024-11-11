@@ -1,0 +1,10 @@
+article_id: rspa_1987_0039
+revised_title: Stochastic Models for Rainfall Based on Point Processes
+semantic_tags:
+  - Stochastic Models
+  - Rainfall Intensity
+  - Point Processes
+  - Poisson Process
+  - Rain Cell
+tldr: The authors discuss stochastic models for rainfall intensity at a fixed point in space, focusing on models where storm events arise in a Poisson process. They analyze models with rectangular pulses associated with a Poisson process and explore their properties, such as second-order properties, scale of fluctuation, and level-crossing properties. The models are compared with hourly rainfall data from Denver, Colorado, showing that the clustered models provide a better fit.
+scientific_discipline: Environmental and Earth Sciences > Hydrology

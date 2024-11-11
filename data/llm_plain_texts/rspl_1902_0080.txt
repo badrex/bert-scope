@@ -1,0 +1,10 @@
+article_id: rspl_1902_0080
+revised_title: Investigating Errors in the Estimation of Blood Specific Gravity
+semantic_tags:
+  - Blood specific gravity
+  - Hydrometers
+  - Surface tension
+  - Error in measurement
+  - Medical instrumentation
+tldr: The authors discovered that the error in Hammerschlag's method of estimating blood specific gravity using hydrometers is due to the differences in surface tension between water and chloroform-benzol mixtures. They found that the error can be calculated by considering the surface tension of the fluids and the hydrometer's stem dimensions. This explanation helps to account for the inaccuracies in Hammerschlag's method.
+scientific_discipline: Medicine and Health Sciences > Medical Instrumentation

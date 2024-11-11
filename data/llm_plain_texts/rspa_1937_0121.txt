@@ -1,0 +1,10 @@
+article_id: rspa_1937_0121
+revised_title: Adsorption of Gases and the Equation of the Liquid State: A New Approach
+semantic_tags:
+  - Adsorption
+  - Gas adsorption
+  - Liquid state
+  - Equations
+  - Surface chemistry
+tldr: The author presents a new approach to understanding gas adsorption and the liquid state. They develop an equation that accounts for multiple layers of adsorption and shows how it relates to the liquid state. This work provides a more accurate representation of adsorption and helps explain the behavior of gases and liquids at different temperatures and pressures.
+scientific_discipline: Chemistry > Surface Chemistry

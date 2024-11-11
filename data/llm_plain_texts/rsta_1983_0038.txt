@@ -1,0 +1,12 @@
+article_id: rsta_1983_0038
+revised_title: Multispectral Satellite Imagery in Petroleum and Mineral Exploration
+semantic_tags:
+  - Remote Sensing
+  - Geology
+  - Mineral Exploration
+  - Petroleum Exploration
+  - Landsat
+scientific_discipline: Earth Sciences > Geology
+```yaml
+tldr: The article discusses the use of multispectral satellite imagery, particularly from the Landsat series, in the exploration of petroleum and minerals. It highlights the practical results achieved so far and the importance of a worldwide network of receiving stations and sophisticated data-processing techniques. The article also reviews current research into infrared spectra for rock and mineral discrimination and the development of image processing and analysis systems for better interpretation of satellite imagery.
+```

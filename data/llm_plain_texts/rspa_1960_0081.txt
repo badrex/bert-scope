@@ -1,0 +1,10 @@
+article_id: rspa_1960_0081
+revised_title: Central Elements in Amalgams of Periodic Groups
+semantic_tags:
+  - Group Theory
+  - Amalgamated Subgroups
+  - Periodic Groups
+  - Group Embedding
+  - Finite Groups
+tldr: The article discusses the properties of amalgams of periodic groups, specifically focusing on central elements and their impact on embedding these groups in larger structures. The author demonstrates that if certain conditions are met, an amalgam of periodic groups can be embedded in a larger group.
+scientific_discipline: Mathematics > Group Theory

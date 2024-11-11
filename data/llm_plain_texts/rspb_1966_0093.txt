@@ -1,0 +1,10 @@
+article_id: 'rspb_1966_0093'
+revised_title: 'Chemical Studies of Antibody Combining Sites and Immunoglobulin Types'
+semantic_tags:
+  - Immunology
+  - Antibody structure
+  - Immunoglobulin G
+  - Antigen-antibody interactions
+  - Molecular immunology
+tldr: The author discusses the relationship between the chemical properties of antigens and the type of antibodies they elicit. They found a correlation between the net electrical charge of an antigen and the immunoglobulin type (IgG) of the antibodies formed. This suggests that differences in amino acid composition and sequence of antibody molecules are not only due to differences within the antigen-combining sites but also due to other factors, such as the net electrical charge of the antigens.
+scientific_discipline: Biology and Life Sciences > Immunology

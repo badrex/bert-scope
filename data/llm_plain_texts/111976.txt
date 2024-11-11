@@ -1,0 +1,10 @@
+article_id: '111976'
+revised_title: 'Magnetic Calms and Earth-Currents: Observations and Analysis'
+semantic_tags:
+  - Earth currents
+  - Magnetism
+  - Telecommunications
+  - Geophysics
+  - Electromagnetism
+tldr: The author, Charles V. Walker, conducted a series of experiments to study earth currents and their relationship with meteorological phenomena. He used telegraph wires to collect data on earth currents and observed that they moved in definite directions, primarily north-east to south-west. Walker also found that the strength and direction of these currents were influenced by local meteorological conditions and that they were not affected by the electromotive power of the earth-plates. The study provides valuable insights into the nature of earth currents and their potential impact on magnetometers.
+scientific_discipline: Physics > Electromagnetism

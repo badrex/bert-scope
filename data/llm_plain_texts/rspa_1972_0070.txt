@@ -1,0 +1,10 @@
+article_id: rspa_1972_0070
+revised_title: Quantitative Analysis of Ionic Melt Microstructure
+semantic_tags:
+  - Ionic liquids
+  - Microstructure
+  - Computational chemistry
+  - Molecular dynamics
+  - Radial distribution function
+tldr: This article explores the microstructure of ionic melts, focusing on molten alkali halides, using computer simulation techniques. The authors describe the radial distribution functions and fluctuation functions, providing a quantitative analysis of the local structure in ionic melts. Their findings challenge the agreement between theoretical models and experimental data, suggesting that further improvements are needed for a better understanding of molten salt systems.
+scientific_discipline: Chemistry > Physical Chemistry

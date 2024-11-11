@@ -1,0 +1,10 @@
+article_id: 'rspa_1962_0123'
+revised_title: 'Investigating Radiationless Conversion from Triplet States in Organic Molecules'
+semantic_tags:
+  - 'Triplet state'
+  - 'Radiationless conversion'
+  - 'Decay constants'
+  - 'Heavy-atom effect'
+  - 'Organic chemistry'
+tldr: The authors studied the radiationless conversion and decay of triplet states in various organic molecules, such as naphthalene, anthracene, and phenanthrene. They found that the rate of radiationless conversion is affected by factors like solvent viscosity, heavy-atom substitution, and the presence of quenching molecules. The results provide insights into the processes of radiationless conversion and the role of heavy atoms in enhancing the rate of decay.
+scientific_discipline: Chemistry > Organic Chemistry

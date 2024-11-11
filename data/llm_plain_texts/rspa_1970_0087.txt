@@ -1,0 +1,10 @@
+article_id: rspa_1970_0087
+revised_title: 'The Rheology of Silicone Fluids During Impact'
+semantic_tags:
+  - Rheology
+  - Silicone Fluids
+  - Non-Newtonian Fluids
+  - Power Law Fluids
+  - Elastohydrodynamic Lubrication
+tldr: This study examines the behavior of silicone fluids during impact, finding that they exhibit non-Newtonian properties. The authors develop a theoretical analysis for a power law fluid in impact conditions and compare it with experimental results, providing insights into the rheology of these fluids and their potential applications in elastohydrodynamic lubrication.
+scientific_discipline: Engineering and Technology > Materials Science

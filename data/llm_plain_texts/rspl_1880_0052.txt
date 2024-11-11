@@ -1,0 +1,10 @@
+article_id: 'rspl_1880_0052'
+revised_title: 'Improving the Accuracy of Refrangibility Experiments in Astronomy'
+semantic_tags:
+  - Astronomy
+  - Spectroscopy
+  - Refrangibility
+  - Telescope design
+  - Error correction
+tldr: The author presents a method to eliminate the effects of slight errors in adjusting experiments that measure changes in refrangibility due to relative motion in the line of sight. This method involves reversing the positions of the prisms and comparing the results. The author suggests that this experiment should be performed to improve the accuracy of astronomical observations.
+scientific_discipline: Astronomy > Spectroscopy

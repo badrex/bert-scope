@@ -1,0 +1,10 @@
+article_id: rsta_1975_0007
+revised_title: Cosmic Ray Nuclei Above 10: An Analysis of Their Origin and Anisotropy
+semantic_tags:
+  - Cosmic Rays
+  - Particle Physics
+  - Astrophysics
+  - High Energy Physics
+  - Galactic Astronomy
+tldr: This article discusses the origin and properties of primary cosmic-ray nuclei with energies above 10^10 GeV. The author analyzes the data on these high-energy particles and their distribution in the sky, investigating the possibility of extragalactic origin and the role of magnetic fields in their behavior. The findings suggest that the arrival directions of these particles are randomly distributed, with no significant anisotropy detected.
+scientific_discipline: Physics > Particle Physics

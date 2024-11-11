@@ -1,0 +1,10 @@
+article_id: 'rsta_1990_0125'
+revised_title: 'Parametric Modeling of Turbulence: A Review and New Approaches'
+semantic_tags:
+  - Turbulence modeling
+  - Statistical analysis
+  - Long-range dependence
+  - Autoregression
+  - Stochastic processes
+tldr: This article explores parametric modeling for the velocity and velocity derivative fields in stationary turbulence. The authors propose a process that is the sum of two independent autoregressions, which achieves a good fit locally and at longer ranges. They also consider a model derived from autor regressions with dependence structures on the borderline of long-range dependence. The study suggests further empirical and theoretical work in the field of turbulence modeling.
+scientific_discipline: Physics > Fluid Dynamics

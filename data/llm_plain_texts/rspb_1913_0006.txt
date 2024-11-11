@@ -1,0 +1,10 @@
+article_id: 'rspb_1913_0006'
+revised_title: 'Explaining Negative After-Images with Pure Spectral Colours through Young's Theory'
+semantic_tags:
+  - Color Vision
+  - After-Images
+  - Stray Light
+  - Young-Helmholtz Theory
+  - Successive Contrast
+tldr: The author critiques a previous study on negative after-images with pure spectral colors, arguing that the phenomena can be explained using Thomas Young's theory of color vision. The author points out that the previous study's experiments were conducted in a room with stray light, which contaminated the pure spectral colors. By taking stray light into account, the author demonstrates that the results align with Young's theory and can be replicated using pure spectral colors and moderate stimuli.
+scientific_discipline: Biology and Life Sciences > Color Vision

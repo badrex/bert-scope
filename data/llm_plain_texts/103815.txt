@@ -1,0 +1,10 @@
+article_id: 103815
+revised_title: 'Enhancing Barometer Sensitivity with a Compound Barometer Design'
+semantic_tags:
+  - Barometer
+  - Fluid mechanics
+  - Atmospheric pressure
+  - Instrumentation
+  - Hydromechanics
+tldr: 'John Rowning presents a design for a compound barometer that allows for increased scale of variation. The new barometer consists of a glass tube filled with mercury, which is immersed in a fluid-filled vessel. The design enables greater sensitivity to atmospheric pressure changes, making it a useful tool for meteorology and scientific research.'
+scientific_discipline: Physics > Fluid mechanics

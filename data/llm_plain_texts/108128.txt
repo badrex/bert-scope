@@ -1,0 +1,10 @@
+article_id: 108128
+revised_title: 'Improvements in Voltaic Battery Construction and Performance'
+semantic_tags:
+  - Electrochemistry
+  - Battery technology
+  - Electric current
+  - Trough construction
+  - Zinc and copper
+tldr: 'Faraday's experiments led to the development of an improved voltaic battery design, which eliminated the need for insulating divisions between copper plates. This new design was found to be more compact, powerful, and economical compared to previous constructions. The improved battery was also found to be equal or superior in performance to the best previously used batteries with double coppers and insulated cells.'
+scientific_discipline: Engineering and Technology > Electrochemistry

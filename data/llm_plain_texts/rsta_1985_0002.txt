@@ -1,0 +1,10 @@
+article_id: rsta_1985_0002
+revised_title: Tide-Surge Interaction Modeling in the Bay of Bengal
+semantic_tags:
+  - Oceanography
+  - Coastal Engineering
+  - Tropical Cyclones
+  - Numerical Modeling
+  - Storm Surges
+tldr: The authors developed numerical models to study the interaction between tides and storm surges in the Bay of Bengal. They simulated the effects of a tropical cyclone on the Orissa coast of India and the Andhra coast of India, comparing model predictions to available tide-gauge data. The study highlights the importance of accurate wind data and forecasting for operational use of these models in predicting and managing coastal flooding and inundation.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

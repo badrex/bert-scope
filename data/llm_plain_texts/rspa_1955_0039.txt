@@ -1,0 +1,10 @@
+article_id: rspa_1955_0039
+revised_title: Hyperfine Structure and Nuclear Quadrupole Moments in Diluted Copper Salts
+semantic_tags:
+  - Nuclear Magnetic Resonance
+  - Hyperfine Structure
+  - Copper Salts
+  - Crystal Field Theory
+  - Nuclear Quadrupole Moments
+tldr: The authors investigated the hyperfine structure and nuclear quadrupole moments in diluted copper salts using paramagnetic resonance. They determined the principal values of the g-tensor and the hyperfine structure due to interactions with the magnetic dipole and electric quadrupole moments of stable copper isotopes in copper Tutton salts diluted with isomorphous zinc salts. The study also involved growing crystals from heavy water to replace protons in the water of crystallization with deuterons, increasing resolution and providing a detailed study of the electric quadrupole interaction.
+scientific_discipline: Chemistry > Crystal Field Theory

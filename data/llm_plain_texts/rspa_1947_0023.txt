@@ -1,0 +1,10 @@
+article_id: rspa_1947_0023
+revised_title: 'Dielectric Breakdown in Solids: High-Temperature Theories and Breakdown Mechanisms'
+semantic_tags:
+  - Dielectric breakdown
+  - Solid materials
+  - High-temperature physics
+  - Electronic temperature
+  - Lattice vibrations
+tldr: The author investigates the theory of dielectric breakdown in solids and finds that the previous theory is correct only below a critical temperature. They introduce a new high-temperature theory, explaining the behavior of electrons and the energy exchange between electrons, external fields, and lattice vibrations. The study accounts for the rise of dielectric strength with temperature at low temperatures and its decrease at high temperatures, as well as the influence of factors that increase dielectric strength at low temperatures but decrease it at high temperatures.
+scientific_discipline: Physics > Solid State Physics

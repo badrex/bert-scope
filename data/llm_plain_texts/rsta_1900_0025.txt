@@ -1,0 +1,10 @@
+article_id: 'rsta_1900_0025'
+revised_title: 'On Simultaneous Partial Differential Equations and Complete Bidifferentials'
+semantic_tags:
+  - Differential Equations
+  - Partial Differential Equations
+  - Complete Differentials
+  - Mathematical Analysis
+  - Applied Mathematics
+tldr: This article discusses the methods for solving systems of simultaneous partial differential equations, focusing on the concept of complete bidifferentials. The author presents a method to find the complete primitives of such systems, considering cases of equations of the first order and second order with two independent variables. The importance of complete bidifferentials in the theory of differential equations is also explored.
+scientific_discipline: Mathematics > Applied Mathematics

@@ -1,0 +1,10 @@
+article_id: rspa_1992_0170
+revised_title: Indeterminate Trans-Critical Bifurcations in Parametrically Excited Systems
+semantic_tags:
+  - Nonlinear Dynamics
+  - Bifurcation Theory
+  - Parametric Resonance
+  - Chaos Theory
+  - Mechanical Oscillators
+tldr: This article explores the phenomenon of indeterminate trans-critical bifurcations in nonlinear, parametrically excited systems. The authors focus on the fundamental harmonic resonance where the excitation frequency is close to the linear natural frequency. They demonstrate that under this condition, unpredictable outcomes can arise when the trivial solution is on a fractal boundary as it loses stability at the bifurcation. The study involves a nonlinear oscillator with inertia, linear viscous damping, and time-dependent nonlinear stiffness, subjected to a harmonic parametric excitation.
+scientific_discipline: Mathematics > Dynamical Systems

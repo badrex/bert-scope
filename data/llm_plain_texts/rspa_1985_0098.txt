@@ -1,0 +1,10 @@
+article_id: rspa_1985_0098
+revised_title: Quantum Electrodynamical Theory of Non-Additive Dispersion Energies for Molecules
+semantic_tags:
+  - Quantum electrodynamics
+  - Molecular polarizabilities
+  - Non-additive dispersion energy
+  - Three-body potential
+  - Four-body potential
+tldr: The authors present a quantum electrodynamical theory for calculating non-additive dispersion energies and three-body potentials for molecules. They use molecular polarizabilities and the Maxwell displacement vector field operator to calculate the interaction energy between molecules. The theory is applicable to all separations outside the overlap regions and provides an alternative viewpoint to conventional perturbation theory, offering further insight into intermolecular forces.
+scientific_discipline: Physics > Electromagnetism

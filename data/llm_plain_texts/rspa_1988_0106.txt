@@ -1,0 +1,10 @@
+article_id: rspa_1988_0106
+revised_title: 'Infrared Absorption and Platelet Structure in Type Ia Diamond'
+semantic_tags:
+  - Diamond physics
+  - Infrared absorption
+  - Platelet structure
+  - Nitrogen impurity
+  - Electron microscopy
+tldr: The authors conducted experiments to understand the distribution of nitrogen impurity in type Ia diamonds and its relation to platelet structure. They found that platelets with two nitrogen atoms per unit area could be formed from A defects, but platelets with four nitrogen atoms per unit area could not be supplied by these defects. The study also revealed constraints on platelet structure, such as the atomic packing density in platelet structures not being more than three-quarters that of a perfect diamond structure.
+scientific_discipline: Physics > Materials Science

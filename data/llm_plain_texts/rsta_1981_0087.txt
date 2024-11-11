@@ -1,0 +1,10 @@
+article_id: rsta_1981_0087
+revised_title: High Temperature Plasma Physics: Neutral Atom Beam Heating and Interactions
+semantic_tags:
+  - Plasma Physics
+  - Neutral Atom Beams
+  - Tokamak Reactors
+  - Fusion Energy
+  - Beam-Plasma Interactions
+tldr: This article discusses the use of fast neutral atom beams to heat toroidally confined plasmas in fusion experiments. It explores the conditions for beam power and energy requirements, limitations of the beams, and the interactions between the beams and the plasma. The article also describes the creation of a beam-driven current, which may enable the development of continuously operated tokamak reactors.
+scientific_discipline: Physics > Plasma Physics

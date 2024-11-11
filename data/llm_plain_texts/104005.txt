@@ -1,0 +1,10 @@
+article_id: 104005
+revised_title: 'Spherical Maps: A New Method for Accurate and Manageable Geographic Representations'
+semantic_tags:
+  - Cartography
+  - Geography
+  - Spherical Maps
+  - Globe Representation
+  - Geographical Maps
+scientific_discipline: Earth Sciences > Geography
+tldr: The author proposes a new method for creating accurate and manageable spherical maps, which can be used as an alternative to traditional geographical maps and globes. The method involves dividing the spherical surface into parallel zones and projecting them onto a plane, allowing for more accurate and detailed representations of specific regions. The author demonstrates this method by constructing a terrestrial hemisphere called the British Hemisphere, centered on London.

@@ -1,0 +1,10 @@
+article_id: 'rspa_1952_0095'
+revised_title: 'A Study on the Adhesion and Friction of Non-Metals'
+semantic_tags:
+  - Friction
+  - Adhesion
+  - Non-Metals
+  - Surface Science
+  - Materials Science
+tldr: This article discusses the adhesion and friction of non-metals, comparing their behavior to that of metals. The authors find that strong adhesion occurs at the points of real contact, and this mechanism is similar for both non-metals and metals. They also observe that the adhesive forces at the diamond surface may be responsible for the frictional properties of diamond. The results of adhesion experiments on various plastics and oxide-coated metal surfaces are presented, showing that very strong adhesion can occur with oxide films.
+scientific_discipline: Materials Science > Surface Science

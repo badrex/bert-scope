@@ -1,0 +1,10 @@
+article_id: rspa_1953_0009
+revised_title: 'Cerenkov Radiation and Luminescence in Irradiated Transparent Media'
+semantic_tags:
+  - Cerenkov effect
+  - Luminescence
+  - Radioactive isotopes
+  - Optics
+  - Nuclear physics
+tldr: The authors studied the luminescence of irradiated transparent media, specifically aqueous solutions of radioactive isotopes. They found that the luminescence is not isotropic and occurs along a cone at a particular angle related to the particle's velocity. The Cerenkov effect, first theorized by Frank and Tamm, explains this phenomenon, which occurs when a particle's velocity is greater than the phase velocity of light in the medium. The authors also discussed the total intensity of the effect and its relation to the energy distribution of the released electrons.
+scientific_discipline: Physics > Optics

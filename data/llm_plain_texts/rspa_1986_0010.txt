@@ -1,0 +1,10 @@
+article_id: rspa_1986_0010
+revised_title: Electron Paramagnetic Resonance of Tm in Dilute Lanthanum Nicotinate Dihydrate
+semantic_tags:
+  - Electron paramagnetic resonance
+  - Thulium
+  - Lanthanum nicotinate dihydrate
+  - Spin Hamiltonian parameters
+  - Nearest-neighbour pairs
+tldr: The article discusses electron paramagnetic resonance (EPR) measurements of thulium (Tm) ions in dilute lanthanum nicotinate dihydrate (LaND) crystals. The EPR spectra show hyperfine structure and can be fitted using spin Hamiltonian parameters. The results suggest that the spectra are attributed to nearest-neighbour pairs of ions with nearly degenerate ground states. The transition mechanism is driven by the component of the microwave magnetic field parallel to the principal axis of the matrix.
+scientific_discipline: Physics > Optics

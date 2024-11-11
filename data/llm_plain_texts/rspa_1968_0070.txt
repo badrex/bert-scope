@@ -1,0 +1,10 @@
+article_id: rspa_1968_0070
+revised_title: 'Infrared Spectrum Analysis of Nitrogen Trifluoride'
+semantic_tags:
+  - Infrared spectroscopy
+  - Nitrogen trifluoride
+  - Molecular geometry
+  - Rotational absorption spectrum
+  - Fourier transform interferometry
+tldr: The authors measured the far infrared spectrum of nitrogen trifluoride using Fourier transform interferometry. They analyzed the rotational absorption spectrum and found that the spectrum is consistent with molecular constants derived from observed lines in the microwave spectrum. The study provides a method for analyzing partially resolved spectra if an estimate of the constant and approximate values of the constants are known. The molecular geometry of nitrogen trifluoride was determined by electron diffraction, and the values of the constants agreed closely with those calculated from the structure found by electron diffraction.
+scientific_discipline: Chemistry > Spectroscopy

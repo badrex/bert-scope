@@ -1,0 +1,10 @@
+article_id: rspa_1994_0057
+revised_title: No-Interaction Theorem Proof Without Hamiltonian and Lagrangian Formalism
+semantic_tags:
+  - No-Interaction Theorem
+  - Relativity
+  - Particle Physics
+  - Conservation Laws
+  - Lorentz Transformation
+tldr: The author presents a proof of the no-interaction theorem without relying on Hamiltonian and Lagrangian formalism. The proof assumes the conservation laws for linear and angular momentum and demonstrates that the worldlines of individual particles are straight when there is no interaction. The author provides separate proofs for one, two, three, and four particles, with the proof for four particles being stronger than the others.
+scientific_discipline: Physics > Particle Physics

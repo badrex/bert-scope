@@ -1,0 +1,10 @@
+article_id: 'rspb_1933_0020'
+revised_title: 'The Effect of Light Ray Entry Points on Luminous Efficiency in the Eye'
+semantic_tags:
+  - Visual Perception
+  - Optometry
+  - Eye Physiology
+  - Photometry
+  - Flicker
+tldr: 'The study investigates how the luminous efficiency of light rays entering the eye pupil at different points affects visual perception. The researchers discovered that rays entering the eye away from the axis are less effective visually than those entering along or near the axis. They developed a new apparatus to measure the luminous efficiency of light rays and found that the apparent brightness of an object is not proportional to the pupil area due to this effect.'
+scientific_discipline: 'Biology and Life Sciences > Vision and Visual Perception'

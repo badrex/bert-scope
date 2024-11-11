@@ -1,0 +1,10 @@
+article_id: rsta_1965_0045
+revised_title: Adsorption of Carbon Monoxide on Evaporated Metal Films: Energetics and Surface Concentration
+semantic_tags:
+  - Surface Chemistry
+  - Adsorption
+  - Metal Films
+  - Carbon Monoxide
+  - Chemisorption
+tldr: The authors studied the adsorption of carbon monoxide on evaporated metal films and found that the heat of adsorption varies depending on the metal and coverage. They discovered that the distribution of adsorbate in these cases is determined by kinetic, not thermodynamic, considerations. The study provides insights into the energetics and surface concentration of adsorbed carbon monoxide on various metals, which can help in understanding the adsorbed state and its chemical bonding.
+scientific_discipline: Chemistry > Surface Chemistry

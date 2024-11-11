@@ -1,0 +1,10 @@
+article_id: rspa_1978_0191
+revised_title: 'Behavior of Scalar Perturbations of a Reissner-Nordström Black Hole'
+semantic_tags:
+  - Black Holes
+  - Gravitational Perturbations
+  - Reissner-Nordström Metric
+  - Scalar Fields
+  - Astrophysics
+tldr: This paper examines the behavior of scalar perturbations of a Reissner-Nordström black hole, specifically focusing on the region between and on the inner and outer horizons. The study investigates the extension of perturbing fields onto the event horizon and their behavior in a neighborhood of the inner horizon. The paper also discusses the initial data problem, the tail term of an inwardly propagating disturbance, and the Fourier analysis of the perturbation equations in class I and class II.
+scientific_discipline: Physics > Astrophysics

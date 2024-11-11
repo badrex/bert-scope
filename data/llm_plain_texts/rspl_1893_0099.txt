@@ -1,0 +1,10 @@
+article_id: rspl_1893_0099
+revised_title: 'Bubble Dynamics and Fluid Flow in Annular Channels'
+semantic_tags:
+  - Fluid Dynamics
+  - Bubble Formation
+  - Fluid Resistance
+  - Bubble Shapes
+  - Annular Flow
+tldr: The author studied the behavior of bubbles in annular channels and observed how the shape and size of the bubbles affect their velocity. They found that the velocity of the bubbles is influenced by the resistance of the channel and the driving pressure. The study included various liquids and different-sized tubes, with the phenomenon being more pronounced in smaller sizes. The author also noted some anomalous cases where bubbles retained a spherical form and traveled slowly.
+scientific_discipline: Physics > Fluid Dynamics

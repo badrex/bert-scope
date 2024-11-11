@@ -1,0 +1,10 @@
+article_id: rspa_1984_0059
+revised_title: Time-Dependent Electric Current from a Flame: Analytical Solutions and Applications
+semantic_tags:
+  - Plasma physics
+  - Flame ionization detectors
+  - Ion mobility
+  - Electric fields
+  - Differential equations
+tldr: The authors extended a previous static theory of electric current from a flame ionization detector to include time-dependent currents. They solved the nonlinear differential equation describing the electric field in one and two-dimensional geometries, considering a class of problems with a time-dependent potential difference. The results could be useful for suggesting new experiments on flame ionization detectors and provide insights into the behavior of ions in the flame.
+scientific_discipline: Physics > Plasma Physics

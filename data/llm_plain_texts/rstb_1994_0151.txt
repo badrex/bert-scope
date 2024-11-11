@@ -1,0 +1,10 @@
+article_id: 'rstb_1994_0151'
+revised_title: 'Gene-for-Gene Recognition and Evolution in Plant-Pathogen Interactions'
+semantic_tags:
+  - Plant pathology
+  - Gene-for-gene relationship
+  - Plant resistance
+  - Pathogen recognition
+  - Evolution
+tldr: This article discusses the gene-for-gene relationship in plant-pathogen interactions, where plants have a refined and highly discriminating capability to recognize and differentiate among genetic variants of potential pathogens. The author explains the organization and structure of pathogen recognition loci, the existence of genes expressing different specificities, and the role of interallelic recombination in generating novel recognition capabilities. The article also highlights the importance of understanding these interactions for crop breeding and disease management.
+scientific_discipline: Biology and Life Sciences > Plant Biology

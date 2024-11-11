@@ -1,0 +1,10 @@
+article_id: 111766
+revised_title: New Methods for Summing Series and Evaluating Definite Integrals
+semantic_tags:
+  - Mathematics
+  - Series summation
+  - Definite integrals
+  - Differential equations
+  - Residual calculus
+tldr: The author, W. H. L. Russell, investigates new methods for summing various series and evaluating definite integrals using definite integrals. He applies these methods to linear differential equations and shows that they can also be used for algebraical equations and other complicated series. This results in the evaluation of a large number of new definite integrals and the application of definite integrals to the summation of intricate series.
+scientific_discipline: Mathematics > Analysis

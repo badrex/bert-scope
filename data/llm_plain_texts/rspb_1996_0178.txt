@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0178'
+revised_title: 'Isolation by Distance in a Land Snail Population: Combining Direct and Indirect Methods'
+semantic_tags:
+  - Population genetics
+  - Isolation by distance
+  - Land snail biology
+  - Molecular genetics
+  - Neighbourhood concept
+tldr: This study investigates the population structure of a land snail species, Trochoidea geyeri, using a combination of direct (mark-recapture experiments) and indirect (molecular genetic analysis) methods. The results indicate that the population structure can be described by the isolation by distance model, suggesting that the neighbourhood concept may be appropriate for describing the population structure of land snails. The study reveals a pattern of population subdivision on a microgeographic scale, which seems to be one of the main processes generating and maintaining genetic diversity within populations of small land gastropods.
+scientific_discipline: Biology and Life Sciences > Ecology and Population Biology

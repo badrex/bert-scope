@@ -1,0 +1,10 @@
+article_id: rspa_1981_0152
+revised_title: 'Advanced Potential Energy Function for Diatomic Molecules'
+semantic_tags:
+  - Quantum Chemistry
+  - Diatomic Molecules
+  - Potential Energy Functions
+  - Molecular Structure
+  - Spectroscopy
+tldr: The article presents a new potential energy function for diatomic molecules that can accurately represent the potential energy at all intermolecular separations. This function is part of a family of functions that includes previous polynomial functions with more limited validity. The article explains how to generate the coefficients of the new function and provides tables of these parameters for various molecules, including ground and excited electronic states.
+scientific_discipline: Chemistry > Quantum Chemistry

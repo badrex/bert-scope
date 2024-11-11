@@ -1,0 +1,9 @@
+article_id: 'rspa_1932_0135'
+revised_title: 'Effect of Transverse Magnetic Field on Light Propagation Speed'
+semantic_tags:
+  - Electromagnetism
+  - Light Propagation
+  - Magnetic Field
+  - Physics Experiments
+tldr: 'The authors conducted an experiment to measure the velocity of light in a vacuum in the presence of a transverse magnetic field. They used a magnet with a 17,992-gauss field and a 3-mm gap, and observed the effect of the magnetic field on the light propagation. The experiment was performed in a vacuum using a mercury condensation pump and charcoal in liquid air to evacuate the apparatus. The results provided insights into the behavior of light in the presence of magnetic fields, which is essential for understanding the interaction between light and matter.'
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rspa_1966_0185
+revised_title: Anisotropic Acoustic Attenuation in Quartz: New Measurements and General Theory
+semantic_tags:
+  - Acoustic attenuation
+  - Quartz
+  - Viscosity tensor
+  - Elastic constants
+  - Piezoelectric crystals
+tldr: This article presents new measurements of the attenuation of acoustic waves in quartz and develops a general theory for calculating the attenuation of acoustic waves in crystalline solids. The authors found that the attenuation is proportional to the square of the frequency, and they confirmed their analysis with results from attenuation measurements in quartz and silicon.
+scientific_discipline: Physics > Materials Science

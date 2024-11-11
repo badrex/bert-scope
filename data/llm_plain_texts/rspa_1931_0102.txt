@@ -1,0 +1,10 @@
+article_id: rspa_1931_0102
+revised_title: High-Speed Automatic Counting Using Thyratrons in Radioactivity Research
+semantic_tags:
+  - Thyratrons
+  - Automatic Counting
+  - Radioactivity
+  - Physics
+  - Electronics
+tldr: The authors describe a method for automatically counting physical events, such as alpha particles, using thyratron valves. This method allows for faster counting and more accurate results compared to mechanical relay and counting meter systems. The use of thyratrons in counting systems can be applied to various fields where rapid counting of events is necessary.
+scientific_discipline: Physics > Electronics

@@ -1,0 +1,10 @@
+article_id: rspa_1989_0119
+revised_title: Merged-Layer Regime in Thermally Driven Shallow Cavity Flows in Porous Media
+semantic_tags:
+  - Porous media
+  - Natural convection
+  - Heat transfer
+  - Fluid dynamics
+  - Boundary layer
+tldr: The article analyzes thermally driven shallow cavity flows in porous media, focusing on the merged-layer regime. The authors study the flow structure, core expansion, and boundary conditions, providing an approximate solution for the core and vertical boundary layers. The results are compared with numerical computations and heat transfer predictions, offering insights into the behavior of natural convection in porous media.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

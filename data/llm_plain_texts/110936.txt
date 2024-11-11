@@ -1,0 +1,10 @@
+article_id: 110936
+revised_title: 'Understanding the Dynamic Value of Compass Degrees and the Magnetic Meridian'
+semantic_tags:
+  - Magnetism
+  - Compass
+  - Magnetic fields
+  - Magnetic attraction and repulsion
+  - Terrestrial magnetism
+tldr: The author conducted experiments to understand the behavior of a magnetic compass needle. They discovered that the value of each compass degree is inversely proportional to the square of the distance from the center of the magnet. The magnetic needle rests in the magnetic meridian due to an equilibrium between eastern and western repulsions, not polar attraction. This shows that the operation of terrestrial magnetism is different from that of an artificial magnet.
+scientific_discipline: Physics > Magnetism

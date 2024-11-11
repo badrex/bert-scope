@@ -1,0 +1,10 @@
+article_id: rsta_1996_0125
+revised_title: Advanced SIMS Techniques for High-Resolution Depth Profiling
+semantic_tags:
+  - Secondary ion mass spectrometry (SIMS)
+  - Depth resolution
+  - Sputter profiling
+  - Atomic mixing
+  - Maximum entropy methods
+tldr: This article discusses the challenges and advancements in secondary ion mass spectrometry (SIMS) sputter profiling for high-resolution depth analysis. It explores the impact of noise, finite sample intervals, and atomic mixing on SIMS data, and proposes the use of empirically determined response functions and maximum entropy methods for deconvolution. The authors demonstrate a depth resolution of 1 nm without deconvolution, showcasing the potential for depth resolution on the scale of 1 atomic plane.
+scientific_discipline: Physics > Materials Science

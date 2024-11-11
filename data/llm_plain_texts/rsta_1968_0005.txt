@@ -1,0 +1,10 @@
+article_id: rsta_1968_0005
+revised_title: A Unified Analysis of Tides and Surges in North and East Britain
+semantic_tags:
+  - Tides
+  - Storm surges
+  - Oceanography
+  - Atmospheric pressure
+  - Sea level analysis
+tldr: This study analyzes sea level gauge records from six ports in North and East Britain to understand the response of sea level to gravitational and radiational tide potentials, as well as weather-related factors. The research finds that tidal interaction effects due to shallow water are significant and that radiational components have consistent amplitudes and phase leads compared to gravitational tides. The analysis provides a more accurate prediction of tides and surges than traditional harmonic analysis methods.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

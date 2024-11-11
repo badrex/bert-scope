@@ -1,0 +1,10 @@
+article_id: rspa_1981_0026
+revised_title: 'A General Phenomenological Theory of Capillary Excess Viscosities'
+semantic_tags:
+  - Surface Rheology
+  - Capillary Viscosity
+  - Interface Rheology
+  - Tensor Analysis
+  - Fluid Dynamics
+tldr: The author develops a general phenomenological theory of capillary excess or surface viscosities, considering momentum balance in the neighborhood of a fluid phase boundary. The theory introduces four surface viscosity coefficients and provides a foundation for understanding interfacial rheology and momentum transport in two-phase systems.
+scientific_discipline: Physics > Fluid Dynamics

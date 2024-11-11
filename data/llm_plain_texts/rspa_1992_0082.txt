@@ -1,0 +1,10 @@
+article_id: rspa_1992_0082
+revised_title: Ion Transport and Compaction in Clay Filtercakes
+semantic_tags:
+  - Clay compaction
+  - Ion transport
+  - Electrical double layer theory
+  - Filtration
+  - Donnan equilibrium
+tldr: The article investigates the ionic transport and compaction of clay filtercakes using electrical double layer theory. It models the process of filtration and predicts the forces between clay particles and the ionic content of the filtrate. The study also considers the time-dependent motion of ions within the cake and provides numerical results to support the findings.
+scientific_discipline: Environmental and Earth Sciences > Soil Science

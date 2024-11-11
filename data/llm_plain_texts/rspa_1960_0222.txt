@@ -1,0 +1,10 @@
+article_id: rspa_1960_0222
+revised_title: 'Kinetics and Mechanism of Propylene Decomposition and Propylene-Inhibited Hydrocarbon Decompositions'
+semantic_tags:
+  - Chemical kinetics
+  - Radical reactions
+  - Hydrocarbon decomposition
+  - Propylene
+  - Inhibition
+tldr: The authors studied the thermal decomposition of propylene and propylene-inhibited hydrocarbon decompositions. They found that the main products of propylene decomposition were ethylene, methane, and hydrogen. The reaction order was found to be over a considerable range of temperature and pressure. The authors proposed a mechanism involving radical reactions and chain termination steps, which explained the observed kinetics and product distribution.
+scientific_discipline: Chemistry > Chemical kinetics and reaction mechanisms

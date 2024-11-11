@@ -1,0 +1,10 @@
+article_id: 'rspa_1977_0030'
+revised_title: 'Correction to Free Convection Effect on Oscillatory Flow Past an Infinite, Vertical, Porous Plate with Constant Suction'
+semantic_tags:
+  - Fluid Dynamics
+  - Heat Transfer
+  - Porous Media
+  - Boundary Layer Flow
+  - Convection
+tldr: This article corrects mistakes in a previous paper about the effect of free convection on the oscillatory flow past an infinite, vertical, porous plate with constant suction. The authors rework the problem and evaluate the numerical values of the dimensionless mean velocity, mean skin friction, and mean temperature. They find that the mean temperature profiles in the previous paper are incorrect and present the correct values in this note.
+scientific_discipline: Engineering and Technology > Fluid Dynamics

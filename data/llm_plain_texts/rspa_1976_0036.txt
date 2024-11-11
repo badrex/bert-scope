@@ -1,0 +1,10 @@
+article_id: rspa_1976_0036
+revised_title: Potential Barrier Effects in the 3d Photoionization Continuum of Cs I
+semantic_tags:
+  - Atomic Physics
+  - Photoionization
+  - Quantum Mechanics
+  - Spectroscopy
+  - X-ray Absorption
+tldr: The authors studied the absorption spectrum of Cs I vapor and observed structure in the photoionization continuum. The experimental results showed discrepancies between the independent particle model predictions and the observed data, indicating the importance of electron-electron correlation processes. The findings confirm similar discrepancies reported for Xe I and suggest that continuous absorption beyond the edges remains significant at energies several hundreds of electron volts above the thresholds.
+scientific_discipline: Physics > Atomic Physics

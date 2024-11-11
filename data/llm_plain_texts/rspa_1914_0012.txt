@@ -1,0 +1,10 @@
+article_id: rspa_1914_0012
+revised_title: A Simple Micro-Balance for Measuring Gas Densities
+semantic_tags:
+  - Gas density measurement
+  - Micro-balance
+  - Quartz balance
+  - Gas buoyancy
+  - Atmospheric gases
+tldr: The author describes a simple and accurate method for determining the densities of small quantities of gases using a micro-balance made of fused quartz. The balance is adjusted by altering the pressure of the air in the balance case, allowing for precise measurements of gas densities. This method is particularly useful for comparing the densities of atmospheric gases and other small gas samples.
+scientific_discipline: Physics > Optics

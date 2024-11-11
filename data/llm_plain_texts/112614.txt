@@ -1,0 +1,10 @@
+article_id: 112614
+revised_title: 'Stigmatic Geometry and its Applications in Coordinate Relations'
+semantic_tags:
+  - Geometry
+  - Stigmatics
+  - Coordinate Relations
+  - Homography
+  - Conics
+tldr: The author presents a detailed study of stigmatic geometry, a mathematical theory that deals with the relations between points and lines on a plane. He explains the concepts of stigmatic points, stigmatic curves, and their applications in coordinate relations, including homography, involution, and conics. The author also discusses the use of stigmatic geometry in various fields, such as optics, astronomy, and engineering.
+scientific_discipline: Mathematics > Geometry

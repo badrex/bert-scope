@@ -1,0 +1,10 @@
+article_id: 'rspa_1906_0024'
+revised_title: 'Galvanic Cells and the Influence of Light on Chemical Reactions'
+semantic_tags:
+  - Electrochemistry
+  - Photochemistry
+  - Chemical Equilibrium
+  - Light-Induced Reactions
+  - Galvanic Cells
+tldr: This study investigates the effects of light on galvanic cells and the chemical reactions within them. The authors provide evidence that the velocity of chemical reactions and chemical equilibrium in homogeneous systems follow the laws of mass action under the influence of light. They also explore the nature of chemical processes in light-activated galvanic cells, the relationship between light and heat on these systems, and the connection between chemical velocity and absolute temperature.
+scientific_discipline: Chemistry > Electrochemistry

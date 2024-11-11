@@ -1,0 +1,10 @@
+article_id: 'rspb_1989_0057'
+revised_title: 'Exploring the Role of Fructose 2,6-Bisphosphate Regulation in Photosynthesis Oscillations'
+semantic_tags:
+  - Photosynthesis
+  - Carbon metabolism
+  - Fructose 2,6-bisphosphate regulation
+  - Oscillations in photosynthesis
+  - Mathematical modeling
+tldr: The authors present a mathematical model of the carbon metabolism in photosynthesis and examine the role of fructose 2,6-bisphosphate regulation in explaining oscillations. They conclude that oscillations in photosynthesis cannot be caused by fructose 2,6-bisphosphate control of sucrose synthesis alone and that an additional control of photosynthetic rate must be involved.
+scientific_discipline: Biology and Life Sciences > Photosynthesis

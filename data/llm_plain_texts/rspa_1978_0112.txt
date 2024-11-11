@@ -1,0 +1,10 @@
+article_id: rspa_1978_0112
+revised_title: 'Orientational Relaxation in Nematic Liquid Crystals: An Approximate Analysis'
+semantic_tags:
+  - Liquid Crystals
+  - Continuum Theory
+  - Freedericksz Transition
+  - Nematic Anisotropy
+  - Fluid Motion
+tldr: This paper presents an approximate analysis of the orientational relaxation in nematic liquid crystals. The authors discuss the transition from a strongly distorted orientation of the anisotropic axis to uniform alignment and examine the role of induced fluid motion in this process. They propose an approach to avoid the nonlinearities in the equations by replacing variable coefficients with constant values, providing a reasonably accurate description of the immediate response to the removal of the external field.
+scientific_discipline: Physics > Fluid Dynamics

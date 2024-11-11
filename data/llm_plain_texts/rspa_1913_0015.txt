@@ -1,0 +1,10 @@
+article_id: rspa_1913_0015
+revised_title: 'New Law Relating to Heats of Formation of Solid, Liquid, and Ionic Molecules'
+semantic_tags:
+  - Atomic physics
+  - Chemical bonding
+  - Heat of formation
+  - Ionic size
+  - Atomic volume
+tldr: The authors explore the relationship between ionic size, atomic volume, and the heats of formation of solid, liquid, and ionic molecules. They propose a new empirical law that relates the ionic volumes to the reciprocals of the effective atomic volumes and the change in atomic volume produced by the combination. This law helps explain the heats of formation of compounds and the internal energy of atoms.
+scientific_discipline: Chemistry > Atomic and Molecular Physics

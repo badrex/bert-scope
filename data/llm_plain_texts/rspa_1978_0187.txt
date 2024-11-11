@@ -1,0 +1,10 @@
+article_id: rspa_1978_0187
+revised_title: Fluid Flow Effects on Freezing and Thawing of Saturated Porous Media
+semantic_tags:
+  - Porous media
+  - Fluid flow
+  - Freezing
+  - Thawing
+  - Permafrost
+tldr: This article presents an analytical solution that describes the effect of seepage flow on the freezing and thawing of saturated porous media. The study focuses on how fluid flow influences the shape and growth rates of frozen regions embedded in the porous media, considering the impact of a heat sink on single and multiple frozen regions. Examples are provided to demonstrate the effect of groundwater flow on the thawing of arctic permafrost with and without the presence of permafrost protection devices.
+scientific_discipline: Environmental and Earth Sciences > Hydrogeology

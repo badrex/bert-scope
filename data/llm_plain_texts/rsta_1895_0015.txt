@@ -1,0 +1,10 @@
+article_id: 'rsta_1895_0015'
+revised_title: 'The Ratio of Specific Heats in Compound Gases'
+semantic_tags:
+  - Thermodynamics
+  - Gas laws
+  - Chemical reactions
+  - Molecular energy
+  - Heat capacity
+tldr: The author conducted experiments on methane, ethane, and propane, as well as their halogen derivatives, to study the ratio of specific heats in compound gases. They found that the ratio remains the same for monohalogen derivatives of one paraffin and is also the same as that of the parent hydrocarbon. The author also discussed the distribution of energy in molecules and the role of molecular configuration in determining heat capacity.
+scientific_discipline: Chemistry > Thermodynamics

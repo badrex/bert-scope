@@ -1,0 +1,10 @@
+article_id: 108901
+revised_title: 'A New Geometry of Space: Exploring Right Lines and Configurations'
+semantic_tags:
+  - Analytical Geometry
+  - Space Geometry
+  - Coordinate Systems
+  - Ray Geometry
+  - Hyperboloid and Paraboloid
+tldr: The author introduces a new way of understanding space geometry by considering right lines and their coordinates. They differentiate between two types of right lines and explain how they intersect and interact with each other. The author also discusses the concept of configurations, which are formed by the intersection of multiple complexes of rays or axes, and how they can be represented as hyperboloids or paraboloids.
+scientific_discipline: Mathematics > Analytical Geometry

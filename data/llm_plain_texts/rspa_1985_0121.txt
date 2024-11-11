@@ -1,0 +1,10 @@
+article_id: rspa_1985_0121
+revised_title: 'Chemical Twinning Model for Metallic Glass Structure'
+semantic_tags:
+  - Metallic Glasses
+  - Chemical Twinning
+  - Amorphous Alloys
+  - Crystallography
+  - Structural Modeling
+tldr: The authors propose a model for the structure of metallic glasses based on chemical twinning. They construct and refine the model using a Lennard-Jones 6-12 potential and find that it provides a good fit with experimental structural data for various amorphous transition-metal-metalloid alloys. The model suggests that local coordination polyhedra in metallic glasses are well-defined and similar to those found in crystalline compounds, and that the correlated arrangements of triangular prisms present in crystals may also be present in amorphous structures.
+scientific_discipline: Materials Science > Amorphous Materials

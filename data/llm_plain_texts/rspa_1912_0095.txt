@@ -1,0 +1,10 @@
+article_id: rspa_1912_0095
+revised_title: Trichromatic Theory of Colour Vision: Measuring Retinal Fatigue
+semantic_tags:
+  - Color Vision
+  - Retinal Fatigue
+  - Trichromatic Theory
+  - Color Blindness
+  - Luminosity
+tldr: This article describes a method to measure the amount of retinal fatigue caused by different colors, showing that it produces color-blindness similar to when one of the three color sensations is deficient. The author also demonstrates that the trichromatic theory of color vision can be used to calculate the factor of fatigue, which is the ratio of the unfatigued sensation to the fatigued one. This discovery helps to understand how color perception is affected by retinal fatigue and could lead to improvements in color vision testing and color correction technologies.
+scientific_discipline: Psychology > Perception

@@ -1,0 +1,10 @@
+article_id: rspa_1951_0187
+revised_title: 'Porous Solids Adsorption: Comparing Loose Powders and Porous Plugs'
+semantic_tags:
+  - Adsorption
+  - Porous materials
+  - Capillary condensation
+  - Multilayer formation
+  - Surface area
+tldr: The authors compared adsorption isotherms for loose powders and porous plugs to understand the mechanism of adsorption in porous media. They found that while multilayer formation can fill pores in some cases, capillary condensation is the main method of pore-filling. This study provides insights into the behavior of adsorption in porous materials and has implications for understanding and optimizing their properties.
+scientific_discipline: Chemistry > Materials Science

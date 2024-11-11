@@ -1,0 +1,10 @@
+article_id: rspa_1968_0053
+revised_title: Algebraic Geometry of Slip Line Fields and Applications
+semantic_tags:
+  - Algebraic Geometry
+  - Slip Line Fields
+  - Plastic Material
+  - Boundary Value Problems
+  - Matrix Algebra
+tldr: The authors explore the algebraic-geometry of slip line fields and their applications to boundary value problems in rigid-plastic materials. They use linear operators and matrix algebra to analyze and construct slip line fields, simplifying computations and establishing relationships between distinct fields and different parts of the same field.
+scientific_discipline: Mathematics > Linear Algebra

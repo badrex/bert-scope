@@ -1,0 +1,10 @@
+article_id: rsta_1954_0006
+revised_title: Eddy Diffusion of Momentum, Water Vapour, and Heat Near the Ground: A Study of Turbulent Transport in the Atmosphere
+semantic_tags:
+  - Eddy diffusion
+  - Turbulent transport
+  - Meteorology
+  - Atmospheric science
+  - Wind tunnel studies
+tldr: This study investigates the factors controlling the vertical turbulent transport of momentum, water vapor, and heat in the first 2 meters of air above a grass surface. The authors present the results of 51 observations, measuring wind speed, temperature, and humidity profiles, as well as the rate of evaporation and aerodynamic drag of the surface. They find that the wind speed and temperature profiles have the same form, and that the eddy diffusivity for momentum, water vapor, and heat can be obtained on a direct observational basis. The study also examines the validity of wind profile laws in various stability conditions.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

@@ -1,0 +1,10 @@
+article_id: rspa_1952_0049
+revised_title: Diffraction of Sound Pulses on Regular Gratings
+semantic_tags:
+  - Acoustics
+  - Wave Diffraction
+  - Grating Theory
+  - Sound Pressure
+  - Sound Pulse
+tldr: The authors study the diffraction of a plane sound pulse normally incident on a regular grating of perfectly reflecting strips. They provide an exact solution for the pressure distribution on the grating and discuss the average pressures on the front and back of the strips. The transmitted and reflected pulses at a distance from the grating exhibit a sharp front followed by a pressure rise that may overshoot the incident pressure.
+scientific_discipline: Physics > Acoustics

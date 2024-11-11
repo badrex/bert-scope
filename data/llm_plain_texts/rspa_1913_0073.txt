@@ -1,0 +1,10 @@
+article_id: rspa_1913_0073
+revised_title: Discovery of a New Band Spectrum Associated with Helium
+semantic_tags:
+  - Spectroscopy
+  - Helium
+  - Band spectrum
+  - Gas discharge
+  - Hydrogen
+tldr: Researchers discovered a new band spectrum associated with helium, which they observed in various discharge tubes containing helium and hydrogen. They found that a moderately high pressure and specific discharge conditions were necessary for the spectrum's visibility. Although the exact origin of the spectrum remains uncertain, the researchers attribute it to helium, with the possibility of hydrogen being involved in its production.
+scientific_discipline: Physics > Spectroscopy

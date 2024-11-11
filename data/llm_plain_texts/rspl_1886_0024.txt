@@ -1,0 +1,10 @@
+article_id: rspl_1886_0024
+revised_title: 'A New Thermopile and Galvanometer Combination for Radiation Measurements'
+semantic_tags:
+  - Thermodynamics
+  - Galvanometers
+  - Radiation measurement
+  - Thermopiles
+  - Sensitivity improvement
+tldr: The author, Professor George Forbes, developed a new combination of a thermopile and galvanometer that is highly sensitive for measuring radiation. This new arrangement is especially suitable for use as a line-thermopile and offers simplicity and cost-effectiveness in construction. The author also describes a method to carry delicate Thomson cells without risking damage to the silk fiber suspension.
+scientific_discipline: Physics > Thermodynamics

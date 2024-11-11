@@ -1,0 +1,10 @@
+article_id: 'rspb_1981_0064'
+revised_title: 'Simulating Endplate Potentials in Skeletal Muscle Fibers'
+semantic_tags:
+  - Neurophysiology
+  - Muscle Physiology
+  - Endplate Potentials
+  - Falk-Fatt Model
+  - Cable Models
+tldr: The authors developed a method to compute simulated endplate potentials in skeletal muscle fibers using the Falk-Fatt cable model. They compared the results with the classical cable model and found that the Falk-Fatt model better accounts for the response of mouse muscle fibers, while there are larger discrepancies in frog muscle fibers due to the extended endplate in this species.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

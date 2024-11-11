@@ -1,0 +1,10 @@
+article_id: rsta_1898_0010
+revised_title: Thermal Conductivities of Solids and Liquids and Their Variation with Temperature
+semantic_tags:
+  - Thermal conductivity
+  - Heat transfer
+  - Temperature variation
+  - Solid materials
+  - Liquid materials
+tldr: The authors present a method for determining the thermal conductivities of solids and liquids and their variation with temperature. They describe an experimental setup using discs of materials and copper, and discuss the heat transfer and temperature distribution within the system. The results show the thermal conductivities of various materials, including water, at different temperatures.
+scientific_discipline: Physics > Thermodynamics

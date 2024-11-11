@@ -1,0 +1,10 @@
+article_id: rspl_1899_0080
+revised_title: 'Gelation Mechanism in Reversible Colloidal Systems'
+semantic_tags:
+  - Colloidal chemistry
+  - Gelation
+  - Reversible systems
+  - Ternary mixtures
+  - Surface separation
+tldr: The authors study the process of gelation in reversible colloidal systems, focusing on the ternary mixture of gelatine, water, and alcohol. They observe the formation of a hydrogel and the behavior of the internal and external phases as temperature changes. The authors also discuss the influence of concentration, rate of cooling, and the formation of secondary phases in these systems.
+scientific_discipline: Chemistry > Colloidal chemistry

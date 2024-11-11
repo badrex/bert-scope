@@ -1,0 +1,10 @@
+article_id: rspa_1970_0134
+revised_title: 'Microstructure and Dislocation-Particle Interactions in Deformed Copper and Copper-Zinc Alloys'
+semantic_tags:
+  - Materials Science
+  - Crystallography
+  - Dislocations
+  - Deformation Mechanisms
+  - Alloy Microstructure
+tldr: The authors studied the microstructure of deformed single crystals of copper and copper-zinc alloys containing alumina particles. They found that dislocation structures, such as prismatic loops, Orowan loops, and groups of dipoles, are formed around the particles. The formation of these structures is explained by a cross-slip mechanism controlled by interstitial misfit strains around the particles. The number of prismatic loops generated decreases with temperature, which is explained by pipe or interface diffusion-controlled climb of dislocations at the particles.
+scientific_discipline: Materials Science > Crystallography

@@ -1,0 +1,10 @@
+article_id: rspa_1973_0079
+revised_title: 'Electrostatic and Van Der Waals Forces in Triple-Layer Films'
+semantic_tags:
+  - Electrostatic forces
+  - Van der Waals forces
+  - Triple-layer geometry
+  - Thin films
+  - Aqueous systems
+tldr: The authors study the electrostatic and van der Waals forces in aqueous systems with triple-layer geometry, such as free-standing soap films, clay plates, and lipid membranes. They consider the effects of fluctuating surface charges and the relaxation of the diffuse double layer on the forces and provide a general problem formulation and solutions for these systems.
+scientific_discipline: Physics > Optics

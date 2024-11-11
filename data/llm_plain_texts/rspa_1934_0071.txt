@@ -1,0 +1,10 @@
+article_id: rspa_1934_0071
+revised_title: 'Investigating the Angular Distribution of Electrons in Ionizing Collisions'
+semantic_tags:
+  - Electron scattering
+  - Ionizing collisions
+  - Angular distribution
+  - Atomic physics
+  - Gas atoms
+tldr: The authors conducted experiments to study the angular distribution of electrons in ionizing collisions with various gases. They found that the scattering curves exhibit features such as diffraction effects and a unique maximum that depends on the energies of the incident and outgoing electrons. The results provide valuable information about the collision process and the behavior of atomic electrons.
+scientific_discipline: Physics > Atomic and Molecular Physics

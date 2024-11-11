@@ -1,0 +1,10 @@
+article_id: rspa_1929_0016
+revised_title: Tidal Waves in Rotating Oceans: A Study of Semi-Circular Basins
+semantic_tags:
+  - Tides
+  - Oceanography
+  - Fluid dynamics
+  - Rotating systems
+  - Basin geometry
+tldr: This article explores the behavior of tidal waves in rotating oceans, specifically in semi-circular basins. The author develops a mathematical model to analyze the depth and geometry of the basin, and the resulting nodal lines and normal modes of oscillation. The study provides insights into the dynamics of tides in oceans and can be applied to real-world scenarios.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

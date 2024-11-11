@@ -1,0 +1,10 @@
+article_id: rspa_1993_0121
+revised_title: 'Inequalities of the Kolmogorov Type for Second-Order Differential Expressions'
+semantic_tags:
+  - Differential Equations
+  - Inequalities
+  - Titchmarsh-Weyl Function
+  - Symmetric Operators
+  - Limit-Point Case
+tldr: This article discusses an integro-differential inequality involving a second-order differential expression. The authors establish a connection between the existence of the inequality and the Titchmarsh-Weyl function, showing that the best constant in the inequality is determined by the behavior of the function. The article provides a criterion for the validity of the inequality and examines various examples, giving estimates for the best constant and discussing cases of equality.
+scientific_discipline: Mathematics > Differential Equations

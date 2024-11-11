@@ -1,0 +1,10 @@
+article_id: 'rspb_1984_0012'
+revised_title: 'Influence of Vitamin A and Interleukin-2 on Neonatal Tolerance'
+semantic_tags:
+  - Immunology
+  - Tolerance
+  - Vitamin A
+  - Interleukin-2
+  - Allograft rejection
+tldr: The study investigates the effects of a diet enriched in vitamin A acetate or in vivo administration of interleukin-2 on neonatal tolerance. The results show that both the VAA diet and IL-2 treatment can counteract a tolerogenic stimulus, leading to a reduced tolerance and faster allograft rejection in mice. This finding supports the hypothesis that two signals are required for T-cell activation, and it broadens the possibilities of using retinoid substances and IL-2 as immunopharmacological agents.
+scientific_discipline: Immunology > T-cell activation

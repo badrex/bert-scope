@@ -1,0 +1,10 @@
+article_id: 'rstb_1990_0055'
+revised_title: 'Bombesin and its Receptor: A Key to Understanding Cellular Growth and Signal Transduction'
+semantic_tags:
+  - Neuropeptides
+  - Signal Transduction
+  - Cell Growth
+  - Mitogenesis
+  - Receptor Biology
+tldr: The article discusses the role of bombesin, a neuropeptide, in stimulating fibroblast mitogenesis. It explains how bombesin binds to specific receptors on the cell surface, triggering a cascade of molecular events, including the activation of protein kinase C, elevation of cyclic adenosine monophosphate, and expression of proto-oncogenes c-fos and c-myc. These findings contribute to understanding the molecular mechanisms of cell growth and differentiation.
+scientific_discipline: Biology and Life Sciences > Cell Biology

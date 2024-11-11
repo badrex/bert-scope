@@ -1,0 +1,10 @@
+article_id: rspa_1911_0051
+revised_title: 'Spectroscopic Investigations of Nitrogen Afterglow'
+semantic_tags:
+  - Spectroscopy
+  - Nitrogen
+  - Afterglow
+  - Gas Discharge
+  - Atomic Spectra
+tldr: The authors conducted spectroscopic investigations on the afterglow of nitrogen gas. They discovered three groups of bands in the red, yellow, and green regions of the spectrum, which they identified as the first positive, second positive, and third positive groups of nitrogen bands. The study revealed that these bands are related and form a connected system, but have no evident relation to other series of nitrogen bands. The afterglow bands tend to disappear from the spectrum of the exciting discharge and reappear with modified intensities in the afterglow.
+scientific_discipline: Physics > Spectroscopy

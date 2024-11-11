@@ -1,0 +1,10 @@
+article_id: 'rsta_1984_0131'
+revised_title: 'Sodium Atoms in Fabry-Perot Resonators: Studies of Static and Dynamic Behavior in Transverse Magnetic Fields'
+semantic_tags:
+  - Optics
+  - Nonlinear Optics
+  - Atomic Physics
+  - Quantum Optics
+  - Magnetic Fields
+tldr: The authors studied the behavior of sodium atoms in Fabry-Perot resonators under transverse magnetic fields. They observed optical bistability, tristability, and critical slowing-down, as well as magnetically induced self-pulsing. The experimental results were explained using a model by Kitano, Yabuzaki, and Ogawa, and the modified equations of motion were compared to experimental observations.
+scientific_discipline: Physics > Optics

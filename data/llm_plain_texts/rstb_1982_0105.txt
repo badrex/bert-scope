@@ -1,0 +1,10 @@
+article_id: 'rstb_1982_0105'
+revised_title: 'Interferon Production Mechanism: Advances and Insights'
+semantic_tags:
+  - Interferon
+  - Molecular Biology
+  - Gene Expression
+  - Virus-Cell Interactions
+  - Cellular Differentiation
+tldr: This article discusses the mechanism of interferon production, focusing on the production of interferon-a and interferon-p. The author explains how cells are induced to produce interferons when treated with viruses or double-stranded RNA. The article also explores the molecular basis of gene expression and the control mechanisms involved in interferon production.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

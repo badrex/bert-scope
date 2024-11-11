@@ -1,0 +1,10 @@
+article_id: rspa_1969_0141
+revised_title: Field-Ion Microscopy Investigation of Radiation Damage Annealing in Tungsten
+semantic_tags:
+  - Materials Science
+  - Radiation Damage
+  - Field-Ion Microscopy
+  - Tungsten
+  - Annealing
+tldr: The authors used field-ion microscopy to study the annealing of radiation damage in tungsten. They found that stage III annealing in tungsten is associated with the migration of single vacancies to small clusters rather than the migration of interstitial defects. The study provides insights into the recovery processes of radiation damage in tungsten and helps in understanding the behavior of materials under extreme conditions.
+scientific_discipline: Materials Science > Materials Characterization

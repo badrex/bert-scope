@@ -1,0 +1,10 @@
+article_id: 'rsbm_1965_0002'
+revised_title: 'Leonard Bairstow's Contributions to Fluid Dynamics and Aeronautics'
+semantic_tags:
+  - Aerodynamics
+  - Fluid Dynamics
+  - Aeronautics
+  - Wind Tunnel Design
+  - Boundary Layer Theory
+tldr: 'Leonard Bairstow was a prominent figure in the fields of aerodynamics and fluid dynamics. He made significant contributions to wind tunnel design, aircraft stability, and the numerical solution of equations of motion for perfect and viscous fluids. Bairstow's work on boundary layer theory and the stability of aircraft is still widely recognized today.'
+scientific_discipline: Engineering and Technology > Aerospace Engineering

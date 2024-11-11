@@ -1,0 +1,10 @@
+article_id: 105708
+revised_title: A Defence of Mercator's Nautical Planisphere
+semantic_tags:
+  - Navigation
+  - Cartography
+  - Marine science
+  - Astronomy
+  - Mathematics
+tldr: The authors defend Mercator's method of constructing a nautical planisphere and compare it to Edward Wright's method. They argue that both methods are based on similar principles and that the errors in the plain chart are corrected by Mercator's or Wright's chart. The authors also discuss the differences between the methods and provide a comparison of their respective constructions.
+scientific_discipline: Mathematics > Cartography

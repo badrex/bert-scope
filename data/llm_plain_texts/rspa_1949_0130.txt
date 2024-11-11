@@ -1,0 +1,10 @@
+article_id: rspa_1949_0130
+revised_title: 'Optical Diffraction Patterns from Bubble Rafts: Techniques and Observations'
+semantic_tags:
+  - Diffraction
+  - Bubble Rafts
+  - Crystal Lattices
+  - Optics
+  - Atomic Patterns
+tldr: This article describes a method to obtain optical diffraction patterns from bubble rafts, which are analogous to X-ray and electron diffraction patterns found in crystal materials. The authors discuss early experiments, defects in the patterns, and techniques to improve resolution and uniformity. The results provide insights into the atomic patterns within crystal structures and have implications for understanding interatomic forces and diffraction phenomena.
+scientific_discipline: Physics > Optics

@@ -1,0 +1,10 @@
+article_id: 105444
+revised_title: 'Efficient Methods for Calculating Time, Weight, and Water Volume'
+semantic_tags:
+  - Mathematics
+  - Astronomy
+  - Measurement
+  - Physics
+  - Engineering
+tldr: The author presents short and easy methods for calculating the time contained in mean lunations, the number of mean lunations in a given time, the weight conversion between troy and avoirdupois pounds, and the volume and weight of water in a pipe of given height and diameter. These methods involve decimal calculations and can be useful in various fields, including astronomy, engineering, and physics.
+scientific_discipline: Mathematics > Applied Mathematics

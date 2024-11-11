@@ -1,0 +1,10 @@
+article_id: 'rspb_1956_0064'
+revised_title: 'Protein Monolayer Interactions and Structural Changes'
+semantic_tags:
+  - Protein-protein interactions
+  - Surface chemistry
+  - Protein monolayers
+  - Fibrinogen
+  - Thrombin
+tldr: The authors studied the interaction of protein monolayers with dissolved proteins, focusing on fibrinogen, thrombin, and plasma albumin. They found that the increase in surface pressure depends on the initial surface pressure of the monolayer and the ionic strength of the substrate. No specific interaction was observed between fibrinogen and thrombin, suggesting that the specific interaction involves at least two groups in each protein held at a critical spacing. The study provides insights into protein-protein interactions and their structural changes.
+scientific_discipline: Biology and Life Sciences > Biochemistry

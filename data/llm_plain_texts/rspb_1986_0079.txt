@@ -1,0 +1,12 @@
+article_id: 'rspb_1986_0079'
+revised_title: 'Expression of Neurotensin and Substance P Receptors in Xenopus Oocytes'
+semantic_tags:
+  - Neurotransmitters
+  - Receptor proteins
+  - Xenopus oocytes
+  - mRNA
+  - Neurotensin
+  - Substance P
+tldr: Researchers discovered that injecting Xenopus oocytes with specific fractions of mRNA from rat brain can induce sensitivity to neurotensin and substance P. The responses to these neuropeptides involve membrane currents and oscillations, and are not blocked by antagonists. The study suggests that these receptors may be linked to a common intracellular messenger pathway.
+
+scientific_discipline: Biology and Life Sciences > Neurobiology

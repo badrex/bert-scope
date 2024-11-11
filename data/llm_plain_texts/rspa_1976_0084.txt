@@ -1,0 +1,10 @@
+article_id: rspa_1976_0084
+revised_title: 'Molecular Orbital Model of Covalency in Chromium Hexafluoride'
+semantic_tags:
+  - Crystallography
+  - Molecular Orbital Theory
+  - Covalency
+  - Transition Metal Chemistry
+  - Neutron Diffraction
+tldr: The authors studied the covalency in the chromium hexafluoride compound using a molecular orbital model. They measured the magnetic moment density using polarized neutron diffraction and found that the orbital magnetic moment is quenched in the chromium ions. The results provide insights into the bonding between transition metal ions and neighboring atoms in insulators.
+scientific_discipline: Chemistry > Molecular Orbital Theory

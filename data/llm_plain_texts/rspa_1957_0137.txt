@@ -1,0 +1,10 @@
+article_id: rspa_1957_0137
+revised_title: 'Steady-State Bubbles and Taylor Instability'
+semantic_tags:
+  - Fluid Dynamics
+  - Bubble Dynamics
+  - Taylor Instability
+  - Free Surface Flows
+  - Froude Number
+tldr: The article presents a theory of steady motion of a long bubble rising through a vertical liquid, showing that the flow speed can be prescribed and a criterion of stability can be used to determine the unique physically significant flow. The author estimates the Froude number for this flow, which is a measure of the velocity of the bubble, and compares it to previous experimental and theoretical values.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1920_0039
+revised_title: Richardson's Theory on Atmospheric Eddies and Energy Supply
+semantic_tags:
+  - Atmospheric Science
+  - Turbulence
+  - Eddies
+  - Thermodynamics
+  - Fluid Dynamics
+tldr: This article by Lewis F. Richardson and Sir Napier Shaw extends Osborne Reynolds' theory of the Criterion of Turbulence to include the case where work is done by eddies acting as thermodynamic engines in a gravitating atmosphere. They study the supply of energy to atmospheric eddies, considering factors such as temperature changes, radiation, and molecular viscosity. The authors propose a method to calculate the rate of energy supplied to eddies, which can help understand the behavior of atmospheric turbulence.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

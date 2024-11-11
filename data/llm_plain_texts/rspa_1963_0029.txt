@@ -1,0 +1,10 @@
+article_id: rspa_1963_0029
+revised_title: 'Non-Linear Brownian Movement: A Generalized Rayleigh Model'
+semantic_tags:
+  - Non-linear Brownian movement
+  - Rayleigh model
+  - Damping law
+  - Fluctuation theory
+  - Statistical mechanics
+tldr: The authors investigate the non-linear Brownian movement of a generalized Rayleigh model, which involves a piston with velocity fluctuations due to collisions of two gas mixtures on each side. They analyze the model using an exact Master equation and expand it systematically in reciprocal powers of the piston mass. The study provides insights into non-linear fluctuations and helps establish a connection between the non-linear phenomenological damping law and the equilibrium distribution of the system.
+scientific_discipline: Physics > Statistical mechanics

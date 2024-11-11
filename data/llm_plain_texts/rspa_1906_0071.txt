@@ -1,0 +1,10 @@
+article_id: rspa_1906_0071
+revised_title: 'Investigation of the Specific Inductive Capacities of Dry Paper and Solid Cellulose'
+semantic_tags:
+  - Dielectric materials
+  - Capacitance
+  - Insulation
+  - Paper properties
+  - Cellulose
+tldr: The authors conducted experiments to determine the specific inductive capacities of dry paper and solid cellulose. They tested various samples of paper and found that the specific inductive capacity was influenced by factors such as density and arrangement of cellulose fibers and air spaces. The results provide valuable information for understanding the properties of dielectric materials used in electrical insulation.
+scientific_discipline: Physics > Electromagnetism

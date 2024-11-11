@@ -1,0 +1,10 @@
+article_id: rsta_1981_0195
+revised_title: Unsteady Shearing Flow Over a Slot: A Linearized Theory
+semantic_tags:
+  - Fluid Dynamics
+  - Shear Layer
+  - Vorticity
+  - Boundary Layer
+  - Aerodynamics
+tldr: The authors propose a linearized theory for the unstable motion of a thin shear layer formed in a slot by unequal parallel mean flows on opposite sides of a thin rigid plate. They use Liepmann's asymptotic displacement thickness representation to model the quasi-periodic ejection of vorticity from the slot at its trailing edge. The theory predicts that energy can be extracted from the mean flow by disturbances satisfying specific criteria, and it is compared with Ronneberger's observations of shear layer motion over a wall cavity.
+scientific_discipline: Physics > Fluid Dynamics

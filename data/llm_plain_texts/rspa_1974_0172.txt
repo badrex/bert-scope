@@ -1,0 +1,10 @@
+article_id: rspa_1974_0172
+revised_title: 'Perturbations of Space-Times in General Relativity: Algebraic Type {22} and Decoupled Equations'
+semantic_tags:
+  - General Relativity
+  - Space-Time Perturbations
+  - Algebraic Type {22}
+  - Decoupled Equations
+  - Kerr Black Holes
+tldr: The authors propose a definition of perturbations of space-times in general relativity and explore the conditions under which a gauge-invariant analysis of perturbations is possible. They find that only vacuum space-times with algebraic type {22} allow for a complete determination of first-order perturbations. The study focuses on the subclass of type {22} space-times, including Kerr black holes, where the decoupled perturbation equations can be solved by separation of variables.
+scientific_discipline: Physics > General Relativity

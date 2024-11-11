@@ -1,0 +1,10 @@
+article_id: rspa_1964_0118
+revised_title: Nuclear Electron Double Resonance at High Magnetic Fields
+semantic_tags:
+  - Nuclear Magnetic Resonance
+  - Electron Paramagnetic Resonance
+  - Dynamic Nuclear Polarization
+  - High Magnetic Fields
+  - Chemical Shifts
+tldr: The authors conducted nuclear electron double resonance experiments at 12,500 Gauss magnetic field, exploring the possibilities of dynamic nuclear polarization in high magnetic fields. They found that the extreme narrowing condition can still be applied in these high magnetic fields, providing useful information about the system. The results support the assumption of dipolar coupling and indicate that the dominant relaxation mechanism in the solution is double spin flips responsible for dynamic polarization.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rspa_1967_0137
+revised_title: 'Hertzian Fracture: Stress Field and Crack Path Analysis'
+semantic_tags:
+  - Fracture Mechanics
+  - Hertzian Fracture
+  - Stress Field
+  - Crack Path
+  - Brittle Solids
+tldr: The authors study the fracture of a brittle solid under a spherical indenter, focusing on the stress field and crack path. They demonstrate that the crack growth should be orthogonal to the most tensile principal stress and explain Auerbach's law, which states that the critical load for cone crack production is proportional to the radius of the indenter sphere. The Hertzian fracture test allows for measuring surface energy at the fracture surface, independent of knowledge about pre-existing flaws.
+scientific_discipline: Engineering and Technology > Materials Science

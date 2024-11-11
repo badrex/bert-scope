@@ -1,0 +1,10 @@
+article_id: rspa_1994_0086
+revised_title: Poroelasticity Model for Solute Transport in Shale
+semantic_tags:
+  - Poroelasticity
+  - Shale
+  - Solute Transport
+  - Imperfect Membrane
+  - Ion Transport
+tldr: This article presents a model of hindered solute transport in a poroelastic shale, considering the effects of ionic transport and the chemical composition of the pore fluid. The model assumes that the shale behaves as an imperfect ion-exclusion membrane and uses the concept of reflection and transmission coefficients to predict the time-dependent flow of a compressible fluid through the shale. The analysis provides insights into the swelling of shales and the stresses and strains around a swelling wellbore during oil drilling.
+scientific_discipline: Environmental and Earth Sciences > Geology and Geophysics

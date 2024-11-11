@@ -1,0 +1,10 @@
+article_id: rspa_1953_0154
+revised_title: Thermo-Electricity in Alkali Metals and Copper
+semantic_tags:
+  - Thermoelectricity
+  - Low Temperatures
+  - Alkali Metals
+  - Copper
+  - Metals Physics
+tldr: This article presents experimental data on thermo-electricity at low temperatures in sodium, potassium, and copper, which are considered to be 'quasi-ideal' metals. The authors study the influence of impurities on the thermo-electric behavior of these metals and discuss the current state of electron theory in relation to these processes. The results provide valuable information on the fundamentals of electron scattering in metals.
+scientific_discipline: Physics > Materials Science

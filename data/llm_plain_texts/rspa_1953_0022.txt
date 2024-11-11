@@ -1,0 +1,10 @@
+article_id: rspa_1953_0022
+revised_title: 'Kinetics of Cyclopropane Combustion: General Characteristics and Factors Affecting the Reaction'
+semantic_tags:
+  - Combustion kinetics
+  - Cyclopropane oxidation
+  - Reaction mechanisms
+  - Gas-phase reactions
+  - Surface effects
+tldr: The authors investigated the slow combustion of cyclopropane, focusing on the general kinetics and factors affecting the reaction. They found that the reaction involves a chain mechanism with degenerate branching and that the initiation step is likely heterogeneous. The rate of the reaction is influenced by surface conditions, oxygen and cyclopropane partial pressures, and the addition of other gases like nitrogen and hydrogen. The results challenge the differentiation between the kinetics of hydrocarbon oxidation in the 'high' and 'low' temperature ranges.
+scientific_discipline: Chemistry > Organic Chemistry

@@ -1,0 +1,10 @@
+article_id: 110457
+revised_title: A Method for Calculating Longitude at Sea
+semantic_tags:
+  - Navigation
+  - Astronomy
+  - Marine science
+  - Geodesy
+  - Longitude
+tldr: William Dunlop presents a set of formulas that can be used to calculate the longitude of a ship's location at sea, given the longitude and latitude of two points and the arc of the great circle between them. This method helps sailors determine their position more accurately while traveling.
+scientific_discipline: Earth Sciences > Geodesy

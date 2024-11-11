@@ -1,0 +1,10 @@
+article_id: rspa_1981_0106
+revised_title: 'Experimental Study of Lift and Drag on a Spherical Particle in a Rotating Liquid'
+semantic_tags:
+  - Fluid Dynamics
+  - Particle Motion
+  - Lift and Drag Forces
+  - Rotating Fluids
+  - Centrifuges
+tldr: 'An experimental study was conducted to analyze the motion of a spherical particle in a liquid rotating as a solid body. The research focused on the lift and drag forces acting on the particle, and the results were compared with theoretical solutions and previous experimental findings. The study is relevant to the design of devices such as cyclones and centrifuges.'
+scientific_discipline: Physics > Fluid Dynamics

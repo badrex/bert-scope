@@ -1,0 +1,10 @@
+article_id: 'rstb_1985_0041'
+revised_title: 'Nociception and Pain: A Comparative Study of Cutaneous Receptors in Humans and Rats'
+semantic_tags:
+  - Pain Research
+  - Nociception
+  - Cutaneous Receptors
+  - Sensory Neuroscience
+  - Comparative Physiology
+tldr: This study compares the response of cutaneous receptors in humans and rats to noxious mechanical stimulation. The researchers found that both species exhibited similar discharge patterns in polymodal C-fibre nociceptors, while low-threshold slowly adapting (SA1 and SA2) mechanoreceptors showed differences in conduction velocities and response patterns. The study concludes that rat receptor populations can serve as models for human afferent input during noxious mechanical stimulation.
+scientific_discipline: Biology and Life Sciences > Neuroscience

@@ -1,0 +1,10 @@
+article_id: rsta_1897_0004
+revised_title: Temperature and Time Effects on Dielectrics' Capacity and Residual Charge
+semantic_tags:
+  - Dielectrics
+  - Electromagnetic capacity
+  - Residual charge
+  - Temperature effects
+  - Time effects
+tldr: The authors conducted experiments to understand the effects of temperature and time on the capacity and residual charge of dielectrics. They examined soda-lime glass and ice, finding that residual charge in glass increases with temperature, while the capacity of ice decreases with time. These findings help to better understand the properties of insulators and their transition to electrolytes.
+scientific_discipline: Physics > Electromagnetism

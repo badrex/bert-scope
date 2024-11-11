@@ -1,0 +1,10 @@
+article_id: rsta_1980_0061
+revised_title: Tensile First Cracking Strain and Strength of Hybrid Composites and Laminates
+semantic_tags:
+  - Composite Materials
+  - Mechanics of Materials
+  - Fracture Mechanics
+  - Laminate
+  - Hybrid Composites
+tldr: This article investigates the tensile first cracking strain and strength of hybrid composites and laminates. The authors explore the factors affecting the failure load and the strain at which cracks first appear in these materials. They also discuss the impact of various parameters, such as the size of the specimen, the dimensions of the components, and the type of fibers used, on the overall performance of the composites.
+scientific_discipline: Engineering and Technology > Materials Science

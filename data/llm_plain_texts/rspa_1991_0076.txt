@@ -1,0 +1,10 @@
+article_id: 'rspa_1991_0076'
+revised_title: 'Kolmogorov's Ideas on Turbulence and Stochastic Processes: Dissipation of Energy in Locally Isotropic Turbulence'
+semantic_tags:
+  - Turbulence
+  - Fluid dynamics
+  - Stochastic processes
+  - Kolmogorov's theory
+  - Dissipation of energy
+tldr: This article discusses the dissipation of energy in locally isotropic turbulence, building upon Kolmogorov's ideas. The author presents equations and assumptions to describe the behavior of turbulence and its energy distribution. The findings can be used to determine the constant and understand the relationship between correlation coefficients and the local scale of turbulence.
+scientific_discipline: Physics > Fluid dynamics

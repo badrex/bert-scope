@@ -1,0 +1,10 @@
+article_id: rspa_1955_0203
+revised_title: 'Shell Model Pairing: Comparing L-S, j-j, and Super Multiplet Theories'
+semantic_tags:
+  - Nuclear Physics
+  - Shell Model
+  - Pairing Schemes
+  - Nuclear Magnetic Moments
+  - Quantum Mechanics
+tldr: The article compares three types of shell models - L-S pairing, j-j pairing, and super multiplet theory - for light nuclei. It explains how these models can be used to calculate nuclear magnetic moments and discusses their applications in nuclear physics. The L-S pairing scheme is found to be a good approximation for light nuclei, while the j-j coupling scheme may be more suitable for heavy nuclei.
+scientific_discipline: Physics > Nuclear Physics

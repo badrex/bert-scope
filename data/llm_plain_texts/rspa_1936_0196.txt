@@ -1,0 +1,10 @@
+article_id: rspa_1936_0196
+revised_title: Anomalous Scattering of Protons in Light Elements: Experimental Study and Results
+semantic_tags:
+  - Nuclear physics
+  - Scattering
+  - Protons
+  - Light elements
+  - Atomic interactions
+tldr: This article presents an experimental study on the anomalous scattering of protons in light elements such as silver, aluminum, boron, and beryllium. The author measures the rate of diffusion of hydrogen through nickel at various pressures and temperatures, and advances a tentative theory to explain the continued effect of pressure after adsorption is nearly complete. The results show that aluminum and beryllium exhibit an excess scattering for faster protons, with the excess being greater at a closer distance of approach.
+scientific_discipline: Physics > Nuclear Physics

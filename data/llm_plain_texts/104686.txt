@@ -1,0 +1,10 @@
+article_id: 104686
+revised_title: Improvements to the Mariners Compass for General Use
+semantic_tags:
+  - Navigation
+  - Compass technology
+  - Marine instruments
+  - Astronomy
+  - Geomagnetism
+tldr: This article describes improvements made to the mariner's compass by Doctor Knight and John Smeaton. These improvements aim to enhance the stability and accuracy of the compass, making it more useful for taking magnetic azimuth, amplitude of the Sun and Stars, and bearings of distant objects. The authors provide detailed instructions on how to use the improved compass and explain the various components of the instrument.
+scientific_discipline: Environmental and Earth Sciences > Geomagnetism

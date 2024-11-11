@@ -1,0 +1,10 @@
+article_id: rspa_1977_0136
+revised_title: High-frequency Scattering in a Stratified Medium: The Three-part Problem
+semantic_tags:
+  - Wave Propagation
+  - Asymptotic Analysis
+  - Geometric Optics
+  - Creeping Rays
+  - Impedance Discontinuity
+tldr: This article studies the high-frequency scattering of scalar waves in a two-dimensional stratified medium with varying impedance values. The author presents a rigorous asymptotic technique to find a high-frequency approximation to the solution and proves that it is asymptotic to the exact field in the limit of high frequency. The results show that energy propagates through Keller's creeping modes, with mode conversion occurring at points of impedance discontinuity.
+scientific_discipline: Physics > Electromagnetism

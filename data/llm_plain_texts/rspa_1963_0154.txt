@@ -1,0 +1,10 @@
+article_id: rspa_1963_0154
+revised_title: Migration and Coalescence of Inert Gas Bubbles in Metals: Observations and Implications
+semantic_tags:
+  - Materials Science
+  - Bubble Migration
+  - Surface Diffusion
+  - Inert Gas Bubbles
+  - Metal Properties
+tldr: This study investigates the migration and coalescence of inert gas bubbles in metals, specifically in thin copper films. The researchers found that bubbles move through the metal due to surface diffusion and can coalesce, causing an increase in the overall volume of the metal. The findings have implications for the use of reactor materials and understanding the behavior of inert gas bubbles in metals.
+scientific_discipline: Materials Science > Metal Properties

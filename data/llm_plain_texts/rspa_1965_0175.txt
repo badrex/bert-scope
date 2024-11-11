@@ -1,0 +1,10 @@
+article_id: rspa_1965_0175
+revised_title: 'Electron Distribution in Plane Magnetrons: A Comprehensive Analysis'
+semantic_tags:
+  - Magnetron Physics
+  - Electron Distribution
+  - Crossed Electric and Magnetic Fields
+  - Electron Trajectories
+  - Thermal Equilibrium
+scientific_discipline: Physics > Electromagnetism
+tldr: The article presents a complete analysis of the electron distribution in plane magnetrons with a thermal emitter, considering various types of prescribed electric potentials. The author provides a detailed study of the electron distribution in zero, constant, and linearly rising electric fields, offering insights into the physical origin of different space charge distributions, such as triangular, single-stream, and double-stream. The findings can help improve the understanding of electron density distribution in magnetron oscillators and crossed-field amplifiers.

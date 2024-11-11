@@ -1,0 +1,10 @@
+article_id: rspa_1958_0007
+revised_title: Critical Heat Currents in Wide Channels and Superfluid Turbulence
+semantic_tags:
+  - Superfluidity
+  - Mutual friction
+  - Turbulence
+  - Helium
+  - Vortex lines
+scientific_discipline: Physics > Fluid Dynamics
+tldr: The authors conducted experiments on critical heat currents in wide channels of liquid helium and studied the build-up of Gorter-Mellink mutual friction. They found that as the channel width increased or the temperature was raised, the subcritical mutual friction increased until the critical heat current ceased to exist. The results suggest that the mutual friction is associated with turbulence in the superfluid, likely in the form of vortex lines.

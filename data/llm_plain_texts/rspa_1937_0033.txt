@@ -1,0 +1,10 @@
+article_id: rspa_1937_0033
+revised_title: Temperature Coefficients in Anion-Catalyzed Decomposition of Nitramide
+semantic_tags:
+  - Chemical kinetics
+  - Catalysis
+  - Acid-base catalysis
+  - Nitramide decomposition
+  - Temperature coefficients
+tldr: This study investigates the temperature coefficients in the anion-catalyzed decomposition of nitramide. The authors found that the catalytic constant for anion catalysts varies with temperature, while the Arrhenius factor A remains nearly constant. The results provide insights into the theoretical basis of the Bronsted equation and the factors affecting reaction velocities.
+scientific_discipline: Chemistry > Chemical kinetics and catalysis

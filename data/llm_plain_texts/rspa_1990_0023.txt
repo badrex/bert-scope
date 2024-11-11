@@ -1,0 +1,10 @@
+article_id: rspa_1990_0023
+revised_title: 'Kelvin Ship-Wave Source: Near-Field Convergent Expansion of an Integral'
+semantic_tags:
+  - Fluid Dynamics
+  - Ship Wave Resistance
+  - Wave Theory
+  - Mathematical Physics
+  - Integral Calculus
+tldr: The author presents a new method for evaluating the integral term in the Kelvin ship-wave source potential, which is essential in the mathematical theory of wave resistance of ships. The near-field convergent expansion of the integral is achieved by reducing it to loop integrals and using recurrence relations for the involved polynomials and functions. This method provides a more efficient way to compute Kelvin wave source potentials for numerical applications.
+scientific_discipline: Mathematics > Applied Mathematics

@@ -1,0 +1,10 @@
+article_id: 'rspa_1970_0152'
+revised_title: 'Kinetic Isotope Effects in the Ionization of Carbon Acids'
+semantic_tags:
+  - Isotope effects
+  - Ionization
+  - Carbon acids
+  - Kinetics
+  - Organic chemistry
+tldr: The authors studied the rate constants of proton and deuteron abstraction from various carbon acids by different bases. They measured the rates of ionization using halogens as scavengers and found that the kinetic isotope effects varied depending on the nature of the acid and base. The results confirmed the regularities previously found in similar reactions and showed that sterically hindered pyridine bases give rise to abnormally high isotope effects.
+scientific_discipline: Chemistry > Organic Chemistry

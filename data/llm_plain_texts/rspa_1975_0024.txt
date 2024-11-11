@@ -1,0 +1,10 @@
+article_id: rspa_1975_0024
+revised_title: 'Kinetics and Mechanism of 2,3-Dimethylbutane Pyrolysis'
+semantic_tags:
+  - Alkane cracking
+  - Pyrolysis
+  - Chain reactions
+  - Radical reactions
+  - Self-inhibition
+tldr: The pyrolysis of 2,3-dimethylbutane was studied to understand the role of isopropyl radicals in the reaction mechanism. The authors found that the reaction proceeds via a Rice-Herzfeld chain scheme with self-inhibition due to hydrogen abstraction from the major olefin product, 2-methyl-2-butene. The mechanism and rate parameters were determined and agreed with previous measurements, thermochemical calculations, and experimental observations.
+scientific_discipline: Chemistry > Organic Chemistry

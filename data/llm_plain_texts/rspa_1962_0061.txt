@@ -1,0 +1,10 @@
+article_id: rspa_1962_0061
+revised_title: 'Hydromagnetic Stability of Flow Between Rotating Cylinders'
+semantic_tags:
+  - Fluid dynamics
+  - Magnetohydrodynamics
+  - Rotating cylinder viscometer
+  - Chandrasekhar's theory
+  - Niblett's experiment
+tldr: The authors conducted experiments on the hydromagnetic stability of flow between rotating cylinders using a rotating cylinder viscometer. They investigated the effects of a magnetic field on the flow and found that increasing the magnetic field reduces the torque. The results suggest that the shape assumption proposed by Stuart in his nonlinear theory of supercritical flow may be valid in the hydromagnetic case as well.
+scientific_discipline: Physics > Fluid dynamics

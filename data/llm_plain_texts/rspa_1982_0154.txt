@@ -1,0 +1,10 @@
+article_id: rspa_1982_0154
+revised_title: Symmetry Analysis of Ion Pair States in Crystals
+semantic_tags:
+  - Crystallography
+  - Symmetry
+  - Ion pairs
+  - Magnetic ions
+  - Point groups
+tldr: The authors present a symmetry analysis of the energy levels of ion pairs in crystals, focusing on the interaction between magnetic ions. They develop a formal symmetry reduction method that does not depend on assumptions about the interaction details. The theory is applicable to both magnetic and non-magnetic hosts and accounts for spin-orbit coupling. The study aims to provide a general understanding of the energy levels of ion pairs in crystals, which can be useful for interpreting pair spectra.
+scientific_discipline: Physics > Crystallography

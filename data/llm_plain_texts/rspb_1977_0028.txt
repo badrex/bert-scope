@@ -1,0 +1,10 @@
+article_id: 'rspb_1977_0028'
+revised_title: 'The Impact of Calcium-Ionophores on Acetylcholine Release from Schwann Cells'
+semantic_tags:
+  - Neurotransmitter release
+  - Calcium ionophores
+  - Schwann cells
+  - Acetylcholine
+  - Denervation
+tldr: This study examines the effect of calcium-ionophores on acetylcholine release from Schwann cells. The results show that ionophores increase the release of acetylcholine from nerve terminals but decrease the release from Schwann cells. This suggests that two different systems may be involved in the release of substances from cells, one activated by a rise in intracellular calcium and the other inhibited, like in Schwann cells.
+scientific_discipline: Biology and Life Sciences > Neurobiology

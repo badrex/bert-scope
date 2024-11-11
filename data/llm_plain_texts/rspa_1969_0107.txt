@@ -1,0 +1,10 @@
+article_id: rspa_1969_0107
+revised_title: Hyperfine Interactions and Ion Implantation in Xenon-133 Sources
+semantic_tags:
+  - Ion implantation
+  - Hyperfine interactions
+  - Mossbauer effect
+  - Xenon-133
+  - Material science
+tldr: The authors conducted experiments on ion implantation of xenon-133 sources and studied the hyperfine interactions using the Mossbauer effect. They discovered two main types of sites for the implanted Xe atoms: high field sites with a large isomer shift and low (or zero) field sites with a smaller isomer shift. The intensity ratio of the Mossbauer spectra at these sites varies irregularly at low concentrations, while at high doses or after annealing, the ratio becomes large. The results suggest that the recoilless fraction is higher at high field sites than at low field sites.
+scientific_discipline: Physics > Material Science

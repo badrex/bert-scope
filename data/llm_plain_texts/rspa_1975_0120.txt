@@ -1,0 +1,10 @@
+article_id: rspa_1975_0120
+revised_title: Infrared Spectrum and Hydrogen Bonding in Water-Hydrogen Fluoride Complex
+semantic_tags:
+  - Hydrogen bonding
+  - Infrared spectroscopy
+  - Water-hydrogen fluoride complex
+  - Molecular geometry
+  - Thermodynamic properties
+tldr: The authors studied the infrared spectrum of the 1:1 complex between water and hydrogen fluoride in the vapor phase. They observed three bands associated with the stretching vibration of HF, bending of the water molecule, and two bending vibrations of the hydrogen bond itself. The enthalpy of association between water and hydrogen fluoride was calculated to be -26 kJ/mol at just above room temperature, and the potential energy well depth for the interaction was found to be -30 kJ/mol. The study provides insights into the thermodynamic properties and molecular geometry of the complex.
+scientific_discipline: Chemistry > Spectroscopy

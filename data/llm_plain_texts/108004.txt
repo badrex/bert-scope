@@ -1,0 +1,10 @@
+article_id: '108004'
+revised_title: 'Experimental Researches on the Electrical Conductivity of Ice and Other Substances'
+semantic_tags:
+  - Electrochemistry
+  - Electrical conductivity
+  - Ice conductivity
+  - Decomposition
+  - Voltaic battery
+tldr: 'Faraday discovered that ice is a non-conductor of electricity and that the electrical conductivity of a substance changes when it transitions from a liquid to a solid state. He demonstrated this by conducting experiments with ice, water, and other fusible substances using a voltaic battery and a galvanometer. This finding has important implications for understanding the behavior of electricity and electrochemical reactions.'
+scientific_discipline: Chemistry > Electrochemistry

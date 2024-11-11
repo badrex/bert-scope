@@ -1,0 +1,10 @@
+article_id: rsta_1980_0266
+revised_title: Phase Equilibria and Critical Lines in Binary van der Waals Mixtures
+semantic_tags:
+  - Thermodynamics
+  - Phase Equilibria
+  - van der Waals Equation
+  - Binary Mixtures
+  - Critical Lines
+tldr: This article studies phase equilibria in binary mixtures using the van der Waals equation of state. It focuses on liquid-liquid equilibria that occur at high pressures and discusses the thermodynamics of critical points, including upper and lower critical solution temperatures. The authors calculate critical lines and phase diagrams for binary mixtures obeying the van der Waals equation, providing insights into the behavior of non-electrolyte liquids and their mixtures.
+scientific_discipline: Chemistry > Thermodynamics

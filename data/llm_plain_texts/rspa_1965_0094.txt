@@ -1,0 +1,10 @@
+article_id: rspa_1965_0094
+revised_title: Fracture Characteristics of Heavy-Walled Pressure Vessels
+semantic_tags:
+  - Fracture mechanics
+  - Materials science
+  - Pressure vessel
+  - Crack toughness
+  - Irradiation damage
+tldr: This article discusses the fracture characteristics of heavy-walled pressure vessels and the crack toughness required for their safe operation. It explores the use of small specimen tests to model crack extension behavior in full-scale vessels and the factors affecting crack toughness, such as stress, sharpness of the crack border, test temperature, and loading speed. The article also presents a 'leak-before-break' concept as a formal procedure for estimating the required crack toughness and discusses the application of this criterion to embrittlement due to radiation.
+scientific_discipline: Engineering and Technology > Materials Science

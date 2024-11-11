@@ -1,0 +1,10 @@
+article_id: rspl_1901_0137
+revised_title: The Law of Pressure of Gases: A Bakerian Lecture
+semantic_tags:
+  - Gas laws
+  - Boyle's law
+  - Manometric gauges
+  - Gas properties
+  - Pressure measurement
+tldr: In this Bakerian Lecture, Lord Rayleigh discusses the law of pressure of gases and presents a new method for measuring gas pressures using two similar manometric gauges. The results show that hydrogen, oxygen, and argon obey Boyle's law, while nitrous oxide exhibits a deviation.
+scientific_discipline: Chemistry > Gas laws

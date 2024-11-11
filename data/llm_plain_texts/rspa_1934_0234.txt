@@ -1,0 +1,10 @@
+article_id: rspa_1934_0234
+revised_title: 'Quantization of the New Field Equations: A New Approach'
+semantic_tags:
+  - Quantum Field Theory
+  - Electrodynamics
+  - New Field Theory
+  - Variational Principles
+  - Quantum Mechanics
+tldr: The authors propose a new method for quantizing the new field equations, which avoids the difficulties of previous theories. They introduce a new form of the classical field equations and apply a variation principle to derive the equations of motion. The new equations are shown to be identical to the old ones in a given coordinate system but cannot be expressed in a covariant spacetime formulation. The authors then discuss the commutation rules for the fundamental variables and the natural units used in their approach.
+scientific_discipline: Physics > Electrodynamics

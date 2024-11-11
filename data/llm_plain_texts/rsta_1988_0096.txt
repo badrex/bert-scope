@@ -1,0 +1,11 @@
+article_id: 'rsta_1988_0096'
+revised_title: 'Solving Scientific Problems on Multiprocessors: A Physical Structure Approach'
+semantic_tags:
+  - Parallel Computing
+  - Computer Architecture
+  - Concurrent Systems
+  - Hypercube Computers
+  - Distributed Memory
+  - Shared Memory
+tldr: The authors introduce a physical analogy to describe problems and high-performance concurrent computers. They discuss the spatial and temporal characteristics of problems and how they lead to parallelism. The paper also reviews the lessons from the use of early hypercubes and explores the unification of distributed, shared, and hierarchical memories, as well as SIMD (Single Instruction Multiple Data) architectures. The authors also show how neural network methods can be used to analyze a general formalism based on interacting strings, leading to possible real-time schedulers and decomposers for massively parallel machines.
+scientific_discipline: Computer Science > Parallel Computing

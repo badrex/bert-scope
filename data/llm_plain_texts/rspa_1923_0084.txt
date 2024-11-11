@@ -1,0 +1,10 @@
+article_id: rspa_1923_0084
+revised_title: 'Hopkinson Pressure Bar: Experiments and Theoretical Analysis'
+semantic_tags:
+  - Pressure bar
+  - Explosives testing
+  - Mechanical engineering
+  - Ballistic pendulum
+  - Stress propagation
+tldr: The authors present experiments and a theoretical analysis of the Hopkinson pressure bar, a device used to measure the pressure produced by detonations and impacts. They discuss the effects of coning the firing end of the bar, the maximum pressure produced by gun cotton detonation, and the propagation of stress along a coned bar. The study provides insights into the mechanics of pressure waves and the limitations of the experimental method.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

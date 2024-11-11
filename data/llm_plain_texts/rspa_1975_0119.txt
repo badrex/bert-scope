@@ -1,0 +1,10 @@
+article_id: rspa_1975_0119
+revised_title: 'Optimizing Windowless Vapour Containment Systems for Absorption Spectroscopy'
+semantic_tags:
+  - Absorption spectroscopy
+  - Vapour containment systems
+  - Non-turbulent flow
+  - Containment system design
+  - Synchrotron radiation
+tldr: The article discusses the dynamics of windowless vapour containment systems for absorption spectroscopy, focusing on the relations between mass loss-rates and path number-density integrals for various geometries. The authors develop a simple relation between the flow regime required to observe optical absorption and the ratio of absorption to gas collisional cross sections. They propose a furnace design that optimizes optical absorption depth with respect to mass loss rate over a wide range of pressures, providing order-of-magnitude improvements over simple orifice impedances.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

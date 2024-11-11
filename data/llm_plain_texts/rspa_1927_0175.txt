@@ -1,0 +1,10 @@
+article_id: 'rspa_1927_0175'
+revised_title: 'Refractive Index and Dispersion of Quartz'
+semantic_tags:
+  - Crystallography
+  - Optical properties
+  - Refractive index
+  - Quartz
+  - Dispersion
+tldr: The authors studied the refractive index and dispersion of quartz, using new and independent values for the crystal's optical properties. They corrected Drude's equation and assigned a finite value to his unknown ultraviolet constant. The study provides a satisfactory agreement and adequate representation of the crystal's optical dispersion.
+scientific_discipline: Physics > Crystallography

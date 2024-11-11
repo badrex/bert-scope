@@ -1,0 +1,10 @@
+article_id: rspa_1942_0071
+revised_title: 'Infra-Red Emission and Band Structure in Flames'
+semantic_tags:
+  - Flame Spectroscopy
+  - Infra-Red Emission
+  - Combustion Processes
+  - Molecular Spectroscopy
+  - Vibration-Rotation Spectrum
+tldr: The authors investigate the spectra of various flames in the infra-red region, focusing on the oxy-hydrogen flame. They discover that the flame emits strong infra-red light and find that the bands observed in the flame are due to the vibration-rotation spectrum of water molecules. This research contributes to the understanding of combustion processes and molecular spectroscopy.
+scientific_discipline: Chemistry > Molecular Spectroscopy

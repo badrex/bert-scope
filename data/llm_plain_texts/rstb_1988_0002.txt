@@ -1,0 +1,10 @@
+article_id: 'rstb_1988_0002'
+revised_title: 'Population Dynamics and Biological Control of Pests, Pathogens, and Weeds'
+semantic_tags:
+  - Population Dynamics
+  - Biological Control
+  - Pest Management
+  - Pathogen Control
+  - Weed Control
+tldr: This article discusses the population dynamics and biological control of pests, pathogens, and weeds. It explores the relationship between host density, infection, and parasitoid dynamics, and the potential for mathematical models to predict and inform control strategies. The authors highlight the importance of field studies to further understand these complex interactions and improve pest, pathogen, and weed management.
+scientific_discipline: Environmental and Earth Sciences > Ecology

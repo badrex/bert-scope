@@ -1,0 +1,10 @@
+article_id: rspa_1952_0114
+revised_title: Bond Energies, Resonance Energies, and Triplet State Energies in Molecular Orbital Theory
+semantic_tags:
+  - Molecular Orbital Theory
+  - Chemical Bonding
+  - Quantum Mechanics
+  - Resonance Energy
+  - Triplet State Energies
+tldr: This article discusses the molecular orbital theory of chemical valency, focusing on bond energies, resonance energies, and triplet state energies. The authors develop a method to calculate these energies using quantum mechanics and molecular orbital quantities. They also compare their method with the Huckel theory, showing that both methods yield identical results for hydrocarbon molecules.
+scientific_discipline: Chemistry > Quantum Chemistry

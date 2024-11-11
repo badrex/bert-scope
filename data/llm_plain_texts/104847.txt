@@ -1,0 +1,10 @@
+article_id: 104847
+revised_title: A Machine for Writing Music: The Invention of Mr. Creed
+semantic_tags:
+  - Music notation
+  - Mechanical instruments
+  - Music technology
+  - Musical composition
+  - Innovation in music
+tldr: In a letter to the Royal Society, John Freke presents a paper by the late Rev. Mr. Creed, detailing a machine that can write down extempore voluntaries or other pieces of music as fast as they are played on an organ or harpsichord. The machine uses a rotating cylinder with nails under the keys of the instrument to create marks on the cylinder that represent musical notes and durations. This invention aimed to improve the speed and accuracy of music notation and could potentially bring great pleasure and improvement to many people worldwide.
+scientific_discipline: Engineering and Technology > Mechanical instruments

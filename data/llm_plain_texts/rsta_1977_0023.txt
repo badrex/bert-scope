@@ -1,0 +1,10 @@
+article_id: 'rsta_1977_0023'
+revised_title: 'Probing Earth's Gravity Field with Satellite-to-Satellite Tracking'
+semantic_tags:
+  - Satellite Tracking
+  - Gravity Field
+  - Geodynamics
+  - Orbit Determination
+  - Earth's Anomalies
+tldr: 'The author explains satellite-to-satellite tracking (SST) as a technique for probing the Earth's gravity field. SST involves tracking one spacecraft from another, allowing for longer contact time, reduced dependency on foreign ground stations, and the ability to detect small variations in the Earth's gravity field. The author discusses two SST tests, ATS-6/Geos-3 and ATS-6/Apollo-Soyuz, and their results, including the detection of gravity anomalies with a signal-to-noise ratio of up to 50:1. The technique has potential for further exploration of the Earth's gravity field and understanding of its upper layers.'
+scientific_discipline: Environmental and Earth Sciences > Geophysics

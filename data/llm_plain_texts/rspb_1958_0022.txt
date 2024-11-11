@@ -1,0 +1,10 @@
+article_id: 'rspb_1958_0022'
+revised_title: 'Cytoplasmic Control and Gene Interaction in Antigen Determination in Paramecium aurelia'
+semantic_tags:
+  - Genetics
+  - Cytoplasmic inheritance
+  - Antigen determination
+  - Paramecium
+  - Gene-environment interaction
+tldr: The author investigates the role of the cytoplasm in antigen determination in Paramecium aurelia. They find that the cytoplasmic states are controlled by environmental factors, previous history, and genes. The genes participate in the system in a precise manner, with a series of antigen-determining genes at different loci having several alleles at each locus. The cytoplasm determines which locus is favored, and the state of the cytoplasm is controlled to some extent by the environment.
+scientific_discipline: Biology and Life Sciences > Genetics

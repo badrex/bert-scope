@@ -1,0 +1,10 @@
+article_id: rspa_1921_0021
+revised_title: 'Ocean Currents and Energy Dissipation: Salinity, Temperature, and Current Relations'
+semantic_tags:
+  - Oceanography
+  - Ocean currents
+  - Energy dissipation
+  - Salinity
+  - Temperature
+tldr: The authors study the effect of viscosity on the dissipation of energy in ocean currents and develop a method to estimate the magnitude of surface currents using salinity or temperature data. They calculate the mean rate of energy dissipation due to permanent currents in the oceans and discuss the relation between currents, salinities, and temperatures. The study provides a better understanding of ocean dynamics and energy exchange.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

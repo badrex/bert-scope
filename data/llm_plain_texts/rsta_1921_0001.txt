@@ -1,0 +1,10 @@
+article_id: rsta_1921_0001
+revised_title: Atmospheric Turbulence and Eddy-Diffusivity Measurements
+semantic_tags:
+  - Atmospheric Science
+  - Turbulence
+  - Eddy-Diffusivity
+  - Meteorology
+  - Fluid Dynamics
+tldr: The authors, Lewis F. Richardson and Sir Napier Shaw, study atmospheric turbulence and its effects on shearing stress and eddy-diffusivity. They propose a new measure of turbulence called "turbulivity" and discuss the anisotropic nature of atmospheric viscosity. The authors also explore the use of smoke and other particles to measure the scattering and diffusivity of air, which can help improve weather prediction models.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

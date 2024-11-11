@@ -1,0 +1,10 @@
+article_id: 'rstl_1872_0006'
+revised_title: 'Corrections to the Computed Wave-Lengths of Light: A Study on Kirchhoff's Spectral Lines'
+semantic_tags:
+  - Wave-Optics
+  - Spectroscopy
+  - Astronomy
+  - Astrophysics
+  - Physics
+tldr: The author, George Biddell Airy, presents corrections to the computed wave-lengths of light published in the Philosophical Transactions of the year 1868. He used a graphical process to compare and correct the wave-lengths, taking into account the measurements of Angstrom and Ditscheiner. The corrections were made to improve the accuracy of the wave-lengths for various spectral lines, including those of the atmosphere and metals.
+scientific_discipline: Physics > Wave-Optics

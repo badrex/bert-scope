@@ -1,0 +1,10 @@
+article_id: rspa_1960_0160
+revised_title: 'Diffraction of Electromagnetic Waves by Metallic Sheets'
+semantic_tags:
+  - Electromagnetic Waves
+  - Diffraction
+  - Metallic Sheets
+  - Boundary Value Problems
+  - Imperfectly Conducting Materials
+tldr: The author presents a new technique for solving the problem of diffraction of electromagnetic plane waves by metallic sheets. The method reduces the original boundary-value problem into two independent boundary-value problems, which can be solved using known solutions. The technique is applicable to the case of oblique incidence on an imperfectly conducting half-plane and can be extended to boundary-value problems involving parallel sheets of imperfectly conducting material.
+scientific_discipline: Physics > Electromagnetism

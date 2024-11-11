@@ -1,0 +1,10 @@
+article_id: rsta_1984_0039
+revised_title: Nucleation of Vorticity by Ions in Superfluid 4He: Basic Theory and Analysis of Axially Loaded Crystals
+semantic_tags:
+  - Superfluidity
+  - Vorticity
+  - Crystallography
+  - Hardening Theory
+  - Materials Science
+tldr: The author presents a comprehensive theoretical investigation of multiple slip in axially tensile-loaded f.c.c. crystals in n-fold symmetry. The analysis is complete to second order in terms of series expansions of all variables in the prescribed small load increment. The study covers four specific hardening theories, including Taylor's classical isotropic rule and the'simple theory' of anisotropic latent hardening. The findings provide unifying relations connecting a generic hardening parameter, its rate of change with load, and the first and second derivatives of axial stretch that hold for all four theories.
+scientific_discipline: Physics > Materials Science

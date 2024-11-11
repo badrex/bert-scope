@@ -1,0 +1,10 @@
+article_id: rspa_1996_0065
+revised_title: 'Dynamic Method for Determining Gas Adsorption Isotherms in Chromatographic Columns'
+semantic_tags:
+  - Gas adsorption
+  - Chromatography
+  - Adsorption isotherms
+  - Binary gas mixtures
+  - Perturbation analysis
+tldr: The authors present a new method for quickly measuring and recording multicomponent gas adsorption data using chromatographic columns. The method involves making perturbations to the composition and flow-rate of gas mixtures, allowing for the determination of adsorption isotherms. This method can be applied to binary gas mixtures and has the potential to improve the design of pressure swing and temperature swing gas adsorption processes.
+scientific_discipline: Chemistry > Physical Chemistry

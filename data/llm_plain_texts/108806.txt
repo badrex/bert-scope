@@ -1,0 +1,10 @@
+article_id: 108806
+revised_title: Skew Surfaces and Their Properties
+semantic_tags:
+  - Geometry
+  - Algebraic Geometry
+  - Surfaces
+  - Curves
+  - Mathematical Analysis
+tldr: The author discusses skew surfaces, also known as scrolls, and their properties. They explain the directrix curves, nodal director, nodal generator, nodal residue, and nodal total of these surfaces. The author also provides formulas for calculating the orders of these surfaces and their components. This research contributes to the understanding of complex geometric shapes and their mathematical properties.
+scientific_discipline: Mathematics > Geometry

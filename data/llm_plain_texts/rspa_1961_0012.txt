@@ -1,0 +1,10 @@
+article_id: rspa_1961_0012
+revised_title: 'Investigation of the Constancy of the Velocity of Light in a Transverse Magnetic Field'
+semantic_tags:
+  - Electromagnetism
+  - Light velocity
+  - Magnetic field effects
+  - Optical alinement
+  - Precision measurements
+tldr: The author investigates the constancy of the velocity of light in a transverse magnetic field using an optical alinement technique. The experiment aimed to detect any change in the direction of a light beam when traversing a magnetic field. No change in the velocity of light was observed in a magnetic field of 8000 O, either for unpolarized light or for light plane polarized at different angles to the magnetic field. The overall r.m.s. error of the investigation was 2-3 parts in 10^13, or about 70/°.
+scientific_discipline: Physics > Electromagnetism

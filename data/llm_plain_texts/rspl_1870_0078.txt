@@ -1,0 +1,10 @@
+article_id: rspl_1870_0078
+revised_title: 'Innovative Atmospheric Pressure Recording Instrument'
+semantic_tags:
+  - Atmospheric pressure
+  - Meteorology
+  - Differential microbarograph
+  - Wave-like atmospheric motions
+  - Barograms
+scientific_discipline: Environmental and Earth Sciences > Meteorology
+tldr: The author, Wildman Whitehouse, developed a new instrument called the "Differential microbarograph" to record minute variations in atmospheric pressure. The instrument uses hydraulic chambers and a buried air-chamber to measure changes in pressure, allowing for continuous, accurate, and sensitive readings. This innovative device can help in understanding wave-like motions and storm patterns in the atmosphere, contributing to meteorological research.

@@ -1,0 +1,10 @@
+article_id: rspa_1995_0049
+revised_title: 'Exploring Mixing Regimes in a Spatially Confined Compressible Mixing Layer'
+semantic_tags:
+  - Fluid Dynamics
+  - Mixing Layers
+  - Compressibility
+  - Numerical Simulations
+  - Turbulence
+tldr: The authors conducted time-dependent two-dimensional numerical simulations to study the evolution of a high-speed compressible mixing layer between hydrogen and oxygen gas streams. They identified three distinct mixing regimes: laminar, convective-mixing, and diffusive-mixing. The study examined the effects of viscosity, molecular diffusion, and compressibility on the mixing process and provided insights into the growth and decay of the mixing layer.
+scientific_discipline: Fluid Dynamics > Mixing Layers

@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0120'
+revised_title: 'Titanium as a Hydrogen Trap in Iron: Implications for Embrittlement'
+semantic_tags:
+  - Materials Science
+  - Hydrogen Embrittlement
+  - Titanium
+  - Iron Alloys
+  - Trap Interaction
+tldr: The authors investigate the effect of titanium on the susceptibility of iron alloys to hydrogen embrittlement. They find that titanium, whether as a dissolved substitutional solute or combined as a carbide, can trap hydrogen, affecting the alloys' susceptibility. The strength of the interaction varies from 0.27 eV for substitutional titanium atoms to 0.98 eV for titanium carbide particles. The authors discuss the use of hydrogen traps to control the degree of embrittlement in structural alloys and recommend fine distribution of reversible traps for better performance.
+scientific_discipline: Materials Science > Iron Alloys and Hydrogen Embrittlement

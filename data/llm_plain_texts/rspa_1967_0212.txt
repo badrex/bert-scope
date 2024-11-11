@@ -1,0 +1,10 @@
+article_id: rspa_1967_0212
+revised_title: 'Oscillator Strengths in the Band System of OH'
+semantic_tags:
+  - Molecular Spectroscopy
+  - Oscillator strengths
+  - Vibration-rotation interaction
+  - Hydroxyl radical
+  - Band system
+tldr: The authors used the Roschdestwensky 'hook' technique to measure oscillator strengths in the band system of the hydroxyl radical (OH). They found that vibration-rotation interaction decreases the oscillator strength for this band by about 7% over the first ten lines of each branch. The absolute oscillator strength obtained for the rotationless molecule is higher than previous measurements, which could help improve the accuracy of temperature calculations in sources like flames and shock tubes.
+scientific_discipline: Physics > Optics

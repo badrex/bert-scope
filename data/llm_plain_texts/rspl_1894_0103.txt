@@ -1,0 +1,10 @@
+article_id: rspl_1894_0103
+revised_title: A Novel Method for Measuring Phase Difference in Alternating Current Systems
+semantic_tags:
+  - Electrical Engineering
+  - Electromagnetism
+  - Alternating Current
+  - Phase Measurement
+  - Instrumentation
+tldr: The authors describe a new instrument for measuring the phase difference between electrical voltage and current in alternating current systems. The device uses a rotating cylinder with a metal wire embedded in its surface, connected to a dial and an index. By adjusting the brushes that make contact with the wire, the instrument can accurately determine the phase difference, providing valuable information for electrical engineering applications.
+scientific_discipline: Engineering and Technology > Electrical Engineering

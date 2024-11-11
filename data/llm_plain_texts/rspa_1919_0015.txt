@@ -1,0 +1,10 @@
+article_id: 'rspa_1919_0015'
+revised_title: 'Electrical Effect in Vibrating Metals: Rusting and Non-Rusting Wires'
+semantic_tags:
+  - Electromagnetism
+  - Material Science
+  - Acoustics
+  - Electrical Engineering
+  - Rusting
+tldr: The authors conducted experiments to study the electrical effect produced by vibrating metals, specifically focusing on the impact of rusting on a wire's ability to generate an electrical effect. They discovered that rusting a wire decreases the electrical effect produced by its vibration more than can be attributed to the increase in resistance due to the decrease in cross-sectional area. This research also led to the discovery of a wider field of research involving the use of metal rings and larger masses of metal.
+scientific_discipline: Physics > Electromagnetism

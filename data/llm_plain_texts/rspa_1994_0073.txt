@@ -1,0 +1,10 @@
+article_id: rspa_1994_0073
+revised_title: Analyzing the Effect of Friction and Inelastic Deformation on Chatter in Sheet Rolling
+semantic_tags:
+  - Sheet rolling
+  - Chatter
+  - Friction
+  - Inelastic deformation
+  - Vibration analysis
+tldr: This article investigates the effect of friction and inelastic deformation on chatter in sheet rolling. The author evaluates the dynamic contribution to the roll force caused by the inelastic deformation of the sheet during the chatter vibration of a rolling stand. The study provides simple spring and damping coefficients that can be used in vibration analysis, and highlights the possibility of negative spring and damping coefficients under certain operating conditions.
+scientific_discipline: Engineering and Technology > Materials Science and Metallurgy

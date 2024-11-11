@@ -1,0 +1,10 @@
+article_id: 'rstl_1883_0018'
+revised_title: 'Magnetic Changes in Compass Deviations of Royal Navy Ships'
+semantic_tags:
+  - Magnetism
+  - Compass Deviation
+  - Naval Engineering
+  - Magnetic Latitude
+  - Iron Ships
+tldr: 'This article examines the changes in compass deviations in iron, iron-plated, and composite-built ships of the Royal Navy as they travel through different magnetic latitudes. The author discusses the effects of hard and soft iron on compass deviations and the role of correcting magnets in adjusting these deviations. The study aims to provide a means of predicting changes in compass deviations for different ships and navigating the world based on their magnetic characteristics.'
+scientific_discipline: Engineering and Technology > Naval Engineering

@@ -1,0 +1,10 @@
+article_id: 110265
+revised_title: Faraday's Experiments on Acoustical Figures and Vibrating Surfaces
+semantic_tags:
+  - Acoustics
+  - Fluid dynamics
+  - Vibrations
+  - Surface phenomena
+  - Nodal lines
+tldr: Michael Faraday investigated the behavior of sand and lycopodium particles on vibrating elastic surfaces. He discovered that the particles arrange themselves in lines, called nodal lines, which indicate the quiescent parts of the plate. Faraday explained that the immediate cause of these motions exists in the surrounding medium, due to the mechanical action of the plate on the medium in contact with it. He also found that the phenomena were more conspicuous when the parchment was made to vibrate under a glass plate held near it. The conclusions were verified by actual experiments in rarefied air and denser mediums such as water.
+scientific_discipline: Physics > Fluid Dynamics

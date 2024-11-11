@@ -1,0 +1,10 @@
+article_id: rspa_1961_0170
+revised_title: Electrical Resistivity of Lithium-6: A Study of Isotopic Effects
+semantic_tags:
+  - Nuclear Physics
+  - Isotopes
+  - Electrical resistivity
+  - Lithium
+  - Solid-state physics
+tldr: This article presents a study on the electrical resistivity of lithium-6 and its natural isotopic composition. The authors found that the effect of ionic mass on electrical resistivity agrees with simple theoretical predictions, indicating that the properties of conduction electrons in lithium do not depend on the mass of the ions. The results also suggest the possibility of anharmonic effects affecting the specific heat but not the electrical resistivity.
+scientific_discipline: Physics > Solid-state physics

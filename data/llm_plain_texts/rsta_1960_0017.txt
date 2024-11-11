@@ -1,0 +1,10 @@
+article_id: rsta_1960_0017
+revised_title: Hassitt-Type Young Operator Expansions and Orthogonal Transformations
+semantic_tags:
+  - Group Theory
+  - Symmetric Group
+  - Orthogonal Transformations
+  - Young Operators
+  - Representation Theory
+tldr: The article presents an expansion of the Young operators of the symmetric group in terms of two-sided products of the Young operators of the same group and the transposition. This expansion allows for a simpler recursive construction of the Young operators and provides a direct verification of their orthogonality. The study is relevant to understanding the properties and representations of the symmetric group.
+scientific_discipline: Mathematics > Group Theory

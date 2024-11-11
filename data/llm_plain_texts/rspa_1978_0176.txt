@@ -1,0 +1,10 @@
+article_id: rspa_1978_0176
+revised_title: Complex Ray Tracing Study of Ion Cyclotron Whistlers in the Ionosphere
+semantic_tags:
+  - Ion cyclotron whistlers
+  - Complex ray tracing
+  - Magneto-ionic theory
+  - Plasma physics
+  - Ionosphere
+tldr: This article presents a complex ray tracing study of ion cyclotron whistlers in the ionosphere. The authors use complex ray theory to analyze the coupling processes and mode interactions in the ionosphere, which helps to understand the behavior of ion cyclotron whistlers. The study provides insights into the polarization reversal and coupling processes responsible for the ion and electron modes in the ionosphere, which can be useful for predicting the occurrence of whistler traces and improving our understanding of the ionosphere's behavior.
+scientific_discipline: Physics > Plasma Physics

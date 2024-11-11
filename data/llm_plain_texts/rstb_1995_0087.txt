@@ -1,0 +1,10 @@
+article_id: 'rstb_1995_0087'
+revised_title: 'Inferring Population History from Molecular Phylogenies'
+semantic_tags:
+  - Population Genetics
+  - Molecular Phylogenetics
+  - Coalescence Theory
+  - Population Dynamics
+  - Evolutionary Biology
+tldr: The article presents a method for inferring population history from molecular phylogenies using coalescence theory. The authors develop graphical methods to navigate through hypothesis space, with two landmarks for reference: constant population size and exponentially growing population size. They apply this method to real data, illustrating its potential for studying population dynamics and evolutionary history.
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

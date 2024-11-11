@@ -1,0 +1,10 @@
+article_id: rsta_1948_0017
+revised_title: 'Friction Sensitiveness of Explosives and Initiators: A New Apparatus and Testing Method'
+semantic_tags:
+  - Explosives
+  - Initiators
+  - Friction Sensitivity
+  - Apparatus Development
+  - Mechanical Action on Explosives
+tldr: The authors developed a new apparatus to test the friction sensitiveness of explosives and initiators, allowing for more accurate comparisons between different materials and mechanical actions. The friction machine subjects the explosive to grazing friction from a swinging pendulum, enabling the study of the effects of varying velocities and pressures on the sensitiveness of initiators. This research is important for understanding and improving the safety of explosives and their handling in various industries.
+scientific_discipline: Engineering and Technology > Materials Science and Engineering

@@ -1,0 +1,10 @@
+article_id: rsta_1972_0074
+revised_title: Kinematic Dynamo Models and Their Applications
+semantic_tags:
+  - Dynamo Theory
+  - Geophysical Fluid Dynamics
+  - Astrophysical Dynamos
+  - Magnetic Fields
+  - Turbulence
+tldr: This article examines spherical kinematic dynamo models with axisymmetric magnetic fields, which arise from mean field electrodynamics and nearly axisymmetric limits. The author considers four main cases and explores the conditions under which magnetic fields can be maintained. The models are relevant to Earth and Sun, where meridional circulations might be provided by processes like Ekman pumping.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: 'rspa_1982_0030'
+revised_title: 'Measurement of Permittivity by Open Resonator: Experimental Results'
+semantic_tags:
+  - Electromagnetic Waves
+  - Resonator
+  - Permittivity
+  - Material Science
+  - Physics
+tldr: The author presents experimental results for measuring the permittivity of solid materials using an open resonator. The study focuses on two types of specimens: polypropylene and alumina. The results demonstrate that the open resonator method can accurately measure permittivity, even in challenging conditions, and provide insights into the refractive index and electric field interactions with the specimens.
+scientific_discipline: Physics > Electromagnetic Waves

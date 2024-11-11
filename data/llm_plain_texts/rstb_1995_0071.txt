@@ -1,0 +1,10 @@
+article_id: 'rstb_1995_0071'
+revised_title: 'Reliability and Statistical Efficiency of a Blowfly Movement-Sensitive Neuron'
+semantic_tags:
+  - Neuroscience
+  - Sensory Perception
+  - Signal Detection Theory
+  - Neural Reliability
+  - Visual System
+tldr: The authors develop model-independent methods to measure the reliability of neural spike trains in response to brief stimuli. They apply these methods to a wide-field movement-sensitive neuron (H1) in the blowfly's visual system, finding that one or two spikes can encode just noticeable differences in movement. The neuron's performance is significantly better than a neuron generating spikes according to a Poisson process at the same firing rate.
+scientific_discipline: Biology and Life Sciences > Neuroscience

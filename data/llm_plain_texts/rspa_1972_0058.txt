@@ -1,0 +1,10 @@
+article_id: rspa_1972_0058
+revised_title: 'Solvated Electron Capture and Collapse of Solvated Electron-Sodium Cation Pair into Sodium Atom: A Study by Flash Photolysis'
+semantic_tags:
+  - Flash photolysis
+  - Solvated electrons
+  - Sodium atom formation
+  - Sodium cation pairs
+  - Chemical reactions
+tldr: The article discusses the capture of solvated electrons and the collapse of solvated electron-sodium cation pairs into sodium atoms using flash photolysis. The researchers found that solvated electrons are initially formed and then rapidly transform into ion pairs with sodium cations. The dissociation constant of the pair into sodium atoms is estimated to be around 0.1 in tetrahydrofuran, and the rate constant of association of solvated electrons with cations is estimated as well. The study provides insights into the nature of transients and their reactions, as well as the mechanism of the collapse of the solvated electron-sodium cation pair into a sodium atom.
+scientific_discipline: Chemistry > Physical Chemistry

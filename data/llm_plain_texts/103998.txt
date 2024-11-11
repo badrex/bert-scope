@@ -1,0 +1,10 @@
+article_id: 103998
+revised_title: 'Combining Transparent Lenses with Reflecting Planes in Telescopes'
+semantic_tags:
+  - Telescope design
+  - Optics
+  - Refraction
+  - Astronomy
+  - Instrumentation
+tldr: The author, J. Hadley, proposed a new way to combine transparent lenses with reflecting planes in telescopes. By placing a plane speculum in front of one lens, the angle between the incoming light and the outgoing light can be doubled. This concept could potentially improve the design of telescopes, but it has some limitations due to the spherical shape of lenses and the different refraction of light rays.
+scientific_discipline: Physics > Optics

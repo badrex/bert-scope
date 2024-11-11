@@ -1,0 +1,10 @@
+article_id: rspa_1937_0050
+revised_title: 'Caesium and Potassium Thin Film Electrical Conductivity on Pyrex Glass Surfaces'
+semantic_tags:
+  - Thin film conductivity
+  - Alkali metals
+  - Surface science
+  - Film stability
+  - Film resistivity
+tldr: This article investigates the electrical conductivity of thin films of caesium and potassium deposited on clean Pyrex glass surfaces. The authors found that caesium films have greater stability and lower resistivity compared to rubidium films, while potassium films are the least stable. The results are consistent with the theory of thin film conductivity, and the decay of conductivity in these films is attributed to the widening of cracks and imperfections under surface tension forces.
+scientific_discipline: Physics > Materials Science

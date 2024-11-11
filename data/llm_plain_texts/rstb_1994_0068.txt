@@ -1,0 +1,10 @@
+article_id: 'rstb_1994_0068'
+revised_title: 'Reconstructing Evolutionary Processes and Estimating Birth and Death Rates'
+semantic_tags:
+  - Phylogenetics
+  - Evolutionary Biology
+  - Molecular Phylogenies
+  - Birth-Death Processes
+  - Statistical Modeling
+tldr: The authors develop probability models for phylogenies reconstructed from contemporary taxa, allowing real data to be compared with specified null models of evolution and estimating lineage birth and death rates. They focus on the birth-death processes and the reconstructed process, which is derived from the latter by pruning the historical record of lineages without contemporary descendants. The authors also derive the geometric distribution for the number of lineages existing at any particular time in the reconstructed process and the distribution of waiting times between birth events.
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

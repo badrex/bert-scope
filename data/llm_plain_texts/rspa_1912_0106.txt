@@ -1,0 +1,10 @@
+article_id: rspa_1912_0106
+revised_title: Electric Furnace for High-Temperature Experiments in Vacuo
+semantic_tags:
+  - High-temperature furnace
+  - Vacuum experiments
+  - Dissociation pressures
+  - Cuprous oxide
+  - Thermo-couple
+tldr: The authors describe the design and construction of an electric furnace capable of reaching temperatures up to 1500°C in a vacuum. The furnace is used to study the dissociation pressures and melting points of materials, specifically the system of copper and cuprous oxide. The authors also discuss the details of the furnace's design, including its enclosure, cooling system, and the use of a thermo-couple for temperature measurements.
+scientific_discipline: Physics > Materials Science

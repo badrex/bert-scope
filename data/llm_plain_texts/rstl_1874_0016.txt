@@ -1,0 +1,10 @@
+article_id: 'rstl_1874_0016'
+revised_title: 'On Electrotorsion and its Effects on Iron Wires'
+semantic_tags:
+  - Electromagnetism
+  - Electrotorsion
+  - Torsion
+  - Iron wire
+  - Electric currents
+tldr: 'The author, George Gore, conducted experiments on electrotorsion, studying the influence of electric currents on the mechanical torsion of iron wires. He discovered that when an electric current passes through an iron wire, it causes a molecular movement and change of position of the particles, resulting in torsional movements. These movements can be controlled by the direction and order of the electric currents applied.'
+scientific_discipline: Physics > Electromagnetism

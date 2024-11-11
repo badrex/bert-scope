@@ -1,0 +1,10 @@
+article_id: 'rspb_1937_0044'
+revised_title: 'Investigating the Dynamics of Visual Sensitivity'
+semantic_tags:
+  - Visual adaptation
+  - Retinal sensitivity
+  - Pupil size
+  - Threshold responses
+  - Visual tests
+tldr: This study examines how the eye's visual sensitivity changes over time when exposed to different light stimuli. The researchers measured the least difference of brightness perceptible to the eye and found that the eye's sensitivity changes depending on the duration of exposure to the new stimulus. The findings contribute to understanding the dynamics of visual adaptation and have practical implications for vision-related applications.
+scientific_discipline: Psychology > Perception

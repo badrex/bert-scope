@@ -1,0 +1,10 @@
+article_id: rspa_1996_0002
+revised_title: Strain-Based Identification of Plane Frame Stiffness Using Static Strains
+semantic_tags:
+  - Structural identification
+  - Finite element method
+  - Strain measurement
+  - Optimization
+  - Plane frames
+tldr: The author presents a method for identifying the stiffness of a plane frame using static strains and the finite element method. The proposed method requires strain measurement in static tests and can be applied to whole frames or subframes. The study also discusses the advantages of using strain formulation over nodal displacements and rotations in practical applications.
+scientific_discipline: Engineering and Technology > Structural Engineering

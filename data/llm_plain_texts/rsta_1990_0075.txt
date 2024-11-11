@@ -1,0 +1,10 @@
+article_id: rsta_1990_0075
+revised_title: European Fast Reactor Development and Future Design
+semantic_tags:
+  - Nuclear Reactor Technology
+  - Fast Breeder Reactors
+  - Nuclear Energy
+  - Fuel Cycle
+  - Reactor Design
+tldr: This article discusses the development of fast-neutron breeder fission reactors in Western Europe, focusing on the collaboration between France, Italy, the UK, and the DeBeNe grouping of countries. It covers the progression from experimental zero-energy facilities to prototype reactors and a large commercial-size reactor, highlighting the experience gained from reactor design, construction, and operation. The article also outlines the objectives of the current development program, which aims to reduce the capital cost of fast-reactor plants to compete with pressurized water reactors.
+scientific_discipline: Engineering and Technology > Nuclear Engineering

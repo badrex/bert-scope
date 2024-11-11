@@ -1,0 +1,10 @@
+article_id: rspa_1955_0272
+revised_title: 'A Discussion on Magneto-Hydrodynamics: The Structure of Magneto-Hydrodynamic Shock Waves'
+semantic_tags:
+  - Plasma physics
+  - Magnetohydrodynamics
+  - Shock waves
+  - Electrical conductivity
+  - Hall effect
+tldr: This article discusses the structure of magneto-hydrodynamic shock waves, focusing on the effects of electrical conductivity and the Hall effect. The author derives equations describing the detailed structure of these shocks and analyzes their solutions in special cases of high and low electrical conductivity. The study of magneto-hydrodynamic shock waves has implications for understanding plasma behavior and applications in space and fusion research.
+scientific_discipline: Physics > Plasma physics

@@ -1,0 +1,10 @@
+article_id: 'rsta_1896_0002'
+revised_title: 'The Geometry of Machines and Mechanical Motions'
+semantic_tags:
+  - Kinematics
+  - Mechanism
+  - Machine Movement
+  - Geometrical Laws
+  - Elementary Mechanical Motions
+tldr: The author examines the kinematics of machines and the geometrical laws governing the association of elementary mechanical motions in their composition. They classify machines, identify the conditions for complete turning motion, and provide a formula to represent machine movements using a combination of symbols for different motions. This study helps in understanding the mechanics of machines and their movements.
+scientific_discipline: Engineering and Technology > Mechanism Design

@@ -1,0 +1,10 @@
+article_id: 'rspb_1958_0042'
+revised_title: 'Kinetics of Aerial Oxidation of Indoxyl and its Halogen Derivatives'
+semantic_tags:
+  - Enzyme kinetics
+  - Indoxyl oxidation
+  - Cytochemistry
+  - Indigoid dyes
+  - Free radical mechanism
+tldr: The authors studied the kinetics of aerial oxidation of indoxyl and its halogen derivatives to determine if the reaction is suitable for cytochemical purposes. They found that the oxidation rates are too low for accurate enzyme localization in sites smaller than 10µm. The reaction is first-order with respect to indoxyl under alkaline conditions. A free radical mechanism involving intermediate formation of leucoindigo is postulated for the aerial oxidation. The authors also discovered that during oxidation, small amounts of isatins and anthranilic acids are formed as by-products, and approximately one molecule of hydrogen peroxide is formed for every molecule of indoxyl oxidized.
+scientific_discipline: Chemistry > Organic Chemistry

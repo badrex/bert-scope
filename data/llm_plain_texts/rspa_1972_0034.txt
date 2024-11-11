@@ -1,0 +1,10 @@
+article_id: rspa_1972_0034
+revised_title: Gravitational Waves in General Relativity: Toroidal and Cylindrical Wave Correspondence
+semantic_tags:
+  - Gravitational Waves
+  - General Relativity
+  - Toroidal Waves
+  - Cylindrical Waves
+  - Axially Symmetric Metric
+scientific_discipline: Physics > Relativity
+tldr: The article explores the correspondence between toroidal and cylindrical waves in general relativity. It constructs an exact form of an axially symmetric metric for a smooth toroidal pulse and discusses its properties, including self-reflexion and time-symmetry. The author also converts a Weber & Wheeler solution for a non-singular cylindrical pulse into a time-symmetric toroidal pulse and examines the distant gravitational field at the moment of symmetry.

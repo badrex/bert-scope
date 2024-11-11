@@ -1,0 +1,10 @@
+article_id: rsta_1996_0017
+revised_title: Modeling Water Movement in Wet Snow
+semantic_tags:
+  - Hydrology
+  - Snowpack
+  - Water flow
+  - Capillary pressure
+  - Unsaturated flow
+tldr: This article investigates the movement of water in wet snow, focusing on the effects of capillary pressure and unsaturated flow. The authors develop a one-dimensional model to describe the complex water flow in snowpacks, considering the influence of ice layers and inhomogeneities. They also discuss the importance of understanding water movement in snowpacks for predicting runoff hydrographs and addressing issues related to global warming and sea level rise.
+scientific_discipline: Environmental and Earth Sciences > Hydrology

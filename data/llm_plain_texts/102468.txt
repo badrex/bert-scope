@@ -1,0 +1,10 @@
+article_id: 102468
+revised_title: 'Cassini's Tables for Eclipses of Jupiter's First Satellite'
+semantic_tags:
+  - Astronomy
+  - Satellite observation
+  - Geographical site determination
+  - Longitude calculation
+  - Telescope design
+tldr: 'Monsieur Cassini presents new and exact tables for calculating the eclipses of Jupiter's first satellite, which can be used to determine longitude. These tables are based on the observation of the satellite's motion and the angle between the Earth and Jupiter. The method can be applied to find the longitude of any location, but requires accurate coast mapping and improvements in telescope technology for use at sea.'
+scientific_discipline: Astronomy > Satellite observation

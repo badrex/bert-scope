@@ -1,0 +1,10 @@
+article_id: rspa_1936_0124
+revised_title: 'Magnetic Cooling Method: Time Effects and Temperature Limitations'
+semantic_tags:
+  - Magnetic cooling
+  - Low temperatures
+  - Spin orientation
+  - Lattice vibrations
+  - Temperature limitations
+tldr: The authors explore the magnetic cooling method, which relies on the orientation of spins in a magnetic field to achieve low temperatures. They discuss the time required for spins to orientate in the field and the limitations of the method due to the interaction between spins and lattice vibrations. The study focuses on paramagnetic salts and their potential for achieving lower temperatures.
+scientific_discipline: Physics > Thermodynamics

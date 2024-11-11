@@ -1,0 +1,10 @@
+article_id: rspa_1955_0085
+revised_title: 'Calculating Bond Orders in Alternant Hydrocarbon Molecules'
+semantic_tags:
+  - Quantum Chemistry
+  - Molecular Orbital Theory
+  - Hydrocarbon Bonding
+  - Alternant Hydrocarbons
+  - Equivalent Orbitals
+tldr: The authors present a method for calculating bond orders in alternant hydrocarbon molecules using standard equivalent orbitals and linear equations. They demonstrate this method on naphthalene and benzpyrene molecules and discuss the advantages of this approach over other methods. The bond orders can be expressed as a series of matrices, which allows for easier calculation and interpretation of the results.
+scientific_discipline: Chemistry > Quantum Chemistry

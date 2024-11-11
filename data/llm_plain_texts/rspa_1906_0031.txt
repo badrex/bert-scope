@@ -1,0 +1,10 @@
+article_id: 'rspa_1906_0031'
+revised_title: 'Development of an Advanced Electrical Measuring Machine for Gauges and Engineering Applications'
+semantic_tags:
+  - Metrology
+  - Gauge measurement
+  - Engineering
+  - Micrometers
+  - Electric-touch method
+tldr: 'The author presents an improved electrical measuring machine for accurately measuring engineering gauges and other bodies. The machine uses point contact, electric touch, and a pulley system for increased sensitivity and precision. It also features a micrometer screw with a divided head and vernier, allowing for accurate measurements of gauge dimensions.'
+scientific_discipline: Engineering and Technology > Metrology

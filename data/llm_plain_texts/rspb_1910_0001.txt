@@ -1,0 +1,10 @@
+article_id: 'rspb_1910_0001'
+revised_title: 'The Role of Metal Oxidation in Bacterial Inhibition and the Production of Hydrogen Peroxide'
+semantic_tags:
+  - Bacteriology
+  - Metal Oxidation
+  - Hydrogen Peroxide
+  - Bacterial Inhibition
+  - Environmental Microbiology
+tldr: The authors conducted experiments to understand the germicidal action of metals and its relation to the production of hydrogen peroxide. They discovered that metals like aluminum and zinc inhibit bacterial growth by generating hydrogen peroxide through oxidation. This finding suggests that the germicidal effect is not solely due to the presence of peroxide but is associated with the process of metal oxidation.
+scientific_discipline: Environmental and Earth Sciences > Microbiology

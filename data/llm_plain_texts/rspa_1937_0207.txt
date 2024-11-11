@@ -1,0 +1,10 @@
+article_id: rspa_1937_0207
+revised_title: Glide of Single Crystals of Molybdenum: Temperature-Dependent Glide Planes and Directions
+semantic_tags:
+  - Crystallography
+  - Molybdenum
+  - Glide planes
+  - Glide direction
+  - Temperature effects
+tldr: The authors investigated the glide of single crystals of molybdenum at different temperatures, discovering that the glide plane changes from (112) at lower temperatures to (110) at higher temperatures. The glide direction remains consistent at [111] for all temperature ranges. This research provides valuable information on the deformation behavior of body-centered crystals.
+scientific_discipline: Physics > Materials Science

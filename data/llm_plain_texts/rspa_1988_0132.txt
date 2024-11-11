@@ -1,0 +1,10 @@
+article_id: rspa_1988_0132
+revised_title: Averages of Additive Quantities for the Master Equation: Applications in Thermal Equilibrium and Steady-State Conditions
+semantic_tags:
+  - Statistical mechanics
+  - Non-equilibrium thermodynamics
+  - Master equation
+  - Ensemble averages
+  - Time-correlation functions
+tldr: The authors explore the evaluation of ensemble averages for systems with dynamics described by a master equation. They provide a general procedure to express these averages as integrals over time of appropriate time-correlation functions. The results are applicable to thermal equilibrium and steady-state situations, covering a wide range of important concepts in statistical theory.
+scientific_discipline: Physics > Statistical mechanics

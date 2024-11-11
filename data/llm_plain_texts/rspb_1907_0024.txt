@@ -1,0 +1,10 @@
+article_id: 'rspb_1907_0024'
+revised_title: 'Electrical Changes in the Beating Frog's Heart'
+semantic_tags:
+  - Cardiology
+  - Electrometry
+  - Physiology
+  - Heart Electrophysiology
+  - Frog Heart
+tldr: The author conducted experiments on a frog's heart to study the electrical changes during its natural beat. They discovered that the electrical changes in the frog's heart are similar to those observed in mammalian hearts, with both the initial and terminal phases having the same sign. The author also found that a return wave of activity, proceeding from the apex to the base, can be demonstrated under certain conditions, contributing to the extensive terminal phase of the electromotive effect in the beating heart.
+scientific_discipline: Biology and Life Sciences > Physiology

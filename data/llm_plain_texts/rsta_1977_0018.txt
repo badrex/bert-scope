@@ -1,0 +1,10 @@
+article_id: rsta_1977_0018
+revised_title: Lunar Ranging Experiment and Geodetic-Geophysics Support Program in Hawaii
+semantic_tags:
+  - Lunar ranging
+  - Geodesy
+  - Geophysics
+  - Tectonics
+  - Seismology
+tldr: The University of Hawaii's lunar ranging experiment aims to study the geocentric positions of lunar laser ranging stations and measure local and regional crustal deformations and tectonic plane movements. The experiment involves various geodetic and geophysical methods, including repeated surveys, level measurements, tilt meter monitoring, gravimetric Earth tidal measurements, and seismic monitoring. The study is essential for understanding the stability of the observatory and the surrounding area, which is crucial for accurate lunar ranging measurements.
+scientific_discipline: Earth Sciences > Geophysics

@@ -1,0 +1,10 @@
+article_id: rspa_1967_0026
+revised_title: 'Electrical Conductivity of the Moon's Interior'
+semantic_tags:
+  - Geophysics
+  - Planetary Physics
+  - Moon
+  - Electrical Conductivity
+  - Olivine
+scientific_discipline: Earth Sciences > Geophysics
+tldr: This article discusses the electrical conductivity of the Moon's interior, focusing on the role of olivine in determining conductivity. The authors analyze various conductivity mechanisms and propose a model for the Moon's conductivity distribution, suggesting that the core is primarily an ionic conductor, while the region above a radius of about 800 km can be considered an insulating shell.

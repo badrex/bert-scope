@@ -1,0 +1,10 @@
+article_id: 'rspb_1967_0049'
+revised_title: 'Effects of Selection and Migration on Geotactic and Phototactic Behavior of Drosophila'
+semantic_tags:
+  - Evolutionary Biology
+  - Genetics
+  - Behavioral Genetics
+  - Drosophila pseudoobscura
+  - Selection and Migration
+tldr: This study investigates the effects of selection and migration on the geotactic and phototactic behavior of Drosophila pseudoobscura. Researchers found that directional selection can modify these behavioral traits, even with low heritability. Additionally, genetic changes caused in recipient populations by immigrants went in the same directions as the populations from which the immigrants came, suggesting that phenotypic rejects can transmit genetic improvements to recipient populations.
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

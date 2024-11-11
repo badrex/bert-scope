@@ -1,0 +1,10 @@
+article_id: rspa_1964_0095
+revised_title: 'Hard Sphere Fluids: The Fifth Virial Coefficient and Cluster Integrals'
+semantic_tags:
+  - Statistical mechanics
+  - Fluid dynamics
+  - Thermodynamics
+  - Virial coefficients
+  - Hard sphere model
+tldr: The authors calculate the fifth virial coefficient of a fluid of hard spheres, which is a sum of 238 irreducible cluster integrals. They provide values for five types of these integrals analytically, and the contributions of four other types through a combination of analytical and numerical integration. The result is used to improve the understanding of fluid properties and test approximations in the theory of fluids at equilibrium.
+scientific_discipline: Physics > Fluid dynamics

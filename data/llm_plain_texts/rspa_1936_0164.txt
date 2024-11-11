@@ -1,0 +1,10 @@
+article_id: rspa_1936_0164
+revised_title: 'Determination of Carbon Dioxide's Specific Heat at High Temperatures via Sound Velocity Method'
+semantic_tags:
+  - Thermodynamics
+  - Gas thermodynamics
+  - Sound velocity
+  - Carbon dioxide
+  - High-temperature physics
+tldr: The authors used the sound velocity method to determine the specific heat of carbon dioxide at high temperatures. They employed a modified apparatus with six frequencies and a refractory oxide tube to prevent reactions between carbon dioxide and heated carbon. The results showed that the specific heat values were 15% different from those in the International Critical Tables and close to spectroscopic data values.
+scientific_discipline: Physics > Thermodynamics

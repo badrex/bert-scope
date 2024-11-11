@@ -1,0 +1,10 @@
+article_id: rspa_1915_0057
+revised_title: 'Carbon Consumption in Electric Arcs: Current and Arc-Length Effects'
+semantic_tags:
+  - Electric Arcs
+  - Carbon Consumption
+  - Electrochemistry
+  - Arc Length
+  - Current Strength
+tldr: This study investigates the consumption of carbon in electric arcs and how it varies with current strength and arc length. The research found that the loss of material per coulomb decreases with increasing current for long arcs, while for short arcs, the loss remains constant regardless of current strength. The findings provide insight into the mechanisms of electric current transport and the role of combustion or evaporation in the loss of material.
+scientific_discipline: Physics > Electrochemistry

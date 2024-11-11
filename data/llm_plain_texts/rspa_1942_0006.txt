@@ -1,0 +1,10 @@
+article_id: rspa_1942_0006
+revised_title: 'Theoretical Analysis of Diffuse Scattering of X-rays by Crystals'
+semantic_tags:
+  - X-ray crystallography
+  - Crystal physics
+  - Elastic anisotropy
+  - Lattice vibrations
+  - Diffraction
+tldr: The author presents an elementary derivation of the Faxen-Waller formula for the diffuse scattering of X-rays by thermally excited lattice vibrations and the shapes of the surfaces of isodiffusion in reciprocal space for cubic crystals. The theory is illustrated by calculations made for a single crystal of sodium. The author discusses the differences in shape between surfaces belonging to different lattice planes and the potential of this phenomenon to be developed into a method of determining the elastic constants of crystals.
+scientific_discipline: Physics > Crystallography

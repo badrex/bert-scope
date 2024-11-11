@@ -1,0 +1,10 @@
+article_id: rsta_1991_0088
+revised_title: Observational Consequences and Signatures of Solar Flare Energy Release
+semantic_tags:
+  - Solar Flares
+  - Magnetic Fields
+  - Energy Release
+  - Chromospheric Energy
+  - Non-Thermal Electron Acceleration
+tldr: This article discusses the physics of solar flares, focusing on the release of energy and its observational consequences. The authors analyze the relationship between active region currents, flare heating, and non-thermal electron acceleration. They find that sites of significant energetic electron precipitation into the chromosphere are at the edges of regions of vertical current, while the footpoints of high-pressure flare plasmas coincide with these currents.
+scientific_discipline: Physics > Plasma Physics

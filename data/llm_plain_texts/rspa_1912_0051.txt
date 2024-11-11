@@ -1,0 +1,10 @@
+article_id: rspa_1912_0051
+revised_title: 'Investigating the Temperature Coefficients of a Precision Balance'
+semantic_tags:
+  - Precision balance
+  - Temperature coefficient
+  - Temperature effects on balance
+  - Balance calibration
+  - Beam stability
+tldr: The author investigates the temperature coefficients of a precision balance and discovers that the balance's temperature coefficient can change from positive to negative values within a critical temperature range. This can cause discrepancies in weighings taken within these limits. The author explains this behavior through the movements of screws and the resulting differential displacement of the beam.
+scientific_discipline: Physics > Mechanics

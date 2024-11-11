@@ -1,0 +1,10 @@
+article_id: rspa_1949_0163
+revised_title: Influence of Second Harmonic Term on One-Dimensional Dislocations
+semantic_tags:
+  - Crystallography
+  - Dislocations
+  - Material Science
+  - Mathematical Physics
+  - Solid State Physics
+tldr: The authors investigate the properties of one-dimensional dislocations and the influence of the second harmonic term in the potential representation. They find that when the amplitude of the second harmonic term is large, a complete dislocation splits into two halves, affecting the equilibrium separation and stability conditions. This study has implications for understanding dislocations in materials science and crystallography.
+scientific_discipline: Physics > Material Science

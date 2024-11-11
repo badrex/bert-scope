@@ -1,0 +1,10 @@
+article_id: 112276
+revised_title: 'Jacobi's Methods for Solving Non-Linear Partial Differential Equations'
+semantic_tags:
+  - Differential Equations
+  - Mathematical Analysis
+  - Applied Mathematics
+  - Dynamical Systems
+  - Hamiltonian Mechanics
+tldr: The author discusses George Boole's work on developing new methods for solving non-linear partial differential equations, specifically focusing on the application of these methods to the theory of dynamical equations. Boole explains Jacobi's two methods for solving these equations and how they can be combined with his own previous work to create a new and potentially more efficient approach to solving these complex mathematical problems.
+scientific_discipline: Mathematics > Applied Mathematics

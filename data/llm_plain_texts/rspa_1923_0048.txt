@@ -1,0 +1,10 @@
+article_id: 'rspa_1923_0048'
+revised_title: 'Investigation of Specific Heats in Air, Steam, and Carbon Dioxide'
+semantic_tags:
+  - Thermodynamics
+  - Heat Capacity
+  - Gas Properties
+  - Temperature
+  - Heat Transfer
+tldr: The authors discuss discrepancies in specific heat measurements of air, steam, and carbon dioxide, comparing their own research with previous studies by Holborn and Henning, Swann, and others. They explain their methods and adjustments made to account for differences in results, emphasizing the importance of accurate measurements for understanding heat transfer and gas properties.
+scientific_discipline: Physics > Thermodynamics

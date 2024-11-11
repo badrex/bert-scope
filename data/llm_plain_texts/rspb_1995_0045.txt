@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0045'
+revised_title: 'Phylogenetic Evidence for the Role of Pre-Existing Biases in Sexual Selection'
+semantic_tags:
+  - Sexual Selection
+  - Evolutionary Biology
+  - Phylogenetics
+  - Xiphophorus
+  - Priapella
+tldr: This study investigates the role of pre-existing biases in sexual selection using the example of sword evolution in the genus Xiphophorus. The author tests sword preferences in the sister genus Priapella, which lacks a sword, and finds that female P. olmecae prefer males with artificial swords to those without. This suggests that a pre-existing bias favoring a sword arose before the divergence of these two genera and before the appearance of a sword. The results further establish the pre-existing bias model as a viable explanation for the evolution of female preferences and male traits.
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

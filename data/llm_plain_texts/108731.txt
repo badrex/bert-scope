@@ -1,0 +1,10 @@
+article_id: 108731
+revised_title: Surface Condensation of Steam: Joule's Experiments and Apparatus
+semantic_tags:
+  - Thermodynamics
+  - Heat transfer
+  - Steam condensation
+  - Heat exchange
+  - Refrigeration
+tldr: J.P. Joule conducted experiments to study the surface condensation of steam and the transmission of heat through thin metal plates. He designed an apparatus to measure the temperature and pressure changes during the condensation process. The experiments provided insights into the efficiency of steam condensation and the factors affecting heat transfer, which could be applied to improve steam engines and refrigeration systems.
+scientific_discipline: Engineering and Technology > Heat Transfer

@@ -1,0 +1,10 @@
+article_id: 'rspa_1959_0077'
+revised_title: 'Investigation of Surface Cracks on Glass and Sodium Vapour Treatment'
+semantic_tags:
+  - Glass science
+  - Surface cracks
+  - Sodium vapour treatment
+  - Stress concentration
+  - Indentation strength
+tldr: This study investigates the formation of surface cracks on glass, particularly on Pyrex glass, and the effects of sodium vapour treatment. The authors demonstrate that most visible cracks are artificial, while only a few long cracks may be real and significant. They also propose two possible mechanisms for crack formation: the boric-oxide anomaly and differential contraction due to sodium diffusion.
+scientific_discipline: Engineering and Technology > Materials Science

@@ -1,0 +1,10 @@
+article_id: rspa_1956_0047
+revised_title: Effects of Neutron Irradiation on Counting Diamonds
+semantic_tags:
+  - Nuclear Radiation
+  - Diamond Physics
+  - Neutron Scattering
+  - Crystal Defects
+  - Annealing
+tldr: The authors exposed counting diamonds to nuclear radiation in a reactor and observed a reduction in counting efficiency proportional to the radiation dosage. The optical absorption also increased, and annealing at red heat only partially restored the counting and optical transparency. The results are interpreted in terms of intrinsic charge traps and additional traps produced by neutrons, indicating that the traps created by neutron irradiation differ from the intrinsic traps in diamonds.
+scientific_discipline: Physics > Materials Science

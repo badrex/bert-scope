@@ -1,0 +1,10 @@
+article_id: rspa_1953_0090
+revised_title: Electric Collection and Separation of Radioactive Ions in Bromine, Technetium, and Indium
+semantic_tags:
+  - Radioactive ion separation
+  - Nuclear isomers
+  - Electric field separation
+  - Radiochemistry
+  - Nuclear physics
+tldr: The author conducted experiments to study the electric collection and separation of radioactive ions of bromine, technetium, and indium using electric fields. They found that the majority of radioactive ions carried a negative charge, and when these ions were swept away, positive ions of 80Br produced by isomeric transition were stable. The results showed that electric fields can inhibit the recombination of positive ions, leading to a better understanding of the chemical reactions induced by nuclear events.
+scientific_discipline: Chemistry > Radiochemistry

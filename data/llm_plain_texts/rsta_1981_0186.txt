@@ -1,0 +1,10 @@
+article_id: rsta_1981_0186
+revised_title: Modeling Phytoplankton Production at Continental Shelf Sea Fronts
+semantic_tags:
+  - Oceanography
+  - Phytoplankton
+  - Shelf sea fronts
+  - Modeling
+  - Primary production
+tldr: This article presents a mathematical model to explain the enhanced phytoplankton production at continental shelf sea fronts. The model suggests that adequate light and nutrient supply, along with slow water transport, contribute to the increased growth of phytoplankton in these regions. The authors tested the model using observations from the Scilly Isles and found that it predicted chlorophyll concentrations and dissolved nitrate distributions in agreement with the observed data.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

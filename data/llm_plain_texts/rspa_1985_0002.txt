@@ -1,0 +1,10 @@
+article_id: rspa_1985_0002
+revised_title: Oscillations, Glow, and Ignition in Carbon Monoxide Oxidation in an Open System: Experimental Studies of the Ignition Diagram and the Effects of Added Hydrogen
+semantic_tags:
+  - Combustion
+  - Chemical kinetics
+  - Oscillatory reactions
+  - Chemiluminescence
+  - Hydrogen oxidation
+scientific_discipline: Chemistry > Combustion Chemistry
+tldr: This study investigates the oxidation of carbon monoxide in an open system, focusing on oscillatory reactions, glow, and ignition. The authors experimentally study the effects of added hydrogen on the ignition diagram and find that it increases reaction rates and makes the reactions non-isothermal. They discover four different modes of reaction and map their conditions on a reactant pressure-vessel temperature ignition diagram.

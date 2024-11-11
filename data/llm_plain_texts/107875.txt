@@ -1,0 +1,10 @@
+article_id: 107875
+revised_title: A Method for Determining the Dispersive Ratio of Glass and Computing Achromatic Object-Glass Radii
+semantic_tags:
+  - Optics
+  - Achromatic lenses
+  - Glass dispersion
+  - Telescope design
+  - Refractive index
+tldr: The author presents a method for determining the dispersive ratio of glass and computing the radii of curvature for achromatic object-glasses. The method involves using a lens to measure the focal length and index of refraction, which can then be used to calculate the desired properties of the lenses. This research contributes to the development of better telescopes and optical instruments.
+scientific_discipline: Physics > Optics

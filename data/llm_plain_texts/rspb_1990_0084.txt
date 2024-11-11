@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0084'
+revised_title: 'Sensory Neuron Properties in Novel Cell Lines'
+semantic_tags:
+  - Neuroscience
+  - Cell Biology
+  - Pain Management
+  - Neurotransmitters
+  - Neuronal Signaling
+tldr: Researchers have created hybrid cell lines from rat dorsal root ganglia neurons fused with a mouse neuroblastoma, which exhibit properties of nociceptive sensory neurons. These novel cell lines can be used to study mechanisms involved in nociceptor activation and the regulation of sensory-neuron specific markers, including neuropeptides, providing a better understanding of pain and potential treatments.
+scientific_discipline: Biology and Life Sciences > Neuroscience

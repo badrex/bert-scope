@@ -1,0 +1,10 @@
+article_id: rspa_1978_0085
+revised_title: 'Intensity Measurements and Transition Probabilities for the CN Violet Band System'
+semantic_tags:
+  - Spectroscopy
+  - Astrophysics
+  - Molecular Physics
+  - Transition Probabilities
+  - Photoelectric Intensity Measurements
+tldr: The authors conducted photoelectric intensity measurements on the CN violet band system and interpreted the results through detailed comparison with computer-synthesized spectra. They determined transition probability parameters and placed them on an absolute scale, providing valuable data for astrophysical applications and understanding the behavior of diatomic molecules.
+scientific_discipline: Physics > Spectroscopy

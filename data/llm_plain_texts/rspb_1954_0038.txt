@@ -1,0 +1,10 @@
+article_id: 'rspb_1954_0038'
+revised_title: 'Exploring the Membrane Behavior in Nitella through Electrical Impedance'
+semantic_tags:
+  - Cell Membrane
+  - Nitella
+  - Electrical Impedance
+  - Plant Physiology
+  - Membrane Resistance
+tldr: The authors investigated the behavior of the cell membrane in Nitella by measuring its electrical impedance using a micro-silver/silver chloride electrode. They found that the membrane resistance and capacity were affected by the external solution's concentration and the presence of plant-growth substances. The results provide insights into the cell membrane's complex structure and behavior, contributing to our understanding of plant physiology.
+scientific_discipline: Biology and Life Sciences > Plant Physiology

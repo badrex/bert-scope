@@ -1,0 +1,10 @@
+article_id: rspa_1906_0074
+revised_title: 'Comparing the Kew Scale of Temperature with the International Hydrogen Scale'
+semantic_tags:
+  - Thermometry
+  - Temperature scales
+  - Thermometer calibration
+  - Temperature measurement
+  - International Committee of Weights and Measures
+tldr: This article discusses the comparison between the Kew Scale of temperature and the International Hydrogen Scale. The author presents experiments conducted at the National Physical Laboratory to determine the accuracy of the Kew Scale in relation to the hydrogen scale. The study involves the calibration and comparison of several mercury thermometers, aiming to improve temperature measurements and their reference to the standard thermometric scale.
+scientific_discipline: Physics > Thermodynamics

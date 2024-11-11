@@ -1,0 +1,10 @@
+article_id: rspa_1996_0025
+revised_title: Indeterminate Bifurcations in Hardening Systems: A Study on Nonlinear Dynamics
+semantic_tags:
+  - Nonlinear Dynamics
+  - Bifurcations
+  - Hardening Systems
+  - Resonance
+  - Chaos Theory
+tldr: This article explores the phenomenon of indeterminate bifurcations in hardening systems, where the outcome of a bifurcation is probabilistic and unpredictable. The authors examine a parametrically excited hardening system and demonstrate that indeterminate bifurcations occur when the unstable manifold of the resonant saddle becomes tangled with the stable manifold of another saddle. This leads to complex behaviors, including multiple coexisting attractors and highly intertwined basins of attraction. The study contributes to the understanding of nonlinear dynamics and resonance in hardening systems.
+scientific_discipline: Mathematics > Nonlinear Dynamics

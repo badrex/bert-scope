@@ -1,0 +1,10 @@
+article_id: rspa_1935_0113
+revised_title: Relativistic Quantum Theory and its Applications
+semantic_tags:
+  - Quantum Mechanics
+  - Relativity
+  - Electromagnetism
+  - Particle Physics
+  - Matrix Theory
+tldr: The authors explore the relativistic basis of quantum theory, demonstrating how it can be used to calculate the intensities of radiation emitted by atoms accurately. They also discuss the connection between the quantum theory, gravitation, and electromagnetism, suggesting that Planck's constant may be a metrical constant revealing a natural scale of measurement.
+scientific_discipline: Physics > Particle Physics

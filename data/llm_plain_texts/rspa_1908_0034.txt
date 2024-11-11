@@ -1,0 +1,10 @@
+article_id: rspa_1908_0034
+revised_title: 'Determination of Refractive Index and Dispersion of Light in Argon and Helium'
+semantic_tags:
+  - Optics
+  - Refraction
+  - Gas properties
+  - Spectroscopy
+  - Interferometry
+tldr: 'The authors used the interferometer method to study the refractive index and dispersion of light in argon and helium gases. They found that the refractive index of argon is higher than that of helium, and the dispersion of light in argon is greater than in helium. This research helped improve the understanding of the properties of these gases and their applications in various fields.'
+scientific_discipline: Physics > Optics

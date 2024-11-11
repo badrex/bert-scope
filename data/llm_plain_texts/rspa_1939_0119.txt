@@ -1,0 +1,10 @@
+article_id: rspa_1939_0119
+revised_title: 'Investigation of Electrical Conductivity in Thin Mercury Films'
+semantic_tags:
+  - Thin films
+  - Mercury
+  - Electrical conductivity
+  - Temperature coefficients
+  - Film deposition
+tldr: The authors conducted experiments on the electrical conductivity of thin films of mercury using a high vacuum evaporation technique. They discovered that the resistivity of the films rapidly approaches a constant value as the thickness increases once conductivity has begun. The temperature coefficients of resistance of the films were positive and reversible, and the films' resistivity-temperature curves were found to be very similar to that of bulk mercury. The results showed that the excess resistance over that of the bulk metal can be regarded as an additional "residual resistance" that is dependent on thickness and heat treatment.
+scientific_discipline: Physics > Materials Science

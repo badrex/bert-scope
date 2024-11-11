@@ -1,0 +1,10 @@
+article_id: rspa_1928_0069
+revised_title: Commutative Ordinary Differential Operators and Their Properties
+semantic_tags:
+  - Differential Equations
+  - Commutative Operators
+  - Abelian Functions
+  - Mathematical Analysis
+  - Applied Mathematics
+tldr: The authors explore the properties of commutative ordinary differential operators and their relationship with Abelian functions. They establish a theory for determining the general pair of operators that satisfy a prescribed identity and discuss the transformation of these operators through transference. This work contributes to the understanding of mathematical analysis and applied mathematics.
+scientific_discipline: Mathematics > Applied Mathematics

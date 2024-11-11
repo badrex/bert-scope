@@ -1,0 +1,10 @@
+article_id: rspa_1965_0151
+revised_title: 'Molecular Orbitals in Momentum Space: A New Approach to Quantum Chemistry'
+semantic_tags:
+  - Quantum Chemistry
+  - Molecular Orbital Theory
+  - Momentum Space
+  - Fock's Transformation
+  - Hydrogen Molecule Ion
+tldr: This article introduces a new approach to quantum chemistry by working with momentum-space wavefunctions, which have the advantage of avoiding the need for continuum wavefunctions. The author applies Fock's transformation to the general momentum-space Schrödinger equation and uses it to study the hydrogen molecule ion, providing a new perspective on molecular orbitals and their properties.
+scientific_discipline: Physics > Optics

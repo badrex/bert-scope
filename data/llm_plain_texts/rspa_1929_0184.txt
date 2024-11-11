@@ -1,0 +1,10 @@
+article_id: rspa_1929_0184
+revised_title: The Effect of Moisture on Cathodic Combustion of Carbonic Oxide Detonating Gas
+semantic_tags:
+  - Gas combustion
+  - Electric discharges
+  - Moisture effect
+  - Cathodic combustion
+  - Carbonic oxide
+tldr: This article investigates the impact of moisture on the cathodic combustion of carbonic oxide detonating gas in an electric discharge. The authors found that moisture promotes combustion at non-sputtering cathodes and retards combustion at freely sputtering cathodes. The study suggests that moisture's role in combustion is almost entirely subordinated to sputtered metal atoms at freely sputtering cathodes. The findings provide insight into the mechanism of cathodic combustion in moist gas mixtures.
+scientific_discipline: Chemistry > Electrochemistry

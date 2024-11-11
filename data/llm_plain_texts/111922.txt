@@ -1,0 +1,10 @@
+article_id: 111922
+revised_title: 'Mallet's Experiments on Wave Velocity in Rock Formations'
+semantic_tags:
+  - Seismology
+  - Geophysics
+  - Earthquake studies
+  - Rock mechanics
+  - Mining engineering
+tldr: Robert Mallet conducted experiments to determine the transit velocity of waves of elastic compression through rock formations in Holyhead, North Wales. He used explosives to create waves and measured their velocity using a seismoscope, chronograph, and galvanic apparatus. Mallet found that the wave velocity in contorted and foliated rock was low and intermediate between wet sand and discontinuous granite. His findings have implications for seismology, physical geology, and mining engineering.
+scientific_discipline: Earth Sciences > Seismology

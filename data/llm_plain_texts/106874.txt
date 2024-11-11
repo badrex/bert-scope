@@ -1,0 +1,10 @@
+article_id: 106874
+revised_title: A Simple Micrometer for Measuring Small Angles with a Telescope
+semantic_tags:
+  - Micrometry
+  - Telescope technology
+  - Angle measurement
+  - Optical instruments
+  - Astronomy
+tldr: The author, Tiberius Cavallo, describes a simple micrometer for measuring small angles using a telescope. The micrometer consists of a thin slip of mother of pearl placed in the focus of the telescope's eyepiece. It allows for accurate angle measurements, even in different telescopes, and can measure angles as small as one-eighth of a minute. This innovation improves the precision of astronomical observations and other applications requiring angle measurements.
+scientific_discipline: Physics > Optics

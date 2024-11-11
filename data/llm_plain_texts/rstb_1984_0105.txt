@@ -1,0 +1,10 @@
+article_id: 'rstb_1984_0105'
+revised_title: 'Chromosomal Translocations and Antigenic Variation in Trypanosoma brucei'
+semantic_tags:
+  - 'Trypanosoma brucei'
+  - 'Antigenic variation'
+  - 'Chromosomal translocations'
+  - 'Protozoal diseases'
+  - 'Immunological control'
+tldr: 'The authors explore the role of chromosomal translocations in antigenic variation in Trypanosoma brucei, a protozoan parasite responsible for diseases in humans and animals. They find that these translocations contribute to the activation and inactivation of expression sites for variant surface glycoprotein genes, allowing the parasite to evade the host's immune response.'
+scientific_discipline: Biology and Life Sciences > Parasitology

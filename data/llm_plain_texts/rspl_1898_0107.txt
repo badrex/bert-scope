@@ -1,0 +1,10 @@
+article_id: rspl_1898_0107
+revised_title: Effects of Strain on Thermo-Electric Qualities of Metals
+semantic_tags:
+  - Thermoelectricity
+  - Strain effects
+  - Metals properties
+  - Temperature effects
+  - Metal alloys
+tldr: The authors conducted experiments to study the effects of strain on the thermo-electric properties of various metals. They found that the direction and magnitude of the thermo-electric current depend on the type of metal and the degree of strain. The results have implications for understanding the behavior of metals in different conditions and for the development of new materials and technologies.
+scientific_discipline: Physics > Materials Science

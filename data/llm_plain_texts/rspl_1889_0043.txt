@@ -1,0 +1,10 @@
+article_id: rspl_1889_0043
+revised_title: On the Interchange of Variables in Linear Differential Operators
+semantic_tags:
+  - Differential Equations
+  - Mathematical Analysis
+  - Functional Analysis
+  - Operator Theory
+  - Transformation Theory
+tldr: The authors present a theory on the interchange of variables in linear differential operators, focusing on binary and ternary operators. They discuss the transformation of various annihilators of pure and projective cyclicants and demonstrate the method's application in generating a class of cyclically persistent operators.
+scientific_discipline: Mathematics > Functional Analysis

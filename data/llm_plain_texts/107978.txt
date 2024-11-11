@@ -1,0 +1,10 @@
+article_id: 107978
+revised_title: 'Advancements in Planetary Theory and Lunar Disturbance Calculations'
+semantic_tags:
+  - Celestial Mechanics
+  - Lunar Theory
+  - Planetary Theory
+  - Astronomy
+  - Mathematical Physics
+tldr: The author presents a method for developing the disturbing function in physical astronomy, focusing on the coefficients of the inequalities and their relation to eccentricities. This method is particularly useful for lunar and planetary theories, providing a way to calculate and verify terms in the development of R, as far as the fourth powers of the eccentricities inclusive.
+scientific_discipline: Astronomy > Celestial Mechanics

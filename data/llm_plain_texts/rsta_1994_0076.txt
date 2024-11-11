@@ -1,0 +1,11 @@
+article_id: rsta_1994_0076
+revised_title: 'Nonlinear Phenomena in Excitable Media: Equilibria, Stability, and Excitability in Plankton Population Models'
+semantic_tags:
+  - Plankton Ecology
+  - Nonlinear Dynamics
+  - Population Modeling
+  - Stability Analysis
+  - Bifurcation Theory
+tldr: This article explores a general class of three-component models for plankton population dynamics, including nutrient, phytoplankton, and herbivorous grazers. The authors analyze the existence and stability of equilibrium states and interpret the behavior of specific models within this framework. They demonstrate the relationship between earlier two-component models and this broader class of three-component models, assessing their utility as simple scientific test beds.
+scientific_discipline: Biology and Life Sciences > Ecology
+sub_discipline: Plankton Ecology

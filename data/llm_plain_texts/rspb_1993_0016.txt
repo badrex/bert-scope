@@ -1,0 +1,10 @@
+article_id: 'rspb_1993_0016'
+revised_title: 'Darwin's Finches Evolution Driven by Rare Climatic Event'
+semantic_tags:
+  - Evolutionary Biology
+  - Climate Change
+  - Natural Selection
+  - Finches
+  - Galapagos Islands
+tldr: 'A rare climatic event, the 1982-1983 El Nino, caused significant changes in the food supply on Daphne Major island in the Galapagos. This led to two evolutionary changes in Darwin's finches. Small beak sizes were favored in one granivorous species when large seeds became scarce, and the effects of selection were passed on to the next generation due to high trait heritability. Hybridization between this species and two others resulted in gene exchange, but only after the El Nino when hybrid fitness was much enhanced under the altered feeding conditions. These observations imply that if global warming increases the frequency or severity of El Nino events on the Galapagos, microevolutionary changes in animal and plant populations are to be anticipated.'
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

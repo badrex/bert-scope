@@ -1,0 +1,10 @@
+article_id: rspl_1870_0012
+revised_title: 'Investigating the Approach Caused by Vibration'
+semantic_tags:
+  - Vibration
+  - Air currents
+  - Sound waves
+  - Tuning forks
+  - Experimental physics
+tldr: The author investigates the phenomenon of approach caused by vibration, specifically focusing on the interaction between a vibrating tuning fork and nearby objects. They discover that the air surrounding the resonant fork does not form permanent true air currents, and that the effects of any currents produced by vibration do not extend far from the fork's face. The author also finds that the approach is mutual and is not due to increased temperature.
+scientific_discipline: Physics > Acoustics

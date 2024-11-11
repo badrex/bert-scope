@@ -1,0 +1,10 @@
+article_id: rspa_1957_0144
+revised_title: 'Investigating the Ideal Supercooling Effect in Superconductors Near the Transition Temperature'
+semantic_tags:
+  - Superconductivity
+  - Supercooling
+  - Critical temperature
+  - Nucleation
+  - Materials science
+tldr: The authors conducted experiments on superconducting metals, such as aluminum, indium, and tin, near their transition temperatures. They discovered that the extent of supercooling is limited by flaws, but close to the transition temperature, these flaws are too small to be effective. The authors accurately measured the ideal supercooling for these metals and found that none of the existing theories of superconductivity could fully explain their results.
+scientific_discipline: Physics > Materials Science

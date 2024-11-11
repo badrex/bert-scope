@@ -1,0 +1,10 @@
+article_id: rspa_1929_0173
+revised_title: Cathode Ray Diffraction and Crystal Structure Analysis
+semantic_tags:
+  - Crystallography
+  - Electron diffraction
+  - Material science
+  - Physics
+  - X-ray crystallography
+tldr: The authors developed a method to study the crystal structure of materials using cathode rays and electron diffraction. They created thin metal films on cellulose acetate or rock salt bases and observed the diffraction patterns formed by the interaction of the cathode rays with the crystals. This technique provided valuable information about the crystal structures of metals like gold, silver, lead, and iron, and helped to improve the understanding of their properties.
+scientific_discipline: Physics > Crystallography

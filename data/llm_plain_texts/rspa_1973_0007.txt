@@ -1,0 +1,10 @@
+article_id: rspa_1973_0007
+revised_title: 'EPR Spectrum of Vibrationally Excited Hydroxyl Radicals: A Theoretical Study'
+semantic_tags:
+  - Molecular Physics
+  - EPR Spectroscopy
+  - Hydroxyl Radical
+  - Diatomic Molecules
+  - Quantum Mechanics
+tldr: The authors conducted a theoretical study on the electron paramagnetic resonance (EPR) spectrum of vibrationally excited hydroxyl radicals (OH). They used the Born-Oppenheimer approximation and Van Vleck's 'case of pure precession' to calculate constants of diatomic molecules. The results showed that the concept of 'pure precession' breaks down for the hydroxyl radical, suggesting that interactions with several states need to be considered for a complete explanation of the variation of -factors and -doubling with vibrational quantum number.
+scientific_discipline: Chemistry > Molecular Physics

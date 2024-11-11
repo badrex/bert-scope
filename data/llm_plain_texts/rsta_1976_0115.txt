@@ -1,0 +1,10 @@
+article_id: rsta_1976_0115
+revised_title: 'Rosenhain Centenary Conference - Design Implications for Materials Selection: The Role of Physical Metallurgy and Fracture Mechanics in Stress-Corrosion Cracking'
+semantic_tags:
+  - Materials Science
+  - Stress-Corrosion Cracking
+  - Physical Metallurgy
+  - Fracture Mechanics
+  - Engineering Materials
+tldr: This article discusses the contributions of physical metallurgy and fracture mechanics in understanding and controlling stress-corrosion cracking in engineering materials. The author argues that these two disciplines are complementary and essential for addressing the challenges posed by stress-corrosion cracking. The article highlights the use of macroscopic specimens and fracture mechanics to study the effects of microfeatures on stress-corrosion cracking and to improve the properties of materials.
+scientific_discipline: Materials Science > Engineering Materials

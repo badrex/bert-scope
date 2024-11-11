@@ -1,0 +1,10 @@
+article_id: rspa_1957_0163
+revised_title: Work-Hardening and Fatigue Mechanisms in Metals
+semantic_tags:
+  - Materials Science
+  - Metal Fatigue
+  - Work-Hardening
+  - Dislocations
+  - Crystallography
+tldr: The authors discuss the mechanisms of work-hardening and slip-band formation in metals, focusing on the different stages of hardening and the role of dislocations in the process. They explain how work-hardening prevents the development of dislocation loops and how internal stresses contribute to the hardening process. The authors also explore the connection between work-hardening and fatigue in metals.
+scientific_discipline: Materials Science > Metal Fatigue

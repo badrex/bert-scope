@@ -1,0 +1,10 @@
+article_id: rspa_1964_0053
+revised_title: 'Investigating the Initial Stages of Spark Discharge and its Emitted Light'
+semantic_tags:
+  - Plasma Physics
+  - Electrical Discharges
+  - Gas Discharges
+  - Spectroscopy
+  - High-Speed Photography
+tldr: 'The authors conducted experiments using submicrosecond impulses to study the initial stages of a spark discharge and the light emitted from it. They measured the threshold voltage at which the first visible discharge occurs in a homogeneous field electrode gap, using various gases at different values of gap and gas pressure. The study included spectroscopic analysis and high-speed photography to reveal the characteristics of the discharges and the transition from an electron avalanche to a streamer or glow discharge.'
+scientific_discipline: Physics > Plasma Physics

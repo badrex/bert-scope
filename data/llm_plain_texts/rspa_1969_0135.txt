@@ -1,0 +1,10 @@
+article_id: rspa_1969_0135
+revised_title: Determining the Attitude of Ariel III Satellite Using Optical Methods
+semantic_tags:
+  - Satellite Attitude Determination
+  - Optical Observations
+  - Spacecraft Navigation
+  - Astronomy
+  - Space Science
+tldr: This article discusses two methods for determining the spin axis direction of the Ariel III satellite using optical observations of sunlight glints reflected from its surfaces. The first method combines glint observations with on-board solar aspect angle measurements, while the second method uses two glint observations. Both methods provide multiple possible solutions, but the correct spin-axis direction can be selected based on the context and available data.
+scientific_discipline: Engineering and Technology > Space Science

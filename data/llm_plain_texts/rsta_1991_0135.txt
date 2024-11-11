@@ -1,0 +1,10 @@
+article_id: rsta_1991_0135
+revised_title: Nitrogen Impurity Incorporation in Synthetic Diamond Growth
+semantic_tags:
+  - Crystallography
+  - Diamond synthesis
+  - Nitrogen impurities
+  - Infrared absorption
+  - Cathodoluminescence
+tldr: The authors study the incorporation of nitrogen impurities in synthetic diamond growth, focusing on the crystallography and properties of different growth sectors. They find that nitrogen concentration decreases in the sequence {111}, {100}, {113}, and {110} growth sectors and that {110} growth facets effectively reject nitrogen incorporation. The research also explores the use of various techniques, such as infrared absorption and cathodoluminescence, to analyze the diamond's properties and understand the relationship between nitrogen content and lattice parameter increase.
+scientific_discipline: Materials Science > Crystallography

@@ -1,0 +1,10 @@
+article_id: rspa_1958_0103
+revised_title: Temperature-Dependent Conductors: Theory and Applications
+semantic_tags:
+  - Electrical conduction
+  - Temperature-dependent conductors
+  - Heat production
+  - Thermal conductivity
+  - Electrical conductivity
+tldr: The authors present a new mathematical treatment of the electrical heating of conductors, which leads to a concise derivation of the accepted theory and three new conclusions. They demonstrate that the spatial distribution of current within a conductor is independent of its thermal and electrical properties and can be calculated using a simple numerical integration. The theory is applied to the calculation of the spatial distribution of current for a particular shape of conductor relevant to resistance welding processes, showing good agreement with experimental data.
+scientific_discipline: Physics > Electromagnetism

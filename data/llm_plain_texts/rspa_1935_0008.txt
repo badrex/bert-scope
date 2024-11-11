@@ -1,0 +1,10 @@
+article_id: rspa_1935_0008
+revised_title: 'Investigating Lateral Deviation and Characteristics of Downcoming Radio Waves'
+semantic_tags:
+  - Radio wave propagation
+  - Ionosphere
+  - Electromagnetic waves
+  - Polarization
+  - Aerial systems
+tldr: The authors conducted experiments to study the characteristics of downcoming radio waves and their lateral deviation. They used a new technique involving the simultaneous reception and recording of interference fringes between ground and sky waves on three independent aerial systems. The results helped determine the coordinates of the ionosphere responsible for reflecting the downcoming wave, providing insights into radio wave propagation and the behavior of electromagnetic waves.
+scientific_discipline: Physics > Electromagnetic Waves

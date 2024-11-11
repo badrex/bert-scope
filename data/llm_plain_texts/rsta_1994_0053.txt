@@ -1,0 +1,10 @@
+article_id: rsta_1994_0053
+revised_title: Investigating the Impact Oscillators and their Consequences in Chaotic Dynamics
+semantic_tags:
+  - Chaotic Dynamics
+  - Impact Mechanics
+  - Nonlinear Dynamics
+  - Poincaré Maps
+  - Experimental Physics
+tldr: This study investigates an impacting system and compares its dynamical behavior with a simple model system. The experiments demonstrate that the chaotic attractors exhibit certain geometric features, which are also present in more complex models. These features provide a diagnostic tool for impact studies, showing the influence of low-velocity impacts on chaotic dynamics.
+scientific_discipline: Physics > Mechanics

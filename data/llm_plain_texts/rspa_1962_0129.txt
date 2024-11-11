@@ -1,0 +1,10 @@
+article_id: rspa_1962_0129
+revised_title: Lattice Dynamics of Ionic and Covalent Crystals: A Wave-Mechanical Approach
+semantic_tags:
+  - Crystallography
+  - Lattice Dynamics
+  - Ionic Crystals
+  - Covalent Crystals
+  - Shell Model
+scientific_discipline: Physics > Solid State Physics
+tldr: The article presents a wave-mechanical approach to the lattice dynamics of ionic and covalent crystals. The author develops a theory based on the shell model, which considers the electronic polarizability and the interaction of quadrupole and higher moments of the electron distribution. The theory is applied to the calculation of elastic and dielectric constants, as well as the dispersion relations of normal modes in crystals.

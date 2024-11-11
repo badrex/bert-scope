@@ -1,0 +1,11 @@
+article_id: 'rstb_1983_0005'
+revised_title: 'Enzymatic Conversion of Lignocellulose to Fermentable Sugars: A Review of Cellulase Systems and Their Applications'
+semantic_tags:
+  - 'Lignocellulose'
+  - 'Cellulases'
+  - 'Enzymatic hydrolysis'
+  - 'Fermentable sugars'
+  - 'Biofuel production'
+tldr: This article discusses the challenges and potential solutions for converting lignocellulose to fermentable sugars using cellulase enzymes. The authors compare the effectiveness of cellulase systems from different microorganisms, focusing on Trichoderma reesei and Aspergillus species. They conclude that while the Trichoderma system has been widely studied, more effective enzyme complexes can be produced from other microorganisms, particularly Aspergillus species. The enzymatic conversion of lignocellulose to fermentable sugar has not yet been scaled up, likely due to technical and economic reasons, such as enzyme costs and the dense structure of the cellulose substrate.
+scientific_discipline: Biology and Life Sciences > Biochemistry
+```

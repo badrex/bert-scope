@@ -1,0 +1,10 @@
+article_id: rspa_1943_0038
+revised_title: 'Topography of Crystal Faces: A Study of Quartz Crystal Surface Features'
+semantic_tags:
+  - Crystallography
+  - Surface Topography
+  - Interferometry
+  - Quartz Crystals
+  - Crystal Growth
+tldr: 'The authors describe a multiple beam interferometric procedure to study the surface topography of crystal faces, specifically a (100) face of a left-handed quartz crystal. They reveal details of the surface structure that cannot be detected by microscopes or gonimeters. The method can measure face angles as small as 1/50th of a minute of arc and has potential applications in understanding crystal growth, strength, and cleavage behavior.'
+scientific_discipline: Physics > Crystallography

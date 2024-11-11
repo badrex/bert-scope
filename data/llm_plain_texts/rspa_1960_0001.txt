@@ -1,0 +1,10 @@
+article_id: rspa_1960_0001
+revised_title: Intermolecular Forces and Solvent Effects in Vibrational Frequencies
+semantic_tags:
+  - Vibrational spectroscopy
+  - Intermolecular forces
+  - Solvent effects
+  - Hydrogen bonding
+  - Dielectric constants
+tldr: This article investigates the effect of intermolecular forces and solvent properties on the vibrational frequencies of molecules. The authors conducted experiments with hydrogen cyanide and deuterium cyanide in various solvents and found that the dielectric constant of the solvent does not solely account for the observed frequency shifts. The study suggests that the strength of interaction with solvent molecules decreases in the order Br, Cl, and I, and provides insights into the form of the interaction through measurements in selected series of solvents.
+scientific_discipline: Chemistry > Spectroscopy

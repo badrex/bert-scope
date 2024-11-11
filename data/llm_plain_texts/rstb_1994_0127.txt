@@ -1,0 +1,10 @@
+article_id: 'rstb_1994_0127'
+revised_title: 'The Role of Semantics in Thematic Role Assignment in Sentence Comprehension'
+semantic_tags:
+  - Neuropsychology
+  - Language comprehension
+  - Thematic role assignment
+  - Semantic dementia
+  - Asyntactic comprehension
+tldr: This article examines two forms of comprehension impairment, semantic dementia and asyntactic comprehension, focusing on the assignment of thematic roles in sentence processing. The authors demonstrate that while syntactic information is sufficient for thematic assignment, semantic influences play a role in the process. They discuss the implications of these findings for current issues in sentence processing.
+scientific_discipline: Psychology > Neuropsychology

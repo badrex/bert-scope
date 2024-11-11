@@ -1,0 +1,10 @@
+article_id: 'rsnr_1988_0015'
+revised_title: 'Number Theory and Probability in Prime Patterns'
+semantic_tags:
+  - Number Theory
+  - Prime Numbers
+  - Probability Theory
+  - Analytic Number Theory
+  - Prime Patterns
+tldr: The article discusses the author's reminiscences of Viscount Cherwell and his work on number theory, focusing on the distribution of prime numbers and the use of probability in understanding prime patterns. Cherwell's work involved heuristic arguments and probability methods to estimate the number of prime pairs and triplets, which have been compared with modern computer calculations and found to be accurate.
+scientific_discipline: Mathematics > Number Theory

@@ -1,0 +1,10 @@
+article_id: rsta_1969_0039
+revised_title: Asymptotic Behavior of Generalized Transforms
+semantic_tags:
+  - Mathematics
+  - Fourier Transform
+  - Asymptotic Analysis
+  - Laplace Transform
+  - Hankel Transform
+tldr: The article explores properties and theorems of generalized transforms, including the derivative, limit, and asymptotic behavior. It discusses the inversion of generalized transforms and provides criteria for determining the contributions from critical points. The study covers applications of the theorems to Bessel functions, Laplace transforms, and the Hankel transform.
+scientific_discipline: Mathematics > Analysis

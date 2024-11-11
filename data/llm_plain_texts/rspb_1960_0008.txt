@@ -1,0 +1,10 @@
+article_id: 'rspb_1960_0008'
+revised_title: 'Adaptation of Coliform Bacteria to Sugars: A Reevaluation'
+semantic_tags:
+  - Bacterial adaptation
+  - Microbiology
+  - Mutation
+  - Colony growth
+  - Lactose metabolism
+tldr: The authors conducted experiments to study the adaptation of coliform bacteria to sugars, specifically lactose. They observed that the time taken for colonies to reach a certain size decreased as the bacteria were exposed to lactose for longer periods. The authors found that the appearance of two colony types, previously thought to be due to the overgrowth of mutants, was actually a normal part of the adaptation process. This challenges the idea that pre-existent mutants overgrow the original strain during the adaptation process.
+scientific_discipline: Biology and Life Sciences > Microbiology

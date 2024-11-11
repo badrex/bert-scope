@@ -1,0 +1,10 @@
+article_id: rspa_1914_0092
+revised_title: 'Investigation of Eutectic Growth and Halo Formation in Metallic Alloys'
+semantic_tags:
+  - Metallic eutectics
+  - Alloy solidification
+  - Halo formation
+  - Undercooling
+  - Eutectic growth
+tldr: The authors conducted experiments to study the growth of metallic eutectics and the formation of halos in alloys. They discovered that the formation of halos is not connected to undercooling at the first moment of eutectic formation. Instead, halos form when the eutectic growth approaches the primary crystal. The research led to the classification of eutectics into two main classes based on their crystal structure and the presence or absence of halos.
+scientific_discipline: Chemistry > Materials Science

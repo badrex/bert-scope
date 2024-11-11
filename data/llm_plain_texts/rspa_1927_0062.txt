@@ -1,0 +1,10 @@
+article_id: 'rspa_1927_0062'
+revised_title: 'Investigation of Non-Diagram L Emission Lines in Lead and Bismuth Spectra'
+semantic_tags:
+  - X-ray spectroscopy
+  - Atomic physics
+  - Lead spectroscopy
+  - Bismuth spectroscopy
+  - Bohr Selection Principle
+tldr: 'The authors conducted an experiment to study the L emission spectra of lead and bismuth. They discovered four lines that did not follow the Bohr Selection Principle, which was a surprise at the time. The study confirmed the existence of non-diagram lines in the L emission spectra of these elements, contributing to the understanding of atomic physics.'
+scientific_discipline: Physics > Atomic Physics

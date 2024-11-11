@@ -1,0 +1,10 @@
+article_id: 'rsta_1993_0122'
+revised_title: 'Aromatic Rings in Molecular Recognition: The Role of Hydrogen Bond Acceptors'
+semantic_tags:
+  - Molecular Recognition
+  - Aromatic Rings
+  - Hydrogen Bond Acceptors
+  - Protein Structure
+  - Biological Significance
+tldr: This article explores the role of aromatic rings as hydrogen bond acceptors in molecular recognition. It discusses the bond energy and its biological significance, as well as the contribution to protein stability. The author presents various examples, including the interaction between histidine and phenylalanine in a-helices, and the binding of phosphocholine to the mouse immunoglobulin McPC603.
+scientific_discipline: Chemistry > Molecular Biology

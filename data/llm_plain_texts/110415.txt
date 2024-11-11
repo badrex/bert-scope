@@ -1,0 +1,10 @@
+article_id: 110415
+revised_title: 'Faraday's Experiments on Voltaic Pile and Electrolytes'
+semantic_tags:
+  - Electrochemistry
+  - Voltaic Pile
+  - Electrolytes
+  - Electric Current
+  - Decomposition
+scientific_discipline: Chemistry > Electrochemistry
+tldr: In this paper, Michael Faraday investigates the nature of electricity in the voltaic pile and the role of electrolytes in the process. He demonstrates that the electricity produced is due to chemical action and that the intensity of the electric current is necessary for the decomposition of electrolytes. Faraday also examines the voltaic battery and its ability to conduct electricity through various substances, showing how the number of plates in the battery affects its power and energy.

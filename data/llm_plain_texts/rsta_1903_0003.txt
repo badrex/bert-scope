@@ -1,0 +1,10 @@
+article_id: rsta_1903_0003
+revised_title: Pressure Coefficients of Hydrogen and Helium and Vapour Pressures of Liquid Oxygen and Hydrogen
+semantic_tags:
+  - Thermodynamics
+  - Gas thermometry
+  - Pressure coefficients
+  - Temperature measurement
+  - Helium and hydrogen scales
+tldr: The authors conducted experiments to measure the pressure coefficients of hydrogen and helium at constant volume and different initial pressures, as well as the vapour pressures of liquid oxygen and hydrogen at temperatures below their boiling points on the constant-volume hydrogen and helium scales. They found that helium is a more perfect thermometric substance than hydrogen and suggested that the helium scale should be used as the normal scale of temperature.
+scientific_discipline: Physics > Thermodynamics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1978_0031'
+revised_title: 'Dopamine's Effects on Goldfish Retinal Neurons'
+semantic_tags:
+  - Neurotransmitters
+  - Retinal Neurons
+  - Dopamine
+  - Goldfish Retina
+  - Interplexiform Cells
+tldr: The authors conducted experiments on isolated goldfish retinas to study the effects of dopamine on retinal neurons. They found that dopamine depolarizes cone L-type horizontal cells and reduces the amplitude of light-evoked responses. The results suggest that dopamine may mimic the effects of interplexiform cell activity, which could regulate lateral inhibitory effects and center-surround antagonism in the retina. 
+scientific_discipline: Biology and Life Sciences > Neurobiology

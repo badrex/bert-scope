@@ -1,0 +1,10 @@
+article_id: rspa_1950_0025
+revised_title: 'Energy Levels and Polar Structures in Benzene'
+semantic_tags:
+  - Quantum Chemistry
+  - Molecular Orbital Theory
+  - Benzene
+  - Conjugated Molecules
+  - Spectroscopy
+tldr: The author calculates the energy levels of benzene using a basis of non-polar and polar structures. They find that the role of polar structures is significant in determining the energy levels and spectral transitions of benzene. The study also suggests a new assignment for the 2080 A bands of benzene and discusses the limitations of molecular orbital theory in explaining the intense region at 1830 A and the weaker absorption at 2080 A.
+scientific_discipline: Chemistry > Quantum Chemistry

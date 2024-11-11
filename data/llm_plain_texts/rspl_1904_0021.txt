@@ -1,0 +1,10 @@
+article_id: rspl_1904_0021
+revised_title: 'Achieving Constant-Standard Silver Trial-Plates through Rapid Cooling and Mould Design'
+semantic_tags:
+  - Metallurgy
+  - Alloy casting
+  - Mould design
+  - Rapid cooling
+  - Standard silver
+tldr: The authors describe their experiments in casting large, uniform silver trial-plates. They found that by pouring the molten alloy into a cold mould from the bottom and using rapid cooling, they could achieve a constant standard silver plate. This method contradicts the previously accepted theory that slow and uniform cooling is necessary for uniformity in standard alloys.
+scientific_discipline: Engineering and Technology > Metallurgy

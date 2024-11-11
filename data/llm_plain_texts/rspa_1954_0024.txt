@@ -1,0 +1,10 @@
+article_id: rspa_1954_0024
+revised_title: 'A Study on the Decay Processes of Neutral-Mesons'
+semantic_tags:
+  - Particle Physics
+  - Meson Decay
+  - Nuclear Physics
+  - Particle Accelerators
+  - Cloud Chamber
+tldr: The author discusses the decay processes of neutral-mesons, specifically focusing on two-body decay processes involving two light mesons and a light and a heavy meson. The study uses experimental data from various sources and analyzes the transverse momentum distribution to determine the momentum of secondary particles in the rest system of the decaying particle. The findings provide insight into the nature of neutral-meson decay and contribute to the understanding of particle physics.
+scientific_discipline: Physics > Particle Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1914_0077
+revised_title: 'Absorption of Gases in Discharge Tubes: Experiments with Sodium-Potassium Alloy and Nitrogen'
+semantic_tags:
+  - Gas absorption
+  - Discharge tubes
+  - Sodium-potassium alloy
+  - Nitrogen
+  - Active gas
+scientific_discipline: Chemistry > Chemical reactions and kinetics
+tldr: The authors conducted experiments to study the absorption of gases, specifically nitrogen, in discharge tubes using a sodium-potassium alloy as the cathode and anode. They found that the amount of gas absorbed is related to the quantity of electricity passing through the circuit and that the active gas produced by the electric discharge plays a significant role in the absorption process. The results showed that more absorption occurs at the cathode, and the authors discuss possible explanations for this phenomenon.

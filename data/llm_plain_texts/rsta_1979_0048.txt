@@ -1,0 +1,10 @@
+article_id: rsta_1979_0048
+revised_title: Limitations and Future Prospects of X-ray Usage in Medical Diagnosis
+semantic_tags:
+  - Medical Imaging
+  - Radiology
+  - X-ray Technology
+  - Diagnostic Radiology
+  - Radiation Safety
+tldr: This article discusses the limitations and future prospects of using X-rays in medical diagnosis. It highlights the challenges of obtaining clear images due to movement, low contrast between organs, and the need to minimize radiation exposure. The article also explores methods to improve image quality, such as using point sources, adjusting voltage, and reducing scatter. The importance of radiation safety and minimizing biological effects is emphasized.
+scientific_discipline: Physics > Medical Imaging

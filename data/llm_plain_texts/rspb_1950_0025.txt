@@ -1,0 +1,10 @@
+article_id: 'rspb_1950_0025'
+revised_title: 'Stability of D-arabinose Adaptation in Bact. lactis aerogenes'
+semantic_tags:
+  - Bacterial adaptation
+  - Mutation theory
+  - Microbiology
+  - Genetics
+  - Microbial metabolism
+tldr: The authors studied the stability of D-arabinose adaptation in Bact. lactis aerogenes bacteria. They found that the long lag observed when transferring the bacteria from glucose to D-arabinose media is due to the multiplication of a small proportion of mutants. The authors concluded that the equilibrium between mutations and reverse mutations is rapidly established, and the stability of the adaptation is influenced by the length of training of the bacteria.
+scientific_discipline: Biology and Life Sciences > Microbiology

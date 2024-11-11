@@ -1,0 +1,10 @@
+article_id: rspa_1971_0003
+revised_title: 'Modeling a Double Sheath Between Two Plasmas with Reflected Particles and Initial Velocities'
+semantic_tags:
+  - Plasma physics
+  - Space charge layers
+  - Double sheaths
+  - Electric fields
+  - Plasma-sheath boundaries
+tldr: The authors present a model of a double sheath between two plasmas, considering reflected particles and the initial velocities of accelerated particles. They find that ions from the plasma sac acquire kinetic energy in a presheath region, and the ratio of ion and electron current densities can significantly deviate from Langmuir's 1:1 ratio. This model helps to understand double sheaths in various contexts, such as solar flares and gas-discharge tubes.
+scientific_discipline: Physics > Plasma Physics

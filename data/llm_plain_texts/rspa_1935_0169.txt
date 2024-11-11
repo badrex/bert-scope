@@ -1,0 +1,10 @@
+article_id: rspa_1935_0169
+revised_title: Discovery of New Supraconductors and Methods for Detecting Supraconductivity
+semantic_tags:
+  - Supraconductivity
+  - Cryogenics
+  - Magnetic Method
+  - Low Temperatures
+  - Metals
+tldr: The authors conducted experiments using the magnetic method to obtain very low temperatures and discovered new supraconductors. They developed a method to detect supraconductivity by measuring the susceptibility of the sample in different magnetic fields. This method can be used to determine whether substances become supraconductive and identify the threshold values for different fields.
+scientific_discipline: Physics > Cryogenics

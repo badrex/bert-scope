@@ -1,0 +1,10 @@
+article_id: 'rsta_1953_0014'
+revised_title: 'Hydrogen Molecular Ion Wave Functions and L.C.A.O. Approximation'
+semantic_tags:
+  - Quantum Chemistry
+  - Molecular Physics
+  - Hydrogen Molecular Ion
+  - Wave Functions
+  - L.C.A.O. Approximation
+tldr: The authors investigated the wave functions of the hydrogen molecular ion, providing tables of parameters for various states. They compared the exact potential energy with the L.C.A.O. (Linear Combination of Atomic Orbitals) approximation, finding that the L.C.A.O. is generally poor, especially for excited atomic orbitals. The study offers insights into the accuracy of the L.C.A.O. approximation for complex molecules.
+scientific_discipline: Chemistry > Quantum Chemistry

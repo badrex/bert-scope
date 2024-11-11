@@ -1,0 +1,10 @@
+article_id: rspa_1964_0138
+revised_title: 'Woomera Rocket-Grenade Experiments: Upper Atmosphere Wind and Temperature Structure'
+semantic_tags:
+  - Atmospheric Science
+  - Rocket Technology
+  - Upper Atmosphere Research
+  - Wind and Temperature Measurements
+  - Sound Propagation
+tldr: The article describes the first grenade experiments conducted at the Woomera rocket range in Australia between 1957 and 1959. These experiments used rocket-grenades to study wind and temperature structures in the upper atmosphere. The authors explain the method and instrumentation of the experiments, and present results from the first four successful firings. The data collected helped determine wind speed and temperature from the speed of sound, and provided pressure and density profiles that closely matched the COSPAR International Reference Atmosphere, 1961.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

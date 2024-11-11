@@ -1,0 +1,10 @@
+article_id: rspa_1971_0195
+revised_title: 'Photochemical Properties of Methylated p-Benzoquinones'
+semantic_tags:
+  - Photochemistry
+  - Organic Chemistry
+  - Quinones
+  - Flash Photolysis
+  - Triplet State
+tldr: The authors studied the photochemistry of methylated p-benzoquinones using flash photolysis techniques. They confirmed that the transient absorption at 490 nm observed during the photolysis of duroquinone is due to the triplet state of the molecule. The lifetime of this triplet state is influenced by methyl substitution in the quinone ring and the addition of water to the solvent. The authors propose that deprotonation of the triplet state is a primary photochemical process in polar solvents.
+scientific_discipline: Chemistry > Organic Chemistry

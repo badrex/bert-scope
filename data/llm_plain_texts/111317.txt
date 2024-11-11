@@ -1,0 +1,10 @@
+article_id: 111317
+revised_title: 'Geometrical Isomorphism of Crystals: A New Perspective'
+semantic_tags:
+  - Crystallography
+  - Crystal Systems
+  - Elementary Angles
+  - Crystal Forms
+  - Crystal Indices
+tldr: The author, Henry James Brooke, presents a new approach to crystallography by constructing tables that showcase the geometrical isomorphism of crystals in various systems. He explains the language and notation used in discussing these tables and highlights the importance of horizontal ranges of nearly equal angles in each system. Brooke suggests that the oblique and anorthic systems may be variations of prismatic crystals.
+scientific_discipline: Chemistry > Crystallography

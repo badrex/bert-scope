@@ -1,0 +1,10 @@
+article_id: rspa_1935_0117
+revised_title: 'Helium's Effect on the Absorption of Light in Caesium Vapour'
+semantic_tags:
+  - Atomic physics
+  - Spectroscopy
+  - Gas absorption
+  - Helium
+  - Caesium
+tldr: 'This study examines the effect of helium on the absorption of light in caesium vapour. The researchers found that the shape of the absorption curve is altered, with the absorption at the short-wave end becoming slightly steeper. On the long-wave side of the series limit, the absorption falls much more steeply in the presence of helium. The results show that the atomic absorption coefficient for caesium is affected by the presence of helium, with the absorption both near the series limit and at about 3000 Å being proportional to the vapour pressure within experimental error.'
+scientific_discipline: Physics > Atomic physics

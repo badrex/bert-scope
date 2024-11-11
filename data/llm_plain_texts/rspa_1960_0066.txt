@@ -1,0 +1,10 @@
+article_id: rspa_1960_0066
+revised_title: 'Optical Model of Light Nuclei and its Applications'
+semantic_tags:
+  - Nuclear Physics
+  - Quantum Mechanics
+  - Nuclear Scattering
+  - Optical Model
+  - Nuclear Reactions
+tldr: The authors develop the optical model of light nuclei, a theoretical framework used to understand the elastic scattering of particles in nuclear reactions. They apply this model to K+-proton scattering and discuss the potential's short range and the significance of the s-state in the interaction. The authors also explore the effects of two-nucleon correlations on the shape of the K+ meson optical model potential.
+scientific_discipline: Physics > Nuclear Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1960_0184
+revised_title: Proton Impact Excitation of Hydrogen Atoms: A Third-Order Approximation
+semantic_tags:
+  - Atomic Physics
+  - Nuclear Physics
+  - Quantum Mechanics
+  - Particle Acceleration
+  - Plasma Physics
+tldr: The authors investigate the excitation of hydrogen atoms by proton impact using a third-order approximation. They find that the effect of distortion reduces the cross-section, while polarization increases it. The third-order distortion-polarization approximation provides reliable results for proton impact energies above 1 MeV.
+scientific_discipline: Physics > Atomic and Nuclear Physics

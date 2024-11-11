@@ -1,0 +1,10 @@
+article_id: 107032
+revised_title: The Weight of Heat and the Latent Heat of Fusion
+semantic_tags:
+  - Thermodynamics
+  - Heat transfer
+  - Calorimetry
+  - Latent heat
+  - Freezing point depression
+scientific_discipline: Physics > Thermodynamics
+tldr: The author conducted experiments to investigate whether heat has weight. They found that when water freezes, it appears to gain weight, but when it thaws back to liquid, it loses the additional weight. This discovery led the author to further investigate the relationship between heat and weight, ultimately contributing to the understanding of thermodynamics and latent heat.

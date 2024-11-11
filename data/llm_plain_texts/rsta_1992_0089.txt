@@ -1,0 +1,10 @@
+article_id: rsta_1992_0089
+revised_title: Binary Pulsars as Probes of Relativistic Gravity
+semantic_tags:
+  - Pulsars
+  - Relativistic Gravity
+  - Binary Systems
+  - Strong-Field Regime
+  - Post-Keplerian Formalism
+tldr: The article discusses how binary pulsars can serve as unique laboratories to study the strong-field regime of relativistic gravity. It reviews two approaches to using binary pulsar measurements as probes of relativistic gravity: the phenomenological (parametrized post-keplerian) formalism and the alternative theory approach. The experimental constraints derived from actual timing observations of three binary pulsars are summarized, and general relativity is found to pass these new, strong-field tests with complete success.
+scientific_discipline: Physics > Astronomy

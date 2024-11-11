@@ -1,0 +1,10 @@
+article_id: rspa_1992_0119
+revised_title: 'Third-Order Theory for Air Drag Impact on Earth Satellite Orbits'
+semantic_tags:
+  - Satellite Orbits
+  - Air Drag
+  - Analytical Theory
+  - Atmospheric Density
+  - Orbital Mechanics
+tldr: The author develops a third-order analytical theory for the effect of air drag on Earth satellite orbits using the KS elements and an analytical oblate exponential atmospheric model. The study includes series expansions up to cubic terms in eccentricity and demonstrates improved accuracy in semi-major axis and eccentricity computations compared to a second-order theory. Numerical comparisons with nine test cases highlight the usefulness of the analytical expressions.
+scientific_discipline: Engineering and Technology > Aerospace Engineering

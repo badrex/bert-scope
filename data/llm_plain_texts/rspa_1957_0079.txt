@@ -1,0 +1,10 @@
+article_id: rspa_1957_0079
+revised_title: Unstable Plastic Flow of Metals at Very Low Temperatures
+semantic_tags:
+  - Plasticity
+  - Cryogenics
+  - Aluminum alloys
+  - Discontinuous yielding
+  - Temperature effects
+tldr: The authors investigate the unstable plastic deformation of aluminum alloys at very low temperatures. They find that discontinuities in the stress-strain curve are caused by localized temperature rises during deformation. The calculated magnitudes of load drops and transition temperatures agree well with experimental observations. The study suggests that all metals should exhibit unstable deformation at sufficiently low temperatures.
+scientific_discipline: Materials Science > Plasticity

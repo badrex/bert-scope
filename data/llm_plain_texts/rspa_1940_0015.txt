@@ -1,0 +1,11 @@
+article_id: 'rspa_1940_0015'
+revised_title: 'Spectroscopic Analysis of Ethylene and Deutero-Ethylene in Vacuum Ultra-Violet'
+semantic_tags:
+  - Spectroscopy
+  - Organic Chemistry
+  - Molecular Spectra
+  - Quantum Chemistry
+  - Ethylene
+tldr: The authors studied the absorption spectra of ethylene and deutero-ethylene in the vacuum ultra-violet range. They used vacuum grating spectrographs and a source of the Lyman continuum to analyze the absorption bands and ionization potential. The results showed that the absorption bands refer to the excitation and removal of an "n" electron from the double bond, and the main spacing of the vibrational pattern is due to a modified CC valence vibration.
+
+scientific_discipline: Chemistry > Organic Chemistry

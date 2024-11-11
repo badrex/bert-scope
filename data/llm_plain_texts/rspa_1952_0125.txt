@@ -1,0 +1,10 @@
+article_id: rspa_1952_0125
+revised_title: 'Reassessment of Thermal Accommodation Coefficients of Gases'
+semantic_tags:
+  - Gas Surface Interactions
+  - Thermal Accommodation Coefficients
+  - Heat Transfer
+  - Gas-Metal Interface
+  - Experimental Physics
+tldr: The authors investigated the techniques used by Roberts and Bremner to measure thermal accommodation coefficients of gases. They found that Roberts's conclusions were correct and that the original thermal steady state was not attained in Bremner's experiments. This study is important for understanding the chemisorption of gases on metals and the mechanism of energy exchange at the gas-metal interface.
+scientific_discipline: Physics > Thermodynamics

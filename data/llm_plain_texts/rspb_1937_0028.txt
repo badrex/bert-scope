@@ -1,0 +1,10 @@
+article_id: 'rspb_1937_0028'
+revised_title: 'Electrical Activity of the Central Nervous System in Frogs'
+semantic_tags:
+  - Neurophysiology
+  - Frog Brain
+  - Electrical Activity
+  - Spontaneous Activity
+  - Olfactory Bulb
+tldr: The authors conducted experiments on the electrical activity of the central nervous system of frogs, focusing on the brain's spontaneous activity. They discovered that the olfactory bulb exhibited the highest electrical activity, with distinct rhythms and frequencies. The study suggests that neurons can generate electrical activity independently of external stimuli, providing insights into the brain's intrinsic functioning.
+scientific_discipline: Biology and Life Sciences > Neurobiology

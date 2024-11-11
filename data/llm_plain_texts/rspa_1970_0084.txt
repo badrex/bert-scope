@@ -1,0 +1,10 @@
+article_id: rspa_1970_0084
+revised_title: Temperature and Pressure Variations in Dielectric Constants of Ionic Crystals
+semantic_tags:
+  - Dielectric constants
+  - Ionic crystals
+  - Temperature dependence
+  - Pressure dependence
+  - Anharmonic effects
+tldr: The authors measured the dielectric constants of alkali and thallium halides at various temperatures and pressures. They separated the temperature and volume-dependent variations in dielectric constants and discussed the anharmonic self-energies of long-wave transverse-optic phonons. The results provide insights into the anharmonic effects in ionic compounds and their potential applications in materials science.
+scientific_discipline: Physics > Condensed Matter Physics

@@ -1,0 +1,10 @@
+article_id: rspl_1881_0013
+revised_title: 'Influence of Electric Currents on Liquid Diffusion: Experiments and Observations'
+semantic_tags:
+  - Electrochemistry
+  - Liquid diffusion
+  - Electromigration
+  - Electrolysis
+  - Boundary layer phenomena
+tldr: The author conducted experiments to study the influence of electric currents on the diffusion of liquids. They observed that the boundary surfaces of contact between two liquids became indefinite when the current passed from a lighter to a heavier solution and became sharply defined when the current left the heavier and re-entered the lighter liquid. The author also noticed the production of definite lines at the surface where the current passed from the lighter to the heavier solution. These findings have implications for understanding the behavior of liquids and their interactions under the influence of electric currents.
+scientific_discipline: Chemistry > Electrochemistry

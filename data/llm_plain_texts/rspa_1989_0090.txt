@@ -1,0 +1,11 @@
+article_id: rspa_1989_0090
+revised_title: Equivalence and Comparison of Perturbation Methods in Weakly Nonlinear Stability Theory for Parallel Shear Flows
+semantic_tags:
+  - Fluid Dynamics
+  - Nonlinear Stability Theory
+  - Perturbation Methods
+  - Shear Flows
+  - Amplitude Expansion Method
+  - Method of Multiple Scales
+tldr: The authors examine and compare two perturbation methods, the amplitude expansion method and the method of multiple scales, in weakly nonlinear stability theory for parallel shear flows. They demonstrate the equivalence of these methods when applying a normalization condition to the fundamental mode, and discuss the convergence of the method of multiple scales. The study focuses on plane Poiseuille flow as a typical example of two-dimensional parallel shear flows.
+scientific_discipline: Physics > Fluid Dynamics

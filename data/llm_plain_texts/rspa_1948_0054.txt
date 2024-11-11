@@ -1,0 +1,10 @@
+article_id: rspa_1948_0054
+revised_title: 'Interlacing Nets for Relaxation Methods in Two-Variable Problems'
+semantic_tags:
+  - Numerical methods
+  - Relaxation techniques
+  - Finite difference approximations
+  - Elasticity
+  - Interlacing nets
+tldr: The authors propose the use of interlacing nets for relaxation methods in problems involving two dependent variables, such as two-dimensional elastic problems. They explain how to apply these nets to calculate displacements and stresses in a solid, and demonstrate their method through various examples. This technique improves the accuracy and efficiency of relaxation methods in solving complex problems.
+scientific_discipline: Mathematics > Numerical methods

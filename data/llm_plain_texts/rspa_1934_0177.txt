@@ -1,0 +1,10 @@
+article_id: rspa_1934_0177
+revised_title: 'Hydrogenation and Exchange Reaction of Ethylene with Heavy Hydrogen'
+semantic_tags:
+  - Heavy hydrogen
+  - Hydrogenation
+  - Exchange reaction
+  - Ethylene
+  - Catalyst
+tldr: The authors conducted experiments to study the hydrogenation and exchange reaction of ethylene with heavy hydrogen. They discovered that the exchange reaction occurs at higher temperatures, while hydrogenation proceeds at low temperatures. The results showed that the heavy hydrogen is preferentially present in the ethylene, and the exchange reaction can only be detected using heavy hydrogen as a reactant.
+scientific_discipline: Chemistry > Organic Chemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1958_0239
+revised_title: Applications of Intensity Interferometry in Astronomy
+semantic_tags:
+  - Interferometry
+  - Astronomy
+  - Angular diameter measurements
+  - Stellar interferometer
+  - Photoelectric detectors
+scientific_discipline: Astronomy > Astrophysics
+tldr: The authors present a theoretical analysis of an intensity interferometer's application in measuring the angular diameters of stars. They discuss the performance of such an instrument and its potential to measure the dimensions of stars, especially hot stars, with high resolving power. The technique uses two large mirrors, photoelectric detectors, and optical filters to measure the correlation between fluctuations in the light received from the stars.

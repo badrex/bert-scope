@@ -1,0 +1,10 @@
+article_id: rsta_1982_0043
+revised_title: Two-Dimensional Analysis of Random Surface Properties
+semantic_tags:
+  - Surface Topography
+  - Discrete Analysis
+  - Contact Mechanics
+  - Surface Parameters
+  - Surface Geometry
+tldr: The authors extended the theory of surface parameters to include two-dimensional properties of random surfaces, using discrete analysis and the autocorrelation function. They demonstrated that this method provides an alternative to traditional continuous methods and discussed the differences between the two approaches. The theoretical results were confirmed experimentally, highlighting the significance of discrete methods in predicting surface performance.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

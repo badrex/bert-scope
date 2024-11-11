@@ -1,0 +1,10 @@
+article_id: rspa_1987_0061
+revised_title: 'Steady-State Behavior of the Autocatalator Model in a Continuous-Flow Stirred-Tank Reactor'
+semantic_tags:
+  - Chemical Engineering
+  - Bifurcation Theory
+  - Autocatalysis
+  - Continuous-Flow Stirred-Tank Reactor
+  - Singularity Theory
+tldr: The steady-state behavior of the autocatalator model in a continuous-flow stirred-tank reactor is investigated, focusing on the bifurcation diagrams and their corresponding parameter regions. The study shows that the model gives rise to a structurally stable singularity, and the organizing center for the model has a normal form with 14 structurally stable bifurcation diagrams when the inlet concentration of species A is greater than three times that of species B. When the inlet concentration of species A is smaller than three times that of species B, the organizing singularity is a winged cusp, and the behavior of the autocatalator is similar to the classical problem of a single exothermic reaction in a CSTR.
+scientific_discipline: Chemistry > Chemical Engineering

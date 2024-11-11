@@ -1,0 +1,10 @@
+article_id: rspa_1953_0043
+revised_title: Electrical Properties of Graphite: Hall Coefficient and Resistivity
+semantic_tags:
+  - Graphene
+  - Hall effect
+  - Graphite properties
+  - Crystal size
+  - Anisotropy
+tldr: The authors studied the electrical properties of graphite, including the Hall coefficient and resistivity, in various graphites with different crystal sizes. They found that the number of free electrons in graphite is approximately 10^22 per cm³ at room temperature. The results showed that the resistivity of artificial graphite depends on the density and orientation of the crystal size. The study also revealed that the Hall coefficient of graphite can be understood by assuming mixed conduction by free electrons and positive holes, with the mobility of free electrons being greater than that of positive holes.
+scientific_discipline: Physics > Materials Science

@@ -1,0 +1,10 @@
+article_id: 'rstl_1878_0002'
+revised_title: 'Electrostatic Capacity of Glass: Experiments and Measurements'
+semantic_tags:
+  - Electrostatics
+  - Glass properties
+  - Capacitance
+  - Optical glass
+  - Refractive index
+tldr: The author conducted experiments to measure the electrostatic capacity of various types of glass, including optical flint glass, dense flint glass, and plate glass. They used a guard ring condenser and a sliding condenser to compare the specific inductive capacity and refractive indices of the glasses. The results showed that the electrostatic capacity of these glasses is related to their refractive indices, providing valuable information for understanding the properties of glass used in optical devices like telescopes.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rsta_1983_0006
+revised_title: A Study of Temperature and Salinity Structure Development in the Upper Ocean During JASIN
+semantic_tags:
+  - Oceanography
+  - Air-Sea Interaction
+  - Temperature Profiles
+  - Salinity Profiles
+  - Mixed-Layer Modeling
+tldr: The Royal Society's Joint Air-Sea Interaction Project (JASIN) investigated the development of temperature and salinity structures in the upper ocean over two months in a 150x150 km area. The study found that surface heat fluxes dominated the time history of oceanic heat content on the scale of the entire survey area, while advection due to mesoscale structures masked differences in heating in different water masses. A one-dimensional mixed-layer model was used to simulate the development of the temperature profile as a spatial average for the survey area, providing insights into the effects of air-sea interaction on the upper ocean layers.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

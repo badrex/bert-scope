@@ -1,0 +1,10 @@
+article_id: rspl_1887_0079
+revised_title: 'Elasticity and Sound Velocity in Metals: A Comparison of Torsional and Longitudinal Elasticities'
+semantic_tags:
+  - Elasticity
+  - Sound velocity
+  - Metals
+  - Torsional elasticity
+  - Longitudinal elasticity
+tldr: This study investigates the relationship between stress and strain on the physical properties of metals, focusing on the velocity of sound and the comparison of torsional and longitudinal elasticities. The author found that the values of the moduli of torsional and longitudinal elasticities, when determined by statical methods, are the same as when determined by kinetical methods, provided the deformations are very small. The velocity of sound in a metal wire is independent of the load on the wire and is not significantly affected by permanent extension.
+scientific_discipline: Physics > Materials Science

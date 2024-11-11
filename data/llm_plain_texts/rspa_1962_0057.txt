@@ -1,0 +1,10 @@
+article_id: rspa_1962_0057
+revised_title: Impurity Precipitation and Strain Ageing on Dislocations
+semantic_tags:
+  - Materials Science
+  - Solid State Physics
+  - Dislocations
+  - Precipitation Hardening
+  - Strain Ageing
+tldr: The authors investigate the kinetics of impurity precipitation on dislocations, focusing on the growth of discrete precipitate particles and continuous rod-like precipitates. They find that the kinetics for the former mode of precipitation can be explained by an exponential decrease in the fraction of solute remaining in free solution. The continuous rod-like mode of precipitation is a consequence of a high binding energy in the dislocation core, leading to transient variations in the transfer velocity across the matrix-core interface. This situation closely resembles the experimentally determined strain ageing kinetics in some low-carbon and nitrogen steels.
+scientific_discipline: Materials Science > Solid State Physics

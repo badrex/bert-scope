@@ -1,0 +1,10 @@
+article_id: rspa_1960_0201
+revised_title: 'Advanced Satellite Orbit Theory: A New Co-ordinate System'
+semantic_tags:
+  - Celestial Mechanics
+  - Satellite Orbits
+  - Orbital Dynamics
+  - Spacecraft Navigation
+  - Perturbation Theory
+tldr: This article presents a refined co-ordinate system for analyzing satellite orbits, taking into account the oblateness of the Earth and neglecting other perturbing forces. The authors improve upon previous methods by allowing the maximum latitude of the subsatellite point to vary, providing more accurate predictions of satellite motion. The study focuses on near-Earth satellites and offers a deeper understanding of their orbital dynamics.
+scientific_discipline: Physics > Celestial Mechanics

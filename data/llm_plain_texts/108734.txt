@@ -1,0 +1,10 @@
+article_id: 108734
+revised_title: Analyzing the Porism of In-and-Circumscribed Polygons
+semantic_tags:
+  - Geometry
+  - Analytical Geometry
+  - Algebraic Geometry
+  - Conic Sections
+  - Polygon Geometry
+tldr: The author, Arthur Cayley, explores the porism of in-and-circumscribed polygons, focusing on the relationship between the equations of two conics. He demonstrates how the discriminant of the equation can be used to determine the parameters of the points where the conics intersect. This study helps to understand the properties of polygons and their relations to conic sections.
+scientific_discipline: Mathematics > Geometry

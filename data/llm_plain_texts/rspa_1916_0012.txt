@@ -1,0 +1,10 @@
+article_id: 'rspa_1916_0012'
+revised_title: 'Helmholtz Resonator Theory and Its Applications'
+semantic_tags:
+  - Acoustics
+  - Resonance
+  - Sound Isolation
+  - Physics
+  - Helmholtz Resonator
+tldr: 'Lord Rayleigh explains the theory of the Helmholtz resonator, a device that enhances sound amplification and isolation. The resonator's design involves a spherical chamber connected to a small opening, and its effectiveness is determined by the chamber's volume and the size of the opening. This theory has applications in sound engineering and architecture for improving sound quality and reducing noise.'
+scientific_discipline: Physics > Acoustics

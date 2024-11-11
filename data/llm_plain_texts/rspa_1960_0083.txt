@@ -1,0 +1,10 @@
+article_id: 'rspa_1960_0083'
+revised_title: 'Magnetization of Ferromagnetic Binary Alloys: Cobalt and Nickel with Palladium and Platinum Group Elements'
+semantic_tags:
+  - 'Magnetism'
+  - 'Ferromagnetic materials'
+  - 'Binary alloys'
+  - 'Cobalt'
+  - 'Nickel'
+tldr: 'The authors studied the magnetization of ferromagnetic binary alloys of cobalt and nickel with elements from the palladium and platinum groups. They found that the magnetization of these alloys is influenced by the addition of these elements, and discussed two models to understand the significance of these measurements. The results provide insights into the properties of these alloys and their potential applications in various fields.'
+scientific_discipline: 'Chemistry > Materials Science'

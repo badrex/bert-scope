@@ -1,0 +1,10 @@
+article_id: rspl_1872_0013
+revised_title: Investigation of Galvanic Coil Attraction on Magnetic Mass
+semantic_tags:
+  - Electromagnetism
+  - Galvanomagnetic Attraction
+  - Physics
+  - James Clerk Maxwell
+  - Ampere's Law
+tldr: This article investigates the attraction of a galvanic coil on a small magnetic mass. The author uses mathematical expressions to calculate the force exerted by the current on a unit of magnetism placed near the coil. The findings contribute to the understanding of galvanomagnetic attraction and its applications in electromagnetism.
+scientific_discipline: Physics > Electromagnetism

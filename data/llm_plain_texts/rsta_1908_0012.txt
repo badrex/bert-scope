@@ -1,0 +1,10 @@
+article_id: rsta_1908_0012
+revised_title: 'Determination of Electromotive Force of the Weston Cadmium Cell'
+semantic_tags:
+  - Electromagnetic Induction
+  - Electromotive Force
+  - Weston Cadmium Cell
+  - Current Weigher
+  - Electrodynamics
+tldr: The authors describe the development and use of a current weigher to determine the electromotive force of the normal Weston cadmium cell. The current weigher allows for accurate measurements of current without needing to measure length, moment of inertia, or time, making it a valuable tool for studying electrical standards and electrochemical equivalents.
+scientific_discipline: Physics > Electromagnetism

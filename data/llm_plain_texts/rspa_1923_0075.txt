@@ -1,0 +1,10 @@
+article_id: 'rspa_1923_0075'
+revised_title: 'Behavior of Gaseous Mixtures: Ethylene, Argon, and Oxygen'
+semantic_tags:
+  - Gas Mixtures
+  - Pressure
+  - Boyle's Law
+  - Chemical Affinities
+  - Interatomic Cohesion
+tldr: The authors studied the isothermal behavior of binary gaseous mixtures containing ethylene, argon, and oxygen. They observed deviations from Boyle's law and investigated the role of atomic chemical affinities in intermolecular cohesion. The results provide evidence of the influence of chemical affinities on the behavior of gaseous mixtures.
+scientific_discipline: Chemistry > Physical Chemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1922_0080
+revised_title: 'Polarization of Light Scattered by Mercury Vapour Near Resonance Periodicity'
+semantic_tags:
+  - Light polarization
+  - Resonance periodicity
+  - Mercury vapour
+  - Scattering
+  - Spectroscopy
+tldr: 'This article investigates the polarization of light scattered by mercury vapour near the resonance periodicity. The author, Lord Rayleigh, found that the scattered light is slightly polarized, but not as much as in other cases of scattered white light. The study also examines how the polarization of the scattered light varies as the resonance frequency is departed from.'
+scientific_discipline: Physics > Optics

@@ -1,0 +1,10 @@
+article_id: rsta_1965_0048
+revised_title: 'Phased Arrays for Seismic Body Wave Analysis'
+semantic_tags:
+  - Seismology
+  - Signal Processing
+  - Earthquake Detection
+  - Array Processing
+  - Geophysics
+tldr: The authors describe the application of phased arrays to analyze seismic body waves, improving signal-to-noise ratios and aiding in the identification of seismic phases. Arrays of seismometers can separate signal components by velocity and azimuth filtering, allowing for better epicenter location estimates. The study demonstrates the use of array techniques on teleseismic events, including core phase detection and noise reduction.
+scientific_discipline: Physics > Geophysics

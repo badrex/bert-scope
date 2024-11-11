@@ -1,0 +1,10 @@
+article_id: rspa_1958_0190
+revised_title: Polarization of Resonantly Scattered Gamma-Rays: Experimental Procedure and Results
+semantic_tags:
+  - Nuclear Physics
+  - Gamma-Ray Scattering
+  - Polarization
+  - Compton Scattering
+  - Resonant Scattering
+tldr: The authors demonstrated the polarization of gamma-rays resonantly scattered in gold using a polarimeter that employed Compton scattering as an analyzing process. They found that the resonant scattering radiation was strongly polarized with its electric vector parallel to the scattering plane, confirming the nature of the transition in the gold nucleus.
+scientific_discipline: Physics > Nuclear Physics

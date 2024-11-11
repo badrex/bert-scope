@@ -1,0 +1,10 @@
+article_id: rspa_1973_0108
+revised_title: 'Harmonic Oscillator Dynamics and Symmetry Group'
+semantic_tags:
+  - Quantum Mechanics
+  - Group Theory
+  - Harmonic Oscillator
+  - Lie Algebra
+  - Symmetry in Physics
+tldr: The authors construct a dynamical group for the isotropic three-dimensional harmonic oscillator using the semi-direct product of the Weyl group and the real symplectic group Sp. This group simplifies the calculation of matrix elements of operators acting on harmonic oscillator states and has a rich subgroup structure. The authors also discuss the properties of the degeneracy group, the rotational invariance group, and the transition group within the harmonic oscillator system.
+scientific_discipline: Physics > Quantum Mechanics

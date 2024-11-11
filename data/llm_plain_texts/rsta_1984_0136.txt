@@ -1,0 +1,10 @@
+article_id: rsta_1984_0136
+revised_title: Optical Multistability and Zeeman Degenerate Transitions in Atomic Systems
+semantic_tags:
+  - Atomic Physics
+  - Optical Bistability
+  - Quantum Optics
+  - Laser Physics
+  - Zeeman Degeneracy
+tldr: This article explores the behavior of atoms interacting with radiation modes in a cavity, focusing on optical multistability and Zeeman degenerate transitions. The authors examine the system behavior of atoms with specific angular momenta interacting resonantly in a ring cavity with radiation modes. They discuss the mean field solutions for these systems and the impact of ground-level collision rates on the development of asymmetry between output and fields.
+scientific_discipline: Physics > Atomic Physics

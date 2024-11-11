@@ -1,0 +1,10 @@
+article_id: rspl_1888_0112
+revised_title: Velocity of Transmission of Disturbances in Sea-Water and Explosive Gaseous Mixtures
+semantic_tags:
+  - Acoustics
+  - Underwater Acoustics
+  - Explosions
+  - Gas Dynamics
+  - Chronography
+tldr: This paper presents a series of experiments conducted to determine the velocity of underwater sound waves caused by explosions. The authors used a chronograph to measure the time it took for the disturbance to reach a specific point. They also investigated the rate of change in the velocity of the propagation of explosions in gaseous mixtures. The results provide valuable insights into the behavior of sound waves and explosions in water and gas.
+scientific_discipline: Physics > Acoustics

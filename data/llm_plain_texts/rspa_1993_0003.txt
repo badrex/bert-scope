@@ -1,0 +1,10 @@
+article_id: rspa_1993_0003
+revised_title: Convergent Liouville-Green Expansions for Second-Order Linear Differential Equations
+semantic_tags:
+  - Differential Equations
+  - Asymptotic Analysis
+  - Special Functions
+  - Bessel Functions
+  - Laplace Transforms
+tldr: The authors develop a method to obtain convergent Liouville-Green expansions for solutions of second-order linear differential equations with a large parameter. They apply this method to obtain convergent expansions for modified Bessel functions of large order, improving upon existing asymptotic expansions. The study uses a combination of Gevrey-type estimates, integral equation methods, and Laplace transforms to analyze the equations and their solutions.
+scientific_discipline: Mathematics > Differential Equations

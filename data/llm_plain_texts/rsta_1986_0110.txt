@@ -1,0 +1,10 @@
+article_id: rsta_1986_0110
+revised_title: Texture and Stress Determination in Metals Using Ultrasonic Rayleigh Waves and Neutron Diffraction
+semantic_tags:
+  - Material Science
+  - Texture Analysis
+  - Stress Measurement
+  - Ultrasonic Waves
+  - Neutron Diffraction
+tldr: This article presents a method for non-destructive examination and validation of texture and stress in metals using ultrasonic Rayleigh waves and neutron diffraction. The authors combine surface-Rayleigh-wave velocity measurements with normal shear-wave birefringence to determine the difference in principal stresses in the plane of the metal plate. The theory is tested on two aluminum plates, comparing the results with neutron diffraction determination of the crystallite orientation distribution function.
+scientific_discipline: Materials Science > Texture Analysis

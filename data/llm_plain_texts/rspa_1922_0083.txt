@@ -1,0 +1,10 @@
+article_id: rspa_1922_0083
+revised_title: 'Cylindrical Journal Lubrication: High Eccentricity and Boundary Lubrication'
+semantic_tags:
+  - Lubrication
+  - Cylindrical journal
+  - Boundary lubrication
+  - Hydrodynamics
+  - Viscosity
+tldr: The author investigates the characteristics of lubrication in cylindrical journal systems at high eccentricity values. They explore the transition from perfect to boundary lubrication and analyze the pressure distribution in the oil film. The study provides insights into the behavior of lubricated surfaces under extreme conditions and contributes to the understanding of frictional resistance and film thickness.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

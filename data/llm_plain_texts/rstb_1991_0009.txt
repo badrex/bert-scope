@@ -1,0 +1,10 @@
+article_id: rstb_1991_0009
+revised_title: Velocity Changes Measured by the H1 Neuron: Adaptation and Response to Stimulus Parameters
+semantic_tags:
+  - Motion perception
+  - Neuronal adaptation
+  - Insect vision
+  - Visual processing
+  - Lobula plate neurons
+scientific_discipline: Biology and Life Sciences > Neuroscience
+tldr: The H1 neuron in the fly Lucilia cuprina measures changes in velocity irrespective of contrast frequency, mean velocity, or velocity modulation frequency. The neuron adapts to local motion, improving its temporal resolution and providing a measure of the velocity change. This adaptation is essential for the high-resolution, high-gain, short-latency, and transient detection of direction of velocity change, which is crucial for controlling errors in stability during flight.

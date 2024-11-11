@@ -1,0 +1,10 @@
+article_id: 110546
+revised_title: Analysis of Equation Roots and Their Constituent Parts
+semantic_tags:
+  - Algebra
+  - Equation Solving
+  - Mathematical Analysis
+  - Roots of Equations
+  - Rational Numbers
+tldr: The author, R. Murphy, investigates the constituent parts of the roots of algebraic equations by considering the conditions under which they vanish. He shows that the roots contain a rational part and that other parts are related to the roots. This analysis helps in understanding the relations between the roots and solving problems.
+scientific_discipline: Mathematics > Algebra

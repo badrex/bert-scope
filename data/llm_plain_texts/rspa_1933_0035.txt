@@ -1,0 +1,10 @@
+article_id: 'rspa_1933_0035'
+revised_title: 'The Surface Reaction of Hydrogen and Oxygen in a Silver Vessel'
+semantic_tags:
+  - Surface Chemistry
+  - Catalysis
+  - Gas Reactions
+  - Chain Reactions
+  - Silver Oxide
+tldr: The authors studied the reaction of hydrogen and oxygen in a silver vessel and found that the reaction was a surface reaction, with no signs of chain propagation in the gas phase. The high chain-breaking efficiency of silver is attributed to the catalytic destruction of active species at the silver-silver oxide surface, which would normally propagate the chains.
+scientific_discipline: Chemistry > Surface Chemistry

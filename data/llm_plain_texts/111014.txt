@@ -1,0 +1,10 @@
+article_id: 111014
+revised_title: The Effect of Surrounding Media on Voltaic Ignition
+semantic_tags:
+  - Electrochemistry
+  - Thermodynamics
+  - Gas properties
+  - Heat transfer
+  - Molecular physics
+tldr: The author, W. R. Grove, conducted experiments to understand the effect of surrounding media on voltaic ignition. He found that the heat generated in a platinum wire immersed in hydrogen and its compounds was less than in other gases. The cooling effect of hydrogen was nearly equal to that of water. The author concluded that these cooling effects were due to some molecular character of the gases, not dependent on specific gravity, specific heat, or conducting power for electricity.
+scientific_discipline: Chemistry > Electrochemistry

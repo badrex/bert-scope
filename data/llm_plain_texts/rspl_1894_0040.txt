@@ -1,0 +1,10 @@
+article_id: rspl_1894_0040
+revised_title: Kerr's Experiments on Electro-Optics and the Influence of Electric Strain on Light
+semantic_tags:
+  - Electro-Optics
+  - Dielectrics
+  - Electric Fields
+  - Light Polarization
+  - Interference Fringes
+tldr: Dr. John Kerr conducted experiments to understand the effects of electric strain on light. He discovered that the proper optical effect of electric strain is a positive or negative retardation of the light component whose plane of polarization is perpendicular to the line of force. This result is a general law of double refraction in electro-optics, affecting the velocity of transmission of light in dielectrics.
+scientific_discipline: Physics > Electromagnetism

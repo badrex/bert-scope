@@ -1,0 +1,10 @@
+article_id: 110354
+revised_title: Improving the Determination of Terrestrial Magnetism's Direction and Intensity
+semantic_tags:
+  - Geomagnetism
+  - Magnetometer
+  - Dipping needle
+  - Terrestrial magnetism
+  - Magnetic intensity
+tldr: Samuel Hunter Christie proposes improvements in the instruments and methods used to determine the direction and intensity of terrestrial magnetism. He suggests a method to determine the dip without inverting the poles of the needle and also proposes a compound needle to measure both the dip and intensity. This would provide more accurate and faster results, reducing the need for tedious observations.
+scientific_discipline: Earth Sciences > Geomagnetism

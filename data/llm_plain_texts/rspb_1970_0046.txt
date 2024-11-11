@@ -1,0 +1,10 @@
+article_id: 'rspb_1970_0046'
+revised_title: 'Organ-specific Gene Masking and its Control in Mammalian Chromosomes'
+semantic_tags:
+  - Gene expression
+  - Chromatin structure
+  - Organ-specificity
+  - RNA-DNA hybridization
+  - Gene regulation
+tldr: The authors discovered that chromatin from mammalian organs transcribes a specific set of sequences, which cannot be distinguished from natural RNA from the same organ. They found that when cell division is induced in mouse liver and kidney, a change in masking in chromatin occurs before changes in RNA populations and DNA synthesis. This suggests that histones non-specifically mask DNA, and non-histone proteins are essential to reverse masking in a specific way.
+scientific_discipline: Biology and Life Sciences > Genetics and Epigenetics

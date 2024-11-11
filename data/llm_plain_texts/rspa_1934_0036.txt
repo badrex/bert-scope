@@ -1,0 +1,10 @@
+article_id: rspa_1934_0036
+revised_title: General Proof of Fundamental Equations in Metallic Conduction Theory
+semantic_tags:
+  - Metallic conduction
+  - Electronic conduction
+  - Quantum mechanics
+  - Wave equation
+  - Fermi distribution
+tldr: This article presents a general proof of fundamental equations in the theory of metallic conduction. It investigates the effect of uniform electric and magnetic fields on the Fermi distribution and provides a comprehensive analysis of the wave equation for electrons in a periodic potential. The findings contribute to the understanding of electronic conduction in metals.
+scientific_discipline: Physics > Electromagnetism

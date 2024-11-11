@@ -1,0 +1,10 @@
+article_id: rspa_1927_0091
+revised_title: The Method of Images in Surface Waves: Applications to Submerged Cylinders
+semantic_tags:
+  - Fluid Dynamics
+  - Surface Waves
+  - Method of Images
+  - Submerged Cylinders
+  - Hydrodynamics
+tldr: The author applies the method of images to study surface waves in fluid dynamics, specifically in the case of submerged cylinders. They explore the first and second approximations of the method and discuss the implications for the surface elevation and wave patterns.
+scientific_discipline: Physics > Fluid Dynamics

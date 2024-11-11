@@ -1,0 +1,10 @@
+article_id: rspa_1989_0069
+revised_title: Sorption and Structural Analysis of Krypton in Silicalite
+semantic_tags:
+  - Zeolites
+  - Sorption
+  - Gas adsorption
+  - Silicalite
+  - Crystal structures
+tldr: The authors conducted a combined experimental and theoretical study on the sorption of krypton in silicalite, a porous silica polymorph. They used volumetric sorption methods and computer modeling calculations to identify three main sites for sorption of the rare gas. The study provides insights into the site-energy distribution and helps understand the structure and properties of silicalite, a material with potential applications in heterogeneous catalysis.
+scientific_discipline: Chemistry > Materials Science

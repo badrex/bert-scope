@@ -1,0 +1,10 @@
+article_id: 'rspb_1977_0096'
+revised_title: 'Structural Analysis of Enkephalin Analogues and Opioid Activity'
+semantic_tags:
+  - Peptide chemistry
+  - Opioid receptors
+  - Enkephalins
+  - Structure-activity relationship
+  - Proteolytic enzymes
+tldr: The authors studied the effects of various analogues of the enkephalins, which are endogenous morphine-like peptides, on the mouse vas deferens, guinea pig ileum, and rat brain opiate receptor preparations. They found that replacing the Gly2 residue with D-Ala in the enkephalins increased their stability and potency. The most active peptide, [D-Ala2, d-Leu5]-enkephalin, demonstrated the importance of stereochemical acceptability at specific positions in the peptide structure. The study highlights the role of metabolic and conformational factors in the opioid activity of enkephalin analogues.
+scientific_discipline: Biology and Life Sciences > Neurochemistry

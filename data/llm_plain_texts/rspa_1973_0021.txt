@@ -1,0 +1,10 @@
+article_id: rspa_1973_0021
+revised_title: Nonlinear Dispersion and Wave Propagation: A Hamiltonian Approach
+semantic_tags:
+  - Wave mechanics
+  - Nonlinear waves
+  - Hamiltonian mechanics
+  - Group velocity
+  - Wave action
+tldr: This article explores the concept of group velocity in nonlinear wave propagation using a Hamiltonian approach. The authors define a basic group velocity and demonstrate its relation to action flux and signal velocity. They also extend the stability treatment of Whitham and Lighthill to multiple dimensions and discuss the extension of Whitham's water-wave analysis to two space dimensions. The article resolves the problem of energy distribution in the solution past the critical time and presents a note on diffraction effects on quasilinear solutions of the Whitham type.
+scientific_discipline: Physics > Wave mechanics

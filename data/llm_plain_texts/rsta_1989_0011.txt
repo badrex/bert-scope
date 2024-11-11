@@ -1,0 +1,10 @@
+article_id: rsta_1989_0011
+revised_title: Quality Improvement in the Chemical Industry: A Statistical Approach
+semantic_tags:
+  - Quality Control
+  - Statistical Methods
+  - Industrial Quality
+  - Quality Improvement Process
+  - Chemical Industry
+tldr: This article discusses the implementation of a quality improvement process (QIP) in the chemical industry, focusing on the use of statistical methods and techniques. The authors outline the reasons for adopting QIP, the transformation of Crosby's four absolutes into a working model, and the importance of education and training in statistical methods for all staff. They also highlight the benefits of third-party product quality accreditation and provide examples of successful applications of statistical approaches in the industry.
+scientific_discipline: Engineering and Technology > Industrial Engineering

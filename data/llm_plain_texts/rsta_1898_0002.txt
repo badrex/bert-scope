@@ -1,0 +1,10 @@
+article_id: rsta_1898_0002
+revised_title: On the Change of Absorption in Fluorescence
+semantic_tags:
+  - Fluorescence
+  - Absorption
+  - Light
+  - Optics
+  - Spectroscopy
+tldr: The authors conducted experiments to study the change of absorption in fluorescent substances. They discovered that the amount of fluorescent light apparently transmitted is very different depending on whether the body is fluorescing or not, with the amount being much less when fluorescence is taking place. This effect is due to an increased direct absorption rather than the destruction of fluorescence by the incident light.
+scientific_discipline: Physics > Optics

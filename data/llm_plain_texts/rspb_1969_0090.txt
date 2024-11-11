@@ -1,0 +1,10 @@
+article_id: 'rspb_1969_0090'
+revised_title: 'Abnormal Cellular Immune Response to Tumour Antigens in Rats'
+semantic_tags:
+  - Immunology
+  - Tumour Immunology
+  - Sarcomata
+  - Tumour Antigens
+  - Immune Response
+tldr: The authors studied the cellular immune response to primary sarcomata in rats and found abnormal responses in nodes draining the tumour. They discovered that the number of immunoblasts in the thoracic duct lymph was not raised, despite the presence of specific tumour antigens. The tumour-draining nodes responded well to other antigens but showed an immunological defect specific to the tumour antigen. This defect may explain why an autograft from the primary tumour is not rejected as long as part of the tumour remains in situ. The study suggests that the presence of a growing tumour affects the function of the regional nodes, potentially impacting the host's reaction against the tumour.
+scientific_discipline: Biology and Life Sciences > Immunology

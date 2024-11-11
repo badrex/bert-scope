@@ -1,0 +1,10 @@
+article_id: rsta_1996_0114
+revised_title: Hele-Shaw Flows with Time-Dependent Free Boundaries Involving a Concentric Annulus: Analytical Solutions
+semantic_tags:
+  - Fluid Dynamics
+  - Hele-Shaw Flows
+  - Conformal Maps
+  - Nonlinear Functional Equations
+  - Fluid Mechanics
+tldr: The article presents an analytical solution for Hele-Shaw flows with time-dependent free boundaries involving a concentric annulus. The study focuses on the evolution of the plan-view of the fluid blob when subjected to different patterns of fluid injection or suction, or addition or removal of air. The solutions are expressed in terms of conformal maps and two special functions defined for this specific problem.
+scientific_discipline: Physics > Fluid Dynamics

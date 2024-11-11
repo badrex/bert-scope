@@ -1,0 +1,10 @@
+article_id: rsta_1890_0011
+revised_title: Determination of the Ratio of Electromagnetic to Electrostatic Units of Electricity
+semantic_tags:
+  - Electromagnetic unit
+  - Electrostatic unit
+  - Capacity measurement
+  - Wheatstone's Bridge
+  - Maxwell's method
+tldr: The authors conducted experiments to determine the ratio of the electromagnetic unit of electricity to the electrostatic unit. They used a condenser with two co-axial cylinders and a guard ring to measure the capacity in both electrostatic and electromagnetic measures. The results showed that the electromagnetic measure of the capacity was less than previous values, leading to a better understanding of the relationship between the two units.
+scientific_discipline: Physics > Electromagnetism

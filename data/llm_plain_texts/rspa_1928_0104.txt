@@ -1,0 +1,10 @@
+article_id: rspa_1928_0104
+revised_title: 'Polarization of Radio Waves: Experimental Investigations and Theoretical Analysis'
+semantic_tags:
+  - Radio Wave Propagation
+  - Polarization
+  - Electromagnetic Waves
+  - Atmospheric Science
+  - Direction-Finding
+tldr: This article presents experimental investigations and theoretical analysis of radio wave propagation, focusing on the polarization of radio waves. The authors conducted experiments to study the propagation of long radio waves between two points on the Earth's surface and found evidence of an interference effect between a surface wave and one returned from the upper layer. They also discovered that abnormal polarization of the downcoming wave could explain errors in direction-finding on distant stations.
+scientific_discipline: Physics > Electromagnetism

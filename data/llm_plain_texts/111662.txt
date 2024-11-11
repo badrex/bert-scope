@@ -1,0 +1,10 @@
+article_id: 111662
+revised_title: Insulating Properties of Gutta Percha in Submarine Cables
+semantic_tags:
+  - Insulation
+  - Submarine cables
+  - Gutta Percha
+  - Electricity
+  - Temperature
+tldr: This article investigates the insulating properties of gutta percha in submarine cables and its resistance to the passage of an electric current at various temperatures. The author, Fleeming Jenkin, conducted experiments on different gutta percha coatings and found that the resistance of pure gutta percha is greater at low temperatures, while the resistance of a compound covering is superior at high temperatures. The author also discovered that the extra resistance due to continued electrification is more significant in gutta percha coatings and requires further investigation.
+scientific_discipline: Engineering and Technology > Submarine Cables and Insulation

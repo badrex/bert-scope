@@ -1,0 +1,10 @@
+article_id: 108140
+revised_title: 'Tide Dynamics and Observations in the River Thames'
+semantic_tags:
+  - Tides
+  - Hydrodynamics
+  - Coastal Engineering
+  - Geophysics
+  - Oceanography
+tldr: 'This article presents a detailed study of the rise and fall of tides in the River Thames, conducted by G. B. Airy in 1842. The author used extensive observations made at Deptford Royal Victualling Yard to analyze the laws governing the rise and fall of tides. The study found that the rise of water after low tide is more rapid than its descent before low tide, and that the mean height of water differs between spring tides and neap tides. The author also developed mathematical expressions to describe the tide curves and proposed a partial differential equation to model the motion of tide-waves in a rectangular canal.'
+scientific_discipline: Environmental and Earth Sciences > Oceanography

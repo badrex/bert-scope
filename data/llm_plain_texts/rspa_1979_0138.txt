@@ -1,0 +1,10 @@
+article_id: rspa_1979_0138
+revised_title: Self-Dual Metrics and Killing Vectors in Twistor Theory
+semantic_tags:
+  - Twistor Theory
+  - Anti-Self-Dual Spaces
+  - Killing Vectors
+  - Maxwell Fields
+  - Geometry
+tldr: The article explores self-dual metrics with self-dual Killing vectors in the context of twistor theory. The authors identify four classes of polynomials and calculate the corresponding metrics, which are relevant to quantum gravity. They also discuss the relationship between these metrics and Maxwell fields, and provide examples of metrics in different coordinate systems.
+scientific_discipline: Mathematics > Geometry

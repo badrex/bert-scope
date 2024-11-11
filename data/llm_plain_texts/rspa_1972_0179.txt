@@ -1,0 +1,10 @@
+article_id: rspa_1972_0179
+revised_title: 'Surface States of Solids: Theoretical and Computational Approaches'
+semantic_tags:
+  - Surface Physics
+  - Solid State Physics
+  - Electronic Structure
+  - Band Theory
+  - Surface States
+tldr: This article discusses the theoretical and computational aspects of understanding the electronic structure and properties of solid surfaces. It explores the implications of the Schrodinger equation for electrons in solids, the concept of band structures, and the behavior of surface states. The author also explains the methods used to calculate and understand the electronic structure of solids, and the potential for future progress in this field.
+scientific_discipline: Physics > Solid State Physics

@@ -1,0 +1,10 @@
+article_id: rsta_1911_0004
+revised_title: Diffraction of Electric Waves Around a Perfectly Reflecting Obstacle
+semantic_tags:
+  - Electromagnetic Waves
+  - Diffraction
+  - Reflection
+  - Wave Theory
+  - Oscillators
+tldr: The author investigates the diffraction of electric waves around a perfectly reflecting obstacle, using a conducting sphere and an oscillator. They derive mathematical equations to describe the magnetic force and the wave length of oscillations, and discuss the behavior of electric waves in different scenarios. The study provides insights into the interaction of electromagnetic waves with obstacles and has implications for understanding the behavior of light and radio waves.
+scientific_discipline: Physics > Electromagnetic Waves

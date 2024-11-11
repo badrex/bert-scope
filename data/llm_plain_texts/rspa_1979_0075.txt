@@ -1,0 +1,10 @@
+article_id: rspa_1979_0075
+revised_title: A Diffusion Model for Fatigue Crack Growth Analysis
+semantic_tags:
+  - Fatigue crack growth
+  - Diffusion equation
+  - Stochastic process
+  - Mechanical engineering
+  - Materials science
+tldr: This article presents a diffusion model for the propagation of fatigue cracks, showing that fatigue crack growth can be described by a transition density function and the probability of a fatigue crack reaching a critical size can be determined by solving the diffusion equation. The model considers the crack tip position as a state variable and demonstrates how the fatigue life of a cracked part is related to the transition probability.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

@@ -1,0 +1,10 @@
+article_id: 'rstl_1873_0009'
+revised_title: 'Magnetic Survey of Belgium in 1871'
+semantic_tags:
+  - Geomagnetism
+  - Magnetic survey
+  - Terrestrial magnetism
+  - Magnetic declination
+  - Magnetic intensity
+tldr: The author conducted a magnetic survey of Belgium in 1871 to determine the elements of terrestrial magnetism at various stations. The study aimed to fill the gap in the existing data and provide a complete series of connected values of the magnetic elements. The results showed a slight increase in the horizontal force as one moves northwards and revealed the direction of the isoclinals and the distance between stations with differing dips. The study also discussed the secular variation of the dip and horizontal force, providing valuable information for understanding the earth's magnetic intensity and the magnetic moment of the vibration-needle.
+scientific_discipline: Earth Sciences > Geomagnetism

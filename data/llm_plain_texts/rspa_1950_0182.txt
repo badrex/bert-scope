@@ -1,0 +1,10 @@
+article_id: rspa_1950_0182
+revised_title: 'Studying Deflexions of the Vertical from Gravity Anomalies'
+semantic_tags:
+  - Geodesy
+  - Gravity measurements
+  - Stokes's theorem
+  - Deflexions of the vertical
+  - Geopotential
+scientific_discipline: Earth Sciences > Geodesy
+tldr: The authors discuss the accuracy of calculating deflexions of the vertical using gravity anomalies. They examine the practical application of Stokes's theorem and the use of free-air, Bouguer, and isostatic anomalies. The study focuses on the British Isles and surrounding areas, comparing the results with astronomical and geodetic amplitudes. The authors conclude that while there is no theoretical objection to using isostatic anomalies, there is no practical advantage over using free-air anomalies.

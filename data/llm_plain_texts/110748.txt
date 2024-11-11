@@ -1,0 +1,10 @@
+article_id: 110748
+revised_title: 'Compensations of Polarized Light and the Polarimeter'
+semantic_tags:
+  - Polarized Light
+  - Polarimeter
+  - Optics
+  - Physics
+  - David Brewster
+tldr: Sir David Brewster's research on compensating polarized light led him to invent a polarimeter for measuring degrees of polarization. He discovered that compensations of polarized light are produced by equal and opposite rotations of the planes of polarization. Brewster also developed the compensating rhomb, a glass instrument that helps in understanding the phenomena of polarized light.
+scientific_discipline: Physics > Optics

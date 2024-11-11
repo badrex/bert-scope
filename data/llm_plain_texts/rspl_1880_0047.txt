@@ -1,0 +1,10 @@
+article_id: rspl_1880_0047
+revised_title: Dielectric Capacity of Liquids: Experiments and Comparisons
+semantic_tags:
+  - Dielectric capacity
+  - Liquids
+  - Refractive indices
+  - Specific inductive capacity
+  - Optics
+tldr: This article presents experiments conducted by J. Hopkinson to determine the refractive indices and specific inductive capacities of various liquids, such as petroleum spirit, petroleum oil, and turpentine. The author compares the square of the refractive index for long waves with the observed values of capacity, finding differences between hydrocarbons and other liquids.
+scientific_discipline: Physics > Optics

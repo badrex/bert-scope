@@ -1,0 +1,10 @@
+article_id: rspa_1926_0047
+revised_title: Electrostatic Potential Energy in Carbonate and Nitrate Crystals of the Calcite Type
+semantic_tags:
+  - Crystallography
+  - Electrostatics
+  - Lattice Theory
+  - Ionic Bonds
+  - Rhombohedral Angle
+tldr: This article explores the electrostatic potential energy of carbonate and nitrate crystals of the calcite type. The authors calculate the energy using two parameters, the rhombohedral angle and the ratio of the distance between an ion and an adjacent metallic ion to the distance between an ion and the neighboring ion. The results provide insight into the equilibrium configuration of these crystals, which is essential for understanding their properties and behavior.
+scientific_discipline: Physics > Crystallography

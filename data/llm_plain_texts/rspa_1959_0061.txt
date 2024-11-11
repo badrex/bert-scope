@@ -1,0 +1,10 @@
+article_id: rspa_1959_0061
+revised_title: 'Hydrogen Gas Properties at Low Temperatures: A Study of Molecular Collisions'
+semantic_tags:
+  - Molecular collisions
+  - Hydrogen gas
+  - Low temperatures
+  - Non-spherical intermolecular potential
+  - Quantum correction
+scientific_discipline: Chemistry > Physical Chemistry
+tldr: This article investigates the properties of hydrogen gas at low temperatures, focusing on molecular collisions and the non-spherical intermolecular potential. The authors calculate the viscosity cross-sections for para-para, para-ortho, and ortho-ortho collisions and discuss various factors contributing to the differences between these processes. They also consider the quantum correction to the viscosity formula and the potential function used in their calculations.

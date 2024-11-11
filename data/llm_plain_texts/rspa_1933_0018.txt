@@ -1,0 +1,10 @@
+article_id: rspa_1933_0018
+revised_title: Air Pressure on a Cone Moving at High Speeds - II
+semantic_tags:
+  - Fluid dynamics
+  - Aerodynamics
+  - Shock waves
+  - Conical regime
+  - High-speed flow
+tldr: The authors conducted experiments to study the air pressure on a cone moving at high speeds. They found that the shock wave behavior and pressure distribution on the cone surface vary depending on the cone's angle and the speed of the flow. The results provide insights into the complex interactions between the shock waves and the cone, which are essential for understanding high-speed aerodynamics.
+scientific_discipline: Physics > Fluid dynamics

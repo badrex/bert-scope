@@ -1,0 +1,10 @@
+article_id: rspl_1874_0037
+revised_title: Simplified Methods for Evaluating Algebraical Integrals
+semantic_tags:
+  - Calculus
+  - Integration
+  - Mathematical Analysis
+  - Mechanics
+  - Weierstrass
+tldr: The author discusses recent research on algebraical integrals by mathematicians like Weierstrass, Riemann, and Clebsch. He attempts to find a simpler method for evaluating these integrals, which have complex equations. This research has implications in mechanics.
+scientific_discipline: Mathematics > Calculus

@@ -1,0 +1,10 @@
+article_id: rspa_1961_0064
+revised_title: 'Solving the Integro-Differential Equation for Jet-Flapped Wing Lift Coefficient'
+semantic_tags:
+  - Fluid Dynamics
+  - Aerofoil Theory
+  - Jet Flap Scheme
+  - Integro-Differential Equations
+  - Thin Aerofoil Theory
+tldr: The article presents a solution to the integro-differential equation for the lift coefficient of a thin jet-flapped wing. The authors use various methods, including Mellin transforms, Wiener-Hopf technique, and Carleman's method, to solve the equation and provide expansions of the lift derivatives. The findings can be applied to practical applications of jet-flap schemes for lift and thrust production on aerofoils.
+scientific_discipline: Physics > Fluid Dynamics

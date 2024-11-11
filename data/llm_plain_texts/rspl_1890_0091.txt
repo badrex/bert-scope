@@ -1,0 +1,10 @@
+article_id: rspl_1890_0091
+revised_title: Photometric Measurements of Sun and Sky's Actinic Power
+semantic_tags:
+  - Photometry
+  - Solar energy
+  - Sky light
+  - Actinic power
+  - Sunlight measurement
+tldr: The author describes their method for measuring the actinic power of the Sun and sky using photographic paper. They compare their results with those of Sir H. Roscoe and discuss the differences in their approaches. The author also presents a table of constants for the actinic power at different altitudes of the Sun, which can be used to calculate the total daylight action.
+scientific_discipline: Physics > Optics

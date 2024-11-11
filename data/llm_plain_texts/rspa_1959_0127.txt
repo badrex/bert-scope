@@ -1,0 +1,10 @@
+article_id: rspa_1959_0127
+revised_title: The Feynman Principle for Fermi Systems: Eigensymbol Theory and Applications
+semantic_tags:
+  - Quantum Mechanics
+  - Fermi Systems
+  - Eigensymbol Theory
+  - Feynman Principle
+  - Anticommuting Canonical Sets
+tldr: This article introduces the eigensymbol theory for representing vectors and matrices in Fermi systems. It develops a Feynman principle for these systems, showing how it can be formulated using eigensymbols and anticommuting canonical sets. The theory is applied to a simple Fermi oscillator, and the article concludes by discussing the classical analogue of the quantum Hamiltonian.
+scientific_discipline: Physics > Quantum Mechanics

@@ -1,0 +1,10 @@
+article_id: rspa_1950_0159
+revised_title: A Discussion on Detonation: Theories and Experimental Studies
+semantic_tags:
+  - Detonation physics
+  - Explosives
+  - Shock waves
+  - Chapman-Jouguet theory
+  - Reaction zones
+tldr: This article discusses the fundamental processes of detonation, including the detonation zone, shock waves, and reaction zones. The authors present various theories and experimental studies on detonation velocities, the Chapman-Jouguet equation, and the motion of gases behind a detonation front. They also explore the effects of constraints on detonation velocities and the analogy between detonation and gas flow in heated tubes.
+scientific_discipline: Physics > Fluid Dynamics

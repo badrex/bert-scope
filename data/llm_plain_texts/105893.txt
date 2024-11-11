@@ -1,0 +1,10 @@
+article_id: 105893
+revised_title: A Method for Finding the Roots of Equations Universally
+semantic_tags:
+  - Algebra
+  - Equation solving
+  - Mathematical methods
+  - Geometry
+  - Calculus
+tldr: The author presents a method for finding the roots of equations using a machine with moveable rulers and a sliding pin. The machine can handle equations with any number of dimensions, and it can differentiate between affirmative, negative, and impossible roots. This method is useful for solving complex equations and can be adapted for equations with odd or even dimensions.
+scientific_discipline: Mathematics > Algebra

@@ -1,0 +1,10 @@
+article_id: rspa_1951_0048
+revised_title: A New Semi-Empirical Method for Calculating Ionization Potentials
+semantic_tags:
+  - Quantum Chemistry
+  - Molecular Orbital Theory
+  - Semi-Empirical Method
+  - Ionization Potentials
+  - Equivalent Orbitals
+tldr: The authors propose a new semi-empirical method for calculating ionization potentials based on molecular orbital theory. This method, called the equivalent orbital method, can be applied to any saturated molecule with a singlet ground state. It uses ionization potentials rather than total energies and offers a more accurate approximation to molecular orbitals compared to the linear combination of atomic orbitals method. The authors demonstrate the method's application on methane and ethane molecules.
+scientific_discipline: Chemistry > Quantum Chemistry

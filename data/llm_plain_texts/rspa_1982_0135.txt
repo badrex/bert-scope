@@ -1,0 +1,10 @@
+article_id: rspa_1982_0135
+revised_title: Regge Calculus and Quantum Field Theory in a Curved Background
+semantic_tags:
+  - Quantum Gravity
+  - Regge Calculus
+  - Lattice Gauge Theory
+  - Curved Space-Time
+  - Hodge-De Rham Theory
+tldr: This article discusses the application of Regge calculus to quantum gravity and quantum field theory in a curved background. It develops a discrete form of exterior differential calculus and obtains Laplacians for -forms on the Regge manifold. The author assesses the accuracy of these approximations by calculating the eigenvalues of the discrete Laplacians for regular tessellations of and S^2. The results indicate that the methods obtained in this paper may be used in curved space-times with an accuracy comparable to that obtained in lattice gauge theories on a flat background.
+scientific_discipline: Mathematics > Differential Geometry

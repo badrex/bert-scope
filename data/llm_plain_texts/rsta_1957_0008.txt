@@ -1,0 +1,10 @@
+article_id: rsta_1957_0008
+revised_title: Asymptotic Expansion of Legendre Function for Large Degree and Order
+semantic_tags:
+  - Asymptotic Expansion
+  - Legendre Function
+  - Mathematical Physics
+  - Differential Equations
+  - Regular Functions
+tldr: This article presents the asymptotic expansion of the Legendre function for large degree and order. The authors apply a theorem to obtain the expansions of the solutions of differential equations in a domain containing a regular singularity. They also discuss the transformation of points in the plane and the corresponding domain.
+scientific_discipline: Mathematics > Applied Mathematics

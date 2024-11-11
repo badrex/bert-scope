@@ -1,0 +1,10 @@
+article_id: 'rspa_1930_0009'
+revised_title: 'Normal Atmospheric Dispersion as the Cause of the "Green Flash" at Sunset'
+semantic_tags:
+  - Atmospheric Optics
+  - Sunsets
+  - Atmospheric Refraction
+  - Color Phenomena
+  - Experimental Physics
+tldr: 'The author explains the phenomenon of the "green flash" at sunset, which occurs when the sun's upper limb appears green just before it disappears below the horizon. The green flash is caused by normal atmospheric dispersion, which separates the colors of the sun's light as it refracts through the Earth's atmosphere. The author describes various experiments to demonstrate this effect, using a crown glass prism and a telescope to replicate the conditions of sunset.'
+scientific_discipline: Physics > Optics

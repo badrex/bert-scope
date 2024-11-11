@@ -1,0 +1,10 @@
+article_id: rspa_1979_0050
+revised_title: Rotational Energy Transfer in the \#xC3; State: Absolute Rate Coefficients and the Influence of Spin Exchange in Collisions with Atoms
+semantic_tags:
+  - Molecular Collisions
+  - Rotational Energy Transfer
+  - Spin Exchange
+  - Laser Modeling
+  - Astrophysical Molecules
+tldr: The authors conducted experiments on rotational energy transfer within the state of molecules, focusing on the role of hydrogen atoms as the dominant agent in causing inelastic events. They measured absolute rate coefficients for state-to-state transfer and found that transitions with and 2 occur with similar rates. The results are interpreted in terms of the restricted distorted-wave Born model and provide insights into the anisotropy of the potential of interaction between molecules.
+scientific_discipline: Chemistry > Molecular Collisions

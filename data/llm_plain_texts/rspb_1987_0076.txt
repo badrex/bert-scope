@@ -1,0 +1,11 @@
+article_id: 'rspb_1987_0076'
+revised_title: 'Parallel Processing of Binocular Disparity in the Cat's Retinogeniculocortical Pathways: Examining the Roles of X-, Y-, and W-Subsystems'
+semantic_tags:
+  - Visual Neuroscience
+  - Binocular Disparity
+  - Retinogeniculocortical Pathways
+  - X-System
+  - Y-System
+  - W-System
+tldr: This study examines the role of the cat's retinogeniculocortical visual pathways in processing binocular information, focusing on the X-, Y-, and W-subsystems. The researchers found that area 19 (W-type input) processes more divergent disparities, area 17 (X-, Y-, and W-type input) convergent disparities, and area 18 (Y-type input) disparities around zero. This supports the hypothesis that these three streams of information process different classes of binocular disparities, contributing to the processing of form and motion.
+scientific_discipline: Neuroscience > Visual Perception

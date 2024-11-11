@@ -1,0 +1,10 @@
+article_id: 103809
+revised_title: 'The Marine Surveyor: A New Instrument for Accurate Ship Navigation'
+semantic_tags:
+  - Navigation
+  - Marine technology
+  - Ship measurement
+  - Log improvement
+  - Tides and currents
+tldr: 'Henry de Saumarez invents the Marine Surveyor, a machine that measures a ship's distance in the sea more accurately than the log. The device works by using a hydraulic revolution to measure the ship's progress, which is then communicated to a dial on board. The Marine Surveyor also helps in discovering the forces of tides and currents. This invention aims to improve ship navigation and prevent errors that may lead to accidents at sea.'
+scientific_discipline: Engineering and Technology > Marine Technology

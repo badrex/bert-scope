@@ -1,0 +1,10 @@
+article_id: rspa_1941_0061
+revised_title: 'Hydrogen-Deuterium Diffusion and Thermal Diffusion: A Study of Molecular Fields'
+semantic_tags:
+  - Gas diffusion
+  - Thermal diffusion
+  - Molecular fields
+  - Kinetic theory
+  - Isotopes
+tldr: The authors conducted experiments on the diffusion and thermal diffusion of hydrogen-deuterium, a pair of gases with similar molecular properties. They found that the diffusion coefficient is in close agreement with the classical theory and that thermal separation is entirely due to the difference in mass of the molecules. This study provides insights into the molecular fields and intermolecular forces between unlike molecules.
+scientific_discipline: Chemistry > Physical Chemistry

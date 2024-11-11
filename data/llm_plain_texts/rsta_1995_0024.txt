@@ -1,0 +1,10 @@
+article_id: rsta_1995_0024
+revised_title: Formation of Magnetic Singularities by Time-Dependent Collapse of an X-Type Magnetic Field
+semantic_tags:
+  - Magnetohydrodynamics
+  - Plasma physics
+  - Magnetic reconnection
+  - Solar physics
+  - Astrophysics
+tldr: The authors study the formation of magnetic singularities in an X-type magnetic field through time-dependent collapse. They analyze the behavior of plasma and magnetic fields in this process, which is relevant to understanding magnetic reconnection in solar and astrophysical contexts.
+scientific_discipline: Physics > Plasma Physics

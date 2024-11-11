@@ -1,0 +1,10 @@
+article_id: rspa_1951_0189
+revised_title: 'Ionospheric Diffraction of Radio Waves: Theoretical Analysis and Applications'
+semantic_tags:
+  - Radio wave propagation
+  - Ionosphere
+  - Diffraction
+  - Phase changes
+  - Wave-lengths
+tldr: This article investigates the diffraction of radio waves as they pass through the ionosphere, which causes irregular phase changes. The author assumes that the wave's amplitude is constant but that the phase varies across the wave-front. They analyze the diffraction pattern produced at the ground and show how to deduce the average magnitude of phase deviations and their lateral extent. The study also explores how investigating diffraction patterns with different wavelengths can help estimate the distance of the effective diffracting screen from the plane of observation.
+scientific_discipline: Physics > Electromagnetism

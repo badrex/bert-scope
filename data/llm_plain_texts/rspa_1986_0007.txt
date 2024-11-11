@@ -1,0 +1,10 @@
+article_id: rspa_1986_0007
+revised_title: 'Bifurcation and Instability in Gravity Waves: Extending Calculations to Higher Wave Steepness'
+semantic_tags:
+  - Fluid Dynamics
+  - Wave Bifurcation
+  - Subharmonic Instability
+  - Gravity Waves
+  - Fluid Mechanics
+tldr: This article extends the calculations of two-dimensional normal-mode perturbations of gravity waves on deep water to wave steepnesses as high as 0.43. The authors use a new method to evaluate the coefficients in Stokes's series to high order and rearrange the matrix equations to reduce the order by half. They determine the critical values of wave steepness for bifurcation into wave trains of class (horizontal period is waves long) and the boundaries of the parameter regions for instabilities of both type I and type II. The findings contribute to the understanding of wave behavior and potential instabilities in fluid dynamics and oceanography.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1973_0139
+revised_title: Proton-Proton Scattering at High Energies and Aspects of Fundamental Theory
+semantic_tags:
+  - Particle Physics
+  - Proton-Proton Scattering
+  - High Energy Physics
+  - Analyticity in Energy
+  - Pomeranchuk Theorem
+tldr: This article discusses proton-proton scattering at high energies and explores the fundamental aspects of the theory. The author examines the behavior of total and elastic cross-sections, the role of analyticity in energy, and the Pomeranchuk theorem. The findings suggest that the total cross-sections increase with energy, leading to predictions about the behavior of elastic scattering and the real part of the scattering amplitudes.
+scientific_discipline: Physics > Particle Physics

@@ -1,0 +1,10 @@
+article_id: 112008
+revised_title: 'The Great Storm of December 3, 1863: Observations from the Liverpool Observatory'
+semantic_tags:
+  - Meteorology
+  - Storms
+  - Weather observations
+  - Barometers
+  - Anemometers
+tldr: This article describes the observations made by the Liverpool Observatory during the Great Storm of December 3, 1863. The author presents data from self-registering instruments, including barometers, anemometers, and thermometers, to analyze the storm's strength, direction, and barometric pressure. The study provides insights into the meteorological events during the storm and the instruments' capabilities for recording weather data.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

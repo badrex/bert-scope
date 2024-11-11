@@ -1,0 +1,10 @@
+article_id: rspa_1930_0035
+revised_title: 'Investigation of Critical Potentials for Excitation of Soft X-Rays from Iron'
+semantic_tags:
+  - X-ray physics
+  - Electron bombardment
+  - Crystal structure
+  - Secondary electron emission
+  - Photoelectric effect
+tldr: This article investigates the critical potentials for the excitation of soft x-rays from iron under electronic bombardment. The authors discuss the complexity of the effects occurring at solid surfaces and the difficulty of interpreting them in terms of atomic processes. They suggest that the crystal structure of the target may influence the critical potentials, and experiments with a single crystal of iron are being carried out to explore this idea further.
+scientific_discipline: Physics > Materials Science

@@ -1,0 +1,10 @@
+article_id: 108226
+revised_title: 'Improvement in Astronomical Clock Escapements: Kater's Equal-Impulse Escapement'
+semantic_tags:
+  - Clock mechanics
+  - Astronomy
+  - Timekeeping
+  - Escapement design
+  - Pendulum clocks
+tldr: The article describes an improved escapement for astronomical clocks, invented by Captain Henry Kater. The Kater's equal-impulse escapement provides a more accurate and reliable timekeeping mechanism by minimizing the impact of irregularities in the transmission of the moving power through the train. This innovation allows for better performance in astronomical clocks and observatories.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

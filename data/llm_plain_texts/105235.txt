@@ -1,0 +1,10 @@
+article_id: 105235
+revised_title: 'Improving Steam Engine Efficiency with Air Blowing Method'
+semantic_tags:
+  - Steam engine
+  - Fuel efficiency
+  - Air injection
+  - Boiler design
+  - Water distillation
+tldr: Keane Fitzgerald experimented with Dr. Hales's method of distilling saltwater and applied it to steam engines. By blowing air through the boiling water, he increased the steam production and reduced the fuel consumption. This improvement led to a more consistent and efficient operation of the steam engine. The author suggests that this method could be further enhanced in the future.
+scientific_discipline: Engineering and Technology > Steam Engine Efficiency

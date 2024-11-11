@@ -1,0 +1,10 @@
+article_id: rspa_1954_0063
+revised_title: The Effect of Pressure on Burning Velocities in Gaseous Mixtures
+semantic_tags:
+  - Combustion
+  - Flame propagation
+  - Burning velocities
+  - Gas mixtures
+  - Pressure effects
+tldr: This study investigates the influence of pressure on the burning velocities of methane, propane, and propylene mixtures with air. The authors found that the pressure exponent is about 0.5 for methane and around 0.3 for other gases, with some variation depending on the mixture strength. The results indicate that heat and diffusion, particularly of hydrogen atoms, play a role in flame propagation.
+scientific_discipline: Chemistry > Combustion and Flame

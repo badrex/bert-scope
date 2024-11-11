@@ -1,0 +1,11 @@
+article_id: rspa_1934_0043
+revised_title: Pressure-Concentration Equilibria Between Silica Gel and Gas Mixtures
+semantic_tags:
+  - Adsorption
+  - Gas-solid equilibria
+  - Silica gel
+  - Oxygen
+  - Nitrogen
+  - Gas mixtures
+scientific_discipline: Chemistry > Adsorption and Surface Chemistry
+tldr: The authors conducted experiments to study the adsorption of oxygen and nitrogen by silica gel at 0°C and pressures up to 1 atmosphere. They found that the adsorption is directly proportional to the pressure and that the pressure-concentration isothermals are reproducible, completely reversible, and linear. The study of adsorption from gas mixtures provided valuable information on the problem of adsorption from binary gas mixtures, offering insights into the interaction between atoms and the determination of the law of force between atoms at large distances.

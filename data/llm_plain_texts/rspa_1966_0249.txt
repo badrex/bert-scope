@@ -1,0 +1,10 @@
+article_id: rspa_1966_0249
+revised_title: 'Microwave Surface Resistance of Type II Superconductors: A New Approach'
+semantic_tags:
+  - Superconductivity
+  - Type II superconductors
+  - Microwave surface resistance
+  - Flux lines
+  - Viscous force
+scientific_discipline: Physics > Electromagnetism
+tldr: This article investigates the mixed state of type II superconductors by measuring the real part of the surface impedance and magnetization simultaneously. The surface resistance is related to the magnetic condition of the specimen during initial magnetization and afterwards. The experiment uses tin-indium alloys and demonstrates that the surface resistance at a lower frequency follows the same universal function of field and temperature as at a higher frequency. The authors argue that the motion of flux lines plays a significant role in the absorption of microwave power, providing a new interpretation of the findings.

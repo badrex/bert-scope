@@ -1,0 +1,10 @@
+article_id: rspa_1969_0218
+revised_title: 'Experimental Determination of Rate Constants for Collisional Quenching of O\lt;sub\gt;2\lt;/sub\gt;('
+semantic_tags:
+  - Atmospheric Science
+  - Chemical Kinetics
+  - Molecular Oxygen
+  - Photoionization
+  - Gas-Phase Chemistry
+tldr: The authors conducted laboratory experiments to determine the rate constants for the collisional quenching of molecular oxygen (O2) by various atmospheric gases. They used a modified discharge-flow technique and photoionization method to measure the relative concentrations of O2. The rate constants for quenching by different gases were determined, and the results were compared with upper atmosphere observations to understand the excitation mechanisms of O2 in the atmosphere.
+scientific_discipline: Chemistry > Atmospheric Science

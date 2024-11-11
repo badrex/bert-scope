@@ -1,0 +1,10 @@
+article_id: rspl_1899_0090
+revised_title: Ionization of Dilute Solutions at Freezing Point: Conductivity and Temperature
+semantic_tags:
+  - Electrochemistry
+  - Ionization
+  - Conductivity
+  - Freezing point
+  - Temperature
+tldr: This article discusses the ionization of dilute solutions at the freezing point and how it relates to conductivity and temperature. The author examines the electrical conductivities of various solutions at 0°C using platinum thermometry and compares the results to previous studies at higher temperatures. The findings show that the ionization of solutions at the freezing point differs from that at higher temperatures, with ionization falling off more rapidly at higher concentrations at lower temperatures.
+scientific_discipline: Chemistry > Electrochemistry

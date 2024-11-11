@@ -1,0 +1,10 @@
+article_id: rspa_1936_0177
+revised_title: Wave Matrices and Properties of Wave Equations
+semantic_tags:
+  - Wave theory
+  - Wave matrices
+  - Wave equation
+  - Linear transformations
+  - Group properties
+tldr: The author explores wave matrices and their properties, focusing on the wave equation and linear transformations. They introduce a new definition of wave matrices and discuss the group properties of wave sets, which can be developed into closed groups and classified. This work expands on previous theories and provides a more general understanding of wave matrices and their applications.
+scientific_discipline: Mathematics > Linear Algebra

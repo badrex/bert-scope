@@ -1,0 +1,12 @@
+article_id: 'rspb_1991_0035'
+revised_title: 'Exploring the Metabotropic Effects of Glutamate in Hippocampal Slice Cultures'
+semantic_tags:
+  - Neurotransmitters
+  - Glutamate
+  - Hippocampus
+  - Metabotropic receptors
+  - Ionotropic receptors
+tldr: The authors discovered that glutamate can induce two types of postsynaptic responses in hippocampal slice cultures: a fast excitation through ionotropic receptors and a slower excitation associated with the inhibition of potassium conductances through metabotropic receptors. This finding suggests that synaptic release of glutamate can contribute to both fast and slow forms of synaptic transmission in the hippocampus.
+
+scientific_discipline: Biology and Life Sciences > Neuroscience
+sub_discipline: Neurotransmitter Receptors and Synaptic Transmission

@@ -1,0 +1,10 @@
+article_id: rsta_1961_0017
+revised_title: 'Jahn-Teller Effect and Symmetric-Top Molecules in Electronically Degenerate States'
+semantic_tags:
+  - Jahn-Teller effect
+  - Symmetric-top molecules
+  - Electronically degenerate states
+  - Molecular spectroscopy
+  - Quantum mechanics
+tldr: The authors develop a physical theory to interpret the infra-red, Raman, and microwave spectra of molecules in orbitally degenerate electronic states. They derive group-theoretical selection rules and discuss the electrical and mechanical properties of molecules exhibiting the Jahn-Teller effect. The study focuses on the rotational and vibrational spectra of symmetric-top molecules in electronically degenerate states.
+scientific_discipline: Physics > Quantum mechanics

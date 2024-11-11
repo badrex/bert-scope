@@ -1,0 +1,10 @@
+article_id: rspa_1966_0201
+revised_title: 'Study of the Elastic Scattering of Slow Electrons by Neon and Argon'
+semantic_tags:
+  - Electron scattering
+  - Neon
+  - Argon
+  - Exchange approximation
+  - Polarization approximation
+tldr: The authors conducted a study on the elastic scattering of slow electrons by neon and argon, using the exchange and polarization approximations. They found that the exchange approximation was not accurate at low electron energies, and included polarization effects to improve the accuracy of their calculations. The study provides phase shifts and zero-energy scattering lengths for both neon and argon.
+scientific_discipline: Physics > Atomic and Molecular Physics

@@ -1,0 +1,10 @@
+article_id: 'rspa_1966_0097'
+revised_title: 'Dehydration Kinetics of Methylene Glycol in Aqueous Solutions'
+semantic_tags:
+  - 'Chemistry'
+  - 'Reaction kinetics'
+  - 'Catalysis'
+  - 'Acid-base reactions'
+  - 'Formaldehyde'
+tldr: The authors studied the dehydration kinetics of methylene glycol in aqueous solutions. They used a chemical scavenger method to remove unhydrated formaldehyde and observed the reaction rate. The reaction exhibited general acid-base catalysis, and the authors found that the rate of dehydration was independent of the pH and directly proportional to the gas flow rate. The study provides insights into the reaction mechanisms and contrasts with the hydration of carbon dioxide.
+scientific_discipline: Chemistry > Reaction kinetics

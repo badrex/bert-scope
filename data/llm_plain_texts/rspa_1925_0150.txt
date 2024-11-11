@@ -1,0 +1,10 @@
+article_id: rspa_1925_0150
+revised_title: 'Dirac and Fowler's Development of Quantum Mechanics'
+semantic_tags:
+  - Quantum mechanics
+  - Quantum theory
+  - Heisenberg product
+  - Quantum conditions
+  - Quantum variables
+tldr: Dirac and Fowler's paper presents the fundamental equations of quantum mechanics, introducing the Heisenberg product and quantum conditions. They discuss the algebraic operations on quantum variables and the most general quantum differentiation. The paper also explores the connection between quantum mechanics and classical theory, using the Poisson bracket expression.
+scientific_discipline: Physics > Quantum Mechanics

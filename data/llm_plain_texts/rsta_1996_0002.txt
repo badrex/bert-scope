@@ -1,0 +1,10 @@
+article_id: rsta_1996_0002
+revised_title: 'Diffusion and Binding of Molecules in Homogeneous Thin Films: A Unified Treatment'
+semantic_tags:
+  - Diffusion
+  - Chemical Reaction
+  - Langmuir Isotherm
+  - Thin Films
+  - Reversible Binding
+tldr: This article presents a unified treatment of coupled diffusion and reversible binding of species to immobile sites within a uniform homogeneous film. The authors consider the process of a chemical species diffusing into a thin homogeneous film containing fixed sites where the species can reversibly bind. They study the nonlinear diffusion-reaction problem and find that it can be divided into six cases, providing approximate analytical solutions for the concentration profiles of both adsorption and desorption. These solutions are relevant to various practical situations, including the binding of substrates to immobilized enzymes, the operation of polymeric gas sensors, and the vapor-phase doping of conducting polymers.
+scientific_discipline: Chemistry > Physical Chemistry

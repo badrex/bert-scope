@@ -1,0 +1,10 @@
+article_id: rspl_1879_0120
+revised_title: 'Sensitive State of Vacuum Discharges and Molecular Streams'
+semantic_tags:
+  - Plasma physics
+  - Vacuum physics
+  - Electrical discharge
+  - High vacuum
+  - Molecular streams
+tldr: This paper investigates the nature and laws of the disruptive discharge in high vacuums. The author uses independent sources of electricity to affect the discharge and observes the effects of various tubes containing discharges in the sensitive state on a test tube. The study extends the understanding of the discharge in moderate vacuums to high vacuums, focusing on phenomena like molecular streams and phosphorescence. The author also discusses the time-quantities involved in the discharge and the durational character of the negative and positive discharges.
+scientific_discipline: Physics > Plasma Physics

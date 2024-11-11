@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0059'
+revised_title: 'Effects of Spider Weight on Silk Properties and Mechanics'
+semantic_tags:
+  - Spider Silk
+  - Mechanics
+  - Biology
+  - Material Science
+  - Weight and Size Effects
+tldr: Researchers investigated the effects of a spider's weight on the mechanics and properties of its silk. They found that increasing the spider's weight led to thicker and stiffer silk threads. The study also showed that the increase in diameter was accompanied by a decrease in stiffness (Young's modulus), suggesting that the silk may not be a simple, homogeneous material. This discovery could have implications for understanding spider silk production and potential applications in materials science.
+scientific_discipline: Biology > Material Science

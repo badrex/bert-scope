@@ -1,0 +1,10 @@
+article_id: rspa_1962_0218
+revised_title: 'Coupling Between Electromagnetic Waves and Excitation Waves in Molecular Crystals'
+semantic_tags:
+  - Electromagnetic Waves
+  - Excitation Waves
+  - Molecular Crystals
+  - Quantum Mechanics
+  - Crystal Physics
+tldr: The article analyzes the coupling between electromagnetic waves and excitation waves in molecular crystals. It presents a theory that considers the effects of transverse excitation waves, retardation of forces, molecular polarizability, and non-analytic behavior of energy bands. The study also introduces electric and magnetic fields to replace the interaction between molecules, enabling a better understanding of the crystal's properties in its excited states.
+scientific_discipline: Physics > Crystal Physics

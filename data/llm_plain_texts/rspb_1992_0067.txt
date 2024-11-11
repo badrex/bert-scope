@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0067'
+revised_title: 'Fibronectin-Integrin Interaction and its Impact on Leukemia Cells'
+semantic_tags:
+  - Cell Biology
+  - Integrin Receptors
+  - Ion Channels
+  - Leukemia Cells
+  - Extracellular Matrix
+tldr: The article investigates the response of ion channels in murine erythroleukemia cells to fibronectin-integrin interaction. The study shows that cell adhesion to fibronectin promotes plasma membrane hyperpolarization by activating potassium channels, which are similar to calcium-dependent potassium channels. This activation occurs even at a distance from the adhesion site, suggesting a complex regulatory pathway between fibronectin-integrin binding and potassium channel activation.
+scientific_discipline: Biology and Life Sciences > Cell Biology

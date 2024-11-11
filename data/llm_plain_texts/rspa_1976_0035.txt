@@ -1,0 +1,10 @@
+article_id: rspa_1976_0035
+revised_title: 'Investigating the Potential Barrier Effects in Pb I Photoionization'
+semantic_tags:
+  - Atomic Physics
+  - X-ray Absorption Spectra
+  - Photoionization
+  - Inner-shell Photoionization
+  - Lead Spectra
+tldr: The authors studied the photoionization of lead (Pb I) and observed the effects of potential barriers on the 4f subshell. They compared their findings with previous research on other elements and discussed the discrepancies between theory and experiment. The results provide valuable insights into the independent particle model for subvalence shell photoionization.
+scientific_discipline: Physics > Atomic Physics

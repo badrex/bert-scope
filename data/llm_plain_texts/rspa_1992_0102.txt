@@ -1,0 +1,10 @@
+article_id: rspa_1992_0102
+revised_title: Contour Integrals and the Ultrahyperbolic Wave Equation
+semantic_tags:
+  - Wave Equations
+  - Penrose Transform
+  - Twistor Theory
+  - Ultrahyperbolic Geometry
+  - Fourier Analysis
+tldr: The author explores the Penrose transform for the ultrahyperbolic wave equation and demonstrates that a smooth solution can be represented locally by a twistor contour integral formula. This is used to rederive Asgeirsson's mean value theorem and discuss the global problem of constructing a twistor transform in the compactified space-time.
+scientific_discipline: Mathematics > Analysis

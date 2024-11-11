@@ -1,0 +1,10 @@
+article_id: 'rspl_1895_0012'
+revised_title: 'Experimental Analysis of Alternate Current Dynamo-Electric Machines'
+semantic_tags:
+  - Electromagnetic Induction
+  - Dynamo-Electric Machines
+  - Electromotive Force
+  - Efficiency of Alternate Current Machines
+  - Conductivity of Iron Cores
+tldr: The authors conducted experiments on alternate current dynamo-electric machines, focusing on the currents induced in the coils and cores of magnets. They demonstrated that these currents can affect the electromotive force of the machine and discussed methods to determine its efficiency. They also explored the impact of iron core conductivity on the machine's performance.
+scientific_discipline: Engineering and Technology > Electrical Engineering

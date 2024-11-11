@@ -1,0 +1,10 @@
+article_id: rspa_1980_0098
+revised_title: 'Quantitative Analysis of Spin-Density Distributions in Transition Metal Complexes'
+semantic_tags:
+  - Transition metal complexes
+  - Spin-density distributions
+  - Polarized neutron diffraction
+  - Local multipole expansions
+  - Orbital populations
+tldr: The authors describe the use of local multipole expansions to analyze spin-density distributions in transition metal complexes using polarized neutron diffraction data. They discuss the determination of local orbital populations and provide quantitative atomic spin-density distributions in the ion. The results show a spin transfer of 0.02(1) electrons to each ligand atom and a well-defined spin separation between centers.
+scientific_discipline: Chemistry > Inorganic Chemistry

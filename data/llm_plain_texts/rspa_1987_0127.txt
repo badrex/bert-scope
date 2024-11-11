@@ -1,0 +1,10 @@
+article_id: rspa_1987_0127
+revised_title: 'Stokes Stream Functions for Ion Association and Dissociation in Weak Electrolytes'
+semantic_tags:
+  - Electrochemistry
+  - Ion flow
+  - Brownian motion
+  - Weak electrolytes
+  - Steady-state continuity equation
+tldr: The authors reformulate the brownian motion theory of ion flow in a weak electrolyte using Stokes stream functions. They derive the stream functions for ion association and dissociation, leading to a better understanding of the properties of these processes in weak electrolytes.
+scientific_discipline: Chemistry > Electrochemistry

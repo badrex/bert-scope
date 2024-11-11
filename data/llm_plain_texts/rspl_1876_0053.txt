@@ -1,0 +1,10 @@
+article_id: rspl_1876_0053
+revised_title: Electrical Conductivity and Electrolysis in Chemical Compounds
+semantic_tags:
+  - Electrochemistry
+  - Chemical compounds
+  - Liquefied gases
+  - Galvanic current
+  - Electrolysis
+tldr: The author conducted experiments with liquefied gases and chemical compounds to study their electrical conductivity and electrolysis. They discovered that some compounds, like liquid carbonic acid and liquid hydrochloric acid, do not conduct electricity well, while others, like liquefied ammonia, conduct electricity and undergo electrolysis. The author also observed interesting phenomena like vibrations and blue color changes in some compounds when exposed to strong electric currents.
+scientific_discipline: Chemistry > Electrochemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1978_0174
+revised_title: 'Two-Photon Absorption Theory in Gas Phase Molecular Spectroscopy'
+semantic_tags:
+  - Two-Photon Spectroscopy
+  - Molecular Spectroscopy
+  - Gas Phase Chemistry
+  - Rotational States
+  - Asymmetric Rotor
+tldr: This article presents a detailed theoretical development of two-photon absorption in the gas phase, including rotational effects. The authors derive a general formula for transition probabilities between rovibronic states in the rigid rotor approximation. They discuss the intensity of rotational lines and how polarization can be used to distinguish between different contributions to the two-photon absorption tensor. The theory is applied to asymmetric rotors, and two-photon rotational band contour calculations are presented.
+scientific_discipline: Chemistry > Spectroscopy

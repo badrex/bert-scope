@@ -1,0 +1,10 @@
+article_id: rspa_1972_0108
+revised_title: Defect-Diffusion Model of Viscoelasticity in Liquids
+semantic_tags:
+  - Viscoelasticity
+  - Defect-diffusion model
+  - Free-volume theories
+  - Molecular relaxation
+  - Liquids
+tldr: The authors propose a defect-diffusion model of viscoelasticity in liquids, which is based on the idea that relaxation can only occur when a defect diffuses to a molecular site. They demonstrate that this model can be applied to a class of supercooled non-polymeric molecular liquids, and provide a series of mathematical approximations to describe the behavior of the model.
+scientific_discipline: Physics > Materials Science

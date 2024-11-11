@@ -1,0 +1,10 @@
+article_id: rspa_1973_0023
+revised_title: Theoretical Interpretation of Electron Distribution in Silicon
+semantic_tags:
+  - Crystallography
+  - Silicon structure
+  - Anharmonic force constants
+  - X-ray Debye temperatures
+  - Hartree-Fock wavefunctions
+tldr: The authors analyze the electron distribution in silicon using X-ray structure factors and theoretical estimates of free atom Hartree-Fock wavefunctions. They find that a radially compressed valence-shell form factor provides an excellent fit using Kubic Harmonics. The study also confirms previous estimates of anharmonic force constants and measures X-ray Debye temperatures for silicon at different temperatures.
+scientific_discipline: Physics > Crystallography

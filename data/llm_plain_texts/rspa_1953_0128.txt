@@ -1,0 +1,10 @@
+article_id: rspa_1953_0128
+revised_title: 'Investigating the Configuration of Polypeptide Chains in Small Peptides: Gramicidin S'
+semantic_tags:
+  - Peptide structure
+  - Protein structure
+  - Infra-red spectroscopy
+  - Polypeptide chain configuration
+  - Gramicidin S
+tldr: The authors studied the structure of small peptides, focusing on gramicidin S, a cyclic decapeptide. They used infra-red spectroscopy to analyze the absorption bands of the peptide-NH-CO group and found that the spectra of crystalline derivatives of gramicidin S showed considerable dichroism, similar to folded synthetic polypeptides and a-keratin. A model of the polypeptide chain configuration was proposed, which satisfied the infra-red data and represented a stable configuration for the chain.
+scientific_discipline: Chemistry > Biochemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1924_0026
+revised_title: 'Refractive Indices of Calcite and Aragonite: A Study of Double Refraction'
+semantic_tags:
+  - Crystallography
+  - Refractive Index
+  - Double Refraction
+  - Dielectric Media
+  - Atomic Refractivity
+scientific_discipline: Physics > Crystallography
+tldr: The author, W.L. Bragg, analyzes the refractive indices of calcite and aragonite, two crystalline forms of calcium carbonate, using X-ray methods. They discover that both display strong double refraction due to the atomic arrangements in the crystals. The study provides insight into the polarization of atoms in dielectric media and helps explain the refractive indices for light polarized in different planes.

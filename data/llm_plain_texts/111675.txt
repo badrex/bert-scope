@@ -1,0 +1,10 @@
+article_id: 111675
+revised_title: Density and Expansion of Steam: Experimental Researches and Findings
+semantic_tags:
+  - Thermodynamics
+  - Steam properties
+  - Gas laws
+  - Heat dynamics
+  - Pressure
+tldr: This article presents experimental research on the density of steam at various temperatures and the law of expansion of superheated steam. The authors found that the density of saturated steam is always greater than that derived from gaseous laws, and the rate of expansion of superheated steam varies depending on the temperature. The results show that as steam becomes more superheated, its coefficient of expansion approaches that of a perfect gas.
+scientific_discipline: Chemistry > Thermodynamics

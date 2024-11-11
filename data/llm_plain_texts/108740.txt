@@ -1,0 +1,10 @@
+article_id: 108740
+revised_title: Demonstrating the Equivalence of Double Tangent Equations in Algebraic Curves
+semantic_tags:
+  - Algebraic Geometry
+  - Differential Geometry
+  - Curves and Surfaces
+  - Hessian Curves
+  - Mathematical Analysis
+tldr: The author demonstrates the equivalence of three different forms of equations representing the points of contact of double tangents in algebraic curves of the fourth order. The proof is based on Hesse's theorem and shows that the three forms are not identical but differ by multiples of the quartic function U=0.
+scientific_discipline: Mathematics > Algebraic Geometry

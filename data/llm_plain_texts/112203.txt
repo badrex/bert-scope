@@ -1,0 +1,10 @@
+article_id: '112203'
+revised_title: 'Magnetism in Hot-Rolled and Cold-Rolled Iron: A Comparative Study'
+semantic_tags:
+  - Magnetism
+  - Iron properties
+  - Metallurgy
+  - Material science
+  - Magnetic materials
+tldr: 'The author conducted experiments to compare the magnetic properties of hot-rolled and cold-rolled malleable iron. The results showed that cold-rolled iron receives and retains a greater amount of induced magnetism than hot-rolled iron. Hot-rolled iron tends to retain its primitive magnetism better than cold-rolled iron. The study provides insights into the magnetic properties of iron and its potential applications in various industries.'
+scientific_discipline: 'Engineering and Technology > Material Science'

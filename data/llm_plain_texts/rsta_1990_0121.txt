@@ -1,0 +1,10 @@
+article_id: rsta_1990_0121
+revised_title: 'Stereochemical and Angular Momentum Constraints in Ammonia Photodissociation'
+semantic_tags:
+  - Chemical Reaction
+  - Intramolecular Motion
+  - Photodissociation
+  - Stereochemistry
+  - Angular Momentum
+tldr: The article presents a detailed study of the photodissociation of ammonia, focusing on the stereochemical and angular momentum constraints involved. The authors use time-of-flight spectra and laser-induced fluorescence excitation spectra to analyze the energy disposal following photodissociation through the AXA2 excited state. The results reveal that the dissociation rates and product distributions are sensitive to the vibrational and rotational quantum numbers of the quasi-bound levels of the parent molecule, providing insight into the intramolecular motion of the dissociating ammonia molecule.
+scientific_discipline: Chemistry > Chemical Reaction Dynamics

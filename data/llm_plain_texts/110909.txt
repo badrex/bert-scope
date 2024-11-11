@@ -1,0 +1,10 @@
+article_id: '110909'
+revised_title: 'The Use of Barometric Thermometer for Determining Relative Heights'
+semantic_tags:
+  - Barometry
+  - Thermometry
+  - Atmospheric Pressure
+  - Altitude Measurement
+  - Temperature
+tldr: 'The author, James R. Christie, explains the theoretical foundation of using the barometric thermometer to determine relative heights. He tests the accuracy of this method by comparing his observations of boiling points of water at different stations in the Alps with the heights determined by other methods. The results show that the barometric thermometer can provide accurate and satisfactory results, but there is still uncertainty in its readings.'
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

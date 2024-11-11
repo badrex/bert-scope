@@ -1,0 +1,10 @@
+article_id: rspa_1935_0166
+revised_title: 'Long-lasting Active Nitrogen and the Effect of Vessel Coatings on Decay'
+semantic_tags:
+  - Gas discharge physics
+  - Nitrogen afterglow
+  - Vessel coatings
+  - Decay law
+  - Glow discharge
+tldr: The author investigates the decay of active nitrogen and its afterglow, finding that the length of time the afterglow remains visible depends on the type of vessel used. By coating the inside of the vessel with substances like sulfuric or phosphoric acid, the afterglow's duration can be significantly increased.
+scientific_discipline: Physics > Gas discharge physics

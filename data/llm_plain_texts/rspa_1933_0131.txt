@@ -1,0 +1,10 @@
+article_id: rspa_1933_0131
+revised_title: 'Experimental Study of Electron Scattering by Cadmium Vapour'
+semantic_tags:
+  - Electron scattering
+  - Metal vapours
+  - Cadmium
+  - Atomic physics
+  - Experimental methods
+tldr: The authors conducted an experiment to study the scattering of electrons by cadmium vapour. They used a specially designed apparatus to measure the angular distribution of electrons scattered at different energies. The results confirmed the validity of the method and showed that electron exchange effects can be neglected for heavy atoms. This study provides a foundation for further investigations of electron scattering by other metals.
+scientific_discipline: Physics > Atomic and Molecular Physics

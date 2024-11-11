@@ -1,0 +1,10 @@
+article_id: rspl_1888_0018
+revised_title: Electro-chemical Effects on Magnetising Iron: Part II
+semantic_tags:
+  - Electrochemistry
+  - Magnetism
+  - Iron and Steel
+  - Electro-chemical effects
+  - Magnetochemical phenomena
+tldr: The author investigates the electro-chemical effects between a magnetized and an unmagnetized bar when in circuit in certain solutions. The study reveals that the magnetochemical effect varies with the nature of the metal and solution used, as well as the extent of magnetic saturation of the metals. The author also examines the possibility of errors from temperature causes and provides further experiments to demonstrate that the magneto-chemical effect is not due to temperature variations.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rspa_1975_0030
+revised_title: Embedding Theorems for Orlicz and Sobolev Spaces on Unbounded Domains
+semantic_tags:
+  - Functional Analysis
+  - Orlicz Spaces
+  - Sobolev Spaces
+  - Unbounded Domains
+  - Embedding Theorems
+tldr: This paper explores embedding theorems for Orlicz and Sobolev spaces on unbounded domains. It demonstrates that the Sobolev space can be continuously embedded in the Orlicz space, and that multiplication by suitable functions can act as a compact map of the space for certain Orlicz functions. These results extend previous work on bounded domains and have applications to the Dirichlet problem in unbounded domains for elliptic equations with violent nonlinearities.
+scientific_discipline: Mathematics > Functional Analysis

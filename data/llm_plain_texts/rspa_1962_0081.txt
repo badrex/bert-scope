@@ -1,0 +1,10 @@
+article_id: rspa_1962_0081
+revised_title: Thermoelectric Power of Ionic Crystals: Potassium Chloride
+semantic_tags:
+  - Thermoelectricity
+  - Ionic crystals
+  - Potassium chloride
+  - Thermoelectric power measurements
+  - Heat of transport
+tldr: The authors measured the thermoelectric power of pure potassium chloride and potassium chloride containing strontium chloride. They found that the results for pure materials were reproducible and could be interpreted in terms of temperature-independent heats of transport for vacancy and interstitial diffusion mechanisms. However, the results for the doped material were less reproducible and could only be interpreted in terms of strongly temperature-dependent heats of transport.
+scientific_discipline: Physics > Materials Science

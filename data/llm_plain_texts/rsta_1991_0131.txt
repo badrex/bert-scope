@@ -1,0 +1,10 @@
+article_id: rsta_1991_0131
+revised_title: Probabilistic Expert Systems and Graphical Modelling in Drug Safety Assessment
+semantic_tags:
+  - Drug Safety
+  - Probabilistic Expert Systems
+  - Graphical Modelling
+  - Causality Assessment
+  - Bayesian Analysis
+tldr: This article presents a probabilistic approach to assessing drug safety using expert systems and graphical modelling. The authors develop a model for a specific case of a diarrheal reaction (pseudomembranous colitis) caused by antibiotic therapy. They demonstrate how the model can handle complex situations and provide efficient calculations of conditional probabilities. The model allows for updating risk parameters and may form the basis for a flexible expert system for causality assessment and post-marketing surveillance.
+scientific_discipline: Social Sciences, Art, and Humanities > Statistics and Data Analysis

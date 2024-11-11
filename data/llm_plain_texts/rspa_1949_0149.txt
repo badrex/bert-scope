@@ -1,0 +1,10 @@
+article_id: rspa_1949_0149
+revised_title: 'Unsteady Compressible Flow in Two Dimensions: A Study of Wave Propagation'
+semantic_tags:
+  - Fluid Dynamics
+  - Compressible Flow
+  - Wave Propagation
+  - Partial Differential Equations
+  - Fluid Mechanics
+tldr: This article presents an alternative approach to the linear perturbation theory of two-dimensional compressible flow by introducing a new function that satisfies a linear partial differential equation. The author applies this theory to the specific example of unsteady flow around an oscillating cylinder, focusing on wave propagation. The study finds that progressive wave types can be propagated with the velocity of sound at a stagnation point, and the amplitude decreases as the distance from the oscillating cylinder increases.
+scientific_discipline: Physics > Fluid Dynamics

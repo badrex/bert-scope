@@ -1,0 +1,10 @@
+article_id: rspa_1932_0109
+revised_title: 'Demonstration of Electron Polarization by Scattering'
+semantic_tags:
+  - Electron Polarization
+  - Scattering Experiments
+  - Mott Scattering
+  - Nuclear Scattering
+  - Relativistic Wave Equation
+scientific_discipline: Physics > Electromagnetism
+tldr: The authors conducted experiments to demonstrate the polarization of electrons by scattering. They used a thin foil of high atomic number material and a beam of fast electrons. The results showed a change in intensity when the foil and measuring apparatus were rotated, indicating the presence of electron polarization. The findings support the theory of Mott scattering, which predicts the conditions under which electron polarization can be observed.

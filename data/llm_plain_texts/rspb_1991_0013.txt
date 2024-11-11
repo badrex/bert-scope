@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0013'
+revised_title: 'Asymmetries in Oriented-Line Detection Indicate Two Orthogonal Filters in Early Vision: A Revisit'
+semantic_tags:
+  - Visual Perception
+  - Orientation Perception
+  - Visual Processing
+  - Visual Filters
+  - Visual Detection
+tldr: This study investigates the visual detection of oriented lines and finds that the underlying processing involves two classes of orientation-sensitive filters with axes close to the vertical and horizontal. The findings indicate that these filters play a significant role in early vision and contribute to the efficient detection of oriented lines in complex visual scenes.
+scientific_discipline: Psychology > Perception

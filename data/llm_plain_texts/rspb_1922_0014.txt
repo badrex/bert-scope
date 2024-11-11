@@ -1,0 +1,10 @@
+article_id: 'rspb_1922_0014'
+revised_title: 'Improving the Kata-Thermometer as a Measure of Ventilation'
+semantic_tags:
+  - Ventilation
+  - Wind velocity
+  - Air temperature
+  - Humidity
+  - Heat loss
+tldr: 'The authors conducted experiments to improve the kata-thermometer, a device used to measure ventilation. They found that the rate of cooling depends on wind velocity, air temperature, and humidity. They developed equations to calculate the cooling power of the kata-thermometer, taking into account different wind velocities and humidity levels. This work helps to better understand and measure ventilation in various environments.'
+scientific_discipline: Environmental and Earth Sciences > Meteorology

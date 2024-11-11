@@ -1,0 +1,10 @@
+article_id: 'rstl_1871_0017'
+revised_title: 'Investigating the Unequal Distribution of Weight and Support in Ships'
+semantic_tags:
+  - Naval Architecture
+  - Ship Design
+  - Hydrostatics
+  - Strain Analysis
+  - Ship Stability
+tldr: The author examines the forces acting on ships due to their weight and stability, and the effects of wind and waves on their hulls. They discuss the importance of understanding the actual strains ships experience in various conditions, and provide a historical overview of previous research on the topic. The author emphasizes the need for more accurate calculations and investigations to improve ship design and construction.
+scientific_discipline: Engineering and Technology > Naval Architecture

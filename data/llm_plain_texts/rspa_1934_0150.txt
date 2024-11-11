@@ -1,0 +1,10 @@
+article_id: 'rspa_1934_0150'
+revised_title: 'Nuclear Spin and Radioactive Element Disintegration'
+semantic_tags:
+  - Nuclear Physics
+  - Radioactivity
+  - Nuclear Angular Momenta
+  - Nuclear Spin Differences
+  - Nuclear Decay
+tldr: The authors discuss the role of nuclear spin in radioactive element disintegration. They explain that the rate of radioactive disintegration and the excitation of product-nuclei is influenced by nuclear angular momenta. The decay constant for disintegrating bodies depends on the factor (1), where and are the eigenfunctions of nuclear neutron and resultant proton. The authors also mention that the observed -spectra will correspond to a permitted transition leading to the formation of an excited nucleus, which has been observed in several cases.
+scientific_discipline: Physics > Nuclear Physics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0138'
+revised_title: 'Evolution of Parasite Virulence in Coinfection'
+semantic_tags:
+  - Parasite Evolution
+  - Coinfection
+  - Host-Parasite Interactions
+  - Virulence
+  - Transmission Rates
+tldr: The authors explore the evolutionary dynamics of parasite associations where individual hosts can be coinfected with multiple parasite strains. They find that coinfection leads to selection for strains with virulence levels in a narrow band close to the maximum consistent with the parasite's basic reproductive ratio. This study provides insights into the complex issue of understanding how parasite diversity within individual hosts alters the selective forces determining virulence.
+scientific_discipline: Biology and Life Sciences > Ecology and Evolution

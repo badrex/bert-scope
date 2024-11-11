@@ -1,0 +1,10 @@
+article_id: rspa_1939_0031
+revised_title: 'Investigation of Neodymium Sulphate Octahydrate's Magnetic Susceptibilities at Low Temperatures'
+semantic_tags:
+  - Crystallography
+  - Magnetic Susceptibility
+  - Neodymium compounds
+  - Crystalline field theory
+  - Low-temperature physics
+tldr: The authors conducted experiments on neodymium sulphate octahydrate crystals to determine their magnetic susceptibilities at low temperatures. They found that the principal susceptibilities obeyed the Curie-Weiss law above a certain temperature, while at lower temperatures, one susceptibility became independent of temperature, and the other two increased rapidly. The magnetic ellipsoid rotated significantly as the temperature decreased. These findings have implications for the crystalline field theory.
+scientific_discipline: Physics > Crystallography

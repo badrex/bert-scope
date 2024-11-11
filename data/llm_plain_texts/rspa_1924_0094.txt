@@ -1,0 +1,10 @@
+article_id: rspa_1924_0094
+revised_title: 'Investigation of Striking and Breaking Potentials for Electron Discharges in Hydrogen'
+semantic_tags:
+  - Electron discharge
+  - Hydrogen
+  - Striking potential
+  - Breaking potential
+  - Thermionic tubes
+tldr: This article investigates the striking and breaking potentials for electron discharges in hydrogen. The authors study the effects of varying the electron emission from the cathode, hydrogen pressure, and the distance between electrodes on the discharge behavior. They find that the striking and breaking potentials are highest for all pressures and distances within the examined ranges.
+scientific_discipline: Physics > Electricity and Magnetism

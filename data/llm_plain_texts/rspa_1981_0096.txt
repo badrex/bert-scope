@@ -1,0 +1,10 @@
+article_id: rspa_1981_0096
+revised_title: Composition Dependence of the Yield Stress in Copper-Aluminium Alloys
+semantic_tags:
+  - Solid solution hardening
+  - Dislocation dynamics
+  - Materials science
+  - Crystal growth
+  - Mechanical properties
+tldr: This study investigates the yield stress of single crystals of -phase copper-aluminum alloys and examines the composition dependence of the yield stress. The research measures the stress at 293 and 4.2 K under precisely defined conditions to determine whether the Friedel or Mott-Labusch relation applies. The results show a dependence of the yield stress on the composition of the alloy, providing insights into the mechanisms of solute hardening in metals.
+scientific_discipline: Materials Science > Mechanical Properties

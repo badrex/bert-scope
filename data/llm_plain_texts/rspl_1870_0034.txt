@@ -1,0 +1,10 @@
+article_id: 'rspl_1870_0034'
+revised_title: 'Improved Method for Measuring Galvanometer-Coil Resistance'
+semantic_tags:
+  - Electrical Engineering
+  - Wheatstone Bridge
+  - Galvanometer
+  - Resistance Measurement
+  - Electromagnetism
+tldr: 'Prof. Sir William Thomson modifies Wheatstone's bridge to measure the resistance of a galvanometer-coil using a single deflection of its own needle. This simple method involves using the galvanometer as one of the four conductors in the bridge and adjusting it until the galvanometer shows an unchanged deflection. This technique proves to be an innovative and efficient way to measure galvanometer resistance.'
+scientific_discipline: Engineering and Technology > Electrical Engineering

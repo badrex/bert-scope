@@ -1,0 +1,10 @@
+article_id: 106575
+revised_title: A New Approach to Trigonometric Tables
+semantic_tags:
+  - Trigonometry
+  - Mathematics
+  - Table Construction
+  - Decimal System
+  - Arc Lengths
+tldr: The author proposes a new method for constructing trigonometric tables, specifically sines, tangents, and secants, using equal parts of the radius instead of the traditional division of the quadrant. This new approach would utilize the decimal system and simplify calculations, potentially improving accuracy and efficiency in mathematical operations.
+scientific_discipline: Mathematics > Trigonometry

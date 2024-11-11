@@ -1,0 +1,10 @@
+article_id: rsta_1969_0064
+revised_title: Analytical Representations of Fermi Surfaces in Noble Metals
+semantic_tags:
+  - Fermi surfaces
+  - Noble metals
+  - De Haas-van Alphen effect
+  - Cyclotron masses
+  - Electronic specific heat
+tldr: The authors conducted precision measurements of the angular dependence of the de Haas-van Alphen frequencies in noble metals, focusing on copper, silver, and gold. They used the data to compute analytical representations of the Fermi surfaces in the form of Fourier expansions, achieving a greater accuracy in the formulae for the Fermi surfaces. The computed orientation dependence of Fermi surfaces agreed with experimental results, providing valuable information about the properties of the Fermi surfaces, such as the density of states and electronic specific heat.
+scientific_discipline: Physics > Condensed Matter Physics

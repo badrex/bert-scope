@@ -1,0 +1,10 @@
+article_id: 106887
+revised_title: A New Demonstration of the Lever's Fundamental Property
+semantic_tags:
+  - Mechanics
+  - Levers
+  - Archimedes' Principle
+  - Mechanical Engineering
+  - Physics
+tldr: The author presents a new demonstration of the lever's fundamental property, proving Archimedes' principle using simple and self-evident principles. The demonstration shows that the effects of two equal weights on a lever are the same, regardless of their positions on the lever, as long as they are at equal distances from the fulcrum.
+scientific_discipline: Physics > Mechanics

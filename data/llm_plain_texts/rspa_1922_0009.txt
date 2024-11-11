@@ -1,0 +1,10 @@
+article_id: 'rspa_1922_0009'
+revised_title: 'Numerical Solution of Linear Integral Equations'
+semantic_tags:
+  - Linear algebra
+  - Integral equations
+  - Approximation methods
+  - Numerical methods
+  - Orthogonal functions
+tldr: The authors present a method for solving linear integral equations using approximate functions, focusing on the choice of these functions to achieve better numerical results. The method is demonstrated through the application to Hilbert's integral equation, providing approximate solutions for its singular values.
+scientific_discipline: Mathematics > Linear algebra

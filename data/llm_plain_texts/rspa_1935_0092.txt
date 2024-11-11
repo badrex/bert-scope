@@ -1,0 +1,10 @@
+article_id: rspa_1935_0092
+revised_title: 'Annihilation Radiation and Positron Interactions'
+semantic_tags:
+  - Particle Physics
+  - Positron Annihilation
+  - Quantum Mechanics
+  - Radiation
+  - Nuclear Physics
+tldr: The authors, Bethe and Fowler, study the annihilation radiation of positrons and the probability of annihilation during motion. They find that in nearly all cases, one annihilation quantum gets most of the energy, while the other is very soft. The probability of annihilation is small for low-energy positrons and reaches a maximum at around 1 MeV, decreasing slowly for higher energies. The angular distribution of the annihilation radiation is also discussed, with the hard annihilation radiation being more anisotropic in substances with higher nuclear charge.
+scientific_discipline: Physics > Particle Physics

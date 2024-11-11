@@ -1,0 +1,10 @@
+article_id: rspa_1983_0093
+revised_title: Enhanced Nuclear Acoustic Resonance in HoVO4
+semantic_tags:
+  - Nuclear Acoustic Resonance
+  - HoVO4
+  - Spin-Lattice Relaxation
+  - Acoustic Attenuation
+  - Magnetic Hyperfine Interaction
+tldr: The authors observed a strong resonant absorption for longitudinal acoustic waves in a single crystal of HoVO4, a type of enhanced nuclear paramagnet. This absorption is caused by the intrinsic direct spin-lattice relaxation process and is orders of magnitude smaller than the Orbach rate. The study provides insights into the mechanism of enhanced nuclear acoustic resonance and helps deduce the spin-lattice relaxation rate for the intrinsic direct process.
+scientific_discipline: Physics > Condensed Matter Physics

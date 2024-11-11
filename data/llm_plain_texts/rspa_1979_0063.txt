@@ -1,0 +1,10 @@
+article_id: rspa_1979_0063
+revised_title: X-ray Spectrum and Variability of Active Galaxies
+semantic_tags:
+  - X-ray astronomy
+  - Active galaxies
+  - Seyfert galaxies
+  - X-ray emission
+  - X-ray spectrum
+tldr: The authors studied the X-ray spectrum and variability of 13 active galaxies using the M.S.S.L. proportional counter system on Ariel 5. They found that the X-ray emission from these galaxies is variable, with changes in the line of sight hydrogen column density. The study also indicates that some active galaxies may have compact sources and not be part of a cluster of galaxies.
+scientific_discipline: Astronomy > X-ray Astronomy

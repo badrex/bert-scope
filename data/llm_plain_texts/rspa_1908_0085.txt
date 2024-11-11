@@ -1,0 +1,10 @@
+article_id: rspa_1908_0085
+revised_title: The Significance and Applications of -Functions in Statistics
+semantic_tags:
+  - Statistics
+  - Probability Theory
+  - Mathematical Functions
+  - Fourier Analysis
+  - Laplace Transform
+tldr: The authors explore a class of normal functions called -functions, which are significant in statistics. They discuss their properties, applications, and methods for expanding and representing various functions using these -functions. The authors also demonstrate the validity of these processes in developing the Laplace integral.
+scientific_discipline: Mathematics > Applied Mathematics

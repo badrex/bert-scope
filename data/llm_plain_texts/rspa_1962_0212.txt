@@ -1,0 +1,10 @@
+article_id: rspa_1962_0212
+revised_title: 'Vibration Spectrum of Silver: A Metallic Interaction Study'
+semantic_tags:
+  - Solid State Physics
+  - Metallic Cohesion
+  - Lattice Dynamics
+  - Vibration Frequencies
+  - Silver
+tldr: 'This article presents a study on the vibration spectrum of silver based on metallic interaction. The authors set up a secular determinant for silver, deriving ion-ion force constants from expressions in the theory of metallic cohesion. They calculate vibration frequencies and specific heats using dispersion relations and find that the theoretical curves agree with experimental data within the accuracy of the calculations.'
+scientific_discipline: Physics > Solid State Physics

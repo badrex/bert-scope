@@ -1,0 +1,10 @@
+article_id: 'rsta_1973_0100'
+revised_title: 'Advances in Heavy Electrical Plant and Future Developments in Power System Control'
+semantic_tags:
+  - Power System Control
+  - Power Generation
+  - Electrical Engineering
+  - Energy Management
+  - System Automation
+tldr: The authors discuss the challenges and requirements of controlling modern power systems, focusing on the demand, types of generators, and transmission systems. They explore the potential for advances in control technology to enable on-line control of power systems at an acceptable cost, considering the complexities of consumer demand, generator types, and transmission networks.
+scientific_discipline: Engineering and Technology > Electrical Engineering

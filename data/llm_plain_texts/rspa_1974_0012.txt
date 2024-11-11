@@ -1,0 +1,10 @@
+article_id: rspa_1974_0012
+revised_title: 'Wavefront Dislocations in Ultrasonic Wave Trains'
+semantic_tags:
+  - Wave Dislocations
+  - Ultrasonics
+  - Wave Interference
+  - Crystal Dislocations
+  - Wavefronts
+tldr: The authors discovered that wavefronts can contain dislocations, similar to those found in crystals. They observed these dislocations in ultrasonic wave trains reflected from rough surfaces and explained their detailed structure and properties. Dislocations in wave trains can move, intersect, and interact, making them a significant feature in wave interference and scattering problems.
+scientific_discipline: Physics > Optics

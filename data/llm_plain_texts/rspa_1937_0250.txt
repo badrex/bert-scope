@@ -1,0 +1,10 @@
+article_id: rspa_1937_0250
+revised_title: Corrections to Radio-Balance Measurements
+semantic_tags:
+  - Radio-Balance
+  - Instrumentation
+  - Measurement
+  - Error Correction
+  - Physics
+tldr: This article provides corrections to the radio-balance measurements and discusses the principles affecting the design of the instruments. The errors in the last column are corrected, and the significance of the measurements is discussed.
+scientific_discipline: Physics > Instrumentation

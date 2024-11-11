@@ -1,0 +1,10 @@
+article_id: 111142
+revised_title: Foucault's Pendulum and the Rotation of the Earth
+semantic_tags:
+  - Foucault's Pendulum
+  - Earth's Rotation
+  - Angular Velocity
+  - Vibrations
+  - Physics Experiments
+tldr: The author discusses the experiment conducted by M. Foucault to prove the rotation of the Earth using a pendulum. The author explains the theory behind the experiment and how it can be replicated using a vibrating rod or a pendulum. The experiment demonstrates that the plane of oscillation of a vibrating line remains at rest with respect to the vertical component of the Earth's axis of rotation.
+scientific_discipline: Physics > Mechanics

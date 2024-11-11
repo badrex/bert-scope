@@ -1,0 +1,10 @@
+article_id: 'rstb_1991_0028'
+revised_title: 'The Evolution of Senescence: Trade-offs Between Reproduction and Longevity'
+semantic_tags:
+  - Evolutionary Biology
+  - Senescence
+  - Reproductive Strategies
+  - Antagonistic Pleiotropy
+  - Disposable Soma Theory
+tldr: The article discusses the evolution of senescence and the trade-offs between reproduction and longevity. It explores three population-genetic mechanisms for the evolution of senescence: mutation accumulation, antagonistic pleiotropy, and the disposable soma theory. The authors argue that the major driving force in the evolution of longevity is the level of environmental mortality, which affects the allocation of resources between growth, maintenance, and reproduction.
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

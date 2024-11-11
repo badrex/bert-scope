@@ -1,0 +1,10 @@
+article_id: rsta_1988_0117
+revised_title: Dynamics of Vortex Pairs and Chaotic Motion in Fluids
+semantic_tags:
+  - Fluid Dynamics
+  - Vortex Dynamics
+  - Chaotic Motion
+  - Hamiltonian Systems
+  - Integrable Systems
+tldr: This article investigates the interaction of two vortex pairs in fluids, focusing on their chaotic behavior and dynamics. The authors demonstrate that chaotic motion is possible for both bound and scattering states of the system. They also discuss the reduction of degrees of freedom using canonical transformations and identify integrable cases, including a previously unknown one. The study has implications for understanding chaotic behavior in two-dimensional hydrodynamics.
+scientific_discipline: Physics > Fluid Dynamics

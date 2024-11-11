@@ -1,0 +1,10 @@
+article_id: 107776
+revised_title: Rectifying Inaccuracies in Logarithmic Formulae
+semantic_tags:
+  - Mathematics
+  - Logarithmic Formulae
+  - Trigonometry
+  - Analysis
+  - Mathematical Notation
+tldr: The author, John Thomas Graves, attempts to rectify inaccuracies in logarithmic formulae, focusing on the development of f0 and f-1 0. He provides a new method for developing y and x in terms of a and proposes a solution for the case when a is negative or impossible. This work contributes to the understanding of exponential theory and offers a more complete set of logarithmic formulae.
+scientific_discipline: Mathematics > Analysis

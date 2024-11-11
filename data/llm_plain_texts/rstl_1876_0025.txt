@@ -1,0 +1,10 @@
+article_id: rstl_1876_0025
+revised_title: Determining Sea Depth Without Sounding Lines
+semantic_tags:
+  - Oceanography
+  - Bathymetry
+  - Gravitation
+  - Sea depth measurement
+  - Instrumentation
+tldr: The author proposes a method to determine the depth of the sea without using a sounding line by utilizing the difference in density between sea water and solid rock. They describe the construction and testing of a bathometer, an instrument that measures slight variations in the total attraction of the earth, which can be used to estimate the depth of the sea. The author's experiments show promising results, but the instrument is still delicate and requires improvements for more accurate measurements.
+scientific_discipline: Physics > Mechanics

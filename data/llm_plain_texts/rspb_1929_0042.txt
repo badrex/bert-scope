@@ -1,0 +1,12 @@
+article_id: 'rspb_1929_0042'
+revised_title: 'The Influence of Acid Solutions on Fish Skin Swelling'
+semantic_tags:
+  - Collagen
+  - Fish skin chemistry
+  - Acid solutions
+  - Protein diffusion
+  - Skin swelling
+tldr: This study investigates the effect of inorganic and organic acid solutions on the swelling of fish skins, specifically cod skins. The authors found that the degree of swelling and the diffusion of nitrogen from the skins varied depending on the type and concentration of the acid. The results suggest that the chemical composition of fish gelatin differs from that of mammalian gelatin, leading to different swelling behaviors. The study also highlights the importance of understanding the chemical constitution of fish skins and its influence on the action of reagents used to induce swelling.
+scientific_discipline: Chemistry > Biochemistry
+```yaml
+```

@@ -1,0 +1,10 @@
+article_id: rspl_1876_0024
+revised_title: The Action of Light on Selenium: Electrical Conductivity and Photovoltaic Effects
+semantic_tags:
+  - Selenium
+  - Photovoltaics
+  - Electrical conductivity
+  - Light sensitivity
+  - Electrolysis
+tldr: This article discusses the electrical behavior of selenium and its sensitivity to light. The authors found that selenium's electrical resistance decreases when exposed to light, and that light can generate an electric current in the material. They also discovered that the conductivity of selenium is influenced by the direction of the current and that exposure to light can cause polarization in the material.
+scientific_discipline: Physics > Optoelectronics

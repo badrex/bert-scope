@@ -1,0 +1,10 @@
+article_id: rsta_1976_0082
+revised_title: 'Diffusion in Metamorphic Tectonites: Lattice-Fixed Reference Frames'
+semantic_tags:
+  - Metamorphic Rocks
+  - Diffusion in Minerals
+  - Geology
+  - Crystallography
+  - Non-equilibrium Thermodynamics
+tldr: This article discusses the nature of volume diffusion during metamorphism and examines compositional zoning in metamorphic minerals, specifically focusing on garnets. The author presents a theoretical and experimental investigation of diffusion in silicates, simplifying the analysis by constructing lattice-fixed reference frames to reduce the number of flux equations and diffusion coefficients. The study aims to understand the processes of intergranular and volume diffusion in metamorphic rocks and their implications on domains of local chemical equilibrium among minerals.
+scientific_discipline: Geology > Metamorphic Rocks

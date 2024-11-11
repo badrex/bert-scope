@@ -1,0 +1,10 @@
+article_id: 'rspb_1968_0046'
+revised_title: 'Effects of Sodium Pump Inhibitors on Neuromuscular Transmission'
+semantic_tags:
+  - Neurotransmission
+  - Sodium pump inhibition
+  - Cardiac glycosides
+  - Neuromuscular junction
+  - Ion transport
+tldr: The authors studied the effects of sodium pump inhibitors, specifically cardiac glycosides, on neuromuscular transmission in frog skeletal muscles. They found that exposure to these inhibitors led to an increase in the quantum content of the end-plate potential, followed by conduction block in intramuscular motor nerve branches. These changes resulted from the inhibition of a sodium pump in the motor nerve axons and their endings, affecting the release of neurotransmitter and the overall transmission process.
+scientific_discipline: Biology and Life Sciences > Neurobiology

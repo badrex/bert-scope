@@ -1,0 +1,10 @@
+article_id: rspa_1964_0226
+revised_title: Gravitational Influence of Direct Particle Fields
+semantic_tags:
+  - Gravitational Equations
+  - Particle Interaction
+  - Fokker Action
+  - Energy-Momentum Tensor
+  - Electromagnetic Field
+tldr: The authors explore the contribution of direct particle interaction to the gravitational equations in the Fokker action. They solve the problem using Green functions and derive the energy-momentum tensors for the C-field and electromagnetic field. The results show that the direct particle interaction theory leads to similar terms as in the usual field theory, but with unique features when considering broken world-lines and charge conservation.
+scientific_discipline: Physics > Electromagnetism

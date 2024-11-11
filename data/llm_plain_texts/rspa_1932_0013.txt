@@ -1,0 +1,10 @@
+article_id: rspa_1932_0013
+revised_title: 'Investigations of Recoil Atoms and Alpha Particle Velocities'
+semantic_tags:
+  - Nuclear Physics
+  - Particle Acceleration
+  - Atomic Collisions
+  - Gas Mixtures
+  - Nuclear Energy
+tldr: 'The authors conducted experiments using a Wilson chamber to study the range and velocity of recoil atoms. They extended earlier research to larger ranges and made accurate determinations of alpha particle velocities. The data collected from nitrogen disintegration photographs provided valuable information on the range of atoms. The study's findings have implications for understanding atomic collisions, nuclear physics, and particle acceleration.'
+scientific_discipline: Physics > Nuclear Physics

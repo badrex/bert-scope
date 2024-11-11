@@ -1,0 +1,10 @@
+article_id: 'rspb_1972_0072'
+revised_title: 'Glucose Uptake and Phosphotransferase System in Thermophilic Bacillus'
+semantic_tags:
+  - 'Bacterial Metabolism'
+  - 'Glucose Uptake'
+  - 'Thermophilic Bacillus'
+  - 'Phosphotransferase System'
+  - 'Protein Stability'
+tldr: The article investigates the uptake of glucose by a thermophilic Bacillus sp. and the stability of the phosphotransferase system in thermophilic and mesophilic bacilli. The study finds that the rate of glucose uptake by thermophilic Bacillus stearothermophilus is directly correlated with the activity of the phosphotransferase that catalyzes the PEP-dependent phosphorylation of glucose. The phosphotransferase system is induced by the addition of glucose to cultures growing on either acetate or succinate, and the specific activity of the system remains constant throughout the growth period.
+scientific_discipline: Biology and Life Sciences > Microbiology

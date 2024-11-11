@@ -1,0 +1,10 @@
+article_id: 'rstb_1978_0014'
+revised_title: 'Ear Asymmetry and Auditory Localization in Tengmalm's Owl'
+semantic_tags:
+  - 'Biology'
+  - 'Zoology'
+  - 'Owl anatomy'
+  - 'Auditory localization'
+  - 'Skull asymmetry'
+tldr: 'This study examines the skull and ear asymmetry in Tengmalm's owl, Aegolius funereus, and its relation to auditory localization. The owl's external ears are bilaterally asymmetrical, which suggests that vertical directional hearing is based on binaural comparison of signals from both ears. The ear asymmetry provides cues for vertical sound localization, and the owl's ability to detect low frequencies improves its far-range detection of sounds, such as rustling prey in vegetation.'
+scientific_discipline: Biology > Zoology

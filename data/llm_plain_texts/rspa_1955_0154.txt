@@ -1,0 +1,10 @@
+article_id: rspa_1955_0154
+revised_title: A Method for Estimating the Critical Load of a Braced Framework
+semantic_tags:
+  - Structural Engineering
+  - Truss Analysis
+  - Stability Criteria
+  - Slope-Deflection Method
+  - Beam Theory
+tldr: The author presents a method for estimating the critical load of a braced framework by replacing each triangle of the framework with a hypothetical member until only one member remains. The method uses the slope-deflection equation to determine the relationships between moments and rotations in the framework, allowing for the calculation of the critical load that just holds the structure stable.
+scientific_discipline: Engineering and Technology > Structural Engineering

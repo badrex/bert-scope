@@ -1,0 +1,10 @@
+article_id: rspa_1962_0195
+revised_title: Expansion Method for Atomic Properties Calculation
+semantic_tags:
+  - Atomic Physics
+  - Quantum Mechanics
+  - Perturbation Theory
+  - Atomic Properties
+  - Atomic Structure
+tldr: The authors present an expansion method for calculating atomic properties, focusing on the quadrupole polarizabilities and nuclear-shielding factors of helium and beryllium isoelectronic sequences. They analyze the accuracy of the methods and discuss the loss of accuracy when using simpler methods like the Sternheimer method. The study provides a better understanding of atomic properties and their perturbations.
+scientific_discipline: Physics > Atomic Physics

@@ -1,0 +1,10 @@
+article_id: rspl_1901_0015
+revised_title: Electrical Method for Estimating Seed Vitality
+semantic_tags:
+  - Seed vitality
+  - Electrical methods
+  - Plant physiology
+  - Germination
+  - Seed deterioration
+tldr: The author investigates the use of an electrical method called "blaze current" to estimate the vitality of seeds. They found that fresh seeds produce a strong blaze current, while boiled or deteriorated seeds do not. This method can be used to compare seed vitality and germination rates, potentially improving seed selection and agricultural practices.
+scientific_discipline: Biology and Life Sciences > Plant Biology

@@ -1,0 +1,10 @@
+article_id: 'rspa_1955_0091'
+revised_title: 'The Non-Central Wishart Distribution: A Mathematical Analysis'
+semantic_tags:
+  - Statistics
+  - Probability Theory
+  - Matrix Analysis
+  - Mathematical Statistics
+  - Orthogonal Group
+tldr: The article presents a mathematical analysis of the non-central Wishart distribution, a statistical concept that arises when independent observations have different means. The author, A. T. James, develops a method to evaluate the distribution using an integral over the orthogonal group and simplifies the expression for specific cases. This work expands upon previous research by Anderson and Wishart, and contributes to the understanding of non-central distributions in mathematical statistics.
+scientific_discipline: Mathematics > Statistics

@@ -1,0 +1,10 @@
+article_id: rspa_1955_0191
+revised_title: 'The Impact of Solid Boundaries on Aerodynamic Sound'
+semantic_tags:
+  - Aerodynamics
+  - Sound Generation
+  - Fluid Mechanics
+  - Acoustics
+  - Boundary Effects
+tldr: This article extends Lighthill's general theory of aerodynamic sound to include the influence of solid boundaries on the sound field. The effects of solid boundaries are twofold: reflexion and diffraction of sound waves at the boundaries, and the resultant dipole field at the boundaries, which are the limits of quadrupole distribution. The article shows that these effects are exactly equivalent to a distribution of dipoles representing the force with which unit area of solid boundary acts upon the fluid. It also demonstrates that the fundamental frequency of the dipole sound is one half of the frequency of the quadrupole sound.
+scientific_discipline: Physics > Fluid Mechanics

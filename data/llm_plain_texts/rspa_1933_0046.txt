@@ -1,0 +1,10 @@
+article_id: rspa_1933_0046
+revised_title: Hyperfine Structure of Rubidium Arc Spectrum Lines
+semantic_tags:
+  - Nuclear Physics
+  - Spectroscopy
+  - Isotopes
+  - Rubidium
+  - Hyperfine structure
+tldr: The authors investigated the hyperfine structure of the lines in the arc spectrum of rubidium using a high-resolution reflexion echelon grating. They discovered that each isotope of rubidium (Rb85 and Rb87) has its level split into two levels, with the two outer components of the resonance lines being weaker than the two inner components. This study provides insights into the nuclear moments and magnetic moments of rubidium isotopes.
+scientific_discipline: Physics > Nuclear Physics

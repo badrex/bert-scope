@@ -1,0 +1,10 @@
+article_id: rspa_1941_0085
+revised_title: 'Second Approximation to the Velocity of Diffusion in a Mixed Gas'
+semantic_tags:
+  - Gas diffusion
+  - Fluid dynamics
+  - Thermodynamics
+  - Kinetic theory
+  - Statistical mechanics
+tldr: The authors, S. Chapman and T. G. Cowling, explore the second approximation to the velocity of diffusion in a mixed gas. They develop a more complex equation that accounts for additional factors, such as gradients of composition, pressure, and temperature, and external forces acting on the gas molecules. The new equation adds nine terms to the expression for the velocity of diffusion, with each term involving a new "second order" diffusion coefficient. The authors also discuss the implications of their findings for the study of gases and the evaluation of diffusion coefficients.
+scientific_discipline: Physics > Fluid dynamics

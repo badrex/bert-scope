@@ -1,0 +1,10 @@
+article_id: rspa_1948_0045
+revised_title: 'A Theory of Anisotropic Metal Yielding and Plastic Flow'
+semantic_tags:
+  - Plasticity
+  - Anisotropy
+  - Metalworking
+  - Crystallography
+  - Material Science
+tldr: The authors develop a theory for the yielding and plastic flow of anisotropic metals, which takes into account the preferred orientation of crystal planes and directions in the metal. They propose a plastic potential function and apply it to experiments on metal strips cut from rolled sheet, predicting the elongation of the cups drawn from the sheet. The theory provides a better understanding of the macroscopic behavior of anisotropic metals and can help improve metalworking processes.
+scientific_discipline: Materials Science > Plasticity

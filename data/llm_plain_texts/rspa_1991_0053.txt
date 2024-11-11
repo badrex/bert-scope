@@ -1,0 +1,10 @@
+article_id: rspa_1991_0053
+revised_title: Bounds on Effective Conductivity of High Contrast Composites
+semantic_tags:
+  - Composite Materials
+  - Conductivity
+  - Heterogeneous Composites
+  - Microgeometry
+  - Analytic Functions
+tldr: The author investigates the effective conductivity of heterogeneous composites with high contrast in conductivity. They find bounds on the effective conductivity using complex variable methods and analyze the microgeometry of the composites. The results improve upon previous methods, especially for high contrast mixtures.
+scientific_discipline: Physics > Materials Science

@@ -1,0 +1,10 @@
+article_id: 'rspa_1938_0023'
+revised_title: 'Crystal Structure Analysis of Pentaerythritol Tetracetate'
+semantic_tags:
+  - Crystallography
+  - Pentaerythritol Tetracetate
+  - X-ray Diffraction
+  - Molecular Geometry
+  - Space Filling
+tldr: The authors used X-ray diffraction and Patterson synthesis to determine the crystal structure of pentaerythritol tetracetate. They found that the molecule lies in the unit cell with its arms inclined to the faces and that space-filling criteria were satisfied better with this arrangement. The study provides insights into the molecular geometry and structure of the compound.
+scientific_discipline: Chemistry > Crystallography

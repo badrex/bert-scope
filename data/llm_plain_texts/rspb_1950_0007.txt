@@ -1,0 +1,10 @@
+article_id: 'rspb_1950_0007'
+revised_title: 'Investigating Adaptive Changes in Bacteria: A Study on Growth and Mutation'
+semantic_tags:
+  - Bacterial adaptation
+  - Mutation
+  - Microbiology
+  - Enzyme systems
+  - Cellular growth
+tldr: This study examines the nature of adaptive changes in bacteria when exposed to new carbon or nitrogen sources. The authors investigate the proportion of cells that can grow in a new medium and the fate of those that do not. They discuss the two main hypotheses for these adaptive changes: mutation and the modification of internal structures within the cells.
+scientific_discipline: Biology and Life Sciences > Microbiology

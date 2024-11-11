@@ -1,0 +1,10 @@
+article_id: rsta_1962_0009
+revised_title: 'Vibrational Spectra of Spin-Degenerate Molecules: The Jahn-Teller Effect'
+semantic_tags:
+  - Jahn-Teller effect
+  - Vibrational spectra
+  - Spin-degenerate molecules
+  - Molecular symmetry
+  - Quantum chemistry
+tldr: This article explores the vibrational spectra of spin-degenerate molecules, focusing on the Jahn-Teller effect. It develops a physical theory to interpret these spectra and discusses the unique features of molecules with spin-degeneracy, such as Kramers degenerate molecules and tetrahedral and octahedral molecules in fourfold degenerate states. The article provides group-theoretical selection rules for infra-red and Raman spectra and considers the impact of vibronic coupling on these molecules.
+scientific_discipline: Physics > Quantum chemistry

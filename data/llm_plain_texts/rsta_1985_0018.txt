@@ -1,0 +1,10 @@
+article_id: rsta_1985_0018
+revised_title: 'Low-Dimensional Solids: Electrical and Magnetic Properties and Interactions'
+semantic_tags:
+  - Condensed Matter Physics
+  - Electrical Properties
+  - Magnetic Properties
+  - Low-Dimensional Materials
+  - Interactions in Solids
+tldr: This article discusses the electrical and magnetic properties of low-dimensional solids, focusing on the hierarchy of factors and the development of simplified models to understand their behavior. It explores inter- and intra-unit interactions, including electron transfer and localization, and the role of secondary factors such as electron-phonon couplings and electron-electron repulsions. The article highlights the complexity and variety of these compounds, leading to various crossover regimes and potential applications.
+scientific_discipline: Physics > Condensed Matter Physics

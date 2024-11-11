@@ -1,0 +1,10 @@
+article_id: rspa_1949_0009
+revised_title: Fluid Dynamics: Compressible Fluid Flow Around a Cylinder with Circulation
+semantic_tags:
+  - Fluid Dynamics
+  - Compressible Fluid Flow
+  - Aerodynamics
+  - Circulation
+  - Cylinder
+tldr: This article extends the study of compressible fluid flow past a cylinder, considering the case where the circulation around the cylinder is not zero. The author develops formulae for the case where the circulation is small enough for two stagnation points to exist on the cylinder's surface, with the speed at infinity being subsonic. The article provides explicit solutions for the flow around a slightly distorted circular cylinder and discusses the shape of the cylinder for larger values of circulation.
+scientific_discipline: Physics > Fluid Dynamics

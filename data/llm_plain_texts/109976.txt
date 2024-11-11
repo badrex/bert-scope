@@ -1,0 +1,10 @@
+article_id: '109976'
+revised_title: 'Determination of Pendulum Acceleration in Different Latitudes'
+semantic_tags:
+  - Geodesy
+  - Gravity
+  - Pendulum
+  - Latitude
+  - Earth's figure
+tldr: This paper describes experiments conducted to determine the acceleration of a pendulum in various latitudes. The author, Edward Sabine, used clocks and pendulums provided by the Royal Society and made observations during two voyages in search of a North-west Passage. The results showed the acceleration of the pendulum at different locations, which helped deduce the Earth's figure and the ellipticity caused by gravity's diminution from the pole to the equator.
+scientific_discipline: Earth Sciences > Geodesy

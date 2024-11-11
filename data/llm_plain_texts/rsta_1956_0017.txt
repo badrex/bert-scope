@@ -1,0 +1,10 @@
+article_id: rsta_1956_0017
+revised_title: Elastic Reinforcement in Thin Deformed Sheets
+semantic_tags:
+  - Elasticity
+  - Material Science
+  - Reinforcement
+  - Constraints
+  - Deformation
+tldr: The authors study the deformation of thin elastic sheets reinforced with inextensible cords. They introduce separate coordinate systems to describe the aeolotropic properties, systems of constraints, and stress distribution. The theory is developed for a general two-dimensional deformation of a thin plane sheet of reinforced elastic material, considering the effects of constraints and the distribution of stress. The results can be applied to rubberized fabrics or reinforced rubber sheets.
+scientific_discipline: Engineering and Technology > Material Science

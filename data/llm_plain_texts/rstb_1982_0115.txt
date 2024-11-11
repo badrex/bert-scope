@@ -1,0 +1,10 @@
+article_id: 'rstb_1982_0115'
+revised_title: 'Interferon's Effect on Macrophage Morphology and Surface Antigens'
+semantic_tags:
+  - Interferon
+  - Macrophages
+  - Cell Biology
+  - Surface Antigens
+  - HLA
+tldr: This article investigates the impact of interferon on the morphology and surface antigens of mouse peritoneal macrophages. The study found that interferon enhances macrophage spreading and increases the surface area of macrophages. Additionally, it was discovered that interferon increases the expression of HLA-A, B, and G surface antigens in human cell lines. The results support the idea that interferon activates macrophages and influences their surface properties.
+scientific_discipline: Biology and Life Sciences > Cell Biology

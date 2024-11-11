@@ -1,0 +1,10 @@
+article_id: rspa_1994_0058
+revised_title: Monodromic Systems and Affine Flag Manifolds in Coxeter Groups
+semantic_tags:
+  - Coxeter Groups
+  - Affine Geometry
+  - Monodromic Systems
+  - Affine Weyl Groups
+  - Algebraic Combinatorics
+tldr: This article explores monodromic systems and their role in the study of affine flag manifolds within the context of Coxeter groups. The author explains the need for the 'dual' affine Weyl group and the use of monodromic systems in non-simply laced cases. The paper contributes to the program of expressing the characters of irreducible modular representations of semisimple groups in terms of combinatorics of affine Hecke algebras.
+scientific_discipline: Mathematics > Algebraic Combinatorics

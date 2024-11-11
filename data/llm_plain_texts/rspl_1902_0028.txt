@@ -1,0 +1,10 @@
+article_id: rspl_1902_0028
+revised_title: 'Effects of Land and Atmospheric Conditions on Wireless Telegraphy'
+semantic_tags:
+  - Wireless Telecommunications
+  - Electromagnetic Waves
+  - Atmospheric Effects
+  - Signal Transmission
+  - Marine Communications
+tldr: The author conducted experiments to study the impact of land and atmospheric conditions on the transmission of wireless telegraphy signals. They found that land, its thickness, contour, height, and nature significantly reduce the maximum distance of signaling. The author also observed that the curvature of the Earth has no effect on the signals at the distances covered in their experiments.
+scientific_discipline: Engineering and Technology > Telecommunications

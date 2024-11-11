@@ -1,0 +1,10 @@
+article_id: rsta_1965_0053
+revised_title: Day-to-Night Variation in Air Density and its Effect on Satellite Orbits
+semantic_tags:
+  - Satellite Orbits
+  - Air Drag
+  - Atmospheric Density
+  - Spacecraft Dynamics
+  - Aerospace Engineering
+tldr: This article investigates the impact of day-to-night variation in air density on satellite orbits. The authors extend the theory of satellite orbit contraction due to air drag to include an atmosphere with varying air density, depending on the elevation of the Sun. They derive equations for perigee distance, orbital period, and eccentricity variation throughout the satellite's life, as well as expressions for lifetime and air density at perigee. The study is relevant to satellite orbits with perigee heights between 160 and 1000 km and eccentricities less than 0.2.
+scientific_discipline: Engineering and Technology > Aerospace Engineering

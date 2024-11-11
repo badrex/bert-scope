@@ -1,0 +1,10 @@
+article_id: rspa_1968_0102
+revised_title: Classification and Analysis of Hartree-Fock Integro-Differential Equations
+semantic_tags:
+  - Quantum Chemistry
+  - Atomic Physics
+  - Hartree-Fock Method
+  - Integro-Differential Equations
+  - Perturbation Theory
+tldr: The article classifies Hartree-Fock integro-differential equations into four types based on the restrictions imposed on them. It establishes proper orthogonality conditions for perturbation expansions and examines the status of these equations in atomic physics, particularly for helium-like ions. The article also discusses the advantages and disadvantages of each type of equation and their applications in quantum chemistry.
+scientific_discipline: Physics > Atomic Physics

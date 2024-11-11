@@ -1,0 +1,11 @@
+article_id: rspa_1974_0110
+revised_title: Bond Charge Model of Lattice Dynamics in Diamond and Silicon
+semantic_tags:
+  - Lattice Dynamics
+  - Diamond
+  - Silicon
+  - Bond Charge Model
+  - Phonon Spectra
+  - X-ray Scattering
+tldr: The authors apply a bond charge model to diamond and silicon, finding good results for phonon and X-ray scattering spectra. They discuss the atomic and bond charge distributions, and the model's potential for further development and accuracy in curve fitting.
+scientific_discipline: Physics > Condensed Matter Physics

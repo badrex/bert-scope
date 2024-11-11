@@ -1,0 +1,10 @@
+article_id: 110486
+revised_title: 'Investigations on the Number of Magnetic Needle Positions and the Curve of Verticity'
+semantic_tags:
+  - Terrestrial Magnetism
+  - Magnetic Needle
+  - Geometrical Investigations
+  - Magnetic Equator
+  - Angular System
+tldr: This article investigates the number of points at which a magnetic needle can take a vertical position on Earth's surface. The author demonstrates that there are always two points and never more than two. The study also examines the curve of verticity and its properties, providing insights into the magnetic curve and its relationship with the curve of verticity.
+scientific_discipline: Environmental and Earth Sciences > Geomagnetism

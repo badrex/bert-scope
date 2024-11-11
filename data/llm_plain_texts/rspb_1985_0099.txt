@@ -1,0 +1,10 @@
+article_id: 'rspb_1985_0099'
+revised_title: 'Permeability of Heterocysts to Gases: Nitrogen and Oxygen'
+semantic_tags:
+  - Cyanobacteria
+  - Nitrogen fixation
+  - Gas permeability
+  - Heterocyst envelope
+  - Oxygen protection
+tldr: The study investigates the permeability of cyanobacterial heterocysts to nitrogen and oxygen, which is crucial for maintaining an anaerobic environment for nitrogen fixation. The research demonstrates a method to measure the rate of gas pressure rise required to collapse gas vacuoles in heterocysts, revealing that the permeability coefficient of heterocysts is suitable for both nitrogen entry and oxygen protection. The findings suggest that the heterocyst envelope may provide the necessary gas permeability to support nitrogen fixation and prevent oxygen from reaching the nitrogenase site.
+scientific_discipline: Biology and Life Sciences > Microbiology

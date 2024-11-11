@@ -1,0 +1,10 @@
+article_id: rspa_1969_0054
+revised_title: 'Viscoelastic Properties of Polyethylacrylates and Poly-n-butylacrylates'
+semantic_tags:
+  - Polymer Chemistry
+  - Viscoelasticity
+  - Polymer Relaxation
+  - Polymer Molecular Weight
+  - Polymer Rheology
+tldr: This study investigates the viscoelastic properties of four polyethylacrylates and four poly-n-butylacrylates. The authors found that the limiting high-frequency elastic compliance is independent of molecular weight and varies linearly with temperature. The results are interpreted using a combination of relaxation processes, including Rouse modes of motion along the polymer chain and a high-frequency relaxation process similar to that observed in supercooled non-polymeric liquids. The polymer modes contribute significantly to the steady-flow viscosity, while the high-frequency relaxation process is responsible for the limiting high-frequency shear modulus.
+scientific_discipline: Chemistry > Polymer Chemistry

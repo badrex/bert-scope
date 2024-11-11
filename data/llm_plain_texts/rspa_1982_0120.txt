@@ -1,0 +1,10 @@
+article_id: rspa_1982_0120
+revised_title: Nonlinear Propagation of Acoustic Noise: Corrections to Rudenko and Soluyan's Spectrum
+semantic_tags:
+  - Acoustics
+  - Nonlinear Waves
+  - Shock Waves
+  - Noise Propagation
+  - Fluid Dynamics
+tldr: This article investigates the nonlinear propagation of high-intensity acoustic noise, assuming a smooth Gaussian output source and a lossless medium. The authors find that the noise spectrum derived by Rudenko and Soluyan is incorrect due to the presence of shocks. However, for small ranges, the authors show that the Rudenko and Soluyan spectrum is valid at lower frequency ranges. They also derive a correction to the spectrum at all frequencies for small ranges, which has a universal functional form. The authors discuss the transition from the Rudenko and Soluyan spectrum to the spectrum typical of a waveform containing shocks.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1953_0107
+revised_title: 'Molecular Orbital Theory of Chemical Valency: Paired Electrons in the Presence of Two Unlike Attracting Centers'
+semantic_tags:
+  - Molecular Orbital Theory
+  - Chemical Bonding
+  - Diatomic Molecules
+  - Attracting Centers
+  - Perturbation Theory
+tldr: The authors developed a theory of paired electrons in the presence of two unlike attracting centers, as a step towards understanding chemical bonds in diatomic molecules with unlike atoms. They expressed the asymmetric field of two unequal attracting centers as the sum of two fields, one symmetrical and the other antisymmetrical. They used a perturbation method to calculate the effect of the antisymmetric field on the wave functions and energies of two electrons in the symmetrical part of the field.
+scientific_discipline: Chemistry > Molecular Orbital Theory

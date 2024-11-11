@@ -1,0 +1,10 @@
+article_id: rspa_1949_0016
+revised_title: 'Theoretical Considerations on the Dynamic Properties of Plastics'
+semantic_tags:
+  - Polymer Physics
+  - Viscoelasticity
+  - Dielectric Hysteresis
+  - Plastic Materials
+  - Stress-Strain Relationship
+tldr: The authors explore the mechanical behavior of plastics and their similarity to the electrical behavior of certain dielectrics. They develop a general stress-strain relationship for plastic materials and discuss the transmission and reflection of sound in plastic plates. The study also considers the effect of absorption on departures from Rayleigh's theory and reports limited experimental data.
+scientific_discipline: Physics > Materials Science

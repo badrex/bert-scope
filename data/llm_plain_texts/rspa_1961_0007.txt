@@ -1,0 +1,10 @@
+article_id: rspa_1961_0007
+revised_title: 'A Simple Formula for Optical Rotatory Dispersion of Quartz'
+semantic_tags:
+  - Crystallography
+  - Optical Properties
+  - Quartz
+  - Optical Rotatory Power
+  - Dispersion
+tldr: The author presents a simple formula for the optical rotatory dispersion of quartz, accurately representing the range of data from the visible to the remote ultra-violet spectrum. The formula involves only two constants and provides a better fit for the observed rotatory powers compared to previous formulae. The author also discusses the applicability of the formula to other optically active crystals like sodium chlorate, cinnabar, and benzil.
+scientific_discipline: Physics > Crystallography

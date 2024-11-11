@@ -1,0 +1,10 @@
+article_id: 105678
+revised_title: Observations of Venus and Sun Internal Contact During Transit
+semantic_tags:
+  - Astronomy
+  - Celestial Mechanics
+  - Parallax
+  - Transit of Venus
+  - Time Measurement
+tldr: In 1761, the Royal Society organized observations of the transit of Venus to study the Sun's parallax. James Short and other observers measured the time of the internal contact of Venus with the Sun's limb at various locations. By comparing these observations, they determined the Sun's parallax, which is the apparent change in the position of the Sun due to the Earth's position. This information helped improve the accuracy of longitude measurements and contributed to our understanding of the solar system.
+scientific_discipline: Astronomy > Celestial Mechanics

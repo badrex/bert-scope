@@ -1,0 +1,10 @@
+article_id: rsta_1966_0024
+revised_title: Tidal Spectroscopy and Prediction: A New Approach to Analyzing Tide Records
+semantic_tags:
+  - Tidal analysis
+  - Time series analysis
+  - Oceanography
+  - Geophysics
+  - Tidal prediction
+tldr: The authors analyze 19 years of hourly tide readings from Honolulu and Newlyn without astronomical prejudice, allowing for background noise. They propose a new method of tidal prediction that differs from the classical harmonic method, leading to slightly greater precision with fewer tidal constants. This new approach can better account for the continuum, non-gravitational tides, and nonlinear interactions in tide records.
+scientific_discipline: Earth Sciences > Oceanography

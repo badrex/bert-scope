@@ -1,0 +1,10 @@
+article_id: rspa_1989_0133
+revised_title: Generalizing Products of Distributions with Neutrix Limits
+semantic_tags:
+  - Distribution theory
+  - Neutrix calculus
+  - Mathematical physics
+  - Functional analysis
+  - Quantum electrodynamics
+tldr: The authors extend the concept of products of distributions by introducing neutrix limits, which help extract finite parts from divergent sequences. They provide a generalization of the product of distributions on ℝ with the neutrix product, enabling further applications in mathematical physics and functional analysis.
+scientific_discipline: Mathematics > Functional Analysis

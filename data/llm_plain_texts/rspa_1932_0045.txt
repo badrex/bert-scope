@@ -1,0 +1,10 @@
+article_id: 'rspa_1932_0045'
+revised_title: 'Eigenfunctions for Electronic Vibrational Intensity Calculations'
+semantic_tags:
+  - Quantum Mechanics
+  - Molecular Physics
+  - Vibrational Spectroscopy
+  - Eigenfunctions
+  - Electronic States
+tldr: The authors develop a method for calculating electronic vibrational intensities using eigenfunctions. They discuss the significance of the parameter and the importance of correct energy terms for accurate calculations. The method is applicable to a range of molecular systems and can be used to determine the first few eigenfunctions in the region of large values.
+scientific_discipline: Physics > Quantum Mechanics

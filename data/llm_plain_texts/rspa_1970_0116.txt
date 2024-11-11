@@ -1,0 +1,10 @@
+article_id: rspa_1970_0116
+revised_title: A New Formulation of the Classical Theory of Lattice Dynamics
+semantic_tags:
+  - Lattice Dynamics
+  - Crystallography
+  - Solid State Physics
+  - Quantum Mechanics
+  - Atomic Interactions
+tldr: The author presents a new approach to the classical theory of lattice dynamics, which corrects and expands upon previous methods. By introducing a new set of configuration-dependent potential functions, the author's approach better aligns with quantum theoretical results and provides a deeper understanding of atomic interactions in lattice systems.
+scientific_discipline: Physics > Solid State Physics

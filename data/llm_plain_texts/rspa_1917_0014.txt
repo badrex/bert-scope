@@ -1,0 +1,10 @@
+article_id: rspa_1917_0014
+revised_title: 'Application of Probability Theory to A Priori Pathometry'
+semantic_tags:
+  - Epidemiology
+  - Probability Theory
+  - Disease Transmission
+  - Population Growth
+  - Epidemic Modeling
+tldr: The authors apply the theory of probabilities to study a priori pathometry, focusing on disease transmission and population growth. They develop equations to calculate daily and yearly rates of disease, death, and reversion, and discuss the implications of these rates on epidemic modeling and public health.
+scientific_discipline: Social Sciences > Epidemiology

@@ -1,0 +1,10 @@
+article_id: rsta_1991_0032
+revised_title: Surface Electronic Structure and External Electric Fields in Solids
+semantic_tags:
+  - Surface properties
+  - Electric field effects
+  - Density functional theory
+  - Electronic structure
+  - Surface reconstruction
+tldr: This article reviews recent calculations on the effect of an external electric field on surface electronic properties in solids, focusing on the embedding method for solving the Schrödinger equation at the surface. The author discusses the shape of the screening charge and its field dependence, comparing results with experiments that determine the image plane. The article also explores the forces on surface atoms in the presence of a field and the concept of effective charges, which can lead to surface instability.
+scientific_discipline: Physics > Condensed Matter Physics

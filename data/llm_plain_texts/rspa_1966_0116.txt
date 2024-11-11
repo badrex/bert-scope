@@ -1,0 +1,10 @@
+article_id: rspa_1966_0116
+revised_title: Radiation Coordinates in General Relativity: A Summary
+semantic_tags:
+  - General Relativity
+  - Gravitational Waves
+  - Space-Time Metrics
+  - Coordinate Conditions
+  - Minkowskian Metrics
+tldr: This article introduces radiation coordinates, a system of coordinates that simplifies the equations of null cones in general relativity. The authors define radiation coordinates using a timelike curve and an orthonormal tetrad assigned along the curve. They demonstrate that the equations of null cones and null geodesics can be simplified using these coordinates, which may be useful in discussing problems related to gravitational radiation.
+scientific_discipline: Physics > General Relativity

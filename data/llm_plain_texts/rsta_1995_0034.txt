@@ -1,0 +1,10 @@
+article_id: 'rsta_1995_0034'
+revised_title: 'Isoprene Emission and Atmospheric Chemistry in Deciduous Forests'
+semantic_tags:
+  - Biogenic Emissions
+  - Isoprene
+  - Atmospheric Chemistry
+  - Forest Ecology
+  - Micrometeorology
+tldr: This study investigates the exchange of trace gases, specifically isoprene, between land and atmosphere in a deciduous hardwood forest. Isoprene, emitted by certain plant species, plays a role in the chemistry of the troposphere as it is oxidized by the hydroxyl radical, contributing to the production of ozone. The research focuses on the biological, chemical, and physical processes that control isoprene production, emission, and atmospheric lifetime. The authors found that emission rates of isoprene can be predicted by an algorithm that depends on light energy and leaf temperature, and they developed a canopy micrometeorological model to scale isoprene fluxes from the leaf to the canopy level.
+scientific_discipline: Environmental and Earth Sciences > Biogeochemistry

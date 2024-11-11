@@ -1,0 +1,10 @@
+article_id: rspa_1961_0182
+revised_title: 'Triplet State Energy Transfer in Organic Molecules'
+semantic_tags:
+  - Energy Transfer
+  - Triplet State
+  - Organic Chemistry
+  - Photochemistry
+  - Quenching Mechanisms
+tldr: The authors conducted flash photolysis studies on various organic molecules to investigate energy transfer from the triplet state. They observed energy transfer between donor-acceptor pairs and established that complex formation between the molecules was not significant. The study provides evidence for the role of the triplet state in energy transfer processes and the mechanisms of quenching.
+scientific_discipline: Chemistry > Organic Chemistry

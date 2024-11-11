@@ -1,0 +1,10 @@
+article_id: 111301
+revised_title: 'Figure, Dimensions, and Mean Specific Gravity of the Earth from the Ordnance Trigonometrical Survey'
+semantic_tags:
+  - Geodesy
+  - Trigonometry
+  - Earth's figure
+  - Earth's specific gravity
+  - Surveying
+tldr: This article discusses the results of the Ordnance Trigonometrical Survey of Great Britain and Ireland, which helped determine the Earth's figure, dimensions, and mean specific gravity. The survey used triangulation methods to create accurate maps and calculate the Earth's size and shape. The author also compares different methods of measuring the Earth's specific gravity and discusses the importance of using a standard yard for geodetic measurements.
+scientific_discipline: Earth Sciences > Geodesy

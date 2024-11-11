@@ -1,0 +1,10 @@
+article_id: 111654
+revised_title: Electrical Phenomena in Muscle Contraction
+semantic_tags:
+  - Electrophysiology
+  - Muscle physiology
+  - Neuromuscular junction
+  - Electromyography
+  - Muscle contraction
+tldr: The author, C. Matteucci, conducted experiments on the electrical phenomena accompanying muscle contraction. They discovered that during muscle contraction, there is an instantaneous electrical discharge in a contrary direction to the relaxed muscle's current. This finding challenges M. du Bois-Reymond's theory that the electrical phenomena are due to the momentary predominance of currents from the polarization of the electrodes. The author also provides a detailed experimental setup and apparatus for replicating these experiments.
+scientific_discipline: Biology and Life Sciences > Muscle Physiology

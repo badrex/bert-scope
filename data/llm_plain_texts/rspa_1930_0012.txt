@@ -1,0 +1,10 @@
+article_id: rspa_1930_0012
+revised_title: 'Infra-red Investigations of Molecular Structure - Part IV: The Overtone of Nitric Oxide'
+semantic_tags:
+  - Molecular spectroscopy
+  - Nitric oxide
+  - Overtone
+  - Vibration-rotation spectrum
+  - Anharmonic oscillator
+tldr: The authors detected and partially resolved the overtone of nitric oxide, confirming the general scheme of the vibration-rotation spectrum of diatomic molecules. They found that the NO overtone consists of branches and is of the same general character as the fundamental. The molecular constants were evaluated, and the ratio of the intensities of the overtone and fundamental was compared with theoretical values.
+scientific_discipline: Chemistry > Molecular spectroscopy

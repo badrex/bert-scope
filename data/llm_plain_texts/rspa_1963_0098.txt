@@ -1,0 +1,10 @@
+article_id: rspa_1963_0098
+revised_title: Long-Wave Propagation in Media with Variable Refractive Index
+semantic_tags:
+  - Wave mechanics
+  - Electromagnetic waves
+  - Long-wave approximation
+  - Differential equations
+  - Refraction
+tldr: The authors develop a method to study the propagation of long waves in media with variable refractive index, focusing on one-dimensional cases. They use a long-wave approximation to solve the wave equation and find the reflexion and transmission coefficients for various scenarios, including step functions and hyperbolic functions. This method can be applied to wave mechanics, optics, radio waves, sound waves, and other related fields.
+scientific_discipline: Physics > Electromagnetism

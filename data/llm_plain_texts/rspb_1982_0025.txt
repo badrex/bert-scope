@@ -1,0 +1,10 @@
+article_id: 'rspb_1982_0025'
+revised_title: 'Biochemical and Genetic Approaches to the Study of Bioenergetics in Escherichia coli'
+semantic_tags:
+  - Bioenergetics
+  - Escherichia coli
+  - Oxidative phosphorylation
+  - ATP synthesis
+  - ATPase
+tldr: The author discusses the biochemical and genetic approaches to studying bioenergetics in Escherichia coli, focusing on oxidative phosphorylation and the role of adenosine triphosphate (ATP) in cellular energy production. They describe the isolation and characterization of mutants affected in oxidative phosphorylation and the relationships between different genes and components of the ATPase. The author highlights the progress made in understanding the assembly, control, and function of the ATP synthesizing system.
+scientific_discipline: Biology and Life Sciences > Genetics and Molecular Biology

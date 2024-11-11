@@ -1,0 +1,10 @@
+article_id: rspa_1964_0238
+revised_title: Energy and Momentum in General Relativity: A New Approach to 4-Momentum
+semantic_tags:
+  - General Relativity
+  - Gravitational Field Equations
+  - Energy-Momentum Tensor
+  - Conservation Equations
+  - Asymptotically Flat Space-Time
+tldr: The author presents a new method to derive a class of pseudo-tensor conservation equations in general relativity, including those by Einstein and Landau & Lifshitz. When space-time is asymptotically flat, the conservation equations are cast into tensor form, and invariant integral conservation laws are derived. These laws suggest possible definitions of the 4-momentum of a system in terms of four invariant integrals, which can be used to distinguish between radiating and non-radiating systems. The Landau-Lifshitz conservation equation is considered more useful due to its symmetry, leading to further invariants related to angular momentum.
+scientific_discipline: Physics > General Relativity

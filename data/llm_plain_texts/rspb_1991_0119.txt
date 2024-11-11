@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0119'
+revised_title: 'Optimal Brood Size in Self-Fertilizing Nematodes'
+semantic_tags:
+  - Population Growth
+  - Nematode Biology
+  - Self-Fertilization
+  - Life History Theory
+  - Optimal Brood Size
+tldr: 'The study investigates the relationship between brood size and population growth in the self-fertilizing nematode Caenorhabditis elegans. It discovers that increasing brood size is not advantageous for the species, as it leads to a delay in the onset of oogenesis and an increase in the minimum generation time. The research supports the idea of an optimal brood size, as different natural isolates of the species have similar self-fertilities.'
+scientific_discipline: Biology and Life Sciences > Population Biology

@@ -1,0 +1,10 @@
+article_id: rsta_1967_0038
+revised_title: Determination of Earth's Gravitational Field from Satellite Orbits
+semantic_tags:
+  - Satellite Orbits
+  - Gravitational Field
+  - Spherical Harmonics
+  - Orbital Analysis
+  - Geophysics
+tldr: The authors discuss the methods and results of determining the Earth's gravitational field from satellite orbits. They explore the structure of orbital theories, the use of Hamiltonian equations, and the transformation of variables to better understand the departures from a simple orbit. The study focuses on the potential of the Earth and the small departures from a point mass, which are of great interest in geophysics and geodesy.
+scientific_discipline: Physics > Geophysics

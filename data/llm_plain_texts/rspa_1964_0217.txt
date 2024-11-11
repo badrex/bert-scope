@@ -1,0 +1,10 @@
+article_id: rspa_1964_0217
+revised_title: 'Ultimate Tensile Properties of Elastomers and Their Structure'
+semantic_tags:
+  - Polymer Science
+  - Elastomers
+  - Mechanical Properties
+  - Cross-Linked Polymers
+  - Stress-Strain Behavior
+tldr: This article discusses the ultimate tensile properties of elastomers and how they are affected by their structure. The author presents a method to characterize these properties using a failure envelope, which is independent of test temperatures and stress-strain-time history. The study focuses on various factors that influence the tensile stress-at-break and the ultimate extension ratio of elastomers, providing insights into the behavior of polymeric networks under large deformations.
+scientific_discipline: Chemistry > Polymer Science

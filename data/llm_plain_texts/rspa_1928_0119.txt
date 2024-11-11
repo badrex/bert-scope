@@ -1,0 +1,10 @@
+article_id: rspa_1928_0119
+revised_title: 'Investigating the Dependence of Photographic Action on Beta-Ray Velocity'
+semantic_tags:
+  - Photographic action
+  - Beta-rays
+  - Velocity dependence
+  - X-ray emulsion
+  - Ionization
+tldr: This article investigates the relationship between the photographic action of beta-rays and their velocity. The authors found that the photographic action varies more rapidly than 1/v^2 in the region of 200,000 volts and above. This research helps in understanding the efficiency of photographic plates in detecting high-speed electrons and comparing the intensities of electronic beams.
+scientific_discipline: Physics > Electromagnetism

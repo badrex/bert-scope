@@ -1,0 +1,10 @@
+article_id: 'rspb_1928_0029'
+revised_title: 'Myothermic Apparatus: Techniques for Measuring Muscle Heat Production'
+semantic_tags:
+  - Muscle Physiology
+  - Heat Production
+  - Thermometry
+  - Muscle Metabolism
+  - Biophysics
+tldr: The author describes the development of a myothermic apparatus to accurately measure the heat production of muscles under anaerobic conditions. The apparatus allows for precise readings of resting heat production, recovery heat production, and the total heat produced during muscle contractions. This innovative method provides a better understanding of muscle metabolism and energy exchanges.
+scientific_discipline: Biology and Life Sciences > Muscle Physiology

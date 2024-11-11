@@ -1,0 +1,10 @@
+article_id: rsta_1955_0003
+revised_title: Thermal Conductivity of Metals at Low Temperatures
+semantic_tags:
+  - Thermal conductivity
+  - Low temperature physics
+  - Metals
+  - Superconductors
+  - Heat conductivity
+tldr: This article presents an experimental study on the thermal conductivity of 32 metals at low temperatures. The research aimed to collect data to understand the heat conductivity of metals at low temperatures and provide insights for theoretical improvements. The thermal conductivity measurements were made on metal samples in the form of rods, and the results showed that the thermal resistance of nearly all metals at low temperatures is of the lattice type. The study also investigated the effect of high magnetic fields on the thermal conductivity of metals in the normal state.
+scientific_discipline: Physics > Solid State Physics

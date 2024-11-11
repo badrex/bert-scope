@@ -1,0 +1,10 @@
+article_id: 111002
+revised_title: 'Interference of Light: A New Case and Its Applications'
+semantic_tags:
+  - Wave Optics
+  - Interference
+  - Refraction
+  - Wave Theory
+  - Crystal Optics
+tldr: The author, Baden Powell, describes a new case of interference of light through a prism filled with various substances. This phenomenon can be explained using the wave theory of light and can be applied to determine the indices of substances that are difficult to form into prisms. The method also helps in detecting the slightest degree of double refraction, which can be useful for mineralogists. The author mentions a connection with previous research by other scientists and acknowledges the extensive research by Mr. Stokes on this topic.
+scientific_discipline: Physics > Optics

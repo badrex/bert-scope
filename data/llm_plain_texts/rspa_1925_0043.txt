@@ -1,0 +1,10 @@
+article_id: 'rspa_1925_0043'
+revised_title: 'Wireless Waves Direction Determination and Ground Conductivity'
+semantic_tags:
+  - Wireless Waves
+  - Ground Conductivity
+  - Electromagnetic Fields
+  - Boundary Conditions
+  - Directional Measurements
+tldr: The authors conducted experiments to determine the directions of forces in wireless waves at the Earth. They investigated the effect of ground conductivity on directional measurements and found that the resultant fields at the surface tend to have the same direction in space, regardless of the polarization and inclination of the component waves.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0151'
+revised_title: 'Role of Extraocular Muscle Afferents in Modifying Electromyogram During Vestibulo-Ocular Reflex'
+semantic_tags:
+  - Oculomotor Control
+  - Vestibulo-Ocular Reflex
+  - Extraocular Muscle Afferents
+  - Electromyogram
+  - Pigeon
+tldr: The study investigates the impact of afferent signals from extraocular muscles on the electromyogram of these muscles during the vestibulo-ocular reflex in pigeons. The results show that the activity of the extraocular muscles, as reflected in the electromyogram, is modified depending on the parameters of imposed eye movements. This suggests that afferent signals from extraocular muscles play a role in controlling the vestibulo-ocular reflex from moment to moment.
+scientific_discipline: Biology and Life Sciences > Neuroscience

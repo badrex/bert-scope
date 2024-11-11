@@ -1,0 +1,10 @@
+article_id: 'rsta_1909_0016'
+revised_title: 'Functions of Positive and Negative Type and Their Connection to Integral Equations'
+semantic_tags:
+  - Integral Equations
+  - Function Theory
+  - Quadratic Forms
+  - Symmetric Functions
+  - Mathematical Analysis
+tldr: The author explores the properties of functions of positive and negative type and their connection to integral equations. They classify continuous symmetric functions into three categories: ambiguous type, positive type, and negative type. The author also demonstrates that functions of positive or negative type can be expanded as a series of products of normal functions, and that this series converges both absolutely and uniformly.
+scientific_discipline: Mathematics > Function Theory

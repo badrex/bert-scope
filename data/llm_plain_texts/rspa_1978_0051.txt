@@ -1,0 +1,10 @@
+article_id: rspa_1978_0051
+revised_title: The Effect of External Forcing on the Stability of Plane Poiseuille Flow
+semantic_tags:
+  - Fluid Dynamics
+  - Stability Theory
+  - Poiseuille Flow
+  - Boundary Layer
+  - Resonance
+tldr: The authors investigate the effect of external forcing on the stability of plane Poiseuille flow, specifically focusing on the case where one boundary is replaced by a wavelike motion. They find that the presence of forcing can change the critical Reynolds number and generate subcritical stable finite amplitude perturbations to the flow. This contrasts with the unforced case, where only the zero amplitude solution is stable.
+scientific_discipline: Physics > Fluid Dynamics

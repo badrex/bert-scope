@@ -1,0 +1,10 @@
+article_id: rspa_1992_0095
+revised_title: 'Thermal Elastic Stresses in Plates: Centre of Dilatation and Applications'
+semantic_tags:
+  - Elasticity
+  - Thermal stresses
+  - Centre of dilatation
+  - Galerkin vectors
+  - Inclusions
+tldr: The authors present a method to calculate the thermal elastic field in a plate using the concept of centres of dilatation and Galerkin vectors. They apply this method to find the stresses and deformations in a plate with an expanding or contracting inclusion of any shape. The results are useful for understanding and designing structures in various applications, such as ships, aircraft, space structures, and machine parts.
+scientific_discipline: Engineering and Technology > Mechanics of Materials

@@ -1,0 +1,10 @@
+article_id: rspa_1946_0026
+revised_title: Ionization of Helium by Neutral Helium Atoms: Activation Energy
+semantic_tags:
+  - Atomic Collisions
+  - Ionization
+  - Helium
+  - Activation Energy
+  - Neutral Atoms
+tldr: The authors investigated the ionization of helium by neutral helium atoms and found that ionization begins when the kinetic energy of the bombarding atoms is twice the minimum energy required for electrons to ionize helium. They used a sensitive detecting instrument and controlled the kinetic energy of the neutral helium atoms to study the effects of atomic collisions.
+scientific_discipline: Physics > Atomic and Molecular Physics

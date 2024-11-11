@@ -1,0 +1,10 @@
+article_id: rspa_1948_0057
+revised_title: 'Investigation of Thermal Etching and Striations in Silver'
+semantic_tags:
+  - Materials Science
+  - Surface Science
+  - Metallography
+  - Grain Boundaries
+  - Thermal Etching
+tldr: The authors conducted experiments on the thermal etching of silver and observed the formation of grain boundary grooves and striations on heated metal specimens. They found that grooves form at grain boundaries at low temperatures, and striations appear at higher temperatures in the presence of oxygen. The authors suggest that surface migration of ions and evaporation of silver oxide molecules play major roles in the formation of striations. Previous theories on thermal etching were found inadequate, and a new theory based on the reduction of surface free energy is proposed.
+scientific_discipline: Materials Science > Metallography

@@ -1,0 +1,10 @@
+article_id: 110185
+revised_title: 'Improving Microscope Resolution with a Microscopic Doublet'
+semantic_tags:
+  - Microscopy
+  - Optics
+  - Telescope design
+  - Lens design
+  - Aberration correction
+tldr: The author, William Hyde Wollaston, developed a microscope doublet that improves resolution and reduces chromatic and spherical aberration. The doublet consists of two plano-convex lenses with their plane sides facing the object, and it can be adjusted to produce the best image. This microscope allows for better examination of small details, such as the scales of insects, and does not require a fluid medium for observation.
+scientific_discipline: Physics > Optics

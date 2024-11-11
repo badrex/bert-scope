@@ -1,0 +1,10 @@
+article_id: rspa_1980_0130
+revised_title: 'Advanced Analysis of Axisymmetric Boundary Layer on a Long Thin Cylinder'
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Laminar Flow
+  - Cylinder Aerodynamics
+  - Series Expansion
+tldr: The article investigates the axisymmetric laminar boundary layer formed when a uniform stream flows along a long thin cylinder. The author calculates the skin friction and displacement area using an extended series expansion method, providing accurate results for a wide range of values. The analysis improves upon previous methods, offering increased accuracy and a more comprehensive understanding of the boundary layer's behavior.
+scientific_discipline: Engineering and Technology > Fluid Dynamics

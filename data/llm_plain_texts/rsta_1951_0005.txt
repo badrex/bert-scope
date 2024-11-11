@@ -1,0 +1,10 @@
+article_id: rsta_1951_0005
+revised_title: Strain Distribution and Deformation in Isotropic Materials with a Hole
+semantic_tags:
+  - Elasticity
+  - Material Science
+  - Rubber Properties
+  - Stress Distribution
+  - Strain Analysis
+tldr: This article studies the deformation of a thin circular sheet of incompressible, highly elastic material containing a central hole. The authors calculate the stress distribution and strain around the hole using a mathematical theory and compare the results with experimental data from a vulcanized natural rubber compound. The findings can be applied to understanding the behavior of materials like rubber under stress.
+scientific_discipline: Engineering and Technology > Material Science

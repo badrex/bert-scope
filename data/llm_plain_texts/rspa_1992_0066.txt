@@ -1,0 +1,10 @@
+article_id: rspa_1992_0066
+revised_title: 'Discrete Inequalities, Orthogonal Polynomials, and the Spectral Theory of Difference Operators: Applications to Classical Orthogonal Polynomials'
+semantic_tags:
+  - Difference equations
+  - Orthogonal polynomials
+  - Hellinger-Nevanlinna function
+  - Spectral theory
+  - Hamburger moment problem
+tldr: This article investigates a class of series inequalities associated with a three-term recurrence relation, including Copson's inequality. The authors explore the properties of the Hellinger-Nevanlinna function and its connections with orthogonal polynomials and the Hamburger moment problem. They apply these findings to analyze examples of the series inequalities related to classical orthogonal polynomials of Hermit, Laguerre, and Legendre.
+scientific_discipline: Mathematics > Analysis

@@ -1,0 +1,10 @@
+article_id: rspa_1977_0170
+revised_title: Elastic Constants and Long Wavelength Acoustic Waves
+semantic_tags:
+  - Elasticity
+  - Acoustic waves
+  - Crystal dynamics
+  - Tensor analysis
+  - Solid-state physics
+tldr: The authors derive expressions for the elastic constants of non-piezoelectric crystals by considering the change in energy density when the crystal is subjected to uniform strain. They show that in the long wave limit, the phase velocities of acoustic waves are governed by the elastic constants, which is equivalent to the continuous elasticity theory. The results can be used to define the elastic constants using dynamical experiments.
+scientific_discipline: Physics > Solid-state physics

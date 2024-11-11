@@ -1,0 +1,10 @@
+article_id: rspa_1974_0017
+revised_title: 'Magnetic Shielding Near Anisotropic Molecules: Multipolar Expansions'
+semantic_tags:
+  - Magnetic shielding
+  - Multipolar expansions
+  - Anisotropic molecules
+  - Quantum mechanics
+  - Molecular physics
+tldr: This article presents a formalism for calculating magnetic shielding near anisotropic molecules using multipolar expansions. The authors develop a method to calculate magnetic shielding at points outside the molecule and show that higher multipolar terms become important as the field-point approaches the molecule. They also derive formulae for the observables using second-order quantum mechanical perturbation theory.
+scientific_discipline: Chemistry > Physical Chemistry

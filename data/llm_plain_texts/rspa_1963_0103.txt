@@ -1,0 +1,10 @@
+article_id: rspa_1963_0103
+revised_title: Surface Film Formation in Metallic Wear: Transition between Mild and Severe Wear
+semantic_tags:
+  - Tribology
+  - Surface Films
+  - Metallic Wear
+  - Oxidation
+  - Wear Mechanisms
+tldr: The authors studied the conditions that lead to the transition between mild and severe wear in a leaded brass (60/40 brass containing 2% lead) sliding on hardened steel without lubrication. They found that mild wear occurs when sufficient time is available to establish a protective surface film by oxidation, and that the presence of iron oxide in the surface layers increases their hardness, causing wear of the steel itself. The rates of mild wear do not vary in a simple way with load and speed, and no unique mechanism of mild wear exists.
+scientific_discipline: Engineering and Technology > Tribology

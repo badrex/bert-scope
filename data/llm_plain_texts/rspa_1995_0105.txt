@@ -1,0 +1,10 @@
+article_id: rspa_1995_0105
+revised_title: Fourth-order bounds on effective bulk and shear moduli of random dispersions of penetrable spheres
+semantic_tags:
+  - Elasticity
+  - Composite materials
+  - Microstructure
+  - Correlation functions
+  - Random dispersions
+tldr: The author presents fourth-order bounds on the effective bulk and shear moduli of two-component materials with well-ordered phases and homogeneous, isotropic elastic properties. The study focuses on random dispersions of penetrable spheres, a model with known three- and four-point correlation functions. The structural parameters entering the fourth-order bounds are expressed in terms of integrals over these correlation functions, allowing for numerical calculations and comparison with estimates from the differential effective medium theory.
+scientific_discipline: Physics > Materials Science

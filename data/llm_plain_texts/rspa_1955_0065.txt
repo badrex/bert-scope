@@ -1,0 +1,10 @@
+article_id: rspa_1955_0065
+revised_title: Acid Treatment and Its Effect on Carbon Oxidation
+semantic_tags:
+  - Catalysis
+  - Carbon oxidation
+  - Acid pre-treatment
+  - Catalytic effect
+  - Chemical reactions
+tldr: The author investigates the effect of acid pre-treatment on the oxidation of carbon. They find that treating charcoal with acids increases the ratio of carbon monoxide to carbon dioxide produced during combustion. The results are explained in terms of an electronic theory of catalysis, where electromeric effects produced by impurities in the carbon are thought to be transmitted through the graphite lattice.
+scientific_discipline: Chemistry > Catalysis

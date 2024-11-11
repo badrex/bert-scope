@@ -1,0 +1,10 @@
+article_id: rspa_1941_0016
+revised_title: Investigation of Beta-Ray Spectra of Light Elements
+semantic_tags:
+  - Nuclear Physics
+  - Particle Accelerators
+  - Radioactivity
+  - Fermi Distribution
+  - Spectrometry
+tldr: The authors used a magnetic spectrometer to investigate the beta-ray spectra of light elements, finding that all the spectra follow the Fermi distribution law for a certain range from the high-energy endpoint. The study provides insights into the behavior of beta-ray spectra and helps in understanding the nuclear physics of light elements.
+scientific_discipline: Physics > Nuclear Physics

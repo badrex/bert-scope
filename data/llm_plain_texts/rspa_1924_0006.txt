@@ -1,0 +1,10 @@
+article_id: rspa_1924_0006
+revised_title: 'On the Degradation of Acoustical Energy: A Study of Sound Transmission'
+semantic_tags:
+  - Acoustics
+  - Sound propagation
+  - Sound intensity
+  - Sound degradation
+  - Sound transmission
+tldr: This article investigates the degradation of acoustical energy during sound transmission. It discusses the factors affecting sound propagation, such as the nature of the medium and the properties of the sound source. The author explains how sound waves lose energy as they travel through the air, leading to a reduction in intensity. The study focuses on the efficiency of sound transmission and the conditions that affect it, with practical implications for sound-signaling apparatus.
+scientific_discipline: Physics > Acoustics

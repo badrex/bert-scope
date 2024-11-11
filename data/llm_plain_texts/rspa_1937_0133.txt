@@ -1,0 +1,10 @@
+article_id: rspa_1937_0133
+revised_title: 'Thermal Diffusion of Radon Gas Mixtures: Experimental Study and Results'
+semantic_tags:
+  - Thermal diffusion
+  - Radon gas
+  - Gas mixtures
+  - Experimental physics
+  - Nuclear physics
+tldr: 'This study investigates the thermal diffusion of radon gas mixtures, focusing on the separation of radon and lighter gases due to temperature differences. The authors conducted experiments using a specialized apparatus and measured the changes in the quantity of radon on the hot and cold sides. The results provide insights into the behavior of radon gas and its potential applications in nuclear physics.'
+scientific_discipline: Physics > Nuclear Physics

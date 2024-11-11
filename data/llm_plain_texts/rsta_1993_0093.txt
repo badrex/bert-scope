@@ -1,0 +1,10 @@
+article_id: 'rsta_1993_0093'
+revised_title: 'Hard Particle Simulations in Liquid Crystals: Understanding Self-Assembly and Organization'
+semantic_tags:
+  - Liquid Crystals
+  - Hard Particle Models
+  - Molecular Simulations
+  - Phase Transitions
+  - Nematic Phases
+tldr: This article reviews the progress in computer simulations of liquid crystal phases using hard particles, focusing on the richness of phase behavior resulting from molecular size and shape effects. The author discusses the role of simulations in testing modern theories of liquid crystal phase transitions, structure, and dynamics. Two specific examples are explored: the simulation of twisted nematic liquid crystals and the explanation of diffusive behavior in isotropic and nematic liquids using kinetic theory.
+scientific_discipline: Physics > Condensed Matter Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1967_0041
+revised_title: High Frequency Pulse Propagation and Shock Formation in Viscoelastic Materials
+semantic_tags:
+  - Viscoelasticity
+  - Shock waves
+  - Nonlinear transmission lines
+  - High frequency pulses
+  - Material properties
+tldr: This article discusses the propagation of high-frequency, finite acceleration pulses and shocks in viscoelastic materials. It focuses on shock formation and shock propagation, emphasizing the differences between viscoelastic and elastic models. The study also highlights the behavior of nonlinear transmission lines and provides numerical results for various pulse profiles.
+scientific_discipline: Physics > Materials Science

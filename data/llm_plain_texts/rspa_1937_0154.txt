@@ -1,0 +1,10 @@
+article_id: 'rspa_1937_0154'
+revised_title: 'Confirmation of Superlattice Existence in Brass through Anomalous Scattering'
+semantic_tags:
+  - Crystallography
+  - Alloy
+  - X-ray diffraction
+  - Brass
+  - Anomalous scattering
+tldr: The authors used anomalous scattering to observe superlattice lines in brass, confirming the ordered distribution of atoms in the alloy at room temperature. This discovery helps to understand the atomic rearrangement processes in brass and its thermodynamics.
+scientific_discipline: Materials Science > Crystallography

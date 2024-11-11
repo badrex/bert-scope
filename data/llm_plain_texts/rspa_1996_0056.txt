@@ -1,0 +1,10 @@
+article_id: rspa_1996_0056
+revised_title: 'Quantitative Linear Theory of Faraday Instability in Viscous Liquids'
+semantic_tags:
+  - Fluid Dynamics
+  - Faraday Instability
+  - Viscosity
+  - Pattern Formation
+  - Linear Stability Analysis
+tldr: The author presents a linear theory for the stability of a plane free surface of a viscous liquid under vertical vibration. The study shows that the stability problem can be reduced to finding eigenvalues and eigenvectors of a banded square matrix. The analysis predicts new qualitative behaviors compared to nearly inviscid theory and provides an approximate analytic expression for the lower part of the lowest marginal curve in cases when the liquid's depth is much larger than the thickness of the viscous boundary layer.
+scientific_discipline: Physics > Fluid Dynamics

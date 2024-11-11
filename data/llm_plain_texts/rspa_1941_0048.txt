@@ -1,0 +1,10 @@
+article_id: rspa_1941_0048
+revised_title: Self-Consistent Field for Methane and Its Applications
+semantic_tags:
+  - Quantum Chemistry
+  - Molecular Physics
+  - Methane
+  - Self-consistent field
+  - Atomic and Molecular Structure
+tldr: The authors apply the self-consistent field method to study methane molecule's structure and properties. They calculate the charge distribution, energy, diamagnetic susceptibility, and polarizability of the molecule, as well as the van der Waals forces between two molecules. The results show reasonable agreement with observed values, demonstrating the method's potential for providing valuable information about molecular structures.
+scientific_discipline: Chemistry > Quantum Chemistry

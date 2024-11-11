@@ -1,0 +1,10 @@
+article_id: rspa_1996_0137
+revised_title: 'Bifurcations and Period-1 Impacts in a Driven Beam'
+semantic_tags:
+  - Nonlinear Dynamics
+  - Bifurcation Theory
+  - Impact Mechanics
+  - Beam Dynamics
+  - Experimental Physics
+tldr: This study investigates the dynamical response of a driven beam and the onset of period-1 impacting motions. A simple mathematical model is used to capture the behavior of the beam, allowing the researchers to identify zones separating regular period-1 impacting solutions from irregular, chaotic, and non-impacting motions. The research focuses on understanding the bifurcations that lead to period-1 impacts and provides insight into the behavior of engineering structures during dynamic motions.
+scientific_discipline: Physics > Nonlinear Dynamics

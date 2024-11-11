@@ -1,0 +1,10 @@
+article_id: rspa_1975_0067
+revised_title: Interlinked Porosity in Nuclear Fuels: Morphology and Equilibrium
+semantic_tags:
+  - Nuclear fuel
+  - Porosity
+  - Swelling
+  - Fission gas
+  - Material science
+tldr: The authors study the morphology of interlinked porosity in nuclear fuels, specifically in irradiated uranium dioxide. They find that the swelling of the fuel is mainly due to the formation of long tunnels linking adjacent grain corners, which form an interconnected network throughout the fuel. These tunnels provide a direct route for the release of fission gas from interior regions of the fuel. The authors develop a model to calculate the equilibrium pore volume in materials with different grain boundary and free-surface energies, subjected to a hydrostatic external loading. The analysis also determines the potential for sintering once the gas has escaped.
+scientific_discipline: Materials Science > Porosity in Nuclear Fuels

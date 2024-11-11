@@ -1,0 +1,10 @@
+article_id: 'rspb_1967_0041'
+revised_title: 'Crystallographic Study of Lysozyme Oxidation by Iodine'
+semantic_tags:
+  - Protein crystallography
+  - Enzyme structure
+  - Lysozyme
+  - Iodine modification
+  - Active site
+tldr: 'A crystallographic study of lysozyme oxidation by iodine reveals that the active site includes three tryptophanyl residues. The reaction with iodine modifies the indole rings of tryptophan residues 108 and 62 to oxindole, which may affect the enzyme's activity. The inactive product obtained from the 1:1 iodination is similar to the one described by Hartdegen and Rupley, but the exact role of the modified residues in the enzyme's activity remains unclear.'
+scientific_discipline: Biology and Life Sciences > Protein Structure and Function

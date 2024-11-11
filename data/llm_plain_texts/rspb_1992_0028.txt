@@ -1,0 +1,11 @@
+article_id: 'rspb_1992_0028'
+revised_title: 'Exploring the Role of ATP-Dependent Potassium Channels in Skeletal Muscle Fibers'
+semantic_tags:
+  - Ion channels
+  - ATP-dependent potassium channels
+  - Muscle physiology
+  - Intracellular pH
+  - Glibenclamide
+tldr: The authors investigated the effects of lowered intracellular pH on resting potassium currents in frog skeletal muscle fibers. They found that a reduction in pH revealed a component of current that was resistant to the channel blocker glibenclamide, suggesting that a decrease in pH can open ATP-dependent potassium channels in intact skeletal muscle fibers.
+
+scientific_discipline: Biology and Life Sciences > Muscle Physiology

@@ -1,0 +1,10 @@
+article_id: rspa_1990_0002
+revised_title: Asymptotic Heat Transport in Shear Flow at High Peclet Numbers
+semantic_tags:
+  - Fluid dynamics
+  - Heat transfer
+  - Asymptotic analysis
+  - Peclet number
+  - Shear flow
+tldr: The author investigates heat transport from a heated region into a fluid in shear flow, focusing on large Peclet numbers. They determine the asymptotic form of the temperature distribution and the total heat transport, providing insights into the contributions of leading and trailing edge solutions. This study is relevant for understanding heat transfer in complex fluid dynamics scenarios.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

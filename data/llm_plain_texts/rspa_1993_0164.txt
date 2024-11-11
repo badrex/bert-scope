@@ -1,0 +1,10 @@
+article_id: rspa_1993_0164
+revised_title: Fast Dynamo Models Based on Cat Maps and Pseudo-Anosov Maps
+semantic_tags:
+  - Fast dynamos
+  - Cat maps
+  - Pseudo-Anosov maps
+  - Shear
+  - Dynamo action
+tldr: The author introduces new fast dynamo models based on cat maps and pseudo-Anosov maps with shear, which allow for mathematical analysis and are more realistic than previous models. The models involve a planar mapping, shear, and diffusion, and can exhibit fast dynamo action for both even and odd magnetic fields. Numerical evidence and asymptotic results are presented, demonstrating the effectiveness of these models in understanding fast dynamo phenomena.
+scientific_discipline: Mathematics > Dynamical Systems

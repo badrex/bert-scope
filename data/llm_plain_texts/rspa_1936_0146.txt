@@ -1,0 +1,10 @@
+article_id: rspa_1936_0146
+revised_title: 'Thermal Decomposition of Acetaldehyde and Ethylene Oxide: Chain Reaction Mechanism'
+semantic_tags:
+  - Chemical reactions
+  - Chain mechanism
+  - Thermal decomposition
+  - Acetaldehyde
+  - Ethylene oxide
+tldr: This article investigates the thermal decomposition of acetaldehyde and ethylene oxide, and explores the chain reaction mechanism involved. The authors find that both compounds decompose mainly into carbon monoxide and methane, but also have secondary reactions that lead to the formation of propylene, carbon monoxide, and water in the case of acetaldehyde, and ethylene, carbon monoxide, and hydrogen in the case of ethylene oxide. The authors suggest that the main reaction is retarded by the destruction of primary centers at the walls of the vessel, while the energy is used in the formation of secondary or degenerate centers, which initiate the secondary reaction.
+scientific_discipline: Chemistry > Chemical reactions and kinetics

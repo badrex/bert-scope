@@ -1,0 +1,10 @@
+article_id: 'rstb_1995_0007'
+revised_title: 'Exploring the Mechanism of V(D)J Recombination and DNA Hairpin Intermediates'
+semantic_tags:
+  - DNA repair
+  - V(D)J recombination
+  - Immunology
+  - Genetics
+  - Molecular biology
+tldr: The article discusses the mechanism of V(D)J recombination, a process responsible for generating immune system variety. It highlights the existence of broken DNA intermediates, including hairpin structures, and explains how these intermediates contribute to the formation of coding joints and the addition of non-templated and templated insertions. The study provides insights into the reaction mechanism and the role of hairpin DNA in V(D)J recombination.
+scientific_discipline: Biology and Life Sciences > Genetics

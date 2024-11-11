@@ -1,0 +1,10 @@
+article_id: 106217
+revised_title: Abridged Calculations in Spherical Trigonometry for Modern Astronomical Observations
+semantic_tags:
+  - Spherical Trigonometry
+  - Astronomy
+  - Mathematical Approximations
+  - Calculus
+  - Celestial Mechanics
+tldr: The author, Israel Lyons, presents a method for solving problems in spherical trigonometry with greater precision and accuracy, focusing on approximations and corrections for modern astronomical observations. This method involves using logarithms and trigonometric functions to find the required values in spherical triangles, making it easier and more efficient for calculations in celestial mechanics and astronomy.
+scientific_discipline: Mathematics > Calculus

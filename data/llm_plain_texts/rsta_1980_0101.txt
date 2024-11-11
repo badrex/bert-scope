@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0101'
+revised_title: 'Temper Embrittlement in 12% Cr Martensitic Steel: Effects of Phosphorus and High Alloy Contents'
+semantic_tags:
+  - Materials Science
+  - Steel Properties
+  - Embrittlement
+  - Alloying Elements
+  - Auger Electron Spectroscopy
+tldr: This study investigates temper embrittlement in 12% Cr martensitic steel, focusing on the effects of phosphorus and high alloy contents. The research shows that the minimum impact toughness is shifted towards 550°C in a commercial heat containing phosphorus, leading to intergranular failure. The phenomenon is attributed to phosphorus and chromium segregation at austenitic grain boundaries. The high chromium content is responsible for the significant segregation and embrittlement at higher temperatures compared to low alloy steels. Embrittlement can be alleviated by minimizing phosphorus concentration or adding molybdenum, which counteracts the effect of phosphorus.
+scientific_discipline: Materials Science > Steel Properties

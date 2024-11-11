@@ -1,0 +1,10 @@
+article_id: rsta_1985_0056
+revised_title: 'Experimental Investigation of Free and Mixed Convective Flow in Heated Cavity'
+semantic_tags:
+  - Convective Flow
+  - Heat Transfer
+  - Fluid Mechanics
+  - Cavity Flow
+  - Mixed Convection
+tldr: The authors conducted experiments to study the effects of cavity shape, orientation, and ambient wind on the free and mixed convective flow in heated cavities. They observed interesting phenomena such as instabilities and periodic oscillations in the flow. The study provides insights into the fluid mechanics and heat transfer in heated cavity configurations, which are important in central solar energy receivers, compartment fires, and combustion in furnaces.
+scientific_discipline: Environmental and Earth Sciences > Fluid Mechanics

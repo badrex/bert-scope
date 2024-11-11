@@ -1,0 +1,10 @@
+article_id: 'rspb_1962_0061'
+revised_title: 'Ventral Nerve Cord Learning in Headless Insects'
+semantic_tags:
+  - Insect Behavior
+  - Learning Mechanisms
+  - Nerve Cord Function
+  - Postural Learning
+  - Associative Learning
+tldr: The study investigates how headless insects learn to position their legs through the ventral nerve cord. When an insect receives regular electric shocks for touching a conducting saline solution, it progressively raises its leg to avoid the shocks. The research shows that the ventral ganglia can associate leg position with repeated punishment by electric shock, even without a brain.
+scientific_discipline: Biology and Life Sciences > Insect Physiology

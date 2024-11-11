@@ -1,0 +1,10 @@
+article_id: 'rstb_1996_0086'
+revised_title: 'Dynamics of Arthropod Filiform Hairs: Motion in Air and Water'
+semantic_tags:
+  - Arthropod Hairs
+  - Fluid Mechanics
+  - Sensory Ecology
+  - Mechanoreception
+  - Boundary Layer
+tldr: This study compares the motion response of arthropod filiform hairs to sinusoidal oscillations in air and water, using a mathematical model. The differences in hair motion response between the two media are mainly due to the difference in dynamic viscosity, which affects the effective inertia of the hair. The results show that hairs in water can perform as displacement sensors at low frequencies and acceleration sensors at high frequencies, highlighting the importance of virtual mass in their tuning. The analysis suggests that evolutionary pressures on arthropod filiform hair receptors have been greater in air than in water.
+scientific_discipline: Biology and Life Sciences > Sensory Ecology

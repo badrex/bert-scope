@@ -1,0 +1,10 @@
+article_id: 'rstl_1876_0013'
+revised_title: 'The Influence of Surface Coatings on Radiation Repulsion'
+semantic_tags:
+  - Radiation Repulsion
+  - Surface Coatings
+  - Heat Radiation
+  - Surface Reflectivity
+  - Vacuum Physics
+tldr: 'The author conducted experiments to study the effect of radiation on surfaces with modified reflecting or radiating powers. They discovered that the movement of objects under radiation is influenced by the surface's condition and coating. The experiments showed that coating surfaces with certain materials can either increase or decrease the movement caused by radiation, depending on the type of radiation and the surface properties.'
+scientific_discipline: Physics > Optics

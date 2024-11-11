@@ -1,0 +1,10 @@
+article_id: rspl_1882_0016
+revised_title: Improved Methods for Measuring the Ohm
+semantic_tags:
+  - Electrical resistance
+  - Ohm's law
+  - Electromagnetism
+  - Measurement techniques
+  - Physics experiments
+tldr: Researchers conducted experiments to improve the measurement of the ohm, using modified methods from Kirchhoff and Rowland. They used two coils of copper wire and a ballistic galvanometer to determine the coefficient of mutual induction and resistance. The experiments were conducted at the Cavendish Laboratory, and the results provided a more accurate value for the ohm.
+scientific_discipline: Physics > Electromagnetism

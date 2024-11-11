@@ -1,0 +1,10 @@
+article_id: 'rspb_1930_0019'
+revised_title: 'Investigating Cell Movement and Chemotaxis in Vitro'
+semantic_tags:
+  - Cell migration
+  - Chemotaxis
+  - Tissue culture
+  - Spleen cells
+  - Diffusion
+tldr: The author conducted experiments using tissue culture to study the movement of cells from a fragment of chick spleen in vitro. They discovered that cells migrated towards substances with a concentration gradient, suggesting the presence of a unidirectional directive force. This research provided insights into the understanding of cell movement and chemotaxis.
+scientific_discipline: Biology and Life Sciences > Cell Biology

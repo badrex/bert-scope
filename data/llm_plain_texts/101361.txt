@@ -1,0 +1,10 @@
+article_id: 101361
+revised_title: 'Cycloids, Pendulums, and the Improvement of Timekeeping in Watches'
+semantic_tags:
+  - Mechanics
+  - Geometry
+  - Timekeeping
+  - Pendulum
+  - Cycloid
+tldr: The author discusses the development of a new type of watch that uses a cycloid-shaped pendulum to keep accurate time. This innovation improves upon previous timekeeping methods and has applications in astronomy and navigation. The author also explores the mathematical principles behind the cycloid and its properties, as well as the comparison of curve lengths to straight lines.
+scientific_discipline: Physics > Mechanics

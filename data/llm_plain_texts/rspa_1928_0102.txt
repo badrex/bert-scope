@@ -1,0 +1,10 @@
+article_id: rspa_1928_0102
+revised_title: 'Observations on the Band Spectra of Mercury: A Peculiar Distribution of Intensities'
+semantic_tags:
+  - Mercury spectra
+  - Band spectra
+  - Spectroscopy
+  - Atomic physics
+  - Fluorescence
+tldr: The author, Lord Rayleigh, conducted experiments on the elusive subject of mercury band spectra using a hydrogen source. They discovered a peculiar distribution of intensities in the fluorescence spectrum, with the narrow band 2540 being the only feature in that neighborhood. The resonance line 2537 and the stretch of continuous spectrum were absent, which was unusual and had not been observed before. This study provided valuable insights into the behavior of mercury spectra and the underlying phenomena.
+scientific_discipline: Physics > Atomic physics

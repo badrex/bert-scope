@@ -1,0 +1,10 @@
+article_id: 'rspb_1963_0046'
+revised_title: 'Hedgehog Gut's Selective Absorption of Antibodies'
+semantic_tags:
+  - Immunology
+  - Antibody absorption
+  - Gut selection
+  - Hedgehog biology
+  - Postnatal transmission
+tldr: The study investigates the gut of young hedgehogs and its ability to selectively absorb antibodies. It shows that the gut absorbs more antibodies from Salmonella pullorum than Brucella abortus, and that it can differentiate between antibodies produced in response to different antigens. This selective absorption is similar to the process observed in young rats.
+scientific_discipline: Biology and Life Sciences > Immunology

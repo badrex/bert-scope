@@ -1,0 +1,10 @@
+article_id: rsta_1984_0125
+revised_title: 'Stationary Properties of Dispersive Optical Bistability in a Dense Exciton-Biexciton System: Copper Chloride'
+semantic_tags:
+  - Optical Bistability
+  - Exciton-Biexciton System
+  - Copper Chloride
+  - Nonlinear Optics
+  - Kerr Medium
+tldr: The authors study the stationary properties of dispersive optical bistability in a dense exciton-biexciton system using copper chloride. They use a semiclassical exciton-biexciton model to obtain the stationary solutions for optical bistability by numerical integration of the second-order Maxwell equation. The results show that the nonlinearity causing optical bistability is nearly of the Kerr medium type, and the two-photon biexciton resonance contributes weakly to the bistability characteristics.
+scientific_discipline: Physics > Optics

@@ -1,0 +1,10 @@
+article_id: rspa_1992_0023
+revised_title: Sound Scattering by Aerodynamic Sources and Coated Elastic Plates
+semantic_tags:
+  - Acoustics
+  - Fluid-Structure Interaction
+  - Bending Waves
+  - Damping Materials
+  - Aerodynamic Sound
+tldr: The author analyzes the scattering of bending waves at the edge of an unbounded, thin elastic plate in the presence of fluid loading. They provide detailed predictions of the sound scattered from free and clamped edges and empirical formulae for the radiation loss factor. The study applies this to the generation of sound by an aerodynamic dipole source adjacent to a finite plate, which is coated with damping material. The research examines the influence of coating loss factor and length on the radiated sound for a steel plate in water.
+scientific_discipline: Engineering and Technology > Acoustics

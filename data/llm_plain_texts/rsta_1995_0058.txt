@@ -1,0 +1,10 @@
+article_id: rsta_1995_0058
+revised_title: Singularities in Three-Dimensional Boundary Layers: Analytical and Numerical Study
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Singularities
+  - Asymptotic Analysis
+  - Numerical Methods
+tldr: The article investigates singularities in solutions of the classical boundary-layer equations in three-dimensional steady hypersonic flow along a flat plate with surface roughness. It focuses on the breakdown of symmetry-plane flow and the development of singularities under varying pressure distributions. The study includes a wide parametric analysis, numerical methods, and analytical extensions to understand the behavior of boundary-layer thickness and skin friction components.
+scientific_discipline: Mathematics > Applied Mathematics > Fluid Dynamics

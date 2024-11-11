@@ -1,0 +1,10 @@
+article_id: rsta_1891_0001
+revised_title: On the Determination of the Specific Resistance of Mercury in Absolute Measure
+semantic_tags:
+  - Electrical resistance
+  - Mercury
+  - Physics
+  - Measurement
+  - Electromagnetism
+tldr: This article discusses the determination of the specific resistance of mercury using a modified version of Lorenz's method. The author presents a new method that uses a single-layer standard coil and eliminates the errors caused by using a mercury column as the measured resistance. The results show that a single set of observations can be accurate to 1 part in 10,000, and the author believes that even greater accuracy may be achieved by maintaining consistent temperatures in the apparatus.
+scientific_discipline: Physics > Electromagnetism

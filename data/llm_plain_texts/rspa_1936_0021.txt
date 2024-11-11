@@ -1,0 +1,10 @@
+article_id: rspa_1936_0021
+revised_title: 'Investigations on the Preliminary Stages of Spark Formation in Various Gases'
+semantic_tags:
+  - Spark formation
+  - Gas discharge physics
+  - Cloud chamber
+  - Ionization
+  - High voltage physics
+tldr: The authors conducted experiments using a cloud chamber to study the preliminary stages of spark formation in various gases. They discovered that the ion cloud structure remained consistent even with a smaller expansion ratio, suggesting that the nuclei produced during the spark discharge are likely larger and possibly due to chemical compounds. The study provides insights into the physical processes of spark formation and ionization.
+scientific_discipline: Physics > Electricity and Magnetism

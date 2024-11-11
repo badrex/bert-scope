@@ -1,0 +1,10 @@
+article_id: rsta_1903_0023
+revised_title: Electrical Conductivity in Vacuum by Hot Conductors
+semantic_tags:
+  - Thermoelectricity
+  - Plasma physics
+  - Kinetic theory of gases
+  - Ionization
+  - Vacuum physics
+tldr: The author investigates the electrical conductivity of the space surrounding hot surfaces of platinum, carbon, and sodium at low pressures. They explain the conductivity produced by hot metals using the kinetic theory of gases and corpuscles. The study shows that the ionization and conductivity vary with the nature, temperature, and previous history of the metal, as well as the surrounding gas and metal surface conditions.
+scientific_discipline: Physics > Thermodynamics

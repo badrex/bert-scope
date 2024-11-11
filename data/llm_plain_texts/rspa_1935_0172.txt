@@ -1,0 +1,10 @@
+article_id: rspa_1935_0172
+revised_title: 'Thermo-Dynamics of Stationary Systems II: The Diffusion Element'
+semantic_tags:
+  - Thermodynamics
+  - Diffusion
+  - Electrochemistry
+  - Osmotic theory
+  - Reciprocity relation
+tldr: The author investigates the thermo-dynamics of stationary systems, specifically the diffusion element, and its relationship with the thermo-element. They analyze the effects of diffusion, Hittorf transport, and the reciprocity relation, establishing connections between the diffusion element and equilibrium systems. The study reduces the knowledge of the diffusion element to the knowledge of ionic mobilities and two universal constants, providing a deeper understanding of the underlying principles.
+scientific_discipline: Physics > Thermodynamics

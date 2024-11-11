@@ -1,0 +1,10 @@
+article_id: rspa_1980_0013
+revised_title: Pictorial Approach to Macroscopic Space-Time Symmetry and Light Scattering
+semantic_tags:
+  - Electromagnetic Effects
+  - Space-Time Symmetry
+  - Light Scattering
+  - Crystal Physics
+  - Electro-Optic Effects
+tldr: The authors present a pictorial approach to study macroscopic space-time symmetry and its application to light scattering in crystals and fluids. They demonstrate the method by analyzing two electro-optic effects in crystals and predict various light scattering experiments in fluids under different conditions. This approach offers a simple and versatile method to understand the physical conditions for the existence of certain effects in bulk matter in equilibrium.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rspa_1934_0201
+revised_title: The Effect of Strong Electrolytes on the Mobility of Gliadin
+semantic_tags:
+  - Colloidal chemistry
+  - Electrolytes
+  - Gliadin
+  - Cataphoresis
+  - Isoelectric point
+tldr: The authors conducted experiments to study the effect of strong electrolytes on the mobility of gliadin particles. They found that the isoelectric point of gliadin is dependent on the electrolyte concentration. The results indicate that gliadin behaves as a monovalent ampholyte and that the protein's solubility is not necessarily at its minimum at the isoelectric point. The authors also observed a discrepancy between the observed and calculated velocities at high ionic strengths, which they attribute to the adsorption of acetate ions in strong electrolyte solutions.
+scientific_discipline: Chemistry > Colloidal chemistry

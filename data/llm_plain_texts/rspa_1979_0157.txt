@@ -1,0 +1,10 @@
+article_id: rspa_1979_0157
+revised_title: Rational Surface Approximations and the Steiner Surface
+semantic_tags:
+  - Isoparametric Transformation Method
+  - Finite Element Method
+  - Surface Approximation
+  - Steiner Surface
+  - Geometry
+tldr: The article discusses the isoparametric transformation method, which is used to approximate complex geometries in finite element methods. It focuses on the Steiner surface, a simple non-trivial case of piecewise rational surface approximations, and provides examples of its occurrence and some of its properties.
+scientific_discipline: Mathematics > Geometry

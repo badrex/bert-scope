@@ -1,0 +1,10 @@
+article_id: rspl_1892_0001
+revised_title: Correlated Variations in Crangon Vulgaris: A Study on Shrimp Organisms
+semantic_tags:
+  - Zoology
+  - Shrimp biology
+  - Organ correlation
+  - Statistical analysis
+  - Marine biology
+tldr: The author investigates the correlation between the variations in size of four organs in the common shrimp (Crangon vulgaris) using statistical methods. They found a constant relation between the deviations of one organ and the mean deviation of another organ, which can be used to determine the degree of correlation between the organs. This study contributes to the understanding of shrimp biology and the application of statistical methods in biological research.
+scientific_discipline: Biology and Life Sciences > Zoology

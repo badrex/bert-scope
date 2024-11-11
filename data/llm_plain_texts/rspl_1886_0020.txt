@@ -1,0 +1,10 @@
+article_id: rspl_1886_0020
+revised_title: 'Polarization of Light by Reflection from the Surface of Iceland Spar'
+semantic_tags:
+  - Crystal Optics
+  - Polarization
+  - Light Reflection
+  - Iceland Spar
+  - Brewster's Angle
+tldr: The author conducted experiments on the polarization of light by reflection from the surface of Iceland spar, a type of crystal. They found that the angle of complete polarization for Iceland spar depends on the position of the reflecting surface relative to the crystal's axis and the position of its principal section to the plane of reflection. This research expanded upon previous work by Sir David Brewster and Dr. Seebeck, and provided further understanding of the relationship between light polarization and crystal optics.
+scientific_discipline: Physics > Optics

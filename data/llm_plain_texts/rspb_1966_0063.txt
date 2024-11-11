@@ -1,0 +1,10 @@
+article_id: 'rspb_1966_0063'
+revised_title: 'Anaplerotic Fixation of Carbon Dioxide in Escherichia Coli'
+semantic_tags:
+  - Metabolism
+  - Microbiology
+  - Tricarboxylic Acid Cycle
+  - Anaplerosis
+  - Escherichia Coli
+tldr: The authors discovered that a mutant strain of Escherichia coli (AB 1622) lacks the ability to grow on glucose, glycerol, or pyruvate without utilizable intermediates of the tricarboxylic acid cycle. The mutant strain is unable to form tricarboxylic acid cycle intermediates from pyruvate or phosphopyruvate. The study concludes that phosphopyruvate carboxylase is essential for the net formation of C4-acids through carboxylation of C3-precursors.
+scientific_discipline: Biology and Life Sciences > Microbiology

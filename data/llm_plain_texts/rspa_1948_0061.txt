@@ -1,0 +1,10 @@
+article_id: rspa_1948_0061
+revised_title: 'Experimental Analysis of Isotropic Turbulence Decay'
+semantic_tags:
+  - Turbulence
+  - Fluid Dynamics
+  - Reynolds Number
+  - Decay Law
+  - Vorticity
+tldr: The authors conducted experiments to study the decay of isotropic turbulence in the initial period. They found that the decay law u'~2 and A2 are proportional to the time of decay, and the double and triple velocity correlation functions maintain their form during this period. The experiments confirmed the validity of the energy decay law and tested theoretical predictions about the correlation function at different Reynolds numbers.
+scientific_discipline: Physics > Fluid Dynamics

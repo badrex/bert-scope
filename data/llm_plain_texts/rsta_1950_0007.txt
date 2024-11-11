@@ -1,0 +1,10 @@
+article_id: rsta_1950_0007
+revised_title: 'A Matrix Method for Computing Latent Columns and Solving Differential Equations'
+semantic_tags:
+  - Matrix Algebra
+  - Numerical Methods
+  - Differential Equations
+  - Iterative Methods
+  - Linear Algebra
+tldr: The author presents a new method for computing the latent columns of numerical matrices and solving certain integrals of differential equations. The method involves purification through iterative operations and can be applied to unsymmetrical square matrices. This approach offers an alternative to existing methods and provides a more systematic way of choosing cleaning agents for differential equation problems.
+scientific_discipline: Mathematics > Linear Algebra

@@ -1,0 +1,10 @@
+article_id: 'rsta_1924_0006'
+revised_title: 'Tabulated Data for the Examination of 230 Space-Groups by Homogeneous X-Rays'
+semantic_tags:
+  - Crystallography
+  - X-ray diffraction
+  - Space-group analysis
+  - Crystal structure
+  - Mathematical crystallography
+tldr: The authors present a method to analyze and differentiate crystal structures using homogeneous X-rays and mathematical crystallography. They tabulate data for the 230 possible space-groups, which can help in understanding the arrangement of molecules in crystals and the effects of symmetry elements on crystal planes' periodicity.
+scientific_discipline: Physics > Crystallography

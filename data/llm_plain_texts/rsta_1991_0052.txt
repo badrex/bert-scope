@@ -1,0 +1,10 @@
+article_id: rsta_1991_0052
+revised_title: 'Subduction Zone Geochemistry: Solubility of Minerals in Supercritical Aqueous Fluids'
+semantic_tags:
+  - Subduction zones
+  - Geochemistry
+  - Aqueous fluids
+  - Mineral solubility
+  - Supercritical fluids
+tldr: This study investigates the solubility of apatite, monazite, zircon, and rutile in supercritical aqueous fluids, with implications for subduction zone geochemistry. The research finds that most accessory minerals are not very soluble in supercritical aqueous fluids of near-neutral pH, and that the solubilities of these minerals depend on factors like temperature, pressure, and the presence of other elements. The findings suggest that aqueous fluids play a significant role in the transport of elements in subduction zones.
+scientific_discipline: Earth Sciences > Geochemistry

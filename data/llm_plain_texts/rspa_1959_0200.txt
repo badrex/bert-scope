@@ -1,0 +1,10 @@
+article_id: 'rspa_1959_0200'
+revised_title: 'Electromagnetic Diffraction in Optical Systems: Structure of the Image Field in an Aplanatic System'
+semantic_tags:
+  - Electromagnetic Diffraction
+  - Optical Systems
+  - Aplanatic System
+  - Image Field
+  - Wavefronts
+tldr: This article discusses electromagnetic diffraction in optical systems, specifically focusing on the structure of the image field in an aplanatic system. The authors explore the wavefronts in the image space and the accuracy of determining strength factors for various rays entering the system.
+scientific_discipline: Physics > Optics

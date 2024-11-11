@@ -1,0 +1,10 @@
+article_id: rspa_1911_0065
+revised_title: The Effect of Temperature on the Ductility of Zinc
+semantic_tags:
+  - Material Science
+  - Zinc properties
+  - Ductility
+  - Temperature effects
+  - Metal treatment
+tldr: This article investigates the effect of temperature on the ductility of zinc. The author found that zinc becomes soft at temperatures around 150°C and hardens at around 200°C. The ductility of zinc increases uniformly with rising temperature after a definite change at 120°C. The author also discovered that heating the zinc to temperatures above 120°C and then cooling it greatly diminishes its tenacity and ductility, but this can be restored by subjecting it to mechanical processes like hammering.
+scientific_discipline: Material Science > Metal Properties

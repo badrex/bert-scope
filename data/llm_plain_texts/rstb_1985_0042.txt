@@ -1,0 +1,10 @@
+article_id: 'rstb_1985_0042'
+revised_title: 'Peripheral Injury in Rats: Behavioral and Neuronal Correlates in Nociception and Pain'
+semantic_tags:
+  - Pain Research
+  - Nociception
+  - Peripheral Neuropathy
+  - Rat Models
+  - Neuroplasticity
+tldr: This study investigates the effects of peripheral tissue injury in rats on their behavior and neuronal activity. The researchers found that injury alters the relationship between a cutaneous stimulus and the sensation experienced, leading to decreased pain thresholds and increased pain from suprathreshold stimuli. They examined the properties of primary afferents and the central nervous system to understand the underlying mechanisms of these changes. The results suggest that injury-induced hyperalgesia is not solely due to changes in afferent sensitivity.
+scientific_discipline: Biology and Life Sciences > Neuroscience

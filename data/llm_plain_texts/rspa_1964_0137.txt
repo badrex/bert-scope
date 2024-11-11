@@ -1,0 +1,10 @@
+article_id: rspa_1964_0137
+revised_title: Stress Recrystallization and Improvement of Pyrolytic Graphite Properties
+semantic_tags:
+  - Graphite
+  - Recrystallization
+  - Stress
+  - Pyrolytic Graphite
+  - Hot-Pressing
+tldr: The authors developed a method to improve the properties of pyrolytic graphite by applying stress recrystallization and hot-pressing techniques. This process aligns the crystalline structure and enhances the material's density, electrical and thermal conductivity, and other properties, making it suitable for studying the -axis transport properties of near-ideal graphite.
+scientific_discipline: Materials Science > Crystallography

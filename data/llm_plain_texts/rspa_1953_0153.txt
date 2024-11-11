@@ -1,0 +1,10 @@
+article_id: rspa_1953_0153
+revised_title: 'Polarizability Effects in the Statistical Mechanics of Interacting Dipoles'
+semantic_tags:
+  - Statistical mechanics
+  - Molecular interactions
+  - Polarizability
+  - Electrostatic energy
+  - Lattice sums
+tldr: The author calculates the electrostatic energy of a system of molecules with permanent and induced dipole moments, taking into account polarizability. They approximate the contribution of electrostatic forces to the free energy of polar liquids and solutions, and compare their results with previous calculations by Pople. The author also examines the semi-macroscopic approach of Martin and Bonnor, identifying inconsistencies and proposing a slightly different method.
+scientific_discipline: Physics > Electromagnetism

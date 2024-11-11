@@ -1,0 +1,10 @@
+article_id: 'rspb_1968_0063'
+revised_title: 'Exploring Factors Affecting Bacterial Colony Growth on Agar Plates'
+semantic_tags:
+  - Bacterial growth
+  - Colony development
+  - Agar medium
+  - Microbial ecology
+  - Microbiology
+tldr: 'This study investigates the physical chemistry of bacterial colony growth on agar plates, focusing on factors such as lag times, diffusion of nutrients, and environmental conditions. The researchers found that colony size and growth rate depend on the strain, environmental conditions, and biochemical history of the bacteria. They also discovered that bacterial colonies can undergo morphogenesis and differentiation, and that colonies on a solid medium interact in various ways, which could have implications for understanding living tissues.'
+scientific_discipline: Biology and Life Sciences > Microbiology

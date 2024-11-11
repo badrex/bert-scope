@@ -1,0 +1,10 @@
+article_id: 'rspa_1931_0019'
+revised_title: 'Quantum Mechanics of Electrons in Crystal Lattices: Bloch's Theory and Applications'
+semantic_tags:
+  - Quantum mechanics
+  - Solid-state physics
+  - Crystal lattices
+  - Electron behavior
+  - Bloch's theory
+tldr: This article discusses the development of Bloch's theory, which helps understand the behavior of electrons in crystal lattices. The theory assumes that the interaction of an electron with the lattice can be replaced by a periodic potential field. This model allows for the interpretation of electrical, thermal conductivity, magnetic susceptibility, and optical properties of metals. The article also explains the possibility of electron transitions between stationary states and the connection of the theory with experimental measurements.
+scientific_discipline: Physics > Solid-state physics

@@ -1,0 +1,10 @@
+article_id: 'rsta_1914_0007'
+revised_title: 'On the Diurnal Variations of the Earth's Magnetism: Solar and Lunar Effects'
+semantic_tags:
+  - Magnetism
+  - Earth's magnetic field
+  - Solar diurnal variations
+  - Lunar magnetic variation
+  - Atmospheric conductivity
+tldr: This article discusses the diurnal variations of the Earth's magnetism, focusing on the effects of the sun and the moon. The author explores Schuster's theory of variable atmospheric conductivity and its impact on magnetic variations. The study aims to understand the mechanisms behind these phenomena and their potential implications for the ionization of the upper atmosphere.
+scientific_discipline: Physics > Electromagnetism

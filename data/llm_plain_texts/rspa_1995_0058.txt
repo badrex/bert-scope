@@ -1,0 +1,10 @@
+article_id: rspa_1995_0058
+revised_title: Characteristic Misorientation Structure in CVD-Grown Diamond Crystallites
+semantic_tags:
+  - Diamond growth
+  - Crystallography
+  - Surface topography
+  - Electron diffraction
+  - Cathodoluminescence
+tldr: The authors studied the misorientation structure within (001) facets of CVD-grown diamond crystallites using optical microtopography, interferometry, electron diffraction, and cathodoluminescence. They discovered that the large (001) facets have characteristic growth step patterns and related cathodoluminescence patterns. The conflict between the interpretation of step patterns and the facet surface profiles determined interferometrically was resolved by quadrantal division of (001) facets by low-angle boundaries. This model was confirmed by electron channelling and electron backscatter diffraction techniques.
+scientific_discipline: Materials Science > Crystallography

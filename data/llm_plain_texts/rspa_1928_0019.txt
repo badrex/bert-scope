@@ -1,0 +1,10 @@
+article_id: rspa_1928_0019
+revised_title: 'Influence of Pressure on Gaseous Combustion and Explosion Limits'
+semantic_tags:
+  - Combustion
+  - Gas combustion
+  - Explosion limits
+  - Inflammable gas-air mixtures
+  - Pressure effects
+tldr: This study investigates the influence of pressure on the combustion and explosion limits of various gas-air mixtures. The authors found that the explosion ranges of these mixtures generally widen with increasing pressure. However, in some cases, a moderate pressure increase may narrow the explosion ranges. The findings provide valuable insights into the behavior of combustible gas mixtures under different pressure conditions.
+scientific_discipline: Chemistry > Chemical kinetics and reaction dynamics

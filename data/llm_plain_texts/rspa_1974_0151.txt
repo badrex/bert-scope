@@ -1,0 +1,10 @@
+article_id: rspa_1974_0151
+revised_title: Gauge Theory of the Weyl Group and its Geometrical Implications
+semantic_tags:
+  - Gauge Theory
+  - Weyl Group
+  - Geometry
+  - Space-Time Transformations
+  - Non-Abelian Isospin Group
+tldr: The authors develop a gauge theory of the Weyl group, which is a semi-direct product of the Poincare group and space-time dilations. They explore the geometrical implications of the theory, discussing the introduction of three sets of gauge fields that provide a local affine connection and a vierbein system. The resulting geometry has an affine connection that is not symmetric but is semi-metric, and the theory can be further generalized to incorporate matter fields.
+scientific_discipline: Physics > Geometry and Topology

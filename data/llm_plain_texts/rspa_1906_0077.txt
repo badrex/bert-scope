@@ -1,0 +1,10 @@
+article_id: rspa_1906_0077
+revised_title: 'Experimental Investigation of Critical Temperatures and Opalescence Phenomena'
+semantic_tags:
+  - Critical temperature
+  - Phase transitions
+  - Opalescence
+  - Thermodynamics
+  - Fluid properties
+tldr: The authors conducted experiments to study the behavior of substances at their critical temperatures and the opalescence phenomena. They found that the critical temperature and the disappearance of the surface are independent of the relative masses of the coexisting phases. The experiments also revealed that the opalescence persists over a finite range of temperature and is dependent on the nature of the substance under investigation.
+scientific_discipline: Physics > Thermodynamics

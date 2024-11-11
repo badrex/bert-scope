@@ -1,0 +1,10 @@
+article_id: 'rspa_1965_0033'
+revised_title: 'Endor Techniques for Studying Ligand Interactions'
+semantic_tags:
+  - Nuclear Magnetic Resonance
+  - Paramagnetic Centers
+  - Spin Dynamics
+  - Ligand Interactions
+  - Endor Spectroscopy
+tldr: 'The article discusses the use of Endor (Electron Nuclear Double Resonance) technique to study ligand interactions in paramagnetic centers. It explains how the behavior of nuclei near these centers is affected by their interactions and how relaxation times of paramagnetic centers influence the observed effects. The author also describes the process of Endor experiments, the Hamiltonian involved, and the resulting spectra. The article demonstrates the impact of various factors on the Endor spectrum, such as the strength of coupling and the external field direction.'
+scientific_discipline: Chemistry > Nuclear Magnetic Resonance (NMR)

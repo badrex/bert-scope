@@ -1,0 +1,10 @@
+article_id: rspa_1966_0089
+revised_title: Decomposition Kinetics of Potassium Permanganate: Temperature Range 110 to 230°C
+semantic_tags:
+  - Chemical kinetics
+  - Potassium permanganate
+  - Activation energy
+  - Crystal imperfections
+  - Decomposition
+tldr: The authors studied the decomposition kinetics of potassium permanganate crystals in the temperature range of 110 to 230°C. They found that the activation energies for different processes, such as exponential acceleration in isothermal reactions, reaction at an interface, and nucleation within grains, vary from 31.0 to 37.0 kcal/mol. The decomposition process is complex and depends on nucleation and preferential reaction at crystal imperfections. The authors used various methods to analyze the results and gain insights into the reaction rates and the structure of the solid.
+scientific_discipline: Chemistry > Chemical kinetics

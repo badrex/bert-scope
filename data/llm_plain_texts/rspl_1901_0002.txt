@@ -1,0 +1,10 @@
+article_id: rspl_1901_0002
+revised_title: 'Wavelength Determinations and General Results of the 1898 Solar Eclipse Spectra'
+semantic_tags:
+  - Solar Eclipse
+  - Spectroscopy
+  - Astronomical Observations
+  - Element Identification
+  - Solar Spectrum Analysis
+tldr: The authors analyzed the spectra of the solar eclipse of January 22, 1898, using a glass prismatic camera. They identified 856 lines and determined the wavelengths and probable origins of various elements, including hydrogen, helium, calcium, iron, and manganese. The study provided insights into the composition and structure of the solar chromosphere and corona, as well as the differences between the flash spectrum and the Fraunhofer spectrum.
+scientific_discipline: Astronomy > Solar Physics

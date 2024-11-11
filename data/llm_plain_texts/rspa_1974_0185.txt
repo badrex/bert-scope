@@ -1,0 +1,10 @@
+article_id: rspa_1974_0185
+revised_title: 'Investigation of Electronic Transitions at the Diamond Vacancy'
+semantic_tags:
+  - Diamond physics
+  - Optical absorption
+  - Uniaxial stress
+  - Zero-phonon lines
+  - Defect centers
+tldr: The authors studied electronic transitions at the diamond vacancy using optical absorption and uniaxial stress measurements. They found that the zero-phonon lines GR2 and GR3 are correlated with the GR1 lines and occur at the vacancy. The results provide evidence that these transitions take place at the GR1 defect center.
+scientific_discipline: Physics > Materials Science

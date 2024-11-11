@@ -1,0 +1,10 @@
+article_id: rsta_1988_0013
+revised_title: Fluorescence Excitation Spectroscopy of Ionic Clusters with C6F+6 Chromophore
+semantic_tags:
+  - Spectroscopy
+  - Molecular ions
+  - Fluorescence excitation
+  - Ion-molecule clusters
+  - Chromophore
+tldr: The authors conducted fluorescence excitation spectroscopy on ionic clusters containing the C6F+6 chromophore. They observed vibrational structure associated with the motion of the neutral relative to the ion and used this information to test and refine model potentials for the complex. This study provides a direct probe of the potential surface of an ionic cluster and contributes to the understanding of intermolecular forces in ion-molecule complexes.
+scientific_discipline: Chemistry > Spectroscopy

@@ -1,0 +1,10 @@
+article_id: rspl_1899_0051
+revised_title: 'Investigations into Collimator Magnets and Earth's Horizontal Magnetic Force'
+semantic_tags:
+  - Earth's magnetic field
+  - Magnetism
+  - Collimator magnets
+  - Orientation
+  - Magnetic force measurements
+tldr: The author examines over 100 collimator magnets from Kew Observatory to study their temperature coefficients, induction coefficients, and moments of inertia. The study aims to understand the relationships between these constants and improve the accuracy of horizontal force measurements. The author also discusses the differences in magnet sizes and their impact on the results.
+scientific_discipline: Physics > Magnetism

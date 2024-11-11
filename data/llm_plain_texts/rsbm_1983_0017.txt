@@ -1,0 +1,10 @@
+article_id: 'rsbm_1983_0017'
+revised_title: 'Niels Erik Nørlund: A Pioneering Mathematician and Astronomer'
+semantic_tags:
+  - Mathematics
+  - Astronomy
+  - Difference Equations
+  - Fuchsian Functions
+  - Interpolation Theory
+tldr: 'Niels Erik Nørlund was a prominent Danish mathematician and astronomer who made significant contributions to the fields of difference equations, Fuchsian functions, and interpolation theory. He developed new methods for solving difference equations and created the Norlund-summation technique, which is still used today. Nørlund's work had a lasting impact on the development of modern mathematics and astronomy.'
+scientific_discipline: Mathematics > Difference Equations

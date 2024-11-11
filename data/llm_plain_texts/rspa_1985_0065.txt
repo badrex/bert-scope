@@ -1,0 +1,10 @@
+article_id: rspa_1985_0065
+revised_title: 'Dynamic Response of Circular Beams Subjected to Radial Impact'
+semantic_tags:
+  - Beam Dynamics
+  - Rigid-Plastic Analysis
+  - Circular Beams
+  - Impact Mechanics
+  - Plastic Hinges
+tldr: The article presents a rigid-plastic analysis of a quadrantal circular beam subjected to radial impact in its own plane at its tip by a rigid mass. The authors construct complete and approximate solutions for the problem and compare them with an elastic-plastic numerical solution using the finite element code ABAQUS. The study provides insights into the dynamic response of circular beams under impact and the formation of plastic hinges.
+scientific_discipline: Engineering and Technology > Mechanics and Materials

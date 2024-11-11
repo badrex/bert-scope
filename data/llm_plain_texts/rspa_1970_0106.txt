@@ -1,0 +1,10 @@
+article_id: rspa_1970_0106
+revised_title: 'Experimental Evidence for Trapped Exciton States in Liquid Rare Gases: A New Approach'
+semantic_tags:
+  - Exciton states
+  - Liquid rare gases
+  - Optical absorption
+  - Disorder scattering
+  - Band gaps
+tldr: The authors conducted a vacuum ultraviolet spectroscopic study of liquid argon and liquid krypton doped with xenon to investigate the existence of exciton states in simple liquids. They observed additional absorption bands and compared the absorption spectra of the doped liquids with solid rare-gas crystals. The results suggest that Wannier-Mott exciton and impurity states can be experimentally observed in liquids, providing insights into the electronic states of disordered systems with large band gaps.
+scientific_discipline: Physics > Optics

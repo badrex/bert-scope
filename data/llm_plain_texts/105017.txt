@@ -1,0 +1,10 @@
+article_id: 105017
+revised_title: A General Method for Exhibiting the Value of Algebraic Expressions Involving Radical Quantities in Infinite Series
+semantic_tags:
+  - Algebra
+  - Infinite Series
+  - Mathematical Theorems
+  - Radical Quantities
+  - Binomial Theorem
+tldr: This article presents a method for finding the value of algebraic expressions involving several radical quantities in an infinite series. The author demonstrates how to apply Sir Isaac Newton's theorem for involving a binomial and relates it to the roots of equations. The method is useful for solving complex mathematical problems and improving computation techniques.
+scientific_discipline: Mathematics > Algebra

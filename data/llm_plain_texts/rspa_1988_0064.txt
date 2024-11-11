@@ -1,0 +1,10 @@
+article_id: rspa_1988_0064
+revised_title: 'Erosion, Deposition, and Size Distributions of Sand: A Hyperbolic Distribution Approach'
+semantic_tags:
+  - Geology
+  - Sedimentation
+  - Hyperbolic Distribution
+  - Erosion
+  - Deposition
+tldr: The authors develop a mathematical-physical model for erosion and deposition of sand, relating it to the logarithmic hyperbolic distribution form. They find that erosion moves the position of a given sediment to the right-hand part of the hyperbolic shape triangle, while deposition moves it towards the left part. This model helps classify sand sediments and can be applied to various sedimentary environments. The hyperbolic shape triangle effectively discriminates between samples of different origins and environments.
+scientific_discipline: Environmental and Earth Sciences > Geology

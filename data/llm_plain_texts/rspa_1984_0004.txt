@@ -1,0 +1,10 @@
+article_id: rspa_1984_0004
+revised_title: 'Simulation of Weak Spherical Shock-Wave Transitions in Air with Vibrational Excitation'
+semantic_tags:
+  - Fluid Dynamics
+  - Shock Waves
+  - Vibrational Relaxation
+  - Numerical Simulation
+  - Acoustics
+tldr: This study investigates the effects of vibrational excitation on weak spherical shock-wave transitions in air. The compressible Navier-Stokes equations were solved numerically, including a vibrational-relaxation equation for oxygen. The results show that the rise times of weak spherical shock waves are affected by two factors: the -wave effect and the non-stationary effect. These factors influence the wave's overpressure and half-duration, which are essential for understanding sonic booms and explosions in air.
+scientific_discipline: Physics > Fluid Dynamics

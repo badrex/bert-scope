@@ -1,0 +1,10 @@
+article_id: 'rspa_1906_0052'
+revised_title: 'Erratum: Correcting a Publication Date in a Tensile Test Study'
+semantic_tags:
+  - Materials Science
+  - Mechanical Engineering
+  - Tensile Testing
+  - Steel Properties
+  - Scientific Publishing
+tldr: This article is an erratum that corrects a publication date in a study about the relationship between breaking stress and extension in tensile tests of steel. The correct date should be 1906 instead of 1896.
+scientific_discipline: Engineering and Technology > Materials Science and Engineering

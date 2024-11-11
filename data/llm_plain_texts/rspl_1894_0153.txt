@@ -1,0 +1,10 @@
+article_id: rspl_1894_0153
+revised_title: Oscillations of a Rotating Ellipsoidal Shell: Fluid Pressure and Stability
+semantic_tags:
+  - Fluid dynamics
+  - Ellipsoidal shell
+  - Oscillations
+  - Stability
+  - Rotating systems
+tldr: The authors investigate the oscillations and stability of a rotating ellipsoidal shell containing fluid. They derive a frequency equation of the 6th degree and find two fundamental modes of oscillation. The study concludes that the hypothesis of a fluid interior does not explain the observed variations in latitude, contrary to a previous suggestion by M. Folie.
+scientific_discipline: Physics > Fluid dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1963_0036
+revised_title: Spin-Orbit Coupling in Atoms: A Comparison of Theory and Experiment
+semantic_tags:
+  - Atomic Physics
+  - Spin-Orbit Coupling
+  - Quantum Mechanics
+  - Atomic Structure
+  - Relativistic Effects
+tldr: The authors present a theory for spin-orbit coupling in atoms and compare it with experimental data. The exact theory shows excellent agreement with experiment for certain ions, while the approximate relation overestimates the coupling constants. The authors explain the disagreement for other ions based on the nature of their outer-electron radial wave functions. They also discuss the importance of the residual-spin-other-orbit interaction.
+scientific_discipline: Physics > Atomic Physics

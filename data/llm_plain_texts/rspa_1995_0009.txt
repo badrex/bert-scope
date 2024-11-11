@@ -1,0 +1,10 @@
+article_id: rspa_1995_0009
+revised_title: 'Variational Bounds for Creep Behaviour of Polycrystals'
+semantic_tags:
+  - Materials Science
+  - Creep behavior
+  - Polycrystals
+  - Variational principles
+  - Hashin-Shtrikman bounds
+tldr: The authors develop a variational procedure to estimate the effective constitutive behavior of polycrystalline materials undergoing high-temperature creep. This procedure is based on a new variational principle that determines the effective potential function of a given nonlinear polycrystal in terms of the corresponding potential for a linear comparison polycrystal. The authors apply this procedure to compute bounds for the effective potentials of statistically isotropic nonlinear polycrystals, specifically untextured FCC polycrystals with isotropic pure power-law viscous behavior. These new bounds are more restrictive than the classical Taylor-Bishop-Hill bounds and related Hashin-Shtrikman bounds by Dendievel et al. (1991).
+scientific_discipline: Materials Science > Mechanics of Materials

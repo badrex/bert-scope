@@ -1,0 +1,10 @@
+article_id: rsta_1983_0087
+revised_title: The Evolution of Coupling Constants in Physics
+semantic_tags:
+  - Particle Physics
+  - Electroweak Interactions
+  - Quantum Chromodynamics
+  - Gauge Theories
+  - Lattice QCD
+tldr: This article discusses the evolution of coupling constants in physics, specifically the strong, electromagnetic, and weak couplings. It explores the convergence of these couplings to a single "grand unified" coupling at higher energies and the uncertainties in calculating the proton lifetime in minimal theories. The article also touches upon the concept of energy-dependent couplings and their implications for grand unification and the role of lattice QCD in calculating these constants.
+scientific_discipline: Physics > Particle Physics

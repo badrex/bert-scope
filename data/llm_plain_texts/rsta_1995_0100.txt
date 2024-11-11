@@ -1,0 +1,10 @@
+article_id: rsta_1995_0100
+revised_title: Nanotips and Nanosources: Applications in Low-Energy-Electron Microscopy
+semantic_tags:
+  - Nanotechnology
+  - Electron microscopy
+  - Field emission
+  - Nanotips
+  - Ferromagnetic nanotips
+tldr: This article discusses the unique properties of nanotips, which are atom-sized sources of electrons, and their applications in low-energy-electron microscopy. The authors analyze the field electron emission properties of nanotips and ferromagnetic nanotips, and explore their potential in improving the resolution and brightness of electron beams. They also describe the use of nanotips in a versatile low-energy electron projection microscope, the Fresnel projection microscope, for observations of nanometric fibers and organic materials.
+scientific_discipline: Physics > Optics

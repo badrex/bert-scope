@@ -1,0 +1,10 @@
+article_id: rspl_1898_0015
+revised_title: Extending Maxwell's Electromagnetic Theory to Include Dispersion, Metallic Reflection, and Allied Phenomena
+semantic_tags:
+  - Electromagnetic Theory
+  - Dispersion
+  - Metallic Reflection
+  - Atomic Vibration
+  - Conductivity
+tldr: This article extends Maxwell's electromagnetic theory to include dispersion, metallic reflection, and related phenomena. The author assumes a dielectric or electrolyte medium consists of molecules with charged atoms. When a potential difference is applied, the atoms move, causing molecular strain and rotation. The author explains the doubly refracting nature of dielectrics and the refraction index of metals. The findings agree with experimental results on specific electric resistances and metal conductivities.
+scientific_discipline: Physics > Electromagnetism

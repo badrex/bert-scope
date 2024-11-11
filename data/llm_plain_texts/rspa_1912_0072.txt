@@ -1,0 +1,10 @@
+article_id: rspa_1912_0072
+revised_title: Electrical Vibrations on Thin Anchor-Rings
+semantic_tags:
+  - Electromagnetism
+  - Wave Theory
+  - Mathematical Physics
+  - Electrical Oscillations
+  - Boundary Value Problems
+tldr: The author investigates electrical vibrations on a thin anchor-ring, providing mathematical solutions for the problem. They analyze the energy persistence and radiation of vibrations in the higher modes, explaining the evanescence of the tangential component parallel to the circular axis. The study contributes to the understanding of electrical oscillations and their behavior in conductive structures.
+scientific_discipline: Physics > Electromagnetism

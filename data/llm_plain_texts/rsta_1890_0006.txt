@@ -1,0 +1,10 @@
+article_id: rsta_1890_0006
+revised_title: On the Theory of Free Stream Lines and Transformations
+semantic_tags:
+  - Fluid Dynamics
+  - Hydrodynamics
+  - Transformations
+  - Free Stream Lines
+  - Boundary Value Problems
+tldr: The author presents a new transformation method for solving problems related to free non-reentrant stream lines with plane rigid boundaries. This method is applicable to various cases of interest in fluid dynamics and can be used to find solutions for problems involving free stream lines, boundaries, and transformations.
+scientific_discipline: Mathematics > Applied Mathematics

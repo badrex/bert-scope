@@ -1,0 +1,10 @@
+article_id: rstb_1971_0040
+revised_title: 'Compensating for Defocusing and Aberrations in Electron Microscopy'
+semantic_tags:
+  - Electron Microscopy
+  - Image Processing
+  - Fourier Transform
+  - Defocusing
+  - Spherical Aberration
+tldr: The authors investigated the effects of defocusing and spherical aberration on electron micrographs and developed a method to measure and compensate for these effects using Fourier processing. This approach can improve the resolution of electron microscopes and provide clearer images of biological specimens.
+scientific_discipline: Physics > Optics

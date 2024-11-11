@@ -1,0 +1,10 @@
+article_id: rspa_1954_0228
+revised_title: 'The Two Coefficients of Viscosity for Incompressible Fluids with Air Bubbles'
+semantic_tags:
+  - Fluid dynamics
+  - Viscosity
+  - Fluid mechanics
+  - Air bubbles
+  - Incompressible fluids
+tldr: The authors discuss the two coefficients of viscosity for an incompressible fluid containing air bubbles. They find that the second coefficient of viscosity is 4/3 times the first, and the fluid's compressibility affects its behavior. This study helps to understand the properties of liquids and their applications in various fields.
+scientific_discipline: Physics > Fluid mechanics

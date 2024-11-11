@@ -1,0 +1,10 @@
+article_id: rsta_1980_0041
+revised_title: Improvements in Tropospheric Refraction Correction for Satellite Doppler Tracking
+semantic_tags:
+  - Satellite Tracking
+  - Tropospheric Refraction
+  - Atmospheric Refraction Correction
+  - Geodetic Applications
+  - Radio Signal Propagation
+tldr: The authors present improvements in the tropospheric refraction correction for range measurement in satellite Doppler tracking. They examine the effects of temperature lapse rate and signal path bending on range data and propose a two-quartic model of atmospheric refractivity to better estimate the real atmosphere at low elevation angles.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

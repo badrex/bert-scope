@@ -1,0 +1,10 @@
+article_id: 'rspb_1952_0009'
+revised_title: 'Investigating the Factors Influencing Bacterial Resistance to Proflavine'
+semantic_tags:
+  - Antibacterial agents
+  - Bacterial resistance
+  - Mutation hypothesis
+  - Fluctuation test
+  - Proflavine
+tldr: The author investigates the factors influencing bacterial resistance to proflavine, a common antibacterial agent. They study the applicability of the Luria-Delbruck fluctuation test and examine the effects of various factors, such as aeration, pH, and culture age, on the resistance of Bact. lactis aerogenes to proflavine. The results show that these factors can significantly impact the resistance development and suggest that the fluctuation test may not be sufficient to differentiate between the adaptation and spontaneous mutation hypotheses.
+scientific_discipline: Biology and Life Sciences > Microbiology

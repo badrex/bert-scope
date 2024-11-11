@@ -1,0 +1,10 @@
+article_id: rspa_1940_0111
+revised_title: 'Catalytic Activity, Crystal Structure, and Adsorptive Properties of Evaporated Metal Films: A Study on Nickel and Other Metals'
+semantic_tags:
+  - Catalysis
+  - Surface Science
+  - Crystallography
+  - Adsorption
+  - Metal Films
+tldr: This article investigates the catalytic activity, crystal structure, and adsorptive properties of evaporated metal films, focusing on nickel and other metals. The authors found that oriented metal films have higher catalytic activity due to their larger distances in specific crystal planes. They also discovered that the activity of these films is proportional to the amount of poison adsorbed, and that the enhanced activity is associated with the film's structure.
+scientific_discipline: Chemistry > Surface Science

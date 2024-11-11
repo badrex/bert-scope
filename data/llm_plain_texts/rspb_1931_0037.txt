@@ -1,0 +1,10 @@
+article_id: 'rspb_1931_0037'
+revised_title: 'The Relation between Energy Doses and Actinic Erythema in Ultra-Violet Radiation'
+semantic_tags:
+  - Phototherapy
+  - Erythema
+  - Ultra-Violet Radiation
+  - Skin Irradiation
+  - Biological Reaction
+tldr: The authors investigated the relationship between the energy doses of ultra-violet radiation and the actinic erythema produced on the skin. They found that the biological action on the skin, as measured by the latent time for the production of visible erythema, is the same regardless of the intensity of ultra-violet radiation, provided the total quantity of radiation or "dose" is the same. This conclusion is important for understanding the effects of different radiation intensities on the skin and for optimizing phototherapy treatments.
+scientific_discipline: Biology and Life Sciences > Photobiology

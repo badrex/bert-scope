@@ -1,0 +1,15 @@
+article_id: rspa_1964_0001
+revised_title: 'Awards and Achievements in Science: Royal Society Anniversary Address'
+semantic_tags:
+  - Biochemistry
+  - Chemistry
+  - Physics
+  - Geology
+  - Microbiology
+  - Photosynthesis
+  - Chromatography
+  - Digital Computing
+scientific_discipline: Chemistry > Biochemistry
+```yaml
+tldr: The President of the Royal Society, Sir Howard Florey, presents the annual awards and achievements in various scientific disciplines. Notable recipients include Sir Paul Fildes for his pioneering work in microbiology, Professor H. H. Read for his contributions to geology, Dr. Robert Hill for his research on photosynthesis, Dr. E. J. Bowen for his studies on the interaction of matter and radiation, Professor F. C. Williams for his work on digital computing machines, and Dr. A. J.P. Martin for his development of chromatography.
+```

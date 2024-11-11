@@ -1,0 +1,10 @@
+article_id: 106465
+revised_title: 'Investigating the Collision of Bodies and the True Doctrine of Moving Bodies'
+semantic_tags:
+  - Mechanics
+  - Collision theory
+  - Newtonian mechanics
+  - Experimental physics
+  - Motion
+tldr: The author, John Smeaton, conducts experiments to investigate the collision of bodies and the true doctrine of moving bodies. He examines the laws of collision for three types of bodies: perfectly elastic, perfectly unelastic and soft, and perfectly unelastic and hard. Smeaton challenges the assumption that the velocity after collision is the same for non-elastic hard and soft bodies, and provides evidence through experiments on mills to support his findings.
+scientific_discipline: Physics > Mechanics

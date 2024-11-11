@@ -1,0 +1,11 @@
+article_id: 'rsta_1996_0038'
+revised_title: 'Quantum Fokker-Planck Equation for Interacting Waves: A Unifying Theory'
+semantic_tags:
+  - Quantum Mechanics
+  - Fokker-Planck Equation
+  - Wave Turbulence
+  - Quantum Renormalization
+  - Nonlinear Waves
+tldr: The authors derive the quantum Fokker-Planck equation for the irreversible evolution of a bath of interacting oscillators, maintaining action and angle dependence in the classical limit. This approach unifies Landau-Rumer processes, spontaneous phonon decay, quantum renormalization of the speed of sound, and quantum wave turbulence. The theory spans both quantum and classical nonlinear waves, including independent motion for higher moments.
+scientific_discipline: Physics > Optics
+```

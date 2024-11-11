@@ -1,0 +1,10 @@
+article_id: rspl_1875_0056
+revised_title: Electro-Magnetic Rotation Experimentation
+semantic_tags:
+  - Electromagnetism
+  - Electromagnetic rotation
+  - Induction coil
+  - Spark discharge
+  - Magnetic fields
+tldr: The author conducted an experiment on electro-magnetic rotation using an induction coil and a magnet. They observed that when a spark discharge occurred, it formed a spiral shape influenced by the direction of the current and magnetic polarity. This phenomenon provided insights into the interaction between electric currents and magnetic fields.
+scientific_discipline: Physics > Electromagnetism

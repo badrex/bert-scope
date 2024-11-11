@@ -1,0 +1,10 @@
+article_id: 'rspb_1922_0045'
+revised_title: 'An Unusual Relationship Between Electrical and Mechanical Responses in the Heart'
+semantic_tags:
+  - Cardiology
+  - Electrophysiology
+  - Heart block
+  - Ventricular function
+  - Sphygmography
+tldr: The authors conducted experiments on a patient with complete heart block and discovered an abnormal relationship between the electrical and mechanical responses in the ventricles. They found that the time interval between the electrical response and the mechanical response was significantly longer than usual, which could be due to a prolonged latent period or a slow development of the mechanical response in the left ventricle. This finding could have implications for understanding the functioning of the heart and the development of heart block.
+scientific_discipline: Medicine and Health Sciences > Cardiology

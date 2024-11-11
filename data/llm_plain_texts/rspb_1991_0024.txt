@@ -1,0 +1,9 @@
+article_id: 'rspb_1991_0024'
+revised_title: 'Inward Rectification in Rat Olfactory Receptor Neurons: Characteristics and Implications'
+semantic_tags:
+  - Neuronal physiology
+  - Inward rectification
+  - Olfactory receptor neurons
+  - Patch-clamp techniques
+  - Ion channels
+tldr: The article investigates the inward rectifying currents in rat olfactory receptor neurons using patch-clamp techniques. The researchers found that these neurons express a hyperpolarization-activated current, which is consistent with inward rectification in various other tissues. This current may play a role in controlling cell excitability during the response to some odorants.

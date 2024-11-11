@@ -1,0 +1,10 @@
+article_id: rspa_1977_0077
+revised_title: Wavy Vortices in Eccentric Rotating Cylinders: Linear Theory
+semantic_tags:
+  - Fluid Dynamics
+  - Vortices
+  - Rotating Cylinders
+  - Linear Stability Analysis
+  - Fluid Mechanics
+tldr: This article investigates the wavy vortices in the flow between two long eccentric rotating cylinders using linear theory. The analysis focuses on the occurrence of Coles' wavy vortices when no Taylor vortex flow is present, with a small eccentricity and a very small clearance ratio. The results are compared with experimental findings, showing a qualitative similarity but differing in magnitude due to the absence of nonlinear effects. The study extends previous research on concentric rotating cylinders and provides insights into the behavior of wavy vortices in eccentric systems.
+scientific_discipline: Physics > Fluid Dynamics

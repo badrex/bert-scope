@@ -1,0 +1,10 @@
+article_id: rspa_1951_0114
+revised_title: 'Ionosphere Tilt Measurements and Radio Wave Direction'
+semantic_tags:
+  - Ionosphere
+  - Radio Wave Propagation
+  - Direction Finding
+  - Atmospheric Physics
+  - Wave Interference
+tldr: The authors conducted experiments to measure the direction of arrival of short radio waves reflected at the ionosphere. They discovered that the ionosphere exhibits both rapid and slow changes in direction, which they attribute to large-scale, random tilts in the ionosphere. These tilts affect the accuracy of high-frequency direction finding and can be caused by wave interference within the downcoming radio waves.
+scientific_discipline: Physics > Atmospheric Physics

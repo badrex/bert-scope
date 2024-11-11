@@ -1,0 +1,10 @@
+article_id: 'rspb_1958_0059'
+revised_title: 'The Two-Phase Heat Production in Nerve Stimulation'
+semantic_tags:
+  - Nerve physiology
+  - Heat production
+  - Stimulated nerve
+  - Thermodynamics
+  - Biophysics
+tldr: The authors conducted experiments on the heat production in stimulated nerve and discovered that the heat production occurs in two distinct phases, positive and negative. This diphasic nature of heat production was observed in non-medullated nerve but not in medullated nerve, possibly due to the faster speed of events in medullated nerve and the limitations of the instruments used.
+scientific_discipline: Biology and Life Sciences > Physiology

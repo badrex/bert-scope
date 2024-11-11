@@ -1,0 +1,10 @@
+article_id: rspa_1907_0068
+revised_title: 'Determination of Electromotive Force in Weston Cadmium Cell'
+semantic_tags:
+  - Electromagnetic force
+  - Weston cadmium cell
+  - Current measurement
+  - Physical balance
+  - Electromechanics
+tldr: The authors developed a new current weigher and determined the electromotive force of the normal Weston cadmium cell. They used a sensitive physical balance with a 20-inch beam, supporting two coils with a vertical axis, and fixed coils carried from the base. The balance was able to measure the electromagnetic forces and provide an accurate determination of the forces between the coils, which was a significant improvement in measuring current at the time.
+scientific_discipline: Physics > Electromagnetism

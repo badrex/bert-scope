@@ -1,0 +1,10 @@
+article_id: rspa_1961_0122
+revised_title: 'Effect of Surface Oxide Formation on Electron Spin Resonance in Carbons'
+semantic_tags:
+  - Electron Spin Resonance
+  - Surface Oxide Formation
+  - Carbon Reactivity
+  - Free Radical Behavior
+  - Oxidation Processes
+tldr: The authors studied the effect of surface oxide formation on electron spin resonance in carbons. They found that the intensity of the electron spin resonance signal decreases when surface oxide is formed on a carbon by reacting with oxygen. The process of reheating the oxidized carbon in vacuo partially restores the signal, and the addition of sodium hydroxide further aids in recovery. The results provide insights into the theory of carbon reactivity and the electronic structure of carbons.
+scientific_discipline: Chemistry > Materials Science

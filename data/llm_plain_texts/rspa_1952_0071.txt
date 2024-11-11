@@ -1,0 +1,11 @@
+article_id: rspa_1952_0071
+revised_title: Temperature Variation of Magnetic Susceptibilities of Platinum, Rhodium, and Palladium
+semantic_tags:
+  - Magnetism
+  - Materials Science
+  - Solid State Physics
+  - Transition Metals
+  - Thermodynamics
+  - Temperature Dependence
+scientific_discipline: Physics > Materials Science
+tldr: The authors measured the temperature variation of the magnetic susceptibilities of platinum, rhodium, and palladium from 20 to 290 Kelvin. They used a Sucksmith balance to record the deflections of a light beam passing through the balance, and a Au-Co/Au-Ag thermocouple to measure the temperature of the specimens. The results showed a maximum susceptibility in palladium at 77 K, a change in the susceptibility temperature curve for platinum below 77 K, and a regular increase in susceptibility with temperature for rhodium. The findings are discussed in relation to the collective electron treatment of metals and provide estimates of the effective Fermi-Dirac degeneracy temperature, the number of holes per atom, and the exchange interaction energy.

@@ -1,0 +1,10 @@
+article_id: rsta_1981_0075
+revised_title: 'A Comprehensive Algorithm for the Nonlinear Analysis of Compound Bifurcation'
+semantic_tags:
+  - Bifurcation Theory
+  - Structural Mechanics
+  - Catastrophe Theory
+  - Perturbation Method
+  - Nonlinear Analysis
+tldr: The authors present a comprehensive algorithm for the localized analysis of compound bifurcation in structural systems. The scheme is applicable to various disciplines and is developed with structural mechanics in mind. The algorithm relies on the perturbation method and the elimination of passive coordinates to reduce the essential degrees of freedom. The authors illustrate the general approach with an application to interactive buckling in stiffened structures, a problem of importance in structural design.
+scientific_discipline: Mathematics > Applied Mathematics

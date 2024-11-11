@@ -1,0 +1,10 @@
+article_id: rspa_1927_0125
+revised_title: 'Corrections to St. Venant's Theory of Flexure for Thin Sections'
+semantic_tags:
+  - Structural Engineering
+  - Elasticity
+  - Thin-walled structures
+  - Bending moment
+  - Instability
+tldr: The authors present a study on the flexure of thin cylindrical shells and other "thin" sections, providing corrections to St. Venant's theory of flexure. They introduce second-order terms to account for cases where one dimension of the cross-section is small compared to others, leading to a new form of instability. The study focuses on a thin circular tube subjected to flexure, illustrating the effects of these corrections and the potential for maximum bending moments.
+scientific_discipline: Engineering and Technology > Structural Engineering

@@ -1,0 +1,10 @@
+article_id: 'rspa_1931_0204'
+revised_title: 'Investigation of Surface Contact and Air Films Between Smooth Surfaces'
+semantic_tags:
+  - Surface Physics
+  - Surface Chemistry
+  - Thin Films
+  - Interfacial Forces
+  - Air Films
+tldr: 'This study investigates the contact between smooth surfaces and the presence of air films between them. The authors found that when surfaces are carefully cleaned and placed together, they do not come into close contact but remain separated by a thin air film. The distance between the surfaces remains constant and is not affected by changes in gas pressure or the presence of organic substances. The authors also discovered that the presence of dust or solid particles makes it difficult to place surfaces together without them coming between the surfaces.'
+scientific_discipline: Physics > Surface Physics

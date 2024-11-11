@@ -1,0 +1,10 @@
+article_id: rspa_1955_0239
+revised_title: Center-of-Mass Effects in Nuclear Shell-Model Calculations
+semantic_tags:
+  - Nuclear Physics
+  - Quantum Mechanics
+  - Nuclear Shell Model
+  - Center-of-Mass Motion
+  - Nuclear Structure
+tldr: The authors examine the potential errors in nuclear shell-model calculations that arise from not separating center-of-mass motions from internal motions of the nucleus. They analyze a central oscillator potential referred to the mass center as the origin and discuss the implications of this analysis for light nuclei and the formation of matrix elements between states of internal motion.
+scientific_discipline: Physics > Nuclear Physics

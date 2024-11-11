@@ -1,0 +1,10 @@
+article_id: 'rspa_1925_0055'
+revised_title: 'Absorption and Structure of the Green Line of Thallium Vapour'
+semantic_tags:
+  - Spectroscopy
+  - Thallium
+  - Atomic physics
+  - Line absorption
+  - Resonance potential
+tldr: The authors investigated the absorption and structure of the green line of thallium vapour using a glass Lummer-Gehrcke plate and a Fabry-Perot etalon. They found that the intensity of the first satellite was three times that of the second satellite, and the vapour exhibited anomalous dispersion. This study provided insights into the atomic structure and properties of thallium.
+scientific_discipline: Physics > Atomic physics

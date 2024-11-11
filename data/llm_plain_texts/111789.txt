@@ -1,0 +1,10 @@
+article_id: 111789
+revised_title: On the Equilibrium of Chemical Affinities and the Action of Mass
+semantic_tags:
+  - Chemical Affinity
+  - Equilibrium
+  - Action of Mass
+  - Reaction Rates
+  - Precipitation
+tldr: The author investigates the action of mass and chemical affinity in the reaction between binary compounds. They found that the amounts of products formed depend on the nature and mass of the substances involved in the reaction. The author also discovered that the equilibrium of affinities is established in most cases in a short time, but in some instances, it may take hours. This study has implications for understanding various chemical phenomena, such as precipitation and diffusion.
+scientific_discipline: Chemistry > Chemical Equilibrium and Reaction Rates

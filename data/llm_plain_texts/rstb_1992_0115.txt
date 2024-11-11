@@ -1,0 +1,10 @@
+article_id: 'rstb_1992_0115'
+revised_title: 'Segmentation and Recognition in Low-Level Seeing Systems'
+semantic_tags:
+  - Computer Vision
+  - Image Segmentation
+  - Object Recognition
+  - Visual Perception
+  - Artificial Intelligence
+tldr: This article discusses the process of segmentation and recognition in low-level seeing systems. It presents methods for extracting globally salient structures from an image based on geometrical attributes and using linear combinations of two-dimensional object views for recognition. The focus is on bottom-up processes and manipulation of two-dimensional images, without the use of explicit three-dimensional models.
+scientific_discipline: Computer Science > Computer Vision

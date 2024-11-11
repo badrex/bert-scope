@@ -1,0 +1,10 @@
+article_id: rspa_1963_0138
+revised_title: Stability of Elastic-Viscous Liquid Flow in a Curved Channel
+semantic_tags:
+  - Fluid Dynamics
+  - Elasticity
+  - Viscosity
+  - Boundary Layer
+  - Stability Theory
+tldr: This article investigates the stability of an elastic-viscous liquid flow in a curved channel. The authors develop an approximate method to determine the critical Reynolds number and the wavelength of instability for various parameters. They find that the presence of elasticity in the liquid accentuates the asymmetry of the streamline projections on any axial plane.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspl_1874_0087
+revised_title: The Action of Light on Selenium: A Study of Electrical Resistance
+semantic_tags:
+  - Selenium
+  - Light sensitivity
+  - Electrical resistance
+  - Photovoltaic effect
+  - Spectroscopy
+tldr: This article discusses experiments conducted on selenium to study its electrical resistance when exposed to light. The author found that exposure to light decreases the resistance of selenium, and the change in resistance is influenced by the wavelength and intensity of the light. The author also discovered that the selenium's sensitivity to light increases with time spent in the dark, and the effect of light exposure is almost entirely due to the illuminating power of the light.
+scientific_discipline: Physics > Optoelectronics

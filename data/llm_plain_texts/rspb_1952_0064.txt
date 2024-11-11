@@ -1,0 +1,10 @@
+article_id: 'rspb_1952_0064'
+revised_title: 'Experimental Study of Light Scattering in Natural Waters'
+semantic_tags:
+  - Oceanography
+  - Water Science
+  - Light Scattering
+  - Water Quality
+  - Water Chemistry
+tldr: 'This study investigates the scattering of light in natural waters, such as distilled, tap, and sea water, and its impact on water quality. The research finds that most of the scattering occurs at angles less than 90 degrees and that the majority of the effect in sea water is due to matter suspended in the water. The study suggests that the scattering is caused by transparent mineral particles and organic matter, which can affect water quality and visibility.'
+scientific_discipline: Environmental and Earth Sciences > Oceanography

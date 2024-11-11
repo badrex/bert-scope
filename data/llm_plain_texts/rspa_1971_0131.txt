@@ -1,0 +1,10 @@
+article_id: 'rspa_1971_0131'
+revised_title: 'Concentration Quenching of Chlorophyll Fluorescence in Solid Solutions'
+semantic_tags:
+  - Photosynthesis
+  - Chlorophyll fluorescence
+  - Lecithin matrix
+  - Fluorescence quenching
+  - Energy transfer
+tldr: 'The authors investigated the concentration quenching of chlorophyll fluorescence in solid solutions, specifically in lecithin matrix. They found that three parameters, fluorescence polarization, relative quantum yield, and lifetime, show different concentration dependencies. The researchers propose that concentration quenching occurs when non-fluorescent pairs of molecules are excited directly, and the reduction in lifetime is due to energy transfer through the bulk solution. The study provides insights into the mechanisms of self-quenching and energy transfer in photosynthetic materials.'
+scientific_discipline: Biology and Life Sciences > Photosynthesis

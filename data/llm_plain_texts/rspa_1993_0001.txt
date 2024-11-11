@@ -1,0 +1,10 @@
+article_id: rspa_1993_0001
+revised_title: 'Numerical Analysis of Oxide Spallation Mechanisms'
+semantic_tags:
+  - Oxide spallation
+  - Thermal stresses
+  - Finite-element analysis
+  - Creep deformation
+  - Protective oxide layers
+tldr: This study investigates the mechanisms of oxide spallation in high-temperature alloys, focusing on the buckling and wedging processes of decohesion. The authors present numerical analyses of chromia films on austenitic steel, considering both elastic and creep deformation processes. The results show that creep relaxation within the steel reduces the rate of growth of interfacial cracks compared to purely elastic behavior, providing a reasonable agreement with experimental data.
+scientific_discipline: Materials Science > Oxide Spallation

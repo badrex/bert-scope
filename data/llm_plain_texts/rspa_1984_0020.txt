@@ -1,0 +1,10 @@
+article_id: rspa_1984_0020
+revised_title: Relativistic Potential Vorticity in General Relativity
+semantic_tags:
+  - General Relativity
+  - Fluid Dynamics
+  - Relativistic Mechanics
+  - Vorticity
+  - Conservation Laws
+tldr: This article explores the concept of relativistic potential vorticity in general relativity. The authors generalize the conservation law of potential vorticity in classical mechanics to relativistic flows, providing a local expression of Kelvin's circulation theorem. They demonstrate how the conservation of circulation follows from the conservation of relativistic potential vorticity.
+scientific_discipline: Physics > Fluid Dynamics

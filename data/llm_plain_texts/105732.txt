@@ -1,0 +1,10 @@
+article_id: '105732'
+revised_title: 'Bayes' Theorem and the Sum of Logarithms'
+semantic_tags:
+  - Probability theory
+  - Mathematical analysis
+  - Logarithms
+  - Infinite series
+  - Statistics
+tldr: 'Thomas Bayes presents a mathematical analysis of the sum of logarithms and the behavior of infinite series. He demonstrates that certain methods for calculating the sum of logarithms, such as those involving infinite series, are not accurate. This work laid the foundation for the development of Bayesian statistics and the understanding of probability theory.'
+scientific_discipline: Mathematics > Probability theory

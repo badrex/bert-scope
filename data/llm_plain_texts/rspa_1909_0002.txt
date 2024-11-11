@@ -1,0 +1,10 @@
+article_id: rspa_1909_0002
+revised_title: "The Charges on Ions Produced by Radium: A Study of Ion Charges and Diffusion"
+semantic_tags:
+  - Ionization
+  - Radium
+  - Radioactivity
+  - Ion charges
+  - Diffusion
+tldr: "This article discusses experiments conducted on ions produced by radium to determine the charges on positive and negative ions. The author found that positive ions can have either a single or double atomic charge, while negative ions have a consistent charge. The study also observed deviations in the behavior of negative ions when the gas is very dry, which disappear when water vapor is added. The research confirms the reliability of the method used to measure ion charges and provides insights into the behavior of ions produced by radium."
+scientific_discipline: Physics > Ionization and Radiation

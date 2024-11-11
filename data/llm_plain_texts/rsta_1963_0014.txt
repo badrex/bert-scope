@@ -1,0 +1,10 @@
+article_id: rsta_1963_0014
+revised_title: Constitutive Equations for Mixtures of Isotropic Fluids
+semantic_tags:
+  - Fluid dynamics
+  - Non-linear diffusion
+  - Mixture theory
+  - Isotropic materials
+  - Constitutive equations
+tldr: This article presents a non-linear theory for the diffusion and flow of fluid mixtures, focusing on the constitutive equations for stresses and body forces in mixtures of isotropic fluids. The authors explore the effects of velocity and acceleration gradients on the stresses and body forces, and discuss the invariance requirements for these equations.
+scientific_discipline: Physics > Fluid dynamics

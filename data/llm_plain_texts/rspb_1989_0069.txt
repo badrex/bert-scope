@@ -1,0 +1,10 @@
+article_id: 'rspb_1989_0069'
+revised_title: 'Ionizing Radiation Effects on Haemoglobin: Oxy-Derivative of Haemoglobin Iwate'
+semantic_tags:
+  - Hemoglobin
+  - Radiation Biology
+  - Electron Spin Resonance
+  - Protein Structure
+  - Radiation Effects
+tldr: This study investigates the effects of ionizing radiation on haemoglobin, specifically the oxy-derivative of haemoglobin Iwate. The researchers found that exposure to radiation results in electron addition to the (Fe(II)) unit, forming a novel species. They also discovered that electron capture at the (Fe(II)) units is more favorable than capture at the Fe(III) units, and that the bonding between iron and oxygen changes upon exposure to radiation.
+scientific_discipline: Biology and Life Sciences > Biochemistry

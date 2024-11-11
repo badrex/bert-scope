@@ -1,0 +1,10 @@
+article_id: 'rsnr_1995_0003'
+revised_title: 'John Collins and Newton's Reflecting Telescope'
+semantic_tags:
+  - Telescope design
+  - Isaac Newton
+  - History of science
+  - Optics
+  - Reflecting telescope
+tldr: The article discusses John Collins's correspondence with Francis Vernon about Isaac Newton's reflecting telescope. Collins initially misunderstood the telescope's design, thinking it used lenses, but later corrected his understanding after seeing the actual telescope. The reflecting telescope was a significant innovation in the field of optics and marked a departure from the refracting telescopes of the time.
+scientific_discipline: Physics > Optics

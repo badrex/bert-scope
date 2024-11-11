@@ -1,0 +1,10 @@
+article_id: rspa_1928_0100
+revised_title: Investigating the Interaction Between Fine-Structure and Stark Effect in Hydrogen
+semantic_tags:
+  - Quantum Mechanics
+  - Atomic Physics
+  - Stark Effect
+  - Fine-Structure
+  - Hydrogen Atom
+tldr: This article investigates the interaction between the fine-structure and Stark effect in hydrogen atoms using wave mechanics. The authors examine weak and strong electric fields and their impact on the energy levels and wavefunctions of the hydrogen atom. The study provides a deeper understanding of the behavior of hydrogen atoms under the influence of electric fields and contributes to the development of theories in atomic physics.
+scientific_discipline: Physics > Atomic Physics

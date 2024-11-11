@@ -1,0 +1,10 @@
+article_id: 'rsta_1935_0012'
+revised_title: 'Advancements in Determining the Earth's Figure through Gravity Observations'
+semantic_tags:
+  - Geodesy
+  - Gravity
+  - Earth's figure
+  - Geoid
+  - Ellipsoid
+tldr: The authors present a comprehensive analysis of gravity observations to determine the figure of the Earth. They discuss the precision obtainable through various methods, including the use of geoidal equatorial gravity and the international spheroid. The study provides insights into the potential for more accurate measurements and the development of a global gravity survey to improve our understanding of the Earth's shape and its implications for geodesy and geophysics.
+scientific_discipline: Earth Sciences > Geodesy

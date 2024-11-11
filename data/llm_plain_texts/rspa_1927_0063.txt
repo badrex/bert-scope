@@ -1,0 +1,10 @@
+article_id: rspa_1927_0063
+revised_title: 'The Transverse Magneto-Resistance Effect in Single Crystals of Iron: A Study of Crystal Structure and Magnetic Field'
+semantic_tags:
+  - Magneto-resistance
+  - Crystallography
+  - Iron
+  - Magnetic fields
+  - Physics
+tldr: 'This study investigates the change of resistance in single crystals of iron due to a magnetic field perpendicular to the direction of the current. The research finds that the crystal structure plays a significant role in the magneto-resistance effect, with the change in resistance being gradual and continuous. The results suggest that there are two effects causing the resistance to change: one giving an initial and final gradual decrease, and the other producing a rapid change in resistance, which is similar to the longitudinal resistance effect.'
+scientific_discipline: Physics > Materials Science

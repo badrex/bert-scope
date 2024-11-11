@@ -1,0 +1,10 @@
+article_id: 106989
+revised_title: Improved Solution of a Problem in Physical Astronomy
+semantic_tags:
+  - Astronomy
+  - Perturbation Theory
+  - Series Convergence
+  - Mathematical Physics
+  - Celestial Mechanics
+tldr: The author presents an improved method for solving a problem in physical astronomy, which involves obtaining swiftly converging series to compute the perturbations of the motions of the Earth, Mars, and Venus due to their mutual attraction. The new method is compared to previous methods by Euler and De La Grange, showing its advantage in cases where the previous methods were more difficult to compute. The author also discusses the application of the new method to other planetary perturbations and the utility of the method for summing slowly converging numerical series.
+scientific_discipline: Mathematics > Applied Mathematics

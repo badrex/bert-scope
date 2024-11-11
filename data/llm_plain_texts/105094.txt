@@ -1,0 +1,10 @@
+article_id: 105094
+revised_title: Preventing Irregularities in Clock Motion Due to Temperature Changes
+semantic_tags:
+  - Clock mechanics
+  - Pendulum
+  - Temperature effects
+  - Metal expansion
+  - Temperature measurement
+tldr: The author, John Ellicott, describes two methods to prevent the irregular motion of a clock caused by temperature changes affecting the pendulum's rod. One method involves constructing a pendulum with different metals, brass, and iron, that expand at different rates, compensating for the temperature-induced length changes. The other method involves a temperature measurement instrument, the pyrometer, to monitor and adjust the clock's performance.
+scientific_discipline: Physics > Mechanics

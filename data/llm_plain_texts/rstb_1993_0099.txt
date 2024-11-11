@@ -1,0 +1,10 @@
+article_id: 'rstb_1993_0099'
+revised_title: 'Effects of Vagal Stimulation on the Sinus Venosus of the Toad'
+semantic_tags:
+  - Cardiac pacemaker cells
+  - Vagal stimulation
+  - Membrane potential
+  - Toad physiology
+  - Sinus venosus
+tldr: The authors studied the effects of vagal stimulation on the sinus venosus of the toad. They found that vagal stimulation causes membrane hyperpolarization and an increase in membrane resistance in arrested preparations. The results suggest that vagal inhibition of pacemaker cells results solely from a suppression of pacemaker sodium currents.
+scientific_discipline: Biology and Life Sciences > Physiology

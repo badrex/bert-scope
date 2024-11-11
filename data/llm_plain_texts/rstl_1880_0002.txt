@@ -1,0 +1,10 @@
+article_id: rstl_1880_0002
+revised_title: The Contact Theory of Voltaic Action and Apparatus Development
+semantic_tags:
+  - Electrochemistry
+  - Voltaic action
+  - Contact difference of potentials
+  - Electrometry
+  - Apparatus development
+tldr: The authors conducted a series of experiments to measure the contact difference of potentials between various substances in galvanic cells using a new and improved apparatus. They found that the algebraical sum of the contact differences of potential was equal to the electro-motive force of the cell, confirming the contact theory of voltaic action. This work helped to clarify the understanding of voltaic action and improve experimental methods.
+scientific_discipline: Physics > Electrochemistry

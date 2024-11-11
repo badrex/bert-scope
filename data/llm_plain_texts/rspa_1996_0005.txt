@@ -1,0 +1,10 @@
+article_id: rspa_1996_0005
+revised_title: Discrete Physics and the Derivation of Electromagnetism from Quantum Mechanics Formalism
+semantic_tags:
+  - Electromagnetism
+  - Quantum Mechanics
+  - Discrete Physics
+  - Non-Commutative Algebra
+  - Mathematical Physics
+tldr: The authors present a new version of the Feynman-Dyson derivation of electromagnetism from quantum mechanical assumptions in a discrete context. They introduce a discrete ordered calculus that supports the calculus and noncommutative algebra needed for their work, leading to a non-commutative electromagnetic formalism. The paper aims to provide a platform for further exploration of the relationship between this formalism and standard electromagnetism, as well as the implications of special relativity in a non-commutative context.
+scientific_discipline: Physics > Electromagnetism

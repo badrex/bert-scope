@@ -1,0 +1,10 @@
+article_id: rspa_1956_0126
+revised_title: Radiative Balance in the Atmosphere: Measurements of Infra-Red Radiation Flux
+semantic_tags:
+  - Atmospheric Radiation
+  - Infra-Red Radiation
+  - Radiative Balance
+  - Atmospheric Science
+  - Meteorology
+tldr: This article discusses the measurements of upward and downward flows of infra-red radiation in the atmosphere, comparing them with values calculated using radiation charts of Elsasser and Yamamoto. The results show that the cooling in the troposphere is not very different from that calculated from radiation charts, and the importance of clouds on the radiative pattern is demonstrated. The measurements are of limited value in the stratosphere due to the small quantities of water vapor present.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

@@ -1,0 +1,10 @@
+article_id: 'rspa_1995_0114'
+revised_title: 'Errata: Mass-Conserved Hypocycloid Cavity Evolution and Crack Initiation'
+semantic_tags:
+  - 'Crack Formation'
+  - 'Diffusive Evolution'
+  - 'Griffith Condition'
+  - 'Hypocycloid Geometry'
+  - 'Energy Barrier'
+tldr: 'This article corrects errors in a previous paper on mass-conserved morphological evolution of hypocycloid cavities. It clarifies the conditions for crack formation and the absence of an energy barrier for mass-conserved hypocycloid evolution. The necessary and sufficient conditions for circular voids to evolve into hypocycloid cusps with no energy barrier are also discussed. The corrected paper emphasizes that both the Griffith condition and the initial instability condition must be satisfied for diffusive evolution towards a specific cusp geometry.'
+scientific_discipline: 'Engineering and Technology > Materials Science'

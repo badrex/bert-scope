@@ -1,0 +1,10 @@
+article_id: rspa_1988_0129
+revised_title: Thermal Constriction Resistance of a Contact on a Circular Cylinder with Mixed Convective Boundaries
+semantic_tags:
+  - Heat transfer
+  - Thermal resistance
+  - Constriction resistance
+  - Convective cooling
+  - Boundary conditions
+tldr: This article presents a unified treatment of the steady-state axisymmetric temperature distribution in a cylinder with thermal contact governed by a general convective boundary condition. The authors analyze the thermal constriction resistance of a contact on a circular cylinder and provide a comprehensive overview of various boundary conditions and problem configurations.
+scientific_discipline: Engineering and Technology > Heat Transfer

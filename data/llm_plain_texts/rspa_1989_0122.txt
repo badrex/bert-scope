@@ -1,0 +1,10 @@
+article_id: rspa_1989_0122
+revised_title: Numerical Determination of Titchmarsh-Weyl m-Coefficient and its Applications
+semantic_tags:
+  - Differential Equations
+  - Numerical Methods
+  - Spectral Theory
+  - Hardy-Littlewood-Polya Inequality
+  - Sturm-Liouville Equations
+tldr: The authors present numerical techniques to determine the Titchmarsh-Weyl m-coefficient for a singular eigenvalue equation and apply the results to find best constants for Everitt's extension of the Hardy-Littlewood-Polya integral inequality. They use numerical methods to estimate the Dirichlet and Neumann eigenvalues and the Titchmarsh-Weyl function, confirming known cases and providing new insights into the behavior of the sets and the value of the best constant.
+scientific_discipline: Mathematics > Differential Equations

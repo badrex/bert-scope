@@ -1,0 +1,10 @@
+article_id: 'rspb_1974_0070'
+revised_title: 'Reconsidering Brambell's Receptor Hypothesis of Protein Transmission'
+semantic_tags:
+  - Immunoglobulin transmission
+  - Protein degradation
+  - Receptor hypothesis
+  - Lysosomal acid proteases
+  - Protein sorting mechanisms
+tldr: This study investigates the attachment of IgG to cell components and reevaluates Brambell's receptor hypothesis of protein transmission. The researchers found that both homologous and heterologous proteins attach to cell components, challenging the hypothesis's main tenets. They also discovered that nuclear fractions have a higher attachment rate, suggesting a mechanism for selecting between different proteins.
+scientific_discipline: Biology and Life Sciences > Immunology

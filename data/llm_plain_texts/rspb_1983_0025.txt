@@ -1,0 +1,10 @@
+article_id: 'rspb_1983_0025'
+revised_title: 'Innervation Competition in Embryonic Amphibian Head Skin'
+semantic_tags:
+  - Neural Development
+  - Innervation
+  - Trigeminal Mechanoreceptors
+  - Xenopus laevis
+  - Competition during Innervation
+tldr: The study examines the initial innervation process of two classes of mechanoreceptors in the head skin of Xenopus laevis embryos. It shows that movement detector neurites from one trigeminal ganglion do not cross the dorsal midline to innervate areas on the opposite side. However, if one trigeminal ganglion is removed before innervation starts, movement detector neurites from the intact side will cross the midline to innervate contralateral skin, suggesting a specific competitive interaction during innervation.
+scientific_discipline: Biology and Life Sciences > Developmental Biology

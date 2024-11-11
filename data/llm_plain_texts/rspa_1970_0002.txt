@@ -1,0 +1,10 @@
+article_id: rspa_1970_0002
+revised_title: 'Scattering of Turbulence Near a Composite Flexible Boundary'
+semantic_tags:
+  - Aeroacoustics
+  - Turbulence
+  - Boundary Layer
+  - Sound Radiation
+  - Scattering
+tldr: This article examines the effect of surface inhomogeneities on the sound radiated by nearby turbulence in a specific case. The solution demonstrates how the propagating components of the turbulent pressure field are reflected and diffracted by the surface, but these effects do not fundamentally increase the radiation. However, the article also shows that the discontinuity in surface properties acts as a "wavenumber converter," scattering the turbulence near-field into propagating sound. The scattered acoustic power varies depending on the fluid loading on the surface, being proportional to the flow velocity. These results are interpreted in terms of the radiation from a homogeneous surface under the action of a point force, and they show that scattering by surface inhomogeneities is a crucial aspect of the noise fields found in practice.
+scientific_discipline: Physics > Acoustics

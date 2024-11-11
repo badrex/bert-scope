@@ -1,0 +1,10 @@
+article_id: 'rspa_1914_0002'
+revised_title: 'Investigation of the Joule-Thomson Effect in Liquid Carbon Dioxide'
+semantic_tags:
+  - Thermodynamics
+  - Joule-Thomson Effect
+  - Carbon Dioxide
+  - Inversion Point
+  - Gas-Liquid Transition
+tldr: The author examines the Joule-Thomson effect in liquid carbon dioxide and discovers an inversion point where the effect transitions from cooling to heating. This finding suggests that liquid carbon dioxide behaves nearly like a perfect gas in this region.
+scientific_discipline: Chemistry > Thermodynamics

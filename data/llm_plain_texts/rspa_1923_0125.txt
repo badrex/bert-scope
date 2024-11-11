@@ -1,0 +1,10 @@
+article_id: rspa_1923_0125
+revised_title: The Mechanism of Fatigue in Metals under Repeated Stresses
+semantic_tags:
+  - Fatigue
+  - Metals
+  - Stress
+  - Mechanical properties
+  - Microstructure
+tldr: This article investigates the behavior of metals subjected to repeated stresses, focusing on the mechanism of fatigue. The authors study the formation of slip bands and the role of plastic strain in the process. They also explore the effects of alternating stresses on the microstructure of metals and propose a new approach to understanding the fatigue range of materials.
+scientific_discipline: Engineering and Technology > Materials Science

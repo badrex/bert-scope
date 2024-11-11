@@ -1,0 +1,10 @@
+article_id: '110084'
+revised_title: 'Explaining the Optical Illusion of Spoke Deception in Rolling Wheels'
+semantic_tags:
+  - Optical Illusions
+  - Visual Perception
+  - Geometry
+  - Quadratrices
+  - Retina Impression
+tldr: Dr. Roget explains an optical deception that occurs when a rolling wheel is viewed through vertical apertures, such as a palisade or Venetian window-blind. The spokes of the wheel appear curved, with the degree of curvature increasing as the spokes move away from the vertical. The author refers to the principle that a vivid impression made by a pencil of rays on the retina remains for a certain time after the cause has ceased. He applies this principle to the case in question and shows that the apparent form of each spoke is a curve formed by the continual intersection of the revolving and advancing radius with the immovable interval between the bars. The general form of these curves is referred to the class of Quadratrices.
+scientific_discipline: Psychology > Visual Perception

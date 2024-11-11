@@ -1,0 +1,10 @@
+article_id: rspa_1938_0202
+revised_title: 'Determination of the Dissociation Constant of Ammonia'
+semantic_tags:
+  - Chemical equilibrium
+  - Ammonia dissociation
+  - Buffer solutions
+  - Electrochemistry
+  - Thermodynamics
+tldr: The authors conducted experiments to determine the dissociation constant of ammonia in water. They used a cell with a hydrogen electrode and measured the e.m.f. to calculate the hydrogen-ion concentrations of buffer solutions of ammonia and ammonium chloride. The results showed that the dissociation constant of ammonia is approximately 4.75 at 25°C, and the temperature coefficients of the equilibrium constants were analyzed.
+scientific_discipline: Chemistry > Chemical equilibrium

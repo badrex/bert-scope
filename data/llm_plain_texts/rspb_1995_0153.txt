@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0153'
+revised_title: 'Circadian Oscillations in the Drosophila Period Protein (PER): A Theoretical Model'
+semantic_tags:
+  - Circadian rhythms
+  - Molecular biology
+  - Oscillators
+  - Gene regulation
+  - Drosophila
+tldr: The author presents a theoretical model for circadian oscillations in the Drosophila period protein (PER) and its mRNA. The model is based on multiple phosphorylation of PER and negative feedback exerted by nuclear PER on per transcription. The model demonstrates that the mechanism of circadian oscillations can be explained by a limit cycle oscillator, and the period is dependent on the rate of PER degradation.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

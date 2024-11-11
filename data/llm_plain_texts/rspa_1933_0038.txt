@@ -1,0 +1,10 @@
+article_id: rspa_1933_0038
+revised_title: 'The Influence of Stress and Shear on the Viscosity of Flour Dough'
+semantic_tags:
+  - Rheology
+  - Dough mechanics
+  - Viscosity
+  - Elasticity
+  - Plasticity
+tldr: This study investigates the relationship between viscosity, elasticity, and plastic strength in a soft material like flour dough. The authors found that the dough's viscosity decreases as the shearing stress increases. They also discovered that the rate of shear under a given stress is not uniform and diminishes as the shearing proceeds. This research provides insights into the mechanical properties of dough and its behavior under different conditions.
+scientific_discipline: Physics > Materials Science

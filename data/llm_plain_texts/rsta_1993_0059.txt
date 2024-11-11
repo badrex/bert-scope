@@ -1,0 +1,10 @@
+article_id: rsta_1993_0059
+revised_title: Hydrodynamics and Sediment Dynamics of North Sea Sand Waves and Sand Banks
+semantic_tags:
+  - Coastal Geomorphology
+  - Sediment Dynamics
+  - Hydrodynamics
+  - North Sea
+  - Seabed Drag Coefficients
+tldr: This study investigates the hydrodynamics and sediment dynamics of sand waves and sand banks in the North Sea. Researchers measured seabed drag coefficients at two sites, one within the sand wave field and another at the Norfolk Banks. They found that the drag coefficient increases with wind conditions at the sand banks site, but reduces during high wave conditions at the sand waves site due to drag reduction from sand resuspension. The study highlights the importance of considering sediment effects when modeling wave/current interactions in the region.
+scientific_discipline: Environmental and Earth Sciences > Coastal Geomorphology

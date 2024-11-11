@@ -1,0 +1,10 @@
+article_id: 108996
+revised_title: 'Extensions of Dr. Salmon's Theory of Reciprocal Surfaces'
+semantic_tags:
+  - Algebraic Geometry
+  - Reciprocal Surfaces
+  - Singularities
+  - Surface Theory
+  - Geometry
+tldr: The author extends Dr. Salmon's theory of reciprocal surfaces, introducing new singularities and modifications to the original formulae. They discuss cnicnodes, binodes, pinch-points, close-points, and off-points on the nodal and cuspidal curves of a surface, and explain how these singularities affect the properties of reciprocal surfaces and their Hessian surfaces.
+scientific_discipline: Mathematics > Algebraic Geometry

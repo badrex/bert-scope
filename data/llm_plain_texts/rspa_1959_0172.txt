@@ -1,0 +1,11 @@
+article_id: rspa_1959_0172
+revised_title: 'Investigating Phonon Dispersion in Metals: Copper and Aluminium'
+semantic_tags:
+  - Phonon Dispersion
+  - Lattice Dynamics
+  - Thermal Properties of Metals
+  - Aluminium
+  - Copper
+  - Metal Physics
+tldr: The authors used the measured dispersion law for copper and aluminium to find the corresponding heat capacity at constant volume without relying on force-constant models. They discussed the sensitivity of the calculated heat capacity to changes in the dispersion relation and examined the use of perturbation theory. The study focused on the harmonic approximation and considered the effects of thermal expansion and anharmonicity.
+scientific_discipline: Physics > Solid State Physics

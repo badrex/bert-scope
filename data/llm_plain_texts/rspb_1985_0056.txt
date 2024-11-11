@@ -1,0 +1,10 @@
+article_id: 'rspb_1985_0056'
+revised_title: 'Understanding Evolutionary Change through the Malthusian Parameter and Entropy'
+semantic_tags:
+  - Evolutionary Biology
+  - Population Dynamics
+  - Fitness Indices
+  - Selection Theory
+  - Entropy in Biology
+tldr: This article presents a unified account of the Malthusian parameter and entropy in predicting evolutionary change in populations of macromolecules, cells, and individuals. The Malthusian parameter describes the intrinsic rate of increase of the population, while entropy measures the population's variability and stability. These two parameters act as complementary fitness indices to understand evolutionary change at different levels of selection.
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

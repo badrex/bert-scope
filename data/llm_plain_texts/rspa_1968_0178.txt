@@ -1,0 +1,10 @@
+article_id: rspa_1968_0178
+revised_title: 'Transport Phenomena in Multicomponent Flame Systems'
+semantic_tags:
+  - Flame structure
+  - Reaction kinetics
+  - Transport phenomena
+  - Multicomponent systems
+  - Diffusion
+tldr: This article discusses the transport fluxes in multicomponent flame systems due to diffusion and thermal conduction. It presents equations for the various diffusional, thermal diffusional, and thermal fluxes needed to obtain reaction rates from experimental temperature and composition profiles in flames. The authors also describe the organization of computer programs for calculating multicomponent diffusion and thermal diffusion coefficients and thermal conductivity. They use these expressions to derive equations for mole fraction and temperature gradients in flowing reaction systems, such as flames, where transport processes and reactions occur side by side.
+scientific_discipline: Chemistry > Chemical kinetics

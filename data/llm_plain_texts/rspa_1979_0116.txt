@@ -1,0 +1,10 @@
+article_id: rspa_1979_0116
+revised_title: Bondi's Vector and Seliger & Whitham's Variational Principle in Matter Fields
+semantic_tags:
+  - General Relativity
+  - Conservation Laws
+  - Lagrangian Mechanics
+  - Bondi's Vector
+  - Seliger & Whitham's Method
+tldr: The authors extend Bondi's Newtonian Pointing Vector to other "Bondi-type" conserved quantities using the Seliger & Whitham variational method. They show that these expressions naturally arise in contexts concerned with equations of motion. The authors also derive a pseudo-tensor for General Relativity, which tends to Bondi's vector in the Newtonian limit.
+scientific_discipline: Physics > General Relativity

@@ -1,0 +1,10 @@
+article_id: rspa_1988_0076
+revised_title: 'Rotating Disc Electrodes: Chonoamperometry and Mechanistic Investigations'
+semantic_tags:
+  - Electrochemistry
+  - Rotating Disc Electrodes
+  - Chonoamperometry
+  - Electrode Reaction Mechanisms
+  - Computational Strategy
+tldr: The authors present a general computational strategy for calculating the chronoamperometric responses of potential-step experiments at rotating disc electrodes. They provide theoretical results for various electrode reaction mechanisms, including EC, DISPI, DISP2, and CE reactions. The study allows for the identification of the extent to which different mechanisms can be distinguished and the necessary experiments to differentiate between them. The approach offers simplicity and flexibility in programming, making it useful for exploring the nuances of various mechanisms.
+scientific_discipline: Chemistry > Electrochemistry

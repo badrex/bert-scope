@@ -1,0 +1,10 @@
+article_id: rspa_1959_0157
+revised_title: 'Kinetic Theory and Exchange Processes in Fixed Columns: Limiting Values and Correction Terms'
+semantic_tags:
+  - Chemical kinetics
+  - Exchange processes
+  - Fixed columns
+  - Limiting values
+  - Mathematical modeling
+tldr: This article explores the mathematical modeling of exchange processes in fixed columns, focusing on the limiting values and correction terms in the kinetic theory solution with general entry conditions. The authors use various methods to find the ratio of the concentration of one ion in the fluid to the total concentration of both ions at entry, as well as closer approximations for small but non-zero values. They also discuss the formation, growth, and change of position of the singularity in the limiting value.
+scientific_discipline: Mathematics > Applied Mathematics

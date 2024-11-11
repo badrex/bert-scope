@@ -1,0 +1,10 @@
+article_id: rspa_1957_0013
+revised_title: Hydrodynamic Stability in Unlimited Fields of Viscous Flow
+semantic_tags:
+  - Fluid dynamics
+  - Hydrodynamics
+  - Stability theory
+  - Laminar flow
+  - Boundary layer
+tldr: This article investigates the hydrodynamic stability of flows without solid boundaries, such as jets, wakes, and free boundary layers. The authors extend McKoen's method to obtain a complex equation defining a neutral curve with two branches and a least critical Reynolds number. They apply this method to the stability of a laminar jet and find a critical Reynolds number for instability.
+scientific_discipline: Physics > Fluid dynamics

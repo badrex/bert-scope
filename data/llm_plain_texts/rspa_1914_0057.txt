@@ -1,0 +1,10 @@
+article_id: rspa_1914_0057
+revised_title: 'Effects of Temperature and Magnetizing Force on the Permeability of Magnetically Shielded Iron'
+semantic_tags:
+  - Magnetic materials
+  - Permeability
+  - Temperature effects
+  - Magnetization
+  - Hysteresis
+tldr: The authors conducted experiments on the effects of temperature and magnetizing force on the permeability of magnetically shielded iron. They found that heating the material and cooling it through the temperature at which it becomes magnetizable while shielded from the Earth's magnetism and subjected to a magnetizing force can significantly increase its permeability. The experiments also showed that the higher the maximum permeability, the lower the permeability at higher values of magnetic induction, and that the dissipation of energy due to magnetic hysteresis is lower than in normal stalloy specimens for a given value of magnetic induction.
+scientific_discipline: Physics > Magnetism

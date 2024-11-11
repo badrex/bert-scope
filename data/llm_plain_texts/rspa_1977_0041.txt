@@ -1,0 +1,10 @@
+article_id: rspa_1977_0041
+revised_title: Hyperbolic Distributions for Mass-Size Distributions in Aeolian Sand Deposits
+semantic_tags:
+  - Mass-size distribution
+  - Aeolian sand deposits
+  - Hyperbolic distributions
+  - Maximum likelihood estimation
+  - Particle size analysis
+tldr: The article introduces a family of hyperbolic distributions for mass-size distributions, particularly for aeolian sand deposits. The authors propose maximum likelihood estimation for parameterizing these distributions, which can be applied to various contexts, such as size distributions of diamonds or personal incomes. The study focuses on the mass-size distribution of wind-blown sand and its regularities, as discovered by R. A. Bagnold.
+scientific_discipline: Environmental and Earth Sciences > Geology and Soil Science

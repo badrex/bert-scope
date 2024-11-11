@@ -1,0 +1,10 @@
+article_id: rspa_1978_0091
+revised_title: 'Impact Analysis of Ideal Fibre-Reinforced Rigid-Plastic Plates'
+semantic_tags:
+  - Composite Materials
+  - Impact Mechanics
+  - Plasticity Theory
+  - Anisotropic Materials
+  - Rigid-Plastic Deformations
+tldr: The authors present a theoretical model for the impact analysis of fibre-reinforced rigid-plastic plates, focusing on the deformation and stress behavior of anisotropic materials. They develop a simple model for plates with inextensible fibers in two or more directions and provide solutions for transverse impact problems, considering a general class of yield functions and strain-hardening relations.
+scientific_discipline: Engineering and Technology > Materials Science

@@ -1,0 +1,10 @@
+article_id: rspl_1877_0049
+revised_title: 'Investigation of Spark Length Between Spherical Surfaces in Silver Chloride Battery'
+semantic_tags:
+  - Electrochemistry
+  - Spark length
+  - Battery technology
+  - Voltaic electricity
+  - Electrical potential
+tldr: This article discusses the research on the length of sparks between two spherical surfaces in a silver chloride battery. The authors found that a higher voltage is needed for smaller distances between terminals, and observed that the voltaic arc is stratified under a microscope. They also mentioned their ongoing work on examining the action of bromine on normal paraffins.
+scientific_discipline: Chemistry > Electrochemistry

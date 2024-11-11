@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0158'
+revised_title: 'Poisson Sampling-Based Inference for Single Ion Channel Data'
+semantic_tags:
+  - Biophysics
+  - Ion Channels
+  - Statistical Inference
+  - Poisson Process
+  - Single-Molecule Analysis
+tldr: The authors present a method for inferring single ion channel data using Poisson sampling. They demonstrate that the Poisson sampling-based estimates converge to maximum-likelihood estimates from actual sojourn times. The method can be applied to various ion channel data and is useful for understanding channel gating mechanisms.
+scientific_discipline: Biology and Life Sciences > Biophysics

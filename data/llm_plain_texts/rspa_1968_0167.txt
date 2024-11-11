@@ -1,0 +1,10 @@
+article_id: rspa_1968_0167
+revised_title: 'Singlet Quenching Addends in Hexafluoroacetone Photolysis'
+semantic_tags:
+  - Photolysis
+  - Fluorescence
+  - Quenching
+  - Singlet State
+  - Hexafluoroacetone
+tldr: The authors studied the photolysis of hexafluoroacetone vapor and identified singlet quenching addends that interact with the excited state of the ketone. They found that high pressures of cis-butene-2 inhibit the decomposition of the ketone and cause small amounts of isomerization. The study supports the hypothesis that the singlet state is involved in the interaction with olefines, and the authors discuss the nature of these interactions and their implications.
+scientific_discipline: Chemistry > Physical Chemistry

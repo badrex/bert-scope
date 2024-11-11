@@ -1,0 +1,10 @@
+article_id: rspa_1995_0051
+revised_title: Stability Analysis of Capillary Surfaces and Liquid Bridges
+semantic_tags:
+  - Capillary surfaces
+  - Equilibrium states
+  - Stability analysis
+  - Bifurcation theory
+  - Liquid bridges
+tldr: The authors present a method for determining the stability of general static capillary surfaces, focusing on liquid bridges with fixed contact lines under gravity. They use a preferred bifurcation diagram method, which is based on properties of the Jacobi equation, to analyze the stability of various equilibria and provide a classification system for capillary surfaces. This approach can be applied to other capillary surfaces, such as drops and non-axisymmetric shapes.
+scientific_discipline: Mathematics > Applied Mathematics

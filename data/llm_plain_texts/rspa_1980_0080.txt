@@ -1,0 +1,10 @@
+article_id: rspa_1980_0080
+revised_title: 'Friction Stress and Recovery in High-Temperature Creep: Analyzing Creep Transients Following Stress Reduction'
+semantic_tags:
+  - Creep mechanics
+  - Friction stress
+  - High-temperature materials
+  - Recovery-controlled creep
+  - Nickel-base alloys
+tldr: The authors develop a model based on recovery-controlled creep to describe the behavior of materials after a stress reduction at high temperatures. They test the model using experimental data from a nickel-base alloy and provide an objective method for measuring friction stress. The results indicate the existence of a finite friction stress and support the use of the model for predicting creep behavior in various materials.
+scientific_discipline: Engineering and Technology > Materials Science

@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0157'
+revised_title: 'Neural Monitoring of Visual Stimuli and Frontal Cortex Impairment'
+semantic_tags:
+  - 'Neuroscience'
+  - 'Frontal Cortex'
+  - 'Memory'
+  - 'Dorsolateral Frontal Cortex'
+  - 'Primate Brain'
+tldr: 'This study investigates the impact of lesions in the middle sector of the dorsolateral frontal cortex on non-human primates' ability to recall their choices of visual stimuli. The results show that these lesions cause a significant impairment in recall without affecting the recognition of the stimuli. The findings highlight the critical role of the mid-dorsolateral frontal cortex in monitoring self-generated responses.'
+scientific_discipline: 'Biology and Life Sciences > Neuroscience'

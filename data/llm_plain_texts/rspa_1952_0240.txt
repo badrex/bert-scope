@@ -1,0 +1,10 @@
+article_id: 'rspa_1952_0240'
+revised_title: 'A Discussion on the Energetics of Friction and its Mechanism'
+semantic_tags:
+  - Friction
+  - Energetics
+  - Metal Wear
+  - Rolling Friction
+  - Gliding Friction
+tldr: This article discusses the energetics of friction and the transformation of free energy into heat during the frictional process. The authors debate the mechanism by which work is done against frictional resistance and how it is transformed into heat. They also explore the differences between rolling and gliding friction and the role of potential energy in the deformation of materials.
+scientific_discipline: Physics > Mechanics

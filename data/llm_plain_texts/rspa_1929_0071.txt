@@ -1,0 +1,10 @@
+article_id: rspa_1929_0071
+revised_title: 'Effects of Prolonged Drying on the Combustion of Carbon Monoxide and Oxygen Mixtures'
+semantic_tags:
+  - Combustion
+  - Gas mixtures
+  - Drying
+  - Phosphoric anhydride
+  - Ignitibility
+tldr: The authors conducted experiments on the combustion of well-dried carbon monoxide and oxygen mixtures. They found that a longer drying period had no significant impact on the ignitibility and combustibility of the gas mixture. The experiments used a 6-months P2O5-dried CO2-02 mixture and explored the effect of different spark energies on ignition. The results showed that the mixture could be ignited with a minimum spark energy of 0.77 mF at 970 volts between platinum electrodes.
+scientific_discipline: Chemistry > Combustion and Flame

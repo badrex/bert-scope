@@ -1,0 +1,10 @@
+article_id: rspa_1951_0214
+revised_title: 'Vapour Pressure and Latent Heats of Hydrogen Sulfide'
+semantic_tags:
+  - Thermodynamics
+  - Vapour Pressure
+  - Hydrogen Sulfide
+  - Calorimetry
+  - Phase Transitions
+tldr: The authors conducted experiments to measure the vapour pressure of hydrogen sulfide above the liquid and solid phases. They used a cryostat and a platinum resistance thermometer to measure temperatures and mercury manometers to measure pressures. The results were used to calculate latent heats of fusion and evaporation, which were compared with calorimetric data. This study provides accurate data for the range of temperatures and pressures relevant to thermodynamic calculations and applications.
+scientific_discipline: Chemistry > Thermodynamics

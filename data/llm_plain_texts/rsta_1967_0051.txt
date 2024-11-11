@@ -1,0 +1,10 @@
+article_id: rsta_1967_0051
+revised_title: Particle-Counting Properties of Diamonds: A Comprehensive Study
+semantic_tags:
+  - Diamond physics
+  - Particle counting
+  - Photoconduction
+  - Electronic transitions
+  - Crystal counters
+tldr: This study investigates the particle-counting properties of thirty diamonds, exploring their counting efficiency and response to illumination. The authors classify the diamonds based on their counting behavior and explain the dark characteristics and counting response in terms of charge carrier trapping and recombination. The counting efficiency is found to be related to the purity of the diamonds, with the purest diamonds being the best counters. The asymmetry of the counting property is attributed to the inhomogeneous distribution of defects in the diamonds.
+scientific_discipline: Physics > Optics

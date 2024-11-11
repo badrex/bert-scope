@@ -1,0 +1,10 @@
+article_id: 'rspb_1979_0007'
+revised_title: 'Dopamine-mediated Ionic Mechanisms in Planorbis Synaptic Potentials'
+semantic_tags:
+  - Neurotransmitter: Dopamine
+  - Synaptic Potentials
+  - Planorbis corneus
+  - Inhibitory and Excitatory Postsynaptic Potentials
+  - Ion Conductance
+tldr: The authors studied the ionic basis of different synaptic potentials mediated by a dopamine-containing neuron in Planorbis corneus. They discovered that dopamine neuron produces excitatory, inhibitory, and biphasic postsynaptic potentials in different follower neurons. The inhibitory potentials were associated with an increase in conductance, and it was concluded that they are produced by an increase in permeability to K+ ions.
+scientific_discipline: Biology and Life Sciences > Neurobiology

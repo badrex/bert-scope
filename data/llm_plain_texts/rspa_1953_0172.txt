@@ -1,0 +1,10 @@
+article_id: rspa_1953_0172
+revised_title: 'Experimental Investigation of Neon's Photo-ionization Cross-Section'
+semantic_tags:
+  - Atomic Physics
+  - Spectroscopy
+  - Neon
+  - Photo-ionization
+  - Cross-section
+tldr: The authors conducted experiments to measure the absorption of radiation in neon and determined the photo-ionization cross-section. They found that the cross-section was independent of pressure between 50 and 575 Angstroms, and that it agreed closely with theoretical calculations in the range of 575 to 800 Angstroms. The results provide insight into the processes occurring in electric discharges and help to understand the behavior of neon gas.
+scientific_discipline: Physics > Atomic Physics

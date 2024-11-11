@@ -1,0 +1,10 @@
+article_id: rstb_1976_0101
+revised_title: Neutron Diffraction for Locating RNA in Spherical Plant Viruses
+semantic_tags:
+  - Neutron diffraction
+  - RNA localization
+  - Spherical plant viruses
+  - Bromegrass mosaic virus
+  - Virus structure
+tldr: Researchers used neutron diffraction to determine the location of RNA in a spherical plant virus called bromegrass mosaic virus. They found that the RNA's penetration into the protein shell increases during virus swelling, which is inhibited by magnesium ions. This discovery helps explain the virus's sensitivity to ribonuclease and its behavior in different pH levels.
+scientific_discipline: Biology and Life Sciences > Virology

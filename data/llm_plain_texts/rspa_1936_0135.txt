@@ -1,0 +1,10 @@
+article_id: rspa_1936_0135
+revised_title: Derivation of the Inverse Square Law of Gravitation
+semantic_tags:
+  - Gravitation
+  - Relativity
+  - Kinematics
+  - Mach's principle
+  - Mass-point
+tldr: The author derives the inverse square law of gravitation by considering the acceleration of a free test-particle in the presence of an isolated mass-point in an otherwise empty universe. The study involves the concept of kinematical equivalence and the formation of mass-points in a substratum, leading to the conclusion that the acceleration is inversely proportional to the square of the distance from the mass-point.
+scientific_discipline: Physics > Mechanics

@@ -1,0 +1,10 @@
+article_id: rspa_1990_0088
+revised_title: Mathematical Modelling of Thermal Transport Properties in Carbon-Carbon Fibre Composites
+semantic_tags:
+  - Composite Materials
+  - Thermal Conductivity
+  - Mathematical Modelling
+  - Carbon Fibre Composites
+  - Bruggemann Analysis
+tldr: This article presents a mathematical model for interpreting measured thermal transport data in carbon-carbon fibre composites. The model considers the effects of porosity, fibre orientation, and microstructure on thermal conductivity. The authors use the Bruggemann analysis to calculate the thermal conductivity of the composite materials, taking into account the geometry of the porosity and the thermal conductivities of the individual components. The results demonstrate the importance of the highly oriented matrix graphite in the thermal transport properties of carbon-carbon fibre composites.
+scientific_discipline: Engineering and Technology > Composite Materials

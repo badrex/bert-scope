@@ -1,0 +1,10 @@
+article_id: rspa_1935_0149
+revised_title: Cathode Ray Oscillography for Rapid Surface Gas Reactions
+semantic_tags:
+  - Surface chemistry
+  - Gas adsorption
+  - Cathode ray oscillography
+  - Surface reactions
+  - Thermionic emission
+scientific_discipline: Physics > Optics
+tldr: The authors developed a method called cathode ray oscillography to study high-velocity surface reactions in gas adsorption phenomena. They used a combination of thermionic and photoelectric emission to measure the rate of approach to equilibrium in surface reactions. This method allowed them to observe reactions occurring in interfacial layers of monomolecular thickness, which were previously inaccessible to detailed investigation.

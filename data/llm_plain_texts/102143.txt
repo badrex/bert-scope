@@ -1,0 +1,10 @@
+article_id: 102143
+revised_title: 'A Discourse on Weather and Atmospheric Properties'
+semantic_tags:
+  - Atmospheric Science
+  - Weather Patterns
+  - Fluid Dynamics
+  - Barometer
+  - Meteorology
+tldr: The author discusses the properties of air and its role in weather patterns. They propose that changes in the atmosphere's gravity can explain the ascent of vapors, the formation of clouds, and the falling of rain. The author also explores the connection between atmospheric pressure and wind, suggesting that fluid dynamics principles can help explain wind behavior.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

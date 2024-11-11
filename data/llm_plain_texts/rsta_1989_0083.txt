@@ -1,0 +1,10 @@
+article_id: rsta_1989_0083
+revised_title: Superstring Theory and the Search for a Realistic Vacuum
+semantic_tags:
+  - String Theory
+  - Superstring Theory
+  - Heterotic String Theory
+  - Calabi-Yau Compactification
+  - Conformal Field Theory
+tldr: This article discusses the search for a realistic superstring vacuum, focusing on the heterotic string theory and Calabi-Yau compactification. The authors explore various techniques for constructing superconformal models and the use of conformal field theory in understanding the complex nature of these models. They also touch upon the importance of modular invariance and the role of superconformal symmetry in the search for a viable vacuum.
+scientific_discipline: Physics > Particle Physics

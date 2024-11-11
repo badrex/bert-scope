@@ -1,0 +1,10 @@
+article_id: 'rspb_1984_0064'
+revised_title: 'Effects of Hormones and K+ on Phospholipid Metabolism in Rat Adrenal Cortex'
+semantic_tags:
+  - Hormones
+  - Phospholipid metabolism
+  - Adrenal cortex
+  - Steroidogenesis
+  - Calcium signaling
+tldr: The authors investigated the effects of various hormones (ACTH, serotonin, angiotensin analogues) and K+ on 32P incorporation into phospholipids in rat adrenal cortex cells. They found that serotonin and ACTH stimulated steroidogenesis but had little effect on 32P incorporation, while angiotensin analogues increased 32P incorporation into phosphatidylinositol (PI) and phosphatidic acid (PA) but not phosphatidylcholine (PC). The results suggest that angiotensins may act through calcium, while ACTH and serotonin use cAMP as a second messenger. The authors propose a bioassay method using 32P incorporation into PA as an index of calcium signaling.
+scientific_discipline: Biology and Life Sciences > Endocrinology

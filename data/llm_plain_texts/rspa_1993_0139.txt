@@ -1,0 +1,10 @@
+article_id: rspa_1993_0139
+revised_title: 'Scattering by Two Penny-Shaped Cracks with Spring Boundary Conditions: A Study of Elastodynamic Scattering'
+semantic_tags:
+  - Elasticity
+  - Scattering Theory
+  - Crack Mechanics
+  - Spring Boundary Conditions
+  - Penny-Shaped Cracks
+tldr: The authors investigate the elastodynamic scattering of waves by a penny-shaped crack with spring boundary conditions. They determine the transition matrix of the crack and explore the scattering by two cracks using a multi-centred matrix approach. The back-scattered longitudinal far field amplitude is computed in both frequency and time domains, highlighting the effects of multiple scattering.
+scientific_discipline: Engineering and Technology > Mechanics

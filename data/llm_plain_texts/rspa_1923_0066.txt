@@ -1,0 +1,10 @@
+article_id: 'rspa_1923_0066'
+revised_title: 'On the Equivalence of Lindelöf's Hypothesis and Riemann's Zeta-Function'
+semantic_tags:
+  - Riemann Hypothesis
+  - Analytic Number Theory
+  - Zeta-Function
+  - Dirichlet Series
+  - Lindelöf Hypothesis
+tldr: This article explores the relationship between Lindelöf's hypothesis and Riemann's zeta-function. The authors prove that these two hypotheses are equivalent and discuss various consequences of the Lindelöf hypothesis. They also establish the equivalence of several propositions related to the zeta-function and its applications to the divisor problems of Dirichlet and Piltz.
+scientific_discipline: Mathematics > Analytic Number Theory

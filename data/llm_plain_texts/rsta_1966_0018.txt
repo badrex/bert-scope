@@ -1,0 +1,10 @@
+article_id: rsta_1966_0018
+revised_title: Mobility of Ions in Argon: A Study of Slow Positive Ions
+semantic_tags:
+  - Ion mobility
+  - Gas physics
+  - Argon ions
+  - Glow discharge
+  - Ion formation
+tldr: This article investigates the mobility of slow positive ions in argon gas using a glow discharge source. The authors found that there are two distinct groups of ions with different mobilities, and their presence is influenced by the number of collisions between ions and gas molecules. The study also suggests that the ion species with a lower mobility is likely formed during collisions of the faster ion with neutral gas molecules.
+scientific_discipline: Physics > Ion Physics

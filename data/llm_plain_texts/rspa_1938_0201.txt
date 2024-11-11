@@ -1,0 +1,10 @@
+article_id: rspa_1938_0201
+revised_title: 'A Study of Airstcrew Sound Waves and Their Pressure Patterns'
+semantic_tags:
+  - Aerodynamics
+  - Airstcrew Noise
+  - Vortex Motion
+  - Airflow
+  - Sound Wave Propagation
+tldr: The authors conducted experiments to study the pressure waves and vortex motion caused by an airscrew in motion at high speeds. They used a direct shadow method to photograph the pressure wave system and developed a method to estimate the pressure amplitude of the wave. The findings provide insights into the formation of sound waves and the potential for reducing airscrew noise.
+scientific_discipline: Physics > Fluid Dynamics

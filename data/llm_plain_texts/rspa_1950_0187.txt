@@ -1,0 +1,10 @@
+article_id: 'rspa_1950_0187'
+revised_title: 'The Role of Potassium in the Growth of Bact. Lactis Aerogenes and the Tricarboxylic Acid Cycle'
+semantic_tags:
+  - Biochemistry
+  - Microbiology
+  - Tricarboxylic Acid Cycle
+  - Potassium and Enzyme-Activator
+  - Growth Media
+tldr: 'This study investigates the utilization of carbon sources by Bact. lactis aerogenes and the significance of the tricarboxylic acid cycle. The authors found that potassium plays a crucial role in the growth of the bacteria, acting as an enzyme-activator. They also discovered that the type of medium affects the relationship between potassium concentration and bacterial growth. The findings suggest that other products in the medium can displace potassium from the enzyme, limiting growth.'
+scientific_discipline: Biology and Life Sciences > Microbiology

@@ -1,0 +1,10 @@
+article_id: rspa_1994_0135
+revised_title: Primary Quantum State Diffusion and Decoherence
+semantic_tags:
+  - Quantum mechanics
+  - Quantum state diffusion
+  - Decoherence
+  - Quantum theory
+  - Relativity
+tldr: The author introduces primary quantum state diffusion as an alternative quantum theory that derives classical, quantum, and localization dynamics from four principles. Primary state diffusion is based on the diffusion of quantum states, which leads to the destruction of coherence and localization. The theory satisfies the conditions of a complete physical theory and has potential experimental implications for small systems like atoms and nuclei.
+scientific_discipline: Physics > Quantum Mechanics

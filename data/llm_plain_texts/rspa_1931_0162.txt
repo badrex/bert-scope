@@ -1,0 +1,10 @@
+article_id: rspa_1931_0162
+revised_title: 'The Theory of Electronic Semi-Conductors and Insulators'
+semantic_tags:
+  - Semiconductor theory
+  - Insulator properties
+  - Quantum mechanics
+  - Electronic conduction
+  - Lattice potential
+tldr: The author discusses the application of quantum mechanics to the problem of metallic conduction and electronic semi-conductors. They explain how all electrons in a metal are free, and how the difference between good and bad conductors is due to the effect of impurities and temperature. The author also presents a model of a lattice to show how insulators and semi-conductors can be explained using quantum mechanics.
+scientific_discipline: Physics > Solid State Physics

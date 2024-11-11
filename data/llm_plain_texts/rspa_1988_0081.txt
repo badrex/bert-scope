@@ -1,0 +1,10 @@
+article_id: rspa_1988_0081
+revised_title: Impedance Change in Thin Plates with Cracks: Analytical and Numerical Solutions
+semantic_tags:
+  - Electromagnetic Induction
+  - Eddy Currents
+  - Thin Plates
+  - Cracks
+  - Non-Destructive Testing
+tldr: The authors present a method for calculating the change in coil impedance due to a through-thickness crack in a thin conducting plate. They represent the crack using a distribution of generalized current vortices and derive an expression for the change in coil impedance. Analytical and numerical results are provided for specific cases, demonstrating the effectiveness of the thin-plate model in predicting impedance changes in cracked components.
+scientific_discipline: Engineering and Technology > Materials Science and Engineering

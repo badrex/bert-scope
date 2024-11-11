@@ -1,0 +1,10 @@
+article_id: rsta_1904_0013
+revised_title: 'On the Propagation of Tremors over the Surface of an Elastic Solid'
+semantic_tags:
+  - Seismology
+  - Elasticity
+  - Earthquake
+  - Wave Propagation
+  - Surface Waves
+tldr: This article investigates the propagation of vibrations over the surface of an elastic solid, focusing on the effects of an impulse applied to the surface. The author discusses the phenomena of earthquakes and the role of elastic theory in understanding them. The study examines the behavior of surface waves and their impact on the ground during an earthquake, providing insights into the complex nature of seismic events.
+scientific_discipline: Physics > Seismology

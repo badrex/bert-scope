@@ -1,0 +1,10 @@
+article_id: rsta_1971_0052
+revised_title: 'Charge Separation and Hydrodynamics in Water Drop Splashing'
+semantic_tags:
+  - Hydrodynamics
+  - Charge separation
+  - Atmospheric electricity
+  - Splash mechanics
+  - Electrification
+tldr: This study investigates the separation of electrical charges and the hydrodynamics of water drop splashing on solid surfaces and into thin layers of water. The charges are found to be carried by the liquid fragments ejected from the crown, with the surface generally left with a positive charge. The research also explores the effects of impact speed, drop size, temperature, and applied electric fields on charge separation.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,11 @@
+article_id: 'rspb_1967_0044'
+revised_title: 'Lysozyme Inhibition by Positively Charged Groups in Bacterial Cell Wall Mucopeptide'
+semantic_tags:
+  - Enzyme inhibition
+  - Lysozyme
+  - Bacterial cell wall
+  - Mucopeptide
+  - Positive charges
+tldr: This article discusses how the presence of positively charged groups in the mucopeptide of bacterial cell walls can inhibit lysozyme, an enzyme that breaks down bacterial cell walls. The authors explore various treatments to make bacterial cell walls more susceptible to lysozyme, such as formamide treatment, acetylation, and succinylation. They suggest that the approach of the basic enzyme to its substrate may be hindered by the presence of free amino groups.
+scientific_discipline: Biology and Life Sciences > Biochemistry
+```

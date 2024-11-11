@@ -1,0 +1,10 @@
+article_id: rspa_1928_0037
+revised_title: Triboelectricity and Glass: A Study of Surface Charges and Material Interactions
+semantic_tags:
+  - Triboelectricity
+  - Surface charges
+  - Material interactions
+  - Glass
+  - Solid elements
+tldr: This study investigates the triboelectric properties of glass and solid elements, focusing on the effects of surface cleanliness and physical structure on the charges generated during friction. The authors develop a method to control and measure the charges, finding that the arrangement of solids in a triboelectric series is not accurate. They propose a new approach to understanding triboelectricity, emphasizing the importance of material composition, surface cleanliness, and experimental consistency.
+scientific_discipline: Physics > Electromagnetism

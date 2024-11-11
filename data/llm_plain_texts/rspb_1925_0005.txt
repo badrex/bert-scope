@@ -1,0 +1,11 @@
+article_id: 'rspb_1925_0005'
+revised_title: 'Analyzing Protein and Amino Acid Interactions with Acids and Alkalis'
+semantic_tags:
+  - Biochemistry
+  - Protein chemistry
+  - Amino acid titration
+  - Acid-base titration
+  - Dissociation constants
+tldr: The author describes a method for estimating the amounts of amino acids, proteins, and their interactions with acids and alkalis. The technique involves titrating the substances and determining their dissociation constants to analyze their properties and behavior. This method provides more accurate results than previous methods and can be used to estimate the amounts of various amino acids and proteins in complex mixtures.
+
+scientific_discipline: Chemistry > Biochemistry

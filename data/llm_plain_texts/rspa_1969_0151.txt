@@ -1,0 +1,10 @@
+article_id: rspa_1969_0151
+revised_title: 'Micelle Formation: A Multiple Equilibrium Model and Its Applications'
+semantic_tags:
+  - Micelles
+  - Surface-Active Agents
+  - Thermodynamics
+  - Colligative Properties
+  - Nuclear Magnetic Resonance
+scientific_discipline: Chemistry > Colloids and Surface Chemistry
+tldr: The multiple equilibrium model of micelle formation is developed to describe the thermodynamics of micellization. By analyzing colligative properties and light scattering, the concentration of monomers and average aggregation numbers can be determined. This model helps to understand the behavior of surface-active agents in dilute aqueous solutions and the formation of micelles.

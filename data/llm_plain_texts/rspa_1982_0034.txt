@@ -1,0 +1,10 @@
+article_id: rspa_1982_0034
+revised_title: Analytical Solution of the Fourth Moment Equation for Intensity Fluctuations
+semantic_tags:
+  - Wave Propagation
+  - Random Inhomogeneities
+  - Fourier Transform
+  - Intensity Fluctuations
+  - Scintillation Index
+tldr: The authors present an analytical solution to the fourth moment equation, which describes intensity fluctuations in a medium containing weak random inhomogeneities of refractive index. The solution, valid for any autocorrelation function of refractive index irregularities, is obtained using the method of successive scatters and provides insights into the spatial frequency spectrum of intensity fluctuations and the scintillation index curves as functions of distance in the medium. Examples are given for media with Gaussian and Kolmogorov-type autocorrelation functions.
+scientific_discipline: Physics > Optics

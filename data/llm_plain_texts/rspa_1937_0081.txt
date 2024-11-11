@@ -1,0 +1,10 @@
+article_id: rspa_1937_0081
+revised_title: Vibrational Spectrum of a Three-Dimensional Lattice
+semantic_tags:
+  - Lattice Vibrations
+  - Crystallography
+  - Solid State Physics
+  - Debye Theory
+  - Thermal Properties
+tldr: The authors investigate the vibrational spectrum of a three-dimensional lattice and calculate its properties numerically. They find that the density of normal vibrations has a large accumulation of frequencies in the middle range and increases suddenly at optical frequencies. The study provides insights into the thermal properties of crystals and the behavior of their constituent particles.
+scientific_discipline: Physics > Solid State Physics

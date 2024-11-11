@@ -1,0 +1,10 @@
+article_id: rspa_1976_0106
+revised_title: 'Flexural Waves and Fracture Dynamics in Glass Fibers'
+semantic_tags:
+  - Fracture mechanics
+  - Glass fibers
+  - Flexural waves
+  - Tensile fracture
+  - Wave propagation
+tldr: The authors studied the dynamic response of glass fibers during tensile fracture and observed the propagation of flexural waves. These waves cause secondary 'explosive' failures in the fibers, resulting in a cloud of particulate matter. The research provides insights into the fragmentation process of high-strength glass fibers and the role of flexural waves in their failure.
+scientific_discipline: Engineering and Technology > Materials Science

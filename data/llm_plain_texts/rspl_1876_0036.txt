@@ -1,0 +1,10 @@
+article_id: rspl_1876_0036
+revised_title: 'The Use of Piezometers in Deep-Sea Sounding for Temperature and Pressure Measurements'
+semantic_tags:
+  - Oceanography
+  - Deep-sea research
+  - Piezometry
+  - Temperature measurement
+  - Pressure measurement
+tldr: The author describes the use of piezometers in deep-sea sounding to determine the depth and temperature of the ocean independently of the length of the sounding-line. The piezometer records the combined effects of temperature and pressure, allowing for accurate calculations of the depth and temperature at various ocean depths. The author also discusses the advantages of using piezometers in determining deep-sea temperatures, especially in enclosed seas and near ice.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

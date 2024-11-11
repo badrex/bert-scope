@@ -1,0 +1,10 @@
+article_id: rspa_1976_0058
+revised_title: Aerodynamic Performance Analysis of Vertical Shaft Windmills
+semantic_tags:
+  - Wind energy
+  - Wind turbines
+  - Aerodynamics
+  - Vertical axis wind turbines
+  - Blade element analysis
+tldr: This article presents an aerodynamic performance analysis of a vertical shaft windmill configuration. The authors combine one-dimensional momentum theory with blade element analysis to calculate the induced velocity at the windmill and the mean power output. They also introduce a simple non-uniform induced velocity theory that yields predictions that compare favorably with experimental results. The study focuses on the behavior of vertical axis windmills, which operate at high tip speed ratios and have efficiencies comparable to those of horizontal axis machines.
+scientific_discipline: Engineering and Technology > Renewable Energy

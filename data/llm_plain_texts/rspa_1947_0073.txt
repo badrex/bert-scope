@@ -1,0 +1,10 @@
+article_id: rspa_1947_0073
+revised_title: Lateral Effect on Atmospheric Turbulence and Diffusion
+semantic_tags:
+  - Atmospheric Turbulence
+  - Diffusion
+  - Evaporation
+  - Lateral Effect
+  - Meteorology
+tldr: The authors investigate the impact of lateral turbulence on the diffusion of vapor in the lower atmosphere, specifically focusing on a saturated area of parabolic shape. They propose an empirical formula for lateral diffusivity, which, when combined with existing expressions for normal diffusivity and wind speed, provides a practical model for the lower atmosphere. This model helps estimate the effects of neglecting lateral dispersion and offers a comparison with experimental results.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

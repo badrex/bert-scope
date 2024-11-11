@@ -1,0 +1,10 @@
+article_id: rsta_1948_0008
+revised_title: Compressible Fluid Boundary Layer Integration
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Compressible Flow
+  - Laminar Flow
+  - Aerodynamics
+tldr: This paper explores the integration of laminar boundary-layer equations for a compressible fluid, focusing on the flat plate at zero incidence with or without a pressure gradient in the main stream. The study aims to understand the effects of compressibility on boundary layers and their implications for aerodynamics and fluid dynamics.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rsta_1981_0035
+revised_title: 'Dipolar Oscillations and Phase Interferometry in Solid State NMR: Applications and Techniques'
+semantic_tags:
+  - Nuclear Magnetic Resonance (NMR)
+  - Solid State NMR
+  - Dipolar Oscillations
+  - Phase Interferometry
+  - Double-Resonance
+scientific_discipline: Chemistry > Spectroscopy
+tldr: This article discusses the principles and applications of dipolar oscillations and phase interferometry in solid-state nuclear magnetic resonance (NMR) experiments. The authors present a general theory of double-resonance interactions based on the heteronuclear dipolar Hamiltonian and describe various experiments using dipolar modulation and selective dipolar difference spectra to study hydrogen-bonded systems and catalytic systems. They also explore phase interferometric techniques to examine the motion and structure of sodium ions in alumina.

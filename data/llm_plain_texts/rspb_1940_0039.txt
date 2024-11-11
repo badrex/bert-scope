@@ -1,0 +1,10 @@
+article_id: 'rspb_1940_0039'
+revised_title: 'The Function and Mechanism of the Semicircular Canal in Labyrinthine Responses'
+semantic_tags:
+  - Vestibular system
+  - Labyrinthine tone
+  - Nystagmus
+  - Angular acceleration
+  - Cupula
+tldr: The authors conducted experiments on the isolated labyrinth of Raja to study the responses of single-fibre preparations to angular accelerations and rotation at constant speed. They discovered that the cupula, a jelly mass in the semicircular canal, acts like a swing-door, sweeping from one side of the ampulla to the other in response to forces acting on it through the endolymph. The cupula is a highly damped jelly pendulum with a period of around 20 seconds, and its mechanical properties determine the deformation of the sensory hair cells, which generate the excitation of the end organ. The authors found that the ampulla discharges impulses spontaneously when at rest, and this discharge is augmented during ipsilateral rotation and diminished during contralateral rotation.
+scientific_discipline: Biology and Life Sciences > Neuroscience

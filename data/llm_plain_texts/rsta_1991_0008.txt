@@ -1,0 +1,10 @@
+article_id: rsta_1991_0008
+revised_title: Forced Oscillation Experiments in Ship Dynamics
+semantic_tags:
+  - Ship Hydrodynamics
+  - Forced Oscillation
+  - Hydrodynamic Coefficients
+  - Ship Motion Research
+  - Ship Design
+tldr: This article discusses forced oscillation experiments conducted with scale models to determine hydrodynamic characteristics of ships, focusing on motions in waves and steering and maneuvering qualities. Various methods are used to induce forced oscillations, and some results are presented as examples of this technique, comparing them with calculations based on numerical methods. The article also explores the effects of ship speed and restricted water depth on hydrodynamic motion parameters of a ship.
+scientific_discipline: Engineering and Technology > Shipbuilding and Marine Engineering

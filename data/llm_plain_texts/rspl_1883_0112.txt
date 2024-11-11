@@ -1,0 +1,10 @@
+article_id: rspl_1883_0112
+revised_title: 'Improvements in Galvanometer Design and Sensitivity'
+semantic_tags:
+  - Electromagnetism
+  - Galvanometers
+  - Astatic Instruments
+  - Electrical Measurements
+  - Physics Experiments
+tldr: The authors describe a new reflecting galvanometer with high sensitivity and new forms of astatic galvanometers. They explain the design, construction, and advantages of these instruments, which can be used for various experiments, including measuring the electric resistance of glass and allied substances.
+scientific_discipline: Physics > Electromagnetism

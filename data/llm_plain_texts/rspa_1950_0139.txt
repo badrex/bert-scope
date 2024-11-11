@@ -1,0 +1,10 @@
+article_id: rspa_1950_0139
+revised_title: Bose-Einstein Condensation: Theoretical Investigations and Applications
+semantic_tags:
+  - Statistical mechanics
+  - Quantum statistics
+  - Condensed matter physics
+  - Quantum gases
+  - Thermodynamics
+tldr: This article investigates the Bose-Einstein condensation of a gas, considering various potential fields and dimensions. The authors use a direct rigorous method to study the behavior of the gas's properties, such as mean energy and specific heat, as functions of temperature and mean density. They explore the rectangular box and harmonic oscillator fields in one, two, and three dimensions, providing a rigorous mathematical basis for understanding Bose-Einstein condensation.
+scientific_discipline: Physics > Condensed Matter Physics

@@ -1,0 +1,10 @@
+article_id: 'rstb_1982_0060'
+revised_title: 'The Role of Microbial Interactions in Infectious Disease'
+semantic_tags:
+  - Microbial interactions
+  - Infectious disease
+  - Commensal microorganisms
+  - Pathogenic microbes
+  - Pathogenicity
+tldr: This article discusses the role of microbial interactions in the occurrence of infectious diseases. It highlights the protective effects of commensal microorganisms on mucous surfaces, the potentiation of bacterial infections by existing viral infections, and the harm caused by combinations of microorganisms that are unable to cause significant disease alone. The article also explores the mechanisms of protection, such as the production of low oxygen tension, competition for nutrients, and the formation of inhibitors, and the ways pathogens overcome these protective mechanisms.
+scientific_discipline: Biology and Life Sciences > Microbiology

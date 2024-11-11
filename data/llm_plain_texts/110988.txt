@@ -1,0 +1,10 @@
+article_id: 110988
+revised_title: 'Elastic Force of Vapour at Different Temperatures: A Comparative Analysis'
+semantic_tags:
+  - Thermodynamics
+  - Gas laws
+  - Temperature measurement
+  - Steam and vapor
+  - Elasticity
+tldr: The author compares various formulas for the elastic force of vapor at different temperatures, focusing on the experiments conducted by the French Academy and Magnus. They propose a new formula adapted to the mercurial thermometer and analyze the errors in the existing formulas. The study highlights the importance of accurate temperature measurement in understanding the elastic force of vapor.
+scientific_discipline: Physics > Thermodynamics

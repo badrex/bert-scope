@@ -1,0 +1,10 @@
+article_id: 108008
+revised_title: 'On the Development of the Disturbing Function and its Impact on Planetary Inequalities'
+semantic_tags:
+  - Celestial Mechanics
+  - Planetary Motion
+  - Astronomy
+  - Mathematical Physics
+  - Perturbation Theory
+tldr: This article discusses the development of the disturbing function, which is crucial for understanding the inequalities in the motions of planets caused by their mutual attraction. The author, James Ivory, presents a method to expand the function in a series of parts that can be computed more efficiently, making it easier for astronomers to calculate the place of a planet. This research is essential for the progress of physical astronomy.
+scientific_discipline: Mathematics > Applied Mathematics

@@ -1,0 +1,10 @@
+article_id: rsta_1969_0047
+revised_title: Air Turbulence Measurements and Atmospheric Stability Categories in Urban Areas
+semantic_tags:
+  - Air pollution
+  - Atmospheric stability
+  - Turbulence measurements
+  - Urban meteorology
+  - Diffusion parameters
+tldr: This study investigates air turbulence measurements in Reading and their relation to Turner's stability categories. The authors found that eliminating the high-frequency band of turbulence measurements distinguishes stable categories from neutral ones. The results have implications for calculating the dispersion of pollution from chimneys in urban areas.
+scientific_discipline: Environmental and Earth Sciences > Meteorology and Climatology

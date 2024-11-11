@@ -1,0 +1,10 @@
+article_id: rspa_1938_0109
+revised_title: 'Molecular Ionization and Helium Band Spectrum'
+semantic_tags:
+  - Helium molecules
+  - Molecular ionization
+  - Band spectrum
+  - Quantum theory
+  - Atomic ionization
+tldr: The authors conducted experiments using a balanced space-charge method to investigate ionization in argon, neon, and helium gases when bombarded by electrons. They discovered that ionization in helium occurs below the atomic ionization potential, and the ions formed are molecular ions. The helium band spectrum, which had been previously discovered, is crucial in testing the quantum theory of molecules. The authors conclude that helium molecules are formed by the collision of an excited atom in the 2 state with either a normal atom or another excited atom in the 2 state.
+scientific_discipline: Physics > Atomic and Molecular Physics

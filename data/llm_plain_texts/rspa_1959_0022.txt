@@ -1,0 +1,10 @@
+article_id: rspa_1959_0022
+revised_title: Asymptotic Expansions and Converging Factors: Confluent Hypergeometric, Parabolic Cylinder, Modified Bessel, and Ordinary Bessel Functions
+semantic_tags:
+  - Asymptotic expansions
+  - Converging factors
+  - Confluent hypergeometric functions
+  - Parabolic cylinder functions
+  - Bessel functions
+tldr: The author presents a theory of confluent hypergeometric functions and their applications to special cases like exponential-type integrals, parabolic cylinder functions, modified Bessel functions, and ordinary Bessel functions. The study focuses on replacing the divergent parts of asymptotic expansions with easily calculable series involving converging factors. The author also discusses the Stokes phenomenon and integral representations of the functions.
+scientific_discipline: Mathematics > Applied Mathematics

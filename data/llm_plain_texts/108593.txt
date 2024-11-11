@@ -1,0 +1,10 @@
+article_id: 108593
+revised_title: 'Polyhedra and their Symmetrical Relationships'
+semantic_tags:
+  - Geometry
+  - Polyhedra
+  - Symmetry
+  - Topology
+  - Mathematical Representation
+tldr: The author presents a method for representing polyhedra and their sympolar pairs through a system of numbered faces and summits. This method allows for the creation of paradigms that display the relationships between the faces and summits of a polyhedron, leading to a better understanding of their symmetry and structure.
+scientific_discipline: Mathematics > Geometry

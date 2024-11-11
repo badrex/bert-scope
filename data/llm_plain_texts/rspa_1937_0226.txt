@@ -1,0 +1,10 @@
+article_id: rspa_1937_0226
+revised_title: Angular Distribution of Protons Projected by Fast Neutrons
+semantic_tags:
+  - Nuclear physics
+  - Neutron-proton interaction
+  - Angular distribution
+  - Nuclear scattering
+  - Nuclear theory
+tldr: The authors conducted experiments to study the angular distribution of protons projected by fast neutrons. They found that the distribution depends on the width and shape of the potential hole between neutron and proton interactions. The results showed that the distribution was not isotropic, with a maximum at smaller angles than expected. The study provides valuable information about the nature of neutron-proton interactions and helps improve nuclear theory.
+scientific_discipline: Physics > Nuclear Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1943_0007
+revised_title: 'Cascade Theory with Collision Loss: Accurate Energy Spectrum Calculations'
+semantic_tags:
+  - Particle Physics
+  - Cosmic Radiation
+  - Electrons
+  - Energy Spectrum
+  - Collision Loss
+tldr: The authors H. J. Bhabha and S. K. Chakrabarty present a more accurate theoretical treatment of cascade processes in particle physics, focusing on the effect of collision loss on the energy spectrum of electrons. They provide a mathematical solution that allows for energy distribution calculations for all energies, including those near and below the critical energy. This solution is valid for various depths and offers a quantitative insight into the impact of collision loss on the energy spectrum of cascade electrons.
+scientific_discipline: Physics > Particle Physics

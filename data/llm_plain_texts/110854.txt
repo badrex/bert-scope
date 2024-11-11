@@ -1,0 +1,10 @@
+article_id: 110854
+revised_title: 'A New Method for Measuring Distances Using a Telescope'
+semantic_tags:
+  - Surveying
+  - Geodesy
+  - Telescope
+  - Distance measurement
+  - Field of view
+tldr: Edmund Bowman proposed a method for measuring distances using a telescope by observing the number of divisions on a graduated staff through the telescope's field of view. This method could be useful in surveying when direct measurement by a chain is inconvenient or impossible.
+scientific_discipline: Engineering and Technology > Surveying and Mapping

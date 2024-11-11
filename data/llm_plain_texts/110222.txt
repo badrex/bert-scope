@@ -1,0 +1,11 @@
+article_id: 110222
+revised_title: 'Polarization of Light: Brewster's Law and Arago's Experiment'
+semantic_tags:
+  - Polarization
+  - Brewster's Law
+  - Arago's Experiment
+  - Optics
+  - Refraction
+  - Reflection
+tldr: David Brewster refutes M. Arago's conclusion that the quantity of light polarized by reflection is equal to that of light polarized by refraction at every angle of incidence. Brewster demonstrates that the experiment's phenomena are the result of various refractions and reflections from both surfaces of the glass. He establishes a general law that a pencil of light reflected from the second surface of a transparent plate contains a portion of light polarized in the plane of reflection at all angles of incidence. Above a certain angle, the portion of the pencil polarized by reflection diminishes and eventually disappears, while the pencil above this angle contains a quantity of light polarized perpendicular to the plane of reflection.
+scientific_discipline: Physics > Optics

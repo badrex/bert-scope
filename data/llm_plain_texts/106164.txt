@@ -1,0 +1,10 @@
+article_id: 106164
+revised_title: A Compendious Method for Describing Conic Sections
+semantic_tags:
+  - Geometry
+  - Conic sections
+  - Algebraic geometry
+  - Mathematical analysis
+  - Calculus
+tldr: This article presents a new method for describing conic sections, such as ellipses, hyperbolas, and parabolas, using algebraic and geometric techniques. The author, William Jones, introduces a simple method for generating these curves and explores their properties, including their axes, diameters, and foci. The article also discusses the use of calculus and logarithmic tables to further analyze and derive equations for these curves.
+scientific_discipline: Mathematics > Geometry

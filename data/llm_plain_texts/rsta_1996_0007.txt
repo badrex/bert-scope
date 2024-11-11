@@ -1,0 +1,10 @@
+article_id: 'rsta_1996_0007'
+revised_title: 'Advanced Techniques for Analyzing Thin Surface Films on Metals and Alloys'
+semantic_tags:
+  - Surface Films
+  - Transmission Electron Microscopy
+  - Ultramicrotomy
+  - Corrosion Science
+  - Metal and Alloy Surface Analysis
+tldr: 'The article discusses the importance of understanding the morphology, composition, and structure of thin surface films on metals and alloys for corrosion protection. High-resolution transmission electron microscopy of ultramicrotomed sections provides a route to study these films and their growth processes. The author presents examples of various amorphous and crystalline films, emphasizing the need for precise analysis and observation over a wide resolution range. This approach offers flexibility and detailed insights into the nature of surface films on metals and alloys, contributing to the development of protection strategies.'
+scientific_discipline: 'Engineering and Technology > Materials Science'

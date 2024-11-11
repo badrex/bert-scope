@@ -1,0 +1,10 @@
+article_id: rspa_1978_0160
+revised_title: Dynamics of Neutral Mutation in Gene Frequencies
+semantic_tags:
+  - Population Genetics
+  - Stochastic Differential Equations
+  - Gene Frequency
+  - Evolution
+  - Diffusion Process
+tldr: The author presents a mathematical model to study the evolution of gene frequencies in a large population at a neutral locus. The model uses stochastic differential equations and diffusion processes to describe the effects of selection and mutation over generations. The author focuses on the neutral case with only mutation terms and develops new methods to analyze the model for large values of the effective population size.
+scientific_discipline: Biology and Life Sciences > Population Genetics

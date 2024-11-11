@@ -1,0 +1,10 @@
+article_id: 105128
+revised_title: 'Improvement of Refracting Telescopes through Multiple Eyepieces'
+semantic_tags:
+  - Telescope design
+  - Optics
+  - Refracting telescopes
+  - Eyepiece design
+  - Aberration correction
+tldr: John Dollond explains his method of improving refracting telescopes by using multiple eyepieces to correct aberrations and increase the field of view. He demonstrates that by dividing the refraction between multiple eyepieces, the indistinctness of the image can be reduced. Dollond's innovation led to the development of telescopes with six lenses, which provided a larger field of view and improved image quality.
+scientific_discipline: Physics > Optics

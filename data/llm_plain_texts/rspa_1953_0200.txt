@@ -1,0 +1,10 @@
+article_id: rspa_1953_0200
+revised_title: 'Vibration Spectra of Helical Molecules: Infra-Red and Raman Selection Rules, Intensities, and Approximate Frequencies'
+semantic_tags:
+  - Molecular Vibration
+  - Infra-Red Spectroscopy
+  - Raman Spectroscopy
+  - Helical Molecules
+  - Group Theory
+tldr: The authors discuss the vibration spectra of helical molecules, focusing on infra-red and Raman selection rules, intensities, and approximate frequencies. They use group theory to classify the modes of vibration and derive the selection rules for infra-red and Raman spectra. The authors also calculate the relative intensities of components with various polarizations and provide approximate relations between the spectral frequencies and the number of residues per turn of the helix.
+scientific_discipline: Chemistry > Molecular Spectroscopy

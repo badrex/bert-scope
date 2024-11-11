@@ -1,0 +1,10 @@
+article_id: rspa_1961_0215
+revised_title: 'Anomalous Heat Capacity and Vapor Pressure of Dissociating Saturated Vapors'
+semantic_tags:
+  - Thermodynamics
+  - Chemical Equilibrium
+  - Heat Capacity
+  - Vapor Pressure
+  - Dimerization
+tldr: The authors explore the heat capacity and vapor pressure of dissociating saturated vapors, finding that these properties can be significantly affected by the degree of dissociation and the relative magnitudes of the enthalpies of dissociation and vaporization. They derive expressions for the heat capacities of saturated vapors and examine the conditions that govern the occurrence, size, and sign of any anomalies in these properties. The study also investigates the influence of gas imperfections and the relationship between vapor pressure and temperature.
+scientific_discipline: Chemistry > Thermodynamics

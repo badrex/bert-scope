@@ -1,0 +1,10 @@
+article_id: 'rspb_1994_0011'
+revised_title: 'Serotonergic Modulation of Locomotor Rhythmicity in Rana Temporaria Embryos'
+semantic_tags:
+  - 'Neuroanatomy'
+  - 'Serotonergic System'
+  - 'Locomotor Function'
+  - 'Amphibian Development'
+  - 'Central Pattern Generator'
+tldr: This study examines the neuroanatomy of descending spinal projections from serotonergic raphe interneurons in Rana temporaria embryos and investigates the effects of 5-hydroxytryptamine (5HT) on locomotor activity. The results show that a functional endogenous serotonergic system is established in the spinal cord, which modulates the output of the central pattern generator for swimming. This system is different from that of closely related amphibian Xenopus laevis, which may explain differences in locomotor behavior between the two species.
+scientific_discipline: Biology and Life Sciences > Neurobiology and Developmental Biology

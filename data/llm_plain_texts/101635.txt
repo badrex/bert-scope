@@ -1,0 +1,10 @@
+article_id: 101635
+revised_title: 'Picart's Measurement of the Earth: A Breviate of His Method and Findings'
+semantic_tags:
+  - Geodesy
+  - Surveying
+  - Measurement
+  - Earth's circumference
+  - Triangulation
+tldr: 'Monsieur Picart, a French scientist, measured the Earth's circumference by using a method of triangulation. He found that one degree of latitude measures 57060 toises or 281.5 leagues and 60 toises. This method involved measuring a base of 5663 toises and using accurate instruments and telescopic sights. His findings were significant because they provided a more accurate measurement than previous attempts and could potentially be applied to other countries.'
+scientific_discipline: Environmental and Earth Sciences > Geodesy

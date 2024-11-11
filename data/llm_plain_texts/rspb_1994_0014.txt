@@ -1,0 +1,10 @@
+article_id: 'rspb_1994_0014'
+revised_title: 'Intracellular Calcium Transients in Atrioventricular Node Myocytes'
+semantic_tags:
+  - Calcium signaling
+  - Cardiac physiology
+  - Calcium channels
+  - Calcium release
+  - Atrioventricular node
+tldr: The authors used Fura-2, a fluorescent calcium indicator, to study intracellular calcium transients in spontaneously active myocytes isolated from the atrioventricular node of the rabbit heart. They found that a transient rise in intracellular calcium occurred with each spontaneous action potential, and that calcium entry via L-type calcium channels and the sarcoplasmic reticulum play a significant role in regulating calcium levels in these cells.
+scientific_discipline: Biology and Life Sciences > Cellular Biology and Physiology

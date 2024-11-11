@@ -1,0 +1,10 @@
+article_id: 'rsta_1993_0130'
+revised_title: 'Mass Transport and Chemical Reaction in Taylor-Vortex Flows with Entrained Catalytic Particles: Applications to Immobilized Enzyme Biochemical Reactors'
+semantic_tags:
+  - Chemical Reaction Engineering
+  - Taylor-Vortex Flows
+  - Immobilized Enzyme Reactors
+  - Mass Transport
+  - Catalytic Particles
+tldr: This article discusses mass transport and chemical reactions in Taylor-vortex flows with entrained catalytic particles, focusing on applications to a novel class of immobilized enzyme biochemical reactors. The authors analyze the behavior of solute tracers in these systems, considering factors such as molecular diffusion, interphase solute transport, and reaction rates. They derive macroscale transport equations and provide insights into the design and optimization of these reactors for efficient biocatalytic processes.
+scientific_discipline: Engineering and Technology > Chemical Engineering

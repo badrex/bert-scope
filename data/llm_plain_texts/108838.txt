@@ -1,0 +1,10 @@
+article_id: 108838
+revised_title: 'Solving Simultaneous Differential Equations with Excess Variables'
+semantic_tags:
+  - Differential Equations
+  - Mathematical Analysis
+  - Applied Mathematics
+  - Calculus
+  - Mathematical Physics
+tldr: The author presents a method for solving simultaneous differential equations with more variables than equations, which is essential for understanding complex systems in various fields. By converting these equations into partial differential equations, the author demonstrates how to find the number of theoretically possible integrals and reduce the problem to solving a system of equations with the same number of integrals. This method allows for the discovery of integrals and provides a better understanding of the underlying systems.
+scientific_discipline: Mathematics > Applied Mathematics

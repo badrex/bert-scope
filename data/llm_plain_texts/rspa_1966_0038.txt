@@ -1,0 +1,10 @@
+article_id: rspa_1966_0038
+revised_title: 'Rocket-Grenade Method: Measuring Upper Atmosphere Parameters'
+semantic_tags:
+  - Atmospheric Science
+  - Rocket Technology
+  - Upper Atmosphere Research
+  - Geometrical Acoustics
+  - Wind Velocity Measurement
+tldr: The authors present a theory for measuring temperature, pressure, density, and wind velocity in the upper atmosphere using the rocket-grenade method. They discuss the assumptions and calculations involved in this method, which is based on geometrical acoustics and can provide accurate results for heights up to 30 km. This method has been successfully used in the British upper atmosphere rocket program at Woomera.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

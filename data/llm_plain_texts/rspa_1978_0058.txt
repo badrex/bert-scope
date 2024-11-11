@@ -1,0 +1,10 @@
+article_id: rspa_1978_0058
+revised_title: 'Nonlinear Autoregressive Processes: Methods for Approximating Stationary Distributions'
+semantic_tags:
+  - Time-series analysis
+  - Nonlinear autoregressive processes
+  - Stationary distributions
+  - Autoregression functions
+  - Statistical methods
+tldr: The article introduces methods for approximating the stationary distributions of nonlinear autoregressive processes, which extend the range of behavior available with linear autoregressive-moving average models. The methods involve power-series expansions and can be used to calculate moments, joint moments, and densities of stationary processes. These methods have been verified through computer simulations and can be extended to treat multivariate processes of the same form.
+scientific_discipline: Mathematics > Statistics

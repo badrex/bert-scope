@@ -1,0 +1,10 @@
+article_id: 110149
+revised_title: Correction of Error in Parallax of Fixed Stars Calculation
+semantic_tags:
+  - Astronomy
+  - Celestial Mechanics
+  - Parallax
+  - Error Correction
+  - Fixed Stars
+tldr: The author, J.F.W. Herschel, corrects an error in a previous paper about the parallax of fixed stars. The error was found in the formula and was pointed out in the errata to the Fourth Part of the Philosophical Transactions for 1826. The author re-computed the table accompanying the paper and provides the corrected version.
+scientific_discipline: Astronomy > Celestial Mechanics

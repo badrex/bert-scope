@@ -1,0 +1,10 @@
+article_id: rspa_1963_0162
+revised_title: 'Sticky Collisions in Non-Linear Brownian Movement of a Generalized Rayleigh Model'
+semantic_tags:
+  - Brownian motion
+  - Rayleigh model
+  - Sticky collisions
+  - Statistical mechanics
+  - Markovian process
+tldr: This article explores a new model for non-linear Brownian movement that includes'sticky' collisions, where gas molecules adhere to the piston for a period of time. The study extends the Rayleigh model and maintains the Markovian assumption, allowing for a more accurate representation of the interactions between the piston and its environment. The results show that the equilibrium distribution function is not strictly Gaussian, but remains symmetrical in velocity.
+scientific_discipline: Physics > Statistical Mechanics

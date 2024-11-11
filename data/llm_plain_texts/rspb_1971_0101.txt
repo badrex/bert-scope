@@ -1,0 +1,10 @@
+article_id: 'rspb_1971_0101'
+revised_title: 'Chemical Relationships between Cephalosporins and Penicillins: Synthesis and Mechanisms'
+semantic_tags:
+  - Antibiotics
+  - Penicillins
+  - Cephalosporins
+  - Chemistry
+  - Biochemistry
+tldr: This article discusses the chemical relationships between cephalosporins and penicillins, focusing on their synthesis and mechanisms. The authors explore various methods for converting penicillins into cephalosporins, including opening the thiazolidine ring and modifying the C5 unit. They also investigate the role of sulphenic acids in these transformations and describe alternative methods for trapping and utilizing this intermediate.
+scientific_discipline: Chemistry > Organic Chemistry

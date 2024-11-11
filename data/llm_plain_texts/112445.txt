@@ -1,0 +1,10 @@
+article_id: 112445
+revised_title: 'Sylvester's Ellipsoid and the Motion of a Free Rigid Body'
+semantic_tags:
+  - Rigid body dynamics
+  - Ellipsoids
+  - Angular momentum
+  - Mathematical notation
+  - Mechanics
+tldr: This paper is a follow-up to Professor Sylvester's work on representing the motion of a free rigid body as that of a material ellipsoid rolling on a rough plane. The author introduces a new notation and proves that the component angular momentum of the ellipsoid about any diameter parallel to the rough plane is equal to p, multiplied into the component velocity of the point of contact in the direction at right angles to this diameter. The results are then reduced into a simplified form.
+scientific_discipline: Mathematics > Mechanics

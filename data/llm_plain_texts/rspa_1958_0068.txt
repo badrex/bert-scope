@@ -1,0 +1,10 @@
+article_id: rspa_1958_0068
+revised_title: 'OH Spectra Excitation in Hydrogen Flames and Its Relation to Excess Free Atoms'
+semantic_tags:
+  - Spectroscopy
+  - Chemistry
+  - Hydrogen Flames
+  - Predissociation
+  - Excess Free Atoms
+tldr: The authors studied the excitation of the OH spectra in hydrogen flames and found that the abnormal intensity distribution of certain bands is due to predissociation associated with an excess of free atoms in the flame. This process involves a direct bimolecular association of free atoms to form OH in an unstable state, followed by a radiationless transition to a stable state. This effect occurs under the same conditions as the strong lithium line emission, which is attributed to an excess population of hydrogen atoms.
+scientific_discipline: Chemistry > Spectroscopy

@@ -1,0 +1,10 @@
+article_id: 'rspa_1991_0088'
+revised_title: 'Kolmogorov's Contributions to Small-Scale Turbulence and Recent Developments'
+semantic_tags:
+  - Turbulence
+  - Fluid Mechanics
+  - Dimensional Analysis
+  - Statistical Physics
+  - Kolmogorov Theory
+tldr: This article reviews Kolmogorov's groundbreaking contributions to the understanding of small-scale turbulence and his use of dimensional analysis and scaling methods from statistical physics. It discusses how his ideas have inspired further research in fluid mechanics and mathematics. The paper also explores the implications of Kolmogorov's concept of a steady statistical state for small-scale turbulence and the universal spatial structure of the small scales.
+scientific_discipline: Physics > Fluid Mechanics

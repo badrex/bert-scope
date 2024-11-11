@@ -1,0 +1,10 @@
+article_id: 'rspa_1935_0033'
+revised_title: 'Chemical Electron Emission Theory and Its Application to Haloid Reactions'
+semantic_tags:
+  - Chemical electron emission
+  - Haloid reactions
+  - Electron de-excitation
+  - Excitation functions
+  - Temperature effects
+tldr: The authors develop a theory of chemical electron emission and apply it to certain reactions involving haloids. They discuss the energy distribution function, electron de-excitation, and the effects of temperature on the process. The effective maximum energy of emitted electrons is determined, which can be used for theoretical analysis.
+scientific_discipline: Chemistry > Physical Chemistry

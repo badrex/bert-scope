@@ -1,0 +1,10 @@
+article_id: 108787
+revised_title: On the Volumes and Geometric Properties of Pedal Surfaces
+semantic_tags:
+  - Geometry
+  - Surface Theory
+  - Calculus
+  - Mathematical Analysis
+  - Geometric Properties
+tldr: The author explores the mathematical properties of pedal surfaces, which are the loci of feet of perpendiculars drawn from a point in space to the tangent planes of a given primitive surface. The article establishes relationships between the volumes of pedal surfaces and their origins, and demonstrates that the origins of pedals of equal volume always lie on a surface of the third order. The author also compares the properties of pedal curves and pedal surfaces, and provides examples to illustrate the concepts.
+scientific_discipline: Mathematics > Geometry

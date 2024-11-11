@@ -1,0 +1,10 @@
+article_id: rspa_1952_0079
+revised_title: 'Classification and Enumeration of Nuclear and Atomic States in jj-Coupling'
+semantic_tags:
+  - Nuclear Physics
+  - Atomic Physics
+  - Quantum Mechanics
+  - Group Theory
+  - Isotopic Spin
+scientific_discipline: Physics > Nuclear Physics
+tldr: This article presents a method for classifying and enumerating nuclear and atomic states in jj-coupling using group theory. The authors introduce the concepts of isotopic spin, seniority, and reduced isotopic spin to classify states based on their symmetry properties. They apply this method to the nuclear configurations f7/2> and g9/2> and provide a complete classification and enumeration of the states for these configurations.

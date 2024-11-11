@@ -1,0 +1,10 @@
+article_id: rspa_1958_0240
+revised_title: Intensity Interferometry and Angular Diameter of Sirius
+semantic_tags:
+  - Interferometry
+  - Astronomy
+  - Stellar interferometer
+  - Angular diameter
+  - Astrophysics
+tldr: The authors conducted an experiment using an intensity interferometer to measure the correlation between intensity fluctuations in light from Sirius. They found that the correlation decreased with increasing baseline length, which was consistent with theoretical predictions. The results were used to determine the angular diameter of Sirius, which agreed with astrophysical theory. This experiment confirmed the potential of intensity interferometry for high-resolution astronomical observations.
+scientific_discipline: Astronomy > Interferometry

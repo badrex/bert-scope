@@ -1,0 +1,10 @@
+article_id: rspa_1923_0004
+revised_title: The Theory of Scattering of Alpha and Beta Rays
+semantic_tags:
+  - Particle Physics
+  - Atomic Theory
+  - Nuclear Physics
+  - Scattering Theory
+  - Electromagnetic Radiation
+tldr: The author examines the theory of a beam of electrified particles passing through matter, focusing on the law of distribution of deflections. They develop an equation to describe the scattering of alpha and beta rays, which can be used to determine the atomic law of force. The study assumes that the fields of force of neighboring atoms do not overlap and that the incident beam angle is small.
+scientific_discipline: Physics > Particle Physics

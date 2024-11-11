@@ -1,0 +1,11 @@
+article_id: rspa_1938_0030
+revised_title: Relaxation Methods Applied to Engineering Problems: Basic Theory and Applications
+semantic_tags:
+  - Engineering
+  - Mathematics
+  - Physics
+  - Elasticity
+  - Electrical Networks
+  - Gyrostatic Systems
+tldr: The authors present a relaxation method for solving engineering problems, focusing on frameworks, surveying, and electrical networks. They extend the method to gyrostatic systems and demonstrate its applicability to other problems in engineering and physics. The method is essentially a technique for obtaining approximate solutions to systems of linear simultaneous equations.
+scientific_discipline: Mathematics > Engineering Applications

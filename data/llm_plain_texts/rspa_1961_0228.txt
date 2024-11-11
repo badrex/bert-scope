@@ -1,0 +1,10 @@
+article_id: rspa_1961_0228
+revised_title: Atomic g-Values of Rare-Earth Atoms
+semantic_tags:
+  - Atomic Physics
+  - Rare Earth Elements
+  - Atomic Spectroscopy
+  - Magnetic Resonance
+  - Quantum Mechanics
+tldr: The authors measured the atomic g-values of several rare-earth atoms using the atomic beam magnetic resonance technique. They found that intermediate coupling, relativistic, and diamagnetic corrections recently calculated by Judd and Lindgren provide good agreement with the measured values of Nd, Sm, Gd, Dy, and Er. The results support the idea of fairly pure coupling between the electrons and indicate a strong interaction between the ground state and a low-lying state from another configuration.
+scientific_discipline: Physics > Atomic Physics

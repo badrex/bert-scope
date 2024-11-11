@@ -1,0 +1,10 @@
+article_id: rspa_1962_0177
+revised_title: Nuclear-Electron Double Resonance in Solutions of Potassium Nitrosyl Sulphonate and Potassium Nitrosyl Pentacyano Chromium (III)
+semantic_tags:
+  - Nuclear Magnetic Resonance (NMR)
+  - Overhauser Effect
+  - Spin Dynamics
+  - Chemical Interactions
+  - Free Radicals
+tldr: The authors studied the effect of exciting electron resonance on nuclear resonance spectra in solutions of free radicals, observing the Overhauser effect. They found that the nuclear polarization produced by microwave power varies with the concentration of the radical and the presence of oxygen or paramagnetic ions. This research can provide information about intermolecular forces and improve signal-to-noise ratios in nuclear resonances.
+scientific_discipline: Chemistry > Nuclear Magnetic Resonance (NMR)

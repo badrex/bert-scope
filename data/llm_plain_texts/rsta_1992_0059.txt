@@ -1,0 +1,10 @@
+article_id: 'rsta_1992_0059'
+revised_title: 'Time-Resolved Macromolecular Crystallography: Techniques and Challenges'
+semantic_tags:
+  - Crystallography
+  - Time-Resolved Experiments
+  - Synchrotron X-ray Sources
+  - Macromolecular Structure
+  - Protein Dynamics
+tldr: This article discusses time-resolved crystallography, a technique that allows researchers to study dynamic processes in macromolecules. The author explains the principles, problems, and practice of time-resolved crystallography, focusing on the use of synchrotron X-ray sources and the challenges involved in detecting structural intermediates and analyzing data. The article also highlights recent developments and applications of time-resolved crystallography in studying protein dynamics and molecular mechanisms.
+scientific_discipline: Physics > Optics

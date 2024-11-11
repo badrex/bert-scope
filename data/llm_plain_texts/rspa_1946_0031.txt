@@ -1,0 +1,10 @@
+article_id: rspa_1946_0031
+revised_title: 'Bi-variate Partial Fractions and Their Applications in Flutter and Stability Problems'
+semantic_tags:
+  - Bi-variate Polynomials
+  - Flutter
+  - Stability Problems
+  - Aero-elastic Oscillations
+  - Determinantal Equations
+tldr: The article presents a simple expansion method based on bi-variate partial fractions to construct polynomials of interpolation. This method is applied to the expansion and solution of determinantal equations commonly encountered in flutter and stability investigations of aeroplanes. The author also discusses the possible use of a d.c. network analyzer as an aid to rapid solution. The method can be extended to three or more variables.
+scientific_discipline: Mathematics > Algebra

@@ -1,0 +1,10 @@
+article_id: 'rspa_1960_0072'
+revised_title: 'Quantum-Mechanical Study of Water Molecule'
+semantic_tags:
+  - Quantum Mechanics
+  - Molecular Bonding
+  - Water Molecule
+  - Electron-Pair Theory
+  - Orbital Configurations
+tldr: This article presents a quantum-mechanical study of the water molecule, focusing on its binding energy and orbital configurations. The authors use electron-pair theory and orbital approximations to analyze the molecule's structure and bonding.
+scientific_discipline: Chemistry > Molecular Chemistry

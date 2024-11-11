@@ -1,0 +1,10 @@
+article_id: rspa_1958_0111
+revised_title: Reflexion of Cylindrical Gravitational Waves by a Rigid Cylindrical Shell
+semantic_tags:
+  - Gravitational Waves
+  - General Relativity
+  - Cylindrical Waves
+  - Rigid Cylindrical Shell
+  - Surface Distribution
+tldr: The authors study the reflexion of cylindrical gravitational waves by a thin rigid cylindrical shell, considering it as a surface distribution. They show that if the shell is perfectly rigid, total reflexion occurs. Quasi-periodic incident waves lead to a completely periodic standing wave state between the reflector and a central wave-source, with the field outside the system remaining static.
+scientific_discipline: Physics > General Relativity

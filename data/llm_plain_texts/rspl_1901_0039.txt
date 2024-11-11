@@ -1,0 +1,10 @@
+article_id: rspl_1901_0039
+revised_title: 'Effect of Temperature on the Growth of Magnetism in Iron under Alternating Magnetic Force'
+semantic_tags:
+  - Magnetism
+  - Iron
+  - Alternating magnetic field
+  - Temperature effect
+  - Induction density
+tldr: The author investigates the growth of magnetism in an iron cylinder when the magnetizing force is alternating. They found that the average induction density at different parts of the core is affected by the frequency and the maximum limits of the magnetic field. The author also observed that raising the temperature of the magnet tends to equalize the maximum induction density at the center and the surface of the core.
+scientific_discipline: Physics > Electromagnetism

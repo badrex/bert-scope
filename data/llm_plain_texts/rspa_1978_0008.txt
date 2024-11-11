@@ -1,0 +1,10 @@
+article_id: rspa_1978_0008
+revised_title: Excitation of the 3p-Subshell in Chromium Vapour: A Study of Atomic Absorption Spectrum
+semantic_tags:
+  - Atomic Physics
+  - Spectroscopy
+  - Chromium
+  - Absorption Spectrum
+  - Hartree-Fock Calculations
+tldr: The authors studied the atomic absorption spectrum of chromium vapour in the region of 3p-subshell excitation. They observed a strong discrete spectrum and compared it with Hartree-Fock calculations to establish the energy of the absorption thresholds. The results provide insights into the differences between atomic and metallic spectra of chromium and help interpret the observed features.
+scientific_discipline: Physics > Atomic Physics

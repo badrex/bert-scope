@@ -1,0 +1,10 @@
+article_id: rsta_1989_0022
+revised_title: Solar-Terrestrial Physics: An Overview and Its Importance to Man
+semantic_tags:
+  - Magnetosphere
+  - Ionosphere
+  - Solar Wind
+  - Plasma Physics
+  - Space Environment
+tldr: Solar-terrestrial physics studies the near-Earth space environment, including the solar wind, magnetosphere, ionosphere, and thermosphere. It is essential for understanding the effects of solar and geomagnetic activity on satellites, radio communications, and power grid systems. The author explains the processes that occur in the magnetosphere, ionosphere, and solar wind, and their impact on Earth's atmosphere and technology. The study of solar-terrestrial physics is crucial for the development of space technology and understanding the universe.
+scientific_discipline: Physics > Plasma Physics

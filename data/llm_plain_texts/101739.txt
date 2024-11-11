@@ -1,0 +1,10 @@
+article_id: 101739
+revised_title: 'A Description of John Coniers' Hygroscope and its Observations'
+semantic_tags:
+  - Hygroscope
+  - Temperature measurement
+  - Environmental sensors
+  - Weather forecasting
+  - Deal-wood properties
+tldr: John Coniers, an apothecary, invented a hygroscope device to measure temperature and weather changes. The hygroscope consists of two different contrivances that use Deal-wood panels to detect changes in temperature and humidity. Coniers observed that the panels move by shrinking in summer and swelling in winter, and that they can also predict weather conditions and wind directions. This device could be used as an alternative to weathercocks and thermometers.
+scientific_discipline: Environmental and Earth Sciences > Environmental Sensors

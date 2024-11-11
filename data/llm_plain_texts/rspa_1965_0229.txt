@@ -1,0 +1,10 @@
+article_id: rspa_1965_0229
+revised_title: 'The Role of Hydroxyl Radicals in the Photolysis of Ozone with Hydrogen-Containing Substances'
+semantic_tags:
+  - Atmospheric Chemistry
+  - Ozone Photolysis
+  - Hydroxyl Radicals
+  - Quantum Yields
+  - Chain Reactions
+tldr: The authors studied the photolysis of ozone mixed with hydrogen-containing substances, such as water vapor, hydrogen, methane, hydrogen chloride, and ammonia. They found that the quantum yield of the photolysis increased in the presence of these substances. The researchers suggested that oxygen atoms formed in the primary photolysis step react with the added gas to form a hydroxyl radical, which then propagates a chain reaction. This discovery helps to understand the complex reactions occurring in the Earth's atmosphere.
+scientific_discipline: Chemistry > Atmospheric Chemistry

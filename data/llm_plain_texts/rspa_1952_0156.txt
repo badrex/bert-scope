@@ -1,0 +1,10 @@
+article_id: 'rspa_1952_0156'
+revised_title: 'Influence of Radiation on the Lamb Shift in Hydrogen Atoms'
+semantic_tags:
+  - Quantum Electrodynamics
+  - Lamb Shift
+  - Black-body Radiation
+  - Atomic Physics
+  - Hydrogen Atom
+tldr: 'The authors, Auluck and Kothari, study the effect of electromagnetic radiation on the Lamb shift in hydrogen atoms. They find that the change in the Lamb shift due to radiation is of the same order as the Lamb shift itself. The majority of the change is contributed by transitions to discrete energy levels. This discovery has implications for astrophysics and quantum electrodynamics.'
+scientific_discipline: Physics > Atomic Physics

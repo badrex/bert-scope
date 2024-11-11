@@ -1,0 +1,10 @@
+article_id: rspa_1952_0100
+revised_title: 'Diffraction of Acoustic and Electromagnetic Pulses by Wedges'
+semantic_tags:
+  - Acoustic diffraction
+  - Electromagnetic diffraction
+  - Wedge geometry
+  - Wave equation
+  - Tschplygin transformation
+tldr: The article investigates the diffraction of an acoustic pulse and an electromagnetic disturbance by a wedge. It uses the Tschplygin transformation to reduce the wave equation to Laplace's equation and applies Poisson's formula to the sectoral domain. The solution is simpler than previous methods and can be applied to more general excitations via Duhamel superposition.
+scientific_discipline: Physics > Acoustics and Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rsta_1980_0157
+revised_title: Wave Propagation and Transport in the Middle Atmosphere
+semantic_tags:
+  - Atmospheric Science
+  - Middle Atmosphere Dynamics
+  - Rossby Waves
+  - Equatorial Waves
+  - Wave-Mean Flow Interaction
+tldr: This article discusses the dynamics of wave propagation and wave transport in the middle atmosphere, focusing on vertically propagating, forced, planetary scale waves. It explores extratropical planetary waves and equatorial waves, their interaction with the mean flow, and their role in maintaining the zonal mean momentum and temperature budgets, as well as the ozone budget. The article also explains the importance of wave transience and wave damping in these processes.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

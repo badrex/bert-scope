@@ -1,0 +1,10 @@
+article_id: 110615
+revised_title: Investigating Earth's Interior: Precession and Nutation with Fluidity Assumption
+semantic_tags:
+  - Geophysics
+  - Earth's Interior
+  - Precession
+  - Nutation
+  - Fluid Dynamics
+tldr: This paper explores the state of the Earth's interior, focusing on precession and nutation phenomena while assuming the Earth's interior is filled with fluid. The author investigates the amount of lunisolar precession and nutation, considering a solid spheroidal shell filled with fluid. The study examines the effects of the shell's thickness on precession and nutation, concluding that the precession remains the same regardless of the shell's thickness, while the nutation might change depending on the shell's thickness.
+scientific_discipline: Earth Sciences > Geophysics

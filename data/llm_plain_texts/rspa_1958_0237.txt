@@ -1,0 +1,10 @@
+article_id: rspa_1958_0237
+revised_title: 'Influence of Solvent Polarization on Infra-red Spectroscopy'
+semantic_tags:
+  - Vibrational spectroscopy
+  - Solvent effects
+  - Molecular interactions
+  - Reaction field theory
+  - Infra-red frequencies
+scientific_discipline: Chemistry > Physical Chemistry
+tldr: The article discusses the effects of solute-solvent interactions on the vibrational spectrum of a dissolved molecule. The authors evaluate the interaction energy as a power series in the normal coordinates of the active molecule and find that solvent shifts in vibrational frequencies are proportional to the density of the solvent. The theory also predicts that the intensities of vibrational bands of dissolved molecules are related to the refractive index of the solvent and depend on the derivatives of the dipole moment with respect to the normal coordinates. This study provides important information about intermolecular forces and molecular dynamics in dense media.

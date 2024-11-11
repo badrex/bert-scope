@@ -1,0 +1,10 @@
+article_id: rspa_1962_0131
+revised_title: 'Advanced Method for Analyzing Viscous Flow Stability Between Rotating Cylinders'
+semantic_tags:
+  - Fluid Dynamics
+  - Viscosity
+  - Rotating Cylinders
+  - Taylor Number
+  - Adjoint System
+tldr: The authors present a new method for solving the characteristic value problem related to the stability of viscous flow between rotating cylinders. This method uses the concept of adjointness in differential systems and provides more precise results than previous methods. The research has implications for understanding the behavior of fluids in various applications, such as engineering and geophysics.
+scientific_discipline: Physics > Fluid Dynamics

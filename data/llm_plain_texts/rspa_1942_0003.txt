@@ -1,0 +1,10 @@
+article_id: rspa_1942_0003
+revised_title: 'Quantum Reflexion and Scattering of X-Rays with Change of Frequency'
+semantic_tags:
+  - X-ray scattering
+  - Quantum mechanics
+  - Crystal optics
+  - Crystal dynamics
+  - Frequency change
+tldr: The author, Sir C. V. Raman, discovered two new X-ray phenomena, quantum reflexion and quantum scattering, which occur when X-ray photons excite the crystal lattice's infra-red vibrations. These phenomena involve changes in frequency and have significant implications for crystal optics and dynamics. The author explains the theory behind these effects and discusses their temperature dependence and experimental confirmation.
+scientific_discipline: Physics > Optics

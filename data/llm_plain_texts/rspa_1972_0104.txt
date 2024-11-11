@@ -1,0 +1,10 @@
+article_id: rspa_1972_0104
+revised_title: 'Screw Dislocation and Void Interactions in Materials'
+semantic_tags:
+  - Materials Science
+  - Dislocation Theory
+  - Void Growth
+  - Irradiated Materials
+  - Elasticity
+tldr: The article discusses the interaction between dislocations and voids in materials, particularly in the context of irradiated materials. The authors propose a mechanism called the "induced image effect" to explain void growth in materials like steel, where the dislocation density does not drop at saturation. They provide a mathematical formulation and numerical evaluations of the interaction energy and force between a screw dislocation and a void, which can help in understanding the growth kinetics of voids in materials.
+scientific_discipline: Materials Science > Dislocation Theory

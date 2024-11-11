@@ -1,0 +1,10 @@
+article_id: '107990'
+revised_title: 'Experimental Determination of Magneto-Electric Induction in Different Metals'
+semantic_tags:
+  - Electromagnetism
+  - Magneto-electricity
+  - Conductivity
+  - Metals
+  - Induction
+tldr: The author conducted experiments to determine the intensity of electric currents in different metals under the same magneto-electric induction. They found that the intensity of the current in a metal is proportional to its conducting power, and that the difference in currents between copper and iron is accurately counterbalanced by the difference in their transmission facilities. This discovery helps in measuring the difference in intensities of electric currents and the conducting powers of different substances.
+scientific_discipline: Physics > Electromagnetism

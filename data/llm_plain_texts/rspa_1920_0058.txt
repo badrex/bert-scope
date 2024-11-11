@@ -1,0 +1,10 @@
+article_id: rspa_1920_0058
+revised_title: Investigating the Effects of Electron Collisions with Neon Atoms
+semantic_tags:
+  - Electron collisions
+  - Neon atoms
+  - Ionization
+  - Radiation
+  - Atomic systems
+tldr: This article presents an investigation of the effects of electron collisions with neon atoms using a method similar to that used with helium and argon. The authors found that a negative current indicating radiation is first produced when the applied accelerating potential difference is about 11 volts, and that a sudden increase in the amount of radiation produced takes place when the applied potential difference is increased to about 16 volts. They also discovered that ionization occurs at an applied potential difference of about 15 volts, and that the increased production of ionization occurs at different potential differences.
+scientific_discipline: Physics > Electricity and Magnetism

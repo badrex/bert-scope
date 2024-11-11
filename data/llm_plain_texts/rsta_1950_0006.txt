@@ -1,0 +1,10 @@
+article_id: rsta_1950_0006
+revised_title: Advances in Gaseous Density Determination Techniques
+semantic_tags:
+  - Microbalance technique
+  - Gaseous density
+  - Gas pressure measurement
+  - Quartz microbalance
+  - High-precision density determinations
+tldr: This article discusses the development of a sensitive and stable quartz microbalance for the precise determination of gaseous densities. The authors describe the construction of the microbalance, the requirements for accurate measurements, and the improvements made to the technique for measuring gas pressures. The microbalance technique, when used with a mercury manometer, provides a reliable method for determining gaseous densities by comparing pressures at different densities.
+scientific_discipline: Physics > Optics

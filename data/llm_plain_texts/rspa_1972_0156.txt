@@ -1,0 +1,10 @@
+article_id: rspa_1972_0156
+revised_title: 'Turbulent Shear Flow: Local Transport Equations and Mean Velocity Profile'
+semantic_tags:
+  - Fluid Dynamics
+  - Turbulence
+  - Transport Equations
+  - Shear Flow
+  - Reynolds Number
+tldr: The authors develop local transport equations for turbulent shear flow in a channel, expanding the nonlinear integral transport equations in a series of homogeneous kernels. They approximate the integral equations for kinetic energy and shear stress, finding that the spatial average of the kinetic energy spectrum follows the Kolmogoroff distribution. This leads to a simple solution for the mean velocity profile, which compares well with experimental results.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1911_0075
+revised_title: The Influence of Solvent on the Position of Absorption Bands in Solutions: A Theoretical Formulation
+semantic_tags:
+  - Spectroscopy
+  - Solvent effects
+  - Absorption spectra
+  - Dispersion
+  - Molecular interactions
+tldr: The authors investigate how the solvent affects the position of absorption bands in solutions. They develop a theoretical formulation based on dispersion formulas and discuss its implications for understanding the behavior of dissolved substances in different solvents. The study highlights the importance of molecular interactions and physical or chemical changes in the absorption spectra of solutions.
+scientific_discipline: Chemistry > Spectroscopy

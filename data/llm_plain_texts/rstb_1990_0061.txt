@@ -1,0 +1,10 @@
+article_id: rstb_1990_0061
+revised_title: 'Diatom Taxonomy and Data Handling in Palaeolimnology: The Surface Water Acidification Project'
+semantic_tags:
+  - Palaeolimnology
+  - Diatoms
+  - Lake Acidification
+  - Taxonomy
+  - Data Handling
+tldr: The article discusses the importance of standardizing diatom taxonomy and data handling in the Surface Water Acidification Project (SWAP). It describes the process of creating a unified taxonomic guide, resolving taxonomic issues, and developing a computerized database (disco) to store and process diatom data. The article also highlights the challenges faced in identifying problematic taxa, such as Aulacoseira, and the methods used to address them.
+scientific_discipline: Environmental and Earth Sciences > Limnology

@@ -1,0 +1,11 @@
+article_id: 'rspb_1985_0097'
+revised_title: 'Variational Principles and Analog Networks for Solving Early Vision Problems'
+semantic_tags:
+  - Computational Vision
+  - Ill-posed Problems
+  - Regularization Analysis
+  - Analog Networks
+  - Vision Algorithms
+tldr: The article discusses a theoretical framework that connects computational theories of early vision to analogue networks for solving ill-posed problems. It explains how variational principles can be used to solve early vision problems and how specific electrical, chemical, or neuronal networks can be derived for tasks like edge detection and visual motion computation.
+scientific_discipline: 'Mathematics > Applied Mathematics'
+sub_discipline: 'Computational Methods in Vision'

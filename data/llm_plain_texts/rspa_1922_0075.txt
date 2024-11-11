@@ -1,0 +1,10 @@
+article_id: rspa_1922_0075
+revised_title: 'On the Mutual Threading of Vortex Rings: A Study of Fluid Dynamics'
+semantic_tags:
+  - Fluid dynamics
+  - Vortex rings
+  - Vorticity
+  - Stream functions
+  - Relative motion
+tldr: This article explores the mutual threading of vortex rings and their motion in fluid dynamics. The author presents a method for determining the conditions of permanent union for two given vortex rings and discusses the relative paths, velocities, and periods of revolution of these rings. The study provides insights into the behavior of vortices and their interactions in fluid systems.
+scientific_discipline: Physics > Fluid Dynamics

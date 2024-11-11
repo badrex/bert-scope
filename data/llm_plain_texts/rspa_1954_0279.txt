@@ -1,0 +1,10 @@
+article_id: rspa_1954_0279
+revised_title: Coherent Scattering of Gamma-Rays by K Electrons in Heavy Atoms
+semantic_tags:
+  - Quantum Mechanics
+  - Relativistic Physics
+  - Atomic Physics
+  - Gamma-Ray Scattering
+  - Heavy Atoms
+tldr: The authors present a method for evaluating transition amplitudes for bound electrons in heavy atoms in second-order perturbation theory. They focus on the coherent scattering of gamma-rays by K electrons and provide a detailed explanation of the method, including the derivation of differential equations and the final integrals involved in the calculations.
+scientific_discipline: Physics > Quantum Mechanics

@@ -1,0 +1,10 @@
+article_id: rspa_1992_0144
+revised_title: Geodesic Distance and Collinearity Testing in Shape Spaces
+semantic_tags:
+  - Geometry
+  - Shape Analysis
+  - Collinearity Testing
+  - Riemannian Manifolds
+  - Statistics
+tldr: The author introduces a new method for testing collinearity in shape spaces using geodesic distances and the singular-values decomposition of matrices. This method can be used to analyze near-collinearity in various applications, providing a more accurate assessment of one-dimensional deficiencies in data sets.
+scientific_discipline: Mathematics > Geometry

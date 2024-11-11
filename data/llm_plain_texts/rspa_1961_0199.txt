@@ -1,0 +1,10 @@
+article_id: rspa_1961_0199
+revised_title: 'Electron Capture in Fast Collisions: Capture by Fast Protons in Atomic Hydrogen'
+semantic_tags:
+  - Atomic physics
+  - Electron capture
+  - Nuclear collisions
+  - Particle physics
+  - Quantum mechanics
+tldr: The authors present a theoretical study of electron capture in fast collisions, specifically focusing on capture by fast protons in atomic hydrogen. They employ formal perturbation theory to obtain the matrix element for electron capture by fast particles and provide explicit formulae for the transition. Detailed calculations are carried out for protons in atomic hydrogen, showing that distortion significantly reduces the cross-section at proton energies below 100, but at higher energies, its effects and those of the internuclear potential largely cancel each other.
+scientific_discipline: Physics > Atomic and Nuclear Physics

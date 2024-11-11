@@ -1,0 +1,10 @@
+article_id: 'rspa_1964_0215'
+revised_title: 'High-Strength Iron Alloys: Advances in Precipitation Hardening and Grain Refinement'
+semantic_tags:
+  - Steel manufacturing
+  - Precipitation hardening
+  - Grain refinement
+  - Niobium alloys
+  - Steel properties
+tldr: This article discusses the development of high-strength iron alloys through precipitation hardening and grain refinement. The addition of elements like niobium, which form carbides with smaller solubility in ferrite, allows for precipitation within the ferrite grain, increasing the yield strength of the steel. The article also highlights the improvements in mechanical properties and ductility achieved through these processes.
+scientific_discipline: Engineering and Technology > Materials Science

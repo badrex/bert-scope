@@ -1,0 +1,10 @@
+article_id: rsta_1972_0055
+revised_title: 'Vortex Filament Motion with Axial Flow: A General Equation and Approximate Equations'
+semantic_tags:
+  - Fluid Dynamics
+  - Vortex Filament
+  - Axial Flow
+  - Trailing Vortices
+  - Vortex Stability
+tldr: The authors study the motion of a vortex filament with axial flow, focusing on long helical waves. They develop a method to obtain results for vortices of non-uniform structure and for displacements that are not necessarily small compared to the core radius. A general equation for the motion of a vortex filament is derived, valid for arbitrary shape and internal structure, and in the presence of an external irrotational velocity field.
+scientific_discipline: Physics > Fluid Dynamics

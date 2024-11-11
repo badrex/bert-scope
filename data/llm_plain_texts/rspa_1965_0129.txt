@@ -1,0 +1,10 @@
+article_id: rspa_1965_0129
+revised_title: Contact Temperatures in Rolling and Sliding Surfaces: A Comprehensive Study
+semantic_tags:
+  - Thermal Conductivity
+  - Friction
+  - Heat Transfer
+  - Lubrication
+  - Surface Temperature
+tldr: This study investigates the surface temperatures of two rubbing surfaces in contact with a heat source. The authors analyze the temperature distribution and heat flow in the contact zone, considering various factors such as the ratio of sliding velocities, the effect of convective cooling, and the distribution of heat sources. The findings provide valuable insights into the temperature behavior of rubbing surfaces and contribute to the understanding of heat transfer in frictional contacts.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

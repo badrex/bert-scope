@@ -1,0 +1,10 @@
+article_id: 'rstb_1989_0019'
+revised_title: 'Spectroscopic Methods in Photosynthesis: Investigating Photosystem Stoichiometry and Chlorophyll Antenna Size'
+semantic_tags:
+  - Photosynthesis
+  - Photosystem Stoichiometry
+  - Chlorophyll Antenna Size
+  - Spectroscopy
+  - Thylakoid Membranes
+tldr: This article explores the use of spectroscopic methods to measure photosynthesis, focusing on photosystem stoichiometry and chlorophyll antenna size. The authors found that the ratio of photosystem II to photosystem I reaction centers varies among different photosynthetic organisms, and that the size of the chlorophyll antenna affects the efficiency of electron flow between the two photosystems.
+scientific_discipline: Biology and Life Sciences > Photosynthesis

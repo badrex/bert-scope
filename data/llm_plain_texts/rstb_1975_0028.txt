@@ -1,0 +1,10 @@
+article_id: 'rstb_1975_0028'
+revised_title: 'Sodium and Potassium Effects on Excitable Membrane Properties in Xenopus laevis Nodes of Ranvier'
+semantic_tags:
+  - Ion channels
+  - Membrane potential
+  - Neurophysiology
+  - Sodium-potassium pump
+  - Xenopus laevis
+tldr: This study investigates the effects of sodium and potassium ions on the membrane properties of Nodes of Ranvier in Xenopus laevis. The results show that sodium and potassium ions affect the membrane's permeability and rectification properties. The findings contribute to the understanding of the mechanisms behind excitable membranes and could have implications for developing better models of membrane permeability.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

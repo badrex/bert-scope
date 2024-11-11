@@ -1,0 +1,10 @@
+article_id: rspa_1955_0215
+revised_title: 'Extraction of Proton Beam from Liverpool Synchrocyclotron: Experimental Work and Techniques'
+semantic_tags:
+  - Particle Accelerators
+  - Nuclear Physics
+  - Cyclotron
+  - Proton Beam Extraction
+  - Synchrocyclotron
+tldr: This article describes the experimental work and techniques used to extract a proton beam from the Liverpool synchrocyclotron. The authors discuss the design and construction of the extraction system, including the peeler, regenerator, and magnetic channel. They also explain the process of optimizing the extracted proton-beam current and share the results of their experiments, which achieved a 3% extraction rate with an energy of 383 MeV and no measurable energy-spread.
+scientific_discipline: Physics > Particle Accelerators and Nuclear Physics

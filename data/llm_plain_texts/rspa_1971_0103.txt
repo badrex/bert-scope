@@ -1,0 +1,10 @@
+article_id: rspa_1971_0103
+revised_title: 'Numerical Analysis of Partial Differential Equations: Finite-Difference Techniques for a Harmonic Mixed Boundary Problem'
+semantic_tags:
+  - Numerical Analysis
+  - Partial Differential Equations
+  - Finite-Difference Methods
+  - Boundary Value Problems
+  - Harmonic Functions
+tldr: This article discusses the numerical analysis of partial differential equations, specifically focusing on finite-difference techniques for a harmonic mixed boundary problem with a reentrant boundary. The author outlines the proof of uniform convergence of finite-difference solutions to the exact solution and presents numerical results for a model problem. The article also suggests that a different approach, such as the finite-element method, might be more suitable for solving this type of problem.
+scientific_discipline: Mathematics > Numerical Analysis

@@ -1,0 +1,10 @@
+article_id: rspa_1975_0082
+revised_title: Surface Potential Measurements in Hydrogen-Oxygen Reaction on Platinum Films
+semantic_tags:
+  - Surface chemistry
+  - Platinum catalysts
+  - Chemisorption
+  - Surface potential measurements
+  - Hydrogen-oxygen reaction
+tldr: The authors conducted surface potential measurements to study the hydrogen-oxygen reaction on platinum films. They discovered a sequence of reaction steps and proposed a reaction scheme involving the formation of transient surface complexes. The findings provide insights into the mechanism of the reaction and help explain the lack of stoichiometry in hydrogen-oxygen titrations and the apparent lack of correlation with infrared spectrometric results.
+scientific_discipline: Chemistry > Surface Chemistry

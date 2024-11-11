@@ -1,0 +1,10 @@
+article_id: 'rspb_1911_0033'
+revised_title: 'Exploring Serum Reactions and the Dynamics of Complement and Amboceptor'
+semantic_tags:
+  - Immunology
+  - Serum reactions
+  - Complement
+  - Amboceptor
+  - Equations in biology
+tldr: The authors conducted experiments to study the chemical dynamics of serum reactions, specifically focusing on the interactions between amboceptor and complement. They discovered that these interactions can be described by mathematical equations and developed a formula to explain the phenomenon of "diversion." This research provides a deeper understanding of the underlying principles of serum reactions and has implications for the study of immunology and related fields.
+scientific_discipline: Biology and Life Sciences > Immunology

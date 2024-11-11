@@ -1,0 +1,10 @@
+article_id: rspa_1971_0141
+revised_title: Surface Energy and Contact of Elastic Solids: Theoretical Analysis and Experiments
+semantic_tags:
+  - Surface Energy
+  - Contact Mechanics
+  - Elastic Solids
+  - Adhesion
+  - Hertz Theory
+tldr: This article discusses the influence of surface energy on the contact between elastic solids. The authors derive equations for the effect of surface energy on the contact size and the force of adhesion between two lightly loaded spherical solid surfaces. The theory is supported by experiments conducted on the contact of rubber and gelatine spheres. The findings suggest a possible reinterpretation of some published measurements on the force of adhesion between solid bodies.
+scientific_discipline: Physics > Mechanics

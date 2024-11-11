@@ -1,0 +1,10 @@
+article_id: rspa_1967_0135
+revised_title: 'Perturbation Theory and the Thomas-Fermi Method'
+semantic_tags:
+  - Quantum Mechanics
+  - Density Functional Theory
+  - Perturbation Theory
+  - Thomas-Fermi Theory
+  - Hohenberg-Kohn Theory
+tldr: The authors present a variational principle that leads to the March-Murray perturbation series, which relates the particle density to the one-body potential in an electron gas. They also derive an explicit form for the Hohenberg-Kohn universal functional, which is essentially the kinetic energy density. When the spatial variations of density and potential are slow, the usual Thomas-Fermi relation between kinetic energy density and particle density is regained. The approach also leads to a systematic formulation of the gradient expansion of the kinetic energy density.
+scientific_discipline: Physics > Quantum Mechanics

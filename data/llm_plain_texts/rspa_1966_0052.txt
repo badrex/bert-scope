@@ -1,0 +1,10 @@
+article_id: 'rspa_1966_0052'
+revised_title: 'Advancements in Ultra-Long Period Seismometer Technology'
+semantic_tags:
+  - Seismology
+  - Earthquake Analysis
+  - Vacuum Technology
+  - Geophysics
+  - Instrumentation
+tldr: Researchers developed a new ultra-long period seismometer operating in a vacuum to study the Earth's free and forced oscillations. The device uses photoelectric detection for tele-recording, amplification, and filtering. The seismometer's improved design allows for better noise reduction and more accurate analysis of long period seismic waves, particularly from the Alaska earthquake in 1964.
+scientific_discipline: Earth Sciences > Seismology

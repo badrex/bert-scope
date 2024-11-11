@@ -1,0 +1,10 @@
+article_id: 'rspb_1983_0074'
+revised_title: 'Theoretical Models of Genome Evolution: Chromosome Rearrangements and Transposable Genetic Elements'
+semantic_tags:
+  - Population Genetics
+  - Chromosome Rearrangements
+  - Transposable Genetic Elements
+  - Evolutionary Biology
+  - Molecular Evolution
+tldr: This article discusses theoretical models of genome evolution, focusing on chromosome rearrangements and transposable genetic elements. It explores the conditions for the establishment of chromosome rearrangements due to their effects on reducing recombination between loci under selection and the spread of genomic elements through replication within the genome or differential contributions to gametes. The article highlights the importance of understanding these processes for the evolution of the genome and the maintenance of genetic variation in populations.
+scientific_discipline: Biology and Life Sciences > Genetics and Evolution

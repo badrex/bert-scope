@@ -1,0 +1,10 @@
+article_id: 110101
+revised_title: 'Investigating Magnetism in Copper and Other Substances during Rotation'
+semantic_tags:
+  - Magnetism
+  - Copper
+  - Rotation
+  - Electromagnetism
+  - Physical laws
+tldr: Samuel Hunter Christie's experiments on the development of magnetism in copper and other substances during rotation are discussed. He confirms the results of previous experiments by Mr. Babbage and Mr. Herschel and investigates the law of force when copper discs of different weights are set in rotation. The findings suggest that the force diminishes as the distance between the disc and magnets increases, following a specific law.
+scientific_discipline: Physics > Electromagnetism

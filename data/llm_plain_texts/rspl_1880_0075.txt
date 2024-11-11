@@ -1,0 +1,10 @@
+article_id: rspl_1880_0075
+revised_title: Molecular Electro-Magnetic Induction and Its Applications
+semantic_tags:
+  - Electromagnetic Induction
+  - Electrochemistry
+  - Soap Film Electrometry
+  - Material Science
+  - Physics
+tldr: The author investigates the specific resistance of soap films and their relationship to the liquid from which they are formed. They also develop an electro-magnetic induction balance to study the effects of stress on magnetic materials like iron, steel, and nickel. This balance can detect the slightest molecular change in the composition of metals and alloys, making it a valuable tool for understanding the properties of magnetic materials.
+scientific_discipline: Physics > Electromagnetic Induction

@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0150'
+revised_title: 'The Role of Inward Currents in Controlling and Stabilizing Pacemaker Frequency in Rabbit Sino-Atrial Node Cells'
+semantic_tags:
+  - Cardiac Electrophysiology
+  - Pacemaker Cells
+  - Ion Channels
+  - Sino-Atrial Node
+  - Action Potentials
+tldr: This study investigates the role of inward currents, specifically Na and it, in controlling and stabilizing pacemaker frequency in rabbit sino-atrial node cells. The researchers found that these currents play a crucial role in maintaining pacemaker frequency stability against changes induced by altering other conductances. The Noble-DiFrancesco-Denyer model was refined to better understand the balance between these currents and their impact on pacemaker activity.
+scientific_discipline: Biology and Life Sciences > Cardiac Electrophysiology

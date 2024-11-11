@@ -1,0 +1,10 @@
+article_id: 107926
+revised_title: Simple Electro-Chemical Method for Detecting Metallic Poisons
+semantic_tags:
+  - Electrochemistry
+  - Metal Detection
+  - Toxicology
+  - Poison Detection
+  - Analytical Chemistry
+tldr: The author presents a simple electro-chemical method for detecting the presence of different metals, particularly metallic poisons, using a combination of zinc and platinum. This method is effective in detecting minute quantities of metals and can be applied to various cases, including the detection of arsenic and mercury in fluids and mixtures of organic substances.
+scientific_discipline: Chemistry > Analytical Chemistry

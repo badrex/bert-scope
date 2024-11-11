@@ -1,0 +1,10 @@
+article_id: rspa_1952_0134
+revised_title: 'Dielectric Dispersion in Polar Liquids: Measurements on Water, Methyl, and Ethyl Alcohols'
+semantic_tags:
+  - Dielectric properties
+  - Polar liquids
+  - Radio-frequency absorption
+  - Water properties
+  - Alcohol properties
+tldr: 'This article presents measurements of the dielectric properties and radio-frequency absorption of pure polar liquids, specifically water, methyl, and ethyl alcohols. The authors used wave-guides to determine the absorption coefficients and refractive indices of these liquids at various temperatures and wavelengths. The results provide insights into the dielectric dispersion in polar liquids and contribute to the understanding of their properties.'
+scientific_discipline: Physics > Electromagnetism

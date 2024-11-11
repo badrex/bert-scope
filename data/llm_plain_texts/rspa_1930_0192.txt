@@ -1,0 +1,10 @@
+article_id: rspa_1930_0192
+revised_title: 'Extended Energy Functions of the Hydrogen Molecule: A New Formula for Potential Energy'
+semantic_tags:
+  - Quantum Mechanics
+  - Molecular Physics
+  - Hydrogen Molecule
+  - Potential Energy
+  - Diatomic Molecule
+tldr: This article presents a new formula for the potential energy of a diatomic molecule, specifically the hydrogen molecule. The formula is derived from a separate consideration of all the forces acting on the molecule and is applicable to the full range of internuclear distances. The authors demonstrate that the formula provides a fair representation of the mean force exerted by the electronic system on the nuclei, improving upon previous methods that were only valid for limited ranges of distances.
+scientific_discipline: Chemistry > Molecular Physics

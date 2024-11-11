@@ -1,0 +1,9 @@
+article_id: '107937'
+revised_title: 'Improving Computations for Suspension Bridge Design'
+semantic_tags:
+  - Civil Engineering
+  - Suspension Bridges
+  - Mathematics
+  - Structural Analysis
+tldr: This article presents a table to facilitate the computations for suspension bridge designs. It is an extension of a previous paper on the mathematical theory of suspension bridges. The table provides deflections, chain lengths, tensions at middle and end points, and angles of the chains with the horizon. This table aids in the practical investigation of suspension bridge structures.
+scientific_discipline: Engineering and Technology > Civil Engineering

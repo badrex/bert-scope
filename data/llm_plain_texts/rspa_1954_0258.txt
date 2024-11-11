@@ -1,0 +1,10 @@
+article_id: rspa_1954_0258
+revised_title: 'Elastic Waves in Aeolotropic Media: General Principles and Wave Surfaces'
+semantic_tags:
+  - Elasticity
+  - Wave Propagation
+  - Aeolotropic Media
+  - Wave Surface
+  - Seismology
+tldr: The article discusses the propagation of elastic waves in aeolotropic media and introduces the concept of wave surfaces. Using the principle of least action, the authors derive the equations of motion and momentum conditions for elastic disturbances in any continuous medium. They define the wave surface as the first negative pedal of the surface of phase velocities for elastic plane waves in the medium and provide a general method for obtaining the forms of these surfaces.
+scientific_discipline: Physics > Elasticity

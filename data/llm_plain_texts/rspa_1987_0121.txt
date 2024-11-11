@@ -1,0 +1,10 @@
+article_id: rspa_1987_0121
+revised_title: 'Internal Dissipative Waves in Poroelastic Media: Propagation and Damping'
+semantic_tags:
+  - Poroelasticity
+  - Wave propagation
+  - Soil liquefaction
+  - Internal waves
+  - Dissipation
+tldr: This article explores internal dissipative waves in poroelastic media, focusing on the propagation and damping of these waves. Two distinct wave types are identified, one characterized by a long dissipation length scale and the other with comparable dissipation and wavelengths. The study provides insights into the dynamic behavior of fluid-filled porous media and has implications for geophysics, acoustics, and oceanography.
+scientific_discipline: Environmental and Earth Sciences > Geophysics

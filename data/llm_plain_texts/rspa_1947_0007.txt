@@ -1,0 +1,10 @@
+article_id: rspa_1947_0007
+revised_title: Internal Ballistics of Vented and Worn Guns
+semantic_tags:
+  - Ballistics
+  - Gun Design
+  - Recoilless Guns
+  - Internal Ballistics
+  - Gun Performance
+tldr: The authors developed equations for internal ballistics in guns where propellant gases can escape through a vent. They applied this theory to recoilless guns, smooth-bore mortars, and worn orthodox guns. The study helped in understanding the loss of performance in worn guns and provided methods for testing and designing these weapons.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

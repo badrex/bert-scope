@@ -1,0 +1,10 @@
+article_id: rspa_1936_0176
+revised_title: 'The Magnetic Properties of Bismuth: The de Haas-van Alphen Effect'
+semantic_tags:
+  - Magnetism
+  - Bismuth
+  - De Haas-van Alphen effect
+  - Crystal symmetry
+  - Electronic structure
+tldr: The authors conducted experiments on the magnetic properties of bismuth and discovered the de Haas-van Alphen effect, a phenomenon where the magnetization of bismuth changes periodically with the magnetic field at low temperatures. They studied the effect's temperature dependence and found that the singularities in the magnetization become more pronounced as the temperature decreases. This effect can provide valuable information about the electronic structure of bismuth.
+scientific_discipline: Physics > Magnetism

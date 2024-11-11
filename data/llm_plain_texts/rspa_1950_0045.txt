@@ -1,0 +1,10 @@
+article_id: rspa_1950_0045
+revised_title: Asymptotic Behavior of Supersonic Flow Past a Body of Revolution
+semantic_tags:
+  - Fluid Dynamics
+  - Supersonic Flow
+  - Aerodynamics
+  - Shock Waves
+  - Axisymmetric Flow
+tldr: The article presents a theory for the behavior of supersonic flow past a body of revolution at large distances from the axis. It develops a general theory to find the asymptotic forms of the equations of the shocks formed from the neighborhoods of the nose and tail. The results are used to modify the linearized approximation to give a theory valid at all distances from the axis, with practical applications in detecting the passage of supersonic projectiles.
+scientific_discipline: Physics > Fluid Dynamics

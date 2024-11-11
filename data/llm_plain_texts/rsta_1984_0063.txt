@@ -1,0 +1,10 @@
+article_id: rsta_1984_0063
+revised_title: Fluid-Loaded Elastic Structures: Modes, Resonances, and Forced Response
+semantic_tags:
+  - Structural Acoustics
+  - Fluid-Structure Interaction
+  - Wave Diffraction
+  - Elasticity
+  - Vibration
+tldr: This article explores the modes, resonances, and forced response of elastic structures under heavy fluid loading. The authors introduce a new measure of fluid loading called the intrinsic fluid ranker and use matched expansion techniques to study the effects of fluid loading on various structures, such as membranes, plates, and ribs. The article also discusses the differences between the authors' definition of heavy fluid loading and previous definitions by Cannell and Abrahams.
+scientific_discipline: Engineering and Technology > Mechanical Engineering > Acoustics and Vibration

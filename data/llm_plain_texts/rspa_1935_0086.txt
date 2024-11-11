@@ -1,0 +1,10 @@
+article_id: 'rspa_1935_0086'
+revised_title: 'Investigation of the Oxygen Afterglow and Electrodeless Discharge'
+semantic_tags:
+  - Plasma physics
+  - Gas discharge
+  - Spectroscopy
+  - Atmospheric science
+  - Chemical reactions
+tldr: The author examines the oxygen afterglow phenomenon and the differences between electrodeless (ring) discharge and high-frequency discharge. They conclude that the white afterglow is not dependent on the presence of nitrogen and is caused by the reaction of ozone with another product formed by the action of the discharge on moist oxygen. The nature of this product remains for further investigation.
+scientific_discipline: Chemistry > Chemical reactions and kinetics

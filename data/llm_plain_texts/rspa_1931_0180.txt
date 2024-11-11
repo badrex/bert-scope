@@ -1,0 +1,10 @@
+article_id: rspa_1931_0180
+revised_title: 'Spark Spectrum Analysis of Mercury (Hg II)'
+semantic_tags:
+  - Atomic Physics
+  - Spectroscopy
+  - Mercury Spectrum
+  - Quantum Mechanics
+  - Electrons in Atoms
+tldr: The authors analyzed the spark spectrum of mercury (Hg II) and identified various energy levels and terms in the complex structure of the spectrum. They found that the distribution of energy states indicates near jj coupling and provided a classified list of wave-lengths involving many-electron terms. Their analysis differs from previous work by Naude, and they suggest that a more thorough interpretation of the term structure may be possible when the analysis of Tl III is completed.
+scientific_discipline: Physics > Atomic Physics

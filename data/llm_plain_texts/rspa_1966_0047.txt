@@ -1,0 +1,10 @@
+article_id: rspa_1966_0047
+revised_title: 'Investigation of Gas Transport to and from Grass and Grass-like Surfaces Using Thorium-B Vapour'
+semantic_tags:
+  - Gas transport
+  - Environmental science
+  - Surface-air differences
+  - Wind tunnel experiments
+  - Thorium-B vapour
+tldr: The authors used radioactive thorium-B vapour to study the transport of gases to and from grass and grass-like surfaces in a wind tunnel. They found that the resistance to gas transport depends on the surface's geometry and wind speed, and that the eddy diffusivities of heat and gas in the boundary layer are nearly equal. This research provides insights into the complex processes of gas transport over natural surfaces.
+scientific_discipline: Environmental and Earth Sciences > Surface Processes and Meteorology

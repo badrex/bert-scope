@@ -1,0 +1,10 @@
+article_id: 109687
+revised_title: 'Improving Crystal Angle Measurements with a Reflective Goniometer'
+semantic_tags:
+  - Crystallography
+  - Goniometry
+  - Angle measurement
+  - Optics
+  - Crystal geometry
+tldr: The author introduces a reflective goniometer to measure small crystal angles with greater precision. The instrument uses reflected light to measure angles, overcoming the limitations of traditional goniometers. The author also provides an alternative method to eliminate parallax errors in angle measurements.
+scientific_discipline: Physics > Optics

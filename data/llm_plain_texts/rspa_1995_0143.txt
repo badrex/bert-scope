@@ -1,0 +1,10 @@
+article_id: rspa_1995_0143
+revised_title: Finitely Induced Gauge Field Action in Non-Local Quantum Electrodynamics
+semantic_tags:
+  - Quantum Electrodynamics
+  - Gauge Field Theory
+  - Non-Local Physics
+  - Fermion Action
+  - Effective Action
+tldr: The author demonstrates that non-local quantum electrodynamics in four dimensions can admit a finitely induced gauge field action under an appropriate choice of the non-local ansatz. This finding challenges the previous belief that such a finitely induced action was not possible, and it has implications for understanding the behavior of the mass term coefficient when lifting the regularization.
+scientific_discipline: Physics > Quantum Field Theory

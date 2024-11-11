@@ -1,0 +1,10 @@
+article_id: 'rspa_1909_0088'
+revised_title: 'Investigating the Elasticity of Rubber Balloons and Hollow Viscera'
+semantic_tags:
+  - Rubber elasticity
+  - Viscera properties
+  - Hydrate existence
+  - Conductivity measurements
+  - Density determinations
+tldr: 'This study examines the elasticity of rubber balloons and hollow viscera, focusing on the specific-conductivity and molecular curves. The authors find a point of inflection at about 53% hydrogen fluoride, indicating the existence of a definite hydrate in solution. The density determinations provide corroborative evidence, but the break at 91% is not shown due to limited measurements.'
+scientific_discipline: 'Chemistry > Materials Science'

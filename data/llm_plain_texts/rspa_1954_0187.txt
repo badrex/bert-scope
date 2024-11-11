@@ -1,0 +1,10 @@
+article_id: rspa_1954_0187
+revised_title: Decomposition Modes of n-Pentane and Ethane Fate
+semantic_tags:
+  - Organic Chemistry
+  - Chemical Kinetics
+  - Reaction Mechanisms
+  - Hydrocarbon Decomposition
+  - Inhibition Reactions
+tldr: The authors studied the decomposition of n-pentane and the fate of ethane at low pressures using propylene as an inhibitor. They found that the amount of ethane formed decreases as the pressure falls, while the proportion of hydrogen and ethylene increases. The addition of ethane at low pressures does not cause induced decomposition, suggesting that different types of activated molecules may be responsible for the varying decomposition products at different pressure ranges.
+scientific_discipline: Chemistry > Organic Chemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1940_0032
+revised_title: 'Investigation of Lattice Spacings in Magnesium-based Solid Solutions'
+semantic_tags:
+  - Solid solutions
+  - Lattice spacings
+  - Magnesium alloys
+  - X-ray analysis
+  - Crystallography
+tldr: The author investigates the mean lattice spacings of primary solid solutions of silver, cadmium, and indium in magnesium. They find that the lattice of magnesium is contracted by these elements, and they use X-ray analysis to determine the lattice spacings and axial ratios of the alloys. The results show that the mean lattice distortions can be accurately measured, providing valuable information for understanding the properties of magnesium-based solid solutions.
+scientific_discipline: Physics > Materials Science

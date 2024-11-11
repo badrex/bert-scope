@@ -1,0 +1,10 @@
+article_id: rspa_1984_0023
+revised_title: Geometrical Phase Factors in Adiabatic Changes
+semantic_tags:
+  - Quantum Mechanics
+  - Adiabatic Processes
+  - Geometrical Phase
+  - Quantum Phase
+  - Degeneracy
+tldr: The author explains the concept of geometrical phase factors that accompany adiabatic changes in quantum systems. They derive a formula for this phase factor in terms of the eigenstates of the system's Hamiltonian and show that it contains a circuit-dependent component. The author also demonstrates how this phase factor can be used to understand the Aharonov-Bohm effect and the sign change of spinors in slowly-rotated magnetic fields.
+scientific_discipline: Physics > Quantum Mechanics

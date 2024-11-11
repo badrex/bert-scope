@@ -1,0 +1,10 @@
+article_id: rsta_1953_0001
+revised_title: Approximation of Logarithms of Algebraic Numbers
+semantic_tags:
+  - Number Theory
+  - Algebraic Functions
+  - Approximation Theory
+  - Transcendental Numbers
+  - Logarithms
+tldr: The author presents a new identity to obtain infinitely many algebraic functions that approximate the logarithmic function. They also provide a lower bound for the distance of logarithms from variable algebraic numbers and prove that the fractional part of a number is greater than a certain value for every sufficiently large positive integer. This work improves upon earlier results and provides a more accurate measure of transcendency for logarithms of algebraic numbers.
+scientific_discipline: Mathematics > Number Theory

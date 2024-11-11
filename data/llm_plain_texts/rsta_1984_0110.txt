@@ -1,0 +1,10 @@
+article_id: rsta_1984_0110
+revised_title: 'Optical Bistability in Semiconductor O.B. Devices: Diffusion, Diffraction, and Reflection'
+semantic_tags:
+  - Optical Bistability
+  - Semiconductor Devices
+  - Diffraction
+  - Reflection
+  - Nonlinear Optics
+tldr: This article discusses the modeling and optimization of optical bistable semiconductor devices, focusing on surface reflectivity optimization, diffraction, and reflection effects. The authors argue that reflected beams are more useful in bistable devices and explore the transverse effects of diffusion in semiconductor materials like indium antimonide. They present mathematical models and numerical solutions to describe these phenomena.
+scientific_discipline: Physics > Optics

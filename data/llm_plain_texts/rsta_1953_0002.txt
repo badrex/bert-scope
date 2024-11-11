@@ -1,0 +1,10 @@
+article_id: rsta_1953_0002
+revised_title: 'Normal Stress Effect in High-Polymer Solutions: A Phenomenological Approach'
+semantic_tags:
+  - Non-Newtonian Fluids
+  - Viscoelasticity
+  - Polymer Solutions
+  - Normal Stress Coefficient
+  - Torsional Flow
+tldr: This study investigates the normal stress effect in high-polymer solutions, focusing on the behavior of polyisobutylene solutions. The authors measure the normal stress arising from the torsional motion of the solution and discuss the distribution of normal stresses on the plane ends of the cylindrical mass. They evaluate the normal stress coefficient and find that it depends on the velocity gradient. The authors also explore the effect of solution concentration and temperature on normal stress. Their findings contribute to the understanding of non-Newtonian fluids and the phenomenological theory of normal stress effects.
+scientific_discipline: Physics > Fluid Dynamics

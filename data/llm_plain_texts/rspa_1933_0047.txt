@@ -1,0 +1,10 @@
+article_id: rspa_1933_0047
+revised_title: 'Pressure-Induced Broadening of Ultraviolet Absorption Bands in Xenon'
+semantic_tags:
+  - Ultraviolet absorption
+  - Xenon
+  - Pressure effects
+  - Atomic interactions
+  - Spectroscopy
+tldr: 'This article discusses the broadening of ultraviolet absorption bands of xenon under pressure. The authors conducted experiments to study the absorption coefficient for various wavelengths in the band and found that the spreading of the absorption with pressure is due to an increase in collision frequency and the number of atoms in the absorption path. The results indicate that the process is one of light absorption during collisions and provide insights into the type of collisions involved in the absorption process.'
+scientific_discipline: Physics > Atomic and Molecular Physics

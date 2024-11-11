@@ -1,0 +1,10 @@
+article_id: 109783
+revised_title: Cold Production via Sulphuret of Carbon Evaporation
+semantic_tags:
+  - Thermodynamics
+  - Cryogenics
+  - Chemical reactions
+  - Temperature
+  - Evaporation
+tldr: Alexander Marcet conducted experiments to produce cold by evaporating the sulphuret of carbon. He found that exposing a thermometer wrapped in lint to the sulphureous liquor and then to the air caused the thermometer to sink to zero on Fahrenheit's scale. This cold production method could be used to freeze mercury with minimal apparatus, making it a simple and effective experiment.
+scientific_discipline: Chemistry > Thermodynamics

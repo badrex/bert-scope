@@ -1,0 +1,10 @@
+article_id: rspa_1994_0090
+revised_title: 'Linear Instability and Deformation of a Rankine Vortex in a Compliant Tube'
+semantic_tags:
+  - Fluid Dynamics
+  - Vortex Instability
+  - Compressible Fluids
+  - Boundary Conditions
+  - Contour Dynamics
+tldr: The authors study the linear instability of a Rankine vortex in a compressible fluid within a compliant tube. They find that the vortex is unstable to all modes of disturbance and that the deformation increases indefinitely due to energy removal from the vortex. The results demonstrate the importance of the interaction between the vortex and the compliant tube boundary in the instability mechanism.
+scientific_discipline: Physics > Fluid Dynamics

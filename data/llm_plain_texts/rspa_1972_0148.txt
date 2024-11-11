@@ -1,0 +1,10 @@
+article_id: rspa_1972_0148
+revised_title: 'Reflexion and Diffraction of Shocks Interacted by Yawed Wedges: A Study of Pressure Distribution'
+semantic_tags:
+  - Fluid Dynamics
+  - Shock Wave Interaction
+  - Yawed Wedges
+  - Pressure Distribution
+  - Conformal Transformations
+tldr: The authors studied the interaction of oblique shock waves with yawed wedges, focusing on the pressure distribution on the wedge surface. They developed an analytic solution for the flow field and used conformal transformations to solve the problem. Numerical results were obtained for a pair of incident shock strengths, providing quantitative estimates of the pressure distribution.
+scientific_discipline: Physics > Fluid Dynamics

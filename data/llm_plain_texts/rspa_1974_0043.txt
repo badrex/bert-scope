@@ -1,0 +1,10 @@
+article_id: rspa_1974_0043
+revised_title: Crystal Growth and Orientational Disorder in Bromoform: A Statistical Model
+semantic_tags:
+  - Crystal growth
+  - Orientational disorder
+  - Bromoform
+  - Statistical model
+  - Molecular crystals
+tldr: The authors developed a statistical model to discuss orientational disorder in crystal growth, focusing on bromoform crystals. They used a distribution of atomic point-charges and considered Coulomb interactions, dispersion, and repulsion forces. The study found that the ordered structure is slightly more stable than the random structure, with high correlation in directions of adjacent molecules in adjacent crystal planes.
+scientific_discipline: Chemistry > Crystallography

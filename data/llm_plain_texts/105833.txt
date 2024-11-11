@@ -1,0 +1,10 @@
+article_id: 105833
+revised_title: 'Observations and Experiments on the Island of Hammerfost'
+semantic_tags:
+  - Astronomy
+  - Timekeeping
+  - Navigation
+  - Instrumentation
+  - Geodesy
+tldr: 'Jeremiah Dixon conducted observations and experiments on the Island of Hammerfost for the Royal Society. He set up an observatory, tested the accuracy of a clock, and made adjustments to improve its performance. Dixon also observed the Sun, Venus, and the eclipse to determine the latitude and longitude of the observatory. His work contributed to the understanding of timekeeping, navigation, and geodesy.'
+scientific_discipline: Earth Sciences > Geodesy

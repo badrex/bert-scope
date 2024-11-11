@@ -1,0 +1,10 @@
+article_id: 'rspb_1993_0157'
+revised_title: 'The Evolutionary Advantage of Self-Controlled Chaotic Populations'
+semantic_tags:
+  - Chaos Theory
+  - Population Dynamics
+  - Evolutionary Biology
+  - Ecological Modeling
+  - Self-Control Mechanisms
+tldr: The author explains how chaotic systems can be controlled to maintain stable population densities. By applying small perturbations according to a simple rule, a population can exert self-control, which can confer an evolutionary advantage. This control mechanism can help stabilize a population with complex dynamics, leading to a more predictable and sustainable ecosystem.
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

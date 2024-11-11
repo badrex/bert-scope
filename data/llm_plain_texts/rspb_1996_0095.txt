@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0095'
+revised_title: 'Orientation Discrimination in the Absence of Striate Cortical Contribution to Human Vision'
+semantic_tags:
+  - Visual Perception
+  - Striate Cortex
+  - Orientation Discrimination
+  - Residual Vision
+  - Neurophysiology
+tldr: The study examines the orientation discrimination abilities of a patient, GY, who has an extensive lesion involving the left striate and prestriate cortex. The patient can identify the orientation of a flickering bar but struggles with orientation identification for edges formed by color contrast, moving stimuli, or flicker contrast. The results suggest that in the absence of striate cortical input, the residual mechanisms for color, flicker, or movement do not efficiently support orientation detection and discrimination.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

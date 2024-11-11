@@ -1,0 +1,10 @@
+article_id: rspa_1928_0222
+revised_title: The Effect of Image Force on Electron Emission and Reflexion by Metals
+semantic_tags:
+  - Electron emission
+  - Metal surface
+  - Image potential
+  - Thermionic emission
+  - Quantum mechanics
+tldr: This article investigates the effect of the image force on the emission and reflexion of electrons by metals. The authors calculate the emission and reflexion coefficients for electrons at the metal surface and integrate over all incident electrons. They find that the emission coefficient for thermions becomes nearly equal to 1, and the average reflexion amounts to a few percent. The authors also discuss the influence of external fields on electron emission and reflexion.
+scientific_discipline: Physics > Electromagnetism

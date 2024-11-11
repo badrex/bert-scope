@@ -1,0 +1,10 @@
+article_id: rspa_1952_0080
+revised_title: 'Three-dimensional Microscope Image Formation: A Diffraction Theory Approach'
+semantic_tags:
+  - Microscopy
+  - Diffraction theory
+  - Image formation
+  - Optics
+  - Crystallography
+tldr: The authors extend Abbe's theory of image formation for a plane object to a three-dimensional object. They treat the diffraction of light by a three-dimensional object using the standard methods applied to X-ray diffraction by crystals. The formation of an image of a three-dimensional periodic object is discussed, and it is shown that certain Fourier components of the object's structure are reproduced in the image while others are left out. This theory explains why out-of-focus parts of the object do not completely obscure the in-focus image in a microscope.
+scientific_discipline: Physics > Optics

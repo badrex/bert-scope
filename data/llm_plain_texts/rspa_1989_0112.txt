@@ -1,0 +1,10 @@
+article_id: rspa_1989_0112
+revised_title: Time-Dependent Kinematic Dynamos with Stationary Flows: A Review
+semantic_tags:
+  - Dynamo Theory
+  - Fluid Dynamics
+  - Magnetohydrodynamics
+  - Geophysical Fluid Dynamics
+  - Astrophysical Fluid Dynamics
+tldr: This article investigates the behavior of cosmic magnetic fields, such as those of the Earth and Sun, by studying time-dependent kinematic dynamos with stationary flows. The authors examine various velocity models and find growing magnetic fields for specific flow conditions, which helps explain the lack of success in earlier investigations. The study confirms and extends the results of previous authors, covering non-steady fields, different values of magnetic Reynolds numbers, and other parameters.
+scientific_discipline: Physics > Fluid Dynamics

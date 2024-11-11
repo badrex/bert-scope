@@ -1,0 +1,10 @@
+article_id: rspa_1985_0019
+revised_title: Inhomogeneous Factors in Twistor Theory for Massive States
+semantic_tags:
+  - Twistor Theory
+  - Mass Eigenstates
+  - Inhomogeneous Factors
+  - Particle Classification
+  - Sheaf Cohomology
+tldr: The author introduces inhomogeneous factors into twistor theory to solve the problem of defining massive states in a finite way. They propose a new scheme that requires a further change in the fundamental definitions of twistor diagram theory to produce states of finite norm. This development offers new insights into the relation between broken symmetry and rest mass in the context of twistor geometry.
+scientific_discipline: Mathematics > Algebra and Geometry

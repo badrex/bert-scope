@@ -1,0 +1,10 @@
+article_id: 'rspb_1977_0069'
+revised_title: 'Catecholamine Effects on Guinea-Pig Taenia Coli in K-Free and Na-Free Solutions'
+semantic_tags:
+  - 'Neurotransmitters'
+  - 'Catecholamines'
+  - 'Guinea-Pig Taenia Coli'
+  - 'Membrane Conductance'
+  - 'Na-K Pump'
+tldr: The author studied the effects of catecholamines on the guinea-pig taenia coli in K-free and Na-free solutions and in the presence of ouabain. They found that the hyperpolarization produced by catecholamines, such as adrenaline and noradrenaline, mainly involves an increase in the K conductance of the membrane and does not activate the Na-pump.
+scientific_discipline: Biology and Life Sciences > Neurotransmitters and Receptors

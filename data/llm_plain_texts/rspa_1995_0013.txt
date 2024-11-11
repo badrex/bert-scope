@@ -1,0 +1,10 @@
+article_id: rspa_1995_0013
+revised_title: Asymptotic Analysis of Surface Source and Implant Problems in Substitutional-Interstitial Diffusion Models
+semantic_tags:
+  - Diffusion modeling
+  - Asymptotic analysis
+  - Surface source problems
+  - Implant problems
+  - Semiconductor device fabrication
+tldr: This article discusses the asymptotic analysis of surface source and implant problems in substitutional-interstitial diffusion models. The authors present solutions for two-dimensional surface source and implant problems, focusing on the limit where the surface concentration of impurity is much greater than the equilibrium vacancy concentration. They also explore a two-dimensional surface source problem for a vacancy model and provide insights into the behavior of impurity diffusion in semiconductor device fabrication.
+scientific_discipline: Physics > Materials Science

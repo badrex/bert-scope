@@ -1,0 +1,10 @@
+article_id: rsta_1950_0011
+revised_title: Diffraction and Fading Effects in Ionospheric Reflection
+semantic_tags:
+  - Ionospheric propagation
+  - Radio wave diffraction
+  - Radio noise
+  - Statistical properties
+  - Random fields
+tldr: The authors analyze the diffraction effects of radio waves reflected from an irregular ionosphere and the resulting fading. They develop a method to study the statistical properties of the wave-field using the concept of auto-correlation functions. The study has applications to optical problems of diffraction from irregular screens and can help understand the behavior of the ionosphere.
+scientific_discipline: Physics > Electromagnetism

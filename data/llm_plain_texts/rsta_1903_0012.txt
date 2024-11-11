@@ -1,0 +1,10 @@
+article_id: rsta_1903_0012
+revised_title: The Specific Heats of Metals and the Relation of Specific Heat to Atomic Weight
+semantic_tags:
+  - Thermodynamics
+  - Specific heat
+  - Metals
+  - Atomic weight
+  - Heat capacity
+tldr: This article investigates the specific heats of various metals and their relation to atomic weight. The author finds that the specific heat of metals increases with their atomic weight and that the shape of the curves connecting specific heat and temperature is hyperbolic. The author also examines the specific heats of metal sulfides and discusses the implications of their findings for understanding the differences between metals.
+scientific_discipline: Chemistry > Thermodynamics

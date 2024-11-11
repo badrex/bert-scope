@@ -1,0 +1,10 @@
+article_id: rspa_1953_0031
+revised_title: Molecular Orbital Theory and Chemical Valency: Excited States of Homonuclear Diatomic Molecules
+semantic_tags:
+  - Molecular Orbital Theory
+  - Quantum Chemistry
+  - Diatomic Molecules
+  - Wave Functions
+  - Chemical Bonding
+tldr: The authors develop a molecular orbital theory for chemical valency, focusing on excited states of homonuclear diatomic molecules. They use the calculus of variations to determine the optimum forms for orbital functions and explore the physical significance of various wave functions. The study highlights the importance of electron correlation and provides insights into the behavior of molecules at the atomic level.
+scientific_discipline: Chemistry > Quantum Chemistry

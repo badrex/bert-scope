@@ -1,0 +1,10 @@
+article_id: rsta_1994_0077
+revised_title: 'Polymer Crystal Formation and the Role of Metastable Phases in Phase Transitions'
+semantic_tags:
+  - Polymer Crystallization
+  - Phase Transitions
+  - Metastable Phases
+  - Polymer Chemistry
+  - Polymer Physics
+tldr: The authors explore the formation of crystals in polymers, specifically flexible, periodically regular chains like polyethylene. They focus on the role of metastable phases in polymer crystallization and how these phases can determine the lamellar thickness and final texture of the crystallizing material. The study also provides a new perspective on Ostwald's rule of stages and the significance of metastable phases in phase behavior.
+scientific_discipline: Chemistry > Polymer Chemistry

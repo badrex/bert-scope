@@ -1,0 +1,10 @@
+article_id: 'rspa_1954_0229'
+revised_title: 'A Discussion on the Viscosity of Fluids and the Role of Bubbles'
+semantic_tags:
+  - Fluid Dynamics
+  - Viscosity
+  - Bubble Dynamics
+  - Compressibility
+  - Relaxation Phenomenon
+tldr: This article discusses the first and second viscosities of fluids, specifically focusing on the volume viscosity of water containing bubbles. The authors explore the effects of compressibility and the role of bubbles in fluid dynamics, leading to a discussion of a relaxation phenomenon. They find that the volume viscosity of water reaches its maximum value when bubbles are approximately 20 diameters apart.
+scientific_discipline: Physics > Fluid Dynamics

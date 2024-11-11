@@ -1,0 +1,10 @@
+article_id: rspa_1992_0115
+revised_title: 'Rainbows from Ellipsoidal Water Drops: Analyzing Caustic Patterns'
+semantic_tags:
+  - Catastrophe Optics
+  - Rainbow Formation
+  - Ellipsoidal Water Drops
+  - Refraction
+  - Caustic Patterns
+tldr: The author examines the formation of caustic patterns in the far field when light is incident on ellipsoidal water drops. By using the principles of catastrophe optics, the author predicts analytically the axial ratios of the drops necessary to produce certain landmark features of the caustics, such as hyperbolic umbilic foci, lips events, and catastrophes. The study is relevant to laboratory experiments and can be applied to other fields of rainbow scattering, such as ion channelling through crystals and scattering of atoms and molecules by crystal surfaces.
+scientific_discipline: Physics > Optics

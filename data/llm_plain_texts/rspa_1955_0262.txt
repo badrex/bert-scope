@@ -1,0 +1,10 @@
+article_id: rspa_1955_0262
+revised_title: Plastic Flow of Metals under Axial Symmetry: Tresca Yield Criterion
+semantic_tags:
+  - Plasticity
+  - Tresca yield criterion
+  - Axially symmetric plastic flow
+  - Rigid-plastic non-hardening material
+  - Stress and velocity fields
+tldr: This article investigates the axially symmetric plastic flow of a rigid-plastic non-hardening material that obeys the Tresca yield criterion. It discusses the basic equations, plastic regimes, and stress and velocity fields in detail. The study provides solutions for problems related to the necking of a circular bar in tension, plastic stress fields near stress-free conical surfaces, and the indentation of a semi-infinite body by a circular flat-ended rigid punch.
+scientific_discipline: Engineering and Technology > Materials Science

@@ -1,0 +1,11 @@
+article_id: 'rspb_1975_0090'
+revised_title: 'Electrical Activity and Colonial Behaviour in Hexacorallia Corals'
+semantic_tags:
+  - Coral biology
+  - Nerve net
+  - Electrophysiology
+  - Colonial behavior
+  - Conduction systems
+tldr: The study investigates the electrical activity and colonial behavior in eight species of Hexacorallia corals. The researchers found that a single electrical stimulus evoked a single electrical potential, and these potentials were responsible for controlling colonial polyp retraction. The nerve net pulses were conducted without decrement over large areas of the colony at a velocity of 15-25 cm/s at 25°C. The results suggest that interneural facilitation effects may not be significant in determining the spread of excitation in coral nerve nets, and a new explanation for colonial polyp retraction patterns is proposed.
+
+scientific_discipline: Biology and Life Sciences > Coral Biology

@@ -1,0 +1,10 @@
+article_id: 'rstl_1886_0012'
+revised_title: 'Sympathetic Vibrations of Jets and Their Applications'
+semantic_tags:
+  - Fluid Dynamics
+  - Acoustics
+  - Jet Physics
+  - Sound Production
+  - Vibrations
+tldr: The author explores the sympathetic vibrations of jets and their musical sounds, discovering that the pitch of the sound depends on the velocity of the stream and the diameter of the orifice. The phenomenon can be used to reproduce sounds, including speech, by impacting a series of puffs of air against a flame or other objects.
+scientific_discipline: Physics > Fluid Dynamics

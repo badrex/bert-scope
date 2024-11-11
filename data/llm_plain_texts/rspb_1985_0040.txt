@@ -1,0 +1,10 @@
+article_id: 'rspb_1985_0040'
+revised_title: 'Effects of Aromatic Hydrocarbons on Ionic Currents in Squid Axons'
+semantic_tags:
+  - Neuropharmacology
+  - Ion channels
+  - Neurophysiology
+  - Marine biology
+  - Membrane biology
+tldr: This study investigates the effects of aromatic hydrocarbons, such as benzene, toluene, ethyl benzene, and n-propyl benzene, on the ionic currents of the squid giant axon. The results show that these substances inhibit both sodium and potassium currents, with sodium currents being more sensitive. The research also reveals that aromatic hydrocarbons are active at lower concentrations than their aliphatic counterparts, suggesting that alterations in membrane thickness may play a significant role in their molecular actions.
+scientific_discipline: Biology and Life Sciences > Neurobiology

@@ -1,0 +1,10 @@
+article_id: rspa_1918_0001
+revised_title: 'Ion Mobility and Electrification in Sprayed Water'
+semantic_tags:
+  - Ionization
+  - Electrification
+  - Water chemistry
+  - Ion mobility
+  - Electrostatics
+tldr: The authors studied the ionization and electrification of water when it is sprayed. They discovered that spraying water produces ions of different mobilities, which can be grouped into distinct categories. The authors also discussed the methods used to measure these mobilities and the factors affecting the ionization process, such as the time elapsed since the ions' production and the air's dryness.
+scientific_discipline: Physics > Electrostatics

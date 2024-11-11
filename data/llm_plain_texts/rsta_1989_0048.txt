@@ -1,0 +1,10 @@
+article_id: rsta_1989_0048
+revised_title: Large-Strain Shear in Rate-Dependent Face-Centred Cubic Polycrystals: A Comprehensive Study
+semantic_tags:
+  - Crystallographic Slip
+  - Polycrystal Model
+  - Strain Hardening
+  - Texture Evolution
+  - Shear Deformation
+tldr: This study examines the micro- and macroscopic aspects of large-strain deformation through shear using physical and phenomenological models. The authors analyze the effects of strain hardening, latent hardening, strain-rate sensitivity, boundary constraints, and initial textures on texture evolution and constitutive response. They also compare the behavior predicted by phenomenological theories and a physically based polycrystal model, finding a close correspondence between the two.
+scientific_discipline: Materials Science > Crystallography and Defects

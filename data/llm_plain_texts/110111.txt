@@ -1,0 +1,10 @@
+article_id: 110111
+revised_title: Supplement to a Paper on the Transit Instrument Deviation
+semantic_tags:
+  - Astronomy
+  - Observational Astronomy
+  - Instrumentation
+  - Transit Instrument
+  - Error Correction
+tldr: This paper discusses a deviation in the transit instrument of the Cambridge Observatory due to a difference in expansion in its braces. The author provides an example of the magnitude of this deviation and expresses suspicion about previous observations of solar transits. This communication serves as a supplement to a former paper on the same subject.
+scientific_discipline: Astronomy > Observational Astronomy

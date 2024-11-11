@@ -1,0 +1,10 @@
+article_id: rspa_1949_0083
+revised_title: Molecular Orbital Theory and Chemical Valency
+semantic_tags:
+  - Quantum Chemistry
+  - Molecular Orbital Theory
+  - Chemical Bonding
+  - Valency
+  - Wave Mechanics
+tldr: This article introduces the molecular orbital theory of chemical valency, focusing on the determination of molecular orbitals. The author explains the advantages and limitations of this method compared to the electron pair method and discusses the equations that molecular orbitals must satisfy. The article also explores the concept of equivalent orbitals and their role in forming localized bonds. The author illustrates the method with a simple example and hopes to provide a more general treatment in future work.
+scientific_discipline: Chemistry > Quantum Chemistry

@@ -1,0 +1,10 @@
+article_id: rsta_1982_0109
+revised_title: Nucleation of Quantized Vortex Rings in Superfluid Helium
+semantic_tags:
+  - Superfluidity
+  - Vortex rings
+  - Helium
+  - Nucleation mechanisms
+  - Quantum transition model
+tldr: The authors measured the rate at which negative ions nucleate charged vortex rings in isotopically pure superfluid helium. They used a novel electrostatic induction technique to study the breakdown of superfluidity and found that the nucleation rate is influenced by temperature and pressure. The experimental data supports the quantum transition model for vortex nucleation, which suggests that the process is probabilistic in nature.
+scientific_discipline: Physics > Fluid Dynamics

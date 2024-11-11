@@ -1,0 +1,10 @@
+article_id: 'rstb_1993_0053'
+revised_title: 'Anatomical and Immunocytochemical Analysis of Neuron Classes in Embryonic Smooth Newt Spinal Cord'
+semantic_tags:
+  - 'Neuroscience'
+  - 'Neuron Classification'
+  - 'Spinal Cord Development'
+  - 'Horseradish Peroxidase'
+  - 'Immunocytochemistry'
+tldr: 'This study investigates the spinal cord neurons in embryos of the smooth newt, Triturus vulgaris, using horseradish peroxidase labeling and GABA and glycine immunocytochemistry. Nine distinct anatomical classes of neurons are identified, including ventrolateral motor neurons, dorsal primary sensory Rohon-Beard neurons, and commissural interneurons. These neuron classes show a resemblance to those found in other amphibian embryos, with the exception of the giant dorsolateral commissural neurons, which are unique to urodele embryos.'
+scientific_discipline: Biology and Life Sciences > Neuroscience

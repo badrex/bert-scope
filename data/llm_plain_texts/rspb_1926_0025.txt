@@ -1,0 +1,10 @@
+article_id: 'rspb_1926_0025'
+revised_title: 'Investigating the Effect of Ultra-Violet Radiation on Metabolism Using a New Method'
+semantic_tags:
+  - Metabolism
+  - Ultra-Violet Radiation
+  - Experimental Methodology
+  - Animal Physiology
+  - Spectral Analysis
+tldr: The authors developed a new method to estimate metabolism and tested its effectiveness using ultra-violet radiation on mice, rats, and human subjects. They found that the radiation had varying effects on metabolism, with some subjects experiencing a rise while others showed no significant change. The study also compared the results of using different light sources and analyzed the impact of various factors on the experiments.
+scientific_discipline: Biology and Life Sciences > Animal Physiology

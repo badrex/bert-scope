@@ -1,0 +1,10 @@
+article_id: rspa_1911_0073
+revised_title: 'Interference Theory of Iridescent Colors in Birds and Insects'
+semantic_tags:
+  - Interference Theory
+  - Iridescent Colors
+  - Bird Coloration
+  - Insect Coloration
+  - Thin Film Optics
+tldr: The author investigates the origin of iridescent colors in birds and insects, concluding that interference rather than selective reflection is the primary cause. The study examines the structures of feathers and insect scales, which produce colors that change with the angle of light incidence. The author suggests that interference occurs when the thickness of the color-producing layers is comparable to the wavelength of light.
+scientific_discipline: Physics > Optics

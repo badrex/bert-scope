@@ -1,0 +1,10 @@
+article_id: '109887'
+revised_title: 'Investigating the Local Arrangement of Celestial Bodies and the Milky Way'
+semantic_tags:
+  - Astronomy
+  - Celestial Mechanics
+  - Milky Way
+  - Parallax
+  - Star Classification
+tldr: 'William Herschel discusses the challenges of determining the local arrangement of celestial bodies in space, particularly the Milky Way. He proposes a method for calculating the relative arrangement of stars based on their magnitudes and distances. He also explores the use of parallax and the limitations of star classification in understanding the structure of the universe.'
+scientific_discipline: Astronomy > Celestial Mechanics

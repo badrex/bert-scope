@@ -1,0 +1,10 @@
+article_id: rsta_1938_0007
+revised_title: Flexure and Associated Torsion in Prisms of Uni-axial and Asymmetric Cross-Sections
+semantic_tags:
+  - Mechanics
+  - Structural Analysis
+  - Torsion
+  - Flexure
+  - Beam Theory
+tldr: The author investigates the flexure problem with associated torsion in prisms of uni-axial and asymmetric cross-sections. They provide a systematic method to relate the necessary constants of a flexure solution to the external force system, expressing the associated flexural twist and the coordinates of the center of flexure in terms of six moment integrals. The study covers various cross-sections, including complete and curtate circular sectors, isosceles triangles, and semi-circular cross-sections.
+scientific_discipline: Engineering and Technology > Mechanics

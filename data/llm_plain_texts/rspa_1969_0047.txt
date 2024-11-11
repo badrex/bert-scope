@@ -1,0 +1,10 @@
+article_id: rspa_1969_0047
+revised_title: Time Scales for Redistribution of Stress in Creep of Structures: A Simplified Approach
+semantic_tags:
+  - Creep mechanics
+  - Stress redistribution
+  - Structural engineering
+  - Time-hardening law
+  - Steady-state stress distribution
+tldr: This article presents a simplified approach to determine the time required for practically complete redistribution of stress in structures under creep conditions. The author derives a formula that expresses the time scale in terms of the time taken for creep strain to become equal to a certain multiple of the elastic strain in a constant-stress creep test. The formula is applicable to a wide range of structures and agrees well with numerical results in the literature.
+scientific_discipline: Engineering and Technology > Structural Engineering

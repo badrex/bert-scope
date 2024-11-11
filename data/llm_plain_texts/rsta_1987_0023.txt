@@ -1,0 +1,10 @@
+article_id: 'rsta_1987_0023'
+revised_title: 'Lignin Degradation and H2O2 Production in Phanerochaete chrysosporium'
+semantic_tags:
+  - Lignin degradation
+  - Fungi
+  - H2O2 production
+  - Enzyme activity
+  - Glucose oxidation
+tldr: The article discusses the production of hydrogen peroxide (H2O2) in the white-rot fungus Phanerochaete chrysosporium during lignin degradation. The fungus produces H2O2 through enzymes like glucose-2-oxidase and methanol oxidase, which play a crucial role in breaking down lignin. The fungus also regulates glucose levels in its environment to control H2O2 production and maintain its ability to degrade lignin.
+scientific_discipline: Biology and Life Sciences > Fungi and Lignin Degradation

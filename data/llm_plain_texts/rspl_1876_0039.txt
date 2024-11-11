@@ -1,0 +1,10 @@
+article_id: rspl_1876_0039
+revised_title: Contact Electricity Between Non-Conductors: Experiments and Observations
+semantic_tags:
+  - Electrostatics
+  - Contact electricity
+  - Non-conductors
+  - Electrometer
+  - Specific inductive capacity
+tldr: The authors conducted experiments to study the transfer of electricity between non-conductors when they come into contact without friction. They observed that when glass and wax, or glass and resin, were placed in contact, the glass became positively electrified and the wax or resin negatively electrified. The authors also experimented with a needle made of half sealing-wax and half glass in a Thomson's quadrant electrometer, demonstrating the rotation of the needle based on the type of electricity charged on the quadrants. They discussed the distribution of electricity within the non-conductors and the role of specific inductive capacity in the process.
+scientific_discipline: Physics > Electrostatics

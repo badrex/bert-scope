@@ -1,0 +1,10 @@
+article_id: 'rspb_1988_0006'
+revised_title: 'GABA Receptors on Insect Motor Neurons: Pharmacology and Comparison with Vertebrate Receptors'
+semantic_tags:
+  - Neurotransmitter Receptors
+  - GABA Receptors
+  - Insect Neurophysiology
+  - Pharmacology
+  - Comparative Neuroscience
+tldr: This study investigates the pharmacology of GABA receptors on the cell-body membrane of an identified insect motor neuron, the fast coxal depressor motor neuron (Df) in the cockroach Periplaneta americana. The research found that at least two GABA molecules are required to activate the chloride channel, and it detected differences between vertebrate GABAa receptors and insect neuronal GABA receptors. The study also provides evidence for a benzodiazepine site on an insect GABA-receptor-chloride-channel complex.
+scientific_discipline: Biology and Life Sciences > Neurobiology and Neuropharmacology

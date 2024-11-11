@@ -1,0 +1,10 @@
+article_id: 'rsta_1965_0046'
+revised_title: 'Carbon Monoxide Adsorption on Evaporated Metal Films'
+semantic_tags:
+  - Surface Chemistry
+  - Adsorption
+  - Carbon Monoxide
+  - Metal Films
+  - Calorimetry
+tldr: Researchers studied the adsorption of carbon monoxide on evaporated metal films, finding strong evidence for dissociative adsorption of carbon dioxide into CO and O. The saturation coverages for the adsorption of carbon dioxide on various metals were found to be small, but the adsorptive capacity for hydrogen of surfaces saturated with carbon dioxide was very small, except for nickel and iron. The linear dependence of heat of adsorption on metallic radius is discussed, and the adsorbed state of carbon dioxide on metals exhibits some exceptional and interesting aspects.
+scientific_discipline: Chemistry > Surface Chemistry

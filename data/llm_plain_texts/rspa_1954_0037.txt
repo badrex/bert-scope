@@ -1,0 +1,10 @@
+article_id: rspa_1954_0037
+revised_title: 'Singly Charged Particle Identification Using 5-Ray Density'
+semantic_tags:
+  - Particle Physics
+  - Nuclear Emulsions
+  - Particle Track Analysis
+  - Proton Identification
+  - Cosmic Radiation
+tldr: The authors studied the distribution of 5-rays along the tracks of singly-charged particles in photographic emulsions to distinguish between protons, deuterons, and tritons. They found that the 5-ray density can help identify the type of particle and improve the accuracy of calibration and analysis in nuclear plate investigations.
+scientific_discipline: Physics > Particle Physics

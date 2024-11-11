@@ -1,0 +1,10 @@
+article_id: rsta_1959_0008
+revised_title: Coulomb Gauge in Non-Relativistic Quantum Electro-Dynamics and Spectral Line Shapes
+semantic_tags:
+  - Quantum Electrodynamics
+  - Coulomb Gauge
+  - Spectral Lines
+  - Natural Line Shapes
+  - Transition Rates
+scientific_discipline: Physics > Electromagnetism
+tldr: The authors examine the Coulomb gauge in non-relativistic quantum electro-dynamics and its application to the shape of spectral lines. They demonstrate that the conventional Coulomb gauge theory can lead to difficulties, and propose a transformation to eliminate these issues. The study focuses on the electromagnetic field associated with radiative transitions of atoms and provides a method to treat non-relativistic radiation problems, which is in accordance with the correspondence principle and maintains the advantages of the Coulomb gauge.

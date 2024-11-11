@@ -1,0 +1,10 @@
+article_id: rsta_1984_0055
+revised_title: Earth Observation Satellite Systems: Data Processing and User Applications
+semantic_tags:
+  - Remote Sensing
+  - Earth Observation
+  - Satellite Technology
+  - Data Processing
+  - Applications
+tldr: This article discusses the challenges and opportunities of Earth observation satellite systems, focusing on data acquisition, processing, and use for various applications. The author highlights the need for efficient data processing and storage systems, as well as the importance of understanding user needs to create effective Earth observation systems.
+scientific_discipline: Engineering and Technology > Satellite Technology

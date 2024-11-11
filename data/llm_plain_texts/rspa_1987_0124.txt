@@ -1,0 +1,10 @@
+article_id: rspa_1987_0124
+revised_title: Equivalence of Kinetic and Linear Response Theories in Atomic Transport
+semantic_tags:
+  - Atomic transport
+  - Point defects
+  - Kinetic theory
+  - Linear response theory
+  - Solid-state physics
+tldr: The article demonstrates the equivalence of kinetic and linear response theories in atomic transport through point defects in crystals. The author shows that the transport coefficients and response functions are invariant with respect to a class of transformations of the defect displacements, proving the exact equivalence to the results of linear response theory.
+scientific_discipline: Physics > Solid-state physics

@@ -1,0 +1,10 @@
+article_id: rspl_1898_0061
+revised_title: Oscillations of Balances and Pendulums: Experimental Investigations
+semantic_tags:
+  - Oscillations
+  - Pendulum
+  - Balance
+  - Physics
+  - Experimental Physics
+tldr: The author conducted experiments on the oscillations of balances and their relation to pendulums. They discovered that the time of oscillation decreases with the amplitude, and the decrement of oscillation varies with the balance and load. The findings suggest that similar deviations in simple pendulums may have been overlooked due to their smallness.
+scientific_discipline: Physics > Oscillations and Waves

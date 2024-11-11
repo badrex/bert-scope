@@ -1,0 +1,10 @@
+article_id: 'rspb_1971_0104'
+revised_title: 'Penicillinase: Function and Evolution in Antibiotic Resistance'
+semantic_tags:
+  - Antibiotics
+  - Penicillin
+  - Penicillinase
+  - Evolution
+  - Bacteria
+tldr: This article discusses the function and evolution of penicillinase, an enzyme that breaks down penicillin and related antibiotics. The authors argue that penicillinase functions as a detoxifying agent, acting against penicillins and cephalosporins, and that its evolutionary history has been influenced by selection in environments where these compounds have been used as inhibitors of bacterial growth. The article also explores the relationship between penicillinase and antibiotic resistance.
+scientific_discipline: Biology and Life Sciences > Microbiology

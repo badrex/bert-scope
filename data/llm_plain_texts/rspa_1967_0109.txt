@@ -1,0 +1,10 @@
+article_id: rspa_1967_0109
+revised_title: 'Magnetic Field Effects on Thermal Conductivity in Paramagnetic Crystals: Holmium Ethylsulphate'
+semantic_tags:
+  - Magnetic Fields
+  - Thermal Conductivity
+  - Paramagnetic Crystals
+  - Holmium Ethylsulphate
+  - Crystallography
+tldr: The authors studied the effect of a magnetic field on the thermal conductivity of paramagnetic crystals, specifically holmium ethylsulphate. They discovered that the resistivity in high magnetic fields is constant and lower than in zero field. The results are explained by assuming that direct process phonon-spin interactions scatter certain bands of phonons whose frequency depends on the separation of energy levels produced by the applied field. This discovery helps to understand the behavior of thermal resistivity in these crystals.
+scientific_discipline: Physics > Crystallography

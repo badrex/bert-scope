@@ -1,0 +1,10 @@
+article_id: rspa_1938_0190
+revised_title: 'Revisiting the Specific Heat of Brass: A New Approach'
+semantic_tags:
+  - Thermodynamics
+  - Alloy Science
+  - Order-Disorder Transition
+  - Specific Heat
+  - Brass
+tldr: This article investigates the specific heat of brass and proposes a new approach to understanding the anomalous rise in specific heat observed in previous experiments. The authors modify existing theories to account for volume changes and apply Kirkwood's first approximation to a finite lattice with interaction energies depending on volume. This new approach removes the discontinuity in specific heat and provides a better understanding of the order-disorder transition in brass.
+scientific_discipline: Physics > Thermodynamics

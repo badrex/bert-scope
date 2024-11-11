@@ -1,0 +1,10 @@
+article_id: rspa_1955_0048
+revised_title: 'Kinetics and Equilibria of Reactions of Trinitrotoluene and Related Substances'
+semantic_tags:
+  - Reaction kinetics
+  - Trinitrotoluene
+  - Proton transfer
+  - Solvation
+  - Temperature dependence
+tldr: The article investigates the rates and equilibria of reactions involving trinitrotoluene and related substances from -80 to +20°C. The study focuses on the reaction between ethoxide ion and trinitrotoluene, which involves a proton transfer. The authors explore the temperature dependence of the reaction rates and equilibrium constants, and discuss the possible sources of deviations from the Arrhenius law. They also examine the reaction between trinitrobenzene and ethoxide ion, which is attributed to an addition reaction.
+scientific_discipline: Chemistry > Physical Chemistry

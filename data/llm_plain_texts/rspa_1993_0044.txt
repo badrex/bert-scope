@@ -1,0 +1,10 @@
+article_id: rspa_1993_0044
+revised_title: Algebraic Criterion for Symmetric Hopf Bifurcation in Equivariant ODEs
+semantic_tags:
+  - Symmetry
+  - Hopf Bifurcation
+  - Equivariant ODEs
+  - Group Theory
+  - Lie Groups
+tldr: The authors present an algebraic criterion for symmetric Hopf bifurcation in equivariant ODEs. They show that there is a group-theoretic restriction on the subgroup of symmetries in order for that subgroup to have a two-dimensional fixed-point subspace in any representation. This criterion simplifies the classification of isotropy subgroups with two-dimensional fixed-point subspaces and helps find periodic solutions in equivariant ODEs.
+scientific_discipline: Mathematics > Group Theory

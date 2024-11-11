@@ -1,0 +1,10 @@
+article_id: rsta_1971_0032
+revised_title: Electrohydrodynamic Deformation and Bursting of Liquid Drops
+semantic_tags:
+  - Electrohydrodynamics
+  - Drop deformation
+  - Liquid dynamics
+  - Electric fields
+  - Fluid mechanics
+tldr: The authors study the deformation and bursting of liquid drops in electric fields. They find that drops form prolate or oblate spheroids depending on the dielectric constants, electric resistivities, and viscosities of the drop and medium. A critical frequency exists at which the drop remains spherical. The authors also observe two types of bursting: electric and electrohydrodynamic bursts, caused by electric stresses alone or a combination of electric and hydrodynamic stresses.
+scientific_discipline: Physics > Fluid mechanics

@@ -1,0 +1,10 @@
+article_id: rspa_1984_0113
+revised_title: Thermodynamic Fixed Points for Air-Water Monolayers of Pentadecanoic Acid
+semantic_tags:
+  - Surface Manometry
+  - Monolayers
+  - Thermodynamic Fixed Points
+  - Phase Transitions
+  - Pentadecanoic Acid
+tldr: The authors conducted a series of experiments on pentadecanoic acid monolayers at 25°C using various surface manometry techniques. They aimed to establish a set of surface pressures for the three monolayer phase transitions to act as surface manometric standards. The study demonstrated that the liquid-expanded-liquid-condensed transition is simply first order, and provided a detailed analysis of the experimental requirements for reproducible surface manometry.
+scientific_discipline: Chemistry > Colloids and Surface Chemistry

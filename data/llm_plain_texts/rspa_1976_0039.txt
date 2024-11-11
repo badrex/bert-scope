@@ -1,0 +1,10 @@
+article_id: rspa_1976_0039
+revised_title: 'Vibronic Studies of the 1.945 eV Band in Diamond'
+semantic_tags:
+  - Diamond Physics
+  - Vibrational Coupling
+  - Annealing Experiments
+  - Nitrogen Impurities
+  - Optical Properties
+tldr: The authors studied the 1.945 eV vibronic band in diamond, which is the dominant end product of annealing radiation damage in diamonds containing isolated substitutional nitrogen atoms. They conducted uniaxial stress experiments to determine the band's properties and found that it is a transition between ground and excited electromechanical states of a trigonal center, coupled to vibrational modes. The results support the nitrogen-vacancy model for the center's structure.
+scientific_discipline: Physics > Materials Science

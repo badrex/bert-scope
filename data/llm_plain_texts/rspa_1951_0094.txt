@@ -1,0 +1,10 @@
+article_id: rspa_1951_0094
+revised_title: Empirical Relations between Force Constants and Ionization Potentials in Bond Strengths
+semantic_tags:
+  - Chemical Bonding
+  - Electronegativity
+  - Ionization Potential
+  - Force Constants
+  - Molecular Orbital Theory
+tldr: This article discusses the empirical relations between force constants and ionization potentials in bond strengths. It explores how the force constant of a diatomic hydride is roughly proportional to the square of the first ionization potential of the element in the hydride. The study also reveals that the force constant appears to be primarily determined by the atomic ionization potential and is directly proportional to the square of the latter. The findings provide a way to predict force constants of bonds and contribute to the understanding of bond strengths in molecules.
+scientific_discipline: Chemistry > Chemical Bonding

@@ -1,0 +1,10 @@
+article_id: rspa_1972_0001
+revised_title: Constitutive Macro-Variables for Heterogeneous Solids at Finite Strain
+semantic_tags:
+  - Solid Mechanics
+  - Finite Strain Theory
+  - Constitutive Equations
+  - Continuum Mechanics
+  - Plasticity
+tldr: The author investigates the transition from microscopic to macroscopic levels in heterogeneous solids at finite strain, focusing on the definition of macro-variables and their relationship to volume averages of their microscopic counterparts. The study examines objective fluxes of stress and explores the effects of transforming from one flux to another, searching for quantities that remain invariant under transformation.
+scientific_discipline: Physics > Solid Mechanics

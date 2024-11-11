@@ -1,0 +1,10 @@
+article_id: rspa_1955_0244
+revised_title: 'Spectroscopic Analysis of the HCO Radical Absorption System'
+semantic_tags:
+  - Molecular spectroscopy
+  - Absorption spectrum
+  - Free radicals
+  - HCO radical
+  - DCO spectrum
+tldr: The authors investigated the absorption spectrum of the free HCO radical, produced by flash photolysis of acetaldehyde and other substances. They studied the corresponding DCO spectrum as well and analyzed the rotational constants of both HCO and DCO in their upper and lower states. The main progression of bands corresponds to transitions to the vibrational levels of the upper state with even 4 (the quantum number of the bending mode). The HCO radical has been postulated as an intermediate in many thermal and photochemical reactions, and this study provides further evidence for its existence and properties.
+scientific_discipline: Chemistry > Molecular spectroscopy

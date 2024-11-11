@@ -1,0 +1,10 @@
+article_id: rsta_1994_0041
+revised_title: 'Isoperimetric Inequalities and Limit Analysis of Plates'
+semantic_tags:
+  - Isoperimetric Inequalities
+  - Limit Analysis
+  - Plate Bending Theory
+  - Rigid-Plastic Plate
+  - Yield Line Theory
+tldr: This article establishes a general isoperimetric inequality for the collapse loads of uniformly loaded, edge-supported rigid-plastic plates of arbitrary shape. The inequality provides a lower bound to this load and involves just the length of the perimeter and the area of the collapsing region of the plate. The authors prove this inequality, which was previously just a conjecture, and discuss its implications for the field of plate bending theory and yield line theory.
+scientific_discipline: Mathematics > Optimization

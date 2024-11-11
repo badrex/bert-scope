@@ -1,0 +1,10 @@
+article_id: rspa_1966_0103
+revised_title: 'D-Region Electron Distributions in Middle Latitudes: A Study of Long Radio Wave Reflexion'
+semantic_tags:
+  - Ionosphere
+  - Radio Wave Propagation
+  - Electron Distribution
+  - Collision Frequency
+  - Reflexion Coefficient
+tldr: This study investigates the electron distribution in the D-region of the ionosphere using long radio wave reflexion. The authors postulate a height distribution of electron concentration and collision frequency, and through a process of trial and error, they derive electron distributions that explain experimental results. The findings reveal important structural features of the electron distribution, such as peaks, gradients, and concentrations at specific heights, which are consistent with various experimental results on different frequencies.
+scientific_discipline: Physics > Electromagnetism

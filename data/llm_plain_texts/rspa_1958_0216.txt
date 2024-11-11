@@ -1,0 +1,10 @@
+article_id: 'rspa_1958_0216'
+revised_title: 'Interferometer Measurements on the First Artificial Earth Satellites'
+semantic_tags:
+  - Radio Interferometry
+  - Satellite Tracking
+  - Ionosphere Studies
+  - Space Exploration
+  - Radio Propagation
+tldr: 'The authors describe the design and use of an interferometer to study the behavior of radio signals from the first artificial earth satellites. They discuss the equipment's principles, modifications, and record the direction of arrival of the signals. The interferometer allowed them to study phenomena such as scintillation, refraction through the ionosphere, and the variation of these phenomena with time.'
+scientific_discipline: 'Engineering and Technology > Radio Astronomy'

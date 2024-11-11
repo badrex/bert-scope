@@ -1,0 +1,10 @@
+article_id: rspa_1954_0104
+revised_title: Intensities in Raman Spectra: Normal Co-ordinates for Chloro- and Bromo-methanes
+semantic_tags:
+  - Raman Spectroscopy
+  - Molecular Physics
+  - Quantum Chemistry
+  - Normal Coordinates
+  - Chloro- and Bromo-methanes
+tldr: This article presents a study on the normal coordinates for chloro- and bromo-methanes using Raman spectroscopy. The authors apply an intensity theory and calculate the coefficients relating symmetry coordinates and normal coordinates for these molecules. They also discuss the force field used and the methods for determining the transformation coefficients. The findings contribute to understanding the molecular physics and quantum chemistry of these compounds.
+scientific_discipline: Chemistry > Molecular Physics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1993_0126'
+revised_title: 'Ectopic Beats Induced by Na-K Pump Inhibition in Atrial Network Models'
+semantic_tags:
+  - Cardiac Electrophysiology
+  - Atrial Arrhythmias
+  - Na-K Pump Inhibition
+  - Cardiac Network Models
+  - Biomedical Engineering
+tldr: The authors developed a biophysically detailed two-dimensional network model of the cardiac atrium to study the effects of spatially localized inhibition of the Na-K pump. They found that Na overloading caused by pump inhibition can induce spontaneous, propagating ectopic beats within the network. This research contributes to understanding the mechanisms of arrhythmias and may help in developing treatments for atrial arrhythmias.
+scientific_discipline: Biology and Life Sciences > Cardiac Electrophysiology

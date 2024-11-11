@@ -1,0 +1,10 @@
+article_id: rspa_1937_0143
+revised_title: 'Surface Structure and Energy Exchange in Platinum-Helium Interactions'
+semantic_tags:
+  - Surface Science
+  - Helium-Platinum Interactions
+  - Electron Diffraction
+  - Accommodation Coefficient
+  - Surface Contamination
+tldr: The authors investigated the energy exchange between a platinum surface and helium atoms and found that the accommodation coefficient for helium atoms is affected by the structure and contamination of the platinum surface. They used electron diffraction and energy-loss measurements to study the relationship between surface structure and energy exchange, discovering that a clean platinum surface has a higher accommodation coefficient for helium atoms.
+scientific_discipline: Physics > Surface Science

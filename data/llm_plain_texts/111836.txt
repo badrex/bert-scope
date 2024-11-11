@@ -1,0 +1,10 @@
+article_id: 111836
+revised_title: 'A Review of M. Scheutz's Calculating Machine and its Comparison to Babbage's Difference Engine'
+semantic_tags:
+  - Calculating Machines
+  - Difference Engine
+  - Tabulating Functions
+  - Analytical Engine
+  - Mechanism
+scientific_discipline: Engineering and Technology > Mechanical Engineering
+tldr: The article reports on the examination of M. Scheutz's calculating machine, a Difference Engine, and compares it to Charles Babbage's Difference Engine. The author discusses the principles, mechanisms, and capabilities of both machines, highlighting their similarities and differences. The Scheutz machine is capable of tabulating functions with constant fourth differences, and the author notes its smooth operation and potential for future improvements.

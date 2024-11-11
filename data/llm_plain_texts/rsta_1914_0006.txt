@@ -1,0 +1,10 @@
+article_id: rsta_1914_0006
+revised_title: 'Sunspot Areas and Terrestrial Magnetism: A Study of the 27-Day Period'
+semantic_tags:
+  - Sunspots
+  - Terrestrial magnetism
+  - Solar activity
+  - Solar cycle
+  - Magnetic storms
+tldr: The author investigates the relationship between sunspots and terrestrial magnetism, focusing on the 27-day period. They analyze sunspot areas, corrected for projection, and find a clear 27-day period in the data. The study also reveals that larger sunspot areas tend to have a slightly longer period, suggesting a connection between sunspot intensity and the length of the 27-day cycle. The author concludes that both magnetic storms and minor disturbances may be related to sunspots, as they tend to occur around the same time as the sun's rotation brings a spot to the same position relative to Earth.
+scientific_discipline: Physics > Astronomy

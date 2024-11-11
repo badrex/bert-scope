@@ -1,0 +1,10 @@
+article_id: 'rspb_1986_0001'
+revised_title: 'Nuclear Magnetic Resonance Imaging in Medicine: Advances and Applications'
+semantic_tags:
+  - Medical Imaging
+  - Nuclear Magnetic Resonance
+  - Clinical Applications
+  - Tissue Analysis
+  - Diagnostic Techniques
+tldr: The article discusses the development and applications of nuclear magnetic resonance (NMR) imaging in medicine. The author explains the technique's potential for studying tissue response to therapy, mental states, and dementia, as well as its use in imaging body fluids and fat. The author also highlights the progress made in improving spatial resolution and contrast, as well as the development of NMR contrast agents. NMR imaging is becoming increasingly established in diagnostic clinical practice, with over 200 machines in use in hospitals.
+scientific_discipline: Medicine and Health Sciences > Medical Imaging

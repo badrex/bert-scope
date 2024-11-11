@@ -1,0 +1,10 @@
+article_id: 'rspb_1981_0081'
+revised_title: 'Intracellular Geometry and Auxin Transport: The Role of Centrifugation'
+semantic_tags:
+  - Plant Physiology
+  - Auxin Transport
+  - Cellular Geometry
+  - Centrifugation
+  - Plant Hormones
+tldr: The author investigates how intracellular geometry affects the transport of the plant hormone auxin. They demonstrate that centrifugation can alter the velocity of auxin transport by changing the position of the vacuole and cytoplasm within the cell. The tonoplast, the membrane surrounding the vacuole, may act as a permeability barrier for auxin, and its position can significantly influence the hormone's flux inside the cell. This finding can help explain the changes in auxin transport patterns during the geotropic response.
+scientific_discipline: Biology and Life Sciences > Plant Biology

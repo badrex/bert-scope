@@ -1,0 +1,10 @@
+article_id: rspa_1934_0200
+revised_title: 'Adsorption Isotherm and Cataphoresis of Gliadin on Quartz'
+semantic_tags:
+  - Surface chemistry
+  - Adsorption isotherm
+  - Colloid science
+  - Protein adsorption
+  - Cataphoresis
+tldr: The authors studied the adsorption of gliadin, a plant protein, on quartz particles using a micro-cataphoresis technique. They found that the adsorption process follows a modified Langmuir adsorption isotherm and that the rate of adsorption is influenced by the ionic strength and nature of the electrolyte present. The study provides insights into the interaction between proteins and solid surfaces, which is important in various applications, such as food science and materials science.
+scientific_discipline: Chemistry > Surface chemistry

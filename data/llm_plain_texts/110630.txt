@@ -1,0 +1,10 @@
+article_id: '110630'
+revised_title: 'Invention of a Compensating Barometer for Meteorological Purposes'
+semantic_tags:
+  - Barometer
+  - Meteorology
+  - Atmospheric Pressure
+  - Temperature Compensation
+  - Instrumentation
+tldr: Samuel B. Howlett invented a compensating barometer that requires no corrections for zero or temperature. The barometer consists of two tubes filled with mercury, and the elevation of the mercury in the barometric tube is estimated by the difference between its level and that of the mercury in the closed tube. This design allows for accurate readings without the need for additional calculations, making it a useful tool for meteorological purposes.
+scientific_discipline: Physics > Meteorology

@@ -1,0 +1,10 @@
+article_id: rspa_1986_0105
+revised_title: 'Effects of Reactant Consumption on Critical Local Disturbance of Temperature Field for Ignition'
+semantic_tags:
+  - Thermal Ignition
+  - Reactant Consumption
+  - Critical Disturbance
+  - Standing Waves of Reaction
+  - Thermal Explosion
+tldr: This article investigates the critical local disturbance of the temperature field necessary for ignition and the effects of reactant consumption. The authors find that a proportionally greater increase in the disturbance is needed when reactant consumption is considered, compared to the classical problem of thermal explosion. The study focuses on a two-dimensional slab of exothermic reactant and uses a series expansion to analyze the dynamics of ignition.
+scientific_discipline: Physics > Thermodynamics

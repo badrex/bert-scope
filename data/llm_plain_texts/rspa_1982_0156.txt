@@ -1,0 +1,10 @@
+article_id: rspa_1982_0156
+revised_title: Temperature Measurements and Implosion Dynamics in Detonation Waves
+semantic_tags:
+  - Detonation physics
+  - Shock waves
+  - Temperature measurements
+  - Implosion dynamics
+  - High-pressure physics
+tldr: The authors conducted experiments to measure the temperature and dynamics of implosion focus in detonation waves. They used a quartz Hilger spectrograph to measure the radiation intensity and fitted it to a black-body spectrum. The results showed that the temperature increased from 10,500 to 13,200 for gas runs and reached 15,000 to 17,000 for explosive runs. The emissivity of the radiating gas was close to unity, confirming the black-body behavior. Numerical studies using the random choice method and strong-shock theory provided insights into the implosion process.
+scientific_discipline: Physics > Fluid Dynamics

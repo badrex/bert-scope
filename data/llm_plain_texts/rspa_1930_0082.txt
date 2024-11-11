@@ -1,0 +1,10 @@
+article_id: rspa_1930_0082
+revised_title: The Scattering of Electrons by Atoms and the Rutherford Scattering Formula
+semantic_tags:
+  - Electron Scattering
+  - Atomic Physics
+  - Rutherford Scattering
+  - Wave Mechanics
+  - Quantum Mechanics
+tldr: The authors investigate the scattering of electrons by atoms using wave mechanics and develop a formula for the scattered intensity. They compare their findings with experimental data and find that the Rutherford scattering formula is valid for electrons with higher energy levels.
+scientific_discipline: Physics > Atomic Physics

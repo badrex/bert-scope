@@ -1,0 +1,10 @@
+article_id: 'rstb_1995_0062'
+revised_title: 'Optimization Techniques for Modeling Marine Ecosystem Dynamics'
+semantic_tags:
+  - Marine Ecosystem Modeling
+  - Nonlinear Optimization
+  - JGOFS North Atlantic Bloom Experiment
+  - Nitrogen Cycle
+  - Ocean Carbon Cycle
+tldr: 'The article describes the use of a seven-compartment model and a nonlinear optimization technique to fit a time series of observations from the 1989 JGOFS North Atlantic Bloom Experiment. The goal is to understand the carbon cycle within the ocean and predict how it might change under global climate change. The study focuses on the ecosystem dynamics at the 47°N 20°W JGOFS station, aiming to find the best fit for primary production, zooplankton, and other independent data sets while considering the limitations of the model and the need for further development.'
+scientific_discipline: Environmental and Earth Sciences > Oceanography

@@ -1,0 +1,10 @@
+article_id: '106640'
+revised_title: 'Investigation of the Cause of Indistinctness of Vision and the Optic Pencil'
+semantic_tags:
+  - Optics
+  - Microscopy
+  - Vision
+  - Telescope design
+  - Pupil size
+tldr: 'William Herschel investigates the cause of indistinct vision and challenges the belief that vision becomes indistinct when the optic pencil is smaller than the 40th or 50th part of an inch. Through a series of experiments with different microscope constructions, he demonstrates that one can see distinctly with much smaller optic pencils. He concludes that the indistinctness of vision may be caused by factors other than the size of the optic pencil, such as the aperture of the object-glass and the focal length of the lenses.'
+scientific_discipline: Physics > Optics

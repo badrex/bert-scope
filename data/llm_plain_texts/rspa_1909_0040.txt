@@ -1,0 +1,10 @@
+article_id: rspa_1909_0040
+revised_title: Ionization in Gases by Secondary β-Rays
+semantic_tags:
+  - Ionization
+  - Secondary radiation
+  - Gas ionization
+  - Radium
+  - β-rays
+tldr: The authors conducted experiments to study the ionization in various gases caused by secondary β-rays emitted by substances exposed to primary β-rays of radium. They found that the ionization is proportional to the pressure in the gas, and discussed the factors contributing to the ionization, such as slow-moving ions ejected from gas molecules and secondary cathode rays from the walls of the chamber.
+scientific_discipline: Physics > Ionization and Radiation

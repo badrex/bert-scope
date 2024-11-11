@@ -1,0 +1,10 @@
+article_id: rspa_1946_0014
+revised_title: 'Investigation of the Thermal Decomposition of Hydrogen Peroxide Vapour'
+semantic_tags:
+  - Chemical kinetics
+  - Surface chemistry
+  - Heterogeneous reactions
+  - Hydrogen peroxide decomposition
+  - Gas-phase reactions
+tldr: The authors investigated the thermal decomposition of hydrogen peroxide vapour at low pressures in silica vessels. They found that the reaction was predominantly a surface one, influenced by the nature of the containing surfaces. The results support the conclusion that the reaction is heterogeneous, with water vapour slightly retarding the rate of decomposition.
+scientific_discipline: Chemistry > Chemical kinetics

@@ -1,0 +1,12 @@
+article_id: 'rstb_1992_0041'
+revised_title: 'G-protein Regulation of Phosphatidylinositol 4,5-bisphosphate Hydrolysis in Hormone Signaling'
+semantic_tags:
+  - G-protein signaling
+  - Hormone signaling
+  - Phosphatidylinositol 4,5-bisphosphate hydrolysis
+  - Cellular regulation
+  - Biochemistry
+tldr: This article discusses the role of G-proteins in hormone signaling, specifically focusing on the regulation of phosphatidylinositol 4,5-bisphosphate hydrolysis by Gq subunits. The author explains how G-protein activation promotes the dissociation of its alpha and beta-gamma subunits, leading to the regulation of various cellular functions. The article also highlights the use of (3y subunits as affinity reagents for analyzing unique alpha subunits and the isolation of a new class of G-protein alpha subunits (the alphaq subfamily) that regulate phosphatidylinositol-specific phospholipase C activity.
+scientific_discipline: Biology and Life Sciences > Biochemistry
+```yaml
+```

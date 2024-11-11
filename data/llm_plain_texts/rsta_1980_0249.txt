@@ -1,0 +1,10 @@
+article_id: rsta_1980_0249
+revised_title: Ultra-Short Laser Pulses: Advances in Mode-Locked Semiconductor Diode Lasers
+semantic_tags:
+  - Laser Physics
+  - Optoelectronics
+  - Mode-Locked Lasers
+  - Semiconductor Lasers
+  - Ultrafast Optics
+tldr: This article discusses the development of mode-locked semiconductor diode lasers, which produce ultra-short laser pulses. The authors explore the potential of these lasers for various applications, including their use in generating high-frequency signals and their ability to produce short optical pulses. They also highlight the challenges and future prospects of this technology.
+scientific_discipline: Physics > Optics

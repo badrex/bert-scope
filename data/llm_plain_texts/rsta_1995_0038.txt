@@ -1,0 +1,10 @@
+article_id: rsta_1995_0038
+revised_title: Landscape-Scale Exchange of Trace Gases: Measuring CH4 and N2O Fluxes
+semantic_tags:
+  - Greenhouse gases
+  - Micrometeorology
+  - Eddy covariance
+  - Peatlands
+  - Agricultural emissions
+tldr: This article presents measurements of CH4 and N2O fluxes at the landscape scale using micrometeorological methods. The authors applied flux gradient, eddy covariance, and relaxed eddy accumulation methods to measure emissions from peatlands and arable land. They found that emissions of CH4 from peatlands change with water table depth and soil temperature, and that the average emission fluxes reported for wetlands in different regions suggest that earlier estimates may have been too large or the area of high latitudes contributing to emissions has been underestimated. The authors also discuss the application of micrometeorology to measure N2O emissions from soils and the challenges in using these methods for radiatively active gases like CH4 and N2O.
+scientific_discipline: Environmental and Earth Sciences > Biogeochemistry

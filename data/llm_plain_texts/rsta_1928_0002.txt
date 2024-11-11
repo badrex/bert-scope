@@ -1,0 +1,10 @@
+article_id: 'rsta_1928_0002'
+revised_title: 'Recurrence Phenomena in Terrestrial Magnetism: A Study of Sunspots and Magnetic Disturbances'
+semantic_tags:
+  - Terrestrial magnetism
+  - Sunspots
+  - Solar activity
+  - Magnetic disturbance
+  - Solar physics
+tldr: The authors analyze the relationship between sunspots, solar latitude, and magnetic disturbance on Earth. They investigate the recurrence patterns of magnetic disturbance and find that the length of the interval is influenced by sunspot frequency and solar latitude. The study suggests that the ultimate cause of magnetic disturbance is likely related to the sun's discharge of electricity.
+scientific_discipline: Physics > Astronomy

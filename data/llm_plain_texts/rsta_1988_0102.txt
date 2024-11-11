@@ -1,0 +1,10 @@
+article_id: 'rsta_1988_0102'
+revised_title: 'Synthesis of Chiral Amino Acids via Photochemical Reactions of Chromium Carbene Complexes'
+semantic_tags:
+  - Organometallic Chemistry
+  - Organic Synthesis
+  - Photochemistry
+  - Chiral Compounds
+  - Amino Acids
+tldr: Researchers have developed a new method for synthesizing chiral, optically active amino acids using photochemical reactions of chromium carbene complexes. The process involves the reaction of chromium carbene complexes with imines to produce lactams, which can then be cleaved to form natural and unnatural amino acids. This method offers high diastereoselectivity and has potential for future applications in organic synthesis.
+scientific_discipline: Chemistry > Organic Chemistry

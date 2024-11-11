@@ -1,0 +1,10 @@
+article_id: rspa_1976_0023
+revised_title: 'Vibration-Rotation Energy Exchange in Carbon Dioxide-Hydrogen Mixtures'
+semantic_tags:
+  - Molecular Physics
+  - Vibrational Relaxation
+  - Gas Dynamics
+  - Shock Tube
+  - Laser Schlieren System
+tldr: The authors conducted experiments using a shock tube and a laser schlieren system to study the vibration-rotation energy exchange in carbon dioxide-hydrogen mixtures. They found that the efficiency of energy transfer between the rotation of one molecule and the vibration of another depends on the type of hydrogen isotope used. The results provide insights into the importance of long-range interactions in the coupling reaction and the role of rotational relaxation in the process.
+scientific_discipline: Chemistry > Molecular Physics

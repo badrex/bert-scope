@@ -1,0 +1,12 @@
+article_id: 'rsta_1980_0143'
+revised_title: 'Photolysis of Water for H2 Production with Biological and Artificial Catalysts'
+semantic_tags:
+  - 'Solar energy'
+  - 'Water photolysis'
+  - 'Hydrogen production'
+  - 'Biological catalysts'
+  - 'Artificial catalysts'
+tldr: The article discusses the process of photolysis, which uses solar energy to split water into hydrogen and oxygen. The authors explore the use of biological and artificial catalysts, such as chloroplasts, hydrogenase enzymes, and synthetic iron-sulfur particles, to improve the efficiency and stability of hydrogen production. This method has the potential to provide a clean, renewable energy source by using sunlight and water as resources.
+scientific_discipline: Chemistry > Energy and Resources
+```yaml
+```

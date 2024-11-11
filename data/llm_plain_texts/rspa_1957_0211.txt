@@ -1,0 +1,10 @@
+article_id: rspa_1957_0211
+revised_title: 'Investigation of Electrical Anharmonicity in the OH Group Vibration'
+semantic_tags:
+  - Vibrational spectroscopy
+  - Anharmonicity
+  - Hydrogen bonding
+  - Intensity of fundamental and overtone bands
+  - Bond dipole and bond length
+tldr: The authors studied the intensities of fundamental and overtone vibration bands of the OH group in phenols and alcohols. They found that variations in electrical anharmonicity can explain differences in the relative intensities of the fundamental and overtone for different molecules. The results provide insights into the relation between bond dipole and bond length and help decide between alternative solutions for the O-H bond in water.
+scientific_discipline: Chemistry > Spectroscopy

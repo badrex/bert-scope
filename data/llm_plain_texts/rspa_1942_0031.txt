@@ -1,0 +1,11 @@
+article_id: rspa_1942_0031
+revised_title: 'New Method for Determining Surface Tension of Liquids and Adhesion of Liquids to Solids'
+semantic_tags:
+  - Surface energy
+  - Contact angle
+  - Surface tension
+  - Adhesion
+  - Wetting
+  - Solid-liquid systems
+tldr: The authors developed a new method to determine the surface tension of liquids and adhesion of liquids to solids by considering the advancing and receding contact angles of a liquid drop on a tilted solid surface. They tested this method using various liquid-solid systems and found that the advancing and receding contact angles are characteristic constants of these systems. The results showed that the difference in adhesion between the advancing and receding angles is due to the work done in removing an adsorbed intermolecular layer.
+scientific_discipline: Chemistry > Surface Chemistry

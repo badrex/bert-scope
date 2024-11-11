@@ -1,0 +1,10 @@
+article_id: rspa_1980_0105
+revised_title: Acoustic Propagation through Internal Waves: Parabolic Moment Equations and Applications
+semantic_tags:
+  - Acoustic propagation
+  - Internal waves
+  - Parabolic moment equations
+  - Garrett-Munk spectrum
+  - Ocean acoustics
+tldr: This article explores the application of parabolic moment equations to study acoustic propagation through internal waves in the ocean. The authors use a modified Garrett-Munk spectrum with a continuous range of vertical wavenumbers to describe the irregularities caused by internal waves and derive the transverse autocorrelation function. The theory is compared with experimental observations, showing satisfactory agreement in general features.
+scientific_discipline: Physics > Optics

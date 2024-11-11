@@ -1,0 +1,10 @@
+article_id: rspa_1984_0046
+revised_title: Acoustic Radiation from Rectangular Panels with Constrained Edges: A Comprehensive Study
+semantic_tags:
+  - Acoustics
+  - Structural Acoustics
+  - Panel Radiation
+  - Edge Constraints
+  - Bending Plate Equation
+tldr: This article presents a detailed analysis of acoustic radiation from rectangular panels with constrained edges. The study focuses on the radiation resistance and efficiency of panels with various edge conditions, such as clamped and hinged edges. The authors provide mathematical models and calculations to determine the power output from the panels and improve the understanding of acoustic interactions with vibrating structures.
+scientific_discipline: Engineering and Technology > Mechanical Engineering > Acoustics and Vibration

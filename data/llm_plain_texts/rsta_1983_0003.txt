@@ -1,0 +1,10 @@
+article_id: rsta_1983_0003
+revised_title: Air-Sea Interaction: JASIN Experiment and Surface Turbulent Fluxes
+semantic_tags:
+  - Oceanography
+  - Meteorology
+  - Air-Sea Interaction
+  - Turbulent Fluxes
+  - Surface Heat Balance
+scientific_discipline: Environmental and Earth Sciences > Oceanography
+tldr: The Joint Air-Sea Interaction (JASIN) Experiment studied air-sea interaction with a focus on turbulent fluxes and their variability. Data from ships, buoys, aircraft, and a remote-sensing satellite were used to estimate momentum, heat, and water vapor fluxes at the sea surface. The sensible heat flux was found to be less than 25% of the latent heat flux, and the total upward heat flux was about a third of the net radiation. The study also investigated the horizontal variation of the fluxes in relation to larger scales, suggesting that the fluxes are modulated by mesoscale patterns in sea-surface temperature.

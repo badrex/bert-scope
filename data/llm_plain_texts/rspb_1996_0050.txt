@@ -1,0 +1,11 @@
+article_id: 'rspb_1996_0050'
+revised_title: 'Host-Pathogen Systems in a Spatially Patchy Environment: Dynamics and Intermittency'
+semantic_tags:
+  - Population dynamics
+  - Host-pathogen interactions
+  - Spatial ecology
+  - Metapopulation
+  - Intermittency
+tldr: This article explores a discrete infection model for host-pathogen systems in a spatially patchy environment. The study reveals that long-term pathogen survival and spatial dispersal can significantly impact population dynamics. The model exhibits new spatial patterns, such as radial waves and spirals, which can switch intermittently. These spatial patterns affect the temporal metapopulation dynamics, providing evidence of a clear link between spatial and temporal behavior in host-pathogen systems.
+scientific_discipline: Biology and Life Sciences > Ecology and Population Biology
+```

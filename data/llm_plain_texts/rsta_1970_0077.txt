@@ -1,0 +1,10 @@
+article_id: rsta_1970_0077
+revised_title: Stokes Multipliers for the Orr-Sommerfeld Equation: A New Approach
+semantic_tags:
+  - Fluid Dynamics
+  - Asymptotic Analysis
+  - Boundary Layer Theory
+  - Stability Analysis
+  - Differential Equations
+tldr: The authors use the comparison equation method to study the outer expansions of the Orr-Sommerfeld equation, which governs the stability of parallel shear flows. They focus on obtaining first approximations to the Stokes multipliers, which describe the continuation of these expansions when crossing a Stokes line in the complex plane. The resulting approximations show a distinction between inviscid and viscous-type approximations in some sectors. A consistent first-order approximation to the characteristic equation is derived and compared with the more usual second-order approximation, providing a better approximation to the neutral curve.
+scientific_discipline: Mathematics > Differential Equations

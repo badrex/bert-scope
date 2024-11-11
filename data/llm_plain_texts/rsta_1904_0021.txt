@@ -1,0 +1,10 @@
+article_id: 'rsta_1904_0021'
+revised_title: 'Elliptic Integrals and Ellipsotomic Problem: A Mathematical Exploration'
+semantic_tags:
+  - Elliptic Integrals
+  - Ellipsotomic Problem
+  - Mathematical Analysis
+  - Applied Mathematics
+  - Mechanics
+tldr: This article explores the third elliptic integral and its applications to various mechanical problems, such as the herpolhode, spinning top, spherical catenary, velarium, and elastica under uniform normal pressure. The author also discusses the ellipsotomic problem and its relation to elliptic functions, providing a deeper understanding of the mathematical concepts involved.
+scientific_discipline: Mathematics > Applied Mathematics

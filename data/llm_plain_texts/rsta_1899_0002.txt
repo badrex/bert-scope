@@ -1,0 +1,10 @@
+article_id: rsta_1899_0002
+revised_title: 'Spiral Vortex Motion and Gyrostatic Aggregates: A New System of Spiral Vortices'
+semantic_tags:
+  - Fluid Dynamics
+  - Vortex Motion
+  - Gyrostatic Vortex Aggregates
+  - Spiral Vortices
+  - Stream Function
+scientific_discipline: Mathematics > Applied Mathematics
+tldr: The author investigates spiral vortex motion and gyrostatic vortex aggregates, discovering a new system of spiral vortices. They determine the conditions for the existence of these systems and analyze their properties, including the behavior of streamlines and vortex lines. The study provides insights into the complex nature of spiral or gyrostatic vortex aggregates and opens up new avenues for research in fluid dynamics.

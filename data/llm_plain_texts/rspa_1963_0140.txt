@@ -1,0 +1,10 @@
+article_id: rspa_1963_0140
+revised_title: Electronic Structure of Disorder Systems in Liquid Insulators
+semantic_tags:
+  - Solid State Physics
+  - Insulators
+  - Electronic Structure
+  - Disorder Systems
+  - Tight Binding Approximation
+tldr: This article discusses the electronic structure of liquid insulators using the tight binding approximation. It analyzes the behavior of the bond gap in the presence of disorder and provides methods to solve problems related to electronic structure in disordered systems. The study focuses on non-interacting electrons tightly bound to their ions and considers perfect lattice problems to derive solutions. The findings can be applied to liquid helium and may be extended to more complex cases.
+scientific_discipline: Physics > Solid State Physics

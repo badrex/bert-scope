@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0004'
+revised_title: 'Potentiation of Synaptic Responses in Chick Forebrain: An In Vitro Study'
+semantic_tags:
+  - Neurobiology
+  - Synaptic Potentiation
+  - Chick Forebrain
+  - In Vitro Preparation
+  - Learning and Plasticity
+tldr: This study investigates the potentiation of synaptic responses in slices from the chick forebrain using an in vitro preparation. The researchers found that two 1-minute periods of stimulation at 5 Hz, separated by 10 minutes, can induce a persistent increase in the size of the postsynaptic response to test stimulation at 0.1 Hz. This potentiation is not evenly distributed throughout the anteroposterior length of the medial hyperstriatum ventrale but is higher in slices containing the septo-mesencephalic tract ventrally. The findings suggest that the medial hyperstriatum ventrale plays a crucial role in neural changes underlying behavioral plasticity.
+scientific_discipline: Biology and Life Sciences > Neurobiology

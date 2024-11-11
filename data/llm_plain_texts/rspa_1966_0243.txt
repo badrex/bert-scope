@@ -1,0 +1,10 @@
+article_id: 'rspa_1966_0243'
+revised_title: 'Crystal and Molecular Structures of 5-Bromo-2'
+semantic_tags:
+  - Crystallography
+  - Molecular Structure
+  - Nucleosides
+  - Deoxyuridines
+  - X-ray Crystallography
+tldr: The authors determined the crystal and molecular structures of 5-bromo-2 deoxyuridine (BUDR) and 5-bromouridine (BUR) using X-ray crystallography. They found that the glycosidic bond length in BUDR is shorter than normal, and the conformation of the C5'-O5' bond is not the most commonly found. The study provides insights into the structures of halogenated deoxyuridines, which can be incorporated into DNA and cause biological changes.
+scientific_discipline: Chemistry > Crystallography

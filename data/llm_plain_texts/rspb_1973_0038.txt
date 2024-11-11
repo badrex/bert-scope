@@ -1,0 +1,10 @@
+article_id: 'rspb_1973_0038'
+revised_title: 'Ferroverdin I: Monoclinic Ferroverdin Crystal Structure'
+semantic_tags:
+  - Crystallography
+  - X-ray diffraction
+  - Ferroverdin
+  - Iron complex
+  - Sodium-containing pigment
+tldr: The authors studied the structure of ferroverdin, a green iron-containing pigment, using X-ray crystallography. They discovered that ferroverdin contains sodium as well as iron, and it has a monoclinic crystal structure. The iron atom is attached to three nitrosophenyl ligands, while the sodium ion is surrounded by three phenolic oxygen atoms from ferroverdin molecules and one from solvent acetone.
+scientific_discipline: Chemistry > Crystallography

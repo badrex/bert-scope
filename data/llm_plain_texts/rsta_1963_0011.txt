@@ -1,0 +1,10 @@
+article_id: rsta_1963_0011
+revised_title: Directional Analysis of Swell from Distant Storms
+semantic_tags:
+  - Oceanography
+  - Wave Energy
+  - Directional Analysis
+  - Swell
+  - Storms
+tldr: The authors measured the distribution of wave energy with frequency and direction using a triangular array of sensitive transducers off the coast of California. They analyzed the data using high-speed computers and developed a method to identify the energy and direction of point sources that best accounted for the recorded data. The study allowed them to determine the distance, direction, time, and other characteristics of the sources of the swell, providing valuable insights into the generation and decay of ocean waves.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

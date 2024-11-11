@@ -1,0 +1,10 @@
+article_id: 'rspa_1976_0124'
+revised_title: 'Molecular Orbital Theory in Mass Spectrometry: Ab Initio Calculations on 2-Methylpropene and its Radical-Cation'
+semantic_tags:
+  - Mass spectrometry
+  - Molecular orbital theory
+  - Ab initio calculations
+  - 2-methylpropene
+  - Radical-cation
+tldr: The authors conducted ab initio calculations using molecular orbital theory to study the electronic structures of 2-methylpropene and its radical-cation. They found that the energy difference between the 2BX planar and 2B2 perpendicular states of the radical-cation is about 67 kJ mol-1. The study also showed that the participation of the 2B2 state in a proposed 1,3-hydrogen shift lifts the orbital symmetry restriction predicted for this process in the case of the 2BX state. This research provides a better understanding of complex reaction systems in mass spectrometry.
+scientific_discipline: Chemistry > Spectroscopy and Mass Spectrometry

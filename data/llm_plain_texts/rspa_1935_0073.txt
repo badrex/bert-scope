@@ -1,0 +1,11 @@
+article_id: 'rspa_1935_0073'
+revised_title: 'The Temperature Dependence of Gaseous Ion Mobility: Positive Ions in Their Own Gas'
+semantic_tags:
+  - Ion mobility
+  - Gas physics
+  - Temperature effects
+  - Gaseous ions
+  - Positive ions
+tldr: 'This article investigates the variation of gaseous ion mobility with temperature, focusing on positive ions in their own gas. The authors study the mobility of helium ions in helium and nitrogen ions in nitrogen, finding that the mobility at constant density is practically independent of temperature until a certain point, after which it decreases. The authors propose extending the experiments to alkali ions in inert gases to further explore the temperature effects on ion mobility.'
+scientific_discipline: Chemistry > Physical Chemistry
+```

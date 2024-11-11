@@ -1,0 +1,10 @@
+article_id: rspa_1992_0127
+revised_title: 'Classical Actions for Asymptotic Symmetry Groups of Four-Dimensional Space-Times'
+semantic_tags:
+  - Asymptotic symmetry groups
+  - Space-time
+  - Classical actions
+  - Penrose action
+  - Quantum gravity
+tldr: The author explores forty-two generalizations of the Bondi-Metzner-Sachs group and demonstrates that each has a natural classical action on Penrose's future null infinity. These actions are essential for understanding the nature of classical linear and angular momentum in radiating space-times. The study also provides a uniform manner for analyzing these groups and their actions on spaces interpreted as 'blow-ups' at the origin of parts of punctured flat spaces.
+scientific_discipline: Mathematics > Group Theory

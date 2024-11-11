@@ -1,0 +1,10 @@
+article_id: 106967
+revised_title: 'Vince's Experiments on Fluid Resistance and the Action of Fluids on Bodies'
+semantic_tags:
+  - Fluid dynamics
+  - Resistance
+  - Fluid mechanics
+  - Motion
+  - Experimentation
+tldr: Samuel Vince conducted experiments to study the resistance of bodies moving in fluids and the action of fluids on bodies at rest. He found that the resistance of a body moving in a fluid varies as the square of its velocity and the area of the body's cross-section. Vince also discovered that the resistance of a body moving in a fluid is affected by the shape of the body's back part. His experiments provided valuable insights into fluid dynamics and the behavior of fluids in motion.
+scientific_discipline: Physics > Fluid Dynamics

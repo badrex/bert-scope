@@ -1,0 +1,10 @@
+article_id: rspa_1954_0240
+revised_title: Chain Transfer in the Catalyzed Polymerization of Vinyl Acetate
+semantic_tags:
+  - Polymer Chemistry
+  - Chain Transfer
+  - Vinyl Acetate
+  - Catalysis
+  - Polymerization
+tldr: The authors studied the chain transfer coefficients of vinyl acetate polymerization using azobisisobutyronitrile as a catalyst in various solvents. They found that vinyl acetate has a higher tendency to attack solvents than to combine with itself, resulting in a higher chain transfer rate compared to styrene and methyl methacrylate. The authors also demonstrated the possibility of determining chain transfer constants using a single-tube experiment in suitable systems.
+scientific_discipline: Chemistry > Polymer Chemistry

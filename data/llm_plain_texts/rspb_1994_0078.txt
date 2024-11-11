@@ -1,0 +1,10 @@
+article_id: 'rspb_1994_0078'
+revised_title: 'Characterization of Fast and Slow Gating Modes of RIIA Sodium Channels'
+semantic_tags:
+  - Sodium channels
+  - Voltage-gated ion channels
+  - Neurophysiology
+  - Xenopus oocytes
+  - Channel gating
+tldr: The authors studied the voltage dependencies of the fast and slow gating modes of RIIA sodium channels expressed in Xenopus oocytes. They found that these modes have different activation and inactivation properties and are present in a proportion related to the level of channel expression. This research provides insights into the physiological roles of sodium channels and could potentially contribute to therapeutic treatments for diseases related to sodium channel function.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

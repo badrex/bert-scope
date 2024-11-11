@@ -1,0 +1,10 @@
+article_id: rspa_1930_0045
+revised_title: 'Improvements in the Stationary Wave Method for Measuring Absorbing Power of Materials'
+semantic_tags:
+  - Acoustics
+  - Sound absorption
+  - Sound measurement
+  - Sound reflection
+  - Material properties
+tldr: 'The authors describe improvements to the stationary wave method for measuring the absorbing power of materials. They discuss the theory behind the method, the experimental setup, and the effects of absorption and reflection on the pressure amplitude. The authors also provide details on the materials tested and the results obtained using the improved method.'
+scientific_discipline: Physics > Acoustics

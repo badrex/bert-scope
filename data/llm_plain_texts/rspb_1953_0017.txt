@@ -1,0 +1,10 @@
+article_id: 'rspb_1953_0017'
+revised_title: 'Investigating the Molecular Structure of Proteins: X-ray Analysis and Muscle Contraction'
+semantic_tags:
+  - Protein structure
+  - X-ray diffraction
+  - Muscle contraction
+  - Actin and myosin
+  - ATP
+tldr: The authors used X-ray analysis to study the molecular structure of actin and myosin proteins in muscle under various conditions. They discovered that the long molecules in muscle are arranged in a hexagonal array and that the presence of ATP affects the electron density between these molecules. This research provides insights into the mechanism of muscle contraction.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

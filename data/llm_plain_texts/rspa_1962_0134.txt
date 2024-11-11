@@ -1,0 +1,10 @@
+article_id: rspa_1962_0134
+revised_title: 'UV Crosslinking of Polyethylene and Paraffins with Sensitizers'
+semantic_tags:
+  - Polymer Chemistry
+  - Photochemistry
+  - Radiation Crosslinking
+  - Sensitizers
+  - Polymer Degradation
+tldr: The authors investigated the crosslinking of polyethylene and paraffins by exposing them to ultra-violet radiation in the presence of sensitizers. They found that the number of crosslinks is directly related to the number of sensitizer molecules destroyed, and that the overall reaction occurs in two stages: absorption of ultra-violet radiation by the sensitizer and reaction between the sensitizer radical and polymer molecule. This technique offers a way to study the effects of ionizing radiation by introducing an intermediate step that can be determined independently and quantitatively.
+scientific_discipline: Chemistry > Polymer Chemistry

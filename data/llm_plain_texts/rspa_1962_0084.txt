@@ -1,0 +1,10 @@
+article_id: rspa_1962_0084
+revised_title: Diffraction by Circular Disks: A New Approach to Integral Equations
+semantic_tags:
+  - Diffraction
+  - Integral Equations
+  - Sound Waves
+  - Fredholm Equations
+  - Boundary Value Problems
+tldr: The author presents a new approach to solving diffraction problems by circular disks, reducing both the soft and rigid disk problems to the solution of Fredholm integral equations of the second kind. This method avoids the need to solve sets of simultaneous linear equations and is suitable for obtaining iterative approximate solutions at low frequencies. The case of an incident plane wave is considered in detail, and expansions in powers of frequency radius are obtained for the respective transmission coefficients.
+scientific_discipline: Physics > Acoustics

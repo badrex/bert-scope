@@ -1,0 +1,10 @@
+article_id: 'rspb_1961_0065'
+revised_title: 'The Role of Enzyme Decay and Adaptation in Micro-organism Aging'
+semantic_tags:
+  - Microbiology
+  - Enzyme activity
+  - Bacterial adaptation
+  - Aging
+  - Lag phase
+tldr: The study investigates the effects of aging and adaptation on the lag phase of a micro-organism, Bact. lactis aerogenes. It shows that the duration of the lag phase depends on factors such as the presence of metabolites, the size of the inoculum, and the age of the culture. The research also demonstrates that enzyme activities, including D-ribulose isomerase and /?-galactosidase, decline during the aging process and the lag phase, highlighting the importance of specific adaptation to the new substrate for the micro-organism's growth.
+scientific_discipline: Biology and Life Sciences > Microbiology

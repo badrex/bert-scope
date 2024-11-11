@@ -1,0 +1,10 @@
+article_id: 'rspa_1914_0058'
+revised_title: 'On Newcomb's Method of Investigating Periodicities and its Application to Brückner's Weather Cycle'
+semantic_tags:
+  - Periodicity
+  - Fourier analysis
+  - Weather cycles
+  - Newcomb's method
+  - Brückner's cycle
+tldr: The author examines Simon Newcomb's method for investigating periodicities and applies it to Brückner's weather cycle. Newcomb's method is compared to Fourier's analysis, and its advantages and limitations are discussed. The author also explores the potential of Newcomb's method in detecting hidden periodicities in various phenomena, such as fluctuations in ocean waves and the synchronism of sunspots and meteorological phenomena.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

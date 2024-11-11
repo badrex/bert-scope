@@ -1,0 +1,10 @@
+article_id: 111778
+revised_title: 'Differential Transformation and Reversion of Serieses: A General Solution'
+semantic_tags:
+  - Mathematics
+  - Differential Equations
+  - Series Expansions
+  - Calculus
+  - Applied Mathematics
+tldr: 'J. J. Sylvester presents a general solution to the problem of expanding a given partial differential coefficient of a function in terms of its partial differential coefficients. This solution involves the reversion of simultaneous serieses and is applicable to a wide range of mathematical problems.'
+scientific_discipline: Mathematics > Calculus

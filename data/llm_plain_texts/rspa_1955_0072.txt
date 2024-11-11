@@ -1,0 +1,10 @@
+article_id: rspa_1955_0072
+revised_title: Hamiltonian Form of Wave Equation for Spin 1
+semantic_tags:
+  - Quantum Mechanics
+  - Particle Physics
+  - Wave Equations
+  - Hamiltonian Mechanics
+  - Proca Field
+tldr: The author presents a new method to derive the wave equation for spin 1 in Hamiltonian form, which is a generalization of Maxwell's electromagnetic equations. The new form of the equation is obtained from Proca's set of field equations and is closely analogous to Dirac's equation for spin. The author also discusses the conservation of initial values and the physical meaning of the formalism.
+scientific_discipline: Physics > Quantum Mechanics

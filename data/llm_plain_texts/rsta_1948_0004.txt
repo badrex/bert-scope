@@ -1,0 +1,10 @@
+article_id: rsta_1948_0004
+revised_title: Large Elastic Deformations of Isotropic Materials in Cylindrical Polar Coordinates
+semantic_tags:
+  - Solid mechanics
+  - Elasticity
+  - Torsion
+  - Neo-Hookean materials
+  - Cylindrical symmetry
+tldr: The authors present a mathematical theory for large elastic deformations of incompressible, isotropic materials in cylindrical polar coordinates. They apply this theory to calculate the forces required to produce large simple torsion and combined extension and torsion in solid and hollow cylindrical tubes made of incompressible, neo-Hookean materials. The results differ from classical theories for small deformations and are useful for understanding the behavior of materials under large elastic deformations.
+scientific_discipline: Physics > Solid mechanics

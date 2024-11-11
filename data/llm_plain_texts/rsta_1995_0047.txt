@@ -1,0 +1,10 @@
+article_id: rsta_1995_0047
+revised_title: Enhancing the Reliability of Structural Ceramics through Reinforcing Mechanisms
+semantic_tags:
+  - Structural ceramics
+  - Fracture mechanics
+  - Weibull distribution
+  - R-curve behavior
+  - Reinforcing mechanisms
+tldr: This article investigates the influence of -curve effects on the reliability of structural ceramics, focusing on various reinforcing mechanisms to enhance their performance. The authors examine the efficiency of these mechanisms in improving the ceramics' strength distribution and fracture toughness, using fracture mechanics and the Weibull distribution function as the basis for their analysis. They also discuss the impact of -curve behavior on strength variability and the role of different ceramic materials in enhancing reliability.
+scientific_discipline: Materials Science > Ceramics

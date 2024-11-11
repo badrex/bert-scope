@@ -1,0 +1,10 @@
+article_id: rspa_1952_0009
+revised_title: 'Experimental Study of Torsional Oscillations in Liquid Helium II'
+semantic_tags:
+  - Superfluidity
+  - Helium II
+  - Viscosity
+  - Navier-Stokes Equation
+  - Mutual Frictional Force
+tldr: The authors conducted experiments with oscillating disk systems in liquid helium II to study its viscosity and density. They found that the decay of amplitude was exponential for small amplitudes, while for larger amplitudes, the logarithmic decrement and period increased with amplitude. The results provided evidence for the existence of additional frictional forces in helium II, which could not be explained by the mutual frictional force proposed by Gorter and Mellink. The findings confirmed the two-fluid model of helium II, where the density of the fluid dragged with the oscillating system was equal to the density of the normal component.
+scientific_discipline: Physics > Fluid Dynamics

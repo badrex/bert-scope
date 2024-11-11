@@ -1,0 +1,10 @@
+article_id: rspl_1903_0004
+revised_title: Photo-Electric Discharge from Metallic Surfaces in Different Gases
+semantic_tags:
+  - Photoelectric effect
+  - Gas discharge
+  - Electrochemistry
+  - Ultraviolet light
+  - Ionic theory
+tldr: This study investigates the effect of gas pressure and type on the photo-electric current from metal surfaces. The authors found that the current increases rapidly with potential at higher pressures, then levels off, and decreases at lower pressures. The currents in carbon dioxide are about 1.75 times those in hydrogen, and 1.3 times those in air. The results can be explained using the ionic theory of conduction.
+scientific_discipline: Physics > Electrochemistry

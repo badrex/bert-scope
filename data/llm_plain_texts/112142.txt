@@ -1,0 +1,10 @@
+article_id: 112142
+revised_title: On the Viscosity and Elasticity of Metals: Torsional Vibration Experiments
+semantic_tags:
+  - Material Science
+  - Elasticity
+  - Viscosity
+  - Torsional Vibration
+  - Metals
+tldr: The author conducted experiments on the elasticity and viscosity of metals using torsional vibrations. They discovered that the loss of energy in a vibration is greater with higher velocities, and that the viscosity of metals can be affected by factors such as stress and previous molecular conditions. The author also determined the moduli of elasticity, including Young's modulus and rigidity, for various metals.
+scientific_discipline: Physics > Material Science

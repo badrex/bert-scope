@@ -1,0 +1,10 @@
+article_id: 'rspa_1923_0021'
+revised_title: 'The Effect of Long Grinding on Quartz: Density and Structural Changes'
+semantic_tags:
+  - 'Mineralogy'
+  - 'Crystallography'
+  - 'Glass Science'
+  - 'Density'
+  - 'Grinding'
+tldr: 'The author conducted experiments to understand the effect of long grinding on quartz (silver sand). They found that grinding causes a significant portion of the crystalline material to be converted into the vitreous state. The density of the ground material is lower than the unground material, indicating that 25.7% of the material is converted from the crystalline to the vitreous condition. This result is consistent with the findings from molecular heat of solution determinations.'
+scientific_discipline: 'Chemistry > Mineralogy'

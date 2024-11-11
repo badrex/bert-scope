@@ -1,0 +1,10 @@
+article_id: 104672
+revised_title: 'Correcting the Error in the Julian and Gregorian Calendar Systems'
+semantic_tags:
+  - Calendar Reform
+  - Astronomy
+  - Timekeeping
+  - Solar and Lunar Years
+  - Golden Numbers
+tldr: The author discusses the inaccuracies in the Julian and Gregorian calendar systems and proposes a method to correct them. The Equinoxes and Solstices anticipate time in the Julian year, and the author suggests adjusting the Golden Numbers in the calendar to account for this. The author also explains the concept of the Epact and how it relates to the Solar and Lunar years, and proposes a method for adjusting the Epacts to maintain accuracy in the calendar system.
+scientific_discipline: Astronomy > Calendar Reform

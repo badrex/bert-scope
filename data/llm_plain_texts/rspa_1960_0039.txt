@@ -1,0 +1,10 @@
+article_id: rspa_1960_0039
+revised_title: Thermal Conductivity of Superconductors: The Role of Lattice Waves and Dislocations
+semantic_tags:
+  - Superconductivity
+  - Thermal conductivity
+  - Lattice waves
+  - Dislocations
+  - Strain effects
+tldr: The authors measured the thermal conductivity of superconducting metals like lead, niobium, and lead-bismuth alloy. They found that the conductivity is mostly due to lattice waves and investigated the effect of plastic deformation on the conduction mechanism. The results show that dislocations play a significant role in the thermal resistance of the specimens, affecting the temperature dependence of conductivity.
+scientific_discipline: Physics > Solid State Physics

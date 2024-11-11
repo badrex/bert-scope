@@ -1,0 +1,9 @@
+article_id: rsta_1970_0071
+revised_title: The Role of Autoionization in Molecular Photoelectron Spectra
+semantic_tags:
+  - Photoelectron spectroscopy
+  - Autoionization
+  - Molecular photoionization
+  - Fano-Mies theory
+  - Configuration interaction
+tldr: This article discusses the effect of autoionization on molecular photoelectron spectra using Fano's configuration interaction theory and Mies' recent extension. The authors derive an expression for the intensity of a vibrational peak in the photoelectron spectrum when there are one or more autoionizing Rydberg states in the vicinity of the excitation energy. The theory helps explain the anomalous vibrational intensities observed in the photoelectron spectra of various molecules, which can be challenging to identify electronic energy states of the respective molecular ions.

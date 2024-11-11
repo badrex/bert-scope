@@ -1,0 +1,10 @@
+article_id: rspa_1921_0009
+revised_title: 'Exploring Atomic Proximity and Molecular Shapes in Gaseous Molecules'
+semantic_tags:
+  - Atomic radius
+  - Molecular dimensions
+  - Kinetic theory of gases
+  - Viscosity
+  - Molecular shape
+tldr: The authors investigate the proximity of atoms in gaseous molecules and their shapes using the kinetic theory of gases and viscosity measurements. They find that monatomic gas atoms behave like hard spheres and determine their accurate diameters. For diatomic gases, they propose a method to calculate the mean area a molecule presents as a target for all possible orientations, which helps in understanding the shape of molecules like chlorine, bromine, and iodine.
+scientific_discipline: Chemistry > Physical Chemistry

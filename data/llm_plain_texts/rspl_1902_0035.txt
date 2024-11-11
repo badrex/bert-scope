@@ -1,0 +1,10 @@
+article_id: rspl_1902_0035
+revised_title: 'Daylight's Effect on Long-Distance Electromagnetic Signal Propagation'
+semantic_tags:
+  - Electromagnetic waves
+  - Long-distance communication
+  - Daylight impact
+  - Marconi's experiments
+  - Wireless telegraphy
+tldr: The author, G. Marconi, conducted experiments on long-distance wireless telegraphy and discovered that signals were weaker during daylight hours compared to nighttime. This was due to the discharging influence of daylight on the transmitting elevated conductor, which reduced the amplitude of the electrical oscillations. The findings led to further tests and investigations on the effects of daylight on long-distance signal propagation.
+scientific_discipline: Physics > Electromagnetism

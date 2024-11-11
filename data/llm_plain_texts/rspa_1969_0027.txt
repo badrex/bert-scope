@@ -1,0 +1,10 @@
+article_id: rspa_1969_0027
+revised_title: Geomagnetic Data and Core Motions: Analysis and Implications
+semantic_tags:
+  - Geomagnetism
+  - Core Dynamics
+  - Fluid Mechanics
+  - Earth's Core
+  - Geophysical Fluids
+tldr: This article examines the compatibility of geomagnetic secular variation data with the assumption of infinite core conductivity. The authors use Backus's test to analyze the data and explore the implications of the results for understanding the Earth's core dynamics and fluid motions.
+scientific_discipline: Environmental and Earth Sciences > Geomagnetism

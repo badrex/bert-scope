@@ -1,0 +1,10 @@
+article_id: rspl_1904_0117
+revised_title: On the Approximation and Convergence of Infinite Series in Analytic Functions
+semantic_tags:
+  - Infinite Series
+  - Analytic Functions
+  - Differential Equations
+  - Approximation Theory
+  - Convergence
+tldr: The authors discuss the convergence of infinite series of analytic functions and present a theorem to approximate solutions for large values of the arguments. They demonstrate the application of this theorem to various functions and equations in analysis, including Lame's equation, and discuss the conditions for convergence of the series.
+scientific_discipline: Mathematics > Analysis

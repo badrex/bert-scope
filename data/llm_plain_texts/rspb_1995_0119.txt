@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0119'
+revised_title: 'Satellite Tracking of Brent Geese Migration Across Greenland Ice-Cap'
+semantic_tags:
+  - Bird migration
+  - Satellite tracking
+  - Flight performance
+  - Orientation
+  - Geomagnetic cues
+tldr: 'Satellite tracking of brent geese during their migration across the Greenland ice-cap revealed that the birds faced significant challenges in terms of flight and orientation performance. The geese had limited climbing rates, indicating size-dependent power limitations. Their flight tracks were irregular, suggesting a combination of landmark piloting and a compass mechanism for orientation. This study provides insights into the challenges birds face during extreme migrations and the strategies they use to navigate complex environments.'
+scientific_discipline: Biology and Life Sciences > Ornithology

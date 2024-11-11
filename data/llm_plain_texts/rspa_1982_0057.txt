@@ -1,0 +1,11 @@
+article_id: rspa_1982_0057
+revised_title: 'Interparticle Percolation and Particle Mixing in Fixed Beds'
+semantic_tags:
+  - Percolation Theory
+  - Particle Mixing
+  - Powder Mixing
+  - Static Mixers
+  - Diffusion Tensor
+  - Peclet Numbers
+scientific_discipline: Environmental and Earth Sciences > Soil Mechanics
+tldr: The article investigates the spontaneous interparticle percolation of small particles falling through a fixed bed of larger particles, a process relevant to particle mixing and static mixers. Two main cases are studied: elastic and inelastic interactions between particles. The percolation velocity, diffusion tensor, and Peclet numbers are calculated and compared with experimental results, providing insights into the behavior of particles in these systems.

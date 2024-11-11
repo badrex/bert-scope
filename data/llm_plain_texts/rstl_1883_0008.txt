@@ -1,0 +1,10 @@
+article_id: 'rstl_1883_0008'
+revised_title: 'Abel's Theorem and Abelian Functions: A Mathematical Exploration'
+semantic_tags:
+  - Algebraic Geometry
+  - Elliptic Functions
+  - Abel's Theorem
+  - Abelian Functions
+  - Number Theory
+tldr: This article delves into Abel's Theorem and Abelian functions, exploring the mathematical concepts of algebraic geometry, elliptic functions, and number theory. The author presents a generalization of Abel's theorem and discusses the properties of Abelian functions, providing examples and applications of the theory.
+scientific_discipline: Mathematics > Algebraic Geometry

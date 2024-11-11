@@ -1,0 +1,10 @@
+article_id: rspa_1966_0018
+revised_title: 'Thermal and Electrical Resistance of Tin in the Intermediate State'
+semantic_tags:
+  - Superconductivity
+  - Thermal conductivity
+  - Electrical resistance
+  - Domain configuration
+  - Intermediate state
+tldr: The authors studied the thermal and electrical resistance of tin in its intermediate state, focusing on the domain configuration and the effects of various conditions, such as the rate of changing the magnetic field and the presence of an electric current. They found that the thermal resistance in the intermediate state can take an anomalously high value, and that the domain pattern plays a crucial role in determining the overall resistance. The results are in satisfactory agreement with Andreev's theory and provide insights into the behavior of superconductors in the intermediate state.
+scientific_discipline: Physics > Condensed Matter Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1937_0238
+revised_title: Efficiency of Atom Production in a Glow Discharge
+semantic_tags:
+  - Atomic hydrogen
+  - Glow discharge
+  - Plasma physics
+  - Gas discharge
+  - Dissociation efficiency
+tldr: The authors conducted experiments to study the efficiency of atom production in a glow discharge. They found that the efficiency depends on the power input and the flow rate of hydrogen gas. The experiments showed that the efficiency decreases with increasing current and is affected by the composition of the gas mixture. The results provide insights into the processes of dissociation and atom production in glow discharges.
+scientific_discipline: Physics > Plasma Physics

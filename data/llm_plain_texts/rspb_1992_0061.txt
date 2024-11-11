@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0061'
+revised_title: 'Effects of Pattern Element Density on Motion Detection in Random Binary Luminance Patterns'
+semantic_tags:
+  - Motion detection
+  - Visual perception
+  - Spatial frequency
+  - Pattern element density
+  - Visual psychophysics
+tldr: The authors investigated the effects of pattern element density on the upper motion displacement threshold (Dmax) in random binary luminance patterns. They found that Dmax increased as element size increased and density was reduced in the range of 50-5%. The results were explained by a model that takes into account spatial-frequency filtering prior to motion detection and the effects of pattern density on the statistics of random binary patterns. The study provides insights into the mechanisms of motion detection and the role of pattern element density in visual perception.
+scientific_discipline: Biology and Life Sciences > Visual Perception

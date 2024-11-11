@@ -1,0 +1,10 @@
+article_id: 'rspb_1948_0023'
+revised_title: 'The Impact of Ultra-Violet Light on Bacterial Mutations and Growth'
+semantic_tags:
+  - Bacteria
+  - Mutation
+  - Ultra-Violet Light
+  - Growth Factors
+  - Enzyme Systems
+tldr: 'The article investigates the effects of ultra-violet light on Bact. lactis aerogenes, a type of bacteria. Irradiation with ultra-violet light causes damage to the bacteria's enzyme systems responsible for supplying carbon compounds that react with ammonia to form amino-acids. This damage can be repaired by allowing the bacteria to grow in ammonium salt media. The research highlights the adaptability of bacterial mutants and the importance of quantitative measurements when studying their characteristics.'
+scientific_discipline: Biology and Life Sciences > Microbiology

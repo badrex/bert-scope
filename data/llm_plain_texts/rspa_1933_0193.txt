@@ -1,0 +1,10 @@
+article_id: 'rspa_1933_0193'
+revised_title: 'Stability Analysis of Three-Dimensional Fluid Flow Disturbances'
+semantic_tags:
+  - Fluid Dynamics
+  - Viscosity
+  - Boundary Layer
+  - Reynolds Number
+  - Stability Theory
+tldr: The authors analyze the stability of a viscous fluid flow between parallel walls for three-dimensional disturbances. They derive a fourth-order differential equation and demonstrate that if a velocity profile is unstable for a specific Reynolds number, it will also be unstable for two-dimensional disturbances with a smaller Reynolds number. Additionally, they show that all profiles are stable for a certain degenerate type of disturbance.
+scientific_discipline: Environmental and Earth Sciences > Fluid Mechanics

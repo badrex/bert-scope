@@ -1,0 +1,10 @@
+article_id: rspa_1975_0179
+revised_title: Analyzing the Shape of Towed Booms of Logs
+semantic_tags:
+  - Fluid Dynamics
+  - Hydrodynamics
+  - Elasticity Theory
+  - Engineering Design
+  - Ship and Marine Engineering
+tldr: The author presents a theory for the shape of towed booms of logs, treating the logs as a continuum that transmits only normal stresses. The shape of the boom is found to be one of a single-parameter family of elasticas, which are the shapes of highly curved thin beams subjected to opposing end loads. The theory is extended to predict the change of shape when two booms are towed in tandem and when a boom is cinched to reduce its width for passage in narrow waters. Comparisons with model and full-scale measurements support the theory, and practical applications are discussed.
+scientific_discipline: Engineering and Technology > Ship and Marine Engineering

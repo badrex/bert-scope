@@ -1,0 +1,10 @@
+article_id: rsta_1967_0010
+revised_title: 'Magnetohydrodynamic Power Generation: First Results of the Electricité de France 8 MW m.h.d. Experimental Rig at Centre de Recherches et d'Essais des Renardieres'
+semantic_tags:
+  - Magnetohydrodynamics
+  - Power generation
+  - Energy conversion
+  - Experimental rig
+  - Electricité de France
+tldr: This article discusses the first results of the 8 MW magnetohydrodynamic (MHD) power generation experimental rig at Centre de Recherches et d'Essais des Renardieres. The authors describe the characteristics of the experimental plant and the conditions under which MHD experiments have been carried out. They focus on changes in the electrical and physical conditions of ionized gases during their passage through the test section and the studies on MHD generator materials, particularly cold electrodes. Finally, they discuss some results of studies on generator operation.
+scientific_discipline: Engineering and Technology > Power Generation and Distribution

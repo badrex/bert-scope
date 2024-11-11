@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0110'
+revised_title: 'Human Vision: Understanding the Perception of Plaid Patterns'
+semantic_tags:
+  - Vision
+  - Perception
+  - Plaid Patterns
+  - Edge Detection
+  - Human Visual System
+tldr: The author investigates how human vision perceives and processes plaid patterns, which are composed of two or three sinusoidal grating components. The study supports the idea that the human visual system combines oriented filters to compute edges and detect patterns. The findings suggest that the perception of plaid patterns is not simply the result of overlapping 1-D gratings but rather a combination of oriented filters that are subject to attenuation, forward masking, and adaptation.
+scientific_discipline: Biology and Life Sciences > Vision and Perception

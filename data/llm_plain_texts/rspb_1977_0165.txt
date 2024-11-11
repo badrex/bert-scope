@@ -1,0 +1,10 @@
+article_id: rspb_1977_0165
+revised_title: Erratum: Retinal Ganglion Cells and Their Axons
+semantic_tags:
+  - Neuroscience
+  - Vision Science
+  - Retinal Ganglion Cells
+  - Axons
+  - Mathematical Correction
+tldr: This article is an erratum for a previous publication about retinal ganglion cells and their axons. The author corrects a mathematical assumption in the original paper, changing the relationship between variables from proportionality to a linear relation. The correction only slightly affects the calculations based on the original equation.
+scientific_discipline: Biology and Life Sciences > Neuroscience

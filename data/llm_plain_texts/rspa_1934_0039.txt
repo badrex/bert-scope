@@ -1,0 +1,10 @@
+article_id: rspa_1934_0039
+revised_title: Wave-Resistance and Wave-Profile Comparisons for Parabolic Waterline Forms
+semantic_tags:
+  - Fluid Dynamics
+  - Ship Design
+  - Wave Resistance
+  - Wave-Profile Measurements
+  - Hydrodynamics
+tldr: This article compares experimentally measured wave-profiles and wave-resistances of a form with parabolic waterlines to calculated values. The study uses two models, one with vertical sides and a flat bottom, and the other with rounded sides. The results show that the calculated wave-resistance and wave-profiles generally agree with the experimental data, demonstrating the efficiency of parabolic forms for low speeds.
+scientific_discipline: Engineering and Technology > Fluid Dynamics

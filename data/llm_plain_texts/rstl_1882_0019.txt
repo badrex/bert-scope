@@ -1,0 +1,10 @@
+article_id: 'rstl_1882_0019'
+revised_title: 'Seismic Experiments and Earthquake Vibrations'
+semantic_tags:
+  - Seismology
+  - Earthquake Mechanics
+  - Vibrations
+  - Earthquake Engineering
+  - Experimental Physics
+tldr: 'This article describes a series of experiments conducted at the Akabane Engineering Works in Tokyo to investigate earthquake motion and the transmission of vibratory motion through the Earth's crust. The authors used a heavy ball dropped from various heights to create vibrations and observed the effects at different stations. They also compared their results with previous experiments and discussed the differences between artificial vibrations and actual earthquake motions.'
+scientific_discipline: Physics > Seismology

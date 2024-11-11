@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0136'
+revised_title: 'Solar Energy Applications in Building Research: Solar Collectors for Space and Water Heating'
+semantic_tags:
+  - Solar energy
+  - Solar collectors
+  - Solar assisted domestic hot water systems
+  - Building research
+  - Energy efficiency
+tldr: The article discusses research conducted by the Building Research Establishment on the applications of solar collectors for space and water heating in buildings. Field trials were conducted in schools and houses to assess the performance of solar collectors and their efficiency. The study found that while solar energy systems have the potential to save energy, the cost of installation and interseasonal storage of solar energy may make them less cost-effective compared to other methods of achieving the same results. The article also highlights the importance of developing accurate and reproducible testing methods for solar collectors and solar water heating systems.
+scientific_discipline: Engineering and Technology > Energy and Sustainability

@@ -1,0 +1,10 @@
+article_id: rspa_1987_0132
+revised_title: Crystal Structure Analysis of Deuterated Benzene
+semantic_tags:
+  - Crystallography
+  - Benzene
+  - Deuterated compounds
+  - Molecular geometry
+  - Neutron diffraction
+tldr: The crystal structure of deuterated benzene has been refined by single-crystal neutron diffraction analysis at 15 and 123 K. The unit-cell dimensions were also measured at 52.6 and 80, and the thermal-expansion coefficients at all four temperatures were calculated. The molecules have a small chair-distortion, and ab initio molecular orbital calculations agree with the corrected values from the crystal structure within experimental errors.
+scientific_discipline: Chemistry > Crystallography

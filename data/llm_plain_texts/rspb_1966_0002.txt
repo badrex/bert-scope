@@ -1,0 +1,10 @@
+article_id: 'rspb_1966_0002'
+revised_title: 'Asymmetric Synthesis and Stereospecificity in Enzymic Reactions'
+semantic_tags:
+  - Biochemistry
+  - Enzyme Mechanism
+  - Cholesterol Biosynthesis
+  - Stereochemistry
+  - Isotopic Labeling
+tldr: The authors conducted experiments to study the asymmetric synthesis of cholesterol and the stereospecificity of enzymic reactions. They used isotopic labeling to show that squalene biosynthesis is asymmetrically labeled at one of its central methylene carbon atoms. The study also explored the steric position of hydrogen atoms in NADH and NADPH coenzymes, which are transferred during dehydrogenase reactions.
+scientific_discipline: Chemistry > Biochemistry

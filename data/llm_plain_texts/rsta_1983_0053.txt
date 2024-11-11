@@ -1,0 +1,10 @@
+article_id: rsta_1983_0053
+revised_title: Microwave Remote Sensing Applications for Sea Ice Studies
+semantic_tags:
+  - Remote Sensing
+  - Sea Ice Monitoring
+  - Air-Sea Interaction
+  - Microwave Techniques
+  - Satellite Remote Sensing
+tldr: This article discusses the importance of microwave remote sensing for monitoring sea ice and its interaction with the atmosphere and ocean. It reviews the requirements for monitoring and the available microwave techniques for studying snow and sea ice. The author highlights the potential of remote sensing data for numerical modeling and forecasting of sea ice conditions, which is crucial for navigation and offshore activities in polar regions.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

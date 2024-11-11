@@ -1,0 +1,10 @@
+article_id: 'rspb_1976_0059'
+revised_title: 'Sodium Gating Currents in Myxicola Giant Axons: A Study on Nerve Excitation'
+semantic_tags:
+  - Neurophysiology
+  - Ion channels
+  - Nerve conduction
+  - Sodium gating currents
+  - Myxicola axon
+tldr: This study investigates the presence of sodium gating currents in Myxicola giant axons and their relationship to the sodium conductance mechanism. The results show that these currents have a time course similar to those observed in squid giant axons, and the charge distribution curve is consistent with the Hodgkin-Huxley model of nerve excitation. The findings further support the idea that sodium gating currents play a crucial role in nerve conduction.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

@@ -1,0 +1,10 @@
+article_id: 110974
+revised_title: 'Exploring Alternating Diurnal Currents of Electricity and Their Connection with the Diurnal Variation of the Horizontal Magnetic Needle'
+semantic_tags:
+  - Electromagnetism
+  - Electric Telegraph
+  - Atmospheric Electricity
+  - Geomagnetism
+  - Aurora
+tldr: This article discusses the author's observations of alternating diurnal currents of electricity at the terrestrial surface and their connection with the diurnal variation of the horizontal magnetic needle. The author conducted experiments on the Midland Railway's electric telegraph and found that the electric current was subject to a regular diurnal alternation, with the times of zero agreeing with the known times of the magnetic needle's variation. The deflection to the left corresponded with easterly variation, and the deflection to the right with westerly variation.
+scientific_discipline: Physics > Electromagnetism

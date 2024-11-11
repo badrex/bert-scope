@@ -1,0 +1,10 @@
+article_id: 'rstb_1980_0037'
+revised_title: 'Enantiomerically Specific Total Synthesis of Thienamycin'
+semantic_tags:
+  - Antibiotics
+  - Organic Chemistry
+  - Stereochemistry
+  - Total Synthesis
+  - Thienamycin
+tldr: The authors present a stereocontrolled, enantiomerically specific total synthesis of thienamycin, an antibiotic of exceptional potency and breadth of antibacterial spectrum. They use L-aspartic acid as a suitable precursor and achieve stereocontrol by potassium tri-j^c-butylborohydride reduction of a thermodynamically formed 3a-acetylazetidinone intermediate. The key [3.2.0] bicyclic ring system is prepared by a metal-catalyzed carbene insertion reaction.
+scientific_discipline: Chemistry > Organic Chemistry

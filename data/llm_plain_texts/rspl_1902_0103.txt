@@ -1,0 +1,10 @@
+article_id: rspl_1902_0103
+revised_title: Electrical Conductivity of Solutions at Freezing Point: Potassium Chloride, Copper Sulphate, Barium Chloride, Potassium Bichromate, and Magnesium Sulphate
+semantic_tags:
+  - Electrochemistry
+  - Solution chemistry
+  - Conductivity
+  - Freezing point
+  - Salt concentration
+tldr: The author conducted experiments to measure the electrical conductivity of various salt solutions at the freezing point of water. They found that the conductivity of these solutions decreases as the concentration of salt increases. The results provide insights into the behavior of electrolytes in aqueous solutions and their potential applications in various fields.
+scientific_discipline: Chemistry > Electrochemistry

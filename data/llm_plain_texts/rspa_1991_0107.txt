@@ -1,0 +1,10 @@
+article_id: rspa_1991_0107
+revised_title: Asymptotic Analysis of Fully Developed Flow in Curved Pipes at Large Dean Numbers
+semantic_tags:
+  - Fluid Dynamics
+  - Pipe Flow
+  - Asymptotic Analysis
+  - Boundary Layer Theory
+  - Dean Number
+tldr: This article investigates the fully developed flow in curved pipes at large Dean numbers. The authors propose an asymptotic model for the flow structure, which includes an inviscid core flow surrounded by viscous boundary layers at the pipe wall. They discuss the challenges in obtaining a complete solution and present evidence supporting their model. The findings have implications for understanding fluid dynamics in curved pipes and improving flow analysis in engineering applications.
+scientific_discipline: Engineering and Technology > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1947_0020
+revised_title: 'Magnetization in Ferromagnetic Crystals: Domain Structure and Transverse Component'
+semantic_tags:
+  - Ferromagnetism
+  - Domain structure
+  - Magnetization
+  - Anisotropy
+  - Crystallography
+tldr: The authors investigate the transverse magnetization in ferromagnetic crystals and its relation to domain structure. They develop a treatment that accounts for both translational and rotational processes, providing better agreement with experimental results in moderate fields. The study focuses on the planes (100), (110), and (111) and reveals anomalies in the normal component of magnetization, which could not be explained by the existing single-vector treatment.
+scientific_discipline: Physics > Materials Science

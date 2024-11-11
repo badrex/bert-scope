@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0133'
+revised_title: 'Chaos Detection in Coloured Noise: A Case Study on Measles Outbreaks'
+semantic_tags:
+  - Chaos Theory
+  - Time-series analysis
+  - Epidemiology
+  - Coloured noise
+  - Nonlinear forecasting
+tldr: The author examines a nonlinear forecasting test to determine if it can detect low-dimensional chaos in a time series with coloured noise. Using a case study of New York City measles outbreaks, the author finds that the test cannot differentiate between chaotic and coloured noise processes, suggesting that detecting chaos in time series with limited data is challenging.
+scientific_discipline: Biology and Life Sciences > Epidemiology

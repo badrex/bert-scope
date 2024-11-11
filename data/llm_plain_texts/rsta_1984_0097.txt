@@ -1,0 +1,10 @@
+article_id: rsta_1984_0097
+revised_title: Advances in Optical Nonlinearities and Architectural Insights for Optical Computers
+semantic_tags:
+  - Optical Computing
+  - Optical Nonlinearities
+  - Computer Architecture
+  - Optical Memory Devices
+  - Optical Logic Gates
+tldr: This article discusses the impact of technological advances and architectural insights on the design of optical computers. It explores the potential of optical nonlinearities for cascadable optical logic gates and the benefits of using a pipelined architecture to overcome communication problems in conventional computers. The article also highlights the need for better understanding of optics' capabilities and the problems facing future computer systems.
+scientific_discipline: Engineering and Technology > Computer Science

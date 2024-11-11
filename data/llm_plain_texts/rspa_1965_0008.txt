@@ -1,0 +1,11 @@
+article_id: rspa_1965_0008
+revised_title: 'Fluorescence Properties of Benzene and its Methyl Derivatives'
+semantic_tags:
+  - Fluorescence
+  - Excimer fluorescence
+  - Benzene
+  - Toluene
+  - Xylene
+  - Mesitylene
+tldr: The authors studied the fluorescence properties of benzene and its methyl derivatives, including benzene, toluene, xylene, and mesitylene. They observed excimer fluorescence in benzene, toluene, and mesitylene and found evidence for excimer formation in xylene. The results were analyzed to determine the fluorescence quantum efficiencies, rate parameters, and other properties of the monomer-excimer systems. This research provides insights into the behavior of aromatic hydrocarbons and their derivatives, which are used as solvents in liquid scintillators.
+scientific_discipline: Chemistry > Organic Chemistry

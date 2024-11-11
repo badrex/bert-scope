@@ -1,0 +1,10 @@
+article_id: rspa_1960_0190
+revised_title: Electrokinetic Potential and Surface Charge Density: A Comprehensive Study
+semantic_tags:
+  - Electrochemistry
+  - Surface Chemistry
+  - Colloidal Chemistry
+  - Electrostatics
+  - Interface Science
+tldr: This study investigates the relationship between electrokinetic potential and surface charge density. The authors found that the electrokinetic potential is directly proportional to the surface charge density, which has significant implications for understanding the behavior of colloidal systems and interfaces.
+scientific_discipline: Chemistry > Electrochemistry

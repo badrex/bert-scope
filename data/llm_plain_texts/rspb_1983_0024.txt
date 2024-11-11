@@ -1,0 +1,10 @@
+article_id: 'rspb_1983_0024'
+revised_title: 'Monocular Depth Perception from Optical Flow: A Space-Time Signal Processing Approach'
+semantic_tags:
+  - Computer Vision
+  - Optical Flow
+  - Monocular Depth Perception
+  - Space-Time Signal Processing
+  - Edge Detection
+tldr: The authors present a theory of monocular depth determination using optical flow by incorporating finite temporal resolution in space-time signal processing. They propose a new operator that combines spatial and temporal information to detect edges and infer depth, providing a mechanism for depth perception in computer vision systems and potentially modeling depth perception in humans.
+scientific_discipline: Engineering and Technology > Computer Science

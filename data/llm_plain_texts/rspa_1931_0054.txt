@@ -1,0 +1,10 @@
+article_id: rspa_1931_0054
+revised_title: 'Investigation of Light Transmission by Thin Metal Films'
+semantic_tags:
+  - Thin films
+  - Metal optics
+  - Light absorption
+  - Film thickness
+  - Spectroscopy
+tldr: The authors conducted experiments to study the transmission of light by thin metal films, specifically gold and silver. They found that the color of the films depended on the film's thickness and the length of the dark space. The researchers measured the resistance and transmission coefficients of the films before and after heating, and used spectroscopy to analyze the films' absorption spectra.
+scientific_discipline: Physics > Optics

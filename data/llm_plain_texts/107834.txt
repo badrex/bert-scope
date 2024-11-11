@@ -1,0 +1,10 @@
+article_id: 107834
+revised_title: 'On the Resistance of Fluids to Bodies: A New Method for Measuring Resistance'
+semantic_tags:
+  - Fluid dynamics
+  - Resistance
+  - Velocity
+  - Experiments
+  - Navigation
+tldr: The author presents a new method for measuring the resistance of fluids to bodies passing through them, focusing on overcoming errors and inaccuracies in previous experiments. The new method involves using a spring weighing-machine and a specific setup to measure resistance at different velocities, providing more accurate results for understanding fluid dynamics and navigation.
+scientific_discipline: Physics > Fluid Dynamics

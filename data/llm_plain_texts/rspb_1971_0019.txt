@@ -1,0 +1,10 @@
+article_id: 'rspb_1971_0019'
+revised_title: 'Shear-Dependent Mass Transfer Mechanism for Atherogenesis'
+semantic_tags:
+  - Atherosclerosis
+  - Blood mechanics
+  - Arterial wall shear
+  - Mass transport
+  - Cholesterol diffusion
+tldr: The authors investigate the relationship between arterial blood mechanics and atheroma development. They find that the distribution of early atheroma coincides with regions of low arterial wall shear rate, suggesting that shear-dependent mass transport phenomena play a role in atherogenesis. The study proposes a theoretical model for cholesterol diffusion and accumulation in arterial walls, which can explain the observed distribution of atheromatous lesions and the effects of blood cholesterol levels and administration of labeled cholesterol.
+scientific_discipline: Biology and Life Sciences > Physiology

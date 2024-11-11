@@ -1,0 +1,10 @@
+article_id: rspa_1979_0026
+revised_title: 'Identification of Low Energy K and Ca: A Study of Ejected Electron Spectra'
+semantic_tags:
+  - Atomic Physics
+  - Electron Impact Spectroscopy
+  - X-ray Spectroscopy
+  - Quantum Mechanics
+  - Atomic Energy Levels
+tldr: The authors conducted experiments using electron impact spectroscopy to study the ejected electron spectra of K and Ca. They compared their findings with Hartree-Fock calculations and identified most of the energy levels, providing a detailed analysis of low energy lines. This research contributes to the understanding of atomic physics and the identification of energy levels in atoms.
+scientific_discipline: Physics > Atomic Physics

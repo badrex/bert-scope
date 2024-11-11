@@ -1,0 +1,10 @@
+article_id: rsta_1973_0082
+revised_title: Advances in Heavy Electrical Plant and Future Developments of Large Electric Generators
+semantic_tags:
+  - Electric Generators
+  - Power Systems
+  - Generator Design
+  - Steam Turbine Driven Generators
+  - Power System Growth
+tldr: This article discusses recent advances in heavy electrical plant, specifically focusing on the future developments of large electric generators. The author highlights the challenges faced in designing larger generators, such as increased power density, higher current densities, and greater losses. The article also explores the improvements in cooling methods, winding forces, and system performance to accommodate the growth of power systems.
+scientific_discipline: Engineering and Technology > Power Engineering

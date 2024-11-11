@@ -1,0 +1,10 @@
+article_id: rspa_1983_0137
+revised_title: Comparative Analysis of Theories of Resonant Nonlinear Refraction in Semiconductors
+semantic_tags:
+  - Nonlinear Optics
+  - Semiconductor Physics
+  - Optical Bistability
+  - Nonlinear Susceptibility
+  - Interband Transitions
+tldr: This article compares five different theoretical approaches to calculate the nonlinear susceptibility in semiconductors, focusing on resonant nonlinear refraction. The authors establish the physical equivalence of these theories, which are all associated with interband transitions, and discuss the regions where each model can be applied. They also present new near-resonance calculations and analyze the differences in experimental values obtained from various materials and laser radiation characteristics.
+scientific_discipline: Physics > Optics

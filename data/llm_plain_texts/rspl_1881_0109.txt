@@ -1,0 +1,10 @@
+article_id: rspl_1881_0109
+revised_title: 'Exploring the Liquid-Gas Transition and Critical Temperature of Fluids'
+semantic_tags:
+  - Thermodynamics
+  - Fluid dynamics
+  - Phase transitions
+  - Critical temperature
+  - Manometry
+tldr: The author examines the properties of fluids at their critical temperature, focusing on the liquid-gas transition and the differences between gas and vapour. They develop a new method for measuring pressure and temperature, using manometers and thermometers, and apply it to ethyl alcohol, providing accurate data on its critical point.
+scientific_discipline: Chemistry > Thermodynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1939_0057
+revised_title: 'Equilibrium in Binary and Ternary Systems: Methane-Ethane'
+semantic_tags:
+  - Thermodynamics
+  - Equilibrium
+  - Phase transitions
+  - Gas-liquid separation
+  - Hydrocarbon mixtures
+tldr: This study investigates the conditions of pressure, temperature, and composition for liquid and vapor mixtures in equilibrium, focusing on the methane-ethane system. The authors use various experimental methods to determine the equilibrium curves and discuss the challenges in measuring liquid-vapor equilibrium at high pressures. The research provides valuable data for understanding the behavior of binary and ternary systems, particularly in the context of hydrocarbon mixtures.
+scientific_discipline: Chemistry > Thermodynamics

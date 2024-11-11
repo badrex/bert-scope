@@ -1,0 +1,10 @@
+article_id: rspa_1992_0109
+revised_title: Analytical and Numerical Solution of Heat Conduction Equation in Finite Cylinder
+semantic_tags:
+  - Heat conduction
+  - Thermal diffusivity
+  - Bessel functions
+  - Finite differences method
+  - Cylindrical geometry
+tldr: The authors present an analytical and numerical solution to the heat conduction equation in a finite cylinder with periodic boundary conditions. They focus on the case of steady oscillation and constant thermal properties, providing a reduced temperature distribution that can be used to improve thermal diffusivity measurements and study the influence of periodic temperature changes during thermal treatments.
+scientific_discipline: Engineering and Technology > Heat Transfer

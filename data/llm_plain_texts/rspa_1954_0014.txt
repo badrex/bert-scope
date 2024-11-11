@@ -1,0 +1,10 @@
+article_id: rspa_1954_0014
+revised_title: 'Nuclear Orientation at Very Low Temperatures: Establishing a Method of Alinement and its Application to Cobalt-60'
+semantic_tags:
+  - Nuclear orientation
+  - Low-temperature physics
+  - Magnetic hyperfine structure
+  - Cobalt-60
+  - Nuclear alinement
+tldr: The authors developed a method of nuclear alinement called magnetic hyperfine structure polarization and applied it to cobalt-60. They cooled single crystals to very low temperatures using adiabatic demagnetization and measured the anisotropic distribution of gamma rays emitted from the oriented nuclei. The largest anisotropy observed was 33%, and the results were fitted to theoretical curves to deduce the magnetic moment of cobalt-60.
+scientific_discipline: Physics > Condensed Matter Physics

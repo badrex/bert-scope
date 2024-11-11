@@ -1,0 +1,10 @@
+article_id: 'rspb_1927_0038'
+revised_title: 'Infectious Transmission of Chinese Kala Azar and Sandfly Experiments'
+semantic_tags:
+  - Leishmaniasis
+  - Sandfly
+  - Transmission
+  - Infection
+  - Flagellates
+tldr: The authors conducted experiments to understand the transmission of Chinese Kala Azar, a parasitic disease, using sandflies as vectors. They attempted various methods of infection, including feeding infected sandflies to hamsters, administering crushed sandflies orally, and inoculating the gut contents of infected sandflies. Despite numerous attempts, they were unable to successfully infect the hamsters through these methods, suggesting that the natural transmission of the disease might occur through the bite of an infected sandfly.
+scientific_discipline: Biology and Life Sciences > Parasitology

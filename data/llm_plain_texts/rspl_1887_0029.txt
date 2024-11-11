@@ -1,0 +1,10 @@
+article_id: rspl_1887_0029
+revised_title: Theoretical and Experimental Analysis of Telephone Limiting Distance
+semantic_tags:
+  - Telecommunications
+  - Telephone technology
+  - Electromagnetic induction
+  - Signal transmission
+  - Cable communication
+tldr: This article discusses the limiting distance of speech by telephone and the factors affecting it. The author explains the relationship between the inductive capacity of wires, resistance, and the number of vibrations per second that can be transmitted. The article also explores the differences in capacity between overhead and underground wires, as well as the impact of earth wires on communication lines.
+scientific_discipline: Engineering and Technology > Telecommunications

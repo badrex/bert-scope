@@ -1,0 +1,10 @@
+article_id: 'rspb_1966_0040'
+revised_title: 'Kinetics of Carbon Dioxide Combination with Amino Acid Anions'
+semantic_tags:
+  - Amino Acid Chemistry
+  - Reaction Kinetics
+  - Carbon Dioxide Chemistry
+  - Ionic Strength
+  - Thermodynamics
+tldr: The authors studied the rate of carbon dioxide combining with the anions of amino acids, focusing on glycine, glycyl-glycine, and related amino acids. They used a rapid thermal method to measure the velocity of reactions and determined the velocity constants for the reactions. The results showed that the rate of combination was influenced by the ionic strength of the solution. This research provides a foundation for understanding the interaction between carbon dioxide and amino acids in biological systems.
+scientific_discipline: Chemistry > Amino Acid Chemistry

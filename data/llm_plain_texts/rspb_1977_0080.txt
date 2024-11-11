@@ -1,0 +1,10 @@
+article_id: 'rspb_1977_0080'
+revised_title: 'Understanding Occluding Contour Analysis in Three-Dimensional Shapes'
+semantic_tags:
+  - Vision and Perception
+  - Shape Recognition
+  - Image Analysis
+  - Geometry
+  - Artificial Intelligence
+tldr: The article explores the analysis of occluding contours in three-dimensional shapes, focusing on the assumptions made by our perception to infer the shape of a surface from its silhouette. The author proves that if the assumptions hold for distant vantage points, the viewed surface must be a generalized cone. This result helps in developing methods to interpret occluding contours and improve image analysis in artificial intelligence.
+scientific_discipline: Psychology > Vision and Perception

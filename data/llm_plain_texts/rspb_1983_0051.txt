@@ -1,0 +1,10 @@
+article_id: 'rspb_1983_0051'
+revised_title: 'Theoretical Analysis of Electrical Properties of Dendritic Spines'
+semantic_tags:
+  - Neuroscience
+  - Dendritic Spines
+  - Synaptic Plasticity
+  - Cable Theory
+  - Neuronal Modeling
+tldr: The authors analyzed the electrical properties of dendritic spines in cortical pyramidal cells using passive cable theory. They found that spines can effectively compress the effect of excitatory synapses on the soma, mapping a wide range of inputs onto a limited range of outputs. Spines can also control the attenuation of their input via the dimensions of the neck, setting the shape of the resulting saturation curve. This study provides insights into the potential role of dendritic spines in neuronal plasticity and their impact on synaptic efficiency.
+scientific_discipline: Neuroscience > Dendritic Spines

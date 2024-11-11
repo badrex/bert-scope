@@ -1,0 +1,10 @@
+article_id: rspa_1947_0071
+revised_title: 'Ozonosphere Temperature Equilibrium: A Revised Calculation'
+semantic_tags:
+  - Atmospheric Science
+  - Radiation Equilibrium
+  - Ozonosphere
+  - Temperature Calculation
+  - Climate Science
+tldr: This article presents a revised calculation of ozonosphere temperatures under radiation equilibrium, taking into account new data on infra-red absorption of ozone and water vapor in the atmosphere. The study uses a method that assumes radiation equilibrium is closely approached in the stratosphere during midday and that convection is slow enough to prevent significant changes in composition. The results show temperature variations in different layers of the ozonosphere, with a significant difference between summer and winter conditions below 25 km.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

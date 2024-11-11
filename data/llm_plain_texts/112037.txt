@@ -1,0 +1,11 @@
+article_id: 112037
+revised_title: "Investigations of Specific Heat in Solid and Liquid Bodies: A Historical Analysis and Experimental Method"
+semantic_tags:
+  - Thermodynamics
+  - Heat capacity
+  - Atomic heat
+  - Dulong and Petit's law
+  - Neumann's law
+  - Regnault's law
+tldr: This article discusses the historical development of understanding specific heat in solid and liquid bodies. The author presents a new method for determining specific heat using a glass tube and a calorimeter. The article also explores the relationship between specific heat, atomic weight, and composition, as well as the applicability of Dulong and Petit's law, Neumann's law, and Regnault's law to various compounds.
+scientific_discipline: Physics > Thermodynamics

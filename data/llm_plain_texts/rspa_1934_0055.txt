@@ -1,0 +1,10 @@
+article_id: 'rspa_1934_0055'
+revised_title: 'Quantum Theory of Metallic Dispersion in Near Infra-Red'
+semantic_tags:
+  - Quantum Mechanics
+  - Dispersion Theory
+  - Metal Conductors
+  - Index of Refraction
+  - Reflection and Extinction
+tldr: The authors discuss the quantum theory of dispersion in metal conductors, focusing on the near infra-red region. They show that the equations for the index of refraction and the coefficient of reflection and extinction developed on a quantum-mechanical basis are formally identical to those obtained by Drude in 1900 using classical methods.
+scientific_discipline: Physics > Electromagnetism

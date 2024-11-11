@@ -1,0 +1,10 @@
+article_id: 'rspa_1928_0121'
+revised_title: 'Diffraction Patterns of Cathode Rays Through Thin Celluloid Films'
+semantic_tags:
+  - Electron diffraction
+  - De Broglie wave theory
+  - Cathode rays
+  - Thin films
+  - X-ray analysis
+tldr: The authors conducted experiments to study the diffraction patterns of cathode rays passing through thin celluloid films. The results obtained were in close agreement with the predictions of the de Broglie wave theory, providing strong evidence in its favor. This research also demonstrated the potential of using celluloid films for studying diffraction patterns, similar to X-ray analysis.
+scientific_discipline: Physics > Electromagnetism

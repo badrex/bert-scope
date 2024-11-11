@@ -1,0 +1,10 @@
+article_id: 'rsta_1996_0080'
+revised_title: 'Homoclinic Explosions and Implosions: Errata'
+semantic_tags:
+  - Dynamical Systems
+  - Chaos Theory
+  - Nonlinear Science
+  - Homoclinic Orbits
+  - Bifurcation Theory
+tldr: This article provides corrections for the original paper on homoclinic explosions and implosions. It includes a revised version of Figure 14, which illustrates the connections between orbits in a specific equation. The corrections were published in the Philosophical Transactions of the Royal Society of London in 1996.
+scientific_discipline: Mathematics > Dynamical Systems

@@ -1,0 +1,11 @@
+article_id: rsta_1975_0102
+revised_title: Asymptotic Solutions of the Orr-Sommerfeld Equation: A Rigorous Justification
+semantic_tags:
+  - Applied Mathematics
+  - Fluid Dynamics
+  - Asymptotic Analysis
+  - Orr-Sommerfeld Equation
+  - Stream Function
+tldr: The author provides a rigorous justification for the formal uniform asymptotic approximations to a certain pair of solutions of the Orr-Sommerfeld equation, which describes small disturbances in a fluid with a basic velocity profile. The study uses the asymptotic solutions of Lin & Rabenstein and develops a theory to prove the validity of Eagles' approximations.
+scientific_discipline: Mathematics > Applied Mathematics
+sub_discipline: Fluid Dynamics > Asymptotic Analysis

@@ -1,0 +1,10 @@
+article_id: rspa_1995_0149
+revised_title: 'Elliptic Solutions and Quasi-Periodic Wave Solutions of Coupled Nonlinear Schrödinger Equations'
+semantic_tags:
+  - Nonlinear Schrödinger Equations
+  - Integrable Systems
+  - Elliptic Functions
+  - Lax Representation
+  - Quasi-Periodic Solutions
+tldr: The authors study the coupled nonlinear Schrödinger equations, which model single-mode fibers in fiber optics. They find elliptic solutions and quasi-periodic wave solutions using a Lax representation and theta functions. The research focuses on the integrable case of the 1:2:1 potential and the two-gap Treibich-Verdier potentials.
+scientific_discipline: Mathematics > Integrable Systems

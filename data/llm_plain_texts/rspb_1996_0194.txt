@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0194'
+revised_title: 'Habitat Loss and Migratory Populations: Predicting Consequences and Impacts'
+semantic_tags:
+  - Habitat Loss
+  - Migratory Species
+  - Population Modeling
+  - Conservation Biology
+  - Density Dependence
+tldr: 'The author explains how habitat loss affects migratory populations and predicts the consequences of such loss. The ratio of population decline to habitat loss depends on the relative importance of density dependence in wintering and breeding areas. The greater the density dependence in a season, the more significant the consequences of habitat loss in that season. Game theory models can be used to determine the density-dependent relations and predict the impact of habitat loss on migratory populations.'
+scientific_discipline: Biology and Life Sciences > Conservation Biology

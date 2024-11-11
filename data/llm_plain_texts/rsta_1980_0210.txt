@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0210'
+revised_title: 'Chemical Heterogeneity in the Earth's Mantle: Evidence from High and Low Partition Coefficient Elements in Oceanic Basalts'
+semantic_tags:
+  - Geochemistry
+  - Mantle heterogeneity
+  - Oceanic basalts
+  - Partition coefficients
+  - Chondritic meteorites
+tldr: This study investigates the chemical heterogeneity of the Earth's mantle using trace elements in oceanic basalts. The authors found that high partition coefficient elements, such as Co, Ni, and Cr, are homogeneous in the mantle, while low partition coefficient elements, like Ti and Zr, show significant variations. These findings support the primordial chondritic nature of the mantle and reveal large-scale heterogeneities.
+scientific_discipline: Earth Sciences > Geochemistry

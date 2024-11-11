@@ -1,0 +1,10 @@
+article_id: rspa_1956_0066
+revised_title: 'Swirling Water Flow Dynamics in Nozzles and Trumpets'
+semantic_tags:
+  - Fluid Dynamics
+  - Vortex Flow
+  - Nozzle Design
+  - Turbulence
+  - Boundary Layer
+tldr: The authors conducted experiments on the flow of swirling water through a pressure nozzle and an open trumpet. They discovered that a boundary layer of forced vortex motion forms on the free surface of the air core, and under certain conditions, the downward flow outside the forced vortex can be concentrated into thin cylindrical zones. These findings have implications for understanding fluid dynamics and designing more efficient systems for energy and water management.
+scientific_discipline: Physics > Fluid Dynamics

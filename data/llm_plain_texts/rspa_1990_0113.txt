@@ -1,0 +1,10 @@
+article_id: rspa_1990_0113
+revised_title: Corrections to the Article on Microwave Reflectivity of Water Waves
+semantic_tags:
+  - Wave mechanics
+  - Fluid dynamics
+  - Error correction
+  - Oceanography
+  - Mathematics
+tldr: This article provides corrections to a previous paper on the microwave reflectivity of small-scale breaking water waves. The corrections involve adjusting numerical values and scaling factors in figures. 
+scientific_discipline: Physics > Fluid Dynamics

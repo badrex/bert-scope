@@ -1,0 +1,10 @@
+article_id: rsta_1993_0138
+revised_title: A Hyperelliptic Smoothness Test: Improving Prime Factorization Algorithms
+semantic_tags:
+  - Number Theory
+  - Cryptography
+  - Prime Factorization
+  - Elliptic Curves
+  - Hyperelliptic Curves
+tldr: This series of papers presents a probabilistic algorithm called the hyperelliptic curve method for finding small prime factors of an integer. The algorithm uses the jacobian varieties of curves of genus 2 in a similar way that the elliptic curve method uses elliptic curves. A new density theorem is introduced for smooth numbers in short intervals, which is a key ingredient in the analysis of the algorithm. The hyperelliptic curve method is of theoretical interest and can be used to recognize numbers that are v-smooth, playing a role in algorithms for the discrete logarithm problem and factoring integers.
+scientific_discipline: Mathematics > Number Theory

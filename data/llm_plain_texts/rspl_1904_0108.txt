@@ -1,0 +1,10 @@
+article_id: rspl_1904_0108
+revised_title: 'Air Resistance and High-Speed Projectiles: A. Mallock's Experiments'
+semantic_tags:
+  - Aerodynamics
+  - Ballistics
+  - Air resistance
+  - Projectile motion
+  - High-speed physics
+tldr: A. Mallock's experiments investigated the air resistance encountered by projectiles at velocities up to 4500 feet per second. The study aimed to extend ballistic tables and understand the impact of air resistance on high-speed projectiles. Mallock's findings showed that air resistance increased with velocity, and the results were in close agreement with previous work by Prof. Bashforth.
+scientific_discipline: Physics > Mechanics > Fluid mechanics > Aerodynamics

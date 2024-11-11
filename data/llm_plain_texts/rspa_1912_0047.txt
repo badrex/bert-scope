@@ -1,0 +1,10 @@
+article_id: 'rspa_1912_0047'
+revised_title: 'Magnetic Field Effects on Ion Diffusion and Mobility'
+semantic_tags:
+  - Ion mobility
+  - Magnetic fields
+  - Diffusion
+  - Plasma physics
+  - Electromagnetism
+tldr: The author investigates the diffusion and mobility of ions in a magnetic field, finding that the rates of diffusion and velocities due to an electric force can be determined using methods similar to previous studies. The magnetic force causes ions to be deflected in their free paths, creating spirals with axes along the direction of the magnetic force. The rate of diffusion of ions in directions perpendicular to the magnetic force is less than in the direction of the force, and the number of collisions an ion makes per second remains the same. The author also discusses the effects of a magnetic force on the diffusion of a narrow stream moving under an electric force and its potential applications in studying magnetic rays in discharge tubes.
+scientific_discipline: Physics > Electromagnetism

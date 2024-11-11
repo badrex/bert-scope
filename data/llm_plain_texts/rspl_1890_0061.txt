@@ -1,0 +1,10 @@
+article_id: rspl_1890_0061
+revised_title: Photometric Observations of the Sun and Sky: A Study of Light Intensity and Distribution
+semantic_tags:
+  - Solar physics
+  - Sky brightness
+  - Light intensity
+  - Actinometry
+  - Photometry
+tldr: The author conducted photometric observations of the sun and sky to study the distribution and intensity of light. They developed a method using a special actinometer to measure the chemical action of light on sensitized paper. The author found that the intensity of light from the sun varies inversely with the square of the distance from the sun, and that the chemical action of the sky is minimum at all points in a great circle perpendicular to the line joining the center of the sky to the sun. This research helped to understand the behavior of light and its impact on the environment.
+scientific_discipline: Physics > Optics

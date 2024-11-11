@@ -1,0 +1,10 @@
+article_id: 'rstb_1988_0056'
+revised_title: 'Recombinant DNA Methods for Diagnosing Human Heritable Defects'
+semantic_tags:
+  - Genetic Diagnosis
+  - Recombinant DNA
+  - Molecular Biology
+  - Disease Detection
+  - Gene Mutations
+tldr: The article discusses the use of recombinant DNA methods for diagnosing human heritable defects. It explores various techniques, such as restriction fragment length polymorphisms (RFLPs), allele-specific oligonucleotides (ASOs), and the polymerase chain reaction (PCR), to detect gene mutations and improve disease diagnosis. The author also highlights the potential of these methods for carrier detection and prenatal diagnosis.
+scientific_discipline: Biology and Life Sciences > Genetics

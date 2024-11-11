@@ -1,0 +1,10 @@
+article_id: rspa_1937_0212
+revised_title: 'Nitrogen Oxides Formation and Detection in Internal Combustion Engine Gases'
+semantic_tags:
+  - Nitrogen oxides
+  - Internal combustion engines
+  - Gas analysis
+  - Combustion chemistry
+  - Engine emissions
+tldr: The authors developed methods to analyze and measure the concentration of nitrogen oxides, specifically nitric oxide and nitrogen peroxide, in the exhaust gases of internal combustion engines. They found that the formation of these compounds occurs during the combustion process and varies depending on factors such as engine temperature, fuel type, and engine load. The authors also discussed the challenges in accurately measuring these compounds and proposed a method using hydrogen peroxide as an oxidizing agent for colorimetric estimation.
+scientific_discipline: Engineering and Technology > Internal Combustion Engines

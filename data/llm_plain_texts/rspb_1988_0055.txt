@@ -1,0 +1,10 @@
+article_id: 'rspb_1988_0055'
+revised_title: 'Real-time Performance of Movement-Sensitive Neurons in Blowfly Visual System'
+semantic_tags:
+  - Neuroscience
+  - Sensory Systems
+  - Information Theory
+  - Neural Coding
+  - Blowfly Visual System
+tldr: The study investigates the real-time performance of a movement-sensitive neuron in the blowfly visual system, focusing on the coding and information transfer in short spike sequences. The authors develop model-independent methods to characterize the information carried by specific features of the neural spike train as it encodes continuously varying stimuli. They apply these methods to a movement-sensitive neuron (H1) in the blowfly Calliphora erythrocephala, demonstrating that single experiments of roughly one hour's duration can provide reliable estimates of the relevant probability distributions. The findings reveal that spike sequences carry information about specific features of the stimulus waveform and that the neural code is robust to timing errors.
+scientific_discipline: Biology and Life Sciences > Neuroscience

@@ -1,0 +1,10 @@
+article_id: rspa_1958_0048
+revised_title: 'Electronic Properties of Aromatic Hydrocarbons: Photoelectric Effects'
+semantic_tags:
+  - Organic Semiconductors
+  - Photoconductivity
+  - Fluorescence
+  - Aromatic Hydrocarbons
+  - Solid Solutions
+tldr: The authors studied the photoelectric effects in aromatic hydrocarbons, focusing on the relationship between photoconductivity and fluorescence. They developed a method to create thin, oriented films of hydrocarbons between glass flats, which allowed for reliable measurements of photoconductivity. The results showed that the photoconductivity and fluorescence were directly proportional to the exciton density, and both were reduced by impurities that trapped excitons. This research provided insights into the electronic properties of aromatic hydrocarbons and the role of impurities in their photoelectric behavior.
+scientific_discipline: Physics > Optics

@@ -1,0 +1,10 @@
+article_id: rspa_1970_0078
+revised_title: 'Thermal Effects and Spontaneous Ignitions in Gases: The Explosive Decomposition of Diethyl Peroxide'
+semantic_tags:
+  - Chemical kinetics
+  - Thermal explosions
+  - Diethyl peroxide
+  - Thermal conductivity
+  - Gas decomposition
+tldr: The authors conducted experiments on the explosive decomposition of diethyl peroxide and studied the thermal effects accompanying spontaneous ignitions in gases. They found that ignition is always preceded by self-heating, and temperatures are highest at the vessel center. The temperature distribution within the decomposing gas is not parabolic, and inert diluents affect the critical explosion pressure by influencing thermal conductivity. The experiments provide a direct test of the thermal theory of spontaneous ignition.
+scientific_discipline: Chemistry > Chemical kinetics and reaction dynamics

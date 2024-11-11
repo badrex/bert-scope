@@ -1,0 +1,10 @@
+article_id: rspa_1980_0023
+revised_title: 'Thermal Explosion Theory for a Slab with Time-Periodic Surface Temperature Variation'
+semantic_tags:
+  - Thermal explosion
+  - Heat transfer
+  - Chemical reactions
+  - Time-periodic boundary conditions
+  - Frank-Kamenetskii parameter
+tldr: This article investigates the conditions for the onset of thermal explosion in a solid slab of reacting material with time-periodic surface temperature variation. The authors determine the critical Frank-Kamenetskii parameter as a function of the amplitude and frequency of the surface temperature oscillation using analytical and numerical methods. The study focuses on the thermal stability of an exothermic chemically reactive medium subject to time-periodic boundary conditions.
+scientific_discipline: Physics > Heat Transfer

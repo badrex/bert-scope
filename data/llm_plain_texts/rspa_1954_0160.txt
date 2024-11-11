@@ -1,0 +1,10 @@
+article_id: rspa_1954_0160
+revised_title: 'Thermal Decomposition of Aromatic Compounds: Chlorobenzene'
+semantic_tags:
+  - Organic Chemistry
+  - Thermal Decomposition
+  - Chlorobenzene
+  - Kinetics
+  - Inhibitors
+tldr: The authors studied the thermal decomposition of chlorobenzene and found that it is a predominantly homogeneous process. The decomposition produces hydrogen and hydrogen chloride, with no gaseous carbon compounds formed. The remaining carbon and hydrogen are deposited as a graphite-like solid. The reaction is kinetically complex, and the authors propose a chain reaction mechanism. The fully inhibited reaction appears to be a unimolecular process.
+scientific_discipline: Chemistry > Organic Chemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1952_0057
+revised_title: 'Capillary Condensate Flow Mechanism in Porous Media'
+semantic_tags:
+  - Porous Media
+  - Capillary Flow
+  - Adsorption Hysteresis
+  - Surface Tension
+  - Viscous Flow
+tldr: The author investigates the flow of capillary condensate through porous media, such as soil, and finds that it behaves as viscous flow under the influence of capillary pressure differences. The driving force for this flow is not the pressure difference of the gas but the difference in capillary pressure resulting from surface tension in the pores. This mechanism contrasts with the flow of adsorbed films, which follows a process of surface diffusion.
+scientific_discipline: Environmental and Earth Sciences > Soil Physics

@@ -1,0 +1,10 @@
+article_id: rsta_1995_0003
+revised_title: Coupled System of Reaction-Diffusion Equations: Algebra, Analysis, and Probability
+semantic_tags:
+  - Reaction-Diffusion Equations
+  - Algebraic Proofs
+  - Probability Theory
+  - Analytical Methods
+  - Mathematical Biology
+tldr: This paper explores the existence, uniqueness, and asymptotic behavior of monotone traveling waves in a coupled system of reaction-diffusion equations. The authors use both differential-equation theory and probability theory to analyze the problem, with each approach raising interesting questions about the other. The paper also discusses the relationship between alternative descriptions of minimum wave speeds and provides a new change-of-measure technique to obtain the best lower bound on the speed of the monotone traveling wave with Heaviside initial conditions.
+scientific_discipline: Mathematics > Applied Mathematics

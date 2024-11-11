@@ -1,0 +1,10 @@
+article_id: 'rspb_1952_0055'
+revised_title: 'Investigating the Mechanism of End-Plate Potentials and Motor Nerve Impulses'
+semantic_tags:
+  - Neurophysiology
+  - Synaptic transmission
+  - Action potentials
+  - Acetylcholine
+  - Muscle fibers
+tldr: The authors studied the electric activity at the nerve-muscle junction and discovered that the nerve impulse releases acetylcholine, which depolarizes the muscle fiber's end-plate. This local depolarization, called the end-plate potential, triggers a new impulse in the muscle fiber. The mechanism of the end-plate potential is different from the one associated with spike activity, as it is induced by acetylcholine and involves a membrane short-circuit, leading to depolarization.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

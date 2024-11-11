@@ -1,0 +1,10 @@
+article_id: rsta_1985_0054
+revised_title: 'Investigating the Directional Spectra of Wind-Generated Ocean Waves'
+semantic_tags:
+  - Oceanography
+  - Wave Spectra
+  - Wind Waves
+  - Air-Sea Interaction
+  - Wave Forecasting
+scientific_discipline: Environmental and Earth Sciences > Oceanography
+tldr: This study investigates the directional spectra of wind-generated ocean waves using data from Lake Ontario and a large laboratory tank. The research reveals that the frequency spectrum in the rear face is inversely proportional to the fourth power of the frequency, and the angular spreading of the wave energy follows a specific pattern. The direction of the waves at the spectral peak may differ from the mean wind direction, and the waves show amplitude dispersion but weak bound harmonics. These findings have applications in air-sea interaction, wave forecasting, and engineering design of marine structures and vehicles.

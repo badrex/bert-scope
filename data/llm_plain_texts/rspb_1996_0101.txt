@@ -1,0 +1,11 @@
+article_id: 'rspb_1996_0101'
+revised_title: 'Spatial Dynamics and Persistence of Virulent Pathogens in Host Populations'
+semantic_tags:
+  - Epidemiology
+  - Host-Pathogen Interactions
+  - Spatial Ecology
+  - Disease Control
+  - Population Dynamics
+tldr: The study investigates the dynamics of pathogen-host interactions in a spatially explicit environment, revealing that spatial structure can promote the persistence of virulent pathogens. The findings suggest that high population densities can lead to spatial instability, while low populations promote spatial stability, with implications for biological pest control.
+scientific_discipline: Biology and Life Sciences > Ecology
+sub_discipline: Epidemiology

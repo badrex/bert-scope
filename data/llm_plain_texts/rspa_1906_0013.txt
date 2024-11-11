@@ -1,0 +1,10 @@
+article_id: 'rspa_1906_0013'
+revised_title: 'Hydrogen and Oxygen Combination on Hot Surfaces'
+semantic_tags:
+  - Catalysis
+  - Surface Chemistry
+  - Chemical Kinetics
+  - Gas Combustion
+  - Metal Oxides
+tldr: 'The authors investigated the slow combination of hydrogen and oxygen on various heated surfaces, including porous porcelain, metals, and reducible oxides. They found that the rate of combination was directly proportional to the pressure and that hydrogen played a crucial role in the catalytic process. The catalytic power of surfaces could be stimulated by previous exposure to hydrogen at moderately high temperatures, and some surfaces could occlude hydrogen at dull red heat.'
+scientific_discipline: Chemistry > Surface Chemistry

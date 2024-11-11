@@ -1,0 +1,10 @@
+article_id: rspa_1934_0168
+revised_title: 'Discovery of Artificial Radioactivity through Neutron Bombardment'
+semantic_tags:
+  - Nuclear Physics
+  - Radioactivity
+  - Neutron Activation
+  - Isotopes
+  - Nuclear Reactions
+tldr: 'In this study, Fermi and his team discovered that bombarding elements with neutrons could create artificial radioactivity. They used a neutron source made of beryllium and radon to activate over forty elements. The team identified the active elements chemically and found that the emitted particles were always negative electrons. This groundbreaking research opened up new possibilities in the field of nuclear physics.'
+scientific_discipline: Physics > Nuclear Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1936_0170
+revised_title: Diamagnetic Anisotropy and Molecular Structure in Crystals
+semantic_tags:
+  - Crystallography
+  - Diamagnetism
+  - Molecular structure
+  - Anisotropy
+  - X-ray diffraction
+tldr: The authors investigate the relationship between the optical and diamagnetic anisotropy of crystals and their molecular structure. They demonstrate how the orientation of molecules in a crystal can be determined using diamagnetic susceptibilities and X-ray diffraction data. This method provides valuable information about the shape and orientation of molecules within a crystal lattice.
+scientific_discipline: Physics > Crystallography

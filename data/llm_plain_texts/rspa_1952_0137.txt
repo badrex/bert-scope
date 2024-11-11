@@ -1,0 +1,10 @@
+article_id: rspa_1952_0137
+revised_title: 'Diffraction by a Semi-Infinite Metallic Sheet: Exact Solutions for Two Polarizations'
+semantic_tags:
+  - Electromagnetic Wave Diffraction
+  - Boundary Conditions
+  - Wiener-Hopf Integral Equations
+  - Steepest Descent Method
+  - Electromagnetic Waves and Antennas
+tldr: The authors present an exact solution for the diffraction of electromagnetic waves by a semi-infinite metallic sheet, considering two fundamental polarizations. They derive Wiener-Hopf integral equations and use the steepest descent method to determine the diffracted fields. The study provides a better understanding of the effect of finite conductivity on diffraction structures.
+scientific_discipline: Physics > Electromagnetic Waves and Antennas

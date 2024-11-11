@@ -1,0 +1,10 @@
+article_id: rspa_1983_0043
+revised_title: Elastohydrodynamic Lubrication in Piston Rings: A Comprehensive Study
+semantic_tags:
+  - Lubrication
+  - Piston Rings
+  - Elastohydrodynamics
+  - Tribology
+  - Reciprocating Engines
+tldr: This study examines the elastohydrodynamic lubrication of piston rings in reciprocating engines, exploring its contribution to the tribological performance of the piston seal. The authors assess the mode of lubrication in various engines and analyze the influence of elastohydrodynamic action on film thickness, considering factors such as load, entraining velocity, and lubricant viscosity. They conclude that the combination of elastic deformation and pressure on lubricant viscosity enhances the minimum oil film thickness in the piston seal through elastohydrodynamic action.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

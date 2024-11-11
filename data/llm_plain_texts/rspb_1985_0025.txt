@@ -1,0 +1,10 @@
+article_id: 'rspb_1985_0025'
+revised_title: 'Morphological Approaches to Hoverfly Community Structure'
+semantic_tags:
+  - Community Ecology
+  - Hoverflies
+  - Morphology
+  - Syrphidae
+  - Species Composition
+tldr: This study examines the morphological and community structure of hoverflies in three different habitats. The research uses simulation techniques to generate random communities and compare them with observed communities. The results show that the man-made habitats have species compositions indistinguishable from those assembled randomly from the county area, while the ancient woodland site has fewer common species than expected from the random model. The study also investigates the patterns of morphology through size ratios within taxa and finds constant proboscis length ratios in some genera. The findings suggest that competition for resources may be affecting the community structure of hoverflies.
+scientific_discipline: Biology and Life Sciences > Ecology

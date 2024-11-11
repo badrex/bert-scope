@@ -1,0 +1,10 @@
+article_id: rspl_1901_0030
+revised_title: The Influence of Magnetic Fields on Electrical Discharge Phenomena in Rarefied Gases
+semantic_tags:
+  - Plasma physics
+  - Electromagnetism
+  - Gas discharge
+  - Electrostatics
+  - Magnetic fields
+tldr: The authors studied the effects of magnetic fields on electrical discharge phenomena in rarefied gases. They discovered that the rate of change of magnetic lines is crucial for the production of a luminous ring in rarefied gases. The luminosity of the ring is due to collisions between incoming streams of positive ions and the accumulation of negatively electrified gas between the electrodes. The direction of rotation of the ring is explained by the attraction of negatively electrified gas particles towards the positive outer portion of the ring.
+scientific_discipline: Physics > Electromagnetism

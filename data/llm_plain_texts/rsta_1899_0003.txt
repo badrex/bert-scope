@@ -1,0 +1,10 @@
+article_id: rsta_1899_0003
+revised_title: On the Application of the Theory of Error to Cases of Normal Distribution and Normal Correlation
+semantic_tags:
+  - Statistics
+  - Probability Theory
+  - Normal Distribution
+  - Correlation Analysis
+  - Statistical Analysis
+tldr: This article presents a mathematical approach to test the existence of normal distribution and normal correlation in statistical data. The author focuses on cases with one or two attributes, providing formulas for comparing the accuracy of different methods of calculating frequency constants. The study aims to improve the understanding and application of the theory of error in statistical analysis.
+scientific_discipline: Mathematics > Statistics

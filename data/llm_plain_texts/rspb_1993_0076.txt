@@ -1,0 +1,10 @@
+article_id: 'rspb_1993_0076'
+revised_title: 'Spiral Waves and Evolutionary Consequences in Host-Parasitoid Systems'
+semantic_tags:
+  - Population Dynamics
+  - Evolutionary Biology
+  - Spatial Ecology
+  - Host-Parasitoid Interactions
+  - Spiral Waves
+tldr: The authors demonstrate that in a spatial model of host-parasitoid interactions, the formation of spiral waves has far-reaching evolutionary consequences. Selection occurs at the level of entire spirals, leading to selection for less efficient parasitoids. This change in the level of selection results in unique outcomes for the competition between different parasitoid types.
+scientific_discipline: Biology and Life Sciences > Ecology and Environmental Science

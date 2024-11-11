@@ -1,0 +1,10 @@
+article_id: rspa_1957_0140
+revised_title: 'Thermal Capture of Electrons in Semi-Conductors: Influence of Acoustic Vibrations'
+semantic_tags:
+  - Semiconductor physics
+  - Thermal capture
+  - Acoustic vibrations
+  - Impurities in semiconductors
+  - Lattice interactions
+tldr: The authors investigate the influence of acoustic vibrations of the lattice on the capture of free carriers by impurities in semiconductors. They calculate the capture rate for bound states with energies near the middle of the energy gap, considering the interaction between the electron and the lattice in the adiabatic approximation. The capture rate is found to be dependent on the radius of the bound orbit, the strength of the coupling between the electron and the lattice, and the temperature when the ionization energy is sufficiently large.
+scientific_discipline: Physics > Solid State Physics

@@ -1,0 +1,10 @@
+article_id: 'rspa_1960_0170'
+revised_title: 'Improved Calculations for the Helium Iso-Electronic Sequence'
+semantic_tags:
+  - Atomic Physics
+  - Quantum Mechanics
+  - Perturbation Theory
+  - Atomic Parameters
+  - Screening Constants
+tldr: The authors used perturbation methods and screened hydrogenic orbitals to calculate various properties of the ground states in the helium iso-electronic sequence. They found that choosing the screening constant appropriately leads to high accuracy in their calculations. This improved method is compared to the unscreened approximation and accurate values available.
+scientific_discipline: Physics > Atomic Physics

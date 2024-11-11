@@ -1,0 +1,10 @@
+article_id: 110569
+revised_title: 'Improvements in Barometer Design and Measurements at the Royal Society'
+semantic_tags:
+  - Barometer
+  - Atmospheric pressure
+  - Instrumentation
+  - Meteorology
+  - Measurement accuracy
+tldr: Francis Baily describes a new barometer design with two separate tubes made of different types of glass to improve measurement accuracy. He also discusses the corrections needed for various types of barometers and provides a formula for these corrections. Baily addresses the confusion surrounding the height of the Royal Society's barometer above sea level and clarifies the correct elevation. Lastly, he comments on the positioning of meteorological instruments at the Royal Society.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

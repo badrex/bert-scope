@@ -1,0 +1,10 @@
+article_id: rspa_1949_0123
+revised_title: 'Inhibition of Polymer Degradation by Anthraquinone Derivatives'
+semantic_tags:
+  - Polymer degradation
+  - Inhibition
+  - Anthraquinone
+  - Free radical reactions
+  - Chemical inhibitors
+tldr: 'This article investigates the effect of inhibitors and end groups on the degradation of polymethyl methacrylate. The authors found that 1,4-diamino anthraquinone effectively inhibits the degradation reaction, providing evidence for a chain reaction involving free radicals. The study also demonstrates that the leuco compound of the anthraquinone derivative is quickly converted to the dyestuff, which is the active inhibitor. The findings suggest that the dyestuff interacts with the polymer radical to form a more stable radical, preventing further degradation.'
+scientific_discipline: Chemistry > Polymer Chemistry

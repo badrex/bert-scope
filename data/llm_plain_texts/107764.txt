@@ -1,0 +1,10 @@
+article_id: '107764'
+revised_title: 'Comparing the Light of the Sun with That of Fixed Stars'
+semantic_tags:
+  - Astronomy
+  - Photometry
+  - Star brightness measurement
+  - Atmospheric effects
+  - Distance measurement
+tldr: The author, William Hyde Wollaston, describes a method to compare the light of the sun with that of fixed stars. He compares the light of Sirius, a bright star, with the sun's reflected image using a telescope and a common standard of comparison. The results show that the light of Sirius is equal to that of the sun reflected from a small sphere and seen at a distance. This method can be used to estimate the distances of stars and improve our understanding of the universe.
+scientific_discipline: Astronomy > Photometry

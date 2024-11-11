@@ -1,0 +1,10 @@
+article_id: 107146
+revised_title: 'Differential Expressions and Their Integration in Physical Astronomy'
+semantic_tags:
+  - Differential Equations
+  - Astronomy
+  - Mathematical Physics
+  - Calculus
+  - Analytical Geometry
+tldr: The author explores the integration of differential expressions in physical astronomy, focusing on the challenges and methods used to calculate integrals. They discuss the importance of expanding differential expressions into series and the use of geometric properties to aid in analytical calculations. The author also highlights the work of mathematicians like Euler and Fagnani in advancing the field.
+scientific_discipline: Mathematics > Calculus

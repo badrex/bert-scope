@@ -1,0 +1,10 @@
+article_id: 'rspa_1956_0087'
+revised_title: 'Detachment of Electrons from Negative Ions: Cross-Section Measurements and Implications'
+semantic_tags:
+  - Atomic and Molecular Physics
+  - Ionization
+  - Detachment Cross-Section
+  - Charge Transfer
+  - Negative Ions
+tldr: The authors conducted experiments to measure the cross-sections for detachment of electrons from negative ions in various gases, such as oxygen, hydrogen, and chlorine. They found that these detachment processes play a significant role in removing negative ions from ionized media under certain conditions. The results also showed that the type of neutral gas with which the negative ion collides does not determine its detachment cross-section at these energies.
+scientific_discipline: Chemistry > Atomic and Molecular Physics

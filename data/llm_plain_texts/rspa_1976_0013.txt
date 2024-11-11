@@ -1,0 +1,10 @@
+article_id: rspa_1976_0013
+revised_title: 'An Experimental Study of Ice Friction and a Theoretical Explanation'
+semantic_tags:
+  - Friction
+  - Ice physics
+  - Thermal conductivity
+  - Slider materials
+  - Pressure melting
+tldr: This study investigates the kinetic friction of ice under various conditions, such as temperature and velocity, using a pendulum-based apparatus. The authors develop a frictional heating theory that explains the low friction between ice and different slider materials. They find that the coefficient of friction depends on the thermal conductivity of the slider, the ambient temperature, and the velocity of sliding. The results help to understand the frictional properties of ice and its relevance to ice skating.
+scientific_discipline: Physics > Mechanics

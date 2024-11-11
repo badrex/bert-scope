@@ -1,0 +1,10 @@
+article_id: 'rspb_1972_0084'
+revised_title: 'Flow Behavior of Erythrocytes: Rotation, Deformation, and Migration in Dilute Suspensions'
+semantic_tags:
+  - Blood flow
+  - Erythrocyte deformation
+  - Microrheology
+  - Suspension rheology
+  - Blood cell transport
+tldr: This study investigates the flow behavior of individual erythrocytes and rouleaux in dilute suspensions under steady viscous flow through circular tubes. The research focuses on the translation, rotation, and deformation of red blood cells and rouleaux in plasma, revealing that deformation occurs over a wide range of shear rates due to the flexibility of the particles. The findings contribute to the understanding of blood flow mechanics and the overall mechanics of flow in blood vessels.
+scientific_discipline: Biology and Life Sciences > Cell Biology

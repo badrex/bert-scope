@@ -1,0 +1,10 @@
+article_id: 103674
+revised_title: 'Hydraulic Experiments and the Forces of Moving Bodies'
+semantic_tags:
+  - Fluid mechanics
+  - Hydraulics
+  - Newton's square law
+  - Fluid dynamics
+  - Fluid pressure
+tldr: 'John Eames conducted experiments on fluid mechanics, specifically hydraulics, to test the forces of equal moving bodies. He found that the velocities of fluids issuing from orifices were proportional to the square root of the heights above the orifices. Eames argued that the forces of moving bodies were not proportional to the squares of their velocities, as some believed, but rather were proportional to the quantities of matter multiplied by the velocities.'
+scientific_discipline: Physics > Fluid mechanics

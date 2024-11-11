@@ -1,0 +1,10 @@
+article_id: rspl_1874_0066
+revised_title: A Study on Prepotentials and Distribution Theorems
+semantic_tags:
+  - Mathematical Analysis
+  - Green's Theorem
+  - Potential Theory
+  - Density Distribution
+  - Applied Mathematics
+tldr: This article presents a memoir on prepotentials, discussing the concept of density and distribution in various dimensions. It also covers related theorems by Green, Gauss, and others, and their applications in mathematical analysis and physics.
+scientific_discipline: Mathematics > Applied Mathematics

@@ -1,0 +1,10 @@
+article_id: 'rstb_1989_0028'
+revised_title: 'Structural Analysis of Influenza Virus Neuraminidase-Antibody Complexes'
+semantic_tags:
+  - Immunology
+  - Virology
+  - Structural Biology
+  - Antibody-Antigen Interaction
+  - Influenza Virus
+tldr: Researchers have studied the three-dimensional structures of influenza virus neuraminidase-antibody complexes. They discovered that the epitope, or the part of the antigen that the antibody binds to, is discontinuous and comprised of five separate peptide segments. This finding helps to understand how the immune system recognizes and targets the virus, and could potentially aid in the development of more effective vaccines and treatments.
+scientific_discipline: Biology and Life Sciences > Immunology

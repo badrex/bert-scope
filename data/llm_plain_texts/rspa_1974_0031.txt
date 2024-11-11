@@ -1,0 +1,10 @@
+article_id: rspa_1974_0031
+revised_title: 'Electroconvection Cells in Dielectric Liquids: Morphology and Behavior'
+semantic_tags:
+  - Electroconvection
+  - Dielectric liquids
+  - Fluid interfaces
+  - Convection cells
+  - Boundary conditions
+tldr: This article investigates the morphology and behavior of electroconvection cells in dielectric liquids interfaced with conducting fluids. The study focuses on the three types of electroconvection cells formed in these liquids and their characteristics, such as cell size, rotation, and liquid motion. The findings contribute to understanding the role of interfacial tension in driving cellular convection and the potential applications of electroconvection cells in various information display or recording processes.
+scientific_discipline: Physics > Fluid Dynamics

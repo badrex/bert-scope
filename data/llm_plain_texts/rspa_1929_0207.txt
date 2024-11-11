@@ -1,0 +1,10 @@
+article_id: rspa_1929_0207
+revised_title: Electro-Deposition Kinetics of Hydrogen and Oxygen
+semantic_tags:
+  - Electrochemistry
+  - Electrodeposition
+  - Surface reactions
+  - Electrode potential
+  - Activation energy
+scientific_discipline: Chemistry > Electrochemistry
+tldr: The authors studied the kinetics of the electro-deposition of hydrogen and oxygen on various metallic electrodes. They found that the logarithm of the current density plotted against the electrode potential gives a straight line, with the slope being dependent on the nature and condition of the cathode surface. The authors also investigated the effect of hydrogen ion concentration on the rate of hydrogen evolution at metallic cathodes, finding that the overpotential is influenced by the acidity of the solution.

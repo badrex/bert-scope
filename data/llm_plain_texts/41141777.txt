@@ -1,0 +1,10 @@
+article_id: '41141777'
+revised_title: 'Invariable Pendulum Experiments at the Royal Observatory and Port Bowen'
+semantic_tags:
+  - Timekeeping
+  - Pendulum
+  - Astronomy
+  - Geodesy
+  - Temperature
+scientific_discipline: Physics > Geodesy
+tldr: The author conducted experiments with an invariable pendulum at the Royal Observatory in Greenwich and Port Bowen to measure the shape of the Earth. They used a pendulum, clock, and telescope to observe the coincidences and took into account the temperature and other factors that could affect the results. The experiments required a high level of care and cooperation, and the author acknowledges the support of the Commander of the Expedition. The results showed that the Earth's ellipticity was approximately 1/289.

@@ -1,0 +1,11 @@
+article_id: 'rspb_1982_0005'
+revised_title: 'Investigating the Sensitivity of Water-Amino Acid Interactions in Computer Simulations'
+semantic_tags:
+  - 'Monte Carlo simulation'
+  - 'Water-protein interactions'
+  - 'Polarizable electropole model'
+  - 'Amino acid hydrate crystals'
+  - 'Potential functions'
+tldr: 'The authors conducted Monte Carlo computer simulations to study the sensitivity of water-amino acid interactions using the polarizable electropole model. They found that predicted water structures were highly sensitive to the input parameters used to define non-bonded and electrostatic interactions. The study highlights the importance of investigating potential functions and their parameters for accurate predictions of solvent organization in complex water-protein systems.'
+scientific_discipline: 'Chemistry > Biochemistry'
+sub_discipline: 'Molecular Modeling and Simulation'

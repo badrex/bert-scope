@@ -1,0 +1,10 @@
+article_id: 'rspa_1910_0088'
+revised_title: 'Correcting a Mistake in Tidal Reductions Apparatus Instructions'
+semantic_tags:
+  - Tides
+  - Oceanography
+  - Harmonic Analysis
+  - Coastal Engineering
+  - Marine Science
+tldr: 'Sir G. H. Darwin identifies a mistake in the instructions for using a tidal reductions apparatus and provides a corrected method for calculating tidal heights. The error is found in the computation forms sold by the Cambridge Scientific Instrument Company, and Darwin offers to inform purchasers of the correction.'
+scientific_discipline: 'Earth Sciences > Oceanography'

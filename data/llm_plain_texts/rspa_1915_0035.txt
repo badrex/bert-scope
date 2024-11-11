@@ -1,0 +1,10 @@
+article_id: rspa_1915_0035
+revised_title: 'Effects of Buildings and Walls on Atmospheric Potential Gradients'
+semantic_tags:
+  - Atmospheric electricity
+  - Potential gradient
+  - Vertical potential gradient
+  - Retaining walls
+  - Building design
+tldr: The author investigates the distribution of potential near walls and buildings and its effect on the measurement of atmospheric potential gradients. They simplify the problem by considering long walls and use mathematical transformations to calculate the potential at various points. The results can be applied in practice and are useful for understanding the impact of vertical potential gradients on plants and animals.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

@@ -1,0 +1,10 @@
+article_id: rspl_1883_0116
+revised_title: Explanation of Hall's Phenomenon through Mechanical Strain and Thermoelectric Effects
+semantic_tags:
+  - Electromagnetism
+  - Thermoelectricity
+  - Mechanical strain
+  - Hall effect
+  - Electromagnetic strain
+tldr: The author explains Hall's phenomenon by combining mechanical strain and thermoelectric effects. When a current passes through a metal plate, the strain caused by electromagnetic action affects the resistance of the metal, leading to changes in the distribution of temperature and equipotential lines. This phenomenon can be observed in metals like gold, iron, and copper, and can be used to predict their thermoelectric properties.
+scientific_discipline: Physics > Electromagnetism

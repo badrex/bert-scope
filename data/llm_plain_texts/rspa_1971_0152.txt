@@ -1,0 +1,10 @@
+article_id: rspa_1971_0152
+revised_title: 'Determination of Kinetics of Unimolecular Ionic Dissociations by Field Ionization Mass Spectrometry'
+semantic_tags:
+  - Mass spectrometry
+  - Field ionization
+  - Ionic dissociation kinetics
+  - Conformal transformation
+  - Deconvolution
+tldr: The authors developed a method to determine the kinetics of unimolecular ionic dissociations using field ionization mass spectrometry with a sharp edge. They studied dissociation kinetics involving times down to about 10^-13 seconds and obtained rate constants for the formation of the tert-butyl carbonium ion from three separate precursors. The method involved using conformal transformations and deconvolution to analyze the energy distribution of product ions and calculate the time taken for the ion to reach the place where it dissociates.
+scientific_discipline: Chemistry > Analytical Chemistry

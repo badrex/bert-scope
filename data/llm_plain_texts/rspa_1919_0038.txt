@@ -1,0 +1,10 @@
+article_id: 'rspa_1919_0038'
+revised_title: 'Determination of the Secular Acceleration of the Moon'
+semantic_tags:
+  - Celestial Mechanics
+  - Lunar Motion
+  - Astronomical Observations
+  - Error Analysis
+  - Periodic Phenomena
+tldr: 'The author analyzes the observed errors of the Moon's longitude and argues that the secular acceleration cannot be determined until the nature and quantity of the periodicity of the errors are determined. The author also criticizes previous work that attempted to explain the errors as being due to incorrect long-period terms, stating that there is substantial agreement among theoretical and numerical work that these errors cannot be explained in that way.'
+scientific_discipline: Astronomy > Celestial Mechanics

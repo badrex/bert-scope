@@ -1,0 +1,10 @@
+article_id: rspa_1927_0022
+revised_title: Investigation of the Auroral Green Line and Its Origin
+semantic_tags:
+  - Auroras
+  - Spectroscopy
+  - Oxygen spectrum
+  - Green line
+  - Zeeman effect
+tldr: The authors conducted experiments to investigate the nature and origin of the auroral green line (5577 Å) and found that it originates from oxygen. They studied the effects of pressure, current strength, and impurities on the line's intensity and concluded that the green line belongs to the oxygen spectrum. The magnetic resolution or Zeeman effect of the green line was also studied, providing more information about the line's character and place in the spectral term scheme for oxygen.
+scientific_discipline: Physics > Spectroscopy

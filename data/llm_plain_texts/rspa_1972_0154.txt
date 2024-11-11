@@ -1,0 +1,10 @@
+article_id: rspa_1972_0154
+revised_title: 'Clifford's Chain and its Analogues: Unification and Extension in Higher Polytopes'
+semantic_tags:
+  - Geometry
+  - Polytopes
+  - Symmetry
+  - Group Theory
+  - Mathematical Theorems
+tldr: The author unifies and extends Clifford's chain of theorems on circles in a plane and its analogues in higher dimensions, demonstrating a correspondence between these configurations and Coxeter's polytopes. This leads to the discovery of new symmetrical configurations and the termination of Grace's and Brown's sequences after additional steps.
+scientific_discipline: Mathematics > Geometry

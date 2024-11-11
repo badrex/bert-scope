@@ -1,0 +1,10 @@
+article_id: '108531'
+revised_title: 'Automatic Registration of Magnetometers and Meteorological Instruments'
+semantic_tags:
+  - Magnetometry
+  - Meteorological Instruments
+  - Photography
+  - Temperature Compensation
+  - Scientific Instruments
+tldr: The author, Charles Brooke, describes the development of an automatic temperature compensation mechanism for magnetometers and meteorological instruments using photography. The compensation mechanism involves the use of metallic expansion to adjust the instrument's readings based on temperature changes, improving the accuracy of the measurements. This method allows for more precise deductions of magnetic force variations and better understanding of the earth's magnetic field.
+scientific_discipline: Physics > Electromagnetism

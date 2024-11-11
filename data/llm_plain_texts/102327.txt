@@ -1,0 +1,10 @@
+article_id: 102327
+revised_title: Gresham College Rainfall Measurements
+semantic_tags:
+  - Meteorology
+  - Climate
+  - Rainfall measurement
+  - Weather observation
+  - Barometer
+tldr: This article describes a year-long experiment conducted at Gresham College in London to measure the quantity of rain fallen each month, starting from August 12, 1695. The author details the setup of the rain collection system, which included a large funnel and a frame to support it, and the weighing process done every Monday morning. The purpose of this experiment was to gather data on rainfall patterns and weather conditions in London during that time.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

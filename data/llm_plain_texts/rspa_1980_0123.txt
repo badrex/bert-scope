@@ -1,0 +1,10 @@
+article_id: rspa_1980_0123
+revised_title: 'Completion of the Kerr Black Hole Gravitational Perturbations Solution'
+semantic_tags:
+  - Black Holes
+  - Gravitational Perturbations
+  - Kerr Geometry
+  - Astrophysics
+  - Relativity
+tldr: This article completes the solution for the gravitational perturbations of the Kerr black hole by determining the functions and. The author uses a pair of equations to find the solutions for and, which are then used to find the remaining functions needed for the metric perturbations. The research provides a more complete understanding of the behavior of black holes and their surrounding space-time.
+scientific_discipline: Physics > Astrophysics

@@ -1,0 +1,10 @@
+article_id: 111496
+revised_title: The Logocyclic Curve: A Geometrical Representation of Numbers and Logarithms
+semantic_tags:
+  - Geometry
+  - Trigonometry
+  - Logarithms
+  - Curves
+  - Mathematical History
+tldr: The author introduces the Logocyclic Curve, a new curve with properties similar to the circle, and demonstrates how it can be used to represent numbers and their logarithms geometrically. The Logocyclic Curve is connected to the parabola and shares several properties with it, such as the existence of reciprocal points and the logarithmic point. The author also discusses various properties and applications of the Logocyclic Curve, including its relation to the Cissoid of Diocles and the equilateral hyperbola.
+scientific_discipline: Mathematics > Geometry

@@ -1,0 +1,10 @@
+article_id: rspa_1975_0138
+revised_title: The Influence of Surface Roughness and Modulus on the Adhesion of Elastic Solids
+semantic_tags:
+  - Surface roughness
+  - Adhesion
+  - Elastic solids
+  - Contact mechanics
+  - Contact theory
+tldr: This study investigates the effect of surface roughness and modulus on the adhesion between elastic solids. The experiments were conducted using optically smooth rubber spheres and a hard flat surface of Perspex, which was roughened to varying degrees. The results show that surface roughness can significantly reduce adhesion, especially for rubbers with higher moduli. A theoretical analysis based on the contact theory of Johnson, Kendall, and Roberts is developed to explain the observed behavior.
+scientific_discipline: Physics > Mechanics

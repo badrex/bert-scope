@@ -1,0 +1,10 @@
+article_id: 'rsta_1994_0012'
+revised_title: 'Neutrino and Dark Matter Detection Techniques'
+semantic_tags:
+  - Neutrino Astronomy
+  - Dark Matter Detection
+  - Nuclear Recoil Detectors
+  - Particle Physics
+  - Astrophysics
+tldr: The article discusses the development of new detectors for astrophysical neutrinos and dark matter particles, focusing on elastic scattering from nuclei. The authors explore various techniques, such as ionization, scintillation, and low-temperature phonon detectors, to detect low-energy nuclear recoil events and distinguish them from radioactive background. They also highlight the challenges and future prospects for detecting dark matter and neutrinos using these new technologies.
+scientific_discipline: Physics > Particle Physics

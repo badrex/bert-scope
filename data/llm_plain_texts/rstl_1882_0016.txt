@@ -1,0 +1,10 @@
+article_id: 'rstl_1882_0016'
+revised_title: 'Invariants in Linear Differential Equations'
+semantic_tags:
+  - Differential Equations
+  - Invariants
+  - Mathematical Analysis
+  - Algebraic Binary Quantics
+  - Mathematical Theories
+tldr: The author investigates two classes of invariants in linear differential equations, which have remarkable analogies to the invariants of algebraic binary quantics. They provide examples of their application and explore various equations and conditions to demonstrate their findings. This study contributes to the understanding of mathematical theories and the analysis of differential equations.
+scientific_discipline: Mathematics > Algebraic Geometry

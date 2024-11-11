@@ -1,0 +1,10 @@
+article_id: rspa_1949_0075
+revised_title: 'Wave-front Reconstruction Method in Microscopy'
+semantic_tags:
+  - Electron Microscopy
+  - Wave-front Reconstruction
+  - Optical Synthesizer
+  - Holography
+  - Light Optics
+tldr: The authors introduce a new two-step method of optical imaging called wave-front reconstruction, which uses coherent monochromatic waves to create a diffraction pattern and then reconstructs the original object's wave-front using an optical synthetizer. This method can be applied to both two-dimensional and three-dimensional objects and has the potential to improve electron microscopy resolution.
+scientific_discipline: Physics > Optics

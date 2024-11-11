@@ -1,0 +1,10 @@
+article_id: rspa_1983_0120
+revised_title: 'New Criterion for Thermal Ignition with Extensive Reactant Consumption'
+semantic_tags:
+  - Thermal explosions
+  - Reactant consumption
+  - Criticality
+  - Sensitivity
+  - Semenov number
+tldr: The authors present a new criterion for thermal ignition in systems with extensive reactant consumption. They identify criticality with the maximum sensitivity of the maximum temperature excess to the initial reaction rate. This new criterion is based on the dependence of the temperature excess on the initial reaction rate and is closely related to the experimentalist's perspective. The critical value of the Semenov number is derived as an integral equation and solved numerically, leading to values up to 2 or 3 times greater than the classical value when reactant consumption is ignored.
+scientific_discipline: Chemistry > Chemical Kinetics

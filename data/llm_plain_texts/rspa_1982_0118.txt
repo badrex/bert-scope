@@ -1,0 +1,10 @@
+article_id: rspa_1982_0118
+revised_title: Mechanical Properties of Balsa and Other Woods
+semantic_tags:
+  - Materials Science
+  - Wood Anatomy
+  - Mechanical Testing
+  - Elastic Modulus
+  - Crushing Strength
+tldr: This study investigates the mechanical properties of balsa wood and other woods, focusing on their structure, density, and material properties. The authors relate the elastic moduli and crushing strength of balsa to the bending, buckling, plastic collapse, and fracture of its cell walls. They find that the moduli and strength of balsa and other woods are determined by the properties of the cell-wall material and the dimensions and shape of the cells. The research also shows that the relative density of the wood is related to the dimensions of its cells, and the linear-elastic moduli and collapse loads of the woods are analyzed and compared with experimental results.
+scientific_discipline: Materials Science > Wood Anatomy

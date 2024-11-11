@@ -1,0 +1,10 @@
+article_id: rspl_1872_0020
+revised_title: 'A New Method for Observing the Chromosphere'
+semantic_tags:
+  - Solar Astronomy
+  - Spectroscopy
+  - Telescope Technology
+  - Chromosphere Observation
+  - Solar Physics
+tldr: 'The authors, J. N. Lockyer and G. M. Seabroke, describe a new method for observing the chromosphere using a ring-slit and slitless spectroscopy. This method allows for the daily observation of the chromosphere and has already produced images of the chromosphere on several occasions. The authors also mention that similar ideas have been proposed by Zollner and Prof. Wenlock, but they have not been successful in implementing them.'
+scientific_discipline: Astronomy > Solar Physics

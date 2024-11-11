@@ -1,0 +1,10 @@
+article_id: rsta_1991_0084
+revised_title: Observations of Solar Flares and Their Implications for Energy Release and Magnetic Fields
+semantic_tags:
+  - Solar Flares
+  - Magnetic Reconnection
+  - Coronal Mass Ejections
+  - Solar Physics
+  - Plasma Physics
+tldr: This article discusses observations of solar flares made by the Solar Maximum Mission, focusing on energy release, transport, and deposition phenomena during the onset of flares. The authors explore the role of magnetic fields in the solar corona and the processes involved in energy release and reconnection. They also analyze the physical parameters of flare plasma and the implications for understanding the underlying physics of solar flares.
+scientific_discipline: Physics > Plasma Physics

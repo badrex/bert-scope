@@ -1,0 +1,10 @@
+article_id: rspa_1979_0099
+revised_title: The Influence of Laminar Burning Velocity on Turbulent Flame Structure and Propagation
+semantic_tags:
+  - Combustion
+  - Turbulence
+  - Laminar Burning Velocity
+  - Flame Propagation
+  - Flame Structure
+tldr: This study investigates the influence of laminar burning velocity on the structure and propagation of turbulent flames. The experiments, conducted with propane, acetylene, and hydrogen fuels, verify the three-region model of turbulent flames. A large increase in laminar burning velocity stabilizes the flames, reducing the dependence of turbulent burning velocity and flame turbulence on the length scale. The stabilizing influence of laminar burning velocity is essential for understanding and improving combustion processes in various applications.
+scientific_discipline: Engineering and Technology > Combustion and Flame

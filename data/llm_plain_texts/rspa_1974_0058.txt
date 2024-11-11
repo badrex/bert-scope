@@ -1,0 +1,10 @@
+article_id: rspa_1974_0058
+revised_title: 'Scattering Theory of Sound by Randomly Irregular Surfaces'
+semantic_tags:
+  - Wave Scattering
+  - Acoustics
+  - Surface Roughness
+  - Multiple Scattering
+  - Kirchoff Diffraction Theory
+tldr: This article discusses the scattering of sound waves by irregular surfaces, focusing on near-grazing angles of incidence. The author proposes a theory of multiple surface scattering, which takes into account the effects of multiple interactions of scattered waves with surface irregularities. The theory is valid for small surface roughness and provides a more accurate description of the scattering processes compared to single scattering and Kirchoff diffraction theory.
+scientific_discipline: Physics > Acoustics

@@ -1,0 +1,10 @@
+article_id: rspl_1879_0030
+revised_title: Formation of Hydrocyanic Acid in the Electric Arc
+semantic_tags:
+  - Chemistry
+  - Electrochemistry
+  - Hydrogen cyanide
+  - Acetylene
+  - Electric arc
+tldr: The author, James Dewar, conducted experiments using the electric arc to study the formation of hydrocyanic acid. He found that the high temperature of the positive pole was required for the reaction, which is likely the result of acetylene reacting with free nitrogen. The presence of sulphuretted hydrogen is due to the reduction of the sulphates in the ash of the carbon. Further experiments with varied compositions and gases will be discussed in a subsequent paper.
+scientific_discipline: Chemistry > Electrochemistry

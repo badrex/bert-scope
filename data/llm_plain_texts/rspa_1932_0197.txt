@@ -1,0 +1,10 @@
+article_id: 'rspa_1932_0197'
+revised_title: 'Reformulating the Principles of Quantum Theory'
+semantic_tags:
+  - Quantum mechanics
+  - Physics
+  - Mathematical physics
+  - Operators
+  - Spectral analysis
+tldr: This paper reformulates the principles of quantum theory by breaking them down into a sequence of propositions based on standard experimental procedures and hypotheses. It introduces the concept of projective or "idempotent" operators and discusses the representation of quantum states and physical quantities using vectors and linear operators. The paper also explores the relationship between physical processes, operators, and their representative matrices, as well as the concept of conjugate sets of operators and states.
+scientific_discipline: Physics > Quantum mechanics

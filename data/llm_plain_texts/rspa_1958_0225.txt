@@ -1,0 +1,10 @@
+article_id: rspa_1958_0225
+revised_title: Observations and Analysis of Russian Artificial Earth Satellites' Radio Signals
+semantic_tags:
+  - Satellite Tracking
+  - Ionosphere Propagation
+  - Radio Wave Propagation
+  - Space Technology
+  - Radio Astronomy
+tldr: Researchers from the Admiralty Signal and Radar Establishment and Standard Telephones and Cables Ltd. conducted radio observations of the first Russian artificial earth satellites on 20 and 40 Mc/s frequencies. They studied the bearing and elevation angle of the satellites to gather information about ionospheric propagation. The results provided insights into the behavior of radio waves and the ionosphere, which helped improve our understanding of satellite tracking and radio wave propagation.
+scientific_discipline: Physics > Space Technology

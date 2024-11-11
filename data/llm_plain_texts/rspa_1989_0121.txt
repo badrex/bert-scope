@@ -1,0 +1,10 @@
+article_id: rspa_1989_0121
+revised_title: Transmission of Sound Through Elastic Panels: A Simplified Approach
+semantic_tags:
+  - Acoustics
+  - Sound Transmission
+  - Elastic Panels
+  - Bending Plate Equation
+  - Modal Analysis
+tldr: The authors present a simple method to estimate the power transmitted through an elastic panel when exposed to a plane sound wave. The method focuses on the forced non-resonant contribution to the power flow and is applicable to more complicated geometries and plate equations. The results are illustrated for a circular isotropic panel.
+scientific_discipline: Engineering and Technology > Acoustics

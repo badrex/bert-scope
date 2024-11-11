@@ -1,0 +1,10 @@
+article_id: rspa_1986_0057
+revised_title: Doping Dependence of Semiconductor-Metal Transition in InP at High Pressures: Analyzing the Effects of Internal Stress
+semantic_tags:
+  - Semiconductor physics
+  - High-pressure physics
+  - Doping effects
+  - Internal stress
+  - Material science
+tldr: The authors studied the resistivity of selenium-doped n-InP single crystal layers under high hydrostatic pressure. They observed semiconductor-metal transitions with a change in resistivity by two to three orders of magnitude. The transition pressure decreased monotonically with increasing doping concentration due to the development of internal stress from ionized donor atoms. The high-pressure metallic phase had a resistivity of 0.854 cm, with a positive temperature coefficient dependent on doping.
+scientific_discipline: Physics > Material Science

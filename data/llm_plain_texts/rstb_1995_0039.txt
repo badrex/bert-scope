@@ -1,0 +1,10 @@
+article_id: 'rstb_1995_0039'
+revised_title: 'Disulphide-Coupled Protein Folding Pathways in Bovine Pancreatic Trypsin Inhibitor, Alpha-Lactalbumin, and Ribonucleases'
+semantic_tags:
+  - Protein folding
+  - Disulphide bonds
+  - Protein structure
+  - Protein kinetics
+  - Protein conformations
+tldr: The article discusses the disulphide-coupled protein folding pathways in bovine pancreatic trypsin inhibitor, alpha-lactalbumin, and ribonucleases. The authors compare and contrast the folding pathways, which involve the formation of disulphide bonds, and explain how the nature of the conformations that favor one disulphide bond over another is stabilized by the presence of that disulphide bond in the disulphide intermediates. The slowest step in the folding process is the formation of a disulphide bond that will be buried in a stable folded conformation, while the most rapid step is the formation of an accessible disulphide bond on the surface of a folded conformation.
+scientific_discipline: Biology and Life Sciences > Protein Structure and Folding

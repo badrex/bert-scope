@@ -1,0 +1,10 @@
+article_id: 102714
+revised_title: 'The Quantity of Air Produced from Gunpowder Fired in Common Air'
+semantic_tags:
+  - Gas laws
+  - Explosives
+  - Atmospheric pressure
+  - Experimental physics
+  - Gas expansion
+tldr: The author conducted an experiment to determine the amount of air produced by firing a grain of gunpowder in common air. The experiment involved measuring the space occupied by the water displaced after the explosion. The author found that the space occupied by the water was nearly equal to the bulk of 11 grains of gunpowder, suggesting that the space was not filled with real air. The author also discussed the possibility of the springs or constituent parts of the ambient air being broken or distended upon firing, which may require a long time to recover their natural state.
+scientific_discipline: Chemistry > Gas laws

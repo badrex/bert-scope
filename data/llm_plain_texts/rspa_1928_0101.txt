@@ -1,0 +1,10 @@
+article_id: rspa_1928_0101
+revised_title: Statistical Analysis of Electron Motion in Gases
+semantic_tags:
+  - Statistical physics
+  - Gas ionization
+  - Quantum theory
+  - Electron collisions
+  - Metastable states
+tldr: The author examines the motion of electrons in gases and their ionization processes. They analyze the experiments of Prof. Townsend and reconcile his findings with the Quantum Theory. The study focuses on the role of metastable states and their effects on the experiments, providing a deeper understanding of gas ionization and electron behavior.
+scientific_discipline: Physics > Statistical mechanics

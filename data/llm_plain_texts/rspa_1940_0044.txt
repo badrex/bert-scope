@@ -1,0 +1,10 @@
+article_id: rspa_1940_0044
+revised_title: 'Investigation of the Lower Regions of the Radium E -Ray Spectrum'
+semantic_tags:
+  - Nuclear Physics
+  - Radioactivity
+  - Spectroscopy
+  - Radium
+  - Electrons
+scientific_discipline: Physics > Nuclear Physics
+tldr: The authors conducted experiments to investigate the lower regions of the radium E -ray spectrum. They used a specially designed magnetic spectrograph and Geiger-Muller tube counters to accurately observe the undistorted spectrum, especially below 100. The results provide a practical realization of this ideal, down to the region of 20 at least, without the need for corrections.

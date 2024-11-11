@@ -1,0 +1,10 @@
+article_id: rspa_1956_0141
+revised_title: Heat Transfer and Turbulence in Rotating Disk Systems
+semantic_tags:
+  - Fluid Dynamics
+  - Heat Transfer
+  - Turbulence
+  - Rotating Disks
+  - Boundary Layer Flow
+tldr: This article investigates heat transfer from a rotating disk, focusing on the transition from laminar to turbulent flow. The authors present experimental measurements and theoretical estimates of heat transfer coefficients under various conditions. They find that the mean heat transfer increases rapidly as the Reynolds number increases, and they discuss the relationship between heat transfer and friction torque in rotating disk systems.
+scientific_discipline: Physics > Fluid Dynamics

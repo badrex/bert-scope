@@ -1,0 +1,10 @@
+article_id: rsta_1994_0017
+revised_title: Attractors for Modified Three-Dimensional Navier-Stokes Equations
+semantic_tags:
+  - Fluid Dynamics
+  - Navier-Stokes Equations
+  - Attractors
+  - Nonlinear Systems
+  - Mathematical Physics
+tldr: The authors study the modifications of the three-dimensional Navier-Stokes equations, which describe viscous fluid flows with large velocity gradients. They prove that the first initial-boundary value problem for these equations has a compact minimal global attractor, and establish some properties of the attractor. This work contributes to the understanding of fluid dynamics and the behavior of solutions to the Navier-Stokes equations.
+scientific_discipline: Mathematics > Functional Analysis

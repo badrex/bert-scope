@@ -1,0 +1,10 @@
+article_id: 'rspa_1996_0030'
+revised_title: 'Kinetic and Mechanistic Investigation of Calcium Sulphate Formation in Flue-Gas Desulphurization'
+semantic_tags:
+  - Environmental Science
+  - Chemical Kinetics
+  - Flue-Gas Desulphurization
+  - Calcium Sulphate
+  - Oxidation Reactions
+tldr: This study investigates the kinetics and mechanism of calcium sulphate formation in reactions that may be useful in flue-gas desulphurization. The authors found that the isothermal oxidation of calcium sulphite is strongly deceleratory, and rate characteristics were described by kinetic expressions based on diffusion control. The study included investigations of three related reactions that also yield calcium sulphate, and all rate processes were satisfactorily represented by the same diffusion-controlled rate equation.
+scientific_discipline: Environmental and Earth Sciences > Flue-Gas Desulphurization

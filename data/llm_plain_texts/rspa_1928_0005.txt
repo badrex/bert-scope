@@ -1,0 +1,10 @@
+article_id: rspa_1928_0005
+revised_title: Spectrophotometric Study of Oxide Film Growth on Iron, Nickel, and Copper
+semantic_tags:
+  - Oxide films
+  - Spectrophotometry
+  - Metal oxidation
+  - Interference colors
+  - Thin films
+tldr: This article investigates the growth of oxide films on iron, nickel, and copper using spectrophotometric observations. The authors discovered that the primary cause of color sequences during oxidation is the interference of light in a thin layer of highly refracting oxide covering the grains of the film. Secondary factors, such as dispersion of metallic oxides and specific absorption, also affect the color sequences. The study provides a detailed explanation of the brightening of color sequences after activation and the role of reflecting power in the process.
+scientific_discipline: Physics > Optics

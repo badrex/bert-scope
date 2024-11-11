@@ -1,0 +1,10 @@
+article_id: rspa_1968_0113
+revised_title: Approximate Solutions in the Theory of Thermal Explosions for Semi-Infinite Explosives
+semantic_tags:
+  - Thermal explosions
+  - Heat conduction equation
+  - Zero-order reaction
+  - Semi-infinite explosives
+  - Explosion criteria
+tldr: The article presents approximate solutions for the explosion time in thermal explosions for semi-infinite explosives. It provides a method to derive approximate formulae for explosion time in various scenarios, such as constant surface temperature, surface flux, convective surface heat transfer, and more. The author also discusses the general explosion criteria and provides examples of specific cases.
+scientific_discipline: Engineering and Technology > Heat Transfer

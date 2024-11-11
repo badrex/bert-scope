@@ -1,0 +1,10 @@
+article_id: 111050
+revised_title: 'Investigating Properties of Arithmetical Series and Fermat's Theorem'
+semantic_tags:
+  - Number Theory
+  - Mathematical Series
+  - Fermat's Theorem
+  - Polygonal Numbers
+  - Triangular Numbers
+tldr: This article explores the properties of arithmetical series with constant ultimate differences, focusing on Fermat's theorem of polygonal numbers. The author demonstrates that the same property discovered in polygonal numbers applies to other series of the same order, as well as all series of the first order. The article also presents a new method to prove Fermat's theorem, different from those of Lagrange, Euler, and Legendre.
+scientific_discipline: Mathematics > Number Theory

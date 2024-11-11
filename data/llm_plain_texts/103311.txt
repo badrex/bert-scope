@@ -1,0 +1,10 @@
+article_id: '103311'
+revised_title: 'Advantages of Observing the Moon's Appulses to the Hyades for Longitude Determination'
+semantic_tags:
+  - Astronomy
+  - Lunar Observations
+  - Celestial Navigation
+  - Longitude Determination
+  - Star Catalogs
+tldr: The author suggests that observing the Moon's frequent appulses to the Hyades can help determine the longitude of places for geographical uses. This method is advantageous because it is less ambiguous than other methods like eclipses of the Moon and Jupiter's satellites. The author provides a star catalog with the positions of the Hyades, which can be used to instruct observers when and where to look for these stars during the Moon's appulses.
+scientific_discipline: Astronomy > Celestial Navigation

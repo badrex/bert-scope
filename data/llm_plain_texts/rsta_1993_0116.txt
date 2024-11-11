@@ -1,0 +1,10 @@
+article_id: 'rsta_1993_0116'
+revised_title: 'New Supramolecular Architectures Using Hydrogen Bonding: Advances in Molecular Recognition and Assembly'
+semantic_tags:
+  - Supramolecular chemistry
+  - Hydrogen bonding
+  - Molecular recognition
+  - Host-guest chemistry
+  - Self-assembling systems
+tldr: The authors synthesized new supramolecular architectures using hydrogen bonding to study the strength and specificity of multiply hydrogen bonded complexes. They found that the arrangement of hydrogen bond donor and acceptor groups is a good predictor of binding strength, and that these recognition units can serve as the basis for constructing new synthetic hosts or self-assembling systems. The study also investigated the factors that control the stability of these complexes, such as geometry, acidity, and basicity of the hydrogen bond donor and acceptor groups.
+scientific_discipline: Chemistry > Supramolecular Chemistry

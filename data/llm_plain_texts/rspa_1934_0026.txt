@@ -1,0 +1,10 @@
+article_id: rspa_1934_0026
+revised_title: Internal Conversion Coefficients of Beta-Rays: Theoretical Calculations and Comparisons
+semantic_tags:
+  - Nuclear Physics
+  - Beta Decay
+  - Internal Conversion
+  - Quantum Mechanics
+  - Electromagnetic Interactions
+tldr: The authors calculate theoretical values for the internal conversion coefficient of beta-rays in K- and Li-shells, extending previous research on the topic. They compare their results with experimental values and discuss the differences between quadripole and dipole fields. The study predicts nearly complete conversion in the Li-shell for the softest beta-rays that can be converted in that shell.
+scientific_discipline: Physics > Nuclear Physics

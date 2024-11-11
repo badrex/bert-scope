@@ -1,0 +1,10 @@
+article_id: rspa_1985_0079
+revised_title: 'Experimental Study of Vortex Boundary Layers and Flow Visualization'
+semantic_tags:
+  - Fluid Dynamics
+  - Vortex Flow
+  - Boundary Layer
+  - Flow Visualization
+  - Turbulence
+tldr: This study investigates the behavior of vortex boundary layers beneath a Rankine-like vortex rotating normal to a stationary horizontal disc. The researchers used flow visualization techniques to observe the effects of Reynolds numbers on the boundary layer. They found that the boundary layer remains laminar below a Reynolds number of about 10^5 and becomes turbulent with further increases in Reynolds numbers. The flow relaminarizes as it is advected radially inward by the radial pressure gradient associated with the outer flow.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1955_0254
+revised_title: Spectral Analysis of Cool Flames and Pre-Ignition Glows
+semantic_tags:
+  - Combustion
+  - Spectroscopy
+  - Gas mixtures
+  - Ignition limits
+  - Formaldehyde emission bands
+tldr: This study investigates the spectra of cool flames and pre-ignition glows in propane, methane, and carbon monoxide mixtures with oxygen. The authors discovered that the pre-ignition glow of propane shows hydrocarbon flame bands, while the cool flame region exhibits formaldehyde emission bands. They also found that the pre-ignition glow of carbon monoxide shows CO-flame bands, which are attributed to CO2. The research supports the importance of radical diffusion in flame propagation and provides insights into the chemical processes of combustion and auto-ignition in engines.
+scientific_discipline: Chemistry > Combustion Chemistry

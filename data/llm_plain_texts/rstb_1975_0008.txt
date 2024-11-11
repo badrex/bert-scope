@@ -1,0 +1,10 @@
+article_id: 'rstb_1975_0008'
+revised_title: 'Quantitative Analysis of Dendritic Fields in Neocortex and Cerebellum'
+semantic_tags:
+  - Neuroscience
+  - Dendritic growth
+  - Network analysis
+  - Neocortex
+  - Cerebellum
+tldr: The authors used network analysis to study the connectivity of dendritic arrays in Purkinje cells of the cerebellum and pyramidal cells of the neocortex in rats. They found that dendritic trees grow by adding branches to random terminal segments, and the majority of dendrites are organized into systems of fourth order or less. This research provides insights into the growth and connectivity of dendritic fields and their role in neural activity.
+scientific_discipline: Biology and Life Sciences > Neuroscience

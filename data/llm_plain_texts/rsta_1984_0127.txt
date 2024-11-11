@@ -1,0 +1,10 @@
+article_id: rsta_1984_0127
+revised_title: Resonant Modulation for High-Speed Signal Processing
+semantic_tags:
+  - Integrated Optics
+  - Electro-Optic Modulation
+  - Resonant Optical Waveguide Cavities
+  - Optical Waveguide Resonators
+  - High-Speed Signal Processing
+tldr: The authors propose a new approach to electro-optic modulation using resonant optical waveguide cavities, which can improve the response and reduce the power required for modulators. By reducing the interaction volume, electrical bandwidth, or optical bandwidth, the performance of modulators can be significantly enhanced. The authors demonstrate the potential of this approach through experiments with electro-optic waveguides formed by thermal diffusion of titanium into LiNbO3.
+scientific_discipline: Engineering and Technology > Integrated Optics

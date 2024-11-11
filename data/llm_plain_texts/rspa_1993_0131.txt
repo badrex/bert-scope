@@ -1,0 +1,11 @@
+article_id: rspa_1993_0131
+revised_title: Nonlinear Evolution of Near-Neutral Modes in Inextensible Elastic Bodies
+semantic_tags:
+  - Elasticity
+  - Nonlinear Dynamics
+  - Wave Propagation
+  - Instability
+  - Shock Formation
+tldr: This article investigates the nonlinear evolution of near-neutral modes in inextensible elastic bodies. It shows that nonlinearity can stabilize these modes through the formation of shocks, which can either decay to zero or cause the elastic body to fracture before the decay of shock amplitude occurs. The study also explores the effects of nonlinearity on non-neutral traveling waves, demonstrating that nonlinearity makes them evolve into shocks without changing their amplitudes as time evolves.
+scientific_discipline: Mathematics > Applied Mathematics
+```

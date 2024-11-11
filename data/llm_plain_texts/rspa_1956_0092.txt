@@ -1,0 +1,10 @@
+article_id: rspa_1956_0092
+revised_title: Molecular Orbital Treatment of Diborane as a Four-Centre, Four-Electron Problem
+semantic_tags:
+  - Molecular Orbital Theory
+  - Quantum Chemistry
+  - Diborane
+  - Boron Hydrides
+  - Self-Consistent Field Theory
+tldr: The authors used molecular orbital theory and self-consistent field calculations to study the electronic structure of diborane, a four-centre, four-electron problem. They found that the molecular orbitals of lowest energy are the completely symmetric orbital and the π* orbital with a nodal plane normal to the line between the protons. The bridge hydrogens have a hybridic character, and the bond in diborane can be described as a resonance hybrid between single-bond and no-bond structures.
+scientific_discipline: Chemistry > Quantum Chemistry

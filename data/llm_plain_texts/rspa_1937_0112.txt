@@ -1,0 +1,10 @@
+article_id: rspa_1937_0112
+revised_title: The Connection between Direct and Inverse Methods in Statistics
+semantic_tags:
+  - Statistical methods
+  - Probability theory
+  - Inference
+  - Bayesian statistics
+  - Statistical inference
+tldr: The author explores the relationship between direct and inverse methods in statistics, demonstrating that they can lead to identical results when certain conditions are met. This connection helps to understand the use of direct methods for estimation and their relationship to probability theory.
+scientific_discipline: Mathematics > Statistics

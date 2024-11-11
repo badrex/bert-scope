@@ -1,0 +1,10 @@
+article_id: 110879
+revised_title: Self-Registering Thermometer: A New Instrument for Measuring Temperature Changes
+semantic_tags:
+  - Thermometry
+  - Temperature measurement
+  - Temperature expansion
+  - Instruments
+  - Physics
+tldr: The author describes a new thermometer that registers temperature changes automatically. The instrument consists of two parallel bars, one made of iron and the other of copper, connected at their lower end. The difference in expansion due to heat is measured using a series of multiplying levers and a pencil that marks the changes on paper wound around a cylinder moved by clockwork.
+scientific_discipline: Physics > Thermometry

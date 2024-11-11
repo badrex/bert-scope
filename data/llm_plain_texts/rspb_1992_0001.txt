@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0001'
+revised_title: 'Reactive Synaptogenesis in the Fly's Optic Lobe Following Photoreceptor Terminal Degeneration'
+semantic_tags:
+  - Neuroanatomy
+  - Synaptogenesis
+  - Photoreceptor Degeneration
+  - Invertebrate Nervous System
+  - Reactive Synaptic Plasticity
+tldr: The study investigates the process of reactive synaptogenesis in the housefly's optic lobe after the degeneration of photoreceptor terminals. Following photo-ablation of receptor cells, the synaptic terminals degenerate, leading to changes in the lamina's synaptic populations. The research shows that the monopolar interneuron L2 forms new synaptic contacts, increasing the overall frequency of feedback synaptic contacts in the lamina. This demonstrates the dynamic capacity for synaptogenesis in the fly's lamina throughout adult life.
+scientific_discipline: Biology and Life Sciences > Neurobiology

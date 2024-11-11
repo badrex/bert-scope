@@ -1,0 +1,10 @@
+article_id: 'rsta_1982_0019'
+revised_title: 'Deep Impurity Conduction Band Charge Transfer in ZnSe:Co'
+semantic_tags:
+  - Impurity conduction band
+  - Charge transfer transition
+  - ZnSe:Co
+  - Crystallography
+  - Solid-state physics
+tldr: The authors study the deep impurity conduction band charge transfer transition in ZnSe:Co, a type of semiconductor material. They analyze the absorption spectrum and find three transitions originating from the ground state, giving rise to zero-phonon lines. The excited states' energy levels and spin-quartet states of the center are identified, and the authors deduce the energy gap of the impurity. They also discuss the temperature dependence of the intensity of the components and the uniaxial stress measurements on single-crystal ZnSe:Co.
+scientific_discipline: Physics > Solid-state physics

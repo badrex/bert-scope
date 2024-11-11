@@ -1,0 +1,10 @@
+article_id: 'rspa_1962_0223'
+revised_title: 'Gravitational Waves and Axi-Symmetric Isolated Systems in Relativity'
+semantic_tags:
+  - Gravitational Waves
+  - General Relativity
+  - Axi-Symmetric Systems
+  - Isolated Systems
+  - Tensor Calculus
+tldr: The authors discuss the current state of relativity and the possibility of adapting the process of calculating gravitational waves from axi-symmetric isolated systems. They mention a recent preprint by A. H. Taub, who started the approximation with another tensor, and explore the potential of expanding in powers of the gravitational field. The authors also present a method of constructing new solutions to linear, special relativistic partial differential equations, focusing on null, curling solutions of Maxwell's and linearized Einstein's equations.
+scientific_discipline: Physics > General Relativity

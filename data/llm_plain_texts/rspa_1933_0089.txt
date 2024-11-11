@@ -1,0 +1,10 @@
+article_id: rspa_1933_0089
+revised_title: 'Determination of Angles between Covalencies Using Electric Dipole Moments'
+semantic_tags:
+  - Molecular geometry
+  - Electric dipole moment
+  - Vector analysis
+  - Covalency
+  - Molecular structure
+tldr: The authors present a method for determining the angles between covalencies in molecules using measurements of electric dipole moments. They discuss the basis of this method, its applications, and potential errors. The authors provide examples of how this method can be used to calculate angles between covalencies in various compounds, such as methylene chloride, bromide, and iodide, and chloroform, bromoform, and iodoform.
+scientific_discipline: Chemistry > Molecular Geometry

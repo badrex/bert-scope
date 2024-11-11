@@ -1,0 +1,10 @@
+article_id: rspa_1913_0082
+revised_title: The Crystal Structure Determination Using X-ray Diffraction
+semantic_tags:
+  - X-ray crystallography
+  - Crystal structure
+  - Diffraction
+  - Atomic weight
+  - Quantum energy
+tldr: The authors, W. H. Bragg and W. L. Bragg, studied the reflection of X-rays by crystals and discovered that the wave-length of a homogeneous beam of X-rays can be found accurately in terms of the spacing of the elements of a crystal. This method of investigating crystal structure led to a more definite knowledge of the arrangement of atoms within crystals. The authors also found that the quantum energies of X-rays were proportional to their frequencies and related to the atomic weight of the elements they were emitted from.
+scientific_discipline: Physics > Optics

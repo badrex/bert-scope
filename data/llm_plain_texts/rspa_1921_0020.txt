@@ -1,0 +1,10 @@
+article_id: rspa_1921_0020
+revised_title: Mercer's Theory on Linear Transformations and Functions of Positive Type
+semantic_tags:
+  - Linear transformations
+  - Functions of positive type
+  - Quadratic forms
+  - Hilbertian space
+  - Symmetric transformations
+tldr: The article discusses the theory of linear transformations and functions of positive type. It explores how these functions can be expanded using bi-orthogonal fundamental functions and how linear transformations can be applied to these functions. The author also introduces the concept of symmetric-couples and well-defined linear functions, and provides examples of their applications.
+scientific_discipline: Mathematics > Linear Algebra

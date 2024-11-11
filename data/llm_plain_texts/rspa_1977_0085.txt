@@ -1,0 +1,10 @@
+article_id: rspa_1977_0085
+revised_title: 'Investigation of Algebraically Special Spaces with Two Commuting Killing Vectors'
+semantic_tags:
+  - Differential Geometry
+  - General Relativity
+  - Algebraic Geometry
+  - Symmetry in Physics
+  - Einstein's Field Equations
+tldr: This article investigates algebraically special spaces with two commuting Killing vectors in the context of empty Einstein spaces. The authors reduce the field equations for these spaces to two ordinary differential equations and find that the type metrics of Kinnersley can be expressed in various coordinates, including those of Plebanski and Demianski.
+scientific_discipline: Mathematics > Differential Geometry

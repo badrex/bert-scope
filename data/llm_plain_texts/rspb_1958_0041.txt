@@ -1,0 +1,10 @@
+article_id: 'rspb_1958_0041'
+revised_title: 'Indigoid Dyes: Structure, Solubility, and Association in Cytochemical Staining'
+semantic_tags:
+  - Dye Chemistry
+  - Enzyme Cytochemistry
+  - Indigoid Dyes
+  - Molecular Association
+  - Staining Reactions
+tldr: This article investigates the relationship between solubility, molecular association, and structure in indigoid dyes, which are used in enzyme cytochemistry for staining reactions. The study finds that indigo and its 5:5'- and 6:6'-substituted derivatives have lower solubilities due to edge-to-edge hydrogen-bonded association, while 4:4'- and 7:7'-substituted dyes have higher solubilities. The findings can help improve the design of indigogenic methods for enzyme localization in cytochemical staining.
+scientific_discipline: Chemistry > Dye Chemistry

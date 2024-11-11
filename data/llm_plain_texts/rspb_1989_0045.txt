@@ -1,0 +1,9 @@
+article_id: 'rspb_1989_0045'
+revised_title: 'Characterization of Calcium-Activated, Voltage-Dependent Cation Currents in Endosperm Plasma Membrane'
+semantic_tags:
+  - Ion channels
+  - Plant physiology
+  - Calcium signaling
+  - Membrane potential
+  - Endosperm
+tldr: The article investigates the electrophysiological behavior of plasma membranes in endosperm protoplasts from higher plants. It describes the characteristics of a non-selective monovalent cation channel with a single-channel conductance of 22 pS, which is activated by calcium and voltage changes. The channel plays a role in cell division and cellular polarity in plants.

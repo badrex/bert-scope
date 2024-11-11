@@ -1,0 +1,10 @@
+article_id: 110281
+revised_title: Determining the Thickness of Solid Substances Using Magnetic Deviations
+semantic_tags:
+  - Magnetism
+  - Geophysics
+  - Mining
+  - Engineering
+  - Thickness measurement
+tldr: The author, William Scoresby, discovered that the magnetic influence transmitted through solid substances could be used to accurately estimate the thickness of substances that were otherwise difficult to measure. He conducted various experiments to determine the degree of accuracy attainable by this method and found it highly advantageous in mining operations and engineering. The author also discussed the practical applications of this method in tunneling, mining, and determining the thickness of solid masses in situations where direct measurement was impossible.
+scientific_discipline: Earth Sciences > Geophysics

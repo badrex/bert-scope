@@ -1,0 +1,10 @@
+article_id: 112331
+revised_title: Temperature Influence on Electric Conducting-Power of Alloys
+semantic_tags:
+  - Thermoelectricity
+  - Alloy properties
+  - Temperature effects
+  - Electrical conductivity
+  - Material science
+tldr: This paper investigates the impact of temperature on the electric conducting-power of alloys. The authors, A. Matthiessen and C. Vogt, divide their study into four parts, examining alloys with two and three metals. They develop a formula to calculate the conducting-power of an alloy based on its composition and resistance at any temperature. The findings show that most alloys, whether composed of two or three metals, follow the same law regarding the influence of temperature on their conducting-power.
+scientific_discipline: Physics > Material Science

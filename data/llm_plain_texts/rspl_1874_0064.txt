@@ -1,0 +1,10 @@
+article_id: rspl_1874_0064
+revised_title: Effects of Stress on Magnetization and Metal Properties
+semantic_tags:
+  - Electromagnetism
+  - Magnetization
+  - Metal properties
+  - Magnetic materials
+  - Ballistic galvanometer
+tldr: This article investigates the electrodynamic qualities of metals and the effects of stress on magnetization. The author, Sir W. Thomson, uses a ballistic galvanometer to measure electromagnetic induction in various metals, including steel and soft-iron wires. The results show that magnetization is affected by the weight placed on the metal, with the residual magnetism being diminished when weights are added. The study also highlights the differences in magnetic properties between different types of metal wires and the need for further research to understand these differences.
+scientific_discipline: Physics > Electromagnetism

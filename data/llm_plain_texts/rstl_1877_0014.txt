@@ -1,0 +1,10 @@
+article_id: 'rstl_1877_0014'
+revised_title: 'Investigation of Friction between Surfaces at Low Velocities'
+semantic_tags:
+  - Friction
+  - Surface properties
+  - Kinetic friction
+  - Static friction
+  - Velocity dependence
+tldr: This article presents an investigation of the friction between surfaces in motion at low speeds. The authors designed a unique apparatus to measure the friction between various materials as the velocity decreased from approximately 1 to 0.3 feet per second. They found that in cases where static friction significantly exceeded kinetic friction, the kinetic friction gradually increased as the velocity diminished, suggesting a continuity between the two types of friction.
+scientific_discipline: Physics > Mechanics

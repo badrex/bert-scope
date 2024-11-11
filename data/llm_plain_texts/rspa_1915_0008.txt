@@ -1,0 +1,10 @@
+article_id: rspa_1915_0008
+revised_title: 'Development of an Electrically Heated High-Temperature Radiator'
+semantic_tags:
+  - Radiant heat
+  - Radiative heat transfer
+  - Thermocouple
+  - High-temperature furnace
+  - Radiant heat measurement
+tldr: The authors developed an electrically heated high-temperature full radiator for accurate measurements in radiant heat transfer experiments. They described the radiator's design, the method of electrical winding, and the temperature measurement techniques. The radiator's efficiency was compared to a traditional Herseus furnace, showing that the new design provided better uniformity and efficiency in radiant heat transfer experiments.
+scientific_discipline: Engineering and Technology > Heating and Refrigeration Systems

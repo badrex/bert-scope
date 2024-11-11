@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0161'
+revised_title: 'The Role of Shape and Colour in Perceiving Sex and Race of Faces'
+semantic_tags:
+  - Face recognition
+  - Shape perception
+  - Colour perception
+  - Categorization
+  - Human perception
+tldr: This study investigates the role of shape and colour information in recognizing the sex and race of faces. The authors used novel technology to separate shape and colour data and found that both shape and colour provide useful information for categorization decisions. Shape information was particularly useful for race decisions, while colour dominated sex decisions. The results have implications for understanding face recognition and potential applications in telecommunications.
+scientific_discipline: Psychology > Perception

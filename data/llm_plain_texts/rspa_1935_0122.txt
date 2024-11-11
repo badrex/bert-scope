@@ -1,0 +1,10 @@
+article_id: rspa_1935_0122
+revised_title: 'Superlattice Theory and Ferromagnetism Analogies'
+semantic_tags:
+  - Superlattices
+  - Ferromagnetism
+  - Statistical mechanics
+  - Crystallography
+  - Order and disorder in materials
+tldr: The authors explore the statistical theory of superlattices, which are materials with a regular arrangement of atoms at low temperatures. They compare the phenomena to ferromagnetism and discuss the order of neighbors and the order of the crystal as a whole. The authors also analyze the effect of fluctuations in atomic configurations and the interaction between neighboring atoms in one, two, and three dimensions.
+scientific_discipline: Physics > Condensed Matter Physics

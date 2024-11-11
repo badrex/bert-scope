@@ -1,0 +1,10 @@
+article_id: rspa_1976_0139
+revised_title: 'Catalysis by Polyelectrolytes: Acceleration of Electron Transfer Reactions of Co Complexes'
+semantic_tags:
+  - Electron transfer reactions
+  - Polyelectrolytes
+  - Catalysis
+  - Co complexes
+  - Bronsted-Bjerrum-Manning theory
+tldr: The article investigates the influence of anionic and cationic polyelectrolytes on electron transfer reactions of Co complexes. It shows that anionic polyelectrolytes accelerate the reactions, while cationic polyelectrolytes have a smaller effect. The results are in agreement with the Bronsted-Bjerrum-Manning theory, which explains the rate enhancement due to changes in the free energies of the reactants and the activated complex caused by polyions.
+scientific_discipline: Chemistry > Electrochemistry

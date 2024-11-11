@@ -1,0 +1,10 @@
+article_id: rspa_1911_0005
+revised_title: Electric Force Distribution in the Crookes Dark Space
+semantic_tags:
+  - Electric force
+  - Crookes dark space
+  - Cathode rays
+  - Potential distribution
+  - Gas discharge
+tldr: The authors conducted experiments to determine the distribution of electric force in the Crookes dark space using a beam of cathode rays. They found that the electric force in the dark space is inversely proportional to the distance from the edge of the negative glow. The total fall of potential across the dark space is mainly distributed within it in the form of a continuous parabolic field.
+scientific_discipline: Physics > Electromagnetism

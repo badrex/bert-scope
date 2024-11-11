@@ -1,0 +1,10 @@
+article_id: rspa_1954_0134
+revised_title: 'Mechanical Radiator Impedance in a Semi-Infinite Isotropic Solid'
+semantic_tags:
+  - Solid mechanics
+  - Wave propagation
+  - Elasticity
+  - Fourier transform
+  - Boundary conditions
+tldr: The authors present definite integral representations for the field at any point in a semi-infinite solid due to stresses on the free surface that vary sinusoidally with time. They consider various types of mechanical radiators and derive expressions for the radiation impedance. The results are presented in the form of polar diagrams and evaluated through numerical quadrature in several cases.
+scientific_discipline: Physics > Solid mechanics

@@ -1,0 +1,10 @@
+article_id: rspa_1994_0068
+revised_title: Three-Dimensional Gravity-Driven Free Surface Flows of Granular Avalanches
+semantic_tags:
+  - Granular materials
+  - Avalanche dynamics
+  - Coulomb dry friction
+  - Mohr-Coulomb yield criterion
+  - Three-dimensional continuum modeling
+tldr: This article presents a three-dimensional extension of the Savage-Hutter model for granular avalanches, which considers gravity-driven free surface flows of piles of granular materials along bottom profiles that are weakly curved downward and plane laterally. The model uses a Coulomb dry friction law at the base and a Mohr-Coulomb plastic yield criterion in the interior, allowing for the derivation of depth-averaged dynamic equations that describe the temporal evolution of the height and depth-averaged horizontal velocity components as functions of position and time. The model is suitable for dense flow avalanches of snow or ice and can be applied to various types of granular materials.
+scientific_discipline: Environmental and Earth Sciences > Geophysics and Geodynamics

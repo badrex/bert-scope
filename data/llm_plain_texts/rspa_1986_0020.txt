@@ -1,0 +1,10 @@
+article_id: rspa_1986_0020
+revised_title: Quantitative Determination of HF Bond Lengthening in Hydrogen-Bonded Dimers
+semantic_tags:
+  - Chemistry
+  - Molecular Bonding
+  - Hydrogen Bonding
+  - Spectroscopy
+  - Quantum Chemistry
+tldr: The authors present a method to determine the lengthening of the HF bond in hydrogen-bonded dimers for the first time. They use ground-state hyperfine coupling constants and nuclear quadrupole coupling constants from the rotational spectra of the molecules to establish the values for a series of heterodimers. The results show that the bond lengthening is a monotonically increasing function of the hydrogen-bond stretching force constant, which serves as a measure of the hydrogen bond strength.
+scientific_discipline: Chemistry > Molecular Bonding

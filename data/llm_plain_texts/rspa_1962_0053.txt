@@ -1,0 +1,10 @@
+article_id: rspa_1962_0053
+revised_title: 'Systematic Approximations for the Interior Problem of General Shell Theory'
+semantic_tags:
+  - Elasticity
+  - Shell Theory
+  - Thin Shells
+  - Approximations
+  - Boundary Conditions
+tldr: The author presents a method for obtaining systematic approximations for the interior problem of general shell theory from the three-dimensional equations of infinitesimal elasticity. The method focuses on major terms in these approximations and can be used to derive a consistent first approximation in shell theory, which may serve as a basis for further systematic approximations if needed.
+scientific_discipline: Engineering and Technology > Mechanics and Materials

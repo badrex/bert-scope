@@ -1,0 +1,10 @@
+article_id: rspa_1972_0040
+revised_title: 'Dispersion of Non-Uniformly Distributed Time-Variable Continuous Sources in Time-Dependent Flow: A Superposition Integral'
+semantic_tags:
+  - Fluid Dynamics
+  - Convective Diffusion
+  - Time-Dependent Flow
+  - Superposition Integral
+  - Laminar Flow
+tldr: The authors developed a superposition integral to analyze the dispersion of non-uniformly distributed time-variable continuous sources in time-dependent flow. This method reduces to the conventional superposition integral when coefficients are time-independent. The study focuses on unsteady dispersion in a tube with steady laminar flow and provides numerical results and approximations for mean concentration. The research has practical applications in material and thermal pollution, tracer injection, and mass transfer in various environments.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: 'rspa_1929_0163'
+revised_title: 'Compton Scattering and Fermi-Dirac Statistics'
+semantic_tags:
+  - Quantum Mechanics
+  - Statistical Mechanics
+  - Compton Scattering
+  - Fermi-Dirac Statistics
+  - Electron Gas
+tldr: The authors analyze the Compton scattering process and extend it to consider the interactions between radiation quanta and an electron gas. They use Fermi-Dirac statistics to describe the distribution of electrons in a conductor and predict that the intensity of the scattered radiation follows an exponential distribution. The theory also suggests that temperature and magnetic fields have no influence on Compton scattering.
+scientific_discipline: Physics > Quantum Mechanics

@@ -1,0 +1,10 @@
+article_id: 'rspa_1985_0062'
+revised_title: 'Vibrational Satellites in the Rotational Spectrum of Hydrogen-Bonded Homodimer HCN \#x2022; \#x2022; HCN'
+semantic_tags:
+  - Spectroscopy
+  - Hydrogen bonding
+  - Vibrational satellites
+  - Rotational spectrum
+  - Hydrogen cyanide dimer
+tldr: The article investigates the vibrational satellites in the rotational spectrum of the hydrogen-bonded homodimer HCN \#x2022; \#x2022; HCN. The authors use a combination of Stark-modulation and pulsed-nozzle, Fourier-transform microwave spectroscopies to analyze the complex vibrational satellite series in the hydrogen cyanide dimer's spectrum. They find that the vibrational satellite pattern is dominated by progressions in the hydrogen-bond stretching mode and the hydrogen-bond bending modes. The study provides insights into the hydrogen-bond potential functions and electrical changes that accompany dimer formation.
+scientific_discipline: Chemistry > Spectroscopy

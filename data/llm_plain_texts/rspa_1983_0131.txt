@@ -1,0 +1,10 @@
+article_id: rspa_1983_0131
+revised_title: 'Thermal Explosion Initiation by Steady Intense Light: A Comprehensive Study'
+semantic_tags:
+  - Thermal explosion
+  - Light-initiated explosions
+  - Heat balance equation
+  - Dimensionless heat evolution rate
+  - Critical conditions
+tldr: This article investigates the initiation of thermal explosions by steady intense light, focusing on the critical conditions and the dependence of these conditions on the intensity of the light. The authors develop a model for the steady problem and provide numerical and graphical results for the important parameters involved, such as the Frank-Kamenetskii parameter and the corresponding critical values. The study aims to improve our understanding of thermal explosion initiation and help in predicting and controlling such events.
+scientific_discipline: Physics > Thermodynamics

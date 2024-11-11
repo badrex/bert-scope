@@ -1,0 +1,10 @@
+article_id: rspa_1931_0010
+revised_title: The Chemical Constant of Hydrogen Vapour and the Entropy of Crystalline Hydrogen
+semantic_tags:
+  - Statistical mechanics
+  - Thermodynamics
+  - Hydrogen chemistry
+  - Einstein-Bose statistics
+  - Nernst's heat theorem
+scientific_discipline: Chemistry > Thermodynamics
+tldr: The authors investigate the chemical constant of hydrogen vapour and the entropy of crystalline hydrogen using statistical mechanics and Einstein-Bose statistics. They find that the chemical constant is in excellent agreement with experimental values and discuss the effect of temperature on the composition of mixed crystals of para- and ortho-hydrogen. The authors also calculate the difference between the entropies of different sorts of crystalline hydrogen at absolute zero.

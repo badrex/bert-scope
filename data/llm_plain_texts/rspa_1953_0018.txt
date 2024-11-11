@@ -1,0 +1,10 @@
+article_id: rspa_1953_0018
+revised_title: Precise Technique for Determining Nuclear Reaction Energies
+semantic_tags:
+  - Nuclear Physics
+  - Spectrometry
+  - Nuclear Reaction Energies
+  - Magnetic Fields
+  - Nuclear Resonance
+tldr: The authors developed a precise technique for determining nuclear reaction energies using a magnetic spectrometer. They measured the effective diameter and magnetic field of the spectrometer, and used a proportional counter as a detector. The technique allowed them to obtain accurate values for reaction energies and improve the precision of nuclear reaction measurements.
+scientific_discipline: Physics > Nuclear Physics

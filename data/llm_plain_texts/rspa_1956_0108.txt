@@ -1,0 +1,10 @@
+article_id: 'rspa_1956_0108'
+revised_title: 'Epitaxial Crystal Growth: Nucleus Orientation and Subsequent Growth'
+semantic_tags:
+  - Crystal Growth
+  - Epitaxy
+  - Crystallography
+  - Nucleation
+  - Substrate Influence
+tldr: The authors conducted experiments on the growth of crystals, such as methylene blue, ammonium iodide, and sodium nitrate, on various substrates like mica and calcite. They discovered that the substrate only determines the orientation of the first few atoms in the nucleus, and the further growth of the nucleus is no longer influenced by the substrate surface structure. This suggests that the preference of solute molecules for their own solid-state form over the substrate surface occurs once the deposit seeds have been formed.
+scientific_discipline: Chemistry > Crystallography

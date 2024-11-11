@@ -1,0 +1,10 @@
+article_id: rspa_1982_0119
+revised_title: Solving the Antiferromagnetic Square-Lattice Potts Model
+semantic_tags:
+  - Statistical mechanics
+  - Potts model
+  - Antiferromagnetism
+  - Critical temperature
+  - Six-vertex model
+tldr: The author solves the antiferromagnetic square-lattice Potts model, discovering a new solvable case when the criticality condition is met. The critical temperature and free energy are evaluated, and the internal energy is found to have two values depending on the direction of the temperature change, indicating a first-order transition with latent heat.
+scientific_discipline: Physics > Statistical mechanics

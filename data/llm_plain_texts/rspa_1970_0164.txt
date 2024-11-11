@@ -1,0 +1,10 @@
+article_id: rspa_1970_0164
+revised_title: Design Challenges and Solutions for Compressor Blades with Fibrous Composites
+semantic_tags:
+  - Composites
+  - Materials Science
+  - Aero Engine Design
+  - Structural Mechanics
+  - Fibrous Materials
+tldr: This article discusses the challenges and solutions in designing compressor blades for aero engines using fibrous composites, such as carbon fiber-resin materials. The author highlights issues related to blade geometry, directional strength, environmental conditions, and stress exposure. The article also explores the importance of understanding interlaminar shear strength and joint design in creating efficient and reliable composite structures.
+scientific_discipline: Engineering and Technology > Materials Science

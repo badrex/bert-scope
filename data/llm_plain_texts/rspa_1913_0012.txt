@@ -1,0 +1,10 @@
+article_id: rspa_1913_0012
+revised_title: 'Electric Wave Propagation and Junction Effects in Conductors'
+semantic_tags:
+  - Electromagnetic Waves
+  - Waveguides
+  - Conductors
+  - Boundary Conditions
+  - Junctions
+tldr: The author investigates the propagation of electric waves along conductors and the effects of junctions on this propagation. They develop a method to analyze the problem, considering the wave-length to be large in comparison to the dimensions of the conductor. The author finds that the electric forces and magnetic forces obey the laws of electrostatics and that the currents in the conductors are equal. This method can be applied to more complex problems involving multiple wires and sheaths.
+scientific_discipline: Physics > Electromagnetism

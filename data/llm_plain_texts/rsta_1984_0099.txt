@@ -1,0 +1,10 @@
+article_id: 'rsta_1984_0099'
+revised_title: 'Nonlinear Optical Properties of Semiconductors: Many-Body Theory and Applications'
+semantic_tags:
+  - Semiconductor physics
+  - Optical nonlinearities
+  - Many-body theory
+  - Excitons
+  - Optical bistability
+tldr: This article discusses the various many-body effects that contribute to the optical nonlinearities of semiconductors near the band edge. The authors explore band filling, screening, band-gap shrinkage, energy broadening, and excitonic enhancement, and their impact on optical properties such as absorption, refraction, and reflection. They also describe the role of radiative self-energies in determining transition rates and the potential for optical bistability in semiconductor materials.
+scientific_discipline: Physics > Condensed Matter Physics

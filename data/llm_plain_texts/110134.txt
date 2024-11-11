@@ -1,0 +1,10 @@
+article_id: 110134
+revised_title: 'Electrical and Magnetic Rotations: Experiments and Theories'
+semantic_tags:
+  - Electromagnetism
+  - Electricity
+  - Rotation
+  - Magnetic Phenomena
+  - Induction
+tldr: The author, Charles Babbage, conducted experiments to explore the relationship between electricity and magnetism. He discovered that rotations could be produced by electrifying objects and rotating them near a plate, and that the effect was more pronounced with slower rotations. Babbage also observed that screens and heat could influence the rotations, and he proposed a theory based on the non-instantaneous communication of electricity.
+scientific_discipline: Physics > Electromagnetism

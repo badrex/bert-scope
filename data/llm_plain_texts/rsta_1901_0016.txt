@@ -1,0 +1,10 @@
+article_id: 'rsta_1901_0016'
+revised_title: 'The Action of Magnetised Electrodes on Electrical Discharge Phenomena in Rarefied Gases'
+semantic_tags:
+  - Plasma physics
+  - Electromagnetism
+  - Gas discharge
+  - Ionization
+  - Magnetic fields
+tldr: The author investigates the effects of magnetised electrodes on electrical discharge phenomena in rarefied gases. They observe a luminous ring forming around the magnetic electrodes, which rotates rapidly. The brightness of the light emitted by the ring depends on the intermittent discharge occurring within the bulb. The author concludes that the ring consists of negative ions streaming towards the strongest part of the magnetic field.
+scientific_discipline: Physics > Electromagnetism

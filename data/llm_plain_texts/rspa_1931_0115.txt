@@ -1,0 +1,10 @@
+article_id: rspa_1931_0115
+revised_title: 'Stability of Superposed Fluids with Variable Density and Velocity'
+semantic_tags:
+  - Fluid dynamics
+  - Hydrodynamics
+  - Wave stability
+  - Density gradients
+  - Fluid mechanics
+tldr: This article investigates the stability of superposed fluids with varying density and velocity. The author examines the effect of density gradients on the stability of fluid layers and the behavior of waves in these systems. The study focuses on various cases, including two-fluid systems, three-fluid systems, and four-fluid systems, and provides insights into the conditions for wave stability and instability.
+scientific_discipline: Physics > Fluid mechanics

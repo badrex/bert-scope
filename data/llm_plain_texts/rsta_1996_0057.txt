@@ -1,0 +1,10 @@
+article_id: rsta_1996_0057
+revised_title: High-Pressure and High-Temperature Research: Compression Mechanisms and Equations of State in Earth's Deep Interior
+semantic_tags:
+  - Geophysics
+  - Earth's Interior
+  - High-Pressure Research
+  - Equations of State
+  - Mineralogy
+tldr: This article discusses the development of equations of state to describe the pressure changes of solids and their applications in understanding Earth's deep interior. The authors test the Birch-Murnaghan equation, which is widely used to describe the behavior of minerals under compression, by comparing it with experimental data. They find that the equation works well for simple structures but may not accurately describe more complex structures, highlighting the need for further research and development of more accurate equations of state.
+scientific_discipline: Physics > Geophysics

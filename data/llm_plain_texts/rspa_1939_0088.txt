@@ -1,0 +1,10 @@
+article_id: 'rspa_1939_0088'
+revised_title: 'The Mobility of Alkali Ions in Water Vapour: A Study of Alkali Ions in Gases'
+semantic_tags:
+  - Ion mobility
+  - Alkali ions
+  - Water vapour
+  - Gas electrolytes
+  - Cluster dynamics
+tldr: The authors studied the mobility of alkali ions in water vapour and found that the mobility decreases slightly with increasing mass of the alkali atom at low field-pressure values. However, the sequence changes entirely when the field-pressure is significantly increased. The results are explained by the gradual breakup of the cluster of molecules attached to the ion as its kinetic energy increases, depending on the energy of dissociation of a water molecule from an alkali ion and the change in the ion's mass due to the loss of a water molecule from the cluster.
+scientific_discipline: Chemistry > Physical Chemistry

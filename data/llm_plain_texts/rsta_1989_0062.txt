@@ -1,0 +1,10 @@
+article_id: rsta_1989_0062
+revised_title: Wavelength-Division Multiplexing Techniques in Broadband Optical Networks
+semantic_tags:
+  - Optical Communications
+  - WDM Techniques
+  - Optical Networking
+  - Local Access Networks
+  - Multicarrier Optical Systems
+tldr: This article discusses the advantages of wavelength-division multiplexing (WDM) techniques in upgrading shared-access optical networks. WDM allows for the provision of new broadband services without disrupting existing telephony services. The author examines various network structures and their upgrade strategies, comparing WDM with time-division multiplexing. The article concludes that WDM is particularly suitable for delivering high-bit-rate services like uncompressed video and high-definition television.
+scientific_discipline: Engineering and Technology > Optical Communications

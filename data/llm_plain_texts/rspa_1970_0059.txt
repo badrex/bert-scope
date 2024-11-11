@@ -1,0 +1,10 @@
+article_id: rspa_1970_0059
+revised_title: 'Experimental Study of Dispersion in Transitional Flow through Straight Tubes'
+semantic_tags:
+  - Fluid Dynamics
+  - Turbulence
+  - Mass Transfer
+  - Gas Dispersion
+  - Transition Flow
+tldr: This study investigates the dispersion of matter in transitional flow through straight tubes using three gaseous systems. The researchers compared their experimental results with Taylor's theory, which was updated with an improved velocity profile. They found that the theory is adequate beyond the transition regime, but the interpretation of results cannot be quantitatively satisfactory due to the lack of precise data on turbulent transfer of matter. The researchers also observed that dispersion in the transition regime is influenced by turbulent slugs, but experimental results are surprisingly close to predictions from the turbulent flow theory.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

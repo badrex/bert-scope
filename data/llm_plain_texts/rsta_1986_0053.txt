@@ -1,0 +1,10 @@
+article_id: 'rsta_1986_0053'
+revised_title: 'Protein Engineering of Tyrosyl-tRNA Synthetase: Identifying Residues in Contact with tRNA'
+semantic_tags:
+  - Protein engineering
+  - tRNA synthetase
+  - Molecular biology
+  - Enzyme kinetics
+  - Protein structure
+tldr: The authors used protein engineering techniques to identify residues in the tyrosyl-tRNA synthetase enzyme that are in contact with the tRNA molecule. By altering specific amino acids, they found that some mutations affected the enzyme's activity, providing insights into the enzyme's structure and function. The study also suggests a model for tRNA binding, showing how the acceptor stem and other regions of the tRNA interact with the enzyme.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

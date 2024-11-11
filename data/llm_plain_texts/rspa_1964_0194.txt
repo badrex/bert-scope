@@ -1,0 +1,10 @@
+article_id: rspa_1964_0194
+revised_title: Ariel I Satellite: A Discussion on its Scientific Laboratory and Performance
+semantic_tags:
+  - Space Science
+  - Satellite Technology
+  - Ionosphere Research
+  - Spacecraft Electronics
+  - Spacecraft Structure
+tldr: The authors discuss the Ariel I satellite, a scientific laboratory designed to study the ionosphere and its relationship with the Sun. They describe the satellite's power system, electronics, structure, and associated hardware, as well as its performance in orbit. The satellite's various experiments provided valuable data, but some equipment experienced malfunctions and data loss during its operation.
+scientific_discipline: Engineering and Technology > Spacecraft Engineering

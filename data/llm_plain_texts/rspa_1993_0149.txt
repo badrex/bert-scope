@@ -1,0 +1,10 @@
+article_id: rspa_1993_0149
+revised_title: Spectral Representations of Polynomial Operator Pencils via Laplace Transform
+semantic_tags:
+  - Operator Pencils
+  - Laplace Transform
+  - Spectral Theory
+  - Linear Operators
+  - Eigenvalue Problems
+tldr: The authors derive the spectral representation of polynomial operator pencils using the Laplace transform. They convert the eigenvalue problem into an initial-value problem and obtain the spectral representation in the form of an inverse Laplace transform of the Green's operator associated with the operator pencil. This method provides a simple and systematic approach to non-standard eigenvalue problems for linear operators.
+scientific_discipline: Mathematics > Linear Algebra

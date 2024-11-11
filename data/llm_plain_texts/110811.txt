@@ -1,0 +1,10 @@
+article_id: 110811
+revised_title: Analytical Methods for Summation of Algebraic Series and Factorial Expressions
+semantic_tags:
+  - Algebraic series
+  - Factorial expressions
+  - Mathematical analysis
+  - Number theory
+  - Taylor's theorem
+tldr: The author, W. Tate, investigates methods for the summation of algebraic series, leading to the discovery of propositions related to factorials and the decomposition of fractions. Additionally, he provides a new demonstration of Taylor's theorem.
+scientific_discipline: Mathematics > Algebraic series and Number theory

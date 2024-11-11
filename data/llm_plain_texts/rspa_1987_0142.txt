@@ -1,0 +1,10 @@
+article_id: rspa_1987_0142
+revised_title: Acoustic Scattering by Finite Nonlinear Elastic Plates: Primary, Secondary, and Combination Resonances
+semantic_tags:
+  - Elastic plates
+  - Acoustic scattering
+  - Nonlinear elasticity
+  - Resonance phenomena
+  - Fluid-structure interaction
+tldr: This study investigates the interaction between acoustic waves and finite elastic plates, focusing on primary, secondary, and combination resonances. The research uses the method of multiple scales to analyze the scattered field and demonstrates that the scattered wave can exhibit jumps in amplitude and phase as it varies with frequency, incident-wave angle, or incident-wave amplitude. The nonlinearity in the plate equation allows for secondary and combination resonances, which are investigated in the paper.
+scientific_discipline: Engineering and Technology > Mechanical Engineering > Acoustics and Vibration

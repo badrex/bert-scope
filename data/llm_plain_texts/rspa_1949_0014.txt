@@ -1,0 +1,10 @@
+article_id: 'rspa_1949_0014'
+revised_title: 'Crystal-Boundary Phenomena in Metals: Direction of Boundary Formation and Macro-Mosaic Effect'
+semantic_tags:
+  - Crystal Growth
+  - Metal Physics
+  - Solid-Liquid Equilibrium
+  - Crystallography
+  - Boundary Migration
+tldr: The authors describe techniques for creating controlled crystal boundaries in tin and lead, and analyze the direction of boundary formation and the'macro-mosaic' effect. They explain that the direction of boundary growth depends on the relative orientations of the crystal axes and is due to a variation in the solid-liquid equilibrium temperature with the crystallographic characteristics of the solid surface. The'macro-mosaic' effect is observed in the secondary structure of the crystals, and the authors demonstrate that crystal boundaries can move at temperatures near the melting point without plastic strain if the boundary area is reduced.
+scientific_discipline: Physics > Materials Science

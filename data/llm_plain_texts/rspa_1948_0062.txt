@@ -1,0 +1,10 @@
+article_id: rspa_1948_0062
+revised_title: 'Interaction of Mesons with a Potential Field: A Study of the Sakata-Taketani Wave Equation'
+semantic_tags:
+  - Particle Physics
+  - Quantum Mechanics
+  - Electromagnetic Interaction
+  - Mesons
+  - Quantum Field Theory
+tldr: This article explores the interaction of mesons with a potential field using the Sakata-Taketani wave equation. The author develops the wave equation and discusses the behavior of charged vector mesons in an electromagnetic field. The article focuses on the motion of mesons in a central field and the radial wave equations, providing a foundation for understanding meson interactions and scattering phenomena.
+scientific_discipline: Physics > Particle Physics

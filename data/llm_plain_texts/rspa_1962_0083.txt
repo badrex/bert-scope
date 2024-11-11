@@ -1,0 +1,10 @@
+article_id: rspa_1962_0083
+revised_title: 'Particle Behavior in Shear and Electric Fields: Rigid Rods and Spherical Doublets'
+semantic_tags:
+  - Fluid Mechanics
+  - Electromechanics
+  - Particle Dynamics
+  - Rheology
+  - Sols, Emulsions, and Suspensions
+tldr: This study investigates the rotation and orientation of rigid conducting rods and spherical doublets in a dielectric liquid under combined shear and electric fields. The research provides a theoretical analysis and experimental results, which help to understand the behavior of particles in electrical and streaming double refraction, and the rheology and stability of sols, emulsions, and suspensions.
+scientific_discipline: Physics > Fluid Mechanics

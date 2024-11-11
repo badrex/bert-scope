@@ -1,0 +1,10 @@
+article_id: rspa_1949_0117
+revised_title: 'Investigation of the Physical Factors Affecting the Ignition of Solid Explosives by Hot Wires'
+semantic_tags:
+  - Explosives
+  - Ignition
+  - Thermal Ignition
+  - Hot Wires
+  - Solid Explosives Ignition Mechanism
+tldr: The authors investigated the physical factors affecting the ignition of solid explosives by heated filaments. They found that the critical energy for ignition increases with the time of heating, and the energy equation for ignition can be formulated. The critical factor governing ignition is the temperature, and the geometry of the heating element determines the amount of explosive that must reach the critical temperature for ignition.
+scientific_discipline: Engineering and Technology > Materials Science and Metallurgy

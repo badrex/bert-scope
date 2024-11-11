@@ -1,0 +1,10 @@
+article_id: rspa_1959_0161
+revised_title: 'Solving the Half-Plane Diffraction Problem for Harmonic Time Dependence'
+semantic_tags:
+  - Diffraction
+  - Electromagnetic Fields
+  - Boundary Value Problems
+  - Green's Functions
+  - Wave Equations
+tldr: The authors present a solution to the half-plane diffraction problem for harmonic time dependence, focusing on rigid and soft screens. They use Green's functions to solve the boundary value problems and provide an elegant solution for both types of screens, which also applies to the general two-dimensional electromagnetic problem for a conducting half-plane.
+scientific_discipline: Physics > Electromagnetism

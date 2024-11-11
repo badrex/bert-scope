@@ -1,0 +1,10 @@
+article_id: rspl_1892_0021
+revised_title: Disproving the Maxwell-Boltzmann Doctrine on Kinetic Energy Distribution
+semantic_tags:
+  - Statistical Mechanics
+  - Thermodynamics
+  - Kinetic Theory
+  - Gas Dynamics
+  - Energy Distribution
+tldr: The author presents a test case that disproves the Maxwell-Boltzmann doctrine regarding the distribution of kinetic energy. The test case involves a system of three bodies, and the author demonstrates that the average kinetic energy of one body is less than the average kinetic energy of another body, contrary to the doctrine's prediction. This finding challenges the assumption that temperature in a solid or liquid is equal to the average kinetic energy per atom, which has been widely taught and used as a fundamental proposition in thermodynamics.
+scientific_discipline: Physics > Thermodynamics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1934_0064'
+revised_title: 'Investigating the Measurability of Visual Sensation'
+semantic_tags:
+  - Psychophysics
+  - Visual perception
+  - Sensation measurement
+  - Brightness perception
+  - Weber-Fechner law
+tldr: 'This study investigates the measurability of visual sensation, focusing on brightness perception. The authors conducted experiments using white light and a method called bisection to determine if it is possible to create a sensation scale for brightness. They found that observers could estimate brightness, but the results did not support the creation of a scale based on just-perceptible-differences, questioning the measurability of visual sensation.'
+scientific_discipline: Psychology > Perception

@@ -1,0 +1,10 @@
+article_id: rspa_1988_0095
+revised_title: 'Maximal Finite Irreducible Subgroups of GL(n, ℤ) and Lattices'
+semantic_tags:
+  - Group Theory
+  - Lattice Theory
+  - Geometry
+  - Linear Algebra
+  - Number Theory
+tldr: The authors present a geometric description of maximal finite irreducible subgroups of GL(n, ℤ) and their corresponding lattices. They classify these subgroups for dimensions 1 to 23 and provide a table summarizing the lattices and their properties. The study of these lattices sheds light on their symmetries, relations, and additional mathematical connections.
+scientific_discipline: Mathematics > Group Theory

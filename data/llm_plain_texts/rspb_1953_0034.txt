@@ -1,0 +1,11 @@
+article_id: 'rspb_1953_0034'
+revised_title: 'Factors Influencing Haemoglobin Synthesis in Daphnia'
+semantic_tags:
+  - 'Haemoglobin synthesis'
+  - 'Daphnia'
+  - 'Temperature effects'
+  - 'Oxygen affinity'
+  - 'Carbon dioxide'
+tldr: 'This study investigates how factors such as temperature, oxygen levels, and carbon dioxide affect haemoglobin synthesis in Daphnia. Researchers found that higher temperatures lead to increased haemoglobin synthesis, likely due to a higher metabolic rate and lower oxygen affinity of haemoglobin at higher temperatures. Carbon dioxide does not have a significant impact on haemoglobin production. Duck faeces and iron salts can also increase haemoglobin synthesis in water with low oxygen content.'
+
+scientific_discipline: Biology and Life Sciences > Zoology

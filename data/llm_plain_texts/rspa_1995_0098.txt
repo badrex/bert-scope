@@ -1,0 +1,10 @@
+article_id: rspa_1995_0098
+revised_title: Two-Dimensional Sound Field Interacting with Compliant Pistons
+semantic_tags:
+  - Acoustics
+  - Fluid dynamics
+  - Compliant pistons
+  - Sound field analysis
+  - Wave equation
+tldr: The article investigates the two-dimensional sound field created by two interacting compliant pistons. The authors develop a mathematical model to analyze the sound field and provide solutions for the potential due to each piston. The study is useful for understanding sound waves interacting with surfaces and has applications in aero- and hydro-acoustics.
+scientific_discipline: Physics > Acoustics

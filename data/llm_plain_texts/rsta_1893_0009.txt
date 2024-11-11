@@ -1,0 +1,10 @@
+article_id: rsta_1893_0009
+revised_title: The Accurate Measurement of Water Composition by Volume
+semantic_tags:
+  - Gas analysis
+  - Chemical composition
+  - Oxygen-hydrogen ratio
+  - Experimental methods
+  - Precision measurements
+tldr: The author conducted experiments to accurately measure the composition of water by volume, focusing on the ratio of oxygen and hydrogen. They used various methods and sources to prepare the gases and developed improved measuring apparatus to increase accuracy. The experiments showed that the ratio of hydrogen to oxygen in water is approximately 2:1.
+scientific_discipline: Chemistry > Gas analysis

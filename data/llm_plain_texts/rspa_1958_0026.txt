@@ -1,0 +1,10 @@
+article_id: rspa_1958_0026
+revised_title: 'Measurement of Very Low Vapour Pressures Using Radioactive Isotopes: Latent Heat of Sublimation of Mercury Diphenyl'
+semantic_tags:
+  - Radioactive isotopes
+  - Vapour pressures
+  - Thermochemistry
+  - Organometallic compounds
+  - Sublimation
+tldr: The authors developed a modified Knudsen effusion system to measure the very low vapour pressures of radioactive compounds, focusing on the latent heat of sublimation of mercury diphenyl. They found a figure of 3.5 kcal/mol for the latent heat of sublimation at 25°C. This research contributes to understanding the thermochemistry of organometallic compounds and estimating the mean energies involved in metal-carbon bonds.
+scientific_discipline: Chemistry > Thermochemistry

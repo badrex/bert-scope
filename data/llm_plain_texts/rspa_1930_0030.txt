@@ -1,0 +1,10 @@
+article_id: rspa_1930_0030
+revised_title: 'Elasticity and Torsional Modulus of Rigidity of Pintsch Crystals of Tungsten'
+semantic_tags:
+  - Crystallography
+  - Elasticity
+  - Tungsten
+  - Torsional Modulus of Rigidity
+  - Young's Modulus
+tldr: The authors investigate the elastic properties of single Pintsch crystals of tungsten using dynamical methods. They observe the periodic times of oscillation in torsion and bending of wires with various orientations to determine the Torsional Modulus of Rigidity and the Longitudinal Young's Modulus. The results show that tungsten crystals exhibit very nearly isotropic elastic properties, with small variations in orientation.
+scientific_discipline: Physics > Materials Science

@@ -1,0 +1,10 @@
+article_id: 'rspa_1951_0041'
+revised_title: 'The Pasteur Effect in Bacterial Cultures: Oxidation-Reduction Processes in Bact. Lactis Aerogenes'
+semantic_tags:
+  - Bacterial Metabolism
+  - Pasteur Effect
+  - Oxidation-Reduction Processes
+  - Microbiology
+  - Aerobic and Anaerobic Growth
+tldr: This study investigates the Pasteur effect in bacterial cultures, specifically in Bact. Lactis Aerogenes. The researchers propose that anaerobic growth requires a new mechanism for re-oxidizing reduced hydrogen carriers, which are usually handled by molecular oxygen in aerobic growth. Oxygen competes with other reactions that consume the primary substrate, leading to the Pasteur effect's characteristic features.
+scientific_discipline: Biology and Life Sciences > Microbiology

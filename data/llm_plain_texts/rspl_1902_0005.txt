@@ -1,0 +1,10 @@
+article_id: rspl_1902_0005
+revised_title: 'Investigation of Repeated Stress and its Effect on Materials'
+semantic_tags:
+  - Materials Science
+  - Fatigue
+  - Mechanical Testing
+  - Stress Analysis
+  - Metals
+tldr: This study investigates a throw-testing machine for reversals of mean stress, focusing on the effects of direct tension and compression on materials. The research, conducted by Osborne Reynolds and J. H. Smith, aimed to test the stress on specimens at high rates, up to 2000 reversals per minute. They found that the limiting range of stress was more rapidly approached using their apparatus compared to previous methods, and that the range of stress for rupture varied with the speed of testing. The study concluded that hard steels would not withstand more reversals of the same stress range as mild steels if the periodicity of the reversals was high.
+scientific_discipline: Engineering and Technology > Materials Science

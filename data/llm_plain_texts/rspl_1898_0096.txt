@@ -1,0 +1,10 @@
+article_id: rspl_1898_0096
+revised_title: 'Experimental Study of Liquid Hydrogen Boiling Point under Reduced Pressure'
+semantic_tags:
+  - Cryogenics
+  - Boiling point
+  - Low temperature physics
+  - Thermometry
+  - Hydrogen
+tldr: The author conducted experiments to determine the boiling point of liquid hydrogen under reduced pressure. Using a resistance thermometer, they found that the boiling point of hydrogen decreased by approximately one degree Celsius when the pressure was reduced to 25 mm of mercury. The results suggest that further investigation is needed to confirm the findings and explore the implications of these observations.
+scientific_discipline: Physics > Cryogenics

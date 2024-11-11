@@ -1,0 +1,11 @@
+article_id: rspa_1971_0074
+revised_title: 'A Comprehensive Model of Acetaldehyde Cool-Flame Oxidation'
+semantic_tags:
+  - Chemical kinetics
+  - Cool flames
+  - Acetaldehyde oxidation
+  - Thermokinetic oscillations
+  - Reaction modeling
+tldr: The authors developed a detailed mathematical model of the non-isothermal oxidation of acetaldehyde, which successfully simulates single and multiple cool flames, ignition, and the negative temperature coefficient for slow combustion. The model takes into account fuel consumption and provides a more realistic representation of cool-flame phenomena, offering a better understanding of the underlying thermokinetic oscillations and self-quenching mechanisms. This study contributes to the development of controlled synthesis routes for organic chemicals and the monitoring of fuel octane numbers in refinery streams.
+scientific_discipline: Chemistry > Chemical kinetics
+```

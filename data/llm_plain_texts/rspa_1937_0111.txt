@@ -1,0 +1,10 @@
+article_id: rspa_1937_0111
+revised_title: 'Energy Loss of Cosmic Ray Particles in Metal Plates: Experimental Method and Results'
+semantic_tags:
+  - Cosmic Rays
+  - Particle Physics
+  - Energy Loss
+  - Metal Plates
+  - Experimental Physics
+tldr: 'This article presents an experimental study of the energy loss of cosmic ray particles in metal plates. The authors used a counter-controlled cloud chamber in a magnetic field to measure the energy loss, finding that the presence of a metal plate caused an increase in chamber distortions. They successfully controlled these distortions and obtained accurate energy measurements. The results showed that the energy loss in aluminum was larger than expected, and no significant differences were found between positive and negative particles in the energy range studied.'
+scientific_discipline: Physics > Particle Physics

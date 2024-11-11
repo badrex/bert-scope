@@ -1,0 +1,10 @@
+article_id: rspl_1873_0085
+revised_title: 'On the Employment of Amsler's Planimeter for Obtaining Mean Values from Meteorological Traces'
+semantic_tags:
+  - Planimeter
+  - Meteorology
+  - Data Analysis
+  - Instrumentation
+  - Weather Observation
+tldr: The author discusses the use of Amsler's Planimeter to measure the area of meteorological curves, such as barograms and thermograms, and obtain mean values for pressure and temperature. This method is more accurate and time-efficient than measuring individual ordinates and calculating their average. The author presents a table comparing the results obtained using the planimeter with those from the traditional method for a period of eight months at Kew Observatory.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

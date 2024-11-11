@@ -1,0 +1,10 @@
+article_id: rspl_1880_0044
+revised_title: 'On the Refraction of Organic Compounds and Definite Integrals'
+semantic_tags:
+  - Refraction
+  - Organic Chemistry
+  - Definite Integrals
+  - Mathematical Physics
+  - Analytical Chemistry
+tldr: The author discusses the refraction of various organic compounds and presents methods for evaluating definite integrals. They explore the relationship between oxygen and other elements in organic compounds and the challenges in determining their refractive indices. The author also explains the importance of summation in evaluating definite integrals and demonstrates how algebraic functions can be transformed into definite integrals.
+scientific_discipline: Chemistry > Organic Chemistry

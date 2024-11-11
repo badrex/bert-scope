@@ -1,0 +1,10 @@
+article_id: 'rstb_1990_0091'
+revised_title: 'Optimizing Auditory Warning Systems in Hazardous Environments'
+semantic_tags:
+  - Auditory warning sounds
+  - Ergonomics
+  - Human factors
+  - Noise reduction
+  - Safety in the workplace
+tldr: This article discusses the importance of optimizing auditory warning systems in hazardous situations to ensure they are effective without causing confusion or distraction. The authors present guidelines for creating efficient warning sounds, including limiting the number of sounds, using distinct melodies and temporal patterns, and determining the optimal sound level for various noise environments. These guidelines have been applied to diverse settings such as aircraft, helicopters, and hospitals.
+scientific_discipline: Psychology > Human Factors

@@ -1,0 +1,10 @@
+article_id: rspa_1952_0164
+revised_title: Spin-Hamiltonian and Line Widths in Nickel Tutton Salts
+semantic_tags:
+  - Spin-Hamiltonian
+  - Magnetic Resonance
+  - Nickel Tutton Salts
+  - Crystal Field Theory
+  - Line Widths
+tldr: The authors present a spin-Hamiltonian model for nickel Tutton salts, which is derived on the assumption that the nickel ions are situated in a field of rhombic symmetry. They discuss the properties of the spin-Hamiltonian and its application to the calculation of line widths in magnetic resonance experiments. The study focuses on nickel ammonium selenate and provides a comparison between the theoretical predictions and experimental results.
+scientific_discipline: Physics > Condensed Matter Physics

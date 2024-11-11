@@ -1,0 +1,10 @@
+article_id: 110106
+revised_title: Improved Hygrometer: Description and Objections
+semantic_tags:
+  - Hygrometry
+  - Atmospheric Science
+  - Meteorology
+  - Temperature Measurement
+  - Dew Point
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science
+tldr: Thomas Jones describes an improved hygrometer that measures the temperature at which dew is deposited from the atmosphere. The instrument's principle is similar to those used by Dalton and Daniell, but it differs in the application of the frigorific action directly to the bulb of the thermometer. Jones addresses an objection to the instrument's use and mentions a similar construction in Vienna.

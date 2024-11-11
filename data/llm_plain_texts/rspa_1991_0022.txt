@@ -1,0 +1,10 @@
+article_id: rspa_1991_0022
+revised_title: HELP Inequalities for Limit-Circle and Regular Problems in Mathematics
+semantic_tags:
+  - Differential Equations
+  - Hardy-Littlewood Inequalities
+  - Titchmarsh-Weyl Function
+  - Limit-Point and Limit-Circle Cases
+  - Spectral Theory
+tldr: This article investigates the Hardy, Everitt, Littlewood, Polya (HELP) inequalities for limit-circle and regular problems in mathematics. The authors study the cases when the associated differential equation is singular at one end-point and in the strong-limit-point case, or when both end-points of the interval are regular. They establish a framework for analyzing the HELP inequalities in these circumstances and obtain results that resemble those in previous work on the regular and limit-circle cases.
+scientific_discipline: Mathematics > Differential Equations

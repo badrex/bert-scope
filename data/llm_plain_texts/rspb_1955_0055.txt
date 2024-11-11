@@ -1,0 +1,10 @@
+article_id: 'rspb_1955_0055'
+revised_title: 'Exploring the Phenomenon of Affinity in Genetic Segregation'
+semantic_tags:
+  - Genetics
+  - Affinity hypothesis
+  - Centromere segregation
+  - Mouse genetics
+  - Evolution
+tldr: The author investigates the phenomenon of affinity in genetic segregation, specifically in hybrids between different subspecies of mice. They suggest that there is a tendency for centromeres of similar ancestral origin to segregate to the same pole of the cell, resulting in apparent linkages between unlinked loci. This phenomenon, called affinity, could have adaptive significance in evolution and is explored further through various experiments and data analysis.
+scientific_discipline: Biology and Life Sciences > Genetics

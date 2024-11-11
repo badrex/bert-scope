@@ -1,0 +1,10 @@
+article_id: rspa_1927_0084
+revised_title: Generalized Sturm-Liouville Expansions in Series of Pairs of Related Functions
+semantic_tags:
+  - Sturm-Liouville theory
+  - Mathematical analysis
+  - Series expansions
+  - Functional analysis
+  - Applied mathematics
+tldr: The authors develop a generalized Sturm-Liouville expansion theory, which involves series of pairs of related functions. They explore the properties of these expansions, including the behavior of characteristic constants and the distribution of roots. This work has applications in various fields of mathematics and physics.
+scientific_discipline: Mathematics > Applied Mathematics

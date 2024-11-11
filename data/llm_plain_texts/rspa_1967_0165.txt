@@ -1,0 +1,10 @@
+article_id: rspa_1967_0165
+revised_title: High-Energy Charge Transfer Theory in Atomic Collisions
+semantic_tags:
+  - Atomic Physics
+  - Nuclear Physics
+  - Particle Collisions
+  - Quantum Mechanics
+  - Scattering Theory
+tldr: The authors develop a new theoretical treatment of charge exchange in high-energy collisions using the Faddeev-Lovelace equations and the simplifications proposed by Dodd and Greider. They apply this theory to the process of electron capture by protons in atomic hydrogen and derive a rigorous first-order expression for the scattering amplitude. They show that the high-energy form of the total cross-section is correctly given by the second Born approximation. The authors also demonstrate that previous treatments based on the impulse approximation and the continuum distorted wave approximation can be derived from their theory with additional assumptions, which are questionable at very high energies.
+scientific_discipline: Physics > Atomic and Nuclear Physics

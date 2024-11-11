@@ -1,0 +1,10 @@
+article_id: rsta_1975_0084
+revised_title: Discovery of Ultraviolet Objects and Their Implications
+semantic_tags:
+  - Astronomy
+  - Ultraviolet Astronomy
+  - Space Density
+  - Interstellar Extinction
+  - Hot Stars
+tldr: The authors conducted a sky survey using the TD-IA satellite to search for ultraviolet objects. They analyzed the data and found that the frequency population of hot objects is much greater than previously thought. The study provides rough limits on space density and luminosity, and suggests that the most probable candidates for these ultraviolet objects are hot subdwarfs, old novae, and planetary nebulae.
+scientific_discipline: Astronomy > Ultraviolet Astronomy

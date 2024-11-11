@@ -1,0 +1,10 @@
+article_id: rsta_1996_0025
+revised_title: Advances in Nonlinear Optics for Information Processing and All-Optical Networking
+semantic_tags:
+  - Nonlinear Optics
+  - Optical Fibers
+  - All-Optical Networking
+  - Soliton Phenomena
+  - Optical Switching
+tldr: This article discusses advances in nonlinear optics for information processing and all-optical networking. It explores soliton phenomena, optical switching technology, and the potential impact of these technologies on future telecommunications networks. The authors review pertinent principles of nonlinear optics and describe recent advances in functionality, such as signal regeneration and programmable routing nodes.
+scientific_discipline: Physics > Optics

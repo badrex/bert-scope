@@ -1,0 +1,10 @@
+article_id: rsta_1965_0005
+revised_title: 'Numerical Calculation of Wave-Fields, Reflexion Coefficients, and Polarizations for Long Radio Waves in the Lower Ionosphere: Part II'
+semantic_tags:
+  - Ionosphere
+  - Radio Waves
+  - Wave Propagation
+  - Electromagnetic Waves
+  - Radio Wave Reflection
+tldr: This article presents a study on the numerical calculation of wave-fields, reflexion coefficients, and polarizations for long radio waves in the lower ionosphere. The authors investigate the effects of changing the ionospheric models and compare the computed results with experimental data. The study aims to deduce the ionization structure from experimental data on long and very long wave propagation.
+scientific_discipline: Physics > Electromagnetism

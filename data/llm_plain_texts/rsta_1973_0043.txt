@@ -1,0 +1,10 @@
+article_id: rsta_1973_0043
+revised_title: 'A Reassessment of Tilt and Strain Measurements in Earth: Challenges and Calibration Techniques'
+semantic_tags:
+  - Seismology
+  - Geophysics
+  - Tilt measurements
+  - Strain measurements
+  - Calibration methods
+tldr: The author discusses the importance of calibration methods in measuring changes of strain in the Earth, focusing on the challenges of tilt and strain measurements. They emphasize the need for deep underground laboratories to minimize noise and improve the accuracy of instruments. The author compares different calibration techniques and analyzes the results of tidal waves, highlighting the effectiveness of quartz pendulums in deriving accurate measurements.
+scientific_discipline: Environmental and Earth Sciences > Geophysics

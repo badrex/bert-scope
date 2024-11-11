@@ -1,0 +1,10 @@
+article_id: rspa_1928_0159
+revised_title: Steam Tables and Equations: Extending to 4,000 lb./sq. in. and 400°C
+semantic_tags:
+  - Thermodynamics
+  - Steam tables
+  - Heat of vaporization
+  - Critical point
+  - Coaggregation theory
+tldr: The author extended the original steam tables and equations by conducting direct experiments up to 4,000 lb./sq. in. and 400°C. They discovered that the existing equations remain accurate in the critical region and can represent critical phenomena with greater accuracy than the van der Waals equation. The author also found that the critical point occurs at a slightly higher temperature than previously thought.
+scientific_discipline: Physics > Thermodynamics

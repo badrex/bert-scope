@@ -1,0 +1,10 @@
+article_id: rspa_1964_0122
+revised_title: Angular Motion of a Freely Falling Rocket: Analysis and Sensor Systems
+semantic_tags:
+  - Spacecraft Dynamics
+  - Attitude Control
+  - Angular Motion
+  - Rocket Science
+  - Space Exploration
+tldr: This article investigates the angular motion of a freely falling rocket and presents an analysis of the motion, including the determination of angular velocities, reference times, and the attitude of the vehicle at any given time. The authors also discuss the various sensor systems used to gather data during the Skylark 43 rocket experiment.
+scientific_discipline: Engineering and Technology > Aerospace Engineering

@@ -1,0 +1,10 @@
+article_id: rspa_1960_0013
+revised_title: 'Investigation of Adhesion Mechanisms in Metal Films on Glass'
+semantic_tags:
+  - Adhesion
+  - Metal Films
+  - Glass
+  - Oxide Layer
+  - Electron Microscopy
+tldr: This study investigates the adhesion of metal films (gold, iron, and aluminum) to glass through vacuum evaporation. The authors discovered that iron and aluminum form a strong bond with glass through an intermediate oxide layer, while gold is held by weaker van der Waals forces. The research also explores the role of residual oxygen concentration and the film's structure in the adhesion process.
+scientific_discipline: Materials Science > Surface Chemistry

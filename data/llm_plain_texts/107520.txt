@@ -1,0 +1,10 @@
+article_id: 107520
+revised_title: 'Correcting and Clarifying Maskelyne's Formulas for Finding Longitude and Latitude'
+semantic_tags:
+  - Astronomy
+  - Celestial Mechanics
+  - Navigation
+  - Trigonometry
+  - Error Correction
+tldr: The author, Abram Robertson, demonstrates and corrects two mistakes in Dr. Maskelyne's formulas for finding the longitude and latitude of celestial objects. The corrections involve adjusting the calculations for right ascension, declination, and the obliquity of the ecliptic. These improvements help ensure accurate navigation and astronomical calculations.
+scientific_discipline: Astronomy > Celestial Mechanics

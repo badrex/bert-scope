@@ -1,0 +1,10 @@
+article_id: rsta_1981_0088
+revised_title: High Temperature Plasma Physics: Interactions of Intense Laser Radiation with Plasma
+semantic_tags:
+  - Plasma physics
+  - Laser-matter interactions
+  - High energy density physics
+  - Optics
+  - Astrophysics
+tldr: This article discusses the interactions of intense laser radiation with plasma, focusing on the effects of laser wavelength on absorption processes, density profile steepening, stimulated Brillouin scattering, and resonance absorption. The authors explore the potential for shorter laser wavelengths to improve compression in laser-driven implosions and present experimental data to support their findings.
+scientific_discipline: Physics > Plasma Physics

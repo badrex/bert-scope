@@ -1,0 +1,10 @@
+article_id: rspa_1966_0016
+revised_title: 'Study of Vacancy Clusters and Loops in Ion-Bombarded Copper'
+semantic_tags:
+  - Materials Science
+  - Ion Irradiation
+  - Copper
+  - Vacancy Clusters
+  - Sessile Loops
+tldr: The authors conducted an experiment to study the formation and behavior of vacancy clusters and loops in ion-bombarded copper. They found that clusters form at their final size and do not grow by the accumulation of single defects. The study also revealed that loops exist throughout the foil and that prismatic loops, sessile loops, and three-dimensional clusters make up the majority of the observed images. The authors used electron microscopy and microdensitometry to analyze the images and determine the number of vacancies per cluster or loop.
+scientific_discipline: Materials Science > Ion Irradiation

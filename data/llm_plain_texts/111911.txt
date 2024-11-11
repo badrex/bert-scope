@@ -1,0 +1,10 @@
+article_id: 111911
+revised_title: 'Triethylphosphine Reactions with Substitution-Compounds of Marsh-Gas'
+semantic_tags:
+  - Phosphorus chemistry
+  - Organophosphorus compounds
+  - Substitution reactions
+  - Marsh gas
+  - Chlorinated derivatives
+tldr: The author investigates the reaction of triethylphosphine with various chlorinated derivatives of marsh gas. They found that the number of triethylphosphine molecules fixed by these derivatives is determined by the number of chlorine equivalents they contain. The author also discovered that these compounds can form a variety of chlorinated phosphonium bases, and that the final products of the reaction depend on the relative proportions of the agents used.
+scientific_discipline: Chemistry > Organophosphorus Chemistry

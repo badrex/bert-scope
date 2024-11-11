@@ -1,0 +1,10 @@
+article_id: rspa_1982_0152
+revised_title: Disorder in TiO2: A Theoretical Study of Defect Energetics
+semantic_tags:
+  - Crystallography
+  - Defect Chemistry
+  - Computational Chemistry
+  - Materials Science
+  - TiO2
+tldr: The authors present a theoretical study of defect energetics in TiO2 using computer simulation methods. They develop a lattice potential for TiO2 and calculate the formation energies of point and extended defects. The study predicts vacancies to be the most stable point defects and provides insights into the stability of extended defects and their relation to the high static dielectric constant of the material.
+scientific_discipline: Materials Science > Crystallography

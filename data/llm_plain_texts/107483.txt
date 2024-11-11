@@ -1,0 +1,10 @@
+article_id: 107483
+revised_title: 'Investigation of the Parallax of Fixed Stars in Right Ascension'
+semantic_tags:
+  - Astronomy
+  - Celestial Mechanics
+  - Observational Astronomy
+  - Parallax
+  - Transit Instrument
+tldr: The author, John Pond, conducted a series of observations to determine the parallax of fixed stars in right ascension using the transit instrument. He found that the limits of parallax were too small to be detected through measures in declination and concluded that further observations would be needed to establish its existence or define its limits more accurately.
+scientific_discipline: Astronomy > Observational Astronomy

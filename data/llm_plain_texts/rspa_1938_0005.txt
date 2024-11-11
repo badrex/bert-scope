@@ -1,0 +1,10 @@
+article_id: rspa_1938_0005
+revised_title: Anomalous Vibrational Spectra in Elastic Continua
+semantic_tags:
+  - Elasticity
+  - Anomalous spectra
+  - Lattice models
+  - Regular continua
+  - Density of normal vibrations
+tldr: The authors investigate anomalous vibrational spectra in elastic continua, focusing on regular two-dimensional and three-dimensional models. They find that certain elastic constants lead to zero velocity of elastic waves in specific directions, resulting in anomalous spectra. The density of normal vibrations is also affected, with some lattices showing a one-dimensional distribution for small frequencies.
+scientific_discipline: Physics > Mechanics

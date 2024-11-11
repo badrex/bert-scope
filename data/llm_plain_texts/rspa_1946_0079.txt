@@ -1,0 +1,10 @@
+article_id: rspa_1946_0079
+revised_title: The Influence of Electric Fields on the Viscosity of Polar and Non-Polar Liquids
+semantic_tags:
+  - Viscosity
+  - Electric fields
+  - Polar liquids
+  - Non-polar liquids
+  - Conduction
+scientific_discipline: Physics > Electromagnetism
+tldr: This article investigates the effect of electric fields on the viscosity of liquids, focusing on polar and non-polar liquids. The authors found that the large effects previously observed in polar liquids, such as changes of tens or even hundreds of percent in viscosity, were likely caused by the accumulation of ions near the electrodes, which altered the state of aggregation of polar molecules and increased viscosity in that region. The experiments also shed light on the conduction of electricity by certain classes of polar liquids.

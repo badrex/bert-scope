@@ -1,0 +1,10 @@
+article_id: 101634
+revised_title: Observations of the 1675 Lunar Eclipse by Parisian Astronomers
+semantic_tags:
+  - Lunar Eclipse
+  - Astronomy
+  - Observational Astronomy
+  - Timekeeping
+  - Pendulum Watches
+tldr: The Parisian astronomers observed a lunar eclipse in 1675 and noted the Moon's color changes during the event. They also discussed the challenges of determining the exact time of the eclipse and its implications for longitude calculations. The astronomers used pendulum watches to measure the time, but they questioned the accuracy of the Moon's diameter measurement during the eclipse.
+scientific_discipline: Astronomy > Observational Astronomy

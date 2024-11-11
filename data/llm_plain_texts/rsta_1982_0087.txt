@@ -1,0 +1,9 @@
+article_id: rsta_1982_0087
+revised_title: The Earth's Core: Recent Secular Variation and Motions at the Core Surface
+semantic_tags:
+  - Geomagnetism
+  - Earth's core
+  - Secular variation
+  - Inversion techniques
+  - Earth's rotation
+tldr: The authors investigate the motions at the top of the Earth's core responsible for the recent magnetic field variations. They analyze the secular variation of the geomagnetic field during 1950-1980 and find that the core's motions are dominated by a westward drift term. The study also reveals that the motions for lower modes are a strongly decreasing function of their order.

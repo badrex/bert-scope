@@ -1,0 +1,10 @@
+article_id: rspa_1987_0046
+revised_title: Sum Rules for Pair-Correlation Functions of Inhomogeneous Fluids: Hard-Sphere-Hard-Wall System
+semantic_tags:
+  - Statistical mechanics
+  - Fluid dynamics
+  - Thermodynamics
+  - Inhomogeneous fluids
+  - Hard-sphere-hard-wall system
+tldr: This article presents three sum rules for pair-correlation functions of inhomogeneous fluids, specifically for the hard-sphere-hard-wall system. The authors examine the accuracy of recent parametrizations and solutions of the Percus-Yevick and hypernetted-chain equations for these pair correlations. The Born-Green, Lovett-Mou-Buff-Wertheim, and Lebowitz-Percus sum rules are derived and used to analyze the pair-correlation functions and their relation to density profiles.
+scientific_discipline: Physics > Statistical mechanics

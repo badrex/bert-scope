@@ -1,0 +1,11 @@
+article_id: rspa_1934_0194
+revised_title: 'Inelastic Scattering of Electrons by Argon and Neon Atoms'
+semantic_tags:
+  - Atomic physics
+  - Electron scattering
+  - Quantum mechanics
+  - Inelastic collisions
+  - Argon
+  - Neon
+tldr: The authors study the inelastic scattering of slow electrons by argon and neon atoms, using Born's first approximation and considering the effects of electron exchange, distortion of electron waves, and polarization. They find that the main features of large-angle inelastic scattering arise from the diffracting effects of the static potential fields of the normal and excited atoms on the incident and inelastically scattered electron waves. The results show good agreement with experimental data for higher voltages, but discrepancies are observed at lower voltages, possibly due to the neglect of electron exchange effects.
+scientific_discipline: Physics > Atomic physics

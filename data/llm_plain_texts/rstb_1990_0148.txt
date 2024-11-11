@@ -1,0 +1,10 @@
+article_id: 'rstb_1990_0148'
+revised_title: 'Symbiotic Chlorella Partitioning in Green Hydra Symbiosis'
+semantic_tags:
+  - Symbiosis
+  - Algae
+  - Hydra
+  - Cell division
+  - Density-dependent regulation
+tldr: The study examines the partitioning of symbiotic Chlorella in the green hydra symbiosis during host cell telophase. It finds that the partitioning of Chlorella symbionts is random and follows the binomial distribution. Density-dependent algal division at the next host cell mitosis ensures the stability of the mean algal population.
+scientific_discipline: Biology and Life Sciences > Symbiosis

@@ -1,0 +1,10 @@
+article_id: 111380
+revised_title: The Role of Aqueous Vapour in Atmospheric Disturbances
+semantic_tags:
+  - Meteorology
+  - Atmospheric Pressure
+  - Condensation
+  - Climate
+  - Weather Phenomena
+tldr: The author, Thomas Hopkins, explains that aqueous vapor is the main factor in disturbing atmospheric pressure. As the vapor ascends and cools, it condenses, releasing heat and causing the gases to expand and create an ascending current. This process leads to cloud formation, changes in barometric pressure, and various weather phenomena, including rain and winds. Hopkins argues that this theory applies to all latitudes and can help explain meteorological phenomena like trade winds and sea breezes.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

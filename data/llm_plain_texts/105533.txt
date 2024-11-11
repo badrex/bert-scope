@@ -1,0 +1,10 @@
+article_id: '105533'
+revised_title: 'Observation and Measurement of the 1764 Solar Eclipse'
+semantic_tags:
+  - Astronomy
+  - Solar Eclipse
+  - Observational Astronomy
+  - Telescope Technology
+  - Micrometer
+tldr: 'James Short observed and measured the solar eclipse of April 1, 1764, in London using a reflecting telescope and a micrometer. Despite challenging weather conditions and air haziness, he managed to record the beginning and end of the eclipse, which allowed him to determine the Sun's diameter and compare it with the Moon's diameter.'
+scientific_discipline: Astronomy > Observational Astronomy

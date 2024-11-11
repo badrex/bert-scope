@@ -1,0 +1,10 @@
+article_id: rspa_1929_0033
+revised_title: 'Investigation of the Ultra-Violet Spectrum of Magnesium Hydride'
+semantic_tags:
+  - Spectroscopy
+  - Magnesium Hydride
+  - Band Spectra
+  - Quantum Theory
+  - Molecular Energy Levels
+tldr: The authors studied the ultra-violet spectrum of magnesium hydride, focusing on the band at 2430. They used a magnesium arc in hydrogen at low pressure to produce the spectrum and found that the band has an and -branch with the and branches being much stronger. The authors also observed a rapid decline in intensity in the and branches after passing the maximum value. The study provides insights into the molecular and atomic electronic energy levels of the MgIH molecule.
+scientific_discipline: Chemistry > Spectroscopy

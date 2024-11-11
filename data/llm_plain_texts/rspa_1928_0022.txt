@@ -1,0 +1,10 @@
+article_id: rspa_1928_0022
+revised_title: 'Experimental Evidence of Cathode Rays Diffraction'
+semantic_tags:
+  - Wave-Particle Duality
+  - Electron Diffraction
+  - Crystallography
+  - De Broglie Hypothesis
+  - X-ray Diffraction
+tldr: The authors conducted experiments to investigate the behavior of cathode rays passing through thin films. They found that cathode rays, like X-rays, exhibit diffraction patterns when passing through crystals, providing experimental evidence supporting the de Broglie hypothesis that particles can exhibit wave-like behavior.
+scientific_discipline: Physics > Wave-Particle Duality

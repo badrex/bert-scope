@@ -1,0 +1,10 @@
+article_id: rspa_1937_0062
+revised_title: Investigation of Radioactivity in Argon Atoms
+semantic_tags:
+  - Nuclear Physics
+  - Radioactivity
+  - Neutron bombardment
+  - Wilson cloud chamber
+  - Argon isotopes
+tldr: The authors conducted an experiment using a Wilson cloud chamber to investigate the radioactivity of argon atoms formed by the disintegration of radiochlorine. They found no evidence that these argon atoms emit alpha particles, suggesting that the fraction of radioactive argon atoms must be less than 0.01%.
+scientific_discipline: Physics > Nuclear Physics

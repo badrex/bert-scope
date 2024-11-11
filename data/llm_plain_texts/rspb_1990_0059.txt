@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0059'
+revised_title: 'Stem-Cell Organization and Renewal in Mouse Small Intestine'
+semantic_tags:
+  - Stem cells
+  - Mouse small intestine
+  - Epithelial tissue
+  - Stem-cell hierarchy
+  - Somatic mutation
+tldr: The authors investigated stem-cell organization in the mouse small intestine using a somatic mutation-based marker system. They discovered that a single, infrequently dividing stem cell maintains the crypt epithelium through a population of transit stem cells. The entire crypt epithelium is renewed approximately every 12 weeks. This study provides insights into stem-cell organization and renewal in mammalian epithelia, which is essential for understanding tissue maintenance and regeneration.
+scientific_discipline: Biology and Life Sciences > Cell Biology

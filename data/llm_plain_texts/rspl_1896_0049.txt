@@ -1,0 +1,10 @@
+article_id: rspl_1896_0049
+revised_title: 'Magnetic Permeability of Liquid Oxygen and Liquid Air'
+semantic_tags:
+  - Magnetism
+  - Liquid Oxygen
+  - Magnetic Susceptibility
+  - Physical Constants
+  - Closed Circuit Transformer
+tldr: The authors conducted experiments to determine the magnetic permeability and magnetic susceptibility of liquid oxygen and liquid air. They developed a closed circuit transformer with a liquid core to measure the magnetic properties of these substances. The results showed that the magnetic permeability of liquid oxygen is greater than that of air or gaseous oxygen, indicating its unique magnetic properties.
+scientific_discipline: Physics > Electromagnetism

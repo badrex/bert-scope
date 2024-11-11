@@ -1,0 +1,10 @@
+article_id: rspa_1977_0131
+revised_title: Neutrino Stress Tensor Regularization in Two-Dimensional Space-Time
+semantic_tags:
+  - Quantum Field Theory
+  - Neutrino Physics
+  - Two-Dimensional Space-Time
+  - Conformal Anomaly
+  - Black Holes
+tldr: The authors use the covariant point-splitting method to regularize the stress tensor for a massless spin neutrino field in a two-dimensional space-time. They find that the regularized neutrino stress tensor is the same as the scalar case, even though the divergent expression is equal to the negative of the scalar case. This result is consistent with thermodynamic principles and is further confirmed by a thermodynamic argument based on the black hole model.
+scientific_discipline: Physics > Quantum Field Theory

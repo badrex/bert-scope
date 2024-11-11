@@ -1,0 +1,10 @@
+article_id: rspa_1937_0116
+revised_title: Mercury Photosensitized Exchange Reaction of Deuterium and Phosphine
+semantic_tags:
+  - Deuterium
+  - Phosphine
+  - Exchange reaction
+  - Photosensitization
+  - Mercury
+tldr: The authors investigated the mercury photosensitized exchange reaction between deuterium and phosphine. They found that the rate of the exchange reaction depends on the number of quanta absorbed by the vapor, the efficiency of mercury atoms in promoting the combination of atomic deuterium, and the pressure of the gas mixture. The results provide insights into the kinetics of exchange reactions involving hydrides in the periodic system.
+scientific_discipline: Chemistry > Chemical kinetics

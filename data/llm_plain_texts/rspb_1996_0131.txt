@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0131'
+revised_title: 'The Impact of Mass on Flight Performance and Predation Risk in Birds'
+semantic_tags:
+  - 'Predation risk'
+  - 'Flight performance'
+  - 'Vigilance behavior'
+  - 'Foraging'
+  - 'Birds'
+tldr: The author's study shows that heavier birds take longer to reach protective cover, increasing their predation risk. This risk grows exponentially with time to reach cover, which can explain why birds tend to forage close to protective cover. The research supports the idea that predation risk is an accelerating function of time to reach cover, even when considering factors like distance from cover and changes in prey behavior.
+scientific_discipline: Biology and Life Sciences > Ecology and Behavior

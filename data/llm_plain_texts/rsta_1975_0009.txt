@@ -1,0 +1,10 @@
+article_id: rsta_1975_0009
+revised_title: Cosmic Ray Spectrum and Pulsar Contribution
+semantic_tags:
+  - Cosmic Rays
+  - Pulsars
+  - Particle Acceleration
+  - Astrophysics
+  - High Energy Physics
+tldr: The authors analyze the primary cosmic-ray spectrum and discuss the contribution of pulsars in the energy range of cosmic rays. They use the Gunn & Ostriker model to predict the energy spectrum of cosmic rays emitted by pulsars and find that the maximum energy from pulsars is barely above the energy range of cosmic rays. The authors also consider different mechanisms of acceleration and discuss the implications of pulsar contribution to the cosmic-ray spectrum.
+scientific_discipline: Physics > Astrophysics

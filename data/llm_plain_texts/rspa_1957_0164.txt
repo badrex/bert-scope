@@ -1,0 +1,10 @@
+article_id: rspa_1957_0164
+revised_title: 'A Comprehensive Study on Work-Hardening, Fatigue, and Energy Storage in Metals'
+semantic_tags:
+  - Metal fatigue
+  - Work-hardening
+  - Energy storage
+  - Metal deformation
+  - X-ray diffraction
+tldr: This study investigates the energy stored in fatigued metals, specifically copper, and the processes of work-hardening and fatigue. The authors found that high-stress fatigued specimens release more energy and undergo recovery and recrystallization processes, while low-stress fatigued specimens release less energy and only experience recovery. The results provide insights into the nature of lattice defects in metals during deformation and the differences in energy storage and hardness in various fatigue conditions.
+scientific_discipline: Materials Science > Mechanical Properties of Materials

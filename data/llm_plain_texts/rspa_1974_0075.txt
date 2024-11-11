@@ -1,0 +1,10 @@
+article_id: rspa_1974_0075
+revised_title: The Hyperfine Structure Stark Effect in Aluminum
+semantic_tags:
+  - Atomic Physics
+  - Hyperfine Structure
+  - Stark Effect
+  - Tensor Polarizability
+  - Aluminum
+tldr: The authors investigated the quadratic Stark effect in the hyperfine structure of the 2P* ground level of aluminum using atomic beams and magnetic resonance. They found a small energy shift caused by the application of an electric field and determined the tensor polarizability for the hyperfine structure. The theoretical value, including hyperfine structure effects, agreed with the experimental results, confirming the special nature of the quadratic Stark effect in this case.
+scientific_discipline: Physics > Atomic Physics

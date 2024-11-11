@@ -1,0 +1,10 @@
+article_id: rspa_1920_0021
+revised_title: The Capacity Coefficients of Spherical Conductors: A Study of Self-Capacity and Mutual Coefficients
+semantic_tags:
+  - Electromagnetism
+  - Capacitance
+  - Conductors
+  - Spherical geometry
+  - Electrostatics
+tldr: This article explores the self-capacity and mutual coefficients of spherical conductors, providing formulas and methods for calculating these values. The authors demonstrate how these coefficients can be used in practical problems, such as determining the electric stress between spherical electrodes. They also discuss the relationship between these coefficients and the capacity of spherical condensers.
+scientific_discipline: Physics > Electromagnetism

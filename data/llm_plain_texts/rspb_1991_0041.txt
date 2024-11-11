@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0041'
+revised_title: 'Capsaicin-Induced Expansion of Receptive Fields in Primary Somatosensory Cortex'
+semantic_tags:
+  - Neuroscience
+  - Sensory Perception
+  - Neurotoxins
+  - Somatosensory System
+  - Receptive Fields
+tldr: The authors discovered that applying capsaicin to a peripheral nerve expands the receptive fields of neurons in the primary somatosensory cortex. Capsaicin blocks activity in C-fibers, a type of nerve fiber that is sensitive to pain. This finding helps explain why the receptive fields of cortical neurons expand after peripheral denervation, such as in the case of amputation or local anesthesia. The study provides insight into the role of C-fibers in masking inhibition and the organization of the body-surface representation in the brain.
+scientific_discipline: Neuroscience > Sensory Perception

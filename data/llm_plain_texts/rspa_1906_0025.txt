@@ -1,0 +1,10 @@
+article_id: rspa_1906_0025
+revised_title: The Effect of Tensile Overstrain on Iron's Compression Yield-Point
+semantic_tags:
+  - Material Science
+  - Mechanical Properties
+  - Iron and Steel
+  - Elasticity
+  - Compression Testing
+tldr: The author conducted experiments to understand the effect of tensile overstrain on iron's compression yield-point. They found that after recovery from overstrain, the compression yield-point is raised, contrary to the common belief that it is lowered. This discovery helps in understanding the behavior of iron and steel under different stress conditions.
+scientific_discipline: Engineering and Technology > Material Science

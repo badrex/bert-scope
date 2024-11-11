@@ -1,0 +1,10 @@
+article_id: rspa_1910_0081
+revised_title: 'Studying Discontinuous Motion in Gases and the Role of Viscosity and Conductivity'
+semantic_tags:
+  - Gas dynamics
+  - Viscosity
+  - Conductivity
+  - Discontinuous motion
+  - Thermodynamics
+tldr: The author investigates the conditions necessary for discontinuous motion in gases, focusing on the role of viscosity and conductivity. They discuss the equations of continuity, momentum, and energy for gases and analyze the effects of these factors on the propagation of discontinuities. The study provides insights into the physical processes involved in sudden compressions or rarefactions of gases and helps determine whether a discontinuity is thermodynamically possible.
+scientific_discipline: Physics > Fluid Dynamics

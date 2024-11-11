@@ -1,0 +1,10 @@
+article_id: 'rspb_1971_0014'
+revised_title: 'Glycolipid Synthesis in Animal Cells: Implications in Normal and Transformed States'
+semantic_tags:
+  - Cell Biology
+  - Glycolipids
+  - Cell Transformation
+  - Viral Genetics
+  - Animal Cell Membrane
+tldr: The authors studied the synthesis of glycolipids in normal and transformed animal cells, focusing on the NIL 2 hamster line. They discovered that three larger glycolipids are absent in transformed lines, and their levels are lower in actively growing NIL 2 cells compared to contact-inhibited cells. This suggests that the lack of some glycolipids may be important in the depression of complex glycolipid synthesis in normal or transformed cells.
+scientific_discipline: Biology and Life Sciences > Cell Biology

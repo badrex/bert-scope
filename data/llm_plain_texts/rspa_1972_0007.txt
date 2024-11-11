@@ -1,0 +1,10 @@
+article_id: rspa_1972_0007
+revised_title: 'Hydromagnetic Convection in Rapidly Rotating Fluid Layers: A Review'
+semantic_tags:
+  - Fluid Dynamics
+  - Hydromagnetic Convection
+  - Rotating Fluids
+  - Magnetic Fields
+  - Stability Analysis
+tldr: This article examines the linear stability of a rotating, electrically conducting, viscous fluid layer heated from below and cooled from above, in the presence of a uniform magnetic field. The study considers various orientations of the magnetic field and rotation axes under different surface conditions. The analysis focuses on large Taylor and Hartmann numbers, and the results have implications for thermally driven hydromagnetic dynamos.
+scientific_discipline: Physics > Fluid Dynamics

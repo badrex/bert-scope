@@ -1,0 +1,10 @@
+article_id: 'rspa_1941_0073'
+revised_title: 'Constructional Tables for Thin Cemented Aplanatic Lenses'
+semantic_tags:
+  - Optics
+  - Lens Design
+  - Refractive Index
+  - Aplanatic Lenses
+  - Optical Systems
+tldr: The authors present systematic constructional tables for thin cemented aplanatic lenses made of two refracting media. They provide information for constructing lenses when the object is at infinity and when the image is equal in size to the object. Two series of unsymmetrical doublets and two series of symmetrical triplets are specified, with refractive indices ranging from 1.33333 to 2.00000.
+scientific_discipline: Physics > Optics

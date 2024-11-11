@@ -1,0 +1,10 @@
+article_id: rspa_1930_0113
+revised_title: 'Experimental Study of Hard Monochromatic X-Ray Absorption'
+semantic_tags:
+  - X-ray absorption
+  - Atomic physics
+  - Nuclear physics
+  - Radiation scattering
+  - Relativistic corrections
+tldr: The authors conducted an experiment to measure the absorption of high-frequency X-rays in various elements. They used a thorium source and a filtering method to isolate the high-frequency rays. The results showed that the formula for the scattering coefficient by Klein and Nishina was accurate for most elements, but some elements exhibited abnormal absorption that could not be explained by existing theories. The experiment provided valuable data for understanding X-ray absorption and scattering processes.
+scientific_discipline: Physics > Atomic and Nuclear Physics

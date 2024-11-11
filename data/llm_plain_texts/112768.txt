@@ -1,0 +1,10 @@
+article_id: 112768
+revised_title: 'Correction of Error in the Theory of Binary Quintics'
+semantic_tags:
+  - Algebra
+  - Covariants
+  - Binary forms
+  - Mathematical theory
+  - Syzygies
+tldr: The author corrects an error in the theory of binary quintics, showing that the number of irreducible covariants is finite. They also present new formulae that separate the covariants according to their order in the variables, providing a clearer understanding of the theory.
+scientific_discipline: Mathematics > Algebra

@@ -1,0 +1,10 @@
+article_id: 'rspb_1986_0024'
+revised_title: 'Phosphate Turnover and Oscillations in Photosynthesis: A Mathematical Model'
+semantic_tags:
+  - Photosynthesis
+  - Mathematical modeling
+  - Phosphate regulation
+  - Oscillations
+  - Sucrose synthesis
+tldr: This article presents a mathematical model of photosynthetic processes that aims to simulate oscillations in photosynthesis caused by changes in concentration and light intensity. The model considers the activation and inactivation of sucrose synthesis by organic phosphates and orthophosphate, suggesting that the rate of phosphate turnover may be a limiting factor in determining the maximum rate of photosynthesis. The study also highlights the importance of a time-lag in the feedback loop controlling the rate of photosynthesis for oscillations to occur.
+scientific_discipline: Biology and Life Sciences > Photosynthesis

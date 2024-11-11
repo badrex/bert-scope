@@ -1,0 +1,10 @@
+article_id: rspa_1991_0061
+revised_title: Microwave Heating of Materials with Low Conductivity: Analyzing Hotspots
+semantic_tags:
+  - Microwave heating
+  - Hotspots
+  - Temperature-dependent conductivity
+  - Heat transport
+  - Material properties
+tldr: This article investigates the microwave heating of materials with low conductivity, focusing on the phenomenon of hotspots. The authors analyze the temperature-dependent conductivity and heat transport in materials, providing insights into the formation and behavior of hotspots. They also compare their analytical solutions with numerical solutions of the governing equations, highlighting the impact of material properties on heating processes.
+scientific_discipline: Engineering and Technology > Materials Science

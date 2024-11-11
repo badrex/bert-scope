@@ -1,0 +1,11 @@
+article_id: 'rspa_1955_0058'
+revised_title: 'Index to Volume 228 (A): A Compilation of Scientific Research'
+semantic_tags:
+  - Mathematics
+  - Physics
+  - Chemistry
+  - Crystal structure
+  - Polymer science
+tldr: This index provides a comprehensive list of research articles published in Volume 228 (Series A) of the Proceedings of the Royal Society of London. The articles cover various scientific disciplines, including mathematics, physics, chemistry, crystal structure, and polymer science. Some notable topics discussed are the melting parameters of polyphenyls, the determination of burning velocities of slow flames, and the creep of polycrystalline ice.
+scientific_discipline: Mathematics > Geometry
+```

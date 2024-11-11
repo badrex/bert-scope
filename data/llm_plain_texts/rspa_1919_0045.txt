@@ -1,0 +1,10 @@
+article_id: rspa_1919_0045
+revised_title: 'Rydberg Constant for Spectral Series: A Review of Theoretical and Experimental Investigations'
+semantic_tags:
+  - Atomic Physics
+  - Spectroscopy
+  - Rydberg Constant
+  - Hydrogen Atom
+  - Quantum Mechanics
+tldr: This article discusses the determination of the Rydberg constant for spectral series through various theoretical and experimental methods. The author examines different formulas and their constants, comparing their accuracy and suitability for representing observed wave-lengths. The article also considers the impact of line structure on the value of the constant and the implications of different assumptions about the nature of the lines.
+scientific_discipline: Physics > Atomic Physics

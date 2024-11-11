@@ -1,0 +1,10 @@
+article_id: rspl_1881_0139
+revised_title: Investigating the Relationship Between Viscosity and Electrical Resistance in Metals
+semantic_tags:
+  - Metallurgy
+  - Electrical resistance
+  - Viscosity
+  - Torsional vibrations
+  - Critical temperature
+tldr: The author examines various metals and their properties, focusing on the relationship between their viscosity and electrical resistance. They suggest that studying the "viscosity" of a metal through torsional vibrations could provide valuable information about its electrical resistance. The author also discusses the uncertainty in understanding the state of a fluid near its critical temperature.
+scientific_discipline: Physics > Metallurgy

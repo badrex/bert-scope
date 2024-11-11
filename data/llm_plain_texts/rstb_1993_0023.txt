@@ -1,0 +1,10 @@
+article_id: 'rstb_1993_0023'
+revised_title: 'The Molecular Chaperone Concept: A New Perspective on Protein Assembly'
+semantic_tags:
+  - Molecular Chaperones
+  - Protein Folding
+  - Protein Assembly
+  - Heat Shock Proteins
+  - Chaperonins
+tldr: 'Molecular chaperones are proteins that assist in the correct non-covalent assembly of other proteins in living cells. They do not convey steric information essential for assembly but help by binding to transiently exposed protein surfaces, preventing incorrect interactions. This concept challenges the traditional view of protein self-assembly and suggests that in vivo assembly requires assistance from other proteins. Molecular chaperones include various unrelated families, such as chaperonins and heat shock proteins, which have different functions and mechanisms of action.'
+scientific_discipline: Biology and Life Sciences > Molecular Biology

@@ -1,0 +1,10 @@
+article_id: 'rspb_1984_0040'
+revised_title: 'High Resolution Electron Microscopic Investigation of Bacterial Magnetite and Crystal Growth Implications'
+semantic_tags:
+  - Biomineralization
+  - Magnetotactic bacteria
+  - Crystal growth
+  - Electron microscopy
+  - Magnetite
+tldr: The authors conducted a high-resolution electron microscopic investigation of magnetite particles isolated from magnetotactic bacteria. They found that the particles have a hexagonal prism habit and are single-domain structures. The study suggests that crystal growth of biogenic magnetite involves nucleation followed by slow growth, with the surrounding membrane potentially playing a role in magnetite synthesis.
+scientific_discipline: Biology and Life Sciences > Microbiology

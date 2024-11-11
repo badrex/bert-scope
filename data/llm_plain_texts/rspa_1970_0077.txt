@@ -1,0 +1,10 @@
+article_id: rspa_1970_0077
+revised_title: 'Thermal Effects in Gas Decomposition: Slow Exothermic Decomposition of Diethyl Peroxide'
+semantic_tags:
+  - Chemical kinetics
+  - Gas decomposition
+  - Diethyl peroxide
+  - Thermal conductivity
+  - Exothermic reactions
+tldr: The authors conducted an experimental investigation of the self-heating that accompanies the exothermic decomposition of gaseous diethyl peroxide. They recorded temperature histories at 19 positions in a spherical vessel using a fine platinum/platinum-rhodium thermocouple. The results showed that the reactant was hotter than the vessel, with the highest temperature at the center. The authors determined the thermal conductivity of the peroxide and the stoichiometry and exothermicity of the decomposition. The findings were used to analyze the temperature history and understand the chemical properties of the system.
+scientific_discipline: Chemistry > Chemical kinetics

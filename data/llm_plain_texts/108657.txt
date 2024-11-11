@@ -1,0 +1,10 @@
+article_id: 108657
+revised_title: Electro-Deposition of Antimony: Properties and Phenomena
+semantic_tags:
+  - Electrochemistry
+  - Antimony deposition
+  - Electrodeposition techniques
+  - Crystal growth
+  - Material properties
+tldr: The author, G. Gore, investigates the properties of electro-deposited antimony and discovers two distinct types: amorphous and crystalline. The author provides detailed methods for producing these deposits and discusses the factors that influence their formation. Additionally, the author observes temperature and density effects on the deposits' conductivity and properties.
+scientific_discipline: Chemistry > Electrochemistry

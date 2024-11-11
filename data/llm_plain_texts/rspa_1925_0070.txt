@@ -1,0 +1,10 @@
+article_id: 'rspa_1925_0070'
+revised_title: 'Investigation of Plastic Deformation in Iron and Neumann Line Formation'
+semantic_tags:
+  - Materials Science
+  - Iron Deformation
+  - Neumann Lines
+  - Crystal Surface
+  - Slip Bands
+tldr: 'The authors conducted experiments to understand the effect of varying deformation rates on the plastic deformation of iron. They observed the formation of Neumann lines and slip bands on the crystal surfaces of iron under compression. The study aimed to determine if the character, number, and appearance of these slip bands would be affected by the rate of deformation.'
+scientific_discipline: Materials Science > Crystallography

@@ -1,0 +1,10 @@
+article_id: rsta_1950_0005
+revised_title: Plastic Straining in Two-Dimensional Stress-Systems
+semantic_tags:
+  - Plasticity
+  - Stress analysis
+  - Material science
+  - Mechanical engineering
+  - Torsion
+tldr: This article discusses the relaxation methods applied to engineering problems, specifically focusing on plastic straining in two-dimensional stress-systems. The authors propose a generalization of the hypothesis underlying the Mises-Hencky criterion and explore the stress-strain relations in plastic enclaves, providing a basis for solving complex stress problems.
+scientific_discipline: Engineering and Technology > Mechanical engineering

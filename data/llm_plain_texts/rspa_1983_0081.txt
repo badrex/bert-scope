@@ -1,0 +1,11 @@
+article_id: 'rspa_1983_0081'
+revised_title: 'Thermotropic Phase Properties and Structure of 1,2-Distearoylgalactosylglycerols in Aqueous Systems: Polymorphic Behavior and Hydration'
+semantic_tags:
+  - Lipids
+  - Polymorphism
+  - Hydration
+  - X-ray diffraction
+  - Differential scanning calorimetry
+tldr: 'This study investigates the thermotropic phase properties and structure of 1,2-distearoylgalactosylglycerols in aqueous systems. The researchers found that these lipids exhibit complex polymorphic behavior involving the formation of stable and metastable structural forms. The conversion between these forms is dependent on the thermal history of the samples and is related to their hydration levels. This process may be a common feature in lipids that bind little water and lipid systems with extensive divalent ion bridging.'
+scientific_discipline: Chemistry > Lipids and Membranes
+```

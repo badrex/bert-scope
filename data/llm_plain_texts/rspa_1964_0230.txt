@@ -1,0 +1,10 @@
+article_id: 'rspa_1964_0230'
+revised_title: 'Improving Image Quality in Annular Aerial Systems'
+semantic_tags:
+  - Radio Astronomy
+  - Aerial Systems
+  - Signal Processing
+  - Fourier Transform
+  - Polar Diagrams
+tldr: The authors discuss methods to improve the quality of images formed by annular apertures, focusing on radio-astronomy applications. They propose novel methods, including the use of electronic techniques, to correct the polar diagrams and reduce side lobes in the images. The authors also describe a method of rotating the aerial array electronically to simulate rotation and improve the image quality.
+scientific_discipline: Engineering and Technology > Signal Processing and Radio Astronomy

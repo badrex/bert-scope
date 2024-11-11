@@ -1,0 +1,10 @@
+article_id: rspa_1994_0061
+revised_title: 'Thermal Bending Instability in Rotor-Bearing Systems due to Unsteady Lubricant Shearing'
+semantic_tags:
+  - Rotor Dynamics
+  - Thermal Bending
+  - Lubrication
+  - Bearing Design
+  - Thermohydrodynamics
+tldr: 'This article investigates the dynamic nature of rotor thermal bending caused by unsteady lubricant shearing within a bearing. The authors consider the influence of a time-varying journal orbit on the temperature distribution within a hydrodynamically lubricated journal bearing and examine the oscillatory source distribution arising from unsteady shearing of the lubricant. They evaluate the time-dependent thermal bend induced in a rotor by such a process and incorporate it into a rotor dynamic model for assessing system stability. Techniques are developed to calculate the effects on an idealized rotor-bearing configuration, establishing the speed range where instability occurs, the growth rate of unstable vibrations, and the direction of the thermal bend vector. The study is important for rotating machinery design, particularly in high-speed applications with significant lubricant shearing within bearings.'
+scientific_discipline: Engineering and Technology > Mechanical Engineering

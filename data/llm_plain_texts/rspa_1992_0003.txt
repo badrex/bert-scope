@@ -1,0 +1,10 @@
+article_id: rspa_1992_0003
+revised_title: 'Nonlinear Oscillatory Convection in a Rotating Fluid'
+semantic_tags:
+  - Fluid dynamics
+  - Convection
+  - Rotating systems
+  - Nonlinear analysis
+  - Stability analysis
+tldr: The author investigates weakly nonlinear oscillatory convection in a rotating fluid, focusing on standing waves. They use a perturbation technique to determine the solutions and analyze the stability of the base flow solutions with respect to both standing wave and traveling wave disturbances. The study finds that all base flow solutions are unstable, and disturbances with the highest growth rates are determined for various values of the rotation parameter and Prandtl number.
+scientific_discipline: Physics > Fluid dynamics

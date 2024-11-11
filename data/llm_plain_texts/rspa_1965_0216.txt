@@ -1,0 +1,10 @@
+article_id: rspa_1965_0216
+revised_title: Crystallography of Deformation Twinning: Theory and Atomic Movements
+semantic_tags:
+  - Crystallography
+  - Deformation Twinning
+  - Tensor Calculus
+  - Material Science
+  - Crystal Structures
+tldr: The authors present a comprehensive theory of crystallography for deformation twinning, using tensor calculus to describe atomic movements and derive expressions for the magnitude and direction of twinning shears. They classify twinning modes into type I and type II and discuss the atomic shuffles accompanying the twinning shear in both single and multiple lattice structures. The theory is applicable to various crystal structures and orientation relationships, providing a basis for predicting operative twinning modes.
+scientific_discipline: Materials Science > Crystallography

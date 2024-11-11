@@ -1,0 +1,10 @@
+article_id: 'rspa_1927_0177'
+revised_title: 'Quantitative Measurements of Polarized Light Excitation by Electron Impact in Mercury'
+semantic_tags:
+  - Atomic Physics
+  - Electron Impact
+  - Polarized Light
+  - Mercury Spectrum
+  - Spectroscopy
+tldr: 'The authors conducted experiments to measure the polarization of light emitted from mercury atoms excited by electron impact. They used a specialized tube to create a powerful, directed stream of electrons and observed the resulting light spectrum. The team found that the different spectral lines of mercury had varying degrees of polarization, which they quantified and analyzed. This research provided valuable insights into the interaction between electrons and atoms during excitation and the properties of polarized light.'
+scientific_discipline: Physics > Atomic Physics

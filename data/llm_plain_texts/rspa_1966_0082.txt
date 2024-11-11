@@ -1,0 +1,10 @@
+article_id: rspa_1966_0082
+revised_title: Covariant Theories with Internal Symmetries Involving Spin
+semantic_tags:
+  - Group Theory
+  - Particle Physics
+  - Relativity
+  - Quantum Mechanics
+  - Symmetry in Physics
+tldr: The authors present two examples of covariant theories with internal symmetries involving spin. The first example deals with the Bethe-Salpeter equation of two interacting scalar particles, while the second example is the hydrogen atom. The study demonstrates how consistent combinations of Poincare group and internal group can be achieved, emphasizing the importance of non-compact groups for degenerate systems.
+scientific_discipline: Physics > Particle Physics

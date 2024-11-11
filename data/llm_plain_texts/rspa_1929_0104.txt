@@ -1,0 +1,10 @@
+article_id: rspa_1929_0104
+revised_title: Relativistic Theory of an Atom with Many Electrons
+semantic_tags:
+  - Quantum Mechanics
+  - Atomic Theory
+  - Relativity
+  - Electrons
+  - Wave-Function
+tldr: The authors derive the classification of multiplets, selection rules, and summation rules from Dirac's relativistic equation for an atom with multiple electrons. They discuss the non-relativistic theory of inner and magnetic quantum numbers and their selection rules, which are essential for understanding the behavior of electrons in an atom.
+scientific_discipline: Physics > Quantum Mechanics

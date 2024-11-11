@@ -1,0 +1,10 @@
+article_id: rspa_1988_0111
+revised_title: 'Parabolic Umbilic and Atmospheric Fronts: A Study of Legendre Transforms and Meteorology'
+semantic_tags:
+  - Legendre transformation
+  - Atmospheric fronts
+  - Semigeostrophic theory
+  - Meteorology
+  - Parabolic umbilic
+tldr: This article explores the calculation of the Legendre transformation of the beak-to-beak form of the parabolic umbilic, which is a mathematical concept that can be applied to the study of atmospheric fronts in meteorology. The authors demonstrate how a front can be regarded as a self-intersection line terminating at a swallowtail point on the Legendre transform surface, and how this idea can help improve our understanding of atmospheric fronts in semigeostrophic theory.
+scientific_discipline: Mathematics > Applied Mathematics

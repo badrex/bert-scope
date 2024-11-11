@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0093'
+revised_title: 'Explaining the C-Value Paradox through Junk DNA Accumulation'
+semantic_tags:
+  - 'Genetics'
+  - 'Junk DNA'
+  - 'C-value paradox'
+  - 'Developmental rate'
+  - 'Nuclear genome'
+tldr: The authors investigated the variation in the size of the nuclear genome across species and found that it supports the junk-DNA explanation for the C-value paradox. They discovered that organisms with slower developmental rates have more junk DNA, suggesting that the accumulation of junk DNA is determined by a balance between mutation forces and selective pressures. This finding supports the idea that junk DNA accumulates in the nuclear genome until the costs of replicating it become too great, rather than it functioning as a nucleo-skeleton.
+scientific_discipline: Biology and Life Sciences > Genetics

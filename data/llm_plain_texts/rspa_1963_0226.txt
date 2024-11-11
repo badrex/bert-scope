@@ -1,0 +1,10 @@
+article_id: rspa_1963_0226
+revised_title: 'Low Temperature Properties of Actinide Metals: Thorium, Uranium, Neptunium, and Plutonium'
+semantic_tags:
+  - Actinide series
+  - Electrical resistivity
+  - Thermoelectric power
+  - Low-temperature physics
+  - Material properties
+tldr: The authors studied the electrical resistivity and thermoelectric power of thorium, uranium, neptunium, and plutonium at low temperatures. They found that these metals have high resistivities and complex temperature relations. The resistance-temperature curves of uranium and neptunium are unusual, with positive temperature coefficients decreasing monotonically with rising temperature. The results provide insights into the properties and potential applications of these actinide metals.
+scientific_discipline: Physics > Material properties

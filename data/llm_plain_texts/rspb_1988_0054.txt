@@ -1,0 +1,10 @@
+article_id: 'rspb_1988_0054'
+revised_title: 'Inositol Lipids and Calcium Signaling in Cells'
+semantic_tags:
+  - Calcium signaling
+  - Inositol lipids
+  - Cellular signaling pathways
+  - Second messengers
+  - Cell biology
+tldr: The author discusses the role of inositol lipids, particularly phosphatidylinositol 4,5-bisphosphate (PtdIns(4,5)P2), in cellular signaling. The hydrolysis of PtdIns(4,5)P2 generates two key second messengers, diacylglycerol and inositol 1,4,5-trisphosphate (Ins(1,4,5)P3), which control calcium mobilization in cells. The author examines the function of Ins(1,4,5)P3 in regulating calcium release from internal reservoirs and its potential role in calcium entry through the endoplasmic reticulum. Calcium oscillations, driven by Ins(1,4,5)P3, play a role in various cellular functions, including contraction, secretion, and metabolism.
+scientific_discipline: Biology and Life Sciences > Cell Biology

@@ -1,0 +1,10 @@
+article_id: 110995
+revised_title: 'Improving Compass Accuracy in Naval Navigation'
+semantic_tags:
+  - Navigation
+  - Compass adjustment
+  - Magnetic variation
+  - Shipboard technology
+  - Local attraction
+tldr: The author, John Tudor, discusses the importance of proper compass adjustment and the use of compensating magnets to counteract local attraction in maintaining accurate navigation, especially in iron vessels. He shares his experience with the compasses on board the Pluto and emphasizes the need for uniformity in compass size, needle size, and bittacle height. Tudor also debunks the myth that adjustments for local attraction in northern latitudes are not correct when the ship is south of the equator.
+scientific_discipline: Engineering and Technology > Navigation

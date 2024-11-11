@@ -1,0 +1,10 @@
+article_id: rsta_1974_0003
+revised_title: A Convection-Driven Dynamo: The Weak Field Case
+semantic_tags:
+  - Hydromagnetic Dynamo
+  - Fluid Dynamics
+  - Magnetic Induction Equation
+  - Convection
+  - Nonlinear Equations
+tldr: This article investigates a hydromagnetic dynamo model where a Boussinesq, electrically conducting fluid is heated from below and rotates rapidly around the vertical axis. The author focuses on the weak field case and derives a set of nonlinear equations to study the evolution of the hydromagnetic dynamo. Stable periodic dynamos are found to exist, and an interesting analytic solution is presented, which may be relevant to other problems related to finite-amplitude Benard convection.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1986_0060'
+revised_title: 'Quantitative Analysis of Simple-Cell Receptive-Field Profiles in Cat's Visual Cortex'
+semantic_tags:
+  - Visual Neuroscience
+  - Receptive Fields
+  - Gabor Functions
+  - Simple Cells
+  - Cat Visual Cortex
+tldr: The authors conducted experiments on 46 simple cells in the cat's visual cortex to analyze their receptive-field profiles. They found that Gabor functions, which are the product of a Gaussian envelope and a sinusoid, provide a good description of the receptive-field profiles to a first approximation. However, their analysis does not support the notion that simple cells generally fit into even- and odd-symmetric categories.
+scientific_discipline: Biology and Life Sciences > Neuroscience

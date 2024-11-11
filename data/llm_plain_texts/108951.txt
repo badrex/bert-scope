@@ -1,0 +1,10 @@
+article_id: 108951
+revised_title: Fundamental Concepts of Mechanics and Linear Complexes of Forces
+semantic_tags:
+  - Mechanics
+  - Linear Algebra
+  - Geometry
+  - Applied Mathematics
+  - Physics
+tldr: The author presents a new approach to mechanics, introducing right lines as elements of space instead of points and planes. They discuss linear complexes of forces and their properties, such as the resulting force, dyname, and conjugate planes. The author also introduces the concept of a double congruency of forces and its applications.
+scientific_discipline: Mathematics > Applied Mathematics

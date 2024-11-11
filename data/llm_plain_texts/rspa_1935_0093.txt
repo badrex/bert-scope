@@ -1,0 +1,10 @@
+article_id: rspa_1935_0093
+revised_title: 'Quantization of the New Field Theory and Its Applications'
+semantic_tags:
+  - Quantum Mechanics
+  - Field Theory
+  - Commutation Rules
+  - Lorentz Invariance
+  - Unitary Field Theory
+tldr: The authors present a new method for quantizing the new field theory, which involves the use of commutation rules and Lorentz invariance. They demonstrate that this method can be applied to derive quantum mechanics for a particle and explain various features of Dirac's theory. The authors also discuss the energy density function and its properties, which are essential for a unitary field theory.
+scientific_discipline: Physics > Quantum Mechanics

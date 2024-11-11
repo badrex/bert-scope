@@ -1,0 +1,10 @@
+article_id: rspa_1979_0086
+revised_title: 'Continuous Solutions of a Functional Equation for Nonlinear Forced Oscillations in a Closed Tube'
+semantic_tags:
+  - Nonlinear Oscillations
+  - Gas Dynamics
+  - Resonance Phenomena
+  - Wave Propagation
+  - Functional Equations
+tldr: The authors present a finite rate theory for periodic forced oscillations in a closed tube, valid for all frequencies, and apply it to calculate continuous motions corresponding to piston frequencies between resonant frequencies. They derive a functional equation that determines the shockless signal leaving the piston and traveling through the model medium, and provide an algebraic scheme to generate continuous periodic solutions of the equation.
+scientific_discipline: Physics > Fluid Dynamics

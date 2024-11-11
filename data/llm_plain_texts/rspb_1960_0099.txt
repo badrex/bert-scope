@@ -1,0 +1,10 @@
+article_id: 'rspb_1960_0099'
+revised_title: 'Understanding Selection Limits in Artificial Selection'
+semantic_tags:
+  - Population genetics
+  - Gene frequency
+  - Selection pressure
+  - Genetic drift
+  - Artificial selection
+tldr: This article presents a theory of selection limits in artificial selection, considering the effects of selection and genetic drift on gene frequencies. The authors discuss how population size and selection intensity influence the chance of fixation of favorable alleles and the expected limit of selection. They also explore the effects of initial periods of selection or inbreeding on further selection limits and the time scale of the selection process.
+scientific_discipline: Biology and Life Sciences > Population Genetics

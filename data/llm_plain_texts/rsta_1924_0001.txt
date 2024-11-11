@@ -1,0 +1,10 @@
+article_id: rsta_1924_0001
+revised_title: Paramagnetism Investigations at Low Temperatures
+semantic_tags:
+  - Paramagnetism
+  - Low Temperature Physics
+  - Magnetic Susceptibility
+  - Ferromagnetic Materials
+  - Crystallography
+tldr: The authors conducted experiments on paramagnetism in various compounds at low temperatures. They measured the magnetic susceptibilities of powdered substances and crystals, focusing on ferromagnetic metals like iron, nickel, and cobalt. The study aimed to understand the effect of magnetic dilution and the deviation from the Curie law in these paramagnetic substances. This research provided valuable data on the principal susceptibilities of crystals at very low temperatures.
+scientific_discipline: Physics > Solid State Physics

@@ -1,0 +1,10 @@
+article_id: rsta_1951_0010
+revised_title: 'Geomagnetic Secular Variation Analysis: Dipoles and Currents in the Earth's Core'
+semantic_tags:
+  - Geomagnetism
+  - Geophysics
+  - Earth's Core
+  - Secular Variation
+  - Geomagnetic Dipoles
+tldr: The authors analyze the geomagnetic secular variation using a graphical method that separates the field into separate dipoles of arbitrary direction. They find that the majority of the field for the epoch 1922.5 can be explained by about twelve vertical dipoles below the surface of the Earth's core. This discovery supports the idea that the origin of the secular variation must be in the Earth's core, specifically due to a thin current sheet at the core's surface. The presence of only vertical sources does not support the existence of the toroidal field, which is essential in Bullard's dynamo theory of the main field.
+scientific_discipline: Earth Sciences > Geophysics

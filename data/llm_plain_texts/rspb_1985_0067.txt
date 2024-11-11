@@ -1,0 +1,10 @@
+article_id: 'rspb_1985_0067'
+revised_title: 'Exploring the Electrical Properties of the Spine-Triad Circuit in Cat's Lateral Geniculate Nucleus'
+semantic_tags:
+  - 'Neuroscience'
+  - 'Circuitry'
+  - 'Geniculate Nucleus'
+  - 'Electrical Properties'
+  - 'Spine-Triad'
+tldr: The article investigates the electrical properties of the spine-triad arrangement in the cat's lateral geniculate nucleus. The authors found that this circuit could be the site of a localized AND-NOT type of veto operation, functionally equivalent to presynaptic inhibition. The geniculate interneuron, which contributes the inhibitory synapse to the spine-triad circuit, controls the flow of visual information into the system. This hypothesis helps explain various effects of inhibition in geniculate and relay cells, enhancing center-surround antagonism and possibly mediating reciprocal lateral inhibition and eye-movement-related suppression.
+scientific_discipline: Neuroscience > Neurophysiology

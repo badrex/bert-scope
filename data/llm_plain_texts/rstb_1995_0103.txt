@@ -1,0 +1,10 @@
+article_id: 'rstb_1995_0103'
+revised_title: 'Probabilistic Secretion of Quanta at Somatic Motor-Nerve Terminals: Fusion-Pore Model, Quantal Detection, and Autoinhibition'
+semantic_tags:
+  - Neurophysiology
+  - Quantal secretion
+  - Motor-nerve terminals
+  - Fusion-pore model
+  - Autoinhibition
+tldr: The article investigates the probability of detecting first, second, and later quanta secreted at motor-nerve terminals during the early release period following a nerve impulse. The fusion-pore model, which describes the secretion of a quantum at a release site, is developed and tested. The study also explores the possibility of autoinhibition affecting later quantal release during this period. The findings provide support for the fusion-pore model and suggest that appropriate detection procedures must be adopted for adequate quantal secretion analysis.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

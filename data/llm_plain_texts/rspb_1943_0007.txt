@@ -1,0 +1,10 @@
+article_id: 'rspb_1943_0007'
+revised_title: 'Effects of Cold and Colchicine on Mitosis in Newt: A Comparative Study'
+semantic_tags:
+  - Cell Biology
+  - Mitosis
+  - Cold Treatment
+  - Colchicine
+  - Newt
+tldr: This study investigates the effects of cold and colchicine on mitosis in newt cells. Both treatments cause an arrest of mitosis at metaphase, leading to an accumulation of cells at this stage. Cold treatment reduces the number of cells entering prophase, while colchicine affects anaphases and delays the separation of daughter nuclei. The study also describes various types of abnormal spindle development caused by the treatments, such as star metaphases, exploded metaphases, and unorientated metaphases. The results provide insights into the mechanisms of cell division and the effects of different agents on mitosis in animal cells.
+scientific_discipline: Biology and Life Sciences > Cell Biology

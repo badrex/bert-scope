@@ -1,0 +1,10 @@
+article_id: rspa_1948_0027
+revised_title: 'Non-Linear Ordinary Differential Equations in Laminar Boundary-Layer'
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Differential Equations
+  - Hydrodynamics
+  - Mathematical Physics
+tldr: The authors present a method for solving non-linear ordinary differential equations related to laminar boundary-layer problems. They discuss the integration of these equations, focusing on the Falkner-Skan equation and its applications in hydrodynamics. The paper also provides a detailed analysis of the behavior of the equations at infinity and the integration process, which is divided into three separate steps.
+scientific_discipline: Mathematics > Applied Mathematics

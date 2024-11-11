@@ -1,0 +1,10 @@
+article_id: rsta_1984_0085
+revised_title: Advances in Measuring Earth's Rotation Fluctuations
+semantic_tags:
+  - Earth rotation
+  - Polar motion
+  - Geodesy
+  - Timekeeping
+  - Satellite observation
+tldr: This article discusses the advancements in measuring the fluctuations in the Earth's rotation and polar motion using various techniques such as optical astrometry, satellite observations, and laser ranging. The international MERIT-COTES program is reviewed, which aims to provide high-quality data for studying the causes of these fluctuations and establishing a new terrestrial reference frame. The article also highlights the importance of accurate Earth-rotation measurements for practical applications in astronomy, space research, geodesy, and navigation.
+scientific_discipline: Earth Sciences > Geodesy

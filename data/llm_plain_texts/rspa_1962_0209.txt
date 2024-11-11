@@ -1,0 +1,10 @@
+article_id: rspa_1962_0209
+revised_title: 'Recombination in Optically Thick Plasmas: The Effect of Self-Absorption'
+semantic_tags:
+  - Plasma physics
+  - Recombination
+  - Self-absorption
+  - Collisional-radiative recombination
+  - Hydrogen ion plasmas
+tldr: This article investigates the effect of self-absorption on the rate of collisional-radiative recombination in hydrogen ion plasmas. The authors study three cases: when Lyman radiation is absorbed, when all line radiation is absorbed, and when the plasma is optically thick towards the Lyman continuum. They find that self-absorption can significantly reduce the recombination coefficient, even in low electron density limits. The results provide insights into the behavior of plasmas and help improve understanding of the underlying processes.
+scientific_discipline: Physics > Plasma Physics

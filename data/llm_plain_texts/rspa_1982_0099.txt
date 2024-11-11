@@ -1,0 +1,10 @@
+article_id: rspa_1982_0099
+revised_title: 'Ignition Mechanisms of Explosives: A Review of Photographic Evidence'
+semantic_tags:
+  - Explosives
+  - Mechanical deformation
+  - Ignition mechanisms
+  - Adiabatic shear
+  - Adiabatic heating
+scientific_discipline: Engineering and Technology > Materials Science
+tldr: This article investigates the mechanisms of ignition in explosives during mechanical deformation. The authors provide photographic evidence of various ignition processes, including adiabatic shear, adiabatic heating of trapped gas spaces, viscous flow, friction, and fracture or shear of added particles. They conclude that no single mechanism is dominant, and slight changes in experimental conditions can lead to different ignition processes.

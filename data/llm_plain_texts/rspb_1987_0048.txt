@@ -1,0 +1,10 @@
+article_id: 'rspb_1987_0048'
+revised_title: 'Isoleucine Biosynthesis in Paracoccus denitrificans: The Pyruvate Elongation Pathway'
+semantic_tags:
+  - Isoleucine biosynthesis
+  - Metabolic pathways
+  - Paracoccus denitrificans
+  - Pyruvate elongation pathway
+  - Microbiology
+tldr: The study investigates the growth of Paracoccus denitrificans on succinate and succinate, analyzing the metabolites using gas chromatography-mass spectrometry. The distribution of label in isoleucine indicates that the 2-ketobutyrate required for isoleucine biosynthesis is mainly produced through the pyruvate elongation pathway. A small proportion of isoleucine is also produced via an alternative route involving propionyl and 2-ketobutyrate synthase. Threonine and glutamate are not used as sources of 2-ketobutyrate production for isoleucine biosynthesis under these growth conditions.
+scientific_discipline: Biology and Life Sciences > Microbiology

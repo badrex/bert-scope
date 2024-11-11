@@ -1,0 +1,10 @@
+article_id: rspa_1933_0022
+revised_title: Foundations of the Electron Wave Equation
+semantic_tags:
+  - Wave mechanics
+  - Quantum mechanics
+  - Electromagnetic fields
+  - Particle physics
+  - Action principle
+tldr: The author presents a new approach to wave mechanics, focusing on the foundations of the electron wave equation. By using the action principle and considering the properties of a wave field, the author derives the classical law of motion for an electron in an electromagnetic field. This work contributes to the understanding of particle behavior and the development of a more satisfactory concept for describing small particles.
+scientific_discipline: Physics > Quantum mechanics

@@ -1,0 +1,10 @@
+article_id: rspa_1965_0112
+revised_title: 'Analysis of Regular and Singular Fluid Flows around Dihedral Angles'
+semantic_tags:
+  - Fluid Dynamics
+  - Navier-Stokes Equations
+  - Fluid Mechanics
+  - Boundary Layer Theory
+  - Fluid Flow
+tldr: This article investigates the properties of regular and weakly singular fluid flows around dihedral angles, specifically focusing on the behavior of fluid flow around a semi-infinite flat plate. The study reveals that weakly singular motions remain attached to the surface, while regular motions exhibit a more predictable behavior. The findings contribute to the understanding of fluid dynamics and the application of mathematical models in fluid mechanics.
+scientific_discipline: Physics > Fluid Dynamics

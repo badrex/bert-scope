@@ -1,0 +1,11 @@
+article_id: 'rspa_1925_0067'
+revised_title: 'Cathode Ray Passage Through Matter: Experimental Methods and Observations'
+semantic_tags:
+  - Particle Acceleration
+  - Nuclear Physics
+  - Atomic Structure
+  - Electromagnetic Radiation
+  - Scattering
+  - Absorption
+tldr: The authors conducted experiments to study the passage of cathode rays through various materials. They found that the fraction of rays transmitted, absorbed, or reflected by a given thickness of matter varies with the velocity of the rays. The authors also discovered that scattering plays a significant role in the behavior of the absorbed and transmitted fractions when the velocity is changed. Their experimental methods can be used to measure changes in these fractions when the velocity varies.
+scientific_discipline: Physics > Nuclear Physics

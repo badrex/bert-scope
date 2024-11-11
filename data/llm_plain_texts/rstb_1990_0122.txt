@@ -1,0 +1,10 @@
+article_id: 'rstb_1990_0122'
+revised_title: 'Neonatal Rat Brain Injury and Scar Formation'
+semantic_tags:
+  - Brain Injury
+  - Scar Formation
+  - Neonatal Development
+  - Glial Cells
+  - Axonal Regeneration
+tldr: The study investigates the response of the neonatal rat cerebral hemisphere to injury and the formation of scar tissue. It shows that immature brains do not develop scar tissue after injury, allowing axons and dendrites to traverse the lesion through growth or regeneration. However, as the brain matures, scar tissue forms, inhibiting axonal and dendritic growth. This research provides insights into the mechanisms of scarring in the brain and the arrest of axonal regrowth after injury.
+scientific_discipline: Biology and Life Sciences > Developmental Biology

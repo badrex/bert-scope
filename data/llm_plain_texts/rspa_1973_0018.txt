@@ -1,0 +1,10 @@
+article_id: rspa_1973_0018
+revised_title: Alkoxy Radical Intermediates in the Oxidation of Alcohols
+semantic_tags:
+  - Radical Chemistry
+  - Alkoxy Radicals
+  - Alcohol Oxidation
+  - Spin-Trapping Technique
+  - Nitroxide Radicals
+tldr: The authors used the radical scavenging technique to identify alkoxy radical intermediates during the thermal and photochemical oxidation of primary and secondary aliphatic alcohols. They found that oxidants like paraquat ion, peroxydisulphate ion, and lead tetraacetate produce alkoxy radicals from parent alcohols. The study confirms the intervention of alkoxy radicals in the oxidation process and provides insights into the mechanism and consequences of these reactions.
+scientific_discipline: Chemistry > Radical Chemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1913_0008
+revised_title: 'Detection and Absorption of Very Penetrating Radiation from Radium'
+semantic_tags:
+  - Radiation
+  - Radium
+  - Absorption
+  - Penetrating Radiation
+  - Ionization
+tldr: The authors conducted experiments to detect and measure the absorption of very penetrating radiation from radium. They used an electroscope and an ionization chamber to study the radiation's properties. The results showed that the radiation was absorbed exponentially and that there was no trace of any radiation more penetrating than the initial -ray beam. 
+scientific_discipline: Physics > Nuclear Physics

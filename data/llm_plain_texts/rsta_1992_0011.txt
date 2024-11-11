@@ -1,0 +1,10 @@
+article_id: rsta_1992_0011
+revised_title: Radiation and Scattering of Surface Waves by a Vertical Circular Cylinder in a Channel
+semantic_tags:
+  - Fluid Dynamics
+  - Wave Theory
+  - Channel Flow
+  - Multipole Theory
+  - Scattering
+tldr: This article presents a study on the radiation and scattering of surface waves by a vertical circular cylinder in a channel. The authors develop a fundamentally different method using channel multipoles to predict the far-field behavior and solve various problems involving circular cylinders in channels. They consider radiation and scattering problems, including cylinders occupying the whole depth of fluid and those with truncated cylinders.
+scientific_discipline: Physics > Fluid Dynamics

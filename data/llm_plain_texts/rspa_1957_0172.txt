@@ -1,0 +1,10 @@
+article_id: rspa_1957_0172
+revised_title: 'A Study on Work-Hardening, Fatigue, and Non-Propagating Cracks in Metals'
+semantic_tags:
+  - Fatigue
+  - Work-hardening
+  - Crack propagation
+  - Metals
+  - Strain-ageing
+tldr: This article discusses the behavior of fatigue cracks in metals, particularly focusing on non-propagating cracks. The authors explain that metals with good resistance to notch fatigue can develop a condition through strain-ageing that increases their resistance to crack propagation. They also emphasize the importance of understanding the factors governing crack growth and the role of non-propagating cracks in accounting for the difference between theoretical and experimental fatigue stress-concentration values.
+scientific_discipline: Materials Science > Mechanical Properties of Materials

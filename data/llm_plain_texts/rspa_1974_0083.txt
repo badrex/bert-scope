@@ -1,0 +1,10 @@
+article_id: rspa_1974_0083
+revised_title: 'Zinc Ferrite: A Paramagnetic Compound with Magnetic Ion Occupying the Octahedral Site'
+semantic_tags:
+  - Spintronics
+  - Ferrites
+  - Crystallography
+  - Specific heat
+  - Magnetic materials
+tldr: This article investigates the specific heat of zinc ferrite, a paramagnetic compound with a magnetic ion occupying the octahedral site. The authors propose a new component to the specific heat, which they associate with the off-center displacement of the magnetic ion. This new component helps to explain previous theoretical difficulties and provides insights into the material's properties.
+scientific_discipline: Physics > Condensed Matter Physics

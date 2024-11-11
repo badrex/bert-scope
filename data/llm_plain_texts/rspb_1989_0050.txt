@@ -1,0 +1,10 @@
+article_id: 'rspb_1989_0050'
+revised_title: 'Exploring the Stability and State Diagrams in Thalamic Neuron Firing Patterns'
+semantic_tags:
+  - Neuronal modeling
+  - Thalamic neurons
+  - Firing patterns
+  - Stability diagrams
+  - State diagrams
+tldr: The authors present a new model, the -model, for the assembly of ionic currents in a thalamic neuron. They demonstrate how the stability and state diagrams can be used to explain various firing patterns of thalamic and other neurons. The -model provides a better description of the double ramp response and is in agreement with the interpretation of the burst response mechanisms discussed by Jahnsen and Llinas.
+scientific_discipline: Biology and Life Sciences > Neuroscience

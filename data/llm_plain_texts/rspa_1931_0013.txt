@@ -1,0 +1,10 @@
+article_id: 'rspa_1931_0013'
+revised_title: 'Interferometric Measurements in the Arc Spectrum of Iron: Advancements and Comparisons'
+semantic_tags:
+  - Spectroscopy
+  - Interferometry
+  - Iron Spectrum
+  - Wave-length Measurements
+  - Astronomical Standards
+tldr: The authors conducted interferometric measurements in the arc spectrum of iron to improve the accuracy of wave-length measurements. They compared their findings with previous measurements and found a systematic difference, which they attributed to experimental error. The results contribute to the development of more accurate iron secondary standards for astronomical research.
+scientific_discipline: Physics > Optics

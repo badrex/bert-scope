@@ -1,0 +1,10 @@
+article_id: rsta_1993_0105
+revised_title: Advances in Semiconductor Growth, Surfaces, and Interfaces
+semantic_tags:
+  - Semiconductor materials
+  - Surface passivation
+  - Interface properties
+  - Schottky barriers
+  - Fermi level pinning
+tldr: This article discusses studies on III-V compound semiconductor surfaces and metal interfaces, focusing on techniques to reduce surface state densities and improve Schottky barrier heights. The authors explore photowashing, chalcogenide passivation, and other methods to achieve more controlled semiconductor interfaces, which can enhance the performance of high-speed and optoelectronic devices.
+scientific_discipline: Physics > Materials Science

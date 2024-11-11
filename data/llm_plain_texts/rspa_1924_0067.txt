@@ -1,0 +1,10 @@
+article_id: rspa_1924_0067
+revised_title: Temperature Dependence of Copper Catalyst Activity
+semantic_tags:
+  - Catalysis
+  - Copper catalyst
+  - Temperature coefficient
+  - Chemical reaction kinetics
+  - Temperature effects
+tldr: The authors studied the effect of temperature on the activity of a copper catalyst and the temperature coefficient of the catalytic reaction occurring on its surface. They developed a new method and apparatus to increase the accuracy of the method and ensure the catalyst's longevity. The results showed that the activity of the copper catalyst varied periodically with temperature, providing insights into the factors affecting catalytic reactions.
+scientific_discipline: Chemistry > Catalysis

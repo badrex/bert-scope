@@ -1,0 +1,10 @@
+article_id: 'rstb_1986_0023'
+revised_title: 'Metabolic Implications of Modularity in Colonial Organisms: Respiration and Growth in Electra pilosa'
+semantic_tags:
+  - Bryozoan biology
+  - Colonial organisms
+  - Metabolic rate
+  - Colony growth
+  - Modular construction
+tldr: The study investigates the respiration rate and growth of the encrusting bryozoan Electra pilosa, a modular colonial animal. It finds that the mass-specific respiration rate is independent of colony size, allowing colonial growth to be free from metabolic constraints. However, the rate of zooid production per individual decreases as the colony grows due to the two-dimensional growth pattern and the peripheral location of the budding zone. The study suggests that modular construction allows colonies to avoid metabolic allometry and accumulate modules exponentially until restrained by external factors.
+scientific_discipline: Biology and Life Sciences > Zoology

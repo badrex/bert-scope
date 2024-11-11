@@ -1,0 +1,10 @@
+article_id: rspa_1955_0153
+revised_title: Tide and Surge Propagation in Estuaries
+semantic_tags:
+  - Estuarine Hydrodynamics
+  - Tidal Dynamics
+  - Coastal Flooding
+  - Fluid Mechanics
+  - Wave Theory
+tldr: This paper investigates the distribution of a combination of tide and surge in an estuary, generated in the open sea. The study considers the effects of shallow water, friction, and contraction of the estuary on the propagation of waves. The results show that the height of a surge decreases as the range of tide increases, and the effects of shallow water and friction on the surge depend on the shape of the time graph of the surge.
+scientific_discipline: Environmental and Earth Sciences > Estuarine Hydrodynamics

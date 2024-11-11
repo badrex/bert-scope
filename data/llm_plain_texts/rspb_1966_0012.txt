@@ -1,0 +1,10 @@
+article_id: 'rspb_1966_0012'
+revised_title: 'Effects of Gamma-Rays on Deoxyribonucleohistone in Solution'
+semantic_tags:
+  - Radiation Biology
+  - DNA Damage
+  - Histone-DNA Interactions
+  - Molecular Biology
+  - Radiation Chemistry
+tldr: The authors studied the effects of gamma-rays on deoxyribonucleohistone (DNH) in solution. They found that gamma-irradiation caused a decrease in molecular weight and radius of gyration of DNH, suggesting that dissociation of histone from the DNA core might be occurring. The irradiated DNH also showed increased anionic electrophoretic mobility, indicating the loss of a cationic fragment from the molecule. The observed molecular-weight changes could be explained by a mechanism that combines histone dissociation by a "one-hit" process and DNA degradation by a "two-hit" process.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

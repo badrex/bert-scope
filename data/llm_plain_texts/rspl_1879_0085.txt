@@ -1,0 +1,10 @@
+article_id: rspl_1879_0085
+revised_title: Photographic Method of Mapping the Least Refrangible End of the Solar Spectrum
+semantic_tags:
+  - Spectroscopy
+  - Photometry
+  - Silver salts sensitivity
+  - Solar spectrum mapping
+  - Diffraction apparatus
+tldr: Captain W. de W. Abney presented a method for mapping the least refrangible end of the solar spectrum using photographic techniques. He developed silver bromide that absorbs red and ultra-red rays and is sensitive to them. Abney used both prismatic and diffraction apparatus to take photographs, creating a map of the solar spectrum from X-7600 to A-10750. He compared his work with other methods, such as Lamansky's prismatic thermograph and Sir J. Herschel's photograph of the prismatic spectrum.
+scientific_discipline: Physics > Optics

@@ -1,0 +1,10 @@
+article_id: rsta_1990_0002
+revised_title: 'Calcite Dissolution Kinetics and Mechanism at pH > 7'
+semantic_tags:
+  - Geochemistry
+  - Mineral Dissolution
+  - Surface Chemistry
+  - Environmental Science
+  - Earth Science
+tldr: The authors investigate the dissolution of calcite in aqueous solutions at pH greater than 7 using a flow cell experimental method. They develop a numerical computational method to model the dissolution kinetics and analyze the surface concentrations of reactants, which helps in understanding the mechanism of calcite dissolution under high pH conditions.
+scientific_discipline: Environmental and Earth Sciences > Geochemistry

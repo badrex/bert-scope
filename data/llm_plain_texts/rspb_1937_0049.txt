@@ -1,0 +1,10 @@
+article_id: 'rspb_1937_0049'
+revised_title: 'Investigating the Response of the Human Ear to Audio-frequency Electrical Stimulation'
+semantic_tags:
+  - Auditory system
+  - Cochlear nerve
+  - Frequency theory
+  - Electrical stimulation
+  - Hearing mechanisms
+tldr: The authors conducted experiments to understand the response of the human ear to audio-frequency electrical stimulation. They found that electrical currents passing through the cochlea activate all the fibers of the cochlear nerve, supporting the frequency theory of hearing. The study also compared the sensitivity of the ear to fractional increases in acoustic and electrical energy at subliminal intensity values.
+scientific_discipline: Biology and Life Sciences > Auditory System

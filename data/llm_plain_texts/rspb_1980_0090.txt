@@ -1,0 +1,10 @@
+article_id: 'rspb_1980_0090'
+revised_title: 'Air Movement and Heat Loss from Sheep: Boundary Layer Insulation of a Model Sheep'
+semantic_tags:
+  - 'Heat transfer'
+  - 'Sheep physiology'
+  - 'Air movement'
+  - 'Thermal insulation'
+  - 'Boundary layer'
+tldr: 'This study investigates the impact of air movement on heat loss from sheep, focusing on the boundary layer insulation of a model sheep with and without fleece. The research analyzes heat transfer through convection and its relation to wind speed, providing insights into the thermal regulation of livestock in various environments.'
+scientific_discipline: 'Environmental and Earth Sciences > Ecology and Environmental Management'

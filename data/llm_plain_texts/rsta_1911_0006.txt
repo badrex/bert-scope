@@ -1,0 +1,10 @@
+article_id: rsta_1911_0006
+revised_title: Specific Heats of Air and Carbon Dioxide: Continuous Electric Method
+semantic_tags:
+  - Thermodynamics
+  - Calorimetry
+  - Gas properties
+  - Heat transfer
+  - Temperature measurement
+tldr: This article presents experiments conducted by W. F. G. Swann and Prof. H. L. Callendar on the specific heats of air and carbon dioxide using the continuous electric method. They measured the specific heats over small temperature ranges and found that the method was well-suited for detecting small variations in specific heat with temperature. The research involved a complex apparatus and precise measurements, providing valuable insights into the thermal properties of these gases.
+scientific_discipline: Physics > Thermodynamics

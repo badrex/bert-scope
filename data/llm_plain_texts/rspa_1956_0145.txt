@@ -1,0 +1,10 @@
+article_id: rspa_1956_0145
+revised_title: 'Investigation of Fretting Corrosion in Mild Steel'
+semantic_tags:
+  - Corrosion
+  - Fretting
+  - Mild Steel
+  - Friction
+  - Wear
+tldr: This study investigates the fretting corrosion of mild steel under various loads and amplitudes of vibration. The research focuses on the frictional forces, wear rates, and contact resistances during the fretting process. The findings show that abrasion due to oxide can lead to mild wear, and the direct oxidation of the metal is relatively unimportant in this process.
+scientific_discipline: Engineering and Technology > Materials Science

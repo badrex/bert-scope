@@ -1,0 +1,10 @@
+article_id: rsta_1996_0119
+revised_title: Direct Atomic-Scale Interface Structure and Bonding Determination in Electronic Materials
+semantic_tags:
+  - Scanning Transmission Electron Microscope (STEM)
+  - Interface Structure
+  - Atomic Resolution
+  - Incoherent Imaging
+  - Maximum Entropy Analysis
+tldr: The authors demonstrate the use of the scanning transmission electron microscope (STEM) to directly determine interface structure and bonding in electronic materials at the atomic scale. Incoherent imaging and maximum entropy analysis allow for direct structure inversion and reveal unexpected insights into grain boundary units, dislocation core structures, and impurity segregation.
+scientific_discipline: Materials Science > Characterization Techniques

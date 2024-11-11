@@ -1,0 +1,10 @@
+article_id: 'rspb_1926_0043'
+revised_title: 'Equations for Simple Hemolytic Reactions and Their Implications'
+semantic_tags:
+  - Hemolysis
+  - Chemical reactions
+  - Lysin
+  - Cell resistance
+  - Hemolytic systems
+tldr: This article develops equations to describe simple hemolytic reactions, considering factors such as cell resistance, lysin concentration, and the distribution of resistances in the system. The author emphasizes the importance of understanding these equations to explain various phenomena in hemolysis, such as time-dilution curves, percentage hemolysis, and the relationship between different hemolytic systems.
+scientific_discipline: Chemistry > Chemical reactions and kinetics

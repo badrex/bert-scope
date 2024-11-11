@@ -1,0 +1,10 @@
+article_id: rspa_1948_0058
+revised_title: 'The Extension of Galvanomagnetic and Thermomagnetic Effects in Metals Theory'
+semantic_tags:
+  - Galvanomagnetic effects
+  - Thermomagnetic effects
+  - Metals conductivity
+  - Two-band model
+  - Magneto-resistance effects
+tldr: The authors extend the theory of galvanomagnetic and thermomagnetic effects in metals, investigating the influence of magnetic fields on electrical and thermal conductivities. They use a two-band model to explain the behavior of metals, particularly transition elements, and discuss the limitations of the free electron model. The study provides a better understanding of the transverse effects and their dependence on magnetic fields.
+scientific_discipline: Physics > Materials Science

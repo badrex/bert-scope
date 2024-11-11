@@ -1,0 +1,10 @@
+article_id: 'rstb_1995_0038'
+revised_title: 'Molecular Basis of Protein Folding: Experimental and Theoretical Perspectives'
+semantic_tags:
+  - Protein folding
+  - Molecular biology
+  - Structural biology
+  - Protein engineering
+  - Molecular dynamics
+tldr: This volume of papers discusses the molecular basis of protein folding, focusing on experimental and theoretical approaches. Topics include the elucidation of folding pathways, the use of physical techniques to characterize folding intermediates, theoretical methods for predicting protein structures, and the role of molecular chaperones in controlling protein folding.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

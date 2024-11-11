@@ -1,0 +1,10 @@
+article_id: rspa_1968_0183
+revised_title: 'Aerosol Formation and Control: Electrical Aspects and Applications'
+semantic_tags:
+  - Aerosol science
+  - Electrostatics
+  - Aerosol formation
+  - Aerosol control
+  - Combustion processes
+tldr: This article discusses the electrical aspects of aerosol formation and control, focusing on the mechanisms by which aerosol particles acquire charge and how electric fields can be used to manipulate them. The author explores various charging mechanisms, such as thermionic and field emission, thermal ionization, and attachment of ions and electrons. The article also highlights the use of electric fields in controlling the dispersion of liquids and solids, with applications in combustion processes and air pollution control.
+scientific_discipline: Physics > Electromagnetism

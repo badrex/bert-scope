@@ -1,0 +1,10 @@
+article_id: rspa_1965_0140
+revised_title: 'Damping of Capillary Waves by Surface Films: A Comprehensive Study'
+semantic_tags:
+  - Surface Waves
+  - Surface Tension
+  - Surface-Active Agents
+  - Wave Damping
+  - Fluid Dynamics
+tldr: This study investigates the damping of capillary waves by surface films, focusing on both soluble and insoluble films. The research explores the effects of surface compressional modulus, surface dilational viscosity, and surface shear viscosity on wave damping. The findings show that surface films can significantly affect wave damping, with surface compressional modulus being a crucial factor. The results are in excellent agreement with mathematical theories, demonstrating the importance of understanding the properties of surface films in controlling wave damping.
+scientific_discipline: Physics > Fluid Dynamics

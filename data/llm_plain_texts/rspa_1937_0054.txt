@@ -1,0 +1,10 @@
+article_id: rspa_1937_0054
+revised_title: 'Inhibition of Photochemical Reactions by Nitric Oxide: Acetaldehyde, Propionic Aldehyde, and Formaldehyde'
+semantic_tags:
+  - Photochemistry
+  - Nitric oxide
+  - Chain reactions
+  - Quantum efficiency
+  - Inhibition
+tldr: The authors conducted experiments to study the effect of nitric oxide on the photochemical decomposition of acetaldehyde, propionic aldehyde, and formaldehyde. They found that nitric oxide reduces the quantum efficiency of these reactions, breaking the chains depending on free radicals. The authors also observed that larger amounts of nitric oxide cause oxidation reactions, making measurements difficult. The study provides insights into the inhibition of photochemical reactions and the efficiency of nitric oxide in breaking chains.
+scientific_discipline: Chemistry > Photochemistry

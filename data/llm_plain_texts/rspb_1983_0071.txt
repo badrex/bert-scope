@@ -1,0 +1,10 @@
+article_id: 'rspb_1983_0071'
+revised_title: 'Inference Problems in Population Genetics: DNA Sequences, Restriction Endonucleases, and Ascertainment Sampling'
+semantic_tags:
+  - Population Genetics
+  - DNA Sequences
+  - Restriction Endonucleases
+  - Ascertainment Sampling
+  - Mathematical Genetics
+tldr: This article discusses the challenges and importance of using mathematical models in population genetics, particularly when dealing with DNA sequences, restriction endonucleases, and ascertainment sampling. The authors argue that while a mathematical approach is not always necessary, it can provide depth and accuracy to inference procedures, especially when considering conditional arguments and the impact of different apparatuses on genetic data analysis.
+scientific_discipline: Biology and Life Sciences > Population Genetics

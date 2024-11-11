@@ -1,0 +1,10 @@
+article_id: rspa_1924_0102
+revised_title: 'Exploring the Constants of the Rydberg-Ritz Equation and Screening Imperfection'
+semantic_tags:
+  - Atomic Physics
+  - Quantum Mechanics
+  - Spectroscopy
+  - Atomic Structure
+  - Rydberg-Ritz Equation
+tldr: The authors investigate the Rydberg-Ritz equation and the constants involved in it. They introduce the concept of screening imperfection, which is the excess of the effective nuclear charge due to the finite size of the atomic kernel. They analyze the relationship between the screening imperfection and the stage of ionization, and propose a model to explain the observed discrepancies in spectral terms. The study provides insights into the atomic structure and the behavior of electrons in atoms.
+scientific_discipline: Physics > Atomic Physics

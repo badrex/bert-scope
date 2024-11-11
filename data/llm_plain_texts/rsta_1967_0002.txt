@@ -1,0 +1,10 @@
+article_id: rsta_1967_0002
+revised_title: Additive Congruences and Exponential Sums in Number Theory
+semantic_tags:
+  - Number Theory
+  - Congruences
+  - Exponential Sums
+  - Diophantine Equations
+  - Gaussian Sums
+tldr: The author investigates conditions for the existence of primitive solutions in additive homogeneous congruences, specifically focusing on the case when the modulus is a prime power. They explore various methods, including exponential sums and residue class addition, to estimate and evaluate the number of solutions. The study has implications for understanding Diophantine equations and number theory.
+scientific_discipline: Mathematics > Number Theory

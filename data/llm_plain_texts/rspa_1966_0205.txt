@@ -1,0 +1,10 @@
+article_id: 'rspa_1966_0205'
+revised_title: 'Graph Traverser Program: A Heuristic Method for Solving Problems'
+semantic_tags:
+  - Heuristic methods
+  - Problem-solving
+  - Graph theory
+  - State-evaluation
+  - Artificial intelligence
+tldr: The Graph Traverser program is an automatic method for solving problems in the family of finding a path between two specified nodes of a specified graph. It uses evaluation functions to assign values to problem states based on their distance from the goal state. The program operates in a general way and can be applied to various problems, including sliding block puzzles and algebraic manipulation. The results show the efficiency of the search and the potential for improvement in evaluating states.
+scientific_discipline: Artificial Intelligence > Heuristic Methods

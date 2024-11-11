@@ -1,0 +1,10 @@
+article_id: rspa_1927_0160
+revised_title: 'Electromagnetic Phenomena in Gravitational Fields: Quasi-Uniform and Single Attracting Centre'
+semantic_tags:
+  - General Relativity
+  - Electromagnetism
+  - Gravitational Fields
+  - Electromagnetic Potential
+  - Electromagnetic Waves
+tldr: The author explores the interaction between electromagnetism and gravitation in different gravitational fields, specifically focusing on the quasi-uniform field and the field due to a single attracting center. They derive equations for determining the electric potential in these fields and discuss the electric potential due to a single point-charge and spherical electromagnetic waves in the presence of a gravitational field.
+scientific_discipline: Physics > Electromagnetism

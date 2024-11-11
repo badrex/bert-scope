@@ -1,0 +1,10 @@
+article_id: rspa_1957_0080
+revised_title: 'Investigation of the Thickness of the Saturated Helium Film Above and Below the -Point'
+semantic_tags:
+  - Helium film
+  - Film thickness
+  - Temperature
+  - Adsorption isotherms
+  - Optical method
+scientific_discipline: Physics > Thermodynamics
+tldr: The authors investigated the thickness of the saturated helium film above and below the -point using an improved optical method. They found that the film thickness is nearly independent of temperature from to 2 K. The results showed that the film is essentially the same above and below the -point, and the thickness varies little between and. The authors discussed the differences between their results and those of other investigations of the helium film.

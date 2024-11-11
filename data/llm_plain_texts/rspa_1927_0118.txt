@@ -1,0 +1,10 @@
+article_id: rspa_1927_0118
+revised_title: Mathematical Modeling of Epidemics and Threshold Densities
+semantic_tags:
+  - Epidemiology
+  - Mathematical modeling
+  - Infectious diseases
+  - Population dynamics
+  - Public health
+tldr: This article presents a mathematical model for understanding the spread of infectious diseases in a population. The authors introduce the concept of a threshold density, which determines whether an epidemic will continue to grow or eventually die out. They also discuss the impact of infectivity rates, recovery, and death rates on the spread of diseases. This work provides valuable insights into the factors that influence the course of epidemics and can help inform public health strategies.
+scientific_discipline: Mathematics > Applied Mathematics

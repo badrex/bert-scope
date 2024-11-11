@@ -1,0 +1,10 @@
+article_id: 'rspb_1977_0062'
+revised_title: 'The Impact of Retinal-Image Movements on Vision: Step and Pulse Movements'
+semantic_tags:
+  - Visual Perception
+  - Eye Movements
+  - Retinal-Image Stabilization
+  - Vision Science
+  - Neurophysiology
+tldr: 'The authors conducted experiments to study the effects of retinal-image movements on vision. They found that step-movements and pulse-movements have different impacts on visual perception. For step-movements, the target remains in a new position, while for pulse-movements, the target is displaced for a short time and then returns to its original position. The study helps to understand the importance of eye movements for normal vision and how they affect the perception of visual stimuli.'
+scientific_discipline: 'Biology and Life Sciences > Neurophysiology'

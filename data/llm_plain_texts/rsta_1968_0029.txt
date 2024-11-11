@@ -1,0 +1,10 @@
+article_id: 'rsta_1968_0029'
+revised_title: 'Sandwich Damping Treatment for Noise Reduction in Industrial Concrete Structures'
+semantic_tags:
+  - Vibration damping
+  - Noise reduction
+  - Prestressed concrete
+  - Bitumen-rubber latex mixture
+  - Structural engineering
+tldr: The article discusses the application of sandwich damping treatment to concrete structures in industrial environments to reduce noise and vibration. The technique involves using a bitumen-rubber latex mixture as a damping material, which adheres readily to concrete surfaces and provides effective damping for vibrations. The effectiveness of this technique is demonstrated through the damping of the foundations for a railway in the City of London. 
+scientific_discipline: Engineering and Technology > Structural Engineering

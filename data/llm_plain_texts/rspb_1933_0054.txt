@@ -1,0 +1,10 @@
+article_id: 'rspb_1933_0054'
+revised_title: 'The Effect of Steady Activity on Recovery Heat Production in Frog's Nerve'
+semantic_tags:
+  - Neurophysiology
+  - Heat production
+  - Frog nerve
+  - Steady state
+  - Recovery process
+tldr: The authors conducted experiments to study the relationship between initial and recovery heat production in frog's nerve during steady activity. They discovered that the rate of recovery heat production corresponds to the rate of initial heat production, and the ratio of total to initial heat is significantly higher when recovery is followed for a longer period. This research provides insights into the efficiency of the recovery process in nerve activity.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

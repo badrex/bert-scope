@@ -1,0 +1,10 @@
+article_id: rspa_1921_0029
+revised_title: 'A New Theory of Stellar Spectra: Thermal Ionization and Thermal Radiation'
+semantic_tags:
+  - Astrophysics
+  - Stellar Spectra
+  - Thermal Ionization
+  - Ionization Potential
+  - Quantum Theory
+tldr: The author presents a new theory of stellar spectra, explaining the ordered gradation in the spectra of stars through the concept of thermal ionization and thermal radiation. The theory suggests that increasing temperature causes atoms to ionize, leading to distinct spectral lines. This theory helps to identify ionized elements in various physical systems and provides a better understanding of stellar classification.
+scientific_discipline: Physics > Astrophysics

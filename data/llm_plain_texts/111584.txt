@@ -1,0 +1,10 @@
+article_id: 111584
+revised_title: On the Double Tangent of a Plane Curve: A Study in Analytical Geometry
+semantic_tags:
+  - Analytical Geometry
+  - Algebraic Curves
+  - Tangents
+  - Mathematical Equations
+  - Binary Quantities
+tldr: This article discusses the problem of finding the number of double tangents in a plane curve. The author, Arthur Cayley, provides an analytical approach to determine the double tangents and establishes an identical equation that highlights the properties of the curve of order (n-2). This equation is also important in the general theory of binary quantities.
+scientific_discipline: Mathematics > Analytical Geometry

@@ -1,0 +1,10 @@
+article_id: 'rspb_1907_0003'
+revised_title: 'The Impact of Increased Barometric Pressure on Human Health and Decompression'
+semantic_tags:
+  - Decompression sickness
+  - Barometric pressure
+  - Nitrogen saturation
+  - Caisson workers
+  - Diving medicine
+tldr: The authors conducted experiments to study the effects of increased barometric pressure on humans. They found that the body fluids absorb nitrogen in accordance with Dalton's law and that saturation is attained after exposure to pressures of +30 to 45 lbs. for 10 to 15 minutes. However, even with a decompression rate of 20 minutes per atmosphere, equilibrium between dissolved and atmospheric nitrogen is not completed 15 minutes after decompression. This research has implications for the safety of caisson workers and diving operations.
+scientific_discipline: Medicine and Health Sciences > Diving Medicine

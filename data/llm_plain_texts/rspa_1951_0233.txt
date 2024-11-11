@@ -1,0 +1,10 @@
+article_id: rspa_1951_0233
+revised_title: Numerical Evaluation of Integral for Absorption in Circular Cylinders
+semantic_tags:
+  - Integral Evaluation
+  - Absorption Law
+  - Circular Cylinders
+  - Radiation Absorption
+  - Mathematical Statistics
+tldr: The article discusses the numerical evaluation of a sixfold integral related to the absorption of radiation in right circular cylinders. The integral is reduced to a single integral using analytical methods, and a function is tabulated that can be useful in other applications, such as dynamical astronomy. The theory is illustrated with an example of radioactive radiation absorption in rods.
+scientific_discipline: Mathematics > Integral Evaluation

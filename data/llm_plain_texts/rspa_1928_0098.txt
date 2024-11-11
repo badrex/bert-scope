@@ -1,0 +1,10 @@
+article_id: rspa_1928_0098
+revised_title: 'Rayleigh's Theory and Its Applications in Continuous Systems'
+semantic_tags:
+  - Vibrations
+  - Frequency calculation
+  - Rayleigh's principle
+  - Continuous systems
+  - String vibrations
+tldr: This article examines and extends Rayleigh's method for calculating the frequency of vibrations in continuous systems, specifically focusing on string vibrations. The author demonstrates how to obtain an upper bound to the fundamental frequency and the first overtone using various functions satisfying the boundary conditions. The article also discusses the concept of spectrum, whether it is a line spectrum or a band spectrum, and the existence of multiple solutions associated with characteristic numbers.
+scientific_discipline: Physics > Mechanics

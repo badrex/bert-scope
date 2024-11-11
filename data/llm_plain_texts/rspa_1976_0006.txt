@@ -1,0 +1,10 @@
+article_id: rspa_1976_0006
+revised_title: Collective Ordering through Multidimensional Attribute Space
+semantic_tags:
+  - Voting Theory
+  - Multivariate Analysis
+  - Statistical Modeling
+  - Social Choice Theory
+  - Decision Making
+tldr: The authors propose a method for producing a collective ordering of options or candidates based on individual orderings from each voter. They assume that candidates can be located in an attribute space, and voters have an ideal point in that space. The method uses a multivariate normal distribution of ideal points and assumes that indifference surfaces for each voter are ellipsoids centered at their ideal points. The collective ordering is determined by the distances of candidate representative points from the mode of the distribution.
+scientific_discipline: Social Sciences > Social Choice Theory

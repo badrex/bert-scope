@@ -1,0 +1,10 @@
+article_id: rsnr_1995_0029
+revised_title: The Comparison of Literary and Scientific Styles in Max Born's Letters and Articles
+semantic_tags:
+  - Literary Analysis
+  - Scientific Prose
+  - Style Comparison
+  - C.P. Snow's Two Cultures
+  - Word Counting Analysis
+scientific_discipline: Social Sciences, Art, and Humanities > Literary Analysis
+tldr: This article examines the differences between literary and scientific styles by comparing the letters and articles of physicist Max Born. It explores the question of whether a scientist's scientific prose is different from their literary prose and uses statistical analysis to determine the probability that the sentence-lengths in scientific and literary texts come from the same distribution. The study finds that the probability is very low, indicating that scientific and literary texts have distinct writing styles.

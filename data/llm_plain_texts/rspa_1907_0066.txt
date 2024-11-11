@@ -1,0 +1,10 @@
+article_id: rspa_1907_0066
+revised_title: The Effect of Pressure on Iron Arc Spectra
+semantic_tags:
+  - Spectroscopy
+  - Pressure effects
+  - Iron arc
+  - Line broadening
+  - Line displacement
+tldr: This study investigates the effect of pressure on the spectra of an iron arc. The researchers found that as pressure increases, the lines in the arc spectra become broader and are displaced towards the red side of the spectrum. The displacement is real and not due to unsymmetrical broadening. The iron arc lines can be grouped into three main groups based on the amounts of their displacements. The relationship between pressure and displacement is generally linear, but some abnormal readings were observed.
+scientific_discipline: Physics > Optics

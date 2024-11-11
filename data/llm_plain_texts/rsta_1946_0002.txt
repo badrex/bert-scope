@@ -1,0 +1,10 @@
+article_id: rsta_1946_0002
+revised_title: 'Advanced Methods for Calculating Variable Heat Flow in Solids'
+semantic_tags:
+  - Heat conduction
+  - Thermal properties
+  - Heat flow
+  - Heat transfer
+  - Differential equations
+tldr: The authors present a method for calculating variable heat flow in solids, allowing for the evaluation of solutions to the equations of heat conduction when thermal properties vary with temperature. This method has wider applications, such as to the formally analogous equation of diffusion and the equations of the laminar boundary layer in the motion of a viscous fluid. The technique is more accurate and less laborious than previous methods, making it suitable for a broader range of problems.
+scientific_discipline: Physics > Thermodynamics

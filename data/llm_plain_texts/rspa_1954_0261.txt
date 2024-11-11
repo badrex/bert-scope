@@ -1,0 +1,10 @@
+article_id: rspa_1954_0261
+revised_title: Fine Structure of Helium Line 4686 and Quantum Electrodynamics
+semantic_tags:
+  - Atomic Physics
+  - Quantum Mechanics
+  - Spectroscopy
+  - Quantum Electrodynamics
+  - Helium
+tldr: The author investigates the fine structure of the 4686 Å line of singly ionized helium using a liquid-hydrogen-cooled discharge tube and two Fabry-Perot etalons in series. They resolve and measure eight components and find that some energy levels are displaced from the positions predicted by the Dirac theory. These displacements are in good agreement with the predictions of the new theory of quantum electrodynamics.
+scientific_discipline: Physics > Atomic Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1953_0131
+revised_title: The Phase Transition in Superconductors II: Propagation Above the Critical Field
+semantic_tags:
+  - Superconductivity
+  - Electromagnetic damping
+  - Eddy currents
+  - Phase propagation
+  - Critical field
+tldr: The authors conducted experiments on cylindrical tin rods to study the phase transition in superconductors when exposed to a magnetic field above the critical value. They found that the superconducting phase collapses radially, and their results confirm the theory of Pippard and Lifshitz, which explains the propagation process through electromagnetic damping associated with eddy currents. The experiments also provide evidence that the relaxation time is less than in tin.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rspa_1973_0015
+revised_title: 'Spectroscopic Analysis of Diatomic Hydride and Deuteride Spectra of Second Row Transition Metals'
+semantic_tags:
+  - Spectroscopy
+  - Transition metals
+  - Diatomic molecules
+  - Absorption spectra
+  - Shock tube experiments
+tldr: This study investigates the absorption spectra of diatomic hydride and deuteride molecules of the second row transition metals, including scandium, titanium, vanadium, chromium, manganese, iron, cobalt, and nickel. The authors used a shock tube to produce high temperatures and observed the spectra in absorption behind reflected shock waves. The results provide insights into the electronic structure and bonding of these transition metal molecules, which can have astrophysical importance and contribute to our understanding of the role of electrons in their bonding.
+scientific_discipline: Chemistry > Spectroscopy

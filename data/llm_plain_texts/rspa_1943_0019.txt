@@ -1,0 +1,10 @@
+article_id: rspa_1943_0019
+revised_title: 'Statistics of Binary Systems and Critical Temperatures'
+semantic_tags:
+  - Statistical mechanics
+  - Thermodynamics
+  - Phase transitions
+  - Binary systems
+  - Critical temperature
+tldr: This article discusses the statistical properties of binary systems and the critical temperatures involved in their phase transitions. The author presents a theory that predicts the behavior of heat content and specific heat in these systems, and compares it with previous theories. The study focuses on the conditions under which the specific heat remains continuous and the implications of these findings for understanding phase boundaries and critical points in binary systems.
+scientific_discipline: Physics > Thermodynamics

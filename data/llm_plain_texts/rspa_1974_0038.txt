@@ -1,0 +1,10 @@
+article_id: rspa_1974_0038
+revised_title: 'Approximate Methods in Geophysical Inverse Problems: A Review'
+semantic_tags:
+  - Geophysics
+  - Inverse Problems
+  - Backus-Gilbert Method
+  - Earth Models
+  - Projectors
+scientific_discipline: Earth Sciences > Geophysics
+tldr: This article discusses various approximate methods used in geophysics to analyze inverse problems. It focuses on the Backus-Gilbert method, which constructs a linear combination of kernels to infer parameters from measured values. The author provides some remarks on the amount of information given by these methods and the consequences of non-linearity in inverse problems. The article also presents approximate formulae for Backus-Gilbert averaging kernels and integral equations to derive them from Dirichlet kernels.

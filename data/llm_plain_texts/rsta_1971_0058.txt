@@ -1,0 +1,10 @@
+article_id: rsta_1971_0058
+revised_title: High Resolution Interferometric Studies of the Solar Magnesium II Doublet Spectral Region
+semantic_tags:
+  - Solar studies
+  - Interferometry
+  - Magnesium II doublet spectral region
+  - Solar observations
+  - Space observations
+tldr: This article discusses high-resolution interferometric studies of the solar magnesium II doublet spectral region. The authors used a rocket-borne spectrograph to obtain spatially resolved profiles of the Mg II doublet spectral region, with a resolution limit of 1.6 pm. They found that solar activity has a significant influence on the recorded Mg II emission lines, and the results demonstrate the sensitivity of the Mg II lines to changes in chromospheric activity.
+scientific_discipline: Physics > Astronomy

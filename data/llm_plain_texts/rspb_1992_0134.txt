@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0134'
+revised_title: 'Presynaptic Enhancement of Signal Transients in Photoreceptor Terminals in the Compound Eye: Intracellular Recordings and Voltage-Sensitive Conductances'
+semantic_tags:
+  - Neurophysiology
+  - Photoreceptor terminals
+  - Signal transients
+  - Voltage-sensitive conductances
+  - Compound eye
+tldr: Intracellular recordings from photoreceptor axons in the compound eye reveal a fast depolarizing transient (fdt) that enhances signal transients. The fdt is caused by a voltage-dependent increase in conductance localized in the photoreceptor axon terminals, amplifying the peak presynaptic response and contributing to synaptic amplification and boosting high frequencies in the visual system's first synapse.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

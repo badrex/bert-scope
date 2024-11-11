@@ -1,0 +1,10 @@
+article_id: rspa_1922_0011
+revised_title: Thermodynamics of Explosions and Internal Ballistics
+semantic_tags:
+  - Thermodynamics
+  - Explosions
+  - Internal Ballistics
+  - Gas Dynamics
+  - Chemistry of Explosives
+tldr: The authors apply recent advances in thermodynamics to the study of explosions and internal ballistics. They develop a theory that calculates the entire indicator diagram of a gun, considering the chemical composition of the propellant, the rate of burning, and the variation of specific heats of gases with temperature. This theory was tested during the war and showed satisfactory agreement between theory and practice.
+scientific_discipline: Physics > Gas Dynamics

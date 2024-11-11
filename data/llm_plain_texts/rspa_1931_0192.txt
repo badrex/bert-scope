@@ -1,0 +1,10 @@
+article_id: rspa_1931_0192
+revised_title: 'Kinetics of Ozone Decomposition in Carbon Tetrachloride Solution'
+semantic_tags:
+  - Chemical kinetics
+  - Ozone decomposition
+  - Carbon tetrachloride
+  - Solvent effects
+  - Unimolecular reactions
+tldr: This study investigates the decomposition of ozone in carbon tetrachloride solution and finds that it occurs unimolecularly. The rate of decomposition is not influenced by impurities in the solvent, and the reaction is faster in solution than in the gaseous state. The findings suggest that the solvent acts as an inert gas, facilitating the unimolecular reaction. The study also explores the effect of adding chlorine to the reaction, finding that it increases the rate of decomposition.
+scientific_discipline: Chemistry > Chemical kinetics

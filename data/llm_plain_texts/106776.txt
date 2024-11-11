@@ -1,0 +1,10 @@
+article_id: 106776
+revised_title: 'Investigations into Heat Conduction and Insulation'
+semantic_tags:
+  - Thermodynamics
+  - Heat transfer
+  - Insulation
+  - Conductivity
+  - Temperature regulation
+tldr: The author, Benjamin Thompson, conducted experiments to determine the factors affecting heat conduction and insulation. He developed a passage-thermometer to measure the passage of heat through various substances, such as silk, wool, and cotton. The experiments showed that the density and internal structure of the materials played a significant role in their ability to conduct or insulate heat. This research could lead to improvements in fuel and clothing efficiency, increasing human comfort and convenience.
+scientific_discipline: Physics > Thermodynamics

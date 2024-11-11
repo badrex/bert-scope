@@ -1,0 +1,10 @@
+article_id: rspa_1963_0067
+revised_title: 'Anomalies in Silicon Carbide Polytypes: A Reevaluation of Dislocation Theory'
+semantic_tags:
+  - Crystallography
+  - Polytypism
+  - Silicon Carbide
+  - Dislocation Theory
+  - X-ray Diffraction
+tldr: The authors investigated the structure and formation of silicon carbide polytypes, specifically focusing on three new polytypes. They discovered anomalies in the structures that cannot be explained by Frank's dislocation theory. The detailed atomic structure of one of the polytypes was determined, revealing a Zhdanov symbol. The authors suggest that screw dislocations determine the surface structure but not the contents of the unit cell, and thus the cause of polytypism needs to be reconsidered.
+scientific_discipline: Physics > Crystallography

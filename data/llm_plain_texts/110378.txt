@@ -1,0 +1,10 @@
+article_id: 110378
+revised_title: Investigating Electro-Chemical Decomposition and the Role of Water
+semantic_tags:
+  - Electrochemistry
+  - Electrochemical decomposition
+  - Michael Faraday
+  - Conductivity
+  - Electrolytes
+tldr: In this research, Michael Faraday investigates the nature of electro-chemical decomposition. He demonstrates that the effect does not depend on the simultaneous action of two metallic plates, as a single pole can be used to cause decomposition. Faraday also explores the influence of water in electro-chemical decomposition, showing that water is just one of many bodies that can conduct electric influence and effect decomposition.
+scientific_discipline: Chemistry > Electrochemistry

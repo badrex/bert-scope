@@ -1,0 +1,10 @@
+article_id: rspa_1964_0033
+revised_title: 'Triplet State Decay: First-order Processes in Solution'
+semantic_tags:
+  - Triplet state decay
+  - First-order processes
+  - Solvent viscosity
+  - Organic molecules
+  - Flash photolysis
+tldr: The authors studied the decay of triplet states in various organic molecules in solution, focusing on first-order processes. They found that the decay rate is influenced by solvent viscosity and temperature. The results showed two distinct regimes of triplet decay: a high viscosity regime where the rate is nearly independent of temperature and viscosity, and a low viscosity regime where diffusion-controlled quenching processes are operative. The authors used flash photolysis to investigate these processes at low temperatures, linking their findings to previous studies in rigid glasses and crystals.
+scientific_discipline: Chemistry > Organic Chemistry

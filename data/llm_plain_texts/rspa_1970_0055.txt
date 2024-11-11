@@ -1,0 +1,10 @@
+article_id: rspa_1970_0055
+revised_title: 'Molecular Heat of Atomization and Bond Lengths of Nitrogen and Oxygen Compounds'
+semantic_tags:
+  - Quantum Chemistry
+  - Molecular Orbital Theory
+  - Computational Chemistry
+  - Nitrogen Compounds
+  - Oxygen Compounds
+tldr: The authors developed a new method for calculating the heat of atomization and bond lengths of nitrogen and oxygen compounds using molecular orbital theory. They tested their method on various compounds and found that their results were in closer agreement with experimental data compared to previous methods. This approach can be extended to other heteroconjugated systems, such as compounds containing boron, fluorine, and third row elements.
+scientific_discipline: Chemistry > Quantum Chemistry

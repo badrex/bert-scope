@@ -1,0 +1,10 @@
+article_id: 'rspa_1989_0125'
+revised_title: 'A Modern Approach to Authentication Protocols'
+semantic_tags:
+  - Cryptography
+  - Authentication
+  - Distributed Systems
+  - Formal Logic
+  - Security Protocols
+tldr: The authors present a logic specifically designed for analyzing authentication protocols in distributed computing systems. This logic allows for a precise understanding of the differences between various protocols and their required initial assumptions and final beliefs. The authors demonstrate the application of this logic to protocols using shared-key cryptography and public-key cryptography, highlighting its potential for answering questions about the effectiveness and assumptions of authentication protocols.
+scientific_discipline: Computer Science > Cryptography

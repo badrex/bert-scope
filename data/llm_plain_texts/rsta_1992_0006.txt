@@ -1,0 +1,10 @@
+article_id: rsta_1992_0006
+revised_title: Acoustic Scattering by Finite Elastic Strips: A Wiener-Hopf Approach
+semantic_tags:
+  - Elasticity
+  - Acoustic scattering
+  - Wave diffraction
+  - Wiener-Hopf technique
+  - Finite strip
+tldr: This article presents a method for solving the problem of acoustic scattering by a finite elastic strip using the Wiener-Hopf technique. The author derives the associated integral equations and describes the numerical implementation of the method. The results show the effects of leaky waves above the coincidence frequency of the plate and resonances below that frequency.
+scientific_discipline: Engineering and Technology > Acoustics

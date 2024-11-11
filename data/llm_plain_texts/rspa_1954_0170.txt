@@ -1,0 +1,10 @@
+article_id: rspa_1954_0170
+revised_title: Chromium Oxide-Aluminum Oxide Catalysts for Heptane Conversion to Toluene
+semantic_tags:
+  - Catalysis
+  - Chemical reactions
+  - Chromium oxide
+  - Aluminum oxide
+  - Heptane conversion
+tldr: This study investigates the activity and composition of chromium oxide-aluminum oxide catalysts in converting heptane to toluene. The catalysts show two regions of maximum activity, and the reaction is found to be of zero order. The activation energy is close to that observed for the conduction process on the reduced catalyst, suggesting that the rate-controlling step in the reaction is the formation of conducting centers.
+scientific_discipline: Chemistry > Catalysis

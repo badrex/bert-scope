@@ -1,0 +1,10 @@
+article_id: 'rspb_1977_0011'
+revised_title: 'Energy Sources and Transport Mechanisms in the Small Intestine'
+semantic_tags:
+  - Intestinal transport
+  - Metabolism
+  - Energy sources
+  - Rat and hamster small intestine
+  - Nutrient competition
+tldr: This study investigates the sources of energy for intestinal transport in rats and hamsters. The authors found that glucose and amino acids compete for energy in the rat intestine, while in the hamster, they may also interact at the carrier level. Citrate is more rapidly transferred and metabolized by hamster than rat intestine, indicating differences in energy metabolism between the two species.
+scientific_discipline: Biology and Life Sciences > Physiology

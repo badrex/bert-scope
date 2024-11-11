@@ -1,0 +1,10 @@
+article_id: rspa_1953_0091
+revised_title: 'Investigation of Insulators with No Electrification after Light Contact with Metals'
+semantic_tags:
+  - Surface electrification
+  - Insulators
+  - Tribo-electricity
+  - Contact potential
+  - Material properties
+tldr: The author investigates the static electrification of insulating surfaces after light contact with metals and finds that hydrophilic surfaces like glass acquire a considerable charge, while hydrophobic surfaces like amber show negligible charging. The study focuses on materials that show no electrification, such as organic materials and synthetic polymers, and contrasts them with materials that exhibit normal charging. The results have implications for understanding the behavior of insulators and the underlying mechanisms of tribo-electricity.
+scientific_discipline: Physics > Material Science

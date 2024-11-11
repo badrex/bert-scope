@@ -1,0 +1,10 @@
+article_id: rspa_1965_0049
+revised_title: Anisotropy of Thermal Conductance in Graphite: A Study of Ideal Graphite
+semantic_tags:
+  - Thermal Conductivity
+  - Graphite Materials
+  - Anisotropy
+  - Heat Transfer
+  - Solid State Physics
+tldr: This article reports measurements of thermal conductivities in various types of pyrolytic graphites, including annealed and hot-pressed graphite. The thermal conductivities in both basal plane and -axis directions approach the values for ideal graphite at higher temperatures. The anisotropy of thermal conduction in ideal graphite is studied, and the origins of this anisotropy are discussed. The authors also present a new apparatus for measuring thermal conductivities in well-oriented graphites without distorting the samples.
+scientific_discipline: Physics > Solid State Physics

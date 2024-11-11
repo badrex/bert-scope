@@ -1,0 +1,10 @@
+article_id: rspa_1982_0024
+revised_title: 'A Study of the Mechanism of Corrosion in Ferritic Steels in High-Pressure Carbon Dioxide'
+semantic_tags:
+  - Corrosion
+  - Materials Science
+  - High-Pressure Carbon Dioxide
+  - Oxidation Mechanisms
+  - Steel
+tldr: The authors investigated the oxidation mechanisms of a high-silicon mild steel in high-pressure carbon dioxide using oxygen-18 as a tracer. They found that oxide formation occurred at the oxide-gas interface, within the scale, and possibly at the oxide-metal interface. The results for this steel are compared with those for a low-silicon mild steel, Fe-9%Cr alloys, and nickel. The study aims to understand the mechanism of high-pressure oxidation in its various stages and its impact on the corrosion of ferritic steels.
+scientific_discipline: Materials Science > Corrosion

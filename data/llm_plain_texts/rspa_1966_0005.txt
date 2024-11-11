@@ -1,0 +1,10 @@
+article_id: rspa_1966_0005
+revised_title: Relativistic Extension of Non-Compact Symmetry Groups in Particle Physics
+semantic_tags:
+  - Group Theory
+  - Particle Physics
+  - Relativity
+  - Non-Compact Symmetry
+  - Unitary Representations
+tldr: This article presents a method for extending non-compact symmetry groups in particle physics to include relativistic effects. The authors use a combination of Lorentz transformations and space-time translations to create a unitary norm for multiplets of the little group, allowing for the study of particles in motion. The focus is on the non-compact rest-symmetry group, which contains the successful compact rest-symmetry as a subgroup. The article demonstrates the procedure for embedding a rest-symmetry into a relativistic manifold and discusses the resulting maximal residual symmetries for matrix elements involving different numbers of momenta.
+scientific_discipline: Physics > Particle Physics

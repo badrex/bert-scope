@@ -1,0 +1,10 @@
+article_id: rspa_1962_0088
+revised_title: Electrical Resistivities of Palladium-Silver Alloys: Theoretical Analysis and Experimental Results
+semantic_tags:
+  - Alloy Chemistry
+  - Electrical Resistivity
+  - Materials Science
+  - Solid State Physics
+  - Palladium Silver Alloys
+tldr: The authors conducted experiments on the electrical resistivities of palladium-silver alloys and used a theoretical model to analyze the results. They found that the residual resistivity and temperature-dependent resistivity can be explained by considering the density of states at the Fermi surface and the scattering of electrons in the alloy system. The model provided a good qualitative account of the observed behavior of electrical resistivities in the alloys.
+scientific_discipline: Physics > Solid State Physics

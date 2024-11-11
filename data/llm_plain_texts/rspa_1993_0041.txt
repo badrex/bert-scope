@@ -1,0 +1,10 @@
+article_id: rspa_1993_0041
+revised_title: Inviscid Vortex Instabilities in Boundary Layers and Stratified Shear Flows
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Vortex Instability
+  - Stratified Shear Flows
+  - Gortler Vortices
+tldr: This article investigates the inviscid instability of three-dimensional boundary layer flows with a small crossflow over locally concave or convex walls, as well as the inviscid instability of stratified shear flows. The authors show how these two problems are closely related through the forms of their governing equations and propose a generalized Richardson number for neutrally stable inviscid vortex motions. The study finds that an increase in crossflow renders stability in a progressively broader range of spanwise wavenumbers, and the effect of crossflow on the stability properties of different modes is non-uniform in the wavenumber space.
+scientific_discipline: Fluid Dynamics > Boundary Layer Theory

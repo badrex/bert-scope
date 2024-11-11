@@ -1,0 +1,10 @@
+article_id: rspa_1996_0103
+revised_title: Shock Wave Response and Failure Mechanisms of Filled Glass
+semantic_tags:
+  - Shock wave physics
+  - Glass materials
+  - Hugoniot elastic limit
+  - Failure mechanisms
+  - Dynamic compressive strength
+tldr: This article investigates the shock wave response and failure mechanisms of a filled glass called DEDF. The authors conducted plate impact experiments and found that the glass exhibits a typical elasto-plastic Hugoniot curve. The material shows a lower dynamic compressive strength compared to other glasses and a distinct precursor decay. The failure process appears to be separate from the Hugoniot elastic limit, which is attributed to a fracture criterion.
+scientific_discipline: Physics > Materials Science

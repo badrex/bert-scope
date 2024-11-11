@@ -1,0 +1,10 @@
+article_id: 'rspb_1988_0004'
+revised_title: 'Mechanism of High-Frequency Force Generation in Outer Hair Cells'
+semantic_tags:
+  - Auditory system
+  - Cochlea
+  - Hair cells
+  - Cell motility
+  - Biophysics
+tldr: Researchers discovered that outer hair cells in the cochlea can generate forces and control the microdynamics of the basilar membrane, contributing to the frequency selectivity of the mammalian auditory system. They used the whole-cell variant of the patch-clamp technique to study the force-generating mechanism in these cells, finding that it is distributed throughout the cell and closely associated with the plasma membrane. The mechanism may consist of two elements in parallel: a force-generating element and a passive elastic element.
+scientific_discipline: Biology and Life Sciences > Auditory System

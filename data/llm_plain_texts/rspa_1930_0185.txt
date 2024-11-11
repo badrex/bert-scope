@@ -1,0 +1,10 @@
+article_id: 'rspa_1930_0185'
+revised_title: 'Moments and Product Moments of Sampling Distributions'
+semantic_tags:
+  - Statistics
+  - Probability theory
+  - Sampling distribution
+  - Normal distribution
+  - Moments
+tldr: The author investigates the moments and product moments of sampling distributions, particularly focusing on the normal distribution. They develop a recurrence relation to calculate these moments and demonstrate its application to the distribution of ratios of symmetric functions from samples of a normal distribution.
+scientific_discipline: Mathematics > Statistics

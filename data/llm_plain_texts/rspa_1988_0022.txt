@@ -1,0 +1,10 @@
+article_id: rspa_1988_0022
+revised_title: Coordinate Systems and Taylor Series in Statistical Analysis
+semantic_tags:
+  - Differential Geometry
+  - Statistical Analysis
+  - Coordinate Systems
+  - Taylor Series
+  - Parametric Statistics
+tldr: The author presents a geometric theory of Taylor series and demonstrates how it can be applied to the choice of a set of coordinates, called a coordinate string, for a family of probability distributions. This concept generalizes the natural coordinates of exponential families and provides a coordinate-free description of the Mobius derivatives and connection strings in parametric statistics.
+scientific_discipline: Mathematics > Differential Geometry

@@ -1,0 +1,10 @@
+article_id: rspa_1938_0103
+revised_title: Self-Consistent Field with Exchange for Potassium and Argon: Interpolation and Wave Function Calculations
+semantic_tags:
+  - Quantum Mechanics
+  - Atomic Physics
+  - Wave Function Interpolation
+  - Atomic Structure
+  - Potassium and Argon
+tldr: This article presents a method for calculating the self-consistent field with exchange for potassium and argon atoms using wave function interpolation. The authors developed a process to estimate the radial wave functions and applied it to the atoms' wave functions, leading to more accurate results. The study provides a foundation for further research on atomic structure and quantum mechanics.
+scientific_discipline: Physics > Atomic Physics

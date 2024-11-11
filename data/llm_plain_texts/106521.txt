@@ -1,0 +1,10 @@
+article_id: '106521'
+revised_title: 'Solving Quadratic Equations Using Recurring Series'
+semantic_tags:
+  - Mathematics
+  - Algebra
+  - Number Theory
+  - Roots of Equations
+  - Series Convergence
+tldr: The author, Philip Earl Stanhope, presents a method for solving quadratic equations using recurring series. He demonstrates this method with a quadratic equation, showing how the series converges to the roots of the equation. This method allows for approximating two roots at once, using one and the same series, continued both forwards and backwards.
+scientific_discipline: Mathematics > Algebra

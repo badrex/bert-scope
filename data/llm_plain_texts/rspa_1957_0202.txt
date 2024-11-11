@@ -1,0 +1,10 @@
+article_id: rspa_1957_0202
+revised_title: Hydrodynamics of a Wedge Moving Along Water Surface
+semantic_tags:
+  - Fluid Dynamics
+  - Ship Hydrodynamics
+  - Planing Hulls
+  - Resistance and Drag
+  - Water Surface Waves
+tldr: The study investigates the two-dimensional flow of water past a simple wedge partially submerged in water. The research focuses on the forces experienced by planing hulls at various speeds, including pressure resistance, skin friction, and the hump speed, which is the speed at which resistance is at its maximum. The findings provide insights into the behavior of boats and planing hulls in water.
+scientific_discipline: Engineering and Technology > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0109'
+revised_title: 'Retinoic Acid Receptor Isoform Specificity in Cellular Response'
+semantic_tags:
+  - Retinoic Acid Receptors
+  - Isoform Specificity
+  - Cellular Response
+  - Transcriptional Activation
+  - Newt Limb Cells
+tldr: 'The authors conducted experiments to understand the role of retinoic acid receptor isoforms in cellular responses. They created chimeric receptors by replacing the retinoic acid binding domain with thyroid hormone binding domain. The results showed that the a2 isoform had no activity in T3-dependent growth inhibition, while the al isoform mediated T3-dependent inhibition. This is the first direct evidence for isoform specificity in a biological response to retinoic acid, and demonstrates that the specificity of this response is confined to the A region.'
+scientific_discipline: Biology and Life Sciences > Molecular Biology

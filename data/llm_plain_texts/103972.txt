@@ -1,0 +1,10 @@
+article_id: 103972
+revised_title: 'Centrifugal Bellow Air Velocity Calculation'
+semantic_tags:
+  - Fluid dynamics
+  - Air movement
+  - Centrifugal force
+  - Mechanical engineering
+  - Air pressure
+tldr: This article calculates the velocity of air moved by a new type of centrifugal bellow, which can be operated by a man with minimal effort. The author, J.T. Desaguliers, explains the physics behind the centrifugal force and how it affects the air movement. He also calculates the pressure and velocity of the air, which can reach up to 68.53 feet per second, or about 7 miles in 9 minutes.
+scientific_discipline: Engineering and Technology > Mechanical engineering

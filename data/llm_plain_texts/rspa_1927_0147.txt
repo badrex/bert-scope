@@ -1,0 +1,10 @@
+article_id: rspa_1927_0147
+revised_title: Chemical Equilibrium in Paraffin Mixtures
+semantic_tags:
+  - Chemical equilibrium
+  - Paraffins
+  - Vapour-liquid equilibrium
+  - Thermodynamics
+  - Phase rule
+tldr: This article applies the theory of chemical equilibrium to a mixture of paraffins, calculating the equilibrium composition of the vapor and liquid phases at any given temperature and pressure. The author uses the phase rule to determine the composition of the phases and provides a method for calculating the percentages of different paraffins in the vapor and liquid phases. The study is useful for understanding the behavior of hydrocarbon mixtures in natural gases and industrial processes.
+scientific_discipline: Chemistry > Thermodynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1910_0048
+revised_title: 'Measurements of the Absolute Indices of Refraction in Strained Glass'
+semantic_tags:
+  - Stress-optics
+  - Glass physics
+  - Refractive index
+  - Bending moment
+  - Stress-optical coefficients
+tldr: The authors describe a method to measure the absolute indices of refraction in strained glass by observing the deviation of light passing through a slab of glass under flexure. They also discuss the stress-optical coefficients for vertically and horizontally polarized rays and present the results of their experiments on two different types of glass. The authors propose a new unit, the "brewster," to express stress-optical coefficients.
+scientific_discipline: Physics > Optics

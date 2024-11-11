@@ -1,0 +1,10 @@
+article_id: '103276'
+revised_title: 'Discovery of Light Transmission through Opaque Materials under Vacuum and Attrition'
+semantic_tags:
+  - Optics
+  - Vacuum Physics
+  - Surface Physics
+  - Electromagnetism
+  - Light Transmission
+tldr: 'Fr. Hauksbee conducted an experiment using pitch as an opaque material and discovered that it could become transparent under vacuum and attrition conditions. This experiment confirmed a previous experiment using sealing wax and showed that some opaque materials can become transparent under specific circumstances, such as a change in external conditions. This discovery was surprising and opened up the possibility of finding other unusual properties of materials through further experimentation.'
+scientific_discipline: Physics > Optics

@@ -1,0 +1,10 @@
+article_id: 107104
+revised_title: 'Davy's Discovery of Single Metallic Plate Galvanic Combinations'
+semantic_tags:
+  - Electrochemistry
+  - Galvanic cells
+  - Voltaic pile
+  - Battery technology
+  - Chemical reactions
+tldr: Humphry Davy discovered that single metallic plates can form galvanic combinations, similar to the Voltaic pile, by arranging them with different fluids. He classified these combinations into three classes based on the chemical reactions occurring within the plates. This discovery expanded the understanding of galvanic cells and contributed to the development of battery technology.
+scientific_discipline: Chemistry > Electrochemistry

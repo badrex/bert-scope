@@ -1,0 +1,10 @@
+article_id: rspa_1938_0099
+revised_title: Atomic Rearrangement and Nuclei Growth in Copper-Gold Alloys
+semantic_tags:
+  - Alloy Chemistry
+  - Phase Transitions
+  - X-ray Crystallography
+  - Metastable States
+  - Atomic Order
+tldr: This article investigates the atomic rearrangement process in a copper-gold alloy and the effect of nuclei growth on its properties. The authors study the relationship between the size of the nuclei and the electrical resistance of the alloy, as well as the rate of growth of these nuclei. They find that the presence of nuclei corresponding to a metastable state introduces an extra resistance that depends on the size of the nuclei. The authors also determine the size of the nuclei using X-ray powder diagrams and discuss the implications of their findings for the understanding of the alloy's properties.
+scientific_discipline: Chemistry > Alloy Chemistry

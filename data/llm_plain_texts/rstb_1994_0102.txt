@@ -1,0 +1,10 @@
+article_id: 'rstb_1994_0102'
+revised_title: 'The Role of Sustained Free Calcium Concentration in Blocking Neuronal Apoptosis'
+semantic_tags:
+  - 'Neuroscience'
+  - 'Cell Biology'
+  - 'Apoptosis'
+  - 'Neurotrophic Factors'
+  - 'Calcium Signaling'
+tldr: The article discusses how a sustained increase in steady-state free calcium concentration can block neuronal apoptosis. The authors found that elevated potassium levels can maintain the viability of neurons by mimicking the effects of naturally occurring electrical activity. This is achieved through the influx of calcium through voltage-gated channels, which promotes survival. The study also shows that blocking neuronal apoptosis can be achieved by treating neurons with thapsigargin, an inhibitor of a calcium pump responsible for sequestration of calcium into intracellular stores.
+scientific_discipline: Biology and Life Sciences > Neuroscience

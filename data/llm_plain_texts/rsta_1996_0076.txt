@@ -1,0 +1,10 @@
+article_id: rsta_1996_0076
+revised_title: Assessing the Feasibility of Low-Dimensional Characterization of Atmospheric Temperature Data
+semantic_tags:
+  - Climate Science
+  - Atmospheric Physics
+  - Dimensionality Reduction
+  - Data Analysis
+  - Chaotic Systems
+tldr: This article investigates the possibility of a low-dimensional characterization of atmospheric temperature data, focusing on daily maximum and minimum temperature records spanning about 70 years. The authors explore various methods, including global and local singular value decompositions, to analyze the data and determine if a low-dimensional representation is feasible. They conclude that a low-dimensional characterization of the temperature data is unlikely, highlighting the challenges in understanding and predicting weather and climate systems.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

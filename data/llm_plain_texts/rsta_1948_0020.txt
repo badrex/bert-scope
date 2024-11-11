@@ -1,0 +1,10 @@
+article_id: rsta_1948_0020
+revised_title: Statistical Analysis of Percussion Sensitiveness of Explosives
+semantic_tags:
+  - Explosives
+  - Sensitiveness
+  - Impact testing
+  - Probability of detonation
+  - Initators
+tldr: The authors developed a machine to test the sensitiveness of explosives to percussion, allowing for a large number of impact trials without much labor. They found that the probability of detonation can be plotted against the initial velocity of the drift, providing a way to represent sensitiveness data on a single scale. The results showed that percussion sensitiveness cannot be directly related to sensitiveness to heat, and it is a specific measure of the susceptibility to mechanical shock or pressure pulse.
+scientific_discipline: Engineering and Technology > Materials Science

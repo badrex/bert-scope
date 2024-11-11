@@ -1,0 +1,10 @@
+article_id: 'rstb_1996_0145'
+revised_title: 'Epidemic Dynamics and Spatial Localization'
+semantic_tags:
+  - Epidemiology
+  - Disease Dynamics
+  - Spatial Modeling
+  - Contact Process
+  - Heterogeneous Mixing
+tldr: This article explores the impact of spatial localization on infectious disease dynamics and the development of macroscopic descriptions from individual-based models. The authors describe a generalized contact process with spatially structured populations and introduce a 'dyad heuristic' to estimate the epidemic threshold. They find that spatial localization can fundamentally change the dynamics of infectious diseases, and moment equations can be used to improve the estimation of these dynamics.
+scientific_discipline: Environmental and Earth Sciences > Epidemiology

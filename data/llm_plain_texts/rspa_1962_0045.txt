@@ -1,0 +1,10 @@
+article_id: rspa_1962_0045
+revised_title: 'Relativistic and Non-Relativistic Quantum Mechanics: Analyzing Eigenvalues'
+semantic_tags:
+  - Quantum Mechanics
+  - Relativity
+  - Eigenvalues
+  - Perturbation Theory
+  - Dirac's Equations
+tldr: The author analyzes the relationship between eigenvalues in relativistic and non-relativistic quantum mechanics. They prove that in certain cases, perturbed eigenvalues and eigenfunctions can be expanded in convergent series of inverse powers of the velocity of light. This study applies rigorous analysis to Dirac's relativistic equations and Schrodinger's equation, providing a better understanding of the connection between the two.
+scientific_discipline: Physics > Quantum Mechanics

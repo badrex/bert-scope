@@ -1,0 +1,10 @@
+article_id: rspa_1908_0029
+revised_title: Improving Alternating Current Measurements with Iron-Cored Electromagnets
+semantic_tags:
+  - Electromagnetism
+  - Alternating Current
+  - Electromagnetic Instruments
+  - Iron-Cored Electromagnets
+  - Measurement Precision
+tldr: The authors propose using iron-cored electromagnets to improve the precision of alternating current measurements. They explain the mathematical relationships of cyclic quantities and demonstrate how iron-cored electromagnets can help overcome the difficulties caused by varying permeability and hysteresis of the iron. This method leads to the development of more accurate electromagnetic instruments.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rspl_1902_0067
+revised_title: Harmonic Tidal Constants for Australian and Chinese Ports
+semantic_tags:
+  - Tidal analysis
+  - Oceanography
+  - Geophysics
+  - Tidal prediction
+  - Tidal constants
+tldr: This article presents the harmonic tidal constants for several Australian and Chinese ports, using observations made over a year. The authors employed methods devised by Professor G. H. Darwin to analyze the data, resulting in the determination of tidal constants that can be used for tidal predictions. The study provides valuable information for understanding tidal patterns in these regions and improving the accuracy of tidal predictions.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

@@ -1,0 +1,10 @@
+article_id: rspa_1959_0087
+revised_title: Kinetics of Base-Catalyzed Bromination of Ethyl Nitroacetate
+semantic_tags:
+  - Organic Chemistry
+  - Reaction Kinetics
+  - Catalysis
+  - Bromination
+  - Buffer Solutions
+tldr: The authors studied the kinetics of the base-catalyzed bromination of ethyl nitroacetate in aqueous buffer solutions. They found that the reaction is first-order with respect to the ester and zero-order with respect to bromine, showing general catalysis by bases. The catalytic effects of various carboxylate anions and pyridine bases are closely related to their basic strengths. This research provides insights into the ionization rates of different compounds and the role of buffers in chemical reactions.
+scientific_discipline: Chemistry > Organic Chemistry

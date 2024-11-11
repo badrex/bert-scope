@@ -1,0 +1,10 @@
+article_id: rsta_1896_0017
+revised_title: Electric Convection and the Distribution of Electromagnetic Forces
+semantic_tags:
+  - Electromagnetic Theory
+  - Vector Analysis
+  - Electromagnetic Forces
+  - Electric Convection
+  - Maxwell's Equations
+tldr: The author investigates the distribution of electric and magnetic forces in electromagnetic systems moving through the ether. They analyze the motion of electrical point-charges and discuss the electric force due to a moving point-charge, as well as the distribution of magnetic force. The author also introduces the concept of the "Heaviside ellipsoid" and discusses the mathematical forms and principles used in the study of electromagnetism.
+scientific_discipline: Physics > Electromagnetism

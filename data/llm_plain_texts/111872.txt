@@ -1,0 +1,10 @@
+article_id: 111872
+revised_title: 'Magnetic Storms and Earth-Currents: Observations and Analysis'
+semantic_tags:
+  - Geomagnetism
+  - Earth currents
+  - Telecommunications
+  - Electric telegraphs
+  - Magnetic storms
+tldr: The author, Charles V. Walker, investigates magnetic storms and earth-currents, focusing on their impact on electric telegraphs. He describes the behavior of telegraph needles during these storms and discusses the relationship between earth-currents, magnetic disturbances, and auroras. Walker also proposes that a stream of electricity drifts across the country, causing derived currents in telegraph wires. He provides detailed observations and analysis of various storms, including the notable period of disturbance from August 27th to September 6th, 1859.
+scientific_discipline: Physics > Electromagnetism

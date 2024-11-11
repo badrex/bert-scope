@@ -1,0 +1,10 @@
+article_id: rspa_1907_0027
+revised_title: 'Investigation of the Specific Inductive Capacity of Highly Purified Selenion'
+semantic_tags:
+  - Dielectric materials
+  - Electrometry
+  - Selenion properties
+  - Material science
+  - Physics
+tldr: 'The authors conducted experiments to determine the specific inductive capacity of a highly purified selenion sample using two different methods. They found that the specific inductive capacity remained the same under alternating electrical forces with frequencies of 50 per second and 24,000,000 per second. This result is similar to that found for glass specimens using the same methods. The specific resistance of the selenion decreased when exposed to light, and the specific gravity was found to be 4.57 at 20°C.'
+scientific_discipline: Physics > Material Science

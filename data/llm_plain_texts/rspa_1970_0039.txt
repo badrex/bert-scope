@@ -1,0 +1,10 @@
+article_id: rspa_1970_0039
+revised_title: 'Effects of Impurities on the Nucleation of Tetrahedra in Quenched Gold'
+semantic_tags:
+  - Defect structure
+  - Quenched gold
+  - Impurities
+  - Nucleation
+  - Electron microscopy
+tldr: The authors studied the influence of copper, magnesium, and aluminum impurities on the defect structure of quenched gold. They found that adding magnesium increased the tetrahedra density, while adding copper had no effect. The effectiveness of impurities in promoting heterogeneous nucleation depends on their valency. The results suggest a model involving divacancy-impurity trapping, which explains the formation of tetrahedra and dislocation loops.
+scientific_discipline: Materials Science > Physical Metallurgy

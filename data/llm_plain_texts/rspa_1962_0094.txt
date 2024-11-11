@@ -1,0 +1,10 @@
+article_id: rspa_1962_0094
+revised_title: 'Magnetic Field Effects on Thin Superconducting Films: Resistance Transitions'
+semantic_tags:
+  - Superconductivity
+  - Thin films
+  - Magnetic fields
+  - Critical field
+  - Resistance transitions
+tldr: This article investigates the resistance transitions of thin superconducting films in magnetic fields. The experiments were conducted on tin films with thicknesses ranging from 600 to 10,000 Angstroms. The results show that the resistance transitions in perpendicular magnetic fields are sharp and comparatively insensitive to edge effects. The findings indicate that the effective penetration depth and coherence distance play a significant role in the behavior of these thin films.
+scientific_discipline: Physics > Electromagnetism

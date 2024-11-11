@@ -1,0 +1,10 @@
+article_id: rspa_1996_0146
+revised_title: 'Transient Viscous Heating of Liquid Layers: A Numerical Study'
+semantic_tags:
+  - Fluid Dynamics
+  - Heat Transfer
+  - Viscosity
+  - Boundary Layer Theory
+  - Numerical Simulation
+tldr: This study investigates the transient viscous heating of liquid layers under intense shear, focusing on the squeezing of a liquid drop between two colliding parallel plates. The authors find that accounting for the temperature dependence of viscosity significantly reduces the estimated peak temperature, making accidental ignition by viscous heating an unlikely event. The results are supported by numerical simulations and provide insights into the behavior of liquid monopropellants under high-speed flow conditions.
+scientific_discipline: Engineering and Technology > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: '111052'
+revised_title: 'Magnetic and Dia-Magnetic Phenomena in Metals'
+semantic_tags:
+  - Magnetism
+  - Dia-magnetism
+  - Electromagnetism
+  - Metals
+  - William West
+tldr: 'The author, William Sykes Ward, observed that the magnetic force's intensity affects the nature and direction of its action on metals. He found that when the magnetic force is strong, metals become less sensitive to attraction or repulsion, and when weak, they point axially. Ward also discovered that the phenomenon of revulsion, described by Faraday, is exhibited in most metals that are less magnetic than platinum or less dia-magnetic than antimony. He conducted experiments to determine the order in which metals are affected magnetically or dia-magnetically and observed phenomena when the polar terminations of the magnet are close together.'
+scientific_discipline: Physics > Magnetism

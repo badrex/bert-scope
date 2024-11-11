@@ -1,0 +1,10 @@
+article_id: rspa_1979_0033
+revised_title: Elastohydrodynamic Lubrication at High Pressures: Non-Newtonian Behavior
+semantic_tags:
+  - Elastohydrodynamic lubrication
+  - Non-Newtonian fluids
+  - Pressure coefficient of viscosity
+  - Traction coefficient
+  - Viscoelastic behavior
+tldr: This study investigates the elastohydrodynamic behavior of various fluids at high pressures, focusing on non-Newtonian effects. The research shows that fluids exhibit complex behavior due to two main factors: the transition from viscous to elastic behavior at high pressures and the nonlinearity between shear stress and rate of shear. The findings suggest that the observed elastic behavior is primarily a viscoelastic phenomenon, and the traction coefficient can be predicted by treating the fluid as a liquid with a nonlinear relation between shear stress and rate of shear.
+scientific_discipline: Engineering and Technology > Tribology and Lubrication

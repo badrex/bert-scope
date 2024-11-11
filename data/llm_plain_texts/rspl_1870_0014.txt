@@ -1,0 +1,10 @@
+article_id: rspl_1870_0014
+revised_title: Advances in the Theory of Continuous Beams
+semantic_tags:
+  - Beam Theory
+  - Structural Engineering
+  - Bridge Design
+  - Bending Moments
+  - Load Distribution
+tldr: The authors discuss the development of the theory of continuous beams, focusing on the methods used to determine the conditions of equilibrium for beams with varying loads and support distances. They highlight the contributions of key figures in the field, such as M. Navier, M. Clapeyron, and M. Bresse, and explore the applications of this theory in bridge design and engineering.
+scientific_discipline: Engineering and Technology > Structural Engineering

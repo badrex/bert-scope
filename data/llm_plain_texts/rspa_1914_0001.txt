@@ -1,0 +1,10 @@
+article_id: rspa_1914_0001
+revised_title: 'Diffraction of Light by Particles Comparable with the Wave-Length'
+semantic_tags:
+  - Diffraction
+  - Light scattering
+  - Particle size
+  - Optics
+  - Physical chemistry
+tldr: This article investigates the diffraction of light by particles comparable to the wave-length, specifically examining the effect of particle size on the transmitted light. The authors discovered that the growth of particles affects the intensity of the transmitted light, with the blue light decreasing more rapidly than the red light in the initial stages of the reaction. The phenomenon observed is similar to the selective scattering of light by small particles, which has implications for understanding the behavior of light in various applications.
+scientific_discipline: Physics > Optics

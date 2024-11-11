@@ -1,0 +1,10 @@
+article_id: rspa_1972_0023
+revised_title: 'Model Systems for Photosynthesis: Primary Photoprocesses of Chloroplast Pigments in Monomolecular Arrays on Solid Surfaces'
+semantic_tags:
+  - Photosynthesis
+  - Chloroplast pigments
+  - Monomolecular arrays
+  - Langmuir-Blodgett technique
+  - Spectroscopy
+tldr: This article investigates the primary photoprocesses of chloroplast pigments in monomolecular arrays on solid surfaces using the Langmuir-Blodgett technique. The authors study the absorption spectra, concentration quenching, and fluorescence quenching by electron acceptors of chlorophyll in single monomolecular layers deposited on a solid substrate. These model systems help to understand the primary processes of photosynthesis.
+scientific_discipline: Chemistry > Spectroscopy

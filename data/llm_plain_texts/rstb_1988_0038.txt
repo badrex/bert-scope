@@ -1,0 +1,10 @@
+article_id: 'rstb_1988_0038'
+revised_title: 'Mitochondrial Biogenesis in Chlamydomonas reinhardtii: Organization and Expression of Algal Mitochondrial DNA'
+semantic_tags:
+  - Mitochondrial DNA
+  - Algae
+  - Gene arrangement
+  - RNA processing
+  - Ribosomal RNA
+tldr: The authors studied the mitochondrial genome of Chlamydomonas reinhardtii, a unicellular green alga, and found that it is a compactly organized and expressed genome. They identified at least eight proteins, three transfer RNAs, and ribosomal RNAs in the mitochondrial DNA. The study also revealed that the small RNAs transcribed from the modules approximate the size of the mature rRNAs, indicating that splicing of rRNA pieces does not occur in this system.
+scientific_discipline: Biology and Life Sciences > Genetics and Molecular Biology

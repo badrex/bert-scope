@@ -1,0 +1,10 @@
+article_id: rspa_1940_0020
+revised_title: Adsorption of Lauryl Sulfonic Acid in Aqueous Solutions and Surface Tension
+semantic_tags:
+  - Surface chemistry
+  - Adsorption
+  - Surface tension
+  - Lauryl sulfonic acid
+  - Gibbs theorem
+tldr: This article investigates the adsorption of lauryl sulfonic acid in the surface of its aqueous solution and examines the relationship between surface tension and concentration. The authors find strong positive adsorption over the entire range of concentrations, which contradicts the generally accepted theory based on the Gibbs theorem. They also discuss the importance of the submerged double layer in determining and modifying surface tension in dilute solutions.
+scientific_discipline: Chemistry > Surface chemistry

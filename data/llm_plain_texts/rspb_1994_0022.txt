@@ -1,0 +1,10 @@
+article_id: 'rspb_1994_0022'
+revised_title: 'Adenine Transport Mechanisms in Escherichia Coli'
+semantic_tags:
+  - Bacterial Genetics
+  - Adenine Transport
+  - Gene Localization
+  - DNA Sequence Analysis
+  - Membrane Transport Proteins
+tldr: The author investigates adenine transport in Escherichia coli, discovering two transport routes: a high-affinity route requiring metabolic removal of adenine and a low-affinity route that is not energy-dependent. The gene for the high-affinity route is localized to a specific restriction fragment and is found to involve the open-reading frame f445. This discovery helps understand the role of membrane proteins in adenine transport and the regulation of transport systems in bacteria.
+scientific_discipline: Biology and Life Sciences > Genetics and Molecular Biology

@@ -1,0 +1,10 @@
+article_id: 'rspa_1976_0143'
+revised_title: 'A Discussion on Rubber Elasticity: Theoretical and Practical Aspects'
+semantic_tags:
+  - Polymer Chemistry
+  - Rubber Elasticity
+  - Molecular Modeling
+  - Material Science
+  - Thermodynamics
+tldr: This article discusses the properties of rubber elasticity, including its theoretical and practical aspects. It explores the molecular structure of rubber, the process of vulcanization, and the role of fillers in influencing its behavior. The article also presents two approaches to understanding rubber elasticity: mathematical and molecular, and highlights the importance of entropy changes in the deformation process.
+scientific_discipline: Chemistry > Polymer Chemistry

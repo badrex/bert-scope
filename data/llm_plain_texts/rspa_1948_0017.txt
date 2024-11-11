@@ -1,0 +1,10 @@
+article_id: rspa_1948_0017
+revised_title: 'Investigation of Galactic Radiation in the Radio Spectrum'
+semantic_tags:
+  - Radio Astronomy
+  - Galactic Radiation
+  - Cosmic Electromagnetic Radiation
+  - Aerial Characteristics
+  - Radio Spectrum
+tldr: The authors conducted an investigation of galactic radiation in the radio spectrum, using a four-element Yagi aerial system. They determined the aerial sensitivity pattern and analyzed the received power to understand the spatial distribution of the cosmic radiation source. The study aimed to elucidate the origin of radio phenomena and interpret their astronomical significance, but the authors found that neither a distributed source in gas nor a center of radiation analogous to sunspots adequately explained the observed phenomena. The results provide insights into the nature of galactic radiation and its relationship to the structure of the galaxy.
+scientific_discipline: Physics > Radio Astronomy

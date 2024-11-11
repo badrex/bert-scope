@@ -1,0 +1,10 @@
+article_id: rspa_1990_0103
+revised_title: Analytic Prediction of Deformation Textures in Face-Centered Cubic Polycrystals
+semantic_tags:
+  - Crystallography
+  - Texture Analysis
+  - Polycrystalline Materials
+  - Shear Deformation
+  - Rate-Dependent Slip
+tldr: The authors present an analytic method for predicting the orientation distribution function (ODF) of deformed face-centered cubic (FCC) polycrystals. The method is based on the continuity equation and the uniform strain (Taylor) hypothesis, and it can be used to predict shear textures in FCC polycrystals. The results are useful for testing large deformation computer codes for texture simulation.
+scientific_discipline: Materials Science > Crystallography

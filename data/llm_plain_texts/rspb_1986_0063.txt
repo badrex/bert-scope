@@ -1,0 +1,10 @@
+article_id: 'rspb_1986_0063'
+revised_title: 'Epitope Recognition and T Cell Regulation in Lactate Dehydrogenase B Immune Response'
+semantic_tags:
+  - Immunology
+  - T cell regulation
+  - Epitope recognition
+  - Major histocompatibility complex
+  - Lactate dehydrogenase B
+tldr: The authors discovered that two adjacent epitopes on a synthetic dodecapeptide induce lactate dehydrogenase B-specific helper and suppressor T cells. They found that both helper and suppressor T cells recognize the 211-222 stretch of the LDH-B sequence, but have different fine specificities. This finding supports two possible mechanisms of suppression: bridging of helper and suppressor T cells by antigen and subsequent transmission of a suppressive signal, or competition for antigen between helper and suppressor T cells.
+scientific_discipline: Immunology > T cell regulation

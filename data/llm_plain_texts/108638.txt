@@ -1,0 +1,10 @@
+article_id: 108638
+revised_title: 'On the Calculation of the Resultant of Two Equations'
+semantic_tags:
+  - Algebra
+  - Symmetric Functions
+  - Determinants
+  - Invariants
+  - Linear Algebra
+tldr: The author presents two methods for calculating the resultant of two equations, focusing on the application of symmetric functions and the use of determinants. The methods are demonstrated through examples of equations with degrees not exceeding four. This work contributes to the understanding of invariants and the development of modern algebraic techniques.
+scientific_discipline: Mathematics > Algebra

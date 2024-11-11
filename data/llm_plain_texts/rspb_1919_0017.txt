@@ -1,0 +1,10 @@
+article_id: 'rspb_1919_0017'
+revised_title: 'The Ineffectiveness of Atropine on Emotive Responses'
+semantic_tags:
+  - Psychology
+  - Neurophysiology
+  - Atropine
+  - Galvanic reflex
+  - Emotion
+tldr: This study investigates the effect of atropine on emotive responses using a galvanometer to measure changes in electrical resistance. The author concludes that atropine does not affect emotive responses, and the results differ from previous experiments by Dr. Leva. Possible reasons for the discrepancy include individual differences in atropine effects and technical errors in measuring resistance and sensitivity.
+scientific_discipline: Psychology > Emotion and Arousal

@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0013'
+revised_title: 'Exploring the Connection between Intramolecular Cooperativity and Ligand Binding in Allosteric Proteins'
+semantic_tags:
+  - Protein structure
+  - Allosteric regulation
+  - Ligand binding
+  - Intramolecular interactions
+  - Cooperative binding
+tldr: The authors analyze the relationship between cooperativity in ligand binding and intramolecular cooperativity in allosteric proteins. They demonstrate the connection using the Koshland-Nemethy-Filmer model and double-mutant cycles, showing that cooperativity in ligand binding is related to cooperativity in intramolecular interactions within the protein. This connection is essential for understanding allosteric transitions and protein function.
+scientific_discipline: Biology and Life Sciences > Biochemistry

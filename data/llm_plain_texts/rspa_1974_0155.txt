@@ -1,0 +1,10 @@
+article_id: rspa_1974_0155
+revised_title: 'Creep Rupture Analysis of Structures: A Lower Bound Approach'
+semantic_tags:
+  - Creep Rupture
+  - Stress Redistribution
+  - Multiaxial States of Stress
+  - Constitutive Equations
+  - Representative Rupture Stress
+tldr: This article studies the failure times of high-temperature structures affected by creep rupture. It derives expressions that give lower bounds on failure times, considering different stress criteria affecting rupture mechanisms. The authors propose using an equivalent representative rupture stress to predict failure times, which can be obtained directly from uniaxial stress rupture data. The analysis takes into account stress redistribution and multiaxial states of stress, providing a convenient method for estimating the life of structures.
+scientific_discipline: Engineering and Technology > Materials Science

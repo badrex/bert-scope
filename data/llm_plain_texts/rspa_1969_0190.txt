@@ -1,0 +1,10 @@
+article_id: rspa_1969_0190
+revised_title: Experimental and Theoretical Analysis of Kinetic Stability in Tangentially Loaded Struts
+semantic_tags:
+  - Structural Stability
+  - Mechanics
+  - Column Design
+  - Experimental Methods
+  - Theoretical Modeling
+tldr: This study investigates the kinetic stability of a strut with a tangential force applied at one end. An experimental method is described to generate the tangential load using a water jet from a nozzle attached to the column's end. Theoretical treatment is presented, and the results show close agreement between predicted and observed values of critical load and oscillation frequency.
+scientific_discipline: Engineering and Technology > Mechanics of Materials

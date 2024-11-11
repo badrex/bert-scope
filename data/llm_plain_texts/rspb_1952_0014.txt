@@ -1,0 +1,10 @@
+article_id: 'rspb_1952_0014'
+revised_title: 'Atomic Energy Research Establishment: Scientific Objectives and Accomplishments'
+semantic_tags:
+  - Nuclear Physics
+  - Reactor Physics
+  - Isotope Production
+  - Nuclear Power
+  - Neutron Cross-Section Measurements
+tldr: The Atomic Energy Research Establishment at Harwell focuses on conducting research in chemistry, physics, metallurgy, and engineering for the atomic-energy program. They produce radioactive and stable isotopes, distribute them, and encourage their application in the country. The establishment also investigates the potentialities of nuclear energy as a source of power. Key research areas include nuclear constants measurement, neutron fission, capture, and scattering cross-sections, and the effects of neutron bombardment on solid-state properties.
+scientific_discipline: Physics > Nuclear Physics

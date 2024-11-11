@@ -1,0 +1,10 @@
+article_id: rspa_1973_0004
+revised_title: Energy Conservation in Random Media and Sound Absorption by Inhomogeneous Flexible Plates
+semantic_tags:
+  - Wave Propagation
+  - Sound Absorption
+  - Random Media
+  - Flexible Plates
+  - Energy Transfer
+tldr: This paper discusses the theory of wave propagation through conservative random media and its application to the study of sound absorption by an inhomogeneous flexible plate. The author demonstrates that energy can only flow from the mean field to the random field, and presents a method to calculate the partition of energy among different wave species in coupled systems of wave-bearing media.
+scientific_discipline: Physics > Acoustics

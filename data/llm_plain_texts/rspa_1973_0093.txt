@@ -1,0 +1,10 @@
+article_id: rspa_1973_0093
+revised_title: Stability and Graphs in Chemical Kinetics: A Connection
+semantic_tags:
+  - Chemical kinetics
+  - Reaction diagrams
+  - Stability analysis
+  - Open reaction systems
+  - Mass-action systems
+tldr: The author establishes a connection between the stability of open reaction systems and the properties of reaction diagrams and complex vectors. They introduce the concept of quasi-thermodynamic mass-action systems and discuss the dynamic behavior of these systems, focusing on chemical clocks and switches. The study allows for the determination of the qualitative statics and dynamics of open reaction systems through simple computational procedures.
+scientific_discipline: Chemistry > Chemical kinetics

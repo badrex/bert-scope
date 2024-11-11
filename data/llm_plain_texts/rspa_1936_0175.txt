@@ -1,0 +1,10 @@
+article_id: rspa_1936_0175
+revised_title: 'Magnetic Properties of Bismuth: Temperature and Element Dependence'
+semantic_tags:
+  - Magnetism
+  - Bismuth
+  - Susceptibility
+  - Temperature dependence
+  - Alloying elements
+tldr: The authors investigated the magnetic properties of bismuth, focusing on the dependence of its susceptibility on temperature and the addition of other elements. They found that the electronic structure of pure bismuth is sensitive to the addition of small concentrations of other elements, which affects its magnetic properties. The temperature dependence of susceptibility was also studied, revealing a linear variation over a certain temperature range.
+scientific_discipline: Physics > Materials Science

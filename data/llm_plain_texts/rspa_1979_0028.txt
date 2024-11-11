@@ -1,0 +1,10 @@
+article_id: rspa_1979_0028
+revised_title: Decoupling Equations for Perturbations of Reissner-Nordstrom Black Holes
+semantic_tags:
+  - Black Holes
+  - Gravitational Waves
+  - Electromagnetic Waves
+  - Reissner-Nordstrom Metric
+  - Newman-Penrose Formalism
+tldr: The author decouples the equations governing the perturbations of the Reissner-Nordstrom black hole using the Newman-Penrose formalism. They transform these equations into one-dimensional wave equations for odd and even parity perturbations, showing a simple relation between solutions of opposite parities. This work provides a better understanding of the conversion of gravitational and electromagnetic energy in spacetimes described by the Einstein-Maxwell equations.
+scientific_discipline: Physics > Astrophysics

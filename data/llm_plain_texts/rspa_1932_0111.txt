@@ -1,0 +1,10 @@
+article_id: rspa_1932_0111
+revised_title: 'Investigation of the Interaction Between Gamma-Radiation and the Atomic Nucleus'
+semantic_tags:
+  - Nuclear Physics
+  - Gamma Radiation
+  - Atomic Interactions
+  - Absorption Coefficients
+  - Photoelectric Effect
+tldr: The authors conducted experiments to study the interaction between gamma radiation and atomic nuclei. They discovered that the secondary radiation emitted by lead had a continuous spectrum and was not solely due to Compton scattering. The results suggested that the nucleus plays a role in the absorption process and that the energy difference between the absorbed quantum and the nucleus in the excited state may involve the expenditure of additional energy.
+scientific_discipline: Physics > Nuclear Physics

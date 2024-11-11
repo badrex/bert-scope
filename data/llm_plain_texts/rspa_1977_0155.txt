@@ -1,0 +1,10 @@
+article_id: rspa_1977_0155
+revised_title: Hyperbolic Relativistic Thermodynamics and Kinetic Theory
+semantic_tags:
+  - Relativistic Thermodynamics
+  - Kinetic Theory
+  - Hyperbolic Equations
+  - Astrophysics
+  - Fluid Dynamics
+tldr: This article presents a detailed discussion of transient relativistic thermodynamics and kinetic theory, focusing on the hyperbolic equations that govern the propagation of disturbances in dilute gases. The study reveals that the maximum propagation velocity for these disturbances never exceeds the speed of light, and the theory becomes more suitable for gases with fewer collisions. The findings have significant implications for relativistic astrophysics, such as accretion near black holes, where these transient effects can be observed.
+scientific_discipline: Physics > Fluid Dynamics

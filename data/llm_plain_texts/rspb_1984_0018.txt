@@ -1,0 +1,10 @@
+article_id: 'rspb_1984_0018'
+revised_title: 'Marine Sponges' Bacterial Discrimination and Symbiosis'
+semantic_tags:
+  - Sponge Biology
+  - Bacterial Symbiosis
+  - Marine Ecology
+  - Particle Feeding
+  - Cellular Recognition
+tldr: This study investigates whether marine sponges can differentiate between symbiotic bacteria and seawater bacteria. Researchers fed four sponge species with tritium-labeled bacteria and observed that a large proportion of symbiotic bacteria passed through the sponge, while seawater bacteria were retained. The results suggest that sponges may have a mechanism to recognize and reject symbiotic bacteria, possibly due to their capsular sheaths.
+scientific_discipline: Biology and Life Sciences > Marine Ecology

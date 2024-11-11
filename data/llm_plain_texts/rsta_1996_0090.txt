@@ -1,0 +1,10 @@
+article_id: rsta_1996_0090
+revised_title: Graphitic Structures: From Planar to Spheres, Toroids, and Helices
+semantic_tags:
+  - Fullerenes
+  - Carbon nanotubes
+  - Graphene surfaces
+  - Nanoscale engineering
+  - Molecular simulation
+tldr: This article discusses various graphitic structures, such as nanotubes, toroids, and round giant fullerenes, which possess great stability. The presence of pentagons and heptagons in these structures leads to positive and/or negative curvature. Molecular simulation studies based on curved graphene surfaces are in good agreement with experimental high-resolution transmission electron microscopy observations. These novel materials may have applications in nanoscale engineering.
+scientific_discipline: Chemistry > Nanomaterials

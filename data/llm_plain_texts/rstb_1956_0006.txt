@@ -1,0 +1,10 @@
+article_id: 'rstb_1956_0006'
+revised_title: 'Understanding Tolerance in Tissue Transplantation Immunity'
+semantic_tags:
+  - Immunology
+  - Tissue Transplantation
+  - Tolerance
+  - Antigenic Stimuli
+  - Chimerism
+tldr: The article introduces the concept of 'actively acquired tolerance' in immunology, which is a specific inhibition of response that occurs when an animal is exposed to antigenic stimuli during foetal life. Tolerance is an immunologically specific and systemic condition that can be induced in various animals, including mice, rats, rabbits, and birds. The relationship between twinning, fertility, tolerance, and red-cell chimerism is analyzed, and the phenomenon of tolerance is considered for its implications in mammalian mother-foetus relationships, the development of immunity to different antigens, and the fate of iso-antigens in normal life.
+scientific_discipline: Biology and Life Sciences > Immunology

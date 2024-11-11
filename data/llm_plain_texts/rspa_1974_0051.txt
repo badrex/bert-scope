@@ -1,0 +1,10 @@
+article_id: rspa_1974_0051
+revised_title: 'Clarifying the Relation between Empirical Logarithmic Law and Theory of Caesium Ion Resonance in Solution'
+semantic_tags:
+  - Nuclear Resonance
+  - Chemical Shifts
+  - Caesium Ions
+  - Debye-Huckel Model
+  - Dielectric Constant
+tldr: The authors conducted experiments to study the chemical shifts of caesium ions in solution and tested the validity of the Halliday, Richards, and Sharp (H.R.S.) theory. They found that the empirical logarithmic law is an adequate approximation for a limited concentration range, and proposed a nonlinear regression method to obtain infinite dilution resonance frequencies. The results provide substantial confirmation of the H.R.S. theory, showing that the bulk dielectric constant of the solvent is a good parameter in the theory.
+scientific_discipline: Chemistry > Physical Chemistry

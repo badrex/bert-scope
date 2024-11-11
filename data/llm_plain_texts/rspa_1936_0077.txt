@@ -1,0 +1,10 @@
+article_id: rspa_1936_0077
+revised_title: 'Pressure Effects on Chemical Reaction Rates in Various Solvents'
+semantic_tags:
+  - Chemical kinetics
+  - Pressure effects
+  - Reaction rates
+  - Solvent influence
+  - Activation energy
+tldr: This study investigates the effect of pressure on reaction rates in various solutions, including the hydrolysis of sodium monochloracetate, esterification of acetic anhydride, and unimolecular decomposition of phenyl-benzylmethyl-allyl ammonium bromide. The results show that pressure can significantly influence reaction rates, with different reactions and solvents exhibiting varying degrees of acceleration. The findings contribute to understanding the factors affecting chemical reaction rates and the role of pressure in these processes.
+scientific_discipline: Chemistry > Chemical kinetics

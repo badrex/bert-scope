@@ -1,0 +1,10 @@
+article_id: rspa_1991_0079
+revised_title: 'Kolmogorov's Ideas on Turbulence and Stochastic Processes: Transition Functions, Paths, and Path Integrals'
+semantic_tags:
+  - Stochastic Processes
+  - Diffusion Theory
+  - Ito Calculus
+  - Brownian Motion
+  - Kolmogorov's Theory
+tldr: This article explores the relationship between analysis and probability in the context of diffusion theory, focusing on the work of Kolmogorov. It discusses various approaches to describing diffusion properties, including drift and diffusion coefficients, martingale properties, and Markovian methods. The article also examines the Kolmogorov backward and forward equations and the role of Ito calculus in constructing diffusion processes using stochastic differential equations driven by Brownian motion.
+scientific_discipline: Mathematics > Analysis

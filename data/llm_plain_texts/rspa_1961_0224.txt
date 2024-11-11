@@ -1,0 +1,10 @@
+article_id: rspa_1961_0224
+revised_title: Heterogeneous Oxidation and Carbonyl Oxides of Metal Carbonyls
+semantic_tags:
+  - Metal carbonyls
+  - Oxidation reactions
+  - Carbonyl oxides
+  - Photochemical reactions
+  - Heterogeneous catalysis
+tldr: The authors studied the oxidation reactions of metal carbonyls, such as Ni(CO)3, Ni(CO)4, and Fe(CO)5, using flash photolysis and kinetic spectroscopy. They discovered that these metal carbonyls react with oxygen to form a new class of chemical substances called carbonyl oxides. These oxides are stable at room temperature but lose CO upon heating in a vacuum. The authors also found that the heterogeneous oxidation of these metal carbonyls occurs on the walls of the reaction vessel, indicating that the reaction product, not the vapor phase, is responsible for the oxidation.
+scientific_discipline: Chemistry > Inorganic Chemistry

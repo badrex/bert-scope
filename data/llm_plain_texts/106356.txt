@@ -1,0 +1,10 @@
+article_id: '106356'
+revised_title: 'Observations on the Solar Eclipse of June 24, 1778'
+semantic_tags:
+  - Solar Eclipse
+  - Astronomy
+  - Observational Astronomy
+  - Telescope Design
+  - Micrometer
+tldr: 'The author, William Wales, observed and recorded the solar eclipse that occurred on June 24, 1778, from the Royal Mathematical School in Christ's Hospital. He used an excellent watch, a Hadley's quadrant, and a Gregorian telescope made by Mr. Short to measure the Sun's diameter and the distances between the two cusps of the luminaries. Wales also discussed the potential effects of refraction on his measurements and how they could be corrected.'
+scientific_discipline: Astronomy > Observational Astronomy

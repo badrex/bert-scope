@@ -1,0 +1,10 @@
+article_id: 'rspb_1905_0003'
+revised_title: 'A New Method for Atmospheric Carbon Dioxide Determination'
+semantic_tags:
+  - Atmospheric Chemistry
+  - Carbon Dioxide
+  - Gas Absorption
+  - Environmental Science
+  - Alkali Absorption
+tldr: The authors developed a new method for determining atmospheric carbon dioxide based on the rate of its absorption by a free surface of a solution of caustic alkali. They found that the rate of absorption increased with the velocity of the air current and discovered a direct relationship between the partial pressures of carbon dioxide and the rates of absorption. This method provided accurate results and had the advantage of not requiring any measurement of the air from which the gas was absorbed.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

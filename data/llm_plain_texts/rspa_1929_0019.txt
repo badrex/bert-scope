@@ -1,0 +1,10 @@
+article_id: rspa_1929_0019
+revised_title: 'Elastic Constants of Fused Quartz: Temperature Dependence of Young's Modulus'
+semantic_tags:
+  - Elasticity
+  - Quartz
+  - Young's Modulus
+  - Temperature Dependence
+  - Material Properties
+tldr: This article investigates the change in Young's modulus of fused quartz as the temperature increases. The author finds that the modulus increases continuously from room temperature to temperatures above 600°C. The experiments reveal that the material properties of fused quartz are affected by temperature, with the modulus increasing rapidly at lower temperatures and then stabilizing at higher temperatures.
+scientific_discipline: Physics > Material Science

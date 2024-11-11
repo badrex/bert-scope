@@ -1,0 +1,10 @@
+article_id: rspa_1990_0142
+revised_title: 'Numerical Solutions for Sixth-Order Boundary-Value Problems and Applications to Bénard Layer Eigenvalue Problems'
+semantic_tags:
+  - Numerical methods
+  - Boundary-value problems
+  - Sixth-order differential equations
+  - Bénard layer
+  - Eigenvalue problems
+tldr: The authors present a family of numerical methods for solving special and general sixth-order boundary-value problems, with applications to Bénard layer eigenvalue problems. They discuss methods with second, fourth, sixth, and eighth-order convergence and transform the sixth-order differential equation into a system of three second-order differential equations. The methods are applied to the sixth-order eigenvalue problems associated with the onset of instability in a Bénard layer, and numerical results are compared with asymptotic estimates from the literature.
+scientific_discipline: Mathematics > Numerical Analysis

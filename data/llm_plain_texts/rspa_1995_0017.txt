@@ -1,0 +1,10 @@
+article_id: rspa_1995_0017
+revised_title: Failure Assessment Diagrams with Constraint Parameters
+semantic_tags:
+  - Fracture Mechanics
+  - Failure Assessment Diagrams
+  - Constraint Parameters
+  - Ductile Crack Growth
+  - Material Resistance
+tldr: This article discusses the inclusion of constraint parameters in failure assessment diagrams, which helps in understanding ductile crack growth and material resistance. The author extends the previous methods to consider additional parameters while still using a two-dimensional failure assessment diagram. The article also introduces the projected growth path image, which can be used to analyze ductile tearing instability.
+scientific_discipline: Engineering and Technology > Materials Science

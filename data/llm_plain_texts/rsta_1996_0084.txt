@@ -1,0 +1,10 @@
+article_id: 'rsta_1996_0084'
+revised_title: 'Foundational Mathematical Theory Based on a Symmetric Relation'
+semantic_tags:
+  - Mathematical Foundations
+  - Set Theory
+  - Axiomatic Systems
+  - Taxonomic Systems
+  - Philosophy of Mathematics
+tldr: The author proposes a new foundational mathematical theory based on a single symmetric relation, aiming to provide a simple and self-consistent basis for deriving fundamental branches of mathematics. The theory focuses on taxonomic systems and distinguishes between primary and secondary taxa, offering a potential alternative to traditional set theory and axiomatic systems.
+scientific_discipline: Mathematics > Mathematical Foundations

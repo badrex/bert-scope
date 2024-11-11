@@ -1,0 +1,10 @@
+article_id: rspa_1937_0078
+revised_title: Investigation of Positive and Negative Electron Pair Production in a Cloud Chamber
+semantic_tags:
+  - Particle Physics
+  - Cloud Chamber
+  - Gamma Rays
+  - Electron Pair Production
+  - Nuclear Physics
+tldr: The authors conducted experiments using a cloud chamber to study the production of positive and negative electron pairs by gamma rays. They obtained 127 pairs in 2412 exposures with argon or methyl iodide vapor and a Ra-Th source. The results showed a broad distribution of total kinetic energy for the electron pairs and provided insights into the understanding of multiple scattering and energy calculations.
+scientific_discipline: Physics > Particle Physics

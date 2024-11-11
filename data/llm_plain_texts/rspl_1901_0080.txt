@@ -1,0 +1,10 @@
+article_id: rspl_1901_0080
+revised_title: 'On the True Resistance and Electromotive Forces of the Electric Arc'
+semantic_tags:
+  - Electrical resistance
+  - Electromotive force
+  - High-frequency alternating current
+  - Arc discharge
+  - Electrical engineering
+tldr: The author describes a method to measure the true resistance and electromotive forces of the electric arc using high-frequency alternating currents. The experiments show that the arc behaves more like a non-inductive resistance as the frequency of the testing current increases. The author also discusses the effect of changing the direct current on the resistance and electromotive forces of the arc.
+scientific_discipline: Engineering and Technology > Electrical Engineering

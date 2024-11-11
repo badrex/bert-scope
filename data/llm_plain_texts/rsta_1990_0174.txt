@@ -1,0 +1,10 @@
+article_id: rsta_1990_0174
+revised_title: Advances in NMR Microscopy for Cellular Imaging
+semantic_tags:
+  - Magnetic Resonance Imaging
+  - Cellular Imaging
+  - Biomedical Imaging
+  - NMR Technology
+  - Microscopy
+tldr: This article discusses recent developments and future prospects of nuclear magnetic resonance (NMR) microscopy, focusing on its application in cellular imaging. The authors review fundamental parameters in microscopy at micrometer resolution, examine theoretical resolution limits, and analyze critical parameters such as voxel-size-dependent signal-to-noise ratio and magnetic-field-strength-dependent resolution. They present experimental results obtained with a 7.0 T microscopic imaging system, emphasizing cellular imaging and localized imaging. The authors conclude that NMR microscopy has the potential to provide micrometer-resolution images within acceptable measurement time, allowing the study of biological samples such as embryos at the cellular level.
+scientific_discipline: Biology and Life Sciences > Cell Biology

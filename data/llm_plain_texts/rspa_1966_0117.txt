@@ -1,0 +1,10 @@
+article_id: rspa_1966_0117
+revised_title: 'Second Order Effects in Dissipative Media: Torsion Experiments and Theoretical Developments'
+semantic_tags:
+  - Solid Mechanics
+  - Viscoelasticity
+  - Plasticity
+  - Strain Hardening
+  - Torsion
+tldr: This article discusses second-order effects in dissipative media, such as viscoelastic, plastic, and strain-hardening solids. The authors report on experiments that observed these effects and present a theoretical framework for understanding them. Second-order effects arise from tensorial nonlinearity in the constitutive equations and can be separated from first-order deformation. The study of these effects helps improve our understanding of materials' behavior under stress and strain.
+scientific_discipline: Physics > Solid Mechanics

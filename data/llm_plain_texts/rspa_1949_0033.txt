@@ -1,0 +1,10 @@
+article_id: rspa_1949_0033
+revised_title: 'Polymerization of Acetaldehyde at Low Temperatures: Effects of Foreign Substances and Distillation Conditions'
+semantic_tags:
+  - Polymerization
+  - Acetaldehyde
+  - Chemical kinetics
+  - Polymer properties
+  - Inhibitors
+tldr: The authors studied the polymerization of acetaldehyde at low temperatures and the effects of foreign substances and distillation conditions on the reaction. They found that certain substances, like acetone and ethyl alcohol, reduced the average molecular weight of the polymer, while acetic acid increased the yield but reduced the molecular weight. The authors also discovered that the molecular weight of the polymer increased with the weight of acetaldehyde used, but tended to reach a limiting value. The polymerization process was found to be sensitive to the distillation rate and the presence of gases like nitrogen and air.
+scientific_discipline: Chemistry > Polymer Chemistry

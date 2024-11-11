@@ -1,0 +1,10 @@
+article_id: rspa_1983_0034
+revised_title: 'Dissociation of Dislocations in Diamond: Observations and Analysis'
+semantic_tags:
+  - Crystallography
+  - Diamond Physics
+  - Dislocation Dynamics
+  - Electron Microscopy
+  - Materials Science
+tldr: The authors used weak-beam electron microscopy to study the dissociation of dislocations in type IIa diamond. They found that dislocations with Burgers vector on (111) glide planes were dissociated into two Shockley partials, with separations between 2.5 and 4.3. The stacking fault energy was determined from the mean and distribution of the partials' separations. The behavior of dislocations in diamond appears to be similar to that in germanium and silicon.
+scientific_discipline: Materials Science > Crystallography

@@ -1,0 +1,10 @@
+article_id: rspa_1951_0105
+revised_title: 'Order/Length Relationships for π-bonds in Heteronuclear Molecules'
+semantic_tags:
+  - Chemistry
+  - Bond Length
+  - Bond Order
+  - Molecular Orbital Theory
+  - Quantum Mechanics
+tldr: The authors discuss bond energies and lengths, focusing on π-bonds in heteronuclear molecules. They propose order/length relationships to correlate theoretical calculations with experimental measurements of interatomic distances. The study covers C-N and C-S bonds, and the authors suggest that environmental factors have a small impact on these bonds. They also examine the use of molecular orbital theory in understanding bonding in heteroatomic molecules.
+scientific_discipline: Chemistry > Molecular Orbital Theory

@@ -1,0 +1,10 @@
+article_id: 'rspb_1939_0022'
+revised_title: 'Carcinogenicity and Growth-Inhibitory Power in Polycyclic Hydrocarbons and Other Substances'
+semantic_tags:
+  - Carcinogenicity
+  - Growth-Inhibition
+  - Polycyclic Hydrocarbons
+  - Cancer Research
+  - Tumor Growth
+tldr: The authors conducted experiments with 96 compounds to study their effects on the growth of Walker rat carcinoma 256, Crocker mouse sarcoma 180, and spontaneous mammary cancer in mice. They found a strong association between carcinogenicity and growth-inhibitory power, with 86.5% of experiments with carcinogenic substances showing growth inhibition. This discovery has significant implications for understanding the mode of action of cancer-producing substances.
+scientific_discipline: Biology and Life Sciences > Oncology

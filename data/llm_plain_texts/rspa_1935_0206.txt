@@ -1,0 +1,10 @@
+article_id: rspa_1935_0206
+revised_title: 'Energy Exchange Between Diatomic Gas Molecules and a Solid Surface: A Theoretical Study'
+semantic_tags:
+  - Gas-Solid Interactions
+  - Diatomic Molecules
+  - Thermal Accommodation Coefficient
+  - Quantum Mechanics
+  - Energy Transfer
+tldr: This article presents a theoretical study of energy exchange between diatomic gas molecules and a solid surface. The authors develop a theory for calculating the accommodation coefficient, which measures the exchange of energy between gas molecules and a solid. They use Born-Dirac perturbation theory and consider the effects of the repulsive field between the gas molecule and the surface. The study includes calculations for hydrogen and oxygen molecules and provides insights into the energy transfer processes in gas-solid interactions.
+scientific_discipline: Physics > Thermodynamics

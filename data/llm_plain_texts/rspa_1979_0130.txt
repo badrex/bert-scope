@@ -1,0 +1,10 @@
+article_id: rspa_1979_0130
+revised_title: Casimir Effect for Self-Interacting Scalar Field: Analytical Methods and Vacuum Energy
+semantic_tags:
+  - Quantum Field Theory
+  - Casimir Effect
+  - Vacuum Energy
+  - Self-Interacting Scalar Field
+  - Analytical Methods
+tldr: This article investigates the effect of self-interaction on the vacuum energy of a scalar field in flat space-times with boundaries and in the Einstein universe. The authors explore various analytical methods, such as zeta function regularization and cutoff methods, to calculate the vacuum energy-momentum tensor for self-interacting quantum field theories in curved spacetimes.
+scientific_discipline: Physics > Quantum Field Theory

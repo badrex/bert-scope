@@ -1,0 +1,10 @@
+article_id: rspa_1962_0173
+revised_title: A Statistical Analysis of Electrical Breakdown in Liquid Dielectrics
+semantic_tags:
+  - Dielectric materials
+  - Electrical breakdown
+  - Statistical theory
+  - Time lags
+  - Pulse voltages
+tldr: This article investigates the electrical breakdown of liquid dielectrics using a statistical interpretation. The authors found that a statistical time lag exists, which was previously overlooked in earlier studies. They developed a statistical theory to explain the time between the application of stress and the occurrence of a breakdown event. The study also highlights the importance of electrode conditions and the effect of air content on the breakdown process.
+scientific_discipline: Physics > Electromagnetism

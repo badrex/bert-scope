@@ -1,0 +1,10 @@
+article_id: 'rstl_1880_0013'
+revised_title: 'Motion of Two Spheres in a Fluid: A Study of Fluid Dynamics'
+semantic_tags:
+  - Fluid dynamics
+  - Hydrodynamics
+  - Sphere motion
+  - Stokes' theorem
+  - Velocity potential
+scientific_discipline: Physics > Fluid dynamics
+tldr: The authors examine the motion of two spheres in a fluid, focusing on the velocity potential and the effect of fluid on the spheres' motion. They discuss the work of previous researchers, such as Stokes and Thomson, and present a method to determine the velocity potential for the motion of two spheres in a fluid. This study contributes to the understanding of fluid dynamics and the behavior of objects in a fluid medium.

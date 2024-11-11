@@ -1,0 +1,10 @@
+article_id: rspa_1936_0125
+revised_title: 'Magnetic Cooling Method and Heat Conductivity'
+semantic_tags:
+  - Magnetic cooling
+  - Heat conductivity
+  - Spin system
+  - Crystal lattice
+  - Thermal properties
+tldr: The authors studied the magnetic cooling method and its effects on the conductivity of heat in paramagnetic crystals. They found that the crystal behaves like an ideal gas of independent particles, but to obtain a finite heat conductivity, a mean free path for the particles must be introduced. The study provides insights into the thermal properties of materials and the interactions between their spin systems and lattice vibrations.
+scientific_discipline: Physics > Solid State Physics

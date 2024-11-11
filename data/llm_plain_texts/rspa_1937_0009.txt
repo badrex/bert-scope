@@ -1,0 +1,10 @@
+article_id: rspa_1937_0009
+revised_title: 'Exact and Approximate Expressions for the Permeability of Potential Barriers to Light Particles'
+semantic_tags:
+  - Quantum mechanics
+  - Barrier penetration
+  - Schrodinger equation
+  - Bessel functions
+  - Parabolic barrier
+tldr: The author discusses the range of validity of approximate expressions for the permeability of potential barriers and presents an exact solution for a parabolic potential barrier. They show that the errors in approximate treatments can be evaluated by comparing them with exact solutions. The study concludes that for barriers relevant to chemical reactions, approximate expressions can be used for semi-quantitative calculations of absolute rates and provide accurate results for the relative rates of similar reactions.
+scientific_discipline: Physics > Quantum Mechanics

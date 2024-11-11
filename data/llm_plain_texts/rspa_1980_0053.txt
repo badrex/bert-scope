@@ -1,0 +1,10 @@
+article_id: rspa_1980_0053
+revised_title: Early Developments in Solid State Physics
+semantic_tags:
+  - Solid State Physics
+  - Quantum Mechanics
+  - Fermi Statistics
+  - Band Theory
+  - Conductivity
+tldr: The article recounts the author's experiences and recollections of early solid state physics research, focusing on the development of theories and understanding of electron behavior in metals. It discusses the contributions of Sommerfeld, Pauli, Bloch, and other scientists in the field, and highlights key discoveries such as the application of Fermi statistics, the explanation of the Wiedemann-Franz ratio, and the understanding of the temperature dependence of resistivity.
+scientific_discipline: Physics > Solid State Physics

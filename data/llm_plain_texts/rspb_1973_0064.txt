@@ -1,0 +1,10 @@
+article_id: 'rspb_1973_0064'
+revised_title: 'Automated ECG Interpretation in the National Health Service'
+semantic_tags:
+  - ECG interpretation
+  - Automation
+  - Health service
+  - Medical technology
+  - Computer-assisted diagnosis
+tldr: This article discusses the potential benefits of using automated ECG interpretation in the National Health Service. It compares the 12-lead and 3-lead ECG systems and recommends the 3-lead system for routine use due to its time efficiency and cost-effectiveness. The article also explores different recording techniques and choices for computer systems, emphasizing the advantages of using a central hospital computer for ECG interpretation.
+scientific_discipline: Medicine and Health Sciences > Medical Technology

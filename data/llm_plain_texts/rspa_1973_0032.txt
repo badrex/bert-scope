@@ -1,0 +1,10 @@
+article_id: rspa_1973_0032
+revised_title: Mechanics of Adhesive Failure: A Comprehensive Study
+semantic_tags:
+  - Adhesive Materials
+  - Failure Mechanics
+  - Viscoelasticity
+  - Surface Properties
+  - Thermodynamics
+tldr: This study investigates the mechanics of adhesive failure using model adhesive joints between a cross-linked amorphous rubber and rigid polymeric substrates. The adhesive failure energy was determined over a range of temperatures and crack propagation rates. The results show that adhesive failure energy is the sum of two components: the energy dissipated viscoelastically within the rubber at the crack tip and the intrinsic adhesive failure energy. The study also found that the adhesive failure energy can be represented as the product of the intrinsic adhesive failure energy and a function of rate and temperature.
+scientific_discipline: Materials Science > Adhesives and Adhesive Materials

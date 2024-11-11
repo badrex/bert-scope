@@ -1,0 +1,10 @@
+article_id: 'rstl_1880_0022'
+revised_title: 'Revision of the Atomic Weight of Aluminum: A Historical Overview'
+semantic_tags:
+  - Atomic weight
+  - Aluminum
+  - Chemistry
+  - Experimentation
+  - Analytical chemistry
+tldr: This article discusses the historical process of determining the atomic weight of aluminum through various experiments and methods. It highlights the challenges and sources of error in the experiments conducted by Berzelius, Mather, and Dumas, and suggests improvements for future research.
+scientific_discipline: Chemistry > Analytical Chemistry

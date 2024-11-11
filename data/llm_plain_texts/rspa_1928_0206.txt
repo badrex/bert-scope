@@ -1,0 +1,10 @@
+article_id: 'rspa_1928_0206'
+revised_title: 'Efficiency of Soft X-Rays Production and Absorption in Metals'
+semantic_tags:
+  - X-ray physics
+  - Photoelectric effect
+  - Secondary electrons
+  - X-ray absorption
+  - X-ray tube
+tldr: The authors studied the efficiency of soft X-ray production and absorption in metals. They found that the number of photoelectrons produced from metals by soft X-rays is relatively small, and a large portion of the energy of the bombarding electrons appears as energy of secondary electrons. The authors also estimated the number of radiation quanta emitted from the X-ray tube for each bombarding electron, concluding that only one out of 10^5 or 10^6 electrons can produce a radiation quantum escaping from the anode.
+scientific_discipline: Physics > Electromagnetism

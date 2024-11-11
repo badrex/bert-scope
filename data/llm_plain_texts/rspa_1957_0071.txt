@@ -1,0 +1,10 @@
+article_id: rspa_1957_0071
+revised_title: Mutual Friction in Heat Currents in Liquid Helium II: Experiments on Steady Heat Currents
+semantic_tags:
+  - Superfluidity
+  - Helium II
+  - Mutual friction
+  - Second sound
+  - Two-fluid model
+tldr: This article presents experiments on the conduction of heat through liquid helium II in wide channels, focusing on the properties of the mutual friction force in the two-fluid model. The authors measure the force of mutual friction in a heat current and study its effects on second sound, providing insights into the behavior of superfluid helium and the underlying mechanisms of mutual friction.
+scientific_discipline: Physics > Fluid Dynamics

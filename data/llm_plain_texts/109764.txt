@@ -1,0 +1,10 @@
+article_id: '109764'
+revised_title: 'Investigating the State of Alcohol in Fermented Liquors'
+semantic_tags:
+  - Alcohol chemistry
+  - Fermentation
+  - Distillation
+  - Wine chemistry
+  - Separation techniques
+tldr: 'The author, William Thomas Brande, conducted experiments to determine if alcohol exists in fermented liquors as a result of fermentation or if it is formed during distillation. He used a new process that avoided distillation and separated the alcohol from other substances in the liquor. The results showed that the alcohol content in Port wine was 22 percent, supporting the idea that alcohol exists in fermented liquors ready-formed.'
+scientific_discipline: Chemistry > Alcohol chemistry

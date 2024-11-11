@@ -1,0 +1,10 @@
+article_id: rspa_1946_0021
+revised_title: Benzoyl Peroxide Sensitized Oxidation of Tetralin
+semantic_tags:
+  - Free Radical Chemistry
+  - Oxidation Reactions
+  - Hydrocarbon Oxidation
+  - Kinetics
+  - Tetralin Oxidation
+tldr: The author investigates the oxidation of tetralin in the presence of benzoyl peroxide, finding that it follows a free radical chain reaction mechanism. The oxidation rate increases with benzoyl peroxide concentration but plateaus at a certain point. The reaction rate is proportional to the first power of the tetralin concentration and is influenced by oxygen pressure. The study provides insights into the role of benzoyl peroxide in promoting the oxidation process.
+scientific_discipline: Chemistry > Organic Chemistry

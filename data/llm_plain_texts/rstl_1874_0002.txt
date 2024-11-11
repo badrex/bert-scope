@@ -1,0 +1,10 @@
+article_id: 'rstl_1874_0002'
+revised_title: 'Extensions and Applications of the Theory of Screws in Rigid Body Dynamics'
+semantic_tags:
+  - Mechanics
+  - Rigid Body Dynamics
+  - Screw Theory
+  - Vector Calculus
+  - Engineering Mathematics
+tldr: The authors extend and apply the theory of screws to study the dynamics of a rigid body. They demonstrate the appropriateness of the method for various problems in rigid body dynamics and explore the composition of twists and wrenches. The theory is also used to resolve wrenches and twist velocities about six screws of reference, and to find the single screw reciprocal to five given screws.
+scientific_discipline: Mathematics > Vector Calculus

@@ -1,0 +1,10 @@
+article_id: 'rstb_1993_0143'
+revised_title: 'HIV Spread in Heterosexual Communities: Influence of Mixing Patterns and Sexual Activity'
+semantic_tags:
+  - HIV epidemiology
+  - Sexual behavior
+  - Demographic impact
+  - Mathematical modeling
+  - Public health interventions
+tldr: The authors developed a mathematical model to analyze the spread of HIV in heterosexual communities in developing countries, considering patterns of mixing between different age and sexual activity classes. They found that the pattern of mixing and the balance between supply and demand for sexual partners significantly influence the spread of HIV and its demographic impact. The study highlights the importance of understanding sexual behavior and social factors to develop effective public health interventions.
+scientific_discipline: Social Sciences > Public Health

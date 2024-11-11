@@ -1,0 +1,10 @@
+article_id: 'rsta_1986_0050'
+revised_title: 'Structure-Function Study of Dihydrofolate Reductase through Protein Engineering'
+semantic_tags:
+  - Protein Engineering
+  - Enzyme Catalysis
+  - Dihydrofolate Reductase
+  - Crystallography
+  - Oligonucleotide-directed Mutagenesis
+tldr: The article discusses a structure-function study of dihydrofolate reductase (DHFR) using protein engineering techniques. The researchers engineered specific mutations in the DHFR enzyme to test its structure-function relations and analyzed the crystal structures of the mutant enzymes. The study reveals that aspartate-27 plays a role in substrate protonation, while its contribution to transition-state stabilization is negligible. The findings provide insights into the enzyme's catalytic mechanism and inhibitor binding.
+scientific_discipline: Biology and Life Sciences > Biochemistry

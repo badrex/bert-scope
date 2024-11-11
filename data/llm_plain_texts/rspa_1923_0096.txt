@@ -1,0 +1,10 @@
+article_id: rspa_1923_0096
+revised_title: Thermal Conductivities of Metal Crystals: Bismuth
+semantic_tags:
+  - Crystallography
+  - Thermal conductivity
+  - Bismuth
+  - Metals
+  - Crystal structure
+tldr: The authors developed a new method for measuring the thermal conductivities of materials with low conductivity, specifically focusing on bismuth crystals. They used a "plate" type of apparatus to measure the energy conducted by the test specimens and found that the thermal conductivities of bismuth crystals in different directions varied significantly. This research provided important insights into the thermal properties of metals and the validity of theories of the solid state.
+scientific_discipline: Physics > Materials Science

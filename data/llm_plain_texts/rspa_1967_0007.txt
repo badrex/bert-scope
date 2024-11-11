@@ -1,0 +1,10 @@
+article_id: rspa_1967_0007
+revised_title: 'Perturbation Expansion and Graphical Analysis of Electron Correlations in Narrow Energy Bands'
+semantic_tags:
+  - Quantum Mechanics
+  - Solid State Physics
+  - Many-Body Theory
+  - Green Functions
+  - Perturbation Theory
+tldr: The article presents a perturbation expansion and graphical analysis of electron correlations in narrow energy bands. The authors develop a systematic technique using a Hamiltonian and Green functions to study the interactions between atoms and the behavior of electrons in systems with finite temperature. This approach allows for a better understanding of electron propagation and the calculation of free energy in these systems.
+scientific_discipline: Physics > Solid State Physics

@@ -1,0 +1,10 @@
+article_id: rsta_1995_0097
+revised_title: Initiation of Detonation from General Non-uniformly Distributed Initial Conditions
+semantic_tags:
+  - Detonation initiation
+  - Non-uniform initial conditions
+  - High-speed reaction wave
+  - Asymptotic approaches
+  - Spontaneous flame concept
+scientific_discipline: Physics > Fluid Dynamics
+tldr: The author investigates the initiation of detonation in a reactive atmosphere with non-uniform initial conditions, such as velocity, pressure, temperature, and reactant mass fraction. The study demonstrates that these initial non-uniformities generate gradients in the distribution of chemical ignition times, creating a high-speed, shockless reaction wave. If the gradients are large enough, a transition from the high-speed reaction wave to a strong detonation occurs. The author presents an asymptotic derivation of the spontaneous flame concept, which accounts for the presence of initial velocity and pressure disturbances, and investigates the unsteady structure of the high-speed reaction wave.

@@ -1,0 +1,10 @@
+article_id: rspa_1982_0123
+revised_title: A Thermodynamic Model for the Inelasticity and Microcracking of Concrete
+semantic_tags:
+  - Concrete mechanics
+  - Microcracking
+  - Elastoplastic coupling
+  - Thermodynamics
+  - Internal-variable formalism
+tldr: This article proposes a physical model for the inelasticity of concrete, focusing on microcracking and its interaction with the material's plasticity, known as elastoplastic coupling. The model accounts for the composite nature of concrete and its influence on microcrack development. A thermodynamic approach is used to describe the coupling between the material's plasticity and its elastic degradation. The model predicts that concrete exhibits stable crack growth under uniaxial compression and unstable crack growth under uniaxial tension, in agreement with experimental observations.
+scientific_discipline: Engineering and Technology > Civil Engineering

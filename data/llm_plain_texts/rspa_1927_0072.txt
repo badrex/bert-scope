@@ -1,0 +1,10 @@
+article_id: rspa_1927_0072
+revised_title: The Magnetic Spectrometer: Analyzing Beams of Moving Charged Particles
+semantic_tags:
+  - Particle Physics
+  - Magnetic Fields
+  - Spectroscopy
+  - Nuclear Physics
+  - Ionization Chambers
+tldr: The authors describe the magnetic spectrometer, a device that uses magnetic fields to analyze beams of moving charged particles. They explain how the spectrometer works, how to determine the structure of the lines produced by the particles, and how to find the best arrangement of the source, slit, and photographic plate. The magnetic spectrometer has applications in particle physics, nuclear physics, and spectroscopy.
+scientific_discipline: Physics > Particle Physics

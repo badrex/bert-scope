@@ -1,0 +1,10 @@
+article_id: rspl_1900_0006
+revised_title: 'Investigations on the Crystalline Structure of Metals and Annealing Effects'
+semantic_tags:
+  - Crystallography
+  - Metallurgy
+  - Annealing
+  - Recrystallization
+  - Metal alloys
+tldr: The authors conducted experiments on the crystalline structure of metals, focusing on lead, tin, zinc, and cadmium. They observed the effects of annealing and recrystallization on strained metals, discovering that these processes occur at lower temperatures in metals with plastic strain. The study provides insights into the behavior of metal alloys and their properties.
+scientific_discipline: Materials Science > Metallurgy

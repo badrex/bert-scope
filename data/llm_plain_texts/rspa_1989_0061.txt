@@ -1,0 +1,10 @@
+article_id: rspa_1989_0061
+revised_title: 'Chandrasekhar's Black Holes Attached to Strings'
+semantic_tags:
+  - Black Holes
+  - Einstein-Maxwell Equations
+  - String Theory
+  - Conical Singularities
+  - Astrophysics
+tldr: The authors discovered a static axisymmetric solution of the Einstein-Maxwell equations representing two charged black holes of equal mass and opposite charge connected by'strings'. The space-time outside the black holes' event horizons is asymptotically flat and smooth, except for a conical singularity along the axis where the string is located. Inside the event horizons, time-like curvature singularities occur. This solution allows for the transgression of theorems excluding multiple black holes and isolated charged black holes, made possible by allowing conical singularities.
+scientific_discipline: Physics > Astrophysics

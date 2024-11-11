@@ -1,0 +1,10 @@
+article_id: 'rspa_1960_0079'
+revised_title: 'Gaseous Formic Acid Decomposition Reactions: A Study on Reaction Order'
+semantic_tags:
+  - Chemical kinetics
+  - Homogeneous reactions
+  - Formic acid
+  - Reaction mechanism
+  - Reaction order
+tldr: This study investigates the decomposition reactions of gaseous formic acid. The authors discuss the complexity of the reaction curve and consider possible interpretations, including a concurrent unimolecular decomposition of the monomer carbon monoxide. They analyze the steric factors and molecular structures involved in the process, ultimately proposing a reaction mechanism and order.
+scientific_discipline: Chemistry > Chemical kinetics

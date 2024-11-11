@@ -1,0 +1,10 @@
+article_id: rspa_1908_0097
+revised_title: 'Wave Propagation in Dispersive Media and Applications to Water Waves'
+semantic_tags:
+  - Wave mechanics
+  - Fluid dynamics
+  - Dispersive media
+  - Water waves
+  - Fourier analysis
+tldr: The author investigates the propagation of groups of waves in dispersive media, with a focus on water waves produced by a traveling disturbance. Using Fourier analysis, the author demonstrates how waves can be represented as a collection of simple groups and discusses the implications for understanding wave behavior in various scenarios.
+scientific_discipline: Physics > Fluid dynamics

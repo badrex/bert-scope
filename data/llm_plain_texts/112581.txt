@@ -1,0 +1,10 @@
+article_id: 112581
+revised_title: Determination of Glass Rigidity through Flexural and Torsional Experiments
+semantic_tags:
+  - Material Science
+  - Glass properties
+  - Elasticity
+  - Young's Modulus
+  - Torsional Rigidity
+tldr: The author, Joseph D. Everett, conducted experiments on a glass rod to determine its flexural and torsional rigidity. By measuring the bending and twisting of the rod, they were able to calculate Young's Modulus of Elasticity, absolute rigidity, resistance to compression, and the ratio of lateral contraction to longitudinal extension. The values found for the flint-glass rod were M=1,614,330,000, n=241,417,000, k=423,010,000, and a=258.
+scientific_discipline: Material Science > Glass properties

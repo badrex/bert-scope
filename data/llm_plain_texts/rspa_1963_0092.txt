@@ -1,0 +1,13 @@
+affected by the introduction of initial stress. For the anisotropic medium, the surface deflexion is given by equation (4.1). The surface becomes unstable when the denominator of this expression vanishes. This occurs when the surface deflexion is a maximum. The maximum value of the surface deflexion is given by equation (4.2). The surface instability is characterized by a buckling mode whose amplitude decreases exponentially with the distance from the surface. The surface instability is influenced by the free surface but occurs throughout the medium.
+
+The surface instability of the elastic half-space is analyzed for the case of a non-isotropic medium. The medium is assumed to be incompressible and of orthotropic incremental properties. The principal initial stresses are parallel with the free surface, and if the medium is originally orthotropic, they are also parallel with the planes of elastic symmetry. The surface instability is characterized by a buckling mode whose amplitude decreases exponentially with the distance from the surface. The surface deflexion under a normal load is evaluated for the subcritical case of initial stress. The analysis includes the case in which gravity is taken into account. It is found that for a certain value of the initial stress, the surface behaves as if the solid were a fluid, and surface loads sink to a depth at which they are supported by buoyancy forces only.
+
+Revised Title: Surface Instability in Anisotropic Elasticity Under Initial Stress
+semantic_tags:
+  - Elasticity
+  - Surface Instability
+  - Anisotropic Materials
+  - Orthotropic Symmetry
+  - Buoyancy Forces
+tldr: The article investigates the surface instability of an elastic half-space with anisotropic properties under initial stress. The analysis considers an incompressible medium with orthotropic incremental properties and evaluates the surface deflection under a normal load. It is found that for a certain value of initial stress, the surface behaves like a fluid, with surface loads sinking to a depth supported by buoyancy forces only.
+scientific_discipline: Physics > Mechanics

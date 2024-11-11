@@ -1,0 +1,10 @@
+article_id: rspa_1974_0178
+revised_title: 'Electronic Structure and Photoelectron Spectra of Diatomic Alkali Halides'
+semantic_tags:
+  - Photochemistry
+  - Spectroscopy
+  - Alkali halides
+  - Molecular orbital calculations
+  - Ionic solids
+tldr: The authors studied the He 1 photoelectron spectra of alkali halides, focusing on chlorides, bromides, and iodides of Na, K, Rb, and Cs. They interpreted the spectra based on a completely ionic model, discussing the polarization of halogen atoms by alkali metal ions. The results showed that the electronic structure of these diatomic halides is largely ionic, with the first ionization potentials close to the predictions of a theoretical model. The study provides insights into the electronic structure of ionic molecules and their photoelectron spectra.
+scientific_discipline: Chemistry > Spectroscopy

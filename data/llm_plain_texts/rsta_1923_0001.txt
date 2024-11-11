@@ -1,0 +1,10 @@
+article_id: rsta_1923_0001
+revised_title: 'On the Velocity Distribution Function and Stresses in Non-Uniform Rarefied Monatomic Gases'
+semantic_tags:
+  - Statistical mechanics
+  - Kinetic theory
+  - Gas dynamics
+  - Molecular modeling
+  - Rarefied gases
+tldr: The authors extend the solution of the velocity distribution function to gases where the mean free path of a molecule is not small compared to the scale of length in which the gas's properties vary. They develop a new equation of transfer and provide a solution of the distribution function to any desired degree of completeness, which can be applied to various molecular models.
+scientific_discipline: Physics > Gas dynamics

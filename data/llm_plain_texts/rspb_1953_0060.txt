@@ -1,0 +1,10 @@
+article_id: 'rspb_1953_0060'
+revised_title: 'Investigating Fatigue and Adaptation in the Cupular Mechanism of the Human Horizontal Semicircular Canal'
+semantic_tags:
+  - 'Inner ear physiology'
+  - 'Sensory adaptation'
+  - 'Response decline'
+  - 'Cupula'
+  - 'Angular acceleration'
+tldr: 'This study investigates the physiological mechanism behind the response decline of the cupula in the human horizontal semicircular canal. The authors conducted experiments using a revolving chair and found that the response decline is due to end-organ adaptation, not true physiological fatigue. They also discovered that the adapting elements of the cupula show directional specificity, meaning prolonged deflection in one direction affects the response to deflections in the same direction but not the opposite. These findings have implications for understanding the nervous mechanism of the cupula.'
+scientific_discipline: 'Biology and Life Sciences > Neuroscience'

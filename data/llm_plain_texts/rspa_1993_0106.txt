@@ -1,0 +1,10 @@
+article_id: rspa_1993_0106
+revised_title: Radiative Rayleigh-Benard System: Buoyancy-Driven Flows in a Vertical Cylinder
+semantic_tags:
+  - Natural Convection
+  - Radiative Heat Transfer
+  - Fluid Dynamics
+  - Rayleigh-Benard Convection
+  - Bifurcation Analysis
+tldr: This study investigates the effect of radiative energy transport on the onset and evolution of natural convective flows in a Rayleigh-Benard system. Steady, axisymmetric flows of a radiatively participating fluid in a vertical cylinder heated from below are calculated using the Galerkin finite element method. Bifurcation analysis techniques are used to explore the changes in flow structure due to internal radiation. The results demonstrate that radiative transport breaks the symmetry of steady flow solutions and causes major structural changes in the steady-state solutions, leading to dramatic changes in the temporal stability of the flows as the optical thickness of the fluid is varied.
+scientific_discipline: Physics > Fluid Dynamics

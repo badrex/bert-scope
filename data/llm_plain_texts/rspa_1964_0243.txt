@@ -1,0 +1,11 @@
+article_id: rspa_1964_0243
+revised_title: The Spread of Plasticity from Stress Concentrations: Anti-Plane Strain and Plane Strain Models
+semantic_tags:
+  - Fracture Mechanics
+  - Plasticity
+  - Stress Concentration
+  - Dislocations
+  - Anti-Plane Strain
+  - Plane Strain
+tldr: The article investigates the spread of plasticity from stress concentrations in an infinite sequence of cracks in an elastic body. It discusses two models: the anti-plane strain model and the plane strain model. The anti-plane strain model provides exact solutions for the extent of spread of plasticity and the associated dislocation distribution function, while the plane strain model requires iterative solutions for widely spaced cracks. The results emphasize the differences between anti-plane strain and plane strain conditions and their implications for stress concentration problems.
+scientific_discipline: Engineering and Technology > Materials Science

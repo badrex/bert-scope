@@ -1,0 +1,9 @@
+article_id: 'rspb_1983_0022'
+revised_title: 'Binocular Neurons in the Frog Optic Tectum: Receptive Field Properties and Disparity Sensitivity'
+semantic_tags:
+  - Neuroscience
+  - Vision
+  - Binocular neurons
+  - Frog optic tectum
+  - Receptive fields
+tldr: Researchers discovered small-field, binocular neurons in the superficial layers of the frog optic tectum. These neurons respond to dark stimuli in the lower half of their receptive field and light stimuli above. The neurons are almost in register, with a median horizontal disparity of 1.7 degrees. These findings suggest that the neurons may be tuned to detect features in the external world about 50 cm away, which could be useful for assessing the vertical position of a horizontal surface.

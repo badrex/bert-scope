@@ -1,0 +1,10 @@
+article_id: rspa_1955_0092
+revised_title: Generating Function for Averages Over the Orthogonal Group
+semantic_tags:
+  - Linear Algebra
+  - Group Theory
+  - Differential Equations
+  - Mathematical Statistics
+  - Matrix Theory
+tldr: The article presents a generating function for averages over the orthogonal group, which is used to evaluate integrals and find coefficients for the non-central Wishart distribution. The function is based on three properties and is determined by a system of differential equations. The author demonstrates the application of this function to the integration of monomials in the elements of an orthogonal matrix and its potential use in calculating conditional moments for the distribution of canonical correlation coefficients.
+scientific_discipline: Mathematics > Linear Algebra

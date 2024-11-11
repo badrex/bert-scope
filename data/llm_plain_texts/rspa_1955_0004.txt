@@ -1,0 +1,10 @@
+article_id: rspa_1955_0004
+revised_title: Crystal and Molecular Structure of Fluorene: A Planar Molecule
+semantic_tags:
+  - Crystallography
+  - Organic Chemistry
+  - Molecular Structure
+  - Planar Molecules
+  - Fluorene
+tldr: The authors determined the crystal and molecular structure of fluorene, finding it to be a planar molecule. They used trial-and-error methods, least-squares refinement, and two-dimensional Fourier syntheses to obtain accurate atomic coordinates. The results confirmed the planarity of the molecule, which is important for understanding its relation to carcinogenic compounds based on 1:2-benzanthracene.
+scientific_discipline: Chemistry > Organic Chemistry

@@ -1,0 +1,10 @@
+article_id: '41206195'
+revised_title: 'Electrodynamic Qualities of Metals and Magnetization Effects'
+semantic_tags:
+  - Electromagnetism
+  - Thermoelectricity
+  - Conductivity
+  - Magnetization
+  - Peltier effect
+scientific_discipline: Physics > Electromagnetism
+tldr: The author, William Thomson, conducted experiments to study the electrodynamic qualities of metals and the effects of magnetization on their conductivity. He discovered that the electric conductivity of magnetized iron is greater across than along the lines of magnetization. This research also led to the understanding of the Peltier effect and the influence of electro-magnetism on the flow of electric current in metals.

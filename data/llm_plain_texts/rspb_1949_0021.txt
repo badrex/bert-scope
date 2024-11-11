@@ -1,0 +1,10 @@
+article_id: 'rspb_1949_0021'
+revised_title: 'Energy and Heat Dynamics in Muscle Twitches'
+semantic_tags:
+  - Muscle Physiology
+  - Biophysics
+  - Heat Production
+  - Muscle Contraction
+  - Work and Energy
+tldr: The author's study found that in a muscle twitch, the heat produced is independent of the work done, as long as the amount of shortening remains constant. The energy liberated during a muscle twitch can be expressed as (A - W + ax), where A is the heat of activation, W is the work, and ax is the heat of shortening. This relation holds true for any part of the contraction. The study also confirmed that the rate of extra energy liberation during a muscle twitch is a linear function of the load.
+scientific_discipline: Biology and Life Sciences > Muscle Physiology

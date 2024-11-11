@@ -1,0 +1,11 @@
+article_id: 'rstb_1985_0039'
+revised_title: 'Future Directions in Pain Research: Understanding Nociception and Chronic Pain'
+semantic_tags:
+  - Pain research
+  - Nociception
+  - Chronic pain
+  - Gate control theory
+  - Pain mechanisms
+tldr: This article discusses the current understanding of pain and its relation to tissue damage. It highlights the need to move beyond the traditional view of a hard-wired system and appreciate the complexity of the biological system that recognizes injury and produces relevant responses. The author emphasizes the importance of investigating the modifying mechanisms that generate chronic intractable pains and the role of the central nervous system in abstracting properties from afferent barrages. The article also introduces the concept of progressive plasticity in pain mechanisms and the gate control theory, which plays a crucial role in understanding pain modulation.
+scientific_discipline: Biology and Life Sciences > Neuroscience
+```

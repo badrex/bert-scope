@@ -1,0 +1,10 @@
+article_id: 'rstb_1980_0101'
+revised_title: 'Genetic Engineering Applications in Industrial Microbiology'
+semantic_tags:
+  - Genetic engineering
+  - Industrial microbiology
+  - DNA manipulation
+  - Gene transfer
+  - Microbial biotechnology
+tldr: 'The article discusses the potential of genetic engineering in enhancing the quantity and quality of polypeptide products from bacterial cells. It explores various techniques for transferring DNA between different organisms and the possibilities of applying genetic engineering in industrial microbiology. The author highlights the importance of maintaining the fidelity of macromolecular interactions for effective gene transfer and the use of in vitro recombination methods, such as restriction endonucleases, for constructing recombinants.'
+scientific_discipline: Biology and Life Sciences > Microbiology

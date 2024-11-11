@@ -1,0 +1,10 @@
+article_id: 111777
+revised_title: Exploring the Nature of Diamagnetic Force and its Relation to Paramagnetic Force
+semantic_tags:
+  - Magnetism
+  - Diamagnetism
+  - Paramagnetism
+  - Magnetic properties of materials
+  - Molecular structure
+tldr: The author, John Tyndall, conducted experiments to understand the nature of the force by which bodies are repelled from the poles of a magnet. He discovered that diamagnetic materials are repelled by a magnet due to an excited state induced by the magnet, and that diamagnetic and paramagnetic materials exhibit opposite behaviors in magnetic fields. The author also demonstrated that the phenomena exhibited by paramagnetic and diamagnetic materials can be explained by assuming that diamagnetic materials have a polarity opposite to that of paramagnetic materials.
+scientific_discipline: Physics > Electromagnetism

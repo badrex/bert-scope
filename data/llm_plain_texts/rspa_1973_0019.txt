@@ -1,0 +1,10 @@
+article_id: rspa_1973_0019
+revised_title: 'A Study of Interstitial Clusters in Irradiated Alkali Halides'
+semantic_tags:
+  - Radiation damage
+  - Alkali halides
+  - Interstitial clusters
+  - Defect clusters
+  - Electron microscopy
+tldr: The authors conducted a direct electron microscope study of defect clusters in alkali halides caused by ionizing radiation. They developed a technique to prepare thin foils of alkali halide crystals for observation in the microscope and used a liquid helium cooled stage to study irradiated crystals at low temperatures. The study provides evidence for efficient interstitial clustering in alkali halides and discusses the size, growth behavior, and morphology of these clusters.
+scientific_discipline: Physics > Materials Science

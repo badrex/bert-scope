@@ -1,0 +1,10 @@
+article_id: rspa_1989_0016
+revised_title: Gravitational Waves and Their Effects on Test Particles in General Relativity
+semantic_tags:
+  - Gravitational waves
+  - General relativity
+  - Test particles
+  - Caustic property
+  - Null geodesics
+tldr: The authors study the effect of a plane gravitational wave on an infinite set of test particles at rest. They prove that all particles aligned in a certain direction will collide after a finite time, independent of their initial distance, due to the wave's caustic property. This phenomenon does not require any particle to move faster than the speed of light, and it has unusual optical properties for null geodesics.
+scientific_discipline: Physics > Gravitational Waves

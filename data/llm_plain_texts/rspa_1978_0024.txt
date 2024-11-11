@@ -1,0 +1,10 @@
+article_id: rspa_1978_0024
+revised_title: Instability of Black Hole Inner Horizons: Scalar Perturbations
+semantic_tags:
+  - Black Holes
+  - Gravitational Perturbations
+  - Scalar Fields
+  - Cosmic Censorship Hypothesis
+  - Reissner-Nordstrom Model
+tldr: The article investigates the instability of black hole inner horizons using linear perturbations of the Reissner-Nordstrom model by scalar waves. It demonstrates that there exist well-behaved initial data sets for which the resultant fields are singular on the inner horizon, suggesting that the inner horizon is unstable and that in the generic situation, the singularity will occur on this inner horizon rather than at the event horizon.
+scientific_discipline: Physics > Gravitational Waves

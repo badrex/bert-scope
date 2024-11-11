@@ -1,0 +1,10 @@
+article_id: rspa_1970_0130
+revised_title: 'Unified Atom Perturbation Theory for Short-Range Atomic Interactions'
+semantic_tags:
+  - Quantum Chemistry
+  - Atomic Interactions
+  - Perturbation Theory
+  - Molecular Physics
+  - United Atom Method
+tldr: The authors present a new united atom perturbation theory for short-range atomic interactions. They introduce a similarity transformation of the Schrödinger equation that addresses the cusp conditions at both nuclei and maintains the correct molecular symmetry. The first-order theory is examined in detail and compared with other united atom theories, showing remarkable agreement for separations up to 1 bohr.
+scientific_discipline: Chemistry > Quantum Chemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1960_0153
+revised_title: 'Theoretical Investigation of Temperature Distribution in Electrically Heated Tubes and Coils'
+semantic_tags:
+  - Heat Transfer
+  - Radiative Transfer
+  - Thermal Conductivity
+  - Cylindrical Furnaces
+  - Specular Reflexions
+tldr: This article investigates the distribution of temperature in electrically heated tubes and coils, focusing on the theoretical aspects. The authors extend previous studies on filament heating to include thin-walled tubes and closely wound coils, considering radiational transfer of energy in the core of the tube. The results provide insights into the role of specular reflexions in radiative transfer and the performance of cylindrical furnaces as approximations to black bodies.
+scientific_discipline: Engineering and Technology > Heat Transfer

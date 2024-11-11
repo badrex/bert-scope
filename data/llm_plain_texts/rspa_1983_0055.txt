@@ -1,0 +1,10 @@
+article_id: rspa_1983_0055
+revised_title: 'Diffusion-Limited Reaction Rate Theory for Two-Dimensional Systems: A Review'
+semantic_tags:
+  - Reaction kinetics
+  - Diffusion
+  - Two-dimensional systems
+  - Noyes theory
+  - Smoluchowski theory
+tldr: This article presents a review of the diffusion-limited reaction rate theory for two-dimensional systems. It discusses the Noyes and Smoluchowski theories, which are proven to be equivalent on a lattice. The author analyzes the Noyes theory and predicts the kinetics of the two-dimensional irreversible reaction. The theoretical rate function is determined as a function of the probability of reaction given an encounter, and the results are compared with computer simulations and fluorescence quenching experiments.
+scientific_discipline: Physics > Statistical Mechanics

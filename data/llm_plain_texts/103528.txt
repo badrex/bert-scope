@@ -1,0 +1,10 @@
+article_id: 103528
+revised_title: 'An Analysis of the Efficiency of a Machine with Reduced Friction'
+semantic_tags:
+  - Mechanics
+  - Engineering
+  - Friction
+  - Inclined Planes
+  - Machine Efficiency
+tldr: The author examines a machine claimed to be without friction and demonstrates the loss of power when using an inclined plane. They calculate the power-to-weight ratio for different angles of inclination and show that the efficiency decreases as the angle increases. The author also compares the friction in the new and old ways of using the machine, highlighting the importance of reducing friction for improved efficiency.
+scientific_discipline: Engineering and Technology > Mechanics

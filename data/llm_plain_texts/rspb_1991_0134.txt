@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0134'
+revised_title: 'Tris and Sodium Channel Blocking in Squid Axons'
+semantic_tags:
+  - Ion channels
+  - Sodium channels
+  - Tris effect
+  - Squid axon
+  - Neurophysiology
+tldr: The authors investigated the effect of external Tris on sodium channels in squid giant axons. They found that Tris reduced the sodium current in a voltage-dependent manner, affecting the permeability coefficient. This discovery has implications for understanding the properties of sodium channels in different states and the potential interactions with other ions.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

@@ -1,0 +1,10 @@
+article_id: 'rstb_1980_0112'
+revised_title: 'Diffuse Neutron Scattering: Applications and Techniques in Crystallography'
+semantic_tags:
+  - Neutron scattering
+  - Crystallography
+  - Diffuse scattering
+  - Material science
+  - Alloy characterization
+tldr: The article discusses the use of neutron scattering in studying crystal imperfections and their applications in material science, particularly in the characterization of alloys. The author explains the advantages of using neutrons, such as their ability to penetrate deeper into samples and the variety of scattering lengths for different atomic nuclei. The article also describes the principles, instruments, and techniques used in diffuse neutron scattering, and provides examples of its applications in small-angle neutron scattering, strain field determination, and alloy characterization.
+scientific_discipline: Physics > Material Science

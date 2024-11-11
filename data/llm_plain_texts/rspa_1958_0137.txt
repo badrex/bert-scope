@@ -1,0 +1,11 @@
+article_id: 'rspa_1958_0137'
+revised_title: 'Initiation and Growth of Explosion in Solids: A Discussion and Future Directions'
+semantic_tags:
+  - Explosives
+  - Crystal Instability
+  - Detonation Mechanisms
+  - Radiation Damage
+  - High-Speed Photography
+tldr: This article discusses the initiation and growth of explosions in solids, focusing on the understanding of the instability of explosive crystals. The author highlights the importance of electronic structure in the decomposition of explosive substances and the need for more measurements on thermal properties of explosives. The author also emphasizes the potential for advances in automatic computing and high-speed photography to solve outstanding problems in the field.
+scientific_discipline: Chemistry > Materials Science
+```

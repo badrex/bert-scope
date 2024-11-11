@@ -1,0 +1,10 @@
+article_id: rspa_1977_0071
+revised_title: 'Infrared Emission Properties of Alkali Halide Crystals and Melts'
+semantic_tags:
+  - Infrared spectroscopy
+  - Alkali halides
+  - Crystal lattice
+  - Thermal radiation
+  - Fourier transform spectroscopy
+tldr: This study investigates the far infrared emission spectra of several alkali halides, both in solid crystal form and as melts, to understand the motions of ions and collective atomic motions in these materials. The authors outline their experimental setup and techniques, including Fourier transform spectroscopy, and discuss the implications of their findings for understanding the properties of diatomic ionic solids at elevated temperatures.
+scientific_discipline: Physics > Materials Science

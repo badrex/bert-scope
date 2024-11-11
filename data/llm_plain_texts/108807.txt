@@ -1,0 +1,10 @@
+article_id: 108807
+revised_title: 'A New Approach to Solving Non-Linear Partial Differential Equations'
+semantic_tags:
+  - Differential Equations
+  - Mathematical Analysis
+  - Simultaneous Equations
+  - Applied Mathematics
+  - Mathematical Physics
+tldr: The author presents a new method for solving non-linear partial differential equations, combining the methods of Jacobi and previous work on simultaneous differential equations. This new approach allows for the determination of a common integral of the equations, potentially leading to new insights in the field of mathematical physics.
+scientific_discipline: Mathematics > Applied Mathematics

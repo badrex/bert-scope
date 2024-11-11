@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0043'
+revised_title: 'Comparing Intramolecular Rearrangements Promoted by Transposons Tn5 and Tn10'
+semantic_tags:
+  - Transposons
+  - Molecular Biology
+  - Genetics
+  - Bacterial Transposition
+  - DNA Rearrangements
+tldr: The author compares the intramolecular rearrangements promoted by transposons Tn5 and Tn10 in bacteria. They find that Tn5 promotes formation of adjacent deletions, deletions/inversions, and cointegrates, suggesting a replicative mechanism, while Tn10 promotes formation of adjacent deletions, deletions/inversions, and simple IS7 insertions, consistent with a conservative mechanism.
+scientific_discipline: Biology and Life Sciences > Genetics

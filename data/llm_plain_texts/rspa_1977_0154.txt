@@ -1,0 +1,10 @@
+article_id: rspa_1977_0154
+revised_title: Molecular Dynamics Calculations on Sodium Chloride: Collective Dynamical Properties of Molten Salts
+semantic_tags:
+  - Molecular dynamics
+  - Molten salts
+  - Sodium chloride
+  - Collective modes
+  - Autocorrelation functions
+scientific_discipline: Physics > Condensed Matter Physics
+tldr: The authors conducted molecular dynamics calculations on a sodium chloride system to study the collective dynamical properties of molten salts. They focused on the study of collective modes, as described by the auto-correlation functions of the longitudinal and transverse components of the currents of mass and charge. The results showed that the memory function has a similar structure in all cases, with a short-lived initial decay and a long-lived quasi-exponential tail. This study provides insights into the dynamic events that contribute to the memory functions in liquids and their relation to neutron-scattering experiments.

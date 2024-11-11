@@ -1,0 +1,10 @@
+article_id: rsta_1975_0022
+revised_title: Comprehensive Catalog of Uniform Polyhedra
+semantic_tags:
+  - Geometry
+  - Polyhedra
+  - Symmetry
+  - Mathematical Structures
+  - Enumeration
+tldr: The author presents a systematic and complete enumeration of all uniform polyhedra using computer algorithms. They classify these polyhedra by their symmetry groups, which are subgroups of the icosahedral, cubic, or dihedral groups. The author discusses the generation and elimination of prism symmetry and provides a detailed explanation of icosahedral and cubic symmetries. The study results in a comprehensive catalog of uniform polyhedra, which is essential for understanding mathematical structures and geometric shapes.
+scientific_discipline: Mathematics > Geometry

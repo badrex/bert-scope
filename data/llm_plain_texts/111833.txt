@@ -1,0 +1,10 @@
+article_id: 111833
+revised_title: 'Magnetism and Electrical Currents in Iron Bars'
+semantic_tags:
+  - Electromagnetism
+  - Joule's Law
+  - Magnetic Induction
+  - Magnetic Breakdown
+  - Magnetic Set
+tldr: Joule's research investigates the magnetism developed in iron bars by electrical currents. He found that the magnetic set, or the permanent magnetism left after the current is stopped, is proportional to the square of the current. Joule also discovered the magnetic breakdown point, where the ratio of the magnetic set increases rapidly as the current intensity increases. This research highlights the analogy between the magnetic phenomena and the set of materials studied by Professor Hodgkinson.
+scientific_discipline: Physics > Electromagnetism

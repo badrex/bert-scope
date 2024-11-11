@@ -1,0 +1,10 @@
+article_id: 111513
+revised_title: 'Temperature Influence on Light Refraction: A Study on Various Substances'
+semantic_tags:
+  - Refraction
+  - Temperature effects
+  - Spectral lines
+  - Refractive index
+  - Sensitivity to heat
+tldr: This study investigates the impact of temperature on the refraction of light in various substances. The author found that the refractive index decreases as temperature increases in all substances tested. The sensitivity to heat varies among substances, with melted phosphorus and bisulphide of carbon being the most sensitive and water the least. The length of the spectrum also changes with temperature, and the sensitivity of a substance is not directly proportional to its specific refractive or dispersive power.
+scientific_discipline: Physics > Optics

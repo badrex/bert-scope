@@ -1,0 +1,10 @@
+article_id: rspl_1871_0093
+revised_title: 'On the Spectrum of Nitrogen and the Formation of its Spectra'
+semantic_tags:
+  - Nitrogen spectrum
+  - Gas spectra
+  - Spectroscopy
+  - Chemical compounds
+  - Oxides of nitrogen
+tldr: The authors conducted experiments to study the spectrum of nitrogen and the formation of its spectra. They discovered that pure nitrogen gives only one line-spectrum, while the fluted spectrum is due to oxides of nitrogen formed under the influence of the electric spark. The presence of oxygen is necessary for the formation of the fluted spectrum, and the authors found that heating sodium in the vacuum tube could help free nitrogen from oxygen, resulting in the line-spectrum.
+scientific_discipline: Chemistry > Spectroscopy

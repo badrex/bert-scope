@@ -1,0 +1,10 @@
+article_id: rspl_1880_0023
+revised_title: Thermo-Electric Behaviour of Aqueous Solutions with Platinum Electrodes
+semantic_tags:
+  - Electrochemistry
+  - Thermo-electricity
+  - Platinum electrodes
+  - Electrolytes
+  - Solution properties
+tldr: The author investigated the thermo-electric behavior of aqueous solutions with platinum electrodes to compare it with previous research using mercurial electrodes. The results showed that the direction and strength of the current were influenced by factors such as the concentration of the solution, agitation of the metals, and the temperature. The study confirmed that the currents obtained with mercury were not due to chemical action, and the findings can be applied to other research involving thermo-electricity.
+scientific_discipline: Chemistry > Electrochemistry

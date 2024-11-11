@@ -1,0 +1,10 @@
+article_id: rsta_1911_0007
+revised_title: The Extinction of Sound in a Viscous Atmosphere by Small Obstacles of Cylindrical and Spherical Form
+semantic_tags:
+  - Acoustics
+  - Fluid dynamics
+  - Viscosity
+  - Sound waves
+  - Obstacles
+tldr: This article investigates the extinction of sound in a viscous atmosphere by small cylindrical and spherical obstacles. The author develops expressions for the secondary waves and energy lost to the primary waves in both cases. The study concludes that the loss of energy due to viscosity is significant, but the ratio of lost energy to the incident energy on the obstacle remains small.
+scientific_discipline: Physics > Fluid dynamics

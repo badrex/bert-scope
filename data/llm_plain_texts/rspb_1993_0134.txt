@@ -1,0 +1,10 @@
+article_id: 'rspb_1993_0134'
+revised_title: 'Experimental Approach to Soma and Germ in Volvox'
+semantic_tags:
+  - 'Cell Biology'
+  - 'Volvox'
+  - 'Soma-Germ Separation'
+  - 'Division of Labour'
+  - 'Nutrient Uptake'
+tldr: The authors conducted an experiment to test the source-and-sink hypothesis, which suggests that the separation of soma from germ cells in multicellular organisms provides a selective advantage. They used the colonial green algae Volvox carteri and found that germ cells grew faster when associated with a soma, and the difference in growth rates increased with nutrient concentration. This supports the idea that division of labor between soma and germ cells offers a physiological advantage to multicellular organisms.
+scientific_discipline: Biology and Life Sciences > Cell Biology

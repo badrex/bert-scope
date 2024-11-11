@@ -1,0 +1,10 @@
+article_id: rspa_1915_0020
+revised_title: 'Elastic Properties of Steel at Moderately High Temperatures'
+semantic_tags:
+  - Steel properties
+  - Temperature effects
+  - Elasticity
+  - Hysteresis
+  - Material science
+tldr: 'This study investigates the elastic properties of steel at moderately high temperatures. The research found that the hysteresis of steel increases with temperature and that time becomes a factor in the stress-strain relationship at higher temperatures. The findings suggest that steel behaves more like a viscous fluid at elevated temperatures, with increased flow and elastic afterworking.'
+scientific_discipline: Engineering and Technology > Material Science

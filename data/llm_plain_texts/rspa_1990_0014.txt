@@ -1,0 +1,11 @@
+article_id: rspa_1990_0014
+revised_title: Nonlinear Stability Analysis of Rotating Pseudo-Rigid Bodies
+semantic_tags:
+  - Nonlinear stability
+  - Rotating bodies
+  - Homogeneous elasticity
+  - Energy-momentum method
+  - Pseudo-rigid bodies
+tldr: The authors present a rigorous nonlinear stability analysis of rotating homogeneous elastic bodies using the energy-momentum method. They demonstrate that stability of a relative equilibrium is implied by the definiteness of the second variation of a modified Hamiltonian restricted to an appropriate subspace. The analysis applies to various materials, including St Venant-Kirchhoff and Ciarlet-Geymonat materials, and reveals both stable and unstable equilibria for compressible Mooney-Rivlin materials.
+scientific_discipline: Mathematics > Applied Mathematics
+```

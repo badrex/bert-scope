@@ -1,0 +1,10 @@
+article_id: 'rspb_1977_0091'
+revised_title: 'Discovery of Thymidine Kinase in Acetabularia'
+semantic_tags:
+  - Molecular Biology
+  - Enzyme Regulation
+  - DNA Replication
+  - Thymidine Metabolism
+  - Acetabularia
+tldr: The authors discovered a thymidine phosphorylating enzyme, thymidine kinase, in the green alga Acetabularia. They developed a test system to estimate the enzyme activity in individual cells and found that the enzyme is distinct from other phosphorylating enzymes in terms of substrate specificity, stability, solubility, dTTP-inhibition, molecular mass, and Km value for dT. This research contributes to understanding dT phosphorylation and its regulation in Acetabularia.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

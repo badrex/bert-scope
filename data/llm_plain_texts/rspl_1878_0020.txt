@@ -1,0 +1,10 @@
+article_id: rspl_1878_0020
+revised_title: 'Euler's Constant and Napierian Logarithms: Precise Calculations and Discoveries'
+semantic_tags:
+  - Number Theory
+  - Mathematical Constants
+  - Logarithms
+  - Bernoulli Numbers
+  - Decimal Approximations
+tldr: The author calculated the values of Euler's constant and Napierian logarithms of 2, 3, 5, 7, and 10, along with the modulus of common logarithms, to 260 decimal places. They discovered errors in previous calculations and found new relations between logarithms, which helped improve the accuracy of these mathematical constants.
+scientific_discipline: Mathematics > Number Theory

@@ -1,0 +1,10 @@
+article_id: 'rspa_1905_0046'
+revised_title: 'Determination of the Refractive Index of Gaseous Fluorine'
+semantic_tags:
+  - 'Chemistry'
+  - 'Fluorine'
+  - 'Refractive Index'
+  - 'Electrolysis'
+  - 'Gas Analysis'
+tldr: 'C. Cuthbertson and E. B. R. Prideaux, with the assistance of Sir William Ramsey, determined the refractive index of gaseous fluorine using Jamin's refractometer. They found that the gas was not completely free from air or oxygen produced during electrolysis, so they analyzed the mixture of gases in the refractometer tube using lead filings. The authors discovered that the refractivity of fluorine is within 1% of the expected value based on the refractivities of other elements in the same chemical group.'
+scientific_discipline: 'Chemistry > Analytical Chemistry'

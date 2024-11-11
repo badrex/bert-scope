@@ -1,0 +1,10 @@
+article_id: rspa_1979_0117
+revised_title: 'Rotational and Magnetic Field Interactions in Axisymmetric Bodies'
+semantic_tags:
+  - Magnetohydrodynamics
+  - Fluid Dynamics
+  - Plasma Physics
+  - Rotating Systems
+  - Equilibrium and Stability
+tldr: The authors study the interaction between rotation and magnetic fields in axisymmetric bodies, focusing on a solid annular cylinder rotating in a transverse magnetic field. They find that for strong driving torques, the equilibrium surface develops a fold with two branches of stable rotation rates, exhibiting hysteresis depending on the approach to the fold. The results are applicable to other axisymmetric solid bodies and shells rotating in the presence of a transverse magnetic field.
+scientific_discipline: Physics > Fluid Dynamics

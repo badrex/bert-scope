@@ -1,0 +1,10 @@
+article_id: rspa_1994_0149
+revised_title: 'New Properties of Convolutional Codes and Their Applications in Communication Systems'
+semantic_tags:
+  - Convolutional codes
+  - Communication systems
+  - Error correction
+  - Trellis path uniqueness
+  - Predictive property
+tldr: This article introduces a class of convolutional codes with a trellis path uniqueness property, which allows for unique identification of all states traversed by the encoder during a specific interval. Additionally, the codes possess a predictive property that can be exploited in communication systems for tasks such as fading envelope prediction, equalization, and window-edge correction.
+scientific_discipline: Engineering and Technology > Communications and Networking

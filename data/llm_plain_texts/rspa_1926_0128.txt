@@ -1,0 +1,10 @@
+article_id: rspa_1926_0128
+revised_title: Solubility and Rate of Solution of Oxygen in Silver
+semantic_tags:
+  - Metal physics
+  - Gas solubility
+  - Oxygen-silver system
+  - Gas diffusion
+  - Temperature effects
+tldr: This study investigates the solubility and rate of solution of oxygen in silver. The authors found that the solubility is proportional to the square root of the pressure and that the rate of diffusion of oxygen through silver is also proportional to the square root of the pressure. The effect of temperature on the solution velocity is also discussed, showing that the process is mainly controlled by diffusion.
+scientific_discipline: Physics > Metal physics

@@ -1,0 +1,10 @@
+article_id: rspa_1951_0157
+revised_title: Temperature Distribution in Radiating Gas Streams with Chemical Reaction
+semantic_tags:
+  - Combustion
+  - Heat transfer
+  - Chemical reactions
+  - Flame temperature
+  - Dimensionless parameters
+tldr: The article investigates the temperature distribution in gas streams where heat is released by a chemical reaction. It examines the effects of different parameters, such as fuel richness and heat transfer mechanisms, on the temperature-distance curve. The study provides insights into the behavior of flames and helps in understanding combustion processes.
+scientific_discipline: Environmental and Earth Sciences > Combustion and Energy Conversion

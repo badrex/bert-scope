@@ -1,0 +1,10 @@
+article_id: rspa_1971_0101
+revised_title: 'Numerical Analysis of Partial Differential Equations: Strengthening the Ryabenkii-Godunow Condition'
+semantic_tags:
+  - Numerical Analysis
+  - Partial Differential Equations
+  - Difference Approximations
+  - Stability Conditions
+  - Boundary Value Problems
+tldr: The authors discuss the problem of stability in difference approximations for initial boundary-value problems, focusing on the Ryabenkii-Godunow condition. They present a slightly strengthened form of this condition, which is shown to be practically satisfactory. The study covers first-order systems of partial differential equations and provides stability conditions for various types of problems.
+scientific_discipline: Mathematics > Numerical Analysis

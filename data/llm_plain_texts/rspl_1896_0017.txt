@@ -1,0 +1,10 @@
+article_id: rspl_1896_0017
+revised_title: 'Effects of Cooling Magnetized Iron and Steels to Liquid Air Temperature'
+semantic_tags:
+  - Magnetism
+  - Steel properties
+  - Low-temperature physics
+  - Material science
+  - Refrigeration
+tldr: The author investigates the changes in the magnetic moment of various types of iron and steel magnets when cooled to the temperature of liquid air. The results show that different types of steel exhibit different behaviors, with some experiencing a decrease in magnetic moment upon initial cooling, while others show an increase. The study provides insights into the properties of materials at low temperatures and their potential applications.
+scientific_discipline: Physics > Material Science

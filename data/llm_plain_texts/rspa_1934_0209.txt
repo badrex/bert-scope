@@ -1,0 +1,10 @@
+article_id: rspa_1934_0209
+revised_title: 'Kinetics of the Thermal Decomposition of Methyl Alcohol'
+semantic_tags:
+  - Chemical kinetics
+  - Methyl alcohol decomposition
+  - Formaldehyde
+  - Temperature coefficient
+  - Unimolecular reactions
+tldr: The authors studied the thermal decomposition of methyl alcohol and found that it mainly decomposes into formaldehyde and hydrogen. They discovered that the reaction is mainly unimolecular and does not show a significant decrease in the rate of reaction at pressures down to 10 mm. The authors also determined the energy of activation for the reaction and discussed the molecular statistics involved in the process.
+scientific_discipline: Chemistry > Chemical kinetics

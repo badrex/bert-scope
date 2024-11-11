@@ -1,0 +1,10 @@
+article_id: 'rspb_1987_0037'
+revised_title: 'Dopamine's Effects on Fish Retina Interplexiform-Horizontal Cell System'
+semantic_tags:
+  - Retinal neuroscience
+  - Dopamine
+  - Fish retina
+  - Interplexiform cell
+  - Horizontal cell
+tldr: The study examines the effects of dopamine on the interplexiform-horizontal cell system in the fish retina. Dopamine application increased the response size of cone horizontal cells to small-spot stimuli and altered their response waveform. The results indicate that dopamine activates an intracellular enzyme system, possibly related to gap junction uncoupling between horizontal cells. The findings provide insights into the role of the dopaminergic interplexiform cell in regulating lateral inhibition and modulating center-surround receptive-field organization in the fish retina.
+scientific_discipline: Biology and Life Sciences > Neuroscience

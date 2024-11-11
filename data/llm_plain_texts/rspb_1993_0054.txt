@@ -1,0 +1,10 @@
+article_id: 'rspb_1993_0054'
+revised_title: 'Investigating Fossil Bone Attribution with Electron Probe Energy Dispersive X-ray Microanalysis'
+semantic_tags:
+  - 'Paleontology'
+  - 'Fossil Analysis'
+  - 'EDXA'
+  - 'Homo erectus'
+  - 'Trinil Femur'
+tldr: 'The authors used electron probe energy dispersive X-ray microanalysis (EDXA) to investigate the composition of the Trinil femur and other bones attributed to Homo erectus. They found that the Trinil femur belongs to Homo sapiens, while the other bones belong to Homo erectus. This study demonstrates the potential of EDXA in analyzing scarce fossil evidence and confirms the importance of using non-destructive techniques in paleontology.'
+scientific_discipline: 'Earth Sciences > Paleontology'

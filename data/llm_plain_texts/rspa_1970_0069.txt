@@ -1,0 +1,10 @@
+article_id: rspa_1970_0069
+revised_title: Photochemical Isomerization of Cycloheptatriene and Cycloheptatriene-d\lt;sub\gt;8\lt;/sub\gt;
+semantic_tags:
+  - Photochemistry
+  - Isomerization
+  - Unimolecular processes
+  - Cycloheptatriene
+  - Stern-Volmer plots
+tldr: The authors studied the photochemical isomerization of cycloheptatriene and cycloheptatriene-d\lt;sub\gt;8\lt;/sub\gt; in the gas phase. They found that the isomerization occurs via a vibrationally excited ground state molecule and can be quenched by added gases according to the Stern-Volmer law. The study provides insights into unimolecular reaction theory and the mechanism of the formation of minor products.
+scientific_discipline: Chemistry > Photochemistry

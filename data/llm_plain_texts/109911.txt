@@ -1,0 +1,10 @@
+article_id: 109911
+revised_title: 'Improved Method for Constructing a Catalogue of Fixed Stars'
+semantic_tags:
+  - Astronomy
+  - Catalogue of Stars
+  - Observational Astronomy
+  - Astronomical Instruments
+  - Transit Instrument
+tldr: The author proposes a new method for constructing a catalogue of fixed stars that is more accurate and efficient than the previous method used at the Royal Observatory. This new method allows for a single year of observations to produce a catalogue as accurate as one that would have taken three years using the old method. The new method can be applied to both the mural circle and transit instruments and does not rely on a particular star as a point of reference. The author believes that with 120 observations, the place of a fixed star can be defined to within one-tenth of a second of a degree.
+scientific_discipline: Astronomy > Observational Astronomy

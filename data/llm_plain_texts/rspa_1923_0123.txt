@@ -1,0 +1,10 @@
+article_id: rspa_1923_0123
+revised_title: A New Method for Measuring the Gyro-Magnetic Ratio
+semantic_tags:
+  - Gyro-magnetic ratio
+  - Physics
+  - Electromagnetism
+  - Measurement techniques
+  - Resonance methods
+tldr: The authors present a new method for measuring the gyro-magnetic ratio using a thin iron rod suspended in a magnetic field with alternating current. They eliminate various disturbing couples and errors to obtain an accurate measurement of the ratio, which is useful for understanding the magnetic properties of ferromagnetic substances.
+scientific_discipline: Physics > Electromagnetism

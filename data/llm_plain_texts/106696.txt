@@ -1,0 +1,10 @@
+article_id: 106696
+revised_title: Exploring the Angle of Ocular Aberration in Human Vision
+semantic_tags:
+  - Optics
+  - Vision Theory
+  - Refraction
+  - Telescope Design
+  - Achromatic Lens
+scientific_discipline: Physics > Optics
+tldr: The author investigates the difficulty of reconciling the distinctness of human vision with the principle of different refrangibility of light. They calculate the refractions of various rays at the eye's humors and infer the diffusion of rays on the retina. The author concludes that the angle of ocular aberration is compatible with the distinctness of vision, as it is significantly smaller than the angular indistinctness in common refracting telescopes.

@@ -1,0 +1,10 @@
+article_id: rspa_1961_0109
+revised_title: The Evolution of X-ray Analysis: A Rutherford Memorial Lecture
+semantic_tags:
+  - X-ray crystallography
+  - Crystal structure determination
+  - Fourier analysis
+  - Diffraction
+  - X-ray diffraction machines
+tldr: This lecture by Sir Lawrence Bragg reviews the development of X-ray analysis from its beginnings in 1912 to the mid-20th century. He discusses the key advances and contributions that shaped the field, including the use of Fourier series, the phase problem, and the development of X-ray diffraction machines. Bragg highlights the importance of interdisciplinary collaboration and the role of chance in scientific discovery.
+scientific_discipline: Physics > Optics

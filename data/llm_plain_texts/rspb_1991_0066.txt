@@ -1,0 +1,11 @@
+article_id: 'rspb_1991_0066'
+revised_title: 'CD8 Independence and Specificity of Cytotoxic T Lymphocytes Restricted by HLA-Aw68.1'
+semantic_tags:
+  - Immunology
+  - T cell receptors
+  - Major Histocompatibility Complex
+  - Cytotoxic T lymphocytes
+  - HLA-Aw68.1
+tldr: This study investigates the interaction between cytotoxic T lymphocytes (CTL) and HLA-Aw68.1, a class I major histocompatibility complex (MHC) molecule. The researchers found that CTL restricted by HLA-Aw68.1 are CD8 independent, meaning they do not require interaction with the CD8 glycoprotein to function. This is due to the low affinity of HLA-Aw68.1 for CD8 and reveals a unique example of CD8-independent priming of CTL by natural infection with a common pathogen in humans.
+
+scientific_discipline: Biology and Life Sciences > Immunology

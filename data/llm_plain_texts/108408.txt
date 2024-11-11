@@ -1,0 +1,10 @@
+article_id: 108408
+revised_title: 'On the Solution of Linear Differential Equations: A General Approach'
+semantic_tags:
+  - Differential Equations
+  - Calculus of Operations
+  - Mathematical Theorems
+  - Mathematical Analysis
+  - Applied Mathematics
+tldr: The author presents a method for solving linear differential equations using the Calculus of Operations. This method involves transforming the equations and applying general theorems to find solutions. The author demonstrates the process with various examples and explains how the method can be applied to a wide range of cases.
+scientific_discipline: Mathematics > Calculus of Operations

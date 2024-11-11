@@ -1,0 +1,10 @@
+article_id: 'rspb_1915_0030'
+revised_title: 'Ionisation of Gases during Organic Decomposition and Fermentation'
+semantic_tags:
+  - Electrochemistry
+  - Fermentation
+  - Organic Chemistry
+  - Ionization
+  - Biochemistry
+tldr: This study investigates the electrical effects accompanying the decomposition of organic compounds and the ionization of gases produced during fermentation. The authors found that the ionization of gases plays a significant role in the process, which has implications for understanding fermentation and the underlying chemical reactions.
+scientific_discipline: Chemistry > Electrochemistry

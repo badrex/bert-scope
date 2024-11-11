@@ -1,0 +1,10 @@
+article_id: rspa_1928_0073
+revised_title: Generalized Spheroidal Wave Equation and Its Solutions
+semantic_tags:
+  - Spheroidal wave equation
+  - Mathematical physics
+  - Differential equations
+  - Quantum mechanics
+  - Schrödinger equation
+tldr: The authors explore the generalized spheroidal wave equation, a type of differential equation with four regular singularities. They discuss various solutions, including polynomial and integral functions, and analyze their properties and applications in mathematical physics and quantum mechanics.
+scientific_discipline: Mathematics > Differential Equations

@@ -1,0 +1,10 @@
+article_id: rspa_1950_0083
+revised_title: 'Ionization in Flames: Reactions Governed by Ionic Equilibria in Coal-Gas/Air Flames Containing Alkali Metal Salts'
+semantic_tags:
+  - Chemical Equilibrium
+  - Flame Chemistry
+  - Ionization
+  - Alkali Metal Salts
+  - Flame Temperature
+tldr: This study examines the degree of equilibrium in coal-gas/air flames containing alkali metal salts and how it affects ionization. The authors measured flame temperatures using the sodium line-reversal method and found that the Saha equation, relating equilibrium ionization and flame temperature, can explain the observed behavior in flames. However, side reactions involving halogen ions and hydrogen atoms affect the electron content, leading to some degree of disequilibrium.
+scientific_discipline: Chemistry > Chemical Equilibrium and Reaction Kinetics

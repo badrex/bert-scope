@@ -1,0 +1,10 @@
+article_id: 106261
+revised_title: 'Adjusting Fixed Points of Thermometers and Precautions in Using Them'
+semantic_tags:
+  - Thermometry
+  - Temperature measurement
+  - Barometer
+  - Steam
+  - Heat transfer
+tldr: The Royal Society committee discusses the best method for adjusting fixed points of thermometers and the precautions needed when making experiments with these instruments. They recommend using a covered vessel to ensure the quicksilver in the thermometer is of the same heat as the water, and that the ball should not be immersed deep in the water. The committee also investigates the effects of depth, water pressure, and steam on the boiling point of thermometers.
+scientific_discipline: Physics > Thermodynamics

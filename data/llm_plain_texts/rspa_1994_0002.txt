@@ -1,0 +1,10 @@
+article_id: rspa_1994_0002
+revised_title: Optimization of Composite Laminates to Minimize Delamination
+semantic_tags:
+  - Composite Materials
+  - Delamination
+  - Laminates
+  - Optimization
+  - Fracture Mechanics
+tldr: This study investigates the optimization of cracked composite laminates to minimize delamination. By analyzing the stress intensity factor and interfacial stresses, the authors propose an optimization problem to choose the ply angle, relative ply stiffness, and thickness to reduce the risk of delamination in fiber-reinforced composites. The results show that minimizing the crack driving force in the layer and avoiding delamination is possible through a judicious choice of design variables.
+scientific_discipline: Engineering and Technology > Materials Science

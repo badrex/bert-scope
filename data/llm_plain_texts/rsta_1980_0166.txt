@@ -1,0 +1,11 @@
+article_id: rsta_1980_0166
+revised_title: Stratospheric and Mesospheric Sounder on Nimbus 7: Instrumentation, Inversion Techniques, and Applications
+semantic_tags:
+  - Atmospheric Science
+  - Remote Sensing
+  - Limb Scanning
+  - Infrared Radiometry
+  - Stratosphere
+  - Mesosphere
+tldr: The article discusses the development and use of the Stratospheric and Mesospheric Sounder instrument on the Nimbus 7 satellite to measure temperature and composition of the Earth's middle atmosphere. The limb scanning technique allows for high vertical resolution and provides valuable data for understanding various processes in the atmosphere, such as radiative, chemical, and dynamical processes. The authors present examples of the instrument's capabilities and discuss potential applications of the data for various research areas.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

@@ -1,0 +1,10 @@
+article_id: 'rspb_1987_0008'
+revised_title: 'Exploring Correlations in Single Ion Channel Records'
+semantic_tags:
+  - Ion Channel Biology
+  - Single Molecule Biophysics
+  - Markov Processes
+  - Correlation Analysis
+  - Reaction Mechanisms
+tldr: 'The authors provide general expressions for correlation coefficients between ion channel opening lengths and subsequent shut times. They also discuss the distribution of open times, shut times, and burst lengths following a perturbation, such as a voltage jump. The presence or absence of a component with a unit mean in the distribution of the number of openings per burst can provide information about the connections between the system's states.'
+scientific_discipline: Biology and Life Sciences > Ion Channel Biology

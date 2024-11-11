@@ -1,0 +1,10 @@
+article_id: 'rsta_1995_0046'
+revised_title: 'High-Temperature Structural Materials: Designing for Creep Resistance'
+semantic_tags:
+  - Creep resistance
+  - High-temperature materials
+  - Material selection
+  - Mechanical design
+  - Engineering materials
+tldr: The article presents a design-led procedure for selecting materials that can resist creep, creep fracture, creep relaxation, and creep buckling at high temperatures. This method extends a successful room temperature design process using performance indices and material-selection charts. The authors define a 'design strength' to characterize material response under design-imposed conditions and rank materials using an optimization procedure to meet design specifications.
+scientific_discipline: Engineering and Technology > Materials Science

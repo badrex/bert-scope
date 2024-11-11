@@ -1,0 +1,10 @@
+article_id: rspl_1884_0009
+revised_title: 'On the Amount of Light Reflected by Metallic Surfaces: Silver Films and Metallic Mirrors'
+semantic_tags:
+  - Metallic reflection
+  - Photometry
+  - Polarized light
+  - Silver films
+  - Metallic mirrors
+tldr: The author conducted experiments to determine the amount of light reflected by silver films and metallic mirrors when polarized light was incident upon them. They found that the received formulae for metallic reflection are approximately correct but not a complete expression of the facts. The author also discussed the possible causes of explosions in dry and dusty collieries.
+scientific_discipline: Physics > Optics

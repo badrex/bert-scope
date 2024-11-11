@@ -1,0 +1,10 @@
+article_id: rsta_1976_0040
+revised_title: Solar Flare-Associated Magnetic Field Changes and Their Relationship to Flaring
+semantic_tags:
+  - Solar Physics
+  - Magnetic Fields
+  - Solar Flares
+  - Sunspots
+  - Magnetohydrodynamics
+tldr: This article discusses the relationship between solar flares and changes in the magnetic fields of the sun. The authors analyze high-resolution filtergrams and magnetograms to understand how flares are related to photospheric magnetic fields. They find that flares tend to occur in regions of growing pores and are associated with the emergence of new magnetic fields. The study of flare-associated magnetic field changes helps improve our understanding of solar activity and its impact on Earth.
+scientific_discipline: Physics > Plasma Physics

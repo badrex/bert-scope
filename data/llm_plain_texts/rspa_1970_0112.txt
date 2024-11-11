@@ -1,0 +1,10 @@
+article_id: rspa_1970_0112
+revised_title: Influence of Order on Electron States in Metals: A Study of Liquid Be
+semantic_tags:
+  - Solid State Physics
+  - Electronic Structure
+  - Liquid Metals
+  - Statistical Mechanics
+  - Kirkwood Approximation
+tldr: The authors developed a theory to study electron states in non-free electron-like situations, focusing on liquid metals. They used the model of independent pseudoatoms and the Kirkwood approximation to calculate the partition function for a random assembly and a liquid metal. The results show that the partition function for the liquid metal is quite close to that of the solid, and short-range order plays a significant role in determining electron states.
+scientific_discipline: Physics > Solid State Physics

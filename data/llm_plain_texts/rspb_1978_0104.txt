@@ -1,0 +1,10 @@
+article_id: 'rspb_1978_0104'
+revised_title: 'Retinal Horizontal Cell Receptor Contacts in Domestic Cats'
+semantic_tags:
+  - Retina
+  - Horizontal cells
+  - Cone mosaic
+  - Terminal aggregations
+  - Golgi-Colonnier method
+tldr: The authors analyzed the terminal aggregations of A- and B-type horizontal cells in the domestic cat retina using the Golgi-Colonnier method. They found that both types of horizontal cells are in contact with at least 80% of the cones above their dendritic fields. The different horizontal cell classes cannot be selective for a specific type of cone, as they have at least 60% of the cone input in common. Each A-type horizontal cell makes contacts with between 120 and 170 cones, while B-type horizontal cells make contacts with 60-90 cones. The study provides insights into the connectivity and convergence of cones to horizontal cells in the cat retina.
+scientific_discipline: Biology and Life Sciences > Neuroscience

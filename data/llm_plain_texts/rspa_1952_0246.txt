@@ -1,0 +1,10 @@
+article_id: rspa_1952_0246
+revised_title: 'Indium Adhesion in Impact and its Relation to Surface Deformation'
+semantic_tags:
+  - Friction
+  - Surface Science
+  - Adhesion
+  - Contact Mechanics
+  - Indium
+tldr: The authors investigated the adhesion of indium surfaces in both static and impact conditions. They found that static adhesion was more than three times greater than impact adhesion. The nature of the separated surfaces was also examined, revealing that statically loaded surfaces showed signs of welding, while impact specimens remained smooth. The results suggest that surface deformation plays a significant role in adhesion.
+scientific_discipline: Physics > Surface Science

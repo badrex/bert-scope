@@ -1,0 +1,10 @@
+article_id: rsta_1984_0080
+revised_title: 'Solar Rotation: Inferences from Five-Minute Oscillations'
+semantic_tags:
+  - Solar System
+  - Solar Rotation
+  - Helioseismology
+  - Oscillations
+  - Angular Velocity
+tldr: The author analyzes the rotation of the Sun using five-minute oscillations observed by Duvall and Harvey. They develop an asymptotic method to estimate the Sun's angular velocity near the equatorial plane, providing insights into the Sun's rotation and its deep interior. This study helps to understand the Sun's evolution and its impact on the solar system.
+scientific_discipline: Physics > Astronomy

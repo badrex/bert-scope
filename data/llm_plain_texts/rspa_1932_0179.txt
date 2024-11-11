@@ -1,0 +1,10 @@
+article_id: rspa_1932_0179
+revised_title: 'Perturbation Theory for the Stark Effect in H2'
+semantic_tags:
+  - Quantum Mechanics
+  - Molecular Physics
+  - Stark Effect
+  - Perturbation Theory
+  - Diatomic Molecules
+tldr: The authors develop a perturbation theory to explain the Stark effect in H2 molecules. They discuss the wave equation for diatomic molecules and the electronic energy for different nuclear separations. The theory helps to understand the distortion of rotational level spacing and provides a method for obtaining higher approximations.
+scientific_discipline: Physics > Quantum Mechanics

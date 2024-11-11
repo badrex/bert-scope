@@ -1,0 +1,10 @@
+article_id: rsta_1966_0032
+revised_title: 'Deformation and Fracture of Solids by Liquid Impact: A Review of Stress Waves, Deformation, and Damage Mechanisms'
+semantic_tags:
+  - Fluid mechanics
+  - Solid mechanics
+  - Impact mechanics
+  - Fracture mechanics
+  - Materials science
+tldr: This article discusses the deformation and fracture of solids caused by the impact of liquids at high velocities. It explores the compressible behavior of liquids during impact, the stress waves and pressures generated, and the resulting damage mechanisms in various materials. The study compares liquid impact with solid-solid impact and explosive loading, highlighting the differences in stress pulses, fracture patterns, and damage caused.
+scientific_discipline: Physics > Fluid mechanics

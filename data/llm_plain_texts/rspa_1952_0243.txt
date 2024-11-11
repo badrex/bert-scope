@@ -1,0 +1,10 @@
+article_id: 'rspa_1952_0243'
+revised_title: 'A Discussion on the Mechanism of Friction and Rolling Resistance'
+semantic_tags:
+  - Friction
+  - Rolling resistance
+  - Surface energy
+  - Plastic deformation
+  - Junctions in rolling
+tldr: This article discusses the differences between rolling and sliding friction and the role of surface energy in creating new surfaces. The authors explain that the work done in rolling friction is much smaller than in sliding friction due to the peeling action involved in rolling, which results in smaller forces needed to break junctions at the interface. They also emphasize that the free surface energy gained in creating a new surface in a metal is only a small part of the total energy involved, with the majority being dissipated in strain energy, vibrational energy, and other processes.
+scientific_discipline: Physics > Mechanics

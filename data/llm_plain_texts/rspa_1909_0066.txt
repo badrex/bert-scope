@@ -1,0 +1,10 @@
+article_id: 'rspa_1909_0066'
+revised_title: 'Mechanism of Absorption Spectra in Solutions'
+semantic_tags:
+  - Absorption spectra
+  - Solutions
+  - Inductive capacity
+  - Polarization
+  - Optical properties
+tldr: The authors investigate the mechanism of absorption spectra in solutions, focusing on the inductive capacity and polarization of the medium. They assume a well-defined absorption band with transparent regions on either side and analyze the optical properties of various inorganic salts and dyes.
+scientific_discipline: Chemistry > Physical Chemistry

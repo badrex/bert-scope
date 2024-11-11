@@ -1,0 +1,10 @@
+article_id: 'rspb_1983_0031'
+revised_title: 'Shark's Ability to Discriminate Sounds Based on Particle Motion and Acoustic Pressure'
+semantic_tags:
+  - 'Shark Biology'
+  - 'Sound Discrimination'
+  - 'Particle Motion'
+  - 'Acoustic Pressure'
+  - 'Fish Hearing'
+tldr: 'The study investigates the shark species Chiloscyllium griseum's ability to differentiate sounds based on the phase difference between particle motion and acoustic pressure. The shark was able to distinguish between sounds with different particle motion and pressure patterns, suggesting that it can use both particle motion and acoustic pressure for sound localization.'
+scientific_discipline: Biology and Life Sciences > Zoology > Ichthyology

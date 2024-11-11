@@ -1,0 +1,10 @@
+article_id: rsta_1989_0092
+revised_title: Simulation of Plastic Deformation in Two-Dimensional Atomic Glass by Molecular Dynamics
+semantic_tags:
+  - Atomic Glass
+  - Molecular Dynamics
+  - Plastic Deformation
+  - Simulation
+  - Two-Dimensional Materials
+tldr: The authors simulated the plastic deformation in a two-dimensional atomic glass using molecular dynamics. They found that the primary mechanism of plastic strain production is local, partly dilatant shear transformations that occur preferentially in the boundaries of liquid-like material separating small quasi-ordered domains. The simulation demonstrated that plastic flow in disordered solids involves localized atomic cluster relaxations, with dislocation glide playing a minor role.
+scientific_discipline: Physics > Materials Science

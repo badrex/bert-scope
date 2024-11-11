@@ -1,0 +1,10 @@
+article_id: rspa_1935_0072
+revised_title: The Efficiency of Bow and Stern Ship Waves
+semantic_tags:
+  - Fluid Dynamics
+  - Ship Hydrodynamics
+  - Wave Theory
+  - Mathematical Physics
+  - Naval Architecture
+tldr: The authors analyze the efficiency of bow and stern waves in ships using mathematical equations and integration. They provide a formula for the surface elevation of ship waves and discuss its application to different parts of the ship. This study helps in understanding the behavior of waves around ships and contributes to the field of naval architecture.
+scientific_discipline: Physics > Fluid Dynamics

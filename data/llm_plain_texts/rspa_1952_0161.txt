@@ -1,0 +1,10 @@
+article_id: rspa_1952_0161
+revised_title: 'Improvements to the Theory of Regular Solutions in Chemistry'
+semantic_tags:
+  - Chemical Thermodynamics
+  - Lattice Theory
+  - Solutions
+  - Statistical Mechanics
+  - Molecular Interactions
+tldr: The authors modify the theory of regular solutions in chemistry by considering the movement of molecules near their lattice sites and the potential field around them. They introduce four different approximations to the theory, with the most exact one being the fourth approximation. The authors apply the modified theory to the critical solution temperature and show that it can differ significantly from the usual theory. This work has implications for understanding the properties of mixtures and pure substances in chemistry.
+scientific_discipline: Chemistry > Chemical Thermodynamics

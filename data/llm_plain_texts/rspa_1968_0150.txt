@@ -1,0 +1,10 @@
+article_id: rspa_1968_0150
+revised_title: 'Flow Dynamics Near the Trailing Edge of a Flat Plate'
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Navier-Stokes Equations
+  - Trailing Edge Flow
+  - Oseen Approximation
+tldr: The study investigates the flow dynamics near the trailing edge of a flat plate, where the boundary layer approximation fails. The full Navier-Stokes equations are used to solve the problem, and the Oseen approximation is applied to obtain a linearized solution. The results show that the algebraic singularity in the skin friction is preserved at the trailing edge and how it connects to the Blasius solution and Goldstein's wake downstream of the edge.
+scientific_discipline: Physics > Fluid Dynamics

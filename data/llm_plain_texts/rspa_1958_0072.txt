@@ -1,0 +1,10 @@
+article_id: rspa_1958_0072
+revised_title: Collective Motion in the Nuclear Shell Model: Classification Schemes for States of Mixed Configurations
+semantic_tags:
+  - Nuclear shell model
+  - Group-theoretical methods
+  - Configuration interaction
+  - Rotational model
+  - Quantum numbers
+scientific_discipline: Physics > Nuclear Physics
+tldr: This article explores the development of collective motion in the nuclear shell model using group-theoretical methods to investigate classification schemes for nucleons in mixed configurations. The author focuses on a particular coupling scheme associated with the degeneracy of a harmonic oscillator potential, which has collective properties and is similar to shell-model calculations with configurational mixing. The study aims to understand how collective properties, such as rotational properties, can emerge from shell-model calculations with limited configuration mixing.

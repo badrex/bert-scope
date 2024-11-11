@@ -1,0 +1,10 @@
+article_id: 111639
+revised_title: 'Magnetic Interruption of Voltaic Discharge in Vacuo'
+semantic_tags:
+  - Electromagnetism
+  - Magnetic force
+  - Disruptive phenomena
+  - Vacuum tubes
+  - Electrostatic discharge
+tldr: The author, J. P. Gassiot, conducted experiments to study the effect of magnetic force on the voltaic discharge in vacuo. He discovered that the luminous discharge from a battery could be interrupted or entirely arrested by magnetic force, providing evidence that a voltaic discharge can be disrupted by magnetic force.
+scientific_discipline: Physics > Electromagnetism

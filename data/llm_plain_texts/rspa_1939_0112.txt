@@ -1,0 +1,10 @@
+article_id: rspa_1939_0112
+revised_title: 'Reinvestigation of the Absorption Spectrum of Nitrosyl Chloride'
+semantic_tags:
+  - Spectroscopy
+  - Photochemistry
+  - Nitrosyl Chloride
+  - Absorption Spectrum
+  - Quantum Efficiency
+tldr: The authors investigated the absorption spectrum of nitrosyl chloride in the visible and ultraviolet regions to understand its photodecomposition mechanism. They found that the extinction coefficients of nitrosyl chloride were continuous and showed no fine structure. The effect of temperature on the absorption was also studied, revealing that it broadened the bands and increased absorption in some regions. The results provide insights into the photochemical reaction of nitrosyl chloride and its dissociation products.
+scientific_discipline: Chemistry > Spectroscopy

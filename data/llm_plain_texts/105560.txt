@@ -1,0 +1,10 @@
+article_id: 105560
+revised_title: 'Canton's Experiments on the Compressibility and Elasticity of Fluids'
+semantic_tags:
+  - Fluid mechanics
+  - Compressibility
+  - Elasticity
+  - Thermodynamics
+  - Specific gravity
+tldr: John Canton's experiments demonstrate that water and other fluids are compressible and elastic. He found that water is more compressible in winter than in summer, and that the compressibility of fluids is not directly related to their specific gravities. The study also shows that fluids expand when the weight compressing them is reduced.
+scientific_discipline: Physics > Fluid mechanics

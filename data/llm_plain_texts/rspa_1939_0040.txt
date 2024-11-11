@@ -1,0 +1,10 @@
+article_id: rspa_1939_0040
+revised_title: The Transfer Effect in Liquid Helium II: Phenomena and Experiments
+semantic_tags:
+  - Cryogenics
+  - Helium physics
+  - Heat transfer
+  - Low-temperature physics
+  - Surface phenomena
+tldr: The authors investigate the transfer effect in liquid helium II, discovering that the phenomenon occurs along solid surfaces in contact with the liquid. They explain that the transfer effect is a surface phenomenon, which affects the heat transfer and the behavior of helium in contact with solid surfaces. This research contributes to the understanding of helium's unique properties and its applications in cryogenics and low-temperature physics.
+scientific_discipline: Physics > Cryogenics

@@ -1,0 +1,10 @@
+article_id: 'rstl_1876_0012'
+revised_title: 'The Refraction of Sound by the Atmosphere: Osborne Reynolds and Stokes'
+semantic_tags:
+  - Acoustics
+  - Atmospheric Refraction
+  - Sound Refraction
+  - Temperature and Sound
+  - Sound Experiments
+tldr: The authors conducted experiments to study the refraction of sound by the atmosphere. They discovered that the upward diminution of temperature in the atmosphere causes sound rays to refract and move upwards, which can affect the distance and distinctness of sounds heard. The experiments involved using rockets to create sound explosions at various distances and elevations, and observing the effects of temperature and wind on sound refraction.
+scientific_discipline: Physics > Acoustics

@@ -1,0 +1,10 @@
+article_id: rspa_1951_0145
+revised_title: Infra-red Spectroscopy and Globular Protein Structure
+semantic_tags:
+  - Protein Structure
+  - Infra-red Spectroscopy
+  - Denaturation
+  - Polypeptides
+  - Protein Folding
+tldr: The authors conducted infra-red spectroscopic studies on globular protein structure, focusing on denaturation phenomena. They found that changes in chain configuration from folded to extended forms can be observed through frequency shifts of N-H and C=O absorption bands. This transformation is common in globular proteins and can be used to study denaturation processes.
+scientific_discipline: Chemistry > Biochemistry

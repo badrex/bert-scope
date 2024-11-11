@@ -1,0 +1,10 @@
+article_id: rspl_1881_0011
+revised_title: The Influence of Stress and Strain on the Action of Physical Forces
+semantic_tags:
+  - Elasticity
+  - Stress
+  - Strain
+  - Young's modulus
+  - Hooke's law
+tldr: The author conducted experiments to determine the influence of stress and strain on the action of physical forces. They found that permanent extension decreases elasticity in most metals, while heavy loading for an extended period can increase elasticity. The author also discovered that the rate of increase of elasticity varies among different metals and that the departure from Hooke's law is observed in all cases.
+scientific_discipline: Physics > Mechanics

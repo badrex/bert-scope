@@ -1,0 +1,10 @@
+article_id: rsta_1989_0019
+revised_title: Glossary of Statistical Methods in Industrial Quality Control
+semantic_tags:
+  - Quality Control
+  - Statistical Methods
+  - Industrial Quality
+  - Statistical Process Control
+  - Quality Management
+tldr: This glossary provides definitions and explanations of various statistical methods and concepts used in industrial quality control, such as acceptance control charts, autoregressive-integrated moving average (ARIMA) processes, and design of experiments. It aims to help readers understand and apply these methods to improve quality and productivity in manufacturing and production processes.
+scientific_discipline: Engineering and Technology > Industrial Engineering

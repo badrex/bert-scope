@@ -1,0 +1,10 @@
+article_id: 'rspa_1972_0019'
+revised_title: 'Oxidation of Molybdenum Carbonyl with Carbon Tetrachloride: Free-Radical Formation and Polymerization'
+semantic_tags:
+  - Polymerization
+  - Free-Radical Formation
+  - Molybdenum Carbonyl
+  - Carbon Tetrachloride
+  - Oxidation
+tldr: The authors studied the interaction of molybdenum carbonyl and carbon tetrachloride in a suitable solvent, which generates free radicals and initiates free-radical polymerization. They found that the process involves two distinct reactions: ligand exchange without change in oxidation state and oxidation by the halide. The authors used electron spin resonance (ESR) spectroscopy to determine the nature of the final oxidation state and followed the kinetics of its formation, providing a detailed understanding of the overall reaction.
+scientific_discipline: Chemistry > Polymer Chemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1984_0076
+revised_title: Viscoelastic Properties of Linear Polydimethylsiloxanes
+semantic_tags:
+  - Polymer Chemistry
+  - Viscoelasticity
+  - Rheology
+  - Polymer Physics
+  - Reptation Theory
+tldr: This study investigates the viscoelastic properties of four linear polydimethylsiloxane liquids with narrow molecular mass distribution. The research covers the frequency range from Hz to 450 MHz at a temperature of 296.2 K. The results support the concepts of reptation theory and provide insights into the behavior of polymer chains between entanglements, contributing to the understanding of polymer melts' viscoelastic behavior.
+scientific_discipline: Chemistry > Polymer Chemistry

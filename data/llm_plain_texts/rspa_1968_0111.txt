@@ -1,0 +1,10 @@
+article_id: rspa_1968_0111
+revised_title: Applications of Shidlovski's Theorem in Arithmetic Properties of Bessel Functions
+semantic_tags:
+  - Siegel-Functions
+  - Differential Equations
+  - Bessel Functions
+  - Transcendental Numbers
+  - Algebraic Independence
+scientific_discipline: Mathematics > Algebraic Geometry
+tldr: This article applies a theorem by A. B. Shidlovski to study the arithmetic properties of partial derivatives of the Bessel function. The author constructs expressions involving Euler's constant and the constant, proving their transcendency. The results provide further applications of Shidlovski's theorem to special functions and their arithmetic behavior.

@@ -1,0 +1,10 @@
+article_id: rspa_1959_0128
+revised_title: Eccentric Movement of a Sphere in a Viscous Fluid
+semantic_tags:
+  - Fluid Mechanics
+  - Viscosity
+  - Lubrication Theory
+  - Hydrodynamics
+  - Sphere Movement
+tldr: The authors developed a theory to describe the behavior of a heavy ball moving down a vertical tube filled with a viscous fluid. They found that the ball takes up an eccentric position in the tube, which requires a particular velocity of rotation. The eccentricity corresponding to minimum energy dissipation for a given velocity of descent is determined, and experiments were conducted to verify the prediction.
+scientific_discipline: Physics > Fluid Mechanics

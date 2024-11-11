@@ -1,0 +1,10 @@
+article_id: rspa_1957_0147
+revised_title: Deformation Twinning in Diamond Structure: Theoretical Explanation and Mechanism
+semantic_tags:
+  - Crystallography
+  - Materials Science
+  - Deformation Twinning
+  - Diamond Structure
+  - Surface Dislocations
+tldr: The article explains the theory of surface dislocations to calculate the most likely deformation twinning plane in the diamond structure. It suggests that deformation twinning of the first kind should occur on the {123} planes and proposes a possible mechanism for the formation of such twins. The study is based on the assumption that a twin boundary can be described as a simple glissile surface dislocation, containing a single array of parallel like dislocations.
+scientific_discipline: Materials Science > Crystallography

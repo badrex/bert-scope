@@ -1,0 +1,10 @@
+article_id: rsta_1915_0008
+revised_title: The Effect of Pressure on Arc Spectra: Nickel Arc Under Pressure
+semantic_tags:
+  - Spectroscopy
+  - Pressure effects
+  - Arc spectra
+  - Nickel
+  - Line broadening
+tldr: This article investigates the behavior of the nickel arc under different pressures and its effect on the arc spectra. The author observes that the intensity of the arc increases with pressure, and the nickel arc's tint changes from mauve to white as the pressure of the surrounding air increases. The broadening of lines and their reversal is also studied, providing insights into the behavior of the nickel arc under pressure.
+scientific_discipline: Physics > Optics

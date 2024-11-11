@@ -1,0 +1,10 @@
+article_id: rstb_1989_0016
+revised_title: 'New Insights into Photosynthesis: Modeling Integrated Photosynthesis of Cells and Leaves'
+semantic_tags:
+  - Photosynthesis
+  - Plant Physiology
+  - Carbon Dioxide Assimilation
+  - Light Response Curve
+  - Rubisco Enzyme
+scientific_discipline: Biology and Life Sciences > Plant Biology
+tldr: This article presents a model for integrated photosynthesis in cells and leaves, focusing on the role of the enzyme Rubisco and the effects of various factors such as light intensity, carbon dioxide concentration, and temperature. The authors discuss the importance of understanding photosynthesis for predicting plant growth and optimizing resource allocation within leaves. They also highlight the potential challenges in interpreting gas exchange measurements and the need for accurate modeling to better understand the underlying processes.

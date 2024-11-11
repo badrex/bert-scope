@@ -1,0 +1,10 @@
+article_id: rspa_1960_0174
+revised_title: 'Kinetics and Mechanism of Ammonia Synthesis on Doubly Promoted Iron Catalysts'
+semantic_tags:
+  - Ammonia synthesis
+  - Catalysis
+  - Iron catalysts
+  - Surface chemistry
+  - Isotope effect
+tldr: The authors studied the reaction rate of ammonia synthesis on doubly promoted iron catalysts using stoichiometric mixtures of nitrogen and hydrogen or deuterium. They found that the rate-determining step is the chemisorption of nitrogen on a surface mainly covered with NH radicals. This discovery challenges the commonly accepted mechanism of ammonia synthesis and opens new perspectives for further research.
+scientific_discipline: Chemistry > Catalysis

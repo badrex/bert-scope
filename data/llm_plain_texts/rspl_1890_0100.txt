@@ -1,0 +1,10 @@
+article_id: rspl_1890_0100
+revised_title: Temperature Effects on Refractive Index of Liquids
+semantic_tags:
+  - Refractive index
+  - Temperature effects
+  - Dielectrics
+  - Optical properties
+  - Liquid materials
+tldr: This study investigates the effect of temperature on the refractive index of various liquids, including olive oil, benzene, and carbon disulfide. The results show that the rate of change in refractive index with temperature for these liquids is not in accordance with Clerk Maxwell's electromagnetic theory of light. The research compares the temperature-variation of refractive index with the specific inductive capacity of these liquids, revealing a similar divergence from Maxwell's theoretical relation.
+scientific_discipline: Physics > Optics

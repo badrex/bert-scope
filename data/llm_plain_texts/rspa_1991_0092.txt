@@ -1,0 +1,11 @@
+article_id: rspa_1991_0092
+revised_title: Integrals of Motion and Dynamics of Coupled Nonlinear Schrödinger Equations
+semantic_tags:
+  - Nonlinear Partial Differential Equations
+  - Painlevé Analysis
+  - Integrals of Motion
+  - Madelung Fluid Equations
+  - Chaos Theory
+tldr: The authors investigate the conditions under which a system of coupled nonlinear Schrödinger equations is integrable. They apply Lie's similarity method to a real-valued form of the equations, called Madelung-fluid equations, and calculate the similarity transformation and reductions to ordinary differential equations. The authors identify integrals of motion and study the dynamics of the system for different parameter values, finding that chaotic behavior sets in for certain parameter values.
+scientific_discipline: Mathematics > Applied Mathematics
+```

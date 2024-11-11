@@ -1,0 +1,10 @@
+article_id: rspa_1952_0039
+revised_title: Renormalization of Scalar Electrodynamics Using -Formalism
+semantic_tags:
+  - Quantum Field Theory
+  - Electrodynamics
+  - Renormalization
+  - Particle Physics
+  - Mathematical Physics
+tldr: The author demonstrates the process of renormalizing scalar electrodynamics using the -formalism. They show that by employing specific 5-rowed and 10-rowed representations of -matrices, the number of primitive divergent graphs can be reduced. The divergent graphs are identified as meson self-energy, photon self-energy, vertex parts, -parts, and scattering of light by light graphs. The author explains how these difficulties can be overcome and the renormalization of the theory can be achieved.
+scientific_discipline: Physics > Quantum Field Theory

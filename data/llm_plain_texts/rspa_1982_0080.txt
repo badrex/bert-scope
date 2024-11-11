@@ -1,0 +1,11 @@
+article_id: rspa_1982_0080
+revised_title: 'Nonlinear Theory of Stability of Plane Poiseuille Flow in the Subcritical Range'
+semantic_tags:
+  - Fluid Dynamics
+  - Nonlinear Stability Theory
+  - Orr-Sommerfeld Equation
+  - Poiseuille Flow
+  - Reynolds Number
+tldr: The author presents a new approach to the nonlinear theory of stability for plane Poiseuille flow in the subcritical range. They propose a method to determine the threshold amplitude for disturbances in the flow, which is compared with experimental observations. The results show that the new approach provides a more accurate prediction of the threshold amplitude than previous methods.
+scientific_discipline: Mathematics > Applied Mathematics
+```

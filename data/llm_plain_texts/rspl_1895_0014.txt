@@ -1,0 +1,11 @@
+article_id: rspl_1895_0014
+revised_title: 'Chemical Reaction Rates and Temperature: A Study of Hydrogen Dioxide and Hydrogen Iodide'
+semantic_tags:
+  - Chemical kinetics
+  - Reaction rate
+  - Temperature dependence
+  - Hydrogen dioxide
+  - Hydrogen iodide
+  - Sodium hydrogen carbonate
+scientific_discipline: Chemistry > Chemical kinetics
+tldr: This article investigates the effect of temperature and chemical composition on the rate of chemical reactions, specifically focusing on hydrogen dioxide, hydrogen iodide, and sodium hydrogen carbonate. The authors found that the rate of chemical change varies with the amount and type of substances in the reaction medium and the temperature. They also discovered that at absolute zero, no chemical change can take place.

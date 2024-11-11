@@ -1,0 +1,10 @@
+article_id: rsta_1996_0034
+revised_title: A Phenomenological Model for Frictional Contact Accounting for Wear Effects
+semantic_tags:
+  - Friction
+  - Wear
+  - Contact mechanics
+  - Tribology
+  - Computational modeling
+tldr: The authors propose a simple phenomenological model for frictional contact that accounts for wear effects. The model is based on the concept of an internal variable representing the density of frictional work, which is analogous to classical work hardening elastoplasticity. The authors describe the technique for experimental identification of the model and present material parameters for some steel sheets commonly used in industry. They also provide a framework for the numerical simulation of the model using a fully implicit finite-element scheme and the Newton-Raphson method.
+scientific_discipline: Engineering and Technology > Tribology

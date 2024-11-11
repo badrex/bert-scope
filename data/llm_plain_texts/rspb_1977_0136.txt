@@ -1,0 +1,10 @@
+article_id: 'rspb_1977_0136'
+revised_title: 'In vivo Squalene Epoxidation Symmetry Study'
+semantic_tags:
+  - Sterol biosynthesis
+  - Squalene epoxidation
+  - Cholesterol synthesis
+  - Enzyme orientation
+  - Rat liver
+tldr: Researchers injected radioactive mevalonic acid into living rats to study the symmetry of squalene epoxidation in vivo. They found that squalene was not transferred in a spatially oriented manner from the enzyme that produces it to the enzyme that epoxidizes it. This discovery challenges the idea of an enzyme complex that preserves orientation in cholesterol biosynthesis in rat liver.
+scientific_discipline: Biology and Life Sciences > Biochemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1957_0207
+revised_title: Optical Considerations in Measuring Laminar Flame Thickness
+semantic_tags:
+  - Combustion
+  - Flame Propagation
+  - Flame Thickness Measurement
+  - Optical Phenomena
+  - Refractive Index
+tldr: This article discusses the optical implications of measuring the thickness of laminar flames in pre-mixed reactants. It examines how ray deflections due to the flame's refractive index affect the apparent thickness of the flame, leading to optical illusions. The author derives expressions for the apparent thickness of an idealized luminous zone and presents simple optical methods for measuring flame thickness according to various definitions.
+scientific_discipline: Chemistry > Combustion

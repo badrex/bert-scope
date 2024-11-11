@@ -1,0 +1,10 @@
+article_id: rspa_1976_0108
+revised_title: 'Effects of Atmospheric Winds on High-Eccentricity Satellite Orbits'
+semantic_tags:
+  - Satellite Orbits
+  - Atmospheric Winds
+  - Aerodynamic Forces
+  - Upper Atmosphere
+  - Orbital Elements
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science
+tldr: This article investigates the impact of atmospheric winds on the orbits of Earth satellites with high eccentricity. The authors develop a theory for the effect of zonal and meridional winds on the inclination and right ascension of the node for satellites in orbits with high eccentricity in an oblate atmosphere. The results show that the changes in orbital elements depend on the atmospheric wind speed and direction, and can be used to determine upper-atmosphere winds near perigee.

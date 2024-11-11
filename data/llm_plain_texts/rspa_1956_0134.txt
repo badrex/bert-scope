@@ -1,0 +1,11 @@
+article_id: rspa_1956_0134
+revised_title: 'Radially Symmetric Wave Equation and Gas Dynamics'
+semantic_tags:
+  - Wave Equation
+  - Gas Dynamics
+  - Contour Integral Solutions
+  - Analytic Continuation
+  - Bessel Functions
+tldr: The author investigates solutions of the generalized radially symmetric wave equation, which is a hyperbolic equation related to gas dynamics. They find a continuous solution in the quarter plane that satisfies Cauchy data on the boundary. The solution is obtained using contour integral methods and is applicable for positive values of the parameter. The author also discusses the connection between the contour integral solutions and solutions involving Bessel functions.
+scientific_discipline: Mathematics > Applied Mathematics
+```

@@ -1,0 +1,12 @@
+article_id: 'rspb_1994_0010'
+revised_title: 'Dopaminergic Modulation and pH-Gated Regulation of Horizontal Cell Gap Junctions in Mammalian Retina'
+semantic_tags:
+  - Retina
+  - Dopamine
+  - Gap junctions
+  - pH regulation
+  - Horizontal cells
+tldr: This study shows that the permeability of gap junctions between A-type horizontal cells in the rabbit retina is modulated by dopamine through a Dx receptor linked to adenylate cyclase. The effect is pH-gated, occurring only at an extracellular pH of 7.2. The results suggest that ambient light conditions could gate the activity of neurotransmitters through pH-sensitive mechanisms.
+scientific_discipline: Biology and Life Sciences > Neuroscience
+```yaml
+```

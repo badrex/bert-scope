@@ -1,0 +1,10 @@
+article_id: rspa_1992_0080
+revised_title: Modeling High-Temperature Creep and Cyclic Plasticity in Components
+semantic_tags:
+  - Continuum damage mechanics
+  - Creep
+  - Cyclic plasticity
+  - Viscoplasticity
+  - Finite-element analysis
+tldr: The authors developed a computer-based finite-element viscoplastic damage solver to analyze structural components under combined cyclic thermal and mechanical loading. The solver, based on continuum damage mechanics, predicts the evolution of creep and cyclic plasticity damage in high-temperature components. The study focuses on a slag tap component, demonstrating the effectiveness of the modeling technique in predicting damage and failure zones under various loading conditions.
+scientific_discipline: Engineering and Technology > Materials Science and Engineering

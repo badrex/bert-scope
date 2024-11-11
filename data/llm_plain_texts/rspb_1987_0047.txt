@@ -1,0 +1,10 @@
+article_id: 'rspb_1987_0047'
+revised_title: 'Investigation of Carbon Flux and Metabolism in Paracoccus denitrificans'
+semantic_tags:
+  - Metabolism
+  - Carbon flux
+  - Tricarboxylic acid cycle
+  - Succinate
+  - Bacterial growth
+tldr: The study investigates the metabolism of Paracoccus denitrificans when grown on succinate, a type of bacteria that can break down and utilize succinate as a carbon source for growth. The main flux of carbon in energy metabolism is found to be via pyruvate (malic enzyme) and acetyl. The distribution of label in metabolites related to the tricarboxylic acid cycle intermediates shows that one-fifth of the succinate pool is formed by the regeneration of succinate via the TCA cycle, and four-fifths are supplied externally as substrate from the medium.
+scientific_discipline: Biology and Life Sciences > Microbiology

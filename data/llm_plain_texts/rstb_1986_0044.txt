@@ -1,0 +1,11 @@
+article_id: 'rstb_1986_0044'
+revised_title: 'Structural Analysis of Tobacco Rubisco: A Key Enzyme in Photosynthesis'
+semantic_tags:
+  - 'Rubisco'
+  - 'Photosynthesis'
+  - 'Plant Biochemistry'
+  - 'Crystallography'
+  - 'Enzyme Structure'
+tldr: 'The authors studied the structure of ribulose-1,5-bisphosphate carboxylase-oxygenase (Rubisco) from tobacco, a crucial enzyme in the process of photosynthesis. They obtained a density map of the enzyme using X-ray crystallography and determined the phases by multiple isomorphous replacement. The structure of Rubisco is barrel-shaped and has (422) symmetry. The study provides insights into the enzyme's function, regulation, and assembly, which can help in modifying Rubisco for improved photosynthesis efficiency.'
+scientific_discipline: Biology and Life Sciences > Biochemistry
+´´´

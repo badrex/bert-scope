@@ -1,0 +1,10 @@
+article_id: rsta_1890_0008
+revised_title: 'Symmetric Functions of Roots in Systems of Equations'
+semantic_tags:
+  - Algebra
+  - Symmetric functions
+  - Linear partial differential equations
+  - Mathematical operations
+  - Combinatorics
+tldr: The author presents a theory of symmetric functions of roots in systems of equations, focusing on the connection between symmetric functions and linear partial differential equations. They introduce a new notation for partitions and biweights, and demonstrate how to express symmetric functions in terms of fundamental symmetric functions. The author also establishes the relationship between symmetric functions and linear partial differential operations.
+scientific_discipline: Mathematics > Algebra

@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0219'
+revised_title: 'Selective Mechanisms for Dynamic Stereomotion and Horizontal Velocity Components'
+semantic_tags:
+  - Stereomotion
+  - Visual Perception
+  - Motion Perception
+  - Receptive Fields
+  - Neural Substrate
+tldr: The authors propose that mechanisms for dynamic stereomotion respond selectively to horizontal velocity components. They suggest that horizontal disparity between receptive fields in the two eyes controls the perception of depth, regardless of receptive field orientation. The study investigates the nature of the neural substrate for stereomotion using spatially filtered stimuli and finds that the strength of the perceived stereomotion increases with stimulus length up to the length of one receptive field and then shows no further improvement.
+scientific_discipline: Neuroscience > Visual Perception

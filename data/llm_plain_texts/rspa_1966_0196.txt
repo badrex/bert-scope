@@ -1,0 +1,10 @@
+article_id: rspa_1966_0196
+revised_title: Fission Fragment Damage to Crystal Lattices: Lead Iodide - Atomic Displacement
+semantic_tags:
+  - Crystal Lattice Damage
+  - Fission Fragment Effects
+  - Lead Iodide
+  - Atomic Displacement
+  - Computational Physics
+tldr: This study investigates the damage caused by fission fragments to crystal lattices, specifically in lead iodide. The researchers used a high-speed digital computer to simulate the displacement and motion of atoms in the crystal lattice. They found that channelling of knocked-on lattice atoms in lead iodide may increase the mobility of point defects and explain electron microscope observations of fission fragment damage.
+scientific_discipline: Physics > Materials Science

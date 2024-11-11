@@ -1,0 +1,10 @@
+article_id: 'rstb_1993_0138'
+revised_title: 'HIV-1 gp120 and CD4 Chimeras: Understanding the Binding Site and Infection Mechanism'
+semantic_tags:
+  - HIV-1 gp120
+  - CD4 receptor
+  - Chimeras
+  - Virus binding
+  - T-lymphocyte glycoprotein
+tldr: The article investigates the interaction between the HIV-1 gp120 protein and the CD4 receptor using chimeras of rat and human CD4. The study finds that residues 33-62 of the CD4 receptor encompass the high-affinity gp120 binding site, and chimeras containing these residues mediate HIV-1 infection. The research also tests the popular notion that receptor mimics appear frequently among antibodies elicited by immunization with receptor ligands and the use of anti-idiotypic antibodies to identify new receptors, suggesting that such mimics appear infrequently.
+scientific_discipline: Biology and Life Sciences > Immunology

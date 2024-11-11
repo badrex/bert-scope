@@ -1,0 +1,10 @@
+article_id: rspa_1984_0072
+revised_title: 'Connection Between Null Field Method and Modified Green Functions'
+semantic_tags:
+  - Acoustic Scattering
+  - Boundary Integral Equations
+  - Green Functions
+  - Helmholtz Equation
+  - Wave Expansions
+tldr: The article establishes a connection between the null field method and modified Green functions for solving Dirichlet and Neumann problems for the Helmholtz equation in an exterior domain. It shows that elements of the -matrix, formed by using appropriately chosen expansion functions, are precisely the coefficients of a representation of the Green function in terms of these same expansion functions. The linear independence of these functions and the invertibility of several infinite-dimensional matrices and their finite-dimensional approximations are crucial to the -matrix approach.
+scientific_discipline: Mathematics > Linear Algebra and Functional Analysis

@@ -1,0 +1,10 @@
+article_id: rspl_1901_0048
+revised_title: 'Effect of Monochromatic Light Wave-lengths on Photographic Image Gradation'
+semantic_tags:
+  - Photographic technology
+  - Light sensitivity
+  - Image processing
+  - Optics
+  - Spectral colors
+tldr: The author investigates how different monochromatic light wave-lengths affect the gradation of a developed photographic image. They found that the gradation becomes steeper as the wave-lengths of light employed depart from a specific point in the spectrum, with the least steep gradation given by the monochromatic light to which the simple silver salt is most sensitive. This research has implications for three-color printing and the challenges of rendering objects in their natural colors.
+scientific_discipline: Physics > Optics

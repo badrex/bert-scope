@@ -1,0 +1,10 @@
+article_id: rsta_1979_0076
+revised_title: Mass Spectrometry Applications in Organic and Biological Chemistry
+semantic_tags:
+  - Mass spectrometry
+  - Metabolite profiling
+  - Human diseases
+  - Gas chromatography
+  - Biochemical analysis
+tldr: The article discusses the use of mass spectrometry and metabolite profiling in the study of human diseases. Gas chromatography-mass spectrometry (GC-MS) and computer handling of data are suitable for detecting changes in biochemical composition caused by diseases. The methods can diagnose and study over 100 metabolic disorders and have led to the discovery of 25 new inborn errors of metabolism. The article reviews recent advancements in GC-MS technology and its applications in various body fluids and tissues, providing valuable insights into disease diagnosis and treatment.
+scientific_discipline: Chemistry > Analytical Chemistry

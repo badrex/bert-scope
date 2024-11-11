@@ -1,0 +1,10 @@
+article_id: rspa_1971_0053
+revised_title: 'Studying Self-Similar and Steady Flows Near Singularities: A Case of Multiple Characteristic Velocity'
+semantic_tags:
+  - Fluid mechanics
+  - Partial differential equations
+  - Stability analysis
+  - Steady flows
+  - Self-similar flows
+tldr: This article explores the stability of self-similar and steady flows near singularities, specifically focusing on cases with multiple characteristic velocities. The authors develop a method to approximate the system of equations and analyze the behavior of perturbations in the vicinity of singular points, providing insights into fluid mechanics and potential applications in various physical problems.
+scientific_discipline: Mathematics > Applied Mathematics

@@ -1,0 +1,10 @@
+article_id: 'rstb_1980_0014'
+revised_title: 'Influenza Virus Gene Encoding Two Different Proteins'
+semantic_tags:
+  - Influenza virus
+  - Gene expression
+  - RNA segments
+  - Polypeptides
+  - Virology
+tldr: The authors provide evidence that the influenza virus genome encodes a polypeptide of molecular mass 11,000, in addition to the eight previously recognized gene products. They confirm that this polypeptide, called NS2, is encoded by the smallest genome segment of the virus (segment 8) which also encodes a polypeptide of molecular mass 23,000 (NSj). This discovery expands the understanding of the influenza virus's genetic makeup and implications for its structure and function.
+scientific_discipline: Biology and Life Sciences > Virology

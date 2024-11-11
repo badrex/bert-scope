@@ -1,0 +1,10 @@
+article_id: rspa_1932_0069
+revised_title: Torsion of Cylinders of Symmetrical Section: A New Method for Thin Sections
+semantic_tags:
+  - Solid Mechanics
+  - Torsion
+  - Thin Sections
+  - Stress Analysis
+  - Engineering Mathematics
+tldr: The authors present a new method for solving the St. Venant torsion problem for cylinders of symmetrical sections, focusing on thin sections. They expand the solution in ascending powers of a "thickness parameter" and demonstrate that the method is applicable to a family of sections that can be varied by adjusting the parameter. The authors provide several examples, including a cubic oval resembling an aerofoil section, to illustrate the method's effectiveness.
+scientific_discipline: Engineering and Technology > Solid Mechanics

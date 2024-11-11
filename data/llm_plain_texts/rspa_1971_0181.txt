@@ -1,0 +1,10 @@
+article_id: rspa_1971_0181
+revised_title: Accurate Measurement of Permittivity Using an Open Resonator
+semantic_tags:
+  - Microwave Engineering
+  - Resonator Design
+  - Dielectric Materials
+  - Electromagnetic Theory
+  - Gaussian Beam Theory
+tldr: The authors present a method for measuring the permittivity of dielectric materials at microwave frequencies using an open resonator. They develop the theory behind the method, describe an experimental procedure, and demonstrate its advantages over other open resonator methods. The technique allows for accurate measurements, even with materials that have small loss tangents or require precise machining.
+scientific_discipline: Physics > Electromagnetic Theory

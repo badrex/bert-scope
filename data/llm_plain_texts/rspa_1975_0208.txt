@@ -1,0 +1,10 @@
+article_id: rspa_1975_0208
+revised_title: 'Experimental Investigation of Wave Packet Formation and Development in Laminar Boundary Layers'
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer
+  - Wave Packet
+  - Laminar Flow
+  - Disturbance Amplification
+tldr: The authors conducted an experimental study on the formation and development of a wave packet in a laminar boundary layer. They artificially generated a wave packet using an acoustic pulse and observed its growth and development as it traveled downstream. The results provide insight into the nonlinear processes involved in the transition from laminar to turbulent flow and help to better understand the behavior of instability waves in boundary layers.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,11 @@
+article_id: rspl_1894_0189
+revised_title: Viscosity and Temperature Relationships in Liquids
+semantic_tags:
+  - Viscosity
+  - Temperature
+  - Liquids
+  - Chemical Nature
+  - Physicochemical Comparisons
+tldr: The author presents a study on the relationship between viscosity and temperature in various liquids. They found that the viscosity coefficient is generally consistent across different temperatures for most liquids, except for alcohols. The author also suggests that comparing viscosities at equal slope is the most suitable method for different liquids. The study further discusses the temperature relationships and their connection to the chemical nature of substances.
+scientific_discipline: Chemistry > Physical Chemistry
+```

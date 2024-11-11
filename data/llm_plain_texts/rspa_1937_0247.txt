@@ -1,0 +1,10 @@
+article_id: rspa_1937_0247
+revised_title: 'Quantum Analysis of Methyl Bromide's Continuous Absorption Spectrum'
+semantic_tags:
+  - Quantum mechanics
+  - Spectroscopy
+  - Methyl bromide
+  - Absorption spectrum
+  - Chemical bonding
+tldr: The authors conducted experiments to measure the extinction coefficients of methyl bromide and analyzed its continuous absorption spectrum. They used quantum mechanics to calculate the position of the upper potential energy curve, which is of the repulsive type. This study helps to understand the dissociation process of methyl bromide and its potential applications in chemistry.
+scientific_discipline: Chemistry > Spectroscopy

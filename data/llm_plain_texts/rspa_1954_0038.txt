@@ -1,0 +1,11 @@
+article_id: 'rspa_1954_0038'
+revised_title: 'Observation and Analysis of c-Mesons Emerging from Stars'
+semantic_tags:
+  - Particle Physics
+  - Nuclear Physics
+  - High Energy Physics
+  - Mesons
+  - Neutrons
+  - Particle Acceleration
+tldr: The authors discuss the observation and analysis of c-mesons emerging from stars. They describe a star event with 33 ionizing tracks, 16 black, 13 grey, and 4 at minimum. The primary particle is assumed to be a neutron, and the total energy represented by the tracks is about 6 GeV. The AC-meson is short and decays at rest after 297 p of path in the emulsion, while the secondary is also short and comes out after 600/t of path with an ionization of T05 + 0-5 times minimum.
+scientific_discipline: Physics > Particle Physics

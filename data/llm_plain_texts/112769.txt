@@ -1,0 +1,10 @@
+article_id: 112769
+revised_title: The Theoretical and Practical Aspects of Beam Flexure Resistance
+semantic_tags:
+  - Structural Engineering
+  - Beam Theory
+  - Material Science
+  - Elasticity
+  - Stress Analysis
+tldr: The author investigates the resistance of flexure in beams and finds that the true theoretic resistance of a solid rectangular beam is twice that arrived at by the theory of Leibnitz. This is due to the extension and compression of both longitudinal and diagonal fibers in the beam. The author's findings are supported by experiments on various materials, including cast iron, wrought iron, steel, and glass.
+scientific_discipline: Engineering and Technology > Structural Engineering

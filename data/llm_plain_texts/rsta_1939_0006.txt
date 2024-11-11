@@ -1,0 +1,10 @@
+article_id: rsta_1939_0006
+revised_title: 'Investigation on Magneto-Crystalline Action: Further Studies on Paramagnetic Crystals'
+semantic_tags:
+  - Paramagnetism
+  - Crystallography
+  - Magnetic Anisotropy
+  - Low Temperature Physics
+  - Rare Earth Elements
+scientific_discipline: Physics > Condensed Matter Physics
+tldr: The authors conducted magnetic studies on single crystals of paramagnetic salts, focusing on the temperature variation of magnetic anisotropy in nickel salts and the influence of strong local electric fields on the magnetic behavior of paramagnetic ions in crystals. They used a cryostat to maintain constant temperatures and a thermocouple to measure the temperature of the crystal chamber. The study provides useful material for the application of theoretical work in the field of paramagnetism and crystallography.

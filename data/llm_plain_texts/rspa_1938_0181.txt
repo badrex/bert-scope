@@ -1,0 +1,10 @@
+article_id: rspa_1938_0181
+revised_title: 'Size Determination of Paraffin-Chain Salt Micelles through Diffusion Measurements'
+semantic_tags:
+  - Micelles
+  - Diffusion measurements
+  - Paraffin-chain salt
+  - Colloidal electrolyte
+  - Micelle size
+tldr: The authors conducted diffusion measurements to determine the size of paraffin-chain salt micelles in aqueous solutions. They found that micelles have a large optimum size, and their size remains fairly constant regardless of concentration. The study provides a direct measure of micelle size, which is essential for understanding their behavior and properties in colloidal systems.
+scientific_discipline: Chemistry > Colloidal Chemistry

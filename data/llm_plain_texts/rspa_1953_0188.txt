@@ -1,0 +1,10 @@
+article_id: rspa_1953_0188
+revised_title: 'Advanced Theory of Line-Breadth Phenomena and Radiative Corrections'
+semantic_tags:
+  - Quantum Electrodynamics
+  - Line Shape
+  - Radiative Corrections
+  - Atomic Physics
+  - Resonance Scattering
+tldr: The authors develop an advanced theory of line-breadth phenomena, focusing on radiative corrections and the shape of emission or absorption lines. They discuss the importance of accurate line shape calculations for understanding atomic transitions and provide estimates for radiative corrections. The theory is applicable to various fields, including nuclear physics, where level widths can be large.
+scientific_discipline: Physics > Atomic Physics

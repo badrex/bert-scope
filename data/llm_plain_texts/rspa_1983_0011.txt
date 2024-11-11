@@ -1,0 +1,10 @@
+article_id: rspa_1983_0011
+revised_title: Twistor Diagrams and Massless M\#xF8;ller Scattering: A New Approach
+semantic_tags:
+  - Twistor Theory
+  - Quantum Field Theory
+  - Massless Fields
+  - Scattering Amplitudes
+  - Electrodynamics
+tldr: This article explores the application of twistor diagrams to massless M\#xF8;ller scattering in quantum electrodynamics. The author extends the theory of twistor diagrams to a more general type of interaction between massless fields and demonstrates that earlier studies of this example have failed to render a correct account, but that the scattering data can be represented within the twistor formalism.
+scientific_discipline: Physics > Electromagnetism

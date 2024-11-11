@@ -1,0 +1,10 @@
+article_id: 'rsbm_1941_0029'
+revised_title: 'Vito Volterra: A Pioneering Mathematician and Physicist'
+semantic_tags:
+  - Mathematicians
+  - Physics
+  - Calculus
+  - Functionals
+  - Calculus of Variations
+tldr: 'Vito Volterra was a renowned Italian mathematician and physicist who made significant contributions to the fields of calculus, functionals, and the calculus of variations. His work on functionals and their derivatives laid the foundation for modern functional analysis, while his research on simple functions of a line and connected functions of a line expanded the understanding of complex variables and their applications.'
+scientific_discipline: Mathematics > Calculus of Variations

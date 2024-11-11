@@ -1,0 +1,10 @@
+article_id: rspa_1922_0070
+revised_title: 'Absorption of A. by Luminous Mercury Vapour: A Detailed Study'
+semantic_tags:
+  - Spectroscopy
+  - Atomic physics
+  - Mercury spectrum
+  - Absorption lines
+  - Luminescence
+tldr: The authors conducted experiments to study the absorption of light at a specific wavelength (A) by luminous mercury vapor. They found that only the main component and satellites Nos. 6, 7, and 8 of the mercury green line were completely absorbed by the luminous vapor, while other satellites remained unaffected. This study provided insights into the constitution of the green line A and the behavior of different isotopes of mercury.
+scientific_discipline: Physics > Atomic Physics

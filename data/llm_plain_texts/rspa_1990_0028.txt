@@ -1,0 +1,10 @@
+article_id: rspa_1990_0028
+revised_title: 'Velocity and Size Characteristics of Liquid-Fueled Flames Stabilized by a Swirl Burner: A Study on Kerosene Droplet Combustion'
+semantic_tags:
+  - Combustion
+  - Swirl Burner
+  - Kerosene Droplet
+  - Two-Phase Flow
+  - Phase-Doppler Anemometry
+tldr: This study investigates the velocity and size characteristics of kerosene droplets in a liquid-fueled swirl burner. The researchers used a phase-Doppler anemometry technique to measure the velocity and size of droplets in both non-reacting and reacting flows. The results provide insights into the combustion of kerosene droplets in furnace-type burners and help guide calculation methods for heterogeneous combustion. The findings can be used to scale the response of droplets to air motion in other flows through dimensionless numbers.
+scientific_discipline: Engineering and Technology > Combustion and Fuel Engineering

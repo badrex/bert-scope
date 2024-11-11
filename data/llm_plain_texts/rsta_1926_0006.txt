@@ -1,0 +1,10 @@
+article_id: rsta_1926_0006
+revised_title: Periodicities in European Weather Patterns
+semantic_tags:
+  - Climate Science
+  - Meteorology
+  - Periodic Patterns
+  - Weather Forecasting
+  - Harmonic Analysis
+tldr: This study investigates the periodicities in European weather by analyzing temperature, rainfall, and pressure data from 12 different locations over a 100-year period. The authors found that certain periods, such as 13, 14, and 23 years, had consistent patterns across multiple locations. They also discovered that the temperature records showed diverse patterns, with some locations having higher amplitudes for specific periods than others.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

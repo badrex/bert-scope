@@ -1,0 +1,10 @@
+article_id: rsta_1957_0002
+revised_title: Statistical Analysis of a Random Moving Surface and its Two-Dimensional Spectrum
+semantic_tags:
+  - Wave mechanics
+  - Oceanography
+  - Fourier analysis
+  - Sea surface analysis
+  - Statistical properties
+tldr: The authors study the statistical properties of a random, moving Gaussian surface in relation to its two-dimensional spectrum. They derive various statistical properties, such as the probability distribution of surface elevation, average number of zero-crossings, and average length of contours. These findings are relevant to understanding waves in the open ocean and may also apply to other geophysical phenomena.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

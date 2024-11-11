@@ -1,0 +1,10 @@
+article_id: rspa_1996_0032
+revised_title: 'Influence of Matrix Plasticity on Interfacial Shear Strength in Single Filament Composites'
+semantic_tags:
+  - Composite Materials
+  - Matrix Properties
+  - Interfacial Shear Strength
+  - Finite-Element Analysis
+  - Fragmentation Test
+tldr: This article investigates the effect of matrix plasticity on the stress fields in single filament composites and the value of interfacial shear strength obtained from the fragmentation test. The authors use an axisymmetrical finite-element model to study the impact of matrix properties on interfacial shear stress and find that matrix yield strain is the main parameter controlling the fiber fragmentation process. They also compare the stress field developed around a short fiber embedded in a matrix with existing one-dimensional and bi-dimensional models and discuss the limitations of elastic theories for normalizing the value of interfacial shear strength.
+scientific_discipline: Materials Science > Composite Materials

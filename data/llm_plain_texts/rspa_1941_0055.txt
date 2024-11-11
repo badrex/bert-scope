@@ -1,0 +1,10 @@
+article_id: rspa_1941_0055
+revised_title: 'Improvement of the Oil-Drop Method for Determining the Electronic Charge'
+semantic_tags:
+  - Electronic charge
+  - Oil-drop experiment
+  - Physics
+  - Experimental methods
+  - Electrostatics
+tldr: The authors improved the oil-drop method for determining the electronic charge by using a horizontal electric field and a photographic method to measure the velocity of the drop. This allowed them to detect and correct for errors in timing, Brownian motion, and Stokes's law. Their method resulted in a more accurate determination of the electronic charge, reducing the uncertainty in previous measurements.
+scientific_discipline: Physics > Electrostatics

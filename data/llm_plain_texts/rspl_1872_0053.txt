@@ -1,0 +1,10 @@
+article_id: rspl_1872_0053
+revised_title: 'Gladstone and Tribe's Air-Battery: A Peculiar Galvanic Reaction'
+semantic_tags:
+  - Electrochemistry
+  - Galvanic cells
+  - Copper-silver redox reaction
+  - Oxygen role in chemical reactions
+  - Battery technology
+tldr: 'J.H. Gladstone and Alfred Tribe discovered a peculiar galvanic reaction involving copper and silver plates immersed in a solution of copper nitrate with oxygen. This reaction led to the formation of an air-battery, which demonstrated the importance of dissolved oxygen in the process. The authors also investigated the factors affecting the battery's performance, such as the strength of the copper nitrate solution and the proportion of metallic surfaces.'
+scientific_discipline: Chemistry > Electrochemistry

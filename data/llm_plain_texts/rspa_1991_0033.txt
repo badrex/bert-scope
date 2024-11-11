@@ -1,0 +1,10 @@
+article_id: rspa_1991_0033
+revised_title: 'In-depth Analysis of the Blister Test for Elastomeric Adhesives'
+semantic_tags:
+  - Adhesion
+  - Polyurethane
+  - Blister test
+  - Fracture energy
+  - Interface strength
+tldr: The authors critically review the blister test method for measuring adhesion between thin plates and rigid substrates, focusing on a polyurethane elastomer adhered to a steel substrate. They discuss the challenges in choosing an appropriate theoretical analysis and accurately specifying necessary parameters for the analysis. The study indicates that for this specific system, fracture energy is accurately given by a first-order analysis, which provides a means of computing values for similar systems.
+scientific_discipline: Engineering and Technology > Materials Science

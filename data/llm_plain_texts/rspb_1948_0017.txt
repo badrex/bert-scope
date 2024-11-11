@@ -1,0 +1,10 @@
+article_id: 'rspb_1948_0017'
+revised_title: 'The Buoyancy Mechanism in Plankton Diatoms'
+semantic_tags:
+  - 'Plankton Diatoms'
+  - 'Buoyancy'
+  - 'Cell Physiology'
+  - 'Specific Gravity'
+  - 'Resting Spores'
+tldr: 'The authors studied the buoyancy of plankton diatoms and found that under optimal conditions, their specific gravity is equal to that of sea water. They discovered that the specific gravity of resting spores is higher than sea water, and the reduced weight of resting spores can be used to estimate the specific gravity of the cell sap. The authors suggest that the mechanism behind buoyancy in plankton diatoms is similar to that in Halicystis, involving the maintenance of low concentrations of divalent ions in the cell sap, which requires a steady expenditure of energy.'
+scientific_discipline: Biology and Life Sciences > Ecology and Marine Biology

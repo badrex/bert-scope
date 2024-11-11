@@ -1,0 +1,10 @@
+article_id: rsta_1991_0087
+revised_title: 'Magnetic Reconnection in Solar Flares: Recent Developments and Theoretical Aspects'
+semantic_tags:
+  - Solar Physics
+  - Magnetohydrodynamics
+  - Magnetic Reconnection
+  - Solar Flares
+  - Astrophysics
+tldr: This article discusses the process of magnetic reconnection in solar flares, focusing on recent developments in the theoretical understanding of energy release and the role of magnetic reconnection in the context of solar flares. The author reviews the basic theory of reconnection, the Sweet-Parker model, Petschek's mechanism, and the Vasyliunas' distinction between fast-mode and slow-mode expansions. The article also presents a unified theory of fast, steady, almost-uniform reconnection, which helps explain puzzling features of numerical experiments and accounts for many observational properties of solar flares.
+scientific_discipline: Physics > Astrophysics

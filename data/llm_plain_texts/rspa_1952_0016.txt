@@ -1,0 +1,10 @@
+article_id: rspa_1952_0016
+revised_title: 'Solving the Born-Green Equation for Radial Distribution Function'
+semantic_tags:
+  - Statistical mechanics
+  - Fluid dynamics
+  - Thermodynamics
+  - Molecular physics
+  - Integral equations
+tldr: The article presents a new method to solve the Born-Green equation for the radial distribution function in fluids. The method is applied to rigid spherical molecules and compared with the numerical integration method used by Kirkwood, Maun, and Alder. The results show that the close-range structure in the fluid at distances between diameters is of the order of the density raised to the nth power. The solution can be used to calculate thermodynamic functions of the fluid.
+scientific_discipline: Physics > Fluid dynamics

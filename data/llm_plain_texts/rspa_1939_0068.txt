@@ -1,0 +1,10 @@
+article_id: rspa_1939_0068
+revised_title: 'High Altitude Cosmic-Ray Burst Studies and Their Implications on Electron Energy Distribution'
+semantic_tags:
+  - Cosmic Rays
+  - High Altitude Physics
+  - Particle Physics
+  - Atmospheric Physics
+  - Nuclear Physics
+tldr: The authors conducted experiments to study cosmic-ray bursts at high altitudes using an aeroplane. They found that larger bursts increased more rapidly with altitude than smaller bursts, indicating a change in the energy distribution of electrons. This suggests that there is a higher proportion of very energetic particles at higher altitudes.
+scientific_discipline: Physics > Atmospheric Physics

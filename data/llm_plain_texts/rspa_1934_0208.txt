@@ -1,0 +1,10 @@
+article_id: rspa_1934_0208
+revised_title: 'Measurement of Shot Voltage and Its Application to Secondary Thermionic Emission'
+semantic_tags:
+  - Thermionic emission
+  - Shot voltage
+  - Secondary emission
+  - Campbell's theorem
+  - Valve technology
+tldr: The authors conducted experiments to measure the shot voltage in thermionic valves and extended Schottky's formula to include valves with space charge limitations. They found that the shot voltage can be used to examine secondary emission in valves, which occurs when the anode potential is less than the screen potential. This paper describes how the apparent magnitude of the secondary stream was determined for two types of small receiving valves, revealing some other effects that may be due to ionization.
+scientific_discipline: Engineering and Technology > Electronics and Electrical Engineering

@@ -1,0 +1,10 @@
+article_id: rspl_1899_0039
+revised_title: Determining Earth's Horizontal Magnetic Force with Collimator Magnets
+semantic_tags:
+  - Geomagnetism
+  - Magnetic Observations
+  - Collimator Magnets
+  - Magnetic Force
+  - Magnetic Declination
+tldr: This paper examines over 100 collimator magnets used for observing the Earth's horizontal magnetic force and declination at Kew Observatory. It determines the mean values of various quantities related to these magnets and investigates the accuracy of the formulae used in reducing horizontal force observations. The study aims to understand the sources of uncertainty and their impact on the values found for the horizontal force.
+scientific_discipline: Earth Sciences > Geomagnetism

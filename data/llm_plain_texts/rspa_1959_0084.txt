@@ -1,0 +1,10 @@
+article_id: 'rspa_1959_0084'
+revised_title: 'Sensitization of Styrene Polymerization by Triplet State Anthracene'
+semantic_tags:
+  - Polymerization
+  - Photochemistry
+  - Organic Chemistry
+  - Triplet State
+  - Copolymerization
+tldr: 'The authors investigated the photochemical reaction between anthracene and styrene, finding that excited anthracene initiates and copolymerizes with styrene. They suggest that the triplet state of anthracene is responsible for this reaction. The rate of polymerization and the molecular weight of the resulting polymer were studied, showing that anthracene both sensitizes the polymerization of styrene and enters the propagation of the chains.'
+scientific_discipline: Chemistry > Organic Chemistry

@@ -1,0 +1,10 @@
+article_id: rsta_1980_0194
+revised_title: Austenitic Stainless Steel Oxidation Mechanisms in Carbon Dioxide
+semantic_tags:
+  - Materials Science
+  - Corrosion
+  - Stainless Steel
+  - Oxidation
+  - Nuclear Techniques
+tldr: This study investigates the oxidation mechanisms of an austenitic stainless steel alloy in carbon dioxide at 1123 K using charged-particle nuclear techniques. The research focuses on the growth mechanisms, thickness, and surface composition of the oxide scales formed on the steel. The findings reveal that the scales consist of an outer spinel layer, a middle layer, and a silicon-rich layer at the oxide-metal interface. The growth mechanism involves substantial solid-state diffusion of oxygen and some cation transport. The oxide scales were poorly adherent and sometimes buckled, with evidence of gaseous transport through the scale in two specimens.
+scientific_discipline: Materials Science > Corrosion

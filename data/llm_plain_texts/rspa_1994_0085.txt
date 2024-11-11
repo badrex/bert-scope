@@ -1,0 +1,10 @@
+article_id: rspa_1994_0085
+revised_title: Straddle-Orbit Method for Locating Chaotic Saddle in High-Dimensional Realization
+semantic_tags:
+  - Chaos Theory
+  - Dynamical Systems
+  - Nonlinear Dynamics
+  - Time Delay Systems
+  - Minorsky's System
+tldr: The authors use the straddle-orbit method to explore the basin boundaries and locate the chaotic saddle in a high-dimensional realization of Minorsky's differential-difference equation. They observe a period-doubling cascade leading to chaos and analyze the attractors, basic sets, and Liapunov exponents.
+scientific_discipline: Mathematics > Dynamical Systems

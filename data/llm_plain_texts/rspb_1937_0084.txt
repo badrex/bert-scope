@@ -1,0 +1,10 @@
+article_id: 'rspb_1937_0084'
+revised_title: 'Investigating Non-Conducted Responses of Nerve to Subthreshold Stimulation'
+semantic_tags:
+  - Neurophysiology
+  - Nerve Excitation
+  - Action Potentials
+  - Excitability
+  - Subthreshold Stimulation
+tldr: The author conducted experiments to study the response of nerve to subthreshold stimulation. They discovered that a localized response, called a non-conducted response, can occur when a small region of nerve is excited by a subthreshold shock. This response can be facilitated by a second shock applied to the same region shortly after the first and is accompanied by a small local action potential. The findings provide insights into the mechanisms of nerve excitation and the propagation of electrical signals in the nervous system.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

@@ -1,0 +1,10 @@
+article_id: rspa_1961_0108
+revised_title: 'Evaluation of Vibration Frequencies and Specific Heats in Alkali Metals'
+semantic_tags:
+  - Solid-state physics
+  - Vibration frequencies
+  - Specific heats
+  - Electron-lattice interaction
+  - Alkali metals
+tldr: The authors used electron gas modification to evaluate the vibration frequencies and specific heats of sodium and potassium. They found good agreement between calculated and experimental values, except at very low temperatures where phase transformations affect the results. The study extends previous work on lithium and provides a better understanding of the electron-lattice interaction in alkali metals.
+scientific_discipline: Physics > Solid-state physics

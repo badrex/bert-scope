@@ -1,0 +1,10 @@
+article_id: rspa_1961_0171
+revised_title: Magneto-Resistance of p-type Semiconducting Diamond: Experimental and Theoretical Analysis
+semantic_tags:
+  - Semiconductors
+  - Diamond physics
+  - Magneto-resistance
+  - Valence band structure
+  - Galvano-magnetic effects
+tldr: The authors conducted experiments on the magneto-resistance of p-type semiconducting diamonds and analyzed the results in terms of the valence band structure. They found that the measured values of magneto-resistance were within 30% of the theoretical values, but the predictions for some coefficients were lower than the experimental values. The results suggest that the energy surfaces of the valence band are complex and require more detailed experimental and theoretical analysis.
+scientific_discipline: Physics > Semiconductors

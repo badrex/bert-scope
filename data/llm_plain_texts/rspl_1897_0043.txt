@@ -1,0 +1,11 @@
+article_id: rspl_1897_0043
+revised_title: Dielectric Constants of Pure Ice, Glycerine, Nitrobenzol, and Ethylene Dibromide at Low Temperatures
+semantic_tags:
+  - Dielectric constants
+  - Low temperatures
+  - Ice
+  - Glycerine
+  - Nitrobenzol
+  - Ethylene dibromide
+tldr: The authors conducted experiments to determine the dielectric constants of pure ice, glycerine, nitrobenzol, and ethylene dibromide at and above the temperature of liquid air. They found that the dielectric constants of these substances vary significantly with temperature, and that minute impurities and changes in frequency can greatly affect their dielectric properties.
+scientific_discipline: Physics > Electromagnetism

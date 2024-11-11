@@ -1,0 +1,10 @@
+article_id: rspa_1964_0025
+revised_title: Intrinsic Edge Absorption in Diamond: A Study of Band Structure and Phonon Energies
+semantic_tags:
+  - Diamond physics
+  - Band structure
+  - Phonon energies
+  - Indirect electronic transitions
+  - Semiconductor materials
+tldr: This study investigates the intrinsic edge absorption in diamonds, focusing on the band structure and phonon energies. The researchers found that the lowest minima of the conduction band are near the boundaries of the reduced zone in the direction, and the maximum of the valence bands lies at the zone center. The indirect energy gap and its rate of change with temperature were determined, as well as the density of states effective mass of electrons at the lowest conduction-band minima.
+scientific_discipline: Physics > Materials Science

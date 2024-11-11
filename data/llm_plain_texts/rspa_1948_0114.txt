@@ -1,0 +1,10 @@
+article_id: rspa_1948_0114
+revised_title: 'Effects of a Non-Uniform Ionosphere on Induced Electric Currents and Geomagnetic Phenomena'
+semantic_tags:
+  - Ionosphere
+  - Electromagnetic Induction
+  - Geomagnetism
+  - Magnetic Storms
+  - Magnetopulsations
+scientific_discipline: Physics > Electromagnetism
+tldr: The authors study the electric currents induced in a non-uniform ionosphere by an external magnetic field. They find that the mean integrated conductivity of the ionosphere must be of the order of e.m.u. to explain the field changes during the initial phase of magnetic storms. The ionosphere's non-uniform distribution of conductivity causes shielding effects that slow down field changes observed on Earth's surface, leading to an apparent diurnal variation in the frequency of sudden commencements of magnetic storms. The study also provides a simple explanation for observed micropulsations and two well-known phenomena of magnetic disturbance: Schmidt's "wandering vortices" and Sangster's rotating disturbance vectors.

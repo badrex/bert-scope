@@ -1,0 +1,10 @@
+article_id: rspa_1984_0083
+revised_title: A New Modification of Dirac's Time-Dependent Perturbation Theory
+semantic_tags:
+  - Quantum Mechanics
+  - Time-Dependent Perturbation Theory
+  - Secular Terms
+  - Adiabatic Hypothesis
+  - Resonance
+scientific_discipline: Physics > Quantum Mechanics
+tldr: The article presents a modified version of Dirac's time-dependent perturbation theory that eliminates undesirable secular terms, allowing for an order-by-order calculation of the exact wavefunction for resonant harmonic perturbations and offering a simple route to establish the adiabatic hypothesis in quantum mechanics. The new formulation introduces flexibility in the choice of phase factors associated with varying amplitudes and develops a perturbation procedure that closely resembles the Brillouin-Wigner formalism in the static case.

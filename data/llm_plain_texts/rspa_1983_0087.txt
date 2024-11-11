@@ -1,0 +1,10 @@
+article_id: rspa_1983_0087
+revised_title: 'Hexagonal Geometry in Three-Dimensional Fibrous Composites: Lower-Tail Approximations for Probability of Failure'
+semantic_tags:
+  - Composite Materials
+  - Fibrous Composites
+  - Hexagonal Geometry
+  - Load-Sharing Rules
+  - Weibull Distribution
+tldr: The authors extend the chain-of-bundles model for the strength of unidirectional fibrous materials to cover three-dimensional fibrous composites with hexagonal geometry. They consider two load-sharing rules and use lower-tail analysis to obtain approximations for the probability distribution of material strength. The Weibull distribution emerges as central to the results, but the calculation of its shape and scale parameters is complicated by the large number of new failure configurations in the hexagonal array.
+scientific_discipline: Engineering and Technology > Materials Science

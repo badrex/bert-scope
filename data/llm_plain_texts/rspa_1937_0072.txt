@@ -1,0 +1,10 @@
+article_id: rspa_1937_0072
+revised_title: 'Investigation of Soft X-Rays and Photoelectrons from Nickel at Different Temperatures'
+semantic_tags:
+  - X-ray spectroscopy
+  - Photoelectric effect
+  - Secondary electron emission
+  - Ferromagnetism
+  - Nickel
+tldr: This study investigates the intensity of soft X-rays and photoelectric efficiency of nickel at different temperatures. The researchers found that the secondary electron current decreases suddenly at the Curie point of nickel (358°C), suggesting that the conduction electrons in the metal, which are emitted when the metal surface is bombarded by primary electrons, are also the carriers of the ferromagnetism of nickel.
+scientific_discipline: Physics > Materials Science

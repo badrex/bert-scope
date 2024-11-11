@@ -1,0 +1,10 @@
+article_id: rspa_1984_0012
+revised_title: Periods of Integrals and Topology of Algebraic Varieties: Recent Advances
+semantic_tags:
+  - Algebraic Geometry
+  - Algebraic Topology
+  - Differential Geometry
+  - Hodge Theory
+  - Complex Analysis
+tldr: This article discusses recent advances in the study of periods of integrals and the topology of algebraic varieties. It traces the historical development of the subject, from early results on integrals on curves to the introduction of algebraic topology and birational geometry. The article highlights the work of Riemann, Abel, Jacobi, and other mathematicians, and explores the connections between multiple integrals, complex analysis, and algebraic geometry.
+scientific_discipline: Mathematics > Algebraic Geometry

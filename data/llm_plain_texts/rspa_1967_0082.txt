@@ -1,0 +1,10 @@
+article_id: rspa_1967_0082
+revised_title: Diagonal Cubic Equations and Inequalities: Advances in Diophantine Analysis
+semantic_tags:
+  - Diophantine Equations
+  - Cubic Inequalities
+  - Number Theory
+  - Mathematical Analysis
+  - Hardy-Littlewood Method
+tldr: This article investigates bounds for the least non-trivial solutions of diagonal cubic equations and inequalities. The authors use the Hardy-Littlewood method and modify the proof of Birch and Davenport to obtain the required conclusions. The results have implications for understanding real cubic forms and their solutions in the context of Diophantine analysis.
+scientific_discipline: Mathematics > Number Theory

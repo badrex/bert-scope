@@ -1,0 +1,10 @@
+article_id: rspa_1980_0091
+revised_title: A Technique for Time-Dependent Free-Surface Flows in Fluid Dynamics
+semantic_tags:
+  - Fluid Dynamics
+  - Free Surface Flows
+  - Complex Variables
+  - Irrotational Flow
+  - Boundary Conditions
+tldr: The author presents a reformulation of the problem of time-dependent, irrotational free-surface flows under gravity using complex variables. This technique simplifies the equations and allows for easier calculations, making it a powerful tool for investigating time-dependent free-surface flows in fluid dynamics.
+scientific_discipline: Mathematics > Applied Mathematics > Fluid Dynamics

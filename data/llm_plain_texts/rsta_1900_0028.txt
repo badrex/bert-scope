@@ -1,0 +1,10 @@
+article_id: rsta_1900_0028
+revised_title: The Diffusion of Ions Produced by Radioactive Substances, Ultra-Violet Light, and Point Discharges
+semantic_tags:
+  - Ion diffusion
+  - Radioactivity
+  - Ultra-violet light
+  - Point discharges
+  - Electrometry
+tldr: This article investigates the diffusion of ions produced by radioactive substances, ultra-violet light, and point discharges. The author, John S. Townsend, describes the experimental setup and methods used to measure the diffusion of ions in air. The findings contribute to the understanding of ion diffusion and the behavior of ions in various conditions, which is essential for further advancements in the study of radioactivity and related phenomena.
+scientific_discipline: Physics > Electromagnetism

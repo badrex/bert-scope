@@ -1,0 +1,10 @@
+article_id: rspa_1975_0110
+revised_title: 'Long Wave Limit of Surface Waves: Korteweg-de Vries Equation and Nonlinear Schrodinger-Poisson Equations'
+semantic_tags:
+  - Fluid Dynamics
+  - Nonlinear Waves
+  - Korteweg-de Vries Equation
+  - Nonlinear Schrodinger Equation
+  - Surface Waves
+tldr: The authors analyze three-dimensional nonlinear surface waves on water of finite depth in the long wave limit. They derive the two-dimensional Korteweg-de Vries equation and show that when the amplitude parameter is small, the long wave forms of the nonlinear Schrodinger and Poisson equations can be obtained directly. This study helps in understanding the behavior of surface waves and their applications in fluid dynamics.
+scientific_discipline: Physics > Fluid Dynamics

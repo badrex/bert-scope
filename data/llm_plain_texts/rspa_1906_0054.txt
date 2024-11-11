@@ -1,0 +1,10 @@
+article_id: rspa_1906_0054
+revised_title: 'Effects of Self-Induction in Iron Cylinders: A Study of Magnetic Fields and Current Densities'
+semantic_tags:
+  - Electromagnetism
+  - Magnetic Induction
+  - Iron Cylinders
+  - Current Density
+  - Alternating Currents
+tldr: This article investigates the effects of self-induction in iron cylinders when electric currents are reversed and maintained steady. The author examines the magnetic fields and current densities within the cylinder using exploring coils and analyzes the results to understand the behavior of the magnetic force and the electric resistance in the iron cylinder. The study has implications for the use of alternating currents in electrical engineering and the design of railway rails.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: 'rspb_1966_0003'
+revised_title: 'Stereospecificity of Mevaldate Reductase and the Biosynthesis of Asymmetrically Labelled Farnesyl Pyrophosphate'
+semantic_tags:
+  - Biochemistry
+  - Cholesterol biosynthesis
+  - Mevaldate reductase
+  - Farnesyl pyrophosphate
+  - Stereochemistry
+tldr: The authors investigated the stereospecificity of mevaldate reductase and its role in the biosynthesis of asymmetrically labelled farnesyl pyrophosphate. They found that mevaldate reductase transfers hydrogen stereospecifically from the 'A5-side of NADH or NADPH to the substrate. This discovery helps in understanding the process of cholesterol biosynthesis and the role of mevaldate reductase in it.
+scientific_discipline: Chemistry > Biochemistry

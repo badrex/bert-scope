@@ -1,0 +1,10 @@
+article_id: rspa_1948_0035
+revised_title: Inhomogeneity of Plastic Deformation in Crystal Aggregates
+semantic_tags:
+  - Crystal deformation
+  - Grain boundaries
+  - Plasticity
+  - Metallography
+  - X-ray diffraction
+tldr: The authors investigate the inhomogeneity of plastic deformation in crystal aggregates, specifically in aluminum specimens. They find that deformation varies from grain to grain and within each grain, with deformation near the boundary being greater or smaller than at the center depending on the neighbor's deformation. This research is important for understanding the behavior of crystals during deformation and their interaction in aggregates.
+scientific_discipline: Materials Science > Crystallography

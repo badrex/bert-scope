@@ -1,0 +1,10 @@
+article_id: rspa_1934_0136
+revised_title: 'Refractive Index of Ionized Media: A Comparative Study'
+semantic_tags:
+  - Electromagnetism
+  - Refractive Index
+  - Dielectric Medium
+  - Conducting Medium
+  - Quantum Theory
+tldr: The author investigates the refractive index of ionized media, comparing the refractive index of a dielectric medium with that of a conducting medium. They explore the differences in the behavior of light waves in these mediums and discuss the challenges in applying the same methods to both types. The study also examines the limitations of the classical and quantum theories in explaining the refractive index of metals.
+scientific_discipline: Physics > Electromagnetism

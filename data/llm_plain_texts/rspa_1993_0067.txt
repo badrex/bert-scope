@@ -1,0 +1,10 @@
+article_id: rspa_1993_0067
+revised_title: 'Crack Analysis in Materials with Nonlinear Stress-Strain Law'
+semantic_tags:
+  - Solid Mechanics
+  - Nonlinear Constitutive Laws
+  - Crack Analysis
+  - Hodograph Transformation
+  - Boundary Value Problems
+tldr: The authors study a boundary-value problem in longitudinal shear with a nonlinear stress-strain law. They use a hodograph transformation and a further transformation to reduce the problem to Laplace's equation for the displacement in terms of appropriate strain variables. They apply the analysis to a semi-infinite crack in an infinite strip with displacement loading along its edges, finding that near the crack tip, a local analysis is not possible, and the asymptotic behavior can only be found from a full analysis of the problem.
+scientific_discipline: Engineering and Technology > Solid Mechanics

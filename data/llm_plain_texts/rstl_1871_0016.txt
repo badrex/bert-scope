@@ -1,0 +1,10 @@
+article_id: 'rstl_1871_0016'
+revised_title: 'Solving the In-and-Circumscribed Triangle Problem'
+semantic_tags:
+  - Geometry
+  - Algebraic Geometry
+  - Mathematical Theorems
+  - Mathematical Applications
+  - Trigonometry
+tldr: The author presents a comprehensive analysis of the In-and-Circumscribed Triangle problem, a specific case of the In-and-Circumscribed Polygon problem. The problem involves finding a polygon with angles situated in and sides touching a given curve or curves. The author provides a detailed explanation of the problem, including the number of possible triangles, and discusses the application of the Principle of Correspondence to solve the problem. The findings have implications for understanding the relationships between angles and sides in various geometrical configurations.
+scientific_discipline: Mathematics > Geometry

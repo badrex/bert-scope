@@ -1,0 +1,10 @@
+article_id: 'rspa_1911_0081'
+revised_title: 'Tidal Analysis of Brisbane for the Year 1908'
+semantic_tags:
+  - Tides
+  - Oceanography
+  - Harmonic Analysis
+  - Coastal Studies
+  - Brisbane
+tldr: This article presents an analysis of tidal records for Brisbane for the year 1908, conducted by the National Physical Laboratory. The analysis used Sir G. H. Darwin's tidal abacus and computation forms to determine harmonic constants and compare the results with other Australian ports like Sydney. The study found a close agreement between Brisbane and Sydney's tidal data.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

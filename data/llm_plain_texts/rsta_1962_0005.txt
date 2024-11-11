@@ -1,0 +1,10 @@
+article_id: rsta_1962_0005
+revised_title: Anisotropic Ferromagnetism and Molecular-Field Theory
+semantic_tags:
+  - Ferromagnetism
+  - Molecular-field theory
+  - Anisotropy
+  - Antiferromagnetism
+  - Exchange interactions
+tldr: The authors develop a molecular-field theory for anisotropic ferromagnetism, expanding on Anderson's treatment of antiferromagnetism. They apply the theory to face-centered cubic, body-centered cubic, simple cubic, body-centered tetragonal magnetic lattices, and rutile structure antiferromagnetics. The theory predicts possible preferred directions for spin alignment in antiferromagnetics but cannot yet predict the most stable spin arrangements without more information on exchange parameters.
+scientific_discipline: Physics > Condensed Matter Physics

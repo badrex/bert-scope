@@ -1,0 +1,11 @@
+article_id: 'rspa_1944_0016'
+revised_title: 'Harmonic Series and their Sums: A Study on Newton and Leibniz Series'
+semantic_tags:
+  - Harmonic Series
+  - Mathematical Analysis
+  - Infinite Series
+  - Newton's Series
+  - Leibniz Series
+tldr: 'The author examines the three infinite harmonic series and their sums, with a focus on the Newton and Leibniz series. The study explores how integral changes affect the denominators of the terms in these series, leading to a deeper understanding of their properties.'
+scientific_discipline: Mathematics > Mathematical Analysis
+```

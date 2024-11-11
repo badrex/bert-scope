@@ -1,0 +1,10 @@
+article_id: rspa_1993_0047
+revised_title: A New Filter with Guaranteed Asymptotic Performance
+semantic_tags:
+  - Filtering Theory
+  - Asymptotic Analysis
+  - Optimal Filters
+  - Extended Kalman Filter
+  - Nonlinear Filtering
+scientific_discipline: Mathematics > Applied Mathematics
+tldr: The article introduces a new filter called the asymptotic filter, which is computationally tractable and performs better than the extended Kalman filter. The asymptotic filter has a guaranteed level of performance and is based on the theory of asymptotic expansion of integrals of Laplace type. The filter approximates the optimal probability density function by the product of a gaussian function and a linear function, which is chosen to provide a performance guarantee. The filter updates the approximating function to account for the state evolution and incorporate new measurements.

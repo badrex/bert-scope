@@ -1,0 +1,10 @@
+article_id: rsta_1958_0005
+revised_title: Uniform Asymptotic Expansions of Solutions of Linear Second-Order Differential Equations
+semantic_tags:
+  - Differential Equations
+  - Asymptotic Analysis
+  - Mathematical Physics
+  - Applied Mathematics
+  - Complex Analysis
+tldr: The authors investigate the uniform asymptotic expansions of solutions of linear second-order differential equations for large values of a parameter. They establish conditions under which the expansions are uniformly valid with respect to the complex variable and the parameter. The study extends the existence theorems to cases where the parameter is complex and the boundaries of the regions of validity are allowed to depend on the parameter.
+scientific_discipline: Mathematics > Applied Mathematics

@@ -1,0 +1,10 @@
+article_id: rspa_1927_0129
+revised_title: The Influence of Hydrogen on Unimolecular and Bimolecular Reactions
+semantic_tags:
+  - Chemical kinetics
+  - Reaction mechanisms
+  - Hydrogen effect
+  - Unimolecular reactions
+  - Bimolecular reactions
+tldr: This article investigates the influence of hydrogen on two homogeneous reactions: the decomposition of propionic aldehyde and acetaldehyde. The author finds that hydrogen maintains the unimolecular character of the reactions at low pressures, while the bimolecular decomposition of acetaldehyde is less affected by hydrogen. The results support the theory that the activation of acetaldehyde involves a few degrees of freedom, while that of propionic aldehyde is a more complex process with a time-lag between activation and transformation.
+scientific_discipline: Chemistry > Chemical kinetics

@@ -1,0 +1,10 @@
+article_id: rspa_1967_0016
+revised_title: 'Energy Distribution of Ions and Electrons in a Hydrogen Discharge'
+semantic_tags:
+  - Plasma Physics
+  - Ion and Electron Energy Distribution
+  - Gas Discharge
+  - Hydrogen Discharge
+  - Striated Discharge
+tldr: 'The authors studied the energy distribution of ions and electrons in a hydrogen discharge using a small probe. They found that the energy distributions of positive ions and electrons vary along the striation, with the maximum energy of positive ions observed in the striation tail. The results confirm the findings of Boyd and Twiddy and provide new information on the energy distributions of positive ions.'
+scientific_discipline: Physics > Plasma Physics

@@ -1,0 +1,10 @@
+article_id: 101493
+revised_title: 'Navigational Improvements and Challenges'
+semantic_tags:
+  - Navigation
+  - Geodesy
+  - Mathematics
+  - Logarithms
+  - Meridian line
+tldr: The author presents problems related to navigation and proposes a new method for calculating the line of artificial tangents, which could improve the accuracy of navigation and the creation of logarithms. The author also suggests a wager to prove the identity of the artificial tangent line and the meridian line, with the potential for significant benefits to merchants, mariners, and the commonwealth.
+scientific_discipline: Mathematics > Geodesy

@@ -1,0 +1,10 @@
+article_id: rspa_1978_0013
+revised_title: 'Quantum Electrodynamics of Differential Raman Scattering: Two Chromophore Model'
+semantic_tags:
+  - Quantum Electrodynamics
+  - Raman Scattering
+  - Chromophores
+  - Molecular Vibrations
+  - Differential Scattering Intensities
+tldr: The authors develop a quantum electrodynamical theory of differential scattering based on a two-chromophore model, specifically focusing on differential Raman scattering of circularly polarized light. They distinguish between inequivalent and equivalent chromophores and calculate the differential scattering intensities for each case. The leading contribution to the differential intensity involves the interference of second- and fourth-order probability amplitudes, which depends on the group separation between chromophores.
+scientific_discipline: Physics > Optics

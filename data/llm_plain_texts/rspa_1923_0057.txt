@@ -1,0 +1,10 @@
+article_id: rspa_1923_0057
+revised_title: Temperature and Salinity Effects on the Velocity of Explosion Waves in Sea Water
+semantic_tags:
+  - Acoustics
+  - Oceanography
+  - Underwater Acoustics
+  - Temperature Coefficient
+  - Salinity Coefficient
+tldr: The authors conducted experiments to determine the velocity of explosion waves in sea water and found that the velocity is affected by temperature and salinity. An increase of 1°C in temperature results in an increase of about 11 ft/sec in the velocity, while an increase of 1 part per 1000 in salinity results in a corresponding increase of 3-4 ft/sec in the velocity.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

@@ -1,0 +1,10 @@
+article_id: rspa_1991_0151
+revised_title: Scattering of Sound by a Cylindrical Inclusion in a Scanning Acoustic Microscope
+semantic_tags:
+  - Acoustic microscopy
+  - Elastic waves
+  - Cylindrical inclusions
+  - Rayleigh waves
+  - Scattering theory
+tldr: The author analyzes the image formation of a cylindrical inclusion in a scanning acoustic microscope. The study considers the scattering of sound by the inclusion and its application to the microscope with a cylindrical lens. The analysis takes into account the influence of fluid loading and is applicable in the Rayleigh limit, where the characteristic wavelengths in the solid are large relative to the diameter of the inclusion.
+scientific_discipline: Engineering and Technology > Acoustic Engineering

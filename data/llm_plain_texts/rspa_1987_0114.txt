@@ -1,0 +1,10 @@
+article_id: rspa_1987_0114
+revised_title: 'Gravitational Collapse of Static Axisymmetric Discs and Cosmic Censorship'
+semantic_tags:
+  - Gravitational collapse
+  - Cosmic censorship hypothesis
+  - Einstein's field equations
+  - Aspherical collapse
+  - Static axisymmetric discs
+tldr: The authors study the collapse of static axisymmetric discs using Einstein's field equations. They find that imposing the weak energy condition prevents the formation of a singularity and preserves the validity of the cosmic censorship hypothesis. The results also support the hoop conjecture in highly aspherical situations.
+scientific_discipline: Physics > General Relativity

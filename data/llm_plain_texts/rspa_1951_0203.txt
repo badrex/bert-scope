@@ -1,0 +1,10 @@
+article_id: rspa_1951_0203
+revised_title: 'Screw Dislocations and Sound Waves: A Study of Their Interaction'
+semantic_tags:
+  - Solid State Physics
+  - Materials Science
+  - Acoustics
+  - Dislocation Theory
+  - Elasticity
+tldr: This article explores the interaction between screw dislocations and sound waves, focusing on the scattering of long shear waves by a screw dislocation. The authors develop a model to analyze the forces acting on the dislocation and the resulting vibrations, which can impact the material's properties and behavior.
+scientific_discipline: Physics > Materials Science

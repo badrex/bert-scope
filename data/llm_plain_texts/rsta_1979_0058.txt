@@ -1,0 +1,10 @@
+article_id: rsta_1979_0058
+revised_title: Ultrasonic and Radiological Methods in Engineering and Medical Diagnosis: Image Processing Techniques
+semantic_tags:
+  - Medical Imaging
+  - Ultrasonography
+  - Radiography
+  - Image Processing
+  - Non-Destructive Testing
+tldr: This article discusses the limitations and future prospects of ultrasonic and radiological methods in engineering and medical diagnosis, focusing on image processing techniques. The authors explore various methods for enhancing images, extracting information, and automating interpretation, emphasizing the importance of optimizing data acquisition and processing for better decision-making in diagnosis.
+scientific_discipline: Engineering and Technology > Image Processing

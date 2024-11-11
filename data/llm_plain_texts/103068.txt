@@ -1,0 +1,10 @@
+article_id: 103068
+revised_title: 'A Treatise on the Method of Increments and Fluxions'
+semantic_tags:
+  - Calculus
+  - Mathematical Analysis
+  - Differential Equations
+  - Newtonian Mathematics
+  - Mathematical Notation
+tldr: The author presents a treatise on the method of increments and fluxions, a precursor to calculus, developed by Sir Isaac Newton. The text explains the principles, notation, and applications of this method, which is concerned with the relationships between increments and fluxions of various quantities. The author demonstrates the usefulness of this method in solving mathematical problems and provides examples for better understanding.
+scientific_discipline: Mathematics > Calculus

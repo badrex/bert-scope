@@ -1,0 +1,10 @@
+article_id: rspl_1883_0120
+revised_title: Exploring Magnetic Polarity and Neutrality in Iron and Steel
+semantic_tags:
+  - Magnetism
+  - Magnetic polarity
+  - Magnetic neutrality
+  - Iron and steel properties
+  - Electromagnetism
+tldr: The author conducted experiments to study the magnetic properties of iron and steel. They discovered that magnetism in these materials is due to the inherent polarity of their molecules, which cannot be destroyed or augmented. The author found that neutrality occurs when the polar forces are balanced, and explained how this affects the performance of electro-magnets. The research also revealed that the exterior layers of iron and steel have a higher magnetic capacity than the interior layers, and that the remaining magnetism after the inducing force is removed is a form of partial neutrality.
+scientific_discipline: Physics > Electromagnetism

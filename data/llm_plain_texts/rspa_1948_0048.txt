@@ -1,0 +1,10 @@
+article_id: 'rspa_1948_0048'
+revised_title: 'Improving Atomic Coordinate Accuracy in X-ray Crystallography'
+semantic_tags:
+  - Crystallography
+  - X-ray diffraction
+  - Atomic structure
+  - Error analysis
+  - Fourier series
+tldr: This article investigates the impact of experimental errors on atomic coordinates derived from Fourier series in X-ray crystallography. The authors develop a theory assuming that errors are proportional to the magnitude of the Fourier coefficients and analyze how the error varies with the position of the atom in relation to its neighbors. The study provides a more accurate method for assessing the probable errors in atomic coordinates, which is essential for understanding molecular structures.
+scientific_discipline: Chemistry > Crystallography

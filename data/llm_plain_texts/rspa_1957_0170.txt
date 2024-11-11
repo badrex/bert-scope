@@ -1,0 +1,10 @@
+article_id: rspa_1957_0170
+revised_title: Cyclic Slip and Fatigue in Metals: Extrusion and Intrusion in Copper
+semantic_tags:
+  - Metal Fatigue
+  - Cyclic Slip
+  - Copper Metallurgy
+  - Slip Bands
+  - Dislocation Theory
+tldr: The authors studied the process of work-hardening and fatigue in metals, specifically copper, through extrusion and intrusion caused by cyclic slip. They discovered that both extrusions and intrusions occur in comparable abundance in initially unworked copper and that these processes are formed readily at low temperatures. The authors propose a model of cyclic slip involving two intersecting slip bands operating sequentially during both positive and negative stress phases, leading to the formation of intrusions and extrusions. This process is suggested as a possible origin of fatigue cracks in the material.
+scientific_discipline: Materials Science > Metal Fatigue

@@ -1,0 +1,10 @@
+article_id: rspa_1938_0083
+revised_title: 'A Study of the Development and Characteristics of Spark Discharges'
+semantic_tags:
+  - Electrical Discharges
+  - Spark Discharge
+  - Leader Stroke
+  - Main Stroke
+  - Lightning Flash
+tldr: This article investigates the development and characteristics of spark discharges using a rotating camera and an impulse-voltage generator. The authors discovered that spark discharges consist of two or more components, similar to a lightning flash. They studied the leader and main strokes of the spark discharge and found that the main stroke has a higher propagation velocity than the leader stroke. The authors also observed differences in discharge behavior when changing the polarity of the high-voltage electrode.
+scientific_discipline: Physics > Electromagnetism

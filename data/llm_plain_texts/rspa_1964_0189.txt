@@ -1,0 +1,10 @@
+article_id: rspa_1964_0189
+revised_title: 'Enhanced Ionic Polymerization of Styrene Induced by Radiation: Aerosil's Role'
+semantic_tags:
+  - Polymer Chemistry
+  - Radiation Chemistry
+  - Styrene Polymerization
+  - Chain Transfer
+  - Aerosil
+tldr: The authors studied the effect of Aerosil, a silica powder, on the radiation-induced ionic polymerization of styrene. They found that the presence of Aerosil enhances the polymerization yield by reducing the termination step and increasing the kinetic chain length. Chain transfer to the solvent is negligible, and the enhanced yield is due to a decrease in termination or a change in the ionic polymerization mechanism.
+scientific_discipline: Chemistry > Polymer Chemistry

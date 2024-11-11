@@ -1,0 +1,10 @@
+article_id: rsta_1971_0028
+revised_title: Multicomponent Adsorption in Continuous Countercurrent Exchangers: A Theoretical Analysis
+semantic_tags:
+  - Adsorption
+  - Continuous countercurrent exchangers
+  - Equilibrium exchange
+  - Langmuir adsorption isotherm
+  - Chemical engineering
+tldr: This article presents a theoretical analysis of multicomponent adsorption in continuous countercurrent exchangers. The authors consider a one-dimensional, isothermal, locally at equilibrium system with negligible diffusion effects. They use the Langmuir adsorption isotherm to establish the theories of simple waves, shock waves, and interactions, and discuss the system's behavior based on the flow rate ratio.
+scientific_discipline: Engineering and Technology > Chemical Engineering

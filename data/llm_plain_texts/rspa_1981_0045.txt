@@ -1,0 +1,11 @@
+article_id: rspa_1981_0045
+revised_title: 'Solving the Regular and Asymptotic Characteristic Initial Value Problem for Einstein's Vacuum Field Equations'
+semantic_tags:
+  - General Relativity
+  - Einstein's Field Equations
+  - Asymptotic Flatness
+  - Spin-Frame Formalism
+  - Symmetric Hyperbolic System
+tldr: The author presents a method to solve the regular and asymptotic characteristic initial value problem for Einstein's vacuum field equations using the spin-frame formalism. This approach reduces the problem to a simpler characteristic initial value problem for a symmetric hyperbolic system of differential equations, allowing for the investigation of non-stationary solutions that are asymptotically flat in the infinite past.
+scientific_discipline: Mathematics > Differential Geometry
+```

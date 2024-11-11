@@ -1,0 +1,10 @@
+article_id: rspa_1907_0036
+revised_title: 'Firing of Gaseous Mixtures by Compression: A Study of Spontaneous Ignition'
+semantic_tags:
+  - Combustion
+  - Gas ignition
+  - Compression waves
+  - Explosions
+  - Fluid dynamics
+tldr: The authors conducted experiments to study the spontaneous ignition of gaseous mixtures by compression. They discovered that the ignition occurs when the end of the tube is funnel-shaped and unyielding, and the distance between the spark gap and the capillary end is crucial. The phenomenon is similar to a tidal "bore" in a funnel-shaped estuary. The calculated velocity of the compression wave is close to the velocity of sound in the gaseous mixture, but it is unlikely that the firing is caused by a sound wave.
+scientific_discipline: Physics > Fluid Dynamics

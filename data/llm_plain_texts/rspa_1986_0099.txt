@@ -1,0 +1,10 @@
+article_id: rspa_1986_0099
+revised_title: 'Oscillatory Instability in a Rotating Layer of Mercury: A Theoretical Analysis'
+semantic_tags:
+  - Fluid Dynamics
+  - Convection
+  - Oscillatory Instability
+  - Magnetohydrodynamics
+  - Rayleigh-Benard Convection
+tldr: This study investigates the onset of oscillatory instability in a rotating layer of mercury heated from below and subject to a magnetic field. The authors compare theoretical predictions with experimental values from Nakagawa's work, examining the critical temperature gradient and cell sizes at the onset of oscillatory instability. The results provide insights into the behavior of fluids under the influence of rotation and magnetic fields, with potential applications in understanding phenomena like sunspots.
+scientific_discipline: Physics > Fluid Dynamics

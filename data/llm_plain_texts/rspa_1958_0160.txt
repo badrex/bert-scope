@@ -1,0 +1,10 @@
+article_id: rspa_1958_0160
+revised_title: 'Parity Non-Conservation and Isothermals of Benzene Vapour'
+semantic_tags:
+  - Thermodynamics
+  - Isothermals
+  - Benzene
+  - Gas behavior
+  - Compressibility
+scientific_discipline: Chemistry > Thermodynamics
+tldr: The authors studied the deviations of benzene vapour from ideality and its behavior under various pressures and temperatures. They used a differential compressibility apparatus to measure the isothermals of benzene vapour and found that the deviations were consistent with the law of corresponding states. This research aimed to establish a unique relationship between the reduced temperature and the ratio of the virial coefficient and the critical volume, providing a better understanding of benzene's thermodynamic properties.

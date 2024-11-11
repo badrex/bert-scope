@@ -1,0 +1,10 @@
+article_id: rspa_1947_0072
+revised_title: 'Investigating the Night Cooling of the Ozonosphere'
+semantic_tags:
+  - Atmospheric Science
+  - Ozonosphere
+  - Temperature Inversion
+  - Radiation Equilibrium
+  - Atmospheric Cooling
+tldr: This article explores the cooling of the ozonosphere at night by analyzing the calculated solar energy absorbed in various layers. The authors estimate the cooling by considering radiation equilibrium and the removal of solar energy after sunset. They discuss different methods for calculating the cooling and present the results in a table. The study also examines the factors affecting the cooling, such as air mass movements and the presence of water vapor, carbon dioxide, and ozone.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

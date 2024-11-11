@@ -1,0 +1,10 @@
+article_id: rspa_1926_0082
+revised_title: 'Effect of Organic Vapours on the Mobility of Ions in Air'
+semantic_tags:
+  - Ion mobility
+  - Organic vapours
+  - Air chemistry
+  - Cluster theory
+  - Electrochemistry
+tldr: The authors conducted experiments to study the effect of organic vapours on the mobility of ions in air. They found that the presence of organic vapours, such as alcohols and chloroform, significantly reduced the mobility of ions in air. The results support the cluster theory, which suggests that ions form clusters with organic molecules, affecting their mobility.
+scientific_discipline: Chemistry > Electrochemistry

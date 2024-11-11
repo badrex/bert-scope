@@ -1,0 +1,10 @@
+article_id: rspa_1939_0137
+revised_title: Stress Systems in Aeolotropic Plates: Solutions for Infinite Strips and Semi-Infinite Plates
+semantic_tags:
+  - Elasticity
+  - Aeolotropic plates
+  - Stress functions
+  - Generalized plane stress
+  - Boundary conditions
+tldr: The authors present solutions for stress systems in aeolotropic plates, specifically for infinite strips and semi-infinite plates. They develop stress functions that satisfy the boundary conditions and the differential equation for the stress function, allowing for the calculation of mean stresses and displacements in these complex structures. The results can be applied to various problems involving aeolotropic materials, such as the distribution of forces and the behavior of plates under stress.
+scientific_discipline: Engineering and Technology > Materials Science

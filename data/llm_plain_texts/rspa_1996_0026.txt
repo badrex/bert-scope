@@ -1,0 +1,10 @@
+article_id: rspa_1996_0026
+revised_title: Phase-Field Model for Eutectic Alloy Solidification
+semantic_tags:
+  - Solidification
+  - Phase-Field Models
+  - Eutectic Alloys
+  - Materials Science
+  - Thermodynamics
+tldr: The authors present two phase-field models for the solidification of eutectic alloys, a process in which a liquid can transform into two distinct solid phases. The models allow for a more accurate representation of the solid-solid interface and provide a general treatment for different crystalline structures. The phase-field models are derived from a thermodynamically consistent approach and can describe solidification for various compositions.
+scientific_discipline: Materials Science > Solidification and Phase-Field Models

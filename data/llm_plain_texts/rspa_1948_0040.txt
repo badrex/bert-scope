@@ -1,0 +1,10 @@
+article_id: rspa_1948_0040
+revised_title: 'The Influence of Physical Properties on Flame Propagation in Gaseous Mixtures'
+semantic_tags:
+  - Combustion chemistry
+  - Flame propagation
+  - Gas mixtures
+  - Physical properties
+  - Limit mixtures
+tldr: The authors investigate the influence of physical properties on the propagation of flames in gaseous mixtures. They find that the flame is only propagated if a certain minimum temperature is maintained in the flame boundary, which is approximately constant for a given combustible. The specific heat of the mixture and combustion of combustible constituents determine whether the flame is propagated. The authors also study the effects of various diluents on the limits of inflammability of methane and hydrogen.
+scientific_discipline: Chemistry > Combustion Chemistry

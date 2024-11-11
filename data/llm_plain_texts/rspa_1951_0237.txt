@@ -1,0 +1,10 @@
+article_id: 'rspa_1951_0237'
+revised_title: 'Compatibility of Adaptive Theory and Mendelian Segregation in Yeast Galactose Utilization'
+semantic_tags:
+  - Yeast Genetics
+  - Adaptation
+  - Mendelian Segregation
+  - Galactose Metabolism
+  - Genetic Control
+tldr: The study examines the growth characteristics of three yeast strains in a galactose medium and explores the compatibility of the adaptive theory and Mendelian segregation. It is found that adaptation is a response by the bulk of the population, not due to a selection of variant cells. The absolute ability to utilize galactose segregates as though controlled by a single gene, but segregants with galactose metabolism exhibit varying degrees of training.
+scientific_discipline: Biology and Life Sciences > Genetics

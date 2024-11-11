@@ -1,0 +1,10 @@
+article_id: rspa_1984_0025
+revised_title: Angle-Resolved Ion Kinetic Energy Spectra in Mass Spectrometers
+semantic_tags:
+  - Mass spectrometry
+  - Ion scattering
+  - Collision physics
+  - Kinetic energy analysis
+  - Angular resolution
+tldr: The authors discuss experimental problems associated with studying the scattering of kilovolt projectile ions in mass spectrometers. They consider the parameters that are important in controlling and defining the scattering angle and analyze the importance of angular collimation before and after collision. The authors describe a modification to a double-focusing mass spectrometer to observe angle-resolved ion kinetic energy spectra of collisionally scattered ion beams and present preliminary results on non-fragmenting systems.
+scientific_discipline: Physics > Optics

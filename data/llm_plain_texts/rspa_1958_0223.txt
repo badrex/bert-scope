@@ -1,0 +1,10 @@
+article_id: rspa_1958_0223
+revised_title: 'Perturbations of Satellite Orbits: Earth's Oblateness and Atmosphere'
+semantic_tags:
+  - Satellite Orbits
+  - Earth's Oblateness
+  - Atmospheric Drag
+  - Spacecraft Dynamics
+  - Celestial Mechanics
+tldr: This article discusses the main perturbations affecting a satellite's orbit near the Earth, focusing on the effects of the Earth's oblateness and its atmosphere. The author explains how the Earth's shape causes the orbital plane to rotate, the major axis of the orbit to rotate slowly, and the radial distance of the satellite from the Earth's center to change. Additionally, the article explores the impact of the Earth's atmosphere on a satellite's orbit, explaining how air drag causes the orbit to spiral and the period of revolution to decrease.
+scientific_discipline: Physics > Celestial Mechanics

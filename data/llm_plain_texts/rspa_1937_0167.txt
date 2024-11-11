@@ -1,0 +1,10 @@
+article_id: rspa_1937_0167
+revised_title: Elastic Stability of Slightly Bent Rectangular Plates Under Uniform Shear
+semantic_tags:
+  - Plate theory
+  - Elastic stability
+  - Shear forces
+  - Boundary conditions
+  - Fourier series
+tldr: This article investigates the elastic stability of a long, slightly bent rectangular plate under uniform shear. The authors develop a method to determine the stability of the plate by considering the equilibrium stresses and displacements caused by applying a uniform shearing force to the two straight edges. They use shell equations and Fourier series to analyze the problem and provide a solution that satisfies the boundary conditions.
+scientific_discipline: Engineering and Technology > Mechanics of Materials

@@ -1,0 +1,10 @@
+article_id: 104524
+revised_title: Analyzing Projectile Motion Near Earth's Surface
+semantic_tags:
+  - Classical Mechanics
+  - Projectile Motion
+  - Gravity
+  - Trigonometry
+  - Physics Experiments
+tldr: The author, Tho. Simpson, investigates the motion of projectiles near the Earth's surface, focusing on determining the relationship between the angle of elevation, the time of flight, and the horizontal amplitude of the projectile. The author also explores the effects of the resistance of the atmosphere and provides methods for calculating the necessary angles and distances for hitting targets at various elevations and velocities.
+scientific_discipline: Physics > Mechanics

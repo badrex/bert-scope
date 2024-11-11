@@ -1,0 +1,10 @@
+article_id: 'rsta_1969_0020'
+revised_title: 'Infrared Astronomy: Radio Emission from High-Level Transitions in Hydrogen'
+semantic_tags:
+  - Infrared Astronomy
+  - Radio Emission
+  - Hydrogen Transitions
+  - Astrophysics
+  - Atomic Physics
+tldr: This article discusses the radio emission from high-level transitions in hydrogen in the context of infrared astronomy. The authors explore the theoretical aspects of this phenomenon, including the effects of Stark broadening, the sum rule, and the equation of radiative transfer. They also provide a revised formula for the mean Gaunt factor for free-free emission. The study ultimately leads to predictions of the total emission from an HII region.
+scientific_discipline: Astronomy > Astrophysics

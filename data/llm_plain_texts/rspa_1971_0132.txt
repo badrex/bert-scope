@@ -1,0 +1,10 @@
+article_id: rspa_1971_0132
+revised_title: 'Creep and Friction Properties of Polycrystalline Ice'
+semantic_tags:
+  - Ice mechanics
+  - Creep behavior
+  - Friction
+  - Polycrystalline materials
+  - Ice deformation
+tldr: This study investigates the creep and friction properties of polycrystalline ice, focusing on its deformation under compression and indentation. The research shows that the secondary creep behavior can be described by a specific relation, and the hardness behavior can be linked to the creep properties using the analysis of Atkins, Silverio, and Tabor. The friction of a cone of polycrystalline ice sliding over a hard flat surface is also examined, revealing the role of interfacial adhesion, frictional heating, and the influence of speed on the frictional behavior. The findings have implications for understanding the creep of glaciers.
+scientific_discipline: Physics > Materials Science

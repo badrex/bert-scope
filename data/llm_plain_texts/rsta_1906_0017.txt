@@ -1,0 +1,10 @@
+article_id: rsta_1906_0017
+revised_title: Ionic Size and Its Relation to the Physical Properties of Aqueous Solutions
+semantic_tags:
+  - Electrochemistry
+  - Solution chemistry
+  - Hydration
+  - Viscosity
+  - Osmotic pressure
+scientific_discipline: Chemistry > Electrochemistry
+tldr: This article explores the relationship between ionic size and the physical properties of aqueous solutions. The author proposes a method to analyze the sizes of ions in solutions and tests this method using various experimental determinations. The study finds that the average radius of an ion, called "radion," increases with dilution due to hydration. The author also demonstrates how ionic size affects conductivity, viscosity, and osmotic pressure in solutions.

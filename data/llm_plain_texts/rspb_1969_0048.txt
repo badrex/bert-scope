@@ -1,0 +1,10 @@
+article_id: 'rspb_1969_0048'
+revised_title: 'Investigating the Hydration Structure of Collagen'
+semantic_tags:
+  - 'Collagen structure'
+  - 'Hydration'
+  - 'Nuclear magnetic resonance'
+  - 'Dielectric properties'
+  - 'Water orientation'
+tldr: 'This study investigates the hydration structure of collagen using nuclear magnetic resonance and dielectric methods. The authors found that water molecules near collagen are partially oriented and developed a model to describe the average orientation of water molecules in the collagen's hydration structure.'
+scientific_discipline: 'Biology and Life Sciences > Biochemistry'

@@ -1,0 +1,10 @@
+article_id: rsta_1986_0122
+revised_title: Ultrasonic Models in Non-Destructive Examination and Validation
+semantic_tags:
+  - Non-destructive testing
+  - Ultrasonic testing
+  - Structural integrity
+  - Fracture mechanics
+  - Model calculations
+tldr: The article discusses the use of ultrasonic models in the design and validation of new non-destructive examination techniques. It explores the potential applications of these models in various industries, such as the nuclear and aerospace industries, and highlights the importance of developing engineering models of flaw detectability for better structural integrity assessment.
+scientific_discipline: Engineering and Technology > Non-Destructive Testing

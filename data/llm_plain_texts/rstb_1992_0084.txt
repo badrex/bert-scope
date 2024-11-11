@@ -1,0 +1,10 @@
+article_id: 'rstb_1992_0084'
+revised_title: 'Spatial Layout Discrimination in Bees: Investigating the Size of Regions'
+semantic_tags:
+  - Insect Vision
+  - Pattern Recognition
+  - Spatial Layout
+  - Visual Memory
+  - Bee Behavior
+tldr: This study investigates how bees can recognize and differentiate patterns based on spatial layout. Experiments show that bees can effectively distinguish between different angles of stripes in round discs divided into two, four, or eight sections. The results suggest that bees can see the gross spatial layout, especially in the lower half of the pattern, and that the area required for resolving spatial layout is about four stripe periods. This research provides insight into how bees process visual information and reduce data to relevant details while still retaining the ability to learn various patterns.
+scientific_discipline: Biology and Life Sciences > Zoology

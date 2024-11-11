@@ -1,0 +1,10 @@
+article_id: rspl_1876_0009
+revised_title: Mercury's Effect on Selenium Conductivity
+semantic_tags:
+  - Conductivity
+  - Selenium
+  - Mercury
+  - Sprengel vacuum
+  - Electrical conductivity
+tldr: The authors conducted experiments to study the effect of mercury on the conductivity of selenium. They found that exposing selenium to mercury vapor in a Sprengel vacuum significantly increased its conductivity. The conducting film was superficial and not removed by rubbing or dilute nitric acid. The authors also estimated the quantity of mercury required to produce the observed conductivity.
+scientific_discipline: Chemistry > Materials Science

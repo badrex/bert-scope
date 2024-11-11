@@ -1,0 +1,10 @@
+article_id: rstb_1984_0052
+revised_title: Aerodynamic Mechanisms in Hovering Insect Flight
+semantic_tags:
+  - Insect flight
+  - Aerodynamics
+  - Lift generation
+  - Wing kinematics
+  - Unsteady aerofoil theory
+tldr: This article discusses the aerodynamic mechanisms involved in hovering insect flight, focusing on lift generation and wing kinematics. The authors explore various mechanisms, such as leading edge separation bubbles, rotational vorticity, and delayed stall, to explain how insects generate lift during hovering. They also examine the influence of wake vorticity on the bound vorticity of wings and the role of unsteady aerofoil theory in understanding these complex flight dynamics.
+scientific_discipline: Biology and Life Sciences > Zoology

@@ -1,0 +1,10 @@
+article_id: 'rspa_1991_0108'
+revised_title: 'Korn's Inequality for Weakly Convergent Sequences'
+semantic_tags:
+  - Functional Analysis
+  - Partial Differential Equations
+  - Mathematical Physics
+  - Applied Mathematics
+  - Mechanics
+tldr: The article extends Korn's inequality to weakly convergent sequences, providing a tool for studying minimizing sequences in problems involving phase transformations in crystals. This extension helps assess the relationship between linear and nonlinear theories of phase transformations.
+scientific_discipline: Mathematics > Functional Analysis

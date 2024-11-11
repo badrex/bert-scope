@@ -1,0 +1,10 @@
+article_id: rspa_1984_0096
+revised_title: 'Hydrogen Permeation Through Palladium and Nickel Foils: Boundary Conditions and Experimental Techniques'
+semantic_tags:
+  - Electrochemistry
+  - Hydrogen diffusion
+  - Palladium
+  - Nickel
+  - Boundary conditions
+tldr: The authors investigate the boundary conditions in potentiostatic and galvanostatic hydrogen permeation experiments through palladium and nickel foils. They demonstrate that the boundary condition established at the entrance side by using the potentiostatic and galvanostatic techniques depends on the specific metal membrane under study. The study provides insights into the solubility and diffusivity of hydrogen in palladium and nickel, and highlights the importance of understanding the boundary conditions in electrochemical permeation methods.
+scientific_discipline: Chemistry > Electrochemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1980_0029
+revised_title: 'Dielectric Permittivity and pvT Data of Some n-Alkanes: A Study of Molecular Behavior'
+semantic_tags:
+  - Dielectric Permittivity
+  - Density Measurements
+  - Molecular Polarizability
+  - Temperature Effects
+  - n-Alkanes
+tldr: This study investigates the dielectric permittivity and pvT data of six n-alkanes, from pentane to decane, to understand their molecular behavior. The molecular polarizability decreases with increasing density in a nonlinear manner, and it displays a temperature effect that alternates between large and small values for odd and even numbers in the series. The findings provide insights into the molecular properties of n-alkanes and the interplay between density, temperature, and pressure.
+scientific_discipline: Chemistry > Physical Chemistry

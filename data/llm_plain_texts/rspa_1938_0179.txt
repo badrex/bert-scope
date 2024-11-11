@@ -1,0 +1,10 @@
+article_id: rspa_1938_0179
+revised_title: 'Electromagnetic Energy of a Point Charge and its Equations of Motion'
+semantic_tags:
+  - Electromagnetic Theory
+  - Point Charge
+  - Relativistic Mechanics
+  - Energy and Momentum Conservation
+  - Quantum Electrodynamics
+tldr: The authors present a method to calculate the electromagnetic energy of a point charge and its equations of motion in the context of relativistic mechanics. They propose a finite expression for the energy, which is consistent with the principle of energy conservation and can be used in both classical and quantum electrodynamics.
+scientific_discipline: Physics > Electromagnetic Theory

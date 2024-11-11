@@ -1,0 +1,10 @@
+article_id: rspa_1919_0013
+revised_title: Investigation of Ionizing Power of Positive Ions in Helium
+semantic_tags:
+  - Ionization
+  - Helium
+  - Tantalum Filament
+  - Positive Ions
+  - Ionizing Power
+tldr: The authors conducted experiments to investigate the ionizing power of positive ions from a glowing tantalum filament in helium. They found that the minimum ionizing potential for positive ions is much greater than that for electrons. The study also observed a photoelectric effect that was not previously reported in similar experiments.
+scientific_discipline: Physics > Ionization and Plasma Physics

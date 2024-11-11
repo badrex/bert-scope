@@ -1,0 +1,10 @@
+article_id: 'rspb_1931_0081'
+revised_title: 'Myothermic Experiments on Frog's Gastrocnemius: A New Method for Measuring Muscle Heat'
+semantic_tags:
+  - Muscle physiology
+  - Myothermic experiments
+  - Thermocouple
+  - Muscle heat production
+  - Frog gastrocnemius
+tldr: The author presents a new method for measuring muscle heat production using a single thermocouple inserted into the muscle. This method is applied to frog's gastrocnemius, allowing for more accurate measurements and overcoming previous limitations in myothermic experiments. The new method provides insights into muscle physiology and the relationship between tension and heat production during muscle activity.
+scientific_discipline: Biology and Life Sciences > Muscle Physiology

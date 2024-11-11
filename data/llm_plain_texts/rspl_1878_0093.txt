@@ -1,0 +1,10 @@
+article_id: rspl_1878_0093
+revised_title: 'Improving the Sensitivity and Accuracy of the Balance for Scientific Measurements'
+semantic_tags:
+  - Balance technology
+  - Torsion balance
+  - Density of the Earth
+  - Scientific instruments
+  - Precision measurements
+tldr: The author presents a method to improve the sensitivity and accuracy of the balance for scientific measurements. They describe the design and use of a balance to compare two weights and determine the mean density of the Earth. The method involves minimizing external disturbances, such as temperature and air currents, and using a carefully designed apparatus to measure small differences in weight.
+scientific_discipline: Physics > Mechanics

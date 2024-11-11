@@ -1,0 +1,10 @@
+article_id: rspl_1887_0136
+revised_title: Heat Dilatation of Metals from Low Temperatures
+semantic_tags:
+  - Thermodynamics
+  - Heat expansion
+  - Metals
+  - Temperature
+  - Steel
+tldr: The author conducted experiments to understand how metals, particularly those in the iron and steel series, expand when heated. They found that the coefficients of heat dilatation decrease as the temperature is lowered below zero. The results showed that the "soft" steels had higher coefficients of dilatation than the "hard" steels, which may be due to the percentage of combined carbon and the specific gravity of the metals. The author also observed that the dilatation was generally more in the direction of the length of the metallic cylinders than when measured across the diameter.
+scientific_discipline: Physics > Thermodynamics

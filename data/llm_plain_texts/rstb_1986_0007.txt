@@ -1,0 +1,10 @@
+article_id: 'rstb_1986_0007'
+revised_title: 'Exploring DNA Turnover and Molecular Drive in Multigene Families'
+semantic_tags:
+  - Molecular Drive
+  - DNA Turnover
+  - Concerted Evolution
+  - Multigene Families
+  - Population Genetics
+tldr: The authors discuss the concept of molecular drive, a process that promotes the spread of mutations through a population over time, and its role in the evolution of DNA sequences. They argue that mechanisms of non-reciprocal exchange, such as gene conversion and unequal exchange, can cause fluctuations in the copy-number of variant genes and contribute to the spread of mutations. This process, known as molecular drive, can lead to the homogenization of multigene families and population fixation, and is distinct from the classical processes of selection and drift. The authors provide examples of how molecular drive can maintain biological function and conserve sequences in the absence of selection.
+scientific_discipline: Biology and Life Sciences > Genetics and Molecular Biology

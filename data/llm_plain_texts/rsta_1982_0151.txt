@@ -1,0 +1,10 @@
+article_id: 'rsta_1982_0151'
+revised_title: 'Nuclear Magnetic Resonance Studies in Cluster Chemistry: Advances in Transition Metal Carbonyl Clusters'
+semantic_tags:
+  - 'Transition Metal Chemistry'
+  - 'Nuclear Magnetic Resonance'
+  - 'Carbonyl Clusters'
+  - 'Cluster Growth'
+  - 'Catalysis'
+tldr: 'This article discusses nuclear magnetic resonance (NMR) studies on transition metal carbonyl clusters, providing insights into mechanisms of ligand exchange, metal polyhedral rearrangements, controlled capping of triangular and square faces, and bonding within the cluster. Recent NMR measurements under high pressures of gas promise in situ mechanistic information and structural identification of intermediates under industrially relevant conditions.'
+scientific_discipline: Chemistry > Transition Metal Chemistry

@@ -1,0 +1,10 @@
+article_id: 'rspb_1948_0014'
+revised_title: 'Adaptive Mechanisms in Bacterial Reaction Systems'
+semantic_tags:
+  - Enzyme kinetics
+  - Bacterial adaptation
+  - Enzyme regulation
+  - Cellular growth
+  - Enzyme synthesis
+tldr: This article discusses the adaptive mechanisms in bacterial reaction systems, focusing on how enzyme systems change to respond to new needs and establish an optimum growth rate. The author presents a hypothesis that enzyme proportions adjust to adapt to new conditions, and explores the relationship between the change of proportions of existing enzymes and the appearance of new ones. The study considers different aspects of enzyme systems, including their autosynthesis, indirect coupling of synthesis and function, and competing reaction sequences.
+scientific_discipline: Biology and Life Sciences > Microbiology

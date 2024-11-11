@@ -1,0 +1,10 @@
+article_id: 109013
+revised_title: 'Investigation of Thermal Resistance in Liquids'
+semantic_tags:
+  - Thermodynamics
+  - Heat conduction
+  - Heat transfer
+  - Liquid properties
+  - Experimental physics
+tldr: The author investigates the thermal resistance of liquids and the challenges in studying this phenomenon. They propose a method to determine the relative and absolute thermal resistance offered by a given thickness of a liquid in a given time, with a known temperature difference between the liquid and the source of heat. The author discusses various experimental methods and their limitations, and aims to develop an apparatus applicable to different liquids and solids, minimizing the impact of external factors.
+scientific_discipline: Physics > Thermodynamics

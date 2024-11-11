@@ -1,0 +1,10 @@
+article_id: 106872
+revised_title: 'On the Method of Determining Contingent Reversions in Three-Lives Survivorship'
+semantic_tags:
+  - Actuarial Science
+  - Life Insurance
+  - Probability Theory
+  - Statistics
+  - Mathematical Modeling
+tldr: The author presents a method for determining the value of contingent reversions involving three lives in survivorship. By using mathematical formulas and probability theory, the author calculates the value of annuities and reversions in various scenarios. This work is essential for understanding life insurance and actuarial science.
+scientific_discipline: Mathematics > Applied Mathematics

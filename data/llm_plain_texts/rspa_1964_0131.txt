@@ -1,0 +1,10 @@
+article_id: rspa_1964_0131
+revised_title: 'Low Temperature Thermal Expansion of Copper'
+semantic_tags:
+  - Thermal expansion
+  - Copper
+  - Low temperatures
+  - Electrical capacitance technique
+  - Gruneisen parameter
+scientific_discipline: Physics > Solid State Physics
+tldr: The authors measured the thermal expansion of copper at low temperatures using an electrical capacitance technique. They found that the Gruneisen parameter remains nearly constant between room temperature and liquid air temperature but decreases significantly below that. The study provides more detailed knowledge of the function at low temperatures, which is of interest in lattice dynamics and the expansion from the electron gas.

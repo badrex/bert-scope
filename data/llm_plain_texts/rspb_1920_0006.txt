@@ -1,0 +1,10 @@
+article_id: 'rspb_1920_0006'
+revised_title: 'The Influence of Electrolytes on Spermatozoa Movement and Agglutination'
+semantic_tags:
+  - 'Spermatozoa'
+  - 'Electrolytes'
+  - 'Surface charge'
+  - 'Agglutination'
+  - 'Colloid chemistry'
+tldr: The authors conducted experiments to understand the relationship between spermatozoa and electrolytes. They discovered that spermatozoa move towards the positive pole of an electric field and that their movement and agglutination are dependent on the concentration of hydroxyl ions and the presence of trivalent ions like cerium and lanthanum. These findings are similar to the behavior of colloid particles in an alkaline medium and have implications for understanding fertilization and the role of surface charge in cellular processes.
+scientific_discipline: Biology and Life Sciences > Cell Biology

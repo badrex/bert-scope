@@ -1,0 +1,10 @@
+article_id: rstb_1989_0017
+revised_title: Oscillations in Photosynthesis: A Mathematical Model of Biochemistry
+semantic_tags:
+  - Photosynthesis
+  - Mathematical modeling
+  - Biochemistry
+  - Enzyme regulation
+  - Oscillations
+tldr: This article presents a mathematical model of the biochemistry of photosynthesis, focusing on enzyme regulation and oscillations. The model incorporates reactions of the carbon reduction cycle, sucrose and starch synthesis, and photophosphorylation. It suggests that oscillations in photosynthesis may be caused by disproportions between the rates of ATP and NADPH synthesis during electron transport.
+scientific_discipline: Biology and Life Sciences > Photosynthesis

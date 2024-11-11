@@ -1,0 +1,10 @@
+article_id: rsta_1973_0045
+revised_title: Tidal Tilt Measurement Techniques and Instruments
+semantic_tags:
+  - Geophysics
+  - Earth Tilt
+  - Tidal Sensitivity
+  - Tiltmeters
+  - Borehole Instrumentation
+tldr: This article discusses the development and use of various instruments and techniques for measuring tidal tilt in the Earth. The authors describe their long-base liquid-level tiltmeters and a new pendulum tiltmeter suitable for operation in shallow boreholes. They also discuss the importance of selecting appropriate sites and considering local geology for accurate measurements.
+scientific_discipline: Environmental and Earth Sciences > Geophysics

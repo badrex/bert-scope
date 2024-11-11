@@ -1,0 +1,10 @@
+article_id: rspa_1950_0134
+revised_title: 'Analysis of High-Frequency Surface Impedance in Superconducting Tin'
+semantic_tags:
+  - Superconductivity
+  - Surface impedance
+  - High-frequency phenomena
+  - Two-fluid model
+  - Electrodynamics
+tldr: This article analyzes the high-frequency surface impedance of superconducting tin using a two-fluid model. The authors develop a dimensional analysis to understand the behavior of the supercurrent and normal current independently. They discuss the implications of detailed theories of superconductivity by Heisenberg and Born & Cheng, examining their relevance to high-frequency effects. The study provides experimental tests for these theories and contributes to the understanding of superconductivity and its properties.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rspl_1896_0075
+revised_title: On the Significance of Bravais' Regression Formula
+semantic_tags:
+  - Statistics
+  - Regression analysis
+  - Correlation
+  - Bravais' formula
+  - Least squares
+tldr: The author discusses the significance of Bravais' formula in regression analysis and correlation. They explain how the formula can be used to determine the relationship between two variables, even when the correlation is not normal. The author also highlights the importance of using the method of least squares to find the best fit line of regression and the significance of standard deviations in measuring the strength of correlation.
+scientific_discipline: Mathematics > Statistics

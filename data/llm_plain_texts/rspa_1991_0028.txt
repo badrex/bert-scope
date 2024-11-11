@@ -1,0 +1,10 @@
+article_id: rspa_1991_0028
+revised_title: 'Geometric Probability Theory Applied to Polymer Networks and Suspensions'
+semantic_tags:
+  - Polymer Networks
+  - Suspensions
+  - Stochastic Processes
+  - Integral Geometry
+  - Brownian Paths
+tldr: The author applies geometric probability theory and integral geometry to study polymer networks and suspensions. They calculate averaged monomer densities and available space fractions for various types of polymers, such as single-chain polymers, ring polymers, and polymer aggregates. The author also calculates the averaged volume of the convex hull of a brownian path, providing a measure of typical polymer asymmetry.
+scientific_discipline: Mathematics > Applied Mathematics

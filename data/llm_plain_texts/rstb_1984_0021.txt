@@ -1,0 +1,10 @@
+article_id: 'rstb_1984_0021'
+revised_title: 'Cytochrome Oxidase Patches in Primate Visual Cortex'
+semantic_tags:
+  - Visual Cortex
+  - Cytoarchitecture
+  - Ocular Dominance Columns
+  - Primate Vision
+  - Neurobiology
+tldr: The article describes the discovery of cytochrome oxidase patches in the primary visual cortex of macaque monkeys. These patches are regularly spaced and aligned into rows, and are present in layers II and III. The patches receive a direct projection from the lateral geniculate nucleus, and their density and pattern are unique to primate visual cortex. The functional significance of these patches remains uncertain, but they may be related to the organization of hypercolumns in the visual cortex.
+scientific_discipline: Neuroscience > Visual Perception

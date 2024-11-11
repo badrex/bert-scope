@@ -1,0 +1,10 @@
+article_id: rspa_1981_0116
+revised_title: 'Solving the Second Moment Equation for Waveguides with Arbitrary Refractive Index Profiles'
+semantic_tags:
+  - Waveguides
+  - Refractive Index
+  - Parabolic Moment Equations
+  - Random Irregularities
+  - Wave Propagation
+tldr: The authors present an approximate method to solve the second moment equation for waveguides containing random irregularities with arbitrary refractive index profiles. They illustrate the method for a waveguide with a cubic profile and discuss its physical significance. This study is important for understanding wave propagation in various applications, such as optical fibers, ionospheric ducts, and the ocean.
+scientific_discipline: Physics > Electromagnetism

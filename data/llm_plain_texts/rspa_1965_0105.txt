@@ -1,0 +1,10 @@
+article_id: rspa_1965_0105
+revised_title: X-ray Topographic Studies of Dislocations in Iron-Silicon Alloy Single Crystals
+semantic_tags:
+  - Crystallography
+  - Dislocations
+  - Iron-Silicon Alloy
+  - X-ray Topography
+  - Material Science
+tldr: This study investigates the spatial arrangement of dislocations in iron-silicon alloy single crystals using X-ray topographic methods. The authors identify the directions of dislocation Burgers vectors and confirm that they lie along specific crystallographic planes. They also demonstrate a one-to-one correspondence between dislocation etch pits and dislocation outerops, showing that transmission X-ray topography can provide clear images of dislocation configurations in thick metal specimens.
+scientific_discipline: Materials Science > Crystallography

@@ -1,0 +1,10 @@
+article_id: rspa_1929_0059
+revised_title: 'Investigating Divergent Waves in Gravitational Theory'
+semantic_tags:
+  - Gravitational Waves
+  - Relativity Theory
+  - Wave Equations
+  - Einstein's Theory of General Relativity
+  - Wave Propagation
+tldr: The authors investigate the propagation of gravitational waves, specifically divergent waves, using Einstein's theory of general relativity. They focus on plane waves of small amplitude and provide a generalization of the solution for these waves. The study helps to understand the nature of waves at infinity and their physical reality.
+scientific_discipline: Physics > Relativity

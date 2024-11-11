@@ -1,0 +1,10 @@
+article_id: rspa_1927_0074
+revised_title: 'Electron Emission and Photoelectric Experiments with Liquid Alloys'
+semantic_tags:
+  - Electron emission
+  - Liquid alloys
+  - Chemical reactions
+  - Photoelectric effect
+  - Gas pressure
+tldr: This article investigates the emission of electrons from metallic drops in the presence of a gaseous chemical reagent and explores the effects of varying gas pressures and liquid alloy compositions. The authors discovered that electron emission increases with the number of drops and is independent of gas pressure within a certain range. They also found that the emitted electrons have a higher temperature than previously observed, suggesting a new understanding of electron emission processes.
+scientific_discipline: Physics > Electricity and Magnetism

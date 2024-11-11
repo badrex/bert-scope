@@ -1,0 +1,10 @@
+article_id: rspa_1996_0054
+revised_title: 'Optical Uniform Estimates and Rigorous Asymptotics for Ordinary Differential Equations'
+semantic_tags:
+  - Asymptotic Analysis
+  - Differential Equations
+  - Optimal Asymptoticity
+  - Gevrey Classes
+  - Stokes Phenomenon
+tldr: The authors establish a one-to-one correspondence between true and formal solutions of a class of first and second-order differential equations using uniform optimal asymptotic inequalities. They also explore the connection between optimal asymptoticity and the method of truncation near the least term, and discuss the possibility of extending their results to more general systems of differential equations.
+scientific_discipline: Mathematics > Differential Equations

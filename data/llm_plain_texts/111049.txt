@@ -1,0 +1,10 @@
+article_id: 111049
+revised_title: Automatic Registration of Magnetometers and Meteorological Instruments
+semantic_tags:
+  - Magnetometers
+  - Meteorological Instruments
+  - Photography
+  - Temperature Coefficients
+  - Observatories
+tldr: The author describes a method for automatically registering magnetometers and meteorological instruments using photography. The method involves using a revolving plate with photographic paper and fine wires to mark the scales of the instruments. The paper also discusses improvements to the lighting system and a new method for determining the scale and temperature coefficients of force magnetometers, which provides greater accuracy.
+scientific_discipline: Physics > Magnetism and Electromagnetism

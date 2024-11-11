@@ -1,0 +1,10 @@
+article_id: rspl_1903_0037
+revised_title: The Elasmometer: A New Interferential Apparatus for Measuring Elasticity
+semantic_tags:
+  - Elasticity
+  - Interferometry
+  - Crystallography
+  - Materials Science
+  - Physics Experiments
+tldr: The author presents a new interferential form of elasticity apparatus called the elasmometer, which uses interference methods to measure the amount of flexure in a crystal plate. The elasmometer is a significant improvement over previous elasticity apparatus, offering greater accuracy and convenience. This innovative device can be used to study the physical properties of various materials, including crystals and non-crystalline substances.
+scientific_discipline: Physics > Materials Science

@@ -1,0 +1,10 @@
+article_id: rspa_1995_0069
+revised_title: 'Advanced Ray-Tracing Analysis for Interference Microscopy of Fibres'
+semantic_tags:
+  - Fiber Optics
+  - Interference Microscopy
+  - Refractive Index
+  - Ray-Tracing
+  - Fiber Structure
+tldr: The authors developed a correct ray-tracing analysis for interference microscopy of fibers, allowing them to calculate the radial distribution of refractive index for high-speed direct-spun polyethylene terephthalate (PET) fibers. This analysis corrected a significant issue in the literature, where the refractive index profile obtained for a particular fiber depended on the refractive index of the immersion liquid used to make the measurement. The results suggest that PET fibers spun under different conditions have different structural properties.
+scientific_discipline: Physics > Optics

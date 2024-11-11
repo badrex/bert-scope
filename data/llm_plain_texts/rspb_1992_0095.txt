@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0095'
+revised_title: 'Analyzing Dependencies in Ion Channel Kinetics'
+semantic_tags:
+  - Ion channels
+  - Kinetics
+  - Electrophysiology
+  - Biophysics
+  - Membrane proteins
+tldr: The authors present a method to analyze the dependencies of adjacent open and closed intervals in ion channels, which can help determine the connections among various kinetic states. They demonstrate this method using a simulated single-channel current record and discuss the implications for understanding ion channel gating processes.
+scientific_discipline: Biology and Life Sciences > Cell Biology

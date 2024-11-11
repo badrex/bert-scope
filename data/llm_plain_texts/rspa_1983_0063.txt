@@ -1,0 +1,10 @@
+article_id: rspa_1983_0063
+revised_title: 'New Solutions for Laminar Boundary Layers Induced by Detonation Waves'
+semantic_tags:
+  - Fluid Dynamics
+  - Detonation Waves
+  - Boundary Layer Analysis
+  - Chapman-Jouguet Detonation
+  - Prandtl Number
+tldr: The authors present new solutions for non-stationary boundary layers created by planar, cylindrical, and spherical Chapman-Jouguet detonation waves. They find that the Prandtl number has a significant influence on the boundary-layer flow structure and that their analysis agrees well with experimental heat-transfer measurements. This lends confidence to the new results on boundary layers induced by cylindrical and spherical detonation waves.
+scientific_discipline: Physics > Fluid Dynamics

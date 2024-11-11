@@ -1,0 +1,10 @@
+article_id: rsta_1904_0015
+revised_title: A Generalized Theory of Alternative Inheritance
+semantic_tags:
+  - Genetics
+  - Heredity
+  - Mendelian Genetics
+  - Population Genetics
+  - Statistical Analysis
+tldr: The author presents a generalized theory of alternative inheritance, focusing on the concept of pure gametes and their role in inheritance patterns. This theory aims to provide a consistent mathematical basis for understanding various inheritance formulas and statistical data related to Mendelian genetics. The author also discusses the distribution of offspring in populations and the implications of this theory for understanding heredity and genetic variation.
+scientific_discipline: Biology and Life Sciences > Genetics

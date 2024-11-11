@@ -1,0 +1,10 @@
+article_id: rspa_1991_0036
+revised_title: Bifurcation and Stability Analysis of Rotating Fluid Columns
+semantic_tags:
+  - Fluid Dynamics
+  - Bifurcation Theory
+  - Gyrostatic Equilibria
+  - Rotating Cylindrical Drops
+  - Stability Analysis
+tldr: The authors investigate the equilibria, stability, and bifurcations of rotating fluid columns subjected to planar disturbances. They analyze the shapes and stability of rotating cylindrical drops using the power series method and nonlinear calculations. The study reveals new families of symmetric and asymmetric two-lobed shapes that bifurcate from the main family of perfectly cylindrical shapes, providing insights into the behavior of rotating fluid columns.
+scientific_discipline: Physics > Fluid Dynamics

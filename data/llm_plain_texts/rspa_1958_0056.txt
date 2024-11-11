@@ -1,0 +1,12 @@
+article_id: rspa_1958_0056
+revised_title: Asymptotic Expansions and Converging Factors in Gamma, Psi, and Polygamma Functions, and Fermi-Dirac and Bose-Einstein Integrals
+semantic_tags:
+  - Asymptotic expansions
+  - Converging factors
+  - Gamma function
+  - Psi function
+  - Polygamma functions
+  - Fermi-Dirac integrals
+  - Bose-Einstein integrals
+tldr: This article explores the asymptotic expansions and converging factors of gamma, psi, and polygamma functions, as well as Fermi-Dirac and Bose-Einstein integrals. The author presents methods to calculate these expansions and factors, providing examples and comparisons with existing tables and results. The study aims to improve the accuracy and efficiency of calculations in these areas of mathematics.
+scientific_discipline: Mathematics > Analysis

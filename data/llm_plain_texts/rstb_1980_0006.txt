@@ -1,0 +1,10 @@
+article_id: 'rstb_1980_0006'
+revised_title: 'Evolution of Influenza Virus Strains Through Reassortment and Antigenic Drift'
+semantic_tags:
+  - Influenza virus
+  - Reassortment
+  - Antigenic drift
+  - Molecular hybridization
+  - Pandemic strains
+tldr: The article discusses the evolution of pandemic influenza virus strains through reassortment and antigenic drift. The authors found that the 1957 and 1968 pandemic strains evolved by reassortment of RNA segments from previous pandemic strains, replacing specific genes. The study also highlights the role of molecular hybridization in understanding the genetic relationships between different strains and the impact of antigenic drift on the surface glycoprotein genes, which determine the virus's antigenic properties.
+scientific_discipline: Biology and Life Sciences > Virology

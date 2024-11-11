@@ -1,0 +1,10 @@
+article_id: 'rspa_1969_0221'
+revised_title: 'Non-Electrolyte Permeability Patterns and Membrane Structure'
+semantic_tags:
+  - Membrane Biology
+  - Permeability
+  - Non-Electrolyte Transport
+  - Cell Membrane Structure
+  - Lipid-Water Partition
+tldr: The authors measured the permeability of 206 non-electrolytes in rabbit gall-bladder epithelial cells and analyzed the relationship between their permeation and lipid-water partition coefficients. They found that most non-electrolytes follow a general pattern, but two classes of deviations are related to the specific structure of cell membranes. Highly branched molecules and small, lipid-insoluble molecules show different permeation behaviors, which are attributed to the anisotropy of membrane lipids and the interaction with localized concentrations of membrane polar groups.
+scientific_discipline: Biology and Life Sciences > Membrane Biology

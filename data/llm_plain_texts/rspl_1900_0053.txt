@@ -1,0 +1,11 @@
+article_id: rspl_1900_0053
+revised_title: 'Spectrum Analysis of Atmospheric Gases and Their Components'
+semantic_tags:
+  - Spectroscopy
+  - Atmospheric Science
+  - Gas Analysis
+  - Helium
+  - Neon
+  - Unknown Gases
+tldr: The authors conducted experiments using liquid hydrogen to separate and analyze the more volatile gases in the Earth's atmosphere. They discovered that these gases contain hydrogen, helium, neon, and other unknown elements. The authors also found that these gases are continuously being added to the atmosphere from interplanetary space. The study of these gases' spectra revealed new and previously unobserved lines, which may be due to the unique conditions at the negative pole or the presence of undiscovered materials.
+scientific_discipline: Chemistry > Atmospheric Science

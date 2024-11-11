@@ -1,0 +1,10 @@
+article_id: 'rspb_1967_0068'
+revised_title: 'Effects of Positive Centrifugal Acceleration on Pulmonary Ventilation and Perfusion Distribution'
+semantic_tags:
+  - Respiratory Physiology
+  - Pulmonary Function
+  - Centrifuge
+  - Gravity
+  - Ventilation-Perfusion Ratio
+tldr: The study investigates the effects of positive centrifugal acceleration on the distribution of ventilation and perfusion within the human lung. The authors demonstrate that positive acceleration steepens gravitational pressure gradients, allowing for the extension of their theory. They found that ventilation and blood flow increased linearly with distance down the lung at all levels of acceleration. At higher accelerations, the base of the lung was better ventilated and perfused than the apex. The results are discussed in terms of interstitial and intravascular pressure gradients in the lung.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric and Space Science

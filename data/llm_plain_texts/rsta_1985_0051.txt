@@ -1,0 +1,10 @@
+article_id: rsta_1985_0051
+revised_title: Integrable and Solvable Systems: New Developments in Solitons and Relations Among Them
+semantic_tags:
+  - Solitons
+  - Integrable Systems
+  - Differential Equations
+  - Painleve Property
+  - Self-Dual Gauge-Field Equations
+tldr: This article discusses various classes of differential equations that can be described as 'integrable' or'solvable,' focusing on equations admitting soliton solutions and integrable dynamical systems. The author explores the Painleve property, which states that solutions to these equations should be meromorphic, and the self-duality equations in four dimensions, which are completely solvable. The article also highlights the reduction process, which enables the derivation of many 'nice' equations from the self-duality equations.
+scientific_discipline: Mathematics > Differential Equations

@@ -1,0 +1,10 @@
+article_id: rspa_1989_0106
+revised_title: 'Effects of Linearly Increasing Ambient Temperature on Exothermic Reactions in a Closed System'
+semantic_tags:
+  - Thermal analysis
+  - Exothermic reactions
+  - Differential scanning calorimetry
+  - Heat transfer
+  - Chemical kinetics
+tldr: This study investigates the effects of a linearly increasing ambient temperature on an exothermic reaction in a closed system. The authors present a new model for power-compensated differential scanning calorimetry, which considers the dynamic process of heating a reactive sample continuously. This model provides a clear and compact description of the reaction's behavior for all useful operating conditions, improving the accuracy of determining kinetic parameters.
+scientific_discipline: Chemistry > Chemical kinetics

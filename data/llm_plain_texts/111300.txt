@@ -1,0 +1,10 @@
+article_id: 111300
+revised_title: A Study on Caustics and Secondary Caustics
+semantic_tags:
+  - Geometry
+  - Optics
+  - Caustics
+  - Descartes' Oval
+  - Refraction
+scientific_discipline: Mathematics > Geometry
+tldr: This memoir by Arthur Cayley collects and discusses various results related to caustics, focusing on the reflecting or refracting curve being a right line or a circle. It covers topics such as the caustic by refraction of a circle for parallel rays, the caustic by reflection of a circle for rays from a point, and the secondary caustic or orthogonal trajectory of the reflected or refracted rays. The author also explores the Cartesian Oval and its relation to the caustic and secondary caustic. The memoir demonstrates that the caustic in the general case of a reflecting or refracting circle and rays from a point is a curve of the sixth class only.

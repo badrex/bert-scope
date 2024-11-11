@@ -1,0 +1,10 @@
+article_id: 'rsta_1939_0004'
+revised_title: 'The Refraction and Dispersion of Air for the Visible Spectrum'
+semantic_tags:
+  - Refraction
+  - Dispersion
+  - Air properties
+  - Metrology
+  - Interferometry
+tldr: This article presents a study on the refraction and dispersion of air for the visible spectrum. The authors conducted precise measurements using interferometry and Fabry-Perot etalons to determine the refractive index of air under controlled conditions of temperature, pressure, and composition. The research aimed to improve the accuracy of previous measurements and provide a better understanding of the relationship between refractive index, density, and dispersion of transparent media.
+scientific_discipline: Physics > Optics

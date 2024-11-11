@@ -1,0 +1,10 @@
+article_id: rspa_1972_0053
+revised_title: Pressure Effects on the Viscoelastic Properties of Liquids
+semantic_tags:
+  - Viscoelasticity
+  - Pressure effects
+  - Shear properties
+  - Liquid behavior
+  - High-pressure measurements
+tldr: The authors conducted experiments to study the effect of pressure on the viscoelastic properties of two liquids, (2-ethylhexyl) phthalate and bis(m-phenoxy phenoxy)phenyl) ether. They found that the limiting shear modulus of each liquid varies linearly with pressure, and the viscoelastic relaxation can be represented by an equation put forward by Barlow, Erginsav & Lamb. The study provides insights into the behavior of liquids under high-pressure conditions, which is essential for understanding practical problems of elastohydrodynamic lubrication.
+scientific_discipline: Physics > Materials Science

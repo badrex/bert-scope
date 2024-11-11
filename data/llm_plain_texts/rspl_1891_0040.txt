@@ -1,0 +1,10 @@
+article_id: rspl_1891_0040
+revised_title: The Isolation and Identification of Organic Bases in Muscle Juice
+semantic_tags:
+  - Biochemistry
+  - Muscle Physiology
+  - Analytical Chemistry
+  - Protein Chemistry
+  - Bacterial Action
+tldr: The author conducted experiments to determine the organic bases present in muscle juice and to identify potential sources of error in their extraction. They used the "mercuric chloride method" to isolate and analyze the bases, which allowed them to avoid bacterial action and other sources of error. The author discovered that acid potassium phosphate is present in muscle juice and can be separated from kreatine, challenging previous assumptions about the composition of muscle extracts.
+scientific_discipline: Chemistry > Biochemistry

@@ -1,0 +1,10 @@
+article_id: 112537
+revised_title: Undevelopable Uniquadric Homographics: A Geometrical Investigation
+semantic_tags:
+  - Geometry
+  - Homographic Systems
+  - Undevelopable Quadrics
+  - Mathematical Problem Solving
+  - Mathematical Constructions
+tldr: The author presents a geometrical method to investigate undevelopable quadric homographics and solve the direct, general, and complete solution of a specific problem related to these systems. The paper is divided into chapters, each focusing on different aspects of the problem, and provides various constructions and methods to find the first extremities of inscribable closed n-gons.
+scientific_discipline: Mathematics > Geometry

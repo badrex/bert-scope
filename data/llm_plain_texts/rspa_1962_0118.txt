@@ -1,0 +1,10 @@
+article_id: rspa_1962_0118
+revised_title: 'Numerical Method for Shock Waves in Two-Dimensional Hydrodynamic Flow'
+semantic_tags:
+  - Fluid Dynamics
+  - Shock Waves
+  - Hydrodynamics
+  - Numerical Methods
+  - Two-Dimensional Flow
+tldr: The article presents a numerical method for treating shock waves in two-dimensional unsteady hydrodynamic flow. The shock is considered as a discontinuity in the flow, and its motion is determined by a characteristic method from conditions inside its domain of dependence. The method is illustrated with numerical solutions for the dynamics of the motion caused by detonating a sphere of explosive over a cap.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1979_0048
+revised_title: 'Unsteady High Reynolds Number Flow Through a Circular Aperture: A Theoretical Model'
+semantic_tags:
+  - Fluid Dynamics
+  - Acoustics
+  - Vorticity
+  - High Reynolds Number Flow
+  - Perforated Screens
+tldr: This paper examines the theory of unsteady high Reynolds number flow through a circular aperture in a thin rigid plate. A theoretical model is proposed, which involves the shedding of vorticity from the rim of the aperture. The study determines the dependence of the Rayleigh conductivity of the aperture on the Strouhal number and provides quantitative estimates for the rate of dissipation of large-scale ordered structures due to turbulence generation at the apertures in a perforated liner.
+scientific_discipline: Physics > Fluid Dynamics

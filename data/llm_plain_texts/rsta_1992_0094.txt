@@ -1,0 +1,10 @@
+article_id: rsta_1992_0094
+revised_title: 'Periodic Ab Initio Hartree-Fock Treatment of Ionic and Semi-Ionic Compounds: State of the Art'
+semantic_tags:
+  - Quantum Chemistry
+  - Computational Chemistry
+  - Solid State Physics
+  - Ab Initio Methods
+  - Hartree-Fock Theory
+tldr: The authors present a study on the periodic ab initio Hartree-Fock treatment of ionic and semi-ionic compounds using the CRYSTAL program. They calculate the equilibrium geometry, formation energy, and bulk modulus for various oxides, showing reasonable agreement with experimental data. The study discusses the influence of the environment on oxygen ions and the limitations of the Hartree-Fock method. The authors also explore the effects of basis sets and correlation corrections on the results.
+scientific_discipline: Physics > Solid State Physics

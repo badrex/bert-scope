@@ -1,0 +1,10 @@
+article_id: rspa_1952_0144
+revised_title: 'Measurement of Glacier Velocity Distribution and Ice Properties'
+semantic_tags:
+  - Glacier flow
+  - Ice mechanics
+  - Velocity distribution
+  - Ice deformation
+  - Glacier erosion
+tldr: Researchers conducted a field experiment to measure the vertical velocity distribution in a glacier in the Bernese Oberland. They found that the rate of surface flow was 35 m per year, with half due to flow within the ice and the other half due to sliding over the bed. The velocity decreased regularly from the surface downwards, and the results suggested that ice flow is not Newtonian but follows a different relationship between stress and strain. This study helped to improve our understanding of glacier mechanics and erosion processes.
+scientific_discipline: Environmental and Earth Sciences > Glaciology

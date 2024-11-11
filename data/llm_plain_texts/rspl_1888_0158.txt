@@ -1,0 +1,10 @@
+article_id: rspl_1888_0158
+revised_title: Investigating Transfer Resistance in Electrolytic Cells
+semantic_tags:
+  - Electrochemistry
+  - Electrolysis
+  - Transfer resistance
+  - Current density
+  - Electrode materials
+tldr: This article presents experiments conducted to study the transfer resistance in electrolytic cells. The authors found that the resistance decreases as the current increases, and they suggest that this phenomenon might be due to molecular interactions at the junction of the electrodes and the electrolyte. The effect of temperature and electrode area on transfer resistance is also discussed.
+scientific_discipline: Chemistry > Electrochemistry

@@ -1,0 +1,10 @@
+article_id: 'rstb_1984_0121'
+revised_title: 'Human Interferon Alpha Gene Expression Patterns in Different Cell Types'
+semantic_tags:
+  - Interferon
+  - Gene expression
+  - Human biology
+  - Leukemia
+  - Cell types
+tldr: The authors studied the expression of human interferon alpha (IFN-a) genes in various cell types, including normal and leukaemic human blood leucocytes, lymphoblastoid cells, and fibroblastic cells. They found that the ratio of IFN-a to IFN-P transcripts varied greatly depending on the cell type. The levels of individual IFN-a RNAs were also very different, with IFN-a1, -a2, and -a4 RNAs constituting the major fraction of the IFN-a transcripts. The study revealed striking differences in the proportion of individual IFN-a mRNA species in different cell types, particularly between normal and leukaemic cells.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

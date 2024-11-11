@@ -1,0 +1,10 @@
+article_id: 'rspa_1977_0074'
+revised_title: 'Policy Selection by Structural Mapping: A New Approach to Decision Making'
+semantic_tags:
+  - Decision Making
+  - Multi-Dimensional Scaling
+  - Policy Analysis
+  - Preference Mapping
+  - Satisficing
+scientific_discipline: Social Sciences > Decision Making
+tldr: This paper introduces a new method for selecting the best policies from a range of alternatives based on multi-dimensional scaling techniques. The method uses a list of pairs of policies with equally attractive consequences to create maps that identify two groups of policies: the best and the worst. This approach can help decision-makers choose the most suitable policy by reducing the number of alternatives to consider.

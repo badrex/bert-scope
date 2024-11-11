@@ -1,0 +1,10 @@
+article_id: rspa_1962_0126
+revised_title: 'Raman Band Intensity and Solvent Effects in Methyl Benzoate'
+semantic_tags:
+  - Raman Spectroscopy
+  - Solvent Effects
+  - Vibrational Chromophores
+  - Intermolecular Interactions
+  - Resonance Raman Effect
+tldr: The authors studied the intensities of Raman vibration bands in methyl benzoate and how they are affected by solvents and solute structure. They found that the band intensities vary with the refractive index of the mixture and that the intensity changes are influenced by the resonance Raman effect caused by substituent groups in the aromatic ring. The results suggest that further examination of the corrections made for reflexion losses in Raman measurements is necessary to understand the underlying causes of the observed effects.
+scientific_discipline: Chemistry > Spectroscopy

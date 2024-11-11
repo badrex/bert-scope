@@ -1,0 +1,10 @@
+article_id: 'rsta_1905_0004'
+revised_title: 'Flame Spectra and Photometrical Investigation of Flames'
+semantic_tags:
+  - Spectroscopy
+  - Flame chemistry
+  - Photometry
+  - Spectral lines
+  - Metal spectra
+tldr: The authors conducted a photometrical investigation of flames colored by injecting saline solutions, discovering new spectral lines of metals in the flames' spectra. They extended the study to the ultra-violet portion of the spectrum and detected weak lines using photography. The research involved a modified apparatus for automatic operation during long exposures and the use of diffraction gratings and prism spectroscopes for analysis.
+scientific_discipline: Chemistry > Spectroscopy

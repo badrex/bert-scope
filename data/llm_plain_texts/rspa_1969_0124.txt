@@ -1,0 +1,10 @@
+article_id: rspa_1969_0124
+revised_title: Infrared Spectra of Hydrocarbons Chemisorbed on Silica-Supported Metals: Ethylene on Nickel and Platinum
+semantic_tags:
+  - Infrared spectroscopy
+  - Hydrocarbon chemisorption
+  - Nickel catalysts
+  - Platinum catalysts
+  - Ethylene hydrogenation
+tldr: This study investigates the infrared spectra of ethylene chemisorbed on silica-supported nickel and platinum over a range of temperatures. The authors found that the dominant spectral features are assigned to associatively chemisorbed ethylene, and upon hydrogenation, most of the chemisorbed surface species were converted to gaseous ethane. The results provide insights into the mechanism of ethylene hydrogenation on these catalysts.
+scientific_discipline: Chemistry > Catalysis

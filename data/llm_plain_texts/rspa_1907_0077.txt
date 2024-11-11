@@ -1,0 +1,10 @@
+article_id: 'rspa_1907_0077'
+revised_title: 'Development of a Reliable Silver Voltameter'
+semantic_tags:
+  - Electrochemistry
+  - Voltameter
+  - Electrochemical Equivalent
+  - Silver Nitrate
+  - Electrolysis
+tldr: The authors conducted experiments to develop a reliable silver voltameter for measuring electric quantity. They found that using a Rayleigh form of voltameter with pure silver nitrate electrolyte and baking porous pots before use in a voltameter provided consistent results. The electrochemical equivalent of silver was determined to be 1T1828 milligrammes per coulomb. The authors also investigated the effects of temperature, current intensities, and impurities on the voltameter's accuracy.
+scientific_discipline: Chemistry > Electrochemistry

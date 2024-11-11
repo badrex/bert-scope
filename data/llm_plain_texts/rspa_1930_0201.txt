@@ -1,0 +1,10 @@
+article_id: rspa_1930_0201
+revised_title: 'Sorption of Water Vapour at Low Pressures by Activated Charcoals: Part I'
+semantic_tags:
+  - Adsorption
+  - Activated charcoal
+  - Water vapor
+  - Low pressures
+  - Isothermals
+tldr: This article presents experiments on the sorption of water vapor at low pressures by activated charcoals. The authors found that the nature of charcoal-water vapor isothermals at low pressures differs significantly from the isothermals of most gases and vapors. They also discovered that the rate of change of slope of the isothermals at low pressures varies among different charcoals, and the Henry's law region, if it exists, must be at even lower pressures.
+scientific_discipline: Chemistry > Adsorption and Surface Chemistry

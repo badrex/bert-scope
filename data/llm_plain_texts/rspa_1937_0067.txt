@@ -1,0 +1,10 @@
+article_id: rspa_1937_0067
+revised_title: 'Inhibition of Ether Decomposition by Nitric Oxide'
+semantic_tags:
+  - Chemical kinetics
+  - Nitric oxide
+  - Ether decomposition
+  - Chain reactions
+  - Activation energy
+tldr: The authors studied the effect of nitric oxide on the decomposition of various ethers. They found that nitric oxide inhibits the decomposition by breaking reaction chains, and the limiting rate represents the chain-free, primary process. The mean chain length and activation energy of the ethers were determined, providing insights into the decomposition mechanism.
+scientific_discipline: Chemistry > Chemical kinetics

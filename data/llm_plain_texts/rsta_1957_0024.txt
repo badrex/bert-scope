@@ -1,0 +1,10 @@
+article_id: rsta_1957_0024
+revised_title: Angular Acceleration and Turbulence in Liquid Helium II
+semantic_tags:
+  - Superfluidity
+  - Helium II
+  - Turbulence
+  - Angular acceleration
+  - Vortex lines
+scientific_discipline: Physics > Fluid Dynamics
+tldr: The authors conducted experiments to study the angular acceleration of liquid helium II using a disk-filled can. They discovered that the frictional forces in the superfluid are dependent on the past history of the liquid, suggesting the presence of vortex lines. The results provide further support for the idea of superfluid turbulence and reveal that the superfluid flow tends to be macroscopically irrotational.

@@ -1,0 +1,10 @@
+article_id: rspa_1938_0197
+revised_title: Hamilton-Jacobi Theory and Quantization of a Dynamical Continuum
+semantic_tags:
+  - Hamilton-Jacobi theory
+  - Quantum mechanics
+  - Continuum dynamics
+  - Poisson brackets
+  - Relativistic invariance
+tldr: The authors extend the Hamilton-Jacobi theory to a dynamical continuum, leading to the quantization of the system. They demonstrate that the classical laws of a continuum, expressed in terms of Poisson brackets, have the same form as the quantum laws. This approach allows for a consistent method of quantization for both point dynamics and continuum dynamics.
+scientific_discipline: Physics > Mechanics

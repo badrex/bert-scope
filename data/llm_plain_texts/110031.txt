@@ -1,0 +1,10 @@
+article_id: 110031
+revised_title: Investigating the Parallax of a Lyrae
+semantic_tags:
+  - Astronomy
+  - Parallax
+  - Observational Astronomy
+  - Temperature Effects
+  - Instrumentation
+tldr: The author, John Pond, conducted observations of the star a Lyrae using a mural circle instrument to determine its parallax. He found that the parallax of a Lyrae did not exceed a small fraction of a second. The author also discussed the effects of temperature on the instrument and observations, as well as the limitations of the Dublin instrument in determining parallax.
+scientific_discipline: Astronomy > Observational Astronomy

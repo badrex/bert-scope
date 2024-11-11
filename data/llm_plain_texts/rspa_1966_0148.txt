@@ -1,0 +1,10 @@
+article_id: rspa_1966_0148
+revised_title: A Unified Theory of Charge Transfer at Electrodes
+semantic_tags:
+  - Electrochemistry
+  - Charge transfer
+  - Electrode kinetics
+  - Electron transfer
+  - Proton transfer
+tldr: The authors propose a unified theory of charge transfer at electrodes, considering both ion and electron movements. The theory is worked out in detail for the discharge step of the hydrogen evolution reaction but can be applied to other charge transfer processes at electrodes. The study provides insights into the charge on the activated state and the symmetry factor, which were previously not well understood.
+scientific_discipline: Chemistry > Electrochemistry

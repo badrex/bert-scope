@@ -1,0 +1,10 @@
+article_id: 'rspl_1872_0036'
+revised_title: 'On Curvature and Orthogonal Surfaces: A Mathematical Exploration'
+semantic_tags:
+  - Differential Geometry
+  - Surfaces
+  - Orthogonal Systems
+  - Mathematical Equations
+  - A. Cayley
+tldr: This article by A. Cayley focuses on the establishment of a partial differential equation of the third order for surfaces belonging to a triple orthogonal system. The author explores the curvature and orthogonal surfaces using mathematical methods, resulting in a significant contribution to the field of differential geometry.
+scientific_discipline: Mathematics > Differential Geometry

@@ -1,0 +1,10 @@
+article_id: rspa_1991_0089
+revised_title: Kolmogorov's Two-Equation Model of Turbulence: A Pioneering Contribution
+semantic_tags:
+  - Turbulence modeling
+  - Fluid dynamics
+  - A. N. Kolmogorov
+  - Two-equation model
+  - Turbulent flow predictions
+tldr: This article discusses A. N. Kolmogorov's pioneering two-equation model of turbulence, which he proposed in 1941. The model uses two variables, fluctuation energy and frequency notation, to predict turbulent flow. The author highlights the similarities and differences between Kolmogorov's model and later models, emphasizing its importance in the field of turbulence modeling.
+scientific_discipline: Physics > Fluid dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1923_0039
+revised_title: 'The Persistence Factor and Electron Motion in Gases'
+semantic_tags:
+  - Electron motion
+  - Gas physics
+  - Persistence factor
+  - Townsend effect
+  - Atomic physics
+tldr: This article explores the motion of electrons in gases and introduces the concept of the persistence factor. The author, H. A. Wilson, investigates how the persistence factor affects the velocity of electrons and how it varies with the energy of the electrons in nitrogen and hydrogen. The study suggests that the persistence factor can be as small as one-half and provides a general explanation for the variation of the apparent mean free path of electrons in gases.
+scientific_discipline: Physics > Atomic and Molecular Physics

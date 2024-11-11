@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0039'
+revised_title: 'Morphology and Electrical Properties of Schwann Cells in Squid Giant Axons'
+semantic_tags:
+  - Schwann cells
+  - Electrical properties
+  - Squid axons
+  - Morphology
+  - Ion regulation
+tldr: This study examines the morphology and electrical properties of Schwann cells surrounding the giant axons of two squid species, Loligo forbesi and Loligo vulgaris. The Schwann cells are found to be electrically and dye-coupled, with the degree of coupling related to their membrane potential. These findings have implications for potassium ion homeostasis around the axon.
+scientific_discipline: Biology and Life Sciences > Neuroscience

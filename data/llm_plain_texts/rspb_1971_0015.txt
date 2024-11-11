@@ -1,0 +1,10 @@
+article_id: 'rspb_1971_0015'
+revised_title: 'Exploring the Role of Temperature-Sensitive Polyoma Virus Mutants in Inducing Cellular DNA Synthesis'
+semantic_tags:
+  - Virology
+  - DNA synthesis
+  - Temperature-sensitive mutants
+  - Polyoma virus
+  - Cellular transformation
+tldr: The author studied the ability of temperature-sensitive mutants of polyoma virus to induce cellular DNA synthesis under non-permissive conditions. They found that both 'early' and 'late' mutants can initiate cellular DNA synthesis at high and low temperatures, suggesting that the viral gene controlling this process is not affected by temperature sensitivity. This discovery sheds light on the complex relationship between viral and cellular DNA synthesis.
+scientific_discipline: Biology and Life Sciences > Virology

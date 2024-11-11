@@ -1,0 +1,10 @@
+article_id: rspa_1917_0008
+revised_title: 'Vibrations of an Elastic Plate: Modes and Wave Velocities'
+semantic_tags:
+  - Elasticity
+  - Wave Theory
+  - Plate Theory
+  - Vibrations
+  - Mechanics
+tldr: The author investigates the vibrations and wave behavior in an elastic plate, providing a comprehensive view of the various modes of vibration and their corresponding wave velocities. The study covers both symmetrical and anti-symmetrical vibrations, with a focus on the more important modes and their characteristics. The findings contribute to the understanding of elastic theory and have implications for seismology and engineering applications.
+scientific_discipline: Physics > Mechanics

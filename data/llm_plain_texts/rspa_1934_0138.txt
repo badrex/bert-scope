@@ -1,0 +1,10 @@
+article_id: rspa_1934_0138
+revised_title: 'Investigation of Supersonic Dispersion in Gases'
+semantic_tags:
+  - Supersonic waves
+  - Gas absorption
+  - Acoustics
+  - Hot-wire methods
+  - Quartz oscillators
+tldr: 'This article discusses the rapid degradation of compressional waves of high frequency in gases and the mechanisms behind the absorption phenomenon. The author presents various methods for creating and detecting supersonic waves, including the use of hot-wire anemometers and quartz oscillators. The study focuses on measuring the absorption and velocity of sound in gases, providing valuable insights into the behavior of supersonic waves.'
+scientific_discipline: Physics > Acoustics

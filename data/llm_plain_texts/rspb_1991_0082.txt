@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0082'
+revised_title: 'Invagination of Presynaptic Ribbons in the Fly's Optic Lobe Following Loss of Their Target Neuron: A Study on Synaptic Loss Mechanisms'
+semantic_tags:
+  - Synaptic Biology
+  - Neuronal Development
+  - Optic Lobe
+  - Synaptic Loss Mechanisms
+  - Vertebrate Retina
+tldr: The authors studied the changes in the fly's optic lobe after the degeneration of their target neurons. They discovered that presynaptic ribbons in the optic lobe's monopolar cells, such as L2, undergo invagination and become free-floating organelles when their target neurons degenerate. This process is the first step in synaptic loss and helps to understand the mechanisms behind synaptic site removal in the nervous system.
+scientific_discipline: Biology and Life Sciences > Neuroscience

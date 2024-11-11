@@ -1,0 +1,10 @@
+article_id: rspa_1996_0059
+revised_title: Quantum Mechanics of Particles with Classically Assigned Trajectories
+semantic_tags:
+  - Quantum Mechanics
+  - Hamiltonian Mechanics
+  - Particle Trajectories
+  - Schrödinger Equation
+  - Quantum Field Theory
+tldr: The authors explore the quantum mechanics of particles with classically assigned trajectories, focusing on the Hamiltonians that govern the time evolution in these cases. They find that the overall phase of the state vector of the particle is affected by the prescribed trajectory, and they provide a method to determine this phase using the Schrödinger equation. The study also discusses the application of this method to charged particles coupled to the Maxwell field.
+scientific_discipline: Physics > Quantum Mechanics

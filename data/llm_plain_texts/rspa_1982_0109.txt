@@ -1,0 +1,10 @@
+article_id: rspa_1982_0109
+revised_title: Surface Wave Excitation by Sub-Surface Sources in a Half-Space
+semantic_tags:
+  - Wave mechanics
+  - Surface waves
+  - Geophysical exploration
+  - Acoustics
+  - Electromagnetic waves
+tldr: This article presents a method for determining surface waves produced by a buried source in a half-space. The authors introduce an 'emission function' that characterizes the angular variation of the outgoing field, and they show that the surface-wave amplitude is equal to the value of this function at a complex angle. The method can be applied to various types of sources and geometries, providing a means to analyze surface wave excitation by combining ray theory with integral representation of the wave field.
+scientific_discipline: Physics > Wave mechanics

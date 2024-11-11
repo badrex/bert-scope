@@ -1,0 +1,10 @@
+article_id: rspa_1981_0037
+revised_title: 'Modified Reynolds Equations for Surface Roughness in Hydrodynamic Lubrication'
+semantic_tags:
+  - Fluid mechanics
+  - Surface roughness
+  - Lubrication
+  - Stokes flow
+  - Reynolds equation
+tldr: The authors develop modified versions of the Reynolds equation to account for the effects of parallel and transverse stationary random surface roughness in hydrodynamic lubrication. They use Stokes solutions for flows in channels with surface roughness to derive the modified equations and present solutions for a wide slider bearing. The predictions of the modified Reynolds equations are consistent with the Stokes solutions and provide a more accurate representation of the system compared to the unmodified Reynolds equation.
+scientific_discipline: Engineering and Technology > Fluid Mechanics

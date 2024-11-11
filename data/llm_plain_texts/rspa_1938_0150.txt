@@ -1,0 +1,10 @@
+article_id: rspa_1938_0150
+revised_title: Interferometric Wave-Length Comparison of Red Cadmium Radiation from Different Sources
+semantic_tags:
+  - Interferometry
+  - Spectroscopy
+  - Wave-length Comparison
+  - Red Cadmium Radiation
+  - Light Sources
+tldr: The authors conducted an interferometric wave-length comparison of the red cadmium radiation emitted by different sources, such as the Osira cadmium lamp and the Schuler tube. They found that the Schuler lamp provided much narrower lines than other forms of discharge, making it a more accurate source for wave-length comparisons. The authors suggest that when using the Osira cadmium lamp as a wave-length standard, the current should not be specified numerically, but should be used with the smallest current that gives a constant brightness for the red line.
+scientific_discipline: Physics > Optics

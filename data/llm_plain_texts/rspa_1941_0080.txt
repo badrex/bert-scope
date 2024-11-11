@@ -1,0 +1,10 @@
+article_id: rspa_1941_0080
+revised_title: 'The Effect of Thermal Vibrations on X-ray Scattering in Crystals'
+semantic_tags:
+  - X-ray crystallography
+  - Thermal vibrations
+  - Crystal lattice
+  - Scattering
+  - Debye's theory
+tldr: The authors, M. Born and Kathleen Sarginson, study the effect of thermal vibrations on the scattering of X-rays by crystals. They derive formulae representing Laue spots and background for any crystal as a function of its structure and temperature. The formulae are simplified for cubic Bravais lattices, explaining the position, shape, and intensity of extra spots near Laue spots. The research helps to understand the background scattering and its dependence on temperature in crystals.
+scientific_discipline: Physics > Crystallography

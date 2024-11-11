@@ -1,0 +1,10 @@
+article_id: rsta_1984_0061
+revised_title: Wave Group Properties in Random Sea States
+semantic_tags:
+  - Oceanography
+  - Wave Mechanics
+  - Sea Waves
+  - Wave Statistics
+  - Wave Group Analysis
+tldr: This article explores the statistical properties of wave groups in a random sea state. It presents two approaches to analyze wave groups: the Rice or envelope theory and the Markov chain theory. The study finds that the length of a wave group and the number of waves in a high run depend on the critical bandwidth parameter and the filter applied to the wave record. The findings can help in understanding the behavior of waves and their potential impact on ships, coastal defenses, and offshore structures.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

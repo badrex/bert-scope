@@ -1,0 +1,10 @@
+article_id: 'rspb_1958_0008'
+revised_title: 'Investigating the Absorption of Antibodies in Young Rats'
+semantic_tags:
+  - Immunology
+  - Absorption
+  - Antibodies
+  - Rat Physiology
+  - Serum Proteins
+tldr: The study investigates how the absorption of antibodies from immune sera affects the circulation of young rats. It found that the amount of antibody transmitted to the circulation is directly proportional to the antibody concentration and the volume of serum administered. The presence of certain non-immune sera in the administered dose can interfere with the transmission of antibodies, but does not reduce the maximum amount that can be transmitted. This phenomenon, called interference, can help elucidate the mechanisms of antibody transmission and uptake in the young rat.
+scientific_discipline: Biology and Life Sciences > Immunology

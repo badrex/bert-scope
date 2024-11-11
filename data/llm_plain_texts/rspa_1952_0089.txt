@@ -1,0 +1,10 @@
+article_id: rspa_1952_0089
+revised_title: High-Intensity Uranyl-Oxalate Actinometry in Flash Discharge Photochemistry
+semantic_tags:
+  - Photochemistry
+  - Actinometry
+  - Flash discharge
+  - Uranyl-oxalate system
+  - High-intensity light
+tldr: This study investigates the application of the uranyl-oxalate actinometer at high intensities produced by gaseous flash discharge lamps. It is found that the decomposition of oxalate is directly proportional to intensity over a 1000-fold range, and the quantum yield remains unchanged at these high intensities. This allows the uranyl-oxalate system to be used for comparative and absolute energy measurements in flash discharge photochemistry.
+scientific_discipline: Chemistry > Photochemistry

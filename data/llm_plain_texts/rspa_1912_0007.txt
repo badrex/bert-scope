@@ -1,0 +1,10 @@
+article_id: rspa_1912_0007
+revised_title: High-Speed Fatigue Testing and the Effect of Frequency on Metal Endurance
+semantic_tags:
+  - Fatigue testing
+  - Metal endurance
+  - High-frequency stress
+  - Mechanical properties of materials
+  - Material science
+tldr: This article presents a high-speed fatigue-tester that can apply direct stress at a rate of 100 cycles per second or more. The author investigates the effect of frequency on the endurance of metals under alternating stresses and finds that the number of stress cycles required to cause failure increases at higher frequencies. The author also discusses the design and operation of the fatigue-tester, which uses an electromagnet to apply stress and an extensometer to measure the extension of the test piece.
+scientific_discipline: Engineering and Technology > Materials Science

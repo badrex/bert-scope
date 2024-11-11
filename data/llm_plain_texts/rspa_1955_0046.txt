@@ -1,0 +1,10 @@
+article_id: rspa_1955_0046
+revised_title: 'Scattering Mechanism in the Solar Corona'
+semantic_tags:
+  - Solar Physics
+  - Radio Astronomy
+  - Scattering Theory
+  - Coronal Structure
+  - Interferometry
+tldr: The authors observed the radiation from a radio star passing through the outer regions of the solar corona using radio interferometry. They found that the recorded intensity decreased rapidly as the radial distance from the sun decreased. The results could not be explained by absorption or large-scale refraction effects in the corona, but a scattering mechanism due to irregular variations of electron density in the corona provided a satisfactory explanation. The authors estimated the size and electron density of the coronal irregularities in the range of 5 to 15 solar radii.
+scientific_discipline: Physics > Astronomy

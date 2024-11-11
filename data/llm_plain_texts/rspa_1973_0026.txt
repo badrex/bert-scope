@@ -1,0 +1,10 @@
+article_id: rspa_1973_0026
+revised_title: 'Magnetic Resonance in Oscillating Fields: A Comparison of Case A and Case B'
+semantic_tags:
+  - Magnetic Resonance
+  - Quantum Mechanics
+  - Atomic Physics
+  - Bloch-Siegert Shift
+  - Dressed Atoms
+scientific_discipline: Physics > Atomic and Molecular Physics
+tldr: The authors explore the similarities between two cases of magnetic resonance in oscillating fields, case A and case B, and demonstrate how to transform them to make the problems more solvable. They discuss the conditions under which the zero-order approximation is dominant and present a method to calculate higher-order corrections. The study helps to understand the behavior of atoms in oscillating fields and improve the accuracy of magnetic resonance experiments.

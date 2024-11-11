@@ -1,0 +1,10 @@
+article_id: rspa_1968_0155
+revised_title: 'Magnetic and Electrical Properties of Ferromagnetic Alloys Near Critical Concentration'
+semantic_tags:
+  - Ferromagnetism
+  - Itinerant electron model
+  - Magnetic properties
+  - Critical concentration
+  - Molecular field theory
+tldr: The authors investigate the magnetic and electrical properties of ferromagnetic alloys near their critical concentration. They develop a molecular field theory to explain the behavior of weakly ferromagnetic and strongly paramagnetic alloys. The study focuses on the concentration dependence of magnetization, susceptibility, and specific heat near the critical concentration. The authors also discuss the low-temperature resistivity of nearly ferromagnetic and weakly ferromagnetic alloys, finding that it has a similar dependence on concentration and temperature as the paramagnetic resistivity.
+scientific_discipline: Physics > Condensed Matter Physics

@@ -1,0 +1,10 @@
+article_id: rsta_1921_0011
+revised_title: A Selective Hot-Wire Microphone: Applications and Advancements
+semantic_tags:
+  - Acoustics
+  - Sound detection
+  - Resonators
+  - Sound amplification
+  - Sound analysis
+tldr: The authors describe a selective hot-wire microphone that can detect specific sounds in the presence of others and estimate the relative intensities of sounds with the same pitch. The instrument, which uses a Helmholtz resonator with a platinum wire grid, is sensitive to low-pitched sounds and can be used for various applications, including sound distribution analysis, sound diffraction studies, and harmonic intensity estimation. The authors also discuss the advantages of the hot-wire microphone over traditional diaphragm-based instruments.
+scientific_discipline: Physics > Acoustics

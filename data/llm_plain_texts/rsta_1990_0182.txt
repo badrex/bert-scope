@@ -1,0 +1,10 @@
+article_id: rsta_1990_0182
+revised_title: Advances in Chemical Shift Imaging for In Vivo NMR Spectroscopy and Imaging
+semantic_tags:
+  - Nuclear Magnetic Resonance (NMR)
+  - Chemical Shift Imaging
+  - In Vivo Imaging
+  - Spectroscopy Techniques
+  - Medical Imaging
+tldr: The article discusses recent developments and future prospects of NMR imaging, specifically focusing on chemical shift imaging. It highlights the cross-fertilization of methods and techniques in in vivo NMR imaging and spectroscopy. The authors demonstrate how interdependent these methods are and how techniques from spectroscopy can be used to improve imaging experiments. They also discuss the relevance of imaging concepts to spectroscopic studies and provide examples of improved data quality and tissue contrast mechanisms.
+scientific_discipline: Physics > Optics

@@ -1,0 +1,10 @@
+article_id: 'rspa_1960_0038'
+revised_title: 'Experimental Study of Heat Transfer by Overstable and Ordinary Convection'
+semantic_tags:
+  - Convection
+  - Heat transfer
+  - Fluid dynamics
+  - Astrophysics
+  - Instability
+tldr: 'This study investigates heat transfer in a mercury layer heated from below and subject to rotation. The experiments confirm that when the Rayleigh number is much higher than the value at which overstable oscillations set in, the system becomes unstable for ordinary stationary convection. The results show that ordinary convection is more efficient in transporting heat than overstable oscillations, and have important implications for astrophysics.'
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1953_0202
+revised_title: 'Investigation of Diamond Counters and their Temperature-Dependent Behavior'
+semantic_tags:
+  - Diamond physics
+  - Radiation detection
+  - Semiconductor physics
+  - Temperature effects
+  - Trap saturation
+tldr: The authors studied the electrical counting response of diamond crystals to beta particles and found that some diamonds could be strongly activated, leading to a change in their counting properties. They observed that the counting rate of activated diamonds varied with temperature and made an attempt to estimate the depths of traps responsible for these variations. The activation process is suggested to be partly due to trap saturation.
+scientific_discipline: Physics > Semiconductor Physics

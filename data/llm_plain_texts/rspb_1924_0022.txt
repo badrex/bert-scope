@@ -1,0 +1,10 @@
+article_id: 'rspb_1924_0022'
+revised_title: 'The Action of X-Rays on Tissue Cells and the Probability of Ionization'
+semantic_tags:
+  - X-rays
+  - Tissue cells
+  - Ionization
+  - Mitosis
+  - Probability
+tldr: The author discusses the effects of X-rays on tissue cells and how the number of cells capable of entering mitosis decreases exponentially with exposure time. They propose that the probability of a cell being affected by X-rays is related to the ionization process, which could be due to the X-rays themselves or other factors. The author also suggests that the concept of a "lethal dose" may not be applicable in this context, as there is always a probability of some cells surviving even after a high dose.
+scientific_discipline: Biology and Life Sciences > Cell Biology

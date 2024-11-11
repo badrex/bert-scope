@@ -1,0 +1,10 @@
+article_id: rspa_1947_0065
+revised_title: Adsorption of Polar Substances on Mercury: Water, Alcohols, and Acetone
+semantic_tags:
+  - Surface Chemistry
+  - Adsorption
+  - Polar Substances
+  - Mercury
+  - Thermodynamics
+tldr: The authors studied the adsorption of polar substances like water, alcohols, and acetone on mercury. They found that all substances except water formed reversible adsorption and gaseous films at low pressures. Methyl and ethyl alcohols showed the adsorption of a second layer at higher pressures, while acetone formed a double layer and eventually a triple layer. The authors also discovered that water's large entropy and heat of adsorption indicated the association of adsorbed water molecules.
+scientific_discipline: Chemistry > Surface Chemistry

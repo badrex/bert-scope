@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0152'
+revised_title: 'Microheterogeneity in Heteromultimeric Assemblies of Voltage-Gated K+ Channels'
+semantic_tags:
+  - Ion channels
+  - Neurophysiology
+  - Molecular biology
+  - Electrophysiology
+  - K+ channels
+tldr: The authors discovered that voltage-gated K+ channels from different subfamilies, Shaker (Kv1) and Shaw (Kv3), can form heteromultimeric assemblies when mixed in Xenopus oocytes. These heteromultimeric channels exhibit microheterogeneity, displaying a mosaic of characteristics inherited from both parental channels. This finding expands our understanding of the diverse functions and properties of K+ channels in neurons and other cell types.
+scientific_discipline: Biology and Life Sciences > Neurobiology

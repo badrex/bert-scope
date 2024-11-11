@@ -1,0 +1,10 @@
+article_id: 'rspa_1970_0110'
+revised_title: 'Photoelectron Spectra of Molecules with C≡N Group'
+semantic_tags:
+  - Molecular Orbital Theory
+  - Photoelectron Spectroscopy
+  - Chemical Bonding
+  - Ionization Potentials
+  - Cyanogen Halides
+tldr: The authors measured the photoelectron spectra of molecules containing the C≡N group, focusing on cyanogen halides. They determined ionization potentials and assigned them to specific molecular orbitals. The study showed that the delocalization of halogen electrons in the molecular orbitals decreases along the series from chloride to iodide, and the degree of delocalization affects the splitting of levels due to spin-orbit coupling.
+scientific_discipline: Chemistry > Molecular Orbital Theory

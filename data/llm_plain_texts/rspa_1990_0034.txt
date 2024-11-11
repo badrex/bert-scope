@@ -1,0 +1,10 @@
+article_id: rspa_1990_0034
+revised_title: 'Euler Zones and Scales in Turbulent Boundary Layers and Flows'
+semantic_tags:
+  - Turbulence
+  - Boundary Layer
+  - Fluid Dynamics
+  - Euler Equations
+  - Vorticity
+tldr: This study investigates the thickening of turbulent boundary layers and the formation of'slugs' of vorticity in channel and pipe flows. The authors propose that fast-traveling zones of concentrated vorticity, governed by the nonlinear Euler equations, contribute to the thickening of the boundary layer. These zones also play a role in the formation of slugs of vorticity in channel and pipe flows. The study provides insights into the structure, scales, governing equations, and amplitude dependence of these concentrated-vorticity zones.
+scientific_discipline: Physics > Fluid Dynamics

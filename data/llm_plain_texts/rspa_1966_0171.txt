@@ -1,0 +1,10 @@
+article_id: rspa_1966_0171
+revised_title: Investigating the Righi-Leduc Effect in Copper at Low Temperatures
+semantic_tags:
+  - Thermoelectricity
+  - Copper conductivity
+  - Magnetoresistance
+  - Righi-Leduc effect
+  - Low temperature physics
+tldr: This article investigates the Righi-Leduc effect in copper at low temperatures, comparing it to the electrical Hall effect. The authors demonstrate that the thermal and electrical magnetoresistance tensors can be related to the electronic structure of a metal, and that the Righi-Leduc effect can be a useful alternative to the Hall effect for studying electronic properties in copper.
+scientific_discipline: Physics > Thermodynamics

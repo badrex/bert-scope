@@ -1,0 +1,12 @@
+article_id: 'rstb_1996_0101'
+revised_title: 'A New Supra-Ordinal Classification of Brachiopoda'
+semantic_tags:
+  - Brachiopoda
+  - Phylogenetics
+  - Paleontology
+  - Evolution
+  - Taxonomy
+tldr: 'The authors propose a new classification system for the Brachiopoda, a group of invertebrate bivalves, to better reflect recent advances in understanding their anatomy, shell morphology, ontogeny, and phylogeny. They use phylogenetic analysis to reconcile fossil and living data, resulting in three subphyla: Linguliformea, Craniiformea, and Rhynchonelliformea. This classification system is flexible and can accommodate future discoveries and changes in understanding of the Brachiopoda.'
+scientific_discipline: Biology and Life Sciences > Zoology
+```yaml
+```

@@ -1,0 +1,10 @@
+article_id: rspl_1886_0021
+revised_title: 'On the Theory of Lubrication and its Application to Mr. Beauchamp Tower's Experiments'
+semantic_tags:
+  - Fluid mechanics
+  - Viscosity
+  - Lubrication
+  - Boundary layer theory
+  - Surface tension
+tldr: The author, Professor Osborne Reynolds, investigates the theory of lubrication and its application to Mr. Beauchamp Tower's experiments. He discovers that the friction between surfaces depends on the quantity and distribution of the lubricant, and that the resistance varies with the velocity and pressure. Reynolds also determines the viscosity of olive oil at different temperatures and develops an empirical formula for it.
+scientific_discipline: Physics > Fluid mechanics

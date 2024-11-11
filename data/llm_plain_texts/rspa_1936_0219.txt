@@ -1,0 +1,11 @@
+article_id: 'rspa_1936_0219'
+revised_title: 'Quantum Yields of Photosensitized Decomposition of Water and Ammonia'
+semantic_tags:
+  - Quantum chemistry
+  - Photosensitization
+  - Chemical kinetics
+  - Water decomposition
+  - Ammonia decomposition
+tldr: This article investigates the quantum yields of the photosensitized decomposition of water and ammonia. The authors find that the exchange reactions do not occur significantly through the dissociation and reformation of water molecules. They also determine the quantum yield for ammonia decomposition and test the validity of a previously deduced formula for the temperature coefficient of the rate of dissociation.
+scientific_discipline: Chemistry > Chemical kinetics
+```

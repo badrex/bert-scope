@@ -1,0 +1,10 @@
+article_id: 'rspb_1983_0033'
+revised_title: 'Evoked Transient Intracellular Free Calcium and Secretion in Adrenal Medullary Cells'
+semantic_tags:
+  - Calcium signaling
+  - Cell biology
+  - Adrenal gland
+  - Neurotransmitter secretion
+  - Calcium indicators
+tldr: The authors studied the changes in intracellular free calcium levels and secretion in isolated bovine adrenal medullary cells. They used a new calcium indicator, Quin 2, to measure the average intracellular calcium levels and found that it is independent of extracellular calcium. The cells showed a transient increase in intracellular calcium when challenged with acetylcholine or high potassium medium, which is associated with secretion. The data suggests that calcium might enter the cell in two distinct phases.
+scientific_discipline: Biology and Life Sciences > Cell Biology

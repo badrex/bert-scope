@@ -1,0 +1,10 @@
+article_id: 110078
+revised_title: 'Investigating the Parallax of α Lyrae: A Study of Instrument Accuracy'
+semantic_tags:
+  - Astronomy
+  - Parallax
+  - Star measurement
+  - Instrumentation
+  - Observational astronomy
+tldr: This paper examines the parallax of α Lyrae and the accuracy of instruments at Dublin and Greenwich. The author analyzes the differences in parallax between y Draconis and α Lyrae, as well as the absolute parallax of α Lyrae. The study highlights the imperfections in observations and the uncertainty in the mean, leading to inconclusive results about the actual magnitude of the annual parallax.
+scientific_discipline: Astronomy > Observational astronomy

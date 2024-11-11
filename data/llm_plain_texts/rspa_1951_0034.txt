@@ -1,0 +1,10 @@
+article_id: rspa_1951_0034
+revised_title: Molecular Structure in Terms of Equivalent Orbitals
+semantic_tags:
+  - Molecular Orbital Theory
+  - Chemical Valency
+  - Quantum Mechanics
+  - Molecular Structure
+  - Equivalent Orbitals
+tldr: The authors apply the molecular orbital theory of chemical valency to describe the structure of various molecules, such as methane, ammonia, water, and ethylene, using equivalent orbitals. This method provides a dualistic approach to understanding molecular structure and helps explain properties of chemical interest, such as lone pairs of electrons and double bonds.
+scientific_discipline: Chemistry > Molecular Orbital Theory

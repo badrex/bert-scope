@@ -1,0 +1,10 @@
+article_id: rspa_1941_0082
+revised_title: 'Low-Temperature Properties of Gaseous Helium and Helium-Helium Interaction'
+semantic_tags:
+  - Helium properties
+  - Low-temperature physics
+  - Van der Waals forces
+  - Quantum mechanics
+  - Gas interactions
+tldr: This article investigates the low-temperature properties of gaseous helium and its interaction with other helium atoms. The authors use quantum formulae to calculate the second virial and viscosity coefficients and analyze the results. They discuss the helium potential and its impact on low-temperature phenomena, finding that the attractive part of the potential plays a significant role. The study helps to determine the constants needed for understanding the helium-helium interaction.
+scientific_discipline: Physics > Thermodynamics

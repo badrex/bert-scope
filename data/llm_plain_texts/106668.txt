@@ -1,0 +1,10 @@
+article_id: 106668
+revised_title: 'Experiments on the Production of Artificial Cold'
+semantic_tags:
+  - Cryogenics
+  - Chemical Reactions
+  - Temperature
+  - Thermometers
+  - Freezing Mixtures
+tldr: The author, Richard Walker, conducted experiments to produce artificial cold using various chemical mixtures. He discovered that certain salts, such as nitrous acid and vitriolated natron, could produce cold when mixed with water. Walker also found that the water of crystallization in some salts did not contribute to the cold effect. These experiments could have practical applications in hot climates for cooling purposes.
+scientific_discipline: Chemistry > Cryogenics

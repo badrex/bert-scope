@@ -1,0 +1,10 @@
+article_id: 'rspb_1979_0080'
+revised_title: 'Game Theory and the Evolution of Animal Contest Behavior'
+semantic_tags:
+  - Evolutionary biology
+  - Game theory
+  - Animal behavior
+  - Natural selection
+  - Strategy
+tldr: This article discusses the application of game theory in understanding the evolution of animal contest behavior. It explains the concept of an 'evolutionarily stable strategy' and how it can be used to predict the strategies animals adopt in contests. The author also explores the role of asymmetry in contests and the exchange of information during contests, providing examples from various animal species.
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

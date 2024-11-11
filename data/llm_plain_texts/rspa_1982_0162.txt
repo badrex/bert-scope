@@ -1,0 +1,10 @@
+article_id: rspa_1982_0162
+revised_title: 'Improved Asymptotic Expansions for Short Surface Waves due to a Half-Immersed Circular Cylinder'
+semantic_tags:
+  - Fluid Dynamics
+  - Wave Theory
+  - Asymptotic Analysis
+  - Boundary Value Problems
+  - Hydrodynamics
+tldr: 'This article examines short surface waves in water of infinite depth caused by a half-immersed circular cylinder oscillating in various modes. The authors improve on previous asymptotic expansions by using a different method that relies on the known value of the potential for incident waves in the presence of a fixed cylinder. This allows them to determine three-term expansions for both heaving and swaying modes, refining previous numerical calculations and confirming earlier results. The rolling mode can also be included by superposition of the heaving and swaying modes.'
+scientific_discipline: Physics > Fluid Dynamics

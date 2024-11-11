@@ -1,0 +1,14 @@
+article_id: rspa_1936_0099
+revised_title: Portable Micro-Apparatus for Measuring the Velocity of Rapid Reactions
+semantic_tags:
+  - Photoelectric methods
+  - Reaction kinetics
+  - Blood pigments
+  - Haemoglobins
+  - Haemocyanines
+semantic_tags:
+  - Analytical chemistry
+  - Chemical kinetics
+  - Spectrophotometry
+scientific_discipline: Chemistry > Analytical Chemistry
+tldr: The authors developed a portable, micro kinetic apparatus for measuring the velocity of rapid reactions, suitable for studying various pigments and reactions. The device uses photoelectric photometry and a differential two-filter photocell colorimeter, allowing for precise measurements and analysis of reactions in small quantities. This technique is particularly useful for studying blood pigments, haemoglobins, and haemocyanines in small animals or under anaerobic conditions.

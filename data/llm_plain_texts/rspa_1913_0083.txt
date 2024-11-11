@@ -1,0 +1,10 @@
+article_id: rspa_1913_0083
+revised_title: 'Crystal Structure Analysis Using X-ray Diffraction'
+semantic_tags:
+  - Crystallography
+  - X-ray diffraction
+  - Crystal structure
+  - Bragg's Law
+  - Miller indices
+tldr: 'The authors describe a new method to investigate the structure of crystals using X-ray diffraction. They explain how the diffraction patterns can be analyzed to determine the crystal's structure and provide a detailed explanation of the process, including the use of Miller indices and the concept of zone axes.'
+scientific_discipline: Physics > Optics

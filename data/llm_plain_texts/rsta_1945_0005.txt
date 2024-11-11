@@ -1,0 +1,10 @@
+article_id: rsta_1945_0005
+revised_title: Relaxing Methods Applied to Engineering Problems: Large Transverse Displacements of Thin Elastic Plates
+semantic_tags:
+  - Elasticity
+  - Plate theory
+  - Large deflections
+  - Relaxation methods
+  - Thin plates
+tldr: The authors present a technique based on relaxation methods to solve four examples of large transverse displacements of thin elastic plates. They discuss the modified equations for large deflections and provide a detailed analysis of a circular plate with clamped edges under uniform transverse pressure. The study demonstrates the application of relaxation methods to solve complex engineering problems involving large deflections.
+scientific_discipline: Engineering and Technology > Mechanics of Materials

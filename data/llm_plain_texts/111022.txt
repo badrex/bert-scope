@@ -1,0 +1,10 @@
+article_id: 111022
+revised_title: 'Applications of Interference Bands in Spectral Analysis'
+semantic_tags:
+  - Spectroscopy
+  - Interference
+  - Refractive Index
+  - Dispersion
+  - Crystal Optics
+tldr: The author discusses practical applications of interference bands in determining refractive indices, dispersion, and changes in light velocity. These applications involve counting interference bands in the spectrum and observing their movement under various conditions. The author also explains the appearance of certain bands in the secondary spectrum formed by two prisms and provides experimental verification of their visibility.
+scientific_discipline: Physics > Optics

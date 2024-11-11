@@ -1,0 +1,10 @@
+article_id: 111103
+revised_title: 'The Calling of the Sea: Inland Sea Noise and Wind Predictions'
+semantic_tags:
+  - Oceanography
+  - Meteorology
+  - Acoustics
+  - Wind prediction
+  - Geophysics
+tldr: 'Richard Edmonds observed a mysterious inland sea noise called "the calling of the sea" near Penzance. He found that when the noise came from a direction different from the wind or during a calm, it was usually followed within six hours by a wind from the same direction. This observation could help predict local wind patterns.'
+scientific_discipline: Earth Sciences > Geophysics

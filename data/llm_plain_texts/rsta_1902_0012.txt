@@ -1,0 +1,10 @@
+article_id: 'rsta_1902_0012'
+revised_title: 'The Stability of a Spherical Nebula: Analyzing the Role of Gravitation and Rotation'
+semantic_tags:
+  - Stellar evolution
+  - Nebulae
+  - Gravitational stability
+  - Gas dynamics
+  - Astrophysics
+tldr: This article examines the stability of a spherical nebula, focusing on the balance between gravitation and rotation. The author explores the differences between a compressible gas and an incompressible liquid, and how these differences affect the stability of a rotating mass of gas. The study also considers the role of elasticity and thermal conductivity in the stability of a gaseous nebula.
+scientific_discipline: Physics > Astrophysics

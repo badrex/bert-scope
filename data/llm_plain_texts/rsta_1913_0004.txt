@@ -1,0 +1,10 @@
+article_id: rsta_1913_0004
+revised_title: High-Pressure Physico-Chemical Determinations by Optical Methods
+semantic_tags:
+  - High-Pressure Physics
+  - Optical Methods
+  - Pressure-Bomb
+  - Optical Properties of Crystals and Liquids
+  - Apparatus for High-Pressure Experiments
+tldr: The author presents a method for determining the physico-chemical properties of substances at high pressures using optical methods. The apparatus consists of a compressor, a pressure-bomb, and an optical installation for observation and measurements. This method allows for the investigation of boundary lines in the substance's state diagram and the variation of optical properties within their existence fields.
+scientific_discipline: Physics > Optics

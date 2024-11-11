@@ -1,0 +1,10 @@
+article_id: 'rsnr_1938_0017'
+revised_title: 'The Invention and Development of Life Tables'
+semantic_tags:
+  - Demography
+  - Vital Statistics
+  - John Graunt
+  - Edmond Halley
+  - Caspar Neumann
+tldr: 'The article discusses the invention of the life table, a statistical tool used to analyze mortality rates, by John Grant and Edmond Halley. It explores the development of this instrument, including the contributions of Caspar Neumann and the historical context of data collection. The author highlights Halley's method of calculating survivors and the challenges he faced with incomplete data, as well as the subsequent advancements made by Abraham de Moivre.'
+scientific_discipline: Social Sciences > Demography

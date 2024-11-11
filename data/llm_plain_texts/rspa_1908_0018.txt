@@ -1,0 +1,10 @@
+article_id: 'rspa_1908_0018'
+revised_title: 'Investigations on the Luminous Glow in an Exhausted Receiver and its Interaction with Magnetic Fields'
+semantic_tags:
+  - Electromagnetism
+  - Glow discharge
+  - Electrostatics
+  - X-rays
+  - Vacuum physics
+tldr: The author discovered that an exhausted glass vessel rotating in an electrostatic field creates an electrical glow. The intensity and position of the glow change with the rotation's direction and speed. The glow's behavior is also affected by a magnetic field, with the glow deflected or reversed when the magnetic pole or rotation direction is changed. The author also explored the potential of the glow to affect photographic plates and conducted experiments in various climatic conditions.
+scientific_discipline: Physics > Electromagnetism

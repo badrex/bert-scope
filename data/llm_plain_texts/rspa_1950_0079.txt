@@ -1,0 +1,10 @@
+article_id: rspa_1950_0079
+revised_title: 'Spectroscopic Studies of Low-Pressure Flames: Measurements of Light Yield for C2 Bands'
+semantic_tags:
+  - Spectroscopy
+  - Combustion
+  - Flame chemistry
+  - Gas pressure
+  - Hydrocarbon combustion
+tldr: This study investigates the light yield of the Swan bands of C2 in flames under low-pressure conditions. The authors measure the effect of various conditions, such as pressure, fuel type, mixture strength, and diluents on the light yield. They find that the concentration of C2 exceeds the values found for equilibrium with solid carbon at the flame temperature, suggesting that polymerization and formation of unsaturated compounds play a significant role in the flame's chemistry.
+scientific_discipline: Chemistry > Combustion Chemistry

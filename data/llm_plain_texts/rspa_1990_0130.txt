@@ -1,0 +1,10 @@
+article_id: rspa_1990_0130
+revised_title: 'Partial-Equilibrium Approximation and its Consequences in Chemical Reaction and Transport'
+semantic_tags:
+  - Chemical kinetics
+  - Partial-equilibrium approximation
+  - Reaction invariance
+  - Differential geometry
+  - Convective diffusion
+scientific_discipline: Chemistry > Chemical kinetics
+tldr: This paper explores the consequences of the partial-equilibrium approximation in chemical reaction and transport. It discusses the relation between various mathematical methods for formulating the equations of convective diffusion in the presence of rapid reaction pathways. The paper also establishes the relation of the partial-equilibrium approximation to the well-known quasi steady-state approximation of chemical kinetics.

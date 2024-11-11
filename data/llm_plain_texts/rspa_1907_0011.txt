@@ -1,0 +1,10 @@
+article_id: rspa_1907_0011
+revised_title: 'A Comparison of Magnetic Survey Values and Direct Observations in the British Isles'
+semantic_tags:
+  - Geomagnetism
+  - Magnetic declination
+  - Magnetic survey
+  - Magnetic observatories
+  - Magnetic elements
+tldr: The author compares the values of magnetic elements from the British magnetic survey of 1891 with recent observations. They find that the survey values for magnetic declination and dip are not in agreement with the observed values, indicating that the secular variations have changed since the survey was made. The survey values for horizontal force, however, are in closer agreement with the observations.
+scientific_discipline: Physics > Geomagnetism

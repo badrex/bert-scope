@@ -1,0 +1,10 @@
+article_id: rspl_1890_0088
+revised_title: 'Numerical Registration of Colour: A Preliminary Note'
+semantic_tags:
+  - Colorimetry
+  - Color Vision
+  - Color Perception
+  - Color Measurement
+  - Color Theory
+tldr: This article presents a method for the numerical registration of colors, allowing for the reproduction of any color with exactness. The author describes a device called a focometer, which uses three primary colors to create various color combinations and impressions on the eye. The method can be applied to determine the color of signal glasses, pigments, and other colored materials.
+scientific_discipline: Physics > Optics

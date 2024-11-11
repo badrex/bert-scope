@@ -1,0 +1,10 @@
+article_id: rspa_1939_0029
+revised_title: 'Thermal Expansion and Isotope Effects in Hydrogen Bonded Crystals'
+semantic_tags:
+  - Thermal expansion
+  - Crystal structure
+  - Hydrogen bonds
+  - Isotope effects
+  - Lattice vibrations
+tldr: The authors conducted experiments to study the thermal properties and structure of hydrogen bonds in crystals, focusing on thermal expansion. They found that the expansion of resorcinol is about twice as large as oxalic acid dihydrate, and the thermal expansion is anisotropic in both cases. The isotope effect at low temperatures is about 60% of the total thermal expansion for oxalic acid dihydrate and only 6% for resorcinol. These findings provide insights into the origin of thermal expansion in crystal lattices and the role of anharmonicity of vibrations.
+scientific_discipline: Physics > Crystallography

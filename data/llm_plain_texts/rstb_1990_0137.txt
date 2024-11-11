@@ -1,0 +1,10 @@
+article_id: 'rstb_1990_0137'
+revised_title: 'Rainfall Monitoring and Migrant Pest Control: Advances and Challenges'
+semantic_tags:
+  - Pest Control
+  - Rainfall Monitoring
+  - Soil Moisture Modeling
+  - Remote Sensing
+  - Migrant Pests
+tldr: This article discusses the importance of monitoring rainfall in relation to the control of migrant pests, focusing on the Desert Locust in Africa and Arabia. The authors explore the limitations of traditional rainfall measurements and the potential of remote sensing techniques for more accurate and comprehensive monitoring. They emphasize the need for further research and optimization of rainfall estimation methods for effective pest control.
+scientific_discipline: Environmental and Earth Sciences > Meteorology and Climatology

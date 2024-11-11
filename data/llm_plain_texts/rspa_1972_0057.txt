@@ -1,0 +1,10 @@
+article_id: 'rspa_1972_0057'
+revised_title: 'Kinetics of Electron Transfer Processes in Solutions'
+semantic_tags:
+  - Electron transfer
+  - Flash photolysis
+  - Radical anions
+  - Aromatic hydrocarbons
+  - Kinetics
+tldr: The authors studied the kinetics of electron transfer processes involving free ions and ion pairs using flash photolysis. They investigated the reactions between radical anions of aromatic hydrocarbons and another hydrocarbon with a higher electron affinity. The experiments were conducted in tetrahydrofuran (THF) and tetrahydropyran (THP) solutions, and the results provided insights into the rate constants for electron transfer in these systems.
+scientific_discipline: Chemistry > Physical Chemistry

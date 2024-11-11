@@ -1,0 +1,10 @@
+article_id: 'rspa_1930_0071'
+revised_title: 'Investigation of Structure in Permeable Collodion Gel Films and its Significance in Filtration'
+semantic_tags:
+  - Filtration
+  - Collodion gel films
+  - Nitro-cotton
+  - Ultra-filtration
+  - Phase transition
+tldr: 'The authors discovered two types of structure in permeable collodion gel films: microgel and ultragel. They investigated the conditions that determine these structures and found that gelation is a phase transition influenced by desolvation. The study's findings have implications for understanding ultra-filtration and interpreting filtration results.'
+scientific_discipline: 'Chemistry > Materials Science'

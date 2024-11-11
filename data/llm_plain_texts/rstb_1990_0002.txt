@@ -1,0 +1,10 @@
+article_id: 'rstb_1990_0002'
+revised_title: 'Evolution of DNA Methylation: From Bacterial Immune Function to Gene Regulation in Higher Eukaryotes'
+semantic_tags:
+  - DNA methylation
+  - Gene regulation
+  - Evolution
+  - Mammalian DNA methyltransferase
+  - Genome structure
+tldr: The article discusses the evolution of DNA methylation, a process that originated as a bacterial immune function and transformed into a regulator of gene expression and genome structure in higher eukaryotes. The author explains how the mammalian DNA methyltransferase enzyme evolved through gene fusion and how DNA methylation helps compartmentalize the genome, facilitating gene regulation and managing the expansion of the genome in higher plants and animals.
+scientific_discipline: Biology and Life Sciences > Genetics and Epigenetics

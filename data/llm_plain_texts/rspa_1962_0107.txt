@@ -1,0 +1,10 @@
+article_id: rspa_1962_0107
+revised_title: 'Rydberg Transitions and Molecular Dimensions in Nitrogen Dioxide'
+semantic_tags:
+  - Molecular Spectroscopy
+  - Nitrogen Dioxide
+  - Rydberg Transitions
+  - Absorption Spectrum
+  - Quantum Chemistry
+tldr: The authors analyzed the A band system of nitrogen dioxide and found that the main transition in the 1650-1350A region is a Rydberg transition. They discovered that the upper state has a larger symmetrical stretching frequency and a smaller N-O length than the ground state, indicating a change in molecular dimensions from bent to linear. This study provides insights into the electronic transitions and molecular structure of nitrogen dioxide.
+scientific_discipline: Chemistry > Molecular Spectroscopy

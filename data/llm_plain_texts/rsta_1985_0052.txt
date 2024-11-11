@@ -1,0 +1,10 @@
+article_id: rsta_1985_0052
+revised_title: 'Low-energy Scattering of Non-Abelian Magnetic Monopoles: A Geometric Approach'
+semantic_tags:
+  - Magnetic Monopoles
+  - Non-Abelian Gauge Theory
+  - Geodesic Flow
+  - Solitons
+  - Scattering Theory
+tldr: The authors study the scattering of non-Abelian magnetic monopoles using a geometric approach. They show that the scattering exhibits surprising features, including the conversion of angular momentum into electric charge. The results are derived from the geodesic flow on the configuration space of monopoles, which is a finite-dimensional manifold with a natural Riemannian metric.
+scientific_discipline: Physics > Mathematical Physics

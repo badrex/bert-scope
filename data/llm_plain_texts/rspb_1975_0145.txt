@@ -1,0 +1,10 @@
+article_id: 'rspb_1975_0145'
+revised_title: 'A New Derivative of Tetrodotoxin with Pharmacological Activity'
+semantic_tags:
+  - Neuropharmacology
+  - Sodium channels
+  - Tetrodotoxin
+  - Oxidation
+  - Periodate
+tldr: Researchers have created a new derivative of tetrodotoxin, a powerful sodium channel blocker, by modifying its structure through oxidation. This new derivative retains some of the original compound's pharmacological activity, which could be useful for studying the structure-activity relationship of the toxin and potentially developing new drugs or research tools for studying sodium channels in the nervous system.
+scientific_discipline: Biology and Life Sciences > Neurobiology

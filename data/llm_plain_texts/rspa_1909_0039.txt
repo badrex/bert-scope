@@ -1,0 +1,10 @@
+article_id: rspa_1909_0039
+revised_title: Temperature Effects on Ionization in Gases
+semantic_tags:
+  - Ionization
+  - Temperature effects
+  - Rontgen rays
+  - Gas ionization
+  - Gas properties
+tldr: This article investigates the effect of temperature on ionization in gases, particularly air, methyl iodide, and ethyl bromide, when exposed to Rontgen rays. The authors found that ionization in a gas is independent of temperature when the gas is kept at constant density. This study helps to understand the behavior of gases and vapors under different conditions.
+scientific_discipline: Physics > Electromagnetism

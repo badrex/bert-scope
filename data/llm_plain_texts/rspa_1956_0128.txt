@@ -1,0 +1,10 @@
+article_id: rspa_1956_0128
+revised_title: Radiative Balance in the Atmosphere: Thermal Radiation in the Upper Atmosphere
+semantic_tags:
+  - Atmospheric Radiation
+  - Thermal Radiation
+  - Vibration-Rotation Band
+  - Boltzmann Distribution
+  - Atmospheric Science
+tldr: This article discusses the radiative balance in the atmosphere, focusing on thermal radiation in the upper atmosphere. The authors develop a method for computing heating rates for a vibration-rotation band without using Kirchhoff's law, considering the effects of departures from a Boltzmann distribution. They apply this method to a model of the carbon dioxide band and analyze the heating rate per unit volume at different heights.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

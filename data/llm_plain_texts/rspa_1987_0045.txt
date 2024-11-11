@@ -1,0 +1,10 @@
+article_id: rspa_1987_0045
+revised_title: Defect Clustering Model for Fast-Ion Conduction in Fluorites
+semantic_tags:
+  - Fast-ion conductors
+  - Fluorite-structured halides
+  - Defect clustering
+  - Anion-Frenkel defects
+  - Molecular-dynamics simulations
+tldr: The authors propose a model for the onset of fast-ion conduction in fluorites, focusing on defect clustering. They use lattice simulation techniques to show that a variety of clusters are stable, particularly a cluster consisting of two vacancies, two relaxed lattice ions, and three interstitials. The formation of these clusters results in an increase in the concentration of vacancies, which can account for the rise in conductivity near the transition temperature from normal to superionic conductivity.
+scientific_discipline: Physics > Materials Science

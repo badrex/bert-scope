@@ -1,0 +1,10 @@
+article_id: 104009
+revised_title: 'Electricity-Induced Pendulous Motion of Small Bodies'
+semantic_tags:
+  - Electricity
+  - Pendulum motion
+  - Planetary motion
+  - Experiments
+  - Physics
+tldr: 'Stephen Gray discovered that small pendulous bodies can move around larger ones due to electricity, similar to the way planets move around the Sun. He observed that these small bodies move faster in their apogee than in their perigee, which is the opposite of planetary motion. He plans to further study and improve his experiments before presenting them to the Royal Society.'
+scientific_discipline: Physics > Electricity and Magnetism

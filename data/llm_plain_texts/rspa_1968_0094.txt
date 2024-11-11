@@ -1,0 +1,9 @@
+article_id: rspa_1968_0094
+revised_title: 'Sorption and Surface Flow in Graphitized Carbon Membranes: Time-lag and Blind Pore Character'
+semantic_tags:
+  - Membrane Science
+  - Adsorption
+  - Diffusion
+  - Microporous Materials
+  - Surface Flow
+tldr: The authors investigate the time-lag and blind pore character in graphitized carbon membranes. They develop a general time-lag equation and explore its application to various microporous membranes, including Graphon, Black Pearls, Carbolac, and cracking catalyst membranes. The study reveals that blind-pore character can confer time-dependence upon the diffusion coefficients in the transient state of flow, providing valuable information about micropore systems.

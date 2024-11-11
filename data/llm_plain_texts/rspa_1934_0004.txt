@@ -1,0 +1,10 @@
+article_id: 'rspa_1934_0004'
+revised_title: 'The Role of Latent Energy in Cold Worked Metals'
+semantic_tags:
+  - Materials Science
+  - Mechanical Properties
+  - Metalworking
+  - Thermal Energy
+  - Strain Hardening
+tldr: 'The authors conducted experiments on metals, specifically copper and steel, to understand the latent energy remaining after cold working. They found that the strength of metals depends on the amount of work that remains latent in them. The proportion of latent energy in the metal remains nearly constant during successive stages of deformation, and the maximum possible latent energy a metal can retain is around 14 calories per gram at room temperature.'
+scientific_discipline: Materials Science > Mechanical Properties

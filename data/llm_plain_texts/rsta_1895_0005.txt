@@ -1,0 +1,10 @@
+article_id: rsta_1895_0005
+revised_title: 'Improving the Method of Determining Thermal Conductivity of Metals'
+semantic_tags:
+  - Thermal conductivity
+  - Metals
+  - Heat transfer
+  - Temperature measurement
+  - Experimental methods
+tldr: The authors present an improved method for determining the thermal conductivity of metals, which is simpler, faster, and requires less material than previous methods. They apply this method to copper, silver, gold, and platinum, and discuss potential sources of error and their solutions. This method is essential for understanding and improving heat transfer in various applications.
+scientific_discipline: Physics > Thermodynamics

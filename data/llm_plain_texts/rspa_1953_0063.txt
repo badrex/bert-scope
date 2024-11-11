@@ -1,0 +1,10 @@
+article_id: rspa_1953_0063
+revised_title: 'Thermo-electric Behaviour of Tin and Silver at Liquid-helium Temperatures'
+semantic_tags:
+  - Thermoelectricity
+  - Superconductivity
+  - Low-temperature physics
+  - Materials science
+  - Physics
+tldr: The authors measured the absolute thermoelectric powers of tin and silver at liquid-helium temperatures using a new method employing a superconducting galvanometer. They found that the thermoelectric power of tin vanishes abruptly at the superconducting transition temperature, contradicting previous observations. The study also revealed striking discrepancies between the actual behavior of metals and the predictions of the free-electron theory, such as the thermoelectric power not being linearly proportional to the absolute temperature and being influenced by impurities and strains in the specimen.
+scientific_discipline: Physics > Materials Science

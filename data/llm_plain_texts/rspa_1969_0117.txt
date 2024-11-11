@@ -1,0 +1,10 @@
+article_id: rspa_1969_0117
+revised_title: 'Ignition Characteristics of Binary Mixtures of n-Heptane and 1-Heptene in Oxygen'
+semantic_tags:
+  - Combustion
+  - Hydrocarbon oxidation
+  - Ignition behavior
+  - Alkane and alkene reactions
+  - Cool flames
+tldr: This study investigates the ignition behavior of binary mixtures of n-heptane and 1-heptene in oxygen at low temperatures. The results show that both hydrocarbons are consumed during ignition, and the alkene's involvement in the process leading to ignition depends on the temperature. The reaction between heptyl radicals and oxygen forms heptyl-peroxy radicals, which further react to cause ignition. The nature of the reaction vessel's surface affects the multiplicity of cool flames but not the processes leading to the first cool flame and ignition.
+scientific_discipline: Chemistry > Combustion Chemistry

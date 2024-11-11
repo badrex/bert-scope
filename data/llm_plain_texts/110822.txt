@@ -1,0 +1,10 @@
+article_id: 110822
+revised_title: 'Magnetic Observations in the Antarctic Circle'
+semantic_tags:
+  - Terrestrial Magnetism
+  - Antarctic Exploration
+  - Magnetic Declination
+  - Magnetic Inclination
+  - Magnetic Intensity
+tldr: 'The author, Edward Sabine, presents magnetic observations made on board the ships Erebus and Terror during the Antarctic expedition led by Captain James Clark Ross. Sabine discusses the formulas and constants used to calculate corrections for magnetic elements like declination, inclination, and intensity. He also notes the progression of magnetic lines in the southern hemisphere and the differences in the direction of the greater axis between the northern and southern hemispheres. Sabine concludes that there is no indication of a higher intensity than 2T on the arbitrary scale in the southern hemisphere.'
+scientific_discipline: Earth Sciences > Geomagnetism

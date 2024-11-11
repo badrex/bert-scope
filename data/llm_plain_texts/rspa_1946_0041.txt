@@ -1,0 +1,10 @@
+article_id: rspa_1946_0041
+revised_title: 'Recombination and the Long Duration of the Balmer Spectrum: A Reassessment'
+semantic_tags:
+  - Atomic Physics
+  - Spectroscopy
+  - Recombination
+  - Balmer Spectrum
+  - Astrophysics
+tldr: This article discusses the phenomenon of recombination and its effect on the duration of the Balmer spectrum. The author analyzes experiments conducted by Lord Rayleigh and compares them to previous theories, concluding that recombination is responsible for the long duration of the Balmer spectrum. The findings have implications for understanding the luminosity of hydrogen in various environments, such as galactic nebulae and laboratory discharges.
+scientific_discipline: Physics > Atomic Physics

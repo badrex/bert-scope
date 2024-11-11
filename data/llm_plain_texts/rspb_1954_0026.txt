@@ -1,0 +1,10 @@
+article_id: 'rspb_1954_0026'
+revised_title: 'The Role of Mutation in Yeast Adaptation to Galactose'
+semantic_tags:
+  - Yeast genetics
+  - Mutation
+  - Adaptation
+  - Galactose metabolism
+  - Microbial genetics
+tldr: The author investigates the adaptation of a yeast strain to a galactose-based medium. They find that adaptation involves the selective growth of mutated cells that can efficiently utilize galactose, rather than a gradual development in the entire population. The study provides insights into the mechanisms of yeast adaptation and the role of mutation in this process.
+scientific_discipline: Biology and Life Sciences > Genetics

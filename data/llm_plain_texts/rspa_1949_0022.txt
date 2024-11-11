@@ -1,0 +1,10 @@
+article_id: rspa_1949_0022
+revised_title: 'Quantitative Study of Mechanical Properties of Two-Dimensional Bubble Rafts'
+semantic_tags:
+  - Crystal Structure
+  - Mechanical Properties
+  - Elasticity
+  - Plastic Deformation
+  - Dislocations
+scientific_discipline: Physics > Materials Science
+tldr: This article presents a quantitative study of the mechanical properties of two-dimensional bubble rafts, focusing on their elastic and plastic behavior. The authors calculate the forces between bubbles and use these calculations to determine Young's modulus, Poisson's ratio, and the limiting strain at which the bubble raft ceases to react elastically and undergoes permanent deformation due to slip. The results provide insight into the mechanical properties of materials and the behavior of dislocations in crystalline structures.

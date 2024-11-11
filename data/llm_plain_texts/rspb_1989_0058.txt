@@ -1,0 +1,10 @@
+article_id: 'rspb_1989_0058'
+revised_title: 'A Mathematical Model of Electron Transport in Photosynthesis: Thermodynamic Necessity for Photosystem II Regulation'
+semantic_tags:
+  - Photosynthesis
+  - Electron transport chain
+  - Photosystem II
+  - Thermodynamics
+  - Plant physiology
+tldr: The article presents a mathematical model of electron transport in photosynthesis, focusing on the thermodynamic necessity for photosystem II regulation. The model includes photosystems II and I, plastoquinone, and NADP as electron acceptors, and explains how the balance of excitation rates prevents over-reduction or over-energization of the electron transport chain. The model also suggests a possible mechanism for light and shade tolerance in plants.
+scientific_discipline: Biology and Life Sciences > Photosynthesis

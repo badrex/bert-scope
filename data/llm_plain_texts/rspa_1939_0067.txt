@@ -1,0 +1,10 @@
+article_id: rspa_1939_0067
+revised_title: 'Investigating the Nature and Characteristics of Atmospherics'
+semantic_tags:
+  - Atmospheric electricity
+  - Radio waves
+  - Lightning
+  - Direction finding
+  - Waveforms
+tldr: This article presents the results of experiments conducted to study the nature of atmospherics, or atmospheric electricity disturbances associated with lightning. The authors used advanced recording techniques and direction-finding methods to analyze the waveforms and characteristics of these disturbances. They found that the oscillations in atmospherics can vary in duration, frequency, and amplitude, depending on the distance and location of the lightning source. The authors also discovered that some atmospherics have precursors, smaller oscillatory patterns preceding the main oscillatory component, and that the waveforms recorded at different locations can be quite similar.
+scientific_discipline: Physics > Electromagnetism

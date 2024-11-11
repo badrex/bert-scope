@@ -1,0 +1,10 @@
+article_id: rspl_1894_0145
+revised_title: 'Magnetic Fatigue and Changes in the Magnetic Permeability of Iron'
+semantic_tags:
+  - Magnetic permeability
+  - Iron
+  - Magnetic fatigue
+  - Heat effect
+  - Transformer
+tldr: The author investigates the changes in the magnetic permeability of iron when exposed to long-term magnetic fields and heat. They discovered that the iron's magnetic properties decrease over time due to a process similar to "magnetic fatigue." The author also found that heat can affect the iron's magnetic properties, but it is not the primary cause of the decrease in permeability. This research is important for understanding the performance of transformers in alternating current systems.
+scientific_discipline: Physics > Electromagnetism

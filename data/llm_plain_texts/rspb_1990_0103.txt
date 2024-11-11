@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0103'
+revised_title: 'Widespread Presence of Active Mariner Transposable Elements in Drosophila simulans Populations'
+semantic_tags:
+  - Transposable elements
+  - Drosophila simulans
+  - Genetics
+  - Evolution
+  - Natural populations
+tldr: 'The study investigates the occurrence of active mariner transposable elements in various natural populations of Drosophila simulans. The results show that these elements are widespread and can induce somatic excision, leading to mosaic eye phenotypes in offspring. The frequency of mosaic offspring varies significantly between populations, but no clear geographic trends are observed.'
+scientific_discipline: Biology and Life Sciences > Genetics and Evolution

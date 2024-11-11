@@ -1,0 +1,10 @@
+article_id: rspa_1940_0072
+revised_title: Strains Produced by Precipitation in Alloys: Theoretical Analysis and Energy Calculations
+semantic_tags:
+  - Materials Science
+  - Alloy Precipitation
+  - Strain Energy
+  - Crystal Lattice
+  - Dislocation Theory
+tldr: This article explores the strains produced by precipitation in alloys and calculates the strain energy involved. It focuses on the shape of precipitated particles and how it influences the strain energy. The author also discusses the limitations of applying the theory of elasticity to study internal strains in metals.
+scientific_discipline: Materials Science > Alloy Precipitation

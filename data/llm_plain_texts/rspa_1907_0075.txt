@@ -1,0 +1,10 @@
+article_id: rspa_1907_0075
+revised_title: 'Improving Temperature Measurements in Gas Engine Cylinders'
+semantic_tags:
+  - Thermometry
+  - Gas engine
+  - Temperature measurement
+  - Platinum thermometer
+  - Temperature in the cylinder
+tldr: The authors developed a method to measure the temperature in the cylinder of a gas engine using a fine platinum thermometer. They designed a valve that could withstand the high temperatures and pressures, allowing for accurate temperature readings during the engine's operation. This method improved the understanding of the internal combustion engine and provided valuable data for optimizing engine performance.
+scientific_discipline: Engineering and Technology > Internal Combustion Engines

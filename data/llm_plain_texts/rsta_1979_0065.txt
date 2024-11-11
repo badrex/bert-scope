@@ -1,0 +1,10 @@
+article_id: rsta_1979_0065
+revised_title: Nonlinear Effects on Waves Near Caustics: A Comprehensive Study
+semantic_tags:
+  - Wave Propagation
+  - Nonlinear Waves
+  - Caustics
+  - Dispersive Waves
+  - Water Waves
+tldr: This article explores the effects of nonlinearities on waves near caustics, specifically focusing on dispersive waves. The authors classify caustics into two categories (R and S) and provide examples of each in the context of deep water waves on currents. They also discuss the role of Airy functions in linear theory and how they are replaced by Painleve transcendents in nonlinear cases. The study has implications for understanding wave behavior near caustics and the analysis of higher-order ray singularities.
+scientific_discipline: Physics > Optics

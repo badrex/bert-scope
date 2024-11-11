@@ -1,0 +1,10 @@
+article_id: rsta_1966_0046
+revised_title: 'Cavitation Damage and the Collapse of Bubbles: A Review of Theoretical and Experimental Findings'
+semantic_tags:
+  - Cavitation
+  - Fluid Dynamics
+  - Bubble Collapse
+  - Hydrodynamics
+  - Pressure Waves
+tldr: This article discusses the damage caused by cavitation and the collapse of bubbles in liquids. The authors review the theoretical and experimental findings related to the collapse of cavitation bubbles and the pressures produced against solid boundaries. They also explore the role of liquid jets formed by the involution of collapsing cavities in cavitation damage. The article highlights the importance of understanding the dynamics of collapsing cavities and the impact of compressibility of the liquid on the process.
+scientific_discipline: Physics > Fluid Dynamics

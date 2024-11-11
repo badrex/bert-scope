@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0064'
+revised_title: 'Titanium Staining of Silica Surfaces in Biological Systems'
+semantic_tags:
+  - 'Silica chemistry'
+  - 'Surface hydroxyl staining'
+  - 'Biological silicas'
+  - 'Electron microscopy'
+  - 'X-ray microanalysis'
+tldr: The authors investigate the use of bis(cyclopentadienyl)titanium dichloride (TiCp2Cl2) as a surface hydroxyl staining agent for biological silicas. They use optical density measurements and electron microscopy with X-ray microanalysis to study the structural motifs and hydroxyl concentration in silica samples. The results show that TiCp2Cl2 can be used to indicate the silica hydroxyl concentration and help understand the surface chemistry of different silicas, even in mixed structural motifs.
+scientific_discipline: Chemistry > Materials Science

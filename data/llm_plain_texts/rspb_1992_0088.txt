@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0088'
+revised_title: 'Heterogeneous Glycine Receptor Localization in Retinal Neurons'
+semantic_tags:
+  - Neurotransmitter functions
+  - Glycine receptors
+  - Retinal neurons
+  - Synaptic microcircuitry
+  - Colocalization of neuroactive substances
+tldr: The authors examined the ultrastructural localization of glycine receptors in the turtle retina using a monoclonal antibody. They found that only 56% of synapses made by glycine-utilizing amacrine cells showed glycine receptor immunoreactivity. This indicates that only a portion of the postsynaptic sites contacted by these neurons can respond to glycine, suggesting that a neuron containing multiple neuroactive substances can selectively affect postsynaptic elements by means of heterogeneous receptor localization.
+scientific_discipline: Biology and Life Sciences > Neuroscience

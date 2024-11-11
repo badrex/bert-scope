@@ -1,0 +1,10 @@
+article_id: rspa_1961_0016
+revised_title: 'Inhibition Mechanism of Ethane Decomposition by Nitric Oxide'
+semantic_tags:
+  - Chemical kinetics
+  - Thermal decomposition
+  - Nitric oxide
+  - Inhibition
+  - Ethane
+tldr: This study investigates the thermal decomposition of ethane and how it is inhibited by nitric oxide. The authors found that nitric oxide reacts with ethane to form ethyl nitrite, which then decomposes into ethylene and nitric oxide. This process slows down the overall decomposition of ethane.
+scientific_discipline: Chemistry > Chemical kinetics

@@ -1,0 +1,10 @@
+article_id: rspa_1969_0207
+revised_title: Analytic Spinor Fields and Their Applications in Physics
+semantic_tags:
+  - Spinor Fields
+  - Analytic Functions
+  - Differential Equations
+  - Quantum Mechanics
+  - Particle Physics
+tldr: The authors develop a three-dimensional distribution of basic spinors that satisfy the invariant linear differential equation, denoted by curl. This theory parallels the traditional theory of functions of a complex variable. They define spinor harmonics and associated spinor harmonics, and obtain analogues of Taylor series and Laurent series. The authors also discuss analytic continuation and introduce the concept of an 'analytic spinor function,' which may be multi-valued and require a three-dimensional analogue of a Riemann surface.
+scientific_discipline: Physics > Quantum Mechanics

@@ -1,0 +1,10 @@
+article_id: rspl_1887_0096
+revised_title: Temperature and Resistance in Incandescent Lamp-Blackened Platinum Wires
+semantic_tags:
+  - Thermodynamics
+  - Electrical resistance
+  - Temperature measurement
+  - Incandescent lighting
+  - Physics
+tldr: The author conducted experiments with platinum wires to study the relationship between temperature and resistance in incandescent lamp-blackened wires. They found that the temperature difference between dull and bright wires giving out the same light was significant, with the bright wire having a much higher resistance. This discovery helps to understand the behavior of incandescent lights and their components.
+scientific_discipline: Physics > Thermodynamics

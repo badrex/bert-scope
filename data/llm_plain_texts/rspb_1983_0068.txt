@@ -1,0 +1,10 @@
+article_id: 'rspb_1983_0068'
+revised_title: 'The Role of Horizontal Cells in Optomotor Yaw Responses in Blowflies'
+semantic_tags:
+  - Neurobiology
+  - Optomotor response
+  - Blowfly
+  - Horizontal cells
+  - Visual neuroscience
+tldr: Researchers conducted experiments on blowflies to understand the role of horizontal cells in optomotor yaw responses. They found that lesioning the horizontal cells in the right optic lobe significantly changed the fly's response to binocular front-to-back motion, while leaving the response to back-to-front motion and counterclockwise motion unaffected. This study provides strong evidence that horizontal cells control yaw torque generation and turning of the fly to the ipsilateral side.
+scientific_discipline: Biology and Life Sciences > Neurobiology

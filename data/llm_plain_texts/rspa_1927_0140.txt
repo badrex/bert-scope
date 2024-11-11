@@ -1,0 +1,10 @@
+article_id: rspa_1927_0140
+revised_title: Vibrations and Stability of Infinite Systems of Vortex Rings
+semantic_tags:
+  - Fluid dynamics
+  - Vortex rings
+  - Hydrodynamics
+  - Zonal Toroidal Harmonic functions
+  - Stability analysis
+tldr: The authors investigate the vibrations and stability of an infinite system of vortex rings, focusing on the central filament and the displacement of the vortex rings. They analyze the equations of motion and the effect of the remaining rings on the system, finding that certain types of displacements can be maintained as permanent vibrations. The study uses Zonal Toroidal Harmonic functions and provides numerical calculations for specific cases.
+scientific_discipline: Physics > Fluid dynamics

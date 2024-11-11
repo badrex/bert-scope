@@ -1,0 +1,10 @@
+article_id: rsta_1936_0003
+revised_title: 'Photoelectric Measurement of Diurnal and Seasonal Daylight Variations and Globe Integrating Photometer'
+semantic_tags:
+  - Photometry
+  - Daylight measurement
+  - Photoelectric cells
+  - Solar energy
+  - Spectral response
+tldr: The authors describe the photoelectric measurement of diurnal and seasonal variations in daylight using a globe integrating photometer. They discuss the challenges of measuring daylight, which differs from common artificial illuminants, and the importance of using cells with a spectral response close to the average human eye. The authors also define different types of illumination and their applications, such as vertical, maximum, and total illumination.
+scientific_discipline: Physics > Optics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1925_0060'
+revised_title: 'Electrical Responses and Comparisons of Postural Muscle Contractions and Motor Twitches'
+semantic_tags:
+  - Muscle Physiology
+  - Reflexes
+  - Neurophysiology
+  - Muscle Contraction
+  - Motor Nerve Twitches
+tldr: The authors conducted experiments on cats to study the electrical and mechanical responses of extensor muscles during postural contractions and compared them to motor twitches. They found that while both responses share similarities, the knee-jerk contraction has a less precise period of rigidity, a more concave initial ascent, a longer plateau duration, and a less sharp angle in the electrical response. These differences suggest that the motor impulses in knee-jerks are not always synchronous, and the variability in duration is likely due to factors such as tap angle, tap sharpness, and central nervous system variability.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

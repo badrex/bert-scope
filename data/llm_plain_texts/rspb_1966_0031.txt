@@ -1,0 +1,10 @@
+article_id: 'rspb_1966_0031'
+revised_title: 'Mendelian and Non-Mendelian Heredity: A Reevaluation'
+semantic_tags:
+  - Genetics
+  - Mendelian inheritance
+  - Non-Mendelian inheritance
+  - Chlamydomonas
+  - Non-chromosomal genes
+tldr: The author examines the phenomenon of non-Mendelian heredity and applies Mendelian methodology to analyze it. They study non-chromosomal (NC) genes in the alga Chlamydomonas, discovering that these genes behave as particulate units of heredity, following Mendel's laws. The author also discusses the segregation of NC genes and their potential role in cellular heredity, as well as the connection between non-chromosomal genes and organelle DNA.
+scientific_discipline: Biology and Life Sciences > Genetics

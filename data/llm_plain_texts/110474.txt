@@ -1,0 +1,10 @@
+article_id: 110474
+revised_title: Empirical Laws of Tides in Liverpool
+semantic_tags:
+  - Tides
+  - Oceanography
+  - Geophysics
+  - Astronomy
+  - Lunar influence
+tldr: The author, William Whewell, uses the results of 16 years of tide observations made at Liverpool to test and improve the formula for tides. He finds that the Liverpool observations confirm and improve the formula. The phenomena of tides are explained as the effects of changes in the moon's force on a retroposited equilibrium tide. The retroposition of the tide in longitude and time is affected by small changes proportional to the variations in the moon's force. The general laws of tides at other places are expected to resemble those at Liverpool.
+scientific_discipline: Earth Sciences > Oceanography

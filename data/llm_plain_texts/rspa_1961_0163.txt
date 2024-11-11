@@ -1,0 +1,10 @@
+article_id: 'rspa_1961_0163'
+revised_title: 'Understanding Polymer Crystallization and Segment Length'
+semantic_tags:
+  - Polymer Crystallization
+  - Crystal Growth Kinetics
+  - Nucleation Theory
+  - Polymer Physics
+  - Polymer Chain Folding
+tldr: The authors analyze the systematic pleating of polymer molecules in their crystallization and propose a new theory based on crystal growth kinetics. They show that there must be considerable fluctuation in segment length from segment to segment, leading to a characteristic segment length that defines a stable mean strip width. This theory explains the factors that determine the segment length in polymer crystallization and provides a good qualitative and roughly quantitative account of the crystallization process.
+scientific_discipline: Physics > Materials Science

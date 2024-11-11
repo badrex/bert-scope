@@ -1,0 +1,10 @@
+article_id: 101960
+revised_title: 'Francis Roberts' Paradox in Lottery Chances
+semantic_tags:
+  - Probability Theory
+  - Game Theory
+  - Mathematics
+  - Lotteries
+  - Arithmetic
+tldr: Francis Roberts presents an arithmetic paradox about the chances of two lotteries. Despite one lottery offering better odds (3:1) than the other (2:1), the gamester faces the same disadvantage in both. The author explains this through a mathematical analysis of the odds and values of the lots, demonstrating the importance of careful reasoning in arithmetic.
+scientific_discipline: Mathematics > Probability Theory

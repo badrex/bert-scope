@@ -1,0 +1,10 @@
+article_id: 102646
+revised_title: 'An Experiment on the Refraction of Air and its Implications on Atmospheric Density'
+semantic_tags:
+  - Atmospheric Optics
+  - Refraction
+  - Atmospheric Density
+  - Barometry
+  - Astronomy
+tldr: This article describes an experiment conducted by J. Lowthorp to study the refraction of air. By using a carefully designed apparatus, the author was able to measure the angle of refraction and the refractive power of air. The results suggest that the refractive power of air is proportional to its density, which has important implications for astronomy, such as determining the duration and distance of lunar eclipses.
+scientific_discipline: Physics > Atmospheric Optics

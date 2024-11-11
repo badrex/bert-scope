@@ -1,0 +1,10 @@
+article_id: rsta_1961_0016
+revised_title: A Theoretical Discussion of Friction and Oil Film Temperatures in Rollers
+semantic_tags:
+  - Lubrication
+  - Hydrodynamic lubrication
+  - Friction
+  - Temperature in oil film
+  - Rolling friction
+tldr: This article discusses the theoretical aspects of friction and the temperatures in the oil film in the context of rollers. The author considers the dissipation of heat by conduction through the oil and convection with the oil. The temperatures in the film are assessed from the balance between the rates of generation and dissipation of heat. The study shows that conduction is the main mechanism of heat dissipation, and the temperatures due to sliding rise with pressure. The article provides expressions for effective viscosity within the pressure zone and for the frictional traction, which are essential for understanding the behavior of oils under specific conditions.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

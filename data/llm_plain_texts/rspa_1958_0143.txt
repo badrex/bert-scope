@@ -1,0 +1,10 @@
+article_id: 'rspa_1958_0143'
+revised_title: 'Hyperfine Structures of Indium 115 Resonance Lines'
+semantic_tags:
+  - Atomic Physics
+  - Hyperfine Structure
+  - Spectroscopy
+  - Indium Isotopes
+  - Magnetic Moments
+tldr: The author converted spectroscopic measurements of the hyperfine structures of indium 115's resonance lines to vacuum wave numbers for accurate comparison with microwave measurements. The study found that the difference between spectroscopic and microwave values was reduced after the correction, improving the understanding of magnetic moment splitting factors.
+scientific_discipline: Physics > Atomic Physics

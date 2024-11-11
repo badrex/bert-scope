@@ -1,0 +1,10 @@
+article_id: rspa_1977_0156
+revised_title: Calcium's Vacuum Ultraviolet Absorption Spectrum: Excitation of the 3p-Subshell
+semantic_tags:
+  - Atomic Physics
+  - Spectroscopy
+  - Calcium Absorption Spectrum
+  - Electron Excitation
+  - Hartree-Fock Calculations
+tldr: The authors studied the calcium absorption spectrum in the vacuum ultraviolet region, focusing on the excitation of the 3p-subshell. They discovered at least 125 new calcium lines and found evidence of multi-electron excitation processes. The study used Hartree-Fock calculations to interpret the spectrum and understand the role of electron correlation in the valence and subvalence shells.
+scientific_discipline: Physics > Atomic Physics

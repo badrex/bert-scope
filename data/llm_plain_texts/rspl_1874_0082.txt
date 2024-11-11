@@ -1,0 +1,10 @@
+article_id: 'rspl_1874_0082'
+revised_title: 'On the Theory of Non-Linear Partial Differential Equations of the First Order'
+semantic_tags:
+  - Differential Equations
+  - Non-Linear Systems
+  - Mathematical Analysis
+  - Applied Mathematics
+  - Mathematical Physics
+tldr: The author presents a method for solving non-linear partial differential equations of the first order, which has not been considered before. The paper discusses two cases: when the dependent variable z is not explicitly involved in the system and when z is explicitly involved, with the solution of the latter case depending on the first one.
+scientific_discipline: Mathematics > Applied Mathematics

@@ -1,0 +1,10 @@
+article_id: rspa_1935_0227
+revised_title: The Oxygen Afterglow: A Study of the Factors Affecting the Yellow Glow in Oxygen
+semantic_tags:
+  - Gas discharge spectroscopy
+  - Oxygen afterglow
+  - Afterglow phenomena
+  - Nitrogen content
+  - Water vapor effect
+tldr: This article investigates the factors affecting the yellow glow in oxygen, specifically the role of water vapor and nitrogen content. The author finds that a powerful afterglow is obtained when there is a minimum of water vapor in the gas phase and a maximum amount of water vapor adsorbed on the glass surfaces. The study also shows that the presence of nitrogen in oxygen is essential for the afterglow to occur.
+scientific_discipline: Physics > Optics

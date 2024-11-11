@@ -1,0 +1,10 @@
+article_id: 'rstb_1971_0084'
+revised_title: 'Sodium-Amino Acid Interactions in Intestinal Epithelium'
+semantic_tags:
+  - Active transport
+  - Sodium-amino acid interactions
+  - Intestinal epithelium
+  - Transport mechanisms
+  - Goldfish intestine
+tldr: The authors studied the active transport of salts and water in living tissues, specifically focusing on sodium-amino acid interactions in the intestinal epithelium. They discovered that in the goldfish intestine, the influx of sodium and alanine is coupled, but the ratio depends on the external sodium concentration. The results suggest that a sodium gradient may not be the only driving force for active transport of amino acids in this tissue.
+scientific_discipline: Biology and Life Sciences > Cell Biology and Physiology

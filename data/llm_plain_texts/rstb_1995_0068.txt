@@ -1,0 +1,10 @@
+article_id: rstb_1995_0068
+revised_title: Evaluating the Use of Multidimensional Scaling for Understanding Brain Connectivity
+semantic_tags:
+  - Brain connectivity
+  - Multidimensional scaling
+  - Neurophysiology
+  - Data analysis
+  - Visualization
+tldr: The authors evaluate the use of multidimensional scaling (MDS) for understanding brain connectivity, specifically in the primate visual cortex. They find that MDS, particularly non-metric MDS (nMDS), can produce annular configurations that may introduce artefactual structure into the results. This is relevant to the conclusions drawn from applying nMDS to connectivity data, as it may affect the interpretation of the two streams view of visual processing.
+scientific_discipline: Neuroscience > Brain connectivity

@@ -1,0 +1,10 @@
+article_id: 'rspb_1910_0048'
+revised_title: 'Determination of Blood Volume in Mammals and Its Relationship to Body Weight and Surface Area'
+semantic_tags:
+  - Blood volume
+  - Mammals
+  - Body weight
+  - Surface area
+  - Hemoglobin
+tldr: The authors conducted experiments on rabbits, guinea-pigs, and mice to determine the blood volume in mammals. They found that the blood volume can be accurately calculated using the formula B = W, where B is the blood volume in cubic centimeters, W is the animal's weight in grams, and k is a constant specific to each species. This formula shows that smaller animals have a relatively greater blood volume compared to their body weight, and it is misleading to express blood volume as a percentage of body weight.
+scientific_discipline: Biology and Life Sciences > Physiology

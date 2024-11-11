@@ -1,0 +1,10 @@
+article_id: 110277
+revised_title: Investigating the Relationship between Nerve and Muscle Contraction
+semantic_tags:
+  - Physiology
+  - Nervous System
+  - Muscle Contraction
+  - Neuropharmacology
+  - Stimulus
+tldr: The author conducted experiments to determine if muscular contraction is directly caused by a stimulus on the muscular fiber or if it depends on a change in the nerve distributed to the muscle. They found that applying empyreumatic oil of tobacco or hydrocyanic acid to the sciatic nerves of a rabbit destroyed the nerve's function, and no contractions were produced in the muscles. However, when the affected portion was cut off and the galvanic wire was applied to the remaining nerves, contractions were produced. The author also found that a solution of opium injected into the cavities of the heart or intestine immediately stopped the muscular actions of these organs.
+scientific_discipline: Biology and Life Sciences > Physiology

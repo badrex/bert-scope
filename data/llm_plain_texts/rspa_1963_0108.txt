@@ -1,0 +1,10 @@
+article_id: rspa_1963_0108
+revised_title: 'Interfacial Free Energy of Copper-Antimony Alloys: Surface Composition and Creep Behavior'
+semantic_tags:
+  - Materials Science
+  - Surface Chemistry
+  - Alloy Properties
+  - Creep Experiments
+  - Antimony in Copper
+tldr: The authors conducted experiments to study the interfacial free energy of copper-antimony alloys and their surface composition. They found that antimony lowers the surface energy and causes embrittlement of copper at low temperatures. The creep behavior of the alloys was also investigated, revealing that the creep rate increases with increased antimony content.
+scientific_discipline: Materials Science > Surface Chemistry

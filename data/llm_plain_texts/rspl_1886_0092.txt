@@ -1,0 +1,10 @@
+article_id: rspl_1886_0092
+revised_title: Investigating the Specific Heats of Minerals
+semantic_tags:
+  - Mineralogy
+  - Calorimetry
+  - Thermal properties
+  - Specific heat
+  - Crystallography
+tldr: The author conducted experiments on various minerals using a method of condensation in a gravimetric calorimeter. They found that the specific heat constant can be useful in identifying minerals and understanding their chemical compositions. The thermal properties of minerals, such as specific heat, can reveal information about the atomic structure and molecular freedom within the crystal. This research highlights the importance of calorimetry in the field of mineralogy.
+scientific_discipline: Physics > Thermodynamics

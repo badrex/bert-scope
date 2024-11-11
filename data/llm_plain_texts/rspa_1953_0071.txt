@@ -1,0 +1,10 @@
+article_id: rspa_1953_0071
+revised_title: 'Advanced Diffraction Theory for Optical Images'
+semantic_tags:
+  - Diffraction Theory
+  - Optical Imaging
+  - Fourier Transforms
+  - Image Formation
+  - Aberrations
+tldr: The author develops a diffraction theory for optical images, using the coherence function in the object plane, the diffraction distribution function of the system, and a function describing the structure of the object. The theory is applied to study the influence of illumination on images of periodic structures and isolated lines, and it can be used to calculate light distributions in images of objects with various aberrations and illumination conditions.
+scientific_discipline: Physics > Optics

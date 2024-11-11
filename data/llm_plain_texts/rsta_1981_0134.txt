@@ -1,0 +1,10 @@
+article_id: 'rsta_1981_0134'
+revised_title: 'Evidence of High Energy Gamma-Ray Emission from the Orion Nebula'
+semantic_tags:
+  - Gamma-Ray Astronomy
+  - Orion Nebula
+  - COS-B Observations
+  - Space Astronomy Satellite
+  - Celestial Gamma-Rays
+tldr: 'The article discusses the evidence for high energy gamma-ray emission from the Orion Nebula, based on COS-B satellite observations. The data analysis reveals a structured excess, marking the first clearly extended source of celestial gamma-rays coinciding with a known astronomical object.'
+scientific_discipline: Astronomy > Gamma-Ray Astronomy

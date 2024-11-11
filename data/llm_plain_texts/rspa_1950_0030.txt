@@ -1,0 +1,10 @@
+article_id: rspa_1950_0030
+revised_title: 'Diffusion Effects in Two-Phase Alloys: The Impact of Thermal Cycles'
+semantic_tags:
+  - Alloy behavior
+  - Diffusion
+  - Phase transitions
+  - Material science
+  - Thermodynamics
+tldr: This study examines the effect of thermal cycles on the structure of alloys, focusing on diffusion effects in two-phase systems. The research considers the impact of continuous and discontinuous thermal cycles on the microstructure of alloys, and how these cycles can lead to changes in concentration and phase behavior. The findings provide insight into the behavior of alloys under various temperature conditions and inform the development of materials with improved properties.
+scientific_discipline: Materials Science > Alloy Behavior

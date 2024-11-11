@@ -1,0 +1,10 @@
+article_id: rspa_1953_0027
+revised_title: Equilibrium Constants and Bond Dissociation Energies of C2H4+HCl=C2H5Cl and C2H4+HBr=C2H5Br Reactions
+semantic_tags:
+  - Chemical Equilibrium
+  - Bond Dissociation Energy
+  - Ethyl Chloride
+  - Ethyl Bromide
+  - Reaction Kinetics
+tldr: The authors studied the equilibrium constants and bond dissociation energies of the reactions C2H4+HCl=C2H5Cl and C2H4+HBr=C2H5Br. They used a flow method to measure the equilibrium constants and calculated the entropy changes to obtain the heat content changes. The results provide valuable information for understanding the heat of formation of ethyl halides and the bond dissociation energies of the Et-X bonds.
+scientific_discipline: Chemistry > Physical Chemistry

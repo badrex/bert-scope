@@ -1,0 +1,10 @@
+article_id: rspa_1966_0168
+revised_title: The Kinetics of Nitric Oxide Inhibited Ethane Pyrolysis
+semantic_tags:
+  - Chemical kinetics
+  - Pyrolysis
+  - Nitric oxide
+  - Ethane
+  - Mass spectrometry
+tldr: The authors studied the effect of nitric oxide on the pyrolysis of ethane using mass spectrometry. They found that nitric oxide inhibits the reaction, and the rate of hydrogen formation follows a typical inhibition curve. The initial rate of methane formation increases linearly with nitric oxide pressure, while the reaction orders for hydrogen and methane formation are determined. The activation energies of the inhibited reaction are also calculated.
+scientific_discipline: Chemistry > Chemical kinetics

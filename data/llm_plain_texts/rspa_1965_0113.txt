@@ -1,0 +1,10 @@
+article_id: rspa_1965_0113
+revised_title: 'Symmetric Compressible Fluid Flows Around Flat Plates'
+semantic_tags:
+  - Fluid Dynamics
+  - Compressible Fluids
+  - Navier-Stokes Equations
+  - Fluid Mechanics
+  - Aerodynamics
+tldr: The authors investigate the Navier-Stokes equations for compressible fluid flows around a semi-infinite flat plate under symmetric attack. They show that regular, locally subsonic motions exist without placing any restrictions on fluid characteristics, such as the equation of state or viscosity. These regular motions display the same flow patterns around the leading or trailing edge of a plate as incompressible fluid motions.
+scientific_discipline: Physics > Fluid Dynamics

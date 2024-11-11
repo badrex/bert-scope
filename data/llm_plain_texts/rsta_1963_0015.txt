@@ -1,0 +1,10 @@
+article_id: rsta_1963_0015
+revised_title: Dynamic Deformation of Transversely Loaded Disks Under Shock Loads
+semantic_tags:
+  - Solid Mechanics
+  - Stress Analysis
+  - Dynamic Loads
+  - Strain Waves
+  - Disk Deformation
+tldr: The authors study the deformation of thin metal disks under dynamic loads, specifically the response times for a copper disk. They explain the deflection under shock loading conditions by combining the action of inertia and strain waves. The research compares the deflection of a disk to that of an extensible wire under similar conditions, suggesting a simple analogy for future analysis.
+scientific_discipline: Engineering and Technology > Solid Mechanics

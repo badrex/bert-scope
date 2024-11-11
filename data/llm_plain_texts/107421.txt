@@ -1,0 +1,10 @@
+article_id: 107421
+revised_title: 'Methods of Clearing Equations with Quadratic, Cubic, and Higher Surds'
+semantic_tags:
+  - Algebra
+  - Equations
+  - Surds
+  - Mathematical Analysis
+  - Mathematical Techniques
+tldr: The author presents methods for clearing equations of quadratic, cubic, and higher surds, demonstrating how to remove these complex numbers from equations. The techniques involve using the principles of solving simple equations and can be applied to various types of surds, including those with indices as powers of 2, 3, 4, and more. The methods are universal and can be used to remove any number of independent surds from an equation.
+scientific_discipline: Mathematics > Algebra

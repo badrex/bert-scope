@@ -1,0 +1,10 @@
+article_id: 'rstb_1994_0072'
+revised_title: 'Linkage Analysis in Genetic Diseases: Progress and Challenges'
+semantic_tags:
+  - Genetics
+  - Linkage analysis
+  - Disease mapping
+  - Molecular biology
+  - Human genetics
+tldr: This article discusses the progress and challenges of linkage analysis in identifying genes responsible for genetic diseases. It explains the process of identifying co-segregation of pairs of loci by examining families and the use of DNA markers to find the chromosomal location of the responsible gene or genes. The author also highlights the importance of linkage analysis in mapping complex diseases that do not show clear Mendelian inheritance patterns.
+scientific_discipline: Biology and Life Sciences > Genetics

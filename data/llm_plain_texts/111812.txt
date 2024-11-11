@@ -1,0 +1,10 @@
+article_id: 111812
+revised_title: 'Covariants of Binary Quantics and Irreducible Invariants'
+semantic_tags:
+  - Algebra
+  - Covariants
+  - Invariants
+  - Partition Theory
+  - Binary Quantics
+tldr: This article presents a theorem that helps establish the number of covariants and invariants of a binary quantic. The author demonstrates how the theorem can be used to calculate covariants and discusses the relationship between the number of irreducible invariants and covariants for quantics of different orders. The article also provides a table of covariants for various types of quantics.
+scientific_discipline: Mathematics > Algebra

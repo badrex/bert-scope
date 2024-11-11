@@ -1,0 +1,10 @@
+article_id: rspa_1961_0004
+revised_title: Hysteresis Losses in Rolling and Sliding Friction: A Reassessment
+semantic_tags:
+  - Rolling friction
+  - Hysteresis losses
+  - Viscoelastic materials
+  - Adhesion
+  - Lubrication
+scientific_discipline: Physics > Materials Science
+tldr: This article investigates the hysteresis losses in rolling and sliding friction, focusing on the deformation of materials by a hard roller. The authors propose a hypothesis that the energy losses in complex stress cycles are proportional to the square of the length of the stress loop. This hypothesis helps explain discrepancies between theoretical and experimental values for the friction of rolling cylinders and spheres. The analysis is extended to rolling over short distances, and it is shown that the resistance increases linearly from zero as a cylinder starts to roll.

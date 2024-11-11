@@ -1,0 +1,10 @@
+article_id: 'rspb_1957_0049'
+revised_title: 'Discovery of Interferon and its Properties'
+semantic_tags:
+  - Virology
+  - Interferon
+  - Virus interference
+  - Antiviral defense
+  - Cellular response
+tldr: 'The authors discovered a factor called "interferon" associated with interference among influenza viruses. Interferon is produced by cells after exposure to heated, non-infective viruses and can inhibit the growth of various viruses, including influenza, Sendai, Newcastle disease, and vaccinia. The study provides insights into the properties and potential applications of interferon in antiviral defense.'
+scientific_discipline: Biology and Life Sciences > Virology

@@ -1,0 +1,10 @@
+article_id: rspl_1893_0001
+revised_title: Portable Ophthalmometer for Measuring Corneal Curvature
+semantic_tags:
+  - Ophthalmology
+  - Optometry
+  - Corneal curvature measurement
+  - Optical instruments
+  - Astigmatism
+tldr: The authors describe a portable ophthalmometer that measures the curvature of the cornea to determine corneal astigmatism. The instrument uses a convex lens and a prism to create a virtual image of the object, which is then doubled and inverted using a telescope. This allows for accurate measurements of corneal curvature, making it useful for diagnosing and measuring astigmatism.
+scientific_discipline: Engineering and Technology > Optical Instruments

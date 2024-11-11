@@ -1,0 +1,10 @@
+article_id: 'rspa_1934_0241'
+revised_title: 'Physico-Chemical Studies of Complex Organic Molecules: Absorption Spectra at Low Temperatures'
+semantic_tags:
+  - Spectroscopy
+  - Organic Chemistry
+  - Photochemistry
+  - Biological Molecules
+  - Low Temperature Physics
+tldr: This study describes a method for producing monochromatic light to induce photochemical reactions in small amounts of complex organic molecules, such as ergosterol, calciferol, vitamin B1, carotene, and vitamin A. The absorption spectra of these molecules are measured at liquid air temperatures, revealing new bands and shifts in existing bands, which helps differentiate between similar molecules like carotene and vitamin A.
+scientific_discipline: Chemistry > Organic Chemistry

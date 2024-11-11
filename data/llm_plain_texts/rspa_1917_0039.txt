@@ -1,0 +1,10 @@
+article_id: rspa_1917_0039
+revised_title: 'Recovery Theory: Explaining the Decay of Luminosity in Radioactive Compounds'
+semantic_tags:
+  - Radioactivity
+  - Luminosity
+  - Decay
+  - Recovery Theory
+  - Radium Compounds
+tldr: This article investigates the decay of luminosity in radioactive compounds, specifically radium luminous compounds. The author proposes a recovery theory, suggesting that destroyed active centers can recover at a rate proportional to their concentration in the material. This theory helps explain the observed behavior of luminosity curves and provides a basis for predicting the ultimate behavior of compounds with varying compositions.
+scientific_discipline: Physics > Optics

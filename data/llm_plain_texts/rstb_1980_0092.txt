@@ -1,0 +1,10 @@
+article_id: rstb_1980_0092
+revised_title: 'Depolarization-Release Coupling in Crab Stretch-Receptor Synapses'
+semantic_tags:
+  - Neuronal Synapses
+  - Crab Neurobiology
+  - Tonic Sensorimotor Synapse
+  - Depolarization-Release Coupling
+  - Stretch-Receptor Complex
+tldr: This study investigates the non-impulsive stretch-receptor complex of the crab, focusing on the interaction between the stretch-receptor T-fibre and the motoneurons it connects. The researchers found that depolarization-release coupling in the T-fibre has similar properties to the squid giant synapse, but the crab synapses transmit prolonged, graded depolarizations, which are decrementally conducted from the periphery. This preparation offers a new way to study synaptic physiology and sensorimotor systems.
+scientific_discipline: Biology and Life Sciences > Neurobiology

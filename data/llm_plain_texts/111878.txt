@@ -1,0 +1,10 @@
+article_id: 111878
+revised_title: 'A New Auxiliary Equation for Quintic Equations: Simplifying the Solution'
+semantic_tags:
+  - Algebra
+  - Equations
+  - Resolvent Equation
+  - Seminvariants
+  - Symmetric Functions
+tldr: The author, Arthur Cayley, introduces a new auxiliary equation for solving quintic equations, which simplifies the process of finding the roots. This new equation is closely connected to the resolvent-product equation and is derived using symmetric functions. The solution of a quintic equation can now be determined using a single equation of the sixth order, making it more efficient than previous methods.
+scientific_discipline: Mathematics > Algebra

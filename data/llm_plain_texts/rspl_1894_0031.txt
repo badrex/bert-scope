@@ -1,0 +1,10 @@
+article_id: rspl_1894_0031
+revised_title: Terrestrial Refraction in the Western Himalayan Mountains: Analysis and Comparison
+semantic_tags:
+  - Geodesy
+  - Atmospheric Refraction
+  - Himalayan Mountains
+  - Triangulation
+  - Atmospheric Conditions
+tldr: This article examines the coefficient of refraction in the Western Himalayan Mountains, comparing the values obtained in the Southern and Northern sections. The author finds that the coefficient is greater in the Southern section and increases with altitude, while in the Northern section, it decreases. The differences in behavior are attributed to varying atmospheric conditions, possibly due to the amount of moisture in the air.
+scientific_discipline: Environmental and Earth Sciences > Geodesy

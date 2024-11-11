@@ -1,0 +1,10 @@
+article_id: rspa_1964_0107
+revised_title: 'Anodic Formation of Calomel Films on Mercury Electrodes: An Ellipsometric-Galvanostatic Study'
+semantic_tags:
+  - Electrochemistry
+  - Surface films
+  - Calomel electrode
+  - Ellipsometry
+  - Mercury electrodes
+tldr: This study investigates the mechanism of calomel film formation on mercury electrodes using a combination of galvanostatic techniques and ellipsometry. The researchers found that the mercury anode reaches the 'calomel potential' quickly, and the film thickness becomes steady after some time. The experimental results support a dissolution-precipitation model involving a Hg/KCl interface charged to the 'calomel potential' through the formation of mercurous ions and specifically adsorbed chloride ions.
+scientific_discipline: Chemistry > Electrochemistry

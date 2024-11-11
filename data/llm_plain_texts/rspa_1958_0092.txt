@@ -1,0 +1,10 @@
+article_id: rspa_1958_0092
+revised_title: Generalized Adsorption Equation for Long-Chain Ions
+semantic_tags:
+  - Adsorption isotherm
+  - Surface-active agents
+  - Long-chain ions
+  - Electrochemical double layer
+  - Surface chemistry
+tldr: The author presents a general adsorption equation for the adsorption of long-chain ions from water to air or oil interfaces. The equation is derived by considering the electrical double layer energy and is applicable to both ionized and un-ionized solutes. The author tests the equation using recent experimental data on the adsorption of long-chain sulfate ions at the air/water and oil/water interfaces. The equation simplifies to the Langmuir, Kiister (Freundlich), and Temkin isotherms under certain conditions.
+scientific_discipline: Chemistry > Surface Chemistry

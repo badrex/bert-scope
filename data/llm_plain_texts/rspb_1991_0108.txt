@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0108'
+revised_title: 'Mixing Patterns in Ecology and Epidemiology'
+semantic_tags:
+  - Epidemiology
+  - Population Biology
+  - Disease Transmission
+  - Ecological Interactions
+  - Mixing Matrix
+scientific_discipline: Biology and Life Sciences > Ecology
+sub_discipline: 'Population Ecology'

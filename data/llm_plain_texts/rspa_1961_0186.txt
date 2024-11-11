@@ -1,0 +1,10 @@
+article_id: rspa_1961_0186
+revised_title: 'Effects of Atmospheric Oblateness on Satellite Orbits'
+semantic_tags:
+  - Satellite Orbits
+  - Atmospheric Drag
+  - Atmospheric Oblateness
+  - Orbital Mechanics
+  - Space Technology
+tldr: The authors extend the study of air drag's effect on satellite orbits, considering an oblate atmosphere. They derive equations that show how perigee distance, orbital period, and eccentricity vary with time. The influence of atmospheric oblateness is found to be significant, affecting the lifetime and air density at perigee. The study is important for understanding the behavior of satellites in orbit and for designing long-lasting satellite missions.
+scientific_discipline: Engineering and Technology > Space Technology

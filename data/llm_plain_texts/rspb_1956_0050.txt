@@ -1,0 +1,10 @@
+article_id: 'rspb_1956_0050'
+revised_title: 'Surface Behavior of Bacterium Coli: The Nature of the Surface'
+semantic_tags:
+  - Bacterial surface chemistry
+  - Microelectrophoresis
+  - Zeta potential
+  - Polysaccharide
+  - Bacterial cell wall
+tldr: The authors studied the surface behavior of Bacterium coli using microelectrophoresis to determine the zeta potentials of the bacteria in various inorganic electrolytes. They found that the exterior of the bacterial cell is likely a polysaccharide, possibly an arabate, and that osmotic pressure changes do not affect the electrical properties of the surface. This research provides insights into the interaction between bacterial cells and metabolites or antibacterial agents.
+scientific_discipline: Biology and Life Sciences > Microbiology

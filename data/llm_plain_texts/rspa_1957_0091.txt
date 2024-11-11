@@ -1,0 +1,10 @@
+article_id: rspa_1957_0091
+revised_title: Self-Consistent Calculation of Aluminium's Band Structure
+semantic_tags:
+  - Band structure
+  - Aluminium
+  - Material science
+  - Quantum mechanics
+  - Solid-state physics
+tldr: The authors conducted a self-consistent calculation of the band structure of aluminium, considering the potential acting on a conduction electron and the effects of correlation and exchange. They used an effective potential that included the Bohm & Pines theory of a free-electron gas and the Hartree-Fock treatment of ion cores. The results agreed with the model of the band structure obtained from experimental data.
+scientific_discipline: Physics > Material Science

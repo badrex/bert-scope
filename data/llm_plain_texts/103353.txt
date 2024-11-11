@@ -1,0 +1,10 @@
+article_id: '103353'
+revised_title: 'Determining the Longitude of the Cape of Good Hope During a Lunar Eclipse'
+semantic_tags:
+  - Astronomy
+  - Lunar Eclipse
+  - Longitude
+  - Navigation
+  - Early Modern Astronomy
+tldr: 'In 1717, E. Halley observed the end of a total lunar eclipse to determine the longitude of the Cape of Good Hope. By comparing the eclipse with one observed earlier, Halley calculated the time difference and concluded that the Cape was closer to their meridian than previously thought. This observation helped improve the accuracy of navigation and geographical knowledge of the time.'
+scientific_discipline: Astronomy > Lunar Observations

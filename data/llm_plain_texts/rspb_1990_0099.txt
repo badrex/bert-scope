@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0099'
+revised_title: 'Chlorophyll Fluorescence as a Measure of Photosynthetic Carbon Assimilation: A Curvilinear Relation'
+semantic_tags:
+  - Photosynthesis
+  - Chlorophyll fluorescence
+  - Carbon assimilation
+  - Quantum efficiency
+  - Plant physiology
+tldr: The authors explore the relationship between chlorophyll fluorescence and photosynthetic carbon assimilation in various plant species. They find a curvilinear relationship between the fluorescence parameter (Fm - FJFm) and the quantum efficiency of photosynthetic carbon assimilation. This discovery can help measure photosynthesis and the effect of light on dark respiration using non-intrusive fluorescence techniques without analyzing gaseous exchange between the leaf and atmosphere.
+scientific_discipline: Biology and Life Sciences > Plant Biology

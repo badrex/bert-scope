@@ -1,0 +1,10 @@
+article_id: rspa_1911_0003
+revised_title: 'Optical Dispersion: Analyzing its Dependence on Physical Conditions'
+semantic_tags:
+  - Optical Physics
+  - Refractive Index
+  - Dispersion
+  - Molecular Vibrations
+  - Density
+tldr: This article investigates the influence of a transparent medium on light passing through it, focusing on the factors that cause optical dispersion. The author analyzes the relationship between the density of the medium and the refractive index, considering how pressure, temperature, and external factors affect the natural frequencies of molecules. The study examines various liquids and their refractive indices, providing insights into the behavior of light in different physical conditions.
+scientific_discipline: Physics > Optics

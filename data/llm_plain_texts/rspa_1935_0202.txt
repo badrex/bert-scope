@@ -1,0 +1,10 @@
+article_id: 'rspa_1935_0202'
+revised_title: 'Composite Films of Oxygen and Hydrogen on Tungsten: Adsorption and Displacement'
+semantic_tags:
+  - Surface chemistry
+  - Adsorption
+  - Tungsten
+  - Oxygen
+  - Hydrogen
+tldr: 'The authors studied the adsorption of oxygen on a hydrogen-covered tungsten surface and found that when oxygen is adsorbed, a hydrogen molecule is displaced. They also investigated the behavior of hydrogen on a surface partially covered with oxygen and discussed its implications for the problem of activated adsorption.'
+scientific_discipline: Chemistry > Surface chemistry

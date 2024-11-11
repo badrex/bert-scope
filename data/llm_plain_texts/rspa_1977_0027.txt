@@ -1,0 +1,10 @@
+article_id: rspa_1977_0027
+revised_title: 'Van der Waals Forces for Mica and Quartz: A Comprehensive Analysis'
+semantic_tags:
+  - Van der Waals forces
+  - Dielectric data
+  - Mica
+  - Quartz
+  - Interactions
+tldr: The authors used dielectric data to calculate the Lifshitz-van der Waals force for interacting mica and quartz plates. They compared their results with previous calculations and experimental values, finding better agreement for distances of less than 5 nm. The study highlights the importance of using complete dielectric data for accurate van der Waals force calculations.
+scientific_discipline: Physics > Materials Science

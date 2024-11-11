@@ -1,0 +1,10 @@
+article_id: rspa_1937_0230
+revised_title: Torsion of Conical Shells: A Generalization of the Bredt-Batho Formula
+semantic_tags:
+  - Solid Mechanics
+  - Torsion
+  - Conical Shells
+  - Stress Analysis
+  - Elasticity
+tldr: The author presents a method to calculate the torsion of conical shells, generalizing the Bredt-Batho formula. The solution considers the shear stress and torque, and the twist can be calculated without difficulty. The author also discusses the warping of cross-sections in cylindrical tubes and conical shells.
+scientific_discipline: Engineering and Technology > Solid Mechanics

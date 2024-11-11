@@ -1,0 +1,10 @@
+article_id: rspa_1922_0068
+revised_title: 'The Accelerating Effect of Sodium Carbonate on the Hydrogenation of Phenol'
+semantic_tags:
+  - Catalysis
+  - Hydrogenation
+  - Sodium carbonate
+  - Nickel catalyst
+  - Promoter action
+tldr: The authors studied the effect of sodium carbonate on the hydrogenation of phenol using a nickel catalyst. They found that the presence of sodium carbonate significantly accelerates the reaction, with the optimal amount of carbonate being directly related to the amount of nickel present. The mechanism by which sodium carbonate promotes the reaction is still unclear, but it is believed to protect the nickel catalyst from the acidic influence of phenol.
+scientific_discipline: Chemistry > Catalysis

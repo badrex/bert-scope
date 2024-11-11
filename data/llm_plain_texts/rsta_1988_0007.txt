@@ -1,0 +1,10 @@
+article_id: rsta_1988_0007
+revised_title: Microwave Spectroscopy of Molecular Ions in Laboratory and Space
+semantic_tags:
+  - Molecular spectroscopy
+  - Microwave spectroscopy
+  - Interstellar chemistry
+  - Plasma diagnostics
+  - Molecular ion structures
+tldr: The article discusses the applications of microwave spectroscopy in studying molecular ions, focusing on the detection of molecular ions in interstellar space and their role in interstellar chemistry. The author presents the detection of the molecular ion in seven interstellar sources and describes the rotational spectra of the ion in various vibrational states. The article also compares the effects of Stark broadening on molecular ions and neutrals, as well as the differences between normal glow discharges and magnetically confined abnormal discharges.
+scientific_discipline: Chemistry > Spectroscopy

@@ -1,0 +1,10 @@
+article_id: rspa_1957_0090
+revised_title: Improved Convergence and Simplification in the Orthogonalized Plane Wave Method for Band Structure Calculations
+semantic_tags:
+  - Band structure
+  - Orthogonalized plane wave method
+  - Convergence
+  - Aluminium
+  - Solid-state physics
+tldr: The authors discuss the orthogonalized plane wave method for calculating band structures in solids, focusing on the convergence and simplification of the method. They propose a particular choice of atomic-like functions that leads to better convergence and a more straightforward formulation of the method, making it more useful for band structure calculations.
+scientific_discipline: Physics > Solid-state physics

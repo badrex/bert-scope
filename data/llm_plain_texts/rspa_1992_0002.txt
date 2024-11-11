@@ -1,0 +1,10 @@
+article_id: rspa_1992_0002
+revised_title: 'Reevaluation of Hydrodynamic Forces on Fixed Submerged Cylinders'
+semantic_tags:
+  - Fluid Dynamics
+  - Offshore Engineering
+  - Wave Loads
+  - Morison's Equation
+  - Inertia Force
+tldr: This article investigates the hydrodynamic forces on fixed submerged cylinders, particularly in wave loads on offshore structures. The authors derive the correct form for the inertia force in a general fluid flow, challenging the conventional approach to calculating forces using Morison's Equation. They also discuss the nature of point loads occurring at cylinder ends and provide a more elaborate formula for non-circular cylinders.
+scientific_discipline: Engineering and Technology > Offshore Engineering

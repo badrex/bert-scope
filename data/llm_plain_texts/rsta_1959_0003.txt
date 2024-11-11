@@ -1,0 +1,10 @@
+article_id: rsta_1959_0003
+revised_title: 'Discovery of Spherical Gravitational Waves and their Energy Transfer'
+semantic_tags:
+  - Gravitational Waves
+  - General Relativity
+  - Energy Transfer
+  - Astrophysics
+  - Astronomy
+tldr: The authors investigate the field of gravitational radiation emitted from two moving particles using general relativity. They introduce a method of approximation and find that in the linear approximation, spherical gravitational waves are introduced. The theory predicts that energy is lost by the system, and in the second, non-linear approximation, it is shown that the system loses an amount of gravitational mass equal to the energy carried away by the spherical waves. This discovery confirms the physical existence of gravitational radiation and its ability to carry energy away from sources.
+scientific_discipline: Physics > Astrophysics

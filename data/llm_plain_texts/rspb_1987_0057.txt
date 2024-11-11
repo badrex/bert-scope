@@ -1,0 +1,10 @@
+article_id: 'rspb_1987_0057'
+revised_title: 'VIP-Induced Membrane Currents in Xenopus Oocytes: Implications for VIP Receptor and Mechanism of Action'
+semantic_tags:
+  - Neurobiology
+  - Cellular Physiology
+  - Vasoactive Intestinal Peptide (VIP)
+  - Oocyte Biology
+  - Membrane Currents
+tldr: The article investigates the membrane currents elicited by porcine vasoactive intestinal peptide (VIP) in follicle-enclosed Xenopus oocytes. The study finds that VIP generates a membrane current due to an increase in membrane conductance to K+. The VIP current is mediated by adenosine 3',5'-cyclic monophosphate (cyclic AMP) and is not blocked by catecholaminergic or purinergic antagonists, indicating the presence of a specific VIP receptor in the follicle. The response to VIP is abolished after treating follicles with collagenase, suggesting that the VIP receptors and K+ channels are located in the follicular cells.
+scientific_discipline: Biology and Life Sciences > Neurobiology

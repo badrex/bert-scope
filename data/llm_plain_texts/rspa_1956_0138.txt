@@ -1,0 +1,10 @@
+article_id: rspa_1956_0138
+revised_title: 'Kinetics and Chemistry of Alkyl Radical Interactions: Disproportionation and Combination of Ethyl Radicals'
+semantic_tags:
+  - Radical reactions
+  - Alkyl radicals
+  - Disproportionation
+  - Combination
+  - Kinetics
+tldr: The authors studied the interaction of alkyl radicals, specifically the disproportionation and combination of ethyl radicals. They found that the disproportionation/combination ratio depends on factors such as the number of three-body collisions, the rate of radical diffusion to the reaction vessel walls, and the excess energy retained by the radicals. These factors help explain the variety of results reported in the literature for the products of ethyl radical reactions.
+scientific_discipline: Chemistry > Organic Chemistry

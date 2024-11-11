@@ -1,0 +1,10 @@
+article_id: 'rstb_1992_0082'
+revised_title: 'Bees' Ability to Estimate Absolute Size: Combining Range and Visual Angle'
+semantic_tags:
+  - Insect Vision
+  - Bee Behavior
+  - Visual Perception
+  - Angular Size
+  - Range Estimation
+tldr: 'Bees can estimate the absolute size of objects by combining their ability to measure range and visual angle. They can differentiate objects based on angular size in a vertical plane and range in a horizontal plane. This study demonstrates that bees can use this information to accurately estimate the size of objects in both vertical and horizontal planes.'
+scientific_discipline: Biology and Life Sciences > Entomology

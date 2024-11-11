@@ -1,0 +1,10 @@
+article_id: rspl_1889_0032
+revised_title: Improving the Cavendish Experiment for Measuring Gravitational Constant
+semantic_tags:
+  - Gravitation
+  - Torsion balance
+  - Experimental physics
+  - Quartz fibers
+  - Precision measurement
+tldr: The author discusses improvements to the Cavendish experiment for measuring the gravitational constant. They propose using quartz fibers for torsion and smaller apparatus, which can provide greater sensitivity and accuracy in measurements. The author also explains the principles behind the design of the improved apparatus and the factors affecting its sensibility.
+scientific_discipline: Physics > Mechanics

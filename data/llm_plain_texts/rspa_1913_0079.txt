@@ -1,0 +1,10 @@
+article_id: rspa_1913_0079
+revised_title: Temperature Coefficient of a Kew Collimator Magnet
+semantic_tags:
+  - Magnetism
+  - Temperature coefficient
+  - Collimator magnet
+  - Earth's magnetic field
+  - Compensation magnetometer
+tldr: The author conducted experiments to determine the temperature coefficient of a Kew collimator magnet used in measuring the horizontal component of the Earth's magnetic field. They developed a compensating magnetometer to eliminate disturbances from external factors, such as electric trams and dynamo-electric machinery, and found that the temperature coefficient of the magnet was negligible.
+scientific_discipline: Physics > Magnetism

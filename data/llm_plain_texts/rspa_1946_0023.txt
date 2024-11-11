@@ -1,0 +1,10 @@
+article_id: rspa_1946_0023
+revised_title: 'Influence of Hydrogen-Oxygen Proportions and Inert Gases on the Third Explosion Limit'
+semantic_tags:
+  - Chemical kinetics
+  - Explosion limits
+  - Hydrogen-oxygen reaction
+  - Chain reactions
+  - Free radical chains
+tldr: This article investigates the third explosion limit of the hydrogen-oxygen reaction and its dependence on hydrogen-oxygen proportions and inert gases. The authors found that coating the reaction vessel with potassium chloride allowed them to control the reaction rate and study the third limit more effectively. Their results support the branching chain theory and provide insight into the processes controlling the reaction rate between the second and third limits.
+scientific_discipline: Chemistry > Chemical kinetics

@@ -1,0 +1,10 @@
+article_id: 112582
+revised_title: 'Chemical Intensity Comparison of Direct and Diffuse Sunlight at Varying Altitudes'
+semantic_tags:
+  - Sunlight Intensity
+  - Atmospheric Effects
+  - Photometry
+  - Chemical Reactions
+  - Solar Altitude
+tldr: This article investigates the chemical intensity of direct and diffuse sunlight at different altitudes. The authors found that the action of the atmosphere on chemically active rays is different from the action on luminous rays. The ratio of chemical intensity of direct to diffuse sunlight varies with the transparency and location, and it does not correspond to the ratio of visible intensity.
+scientific_discipline: Chemistry > Atmospheric Chemistry

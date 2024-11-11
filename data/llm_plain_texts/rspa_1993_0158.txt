@@ -1,0 +1,10 @@
+article_id: rspa_1993_0158
+revised_title: 'Conformal Singularities in Classical General Relativity: Structure and Smoothness'
+semantic_tags:
+  - General Relativity
+  - Conformal Singularities
+  - Perfect Fluid Space-Times
+  - Adiabatic Index
+  - Conformal Transformations
+tldr: The author proposes a precise definition of conformal singularities in classical general relativity, considering Big Bang singularities that can be conformally transformed to a spacelike hypersurface. The study assumes that the conformal factor and conformal metric are both smooth, leading to the conclusion that the adiabatic index of the fluid must tend to 4/3 at the singularity, indicating a highly relativistic initial state.
+scientific_discipline: Mathematics > Differential Geometry

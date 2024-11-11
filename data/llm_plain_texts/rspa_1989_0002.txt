@@ -1,0 +1,10 @@
+article_id: rspa_1989_0002
+revised_title: The Brittle-Ductile Transition in Silicon: A Dynamic Crack Tip Shielding Model
+semantic_tags:
+  - Materials Science
+  - Crystallography
+  - Fracture Mechanics
+  - Dislocation Dynamics
+  - Silicon Properties
+tldr: This article presents a dynamic crack tip shielding model to describe the brittle-ductile transition of precracked crystals in constant strain-rate tests. Dislocations emitted from sources at or near the crack tip help shield the most vulnerable parts of the crack, preventing failure. The model accounts for the strain-rate dependence of the transition temperature and predicts a dependence of the transition on dislocation density.
+scientific_discipline: Materials Science > Crystallography and Fracture Mechanics

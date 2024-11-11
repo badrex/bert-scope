@@ -1,0 +1,10 @@
+article_id: rspa_1976_0069
+revised_title: Transforming Electromagnetic Perturbations of Kerr Black Holes to Real Short-Range Potentials
+semantic_tags:
+  - Black Holes
+  - Electromagnetic Perturbations
+  - Kerr Geometry
+  - Wave Equations
+  - Potential Transformations
+tldr: The authors examine the equations governing electromagnetic perturbations around a rotating black hole and find a simple one-dimensional wave equation with a short-range, purely real potential. They also explore the transformation of these equations to achieve this result, providing a method for further study of black hole perturbations.
+scientific_discipline: Physics > Electromagnetic Theory

@@ -1,0 +1,10 @@
+article_id: rspa_1925_0040
+revised_title: 'Interpretation of Bucherer's Experiment on Electron Velocity'
+semantic_tags:
+  - Electromagnetism
+  - Particle Accelerators
+  - Relativity
+  - Electron Physics
+  - Experimental Physics
+tldr: The authors analyze the results of Bucherer's experiment, which aimed to determine the velocity of electrons using electric and magnetic fields. They discuss the limitations of the experiment and propose a method to improve the accuracy of the results. The study is relevant to understanding the behavior of electrons and the development of particle accelerators.
+scientific_discipline: Physics > Electromagnetism

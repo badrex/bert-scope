@@ -1,0 +1,10 @@
+article_id: rsta_1985_0045
+revised_title: Algebraic Geometrical Methods in Hamiltonian Mechanics: Solitons and Inverse Spectral Methods
+semantic_tags:
+  - Hamiltonian mechanics
+  - Solitons
+  - Inverse spectral methods
+  - Algebraic geometry
+  - Lie algebras
+tldr: This article explores the use of algebraic geometrical methods in Hamiltonian mechanics, focusing on solitons and inverse spectral methods. The authors discuss the Korteweg-de Vries equation and its role in developing new ideas and connections between mechanics, spectral theory, Lie groups, and algebraic geometry. They also explain how specific systems and equations have led to general schemes in the realm of Lie algebras, which manufacture completely integrable Hamiltonian systems.
+scientific_discipline: Mathematics > Algebraic Geometry

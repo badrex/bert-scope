@@ -1,0 +1,10 @@
+article_id: rsta_1901_0002
+revised_title: Energy of Röntgen and Becquerel Rays and the Energy Required to Produce an Ion in Gases
+semantic_tags:
+  - Ionization
+  - X-rays
+  - Radioactivity
+  - Gas ionization
+  - Energy measurement
+tldr: This article investigates the energy required to produce an ion in gases when exposed to Röntgen and Becquerel rays. The authors measure the heating effect of these rays when absorbed in metals and gases, and determine the energy of the radiation emitted per second by uranium and other radioactive substances. They also discuss the efficiency of fluorescent screens excited by X-rays as a source of light.
+scientific_discipline: Physics > Ionization and Radiation

@@ -1,0 +1,10 @@
+article_id: rspa_1924_0017
+revised_title: Simplifying the Proofs of Lattice Points in a Circle
+semantic_tags:
+  - Number Theory
+  - Geometry
+  - Analytic Functions
+  - Bessel Functions
+  - Dirichlet Series
+tldr: This article presents simplified proofs for the lattice points of a circle using Cauchy's theorem and the theory of analytic functions. The authors, G. H. Hardy and E. Landau, improve the precision of the result and make the proofs more accessible for both integral and non-integral values of the variables.
+scientific_discipline: Mathematics > Number Theory

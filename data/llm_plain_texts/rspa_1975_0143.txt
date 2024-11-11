@@ -1,0 +1,10 @@
+article_id: rspa_1975_0143
+revised_title: Direct Measurement of Normal Propagation Velocities of Phase Objects Using Laser Optics
+semantic_tags:
+  - Laser Optics
+  - Doppler Velocimetry
+  - Schlieren System
+  - Flame Propagation
+  - Interference Fringes
+tldr: The authors developed a laser optical method to directly measure the normal propagation velocities of phase objects, such as flames, using interference fringes and a schlieren system. This method allows for the measurement of orthogonal velocity components and can be applied to stationary, moving, or fluctuating flames. The technique was tested on various objects, including diffraction gratings, particles, and flames.
+scientific_discipline: Physics > Optics

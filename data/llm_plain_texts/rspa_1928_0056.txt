@@ -1,0 +1,10 @@
+article_id: rspa_1928_0056
+revised_title: 'Dirac's and Fowler's Quantum Theory of the Electron'
+semantic_tags:
+  - Quantum Mechanics
+  - Electromagnetic Field
+  - Spin
+  - Wave Equation
+  - Quantum Theory of Electron
+tldr: Dirac and Fowler's paper presents a wave equation for an electron moving in an electromagnetic field, introducing new dynamic variables to describe the electron's internal motion, or its spin. They also discuss the selection rules and relative intensities of spectral lines in alkali spectra, showing that their theory is in agreement with experimental observations.
+scientific_discipline: Physics > Quantum Mechanics

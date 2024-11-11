@@ -1,0 +1,10 @@
+article_id: 'rsta_1988_0035'
+revised_title: 'Challenges and Opportunities in Exploiting Remotely Sensed Imagery'
+semantic_tags:
+  - Remote Sensing
+  - Image Analysis
+  - Knowledge-Based Techniques
+  - Expert Systems
+  - Parallel Processing
+tldr: This article discusses the challenges and potential improvements in using remotely sensed imagery. The author highlights the limitations of pixel-based image processing and the need for knowledge-based techniques to better understand and interpret images. The article also addresses the need for better organization and management of knowledge, as well as the importance of integrating remotely sensed data with other strategic information. The author believes that developments in computer power and parallel processing will lead to more autonomous, real-time interpretation systems in the future.
+scientific_discipline: Environmental and Earth Sciences > Remote Sensing

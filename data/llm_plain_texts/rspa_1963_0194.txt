@@ -1,0 +1,10 @@
+article_id: rspa_1963_0194
+revised_title: 'Defect Structure and Thermal Conductance in Graphite'
+semantic_tags:
+  - Graphite
+  - Thermal Conductivity
+  - Defect Structure
+  - Crystal Imperfections
+  - Pyrolytic Graphite
+tldr: The authors conducted experiments to study the relationship between the defect structure and thermal conductance of graphite. They used various methods to measure the thermal conductance of well-oriented graphites in different directions and under different conditions, such as changing the deposition temperature, annealing, and neutron irradiation. The results were discussed in relation to theories of thermal conductance in imperfect solids and the influence of crystal imperfections on the physical properties of near-ideal graphite.
+scientific_discipline: Physics > Materials Science

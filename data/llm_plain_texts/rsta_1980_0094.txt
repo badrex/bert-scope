@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0094'
+revised_title: 'X-ray Microanalysis of Grain Boundary Segregation in Steels'
+semantic_tags:
+  - Materials Science
+  - Steel Properties
+  - Microanalysis
+  - Grain Boundaries
+  - X-ray Techniques
+tldr: This article discusses the use of X-ray microanalysis to study grain boundary segregation in steels. The technique helps in understanding the effects of residual elements and additives on the properties of steel, such as toughness, corrosion resistance, and life. The method requires uncontaminated intergranularly focused X-ray facilities for accurate results.
+scientific_discipline: Materials Science > Steel Properties

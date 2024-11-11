@@ -1,0 +1,10 @@
+article_id: 'rstb_1975_0010'
+revised_title: 'Optimum Sodium Channel Density in Unmyelinated Nerve Fibers'
+semantic_tags:
+  - Neurophysiology
+  - Sodium channels
+  - Nerve conduction velocity
+  - Axon
+  - Gating currents
+tldr: The authors explore the relationship between sodium channel density and nerve conduction velocity in unmyelinated nerve fibers. They find that the maximum conduction velocity occurs when the additional capacitance associated with sodium channels is half the basic capacitance. This research helps to understand the optimal density of sodium channels in different nerve fibers and their function.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

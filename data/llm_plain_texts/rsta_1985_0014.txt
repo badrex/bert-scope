@@ -1,0 +1,10 @@
+article_id: rsta_1985_0014
+revised_title: Vibrational Studies and Model for Halogen-Bridged Linear-Chain Mixed-Valence Complexes
+semantic_tags:
+  - Mixed-Valence Complexes
+  - Halogen-Bridged Linear-Chain
+  - Vibrational Studies
+  - Electrical Properties
+  - Crystal Structures
+tldr: The authors conducted Fourier transform infrared and resonance Raman spectroscopy on halogen-bridged linear-chain mixed-valence complexes. They observed chlorine isotopic splitting in the stretching modes of the linear units in the chains and developed a simple vibrational model that reproduces the observed splitting patterns. The study provides insights into the relationship between the stretching force constants and the electronic properties of these complexes.
+scientific_discipline: Chemistry > Materials Science

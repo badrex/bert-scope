@@ -1,0 +1,10 @@
+article_id: 'rstb_1974_0040'
+revised_title: 'Intracellular Recordings of Motoneurons and Neural Control of Ventilatory Movements in Locusts'
+semantic_tags:
+  - 'Locust neurophysiology'
+  - 'Motoneuron activation'
+  - 'Neural control of ventilation'
+  - 'Intracellular recordings'
+  - 'Abdominal movements'
+tldr: This study investigates the neural control of ventilatory movements in locusts by recording intracellularly from identified motoneurons in the metathoracic ganglion. The researchers found that no motoneurons showed inherent rhythmicity, and no direct pathways between motoneurons were observed. Instead, interneurons providing various rhythmic, excitatory, and inhibitory synaptic inputs to the motoneurons are inferred to produce the ventilatory rhythm.
+scientific_discipline: Biology and Life Sciences > Neurobiology

@@ -1,0 +1,10 @@
+article_id: 'rspb_1978_0070'
+revised_title: 'A Study of the Responses of Isolated First-order Semicircular Canal Afferents to Angular and Linear Acceleration'
+semantic_tags:
+  - 'Vestibular system'
+  - 'Neurophysiology'
+  - 'Semecircular canals'
+  - 'Angular acceleration'
+  - 'Linear acceleration'
+tldr: 'This study investigates the responses of semicircular canal afferents to angular and linear acceleration in isolated surviving labyrinths of elasmobranch fishes. The researchers found that the time constants and phase aspects of the responses to both types of acceleration stimuli are consistently comparable, suggesting similarities in the basic mechanism of both types of canal response. The existence of peripheral adaptation and associated time constants were taken into account in the analysis. The results indicate that the sensitivity of semicircular canals to linear acceleration, known as the "Ledoux effect," may not be part of the normal function in controlling posture and movement, but it cannot be discounted in the qualitative and quantitative analysis of vestibular responses and in differential diagnosis in clinical otology.'
+scientific_discipline: Biology and Life Sciences > Neurophysiology

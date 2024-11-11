@@ -1,0 +1,10 @@
+article_id: rsta_1986_0116
+revised_title: Advances in Non-Destructive Examination Techniques for Crack Detection and Sizing
+semantic_tags:
+  - Non-destructive testing
+  - Crack detection
+  - Crack sizing
+  - Fracture mechanics
+  - Offshore engineering
+tldr: This article discusses the development and use of AC-field measurements for detecting and sizing cracks in materials, particularly in the context of offshore engineering. The Crack Microgauge, a new instrument, allows for accurate and reproducible field measurements, removing the need for calibration. The article also explores the principle of operation and various factors affecting the accuracy of crack depth measurements.
+scientific_discipline: Engineering and Technology > Non-Destructive Testing

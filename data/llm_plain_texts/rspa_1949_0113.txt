@@ -1,0 +1,10 @@
+article_id: rspa_1949_0113
+revised_title: The Diffraction of Blast: A Study of Shock Waves and Their Interaction with Corners
+semantic_tags:
+  - Fluid Dynamics
+  - Shock Waves
+  - Supersonic Flow
+  - Aerodynamics
+  - Mathematical Physics
+tldr: The author investigates the behavior of a plane shock wave when it reaches a corner where the wall turns. They use a linearized theory of flow to calculate the shape of the shock and the pressure distribution over the wall for various shock Mach numbers. The study helps in understanding the diffraction of blast and the interaction of shock waves with corners, which is essential in designing structures and predicting the effects of explosions.
+scientific_discipline: Physics > Fluid Dynamics

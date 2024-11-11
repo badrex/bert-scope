@@ -1,0 +1,10 @@
+article_id: rspa_1947_0054
+revised_title: Dehydration Mechanisms and Nuclei Formation in Ammonium, Potassium, and Mixed Alums
+semantic_tags:
+  - Crystal growth
+  - Dehydration
+  - Alums
+  - Nuclei formation
+  - Solid-state chemistry
+tldr: This study investigates the dehydration of ammonium, potassium, and some mixed alums, focusing on the shapes of dehydration nuclei and their growth rates. The authors found that water vapor slightly accelerates the reaction at low pressures but retards it at higher pressures, possibly due to water molecules blocking active areas in the interface. The main dehydration process occurs layer by layer along the 100 planes of the hydrate. In mixed potassium and chromium alums, dehydration occurs ahead of the normal interface, resembling zeolite behavior.
+scientific_discipline: Chemistry > Crystallography

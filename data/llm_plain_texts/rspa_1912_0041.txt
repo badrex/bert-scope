@@ -1,0 +1,10 @@
+article_id: 'rspa_1912_0041'
+revised_title: 'On the Distribution of Scattered Röntgen Radiation: Experimental Results and Theoretical Analysis'
+semantic_tags:
+  - X-ray scattering
+  - Röntgen radiation
+  - Ionization chambers
+  - Radiators
+  - Electromagnetic forces
+scientific_discipline: Physics > Electromagnetism
+tldr: This article discusses the distribution of scattered Röntgen radiation and presents experimental results on the intensity of the scattered radiation at different angles. The author also analyzes the possible causes of the observed dissymmetry in the scattered radiation and proposes a theoretical explanation based on the acceleration of charged electrons and electromagnetic forces. The findings contribute to the understanding of Röntgen radiation and its interactions with matter.

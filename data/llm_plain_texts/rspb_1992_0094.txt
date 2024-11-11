@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0094'
+revised_title: 'Maximizing Likelihood Estimation in Ion Channel Models'
+semantic_tags:
+  - Ion channel models
+  - Hidden Markov models
+  - Maximum likelihood estimation
+  - Biophysics
+  - Neuroscience
+tldr: The authors present a method for directly estimating maximum likelihood from single-channel recordings without the need for restoration. They apply this method to ion channel models and demonstrate its effectiveness in estimating conductance levels, mean dwell times, and other properties of the models. This approach offers improvements over previous methods, particularly in noisy environments.
+scientific_discipline: Physics > Biophysics

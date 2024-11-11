@@ -1,0 +1,10 @@
+article_id: 108894
+revised_title: 'Sextactic Points of a Plane Curve: A Study in Algebraic Geometry'
+semantic_tags:
+  - Algebraic Geometry
+  - Plane Curves
+  - Singular Points
+  - Mathematical Analysis
+  - Geometry
+tldr: The author, A. Cayley, explores the theory of sextactic points, which are singular points on a plane curve where six consecutive points lie in a conic. The study involves complex mathematical calculations and transformations to understand the properties of these points and their impact on the curve's behavior.
+scientific_discipline: Mathematics > Algebraic Geometry

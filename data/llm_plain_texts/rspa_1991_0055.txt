@@ -1,0 +1,10 @@
+article_id: rspa_1991_0055
+revised_title: Grain Size Effects in Creep Crack Growth: A Non-Local Continuum Damage Approach
+semantic_tags:
+  - Creep crack growth
+  - Non-local continuum damage
+  - Finite domain analysis
+  - Grain size effects
+  - Copper materials
+tldr: The authors developed a non-local continuum damage approach to model grain size effects in creep crack growth. They used a finite domain analysis to predict the size effect on creep crack growth in copper materials. The study showed that the non-local damage method can better capture the damage distribution and improve computational efficiency compared to the local damage method.
+scientific_discipline: Engineering and Technology > Materials Science

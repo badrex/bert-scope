@@ -1,0 +1,10 @@
+article_id: rspa_1963_0074
+revised_title: 'Experimental Study of Light Modulation in Double Resonance Experiments'
+semantic_tags:
+  - Resonance fluorescence
+  - Double resonance
+  - Light modulation
+  - Atomic physics
+  - Quantum mechanics
+tldr: This study investigates the modulation of light in a double resonance experiment using mercury resonance radiation. The experiments demonstrate that the light emitted from an assembly of atoms is strongly modulated, revealing coherence between radiations from different stationary states. The findings challenge the traditional understanding of spontaneous emission and suggest that the process can be better explained through the concept of superposition states and quantum mechanics.
+scientific_discipline: Physics > Atomic and Molecular Physics

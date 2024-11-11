@@ -1,0 +1,10 @@
+article_id: rspa_1989_0070
+revised_title: Nonlinear Stability of Boundary-Layer Flow Over a Flat Plate
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Stability Analysis
+  - Fluid Mechanics
+  - Laminar Flow
+tldr: The authors investigate the nonlinear stability of laminar boundary-layer flow over a flat plate using the Watson formalism. They find that the equilibrium amplitude method of Potter is suitable for this analysis. The study focuses on the behavior of finite-amplitude equilibrium states and the cut-off point where the amplitude grows large, determining the limit of determinacy for these states.
+scientific_discipline: Physics > Fluid Dynamics

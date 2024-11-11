@@ -1,0 +1,10 @@
+article_id: rspa_1920_0060
+revised_title: Investigating the Photochemical Law of the Silver Halide Grain
+semantic_tags:
+  - Photographic plate
+  - Photochemistry
+  - Silver halide
+  - Photometric density
+  - Photographic emulsion
+tldr: The authors investigate the photochemical law of the silver halide grain in photographic plates. They find that the probability of a grain being made developable depends on the light intensity and exposure time, and that the mechanism of the process is not the absorption of light in discrete quanta. The study helps to understand the development process and improve photographic techniques.
+scientific_discipline: Chemistry > Photochemistry

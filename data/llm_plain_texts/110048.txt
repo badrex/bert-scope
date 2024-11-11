@@ -1,0 +1,10 @@
+article_id: 110048
+revised_title: 'Diurnal Deviations of the Horizontal Needle and the Influence of Magnets'
+semantic_tags:
+  - Magnetism
+  - Geomagnetism
+  - Earth's magnetic field
+  - Magnetic variation
+  - Magnetic needle
+tldr: 'The author, Samuel Hunter Christie, conducted a series of observations on the diurnal magnetic variation using a magnetic needle and bar magnets. He found that the greatest easterly deviation occurred at 7h 45m, and the greatest westerly deviation at 11h 24m. The total daily variation amounted to 30 41'. The author concluded that the daily changes in the needle's position were due to actual changes in the intensity and direction of terrestrial forces, not just temperature variations.'
+scientific_discipline: Earth Sciences > Geomagnetism

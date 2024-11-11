@@ -1,0 +1,10 @@
+article_id: rspa_1992_0078
+revised_title: 'Unified Viscoplasticity Model for High Temperature Cyclic Plasticity and Creep Damage'
+semantic_tags:
+  - Viscoplasticity
+  - Creep damage
+  - Cyclic plasticity
+  - Material parameter determination
+  - Cast copper
+tldr: The authors developed a unified viscoplasticity model for predicting the deformation and lifetimes of structural components under mechanical and cyclic thermal loading. They conducted a series of cyclic plasticity tests on cast copper and used computational techniques to determine the material parameters for the Chaboche viscoplasticity model, which accounts for creep, cyclic plasticity, and damage. This model can be used to improve the design of components in the power industry and other high-temperature applications.
+scientific_discipline: Engineering and Technology > Materials Science

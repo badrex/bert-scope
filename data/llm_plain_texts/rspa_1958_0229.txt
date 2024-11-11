@@ -1,0 +1,10 @@
+article_id: 'rspa_1958_0229'
+revised_title: 'Amateur Observations of Russian Artificial Earth Satellites'
+semantic_tags:
+  - Satellite Observations
+  - Radio Astronomy
+  - Doppler Shift
+  - Earth Satellite Communications
+  - Amateur Radio
+tldr: This article discusses the observations of the Russian artificial earth satellites by the British Astronomical Association and Radio Society of Great Britain. The working party assessed the reliability of amateur participation in the observations of the second Russian satellite, focusing on Doppler shift, field strength, and telemetry. The author suggests that amateurs can contribute significantly to field-strength measurements and provide immediate answers to the personnel problem at professional stations. The article also proposes future arrangements for satellite observations, including the addition of simple interferometers and simultaneous recordings of the Doppler shift on higher frequencies.
+scientific_discipline: Physics > Astronomy

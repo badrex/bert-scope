@@ -1,0 +1,10 @@
+article_id: 'rspb_1979_0063'
+revised_title: 'Optimum Probabilistic Processing in Colour Perception: Colour Vision as Template Matching'
+semantic_tags:
+  - Color Vision
+  - Template Matching
+  - Optimal Processing
+  - Poisson Statistics
+  - Brightness Perception
+tldr: This article presents a statistical approach to human colour vision, considering the central visual processor as an optimum recognizer of stochastic patterns supplied by the periphery. The processor makes an optimum estimate of the spectral parameters of the stimulus, given the wavelength filter characteristics of the periphery, the stochastic nature of the information, and an internal template to which the external stimulus is matched. The study focuses on subjective brightness of monochromatic stimuli and related constant brightness manifolds in the colour space, as well as the Bezold-Brucke hue shift, which are the main constraints for brightness and hue estimation.
+scientific_discipline: Biology and Life Sciences > Neuroscience

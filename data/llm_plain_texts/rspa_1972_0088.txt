@@ -1,0 +1,10 @@
+article_id: rspa_1972_0088
+revised_title: 'Radiation-Induced Fluorescence and Excited States of Aromatic Hydrocarbons'
+semantic_tags:
+  - Fluorescence
+  - Aromatic hydrocarbons
+  - Excited states
+  - Radiation chemistry
+  - Quenching
+tldr: The authors investigated the radiation-induced fluorescence and excited states of aromatic hydrocarbons in benzene and cyclohexane. They measured rate constants for the quenching of excited singlet states of naphthalene and pyrene by various quenchers. The study provides insights into the behavior of electronically excited singlet state aromatic molecules and their interactions with different substances.
+scientific_discipline: Chemistry > Physical Chemistry

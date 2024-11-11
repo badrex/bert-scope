@@ -1,0 +1,10 @@
+article_id: rspa_1954_0051
+revised_title: 'Stability and Post-Buckling Behavior of Curved Rectangular Plates in Axial Compression'
+semantic_tags:
+  - Structural Engineering
+  - Plate Buckling
+  - Elasticity
+  - Mechanics
+  - Applied Mathematics
+tldr: The authors analyze the stability and post-buckling behavior of initially curved rectangular plates subjected to axial compression. They extend the analysis of previous parts to consider the case of free-edged rectangular plates with an initial curvature and explore the effects of distributed bending moments and compressive forces on these plates.
+scientific_discipline: Engineering and Technology > Structural Engineering

@@ -1,0 +1,10 @@
+article_id: rspa_1975_0049
+revised_title: Intramolecular Chiral Discrimination in Molecules: A Theoretical Approach
+semantic_tags:
+  - Chiral chemistry
+  - Molecular orbital calculations
+  - Intramolecular interactions
+  - Stereochemistry
+  - 2,3-dicyano-butane
+tldr: The authors investigate intramolecular chiral discrimination between meso and isomers using molecular orbital calculations. They study the energy difference between the two conformations of 2,3-dicyano-butane, finding a 3.1 energy difference in favor of the meso species. This research provides insights into understanding short-range interactions between chiral molecules.
+scientific_discipline: Chemistry > Stereochemistry

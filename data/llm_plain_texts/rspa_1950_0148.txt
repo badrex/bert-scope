@@ -1,0 +1,10 @@
+article_id: rspa_1950_0148
+revised_title: 'Modeling the Solar Chromosphere Using Radio Data'
+semantic_tags:
+  - Solar Physics
+  - Radio Astronomy
+  - Chromosphere
+  - Plasma Physics
+  - Astrophysics
+tldr: The authors used radio data to derive a model solar chromosphere. They developed an empirical relationship between the equivalent black-body temperature and radio frequency, allowing them to determine the absorption coefficient of radio waves in the solar atmosphere. By separating the coronal and chromospheric components of radiation, they determined their distributions over the solar disk. The results were compared with experimental observations, showing good agreement for the present purposes. This model provided a relationship between electron temperature and optical depth, which helped determine electron densities and temperatures throughout the chromosphere.
+scientific_discipline: Physics > Plasma Physics

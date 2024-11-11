@@ -1,0 +1,10 @@
+article_id: rsta_1993_0119
+revised_title: Aromatic Interactions in Biological Molecular Recognition
+semantic_tags:
+  - Molecular Recognition
+  - Aromatic Chemistry
+  - Non-covalent Interactions
+  - Protein Structure
+  - DNA Structure
+tldr: This article discusses the importance of aromatic interactions in biological molecular recognition, focusing on non-covalent interactions between aromatic molecules in proteins, DNA, and synthetic receptors. The author presents a theoretical model for these interactions, which takes into account the geometric properties of π-π interactions and out-of-plane π-electron density. Experimental evidence and applications of the model are provided, including the design of a synthetic molecular receptor that recognizes p-benzoquinone using hydrogen bonds and edge-to-face π-π interactions. The article also explores the role of aromatic interactions in the sequence-dependent structure of DNA.
+scientific_discipline: Chemistry > Organic Chemistry

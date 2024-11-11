@@ -1,0 +1,10 @@
+article_id: 107306
+revised_title: 'Attractions of Homogeneous Spheroids and the Theory of the Earth'
+semantic_tags:
+  - Gravitational Attraction
+  - Spheroids
+  - Ellipsoids
+  - Planetary Science
+  - Celestial Mechanics
+tldr: The author investigates the attractions of a wide class of spheroids, including the ellipsoid, which is essential for understanding planetary science and celestial mechanics. The study focuses on homogeneous spheroids and provides formulas for the attractions of these figures, which are crucial for the theory of the Earth.
+scientific_discipline: Physics > Planetary Science

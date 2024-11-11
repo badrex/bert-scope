@@ -1,0 +1,10 @@
+article_id: rspa_1933_0070
+revised_title: 'X-Ray Reflection by Perfect Crystals: The Role of Atomic Scattering Factor'
+semantic_tags:
+  - X-ray crystallography
+  - Atomic scattering factor
+  - Crystallography
+  - Diamond lattice
+  - Reflection
+scientific_discipline: Physics > Optics
+tldr: The authors studied the reflection and refraction of X-rays by perfect crystals, focusing on the atomic scattering factor. They found that considering the atomic scattering factor can help explain the intensity of reflection by perfect crystals, such as diamond, and improve the understanding of X-ray reflection theory.

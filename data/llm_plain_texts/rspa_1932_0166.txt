@@ -1,0 +1,10 @@
+article_id: rspa_1932_0166
+revised_title: 'Inert Gas Atoms Energy Exchange and Thermal Accommodation Coefficients'
+semantic_tags:
+  - Gas Atom Collisions
+  - Thermal Accommodation Coefficient
+  - Quantum Transitions
+  - Solid Surface Interactions
+  - Bessel Functions
+tldr: The authors study the energy exchange between inert gas atoms and a solid surface, focusing on the thermal accommodation coefficient. They develop a theoretical explanation for the measured accommodation coefficients for helium on tungsten at various temperatures, considering the interaction between the gas atom and the solid surface. The authors use Bessel functions and quantum transitions to calculate the transition probabilities per collision and evaluate the accommodation coefficient.
+scientific_discipline: Physics > Solid State Physics

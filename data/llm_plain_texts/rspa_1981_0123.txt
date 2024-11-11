@@ -1,0 +1,10 @@
+article_id: rspa_1981_0123
+revised_title: 'Dispersion in Laminar Flow: A Comprehensive Study of Hydrogen and Nitrobenzoic Acid in Water'
+semantic_tags:
+  - Fluid Dynamics
+  - Convective Diffusion
+  - Laminar Flow
+  - Diffusion Coefficients
+  - Tube Flow
+tldr: The authors studied dispersion in laminar flow through a circular tube using a method based on moments, calculating the first four moments for different types of pulses. They applied this method to measure the diffusivities of hydrogen and nitrobenzoic acid in water and compared the results with Taylor's method of analysis. The experiments were performed in coiled tubes, and the influence of the tube curvature on the diffusivities was discussed.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

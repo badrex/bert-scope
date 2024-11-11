@@ -1,0 +1,10 @@
+article_id: rspa_1910_0055
+revised_title: 'Investigating the Distribution of Stars in Space'
+semantic_tags:
+  - Astrophysics
+  - Celestial Mechanics
+  - Stellar Statistics
+  - Star Parallax
+  - Spherical Astronomy
+tldr: The author analyzes the distribution of stars in space, focusing on parallax constants and their relationship to the distance and brightness of stars. They explore various models, including uniform distribution, spheroidal distribution, and columnar distribution, and discuss the limitations of current data in determining the true distribution of stars.
+scientific_discipline: Astronomy > Celestial Mechanics

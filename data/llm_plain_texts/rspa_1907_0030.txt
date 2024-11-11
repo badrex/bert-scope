@@ -1,0 +1,10 @@
+article_id: 'rspa_1907_0030'
+revised_title: 'Stress-Optical Coefficient and Dispersion of Artificial Double Refraction'
+semantic_tags:
+  - Stress-Optics
+  - Artificial Double Refraction
+  - Glass Physics
+  - Optical Coefficient
+  - Spectroscopy
+tldr: The authors conducted experiments to study the stress-optical coefficient and dispersion of artificial double refraction in various glasses. They developed a new method to measure the relative retardation of light passing through glass under stress and found that the stress-optical coefficient is roughly proportional to the dispersion of double refraction in some glasses. The results also suggest that the effect of stress on glass changes the number of electrons responding to vibrations in different directions, without altering the actual periods of vibration.
+scientific_discipline: Physics > Optics

@@ -1,0 +1,10 @@
+article_id: rstl_1881_0018
+revised_title: Riccati's Equation and Its Transformations
+semantic_tags:
+  - Differential Equations
+  - Mathematics
+  - Riccati Equation
+  - Bessel Functions
+  - Series Solutions
+tldr: This article explores the different forms of the integrals of the Riccati differential equation and evaluates certain definite integrals connected to this equation. It also examines the symbolic solutions of the equation and its transformations and their connections with Bessel's functions.
+scientific_discipline: Mathematics > Differential Equations

@@ -1,0 +1,10 @@
+article_id: rspa_1963_0153
+revised_title: Integral Equation Methods in Potential Theory: Numerical Solutions and Applications
+semantic_tags:
+  - Potential Theory
+  - Numerical Analysis
+  - Fredholm Integral Equations
+  - Boundary Value Problems
+  - Electromagnetic Fields
+tldr: This article presents numerical methods for solving integral equations in potential theory, focusing on Fredholm's first and second equations. The authors demonstrate the effectiveness of these techniques on various two-dimensional problems, including notched circles and straight lines, and discuss their applications in potential fields and boundary value problems.
+scientific_discipline: Mathematics > Numerical Analysis

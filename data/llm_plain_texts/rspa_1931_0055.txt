@@ -1,0 +1,10 @@
+article_id: rspa_1931_0055
+revised_title: Thermal Conductivity of Metal Wires
+semantic_tags:
+  - Thermal conductivity
+  - Metal properties
+  - Temperature coefficient of resistance
+  - Impurities in metals
+  - Experimental methods
+tldr: This article investigates the thermal conductivity of various metal wires, including silver, gold, molybdenum, and tungsten, using an electrical method. The authors found that the thermal conductivity of gold may be 4 to 5% lower than previously accepted values, and that the thermal conductivity of pure tungsten requires further experimental investigation. The results also suggest that the Lorenz rule may not apply to all metals, as impure metals like tungsten and molybdenum have higher Lorenz coefficients.
+scientific_discipline: Physics > Materials Science

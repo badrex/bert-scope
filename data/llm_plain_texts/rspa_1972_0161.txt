@@ -1,0 +1,10 @@
+article_id: rspa_1972_0161
+revised_title: Maximum Number of Collisions of Elastic Particles in Newtonian and Relativistic Mechanics
+semantic_tags:
+  - Elastic collisions
+  - Newtonian mechanics
+  - Relativistic mechanics
+  - Kinetic theory
+  - Particle physics
+tldr: This article investigates the maximum number of collisions possible for elastic particles under Newtonian and relativistic mechanics. The author establishes that the maximum number of collisions is finite and provides formulas for calculating these collisions. The study is relevant to kinetic theory and other areas of physics.
+scientific_discipline: Physics > Particle physics

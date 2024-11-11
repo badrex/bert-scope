@@ -1,0 +1,10 @@
+article_id: rsta_1896_0016
+revised_title: 'On the Theory of Partition of Numbers: Part I'
+semantic_tags:
+  - Combinatorics
+  - Number Theory
+  - Partitions
+  - Symmetric Functions
+  - Algebraic Geometry
+tldr: The author, Major P. A. MacMahon, explores the theory of partitioning numbers and the connections between unipartite and multipartite partitions. He introduces the concept of separation of partitions and its importance in the theory of symmetric functions. The article also discusses the graphical representation of compositions and partitions, focusing on Sylvester's method and its application to bipartite numbers.
+scientific_discipline: Mathematics > Combinatorics

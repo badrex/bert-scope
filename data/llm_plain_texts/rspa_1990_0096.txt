@@ -1,0 +1,10 @@
+article_id: rspa_1990_0096
+revised_title: Geometric Amplitude Factors in Adiabatic Quantum Transitions: A Review
+semantic_tags:
+  - Quantum Mechanics
+  - Adiabatic Processes
+  - Geometric Phases
+  - Spin Dynamics
+  - Hamiltonian Mechanics
+tldr: This article discusses the geometric amplitude factors in adiabatic quantum transitions, which are exponentially weak but have an additional exponential factor of order unity and are geometric in character. The author provides general properties and examples of these geometric amplitudes and explains how they can be observed in experiments with spinning particles.
+scientific_discipline: Physics > Quantum Mechanics

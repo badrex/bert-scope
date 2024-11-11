@@ -1,0 +1,10 @@
+article_id: rspa_1954_0153
+revised_title: The Effect of Particle Size on Titanium Dioxide's Heat Capacity
+semantic_tags:
+  - Heat capacity
+  - Titanium dioxide
+  - Particle size
+  - Thermal properties
+  - Crystal structure
+tldr: This study investigates the effect of particle size on the heat capacity of titanium dioxide. Contrary to existing theories, no significant effect of particle size was found in the low-temperature range. However, a noticeable particle-size effect was observed at higher temperatures, which may be attributed to changes in the optical modes of vibration of the solid. The complex crystal structure of titanium dioxide prevents any quantitative theoretical calculations.
+scientific_discipline: Physics > Thermodynamics

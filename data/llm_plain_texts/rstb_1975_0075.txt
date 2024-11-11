@@ -1,0 +1,10 @@
+article_id: 'rstb_1975_0075'
+revised_title: 'Self-Assembly of Biological Macromolecules: Principles and Evolutionary Significance'
+semantic_tags:
+  - Protein folding
+  - Oligomeric enzymes
+  - Quaternary structure
+  - Molecular recognition
+  - Self-assembly
+tldr: The article discusses the self-assembly of biological macromolecules, focusing on the folding and aggregation of proteins. It explains how genetic information leads to the accurate biosynthesis of primary structures, which then fold and aggregate to form complex tertiary and quaternary structures. The importance of molecular recognition and specificity in the folding and assembly processes is emphasized, as well as the role of water as a solvent in these processes. The article also highlights the evolutionary significance of aggregation and subunit interactions in increasing the size and complexity of proteins.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

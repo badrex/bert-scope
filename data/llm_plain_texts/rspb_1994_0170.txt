@@ -1,0 +1,10 @@
+article_id: 'rspb_1994_0170'
+revised_title: 'Modulation of Schwann Cell Potassium Channels in Axon Contact'
+semantic_tags:
+  - Ion channels
+  - Schwann cells
+  - Potassium channels
+  - Neurites
+  - Organotypic cultures
+tldr: This study investigates the expression of functional potassium channels in mouse Schwann cells attached to neurites. The results show that these cells have a sustained potassium current, but only 15% have a detectable transient current. The authors suggest three possible explanations for this finding: reduced transient potassium current, down-regulation of functional expression by axon contact, or channel transfer to the axon. Understanding the modulation of ion channels in Schwann cells may contribute to the study of their functions and roles in the nervous system.
+scientific_discipline: Biology and Life Sciences > Neuroscience

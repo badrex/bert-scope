@@ -1,0 +1,10 @@
+article_id: rspa_1994_0005
+revised_title: Disorder and Localization in Fluid-Loaded Ribbed Structures: An Exact Solution
+semantic_tags:
+  - Wave Propagation
+  - Fluid Dynamics
+  - Elasticity
+  - Transfer Matrices
+  - Localization
+tldr: This paper presents an exact solution for the steady-state harmonic response of an elastic fluid-loaded membrane supported by irregularly spaced ribs. The solution is given under the assumption of subsonic wave coupling and explains the two distinct localization regimes: smooth and fluctuating exponential decay. The transfer matrix solution is used to explain these regions and the average transfer matrix is obtained exactly.
+scientific_discipline: Physics > Wave Mechanics

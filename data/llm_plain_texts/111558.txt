@@ -1,0 +1,10 @@
+article_id: 111558
+revised_title: 'Improving Graphite Batteries with Platinum'
+semantic_tags:
+  - Batteries
+  - Electrochemistry
+  - Platinum
+  - Graphite
+  - Telecommunications
+tldr: In this article, C. V. Walker describes his experiments with platinized graphite batteries, which he used for telegraph communication. By platinizing the graphite, Walker significantly improved the battery's performance and durability, making it a more effective and long-lasting alternative to silver batteries. This discovery led to the widespread use of graphite batteries in telecommunication systems, such as the South Eastern Railway.
+scientific_discipline: Engineering and Technology > Batteries and Energy Storage

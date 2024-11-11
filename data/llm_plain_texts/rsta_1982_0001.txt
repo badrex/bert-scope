@@ -1,0 +1,10 @@
+article_id: 'rsta_1982_0001'
+revised_title: 'Gauge Theories and Fundamental Interactions: A Historical Overview'
+semantic_tags:
+  - Gauge Theories
+  - Quantum Field Theory
+  - Electroweak Theory
+  - Quantum Chromodynamics
+  - Particle Physics
+tldr: This article provides an introduction to gauge theories and their role in understanding fundamental interactions. It discusses the development of quantum field theory, from its early days with QED to the emergence of non-Abelian gauge theories, and the electroweak theory combining electrodynamic and weak properties of leptons. The article also touches upon the strong interactions, quantum chromodynamics, and the more speculative grand unified theories.
+scientific_discipline: Physics > Particle Physics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1982_0092'
+revised_title: 'Fiber Diameter and Conduction Velocity in Myelinated Nerve Fibers'
+semantic_tags:
+  - Nerve Conduction
+  - Myelinated Nerve Fibers
+  - Fiber Diameter
+  - Conduction Velocity
+  - Nervous System
+tldr: The author investigates the relationship between fiber diameter and conduction velocity in myelinated nerve fibers. They find that smaller diameter fibers have a constant internodal length, which deviates from Rushton's theory. This deviation results in reduced conduction velocity in smaller fibers, explaining why myelinated fibers smaller than 1 micrometer in diameter are rare in the peripheral nervous system. The author suggests that the minimum internodal length, determined by the Schwann cell size, causes conduction block in fibers smaller than 0.8 micrometers in diameter.
+scientific_discipline: Biology and Life Sciences > Neuroscience

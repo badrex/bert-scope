@@ -1,0 +1,10 @@
+article_id: 'rspa_1929_0010'
+revised_title: 'Discovery of Ground-Terms in the Spectrum of Nickel II and Proposed Standard Wave-Lengths in the Schumann Region'
+semantic_tags:
+  - Atomic spectroscopy
+  - Nickel chemistry
+  - Wave-lengths
+  - Schumann region
+  - Term-scheme
+tldr: The authors investigated the spectrum of nickel II and discovered the ground-terms using a vacuum spectrograph. They found that the lines involving the ground-terms of the spark spectrum come on particularly strongly and are very long. The study allowed them to propose standard wave-lengths in the Schumann region, which can be used as a reference for future research.
+scientific_discipline: Chemistry > Atomic spectroscopy

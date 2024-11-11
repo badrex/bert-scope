@@ -1,0 +1,10 @@
+article_id: rspl_1895_0099
+revised_title: 'Experimental Investigation of X-Ray Reflection and Contact Potential'
+semantic_tags:
+  - X-rays
+  - Reflection
+  - Contact potential
+  - Physics
+  - Experiments
+tldr: The author conducted experiments to investigate whether X-rays affect the contact potential of metal plates. They used a vacuum bulb and induction coil to produce X-rays and enclosed the apparatus in a metal-lined box to screen it from electrical disturbances. The results showed that X-rays do not cause a significant change in the contact potential difference between metal plates.
+scientific_discipline: Physics > Electromagnetism

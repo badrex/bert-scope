@@ -1,0 +1,10 @@
+article_id: rsta_1951_0012
+revised_title: Farey Section in k(i) and k(λ)
+semantic_tags:
+  - Number Theory
+  - Approximation Theory
+  - Algebraic Geometry
+  - Minkowski's Theorem
+  - Farey Fractions
+tldr: The authors extend the concept of Farey sections to the quadratic field and study its properties. They use this theory to discuss the approximation of complex numbers by numbers of and and the related problem of the minimum of for, where are given. This work provides new proofs of Minkowski's theorems, which are more transparent than the original proofs.
+scientific_discipline: Mathematics > Number Theory

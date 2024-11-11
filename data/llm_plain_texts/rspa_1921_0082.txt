@@ -1,0 +1,10 @@
+article_id: rspa_1921_0082
+revised_title: 'Investigation of Doublet Separations in the Balmer Series of Hydrogen'
+semantic_tags:
+  - Atomic Physics
+  - Spectroscopy
+  - Hydrogen Spectrum
+  - Doublet Separation
+  - Sommerfeld's Theory
+tldr: This article presents an investigation of the doublet separations in the Balmer series of hydrogen. The authors made accurate determinations of the doublet separations for the first four members of the series using a spectrograph and a discharge tube. Their results support Sommerfeld's theory, which predicts that the doublet separations should be constant for all members of the Balmer series.
+scientific_discipline: Physics > Atomic Physics

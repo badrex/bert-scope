@@ -1,0 +1,10 @@
+article_id: 'rspa_1916_0048'
+revised_title: 'Investigating the Intensity Distribution in Hydrogen and Helium Spectra'
+semantic_tags:
+  - Spectroscopy
+  - Hydrogen spectrum
+  - Helium spectrum
+  - Balmer series
+  - Intensity distribution
+tldr: The authors studied the intensity distribution in the spectra of hydrogen and helium using a neutral-tinted wedge as an accessory to the spectroscope. They found that under certain conditions, energy is transferred from longer to shorter wavelengths in a given series, enhancing the associated series at the expense of the Principal series. They also discovered that the distribution of intensity found in certain celestial spectra can be approximately reproduced in the laboratory.
+scientific_discipline: Physics > Optics

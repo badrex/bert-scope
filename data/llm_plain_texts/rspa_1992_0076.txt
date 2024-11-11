@@ -1,0 +1,10 @@
+article_id: rspa_1992_0076
+revised_title: Bifurcation Analysis of Adaptive Equalizer Control
+semantic_tags:
+  - Adaptive equalization
+  - Bifurcation analysis
+  - Dynamical systems theory
+  - Telecommunications
+  - Nonlinear control
+tldr: This paper investigates the behavior of a new type of linear equalizer called the'series' equalizer, which has a simpler architecture than the conventional'standard' equalizer. The authors use dynamical systems theory to analyze the adaptation algorithm and show that there is no possibility of periodic behavior with sensible choices of physical parameters. The study focuses on the control of the two-tap series equalizer in digital radio systems to combat time-varying signal distortion.
+scientific_discipline: Engineering and Technology > Telecommunications

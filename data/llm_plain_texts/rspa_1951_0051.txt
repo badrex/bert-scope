@@ -1,0 +1,10 @@
+article_id: rspa_1951_0051
+revised_title: Non-Holonomic Quantum Mechanics and its Implications
+semantic_tags:
+  - Quantum Mechanics
+  - Non-Holonomic Systems
+  - Heisenberg Equations
+  - Schrodinger Equation
+  - Quantum Theory
+tldr: This article explores the application of quantum mechanics to non-holonomic systems, which have constraints that do not commute with the Hamiltonian. The author demonstrates that these constraints lead to important changes in the theory but do not violate the fundamental laws of quantum mechanics. The Heisenberg and Schrodinger equations are investigated, revealing a new kind of operator called the quasi projection operator and a quasi phase factor associated with the wave function. The results show that non-holonomic quantum mechanics can be incorporated into the existing framework of quantum theory.
+scientific_discipline: Physics > Quantum Mechanics

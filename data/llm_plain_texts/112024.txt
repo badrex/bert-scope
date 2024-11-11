@@ -1,0 +1,10 @@
+article_id: 112024
+revised_title: 'Improved Mercurial Barometer: A New Design and Graduation Method'
+semantic_tags:
+  - Barometer
+  - Atmospheric pressure
+  - Instrumentation
+  - Vernier
+  - Gay-Lussac's pipette
+tldr: The author, James Hicks, describes an improved mercurial barometer design with a unique graduation method. The barometer features a glass tube with a larger bore in the lower half, allowing for better compensation and a more accurate scale. The new design also incorporates a vernier for precise readings and Gay-Lussac's pipette to prevent air contamination. This innovation provides a more reliable and user-friendly barometer for measuring atmospheric pressure.
+scientific_discipline: Engineering and Technology > Instrumentation

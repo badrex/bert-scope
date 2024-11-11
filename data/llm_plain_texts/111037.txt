@@ -1,0 +1,10 @@
+article_id: 111037
+revised_title: Direct Production of Heat by Magnetism: Experimental Evidence
+semantic_tags:
+  - Magnetism
+  - Thermodynamics
+  - Heat production
+  - Electromagnetism
+  - Soft iron
+tldr: The author, W.R. Grove, conducted experiments to investigate the direct production of heat by magnetism. He discovered that when a bar of soft iron or other magnetic metal is magnetized, its temperature rises. This finding supports the idea that molecular friction might be responsible for the heat production during magnetization. The author also discusses the implications of these findings for the understanding of the action of imponderables and terrestrial magnetism.
+scientific_discipline: Physics > Electromagnetism

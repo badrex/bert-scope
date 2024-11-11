@@ -1,0 +1,10 @@
+article_id: 108976
+revised_title: Orders and Genera of Ternary Quadratic Forms
+semantic_tags:
+  - Number Theory
+  - Algebra
+  - Quadratic Forms
+  - Mathematical Analysis
+  - Mathematical Notation
+tldr: The author, Henry J. Stephen Smith, explores the orders and genera of ternary quadratic forms, focusing on their invariants and properties. He defines primitive forms and their classes, and discusses the subdivision of orders into genera based on prime numbers and their residues. The text also includes a table for ascertaining the supplementary characters of proposed forms.
+scientific_discipline: Mathematics > Algebra

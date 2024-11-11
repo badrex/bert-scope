@@ -1,0 +1,10 @@
+article_id: rspa_1934_0079
+revised_title: 'Yielding of Materials with Spherical and Elliptic Cylindrical Holes'
+semantic_tags:
+  - Material Science
+  - Plasticity
+  - Elasticity
+  - Stress Analysis
+  - Yielding of Materials
+tldr: The author investigates the yielding behavior of materials with spherical and elliptic cylindrical holes under shear stress. They analyze the stress distribution and the conditions for yielding in both cases, finding that the yield condition of the granular mass depends on the yield condition of each individual grain and the manner in which the yielding of one grain concentrates stress on its neighbors.
+scientific_discipline: Engineering and Technology > Materials Science

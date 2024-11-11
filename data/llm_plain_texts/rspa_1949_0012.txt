@@ -1,0 +1,10 @@
+article_id: rspa_1949_0012
+revised_title: Order-Disorder Statistics and the Ising Model
+semantic_tags:
+  - Statistical mechanics
+  - Ising model
+  - Ferromagnetism
+  - Order-disorder transitions
+  - Partition function
+tldr: The author presents an alternative method for deriving the partition function in problems of classical statistical mechanics, including the Ising model. The method generalizes the "screw transformation" to apply to various problems, such as the three-dimensional Ising model and order-disorder problems. The relation between the ferromagnetic and order-disorder problems is discussed, and it is shown that both can be derived from a single function of two variables.
+scientific_discipline: Physics > Statistical Mechanics

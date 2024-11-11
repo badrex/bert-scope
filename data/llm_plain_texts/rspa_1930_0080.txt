@@ -1,0 +1,10 @@
+article_id: rspa_1930_0080
+revised_title: 'Investigation of Photo-Conductance and the Nature of the Photo-Current in Silver Halides'
+semantic_tags:
+  - Photo-conductance
+  - Silver halides
+  - Photo-current
+  - Dark current
+  - Annealing
+scientific_discipline: Physics > Optics
+tldr: The authors conducted experiments on photo-conductance in silver halides and studied the latent photographic image. They found that the photo-current is likely electronic, as opposed to ionic, and that the photo-conductance increases with decreasing temperature below 150°C. The number of free electrons present during illumination is proportional to the light intensity, which supports the idea that the photo-conductance is directly related to the intensity of the light.

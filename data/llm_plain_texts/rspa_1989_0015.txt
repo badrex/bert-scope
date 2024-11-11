@@ -1,0 +1,10 @@
+article_id: rspa_1989_0015
+revised_title: Active Vibration Isolation by Cancelling Bending Waves
+semantic_tags:
+  - Vibration Control
+  - Bending Waves
+  - Active Isolation
+  - Flexural Waves
+  - Anti-sound
+tldr: The authors developed an active vibration isolation system that cancels bending waves to prevent external disturbances from affecting a structure. This method uses active forces to detect and counteract propagating and evanescent waves, achieving total isolation with just two point forces. The system's effectiveness relies on the accuracy of the control system implementation.
+scientific_discipline: Engineering and Technology > Vibration Control

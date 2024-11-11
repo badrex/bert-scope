@@ -1,0 +1,10 @@
+article_id: rspa_1989_0022
+revised_title: Active Vibration Control of Flexible Rotors: A Review of Theoretical and Experimental Studies
+semantic_tags:
+  - Rotor-Bearing Systems
+  - Active Vibration Control
+  - Magnetic Actuators
+  - Oil-Film Bearings
+  - Adaptive Control Algorithms
+tldr: This paper presents an experimental and theoretical study on active vibration control of flexible rotors. The authors develop an adaptive algorithm that estimates system characteristics and applies the optimum control force to minimize synchronous vibration. The algorithm is tested on a rotor-bearing rig with a flexible shaft supported on oil-film bearings, using a single electromagnetic actuator for control. The study demonstrates the effectiveness of the algorithm in controlling both the stability threshold and the rotor's synchronous response.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

@@ -1,0 +1,10 @@
+article_id: rspa_1961_0028
+revised_title: 'Evaluation of Velocity Coefficients for Heterogeneous Polymerization of Acrylonitrile'
+semantic_tags:
+  - Polymer Chemistry
+  - Acrylonitrile Polymerization
+  - Non-stationary State
+  - Kinetic Chain
+  - Heterogeneous Polymerization
+tldr: The author evaluates the velocity coefficients for the propagation and termination reactions in the heterogeneous polymerization of acrylonitrile using a thermocouple non-stationary-state method. The results show that the presence of precipitated polymer increases the lifetime of the kinetic chain and decreases the rate of reaction. The study supports the occlusion theory, which explains the unique characteristics of bulk acrylonitrile polymerization.
+scientific_discipline: Chemistry > Polymer Chemistry

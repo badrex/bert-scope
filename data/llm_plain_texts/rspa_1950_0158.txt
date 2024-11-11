@@ -1,0 +1,10 @@
+article_id: 'rspa_1950_0158'
+revised_title: 'Advancements in Ultra-Violet Microscopy with Phase-Contrast'
+semantic_tags:
+  - Microscopy
+  - Phase-Contrast
+  - Ultra-Violet Light
+  - Biological Objects
+  - Zemike's Phase-Contrast
+tldr: The author demonstrates the application of Zemike's phase-contrast technique to ultra-violet microscopy, which provides clearer visual selection of suitable fields of view and reveals structural details that cause changes in transmitted radiations. This method can be used to photograph structures in contrast even when selective absorption does not occur. The technique is shown to be sensitive to minute changes in phase and produces images with good contrast, revealing details that cannot be seen using normal methods.
+scientific_discipline: Physics > Optics

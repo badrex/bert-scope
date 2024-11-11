@@ -1,0 +1,10 @@
+article_id: rspa_1986_0058
+revised_title: 'Quantitative Laser Schlieren Analysis of Positive Streamers in Atmospheric Air'
+semantic_tags:
+  - Plasma Physics
+  - Atmospheric Science
+  - Laser Techniques
+  - Streamers
+  - Schlieren Analysis
+tldr: The authors conducted a quantitative laser Schlieren analysis of positive streamers in atmospheric air using a helium-neon laser and the shadow method. They measured the intensity profile changes of the laser beam after passing through the discharge gap, providing radial profiles of neutral density at different times following streamer onset. The results revealed that energy is transferred to neutrals from streamer electrons in two stages, leading to a temperature rise and reductions in neutral density.
+scientific_discipline: Physics > Plasma Physics

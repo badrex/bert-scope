@@ -1,0 +1,10 @@
+article_id: rspa_1930_0137
+revised_title: Development of an Electron Camera for Diffraction Patterns
+semantic_tags:
+  - Electron diffraction
+  - Cathode rays
+  - Crystallography
+  - Physics
+  - Instrumentation
+tldr: The authors developed an electron camera to study the diffraction patterns formed by reflecting cathode rays from crystalline surfaces. The camera uses a narrow beam of cathode rays, which pass through two fine pinholes and strike a crystalline target, creating divergent beams that ultimately strike a photographic plate. This device allows for the observation and analysis of electron diffraction patterns, providing valuable insights into the behavior of electrons and their interactions with crystals.
+scientific_discipline: Physics > Crystallography

@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0045'
+revised_title: 'A Sensitive Optically Detected Magnetic Compass for Animals: A New Model'
+semantic_tags:
+  - Magnetoreception
+  - Biology
+  - Navigation
+  - Liquid Crystals
+  - Magnetite
+scientific_discipline: Biology and Life Sciences > Magnetoreception
+tldr: The author proposes a new model for a sensitive magnetic compass in animals using a combination of ferrimagnetic single-domain crystals and nematic liquid crystals. This model could explain the operation of an optically detected biological compass based on magnetite, which has been observed in various animals such as newts, fruit flies, pigeons, and silvereyes. The author suggests that incorporating this mechanism into a spherical droplet of liquid crystal with magnetite inclusions could create a highly sensitive compass, which could be detected optically using elongated dye molecules like P-carotene. This model could potentially be tested in avian retinas, which already contain oil droplets with elongated dye molecules related to P-carotene.

@@ -1,0 +1,10 @@
+article_id: rspa_1925_0018
+revised_title: Quantum Conditions for Degenerate Systems
+semantic_tags:
+  - Quantum mechanics
+  - Atomic physics
+  - Degenerate systems
+  - Adiabatic invariants
+  - Quantum conditions
+tldr: The authors explore the application of quantum conditions in degenerate systems, specifically in the hydrogen atom under an external electric field. They introduce the concept of adiabatic invariants and suggest that half-integral orbits can be adopted to explain the Stark effect. The study also provides a further example of applying these conditions to a harmonic oscillator, resulting in consistent outcomes.
+scientific_discipline: Physics > Atomic Physics

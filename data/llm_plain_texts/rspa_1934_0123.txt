@@ -1,0 +1,10 @@
+article_id: rspa_1934_0123
+revised_title: Improved Method for Measuring Air Thermal Conductivity
+semantic_tags:
+  - Thermal Conductivity
+  - Air Properties
+  - Heat Transfer
+  - Physics Experiments
+  - Parallel Plate Method
+tldr: The authors developed an improved parallel plate method to measure the thermal conductivity of air. They used a central disc with grooves for thermo-junctions and modified buttons to support the disc. This method provided more accurate results for air thermal conductivity.
+scientific_discipline: Physics > Heat Transfer

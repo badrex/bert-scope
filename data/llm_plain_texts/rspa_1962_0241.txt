@@ -1,0 +1,11 @@
+article_id: rspa_1962_0241
+revised_title: 'Study of Ortho-Positronium Quenching in Helium, Argon, and Freon'
+semantic_tags:
+  - Positronium
+  - Quenching
+  - Helium
+  - Argon
+  - Freon
+  - Gas Physics
+tldr: The authors measured the quenching rate of ortho-positronium in helium, argon, and freon. They found that the quenching rate in helium is relatively small, which can be explained by a pick-off process. The study provides insights into the interactions between positronium and gas atoms, which is useful for understanding slow collisions of systems with a mass similar to that of the electron. The results can be applied to improve our understanding of gas physics and the behavior of positronium in different environments.
+scientific_discipline: Physics > Gas Physics

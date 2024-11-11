@@ -1,0 +1,10 @@
+article_id: 102935
+revised_title: 'A Simple Instrument for Accurately Measuring the Meridian and Determining Longitudes'
+semantic_tags:
+  - Astronomy
+  - Navigation
+  - Timekeeping
+  - Sun-Dials
+  - Latitude
+tldr: The author describes an instrument designed by Sir Christopher Wren for accurately measuring the meridian and determining longitudes of places. The instrument can be used to observe the transit of celestial bodies over the meridian, making it useful for setting watches and correcting sundials. This method allows for precise timekeeping and can be applied in various locations around the world.
+scientific_discipline: Astronomy > Navigation

@@ -1,0 +1,10 @@
+article_id: 'rspa_1932_0094'
+revised_title: 'Relativistic Quantum Mechanics: Dirac's Contribution and Its Implications'
+semantic_tags:
+  - Quantum Mechanics
+  - Relativity
+  - Particle Physics
+  - Electrodynamics
+  - Wave Equations
+tldr: In this article, Dirac discusses the development of relativistic quantum mechanics and the interaction of particles and fields. He proposes a scheme that accounts for the interplay between particles and fields in a simple manner, using information from classical theory. Dirac also addresses the challenges of applying relativistic ideas to higher approximations and more general problems, and suggests that a different approach is needed, building on Heisenberg's matrix theory.
+scientific_discipline: Physics > Particle Physics

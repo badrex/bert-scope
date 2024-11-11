@@ -1,0 +1,10 @@
+article_id: rsta_1993_0034
+revised_title: Meteor 28's Orbit Analysis During 15th-Order Resonance
+semantic_tags:
+  - Celestial Mechanics
+  - Satellite Orbits
+  - Geopotential Resonance
+  - Sun-synchronous Orbit
+  - Orbit Determination
+tldr: The authors analyzed the orbit of Meteor 28, a retrograde Sun-synchronous satellite, during its 15th-order resonance. They determined lumped harmonics of the Earth's geopotential by studying the changes in inclination and eccentricity of the orbit. The study used various observations, including radar, camera, and visual observations, to determine the orbit at 154 epochs between 1984 and 1989. The authors also discussed the challenges in removing other significant perturbations, such as direct gravitational attraction, air drag, and solid and ocean tides, to isolate the geopotential resonance effects.
+scientific_discipline: Environmental and Earth Sciences > Celestial Mechanics

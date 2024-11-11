@@ -1,0 +1,10 @@
+article_id: rspa_1992_0020
+revised_title: Characterization of Invariant Functionals in Crystal Defects
+semantic_tags:
+  - Crystal Defects
+  - Invariant Functionals
+  - Variational Problems
+  - Deformations
+  - Mathematics
+tldr: The authors study a class of functionals that are invariant under isochoric changes of domain and find that it contains strictly the null lagrangians. They provide a characterization of this class and discuss its implications for variational problems involving crystals with defects.
+scientific_discipline: Mathematics > Applied Mathematics

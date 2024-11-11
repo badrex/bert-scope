@@ -1,0 +1,10 @@
+article_id: 110727
+revised_title: Investigating the Figure of the Earth and Fluid Attraction
+semantic_tags:
+  - Geophysics
+  - Fluid dynamics
+  - Gravity
+  - Earth's shape
+  - Mathematical modeling
+tldr: The author investigates the figure a fluid would assume when acted upon by attraction and centrifugal force. They use mathematical calculations to determine the Earth's shape and develop a method to solve the problem for various types of spheroids. This method simplifies the analysis and provides a more complete theory.
+scientific_discipline: Earth Sciences > Geophysics

@@ -1,0 +1,10 @@
+article_id: rspa_1914_0023
+revised_title: Cathode Ray Transmission through Matter: A Study of Velocity and Absorption
+semantic_tags:
+  - Cathode rays
+  - Absorption coefficient
+  - Electromagnetic radiation
+  - Material properties
+  - Atomic physics
+tldr: This article investigates the transmission of cathode rays through various materials and their absorption properties. The authors found that the absorption coefficient of cathode rays is not always connected to their speed by the Lenard's relation. The lower limit of velocity depends on the thickness of the absorbing sheet, while the upper limit is determined by the nature of the metal. The results indicate that the exponential law of absorption is roughly obeyed, and the authors hope to discuss these findings further in future papers.
+scientific_discipline: Physics > Electromagnetic radiation and its properties

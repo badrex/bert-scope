@@ -1,0 +1,10 @@
+article_id: rspa_1967_0129
+revised_title: 'Analysis of Slow Oscillations in a Rotating Cavity with a Toroidal Magnetic Field'
+semantic_tags:
+  - Fluid dynamics
+  - Magnetohydrodynamics
+  - Geomagnetic secular variation
+  - Oscillations in a thin shell
+  - Oscillations in a thick shell
+tldr: The author examines the slow oscillations of fluid in a rotating cavity in the presence of a toroidal magnetic field. They analyze the nature of these oscillations and their potential impact on the Earth's magnetic field, concluding that the observed westward drift may not be caused by the mechanism investigated in the study. The author suggests that the theory could still be relevant to the geomagnetic secular variation if a mechanism can be found to discount the principal modes of oscillation.
+scientific_discipline: Physics > Fluid Dynamics

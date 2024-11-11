@@ -1,0 +1,10 @@
+article_id: 'rstb_1995_0077'
+revised_title: 'Spatial Dynamics of Tit-for-Tat and Defector Strategies'
+semantic_tags:
+  - Game Theory
+  - Evolutionary Biology
+  - Spatial Dynamics
+  - Cooperation
+  - Strategy
+tldr: The authors study the spatial struggle between tit-for-tat and defect strategies in a population of players. They find that stable coexistence of both players is possible, and that spatial patterns can form when constant distributions are unstable. The model shows that a small number of tit-for-tat players can invade a population of defectors, suggesting that a mutation to tit-for-tat may lead to a population of defectors being displaced.
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

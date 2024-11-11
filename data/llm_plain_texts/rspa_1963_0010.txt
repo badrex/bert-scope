@@ -1,0 +1,10 @@
+article_id: rspa_1963_0010
+revised_title: Aerodynamic Resistance to a Sphere Rotating at High Speed: Boundary Layer Regime
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer
+  - Aerodynamics
+  - Sphere Rotation
+  - Schlieren Technique
+tldr: The authors investigated the aerodynamic resistance to a sphere rotating at high speed, focusing on the boundary layer regime. They used a magnetic suspension technique to study the flow around the rotating sphere and observed that gas flows from the poles to the equator, forming a narrow planar radial jet. The measured drag torque on the sphere was higher than the predicted value, and the authors discussed possible reasons for this discrepancy.
+scientific_discipline: Physics > Fluid Dynamics

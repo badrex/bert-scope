@@ -1,0 +1,10 @@
+article_id: rspa_1991_0003
+revised_title: Generalized Gauge Invariance and the Integer Quantum Hall Effect
+semantic_tags:
+  - Quantum Hall Effect
+  - Topological Invariant
+  - Magnetic Bloch Functions
+  - Gauge Invariance
+  - Vector Potential
+tldr: The authors introduce a generalized vector potential to explain the relationship between the Hall conductance and the quantized phase winding number of the wave function around the Brillouin zone. They demonstrate that the Hall conductance of a magnetic Bloch band is given by the quantized phase winding number, and they establish that a weak periodic potential splits each Landau band into subbands whose conductances sum to unity and satisfy a Diophantine equation.
+scientific_discipline: Physics > Condensed Matter Physics

@@ -1,0 +1,10 @@
+article_id: 'rsbm_1955_0019'
+revised_title: 'Alan Turing: A Pioneering Mathematician and Computer Scientist'
+semantic_tags:
+  - Computer Science
+  - Cryptography
+  - Artificial Intelligence
+  - Mathematics
+  - Biology
+scientific_discipline: 'Mathematics > Logic and Foundations'
+tldr: 'Alan Turing was a brilliant mathematician and computer scientist who made significant contributions to logic, cryptography, and the development of early computing machines. He is best known for his work on the Turing machine and his role in cracking the Enigma code during World War II. Turing also made important discoveries in the fields of biology and the theory of morphogenesis, exploring the potential of chemical laws to explain organic growth.'

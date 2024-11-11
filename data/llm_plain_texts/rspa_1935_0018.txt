@@ -1,0 +1,10 @@
+article_id: 'rspa_1935_0018'
+revised_title: 'The Auger Effect and Its Applications in Atomic Physics'
+semantic_tags:
+  - Atomic Physics
+  - Quantum Mechanics
+  - Electron Emission
+  - X-ray Spectroscopy
+  - Nuclear Physics
+tldr: 'The authors discuss the Auger effect, a process in which an electron is ejected from an atom when another electron transitions to a higher energy level. They explain the mathematical expression for the probability of this process and describe how it differs from internal conversion of gamma rays. The authors also calculate the number of Auger electrons ejected with specific energies and discuss the order of magnitude of the probability of electron transitions in atomic systems.'
+scientific_discipline: Physics > Atomic Physics

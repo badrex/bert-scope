@@ -1,0 +1,10 @@
+article_id: rspa_1969_0189
+revised_title: Analytic Solution for Potential Distribution in Asymmetrically Excited Electrostatic Quadrupole Lens
+semantic_tags:
+  - Electrostatics
+  - Quadrupole lens
+  - Asymmetric excitation
+  - Potential distribution
+  - Laplace's equation
+tldr: The authors present an analytic solution for the potential distribution within an asymmetrically excited electrostatic quadrupole lens. They use bispherical coordinates and the method of separation of variables to solve Laplace's equation, providing a more accurate solution than numerical relaxation techniques. This solution can help improve the design of electrostatic lenses in particle accelerators and other applications.
+scientific_discipline: Engineering and Technology > Electrical and Electronics Engineering

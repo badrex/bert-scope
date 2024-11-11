@@ -1,0 +1,10 @@
+article_id: rspa_1917_0041
+revised_title: 'Discovery and Analysis of Atmospheric Ozone Absorption Bands'
+semantic_tags:
+  - Atmospheric Science
+  - Ozone
+  - Spectroscopy
+  - Astronomy
+  - Astrophysics
+tldr: 'This article discusses the discovery and analysis of absorption bands in the spectra of the sun and stars, which were found to be caused by atmospheric ozone. The authors conducted experiments using a quartz spectrograph and determined that ozone was the most probable source of the bands, which were also present in the solar spectrum. The study established the importance of understanding the role of ozone in the Earth's atmosphere and its impact on the observed spectra of celestial bodies.'
+scientific_discipline: Chemistry > Atmospheric Science

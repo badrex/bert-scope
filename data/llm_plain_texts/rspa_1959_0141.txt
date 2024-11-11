@@ -1,0 +1,10 @@
+article_id: rspa_1959_0141
+revised_title: Stability of a Viscous Liquid in a Vertical Tube with Porous Material
+semantic_tags:
+  - Fluid dynamics
+  - Porous media
+  - Rayleigh-Bénard convection
+  - Stability analysis
+  - Density gradient
+tldr: This article investigates the stability of a viscous liquid in a vertical tube containing porous material. The author examines the conditions under which the liquid's equilibrium remains stable, considering the density gradient and the effects of viscosity and diffusivity. The study compares the results with Taylor's value for the corresponding density gradient in a vertical capillary tube and explores the implications for real aqueous solutions.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

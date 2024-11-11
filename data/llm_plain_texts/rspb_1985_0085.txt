@@ -1,0 +1,10 @@
+article_id: 'rspb_1985_0085'
+revised_title: 'Oncogenes and Malignant Growth: Consequences of Altered Oncogene Expression in Rodent Cells'
+semantic_tags:
+  - Oncogenes
+  - Carcinogenesis
+  - Tumor Growth
+  - Transforming Growth Factors
+  - Gene Expression
+tldr: The article investigates the role of oncogenes in normal and malignant growth by introducing altered oncogenes into rodent cells. The results show that oncogenes can trigger malignant conversion and induce the release of transforming growth factors (TGFs). The study highlights the correlation between the transformed phenotype and the level of TGF release, suggesting a potential role for oncogenes in the multi-stage process of carcinogenesis.
+scientific_discipline: Biology and Life Sciences > Oncology and Cancer Research

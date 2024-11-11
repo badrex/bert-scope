@@ -1,0 +1,10 @@
+article_id: 'rspb_1985_0006'
+revised_title: 'Vagal Excitation Effects on Mammalian Pacemaker Cells'
+semantic_tags:
+  - Cardiac Electrophysiology
+  - Pacemaker Cells
+  - Acetylcholine
+  - Vagus Nerve
+  - Muscarinic Receptors
+tldr: The authors studied the effects of acetylcholine on primary pacemaker cells in the rabbit sino-atrial node. They found that the first detectable effect of acetylcholine is a decrease in the slope of the pacemaker potential without a detectable hyperpolarization or change in action potential duration. This negative chronotropic effect is blocked by atropine and is mimicked by low doses of acetylcholine or muscarine chloride.
+scientific_discipline: Biology and Life Sciences > Physiology

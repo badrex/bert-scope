@@ -1,0 +1,10 @@
+article_id: 'rspb_1981_0028'
+revised_title: 'Investigating Retinal Directional Sensitivity and its Pre-Retinal Factors'
+semantic_tags:
+  - Visual Science
+  - Retinal Mechanisms
+  - Stiles-Crawford Effect
+  - Cornea and Crystalline Lens
+  - Optical Resolution
+tldr: This study examines the Stiles-Crawford effect, which states that the human eye perceives light entering through the center of the pupil as brighter and with a shorter wavelength compared to light entering near the edge. The author investigates the role of pre-retinal factors, such as the cornea, crystalline lens, and optical resolution, in the directional sensitivity of the retina. The findings suggest that these factors may affect the measurements and contribute to the intensity and hue differences observed in the Stiles-Crawford effect.
+scientific_discipline: Biology and Life Sciences > Visual Science

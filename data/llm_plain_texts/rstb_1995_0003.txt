@@ -1,0 +1,10 @@
+article_id: 'rstb_1995_0003'
+revised_title: 'Initiation and Control of Homologous Recombination in Escherichia Coli'
+semantic_tags:
+  - DNA repair
+  - Homologous recombination
+  - RecBCD enzyme
+  - Escherichia coli
+  - Chi sites
+tldr: This article discusses the initiation and control of homologous recombination in Escherichia coli. It explains how double-strand DNA breaks trigger recombination and how the RecBCD enzyme plays a crucial role in this process. The enzyme unwinds and cuts DNA at specific sites called Chi, which helps control the recombination process and increases its efficiency.
+scientific_discipline: Biology and Life Sciences > Genetics

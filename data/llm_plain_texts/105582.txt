@@ -1,0 +1,10 @@
+article_id: '105582'
+revised_title: 'Recommendation for Lunar Parallax Observations at St. Helena'
+semantic_tags:
+  - Astronomy
+  - Lunar Observations
+  - Geodesy
+  - Celestial Mechanics
+  - Timekeeping
+tldr: The Abbe De la Caille recommends to Mr. Nevil Maskelyne to make a series of observations at St. Helena for discovering the parallax of the Moon. He suggests that Maskelyne should make these observations from June 13, 1761, to May 9, 1762, using a sector that takes in eight degrees and a half on each side of the zenith and a clock regulated by sidereal time.
+scientific_discipline: Astronomy > Celestial Mechanics

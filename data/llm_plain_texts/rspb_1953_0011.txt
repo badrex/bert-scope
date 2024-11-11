@@ -1,0 +1,10 @@
+article_id: 'rspb_1953_0011'
+revised_title: 'A Comprehensive Analysis of Protein Structure: Amide Group Dimensions and Hydrogen Bonding'
+semantic_tags:
+  - Protein Structure
+  - Amide Group
+  - Hydrogen Bonding
+  - X-ray Crystallography
+  - Amino Acids
+tldr: This article discusses the structure of proteins, specifically the dimensions and configurations of the amide group and the N-H-0 hydrogen bonds. The authors use X-ray diffraction analyses of crystals of amino acids, peptides, and other organic compounds to determine the interatomic distances and bond angles in the amide group. They also explore the planarity of the amide group and the dimensions and directional characteristics of N-H-0 hydrogen bonds, which play a significant role in the molecular arrangement of proteins.
+scientific_discipline: Chemistry > Organic Chemistry

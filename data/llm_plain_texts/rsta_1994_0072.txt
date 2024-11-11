@@ -1,0 +1,10 @@
+article_id: rsta_1994_0072
+revised_title: Phase Mappings and Dynamics in Diffusion-Coupled Excitable Chemical Systems
+semantic_tags:
+  - Excitable media
+  - Chemical systems
+  - Phase mappings
+  - Nonlinear phenomena
+  - Belousov-Zhabotinskii reaction
+tldr: This article examines the dynamics of a cascade of two diffusion-coupled excitable units periodically perturbed by pulses applied to the first cell. The authors model a chemical system constituted by two coupled stirred cells with the Belousov-Zhabotinskii (BZ) reaction and derive a phase mapping of an abstract piecewise linear excitable two-cell system. They find that the frequency of firings in the second cell can be either equal to that in the first cell or smaller, leading to complex patterns of transitions between the two dynamic modes. The semi-empirical model and abstract model both predict these patterns, indicating their generic nature.
+scientific_discipline: Chemistry > Chemical kinetics and reaction dynamics

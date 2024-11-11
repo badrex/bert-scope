@@ -1,0 +1,10 @@
+article_id: rspa_1985_0052
+revised_title: Inverse Scattering for Geophysical Problems: Velocity-Inversion and Acoustics
+semantic_tags:
+  - Inverse scattering
+  - Geophysics
+  - Acoustics
+  - Velocity-inversion problem
+  - Transmission conditions
+tldr: The authors explore inverse scattering problems in geophysics, focusing on velocity-inversion problems in acoustics. They develop analytical methods to recover the speed of sound in an unknown region using measurements from a time-harmonic source and known solutions on a plane interface between two different acoustic media. The study has potential applications in various geophysical situations, such as detecting metallic ore deposits or pipeline locations.
+scientific_discipline: Physics > Geophysics

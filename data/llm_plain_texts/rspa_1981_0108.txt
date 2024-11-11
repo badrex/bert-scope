@@ -1,0 +1,10 @@
+article_id: rspa_1981_0108
+revised_title: 'Surface State and Band Structure of Tungsten {110} Surface: Photoemission Study'
+semantic_tags:
+  - Surface Science
+  - Tungsten Surface
+  - Photoemission Spectroscopy
+  - Surface States
+  - Band Structure
+tldr: The authors investigated the electronic structure of the {110} surface of tungsten using angle-resolved photoemission. They discovered a surface state with m = 1 d-orbital character and examined its dispersion throughout the surface Brillouin zone. The study also explored the applicability of the tight-binding approximation to the understanding of the electronic structure of metal surfaces.
+scientific_discipline: Physics > Condensed Matter Physics

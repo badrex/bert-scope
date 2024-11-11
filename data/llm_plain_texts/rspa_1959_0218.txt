@@ -1,0 +1,10 @@
+article_id: rspa_1959_0218
+revised_title: 'Analysis of the Orbits of Russian Satellites: Inclination Changes and Air Density Variations'
+semantic_tags:
+  - Space Research
+  - Satellite Orbits
+  - Atmospheric Density
+  - Spacecraft Dynamics
+  - Geomagnetically-Trapped Radiation
+tldr: The authors analyze the orbits of Sputnik 2 and 3, discussing irregularities in air density, changes in orbital inclination, and the earth's gravitational field. They explore the causes of these variations, including changes in effective atmospheric density, rotation of the atmosphere, and the earth's non-spherically symmetrical gravitational field. The study provides insights into the patterns of air density and the potential for future satellite analysis.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

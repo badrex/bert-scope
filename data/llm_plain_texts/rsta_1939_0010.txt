@@ -1,0 +1,10 @@
+article_id: rsta_1939_0010
+revised_title: Stress Functions for Plates with Groups of Circular Holes
+semantic_tags:
+  - Solid Mechanics
+  - Stress Analysis
+  - Plate Theory
+  - Elasticity
+  - Engineering Mathematics
+tldr: The authors present a method for constructing biharmonic stress functions to analyze stress distributions in plates containing groups of circular holes. They develop a general method for solving problems involving various configurations of circles and straight boundaries, with applications in stress analysis and engineering.
+scientific_discipline: Engineering and Technology > Solid Mechanics

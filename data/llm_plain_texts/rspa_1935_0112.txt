@@ -1,0 +1,10 @@
+article_id: 'rspa_1935_0112'
+revised_title: 'Electromagnetic Fields and Spectrum Line Intensities in Quantum Theory'
+semantic_tags:
+  - Electromagnetic fields
+  - Quantum mechanics
+  - Atomic spectroscopy
+  - Relativistic quantum theory
+  - Atomic physics
+tldr: The authors compare two methods for calculating the intensities of spectral lines in quantum mechanics, showing that Schott's treatment is equivalent to the strict quantum mechanical treatment. They also demonstrate that treating the atom as a dipole introduces an error, but provide a simpler method for calculating the intensities accurately.
+scientific_discipline: Physics > Atomic physics

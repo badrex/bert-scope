@@ -1,0 +1,10 @@
+article_id: rspa_1974_0045
+revised_title: 'A Comprehensive Mechanism for High-Temperature Pyrolysis of Alkanes: The Pyrolysis of Isobutane'
+semantic_tags:
+  - Pyrolysis
+  - Alkanes
+  - Reaction Mechanism
+  - High Temperature Chemistry
+  - Computer Modeling
+tldr: The authors propose a general mechanism for the high-temperature pyrolysis of alkanes, focusing on the pyrolysis of isobutane. They investigate the dominant reactions, including initiation, reactions of alkyl radicals, reactions of methyl radicals, reactions of lower alkanes, and reactions of hydrogen atoms. The study demonstrates the value of computer modeling in understanding reaction mechanisms, even when there are more unknowns than experimental data available.
+scientific_discipline: Chemistry > Physical Chemistry

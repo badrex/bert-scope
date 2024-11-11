@@ -1,0 +1,10 @@
+article_id: rspl_1904_0155
+revised_title: 'Autumn Rainfall and Wheat Yield: A Preliminary Study'
+semantic_tags:
+  - Agriculture
+  - Meteorology
+  - Crop Science
+  - Climate and Weather
+  - Statistical Analysis
+tldr: This study investigates the relationship between autumn rainfall and the yield of wheat in the following year. The author finds a strong correlation between the two, suggesting that the absence of rainfall in the previous autumn has a significant impact on wheat yield. A linear equation is proposed to represent this relationship, and the results are compared to actual yields for 21 years, showing a high level of accuracy in the model.
+scientific_discipline: Environmental and Earth Sciences > Agriculture and Climate

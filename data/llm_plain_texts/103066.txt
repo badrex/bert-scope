@@ -1,0 +1,10 @@
+article_id: 103066
+revised_title: 'Description and Quadrature of a Curve Resembling the Foliate of Third Order'
+semantic_tags:
+  - Mathematics
+  - Geometry
+  - Calculus
+  - Analytic Geometry
+  - Curves
+tldr: The author, Abr. De Moivre, describes and calculates the area of a curve resembling the Foliate of the third order. The curve has similarities to the Foliate, but with some differences in its equation and properties. The author compares the curve to the Foliate and provides a method for calculating its area, which involves the use of a circle and a square.
+scientific_discipline: Mathematics > Geometry

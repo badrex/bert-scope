@@ -1,0 +1,10 @@
+article_id: rspa_1987_0007
+revised_title: Resonant Flow Over Topography: Modulation Theory Solution
+semantic_tags:
+  - Fluid Dynamics
+  - Resonance Phenomena
+  - Korteweg-de Vries Equation
+  - Stratified Fluids
+  - Topography
+tldr: The article presents a modulation theory solution for the near-resonant flow of a stratified fluid over topography. It shows that no steady-state can form upstream of the obstacle and constructs the upstream and downstream solutions as simple wave solutions of the modulation equations. The study is based on the forced Korteweg-de Vries equation and provides insights into the behavior of fluid flow near resonance.
+scientific_discipline: Physics > Fluid Dynamics

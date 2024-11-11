@@ -1,0 +1,10 @@
+article_id: rsta_1973_0086
+revised_title: 'Advances in Superconducting Reciprocating Machines: Design and Challenges'
+semantic_tags:
+  - Superconducting machines
+  - Reciprocating generators
+  - Electromagnetic design
+  - Mechanical design
+  - Cryogenics
+scientific_discipline: Engineering and Technology > Electrical Engineering
+tldr: This article discusses the development of superconducting reciprocating machines, which offer advantages over traditional rotating machines. The design consists of an armature that reciprocates in a uniform magnetic field produced by a stationary superconducting solenoid. The main challenges in the design of these machines include mechanical issues, such as bearings and fatigue, and electrical issues, like low reactance. The article explores the potential benefits and possible solutions to overcome these challenges.

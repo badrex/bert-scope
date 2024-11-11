@@ -1,0 +1,10 @@
+article_id: rspa_1914_0005
+revised_title: 'Mathematical Representation of Light Pulses and Black Body Radiation'
+semantic_tags:
+  - Wave Theory
+  - Black Body Radiation
+  - Fourier Analysis
+  - Optics
+  - Dispersive Power
+tldr: The author presents a new mathematical representation of light pulses and their dispersion, which also applies to black body radiation. They demonstrate that the energy distribution in the spectrum of an incandescent solid is independent of the prism producing the spectrum, and that the initial pulse can be represented as a function of distance and wave-length. The author also shows that the energy per wave-length varies inversely as the square of the wave-length, and that the energy distribution follows Wien's law for black body radiation.
+scientific_discipline: Physics > Optics

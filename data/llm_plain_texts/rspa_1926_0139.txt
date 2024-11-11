@@ -1,0 +1,10 @@
+article_id: rspa_1926_0139
+revised_title: 'Motion of a Sphere in a Rotating Liquid: Pressure and Fluid Dynamics'
+semantic_tags:
+  - Fluid mechanics
+  - Sphere motion
+  - Rotating liquids
+  - Pressure distribution
+  - Fluid dynamics
+tldr: The authors study the motion of a sphere in a rotating liquid and determine the pressure distribution and fluid dynamics around the sphere. They find that the pressure increases rapidly at first and then oscillates with diminishing amplitude, eventually reaching a constant value. The motion of the fluid around the sphere is similar to that of a spherical source generated on the axis of a rotating liquid.
+scientific_discipline: Physics > Fluid mechanics

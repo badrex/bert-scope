@@ -1,0 +1,10 @@
+article_id: rspa_1987_0022
+revised_title: Asymptotic Behaviour of Radiative Gravitational Fields in General Relativity
+semantic_tags:
+  - General Relativity
+  - Asymptotic Analysis
+  - Gravitational Waves
+  - Asymptotic Simplicity
+  - Radiative Fields
+tldr: The author proves that Penrose's requirements for asymptotic simplicity are satisfied by the general metric, which admits post-Minkowskian and multipolar expansions. The study focuses on radiative gravitational fields in general relativity and their asymptotic behavior at future null infinity. The findings provide confidence that isolated systems generate space-time solutions of Einstein's equations that are asymptotically simple.
+scientific_discipline: Physics > General Relativity

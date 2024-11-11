@@ -1,0 +1,10 @@
+article_id: rspl_1904_0047
+revised_title: Effects of Temperature on Torsional Rigidity of Metal Wires
+semantic_tags:
+  - Material Science
+  - Thermal Expansion
+  - Torsion
+  - Wire Properties
+  - Viscosity
+tldr: This study investigates how the modulus of torsional rigidity in metal wires changes with temperature. The authors experimented with various metals, including copper, iron, platinum, gold, silver, aluminum, tin, lead, and cadmium. They found that the rigidity modulus increases with time and temperature, and the internal viscosity of the metals generally increases with temperature. The results provide insights into the behavior of metal wires under different conditions and can be useful for understanding the properties of materials in engineering applications.
+scientific_discipline: Engineering and Technology > Material Science

@@ -1,0 +1,10 @@
+article_id: rspa_1949_0118
+revised_title: Heisenberg's S-Matrix for a System of Many Particles
+semantic_tags:
+  - Quantum Mechanics
+  - Particle Physics
+  - Scattering Theory
+  - Many-Particle Systems
+  - S-Matrix Theory
+tldr: This article explores Heisenberg's S-matrix theory for a system of many particles, focusing on the properties of a many-particle system and the energy levels of bound states. The author demonstrates the extension of this theory to include singular eigenstates describing the scattering of one particle on a compound center made up of the other particle bound to the scatterer.
+scientific_discipline: Physics > Particle Physics

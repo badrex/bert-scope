@@ -1,0 +1,10 @@
+article_id: rspa_1966_0002
+revised_title: 'Molten Alkali and Alkaline Earth Nitrates: Equivalent Volumes and Structural Implications'
+semantic_tags:
+  - Thermodynamics
+  - Physical Chemistry
+  - Densitometry
+  - Alkali and Alkaline Earth Nitrates
+  - Mixture Behavior
+tldr: The authors measured the densities of binary mixtures of molten alkali nitrates and alkaline earth nitrates using a manometric densitometer. They found that the equivalent volumes of mixing for these nitrates are nearly ideal, with small positive deviations. The results suggest that the structure of nitrate melts is predominantly controlled by the space and packing requirements of the nitrate anion, rather than the cation radius.
+scientific_discipline: Chemistry > Physical Chemistry

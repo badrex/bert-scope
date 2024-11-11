@@ -1,0 +1,10 @@
+article_id: 'rspb_1961_0003'
+revised_title: 'Chloramphenicol Resistance in Bacteria: The Development of Highly Resistant Strains'
+semantic_tags:
+  - Bacteria
+  - Antibiotic resistance
+  - Microbiology
+  - Mutation
+  - Selection
+tldr: The authors studied the development of highly resistant strains of Bact. lactis aerogenes (Aerobacter aerogenes) to chloramphenicol, an antibiotic. They found that through serial subculturing in liquid media containing gradually increasing concentrations of the antibiotic, strains with high resistance could be obtained. The resistance increase was attributed to two main mechanisms: the accumulation of successive independent mutations or the gradual adaptation of the bacterial cells in the cultures.
+scientific_discipline: Biology and Life Sciences > Microbiology

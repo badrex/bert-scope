@@ -1,0 +1,10 @@
+article_id: rspa_1973_0033
+revised_title: Mechanics of Adhesive Failure: Interfacial and Cohesive Failures in Rubber-Polymer Substrate Joints
+semantic_tags:
+  - Adhesion
+  - Mechanics
+  - Interface failure
+  - Cohesive failure
+  - Rubber-to-polymer substrate joints
+tldr: This study investigates the mechanics of adhesive failure in rubber-polymer substrate joints. The authors found that joint failure can be either interfacial or cohesive, depending on the strength of the joint. Interfacial failure occurs when the adhesive and substrate materials do not bond well, while cohesive failure happens when the adhesive and substrate materials bond strongly. The authors also discovered that etching treatments can introduce carbon-carbon unsaturation into the substrate's surface, which can affect the strength of the rubber-substrate interface.
+scientific_discipline: Materials Science > Mechanics of Materials

@@ -1,0 +1,10 @@
+article_id: rspa_1938_0079
+revised_title: X-ray Method for Measuring Particle Size
+semantic_tags:
+  - X-ray diffraction
+  - Particle size determination
+  - Crystallography
+  - Powder diffraction
+  - Particle size analysis
+tldr: The authors present an experimental method for determining particle size using X-ray diffraction. They use a mixed specimen containing both the particles under investigation and particles of infinite size to correct for the increase in broadening caused by factors other than particle size. The method allows for more accurate particle size determinations, even in the presence of experimental uncertainties.
+scientific_discipline: Physics > Crystallography

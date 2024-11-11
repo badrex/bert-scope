@@ -1,0 +1,10 @@
+article_id: 'rspb_1970_0050'
+revised_title: 'Nuclear Transplantation and the Control of Gene Activity in Animal Development'
+semantic_tags:
+  - Gene expression
+  - Nuclear transplantation
+  - Developmental biology
+  - Xenopus laevis
+  - Gene regulation
+tldr: The article discusses the major changes in gene activity induced by nuclear transplantation in animal development. The transplantation of nuclei from differentiated or determined somatic cells to enucleated frog eggs leads to a complete change in gene activity. The study focuses on the changes in gene activity in various cell types, including intestine cells, organ primordia, and cultured cells from adult skin. The findings suggest that nuclear transplantation can be a valuable tool for studying the control of gene activity and understanding the mechanisms behind long-term gene regulation in animals.
+scientific_discipline: Biology and Life Sciences > Developmental Biology

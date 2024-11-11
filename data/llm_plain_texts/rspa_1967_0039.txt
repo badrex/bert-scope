@@ -1,0 +1,10 @@
+article_id: rspa_1967_0039
+revised_title: 'Modified Benard Problem with Boundaries of Finite Conductivity'
+semantic_tags:
+  - Hydrodynamic Stability
+  - Convection
+  - Fluid Dynamics
+  - Thermal Diffusivity
+  - Boundary Conditions
+tldr: The authors study the Benard problem in hydrodynamic stability, considering boundaries with finite thermal diffusivity. They show that the principle of the exchange of stabilities remains valid in this case, and instability in the fluid first sets in as stationary convection. Solutions are obtained for various values of the ratio of the thermal diffusivity of the fluid to that of the bounding media, and the critical Rayleigh number at which the instability occurs is significantly reduced when this ratio is large.
+scientific_discipline: Physics > Fluid Dynamics

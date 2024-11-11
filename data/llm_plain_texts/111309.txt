@@ -1,0 +1,10 @@
+article_id: 111309
+revised_title: Detection of Strychnia through Iodostrychnia Formation
+semantic_tags:
+  - Analytical Chemistry
+  - Forensic Chemistry
+  - Strychnine Detection
+  - Iodostrychnia
+  - Optical Properties
+tldr: The author, W. Bird Herapath, developed a method to detect trace amounts of strychnia using the formation of iodostrychnia and its optical properties. This method can be useful in medico-legal inquiries and provides a more reliable test than color-based tests. The process involves using diluted spirit of wine as a solvent medium and tincture of iodine as a reagent, followed by examination under a polarizing microscope.
+scientific_discipline: Chemistry > Analytical Chemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1938_0034
+revised_title: Adsorption of Gases at Solid Surfaces: A Statistical Mechanical Approach
+semantic_tags:
+  - Adsorption
+  - Statistical mechanics
+  - Surface chemistry
+  - Thermodynamics
+  - Gas-solid interactions
+tldr: This paper presents a statistical mechanical treatment of gas adsorption on solid surfaces using partition functions. The authors develop a model for adsorption, considering the adsorbed phase as a three-dimensional gas, a two-dimensional gas with lateral mobility, or a group of Planck oscillators with three degrees of freedom. They also discuss the differential heat of adsorption and its relation to the amount adsorbed, highlighting the common errors in calculating these values.
+scientific_discipline: Chemistry > Surface Chemistry

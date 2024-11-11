@@ -1,0 +1,10 @@
+article_id: rspa_1987_0103
+revised_title: Anosov Diffeomorphisms and the Arithmetical Theory of Periodic Orbits
+semantic_tags:
+  - Dynamical Systems
+  - Anosov Diffeomorphisms
+  - Arithmetical Theory
+  - Periodic Orbits
+  - Quadratic Forms
+tldr: The article explores the relationship between the dynamics of Anosov diffeomorphisms and the arithmetical theory of periodic orbits. It uses the concept of quadratic forms and ideal factorization to study periodic orbits of Anosov diffeomorphisms of the two-dimensional torus. The results show that the period of the orbits and their dynamical behavior are intimately related to the way ideals factorize in algebraic number fields.
+scientific_discipline: Mathematics > Dynamical Systems

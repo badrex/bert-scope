@@ -1,0 +1,10 @@
+article_id: '110058'
+revised_title: 'On the North Polar Distances of Principal Fixed Stars: A Comparison of Catalogues'
+semantic_tags:
+  - Astronomy
+  - Celestial Mechanics
+  - Star Catalogues
+  - Geocentric Theory
+  - Refraction
+tldr: The author compares recent catalogues of principal fixed stars, specifically the Dublin and Greenwich catalogues, and discusses the differences in their observations. He also examines the hypothesis of a general southern motion and evaluates the accuracy of various catalogues and observations. Dr. Brinkley concludes that the differences in the catalogues can be attributed to inaccuracies in the Greenwich Catalogue and suggests that a particular equation may be needed for solar refraction.
+scientific_discipline: Astronomy > Celestial Mechanics

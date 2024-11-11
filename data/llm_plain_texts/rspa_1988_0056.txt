@@ -1,0 +1,10 @@
+article_id: rspa_1988_0056
+revised_title: 'Non-stationary Cross-Flow Vortices in Three-Dimensional Boundary-Layer Flows: A Study of Upper-Branch Neutral Stability'
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Vortices
+  - Stability Analysis
+  - Rotating Disc Flows
+tldr: This article investigates the upper-branch neutral stability of three-dimensional disturbances in boundary-layer flows, focusing on non-stationary cross-flow vortices. The study considers the effects of wave speed, disturbance structure, and critical layers on the flow's stability. The findings provide insight into the relationship between stationary and non-stationary modes and the impact of nonlinearity on the number and orientation of vortices.
+scientific_discipline: Physics > Fluid Dynamics

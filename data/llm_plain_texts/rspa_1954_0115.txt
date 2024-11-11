@@ -1,0 +1,10 @@
+article_id: rspa_1954_0115
+revised_title: Photolysis of Acetone and Methyl Radical Combination at Low Pressures
+semantic_tags:
+  - Chemical kinetics
+  - Photochemistry
+  - Methyl radical recombination
+  - Acetone photolysis
+  - Third-body participation
+tldr: The authors studied the photo-decomposition of acetone at low pressures and found that the recombination of methyl radicals requires a third body's participation. They also discovered that certain added gases increase the rate of ethane formation, and they assessed the relative efficiencies of these gases in deactivating excited ethane molecules by collision.
+scientific_discipline: Chemistry > Chemical kinetics and reaction dynamics

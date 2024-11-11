@@ -1,0 +1,10 @@
+article_id: rsta_1967_0025
+revised_title: 'Orbital Analysis and Satellite Tracking: Evolution of the Smithsonian Astrophysical Observatory Network'
+semantic_tags:
+  - Satellite Tracking
+  - Geodesy
+  - Astrophysics
+  - Satellite Orbits
+  - Space Exploration
+tldr: The Smithsonian Astrophysical Observatory established a network of photographic observing stations to track artificial satellites during the International Geophysical Year. The network has evolved over time to improve its coverage of various satellite orbits and to obtain accurate station coordinates for dynamical analyses. The article discusses the changes in the network, including new station locations, improved instrumentation, and the use of laser systems for range measurements.
+scientific_discipline: Physics > Astrophysics

@@ -1,0 +1,10 @@
+article_id: rsta_1966_0060
+revised_title: Solving Simultaneous Cubic Equations of Additive Type
+semantic_tags:
+  - Number Theory
+  - Diophantine Equations
+  - Additive Forms
+  - Congruences
+  - Hardy-Littlewood Method
+tldr: The authors investigate the solubility of two simultaneous cubic equations of additive type in rational integers and -adic integers. They prove that these equations have a solution in -adic integers for every prime if the conditions are met, and are soluble in integers if certain conditions are satisfied. The study provides insights into the structure and properties of these equations, with implications for number theory and Diophantine equations.
+scientific_discipline: Mathematics > Number Theory

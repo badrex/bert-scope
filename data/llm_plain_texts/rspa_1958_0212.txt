@@ -1,0 +1,10 @@
+article_id: rspa_1958_0212
+revised_title: Relativistic Cross-Section for -Shell Ionization of Atoms by High-Energy Electrons
+semantic_tags:
+  - Atomic Physics
+  - Relativistic Effects
+  - Ionization
+  - Cross-Section
+  - High-Energy Electrons
+tldr: The authors present a relativistic treatment for calculating the cross-section of -shell ionization of atoms by high-energy electrons. They use Moszkowski's relativistic modification of the Born approximation to obtain an expression for the cross-section and calculate cross-sections for elements with atomic numbers less than 30. The results show good agreement with experimental data and demonstrate the importance of considering relativistic effects in high-energy electron interactions with atoms.
+scientific_discipline: Physics > Atomic Physics

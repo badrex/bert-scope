@@ -1,0 +1,10 @@
+article_id: rspa_1974_0034
+revised_title: 'Investigation of Reflexion Properties of Low-Frequency Radio Waves on the Ionosphere'
+semantic_tags:
+  - Ionosphere
+  - Radio Waves
+  - Electromagnetic Waves
+  - Wave Propagation
+  - Radio Communication
+tldr: The authors investigate the properties of the two principal reflexions of low-frequency radio waves obliquely incident on the ionosphere. They use full-wave numerical methods to study the behavior of the reflected wave and its polarization, finding significant changes in certain directions that could have important consequences for radio communication links.
+scientific_discipline: Physics > Electromagnetism

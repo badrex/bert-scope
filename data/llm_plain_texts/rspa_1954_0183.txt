@@ -1,0 +1,10 @@
+article_id: rspa_1954_0183
+revised_title: Temperature Distribution in Thin Rods Electrically Heated in Vacuo
+semantic_tags:
+  - Heat Transfer
+  - Thermal Conductivity
+  - Thermodynamics
+  - Empirical Formulas
+  - Temperature Distribution
+tldr: The authors analyze the temperature distribution along a thin rod electrically heated in vacuo and verify many useful empirical formulas. They show that the temperature distribution in long filaments can be represented by a single curve, and the findings of Worthing follow naturally from the theoretical expressions deduced in previous parts. The authors also discuss the temperature distribution in shorter filaments and differentiate between the -region and the -region.
+scientific_discipline: Physics > Heat Transfer

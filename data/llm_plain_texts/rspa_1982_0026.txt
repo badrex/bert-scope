@@ -1,0 +1,10 @@
+article_id: rspa_1982_0026
+revised_title: 'Planar Channelling Radiation Theory for Fast Electrons'
+semantic_tags:
+  - Electron Diffraction
+  - Channelling Radiation
+  - High Energy Physics
+  - Quantum Mechanics
+  - Crystal Physics
+tldr: The authors present a detailed theory of planar electron channelling radiation based on the theory of high-energy electron diffraction. They explain the experimental results of Swent et al. (1979) and show that the radiation cross-section is equivalent to that of a classical oscillator moving relativistically. The energies of the observed peaks in the frequency spectrum are determined by the spacings of the transverse energy levels bound in the planar channelling potential. The mechanisms that lead to the observed width of the peaks are also discussed, including de-channelling and band-structure effects due to tunnelling between adjacent wells.
+scientific_discipline: Physics > Crystal Physics

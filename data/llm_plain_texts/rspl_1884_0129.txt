@@ -1,0 +1,10 @@
+article_id: rspl_1884_0129
+revised_title: 'Influence of Stress and Strain on Physical Properties of Matter'
+semantic_tags:
+  - Elasticity
+  - Thermal Capacity
+  - Moduli of Elasticity
+  - Physical Constants
+  - Metals
+tldr: The authors investigate the relationship between moduli of elasticity, thermal capacity, and other physical constants in various metals. They find that the cube of Young's Modulus varies as the seventh power of the thermal capacity per unit volume. This research contributes to understanding the physical properties of matter under stress and strain.
+scientific_discipline: Physics > Materials Science

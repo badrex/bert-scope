@@ -1,0 +1,10 @@
+article_id: rspa_1931_0125
+revised_title: The Origin and Nature of Beta Rays
+semantic_tags:
+  - Nuclear Physics
+  - Radioactivity
+  - Particle Physics
+  - Nuclear Decay
+  - Quantum Mechanics
+tldr: The authors, Rutherford and Ellis, investigate the origin of beta rays emitted by radium. They propose that these rays are due to transitions of particles from excited states to the ground state of the radium nucleus. The authors also discuss the probability of radiation transfer and the rate of variation of these values with frequency, providing insights into the understanding of nuclear physics and particle interactions.
+scientific_discipline: Physics > Nuclear Physics

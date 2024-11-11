@@ -1,0 +1,10 @@
+article_id: 'rspb_1953_0054'
+revised_title: 'Thalamo-Cortical Connexions of the General Sensory Cortex in Macaca'
+semantic_tags:
+  - Neuroscience
+  - Thalamus
+  - Cortex
+  - Sensory processing
+  - Monkey brain
+tldr: The authors studied the thalamo-cortical connections of the general sensory cortex in Macaca monkeys. They found that area 3 receives connections from most of the cells in the rostral half and at least 50% of the cells in the caudal half of the posterior ventral nucleus, while area 1 receives the exclusive projection of a proportion of the cells in the caudal half. The results of these experiments are discussed in relation to clinical observations of dissociated sensory loss following lesions of the postcentral gyrus in humans.
+scientific_discipline: Neuroscience > Sensory Processing

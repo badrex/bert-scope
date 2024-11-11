@@ -1,0 +1,10 @@
+article_id: rspa_1973_0078
+revised_title: 'Van der Waals Free Energy of Dielectric Films with Charged Surfaces'
+semantic_tags:
+  - Electrostatic Double Layer
+  - Van der Waals Interaction
+  - Dielectric Films
+  - Aqueous Electrolyte
+  - Surface Charge Density
+tldr: The authors study the van der Waals free energy of a system with two half-spaces of aqueous electrolyte separated by a dielectric layer. They calculate the coupling of the van der Waals free energy to the structure of the electrical double layers in the system, considering both fixed and fluctuating surface charge densities. The results show that the zero-frequency contribution to the van der Waals free energy depends explicitly on the parameters determining the repulsive electrostatic double-layer interaction.
+scientific_discipline: Physics > Electromagnetism

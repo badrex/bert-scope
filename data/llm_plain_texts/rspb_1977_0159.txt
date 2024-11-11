@@ -1,0 +1,10 @@
+article_id: 'rspb_1977_0159'
+revised_title: 'Gravity and Light-Sensing Guidance Systems in Plants: A Review'
+semantic_tags:
+  - Plant Biology
+  - Phototropism
+  - Gravitropism
+  - Hormonal Mechanisms
+  - Seedling Development
+tldr: This article discusses the gravity and light-sensing guidance systems in plants, specifically in the roots and shoots of germinating Zea seedlings. The gravity-sensing mechanism involves the sedimentation of amyloplasts in specialized cells, while the light-sensing mechanism is more complex and interacts with the gravity-sensing system. The article highlights the challenges of studying these mechanisms and the potential for future research in a zero-gravity environment like Spacelab.
+scientific_discipline: Biology and Life Sciences > Plant Biology

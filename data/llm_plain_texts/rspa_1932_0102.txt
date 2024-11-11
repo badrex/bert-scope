@@ -1,0 +1,10 @@
+article_id: rspa_1932_0102
+revised_title: 'Electron Polarisation: Experimental Investigation and Double Scattering'
+semantic_tags:
+  - Electron Polarisation
+  - Double Scattering
+  - Asymmetry in Secondary Scattering
+  - Electromagnetism
+  - Particle Physics
+tldr: The authors conducted experiments to investigate electron polarisation using double scattering and observed an asymmetry in the secondary scattering. They developed a method to measure the intensity of the secondary scattering at 0° and 180° azimuth, which could be applied to further study of electron polarisation and its potential applications.
+scientific_discipline: Physics > Electromagnetism

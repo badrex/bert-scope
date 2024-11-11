@@ -1,0 +1,10 @@
+article_id: rspa_1967_0008
+revised_title: 'Connection of Electron Correlations in Narrow Energy Bands with Many-Body Perturbation Theory'
+semantic_tags:
+  - Quantum Mechanics
+  - Many-Body Theory
+  - Electron Correlations
+  - Perturbation Theory
+  - Band Theory
+tldr: The author demonstrates the connection between the theory of electron correlations in narrow energy bands and conventional many-body perturbation theory. The derivation shows how the perturbation series of the narrow energy band theory can be derived from the many-body perturbation series by regrouping and partial summation of terms. This connection allows for a better understanding of the relationship between the two approaches and can be useful for generating related approximations in both theories.
+scientific_discipline: Physics > Quantum Mechanics

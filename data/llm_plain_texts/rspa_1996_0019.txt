@@ -1,0 +1,10 @@
+article_id: rspa_1996_0019
+revised_title: Determination of Crystal Reference in Nonlinear Continuum Theory of Dislocations
+semantic_tags:
+  - Crystallography
+  - Continuum Mechanics
+  - Dislocations
+  - Nonlinear Elasticity
+  - Torsion
+tldr: The authors develop a method to determine the crystal reference in the nonlinear continuum theory of dislocations. They derive a system of first-order differential equations for the inverse elastic deformation field and find the integrability condition that ensures the crystal connection's curvature vanishes. The authors also provide a comparison with Kroner's theory and discuss the dual problem of determining plastic deformation and rotation.
+scientific_discipline: Mathematics > Geometry and Topology

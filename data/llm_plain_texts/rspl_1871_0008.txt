@@ -1,0 +1,10 @@
+article_id: rspl_1871_0008
+revised_title: 'Numerical Values of Logarithms and Euler's Constant'
+semantic_tags:
+  - Mathematics
+  - Number Theory
+  - Logarithms
+  - Euler's Constant
+  - Harmonic Series
+tldr: The author recalculates the numerical values of log2, log3, log5, and log10, as well as the modulus of the common system of logarithms, to 205 decimals. They also calculate the value of Euler's Constant and explore methods for summing the harmonic series. This work provides accurate and extended values for mathematicians and contributes to the understanding of logarithms and number theory.
+scientific_discipline: Mathematics > Number Theory

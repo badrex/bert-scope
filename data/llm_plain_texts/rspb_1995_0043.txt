@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0043'
+revised_title: 'Intracellular Symbiosis in Cockroaches and Termites: A Phylogenetic Analysis'
+semantic_tags:
+  - Bacterial endosymbiosis
+  - Insect evolution
+  - Molecular phylogenetics
+  - Flavobacteria-bacteroides
+  - Symbiotic relationships
+tldr: The study investigates the establishment of intracellular symbiosis in an ancestor of cockroaches and termites. Molecular sequence data from the genes encoding the small subunit ribosomal RNA of the endosymbiont in Mastotermes darwiniensis and endosymbionts of seven species of cockroaches were compared. The results placed all these bacteria among the flavobacteria-bacteroides, indicating that the endosymbiont of M. darwiniensis is the sister group to the cockroach endosymbionts examined. This supports previous claims that the original infection occurred in an ancestor common to cockroaches and termites.
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

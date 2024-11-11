@@ -1,0 +1,10 @@
+article_id: rspa_1990_0050
+revised_title: The Exact Evaluation of Memory Capacity in the Antiphon Model
+semantic_tags:
+  - Memory capacity
+  - Antiphon model
+  - Hopfield network
+  - Stochastic systems
+  - Information theory
+tldr: The author presents an improved analysis of the antiphon, a device that achieves reliable memory from unreliable components. They show that for large systems, one can reliably store nats of information and determine the supremum value of the capacity. The antiphon is an expanded version of the Hopfield network, with two recursions representing signal emission and echo collection. The study demonstrates that a memory size of order can be achieved for the antiphon, and a positive capacity can be achieved with also of order.
+scientific_discipline: Mathematics > Information Theory

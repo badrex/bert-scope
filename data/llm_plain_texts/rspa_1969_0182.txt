@@ -1,0 +1,10 @@
+article_id: rspa_1969_0182
+revised_title: 'Magnetization Processes in Multidomain Crystals and Polycrystals'
+semantic_tags:
+  - Magnetism
+  - Domain theory
+  - Crystallography
+  - Anisotropy
+  - Polycrystalline materials
+tldr: The authors study the magnetization processes in multidomain crystals and polycrystals, focusing on the theoretical anhysteretic magnetization curves derived from model domain structures. They analyze the energy of various domain structures and provide predictions for magnetization curves that align with experimental results. This research helps to understand the role of grain boundaries in magnetic materials.
+scientific_discipline: Physics > Materials Science

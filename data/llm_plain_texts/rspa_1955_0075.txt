@@ -1,0 +1,10 @@
+article_id: rspa_1955_0075
+revised_title: 'Temperature-Wave Method for Measuring Specific Heats of Metals at Low Temperatures'
+semantic_tags:
+  - Thermal conductivity
+  - Thermal diffusivity
+  - Specific heat
+  - Low-temperature physics
+  - Metals
+tldr: The authors developed a temperature-wave method to measure the specific heat of metals at low temperatures. This method uses a rod with a heater and two thermometers, allowing for the determination of thermal diffusivity and thermal conductivity. The technique was tested on copper and aluminum specimens in the liquid-helium temperature range, providing accurate results with fewer systematic errors compared to the static method. 
+scientific_discipline: Physics > Thermodynamics

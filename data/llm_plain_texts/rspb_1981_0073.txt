@@ -1,0 +1,10 @@
+article_id: 'rspb_1981_0073'
+revised_title: 'Recovery from Monocular Deprivation in Monkeys: Reversal of Morphological Effects in the Lateral Geniculate Nucleus'
+semantic_tags:
+  - Neuroscience
+  - Visual Development
+  - Monocular Deprivation
+  - Lateral Geniculate Nucleus
+  - Reverse Suture
+tldr: The study investigates the effects of monocular deprivation on the lateral geniculate nucleus (LGN) in monkeys and how reverse suture can reverse these effects. Monocular deprivation causes LGN neurons in deprived laminae to be smaller in cross-sectional area than those in non-deprived laminae. However, reverse suture can counteract this effect, with the size difference between laminae being abolished within 6 days after reverse suture performed at the age of 1 month. This research shows that the morphological recovery in the LGN correlates with studies on the width of ocular dominance'stripes' in the visual cortex.
+scientific_discipline: Neuroscience > Visual Development

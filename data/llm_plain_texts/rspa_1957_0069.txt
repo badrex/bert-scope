@@ -1,0 +1,10 @@
+article_id: rspa_1957_0069
+revised_title: Dielectric Relaxation, Viscosity, and Freezing in Polar Substances
+semantic_tags:
+  - Dielectric relaxation
+  - Viscosity
+  - Freezing
+  - Polar liquids
+  - Molecular structure
+tldr: The author classifies polar substances into two categories based on whether or not their dipoles have freedom of rotation in the solid state. They develop equations to relate dielectric relaxation time and viscosity for class I substances with rigid molecules, and discuss the limitations of these equations for class II substances with more flexible molecular structures. The study provides insights into the relationship between dielectric relaxation, viscosity, and freezing in polar liquids.
+scientific_discipline: Chemistry > Physical Chemistry

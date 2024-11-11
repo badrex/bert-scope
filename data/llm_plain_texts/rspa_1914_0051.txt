@@ -1,0 +1,10 @@
+article_id: rspa_1914_0051
+revised_title: The Electrical Ignition of Gaseous Mixtures: Exploring the Role of Ions and Alternating Currents
+semantic_tags:
+  - Electrical ignition
+  - Gaseous mixtures
+  - Ionization
+  - Alternating currents
+  - Spark ignition
+tldr: This article investigates the electrical ignition of gaseous mixtures, focusing on the role of ions and the differences between continuous and alternating current break-sparks. The author finds that the energy required to ignite gas is much higher with alternating currents, suggesting that ignition is not solely a thermal process. The findings support the connection between ionization and explosion, and the importance of understanding the nature of the gas and the arc in ignition processes.
+scientific_discipline: Physics > Electromagnetism

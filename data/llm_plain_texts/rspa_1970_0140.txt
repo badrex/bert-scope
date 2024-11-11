@@ -1,0 +1,9 @@
+article_id: rspa_1970_0140
+revised_title: 'Nucleation Processes in Ammonium Perchlorate: A Photomicrographic and Electron Microscopy Study'
+semantic_tags:
+  - Crystallography
+  - Thermal decomposition
+  - Ammonium perchlorate
+  - Nucleation
+  - Surface chemistry
+tldr: This study investigates the nucleation processes and crystal structure of ammonium perchlorate during thermal decomposition. The research focuses on the relationship between nucleation processes, crystal faces, crystallographic directions, and mechanical strain applied before decomposition. The findings reveal that decomposition nuclei preferentially form where dislocations intersect the crystal surface, and the reaction progresses in two ways: inward and parallel to the surface, and along specific crystallographic planes.

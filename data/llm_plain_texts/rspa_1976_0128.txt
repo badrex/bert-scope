@@ -1,0 +1,10 @@
+article_id: rspa_1976_0128
+revised_title: 'Experimental and Computational Analysis of Complex Chemical Kinetics Mechanisms'
+semantic_tags:
+  - Chemical kinetics
+  - Computational chemistry
+  - Reaction mechanisms
+  - Industrial processes
+  - Mathematical modeling
+tldr: This article describes methods for the experimental and computational analysis of complex chemical kinetics problems, focusing on high-temperature chlorocarbon rearrangement and hydrocarbon cracking processes. The authors use continuous-flow uniform reaction cells and develop a mathematical model system that allows for the rapid examination of different mechanisms. The methods enable chemists to alter hypothetical reaction mechanisms and set up verifying experiments.
+scientific_discipline: Chemistry > Chemical kinetics

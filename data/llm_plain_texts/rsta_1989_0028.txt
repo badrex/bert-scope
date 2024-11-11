@@ -1,0 +1,10 @@
+article_id: 'rsta_1989_0028'
+revised_title: 'High-Latitude Ionosphere and its Interactions: The Influence of Convection'
+semantic_tags:
+  - Magnetosphere
+  - Ionosphere
+  - Plasma Convection
+  - Plasma Processes
+  - High-Latitude Phenomena
+tldr: The article discusses the influence of plasma convection on the structure of the high-latitude ionosphere. It explains how convection drives various processes, such as vertical ion drifts, Joule heating, and enhanced neutral air velocities, and how it affects the interpretation of ionospheric observations. The article also examines the connection between convection and different ionospheric processes, such as plasma transport, photoionization, ion chemistry, particle precipitation, ionosphere-thermosphere interactions, and Universal Time variations.
+scientific_discipline: Physics > Plasma Physics

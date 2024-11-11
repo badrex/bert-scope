@@ -1,0 +1,10 @@
+article_id: 111550
+revised_title: 'Stratifications in Electrical Discharges in Torricellian and Other Vacua'
+semantic_tags:
+  - Electrical Discharges
+  - Vacuum Physics
+  - Gas Discharge Phenomena
+  - Electromagnetic Induction
+  - Carbonic Acid Vacuum
+tldr: The author, J. P. Gassiot, conducted experiments on electrical discharges in various vacua, including Torricellian and carbonic acid vacua. He observed and described the behavior of stratifications in these discharges, their sensitivity to temperature, and their response to magnets. Gassiot also explored the effects of introducing different gases and chemicals into the vacua, and he developed a method for creating vacua using caustic potassa to absorb carbonic acid. His findings contribute to the understanding of the nature of electrical discharges and the conditions that affect their behavior.
+scientific_discipline: Physics > Electromagnetism

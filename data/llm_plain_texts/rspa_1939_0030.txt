@@ -1,0 +1,10 @@
+article_id: 'rspa_1939_0030'
+revised_title: 'Fluctuations in Electromagnetic Radiation: A Quantum Mechanics Perspective'
+semantic_tags:
+  - Quantum Mechanics
+  - Electromagnetic Radiation
+  - Fluctuations
+  - Statistical Mechanics
+  - Thermodynamics
+tldr: The authors discuss fluctuations in electromagnetic radiation and their connection to quantum mechanics. They explain how fluctuations can be understood through the concept of light quanta or photons and how quantum mechanics can account for both classical and quantum contributions to these fluctuations.
+scientific_discipline: Physics > Electromagnetic Theory

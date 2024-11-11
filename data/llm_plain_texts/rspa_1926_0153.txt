@@ -1,0 +1,10 @@
+article_id: rspa_1926_0153
+revised_title: Torsional Vibrations in Reciprocating Engine Shafts: A Theoretical Analysis
+semantic_tags:
+  - Torsional vibrations
+  - Reciprocating engines
+  - Mechanical engineering
+  - Analytical mechanics
+  - Flywheels
+tldr: This article investigates the properties of torsional vibrations in reciprocating engine shafts, focusing on the effects of reciprocating parts. The author proposes a simplified model to analyze the vibrations and provides an analytical solution for the system's motion. The study aims to understand the nature and characteristics of torsional vibrations in engine shafts during steady rotation, with implications for engineering practice.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

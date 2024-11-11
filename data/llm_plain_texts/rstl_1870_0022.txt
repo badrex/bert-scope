@@ -1,0 +1,10 @@
+article_id: 'rstl_1870_0022'
+revised_title: 'A Mechanical Approach to Logical Inference'
+semantic_tags:
+  - Logic
+  - Logical Machines
+  - Symbolic Logic
+  - George Boole
+  - Logical Calculus
+tldr: The author discusses the development of a logical machine that can perform the operations of logical inference. This machine is based on the work of George Boole, who extended the principles of logic and made it possible to create a system of deduction that can be embodied in a mechanical device. The author believes that this machine will revolutionize the field of logic and make it more accessible to a wider audience.
+scientific_discipline: Philosophy > Logic

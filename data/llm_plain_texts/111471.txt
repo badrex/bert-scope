@@ -1,0 +1,12 @@
+article_id: 111471
+revised_title: 'Cayley's Memoir on Covariants of Binary Quantics'
+semantic_tags:
+  - Algebra
+  - Geometry
+  - Covariants
+  - Binary Quantics
+  - Quadratics
+  - Cubics
+  - Quartics
+tldr: This article presents a development of the theories of covariants for binary quantics, specifically quadrics, cubics, and quartics. The author, Arthur Cayley, also considers the case of two or more quadrics, their harmonic relation, and involution. The text explores the determination of linear factors for these quantics and their expressions in terms of coefficients and roots.
+scientific_discipline: Mathematics > Algebra and Geometry

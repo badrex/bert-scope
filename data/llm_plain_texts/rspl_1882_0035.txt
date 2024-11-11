@@ -1,0 +1,10 @@
+article_id: rspl_1882_0035
+revised_title: 'Impact Phenomena and Splash Dynamics: A Study of Liquid and Solid Sphere Impacts'
+semantic_tags:
+  - Fluid Dynamics
+  - Surface Tension
+  - Splash Phenomenon
+  - Impact Mechanics
+  - Vortex Formation
+tldr: The authors conducted experiments to study the impact of liquid and solid spheres on a liquid surface. They observed the formation of splashes, vortex rings, and the influence of factors such as velocity, surface roughness, and liquid properties. The study provides insights into the physics of splash phenomena and the mechanics of impact.
+scientific_discipline: Physics > Fluid Dynamics

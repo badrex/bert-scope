@@ -1,0 +1,10 @@
+article_id: rspa_1991_0093
+revised_title: High-Resolution Image Simulations of Small Metal Particles: Decahedral, Icosahedral, and Cuboctahedral Structures
+semantic_tags:
+  - Electron microscopy
+  - Nanoparticles
+  - Crystallography
+  - Image simulations
+  - Multislice method
+tldr: This article presents the results of extensive multislice image simulations of decahedral, icosahedral, and face-centered cubic cuboctahedral metal particles. The simulations help in understanding the image contrast and structure of these particles in various orientations, allowing for more accurate identification and assessment of their types and frequencies. The study also investigates the effects of instrumental parameters on the simulated images, providing insights into optimal imaging conditions and necessary refinements for accurate simulations.
+scientific_discipline: Physics > Materials Science

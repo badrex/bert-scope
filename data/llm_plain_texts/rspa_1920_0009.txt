@@ -1,0 +1,10 @@
+article_id: rspa_1920_0009
+revised_title: 'Investigation of Wave-Length Variations in Thermionic Tube Oscillations'
+semantic_tags:
+  - Oscillatory circuits
+  - Thermionic tubes
+  - Wave-length variations
+  - Filament current
+  - Plate voltage
+tldr: The authors conducted experiments to study the effects of altering variables in three-electrode thermionic tubes on wave-length variations. They found that the wave-length of an oscillator is affected by the filament current and plate voltage, and that these changes can be used to produce continuous waves of constant frequency. The authors also discovered that the wave-length emitted by an oscillation apparatus is a function of filament current and plate voltage, and that the actual values of the changes in wave-length can be computed from the known constants of the circuit.
+scientific_discipline: Physics > Electromagnetism

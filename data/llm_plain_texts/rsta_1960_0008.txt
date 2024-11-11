@@ -1,0 +1,10 @@
+article_id: rsta_1960_0008
+revised_title: Random Walks on Spheres and Riemannian Manifolds
+semantic_tags:
+  - Probability Theory
+  - Stochastic Processes
+  - Mathematical Physics
+  - Riemannian Geometry
+  - Statistical Mechanics
+tldr: The authors study random walks on a sphere and Riemannian manifolds, exploring the distribution of a moving point after any random walk and the asymptotic behavior after a large number of steps. They also discuss the limiting case of diffusion and compare it with the distribution proposed by Fisher. The problem is extended to general Riemannian manifolds, showing that commutability does not hold in general but does hold in completely harmonic spaces and some others.
+scientific_discipline: Mathematics > Probability Theory

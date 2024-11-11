@@ -1,0 +1,10 @@
+article_id: rspa_1945_0025
+revised_title: 'Long-Period Phosphorescence and Electron Traps: Theoretical and Experimental Study'
+semantic_tags:
+  - Phosphorescence
+  - Electron traps
+  - Trap distribution
+  - Decay curve
+  - Zinc sulfide phosphors
+tldr: This article explores the relationship between phosphorescence decay curves and trap distributions in solids. The authors develop a theory that explains how the observed decay laws are related to trap distributions and confirm it through experiments using zinc sulfide phosphors. The findings provide a detailed explanation of long-period phosphorescence and its connection to thermoluminescence.
+scientific_discipline: Physics > Optics

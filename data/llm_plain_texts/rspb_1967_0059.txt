@@ -1,0 +1,10 @@
+article_id: 'rspb_1967_0059'
+revised_title: 'Investigating the Psychological Refractory Period and Decision-Making'
+semantic_tags:
+  - Cognitive Psychology
+  - Reaction Time
+  - Decision-Making
+  - Psycholinguistics
+  - Perception
+tldr: 'This study by Broadbent and Gregory investigates the psychological refractory period and its effect on decision-making. They found that when two stimuli are presented in quick succession, the reaction to the second stimulus is delayed. This delay is due to the limited capacity of the decision-making mechanism, which is occupied by the first reaction and cannot process the second stimulus simultaneously. The results support the theory that the decision mechanism operates on discrete samples of sensory information rather than a continuous flow.'
+scientific_discipline: Psychology > Cognitive Psychology

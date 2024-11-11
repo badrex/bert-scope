@@ -1,0 +1,10 @@
+article_id: rsta_1994_0029
+revised_title: Measurement and Application of Coupling Loss Factors in Statistical Energy Analysis
+semantic_tags:
+  - Statistical Energy Analysis
+  - Coupling Loss Factors
+  - Point Mobilities
+  - Vibration Isolation
+  - Structural Acoustics
+tldr: This article presents a method for measuring coupling loss factors using point mobilities in Statistical Energy Analysis (SEA). The authors demonstrate the validity of their method through experiments on coupled plates, showing that SEA predictions can accurately estimate energy transmission between structures. The research has implications for understanding and improving vibration isolation and structural acoustics in various engineering applications.
+scientific_discipline: Engineering and Technology > Mechanical Engineering > Vibration and Acoustics

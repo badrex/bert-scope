@@ -1,0 +1,10 @@
+article_id: rspa_1993_0092
+revised_title: Computational Techniques for Modeling and Predicting Crystal Structures
+semantic_tags:
+  - Crystallography
+  - Computational Chemistry
+  - Simulated Annealing
+  - Energy Minimization
+  - Crystal Structure Prediction
+tldr: The article discusses computational techniques used in modeling and predicting crystal structures, focusing on energy minimization methodologies and simulated annealing techniques. It describes recent applications to refining the structures of novel microporous catalysts and generating structures of polymorphs of TiO2. The article also reviews other approaches to simulating complex inorganic structures and highlights the importance of computational methods in predicting structures under extreme conditions that are difficult to replicate experimentally.
+scientific_discipline: Chemistry > Computational Chemistry

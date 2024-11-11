@@ -1,0 +1,10 @@
+article_id: rsta_1980_0027
+revised_title: Satellite Doppler Tracking and Its Geodetic Applications: A Review
+semantic_tags:
+  - Satellite Geodesy
+  - Doppler Tracking
+  - Geodetic Applications
+  - Satellite Navigation
+  - Earth's Gravity Field
+tldr: This discussion focuses on satellite Doppler tracking and its geodetic applications, exploring methods to improve coordinate accuracy and the potential of new satellite radio navigation systems. The papers presented cover various techniques, including Doppler translocation, orbit relaxation, and statistical methods, to enhance the precision and accuracy of geodetic measurements.
+scientific_discipline: Earth Sciences > Geodesy

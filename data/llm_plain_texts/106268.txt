@@ -1,0 +1,10 @@
+article_id: 106268
+revised_title: 'A New Method for Accurate Timekeeping Using Star Observations'
+semantic_tags:
+  - Astronomy
+  - Timekeeping
+  - Celestial navigation
+  - Refraction
+  - Observational astronomy
+tldr: This article presents a new method for finding time using equal altitudes of stars. The author, Alexander Aubert, explains how to observe stars in specific vertical circles to improve accuracy and reduce errors caused by weather, clock inaccuracies, and atmospheric refraction. The method is demonstrated with an example using the star Arcturus. The article also provides a way to calculate mean time from a star's meridian passage.
+scientific_discipline: Astronomy > Celestial navigation

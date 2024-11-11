@@ -1,0 +1,10 @@
+article_id: rspa_1920_0004
+revised_title: 'Experimental Investigation of X- and β-Rays Scattering by Electron Rings'
+semantic_tags:
+  - X-rays
+  - Electron scattering
+  - Atomic structure
+  - Electromagnetic pulses
+  - Diffraction
+tldr: The authors conducted experiments to study the scattering of X- and β-rays by electron rings, challenging the Electron Ring Theory of atoms. They found that the scattering was not symmetrical, with more energy scattered in the forward direction and less in the backward direction. The atomic scattering coefficient also varied for different elements and rays, indicating that the Electron Ring Theory needed further refinement to account for these observations.
+scientific_discipline: Physics > Electromagnetism

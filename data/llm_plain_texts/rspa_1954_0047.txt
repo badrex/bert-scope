@@ -1,0 +1,10 @@
+article_id: rspa_1954_0047
+revised_title: Thermo-Electricity in Alkali Metals at Low Temperatures
+semantic_tags:
+  - Thermoelectricity
+  - Low-temperature physics
+  - Alkali metals
+  - Impurities in metals
+  - Electron scattering
+tldr: The authors conducted experiments on the thermo-electric behavior of alkali metals at low temperatures, including lithium, sodium, potassium, rubidium, and cesium. They found that the behavior of these metals deviates from the theoretical predictions, with some having positive thermo-electric powers. The authors also observed changes in thermo-electric power when impurities were added to the metals, providing insights into the influence of impurities on electron scattering processes in metals.
+scientific_discipline: Physics > Solid State Physics

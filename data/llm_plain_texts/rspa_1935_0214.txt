@@ -1,0 +1,10 @@
+article_id: rspa_1935_0214
+revised_title: Temperature Dependence of Free Electron Susceptibility in Metals
+semantic_tags:
+  - Magnetic susceptibility
+  - Fermi-Dirac statistics
+  - Paramagnetism
+  - Diamagnetism
+  - Electron energy distribution
+tldr: This article investigates the temperature dependence of free electron susceptibility in metals. The author derives expressions for the temperature variation at both low and high temperatures using Fermi-Dirac statistics. The results show that the susceptibility decreases with increasing temperature, and the author provides a detailed analysis of the paramagnetic and diamagnetic effects on the susceptibility.
+scientific_discipline: Physics > Electromagnetism

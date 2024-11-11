@@ -1,0 +1,10 @@
+article_id: rspa_1986_0012
+revised_title: 'Numerical Study of Polymer Ring Topology and Alexander Polynomial'
+semantic_tags:
+  - Polymer Chemistry
+  - Knot Theory
+  - Topology
+  - Alexander Polynomial
+  - Statistical Physics
+tldr: The authors conducted a numerical study on the topology of polymer rings and the application of the Alexander polynomial in classifying knots. They generated equilibrium configurations of ring polymers in infinite space or confined to a sphere using a new algorithm. The results showed compatibility with scaling laws and provided insights into the mutual entanglement of links, comparing the Gauss invariant with the Alexander polynomial.
+scientific_discipline: Mathematics > Knot Theory

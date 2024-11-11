@@ -1,0 +1,10 @@
+article_id: rspa_1965_0077
+revised_title: 'Nuclear Spin Thermometry: Techniques and Applications'
+semantic_tags:
+  - Nuclear Magnetic Resonance
+  - Thermometry
+  - Spin Temperature
+  - Nuclear Cooling
+  - Spin-Lattice Relaxation Time
+tldr: The authors developed a thermometry technique using nuclear magnetic resonance to measure the magnetization of nuclear spins at low temperatures. This technique was employed to detect nuclear spin temperatures in sodium metal, confirming the conclusions of previous studies on nuclear cooling. The study also measured spin-lattice relaxation times in copper and platinum metals, providing insights into the behavior of these materials at low temperatures.
+scientific_discipline: Physics > Thermodynamics

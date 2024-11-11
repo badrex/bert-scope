@@ -1,0 +1,10 @@
+article_id: 'rspb_1960_0020'
+revised_title: 'Investigating the Function and Response of Single Statocyst Receptors in Lobsters'
+semantic_tags:
+  - 'Neurobiology'
+  - 'Lobster Physiology'
+  - 'Sensory Receptors'
+  - 'Spatial Orientation'
+  - 'Crustacean Statocyst'
+tldr: The authors studied the behavior of single receptors in the statocyst of the lobster, Homarus americanus, to understand their role in spatial orientation and equilibrium. They discovered that the receptors function as static position receptors, firing at different rates corresponding to specific degrees of hair deflection. The researchers also found that the thread hairs increase in frequency with either posterior or ventral deflection and decrease during anterior or dorsal deflection, providing a means to resolve the ambiguity in the response curve of single receptors and highlighting the importance of sensory channels within a single modality.
+scientific_discipline: Biology and Life Sciences > Neurobiology

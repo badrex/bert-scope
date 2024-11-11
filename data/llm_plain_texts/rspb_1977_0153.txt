@@ -1,0 +1,10 @@
+article_id: 'rspb_1977_0153'
+revised_title: 'The Complex Boundary Between Cortical Visual Areas II and III in Cats'
+semantic_tags:
+  - Visual Cortex
+  - Cat Vision
+  - Visual Field Mapping
+  - Neurophysiology
+  - Receptive Fields
+tldr: The authors conducted a series of mapping experiments on the visual cortex of cats to understand the nature of the boundary between cortical visual areas II and III. They found that the mapping of the visual field in these areas is highly variable from one cat to another, and the horizontal meridian of the visual field runs laterally and forward from area V1 across V2 to V3. The boundary between areas V2 and V3 is complex and contains multiple representations of the visual field, with some "islands" of representation of points far from the vertical meridian. The authors discuss the implications of their findings for understanding the organization of the visual cortex in cats and its relation to the horizontal and vertical meridians.
+scientific_discipline: Biology and Life Sciences > Neuroscience

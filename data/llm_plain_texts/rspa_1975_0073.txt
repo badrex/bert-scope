@@ -1,0 +1,10 @@
+article_id: rspa_1975_0073
+revised_title: 'Dielectric Relaxation Theory in Anisotropic Systems'
+semantic_tags:
+  - Dielectric relaxation
+  - Anisotropic systems
+  - Liquid crystals
+  - Complex permittivity
+  - Autocorrelation matrix
+tldr: The authors develop a theory to explain dielectric relaxation in anisotropic systems, specifically liquid crystals. They derive a relation between the complex frequency-dependent permittivity tensor and the autocorrelation matrix for the net permanent dipole moment of an ellipsoidal cavity within the dielectric. This theory can be applied to other anisotropic systems as well.
+scientific_discipline: Physics > Electromagnetism

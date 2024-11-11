@@ -1,0 +1,10 @@
+article_id: rspa_1985_0057
+revised_title: Iterated Function Systems and the Global Construction of Fractals
+semantic_tags:
+  - Fractals
+  - Iterated Function Systems
+  - Hausdorff-Besicovitch Dimension
+  - Fractal Measures
+  - Probability Measures
+tldr: The article introduces iterated function systems (IFS) as a unified way to generate and classify a broad class of fractals. It discusses the theory of -balanced measures associated with IFS and their relation to recurrent sets. The authors also explore the moment theory of -balanced measures for linear IFS and iterated Riemann surfaces, providing a framework for the exact computation of moments. An example of fractal reconstruction using linear IFS and moment theory is presented.
+scientific_discipline: Mathematics > Fractal Geometry

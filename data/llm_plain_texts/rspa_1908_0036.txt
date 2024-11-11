@@ -1,0 +1,10 @@
+article_id: rspa_1908_0036
+revised_title: 'Dispersion of Gaseous Elements: Mercury, Sulphur, Phosphorus, and Helium'
+semantic_tags:
+  - Gas dispersion
+  - Refractive index
+  - Spectroscopy
+  - Interferometry
+  - Gas properties
+tldr: The authors measured the dispersion of gaseous mercury, sulphur, phosphorus, and helium within the visible spectrum using Jamin's refractometer. They discovered the rate of change of refraction for these elements and compared their dispersion and refractive indices. The study provides valuable insights into the properties of these gases and their applications in various fields.
+scientific_discipline: Physics > Optics

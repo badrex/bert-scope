@@ -1,0 +1,10 @@
+article_id: 106902
+revised_title: 'On the Method of Determining Contingent Reversions in Three-Lives Survival'
+semantic_tags:
+  - Probability Theory
+  - Actuarial Science
+  - Life Expectancy
+  - Survival Analysis
+  - Mathematical Modeling
+tldr: The author presents a method for determining the values of contingent reversions involving three lives, focusing on the probability of one life lasting longer than the other two. The method allows for the calculation of annuities and life insurance payouts based on real observations of life expectancy.
+scientific_discipline: Mathematics > Probability Theory

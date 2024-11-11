@@ -1,0 +1,10 @@
+article_id: rspa_1925_0050
+revised_title: 'On the Alternating Current Resistance of Solenoidal Coils: Extensions and Comparisons'
+semantic_tags:
+  - Electromagnetism
+  - Eddy currents
+  - Solenoidal coils
+  - Alternating current
+  - Resistance
+tldr: This article investigates the alternating current resistance of solenoidal coils and extends the theory to include closely wound coils. The author compares their findings with previous research and provides formulas for calculating the resistance in various scenarios. The study helps improve understanding of the behavior of electrical currents in solenoidal coils, which can be applied in various engineering and technological fields.
+scientific_discipline: Engineering and Technology > Electromagnetism

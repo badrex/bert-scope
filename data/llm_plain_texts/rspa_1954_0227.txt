@@ -1,0 +1,10 @@
+article_id: rspa_1954_0227
+revised_title: 'Kinetic and Thermodynamic Aspects of the Second Coefficient of Viscosity'
+semantic_tags:
+  - Fluid dynamics
+  - Viscosity
+  - Sound absorption
+  - Relaxation theory
+  - Thermodynamics
+tldr: 'This article discusses the macroscopic theories of bulk viscosity in fluids and the role of thermodynamics in understanding volume flow. It explores the combination of relaxation and hydrodynamics, focusing on sound absorption and the second coefficient of viscosity. The author highlights the importance of additional thermodynamic parameters and kinetic assumptions in making the system determinate again.'
+scientific_discipline: Physics > Fluid dynamics

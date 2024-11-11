@@ -1,0 +1,10 @@
+article_id: 110448
+revised_title: Observations with the Twenty-Five Feet Zenith Telescope at the Royal Observatory
+semantic_tags:
+  - Astronomy
+  - Telescopes
+  - Zenith Telescope
+  - Astronomical Observations
+  - Greenwich Observatory
+tldr: John Pond describes the methods used to determine the place of stars passing the meridian near the zenith at the Royal Observatory in Greenwich. He compares the results of three different methods, including the mural circles, the zenith telescope, and a small subsidiary angle. The observations made with the two circles, when done with sufficient care, have an error not exceeding a quarter of a second.
+scientific_discipline: Astronomy > Observational Astronomy

@@ -1,0 +1,10 @@
+article_id: rspa_1983_0111
+revised_title: 'Characterizing Particle Trajectories in Classical Lennard-Jones Liquids'
+semantic_tags:
+  - Liquid state
+  - Molecular dynamics
+  - Lennard-Jones potential
+  - Trajectory analysis
+  - Statistical mechanics
+tldr: The authors analyze the trajectories of particles in a classical Lennard-Jones liquid using molecular dynamics simulations. They examine the characteristics of the single particle motion, such as the intervals between velocity vector changes and the amplitude of quasi-oscillations. The study provides insights into the nature of the liquid state and may contribute to the development of realistic physical models.
+scientific_discipline: Physics > Fluid dynamics

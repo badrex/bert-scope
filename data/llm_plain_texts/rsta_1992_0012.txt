@@ -1,0 +1,10 @@
+article_id: rsta_1992_0012
+revised_title: Turbulent Burning Velocity and Flame Stretch Rate
+semantic_tags:
+  - Combustion
+  - Turbulence
+  - Flame Stretch
+  - Laminar Flamelets
+  - Karlovitz Stretch Factor
+tldr: This article presents a correlation of turbulent burning velocities and introduces the flame stretch rate as a determinant factor. The authors derive a generalized expression for flame stretch and propose a new dimensionless correlation for turbulent burning velocities. They also discuss the role of flame stretch in laminar and turbulent flame extinction and the influence of turbulence on burning velocity.
+scientific_discipline: Physics > Fluid Dynamics

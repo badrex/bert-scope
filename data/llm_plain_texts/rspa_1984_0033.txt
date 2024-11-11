@@ -1,0 +1,10 @@
+article_id: rspa_1984_0033
+revised_title: Asymptotic Analysis of Criticality in Thermal Explosions with Distributed Temperatures
+semantic_tags:
+  - Thermal explosions
+  - Criticality
+  - Asymptotic analysis
+  - Biot number
+  - Reaction rate-laws
+tldr: This article presents an asymptotic analysis of thermal explosions and criticality in systems with distributed temperatures. The authors develop analytical expressions for critical values of the Frank-Kamenetskii and Semenov parameters and center-temperature in terms of Biot number. The study covers a wide range of Biot numbers and can be applied to various geometries, including infinite slabs, infinite cylinders, and spheres.
+scientific_discipline: Physics > Thermodynamics

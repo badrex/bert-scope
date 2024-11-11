@@ -1,0 +1,10 @@
+article_id: rspa_1981_0140
+revised_title: Analytical Treatments for Spherical Reactant Masses in Non-isothermal Reactions
+semantic_tags:
+  - Chemical kinetics
+  - Non-isothermal reactions
+  - Temperature distribution
+  - Rate constant correction
+  - Arrhenius activation energy
+scientific_discipline: Chemistry > Chemical kinetics
+tldr: The article presents two analytical treatments for correcting kinetic data in non-isothermal reactions with non-uniform temperatures for spherical reactant masses. The treatments provide compact expressions for temperature-position profiles, central temperature-excesses, and surface temperature-gradients, allowing for the correction of rate-constant, reaction order, and Arrhenius activation energy errors. The methods can be applied to exothermic and endothermic reactions and are based on different approximations to the Arrhenius rate law.

@@ -1,0 +1,10 @@
+article_id: 107971
+revised_title: Pendulum Corrections and Anomalies in Experiments
+semantic_tags:
+  - Pendulum experiments
+  - Gravity
+  - Vacuum
+  - Scientific instruments
+  - Measurement
+tldr: The author discusses the importance of accurate pendulum experiments and the need for corrections to account for anomalies in their results. They describe their experiments with various pendulums and propose a new method for determining the correction for the reduction to a vacuum, which involves swinging the pendulum in a vacuum. The author also describes their vacuum apparatus and the importance of comparing results from different pendulums to determine the true length of the seconds pendulum.
+scientific_discipline: Physics > Mechanics

@@ -1,0 +1,10 @@
+article_id: rspa_1965_0251
+revised_title: Relativistic Hyperfine Structure in Many-Electron Atoms
+semantic_tags:
+  - Relativity
+  - Hyperfine structure
+  - Atomic physics
+  - Quantum mechanics
+  - Many-electron atoms
+tldr: The authors present a theory for calculating relativistic hyperfine structure in many-electron atoms. They develop an effective Hamiltonian that accounts for relativistic effects and can be used in non-relativistic coupling calculations. This approach simplifies the computational process and allows for more accurate predictions of hyperfine structure in atoms.
+scientific_discipline: Physics > Atomic and Molecular Physics

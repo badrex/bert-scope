@@ -1,0 +1,10 @@
+article_id: rspl_1881_0096
+revised_title: On Invariants in Linear Differential Equations
+semantic_tags:
+  - Differential Equations
+  - Invariants
+  - Algebraic Geometry
+  - Mathematical Analysis
+  - Mathematical Theories
+tldr: This paper explores two types of functions related to coefficients of linear differential equations that have invariant properties. It demonstrates how these functions can be used to solve problems involving the ratios of solutions of the differential equation without the independent variable. The paper also shows how to express the connection between three solutions of a linear differential equation of the third order in terms of these functions.
+scientific_discipline: Mathematics > Algebraic Geometry

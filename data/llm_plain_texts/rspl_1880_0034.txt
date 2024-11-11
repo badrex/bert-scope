@@ -1,0 +1,10 @@
+article_id: rspl_1880_0034
+revised_title: Investigating the Thermal Conductivity of Water with a Screen
+semantic_tags:
+  - Thermal conductivity
+  - Heat conduction
+  - Fluid dynamics
+  - Experiments
+  - Convection
+scientific_discipline: Environmental and Earth Sciences > Fluid Mechanics
+tldr: The author conducted experiments to test the effects of conduction of heat downwards in liquids, specifically water, by using a screen inside the cylindrical vessel. The results showed that the conductivity of heat by water was slightly higher with the screen than without, indicating that conduction down the walls of the bath was not a significant factor in the experiment.

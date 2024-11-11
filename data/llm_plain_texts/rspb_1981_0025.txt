@@ -1,0 +1,10 @@
+article_id: 'rspb_1981_0025'
+revised_title: 'Vanadium Forms and Their Roles in Biological Systems'
+semantic_tags:
+  - Biochemistry
+  - Vanadium chemistry
+  - Vanadate
+  - Vanadyl
+  - Coordination complexes
+tldr: The article discusses the various forms of biochemically active vanadium and their probable locations in cellular systems. It examines the chemistry of vanadium in physiological environments, considering factors such as vanadium concentration, coordinating ligands, presence of other cations, oxidation-reduction potentials, and the kinetics of vanadium-containing species. The study suggests that vanadium will exist in specific hydrated forms and will be bound to bi- or tridentate ligands. The transmembrane potential will be coupled to the Nernstian potential if oxidation-reduction processes involving vanadium are fast.
+scientific_discipline: Chemistry > Biochemistry

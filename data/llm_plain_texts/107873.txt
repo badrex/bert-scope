@@ -1,0 +1,10 @@
+article_id: 107873
+revised_title: Investigating the Effects of Temperature on Transit Instruments
+semantic_tags:
+  - Instrumentation
+  - Temperature effects
+  - Transit instruments
+  - Optics
+  - Astronomy
+tldr: The author conducted experiments to study the impact of temperature on transit instruments, specifically the derangement caused by the expansion of braces. They discovered that unequal heating of the braces led to deviations in the telescope, affecting the accuracy of observations. The author's findings explain why some instruments may appear inflexible when exposed to sunlight.
+scientific_discipline: Physics > Optics

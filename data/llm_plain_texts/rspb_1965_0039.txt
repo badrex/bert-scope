@@ -1,0 +1,10 @@
+article_id: 'rspb_1965_0039'
+revised_title: 'Fibroblast Locomotion and Group Behavior in Tissue Culture'
+semantic_tags:
+  - Cell Biology
+  - Tissue Culture
+  - Locomotion
+  - Fibroblasts
+  - Contact Inhibition
+tldr: The study investigates the locomotion behavior of small groups of fibroblasts in tissue culture. It observes that fibroblasts tend to disperse and move away from each other while maintaining some contact. The findings suggest that the cells' movement is influenced by contact inhibition and the orientation of the substrate they move on. This research provides insights into the understanding of cell behavior and tissue growth in vitro.
+scientific_discipline: Biology and Life Sciences > Cell Biology

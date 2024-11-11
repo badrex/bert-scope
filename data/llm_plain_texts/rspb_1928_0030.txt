@@ -1,0 +1,10 @@
+article_id: 'rspb_1928_0030'
+revised_title: 'The Role of Oxidation in the Dynamic Equilibrium of Muscle Cells'
+semantic_tags:
+  - Muscle cell metabolism
+  - Oxidation
+  - Anaerobic respiration
+  - Lactic acid formation
+  - Muscle cell dynamics
+tldr: The author investigates the role of oxidation in maintaining the dynamic equilibrium of muscle cells. They find that the resting heat rate in oxygen is sufficient to account for oxidation, and that survival in oxygen decreases the resting heat rate. The minimum resting heat rate under anaerobic conditions can be explained by the formation of lactic acid. Stimulation in anaerobic conditions leads to an increased resting heat rate, which supports the hypothesis that lactic acid formation is responsible for the observed results.
+scientific_discipline: Biology and Life Sciences > Muscle Physiology

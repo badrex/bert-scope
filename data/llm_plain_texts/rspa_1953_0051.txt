@@ -1,0 +1,11 @@
+article_id: 'rspa_1953_0051'
+revised_title: 'Active Adjustment of Bacteria to Adverse Environments: Death-rate of Bact. lactis aerogenes Populations'
+semantic_tags:
+  - Bacteria
+  - Microbiology
+  - Environmental Adaptation
+  - Population Dynamics
+  - Lethal Agents
+tldr: 'The author studied the death-rate of \lt;italic\gt;Bact. lactis aerogenes\lt;/italic\gt; populations and found that a small residue of the population shows greater resistance to adverse environments. This resistance is not due to mutants or stably adapted cells, but rather temporary adjustments that occur during the test. The proportion of longer-lived cells increases when glucose and oxygen are present in the medium, supporting active metabolic changes.'
+scientific_discipline: Biology and Life Sciences > Microbiology
+```

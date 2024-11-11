@@ -1,0 +1,10 @@
+article_id: 'rstb_1988_0110'
+revised_title: 'Genetic Control of Sex Determination in Caenorhabditis elegans Germ Line'
+semantic_tags:
+  - Sex determination
+  - Genetics
+  - Caenorhabditis elegans
+  - Germ line development
+  - Regulatory genes
+tldr: The article discusses the genetic regulation of sex determination in the germ line of Caenorhabditis elegans. It explains how global and tissue-specific sex-determining genes work together to control the development of male and female characteristics in the organism. The author focuses on the role of genes such as fog-1, tra-2, and fem-3 in directing the differentiation of germ cells into sperm or oocytes.
+scientific_discipline: Biology and Life Sciences > Genetics

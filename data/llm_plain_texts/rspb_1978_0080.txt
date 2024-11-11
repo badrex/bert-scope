@@ -1,0 +1,10 @@
+article_id: 'rspb_1978_0080'
+revised_title: 'Effects of Antibiotics on Ribosomal RNA and Chlorophyll Synthesis in Cyanophora paradoxa and its Endosymbiotic Cyanelles'
+semantic_tags:
+  - 'Cyanophora paradoxa'
+  - 'Endosymbiotic cyanelles'
+  - 'Antibiotics'
+  - 'Ribosomal RNA synthesis'
+  - 'Chlorophyll synthesis'
+tldr: 'The authors examined the effects of antibiotics rifampicin, chloramphenicol, and cycloheximide on the synthesis of ribosomal RNA and chlorophyll in Cyanophora paradoxa and its endosymbiotic cyanelles, Cyanocyta korschikoffiana. They found that rifampicin and chloramphenicol affected cyanelle r-RNA synthesis, while cycloheximide inhibited the synthesis of host's r-RNA. Chlorophyll synthesis was also affected by the antibiotics, with cycloheximide showing the most significant inhibition.'
+scientific_discipline: Biology and Life Sciences > Molecular Biology

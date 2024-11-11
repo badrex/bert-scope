@@ -1,0 +1,10 @@
+article_id: rspa_1926_0060
+revised_title: Investigating the Nature and Properties of the Overpotential Film in Hydrogen Evolution
+semantic_tags:
+  - Electrochemistry
+  - Surface tension
+  - Overpotential
+  - Hydrogen evolution
+  - Film theory
+tldr: This article investigates the formation and properties of an overpotential film during hydrogen evolution at a cathode. The researchers found that a film with high surface tension forms over the mercury surface before hydrogen can be liberated, and this film persists even after the current is stopped. The presence of metal ions more noble than copper prevents the formation of the film and destroys it instantly. The overpotential is believed to be caused by the resistance offered by the film, hindering electrochemical processes and creating a layer of high free energy.
+scientific_discipline: Chemistry > Electrochemistry

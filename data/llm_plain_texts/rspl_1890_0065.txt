@@ -1,0 +1,10 @@
+article_id: rspl_1890_0065
+revised_title: Determination of the Boiling Point of Sulphur and Standardizing Platinum Resistance Thermometers
+semantic_tags:
+  - Thermometry
+  - Temperature measurement
+  - Boiling point
+  - Platinum resistance thermometers
+  - Sulphur
+tldr: The authors describe a method for determining the boiling point of sulphur and standardizing platinum resistance thermometers. They use three platinum thermometers and compare them with an air thermometer at the boiling point of sulphur. The results show that the method can accurately measure temperature with an error of around 0.001 degrees Celsius between 0 and 100 degrees Celsius and 0.01 degrees Celsius at 450 degrees Celsius.
+scientific_discipline: Physics > Thermodynamics

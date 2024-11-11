@@ -1,0 +1,10 @@
+article_id: rsta_1967_0036
+revised_title: Orbital Analysis and Determination of Low-Perigee Satellites
+semantic_tags:
+  - Satellite Orbits
+  - Space Observations
+  - Atmospheric Studies
+  - Geophysical Applications
+  - Orbit Determination
+tldr: The author discusses the challenges and methods of determining accurate orbits for low-perigee satellites using visual observations. They highlight the significance of these orbits for studying the Earth's atmosphere and gravitational field. The author also suggests improvements to enhance the accuracy and coverage of orbital determinations.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

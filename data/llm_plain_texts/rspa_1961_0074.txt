@@ -1,0 +1,10 @@
+article_id: rspa_1961_0074
+revised_title: Predissociation and Potential Energy Curves of First Row Hydrides
+semantic_tags:
+  - Molecular Orbital Theory
+  - Quantum Chemistry
+  - Predissociation
+  - Potential Energy Curves
+  - Hydrides
+tldr: The authors conducted a study on the electronic structure of first row hydrides, focusing on the predissociation by rotation in the A state. They found that the potential energy curve for the state has a maximum, which is related to the crossing of zero-order curves. This study provides a better understanding of potential curves with maxima in diatomic molecules and improves the accuracy of energy calculations for these molecules.
+scientific_discipline: Chemistry > Quantum Chemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1982_0159
+revised_title: Ion-Polar Molecule Encounters: Analyzing the Rate Coefficient
+semantic_tags:
+  - Ion-molecule collisions
+  - Rate coefficients
+  - Molecular physics
+  - Adiabatic invariance
+  - Molecular dynamics
+tldr: The author investigates the rate coefficient for ion-polar molecule encounters, focusing on the limit where the moment of inertia of the polar molecule is vanishingly small. By using the concept of adiabatic invariance, the author derives an exact solution to the classical dynamical problem and obtains a good approximation to the rate coefficient. This study is relevant to understanding momentum transfer cross sections, charge transfer, and other reactive collisions in ion-molecule interactions.
+scientific_discipline: Chemistry > Molecular Physics

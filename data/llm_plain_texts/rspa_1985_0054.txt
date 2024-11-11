@@ -1,0 +1,10 @@
+article_id: rspa_1985_0054
+revised_title: 'Kinetic Study and Mechanism of Silver-Catalyzed Methanol Oxidation'
+semantic_tags:
+  - Catalysis
+  - Methanol oxidation
+  - Silver catalyst
+  - Formaldehyde formation
+  - Reaction kinetics
+tldr: The authors conducted an experimental kinetic study of the silver-catalyzed oxidation of methanol and used infrared spectroscopy to examine adsorbed species under reaction conditions. They found that formaldehyde is formed by gas-phase methanol interacting with dissociatively adsorbed oxygen. A kinetic two-step model was formulated based on the experimental evidence, providing a good fit to the experimental data.
+scientific_discipline: Chemistry > Catalysis

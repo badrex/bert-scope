@@ -1,0 +1,10 @@
+article_id: 'rspa_1974_0090'
+revised_title: 'Elastic Constants of Gadolinium, Terbium, and Erbium'
+semantic_tags:
+  - 'Rare Earth Elements'
+  - 'Elasticity'
+  - 'Crystallography'
+  - 'Magnetism'
+  - 'Thermal Expansion'
+tldr: The authors measured the five single crystal elastic constants of gadolinium, terbium, and erbium within the temperature range of 4.2-300 K. They reduced the contributions to the elastic constants due to domain and spin rotation effects by applying a magnetic field of 2.5 T along the magnetic easy directions. The study provides a complete set of elastic constants for all the heavy rare-earth elements except thulium.
+scientific_discipline: Physics > Materials Science

@@ -1,0 +1,10 @@
+article_id: rspa_1963_0227
+revised_title: Gravitational Stresses in Accreted Bodies: The Historical Element
+semantic_tags:
+  - Accretion
+  - Gravitational stresses
+  - Body forces
+  - Continuum mechanics
+  - Elasticity
+tldr: The authors discuss the challenges of calculating the final gravitational stresses in a body that grows through the accretion of layers of material. They explain that the conventional treatment of body forces in continuum mechanics is not suitable for this scenario, as it does not account for the historical element of the accretion process. Instead, they propose an incremental method for calculating the final gravitational stresses, which takes into account the order and manner in which the body is built up. The method is illustrated with the example of a gravitating sphere that grows through accretion.
+scientific_discipline: Physics > Mechanics

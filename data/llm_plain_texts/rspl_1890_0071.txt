@@ -1,0 +1,10 @@
+article_id: rspl_1890_0071
+revised_title: 'On the Rate of Propagation of the Luminous Discharge of Electricity through a Rarefied Gas'
+semantic_tags:
+  - Electricity
+  - Gas discharge
+  - Luminosity
+  - Velocity of discharge
+  - Cathode and anode
+tldr: The author conducted experiments to measure the rate of propagation of the luminous discharge of electricity through a rarefied gas. They found that the luminosity travels from the anode to the cathode and discovered that the velocity of the discharge is finite. This research helped in understanding the behavior of the positive column in the discharge tube.
+scientific_discipline: Physics > Electricity and Magnetism

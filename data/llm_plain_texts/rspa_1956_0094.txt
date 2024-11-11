@@ -1,0 +1,10 @@
+article_id: rspa_1956_0094
+revised_title: 'Analysis of the Wentzel-Kramers-Brillouin and Thomas-Fermi Approximations'
+semantic_tags:
+  - Quantum Mechanics
+  - Approximations
+  - Energy Formula
+  - One-Dimensional Case
+  - Three-Dimensional Case
+tldr: The authors analyze the Wentzel-Kramers-Brillouin and Thomas-Fermi approximations used in quantum mechanics to calculate the sum of eigenvalues. They demonstrate the process in one-dimensional and three-dimensional cases, discussing the errors introduced by integrating instead of summing and suggesting ways to correct them.
+scientific_discipline: Physics > Quantum Mechanics

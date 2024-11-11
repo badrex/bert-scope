@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0037'
+revised_title: 'Neural Network Model for Determining Surface Curvature from Shaded Images'
+semantic_tags:
+  - Computer Vision
+  - Artificial Neural Networks
+  - Surface Curvature
+  - Visual Processing
+  - Image Analysis
+tldr: The authors developed a neural network model that can extract surface curvature information from images of shaded surfaces. The model uses a combination of assumptions and learning algorithms to determine the principal curvatures and their orientations, allowing for the identification of surface shapes such as convex, concave, and saddle-shaped. This research contributes to the understanding of how the visual system processes and interprets surface information.
+scientific_discipline: Computer Science > Computer Vision

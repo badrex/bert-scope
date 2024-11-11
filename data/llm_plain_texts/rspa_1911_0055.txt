@@ -1,0 +1,10 @@
+article_id: rspa_1911_0055
+revised_title: 'A New Approach to Generating Fourier Series'
+semantic_tags:
+  - Fourier series
+  - Mathematical analysis
+  - Trigonometric series
+  - Function theory
+  - Parametric integration
+tldr: The author presents a new method for generating Fourier series, focusing on the conditions and properties required for the series to converge. The method involves parametric integration and the manipulation of trigonometric functions, leading to the generation of continuous and integrable Fourier series.
+scientific_discipline: Mathematics > Mathematical analysis

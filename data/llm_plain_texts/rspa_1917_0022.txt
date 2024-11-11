@@ -1,0 +1,10 @@
+article_id: rspa_1917_0022
+revised_title: 'A Graphical Method for High-Angle Fire Trajectory Calculation'
+semantic_tags:
+  - Ballistics
+  - Trajectory calculation
+  - Gunfire
+  - Air resistance
+  - Tenuity
+scientific_discipline: Engineering and Technology > Ballistics
+tldr: The author presents a graphical method for calculating trajectories of high-angle fire, taking into account the variation of air density along the trajectory. The method involves using time-velocity and time-height curves to determine the elements of a trajectory, such as the range, time of flight, and direction of motion. The author demonstrates the method with an example of a shell fired from a 6-inch gun, showing the agreement between the calculated and observed results.

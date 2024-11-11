@@ -1,0 +1,10 @@
+article_id: 'rstb_1996_0026'
+revised_title: 'Exploring the Complexity of Animal Communication: Backup Signals and Multiple Messages'
+semantic_tags:
+  - Animal Communication
+  - Game Theory
+  - Signaling Strategies
+  - Mate Choice
+  - Evolutionary Biology
+tldr: This article presents a game-theoretical model of animal communication, where signallers may use multiple displays to advertise their qualities. The model explores the 'backup signal' hypothesis, which suggests that additional displays enhance the accuracy of assessment, and the'multiple message' hypothesis, which proposes that different signals convey information about various aspects of the signaller's condition. The study provides insights into the complexity of animal displays and their evolution.
+scientific_discipline: Biology and Life Sciences > Animal Behavior

@@ -1,0 +1,10 @@
+article_id: 107204
+revised_title: Observations on the Variation and Dip of the Magnetic Needle at the Royal Society
+semantic_tags:
+  - Geomagnetism
+  - Compass variation
+  - Magnetic dip
+  - Magnetic field
+  - Earth's magnetic field
+tldr: This article presents observations on the variation and dip of the magnetic needle made at the Royal Society between 1786 and 1805. The author, George Gilpin, describes the setup and methods used to minimize errors in the measurements. The results show that the variation was generally stationary at around 7 or 8 am and 1 or 2 pm, with a mean monthly diurnal alteration of variation of 15 minutes. The author also discusses the influence of wind and atmospheric changes on the needle's stability.
+scientific_discipline: Earth Sciences > Geomagnetism

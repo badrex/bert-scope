@@ -1,0 +1,10 @@
+article_id: 'rstb_1987_0013'
+revised_title: 'Introduction to Biosensors: Principles and Applications'
+semantic_tags:
+  - Biosensors
+  - Analytical Devices
+  - Biological Recognition Systems
+  - Electrochemical Transducers
+  - Sensor Technology
+tldr: 'Biosensors are analytical devices that respond to an analyte in a sample and interpret its concentration as an electrical signal through a combination of a biological recognition system and an electrochemical transducer. They have the potential to revolutionize clinical practice, medicine, and various industries by providing cheap, simple devices for acquiring chemical information. Biosensors are sensitive, selective, rapid, inexpensive, and easy to use, making them ideal for a wide range of applications, from monitoring gases and ions to detecting specific viruses, bacteria, and biomass.'
+scientific_discipline: 'Engineering and Technology > Sensor Technology'

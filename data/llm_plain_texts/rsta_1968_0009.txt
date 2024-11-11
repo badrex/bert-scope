@@ -1,0 +1,10 @@
+article_id: 'rsta_1968_0009'
+revised_title: 'Free Tidal Oscillations in Rotating Flat Basins: Analyzing Rectangles and Sectors of Circles'
+semantic_tags:
+  - Fluid Dynamics
+  - Tidal Waves
+  - Rotating Basins
+  - Mathematical Modeling
+  - Oceanography
+tldr: This study investigates the free tidal oscillations in rotating flat basins, specifically rectangles and sectors of circles. The authors develop a general theory to understand the dynamics of tides in these simple basins, which can help interpret tidal studies in more complex real-world oceans. They find that as the speed of rotation increases, a Kelvin regime sets in, where the tide concentrates near the periphery of the basin, decreasing exponentially towards the interior.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

@@ -1,0 +1,10 @@
+article_id: 'rspa_1967_0120'
+revised_title: 'Adiabatic Invariant for Wave Propagation in Nonuniform Moving Media'
+semantic_tags:
+  - Wave Propagation
+  - Dispersive Systems
+  - Adiabatic Invariant
+  - Nonuniform Moving Medium
+  - Wave Energy
+tldr: The authors discuss the adiabatic invariant for wave propagation in a nonuniform moving medium, suggesting that the wave energy divided by the frequency relative to the medium might be an adiabatic invariant. They explore various types of wave propagation, including surface gravity waves, internal gravity waves, and sound waves, where this principle applies.
+scientific_discipline: Physics > Wave Mechanics

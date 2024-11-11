@@ -1,0 +1,10 @@
+article_id: rspa_1921_0085
+revised_title: 'Directional Properties of Microphones and Hydrophones: The Role of Light Bodies'
+semantic_tags:
+  - Acoustics
+  - Hydrodynamics
+  - Microphone design
+  - Sound waves
+  - Ellipsoidal hydrophones
+tldr: The authors conducted experiments with ellipsoidal bodies and microphones to study directional properties in hydrophones. They discovered that the response of the microphone varies with the orientation of the ellipsoid, making it a directional hydrophone. This research led to the development of improved microphones and hydrophones for better sound detection and analysis.
+scientific_discipline: Physics > Acoustics

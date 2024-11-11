@@ -1,0 +1,10 @@
+article_id: rspa_1926_0114
+revised_title: 'Comparison of Magnetic Records from British Stations: Underground and Surface'
+semantic_tags:
+  - Geomagnetism
+  - Magnetic Observations
+  - Mining Engineering
+  - Magnetic Disturbances
+  - Magnetic Stations
+tldr: This study compares the records from British magnetic stations, both underground and surface, to understand how data from a southeastern England observatory applies to the British coalfields. The research focuses on the regular diurnal inequalities and irregular short-period changes in declination and horizontal force. The findings suggest that in a coal mine with minimal local disturbance, declination changes may be treated as identical to those at the surface for practical purposes.
+scientific_discipline: Physics > Geomagnetism

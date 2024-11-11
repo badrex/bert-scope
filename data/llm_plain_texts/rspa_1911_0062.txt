@@ -1,0 +1,10 @@
+article_id: rspa_1911_0062
+revised_title: The Effect of Steam Passage Rate on the Boiling Point of Water
+semantic_tags:
+  - Thermodynamics
+  - Boiling point
+  - Steam
+  - Differential platinum thermometers
+  - Osmotic pressure
+scientific_discipline: Physics > Thermodynamics
+tldr: The authors conducted experiments to study the effect of steam passage rate and liquid height on the boiling point of water. They discovered that the boiling point decreases as the rate of steam passage increases. The authors used differential platinum thermometers to eliminate the effect of barometer changes on the boiling point of the pure liquid. Their findings can be applied to the equilibrium temperatures of boiling solutions.

@@ -1,0 +1,10 @@
+article_id: '111409'
+revised_title: 'Astronomical Expedition to Teneriffe: Observations on Telescopic Vision and Atmospheric Conditions'
+semantic_tags:
+  - Astronomy
+  - Atmospheric Optics
+  - Telescope Technology
+  - Altitude Effects
+  - Observational Astronomy
+tldr: The author, C. Piazzi Smyth, led an astronomical expedition to Teneriffe in 1857 to study the effects of altitude on telescopic vision. They found that the space-penetrating power of telescopes improved significantly at higher altitudes, with a 240x magnification being used with satisfaction at 10,702 feet. The expedition also observed that the atmosphere's dry, hazy, or dusty strata hindered telescopic vision, and that clouds were mostly found below 5,000 feet. The author expressed gratitude to various individuals and institutions for their support and assistance during the expedition.
+scientific_discipline: Astronomy > Observational Astronomy

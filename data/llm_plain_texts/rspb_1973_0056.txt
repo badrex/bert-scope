@@ -1,0 +1,10 @@
+article_id: 'rspb_1973_0056'
+revised_title: 'The Role of Computers in Medical Care and Their Limitations'
+semantic_tags:
+  - Medical Computing
+  - Health Service Automation
+  - Information Storage and Retrieval
+  - Computer Applications in Medicine
+  - Medical Data Input
+tldr: The article discusses the potential and limitations of using computers in the health service. It highlights the various applications of computers in numerical tasks, data storage and retrieval, and medical administration. The author also emphasizes the challenges in inputting medical data and the need for better document readability for both humans and machines. The article concludes that while computers have the potential to revolutionize medical care, there are still significant obstacles to overcome.
+scientific_discipline: Medicine and Health Sciences > Medical Informatics

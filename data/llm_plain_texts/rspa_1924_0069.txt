@@ -1,0 +1,10 @@
+article_id: 'rspa_1924_0069'
+revised_title: 'Homogeneous Thermal Decomposition of Nitrous Oxide: A Bimolecular Reaction'
+semantic_tags:
+  - Chemical kinetics
+  - Nitrous oxide decomposition
+  - Bimolecular reactions
+  - Activation energy
+  - Arrhenius equation
+tldr: The authors studied the homogeneous thermal decomposition of nitrous oxide and found it to be a bimolecular reaction. They determined the activation energy required for the reaction and explained it using the Arrhenius equation. The results showed that the reaction could be interpreted as a simple thermal activation by collision.
+scientific_discipline: Chemistry > Chemical kinetics

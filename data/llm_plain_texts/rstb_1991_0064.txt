@@ -1,0 +1,10 @@
+article_id: 'rstb_1991_0064'
+revised_title: 'Biomass Production, Structural Deformation, and Self-Thinning Mechanisms in Monocultures: A Comprehensive Analysis'
+semantic_tags:
+  - Plant Biology
+  - Biomass Production
+  - Self-Thinning
+  - Monoculture
+  - Plant Density
+tldr: This article explores the production of biomass in different growth phases of monoculture plant stands. It examines the effects of plant density, growth surface analysis, and diffusion of properties across growth phase boundaries. The study provides a unified non-dimensional formula for normal natural growth, growth with plastic deformation, and growth subject to the self-thinning process. The findings explain features of the self-thinning process and the constants and parameters associated with power law descriptions of phase boundaries. The article also offers a preliminary classification of geometric forms and formulae for evaluating quantities for various cases of interest in plant growth.
+scientific_discipline: Biology and Life Sciences > Plant Biology

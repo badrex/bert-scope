@@ -1,0 +1,10 @@
+article_id: 'rstb_1992_0107'
+revised_title: 'Landmark Learning and Guidance in Insects: Navigational Strategies and Memory Representation'
+semantic_tags:
+  - 'Insect Navigation'
+  - 'Landmark Learning'
+  - 'Visual Memory'
+  - 'Retinotopic Coordinates'
+  - 'Terrestrial Coordinate System'
+tldr: 'Insects use landmarks for navigation, both for pinpointing specific locations and guiding their way along familiar routes. They store detailed information about the surrounding environment, including the position, orientation, and speed of edges, and use this information to locate and reach their goals. Insects can learn to recognize landmarks in retinotopic coordinates and encode their position in a terrestrial coordinate system, allowing them to navigate effectively.'
+scientific_discipline: 'Biology and Life Sciences > Ethology and Animal Behavior'

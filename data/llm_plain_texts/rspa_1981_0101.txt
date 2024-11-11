@@ -1,0 +1,10 @@
+article_id: rspa_1981_0101
+revised_title: 'Asymptotic Behavior of Electromagnetic and Gravitational Fields in Schwarzschild Space-Time'
+semantic_tags:
+  - General Relativity
+  - Electromagnetic Fields
+  - Gravitational Fields
+  - Schwarzschild Geometry
+  - Asymptotic Analysis
+tldr: This article discusses the propagation of electromagnetic fields and linearized perturbations of the vacuum Einstein equations on a Schwarzschild background space-time. It examines the asymptotic behavior of these fields near null infinity and establishes relations between the fields' asymptotic form and the data. The study finds that without suitable restrictions on the data, perturbations of a Schwarzschild space-time need not be weakly asymptotically simple.
+scientific_discipline: Physics > General Relativity

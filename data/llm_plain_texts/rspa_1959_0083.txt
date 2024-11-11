@@ -1,0 +1,10 @@
+article_id: rspa_1959_0083
+revised_title: Matrix Elements of Tensor Operators for Configurations of Three Equivalent Electrons
+semantic_tags:
+  - Quantum Mechanics
+  - Group Theory
+  - Atomic Physics
+  - Tensor Operators
+  - Angular Momentum
+tldr: The article focuses on calculating matrix elements of tensor operators for configurations of three equivalent electrons using group theory and fractional parentage coefficients. The authors develop expressions for these coefficients and tabulate matrix elements for specific values of quantum numbers, providing a foundation for understanding energy level systems in ions within crystal lattices.
+scientific_discipline: Physics > Atomic Physics

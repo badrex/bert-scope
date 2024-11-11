@@ -1,0 +1,10 @@
+article_id: rspl_1894_0084
+revised_title: Effects of Mechanical Stress and Magnetisation on Iron-Nickel Alloys and Manganese Steel
+semantic_tags:
+  - Magnetism
+  - Iron-Nickel Alloys
+  - Manganese Steel
+  - Mechanical Stress
+  - Physical Properties
+tldr: The author examines the effects of mechanical stress and magnetisation on the physical properties of iron-nickel alloys and manganese steel. The study reveals that wire-drawing and cooling can significantly alter the magnetic properties of these materials. The alloys have less longitudinal and torsional elasticity and internal friction compared to pure metals like iron and nickel. The magnetic permeability of the alloys varies, with the alloy containing 30% nickel having higher permeability for moderate magnetising forces, while iron is superior for large forces.
+scientific_discipline: Physics > Materials Science

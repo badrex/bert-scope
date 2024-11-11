@@ -1,0 +1,10 @@
+article_id: rspa_1982_0070
+revised_title: A New Lagrangian Approach for Eulerian Fluid Mechanics
+semantic_tags:
+  - Fluid Dynamics
+  - Lagrangian Mechanics
+  - Euler Equations
+  - Non-Barotropic Fluids
+  - Potential Vorticity
+tldr: The authors present a new Lagrangian approach for Eulerian fluid mechanics, deriving equations of motion for inviscid non-barotropic fluids that incorporate local conservation of mass, entropy, circulation, and potential vorticity. This approach allows for a more descriptive and well-defined representation of fluid motion, providing a better understanding of the underlying principles and behavior of fluids.
+scientific_discipline: Physics > Fluid Dynamics

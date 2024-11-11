@@ -1,0 +1,10 @@
+article_id: 112416
+revised_title: 'On the Development of a New Photometer for Measuring Luminous Intensity'
+semantic_tags:
+  - Photometry
+  - Light measurement
+  - Spectroscopy
+  - Light intensity
+  - Photometer design
+tldr: The author, William Crookes, discusses the challenges in measuring the intensity of light and proposes a new method using the chemical action of luminous rays on a quinine solution. This method could lead to the development of an absolute photometer, which would be useful for measuring the intensity of light in various applications.
+scientific_discipline: Physics > Optics

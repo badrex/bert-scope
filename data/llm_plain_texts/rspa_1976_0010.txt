@@ -1,0 +1,10 @@
+article_id: rspa_1976_0010
+revised_title: Uniqueness and Stability for the Conduction-Diffusion Solution to the Boussinesq Equations Backward in Time
+semantic_tags:
+  - Fluid dynamics
+  - Convection
+  - Thermal instability
+  - Boussinesq equations
+  - Uniqueness and stability
+tldr: The authors investigate the uniqueness and stability of the conduction-diffusion solution to the Boussinesq equations when going backward in time. They show that if the solution satisfies certain weak a priori bounds, the conduction-diffusion solution to the final value problem for the Boussinesq equations is stable on compact subintervals of a finite time interval. Uniqueness of the solution to the final value problem is also established.
+scientific_discipline: Mathematics > Partial Differential Equations

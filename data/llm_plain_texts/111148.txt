@@ -1,0 +1,10 @@
+article_id: 111148
+revised_title: 'Efficiency of Air-Engines and Fuel Consumption'
+semantic_tags:
+  - Thermodynamics
+  - Air-Engine
+  - Energy Efficiency
+  - Heat Engine
+  - Fuel Consumption
+tldr: The author describes an air-engine that compresses air into a heated receiver and then releases it into a cylinder. The difference between the work done by the cylinder and the work absorbed by the pump determines the engine's overall work. Two tables are provided, one for the pressure, temperature, and work absorbed during compression, and the other for the theoretical efficiency of the engine at various pressures and temperatures. The recommended operating temperature is as close to the red heat as possible, which would reduce fuel consumption by two-thirds compared to steam engines.
+scientific_discipline: Engineering and Technology > Energy Efficiency

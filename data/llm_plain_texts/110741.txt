@@ -1,0 +1,10 @@
+article_id: 110741
+revised_title: A New Method for Solving Numerical Equations
+semantic_tags:
+  - Numerical Equations
+  - Mathematical Methods
+  - Root Finding
+  - Transformation Techniques
+  - Mathematical Analysis
+tldr: The author presents a new method for solving numerical equations by transforming them into simpler equations. The process involves determining the first significant figure of a root and then using a series of transformations to obtain the decimal part. This method is demonstrated on equations of the 16th and 622nd degrees.
+scientific_discipline: Mathematics > Mathematical Analysis

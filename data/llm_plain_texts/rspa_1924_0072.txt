@@ -1,0 +1,10 @@
+article_id: rspa_1924_0072
+revised_title: The Electrification and Cataphoresis of Gas Bubbles in Water
+semantic_tags:
+  - Electrophoresis
+  - Gas bubbles
+  - Water electrification
+  - Bubble velocity
+  - Colloidal particles
+tldr: The authors conducted experiments to study the cataphoresis of gas bubbles in water and their movement in an electric field. They found that the velocity of the bubbles was independent of the gas used and directly proportional to the applied field. The behavior of these gas bubbles in an electric field is similar to that of colloidal particles, and they can be considered a type of coarse suspension of air in water. The authors also investigated the effects of various gases, electrolytes, and the temperature on the bubble velocity.
+scientific_discipline: Physics > Electromagnetism

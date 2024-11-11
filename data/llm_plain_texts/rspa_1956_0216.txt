@@ -1,0 +1,10 @@
+article_id: rspa_1956_0216
+revised_title: Dielectric Polarization of Polar Substances: A Statistical Approach
+semantic_tags:
+  - Dielectric constant
+  - Polar molecules
+  - Statistical mechanics
+  - Molecular polarizability
+  - Dielectric polarization
+tldr: The authors present a statistical approach to understand the dielectric polarization of polar substances. They derive a general expression for the static dielectric constant and expand it as a series in powers of the mean molecular polarizability. The study separates long-range and short-range effects and finds that it is not legitimate to represent the surroundings of a macroscopic sample with a continuum. The results are applied to experimental data for water and other liquids, providing satisfactory outcomes.
+scientific_discipline: Physics > Electromagnetism

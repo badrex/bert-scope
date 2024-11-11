@@ -1,0 +1,10 @@
+article_id: 'rspb_1951_0011'
+revised_title: 'Insect Population Changes and Weather Conditions'
+semantic_tags:
+  - Entomology
+  - Population Ecology
+  - Weather and Insect Behavior
+  - Statistical Analysis
+  - Environmental Factors
+tldr: The study examines changes in insect populations in the field and their relationship with preceding weather conditions. Insects were captured in a light trap for four years, and the data was analyzed using multiple regressions. The results show that a significant proportion of the changes in insect populations can be attributed to rainfall and minimum temperature in the previous months. The analysis provides insights into the complex relationship between weather conditions, insect populations, and their environment.
+scientific_discipline: Biology and Life Sciences > Ecology

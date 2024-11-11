@@ -1,0 +1,10 @@
+article_id: rspa_1955_0081
+revised_title: Rolling Friction Mechanisms in Metals
+semantic_tags:
+  - Rolling friction
+  - Plastic deformation
+  - Elastic deformation
+  - Surface wear
+  - Hysteresis losses
+tldr: This study investigates the mechanisms of rolling friction between a hard steel sphere and softer metal surfaces. The research focuses on the plastic and elastic deformation processes involved and how they affect rolling resistance. The findings show that rolling resistance is primarily due to plastic displacement and elastic hysteresis losses in the metal, with interfacial slip contributing little to the resistance.
+scientific_discipline: Physics > Materials Science

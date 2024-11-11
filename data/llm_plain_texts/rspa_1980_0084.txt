@@ -1,0 +1,10 @@
+article_id: rspa_1980_0084
+revised_title: 'Computational Analysis of Rotating Liquid Drop Shapes and Stability'
+semantic_tags:
+  - Fluid Dynamics
+  - Drop Shape Analysis
+  - Surface Tension
+  - Finite Element Method
+  - Bifurcation Theory
+tldr: The authors use a computer-aided finite-element analysis to study the equilibrium shapes and stability of rotating liquid drops held together by surface tension. They find that axisymmetric shapes are stable at low rotation rates but lose stability at the bifurcation to two-lobed shapes. The results contribute to understanding the behavior of liquid masses held together by self-gravitation and have implications for experiments on drop shape and stability.
+scientific_discipline: Physics > Fluid Dynamics

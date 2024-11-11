@@ -1,0 +1,10 @@
+article_id: rspa_1948_0070
+revised_title: 'Nuclear Transmutation and Mass Measurements of Magnesium, Aluminium, and Silicon'
+semantic_tags:
+  - Nuclear physics
+  - Isotopes
+  - Mass spectroscopy
+  - Deuterons
+  - Nuclear reactions
+tldr: The authors conducted experiments to measure the Q values of the (d, p) reactions in magnesium, aluminium, and silicon. They used a high-voltage equipment to accelerate deuterons and studied the emitted protons' ranges to determine the Q values. The results provided a means to investigate the energy levels of the residual heavy nuclei and improve the accuracy of nuclear mass values in the Periodic Table between neon and sulphur.
+scientific_discipline: Physics > Nuclear Physics

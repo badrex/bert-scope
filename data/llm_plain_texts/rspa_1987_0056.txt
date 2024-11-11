@@ -1,0 +1,10 @@
+article_id: rspa_1987_0056
+revised_title: 'Electrical Conductivity and Structural Properties of Polycrystalline Alkali-Metal Tungsten Bronzes'
+semantic_tags:
+  - Tungsten bronze
+  - Electrical conductivity
+  - Alkali-metal content
+  - Non-stoichiometric oxides
+  - Metal-insulator transition
+tldr: The authors studied the structures, electrical conductivities, and oxygen deficiencies of polycrystalline alkali-metal tungsten bronzes. They found that ionic mobility plays a significant role in the total electrical conductivity and that these bronzes are oxygen deficient. The conductivity of these materials depends on factors such as the concentration of the inserted ion, the nature of the inserted ion, the structure of the host lattice, and the temperature.
+scientific_discipline: Chemistry > Materials Science

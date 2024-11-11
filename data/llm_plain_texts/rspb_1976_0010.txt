@@ -1,0 +1,10 @@
+article_id: 'rspb_1976_0010'
+revised_title: 'T Cell Mediated Cytotoxicity and Its Effect on Target Cell Components'
+semantic_tags:
+  - Immunology
+  - Cell Biology
+  - Cytotoxicity
+  - T cell
+  - Target cell
+tldr: The authors investigate the mechanism of T cell mediated cytotoxicity by analyzing the release of different cell components during the process. They found that contrary to common assumption, small molecules like 51Cr are not the only ones released during cytotoxicity. The release of cytoplasmic macromolecules, proteins, and RNA shows similar kinetics as the release of other markers, indicating that the kinetics of release is not related to molecular size. The authors also discovered that rubidium and nicotinamide have different release kinetics, suggesting that they are released as a result of T cell contact. The DNA markers are released with a lag phase, suggesting that the nuclear membrane remains intact after the cytoplasmic membrane is disrupted.
+scientific_discipline: Biology and Life Sciences > Immunology

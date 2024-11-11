@@ -1,0 +1,10 @@
+article_id: 'rsta_1994_0020'
+revised_title: 'Nonlinear Dynamics in Economics and Finance: Theoretical Models and Empirical Evidence'
+semantic_tags:
+  - Economic Dynamics
+  - Nonlinear Systems
+  - Chaos Theory
+  - Financial Markets
+  - Economic Forecasting
+tldr: This article explores the role of nonlinear dynamics in economics and finance, discussing theoretical models that demonstrate the emergence of complex deterministic dynamics in standard economic environments. It also examines the empirical evaluation of the importance of nonlinearities in economic data and the potential applications of chaos theory and related mathematical concepts in understanding economic fluctuations and asset prices.
+scientific_discipline: Social Sciences > Economics

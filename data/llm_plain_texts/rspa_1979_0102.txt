@@ -1,0 +1,10 @@
+article_id: rspa_1979_0102
+revised_title: 'Steered Vertical Line Arrays and Anisotropic Noise: Noise Gain Function and Response'
+semantic_tags:
+  - Acoustics
+  - Signal Processing
+  - Array Signal Processing
+  - Underwater Acoustics
+  - Noise Reduction
+tldr: The article presents an approximate method for evaluating the response of a steered vertical line array of acoustic sensors to anisotropic noise fields. The high-N approximation is used to obtain a closed-form solution for the noise gain function, which is valid for arbitrary anisotropy. The main features of the noise gain curves are discussed and interpreted in terms of conventional beamforming concepts. The findings can be applied to improve the performance of underwater detection systems by understanding the array's response to ambient noise.
+scientific_discipline: Engineering and Technology > Signal Processing and Acoustics

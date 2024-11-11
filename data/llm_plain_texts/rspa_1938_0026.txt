@@ -1,0 +1,10 @@
+article_id: rspa_1938_0026
+revised_title: Electronic Structure and Energy Levels of Polyenes, Aromatic Molecules, and Tetrahedral Fields
+semantic_tags:
+  - Quantum Chemistry
+  - Molecular Orbital Theory
+  - Aromaticity
+  - Molecular Structure
+  - Tetrahedral Symmetry
+tldr: This article explores the electronic structure and energy levels of polyenes, aromatic molecules, and tetrahedral fields. The authors use approximations to calculate the energy of the most stable state and analyze the linkages between carbon atoms. They also investigate the rotational energy levels of diatomic molecules in tetrahedral fields and how these levels are affected by the potential field.
+scientific_discipline: Chemistry > Quantum Chemistry

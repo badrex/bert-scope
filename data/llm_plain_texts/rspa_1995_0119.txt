@@ -1,0 +1,11 @@
+article_id: rspa_1995_0119
+revised_title: 'Advanced Statistical Analysis of Turbulence Quantities in Fluid Flows'
+semantic_tags:
+  - Turbulence
+  - Fluid Dynamics
+  - Statistical Analysis
+  - Reynolds-averaged turbulence
+  - Closure problem
+tldr: This article presents an advanced statistical approach to analyze turbulence quantities in fluid flows. The authors derive equations for higher-order moments and probability density functions of turbulent velocity fluctuations using basic hydrodynamic equations of fluid flow. They explore the use of truncated cumulant expansions to approximate probability density distributions and formulate alternative equations for moments containing only velocity correlations. The study aims to provide a better understanding of turbulent flows and improve prediction methods for engineering and environmental applications.
+scientific_discipline: Mathematics > Applied Mathematics
+sub_discipline: Fluid Dynamics > Turbulence Modeling

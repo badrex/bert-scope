@@ -1,0 +1,10 @@
+article_id: rspl_1899_0054
+revised_title: Electromotive Force and Electrical Resistance of the Organ in Malapterurus electricus
+semantic_tags:
+  - Electromechanics
+  - Nerve physiology
+  - Organ response
+  - Electromotive force
+  - Electrical resistance
+tldr: The authors conducted experiments on the electric fish Malapterurus electricus to determine the electromotive force and electrical resistance of its organ. They used a capillary electrometer and a nerve organ preparation to analyze the organ's response to electrical stimulation. The results showed that the organ's response had a longer initial delay and a longer duration compared to previous experiments, likely due to the lower temperature used in this study.
+scientific_discipline: Biology and Life Sciences > Nerve Physiology

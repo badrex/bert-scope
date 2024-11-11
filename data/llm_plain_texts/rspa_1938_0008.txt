@@ -1,0 +1,10 @@
+article_id: rspa_1938_0008
+revised_title: Stability of Polyatomic Molecules in Degenerate Electronic States: Spin Degeneracy
+semantic_tags:
+  - Quantum Chemistry
+  - Molecular Stability
+  - Spin Degeneracy
+  - Group Theory
+  - Molecular Symmetry
+tldr: The authors investigate the stability of polyatomic molecules in degenerate electronic states, specifically focusing on spin degeneracy. They establish a general theorem that states that a non-linear configuration of a molecule will be unstable unless the degeneracy is the special twofold one that can occur only when the molecule contains an odd number of electrons. The authors also explore the possibility of spin forces stabilizing a non-linear configuration that is unstable due to orbital degeneracy.
+scientific_discipline: Physics > Quantum Chemistry

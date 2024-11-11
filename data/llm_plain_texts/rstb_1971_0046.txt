@@ -1,0 +1,10 @@
+article_id: rstb_1971_0046
+revised_title: 'Protein Monolayer Techniques for Visualizing and Studying Individual DNA Molecules'
+semantic_tags:
+  - Electron Microscopy
+  - DNA Structure
+  - Nucleic Acid Techniques
+  - Molecular Biology
+  - Biophysics
+tldr: The article describes various protein monolayer techniques used to visualize and study individual DNA molecules using electron microscopy. These methods help in observing intrinsic properties and artificially introduced changes in DNA molecules, such as size, shape, binding of drugs, and physical mapping of genetic deletions and mRNA synthesis sites. The techniques also enable the measurement of diffusion coefficients and molecular masses of DNA, providing valuable insights into the structure and function of nucleic acids.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

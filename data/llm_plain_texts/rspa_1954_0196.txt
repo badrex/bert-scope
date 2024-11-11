@@ -1,0 +1,10 @@
+article_id: rspa_1954_0196
+revised_title: 'Discrete Transitions in Turbulent Convection: Experiments and Observations'
+semantic_tags:
+  - Turbulence
+  - Convection
+  - Fluid Dynamics
+  - Heat Transport
+  - Rayleigh Number
+tldr: The authors conducted experiments on turbulent convection in a fluid between horizontal surfaces. They observed six discrete transitions in the slope of the heat-transport curve between Rayleigh numbers of 1700 and 1000000. These transitions appear to agree with those deduced on an assumption of a constant thermal gradient. The study provides insights into the behavior of turbulent convection and its potential applications in understanding and classifying various phenomena related to fluid dynamics.
+scientific_discipline: Physics > Fluid Dynamics

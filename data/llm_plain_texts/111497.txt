@@ -1,0 +1,10 @@
+article_id: 111497
+revised_title: 'On the Problem of Three Bodies: New Methods of Treating Dynamical Equations'
+semantic_tags:
+  - Celestial Mechanics
+  - Planetary Theory
+  - Lunar Theory
+  - Mathematical Physics
+  - Three-Body Problem
+tldr: The author presents two new methods for treating the dynamical equations of the three-body problem, focusing on the motion of planets and the moon. The methods involve variation of elements and provide rigorous expressions for the variations of the elements, leading to more accurate solutions for the problem. The author also discusses the limitations of traditional methods of approximation and the importance of considering the aggregate amount of disturbance caused by the planets' movements.
+scientific_discipline: Mathematics > Applied Mathematics

@@ -1,0 +1,10 @@
+article_id: rspa_1985_0004
+revised_title: Wave Propagation in Layered Anisotropic Elastic Media
+semantic_tags:
+  - Elasticity
+  - Wave Propagation
+  - Anisotropic Materials
+  - Layered Media
+  - Transient Waves
+tldr: The authors study transient wave propagation in a periodically layered anisotropic elastic medium, where each layer consists of two layers of homogeneous anisotropic elastic materials. They derive a general solution in the form of a Laplace transform and perform an asymptotic analysis for large values of time and distance. The authors find that the stress components propagate uncoupled asymptotically, and there are three 'heads of the pulse' solutions in the form of Airy integrals.
+scientific_discipline: Engineering and Technology > Materials Science

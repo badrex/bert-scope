@@ -1,0 +1,10 @@
+article_id: 'rspb_1959_0006'
+revised_title: 'Water Permeability in Chick Heart Fibroblasts: A Tissue Culture Study'
+semantic_tags:
+  - Cell Biology
+  - Tissue Culture
+  - Osmotic Pressure
+  - Permeability
+  - Refractometry
+tldr: The study investigates the rate of water permeation into chick heart fibroblasts in tissue culture by measuring volume changes using immersion refractometry. The findings provide insights into the water permeability of the cell membrane and help estimate the rate of permeation caused by osmotic differences. This research contributes to understanding the behavior of living cells and their response to external conditions.
+scientific_discipline: Biology and Life Sciences > Cell Biology

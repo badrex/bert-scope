@@ -1,0 +1,10 @@
+article_id: 'rspb_1988_0064'
+revised_title: 'Ion Channels and Resting Membrane Potential in Early Embryogenesis'
+semantic_tags:
+  - Ion channels
+  - Embryogenesis
+  - Resting membrane potential
+  - Cell cycle
+  - Double patch-clamp technique
+tldr: The authors discovered a correlation between the gating properties of stretch-activated ion channels and the resting potential during cell cleavage in loach embryos. They found that these channels are involved in regulating the resting potential within the cell cycle. Using the double patch-clamp technique, they observed oscillations in resting membrane potential and channel activity, suggesting a connection between the two.
+scientific_discipline: Biology and Life Sciences > Cell Biology

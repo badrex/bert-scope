@@ -1,0 +1,10 @@
+article_id: rspa_1970_0127
+revised_title: Mechanization of Assembly Processes in Medium and Small Batch Production
+semantic_tags:
+  - Assembly automation
+  - Production engineering
+  - Robotics
+  - Programmable machines
+  - Modular equipment
+tldr: This article discusses the development of standardized mechanisms and programmable machines for automating assembly processes in medium and small batch production. The author describes the design and implementation of various pick-and-place devices and handling systems, as well as the use of electronic control systems to improve efficiency and versatility in assembly tasks.
+scientific_discipline: Engineering and Technology > Production Engineering

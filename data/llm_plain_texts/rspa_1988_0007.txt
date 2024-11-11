@@ -1,0 +1,10 @@
+article_id: rspa_1988_0007
+revised_title: 'Rough-Wall Turbulent Boundary-Layer Pressure Spectrum: Diffraction Theory and Empirical Model'
+semantic_tags:
+  - Fluid Dynamics
+  - Turbulence
+  - Boundary Layer
+  - Wall Pressure Spectrum
+  - Acoustic and Subconvective Wavenumbers
+tldr: This article investigates the turbulent boundary-layer rough-wall pressure spectrum at acoustic and subconvective wavenumbers. The authors analyze the diffraction effects of turbulence pressure by wall roughness elements and propose an empirical model to incorporate interstitial flows and wake formation. The study provides a better understanding of the pressure spectrum in the low-wavenumber and acoustic domains, which is essential for predicting the influence of wall roughness on aerodynamic sound and structural vibrations.
+scientific_discipline: Physics > Fluid Dynamics

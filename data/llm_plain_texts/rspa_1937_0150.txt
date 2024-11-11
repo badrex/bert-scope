@@ -1,0 +1,10 @@
+article_id: rspa_1937_0150
+revised_title: 'Influence of Roughness on Fluid Friction in Pipes'
+semantic_tags:
+  - Fluid mechanics
+  - Pipe flow
+  - Turbulence
+  - Fluid friction
+  - Roughness
+tldr: The authors conducted experiments to study the effect of roughness on fluid friction in pipes. They found that the transition from smooth to rough flow is influenced by the size and distribution of roughness grains. The results showed that larger grains come into action at lower speeds, and the resistance increases with the increase in roughness. The study provides insights into understanding and predicting fluid flow resistance in pipes with different types of roughness.
+scientific_discipline: Engineering and Technology > Fluid Mechanics

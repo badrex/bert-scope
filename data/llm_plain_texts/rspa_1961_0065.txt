@@ -1,0 +1,10 @@
+article_id: rspa_1961_0065
+revised_title: Self-Consistent Perturbation Theory for Impurities and Imperfections in Metals
+semantic_tags:
+  - Solid State Physics
+  - Density Functional Theory
+  - Impurities in Metals
+  - Perturbation Theory
+  - Electronic Structure
+tldr: The authors develop a self-consistent perturbation theory for impurities and imperfections in metals, focusing on the Dirac density matrix. They obtain exact self-consistent results for the density and potential distribution around an impurity to first order in perturbation theory, covering a density range sufficient for all metals under normal conditions. This approach reveals long-range oscillations in the self-consistent density and potential.
+scientific_discipline: Physics > Solid State Physics

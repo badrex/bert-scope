@@ -1,0 +1,10 @@
+article_id: rsta_1988_0029
+revised_title: 'Advanced Strategies for Analyzing Synthetic Aperture Radar Images'
+semantic_tags:
+  - Remote Sensing
+  - Image Processing
+  - Synthetic Aperture Radar
+  - Image Segmentation
+  - Edge Detection
+scientific_discipline: Earth Sciences > Remote Sensing and GIS
+tldr: This article presents improved methods for interpreting synthetic aperture radar (SAR) images, focusing on low-level operations such as segmentation, edge detection, and thin-line detection. The authors develop a segmented image database (SID) to support classification based on context and image-map matching that uses image structure. They also discuss the challenges of image interpretation, including the effects of speckle noise and the importance of encoding image structure for comparison with other data sources.

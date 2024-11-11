@@ -1,0 +1,10 @@
+article_id: rspa_1969_0065
+revised_title: Quantum Theory of Lattice Dynamics and Electronic Contribution
+semantic_tags:
+  - Lattice Dynamics
+  - Quantum Mechanics
+  - Crystallography
+  - Electronic Structure
+  - Solid State Physics
+tldr: The authors explore the electronic contribution to the dynamical tensors in lattice dynamics, showing that the electron-nuclear interactions can be approximated as a two-body potential, which is equivalent to a rigid ion model. They also demonstrate that the total electron-nuclear contribution is invariant for a uniform translation of the nuclei.
+scientific_discipline: Physics > Solid State Physics

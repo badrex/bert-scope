@@ -1,0 +1,10 @@
+article_id: rspl_1904_0133
+revised_title: 'Optical Objectives: Symmetrical Systems and Aberration Correction'
+semantic_tags:
+  - Optical Design
+  - Lens Systems
+  - Spherical Aberration
+  - Astigmatism
+  - Curvature of Field
+scientific_discipline: Engineering and Technology > Optical Engineering
+tldr: The authors discuss the theory of symmetrical optical objectives, focusing on astigmatism, spherical aberration, and curvature of field corrections. They explore the effects of aperture ratio, angular field, and stop position on the performance of these systems. The study demonstrates that a combined system can be completely corrected for these optical aberrations when the back component is properly adjusted.

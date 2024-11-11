@@ -1,0 +1,10 @@
+article_id: rspa_1960_0052
+revised_title: 'Exploring Molecular Interactions in Solution through Nuclear Magnetic Resonance Spectroscopy'
+semantic_tags:
+  - Nuclear Magnetic Resonance (NMR) Spectroscopy
+  - Molecular Interactions
+  - Chemical Shifts
+  - Dielectric Effects
+  - Hydrogen Bonding
+scientific_discipline: Chemistry > Physical Chemistry
+tldr: This article discusses the study of molecular interactions in solution using nuclear magnetic resonance (NMR) spectroscopy. It explains how chemical shifts in NMR spectra can be influenced by factors such as dielectric effects, hydrogen bonding, and induced magnetic moments. The author also explores the effects of solute-solvent interactions on NMR spectra, particularly in ionic solutions and aromatic solvents.

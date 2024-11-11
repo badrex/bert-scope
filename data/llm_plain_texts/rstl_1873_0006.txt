@@ -1,0 +1,10 @@
+article_id: 'rstl_1873_0006'
+revised_title: 'Spectrum Analysis and the Sun's Spectrum'
+semantic_tags:
+  - Spectroscopy
+  - Solar Physics
+  - Stellar Physics
+  - Spectral Lines
+  - Sunspots
+tldr: The author conducted research on spectrum analysis, specifically focusing on the spectrum of the sun. They discovered that the thickness of spectral lines in the sun's spectrum changes in sunspots, the chromosphere, and prominences. This finding supports the conclusion that the thickening of lines is due to pressure and not just temperature. The author also developed a new method for observing spectra, which involves throwing an image of the spark onto the slit of a spectroscope.
+scientific_discipline: Physics > Optics

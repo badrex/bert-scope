@@ -1,0 +1,10 @@
+article_id: rsta_1891_0008
+revised_title: 'Electromotive Force Variations in Cells with Certain Metals, Platinum, and Nitric Acid'
+semantic_tags:
+  - Electrochemistry
+  - Electromotive force
+  - Nitric acid
+  - Metals
+  - Electrolites
+tldr: The authors conducted experiments to measure the electromotive force (EMF) variations in cells consisting of certain metals, platinum, and nitric acid. They found that the presence of nitrous acid is necessary for nitric acid to become an electrolyte, and the EMF increases with the concentration of nitrous acid. The authors also developed a new apparatus to measure the EMF more accurately and without causing any current to pass through the galvanic cell.
+scientific_discipline: Chemistry > Electrochemistry

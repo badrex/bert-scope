@@ -1,0 +1,10 @@
+article_id: rspl_1888_0154
+revised_title: Temperature Coefficient of Iron and Its Magnetic Properties
+semantic_tags:
+  - Thermodynamics
+  - Iron properties
+  - Temperature coefficient
+  - Magnetism
+  - Resistance
+tldr: The author discusses the temperature coefficient of iron and its magnetic properties. They found that the coefficient ranges from 0.0048 at ordinary temperatures to 0.018 at a temperature just short of 855°C. The author also observed that at 870°C, the iron wire loses its magnetism, which coincides with a discontinuity in the resistance curve. This research was conducted at seven stations in India.
+scientific_discipline: Physics > Thermodynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1989_0099
+revised_title: Quantum Gates and Computational Networks
+semantic_tags:
+  - Quantum Computing
+  - Quantum Gates
+  - Reversible Computing
+  - Quantum Theory
+  - Computational Complexity
+tldr: The authors introduce the concept of quantum computational networks, which are the quantum generalization of classical logic circuits. They discuss quantum gates, the universal quantum gate, and how computations can be performed using quantum gates and networks. The paper also explains the difference between reversible and irreversible gates and how reversible gates are essential for quantum computations.
+scientific_discipline: Physics > Quantum Mechanics

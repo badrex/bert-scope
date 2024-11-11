@@ -1,0 +1,10 @@
+article_id: 'rsta_1992_0062'
+revised_title: 'Advancements in Time-Resolved Macromolecular Crystallography Techniques'
+semantic_tags:
+  - Crystallography
+  - Synchrotron X-ray
+  - Time-Resolved Studies
+  - Macromolecules
+  - Structural Biology
+tldr: The article discusses the advancements in time-resolved macromolecular crystallography techniques using synchrotron X-ray methods. It explores the benefits of the Laue method for time-resolved work, which offers shorter exposure times and allows the sample to remain stationary during exposure. The article also highlights the challenges and improvements in instrumentation for Laue diffraction, such as energy deconvolution methods and three-dimensional detectors.
+scientific_discipline: Physics > Optics

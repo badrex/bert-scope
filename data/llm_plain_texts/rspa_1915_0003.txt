@@ -1,0 +1,10 @@
+article_id: rspa_1915_0003
+revised_title: 'Hermann's Experiments on Boundary Layer Acid and Alkali Liberation'
+semantic_tags:
+  - Electrochemistry
+  - Boundary layer effects
+  - Electrolytic dissociation
+  - Transport phenomena
+  - Hermann's experiments
+tldr: The authors conducted experiments to investigate the liberation of acid and alkali at the boundary layers between two fluids when an electric current is passed through them. They confirmed Hermann's original observations and explained the phenomenon using the hypothesis of electrolytic dissociation. The results showed that the amounts of acid and alkali liberated were independent of the concentrations of the fluids, as long as the specific conductivities were the same.
+scientific_discipline: Chemistry > Electrochemistry

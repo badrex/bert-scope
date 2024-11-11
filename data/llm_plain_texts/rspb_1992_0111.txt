@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0111'
+revised_title: 'Rigorous Analysis of Light Diffraction by Striated Muscle Fibers'
+semantic_tags:
+  - 'Biophysics'
+  - 'Muscle Fibers'
+  - 'Diffraction'
+  - 'Optics'
+  - 'Electromagnetic Fields'
+tldr: The article presents a rigorous analysis of light diffraction by striated muscle fibers using the coupled-wave approach. The authors compare their results with other methods, such as the normal mode approach and a first-order approximation. The study demonstrates the differences in diffraction efficiencies of orders for different muscle fiber structures and highlights the importance of understanding the structural organization of the fibers for accurate analysis.
+scientific_discipline: Physics > Optics

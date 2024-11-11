@@ -1,0 +1,10 @@
+article_id: rspa_1971_0025
+revised_title: 'Advancements in Computer-Aided Design and Manufacture of Three-Dimensional Curved Objects'
+semantic_tags:
+  - Computer-Aided Design
+  - Computational Geometry
+  - Mechanical Engineering
+  - Numerical Control
+  - Curve and Surface Fitting
+tldr: This article discusses the advancements in computer-aided design and manufacture of three-dimensional curved objects. It explores the use of computational geometry, a method that represents, analyzes, synthesizes, and manufactures shapes using mathematical descriptions. The article highlights the importance of selecting appropriate mathematical representations for design and fitting, and the need for methods that can handle complex shapes and curves.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

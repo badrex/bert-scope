@@ -1,0 +1,10 @@
+article_id: 107719
+revised_title: Investigating the Distribution and Changes of Magnetic Intensity in Ships of War
+semantic_tags:
+  - Magnetism
+  - Naval Engineering
+  - Compass Variations
+  - Iron and Ship Construction
+  - Magnetic Measurements
+tldr: This article presents a series of experiments conducted by George Harvey to study the distribution and changes of magnetic intensity in ships of war. The author used a specially designed instrument to measure the magnetic intensity at various points on a ship, taking into account the ship's position and orientation. The results showed that the magnetic intensity varied depending on the ship's position and the distribution of iron in its construction. This research was important for understanding the accuracy of compass readings on ships and improving navigation at sea.
+scientific_discipline: Engineering and Technology > Naval Engineering

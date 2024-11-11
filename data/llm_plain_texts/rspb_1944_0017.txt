@@ -1,0 +1,10 @@
+article_id: 'rspb_1944_0017'
+revised_title: 'Ecological Factors Affecting Fecundity and Population Growth in Drosophila Cultures'
+semantic_tags:
+  - Population Ecology
+  - Drosophila melanogaster
+  - Fecundity
+  - Yeast Nutrition
+  - Population Growth Models
+tldr: This study investigates the ecological factors that affect fecundity and population growth in Drosophila cultures. The authors found that fecundity increases with the amount of yeast provided to the flies and that yeast quality affects oviposition rates. They also discovered that factors such as food availability, larval feeding behavior, and interactions between flies and yeasts play a significant role in population growth. The findings suggest that general population growth principles may not be applicable to all species and environments, and further research is needed to understand the complex interrelations between ecological factors.
+scientific_discipline: Biology and Life Sciences > Ecology

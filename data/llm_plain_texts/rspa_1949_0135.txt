@@ -1,0 +1,10 @@
+article_id: rspa_1949_0135
+revised_title: Nuclear Magnetic Resonance at Low Temperatures: Applications and Techniques
+semantic_tags:
+  - Nuclear Magnetic Resonance
+  - Low Temperatures
+  - Spin-Lattice Relaxation
+  - Radiofrequency Resonance
+  - Paramagnetic Impurities
+tldr: The authors investigated nuclear magnetic resonance at low temperatures using radiofrequency resonance absorption methods. They observed significant changes in the width of the resonance line with temperature changes, which are related to molecular motions and molecular order. The authors also studied nuclear spin-lattice relaxation in various substances, including ionic crystals and metals, and explored the possibility of cooling the nuclear spin system by adiabatic demagnetization. The results have implications for the potential applications of nuclear paramagnetism in the region of very low temperatures.
+scientific_discipline: Physics > Condensed Matter Physics

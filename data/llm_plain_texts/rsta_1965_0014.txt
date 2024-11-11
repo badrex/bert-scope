@@ -1,0 +1,10 @@
+article_id: rsta_1965_0014
+revised_title: Primary and Secondary Aberrations of General Electron Optical Systems
+semantic_tags:
+  - Electron Optics
+  - Electron Microscopy
+  - Aberration Correction
+  - Electron Optical Systems Design
+  - Orthogonal Systems
+tldr: The authors use Sturrock's theory of characteristic functions to calculate the primary and secondary aberrations of general electron optical systems, specifically focusing on rectilinear orthogonal systems and round lens systems. They demonstrate the equivalence of aberration formulae obtained using Sturrock's method and Melkich's variation of parameters method. This research contributes to the understanding and improvement of electron optical systems in various applications, including electron microscopy.
+scientific_discipline: Physics > Optics

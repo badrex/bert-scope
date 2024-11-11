@@ -1,0 +1,10 @@
+article_id: rspa_1969_0112
+revised_title: 'Evidence of an After-Effect in the (n, y) Reaction on Polycrystalline Hafnium (IV) Acetyl-Acetonate Complex'
+semantic_tags:
+  - Nuclear Physics
+  - Crystallography
+  - Radiochemistry
+  - Hafnium
+  - Perturbed Angular Correlation
+scientific_discipline: Physics > Nuclear Physics
+tldr: The authors conducted perturbed differential angular correlation measurements on the 133-482 keV y-cascade of 181Ta in synthetic and neutron-irradiated polycrystalline Hf (IV) acetyl-acetonate complex sources. Evidence of different crystalline sites was observed in both cases, and the experimental data were treated using a x2 test. The results showed that the irradiation led to new crystalline sites and changes in the first asymmetry parameter, while the fundamental interaction frequency and frequency distribution remained within the limit of error.

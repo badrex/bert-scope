@@ -1,0 +1,10 @@
+article_id: rspa_1938_0187
+revised_title: Coriolis Perturbation in Methane Spectrum: Vibrational-Rotational Hamiltonian and Wave Functions
+semantic_tags:
+  - Molecular Physics
+  - Methane Spectrum
+  - Coriolis Coupling
+  - Vibrational-Rotational Hamiltonian
+  - Wave Functions
+tldr: The article explains the complex rotational structure of methane's infra-red absorption band, caused by a Coriolis perturbation in the vibrational-rotational Hamiltonian. The authors derive the Coriolis coupling terms and find the correct rotational-vibrational wave functions to evaluate the perturbation's effect on the rotational levels of the methane molecule.
+scientific_discipline: Chemistry > Molecular Physics

@@ -1,0 +1,10 @@
+article_id: rsta_1963_0006
+revised_title: Wave Propagation through Fields of Pack Ice: Observations and Analysis
+semantic_tags:
+  - Oceanography
+  - Ice Studies
+  - Wave Attenuation
+  - Wave Penetration
+  - Ice Floe Dynamics
+tldr: The authors conducted a study on the penetration of sea waves and swell into fields of loose pack ice using a ship-borne wave recorder during a voyage in the Weddell Sea. They found that long ocean swell can penetrate polar ice fields with little energy loss, and the fraction of wave energy penetrating such an ice field is proportional to the floe thickness and the wavelength of the swell. The study provides insights into the mechanisms of wave and swell penetration into pack ice fields.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

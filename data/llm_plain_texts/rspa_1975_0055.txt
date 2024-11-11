@@ -1,0 +1,10 @@
+article_id: rspa_1975_0055
+revised_title: 'Ionosphere Reflexion of Radio Waves Near Electron Gyrofrequency'
+semantic_tags:
+  - Ionosphere
+  - Radio Waves
+  - Electromagnetic Waves
+  - Magnetoionic Theory
+  - Plasma Physics
+tldr: The study investigates the reflection properties of the ionosphere for radio waves with frequencies close to the electron gyrofrequency. The focus is on the reflection and absorption of the extraordinary wave, which is strongly absorbed for frequencies near the gyrofrequency. The research is useful in understanding ionospheric cross-modulation and has implications for the improvement of magnetoionic theory.
+scientific_discipline: Physics > Electromagnetism

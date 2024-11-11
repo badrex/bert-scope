@@ -1,0 +1,10 @@
+article_id: 'rspl_1896_0074'
+revised_title: 'Iron Lines in Hottest Stars: Preliminary Note'
+semantic_tags:
+  - Astrophysics
+  - Stellar Spectroscopy
+  - Iron Lines
+  - High Temperature Stars
+  - Spectral Lines
+tldr: The author, J. Norman Lockyer, investigates the iron lines present in the hottest stars and finds that at high temperatures, only specific lines are enhanced, while others are absent. This observation supports the idea that the hottest stars' temperature is sufficient to produce simplifications beyond those in laboratories.
+scientific_discipline: Astronomy > Stellar Spectroscopy

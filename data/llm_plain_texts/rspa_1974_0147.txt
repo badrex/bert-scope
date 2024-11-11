@@ -1,0 +1,10 @@
+article_id: rspa_1974_0147
+revised_title: A Self-Consistent Model Potential Method for Atomic Interactions
+semantic_tags:
+  - Quantum Chemistry
+  - Atomic Interactions
+  - Model Potentials
+  - Molecular Physics
+  - Perturbation Theory
+tldr: The authors present a self-consistent model potential method for atomic interactions, which can be applied to single-center and two-center systems. They derive the model potential wavefunctions and discuss the long-range interactions between atoms. The method provides explicit forms for the energy and dipole moment at large separations, leading to a better understanding of atomic interactions and their implications in molecular systems.
+scientific_discipline: Chemistry > Quantum Chemistry

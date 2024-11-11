@@ -1,0 +1,10 @@
+article_id: rsta_1990_0160
+revised_title: The Lagrangian Picture of Fluid Motion: Analyzing Fluid Dynamics from a Particle Perspective
+semantic_tags:
+  - Fluid Dynamics
+  - Lagrangian Mechanics
+  - Vorticity
+  - Eulerian Description
+  - Continuity Condition
+tldr: This article introduces the Lagrangian picture of fluid motion, focusing on the motion of individual fluid particles and the role of pressure gradients. It explains the connection between the Lagrangian and Eulerian descriptions of fluid dynamics and discusses the significance of vorticity and the continuity condition in fluid motion. The article also explores the mathematical basis and applications of the Lagrangian approach, including the study of singularities, interfaces, and computational fluid dynamics.
+scientific_discipline: Physics > Fluid Dynamics

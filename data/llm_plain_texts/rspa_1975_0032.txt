@@ -1,0 +1,10 @@
+article_id: rspa_1975_0032
+revised_title: 'Spectral Analysis of Strontium I: Excitation and Inner Shell Interactions'
+semantic_tags:
+  - Atomic Physics
+  - Spectroscopy
+  - Strontium
+  - Inner Shell Excitation
+  - Wave Function Collapse
+tldr: The absorption spectrum of Sr I between 40 and 95 Å was studied, revealing new structure due to excitation from the 4s and 4p subshells. Window resonances were observed and attributed to simultaneous excitation of two electrons, one from the 4s and one from the 4p subshell. The wave function collapse in the presence of an excited core was analyzed using Hartree-Fock calculations, providing insights into the inner shell interactions and configuration mixing.
+scientific_discipline: Physics > Atomic Physics

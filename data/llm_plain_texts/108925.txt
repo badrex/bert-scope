@@ -1,0 +1,10 @@
+article_id: 108925
+revised_title: Observations on Stellar and Comet Spectra
+semantic_tags:
+  - Astronomy
+  - Spectroscopy
+  - Astrophysics
+  - Stellar motion
+  - Doppler effect
+tldr: The author, William Huggins, conducted observations on the spectra of stars, nebulae, the Sun, and Comet II to determine if these celestial bodies were moving towards or away from Earth. He used spectroscopy to compare the bright lines of terrestrial substances with the dark lines in the spectra of stars and found that none of the observed stars were moving with velocities great enough to cause a detectable change in refrangibility. This research contributed to the understanding of the influence of celestial motions on the index of refraction of light.
+scientific_discipline: Astronomy > Astrophysics

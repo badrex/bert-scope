@@ -1,0 +1,10 @@
+article_id: rspa_1965_0085
+revised_title: Damage and Failure Mechanisms of Heavy-Section Steel: A Review
+semantic_tags:
+  - Fracture mechanics
+  - Materials science
+  - Steel structures
+  - Dislocation theory
+  - Crack propagation
+tldr: This article discusses the damage and failure mechanisms of heavy-section steel, focusing on the geometrical and physical conditions for unstable fracture. The author presents a dislocation theory of cracks that takes into account elastic-plastic and other non-linear modes of deformation. The importance of discontinuous cracking in providing an unstable mode of plane strain, semi-brittle, tensile fracture is emphasized. The author also discusses size effects and their relation to microscopic processes of deformation and fracture, especially twinning, and considers the concept of the crack arrest temperature.
+scientific_discipline: Materials Science > Fracture Mechanics

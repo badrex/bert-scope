@@ -1,0 +1,10 @@
+article_id: rspl_1900_0007
+revised_title: Determining the Luminosity of Colored Surfaces for Color Discs
+semantic_tags:
+  - Color Photometry
+  - Luminosity
+  - Color Matching
+  - Optics
+  - Colorimetry
+tldr: The author developed a method to determine the luminosity of colored surfaces using rotating discs and black and white interlacing. This method allowed for the calculation of the luminosity of various colors, enabling the creation of accurate color negatives for three-color photographic prints.
+scientific_discipline: Physics > Optics

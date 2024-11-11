@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0058'
+revised_title: 'Resin Matrices and Their Contribution to Composite Properties: A Review'
+semantic_tags:
+  - Composite Materials
+  - Resin Matrices
+  - Aerospace Applications
+  - Mechanical Properties
+  - Matrix-Composite Relations
+tldr: This article discusses the importance of selecting suitable resin matrices for glass and carbon fiber-reinforced plastics in aerospace applications. It explores the relationship between matrix and composite properties, considering factors such as mechanical properties, manufacturing requirements, and the influence of resin matrices on composite behavior. The author also highlights the challenges in practical work, such as batch-to-batch variability and maintaining high-quality composite manufacturing.
+scientific_discipline: Engineering and Technology > Materials Science

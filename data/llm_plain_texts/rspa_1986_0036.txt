@@ -1,0 +1,10 @@
+article_id: rspa_1986_0036
+revised_title: 'Investigation of Creep Threshold Stresses in TiN-Dispersion Strengthened Stainless Steels'
+semantic_tags:
+  - Materials Science
+  - Stainless Steel
+  - Creep Resistance
+  - Dispersoid
+  - Mechanical Properties
+tldr: This study investigates the creep threshold stresses in TiN-dispersion strengthened stainless steels. The authors determined that the threshold stress is independent of specimen strain and applied stress but increases with the volume fraction of TiN dispersoid. They concluded that the threshold stress is solely derived from the presence of the dispersion. The results were used to assess existing models of the threshold condition, with the closest numerical agreement obtained by models incorporating some degree of localized dislocation climb.
+scientific_discipline: Materials Science > Mechanical Properties

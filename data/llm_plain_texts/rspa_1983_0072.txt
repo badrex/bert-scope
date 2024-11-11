@@ -1,0 +1,10 @@
+article_id: rspa_1983_0072
+revised_title: Dynamics of Vlasov Beams: A Modal Theory for Forced and Free Vibrations
+semantic_tags:
+  - Vlasov theory
+  - Beam dynamics
+  - Structural dynamics
+  - Thin-walled beams
+  - Naval architecture
+tldr: This article presents a linear modal theory for the dynamics of Vlasov beams, which are non-uniform thin-walled beams like ship hulls. The theory, based on the Vlasov theory of thin-walled beams, accounts for forced and free vibrations and includes orthogonality conditions. It offers an alternative to the modified Timoshenko theory and has implications for various areas of structural dynamics, including naval architecture.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

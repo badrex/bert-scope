@@ -1,0 +1,10 @@
+article_id: rspl_1904_0110
+revised_title: Investigating the Electrical Conductivity and Properties of Sodium Hydroxide Solutions
+semantic_tags:
+  - Electrochemistry
+  - Ionization
+  - Conductivity
+  - Sodium hydroxide
+  - Aqueous solutions
+tldr: This article investigates the electrical conductivity and other properties of sodium hydroxide in aqueous solutions. The authors found that the conductivity-temperature curves can be represented by a formula that accounts for concentration, ionization, and ionic mobility. They also discovered that the intrinsic conductivity of the solution reaches a minimum at a certain concentration and then increases. The study provides insights into the behavior of electrolytes in solutions and the influence of temperature on their properties.
+scientific_discipline: Chemistry > Electrochemistry

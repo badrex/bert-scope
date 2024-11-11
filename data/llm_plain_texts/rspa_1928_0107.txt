@@ -1,0 +1,10 @@
+article_id: rspa_1928_0107
+revised_title: Erosion by Water-Hammer: A Study of the Impact Pressures and its Effects on Metallic Surfaces
+semantic_tags:
+  - Erosion
+  - Water-hammer
+  - Fluid mechanics
+  - Turbine blades
+  - Impact pressure
+tldr: The authors investigate the phenomenon of water-hammer, which occurs when water collapses rapidly, creating intense momentary pressures that can cause erosion on metallic surfaces. They demonstrate that water-hammer is a significant factor in the erosion of propeller blades, pump runners, casings, and turbine blades, and explain how this phenomenon can be used to account for the erosion of steam turbine blades due to drops of water impinging on their surfaces.
+scientific_discipline: Engineering and Technology > Fluid Mechanics

@@ -1,0 +1,10 @@
+article_id: rspa_1979_0045
+revised_title: Complex Source-Point Theory of Electromagnetic Open Resonators
+semantic_tags:
+  - Electromagnetic Theory
+  - Open Resonators
+  - Gaussian Beams
+  - Complex Source-Point Method
+  - Resonant Frequencies
+tldr: The authors develop the complex source-point method to study the electromagnetic field of open resonators, particularly focusing on the rectangular components of the field in Gaussian beams. They derive approximate formulae for the resonant frequencies of open resonators with spherical mirrors and compare them with the elementary scalar theory.
+scientific_discipline: Physics > Electromagnetism

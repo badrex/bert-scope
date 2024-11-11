@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0051'
+revised_title: 'Caffeine's Effect on Inositol-Trisphosphate-Induced Calcium Oscillations'
+semantic_tags:
+  - Calcium signaling
+  - Caffeine
+  - Inositol-trisphosphate
+  - Xenopus oocytes
+  - Calcium oscillations
+tldr: The author's study found that caffeine inhibits inositol-trisphosphate (InsP3)-induced membrane potential oscillations in Xenopus oocytes. Caffeine does not affect the initial spike but suppresses the subsequent oscillations. This discovery provides insights into the two-pool model for generating calcium oscillations and the role of caffeine in calcium signaling.
+scientific_discipline: Biology and Life Sciences > Cellular Biology and Physiology

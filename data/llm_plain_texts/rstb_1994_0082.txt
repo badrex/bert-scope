@@ -1,0 +1,10 @@
+article_id: 'rstb_1994_0082'
+revised_title: 'Quantifying Biodiversity: Conceptual Aspects and Challenges'
+semantic_tags:
+  - Biodiversity
+  - Species richness
+  - Taxonomic distinctiveness
+  - Conservation
+  - Ecological hierarchy
+tldr: This article discusses the various ways to quantify and measure biological diversity, focusing on species as the primary unit of measurement. It highlights the importance of considering different levels of biological hierarchy, from genetic to ecosystem levels, and addresses the challenges in estimating the number of species and their taxonomic distinctiveness. The author also emphasizes the practical implications of these concepts, such as the conservation of endangered species and the need for a more nuanced understanding of the complexities of biological diversity.
+scientific_discipline: Biology and Life Sciences > Ecology

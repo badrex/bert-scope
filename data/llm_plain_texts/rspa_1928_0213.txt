@@ -1,0 +1,10 @@
+article_id: rspa_1928_0213
+revised_title: Mechanism of Twinning in Body-Centred Cubic Lattice
+semantic_tags:
+  - Crystallography
+  - Metallurgy
+  - Twinning
+  - Body-centered cubic lattice
+  - Neumann bands
+tldr: The authors investigate the formation of Neumann bands in body-centered cubic lattices, specifically in hexahedral meteoric iron and kamacite. They propose that these bands are a result of twinning due to a mechanical impulse, such as an impulsive shear. The study provides insight into the crystallographic orientation and atomic movement during the formation of these bands, which is essential for understanding the properties of meteoric iron.
+scientific_discipline: Materials Science > Crystallography

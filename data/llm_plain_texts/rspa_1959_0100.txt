@@ -1,0 +1,10 @@
+article_id: rspa_1959_0100
+revised_title: Theoretical Analysis of Bond Length Alternation in Conjugated Chain Molecules
+semantic_tags:
+  - Conjugated systems
+  - Molecular orbital theory
+  - Bond lengths
+  - Polyenes
+  - Chemical bonding
+tldr: The authors investigate the bond lengths in long conjugated chain molecules, specifically linear polyenes, and find that they exhibit marked bond alternation. This contradicts previous theories by Lennard-Jones and Coulson but agrees with Ooshika's and Labhart's findings. The study uses molecular orbital theory and shows that the alternation arises from the mathematical properties of the model, even when electrons are assumed to move independently.
+scientific_discipline: Chemistry > Organic Chemistry

@@ -1,0 +1,10 @@
+article_id: rspl_1886_0086
+revised_title: A New Instrument for the Rapid Volumetric Analysis of Carbonic Acid
+semantic_tags:
+  - Gas analysis
+  - Carbon dioxide measurement
+  - Atmospheric chemistry
+  - Environmental science
+  - Analytical chemistry
+tldr: The author presents a new instrument for the speedy volumetric determination of carbonic acid in the atmosphere. The instrument uses potassium hydrate to absorb carbonic acid in a closed receiver and measures the volume of dry atmospheric air required to restore atmospheric pressure. This method allows for accurate measurement of carbonic acid proportions in the air, providing valuable information for understanding atmospheric chemistry and environmental science.
+scientific_discipline: Chemistry > Environmental and Earth Sciences

@@ -1,0 +1,10 @@
+article_id: rspa_1938_0094
+revised_title: Guggenheim's Theory of Strictly Regular Binary Liquid Mixtures
+semantic_tags:
+  - Thermodynamics
+  - Statistical mechanics
+  - Liquid mixtures
+  - Chemical solutions
+  - Phase transitions
+tldr: This article revises and extends Guggenheim's theory of strictly regular binary liquid mixtures, which are hypothetical solutions with specific properties. The author explores the thermodynamics and statistical mechanics of these solutions, focusing on the partition function and the conditions for critical mixing. The findings can be used to investigate the behavior of liquid mixtures and their potential phase transitions.
+scientific_discipline: Chemistry > Thermodynamics

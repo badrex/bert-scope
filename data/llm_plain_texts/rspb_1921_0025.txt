@@ -1,0 +1,11 @@
+article_id: 'rspb_1921_0025'
+revised_title: 'A Method for Investigating Hemolytic Activity of Chemical Substances'
+semantic_tags:
+  - Hemolysis
+  - Blood analysis
+  - Bile salts
+  - Saponin
+  - Sodium taurocholate
+  - Lactic acid
+tldr: The author presents a method for investigating the hemolytic activity of chemical substances using a standardized blood suspension. The technique involves controlling variables such as dilution, quantity of blood, time for hemolysis, and temperature. The method is applied to various hemolytic substances, including saponin, sodium taurocholate, and lactic acid, and the results are expressed through mathematical equations.
+scientific_discipline: Biology and Life Sciences > Biochemistry

@@ -1,0 +1,10 @@
+article_id: rsta_1992_0057
+revised_title: Nonlinear Effects in the Evolution of Boundary-Layer Spots
+semantic_tags:
+  - Fluid Dynamics
+  - Turbulence
+  - Boundary Layer
+  - Nonlinear Theory
+  - Euler Equations
+tldr: The author studies the evolution of a turbulent spot in a boundary layer, focusing on the nonlinear effects near the wing-tips of the spot. They develop a nonlinear theory using the three-dimensional unsteady Euler equations and find that the motion near the wing-tips becomes multi-structured, with two possible mechanisms for nonlinearity to affect the evolution significantly. The author also discusses the implications of these findings for further research.
+scientific_discipline: Physics > Fluid Dynamics

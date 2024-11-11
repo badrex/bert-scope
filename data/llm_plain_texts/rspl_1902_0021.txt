@@ -1,0 +1,10 @@
+article_id: rspl_1902_0021
+revised_title: Insulation Resistance and Minimum Quantity of Electricity in Capillary Electrometers
+semantic_tags:
+  - Electrometry
+  - Insulation resistance
+  - Capillary electrometer
+  - Electromotive force
+  - Polarization
+scientific_discipline: Physics > Electromagnetism
+tldr: The author investigates the insulation resistance and minimum quantity of electricity required to produce a visible excursion in capillary electrometers. They found that the insulation resistance is affected by temperature and the condition of the preparation, and that the leakage in the capillary electrometer is due to both external and internal factors. The author also discovered that the time of half-discharge of the instrument on open circuit can be significantly longer than the time of half-charge on a closed circuit, suggesting that the resistance to the passage of current is not ohmic.

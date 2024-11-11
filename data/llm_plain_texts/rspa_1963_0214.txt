@@ -1,0 +1,10 @@
+article_id: rspa_1963_0214
+revised_title: General Relativity and Background Space Interpretation
+semantic_tags:
+  - General Relativity
+  - Background Space
+  - Gravitational Red Shift
+  - Static Finite Gravitating Systems
+  - Space-Time Metric
+tldr: The author extends Atkinson's idea of interpreting general relativity in terms of Euclidean space to any static finite gravitating system. They introduce the concept of a background space, which simplifies the interpretation of the path of a free particle, light rays, and gravitational red shift. This interpretation is applicable to any theory of gravitation where test particles' and light rays' paths are geodesics of the space-time metric.
+scientific_discipline: Physics > General Relativity

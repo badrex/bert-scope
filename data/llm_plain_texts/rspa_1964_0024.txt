@@ -1,0 +1,10 @@
+article_id: rspa_1964_0024
+revised_title: 'Study of Radiation Width and Resonance Broadening in Helium'
+semantic_tags:
+  - Spectroscopy
+  - Helium
+  - Line broadening
+  - Resonance broadening
+  - Natural width
+scientific_discipline: Physics > Optics
+tldr: The authors studied the radiation width and resonance broadening in helium using a direct recording Fabry-Perot interferometer. They separated the Doppler and Lorentz components of the spectral lines and determined the radiation width of the helium level, which led to an estimation of the resonance line's lifetime. The study found that resonance broadening is independent of the speed of the atoms and compared the absolute value of the resonance broadening constant with various theories.

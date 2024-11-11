@@ -1,0 +1,10 @@
+article_id: '105682'
+revised_title: 'Observations of the Solar Eclipse of October 16, 1762'
+semantic_tags:
+  - Solar Eclipse
+  - Astronomical Observations
+  - Contact of Celestial Bodies
+  - Time Measurement
+  - Newtonian Telescope
+tldr: 'Samuel Dunn observed the Solar Eclipse of October 16, 1762, using a six-foot Newtonian reflector telescope. He noted the contact between the Moon's limb and a solar spot, and concluded that the contact could not have been judged by different observers without a difference of at least 5 seconds of time. This observation confirmed his opinion about the internal contact of Venus with the Sun's limb in 1761.'
+scientific_discipline: Astronomy > Solar Eclipse Observation

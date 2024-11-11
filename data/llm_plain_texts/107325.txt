@@ -1,0 +1,10 @@
+article_id: 107325
+revised_title: 'Periscopic Camera Obscura and Microscope Improvements'
+semantic_tags:
+  - Optics
+  - Camera Obscura
+  - Microscopy
+  - Lens Design
+  - Telescope design
+tldr: The author, William Hyde Wollaston, describes improvements to the camera obscura and microscope using periscopic principles. He developed a meniscus lens that provides better image quality and a wider field of view. The periscopic design allows for better focus on oblique rays, resulting in improved image clarity. Wollaston also applied these principles to the camera lucida and spectacles for long-sighted individuals.
+scientific_discipline: Physics > Optics

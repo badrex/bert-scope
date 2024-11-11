@@ -1,0 +1,10 @@
+article_id: rspa_1985_0109
+revised_title: 'Studying Stall Hysteresis and Large-Scale Separation in Cascades'
+semantic_tags:
+  - Fluid Dynamics
+  - Aerodynamics
+  - Stall Hysteresis
+  - Cascade Flow
+  - Viscous Flows
+tldr: The authors study the initial cross-over from massive separation to an attached flow in a single-row unstaggered cascade using a two-dimensional thin aerofoil and the theory of viscous bluff-body separation. They develop analytic solutions for the limit of small cascade spacing and find that stall hysteresis can be severely accentuated in a cascade, depending on the aerofoil shape and cascade spacing. The study provides insight into the nature of high-Reynolds-number separation in cascades and helps in understanding complex phenomena existing in separated flows.
+scientific_discipline: Physics > Fluid Dynamics

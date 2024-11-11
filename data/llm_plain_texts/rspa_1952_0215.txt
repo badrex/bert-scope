@@ -1,0 +1,10 @@
+article_id: rspa_1952_0215
+revised_title: Dirac's New Variables and Circulation in the Flow of Electricity
+semantic_tags:
+  - Electromagnetism
+  - Relativistic Electrodynamics
+  - Vorticity
+  - Fluid Dynamics
+  - Kelvin's Theorems
+tldr: The authors explore Dirac's new variables and their application to the relativistic flow of electricity. They demonstrate that Kelvin's theorems can be applied to the generalized momentum vector, and that Dirac's variables represent the parameters that characterize vortex ribbons in space-time. This work contributes to a deeper understanding of circulation and vorticity in the context of electric fluid dynamics.
+scientific_discipline: Physics > Electromagnetism

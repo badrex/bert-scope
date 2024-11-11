@@ -1,0 +1,10 @@
+article_id: rspa_1987_0073
+revised_title: Stability and Instability of Solitary Waves of Korteweg-de Vries Type
+semantic_tags:
+  - Solitary Waves
+  - Korteweg-de Vries Equation
+  - Nonlinear Waves
+  - Stability Analysis
+  - Benjamin-Ono Equation
+tldr: This article investigates the stability and instability properties of solitary-wave solutions for a general class of equations, including the Korteweg-de Vries and Benjamin-Ono equations. The main result states that a solitary wave is stable if the function is convex. The authors provide a proof of instability for certain cases and establish stability for others using a Lyapunov functional and a mass-related improper integral.
+scientific_discipline: Mathematics > Partial Differential Equations

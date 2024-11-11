@@ -1,0 +1,10 @@
+article_id: rspa_1995_0042
+revised_title: 'Meteor 3-01 Rocket Orbit Analysis at 13th-Order Resonance'
+semantic_tags:
+  - Orbit determination
+  - Geopotential harmonics
+  - Satellite orbits
+  - Resonance analysis
+  - Earth's gravity field
+tldr: The authors analyzed the orbit of the Meteor 3-01 rocket (1985-100B) at 13th-order resonance, using 5865 observations to determine four lumped harmonic coefficients of order 13 and two of order 26 in the geopotential. The results provide a stringent test of comprehensive geopotential models at 13th order and are some of the most accurate obtained by any method for geopotential harmonics of this order.
+scientific_discipline: Environmental and Earth Sciences > Geophysics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1964_0092'
+revised_title: 'Exploring Factors Affecting Tissue Oxygen Tension'
+semantic_tags:
+  - Oxygen distribution
+  - Tissue respiration
+  - Mathematical modeling
+  - Biomedical research
+  - Capillary oxygen flow
+tldr: The authors analyze the factors affecting tissue oxygen tension using mathematical models. They extend Krogh's model by considering hexagonal symmetry and the decrease in oxygen consumption by cells when oxygen tension falls below a certain value. The study helps to understand the supply of oxygen to living tissues and its implications in biological sciences.
+scientific_discipline: Biology and Life Sciences > Biomedical Research

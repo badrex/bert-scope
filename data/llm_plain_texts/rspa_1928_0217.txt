@@ -1,0 +1,10 @@
+article_id: rspa_1928_0217
+revised_title: Symmetrical Treatment of Wave Equations in Quantum Mechanics
+semantic_tags:
+  - Quantum Mechanics
+  - Wave Equations
+  - Matrix Theory
+  - Tensor Calculus
+  - Symmetry in Physics
+tldr: The author develops a symmetrical treatment of wave equations using matrix and tensor calculus, leading to a more efficient and simplified derivation of Dirac's wave equation. This method also helps in understanding the properties of electrons, such as angular momentum and conservation of charge-current vector.
+scientific_discipline: Physics > Quantum Mechanics

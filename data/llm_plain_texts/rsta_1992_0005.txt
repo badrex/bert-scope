@@ -1,0 +1,10 @@
+article_id: 'rsta_1992_0005'
+revised_title: 'Geometric Spectral Properties of N-Body Schrödinger Operators: Applications to Diatomic Systems'
+semantic_tags:
+  - Quantum Mechanics
+  - Schrödinger Equation
+  - Diatomic Systems
+  - Atomic Physics
+  - Molecular Physics
+tldr: The authors present geometric spectral properties of N-body Schrödinger operators and apply them to diatomic systems, such as molecules with electrons and two nuclei. They establish conditions for the finiteness and infiniteness of bound states, which correspond to eigenvalues below the essential spectrum of the operator. The study provides insights into the behavior of atoms and molecules and helps understand their properties.
+scientific_discipline: Physics > Quantum Mechanics

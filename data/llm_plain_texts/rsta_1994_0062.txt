@@ -1,0 +1,10 @@
+article_id: rsta_1994_0062
+revised_title: Analytic Approximation for Equity Volatility in Firms with Mixed Financing
+semantic_tags:
+  - Finance
+  - Mathematical Modeling
+  - Stochastic Processes
+  - Option Pricing
+  - Corporate Finance
+tldr: This article develops a mathematical model for equity volatility when a firm is financed by equity, debt, and other financial instruments. The authors propose an analytic approximation for equity volatility, which is shown to be extremely precise. This model helps in understanding the behavior of equity volatility in firms with mixed financing.
+scientific_discipline: Mathematics > Finance

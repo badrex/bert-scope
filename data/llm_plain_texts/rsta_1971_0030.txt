@@ -1,0 +1,10 @@
+article_id: rsta_1971_0030
+revised_title: Electronic Aids to Night Vision: Improving Sensitivity and Performance
+semantic_tags:
+  - Night Vision
+  - Image Intensifiers
+  - Electronic Devices
+  - Visual Perception
+  - Photon Noise
+scientific_discipline: Physics > Optics
+tldr: The article discusses the limitations of the human eye in low light conditions and how electronic image intensifiers can improve night vision by capturing and utilizing more photons efficiently. The author explains the principles of operation of image intensifier tubes and explores the potential performance of night vision equipment based on different types of tubes for direct and remote viewing applications.

@@ -1,0 +1,10 @@
+article_id: rspl_1904_0031
+revised_title: Optical Properties of Vitreous Silica for Optical Work
+semantic_tags:
+  - Silica
+  - Optical materials
+  - Refractive index
+  - Dispersion
+  - Prism
+tldr: The authors investigated the optical properties of vitreous silica, a material that could potentially be used in optical work. They found that it has a low refractive index, a higher dispersive power than quartz, and is transparent to ultraviolet radiation. The authors also created two silica prisms and compared their performance to other materials, concluding that vitreous silica could be a valuable material for optical work.
+scientific_discipline: Physics > Optics

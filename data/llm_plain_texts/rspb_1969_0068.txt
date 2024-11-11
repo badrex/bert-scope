@@ -1,0 +1,10 @@
+article_id: 'rspb_1969_0068'
+revised_title: 'Exploring the Kinetics of Enzyme Cascade Systems'
+semantic_tags:
+  - Enzyme kinetics
+  - Enzyme cascades
+  - Biochemistry
+  - Blood plasma
+  - Enzyme reactions
+tldr: This article discusses the theory of enzyme cascade kinetics, distinguishing between open and damped cascades. It explains that enzyme cascades primarily have a triggering effect rather than amplification, creating an avalanche or multiplier effect. The study focuses on the kinetics of enzyme reactions in blood plasma, providing mathematical formulas for understanding these complex systems.
+scientific_discipline: Biology and Life Sciences > Biochemistry

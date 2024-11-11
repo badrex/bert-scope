@@ -1,0 +1,10 @@
+article_id: rspl_1904_0144
+revised_title: A New Method for Measuring the Length of Electric Waves
+semantic_tags:
+  - Electromagnetic Waves
+  - Wave Meter
+  - Resonance
+  - Capacitance
+  - Inductance
+tldr: The author presents a new instrument for measuring the length of long electric waves used in Hertzian wave telegraphy. The device uses a closed circuit wave-meter with a neon vacuum tube detector, allowing for accurate and quick measurement of oscillation constants and small inductances and capacities. This instrument is useful for determining the frequency of oscillations in various circuits and improving the accuracy of wave measurements.
+scientific_discipline: Physics > Electromagnetism

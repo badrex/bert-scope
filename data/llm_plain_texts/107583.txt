@@ -1,0 +1,10 @@
+article_id: 107583
+revised_title: 'Generalizing La Grange's Formulas for Differential Equations'
+semantic_tags:
+  - Differential Equations
+  - Mathematical Analysis
+  - Calculus
+  - Mathematical Notation
+  - Thomas Knight
+tldr: Thomas Knight presents a method to generalize La Grange's formulas for differential equations, expanding their application to cases where the differences of variables are variable. This method allows for a more comprehensive understanding of functional relationships and can be applied to various fields of mathematics and science.
+scientific_discipline: Mathematics > Calculus

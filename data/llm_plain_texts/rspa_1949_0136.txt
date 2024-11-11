@@ -1,0 +1,10 @@
+article_id: rspa_1949_0136
+revised_title: 'Equilibrium Spectrum of Turbulent Motion at Large Wave-Numbers'
+semantic_tags:
+  - Turbulence
+  - Fluid Dynamics
+  - Kolmogorov Theory
+  - Reynolds Number
+  - Heisenberg's Spectrum
+tldr: The authors present measurements of the distribution of turbulent energy over Fourier components of large wave-numbers, focusing on the equilibrium spectrum. They discuss different postulates about the energy transfer and conclude that Heisenberg's spectrum is the most likely to approximate the equilibrium spectrum. The study provides insights into the nature of turbulent motion and its implications for understanding turbulence in fluids.
+scientific_discipline: Physics > Fluid Dynamics

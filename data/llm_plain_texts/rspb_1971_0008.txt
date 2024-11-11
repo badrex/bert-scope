@@ -1,0 +1,10 @@
+article_id: 'rspb_1971_0008'
+revised_title: 'Dissociation of Sheep Haemoglobin Molecule at Neutral pH: Osmotic Pressure Measurements'
+semantic_tags:
+  - Hemoglobin
+  - Osmotic pressure
+  - Protein dissociation
+  - Sheep haemoglobin
+  - Osmometry
+tldr: The authors investigated the stability and dissociation of sheep haemoglobin at neutral pH using osmotic pressure measurements. They found that at low ionic strength, the haemoglobin molecule did not dissociate significantly, while at higher ionic strength, reversible dissociation was observed. The dissociation constants increased with increasing ionic strength and remained constant thereafter. This study provides important information on the extent of haemoglobin dissociation, which is crucial for understanding its physiological role and function.
+scientific_discipline: Biology and Life Sciences > Biochemistry

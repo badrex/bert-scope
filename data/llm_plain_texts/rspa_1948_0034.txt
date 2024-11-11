@@ -1,0 +1,10 @@
+article_id: rspa_1948_0034
+revised_title: 'Magnetization Curves for Ferromagnetic Single Crystals: The Role of Demagnetizing Fields and Domain Configurations'
+semantic_tags:
+  - Ferromagnetism
+  - Domain theory
+  - Demagnetizing fields
+  - Crystallography
+  - Magnetization processes
+tldr: This article investigates the magnetization process in ferromagnetic single crystals, focusing on the role of demagnetizing fields and domain configurations. The authors consider the shapes of oblate spheroids and long rods, providing simple expressions for magnetization in these cases. They find that the demagnetizing field plays a crucial role in determining the direction of the field acting in the crystal, which affects the magnetization process and domain configurations. The findings help explain the observed magnetization curves for various crystal orientations.
+scientific_discipline: Physics > Materials Science

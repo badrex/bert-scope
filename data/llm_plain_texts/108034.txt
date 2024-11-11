@@ -1,0 +1,10 @@
+article_id: 108034
+revised_title: 'Tide Observations and the Influence of Atmospheric Pressure'
+semantic_tags:
+  - Tides
+  - Oceanography
+  - Atmospheric pressure
+  - Geophysics
+  - Hydrodynamics
+tldr: The author, John William Lubbock, presents 19 years of tide observations at the London Docks, discussing the laws governing tides and their relation to Bernoulli's equilibrium theory. The study also explores the influence of atmospheric pressure on tide heights, finding a correlation between low barometer readings and high tides. The author suggests further research into the effects of wind and atmospheric pressure on tides.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

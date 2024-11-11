@@ -1,0 +1,10 @@
+article_id: 'rsta_1896_0012'
+revised_title: 'Photometric Intensity of Coronal Light During the Solar Eclipse of April 16th, 1893'
+semantic_tags:
+  - Solar Eclipse
+  - Photometry
+  - Coronal Light
+  - Astronomy
+  - Solar Physics
+tldr: 'The authors conducted photometric measurements of the coronal light during the solar eclipse of April 16th, 1893, using two instruments: the equatorial photometer and the integrating photometer. They compared the intensity of the coronal light with that of a glow-lamp, using the method of Bunsen and Abney. The measurements were part of the work of the expedition to Senegambia, led by Professor Thorpe. The authors describe the methods, instruments, and challenges faced during the observations, such as the excessive dryness and dust at the observation site in Fundium, Senegal.'
+scientific_discipline: Astronomy > Solar Physics

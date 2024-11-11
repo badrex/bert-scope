@@ -1,0 +1,10 @@
+article_id: rsta_1965_0001
+revised_title: The Dry Wear of Steels: Patterns and Transitions in Wear Processes
+semantic_tags:
+  - Tribology
+  - Wear behavior
+  - Steel materials
+  - Surface hardening
+  - Friction
+tldr: This study investigates the dry wear behavior of various steels under different loads, sliding speeds, and compositions. Two main types of transitions in wear processes are observed: a change from severe to mild wear, and a change from mild to severe wear. The findings provide a general pattern of wear behavior and help predict the circumstances in which these transitions might occur.
+scientific_discipline: Engineering and Technology > Tribology

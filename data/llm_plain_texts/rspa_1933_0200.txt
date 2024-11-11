@@ -1,0 +1,10 @@
+article_id: 'rspa_1933_0200'
+revised_title: 'The Slow Combustion of Ethylene: A Reexamination of the Oxidation Process'
+semantic_tags:
+  - Combustion chemistry
+  - Ethylene oxidation
+  - Hydrocarbon combustion
+  - Formaldehyde production
+  - Peroxide formation
+tldr: The authors reexamine the slow combustion of ethylene, focusing on the oxidation process. They carefully control experimental conditions to minimize side reactions and quantify the main products. The results show that the main oxidation products are a mixture of vinyl alcohol, ethylene oxide, and acetaldehyde isomers, with small amounts of peroxides and hydrocarbons like ethane and propane. The authors also discuss the importance of understanding the slow oxidation of ethylene in the broader context of hydrocarbon combustion.
+scientific_discipline: Chemistry > Combustion Chemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1951_0222
+revised_title: Wave Functions for the Nuclear p-Shell: Fractional Parentage Coefficients
+semantic_tags:
+  - Nuclear structure
+  - Wave functions
+  - Fractional parentage coefficients
+  - Quantum mechanics
+  - Atomic physics
+tldr: The authors construct a complete set of wave functions for the nuclear p-shell using fractional parentage coefficients. They express these coefficients as products of orbital, spin, and weight factors, which can be calculated independently. The method is applicable to atomic shells as well, and an alternative direct method is described in the appendices. The calculation can be further simplified using a reciprocal relation for the special unitary group.
+scientific_discipline: Physics > Atomic physics

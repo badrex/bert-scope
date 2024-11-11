@@ -1,0 +1,10 @@
+article_id: 'rspa_1968_0015'
+revised_title: 'Applications of Electron Spin Resonance in Studying Reactive Intermediates in Chemical Reactions'
+semantic_tags:
+  - Electron Spin Resonance
+  - Reactive Intermediates
+  - Organic Chemistry
+  - Radical Reactions
+  - Spectroscopy
+tldr: The article discusses the use of electron spin resonance (ESR) spectroscopy to study short-lived organic radicals in chemical reactions. The authors describe various reactions and their corresponding ESR spectra, providing insights into the chemistry of reactive intermediates and the reducing power of organic radicals. They also explore the effects of pH and the role of ESR in understanding the structure and behavior of radicals in different reactions.
+scientific_discipline: Chemistry > Organic Chemistry

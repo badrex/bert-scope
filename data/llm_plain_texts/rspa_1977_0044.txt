@@ -1,0 +1,10 @@
+article_id: rspa_1977_0044
+revised_title: Total Synthesis of Proteins: Strategies and Challenges
+semantic_tags:
+  - Peptide synthesis
+  - Protein synthesis
+  - Enzyme activity
+  - Polypeptide chain
+  - Solid phase synthesis
+tldr: The author discusses various strategies for the total synthesis of proteins, focusing on the improvement of established methods and the potential of solid-phase synthesis. They describe their own project on synthesizing a 129-residue lysozyme analogue to study the effect of structural variations on enzymatic activity.
+scientific_discipline: Chemistry > Biochemistry

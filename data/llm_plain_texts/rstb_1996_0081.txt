@@ -1,0 +1,10 @@
+article_id: 'rstb_1996_0081'
+revised_title: 'Cyclicity and Stability of Grey-sided Voles in Hokkaido'
+semantic_tags:
+  - Vole population dynamics
+  - Spectral analysis
+  - Principal components analysis
+  - Population cycles
+  - Microtine rodents
+tldr: This study analyzes the population dynamics of grey-sided voles (Clethrionomys rufocanus) in Hokkaido, Japan, using spectral and principal components analyses. The research demonstrates that vole populations in the northwestern coastal region exhibit seasonal population dynamics, while those in the more mountainous northeastern and central regions exhibit multiannual cycles with a period of 3.5-4 years. The findings are related to other studies from Hokkaido and North European microtines.
+scientific_discipline: Biology and Life Sciences > Ecology

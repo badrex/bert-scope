@@ -1,0 +1,10 @@
+article_id: rsta_1971_0059
+revised_title: Solar Studies: Brightness Temperature Measurements in the Range 65 to 180 cm^-1
+semantic_tags:
+  - Solar physics
+  - Infrared astronomy
+  - Atmospheric science
+  - Space observation
+  - Michelson interferometer
+tldr: This article discusses a measurement of the brightness temperature of the Sun in the range of 65 to 180 cm^-1 using a Michelson interferometer flown on a balloon to a height of 32.6 km. The experiment aimed to study the solar atmosphere and compare the results with existing models and observations. The findings provide valuable data for understanding the Sun's temperature distribution and its effects on the surrounding environment.
+scientific_discipline: Physics > Astronomy

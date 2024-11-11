@@ -1,0 +1,10 @@
+article_id: rspa_1990_0037
+revised_title: 'Conjectures on Boundary-Layer Equations and Natural Coordinates in Fluid Dynamics'
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Natural Coordinates
+  - Convection-Diffusion Equation
+  - Unsaturated Soil Flow
+tldr: The author investigates the steady linear convection-diffusion equation in unsaturated soil flow and proposes a roof boundary-layer analysis for certain boundary-layer equations. They introduce the concept of natural coordinates, which are essential for the boundary-layer analysis and can accurately determine the crucial dimensionless potential for water entering underground cavities. The author presents conjectures on the use of natural coordinates and boundary-layer equations in fluid dynamics.
+scientific_discipline: Mathematics > Applied Mathematics > Fluid Dynamics

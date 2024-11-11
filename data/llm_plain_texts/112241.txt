@@ -1,0 +1,10 @@
+article_id: 112241
+revised_title: 'Correcting the Theory of Pressure in Elastic Fluids'
+semantic_tags:
+  - Fluid Dynamics
+  - Pressure
+  - Elasticity
+  - Sound Waves
+  - Fluid Mechanics
+tldr: The author, R. Moon, challenges the traditional theory of pressure in elastic fluids and proposes a new theory that accounts for two types of pressure: statical and instantaneous. He demonstrates that the pressure in elastic fluids can be transmitted instantaneously to other points in the fluid before any change in density occurs. Moon also applies his theory to the understanding of sound waves and concludes that it does not significantly affect the theory of sound.
+scientific_discipline: Physics > Fluid Dynamics

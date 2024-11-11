@@ -1,0 +1,10 @@
+article_id: 110955
+revised_title: Photographic Self-Registering Meteorological and Magnetical Instruments
+semantic_tags:
+  - Meteorology
+  - Magnetism
+  - Photography
+  - Atmospheric science
+  - Instrumentation
+tldr: The author, Francis Ronalds, describes a new type of photographic instrument called the Photo-Electrograph, which can record meteorological and magnetical data. The instrument uses a voltaic electrometer, a slit, and a photographic paper to create a self-registering image of the atmospheric electric tension. The instrument can also be adapted to record temperature, barometric pressure, and magnetic data, making it a versatile tool for scientific research.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

@@ -1,0 +1,10 @@
+article_id: rspa_1996_0113
+revised_title: Analyzing Cyclic Differential Scanning Calorimetry for Melting and Solidification of Pure Metals
+semantic_tags:
+  - Differential Scanning Calorimetry
+  - Melting and Solidification
+  - Materials Science
+  - Thermodynamics
+  - Heat Flow
+tldr: The article explores cyclic differential scanning calorimetry (DSC) and its application in studying the melting and solidification of pure metals. The authors describe the behavior of a specimen under various thermal conditions and present equations to predict the cyclic DSC signal. The study demonstrates how cyclic DSC can be used to analyze the melting and solidification kinetics of pure metals, providing valuable insights into materials science and thermodynamics.
+scientific_discipline: Materials Science > Thermodynamics

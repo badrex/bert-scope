@@ -1,0 +1,10 @@
+article_id: rspa_1963_0183
+revised_title: Structured Continua and the General Angular Momentum Principle
+semantic_tags:
+  - Continuum Mechanics
+  - Angular Momentum
+  - Polarization Densities
+  - Statistical Mechanics
+  - Polyatomic Fluids
+tldr: The authors generalize the classical continuum theory to provide a systematic approach for treating subcontinuum events in greater detail without sacrificing the field approach. They introduce the concept of internal angular momentum and polyadic polarization densities to represent the point structure of the continuum. The theory is applied to structured continua with subcontinuum mass and charge distributions, leading to expressions for proper mass density, mass flux density, and moment of mass flux (angular momentum).
+scientific_discipline: Physics > Mechanics

@@ -1,0 +1,10 @@
+article_id: rsta_1933_0007
+revised_title: Investigating Diamagnetic and Paramagnetic Crystals' Magnetic Anisotropy
+semantic_tags:
+  - Crystallography
+  - Magnetic susceptibility
+  - Molecular orientation
+  - Paramagnetism
+  - Diamagnetism
+tldr: The authors conducted extensive measurements on diamagnetic and paramagnetic single crystals to study their magnetic anisotropy. They used various methods, including magnetic field measurements and crystal oscillations, to determine the orientations of molecules in crystals and the anisotropy of the crystal. The research provides insights into the dependence of the Weiss field on crystal structure and the molecular orientations in crystals.
+scientific_discipline: Physics > Crystallography

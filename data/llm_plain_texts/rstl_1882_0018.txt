@@ -1,0 +1,10 @@
+article_id: 'rstl_1882_0018'
+revised_title: 'Theta-Functions and Their Applications in Mathematics'
+semantic_tags:
+  - Number Theory
+  - Algebraic Geometry
+  - Elliptic Functions
+  - Mathematical Analysis
+  - Mathematical Transformations
+tldr: The author explores the properties and relationships of theta-functions, particularly those with two variables. They establish quadratic relations between these functions and express them in terms of new variables. The study of theta-functions' quadruple periodicity and their periods is investigated, leading to the development of equations and transformations that reveal connections between various mathematical concepts.
+scientific_discipline: Mathematics > Number Theory

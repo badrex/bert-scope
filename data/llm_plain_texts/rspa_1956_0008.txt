@@ -1,0 +1,10 @@
+article_id: rspa_1956_0008
+revised_title: Expansion of Angular Momenta in Bound-State Perturbation Theory
+semantic_tags:
+  - Quantum Mechanics
+  - Relativistic Physics
+  - Dirac Equation
+  - Green Function
+  - Perturbation Theory
+tldr: The authors present an expansion of the propagator of a relativistic electron in a static central potential using angular momentum. This expansion is useful in describing the behavior of the electron in intermediate states of physical processes and has applications in problems concerning heavy atoms.
+scientific_discipline: Physics > Quantum Mechanics

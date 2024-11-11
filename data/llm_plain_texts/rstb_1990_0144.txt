@@ -1,0 +1,10 @@
+article_id: 'rstb_1990_0144'
+revised_title: 'Optimum Techniques for High and Long Jumping'
+semantic_tags:
+  - Athletics
+  - Biomechanics
+  - Sports Performance
+  - Muscle Physiology
+  - Jumping Techniques
+tldr: The article discusses the optimum take-off techniques for high and long jumps, analyzing the speed and leg angle of athletes. A simple model is used, considering the properties of leg muscles, to predict force patterns and jump performance. The findings suggest that high jumpers should run at moderate speeds and set down the foot well in front of the body, while long jumpers should run faster and place the foot less far forward with a steeper angle.
+scientific_discipline: Sports Science > Athletics

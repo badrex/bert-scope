@@ -1,0 +1,10 @@
+article_id: 'rstb_1985_0185'
+revised_title: 'Interspecific Cell Markers and Cell Lineage in Birds: Quail-Chick Chimeras'
+semantic_tags:
+  - Cell Biology
+  - Developmental Biology
+  - Avian Embryology
+  - Cell Lineage
+  - Chimeric Tissues
+tldr: The article describes a cell marking technique based on the structural differences between chick and Japanese quail cells, allowing researchers to study cell lineage and cell migrations during avian development. The quail-chick marker system has been used to create chimeric tissues and embryos, providing valuable insights into cell differentiation and ontogeny.
+scientific_discipline: Biology and Life Sciences > Developmental Biology

@@ -1,0 +1,10 @@
+article_id: 'rstb_1989_0057'
+revised_title: 'Forests, Weather, and Climate: Reflections and Review'
+semantic_tags:
+  - Forest Meteorology
+  - Climate Change
+  - Atmospheric Science
+  - Environmental Science
+  - Ecological Modeling
+tldr: This article reviews the state of forest meteorology, discussing the development of mathematical models, the wide range of spatial and temporal scales involved, and the importance of stable sensors for collecting accurate data. It also highlights the impact of climate change on forests and the need for better models to predict the interaction between vegetation and the atmosphere.
+scientific_discipline: Environmental and Earth Sciences > Ecology and Environmental Modeling

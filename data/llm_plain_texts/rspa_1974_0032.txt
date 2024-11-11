@@ -1,0 +1,10 @@
+article_id: 'rspa_1974_0032'
+revised_title: 'Vacuum Ultraviolet Kinetic Spectroscopy of Chlorine Dioxide Reactions'
+semantic_tags:
+  - Chemical kinetics
+  - Flash photolysis
+  - Chlorine dioxide
+  - Vacuum ultraviolet spectroscopy
+  - Reaction mechanisms
+tldr: The authors studied the reactions of halogen oxides using flash photolysis and vacuum ultraviolet kinetic spectroscopy. They focused on chlorine dioxide and measured the rate constants for the production of vibrationally excited oxygen in the reactions. The study also involved measuring extinction coefficients for several bands of the C-X, D-X, and E-X systems of C102 in the vacuum ultraviolet region, discovering five new systems between 141 and 128 nm.
+scientific_discipline: Chemistry > Chemical kinetics

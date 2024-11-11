@@ -1,0 +1,10 @@
+article_id: rspa_1905_0011
+revised_title: The Basic Gamma-Function and Elliptic Functions: A Comprehensive Study
+semantic_tags:
+  - Gamma function
+  - Elliptic functions
+  - Number theory
+  - Mathematical analysis
+  - Mathematical physics
+tldr: This article discusses the basic gamma function and its connection to elliptic functions. The author introduces a notation for these functions and explores their properties, including transformation theorems and series expansions. The study of these functions has applications in number theory, mathematical analysis, and mathematical physics.
+scientific_discipline: Mathematics > Analysis

@@ -1,0 +1,10 @@
+article_id: 'rspa_1994_0080'
+revised_title: 'Chaos in Quasiperiodically Forced Van Der Pol-Duffing Oscillator with Single Well Potential'
+semantic_tags:
+  - Nonlinear Dynamics
+  - Chaos Theory
+  - Resonance
+  - Averaging Method
+  - Melnikov's Method
+tldr: The author studies a two-frequency quasiperiodically forced oscillator with single well potential, which reduces to the van der Pol and Duffing oscillators in certain cases. They demonstrate that chaotic dynamics can occur near the unperturbed resonant periodic orbits when double resonance takes place. The chaotic motions result from the transverse intersection of the stable and unstable manifolds of normally hyperbolic invariant tori and are characterized by a generalization of the Bernoulli shift.
+scientific_discipline: Mathematics > Nonlinear Dynamics

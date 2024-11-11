@@ -1,0 +1,10 @@
+article_id: rsta_1996_0092
+revised_title: Cubic Archimedean Screw: A New Structure in Chemical Space
+semantic_tags:
+  - Crystallography
+  - Minimal Surfaces
+  - Symmetry
+  - Bicontinuous Structures
+  - Amphiphile-Water Systems
+tldr: The authors describe a cubic crystalline structure called the cubic Archimedean screw, which shares properties with the Archimedean screw, such as handedness and continuous rotations equivalent to translations. This structure consists of three infinite periodic minimal surfaces, partitioning space into three congruent regions. The authors also discuss the potential for equilibrium structures with intermediate values of the dimensionless boundary line density and the role of handedness in these structures.
+scientific_discipline: Chemistry > Crystallography

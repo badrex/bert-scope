@@ -1,0 +1,10 @@
+article_id: 'rsta_1892_0014'
+revised_title: 'Colour Photometry: Measurement of Luminosity and Sensitivity of the Human Eye'
+semantic_tags:
+  - Colour photometry
+  - Luminosity
+  - Human eye sensitivity
+  - Visual perception
+  - Retina
+tldr: The authors conducted experiments to measure the luminosity and sensitivity of the human eye, specifically focusing on the fovea centralis. They used a modified apparatus to compare the luminosity of colored and white shadows on a screen, and found that the outer part of the retina is less sensitive to less refrangible rays of the spectrum. This research contributes to understanding the physiological aspects of color perception and visual sensation.
+scientific_discipline: Psychology > Perception

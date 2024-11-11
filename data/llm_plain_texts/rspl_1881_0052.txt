@@ -1,0 +1,10 @@
+article_id: 'rspl_1881_0052'
+revised_title: 'Formulae for sn8u, cn8u, dn8u in terms of sn u'
+semantic_tags:
+  - Elliptic Functions
+  - Number Theory
+  - Mathematical Formulas
+  - Differential Equations
+  - Transformations
+tldr: This paper presents the formulae for sn8u, cn8u, and dn8u in terms of sn u. The author, Ernest H. Glaisher, provides a tabular arrangement of these expressions and discusses their connection to elliptic functions, number theory, and differential equations.
+scientific_discipline: Mathematics > Number Theory

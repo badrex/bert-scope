@@ -1,0 +1,10 @@
+article_id: rspa_1960_0200
+revised_title: 'Fluorine's Impact on Electronic Spectra and Ionization Potentials of Molecules'
+semantic_tags:
+  - Chemistry
+  - Spectroscopy
+  - Fluorine chemistry
+  - Inductive effect
+  - Resonance effect
+tldr: The authors studied the effect of fluorine on the electronic spectra and ionization potentials of molecules. They found that fluorine has a strong inductive effect that increases the ionization potential of molecules and causes short wavelength shifts in absorption bands. The inductive effect is particularly noticeable in fluorinated hydrocarbons and molecules with fluorine atoms close to chromophoric groups. The study also shows that the inductive and resonance effects can oppose each other in molecules with resonance stabilization, such as radicals and fluorinated ethylenes, aromatics, and alkyl halides.
+scientific_discipline: Chemistry > Spectroscopy

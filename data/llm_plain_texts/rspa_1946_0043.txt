@@ -1,0 +1,10 @@
+article_id: rspa_1946_0043
+revised_title: 'Interferometric Techniques for Studying Mica Surface Topography and Internal Structures'
+semantic_tags:
+  - Interferometry
+  - Surface Topography
+  - Thin Film Interferometry
+  - Mica
+  - Crystallography
+tldr: The authors developed three multiple-beam interference methods to study the surface topography and internal structural features of thin mica slips. These methods involve white light multiple-beam fringes, monochromatic multiple-beam Fizeau fringes, and monochromatic multiple-beam non-localized fringes of high dispersion. The white light fringes, called fringes of equal chromatic order, provide powerful tools for investigating interferometric properties of thin films and reveal information about surface contours, local variations in composition, and birefringence.
+scientific_discipline: Physics > Optics

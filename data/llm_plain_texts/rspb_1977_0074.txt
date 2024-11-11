@@ -1,0 +1,10 @@
+article_id: 'rspb_1977_0074'
+revised_title: 'Catecholamine Effects on Atrial Trabeculae of Frog Heart: Analysis and Implications'
+semantic_tags:
+  - Cardiology
+  - Catecholamines
+  - Cellular processes
+  - Calcium dynamics
+  - Pharmacology
+tldr: The study examines the effects of adrenaline and isoprenaline on the twitch tension and intracellular action potential of single atrial trabeculae from frog heart. The results suggest that tension enhancement is a direct consequence of increased calcium inward current produced by catecholamines. The research also identifies three phases of catecholamine action, with the second phase being dependent on phosphodiesterase activity. The findings provide insights into the regulation of contractile strength through cell membrane actions and the potential for common reaction steps in various factors affecting contractility.
+scientific_discipline: Biology and Life Sciences > Cardiology

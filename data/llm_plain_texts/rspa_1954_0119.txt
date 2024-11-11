@@ -1,0 +1,10 @@
+article_id: rspa_1954_0119
+revised_title: Elastic Deformations of Plates with Stiffening Rims
+semantic_tags:
+  - Solid Mechanics
+  - Elasticity Theory
+  - Stress Analysis
+  - Plate Theory
+  - Boundary Value Problems
+tldr: The article presents a solution to the problem of elastic deformations in a plate with a hole and a stiffening rim. The authors use complex potential methods to analyze the stress and displacement fields in the plate and rim, considering different material properties and boundary conditions. The study provides insights into the behavior of plates with complex geometries and can be applied to various engineering and structural design problems.
+scientific_discipline: Engineering and Technology > Solid Mechanics

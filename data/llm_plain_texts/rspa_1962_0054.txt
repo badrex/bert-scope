@@ -1,0 +1,10 @@
+article_id: rspa_1962_0054
+revised_title: Thermo-electricity in Transition Metals and their Alloys
+semantic_tags:
+  - Thermo-electricity
+  - Transition metals
+  - Alloy behavior
+  - Low temperature physics
+  - Scattering models
+tldr: The authors investigate the thermo-electric behavior of alloys containing transition metals at low temperatures. They explore the role of transition metals as solutes and solvents, and discuss the impact of their presence on electrical and thermal resistance. The study focuses on understanding the scattering models and the underlying mechanisms responsible for the anomalous resistance and thermo-electric power observed in these alloys.
+scientific_discipline: Physics > Solid State Physics

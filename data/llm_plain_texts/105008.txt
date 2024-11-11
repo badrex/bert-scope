@@ -1,0 +1,10 @@
+article_id: 105008
+revised_title: Calculating Annuities on Lives with a Table of Decrements
+semantic_tags:
+  - Actuarial Science
+  - Life Annuities
+  - Mathematical Tables
+  - Probability Theory
+  - Demography
+tldr: The author, James Dodson, presents a table of values for annuities on lives, using Reverend William Brakenridge's table of decrements of life. He hopes to contribute to the field of actuarial science and share the table with the Royal Society if approved.
+scientific_discipline: Mathematics > Actuarial Science

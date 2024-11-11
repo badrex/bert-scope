@@ -1,0 +1,10 @@
+article_id: rspa_1993_0034
+revised_title: Surface and Bulk Contributions to Thermal Diffuse Intensities in Reflection High Energy Electron Diffraction
+semantic_tags:
+  - Electron diffraction
+  - Surface physics
+  - Thermal diffuse scattering
+  - Vibrational excitations
+  - Crystal surface
+tldr: The authors investigated the contributions of bulk and surface vibrational excitations to thermal diffuse scattering in reflection high energy electron diffraction (RHEED) patterns. They found that the surface phonon contribution to the differential cross-section is comparable to that from bulk phonons. The study helps in understanding the role of surface effects in the formation of diffuse RHEED patterns and improves the accuracy of surface structure determination and in situ control of molecular-beam epitaxy.
+scientific_discipline: Physics > Materials Science

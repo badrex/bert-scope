@@ -1,0 +1,10 @@
+article_id: rspa_1915_0044
+revised_title: 'Observations on the Fluorescence and Resonance of Sodium Vapour - Part II'
+semantic_tags:
+  - Sodium fluorescence
+  - Resonance radiation
+  - Spectroscopy
+  - Sodium vacuum arc
+  - Spectral lines
+tldr: This article explores the fluorescence and resonance of sodium vapor, focusing on the excitation of dense sodium vapor by the group of zinc lines in the neighborhood of 3303. The author describes the experimental setup and findings, including the observation of an ultra-violet band spectrum and the suppression of other light sources to study the fluorescence produced by the 3303 line.
+scientific_discipline: Physics > Spectroscopy

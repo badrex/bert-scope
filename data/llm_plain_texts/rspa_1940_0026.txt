@@ -1,0 +1,10 @@
+article_id: rspa_1940_0026
+revised_title: 'Rotational Analysis of the First Negative Band Spectrum of Oxygen'
+semantic_tags:
+  - Molecular spectroscopy
+  - Oxygen spectrum
+  - Vibrational transitions
+  - Molecular constants
+  - Rotational analysis
+tldr: The authors conducted a rotational analysis of the first negative band spectrum of oxygen, confirming the vibration transitions and molecular constants of the system. They found that the observed structure of the levels does not agree with the theoretical structure predicted by Brandt and Budo, but an empirical formula is provided to represent the observed structure reasonably well.
+scientific_discipline: Chemistry > Molecular Spectroscopy

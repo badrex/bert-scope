@@ -1,0 +1,10 @@
+article_id: 'rspa_1965_0242'
+revised_title: 'Microwave Studies of Stratospheric and Mesospheric Gases'
+semantic_tags:
+  - Atmospheric Physics
+  - Microwave Spectroscopy
+  - Stratosphere
+  - Mesosphere
+  - Molecular Rotation Lines
+tldr: This article discusses the potential of microwave studies in understanding the stratosphere and mesosphere. It focuses on the absorption due to molecular rotation lines of gases like O2 and H2O and how their distribution can be studied. The authors also mention the possibility of investigating other gases like OH, O3, CO, NO, and N2 using similar methods.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

@@ -1,0 +1,10 @@
+article_id: rspa_1981_0042
+revised_title: Electrostatic Contributions to the Formation Energies of Crystallographic Shear Planes in TiO2
+semantic_tags:
+  - Crystallography
+  - Materials Science
+  - Electrostatics
+  - Defect Structures
+  - Rutile
+tldr: The authors calculated the electrostatic contributions to the formation energies of crystallographic shear planes in TiO2 by determining the energy difference due to the introduction of these planes into the rutile structure. They found that the difference sums converge rapidly, allowing for more accurate calculations of the energy changes associated with the formation of crystallographic shear planes. This study helps to better understand the energetics of these defects in materials science.
+scientific_discipline: Materials Science > Crystallography

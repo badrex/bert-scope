@@ -1,0 +1,10 @@
+article_id: rspa_1964_0100
+revised_title: Path Integrals in Polar Coordinates: A Study of Two- and Three-Dimensional Green Functions
+semantic_tags:
+  - Path Integrals
+  - Polar Coordinates
+  - Green Functions
+  - Bessel Functions
+  - Functional Integration
+tldr: This article discusses the evaluation of path integrals in polar coordinates for two- and three-dimensional Green functions. The authors demonstrate how to perform functional integrations over functions more involved than the general Gaussian form, using examples from multiple scattering problems and the Feynman representation of quantum mechanics.
+scientific_discipline: Mathematics > Functional Analysis

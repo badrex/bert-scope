@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0229'
+revised_title: 'Quantitative Analysis of the Fixed Threshold Model for Division of Labour in Insect Societies'
+semantic_tags:
+  - Social Insects
+  - Division of Labour
+  - Caste Systems
+  - Behavioural Ecology
+  - Insect Societies
+tldr: 'The fixed threshold model is introduced and studied for the regulation of division of labour in insect societies. Individuals are assumed to have fixed response thresholds to task-related stimuli. When the intensity of a stimulus exceeds an individual's response threshold, they engage in task performance. This model can account for observations on ant species of Pheidole and explains how plasticity in division of labour is implemented at the individual worker level.'
+scientific_discipline: Biology and Life Sciences > Ecology and Ethology

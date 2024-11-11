@@ -1,0 +1,10 @@
+article_id: rsta_1981_0133
+revised_title: Low-latitude Galactic Gamma-ray Emission: A Probe, Not a Proof
+semantic_tags:
+  - Gamma-ray astronomy
+  - Cosmic rays
+  - Interstellar medium
+  - Diffuse emission
+  - Unresolved sources
+tldr: The article discusses the low-latitude gamma-ray emission from the galactic disc, which has been mapped by the COS-B mission. The results show evidence of structures correlated with the galaxy on various scales, indicating that high-energy gamma-ray astronomy effectively maps the diffuse interstellar medium and its cosmic ray content. The author proposes two new correlations to support this statement and explores the astrophysical processes that may cause enhanced emission in regions where interstellar medium shocks can accelerate cosmic rays. The contribution of nucleon and electron cosmic ray components in generating gamma rays in different energy ranges is also briefly discussed.
+scientific_discipline: Physics > Astronomy

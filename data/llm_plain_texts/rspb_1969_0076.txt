@@ -1,0 +1,10 @@
+article_id: 'rspb_1969_0076'
+revised_title: 'The Effect of Light on Cell Division in Primary Leaves of Phaseolus'
+semantic_tags:
+  - Plant Physiology
+  - Photomorphogenesis
+  - Phytochrome
+  - Leaf Development
+  - Photosynthesis
+tldr: The authors investigated the effect of white and red light on cell division in primary leaves of dark-grown Phaseolus plants. They found that short irradiation led to an increase in cell number, with the highest effect on plants 6 days old. The response is mediated by the phytochrome system, and the authors concluded that the cotyledons supply materials to the leaves, which are modified by short irradiation. The light stimulus can be perceived by leaves, cotyledons, or both, with the maximum response found when leaves alone are irradiated.
+scientific_discipline: Biology and Life Sciences > Plant Biology

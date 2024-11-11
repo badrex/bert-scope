@@ -1,0 +1,10 @@
+article_id: rspa_1933_0117
+revised_title: 'Proton Induced Transmutation of Elements: A New Method and Its Applications'
+semantic_tags:
+  - Nuclear Physics
+  - Radioactivity
+  - Particle Accelerators
+  - Transmutation
+  - Atomic Structure
+tldr: 'The authors, Oliphant and Rutherford, describe their experiments on the transmutation of elements using protons. They developed a new method to create a more intense and concentrated proton stream, allowing them to study the disintegration of elements at lower voltages and in thinner films. This method enabled them to examine the transmutation of elements by protons with energies between 20,000 and 200,000 volts, leading to significant advancements in the understanding of nuclear physics and radioactivity.'
+scientific_discipline: Physics > Nuclear Physics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1955_0007'
+revised_title: 'Mechanical Stimulation and Nervous Impulses in Sea Anemones'
+semantic_tags:
+  - Neurobiology
+  - Marine Biology
+  - Sensory Physiology
+  - Reflexes
+  - Nerve Net
+tldr: 'The authors conducted experiments on the sea anemone Calliactis parasitica to study how mechanical stimuli initiate nervous impulses. They found that mechanical stimuli show rapid apparent adaptation and have a threshold below which no impulse is generated. The excitable system appears to be orientated tangentially and responds to stretch rather than pressure. The sensitivity of different parts of the animal varies greatly, with the oral disk being much more sensitive than the column. The results provide insights into the complex relationship between mechanical stimulation and the nerve-net in sea anemones.'
+scientific_discipline: Biology and Life Sciences > Neurobiology

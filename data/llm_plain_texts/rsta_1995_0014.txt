@@ -1,0 +1,10 @@
+article_id: 'rsta_1995_0014'
+revised_title: 'Hydrogen's Impact on Superconductivity and Magnetism in High-\lt;italic\gt;T\lt;sub\gt;c\lt;/sub\gt;\lt;/italic\gt; Materials'
+semantic_tags:
+  - 'Hydrogen in materials'
+  - 'Superconductivity'
+  - 'Magnetism'
+  - 'Muon implantation'
+  - 'Hydride phase'
+tldr: 'This article discusses the effects of hydrogen on superconductivity and magnetism in high-\lt;italic\gt;T\lt;sub\gt;c\lt;/sub\gt;\lt;/italic\gt; materials. The authors review experimental results on hydrogen-charged YBaCuO materials and explore topics such as hydrogen site, superconductivity, normal state transport properties, structural changes, and hydrogen-induced magnetism. They also discuss the formation of a hydride phase and its potential connection to magnetic ordering.'
+scientific_discipline: Physics > Materials Science

@@ -1,0 +1,10 @@
+article_id: rspa_1953_0109
+revised_title: Matrix Elements of Non-Central Forces in Nuclear Structure
+semantic_tags:
+  - Nuclear Physics
+  - Nuclear Structure
+  - Nuclear Forces
+  - Spin-Orbit Interaction
+  - Tensor Forces
+tldr: The authors derived formulas for the matrix elements of non-central forces in nuclear structure, specifically focusing on the -shell. They discussed the evaluation of two-particle elements and applied their findings to the -shell, considering central, tensor, and spin-orbit forces. The study aimed to derive the spins and moment data of certain -shell nuclei from a two-body charge-symmetric interaction containing central, tensor, and spin-orbit forces.
+scientific_discipline: Physics > Nuclear Physics

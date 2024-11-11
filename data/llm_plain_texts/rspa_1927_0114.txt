@@ -1,0 +1,10 @@
+article_id: rspa_1927_0114
+revised_title: 'Ionization Efficiency and Energy Dissipation in Various Gases'
+semantic_tags:
+  - Ionization
+  - Gas physics
+  - Cathode rays
+  - Ionization potential
+  - Energy dissipation
+tldr: The authors conducted experiments to study the absorption of slow cathode rays in various gases, including helium, argon, hydrogen, nitrogen, and carbon dioxide. They found that the efficiency of ionization and energy dissipation varied among the gases, with helium having the highest efficiency and hydrogen showing a significant discrepancy compared to theoretical estimates. The study provides insights into the processes of ionization and energy dissipation in different gases.
+scientific_discipline: Physics > Gas physics

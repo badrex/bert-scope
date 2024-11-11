@@ -1,0 +1,10 @@
+article_id: rspa_1958_0055
+revised_title: Asymptotic Expansions and Converging Factors: Error, Dawson, Fresnel, Exponential, Sine, Cosine, and Similar Integrals
+semantic_tags:
+  - Asymptotic Expansions
+  - Converging Factors
+  - Error Integral
+  - Dawson Integral
+  - Fresnel Integrals
+scientific_discipline: Mathematics > Analysis
+tldr: This article explores the use of converging factors to improve the accuracy of asymptotic expansions for various integrals, including error, Dawson, Fresnel, exponential, sine, and cosine integrals. The author demonstrates how these methods can be applied to enhance the precision of calculations and provide more accurate results.

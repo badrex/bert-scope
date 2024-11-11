@@ -1,0 +1,10 @@
+article_id: rspa_1936_0206
+revised_title: Integral Electromagnetic Theorems in General Relativity: Applications and Interpretations
+semantic_tags:
+  - General Relativity
+  - Electromagnetism
+  - Electromagnetic Field
+  - Maxwell's Equations
+  - Space-Time
+tldr: This article explores integral theorems in general relativity, specifically focusing on electromagnetic fields. The authors develop electromagnetic extensions and provide interpretations for these theorems, which are expressed in the form of classical Gauss's theorem. They also discuss applications of these theorems, including the flux of magnetic intensity, electric intensity, and electricity across closed surfaces in space-time.
+scientific_discipline: Physics > Electromagnetism

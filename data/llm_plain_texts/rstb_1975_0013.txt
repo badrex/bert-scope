@@ -1,0 +1,10 @@
+article_id: 'rstb_1975_0013'
+revised_title: 'The Purity of Tritiated Tetrodotoxin and Its Binding to Excitable Membranes'
+semantic_tags:
+  - Neurotoxins
+  - Bioassay
+  - Tetrodotoxin
+  - Excitable membranes
+  - Sodium channel
+tldr: The authors investigated the purity of tritiated tetrodotoxin and its binding to excitable membranes using a sensitive bioassay. They found that the radioactivity binding of the tritiated tetrodotoxin preparation to an electric organ particulate fraction was not specific, indicating the presence of radioactive impurities. The authors concluded that these impurities were responsible for the non-specific radioactivity uptake in the tissue preparations, and they provided evidence that the specific binding of tetrodotoxin to the sodium channel was not affected by these impurities.
+scientific_discipline: Biology and Life Sciences > Neurobiology

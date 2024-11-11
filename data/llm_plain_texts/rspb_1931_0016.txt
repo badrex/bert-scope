@@ -1,0 +1,10 @@
+article_id: 'rspb_1931_0016'
+revised_title: 'Investigating the Flexor Reflex After-Discharge and Antidromic Volleys'
+semantic_tags:
+  - Neuroscience
+  - Reflexes
+  - After-discharge
+  - Antidromic Volleys
+  - Central Excitatory State
+tldr: The authors conducted experiments on the flexor reflex after-discharge and found that an antidromic volley can cause a period of quiescence in the after-discharge. They concluded that this period of quiescence is related to the removal of central excitatory state (c.e.s.) and the interval between successive discharges of a motoneuron.
+scientific_discipline: Neuroscience > Reflexes

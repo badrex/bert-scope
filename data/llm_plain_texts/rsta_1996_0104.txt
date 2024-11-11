@@ -1,0 +1,10 @@
+article_id: rsta_1996_0104
+revised_title: Advances in Semiconductor Tunnelling Devices for Microwave Applications
+semantic_tags:
+  - Semiconductor devices
+  - Microwave mixers
+  - Microwave detectors
+  - Tunnelling diodes
+  - Resonant tunnelling diodes
+tldr: This article discusses the current status of semiconductor tunnelling devices, specifically their use as microwave mixers and detectors. The author reviews the design and testing of single-barrier tunnel structures as microwave detectors and describes recent work on double-barrier resonant tunnelling diodes as mixers at 94 GHz. The asymmetric spacer-layer tunnel (ASPAT) diode is introduced as a promising device that combines the advantages of the Ge backward diode and the GaAs Schottky diode.
+scientific_discipline: Engineering and Technology > Electronics and Microelectronics

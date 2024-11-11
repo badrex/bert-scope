@@ -1,0 +1,10 @@
+article_id: rspa_1975_0103
+revised_title: 'Investigation of Rb I Absorption Spectrum and Potential Barrier Effect'
+semantic_tags:
+  - Atomic Physics
+  - Spectroscopy
+  - Photoionization
+  - Potential Barrier Phenomena
+  - Inner Shell Absorption Spectra
+tldr: The authors investigated the Rb I absorption spectrum between 40 and 120 \#xC5; using the 2.6 Bonn synchrotron. They discovered a broad absorption maximum in the photoionization continuum and identified discrete structure associated with the excitation of a -subshell electron. The results provide insights into inner shell photoionization processes and potential barrier phenomena, which can be further studied to understand atomic physics and spectroscopy.
+scientific_discipline: Physics > Atomic Physics

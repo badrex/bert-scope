@@ -1,0 +1,10 @@
+article_id: rspa_1959_0055
+revised_title: 'Comparison of Theories for Unimolecular Gas Reactions'
+semantic_tags:
+  - Chemical kinetics
+  - Reaction rates
+  - Gas phase reactions
+  - Molecular energization
+  - Slater's theory
+tldr: The article compares two main types of theories for unimolecular gas reactions: Hinshelwood, Kassel, and Rice & Ramsperger's (H.K.R.R.) theories and Slater's theory. The authors analyze the rates of various reactions, including nitrous oxide, hydrogen peroxide, and ethane, and discuss the differences between the theories based on their assumptions and experimental results. They find that Slater's theory often provides a better explanation for the rates of energization, suggesting that there may be limited energy flow between the normal modes in some molecules.
+scientific_discipline: Chemistry > Chemical kinetics

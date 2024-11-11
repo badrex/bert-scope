@@ -1,0 +1,10 @@
+article_id: rsta_1990_0120
+revised_title: Entrance Channel Stereospecificity in Photoinitiated H-Atom Reactions in Weakly Bonded Complexes
+semantic_tags:
+  - Chemical Reaction Dynamics
+  - Photoinitiated Reactions
+  - Weakly Bonded Complexes
+  - Entrance Channel Stereospecificity
+  - H-Atom Reactions
+tldr: The article discusses the study of photoinitiated H-atom reactions in weakly bonded complexes, focusing on the entrance channel stereospecificity. The authors found that broadside H-atom approaches in HBr complexes are favored over end-on approaches, leading to different reaction probabilities. This striking steric effect is explained by the anisotropic intermolecular force field binding the complex, resulting in a specifically aligned precursor geometry. The results are interpreted in terms of entrance channel stereospecificity influencing chemically distinct product channels.
+scientific_discipline: Chemistry > Chemical Reaction Dynamics

@@ -1,0 +1,10 @@
+article_id: 112254
+revised_title: Developable Surfaces and Prohessians
+semantic_tags:
+  - Geometry
+  - Algebraic Geometry
+  - Differential Geometry
+  - Calculus
+  - Mathematical Analysis
+tldr: The author discusses developable surfaces and their properties, focusing on the concept of prohessians. They explore the relationship between the hessian, prohessian, and the order of the developable surface. The author also presents examples of developables of orders 4, 5, and 6 and calculates their prohessians.
+scientific_discipline: Mathematics > Geometry

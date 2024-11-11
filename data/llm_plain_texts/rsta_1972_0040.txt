@@ -1,0 +1,10 @@
+article_id: 'rsta_1972_0040'
+revised_title: 'Geodetic Aspects of Subsidence in Southeast England: A Review of Levelling Data and Benchmarks'
+semantic_tags:
+  - Geodesy
+  - Land subsidence
+  - Levelling
+  - Geodetic networks
+  - Earth's crust movement
+tldr: This article discusses the geodetic aspects of possible subsidence in southeastern England, analyzing the results of various levellings conducted by the Ordnance Survey. The author reviews the evidence of land movement in Great Britain and compares current lower-order levelling with previous levelling done before 1939. The article highlights the importance of monitoring the relative movements of land and sea to better understand the subsidence in the region.
+scientific_discipline: Earth Sciences > Geodesy

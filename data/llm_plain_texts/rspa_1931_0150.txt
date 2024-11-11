@@ -1,0 +1,10 @@
+article_id: rspa_1931_0150
+revised_title: 'Wave Tensor Calculus and its Applications in Wave Mechanics'
+semantic_tags:
+  - Wave mechanics
+  - Tensor calculus
+  - Quantum mechanics
+  - Wave equations
+  - Wave vectors
+tldr: The author develops a new type of tensor calculus, called -tensor calculus, to study wave mechanics. They introduce wave tensors, which are the product of two -vectors, and explore their properties and applications. The author finds that wave tensors can be replaced by a space vector, a 10-vector, and an invariant in a five-dimensional space, providing a new perspective on wave mechanics.
+scientific_discipline: Physics > Quantum Mechanics

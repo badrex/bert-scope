@@ -1,0 +1,10 @@
+article_id: 'rsta_1903_0020'
+revised_title: 'Investigations on Electric Discharges in Gases at Low Pressures'
+semantic_tags:
+  - Gas discharge physics
+  - Low pressure physics
+  - Electric fields
+  - Electromotive intensity
+  - Spark potential
+tldr: The authors conducted experiments to study electric discharges in gases at low pressures using a new apparatus that ensured a uniform electric field. They found that the product of pressure and spark length remained constant, confirming Paschen's law for discharges at high pressures and demonstrating its applicability to critical and sub-critical pressures. The same general law was established for various gases, including air, hydrogen, and carbon dioxide.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rspa_1938_0038
+revised_title: Crystal Structure of Insulin: Investigation of Air-Dried Insulin Crystals
+semantic_tags:
+  - Crystallography
+  - Protein Structure
+  - X-ray Diffraction
+  - Insulin
+  - Biophysics
+tldr: The authors investigated the crystal structure of insulin using X-ray diffraction on air-dried insulin crystals. They found that the crystal structure of insulin is simpler than previously thought, and the symmetry of the molecule must be at least as high as the crystal symmetry. The study provides insights into the internal structure of insulin molecules and the potential for further analysis using Patterson analysis.
+scientific_discipline: Chemistry > Crystallography

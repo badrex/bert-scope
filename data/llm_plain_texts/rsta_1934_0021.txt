@@ -1,0 +1,10 @@
+article_id: rsta_1934_0021
+revised_title: 'Electric Current Flow in Semi-Infinite Media with Varying Specific Resistance'
+semantic_tags:
+  - Electromagnetism
+  - Geophysics
+  - Electrical resistivity
+  - Surface potential
+  - Sturm-Liouville expansions
+tldr: The author investigates the flow of electric current in semi-infinite media where the specific resistance is a function of depth. They develop a general method to determine the distribution of surface potential for various electrode arrangements, which can be useful in geophysical prospecting. The study also explores the use of Sturm-Liouville expansions and boundary conditions to understand the behavior of electric currents in different media.
+scientific_discipline: Physics > Electromagnetism

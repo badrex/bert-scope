@@ -1,0 +1,10 @@
+article_id: rspl_1880_0019
+revised_title: Critical Point Phenomena in Benzene and Ether Mixtures
+semantic_tags:
+  - Thermodynamics
+  - Phase transitions
+  - Critical point
+  - Isotherms
+  - Equations of state
+tldr: This article describes experiments conducted on benzene and ether mixtures to study their behavior at high temperatures and pressures. The authors observed the critical points of these mixtures and found that the pressure actually decreases when the volume is reduced. They also discovered that some substances, when heated under pressure, can lower the pressure without causing ebullition of the liquid. This behavior is represented by isotherms and curves of equivolume, which show the proportion of liquid at each temperature.
+scientific_discipline: Chemistry > Thermodynamics

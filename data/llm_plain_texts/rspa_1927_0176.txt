@@ -1,0 +1,10 @@
+article_id: 'rspa_1927_0176'
+revised_title: 'Temperature Factors of X-Ray Reflexion in Rock-Salt Crystal: Sodium and Chlorine'
+semantic_tags:
+  - X-ray crystallography
+  - Temperature factors
+  - Sodium and chlorine
+  - Rock-salt crystal
+  - Zero-point energy
+tldr: 'The authors conducted experiments on X-ray reflexion in rock-salt crystals, focusing on sodium and chlorine. They analyzed the temperature factors and compared their results with theoretical predictions. The study found that the observed and calculated results agreed up to about 50 Abs., with the temperature factors affecting the intensity of X-ray reflexion.'
+scientific_discipline: Chemistry > Crystallography

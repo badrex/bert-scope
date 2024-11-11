@@ -1,0 +1,10 @@
+article_id: rspa_1923_0113
+revised_title: 'Complex Anisotropic Molecules and Their Impact on Light Dispersion and Scattering'
+semantic_tags:
+  - Molecular Physics
+  - Light Scattering
+  - Anisotropic Molecules
+  - Dispersion Theory
+  - Polarization
+tldr: The author investigates the behavior of complex anisotropic molecules in relation to light dispersion and scattering. They develop a theory based on these molecules, which helps explain the refractive index of transparent media and the scattering of light in dust-free transparent liquids. The study also discusses the polarization of light and its connection to molecular orientations.
+scientific_discipline: Physics > Molecular Physics

@@ -1,0 +1,10 @@
+article_id: 'rspa_1964_0219'
+revised_title: 'Influence of Molecular Structure on Mechanical Properties of Polymers'
+semantic_tags:
+  - Polymer Science
+  - Mechanical Properties
+  - Material Science
+  - Molecular Structure
+  - Damping Mechanisms
+tldr: The article discusses the mechanical properties of polymers and how they are influenced by their molecular structure. It highlights the importance of damping mechanisms in improving impact strength and the role of inhomogeneities in determining the strength of materials. The author also presents various practical applications, such as bursting strength of pipes and failure of fibers, to demonstrate the significance of understanding the strength of materials.
+scientific_discipline: Material Science > Polymer Science

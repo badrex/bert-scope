@@ -1,0 +1,10 @@
+article_id: rsta_1991_0028
+revised_title: Advances in Density Functional Theory Beyond Local Approximation
+semantic_tags:
+  - Density Functional Theory
+  - Exchange-Correlation Energy
+  - Quantum Mechanics
+  - Solid State Physics
+  - Materials Science
+tldr: This article reviews the progress made in improving the local density approximation within the density functional theory. It discusses the construction of energy functionals for ground-state properties and explores various approaches that go beyond the local density approximation. The article also explores the relation between density functional eigenvalues and quasi-particle energies, as well as the insulator or semiconductor band gap.
+scientific_discipline: Physics > Solid State Physics

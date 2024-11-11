@@ -1,0 +1,10 @@
+article_id: 'rspb_1994_0006'
+revised_title: 'A General Method for Analyzing Correlated Evolution in Phylogenies'
+semantic_tags:
+  - Phylogenetics
+  - Evolutionary Biology
+  - Statistical Methods
+  - Comparative Analysis
+  - Discrete Characters
+tldr: The author presents a new statistical method for analyzing the relationship between two discrete characters in a group of hierarchically evolved species or populations. The method assesses whether a pattern of association across the group is evidence for correlated evolutionary change in the two characters, taking into account information on the lengths of the branches of phylogenetic trees. The method is illustrated with an application to the Hominoidea.
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

@@ -1,0 +1,10 @@
+article_id: rspa_1914_0100
+revised_title: Production and Detection of Neon and Helium in Electrical Discharges
+semantic_tags:
+  - Gas discharge physics
+  - Neon production
+  - Helium production
+  - Spectroscopy
+  - Electrode materials
+tldr: The authors conducted experiments to study the production and detection of neon and helium in electrical discharges. They used various types of discharge tubes and testing apparatus to examine the gases after passing an electric discharge through them. The experiments showed that the nature of the electrodes and the discharge conditions played a significant role in the production of neon and helium. The authors also discussed the influence of different electrode materials and bombardment experiments on the results.
+scientific_discipline: Physics > Gas discharge physics

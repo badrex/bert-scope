@@ -1,0 +1,10 @@
+article_id: 'rspb_1972_0035'
+revised_title: 'Predicting the Effects of Pollution in Estuaries: A Review of Methods and Recent Developments'
+semantic_tags:
+  - Water pollution
+  - Estuarine ecology
+  - Mathematical modeling
+  - Environmental management
+  - Pollution control
+tldr: This article discusses the importance of predicting the effects of pollution in estuaries and presents various methods for modeling and managing pollution. The author reviews the Thames Estuary study and its methods for predicting dissolved oxygen, ammoniacal, and oxidized nitrogen distribution. They also explore recent developments in mixing process simulations and discuss the benefits of different sewerage and treatment schemes for estuaries.
+scientific_discipline: Environmental and Earth Sciences > Estuarine Ecology and Pollution Management

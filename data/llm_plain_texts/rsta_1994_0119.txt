@@ -1,0 +1,10 @@
+article_id: 'rsta_1994_0119'
+revised_title: 'Artificial Intelligence and Consciousness: Distinctions and Criteria'
+semantic_tags:
+  - Artificial Intelligence
+  - Consciousness
+  - Philosophy of Mind
+  - Cognitive Science
+  - Machine Consciousness
+tldr: The author discusses the distinction between programming a machine to simulate conscious behavior and understanding the concept of consciousness itself. They propose three criteria for ascribing consciousness: homeostatic behavior, holistic assessment, and explanatory integration of behavior. The article highlights the importance of distinguishing between the simulation problem and the conceptual problem in the field of artificial intelligence.
+scientific_discipline: Philosophy > Philosophy of Mind

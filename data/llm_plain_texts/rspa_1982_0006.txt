@@ -1,0 +1,10 @@
+article_id: rspa_1982_0006
+revised_title: 'Saturation and Nonlinear Absorption in InSb: A Study of Band-Tail Optical Absorption'
+semantic_tags:
+  - Semiconductor physics
+  - Optical absorption
+  - Band-tail absorption
+  - InSb
+  - Saturation
+scientific_discipline: Physics > Materials Science
+tldr: This article investigates the optical absorption in InSb at 5K, focusing on the region just below the band-gap energy. The authors use a continuous wave CO laser to study the absorption as a function of incident intensity. They observe saturation in the absorption at intensities more than about 1, and find that the absorption near the band-gap shows a different form and starts at very low intensities. A non-saturating band-tail absorption is also resolved, leading to a discussion of possible mechanisms for the linear and non-saturating absorption near the band-gap energy.

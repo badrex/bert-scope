@@ -1,0 +1,10 @@
+article_id: rspa_1906_0076
+revised_title: 'Pendulum Observations Between Kew and Greenwich Observatories in 1903'
+semantic_tags:
+  - Geodesy
+  - Pendulum experiments
+  - Time measurement
+  - Astronomy
+  - Earth's gravity
+tldr: 'The article describes the pendulum observations made between Kew and Greenwich observatories in 1903 to measure the difference in time between the two locations. The observations were conducted using a half-seconds pendulum equipment, and the results were used to study the Earth's gravity and improve the accuracy of time measurements.'
+scientific_discipline: Physics > Geodesy

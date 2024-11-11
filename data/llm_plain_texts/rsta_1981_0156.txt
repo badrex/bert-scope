@@ -1,0 +1,10 @@
+article_id: rsta_1981_0156
+revised_title: Low Temperature Analysis of the Axial Next-Nearest Neighbour Ising Model Near its Multiphase Point
+semantic_tags:
+  - Statistical mechanics
+  - Ising model
+  - Phase transitions
+  - Commensurate modulated phases
+  - Low temperature expansions
+tldr: The authors analyze the axial next-nearest neighbor Ising model at low temperatures, demonstrating that it displays an infinite number of distinct, commensurate modulated phases. They derive phase boundaries, free energies, and interfacial tensions for these phases, providing insights into the behavior of the model and its potential relevance to real systems.
+scientific_discipline: Physics > Condensed Matter Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1956_0017
+revised_title: Theoretical Analysis of Spherical Explosion's Initial Behavior
+semantic_tags:
+  - Fluid Dynamics
+  - Shock Waves
+  - Explosives
+  - Gas Dynamics
+  - Detonation
+tldr: This article presents a theoretical analysis of the initial behavior of a spherical explosion, considering a more general equation of state for both the explosive gas and the surrounding medium. The study expands on previous work by Berry and Holt (1954) to provide a more accurate representation of real-world scenarios. The research demonstrates that the second shock wave is a second-order effect in terms of the square root of the time from detonation, contradicting earlier conclusions by Wecken (1951).
+scientific_discipline: Physics > Fluid Dynamics

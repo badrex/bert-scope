@@ -1,0 +1,10 @@
+article_id: rspa_1987_0072
+revised_title: 'Compressible Flows in the Wakes of Square Cylinder and Airfoil in Tandem'
+semantic_tags:
+  - Fluid Dynamics
+  - Vortex Shedding
+  - Tandem Cylinders
+  - Compressible Flows
+  - Airfoil Interaction
+tldr: The study examines the compressible flows in the wakes of a square cylinder and a thick symmetrical airfoil arranged in tandem. The research investigates how the interaction between the square cylinder and airfoil depends on the spacing between them and the Mach number. The findings reveal three distinct flow patterns based on the spacing, and the Strouhal number's behavior is discussed in relation to the Mach number, Reynolds number, and spacing ratio.
+scientific_discipline: Fluid Dynamics > Vortex Shedding

@@ -1,0 +1,10 @@
+article_id: 'rspb_1935_0033'
+revised_title: 'The Role of Calcium in Blood Coagulation'
+semantic_tags:
+  - Blood coagulation
+  - Calcium
+  - Enzymes
+  - Thrombin
+  - Prothrombin
+tldr: The author investigates the coagulation of oxalate plasma by trypsin and finds that it is not due to the enzyme's action as thrombase, but rather the calcium present in the trypsin solution acting in association with a large quantity of kinase in the oxalated plasma. The conversion of prothrombin to thrombin by ionized calcium is responsible for the coagulation process.
+scientific_discipline: Biology and Life Sciences > Biochemistry

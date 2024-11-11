@@ -1,0 +1,10 @@
+article_id: rspa_1992_0114
+revised_title: 'Interfacial Convection in Binary Liquid Systems under Microgravity'
+semantic_tags:
+  - Interfacial convection
+  - Binary liquid systems
+  - Microgravity
+  - Marangoni instabilities
+  - Gravitational instabilities
+tldr: The authors investigated the interfacial behavior of two unstable binary liquid-liquid systems under normal and microgravity conditions. They found that thermal Marangoni disturbances can be strong enough to destabilize the interfaces, and under normal gravitational conditions, interfacial convection is more intense than under microgravity. This study helps to understand the interaction between Marangoni and gravitational instabilities in binary systems.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

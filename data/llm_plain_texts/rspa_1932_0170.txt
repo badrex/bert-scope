@@ -1,0 +1,10 @@
+article_id: rspa_1932_0170
+revised_title: 'Revisiting the Theory of Errors and Least Squares'
+semantic_tags:
+  - Statistics
+  - Probability Theory
+  - Error Analysis
+  - Least Squares Method
+  - Mathematical Physics
+tldr: The author presents a new approach to the theory of errors and least squares by introducing a distribution of prior probability that accounts for the uncertainty in precision constants. This new method is applied to the theory of least squares, resulting in a more accurate estimation of errors and a better understanding of the distribution of probabilities in small sample sizes.
+scientific_discipline: Mathematics > Statistics

@@ -1,0 +1,10 @@
+article_id: rspa_1991_0080
+revised_title: 'Kolmogorov's Ideas on Turbulence and Stochastic Processes: A Review'
+semantic_tags:
+  - Turbulence
+  - Fluid Dynamics
+  - Stochastic Processes
+  - Renormalized Perturbation Theory
+  - Intermittency Corrections
+tldr: This article discusses the turbulent inertial range and the Kolmogorov theory, which has provided a basic language for describing incompressible turbulence. The author highlights the importance of understanding turbulence at finite Reynolds numbers and the need for corrections to account for intermittency. Two theoretical approaches, renormalized perturbation approximations and nonlinear mapping of fields, are explored for their implications in predicting turbulence statistics and understanding intermittency corrections to the Kolmogorov theory.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1950_0072
+revised_title: 'Extension of Perturbation Theory to Degenerate Cases'
+semantic_tags:
+  - Perturbation Theory
+  - Degenerate Cases
+  - Differential Equations
+  - Fourier Analysis
+  - Mathematical Physics
+tldr: This article extends the theory of perturbations to the degenerate case, focusing on two-dimensional problems. The author discusses the behavior of eigenvalues and eigenfunctions in the presence of multiple eigenvalues and provides a method for analyzing these complex scenarios using Fourier analysis and orthogonal transformations.
+scientific_discipline: Mathematics > Fourier Analysis

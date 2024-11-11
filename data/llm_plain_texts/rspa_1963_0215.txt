@@ -1,0 +1,10 @@
+article_id: 'rspa_1963_0215'
+revised_title: 'Vibrating Systems with Arbitrary Masses and Isotopic Defects'
+semantic_tags:
+  - Vibrations
+  - One-dimensional systems
+  - Isotopic defects
+  - Stochastic models
+  - Frequency equations
+tldr: The article discusses the frequency equations of one-dimensional vibrating systems with arbitrary masses and isotopic defects. The author derives an exact expression for the frequency equation and explores the properties of isotopic mass defects in a homogeneous one-dimensional chain. A stochastic model is also considered, and expansions for the spectrum are obtained in terms of moments about the mean mass. The article concludes with a discussion of vibration band spectra in one dimension.
+scientific_discipline: Physics > Mechanics

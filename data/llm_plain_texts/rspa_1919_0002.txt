@@ -1,0 +1,10 @@
+article_id: rspa_1919_0002
+revised_title: The Thermal Conductivity of Air: A New Method to Eliminate Convection Currents
+semantic_tags:
+  - Thermal conductivity
+  - Gas properties
+  - Heat transfer
+  - Convection
+  - Temperature gradient
+tldr: This article presents a new method to measure the thermal conductivity of air by eliminating convection currents. The authors use a unique experimental setup with two horizontal copper discs and a guard ring to ensure that heat transfer occurs only through conduction and radiation. They find that the thermal conductivity of air is independent of pressure and varies slightly with temperature.
+scientific_discipline: Physics > Thermodynamics

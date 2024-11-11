@@ -1,0 +1,10 @@
+article_id: rsta_1989_0049
+revised_title: 'Stratified Flow Past a Horizontal Circular Cylinder: Experimental Study and Findings'
+semantic_tags:
+  - Fluid Dynamics
+  - Stratified Flow
+  - Circular Cylinder
+  - Internal Froude Number
+  - Reynolds Number
+tldr: This study investigates the flow of a linearly stratified fluid past a horizontal circular cylinder, focusing on the effects of the internal Froude number and Reynolds number on the flow characteristics. The research describes various flow patterns observed in the experiments and presents a flow regime diagram. The study also discusses quantitative measures of the characteristic flows, such as upstream blocking, lee wavelengths, rotor heights, and geometric aspects of turbulent wakes. The findings provide insights into the behavior of linearly stratified flow past obstacles and have implications for understanding atmospheric and oceanic flows.
+scientific_discipline: Physics > Fluid Dynamics

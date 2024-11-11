@@ -1,0 +1,10 @@
+article_id: 103469
+revised_title: 'A New Method for Efficient Arithmetic Operations: Negativo-Affirmative Arithmetic'
+semantic_tags:
+  - Arithmetic
+  - Number theory
+  - Mathematical notation
+  - Mathematical operations
+  - Mathematical techniques
+tldr: The author introduces negativo-affirmative arithmetic, a method that simplifies arithmetic operations, especially with large numbers. This method involves using negative and affirmative figures and applying specific rules for addition, subtraction, multiplication, and division. It also allows for easier conversion between common and negativo-affirmative numbers.
+scientific_discipline: Mathematics > Number Theory

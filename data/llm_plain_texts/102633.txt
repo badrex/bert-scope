@@ -1,0 +1,10 @@
+article_id: '102633'
+revised_title: 'Investigating the Meridian Line and its Impact on Magnetic Needle Declination and Pole Elevation'
+semantic_tags:
+  - Astronomy
+  - Geomagnetism
+  - Earth's Rotation
+  - Meridian Line
+  - Celestial Mechanics
+tldr: Dr. Wallis received a letter suggesting that the Meridian Line might have undergone a change, which could affect the declination of the magnetic needle and the elevation of the poles. He proposed that this change might be due to the Earth's axis wobbling, causing the noon-shade of a perpendicular to not always lie in the same line. This could have implications for understanding the Earth's rotation and the behavior of the magnetic needle.
+scientific_discipline: Earth Sciences > Geomagnetism

@@ -1,0 +1,10 @@
+article_id: rsta_1992_0048
+revised_title: 'Effect of Convection and Elastic-Gravitational Asphericities on Helioseismic Oscillations'
+semantic_tags:
+  - Helioseismology
+  - Solar Convection
+  - Acoustic Oscillations
+  - Solar Dynamics
+  - Quasi-degenerate Perturbation Theory
+tldr: The authors develop a theory based on quasi-degenerate perturbation theory to study the effect of global-scale, steady-state convection and elastic-gravitational asphericities on helioseismic eigenfrequencies and eigenfunctions. They present a formalism to apply this theory computationally and discuss its implications for understanding solar structure and dynamics.
+scientific_discipline: Physics > Astrophysics

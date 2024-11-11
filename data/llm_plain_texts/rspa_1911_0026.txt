@@ -1,0 +1,10 @@
+article_id: rspa_1911_0026
+revised_title: 'Stream-line Motion in Curved Pipes: Experiments and Observations'
+semantic_tags:
+  - Fluid dynamics
+  - Pipe flow
+  - Streamline
+  - Fluid mechanics
+  - Hydraulics
+tldr: The authors conducted experiments on stream-line motion in curved pipes using colored water to visualize the flow patterns. They observed that stream filaments break up and follow the walls of the pipe, leading to a decrease in flow rate. The study provides insights into the behavior of fluids in curved pipes and has implications for engineering and design.
+scientific_discipline: Physics > Fluid mechanics

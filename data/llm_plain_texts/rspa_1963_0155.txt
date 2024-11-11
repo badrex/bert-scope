@@ -1,0 +1,10 @@
+article_id: rspa_1963_0155
+revised_title: Relativistic Scattering Theory with Fixed Point Scatterer
+semantic_tags:
+  - Quantum Field Theory
+  - Relativity
+  - Particle Scattering
+  - Mesons
+  - Indefinite Metric
+tldr: The article presents an exact theory of relativistic scattering by a fixed point scatterer using relativistic scalar particles (mesons) and a quantum field with an indefinite metric. The conventional approach to this problem is shown to fail unless the scattering is trivial. An alternative approach is proposed, which leads to an exact treatment of the problem and allows for the selection of physical solutions.
+scientific_discipline: Physics > Quantum Field Theory

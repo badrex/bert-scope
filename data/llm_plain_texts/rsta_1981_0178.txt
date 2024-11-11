@@ -1,0 +1,10 @@
+article_id: rsta_1981_0178
+revised_title: 'Evaluation of a Model Equation for Water Waves'
+semantic_tags:
+  - Fluid Dynamics
+  - Wave Theory
+  - Mathematical Modeling
+  - Water Waves
+  - Numerical Methods
+tldr: The authors evaluate a mathematical model equation for water waves, focusing on the behavior of waves in a long channel. They discuss the design and implementation of a numerical scheme to solve the model equation, and explore the effects of various parameters on wave behavior. The study provides insights into the dynamics of water waves and the development of more accurate models for predicting wave behavior.
+scientific_discipline: Mathematics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1930_0138
+revised_title: 'Electron Diffraction Analysis of Surface Layers'
+semantic_tags:
+  - Electron diffraction
+  - Surface chemistry
+  - Crystallography
+  - Surface analysis
+  - Thin films
+tldr: The author investigates the use of electron diffraction to analyze surface layers of various materials. They find that fast electrons are unaffected by thin gas layers on surfaces, allowing for the study of solid layers. The technique is demonstrated on various materials, including gold, platinum, and asbestos, with promising results for the study of surface chemistry.
+scientific_discipline: Physics > Crystallography

@@ -1,0 +1,10 @@
+article_id: rspa_1966_0071
+revised_title: Mechanism of Gas Phase Photolysis of Acetone
+semantic_tags:
+  - Photochemistry
+  - Acetone photolysis
+  - Methyl radicals
+  - Olefines isomerization
+  - Triplet states
+tldr: The authors studied the gas phase photolysis of acetone and found that dissociation into methyl and acetyl radicals occurs from both the first excited singlet and triplet states. The decomposition of acetyl radicals predominates over radical-radical interactions at low absorption intensities. The results provide insights into the primary processes in the photodecomposition of acetone and the effect of olefines on these processes.
+scientific_discipline: Chemistry > Photochemistry

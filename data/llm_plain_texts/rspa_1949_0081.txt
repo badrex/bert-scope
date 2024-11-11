@@ -1,0 +1,10 @@
+article_id: rspa_1949_0081
+revised_title: Electroviscosity and Sedimentation Phenomena in Ionic Liquids
+semantic_tags:
+  - Electroviscosity
+  - Sedimentation
+  - Ionic Liquids
+  - Electrokinetic Potential
+  - Carborundum
+tldr: The authors studied the sedimentation of particles in ionic liquids and demonstrated that the rate of sedimentation can be affected by the ionic concentration due to variation in electroviscous forces. They derived equations governing the rate of sedimentation and used them to calculate electrokinetic potentials of carborundum in potassium chloride solutions. The results were compared with those obtained from electro-endosmosis data, providing a semi-quantitative verification of the theoretical equations.
+scientific_discipline: Physics > Electromagnetism

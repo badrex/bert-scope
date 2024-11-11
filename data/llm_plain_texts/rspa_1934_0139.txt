@@ -1,0 +1,10 @@
+article_id: 'rspa_1934_0139'
+revised_title: 'Kinetics of the Oxidation of Ethylene and Acetaldehyde Mixtures'
+semantic_tags:
+  - Combustion kinetics
+  - Chain reactions
+  - Oxidation of hydrocarbons
+  - Peroxide theory
+  - Gas-phase reactions
+tldr: The authors investigated the kinetics of the oxidation of ethylene and ethylene-acetaldehyde mixtures. They found that the oxidation of ethylene is largely independent of oxygen concentration and depends greatly on the concentration of ethylene. The reaction was suppressed by packing and the effect of inert gases was small, suggesting short chains. The oxidation of acetaldehyde was found to be virtually instantaneous at high temperatures.
+scientific_discipline: Chemistry > Physical Chemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1984_0068
+revised_title: 'Liquid Drops Suspended by Soap Films: A Simplified Model'
+semantic_tags:
+  - Fluid Dynamics
+  - Surface Tension
+  - Soap Films
+  - Mathematical Modeling
+  - Variational Methods
+tldr: The authors present a simplified model for liquid drops suspended by soap films, using linearized approximations to the curvatures of the upper and lower surfaces. They develop a theory based on variational methods, applying to drops suspended within non-circular frames. The existence of solutions is proved, and conditions relating to the presence of a free boundary and the uniqueness of solutions are discussed. This model provides reasonable approximations to the observed properties of suspended drops that are not too massive and are near their limit of stability.
+scientific_discipline: Mathematics > Applied Mathematics

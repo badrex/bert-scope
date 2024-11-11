@@ -1,0 +1,10 @@
+article_id: rsta_1980_0006
+revised_title: Nonlinear Stability of Free Shear Layer in Viscous Critical Layer Regime
+semantic_tags:
+  - Fluid Dynamics
+  - Shear Layer Stability
+  - Asymptotic Analysis
+  - Viscous Flow
+  - Turbulence
+tldr: This article investigates the nonlinear stability of a free shear layer in the viscous critical layer regime using the method of matched asymptotic expansions. The study focuses on a parallel free shear layer with a hyperbolic tangent velocity profile at high Reynolds numbers, providing insight into the transition process of free shear layers and the mechanisms governing the development of orderly structures in fully turbulent flows.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: 107505
+revised_title: 'New Methods for Investigating Infinite Series'
+semantic_tags:
+  - Mathematics
+  - Series summation
+  - Integration
+  - Differential equations
+  - Number theory
+tldr: The author, Charles Babbage, presents new methods for investigating the sums of various classes of infinite series. He explains how to expand and sum these series horizontally and vertically, and discusses the conditions under which this method will produce accurate results. Babbage also explores the relationship between this method and direct integration, and demonstrates how to apply it to a variety of series.
+scientific_discipline: Mathematics > Series summation

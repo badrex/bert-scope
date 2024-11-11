@@ -1,0 +1,10 @@
+article_id: rspa_1967_0071
+revised_title: Structure Factor and Direct Correlation Function for Classical Hard Sphere Fluids
+semantic_tags:
+  - Statistical mechanics
+  - Fluid dynamics
+  - Hard sphere model
+  - Structure factor
+  - Direct correlation function
+tldr: This article presents calculations of the structure factor and direct correlation function for a classical hard sphere fluid. Exact results are provided to the third order in density and compared with various approximate theories, such as the Born-Green, Percus-Yevick, and hyperchain. The findings have implications for understanding the behavior of liquids and their interactions.
+scientific_discipline: Physics > Fluid dynamics

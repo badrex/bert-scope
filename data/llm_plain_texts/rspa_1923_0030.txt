@@ -1,0 +1,10 @@
+article_id: rspa_1923_0030
+revised_title: Periodic Opacity of Colloids in Response to Electrolyte Concentrations
+semantic_tags:
+  - Colloids
+  - Electrolytes
+  - Periodic Opacity
+  - Turbidity
+  - Serum
+tldr: The authors discovered that the opacity of certain colloids, specifically human serum, changes periodically as the concentration of electrolytes, such as sodium chloride, increases. This phenomenon occurs due to the complex interaction of the emulsoid colloid, electrolyte, and suspensoid colloid. The authors provide a detailed explanation of their experimental methods and findings, including the influence of factors such as light wavelength, serum concentration, and temperature.
+scientific_discipline: Chemistry > Colloids and Surface Chemistry

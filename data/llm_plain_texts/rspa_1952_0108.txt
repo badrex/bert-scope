@@ -1,0 +1,10 @@
+article_id: rspa_1952_0108
+revised_title: Intensities of Absorption Bands in Methyl Halides: A Study of Polar Properties
+semantic_tags:
+  - Spectroscopy
+  - Molecular Physics
+  - Vibrational Spectroscopy
+  - Intensity of Absorption Bands
+  - Methyl Halides
+tldr: The authors measured the intensities of the fundamental vibration bands in the four methyl halides (methyl fluoride, methyl chloride, methyl bromide, and methyl iodide) using pressure broadening of bands. They determined the force constants and calculated the transformations from normal to symmetry coordinates. The results were interpreted in terms of bond moments and their derivatives, revealing a trend in the polar properties of the C-X bonds in the series.
+scientific_discipline: Chemistry > Spectroscopy

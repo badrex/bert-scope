@@ -1,0 +1,10 @@
+article_id: rspl_1894_0108
+revised_title: Asymmetrical Probability Curve and Its Applications
+semantic_tags:
+  - Probability Theory
+  - Statistics
+  - Mathematical Analysis
+  - Correlation Analysis
+  - Binomial Distribution
+tldr: The article discusses the asymmetrical probability curve, which is the second approximation to the frequency governing the set of values assumed by a function of numerous independently fluctuating small quantities. The author presents the general form of the asymmetric probability curve and its properties, including the lack of coincidence between the arithmetic mean and the position of the greatest ordinate. The article also explores the extension of the theory of correlation and its applications.
+scientific_discipline: Mathematics > Probability Theory

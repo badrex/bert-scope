@@ -1,0 +1,10 @@
+article_id: rspa_1918_0047
+revised_title: 'Experiments on the Vibration of Stretched Wires in Closed Electric Circuits'
+semantic_tags:
+  - Electromagnetism
+  - Acoustics
+  - Telecommunications
+  - Microphone design
+  - Wire properties
+tldr: The author conducted experiments to study the effect of the vibration of a stretched wire in a closed electric circuit. They found that stretched wires could act as microphones, picking up sounds and vibrations. The author tested various types of wires and explored their properties, but found limited practical applications for these stretched wires as microphones in commercial purposes.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0068'
+revised_title: 'Evolution of Population Dynamics: Stability vs Chaos'
+semantic_tags:
+  - Population Dynamics
+  - Evolutionary Biology
+  - Chaos Theory
+  - Stability
+  - Demographic Parameters
+tldr: The authors investigated the evolution of demographic parameters in simple population models, finding that without constraints, the dynamics tend to evolve towards stability. However, constraints on parameters can lead to chaotic dynamics. This study provides insights into how natural selection shapes population dynamics and the role of constraints in promoting or preventing the evolution of stable dynamics.
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

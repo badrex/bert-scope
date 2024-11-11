@@ -1,0 +1,10 @@
+article_id: 'rsta_1933_0010'
+revised_title: 'Thermodynamical Treatment of Visco-Elasticity and Vibrations in Visco-Elastic Solids'
+semantic_tags:
+  - Viscoelasticity
+  - Solid mechanics
+  - Elasticity
+  - Vibrations
+  - Thermodynamics
+tldr: 'The author investigates the damping of vibrations in imperfectly elastic solids, focusing on the thermodynamical development of a general theory of visco-elasticity. The study examines the vibrations of thin cylinders, which is important in understanding the behavior of solids in various fields, such as engineering and physics. The research also discusses the difference between perfectly elastic and imperfectly elastic solids and the effects of plasticity on their behavior.'
+scientific_discipline: Physics > Solid mechanics

@@ -1,0 +1,10 @@
+article_id: rspa_1966_0130
+revised_title: Anharmonic Interactions in Alkali Halides: Thermodynamic Properties and Debye-Waller Factors
+semantic_tags:
+  - Crystallography
+  - Lattice Dynamics
+  - Thermodynamics
+  - Alkali Halides
+  - Anharmonic Interactions
+tldr: The authors conducted numerical calculations to determine the anharmonic contributions to the free energy, entropy, and specific heat of potassium bromide and sodium iodide. They used harmonic shell models of the crystals and extrapolation methods to calculate the frequency distribution functions. The anharmonic effects on the thermodynamic properties and Debye-Waller factors were analyzed and compared with experimental results and other calculations.
+scientific_discipline: Physics > Crystallography

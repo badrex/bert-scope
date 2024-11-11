@@ -1,0 +1,10 @@
+article_id: rspa_1976_0109
+revised_title: 'Centrifugal Instability of a Stokes Layer: Analytical Solution'
+semantic_tags:
+  - Fluid Dynamics
+  - Centrifugal Instability
+  - Stokes Layer
+  - Taylor Vortex
+  - Fluid Mechanics
+tldr: The authors investigate the centrifugal instability of a Stokes layer in a circular cylinder oscillating in an infinite viscous fluid. They develop a series solution for the partial differential system governing the stability of the flow, which is then compared to experimental results. The study provides insights into the behavior of oscillatory laminar flows and has implications for a wider class of external and internal incompressible flows.
+scientific_discipline: Physics > Fluid Dynamics

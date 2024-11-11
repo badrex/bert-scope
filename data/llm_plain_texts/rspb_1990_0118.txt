@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0118'
+revised_title: 'Sex-Biased Heteroplasmy in Mitochondrial DNA of Marine Mussels'
+semantic_tags:
+  - 'Mitochondrial DNA'
+  - 'Heteroplasmy'
+  - 'Sex-biased'
+  - 'Marine Mussel'
+  - 'Mytilus'
+tldr: 'The study found that in the marine mussel Mytilus, there is a high frequency of individuals with more than one mitochondrial DNA genome, with the majority possessing two genomes, F and M. The F genome is more common in females, while the M genome is more common in males. This sex-biased heteroplasmy could be due to factors such as replicative advantage, mutation rates, and somatic segregation.'
+scientific_discipline: Biology and Life Sciences > Genetics and Genomics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1989_0034'
+revised_title: 'Heavy Ion Effects on Synchronous L5178Y S/S Cells and Radiobiological Theory'
+semantic_tags:
+  - Radiobiology
+  - Cell Cycle
+  - Heavy Ion Radiation
+  - Relative Biological Effectiveness
+  - DNA Repair Mechanisms
+tldr: The study investigates the responses of synchronous L5178Y S/S cells to heavy ions and their significance in radiobiological theory. The cells were exposed to heavy-ion beams at different positions in the cell cycle, and the results showed that the maxima or inflections in the relations between relative biological effectiveness and linear energy transfer were dependent on the cell cycle position. The findings contribute to the understanding of cellular radiosensitivity and the development of a biochemical theory of cellular radiosensitivity that incorporates the concept of repair and fixation of radiation damage in cellular DNA.
+scientific_discipline: Biology and Life Sciences > Cell Biology and Genetics

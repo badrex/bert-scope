@@ -1,0 +1,10 @@
+article_id: rspa_1979_0014
+revised_title: 'Perforated Shell Acoustics: Aerodynamic Sound Generation and Added Mass'
+semantic_tags:
+  - Fluid Dynamics
+  - Acoustics
+  - Aerodynamics
+  - Porous Media
+  - Trailing Edge Noise
+tldr: This article examines the theory of oscillatory flow through the perforated surface of a rigid shell, focusing on the added mass and aerodynamic sound generation. The study assumes that the Reynolds number is large, allowing the flow to be considered irrotational. The authors derive a pair of integral equations that determine the flow's properties, particularly the fluctuating inertial drag experienced by the shell. They apply the theory to a spherical shell and the problem of sound generation by turbulence swept past the trailing edge of a perforated aerofoil, providing numerical results that support the potential for significant noise reduction.
+scientific_discipline: Physics > Fluid Dynamics

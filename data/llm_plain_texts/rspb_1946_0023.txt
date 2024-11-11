@@ -1,0 +1,10 @@
+article_id: 'rspb_1946_0023'
+revised_title: 'Radiation Inactivation of Bacteriophages and the Nature of Bacteriophages'
+semantic_tags:
+  - Radiation Biology
+  - Bacteriophage Inactivation
+  - Virus Structure
+  - Radiation Dose
+  - Virus Genetics
+tldr: The authors conducted experiments to study the inactivation of bacteriophages by different types of radiation, such as y-rays, X-rays, and a-rays. They found that the inactivation of bacteriophages is due to a single ionization, which can help differentiate between macromolecular viruses and organism-type viruses. The smallest phage studied (S-13) is a macromolecular virus, while the larger phages (C-36 and Staph-K) are more complex organism-type viruses with some differentiation into genetic and cytoplasmic material.
+scientific_discipline: Biology and Life Sciences > Virology

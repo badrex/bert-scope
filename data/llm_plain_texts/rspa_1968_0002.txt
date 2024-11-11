@@ -1,0 +1,10 @@
+article_id: 'rspa_1968_0002'
+revised_title: 'Mass Spectrometric Study of Nitrogen Atoms Reaction with Acetaldehyde'
+semantic_tags:
+  - Mass spectrometry
+  - Nitrogen atoms reaction
+  - Acetaldehyde
+  - Organic chemistry
+  - Reaction mechanism
+tldr: The authors studied the reaction of nitrogen atoms with acetaldehyde using mass spectrometry. They found that the main stable products were HCN, H2, and CO, with a small amount of glyoxal also formed. The reaction was first-order in both nitrogen atoms and acetaldehyde. The authors also identified a product yielding ions with m/e = 43, which they proposed to be the radical CH2CHO.
+scientific_discipline: Chemistry > Organic Chemistry

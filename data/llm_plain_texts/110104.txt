@@ -1,0 +1,10 @@
+article_id: 110104
+revised_title: Observations of Double and Triple Stars' Positions and Distances
+semantic_tags:
+  - Astronomy
+  - Celestial Mechanics
+  - Star Catalogs
+  - Astrometry
+  - Binary Stars
+tldr: The author, James South, conducted observations of 458 double and triple stars from 1823 to 1825. He re-examined 36 stars from a previous study and found that about 160 of the observed stars were previously undescribed. The observations aimed to determine the stars' positions, distances, and relative motions. The study also included a comparison of the findings with Sir William Herschel's catalogues, leading to the discovery of more instances of double stars with proven relative motion.
+scientific_discipline: Astronomy > Astrometry

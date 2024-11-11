@@ -1,0 +1,10 @@
+article_id: rspa_1926_0077
+revised_title: 'The Continuous Spectrum of Mercury Vapour and its Relation to the Resonance Line 2536.52'
+semantic_tags:
+  - Atomic Spectroscopy
+  - Mercury Spectrum
+  - Resonance Line
+  - Fluorescent Excitation
+  - Continuous Spectrum
+tldr: The author investigates the continuous spectrum of mercury vapor and its relationship with the resonance line 2536.52. They use fluorescent excitation to study the spectrum without the resonance line, revealing a continuous band that ends abruptly at 2535.9. The author identifies two dark lines or bands in the continuous spectrum, one being the reversal of the resonance line itself, and the other at a wavelength of 2540, known as the absorption band. This research helps to understand the nature and origin of the continuous spectrum.
+scientific_discipline: Physics > Atomic and Molecular Physics

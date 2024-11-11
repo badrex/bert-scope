@@ -1,0 +1,10 @@
+article_id: rspa_1955_0069
+revised_title: Thermo-Electric Power of Metals: The Influence of Lattice Distribution
+semantic_tags:
+  - Thermoelectricity
+  - Lattice distribution
+  - Electron-phonon scattering
+  - Thermal conductivity
+  - Metals
+tldr: The authors investigate the thermo-electric power of metals, focusing on the influence of the lattice distribution and electron-phonon scattering. They find that in certain temperature ranges, the thermo-electric effect can show a sign opposite to the one predicted by the simple electron theory of metals. This phenomenon may have implications for understanding the behavior of thermo-electric power in certain materials, like alkali metals.
+scientific_discipline: Physics > Thermodynamics

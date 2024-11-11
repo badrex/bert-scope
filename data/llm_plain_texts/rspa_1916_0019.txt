@@ -1,0 +1,10 @@
+article_id: rspa_1916_0019
+revised_title: 'Investigations on Steam and Water Flow Friction in Pipes'
+semantic_tags:
+  - Fluid dynamics
+  - Pipe flow
+  - Steam engineering
+  - Viscosity
+  - Reynolds number
+tldr: This study investigates the friction between steam and water in pipes, focusing on the effects of velocity, pipe diameter, and surface roughness. The authors extended the work of previous researchers, such as Reynolds and Stanton, to include a wider range of velocities and pipe dimensions. They found that the frictional resistance in pipes can be expressed mathematically, and they provide a formula for calculating the pressure drop in pipes conveying steam and other vapors.
+scientific_discipline: Engineering and Technology > Fluid Dynamics

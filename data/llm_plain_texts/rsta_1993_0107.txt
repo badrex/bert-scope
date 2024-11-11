@@ -1,0 +1,10 @@
+article_id: rsta_1993_0107
+revised_title: Advances in Transmission Electron Microscopy for Studying Semiconductor Interfaces
+semantic_tags:
+  - Transmission Electron Microscopy
+  - Semiconductor Interfaces
+  - Crystallography
+  - Lattice Imaging
+  - Convergent Beam Electron Diffraction
+scientific_discipline: Physics > Materials Science
+tldr: This article reviews the various techniques in transmission electron microscopy (TEM) used to study semiconductor interfaces. It highlights the strengths and characteristics of different methods, including high-resolution electron microscopy, lattice imaging, and convergent beam electron diffraction. The article also discusses recent advancements in TEM techniques, such as large-angle convergent beam diffraction and non-conventional imaging conditions, which have improved the understanding of semiconductor interfaces and their properties.

@@ -1,0 +1,10 @@
+article_id: 'rstb_1976_0020'
+revised_title: 'Biosynthesis of Porphyrins, Chlorophyll, and Vitamin B: A Comprehensive Study'
+semantic_tags:
+  - Porphyrin biosynthesis
+  - Chlorophyll synthesis
+  - Vitamin B biosynthesis
+  - Cobalamins
+  - Nuclear magnetic resonance spectroscopy
+tldr: This article discusses the biosynthesis of porphyrins, chlorophyll, and vitamin B. The authors use nuclear magnetic resonance spectroscopy to study the conformations of cobalamins in solution and analyze the temperature dependence of their conformation. They find that the structures of cobalamins in solution are similar to those in the crystalline state, and the 5,6-dimethylbenzimidazole side chain remains coordinated to the cobalt even at higher temperatures.
+scientific_discipline: Chemistry > Biochemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1908_0031
+revised_title: 'Effects of Self-Induction in an Iron Cylinder with Alternating Currents'
+semantic_tags:
+  - Electromagnetic Induction
+  - Iron Core
+  - Alternating Current
+  - Hysteresis
+  - Permeability
+tldr: The author investigates the effects of self-induction in an iron cylinder when traversed by alternating currents. They found that the magnetic induction and average permeability of the iron are affected by the variation of periodic time and total current. The energy dissipated by electric current overcoming resistance and magnetic hysteresis is also studied, showing how the iron's average permeability is influenced by the wave-form of the magnetic induction.
+scientific_discipline: Physics > Electromagnetism

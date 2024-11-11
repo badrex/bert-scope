@@ -1,0 +1,10 @@
+article_id: rspa_1989_0052
+revised_title: Phase Space Analysis of Quantum Scars and Closed Orbits
+semantic_tags:
+  - Quantum mechanics
+  - Classical mechanics
+  - Phase space
+  - Closed orbits
+  - Semiclassical theory
+tldr: The author analyzes the influence of closed orbits in chaotic classical systems on quantum eigenstates in phase space. They develop a semiclassical theory to show that quantum scars, oscillatory corrections associated with closed orbits, can be expressed in phase space. The spectral Wigner function is used to study these scars and their fringes, providing insights into the relationship between quantum and classical mechanics.
+scientific_discipline: Physics > Quantum Mechanics

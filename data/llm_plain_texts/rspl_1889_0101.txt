@@ -1,0 +1,10 @@
+article_id: 'rspl_1889_0101'
+revised_title: 'Determination of the Ratio of Electromagnetic to Electrostatic Units'
+semantic_tags:
+  - Electromagnetic Units
+  - Electrostatic Units
+  - Capacitance
+  - Electrical Measurements
+  - Physics Experiments
+tldr: The authors conducted experiments to determine the ratio of the electromagnetic unit of electricity to the electrostatic unit. They compared the electromagnetic and electrostatic measures of the capacity of a condenser and found that the values agreed well together. This research helped refine the understanding of electrical measurements and units.
+scientific_discipline: Physics > Electromagnetism

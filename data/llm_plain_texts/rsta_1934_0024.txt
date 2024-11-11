@@ -1,0 +1,10 @@
+article_id: rsta_1934_0024
+revised_title: On the Disturbance of Steady Flow of Inviscid Liquid Between Parallel Planes
+semantic_tags:
+  - Fluid dynamics
+  - Stability theory
+  - Vorticity
+  - Boundary layer
+  - Fluid mechanics
+tldr: The author investigates the disturbance of a steady flow of an inviscid liquid between parallel planes. They argue that the characteristic-value method, which was previously used to analyze this problem, is not applicable. Instead, they propose the method of vorticity to study the flow and provide a systematic application of this method to the problem. The author also shows that the parabolic velocity-profile is stable.
+scientific_discipline: Physics > Fluid mechanics

@@ -1,0 +1,10 @@
+article_id: 'rspa_1979_0110'
+revised_title: 'Cosmological Implications of the 3K Background and Recent Developments in General Relativity'
+semantic_tags:
+  - Cosmology
+  - Big Bang Theory
+  - Black Holes
+  - Gravitational Waves
+  - Quantum Mechanics
+tldr: This article discusses three recent developments involving the 3K background and their implications for cosmology. Firstly, the measurement of an angular distortion of the background due to Earth's motion relative to the Universe. Secondly, the nearly isotropic nature of the Universe, which leads to stringent limits on vorticity and shear. Lastly, the origin of the 3K background, which could be due to the evaporation of primordial black holes or pair creation associated with the rapidly changing gravitational field after the big bang.
+scientific_discipline: Physics > Cosmology

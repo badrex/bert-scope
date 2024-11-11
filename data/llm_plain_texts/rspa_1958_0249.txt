@@ -1,0 +1,10 @@
+article_id: rspa_1958_0249
+revised_title: Surface Flow and Wear of Diamond and Glass: A Study of Glass Polishing
+semantic_tags:
+  - Material Science
+  - Surface Engineering
+  - Tribology
+  - Glass Polishing
+  - Diamond
+tldr: This study investigates the interaction between diamond and glass when a diamond slider is rubbed on a glass surface. The authors discovered that a smooth diamond can cause surface flow of the glass, which is essential in the polishing process. They also found that the wear rate of the diamond and glass is highly dependent on the humidity of the atmosphere, with wear increasing significantly in dry conditions. The process of glass polishing is discussed, with three proposed mechanisms: fine grinding, surface flow, and chemical processes. The authors conclude that surface flow of thermally softened glass is important in the polishing of glass with diamond.
+scientific_discipline: Material Science > Surface Engineering

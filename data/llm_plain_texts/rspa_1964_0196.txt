@@ -1,0 +1,10 @@
+article_id: rspa_1964_0196
+revised_title: 'Electron Density Distribution in the Topside Ionosphere: Ariel I Satellite Observations'
+semantic_tags:
+  - Ionosphere
+  - Space Science
+  - Satellite Technology
+  - Geomagnetic Field
+  - Electron Density
+tldr: The authors discuss the results from the first Anglo-American satellite, Ariel I, and related observations of the electron density distribution in the topside ionosphere. They discovered systematic stratification and bands of enhanced electron density aligned with the geomagnetic field, which suggests that the geomagnetic field plays an important role in the mechanism of production of these enhancements.
+scientific_discipline: Environmental and Earth Sciences > Ionosphere

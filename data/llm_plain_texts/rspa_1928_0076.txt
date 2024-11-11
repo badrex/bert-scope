@@ -1,0 +1,10 @@
+article_id: rspa_1928_0076
+revised_title: 'Wave Equations of the Electron: A Simplified Approach'
+semantic_tags:
+  - Quantum Mechanics
+  - Wave Equations
+  - Dirac Equation
+  - Electromagnetic Field
+  - Relativity Theory
+tldr: The author presents a simplified approach to Dirac's wave equations of the electron using ordinary methods of wave calculus. They discuss the invariance of the equations, the relationship to previous equations, and the potential for further development in understanding the electron's behavior and electromagnetic field.
+scientific_discipline: Physics > Quantum Mechanics

@@ -1,0 +1,10 @@
+article_id: rspa_1930_0150
+revised_title: 'Investigating the Intensities and Internal Conversion Coefficients of Radium B and C Y-Rays'
+semantic_tags:
+  - Nuclear Physics
+  - Radioactivity
+  - X-ray Spectroscopy
+  - Atomic Physics
+  - Internal Conversion
+tldr: 'The authors conducted experiments to measure the intensities and internal conversion coefficients of y-rays emitted by radium B and radium C. They used a combination of natural and excited spectra to analyze the energy interchange between the nucleus and electronic system of the atoms. The results provided insights into the mode of energy transfer and the frequency of different processes associated with y-ray emission.'
+scientific_discipline: Physics > Nuclear Physics

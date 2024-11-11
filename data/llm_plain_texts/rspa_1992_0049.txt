@@ -1,0 +1,10 @@
+article_id: rspa_1992_0049
+revised_title: The Impact of Damping on Rigid Block Motion Under Harmonic Forcing
+semantic_tags:
+  - Nonlinear Dynamics
+  - Damping Effects
+  - Rigid Block Motion
+  - Harmonic Forcing
+  - Earthquake Engineering
+tldr: This study investigates the effect of damping on the response of a rigid block to harmonic excitation. It shows that the structure seen in the absence of damping is preserved, and multiple solutions, asymmetric responses, and period- and impact-doubling cascades still occur in different parts of the parameter space. The stability boundaries are also determined, and it is found that at certain values of the forcing frequency, the stability boundaries possess a local maximum as a function of the damping.
+scientific_discipline: Engineering and Technology > Dynamics and Vibration

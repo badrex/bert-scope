@@ -1,0 +1,10 @@
+article_id: rspa_1924_0014
+revised_title: 'Experimental Study of Sound Velocity in Gases and Vapors'
+semantic_tags:
+  - Gas dynamics
+  - Viscosity
+  - Sound velocity
+  - Gas properties
+  - Molecular heat capacity
+scientific_discipline: Physics > Fluid dynamics
+tldr: The authors conducted experiments to measure the velocity of sound in various gases and vapors, including ether, methyl and ethyl alcohols, pentane, hexane, benzene, ethylene, and ammonia. They used a lead tube to contain the gases or vapors and measured the time it took for sound waves to travel between the two ends of the tube. The results were used to calculate the ratio of specific heats and provide insights into the properties of gases and vapors.

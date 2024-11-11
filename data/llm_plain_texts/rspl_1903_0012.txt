@@ -1,0 +1,10 @@
+article_id: rspl_1903_0012
+revised_title: 'Diffraction of Waves Around a Spherical Obstacle'
+semantic_tags:
+  - Wave Diffraction
+  - Electromagnetic Waves
+  - Spherical Geometry
+  - Radio Waves
+  - Optics
+tldr: 'The author discusses the bending of waves, specifically electrical and aerial waves, around a spherical obstacle. The study focuses on the effect of a large sphere compared to the wave-length of vibrations. The author examines the work of Mr. H. M. Macdonald and presents an alternative approach to explain the bending of waves, particularly in the context of Marconi's success in signaling across the Atlantic.'
+scientific_discipline: Physics > Electromagnetic Waves

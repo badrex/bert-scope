@@ -1,0 +1,10 @@
+article_id: rspl_1893_0088
+revised_title: Electrolysis of Alternating Currents and Energy Dissipation
+semantic_tags:
+  - Electrochemistry
+  - Alternating Currents
+  - Energy Dissipation
+  - Electrolytic Action
+  - Hysteresis
+tldr: The authors conducted experiments on electrolysis using alternating currents and measured the energy dissipation in different conditions. They found that the energy dissipated in the cell depends on the frequency of the alternating current, with higher frequencies leading to more energy being spent on overcoming the resistance of the electrolyte rather than evolving gases at the plate. The authors also observed the cyclic variation of potential and the role of electrolytic hysteresis in energy dissipation.
+scientific_discipline: Physics > Electromagnetism

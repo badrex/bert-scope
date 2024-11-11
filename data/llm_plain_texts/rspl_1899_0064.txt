@@ -1,0 +1,10 @@
+article_id: rspl_1899_0064
+revised_title: Vapour-Density of Bromine at High Temperatures: A Study of Dissociation
+semantic_tags:
+  - Thermodynamics
+  - Bromine
+  - Gas dissociation
+  - High-temperature chemistry
+  - Vapour density
+tldr: The authors conducted experiments to determine the vapour-density of bromine at high temperatures. They found that the vapour-density is normal up to about 750°C, after which dissociation becomes appreciable and gradually increases with rising temperature. At 1050°C, the density falls to 75.25. The study provides insights into the dissociation of bromine molecules at high temperatures.
+scientific_discipline: Chemistry > Thermodynamics

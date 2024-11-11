@@ -1,0 +1,10 @@
+article_id: rspa_1925_0007
+revised_title: The Union of Hydrogen and Oxygen Inhibited by Absorbed Oxygen
+semantic_tags:
+  - Catalysis
+  - Inhibition
+  - Gas reactions
+  - Metal catalysts
+  - Surface chemistry
+tldr: The authors conducted experiments to study the interaction of hydrogen and oxygen in the presence of silver and gold. They discovered that absorbed oxygen inhibits the activity of the metal catalyst, while absorbed hydrogen does not significantly increase the activity. This finding challenges the previous explanation of the Bone and Wheeler effect and suggests that the mechanism of the influence of absorbed oxygen is due to the formation of an inactive film on the metal surface.
+scientific_discipline: Chemistry > Surface chemistry

@@ -1,0 +1,10 @@
+article_id: 'rspa_1926_0038'
+revised_title: 'Influence of Pressure on the Ignitibility of Carbon Monoxide and Oxygen Mixtures'
+semantic_tags:
+  - Combustion
+  - Gas mixtures
+  - Pressure effects
+  - Ignition
+  - Experimental chemistry
+tldr: The authors conducted experiments to study the combustion of carbon monoxide and oxygen mixtures under different pressures. They found that at pressures below 2 atmospheres, the mixtures could not be ignited. At initial pressures between 2.75 and 5 atmospheres, ignition was possible but combustion was not always complete. At pressures of 10 atmospheres or more, the mixture ignited instantly.
+scientific_discipline: Chemistry > Combustion and Flame

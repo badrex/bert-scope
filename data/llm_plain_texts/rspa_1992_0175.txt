@@ -1,0 +1,10 @@
+article_id: rspa_1992_0175
+revised_title: Elastic Inhomogeneous Inclusion and Inhomogeneity in Bimaterials
+semantic_tags:
+  - Elasticity
+  - Inhomogeneous Inclusion
+  - Bimaterials
+  - Inhomogeneity
+  - Equivalent Inclusion Method
+tldr: The article presents a method for obtaining the elastic field due to an inhomogeneous inclusion or inhomogeneity in two joined semi-infinite isotropic solids (bimaterials) that are either perfectly bonded or in frictionless contact at the planar interface. Eshelby's equivalent inclusion method and Galerkin vectors for double forces and double forces with moment in bimaterials are used to obtain the solution. The expression for the equivalent eigenstrains for an inhomogeneous inclusion or inhomogeneity of arbitrary shape is obtained in terms of a system of singular integral equations, which can then be solved numerically.
+scientific_discipline: Mechanics > Solid Mechanics

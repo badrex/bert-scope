@@ -1,0 +1,10 @@
+article_id: 111941
+revised_title: 'Lead-Zinc and Bismuth-Zinc Alloy Dissolution Rates'
+semantic_tags:
+  - Alloy Chemistry
+  - Metallurgy
+  - Lead-Zinc Alloys
+  - Bismuth-Zinc Alloys
+  - Chemical Analysis
+tldr: The authors conducted experiments to determine the maximum amount of zinc that can dissolve in lead and bismuth, and vice versa. They found that lead can dissolve 1.6% zinc, and zinc can dissolve 1.2% lead. Additionally, they discovered that zinc can dissolve 2.4% to 14.3% bismuth, depending on the conditions. These findings help to understand the behavior of these alloys and their potential applications.
+scientific_discipline: Chemistry > Metallurgy

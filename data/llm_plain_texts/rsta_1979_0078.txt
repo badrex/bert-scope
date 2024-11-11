@@ -1,0 +1,10 @@
+article_id: rsta_1979_0078
+revised_title: Advances in Mass Spectrometry for Protein Sequence Analysis
+semantic_tags:
+  - Mass spectrometry
+  - Protein sequencing
+  - Peptide analysis
+  - Glycopeptide research
+  - Derivatives and fragmentation
+tldr: This article discusses the advancements in mass spectrometry for protein sequence analysis, focusing on the methodology for studying peptides and glycopeptides. The author highlights the development of chemical and mass spectrometric methods for determining saccharide and peptide structure, as well as future trends in negative chemical ionization, computerized automation, and high-field magnet studies.
+scientific_discipline: Chemistry > Analytical Chemistry

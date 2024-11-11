@@ -1,0 +1,10 @@
+article_id: 'rspa_1920_0028'
+revised_title: 'Experimental Determination of Partial Correlation Coefficient Distribution'
+semantic_tags:
+  - Statistics
+  - Correlation analysis
+  - Sampling
+  - Data analysis
+  - Statistical methods
+tldr: The author conducted an experiment to determine the distribution of partial correlation coefficients in samples of 30. They found that the distribution of partial correlation coefficients is well-fitted by the theoretical distribution and that the dispersion of partial correlation coefficients for different attributes is not significantly different. This study has practical importance in various fields, such as psychology, vital statistics, and weather data analysis.
+scientific_discipline: Statistics > Correlation analysis

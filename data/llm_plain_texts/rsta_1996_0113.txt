@@ -1,0 +1,10 @@
+article_id: rsta_1996_0113
+revised_title: 'Exact Solution to Plane Orthotropic Elasticity Problem with Rectangular Boundaries'
+semantic_tags:
+  - Elasticity
+  - Orthotropic materials
+  - Stress distribution
+  - Boundary value problems
+  - Mathematical physics
+tldr: The author presents an exact solution to the plane orthotropic elasticity problem with rectangular boundaries under arbitrary edge forces. The method involves breaking up the full solution into eight basic problem types, which can be made to describe the internal stress distribution arising from any imposed force distribution throughout the boundaries. This approach is useful for solving two-dimensional elasticity problems with rectangular contours in various fields of applied mechanics.
+scientific_discipline: Mathematics > Mathematical physics

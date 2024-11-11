@@ -1,0 +1,10 @@
+article_id: 112197
+revised_title: 'Advanced Approximation Methods for Elliptic and Ultra-Elliptic Functions'
+semantic_tags:
+  - Approximation Theory
+  - Elliptic Functions
+  - Mathematical Analysis
+  - Differential Equations
+  - Numerical Integration
+tldr: The author, Charles W. Merrifield, presents a new method of approximation for elliptic and ultra-elliptic functions, building upon previous work by George Boole and James Joseph Sylvester. The method involves the use of rational approximation and partial fractions, allowing for more precise and efficient computation of integrals. The author also discusses the extension of this method to higher index radicals and certain differential equations.
+scientific_discipline: Mathematics > Approximation Theory

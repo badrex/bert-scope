@@ -1,0 +1,10 @@
+article_id: 'rstb_1982_0083'
+revised_title: 'Cognitive Effects of Frontal-Lobe Lesions in Humans'
+semantic_tags:
+  - Neuropsychology
+  - Cognitive Function
+  - Frontal Lobe
+  - Oculomotor Control
+  - Sequential Tasks
+tldr: 'This study examines the cognitive effects of frontal-lobe lesions in humans, specifically focusing on the voluntary control of saccadic eye movements, conditional associative-learning tasks, and the temporal organization of behavior. The research reveals that frontal-lobe lesions can cause impairments in tasks involving motor differentiation, oculomotor control, and the monitoring of temporal sequences of events. The left frontal lobe appears to play a major role in planning and programming voluntary actions, while the right frontal lobe is more involved in monitoring the temporal sequence of externally ordered events.'
+scientific_discipline: 'Neuroscience > Neuropsychology'

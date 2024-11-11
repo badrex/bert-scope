@@ -1,0 +1,10 @@
+article_id: rspa_1936_0008
+revised_title: 'Experimental Evidence of Mercury Molecule Formation'
+semantic_tags:
+  - Atomic Physics
+  - Mercury Molecules
+  - Ionization
+  - Spectroscopy
+  - Electron Acceleration
+tldr: The authors conducted experiments to study the formation of mercury molecules in the vapor state. They used an ionization chamber and a magnetic analyzer to analyze the ions and found evidence of diatomic mercury molecular ions (Hg2+) being formed by the attachment of excited atoms to normal atoms. This discovery reconciles the chemical evidence of mercury vapor being monatomic with the band spectra evidence of its presence.
+scientific_discipline: Physics > Atomic Physics

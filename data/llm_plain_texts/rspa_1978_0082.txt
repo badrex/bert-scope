@@ -1,0 +1,10 @@
+article_id: rspa_1978_0082
+revised_title: High Field Zeeman Effect in HCO and DCO: Microwave Spectroscopy of Nonlinear Free Radicals
+semantic_tags:
+  - Microwave spectroscopy
+  - Nonlinear free radicals
+  - High field Zeeman effect
+  - HCO and DCO
+  - Spin-rotation interaction
+tldr: This article presents a study of the high field Zeeman effect in HCO and DCO radicals using microwave spectroscopy. The authors detected transitions involving low rotational levels in the presence of an external magnetic field and analyzed the electric dipole intensity and resonance fields. The spin-rotation constant was determined for both HCO and DCO, providing valuable information about the behavior of these molecules in a magnetic field.
+scientific_discipline: Chemistry > Spectroscopy

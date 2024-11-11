@@ -1,0 +1,10 @@
+article_id: rsta_1986_0072
+revised_title: Surface Extended X-ray Absorption Fine Structure: A Critical Appraisal of a Structural Tool for Adsorbates
+semantic_tags:
+  - Surface extended X-ray absorption fine structure
+  - Surface chemistry
+  - Adsorbates
+  - Crystallography
+  - Electron spectroscopy
+tldr: This article discusses the use of surface extended X-ray absorption fine structure (SE-XAFS) in determining inter-atomic spacings and structures for adsorbates on surfaces. The authors review recent work on surface iodide structures and disordered structures, and demonstrate the ability of SE-XAFS to provide unambiguous structure determination from both poorly ordered and disordered structures.
+scientific_discipline: Physics > Optics

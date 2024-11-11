@@ -1,0 +1,10 @@
+article_id: rspa_1960_0018
+revised_title: 'Experimental Investigation of Small-Angle Scattering of High-Energy Photons'
+semantic_tags:
+  - Particle Physics
+  - Photon Scattering
+  - Delbruck Scattering
+  - Rayleigh Scattering
+  - High-Energy Physics
+tldr: The authors conducted an experiment to measure the small-angle scattering of high-energy photons using a bremsstrahlung beam from the Oxford 110 synchrotron. They analyzed the differential cross-sections of uranium, aluminum, silver, tungsten, and lead at various angles. The results showed that Delbruck scattering and Rayleigh scattering contributed to the elastic scattering of high-energy photons, with Delbruck scattering being slightly more sharply peaked than the cross-section predicted by an approximate theory of Bethe and Rohrlich.
+scientific_discipline: Physics > Particle Physics

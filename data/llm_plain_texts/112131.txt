@@ -1,0 +1,10 @@
+article_id: 112131
+revised_title: 'Magnetic Characteristics of Iron-Built Armour-Plated Ships'
+semantic_tags:
+  - Naval Engineering
+  - Magnetism
+  - Compass deviation
+  - Ironclad ships
+  - Shipbuilding
+tldr: The author, J. Belavenetz, examines the magnetic properties of the iron-built armour-plated ship 'Pervenetz' of the Imperial Russian Navy. He observes the compass deviations and magnetic forces at various positions within the ship, providing insights into the ship's magnetism and its impact on navigation. Belavenetz suggests that iron ships should be built with their heads south and that the plating should be in the opposite direction to reduce the semicircular deviation.
+scientific_discipline: Engineering and Technology > Naval Engineering

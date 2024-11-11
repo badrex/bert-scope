@@ -1,0 +1,10 @@
+article_id: rspa_1949_0156
+revised_title: Heisenberg's Theory of Turbulence and its Applications
+semantic_tags:
+  - Turbulence
+  - Fluid Dynamics
+  - Spectra Analysis
+  - Reynolds Number
+  - Eddy Viscosity
+tldr: The author analyzes Heisenberg's elementary theory of turbulence and its applications. They derive explicit solutions for the spectrum of turbulence under stationary and non-stationary conditions. The study focuses on the decay of turbulence and the behavior of the Reynolds number during the decay process. The author's findings provide a more comprehensive understanding of the spectrum and the energy transfer between eddies in turbulent media.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0051'
+revised_title: 'Interpretation of Agonist Affinity Estimations: Reevaluating Distributed Receptor States'
+semantic_tags:
+  - Pharmacology
+  - Receptor theory
+  - Agonist affinity
+  - Receptor distribution
+  - Bioassay modeling
+tldr: The authors discuss the limitations of traditional methods for estimating agonist affinity and propose a new model that accounts for distributed receptor states. They apply this model to experimental data involving 5-hydroxytryptamine and phenoxybenzamine on aortic tissue, demonstrating the potential for overestimation of agonist affinities when using irreversible receptor antagonism. The implications for pharmacologists and medicinal chemists are discussed.
+scientific_discipline: Biology and Life Sciences > Pharmacology

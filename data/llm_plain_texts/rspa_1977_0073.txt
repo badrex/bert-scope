@@ -1,0 +1,10 @@
+article_id: rspa_1977_0073
+revised_title: Angular Momentum in General Relativity: Definition and Asymptotic Behavior
+semantic_tags:
+  - General Relativity
+  - Angular Momentum
+  - Spin Coefficients
+  - Black Holes
+  - Kerr Metric
+tldr: This article investigates angular momentum in axisymmetric space-times and provides a general definition suitable for asymptotically flat spaces. The author focuses on the asymptotic behavior of the definition at infinity and derives a conservation law. The study is essential for understanding rotating black holes and their properties.
+scientific_discipline: Physics > General Relativity

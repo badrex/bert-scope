@@ -1,0 +1,10 @@
+article_id: 'rspb_1912_0034'
+revised_title: 'Improved Method for Opsonic Index Estimations with Separated Blood Corpuscles'
+semantic_tags:
+  - Immunology
+  - Blood analysis
+  - Opsonization
+  - Leukocyte separation
+  - Medical technology
+tldr: The authors developed an improved method for estimating the opsonic index by separating red and white blood corpuscles. They found that the previous method had inaccuracies due to variations in leucocyte content and sedimentation of corpuscles. The new method involves separating leucocytes from red corpuscles using a glass plate technique and preventing sedimentation during incubation with an opsonic mill. This leads to a more accurate estimation of the opsonic index, which is essential for understanding the immune system's ability to fight infections.
+scientific_discipline: Medicine and Health Sciences > Immunology

@@ -1,0 +1,10 @@
+article_id: rsta_1900_0005
+revised_title: 'On the Vibrations in the Field Round a Hertzian Oscillator: A Revised Theory'
+semantic_tags:
+  - Electromagnetic Waves
+  - Oscillators
+  - Damping
+  - Wave Interference
+  - Electric and Magnetic Forces
+tldr: This article presents a revised theory of the vibrations in the field around a Hertzian oscillator. The authors provide a fuller understanding of the nature of the vibrations, taking into account the damping effect of the oscillator and the rapid diminution of maximum charges with time. They discuss the electric and magnetic forces and their components, as well as the modification of the lines of electric force after a few periods of oscillation.
+scientific_discipline: Physics > Electromagnetism

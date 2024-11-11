@@ -1,0 +1,10 @@
+article_id: rspa_1964_0172
+revised_title: Asymptotic Expansions of Whittaker Functions for Large k and Large |K|
+semantic_tags:
+  - Asymptotic Expansions
+  - Whittaker Functions
+  - Differential Equations
+  - Mathematical Physics
+  - Green-Type Expansions
+tldr: The author explores the asymptotic expansions of Whittaker functions for large k and large |K|, using a method derived from differential equations. They apply this method to obtain Green-type expansions, transitional expansions, and uniform expansions for Whittaker functions, with a focus on the special case of parabolic cylinder functions. This work contributes to the understanding of mathematical physics and the behavior of Whittaker functions in various ranges of values.
+scientific_discipline: Mathematics > Applied Mathematics

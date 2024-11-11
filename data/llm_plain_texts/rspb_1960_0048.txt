@@ -1,0 +1,10 @@
+article_id: 'rspb_1960_0048'
+revised_title: 'Effects of X-rays on Radioactive Sulphate Uptake in Tissues and Cartilage'
+semantic_tags:
+  - Radiation Biology
+  - Radioprotection
+  - Mucopolysaccharide Formation
+  - X-ray Effects
+  - Radioactive Tracers
+tldr: The study investigates the effects of X-rays on the uptake of radioactive sulfate in mouse tissues and calf costal cartilage. The results show that X-ray exposure reduces sulfate uptake in cartilage, and replacing air with nitrogen can decrease the radiation's impact. Some substances, like L-cysteine, can protect against the radiation's effects. The findings contribute to understanding the effects of ionizing radiation on mucopolysaccharide secretion.
+scientific_discipline: Biology and Life Sciences > Radiation Biology

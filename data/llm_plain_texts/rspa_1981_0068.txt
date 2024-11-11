@@ -1,0 +1,10 @@
+article_id: rspa_1981_0068
+revised_title: 'Investigating the Secondary Instability of Laminar Flows'
+semantic_tags:
+  - Fluid Dynamics
+  - Hydrodynamics
+  - Boundary Layer
+  - Turbulence
+  - Stability Theory
+tldr: The author develops a new method to predict the high-frequency secondary instability in laminar flows by modifying the kinematic wave theory for dissipative wave systems. The study reveals that secondary instability takes the form of continuous evolution of a wavepacket when the group velocity of secondary disturbances coincides with the phase velocity of the primary wave. This condition is attained at a certain value of the primary-wave amplitude.
+scientific_discipline: Physics > Fluid Dynamics

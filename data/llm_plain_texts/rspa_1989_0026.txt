@@ -1,0 +1,10 @@
+article_id: rspa_1989_0026
+revised_title: Resonant Satellite Orbits and Geopotential Harmonics
+semantic_tags:
+  - Celestial Mechanics
+  - Satellite Orbits
+  - Geopotential Harmonics
+  - Resonance Effects
+  - Orbital Elements
+tldr: The authors analyze resonant satellite orbits and their effects on geopotential harmonics. They provide explicit forms for the rates of change of inclination and eccentricity at common resonances, using a standardized notation and evaluating two subsidiary functions. This analysis has led to the most accurate values available for lumped geopotential harmonics of relevant orders.
+scientific_discipline: Physics > Celestial Mechanics

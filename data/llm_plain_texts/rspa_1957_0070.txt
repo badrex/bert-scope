@@ -1,0 +1,10 @@
+article_id: rspa_1957_0070
+revised_title: 'Magnetic Inhibition of Thermal Convection: Experiments and Theoretical Predictions'
+semantic_tags:
+  - Fluid Dynamics
+  - Magnetohydrodynamics
+  - Thermal Convection
+  - Astrophysics
+  - Geophysics
+tldr: This article describes experiments on the inhibition of thermal convection in mercury layers heated from below, with an external magnetic field applied. The results confirm the theoretical relation derived by Chandrasekhar, showing that the critical Rayleigh number for the onset of instability is affected by the magnetic field. The findings have implications for understanding thermal instability in astrophysical and geophysical contexts where both rotation and magnetic fields are present.
+scientific_discipline: Physics > Fluid Dynamics

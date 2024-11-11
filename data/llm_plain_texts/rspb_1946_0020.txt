@@ -1,0 +1,10 @@
+article_id: 'rspb_1946_0020'
+revised_title: 'Deciphering the Chemistry Behind the Gram Staining Reaction'
+semantic_tags:
+  - Bacteriology
+  - Microbiology
+  - Gram Staining
+  - Nucleoprotein
+  - Bacterial Structure
+tldr: The authors conducted experiments to understand the chemistry behind the Gram staining reaction for microorganisms. They found that the essential part of the Gram-positive cell is a nucleoprotein formed by the combination of ribonucleic acid with a basic protein in the cytoskeleton. The stripping and replating processes could be demonstrated using photomicrographs taken in ultraviolet light. This research provides insights into the mode of action of bacteriostatic agents like gramicidin and penicillin.
+scientific_discipline: Biology and Life Sciences > Microbiology

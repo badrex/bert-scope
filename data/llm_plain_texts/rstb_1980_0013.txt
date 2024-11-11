@@ -1,0 +1,10 @@
+article_id: 'rstb_1980_0013'
+revised_title: 'Nucleotide Sequences of Fowl Plague Virus Genome RNA Terminal Regions'
+semantic_tags:
+  - Virology
+  - Influenza
+  - RNA sequencing
+  - Genome analysis
+  - mRNA
+tldr: The author determined the nucleotide sequences of the 5' and 3' termini of the eight RNA segments of fowl plague virus, an avian influenza A strain. They found common regions at both ends of the segments and unique sequences for each segment. This research helps in understanding the virus's genetic makeup and aids in the development of treatments and vaccines against influenza.
+scientific_discipline: Biology and Life Sciences > Virology

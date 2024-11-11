@@ -1,0 +1,10 @@
+article_id: rspa_1938_0013
+revised_title: 'Statistical Analysis of Isotropic Turbulence'
+semantic_tags:
+  - Fluid Dynamics
+  - Turbulence
+  - Isotropy
+  - Correlation Theory
+  - Statistical Mechanics
+tldr: The authors developed a statistical theory for isotropic turbulence, focusing on the correlation coefficients between velocity components. They introduced the concept of the correlation tensor, which helps determine the correlation coefficients and provided a more efficient method for calculating these coefficients. The study also explored triple correlations and their impact on turbulence dynamics.
+scientific_discipline: Physics > Fluid Dynamics

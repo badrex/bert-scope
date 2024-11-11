@@ -1,0 +1,10 @@
+article_id: 'rspb_1966_0061'
+revised_title: 'Effects of X-Irradiation on Male Germ Cells in Rats'
+semantic_tags:
+  - Radiation Biology
+  - Cell Biology
+  - Reproductive Biology
+  - Testicular Biology
+  - Developmental Biology
+tldr: The study investigates the effects of X-irradiation on male germ cells in rats at birth. The results show that exposure to 100 r at birth has no significant impact on the total population of germ cells during the first 5 days. However, the treated testes differ from controls by the almost complete absence of germinal mitoses and spermatogonia type A. Many transitional cells grow into irregularly-shaped giant cells, which either degenerate or undergo endomitosis. The study concludes that irradiated gonocytes can continue biosynthetic activity but lose their ability to divide.
+scientific_discipline: Biology and Life Sciences > Developmental Biology

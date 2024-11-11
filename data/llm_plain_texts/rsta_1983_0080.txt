@@ -1,0 +1,10 @@
+article_id: rsta_1983_0080
+revised_title: The Evolution of Fundamental Constants Measurement Techniques
+semantic_tags:
+  - Fundamental Constants
+  - Precision Experiments
+  - SI Units
+  - Time and Length Standards
+  - Atomic Mass Standard
+tldr: This article discusses recent precision experiments that have influenced the accepted values of fundamental constants in physics. It covers the measurement of the velocity of light, the redefinition of the meter using the caesium time standard, the development of an atomic mass standard, and the use of the Josephson effect to maintain electrical standards. The article also highlights the importance of accurate measurements in testing theories and improving our understanding of the physical world.
+scientific_discipline: Physics > Electromagnetism

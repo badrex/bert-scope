@@ -1,0 +1,10 @@
+article_id: 'rspa_1932_0186'
+revised_title: 'Investigation of the Lower Pressure Limit in Hydrogen and Oxygen Combustion'
+semantic_tags:
+  - Chemical kinetics
+  - Explosion limits
+  - Reaction chains
+  - Gas diffusion
+  - Combustion
+tldr: 'The authors investigated the lower pressure limit in the chain reaction between hydrogen and oxygen. They studied the influence of temperature, hydrogen-oxygen ratio, presence of inert gases, and vessel diameter on the explosion limits. The results support the theory of reaction chains and the balance between branching and chain carrier removal by diffusion to the vessel wall.'
+scientific_discipline: Chemistry > Chemical kinetics

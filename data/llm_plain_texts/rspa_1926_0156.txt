@@ -1,0 +1,10 @@
+article_id: rspa_1926_0156
+revised_title: 'Determination of Densities of Particles in Smokes'
+semantic_tags:
+  - Particle density
+  - Smoke particles
+  - Ultra-microscopic particles
+  - Electric charge
+  - Brownian motion
+scientific_discipline: Physics > Fluid dynamics
+tldr: The authors developed a method to determine the densities of particles in smokes, which helps in understanding the behavior of ultra-microscopic particles. They found that smoke particles are loosely packed aggregates made of primaries, and their density is significantly lower than the solid material. The study also discusses the applicability of the Cunningham equation to determine the radius of these non-homogeneous particles.

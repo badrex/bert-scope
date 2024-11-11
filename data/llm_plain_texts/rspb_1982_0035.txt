@@ -1,0 +1,10 @@
+article_id: 'rspb_1982_0035'
+revised_title: 'A New Understanding of Osmosis and its Implications for Symmetry'
+semantic_tags:
+  - Osmosis
+  - Membrane Biology
+  - Thermodynamics
+  - Biophysics
+  - Symmetry
+tldr: The author presents a bimodal theory of osmosis, explaining that volume transfer across a membrane pore occurs in two modes. If solute is excluded from the pore, a pressure gradient is established, leading to viscous flow of the solvent. If solute can enter the pore, osmotic flow is a diffusive phenomenon, with no pressure gradient in any part of the pore accessible to solute. This theory challenges the assumption that osmotic and ultrafiltration reflexion coefficients are equal and has implications for understanding the symmetry of biological systems.
+scientific_discipline: Biology and Life Sciences > Membrane Biology

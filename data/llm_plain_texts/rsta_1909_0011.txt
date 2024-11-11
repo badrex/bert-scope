@@ -1,0 +1,10 @@
+article_id: rsta_1909_0011
+revised_title: The Mobilities of Ions Produced by X-Rays in Gases and Vapors
+semantic_tags:
+  - Ion mobility
+  - X-ray interactions
+  - Gas ionization
+  - Electric fields
+  - Ionization chambers
+tldr: The authors conducted experiments to determine the mobilities of positive and negative ions produced by X-rays in various gases and vapors. They developed a method using electric fields and ionization chambers to measure the velocities of ions under different conditions. This research provided valuable information about the structure of ions and the charges they carry, contributing to the understanding of X-ray interactions with matter.
+scientific_discipline: Physics > Electromagnetism

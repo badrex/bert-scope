@@ -1,0 +1,10 @@
+article_id: rspl_1883_0086
+revised_title: 'Determination of Wave-Lengths in the Infra-Red Solar Spectrum'
+semantic_tags:
+  - Spectroscopy
+  - Solar Spectrum
+  - Wave-Lengths
+  - Infra-Red
+  - Angstrom Units
+tldr: The author, Captain W. de W. Abney, examines and compares various maps of the solar spectrum, specifically the infra-red region, and determines the wave-lengths of several prominent lines using mirrors and gratings. He discusses the discrepancies between different maps and methods, and provides accurate measurements for the wave-lengths of these lines.
+scientific_discipline: Physics > Optics

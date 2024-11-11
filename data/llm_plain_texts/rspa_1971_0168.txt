@@ -1,0 +1,10 @@
+article_id: rspa_1971_0168
+revised_title: 'Unified Theory of Supersonic and Hypersonic Flow with Attached Shock Waves over Delta Wings'
+semantic_tags:
+  - Fluid Dynamics
+  - Supersonic Flow
+  - Hypersonic Flow
+  - Delta Wings
+  - Shock Waves
+tldr: This article presents a unified theory for supersonic and hypersonic flow with attached shock waves over delta wings. The theory focuses on the lower surface flow and assumes that the flow in the central region differs slightly from the corresponding two-dimensional flow over a flat plate. The study provides a better understanding of the aerodynamic forces acting on delta wings, which is essential for designing re-entry vehicles and other aircraft.
+scientific_discipline: Physics > Fluid Dynamics

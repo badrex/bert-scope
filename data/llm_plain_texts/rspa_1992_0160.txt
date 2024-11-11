@@ -1,0 +1,10 @@
+article_id: rspa_1992_0160
+revised_title: 'Effects of Suction on the Stability of Flow on a Rotating Disc: A Review'
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer
+  - Rotating Disc
+  - Suction
+  - Cross-Flow Instability
+tldr: This article investigates the effects of uniform suction on the stability of flow on a rotating disc. The author finds that suction has a stabilizing effect on the flow, while blowing is destabilizing. The study also shows that suction increases the critical Reynolds number associated with stationary modes of disturbance and the number of spiral vortices that precede turbulent flow.
+scientific_discipline: Engineering and Technology > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1984_0079
+revised_title: 'Stability and Roll Wave Solutions in Open Inclined Channel Flow'
+semantic_tags:
+  - Fluid Dynamics
+  - Roll Waves
+  - Shallow Water Theory
+  - Hydraulic Engineering
+  - Hopf Bifurcation
+tldr: 'This paper investigates the flow of water down open inclined channels, specifically roll waves, which occur due to turbulent flow and resistance effects from boundary walls. The authors extend Dressler's work by including a term for energy dissipation by shearing normal to the flow. They find that the inclusion of this term does not alter the stability condition of the uniform flow. When the uniform flow is unstable, a one-parameter family of quasi-steady periodic solutions exists, appearing as a Hopf bifurcation out of the uniform flow at the critical value. The paper also provides uniformly valid expansions for these periodic solutions and extends the results to larger amplitudes through numerical integration.'
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspb_1989_0051
+revised_title: 'Exploring the Seven-Dimensional Model of Thalamic Neurons'
+semantic_tags:
+  - Neuronal modeling
+  - Thalamic neurons
+  - Ionic currents
+  - Stability and state diagrams
+  - Neurophysiology
+tldr: The authors present a seven-dimensional model of a thalamic neuron, which expands upon previous three-dimensional models. They demonstrate that the stability and state diagrams for this new model are similar to those of the three-dimensional system. The seven-dimensional model allows for a better understanding of the dynamics of thalamic neurons and provides a new way to represent their behavior through state diagrams, which can be experimentally determined. This model helps explain firing patterns and predict the location of additional currents to explain variations in firing patterns.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

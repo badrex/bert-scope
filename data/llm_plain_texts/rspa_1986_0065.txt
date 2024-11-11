@@ -1,0 +1,10 @@
+article_id: rspa_1986_0065
+revised_title: 'Evaluation of Assumptions and Criteria in Pseudostationary Oblique Shock-Wave Reflections: A Review'
+semantic_tags:
+  - Fluid Dynamics
+  - Shock Waves
+  - Gas Dynamics
+  - Hypersonic Flow
+  - Oblique Shock Reflection
+tldr: This study evaluates the assumptions and criteria used in the analysis of oblique shock-wave reflections in pseudostationary flow. The authors examine the effects of internal degrees of freedom excitation, deviations from the assumption of a perpendicular Mach stem, and the agreement between experimental and numerical transition boundaries. The findings improve the understanding of shock-wave reflections and contribute to the development of more accurate analytical predictions.
+scientific_discipline: Physics > Fluid Dynamics

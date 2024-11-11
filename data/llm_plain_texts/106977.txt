@@ -1,0 +1,10 @@
+article_id: '106977'
+revised_title: 'A Comprehensive Study on the Stability of Ships and the Influence of Fluid Pressure'
+semantic_tags:
+  - Ship Stability
+  - Fluid Mechanics
+  - Naval Architecture
+  - Hydrostatics
+  - Ship Design
+tldr: This article discusses the importance of stability in ships and how it affects their performance at sea. The author investigates the forces that act on a ship when it is deflected from its upright position and how these forces restore the ship to its original position. The author also examines the role of fluid pressure in ship stability and how it influences the shape of the ship's sides above and beneath the waterline. The article provides a general theorem for determining the floating positions of bodies and applies it to the stability of vessels, taking into account the shape of the sides, the angle of inclination from the perpendicular, and other factors that affect stability.
+scientific_discipline: Engineering and Technology > Naval Architecture

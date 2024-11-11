@@ -1,0 +1,10 @@
+article_id: 'rspa_1914_0034'
+revised_title: 'Theoretical Analysis of Black Body Radiation Formula'
+semantic_tags:
+  - Black body radiation
+  - Planck's formula
+  - Wien's constant
+  - Spectral distribution of energy
+  - Electrodynamics
+tldr: The author presents a theoretical analysis of black body radiation and compares it with Planck's formula. They find that the two formulas agree to 3% and that the area under the curves is the same. The author also discusses the limitations of the data and the importance of further research in electrodynamic equations.
+scientific_discipline: Physics > Electromagnetism

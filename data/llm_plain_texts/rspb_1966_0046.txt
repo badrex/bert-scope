@@ -1,0 +1,10 @@
+article_id: 'rspb_1966_0046'
+revised_title: 'Investigating the Mechanism of Oxygen Inhibition on Photosynthesis in Chlorella'
+semantic_tags:
+  - Photosynthesis
+  - Oxygen inhibition
+  - Carbon metabolism
+  - Glycollic acid
+  - Chlorella
+tldr: The authors studied the effect of high partial pressures of oxygen on photosynthesis in the alga Chlorella. They found that increasing oxygen levels led to a decrease in photosynthesis, with a corresponding decrease in the incorporation of carbon dioxide into sugar phosphates and an increase in the production of glycollic acid. The results suggest that the inhibition of photosynthesis is associated with a shift in carbon metabolism, with two-carbon compounds like glycollic acid being produced more readily under high oxygen conditions.
+scientific_discipline: Biology and Life Sciences > Photosynthesis

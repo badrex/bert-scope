@@ -1,0 +1,10 @@
+article_id: rspa_1962_0227
+revised_title: A Discussion on the Present State of Relativity: Quantization of the Gravitational Field
+semantic_tags:
+  - Quantum Gravity
+  - Gravitational Field
+  - Relativity
+  - Electrodynamics
+  - Path-Dependent Variables
+tldr: This article discusses the challenges of quantizing the gravitational field in flat space and proposes a method to avoid these issues. The author suggests working with path-dependent variables, which are independent of the coordinate system, to create a theory that is manifestly covariant and does not introduce unphysical states or an indefinite metric.
+scientific_discipline: Physics > Relativity

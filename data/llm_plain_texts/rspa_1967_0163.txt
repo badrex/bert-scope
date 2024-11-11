@@ -1,0 +1,10 @@
+article_id: rspa_1967_0163
+revised_title: Dynamic Response of an Elastic Half-Space to Time-Dependent Surface Traction Over an Embedded Spherical Cavity
+semantic_tags:
+  - Elasticity
+  - Wave Propagation
+  - Spherical Cavity
+  - Surface Traction
+  - Time-Dependent Forces
+tldr: The authors analyze the dynamic response of an elastic half-space containing a spherical cavity to time-dependent surface tractions. They derive approximate expressions for the displacements due to direct and reflected body waves and discuss the case of an exponentially decaying shock exciting the cavity surface. The results are illustrated by graphs showing the variation of surface displacements at different points on the plane boundary.
+scientific_discipline: Engineering and Technology > Mechanics of Materials

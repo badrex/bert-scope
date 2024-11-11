@@ -1,0 +1,11 @@
+article_id: 'rspa_1991_0125'
+revised_title: 'Errata in Proceedings of the Royal Society of London'
+semantic_tags:
+  - Mathematics
+  - Physics
+  - Corrections
+  - Defective crystals
+  - Ship oscillations
+tldr: This article contains corrections and errata for two papers published in the Proceedings of the Royal Society of London. The corrections address issues in the original papers related to defective crystals and ship oscillations.
+scientific_discipline: Mathematics > Applied Mathematics
+second_level_subdiscipline: Physics > Fluid Dynamics

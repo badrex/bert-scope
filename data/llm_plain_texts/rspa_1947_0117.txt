@@ -1,0 +1,10 @@
+article_id: rspa_1947_0117
+revised_title: 'Investigation of Discharge Currents in Kite Balloons and Atmospheric Electricity'
+semantic_tags:
+  - Atmospheric Electricity
+  - Lightning Protection
+  - Kite Balloons
+  - Electric Fields
+  - Discharge Currents
+tldr: The authors conducted a study on the discharge currents associated with kite balloons and their impact on atmospheric electricity. They observed that charges of the order of coulombs are transferred between balloon cables and the air through currents ranging from milliamperes to kiloamperes. The findings provide valuable insights into the distribution of charges in clouds and the protection of balloons during thunderstorms. 
+scientific_discipline: Physics > Atmospheric Electricity

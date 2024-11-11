@@ -1,0 +1,10 @@
+article_id: rspa_1990_0091
+revised_title: 'A Vertical/Horizontal Splitting Algorithm for Three-Dimensional Tidal and Storm Surge Computations'
+semantic_tags:
+  - Tidal computations
+  - Storm surge
+  - Vertical/horizontal splitting algorithm
+  - Shallow-water equations
+  - Finite difference scheme
+tldr: The authors present a vertical/horizontal splitting algorithm for computing three-dimensional tidal and storm surge flows. The algorithm first solves the shallow-water equations to obtain surface elevation and depth-averaged velocity components, then uses these as input to compute the velocity profiles from the momentum equations. The algorithm is tested on several model problems and found to be accurate and efficient.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

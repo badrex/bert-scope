@@ -1,0 +1,10 @@
+article_id: rspa_1988_0044
+revised_title: Polymer Crystallization Growth Regimes
+semantic_tags:
+  - Polymer Science
+  - Crystal Growth
+  - Kinetics
+  - Thermodynamics
+  - Materials Science
+tldr: This article explores the kinetics of polymer crystallization, focusing on the growth rates of lamellar crystals. The authors develop a microscopic model to analyze the growth regimes and compare it to continuum models. They find that the growth rates differ significantly when edge roughness is significant, and identify two distinct growth regimes: regime I and regime II. The study provides insights into the physical conditions required for each regime and their implications for polymer crystallization.
+scientific_discipline: Materials Science > Polymer Science

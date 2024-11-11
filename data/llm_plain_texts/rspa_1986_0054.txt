@@ -1,0 +1,10 @@
+article_id: rspa_1986_0054
+revised_title: Adiabatic Waves in a Rankine Vortex: A Revisit
+semantic_tags:
+  - Fluid Dynamics
+  - Vortex Dynamics
+  - Compressible Fluids
+  - Wave Propagation
+  - Rankine Vortex
+tldr: This study investigates adiabatic two-dimensional disturbances in a compressible fluid rotating as a Rankine vortex. The research focuses on the low Mach number regime, where it is shown that slow waves in a Rankine vortex in a cylindrical container and in an unbounded vortex are due to a discontinuity in the gradient of the radial component of the disturbance velocity. The study clarifies uncertainties regarding the existence of waves in an unbounded Rankine vortex and provides a simple analytic expression for their growth rates.
+scientific_discipline: Physics > Fluid Dynamics

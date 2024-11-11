@@ -1,0 +1,10 @@
+article_id: rspa_1937_0193
+revised_title: Temperature Effects on Neutron Capture by Various Elements
+semantic_tags:
+  - Neutron physics
+  - Nuclear reactions
+  - Temperature effects
+  - Neutron absorption
+  - Material properties
+tldr: This article investigates the influence of temperature on the capture of neutrons by various elements. The authors found that the temperature effect varies between elements, with some showing stronger selective absorption and lower temperature effects, while others show higher values. The study also discusses the relationship between absorption cross-section and neutron velocity, and the role of excited states in neutron absorption.
+scientific_discipline: Physics > Nuclear Physics

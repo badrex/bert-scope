@@ -1,0 +1,10 @@
+article_id: 108797
+revised_title: 'Magnetic Observations at Kew Observatory: Systematic Laws of Disturbances'
+semantic_tags:
+  - Magnetism
+  - Geomagnetism
+  - Magnetic declination
+  - Solar-diurnal variation
+  - Magnetic disturbances
+tldr: Edward Sabine conducted magnetic observations at the Kew Observatory from 1857 to 1862 and discovered systematic laws governing the disturbances of magnetic declination. He found that easterly and westerly deflections follow distinct and dissimilar patterns, with easterly deflections prevailing during the night and westerly deflections during the day. Sabine's work provided a better understanding of the magnetic disturbances and their causes.
+scientific_discipline: Physics > Electromagnetism

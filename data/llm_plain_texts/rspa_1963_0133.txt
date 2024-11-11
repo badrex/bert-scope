@@ -1,0 +1,10 @@
+article_id: rspa_1963_0133
+revised_title: 'Mass Spectrometric Sampling through a Small Hole in the Adiabatic Flow Region: A Theoretical and Experimental Study'
+semantic_tags:
+  - Mass spectrometry
+  - Gas flow
+  - Adiabatic flow
+  - Ionization chamber
+  - Gas analysis
+tldr: This article presents a theoretical and experimental study on mass spectrometric sampling through a small hole in the adiabatic flow region. The authors develop a simple theoretical treatment of sampling by a mass spectrometer through a pinhole at pressures where the mean path of the molecules is small compared to the hole's diameter. They derive an expression that relates the ion beam intensity to the partial pressures of the components of a mixture on the high-pressure side of the sampling pinhole. Experiments were conducted to test the validity of the theoretical expression, and its applications to the analysis of chemically reacting and other systems were discussed.
+scientific_discipline: Physics > Fluid Dynamics

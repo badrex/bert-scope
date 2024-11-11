@@ -1,0 +1,10 @@
+article_id: 'rspb_1983_0090'
+revised_title: 'Opponent Color Coding and Optimum Color Information Transmission in the Retina'
+semantic_tags:
+  - Color Vision
+  - Opponent Process Theory
+  - Information Theory
+  - Retinal Processing
+  - Trichromacy
+tldr: This study investigates the purpose of opponent type processing in the visual system and the principles that necessitate it. The authors find that opponent coding and major effects of chromatic adaptation serve as information compression and redundancy-reducing mechanisms for perceived color information. They also argue that typical color spectra can effectively be represented by three significant degrees of freedom, making up a trichromatic system.
+scientific_discipline: Biology and Life Sciences > Neuroscience

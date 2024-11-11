@@ -1,0 +1,10 @@
+article_id: rspa_1966_0069
+revised_title: 'Experimental Investigation of Capillary Instability in Liquid Jets'
+semantic_tags:
+  - Fluid Dynamics
+  - Capillary Instability
+  - Jet Stability
+  - Hydrodynamics
+  - Viscosity Effects
+tldr: This article presents experiments on the capillary instability of a liquid jet, focusing on the effects of audio frequency disturbances on the stability of a vertical water jet. The authors used stroboscopic flash photography to directly measure the growth rate of disturbances and investigated the dispersion curve for disturbances on the jet. They also examined the effects of viscosity on the instability using glycerine-water solutions, finding good agreement with Chandrasekhar's calculations.
+scientific_discipline: Physics > Fluid Dynamics

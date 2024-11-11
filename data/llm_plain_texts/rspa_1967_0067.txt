@@ -1,0 +1,10 @@
+article_id: rspa_1967_0067
+revised_title: 'Collision Broadening and Shift in the \#x3BB;6573 Line of Calcium: Experimental Results and Analysis'
+semantic_tags:
+  - Spectroscopy
+  - Atomic Physics
+  - Collision Effects
+  - Intensity Distribution
+  - Spectral Lines
+tldr: The authors conducted experiments to measure the effects of foreign gas pressures on the intensity distribution in a spectral line of calcium. They used a high-resolution grating spectrograph to study the broadening and shift of the calcium line when perturbed by helium, neon, argon, and krypton. The results showed a linear variation of both broadening and shift with perturbing particle density, as predicted by the Lindholm impact theory. However, a quantitative interpretation demands the use of an interaction potential between radiating and perturbing atoms containing both attractive and repulsive components.
+scientific_discipline: Physics > Atomic Physics

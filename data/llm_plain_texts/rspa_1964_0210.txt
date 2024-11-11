@@ -1,0 +1,10 @@
+article_id: rspa_1964_0210
+revised_title: Plastic Flow and Fracture of Glass: A New Approach
+semantic_tags:
+  - Glass Science
+  - Elastic-Plastic Theory
+  - Material Strength
+  - Indentation Hardness
+  - Static Fatigue
+tldr: The author presents a new approach to understanding the mechanical properties of glass by treating it as an elastic-plastic solid. They develop a complete theory of glass flow and strength, which explains the discrepancies between measured and theoretical values in previous brittle fracture theories. The new approach accounts for plastic flow in glass and its time-dependent behavior, leading to a comprehensive understanding of glass strength, including static fatigue and aging.
+scientific_discipline: Materials Science > Glass Science

@@ -1,0 +1,10 @@
+article_id: 'rspa_1935_0115'
+revised_title: 'The Evaporation of Adsorbed Atoms: Quantum Mechanics and Solid Surfaces'
+semantic_tags:
+  - Quantum mechanics
+  - Surface chemistry
+  - Adsorption
+  - Evaporation
+  - Solid-state physics
+tldr: This paper presents a study on the evaporation of adsorbed atoms from solid surfaces using quantum mechanics. The authors develop a formula for the probability of evaporation, considering the transfer of a quantum of vibrational energy from the solid to the adsorbed atom. They also discuss the limitations of their theory and the potential impact of many-quantum emissions on the evaporation process. The study provides insights into the average lifespan of adsorbed atoms on surfaces and can be applied to various adsorption systems.
+scientific_discipline: Physics > Surface chemistry

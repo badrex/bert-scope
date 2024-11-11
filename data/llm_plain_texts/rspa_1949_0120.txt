@@ -1,0 +1,10 @@
+article_id: rspa_1949_0120
+revised_title: Electroviscosity: Extensions of the Theory of Flow of Liquids in Narrow Channels
+semantic_tags:
+  - Electroviscosity
+  - Fluid dynamics
+  - Electrical double layer
+  - Viscosity
+  - Ion concentration
+scientific_discipline: Physics > Fluid mechanics
+tldr: This article extends the theory of electroviscosity, focusing on the flow of liquids in narrow channels. The authors modify and expand upon previous work, considering the effects of electrical double layers and ion concentrations on the apparent viscosity of liquids. They derive equations for potential distribution and flow between parallel plates, providing insights into the behavior of liquids under specific conditions.

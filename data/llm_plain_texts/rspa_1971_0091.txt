@@ -1,0 +1,10 @@
+article_id: rspa_1971_0091
+revised_title: 'Observation of Preferential Pairing in Cadmium Sulphide through Electron Radiation Damage'
+semantic_tags:
+  - Semiconductor Physics
+  - Cathodoluminescence
+  - Electron Radiation Damage
+  - Preferential Pairing
+  - Donor-Acceptor Pair Recombination
+tldr: The authors conducted an experiment to study the effects of preferential pairing in cadmium sulphide crystals using electron radiation damage. They discovered that irradiating the crystals with electrons caused a shift in the peak positions of the donor-acceptor pair cathodoluminescence emission band. This shift was observed in samples that were previously treated with excess sulphur, suggesting that preferential pairing of donor and acceptor centers may occur due to their coulombic interaction.
+scientific_discipline: Physics > Semiconductor Physics

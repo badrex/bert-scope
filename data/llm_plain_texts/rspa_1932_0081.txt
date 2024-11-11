@@ -1,0 +1,10 @@
+article_id: rspa_1932_0081
+revised_title: 'Atomic Scattering Power of Iron: A Comprehensive Study'
+semantic_tags:
+  - X-ray diffraction
+  - Crystallography
+  - Atomic scattering
+  - Iron properties
+  - X-ray wavelengths
+tldr: This article presents an experimental investigation of the atomic scattering factor of iron using X-rays of various wavelengths. Powder photographs of an iron-aluminum alloy were taken with different radiations, and the intensities of the resulting lines were measured photometrically. The results show a significant drop in the atomic scattering power near the absorption edge and provide valuable insights into the behavior of iron under different X-ray wavelengths.
+scientific_discipline: Physics > Crystallography

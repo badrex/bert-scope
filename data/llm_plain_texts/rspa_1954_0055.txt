@@ -1,0 +1,10 @@
+article_id: rspa_1954_0055
+revised_title: Singularities of Electron Kernel Functions in External Electromagnetic Fields
+semantic_tags:
+  - Quantum Field Theory
+  - Electromagnetic Fields
+  - Kernel Functions
+  - Perturbation Theory
+  - Dirac Equation
+tldr: This article investigates the singularities of electron kernel functions in an external electromagnetic field. The authors derive the kernel functions from solutions of the second-order wave equation using the proper-time parametrization. They introduce iterated kernel functions and develop a gauge-independent perturbation theory. The separation of singular parts is done in terms of iterated kernel functions valid in the absence of an electromagnetic field, and the singular expressions are obtained in a more transparent form than those given by Heisenberg.
+scientific_discipline: Physics > Electromagnetism

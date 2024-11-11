@@ -1,0 +1,10 @@
+article_id: rspa_1963_0181
+revised_title: Accurate Determination of Ammonium Oxamate Structure
+semantic_tags:
+  - Crystallography
+  - Organic Chemistry
+  - Bond Lengths
+  - Diffractometers
+  - Intensity Measurements
+tldr: The authors used a three-circle diffractometer and a xenon-filled proportional counter to study the crystal structure of ammonium oxamate. They collected accurate three-dimensional intensity data and performed a least-squares refinement. The positions of hydrogen atoms were obtained and refined. The oxamate ion was found to be planar, and the ammonium ion tetrahedral. The study provided detailed information about bond lengths in the compound and its related molecules.
+scientific_discipline: Chemistry > Organic Chemistry

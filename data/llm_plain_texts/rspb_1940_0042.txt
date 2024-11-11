@@ -1,0 +1,10 @@
+article_id: 'rspb_1940_0042'
+revised_title: 'The Heart Growth Dynamics and Ageing in Chickens'
+semantic_tags:
+  - Heart growth
+  - Ageing
+  - Chicken physiology
+  - Growth equation
+  - Gompertz equation
+tldr: This study investigates the growth energy and ageing of the chicken's heart. The growth energy is found to decline exponentially with age, and the growth of the heart can be described using a Gompertz equation. The research discusses the relationship between growth, cell movement, metabolism, and differentiation, and the relevance of the Gompertz equation to problems of relative growth and senescence.
+scientific_discipline: Biology and Life Sciences > Physiology

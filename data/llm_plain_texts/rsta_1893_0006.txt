@@ -1,0 +1,10 @@
+article_id: 'rsta_1893_0006'
+revised_title: 'The Mechanical Equivalent of Heat and the Relation between Electrical and Mechanical Units'
+semantic_tags:
+  - Thermodynamics
+  - Calorimetry
+  - Electrical measurements
+  - Heat capacity
+  - Temperature measurement
+tldr: The author investigates the value of the mechanical equivalent of heat and the relation between electrical and mechanical units. They overcome challenges in temperature measurement and the uncertainty of the thermal unit, leading to a more accurate determination of the mechanical equivalent of heat. The study also highlights the importance of using consistent and reliable methods for measuring temperature and electrical resistance in calorimetry.
+scientific_discipline: Physics > Thermodynamics

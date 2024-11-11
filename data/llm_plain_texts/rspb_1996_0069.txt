@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0069'
+revised_title: 'Exploring the Oscillating Threshold Model for Express Saccades'
+semantic_tags:
+  - Oculomotor research
+  - Saccadic eye movements
+  - Oscillations in the central nervous system
+  - Visual perception
+  - Cognitive functions
+tldr: The authors propose an alternative model for express saccades, called the oscillating threshold model, which suggests that the same central-nervous element generates saccades in both overlap and gap paradigms. The model is based on the physiological processes of oscillations in the central nervous system and the influence of slow cortical potentials on behavior. This alternative model offers testable predictions and provides a simpler functional interpretation of various phenomena related to saccadic eye movements.
+scientific_discipline: Biology and Life Sciences > Neuroscience

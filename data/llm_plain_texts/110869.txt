@@ -1,0 +1,10 @@
+article_id: 110869
+revised_title: 'Liquefaction and Solidification of Gases: Faraday's Experiments and Findings'
+semantic_tags:
+  - Cryogenics
+  - Gas liquefaction
+  - Chemical reactions
+  - Temperature effects
+  - Gas properties
+tldr: 'Michael Faraday conducted experiments to determine the capability of various gases to turn into liquids or solids using mechanical compression and temperature depression. He found that several gases, such as chlorine, cyanogen, and ammonia, could be condensed into liquids without needing much additional pressure. Faraday also discovered that some gases, like nitric oxide and olefiant gas, were difficult to preserve in the tubes due to their chemical reactions with the cements. He observed that certain gases, like nitrous oxide, could be solidified and might be used in frigorific processes to achieve colder temperatures than with carbonic acid.'
+scientific_discipline: Chemistry > Chemical reactions and properties

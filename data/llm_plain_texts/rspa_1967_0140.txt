@@ -1,0 +1,10 @@
+article_id: rspa_1967_0140
+revised_title: Identification of Nitrosoformaldehyde Spectrum and Its Formation
+semantic_tags:
+  - Photochemistry
+  - Nitrosoformaldehyde
+  - Spectroscopy
+  - Flash photolysis
+  - Nitric oxide
+tldr: The authors investigate the formation and spectrum of nitrosoformaldehyde through flash photolysis experiments. They find that the transient spectrum, previously thought to be methoxyl, is produced by flashing formaldehyde, acetaldehyde, methyl formate, or glyoxal in the presence of nitric oxide. The spectrum consists of diffuse bands with centers at 2070, 2043, 2020-2000, and 1982 A, which possibly form a progression in the NCO bending mode. The reaction leading to the decay of nitrosoformaldehyde has not been positively identified, and alternative possibilities are discussed.
+scientific_discipline: Chemistry > Photochemistry

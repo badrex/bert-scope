@@ -1,0 +1,10 @@
+article_id: rspa_1935_0146
+revised_title: 'Riemann Zeta-Function Zeros and Their Distribution'
+semantic_tags:
+  - Riemann Hypothesis
+  - Number Theory
+  - Complex Analysis
+  - Prime Numbers
+  - Mathematical Functions
+tldr: 'The author, E. C. Titchmarsh, investigates the distribution of zeros of the Riemann zeta-function, a fundamental concept in number theory. He examines the calculations and methods used by previous authors, and presents new results and theoretical considerations. The study of the zeros of the zeta-function is crucial for understanding the distribution of prime numbers and testing the Riemann Hypothesis.'
+scientific_discipline: Mathematics > Number Theory

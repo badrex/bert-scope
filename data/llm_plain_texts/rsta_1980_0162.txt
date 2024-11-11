@@ -1,0 +1,10 @@
+article_id: rsta_1980_0162
+revised_title: Spectroscopic Observations of Middle Atmosphere Composition
+semantic_tags:
+  - Atmospheric Chemistry
+  - Remote Sensing
+  - Spectroscopy
+  - Stratosphere
+  - Middle Atmosphere
+tldr: This article reviews the advantages and disadvantages of spectroscopic techniques for determining the composition of the middle atmosphere, which lies between 10 and 150 km altitude. It discusses various instruments and techniques used, such as filter radiometers, grating spectrometers, and Michelson interferometers, and highlights their applications in atmospheric studies. The article also describes a recent balloon experiment that carried infrared spectrometers into the stratosphere.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

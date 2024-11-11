@@ -1,0 +1,10 @@
+article_id: 'rspa_1909_0022'
+revised_title: 'Investigation of Gas Emission During Diamond Conversion to Coke Using Cathode Rays'
+semantic_tags:
+  - 'Cathode rays'
+  - 'Diamond conversion'
+  - 'Coke production'
+  - 'Spectrum analysis'
+  - 'Rare gases'
+tldr: 'The authors conducted experiments to determine if any gas was emitted by diamonds during their conversion into coke using cathode rays. They compared the spectra of the residual gas before and after the conversion and found no evidence of rare gases being released. The study concluded that the conversion of diamond into coke does not emit any gas other than common gases found in cathode ray tubes.'
+scientific_discipline: 'Physics > Materials Science'

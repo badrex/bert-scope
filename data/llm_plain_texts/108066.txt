@@ -1,0 +1,10 @@
+article_id: 108066
+revised_title: Hamilton's General Method in Dynamics: Characteristic Function and Varying Action
+semantic_tags:
+  - Mathematical Dynamics
+  - Differential Equations
+  - Mechanics
+  - Optics
+  - Partial Differential Equations
+tldr: William Rowan Hamilton introduced a method to reduce the study of the motions of all free systems of attracting or repelling points to the search and differentiation of one central relation, or characteristic function. This method simplifies the complexity of solving equations in dynamics and offers a new approach to understanding the forces and motions of bodies.
+scientific_discipline: Mathematics > Differential Equations

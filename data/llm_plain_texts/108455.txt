@@ -1,0 +1,10 @@
+article_id: 108455
+revised_title: Investigating Induced Contraction and its Connection to Electromagnetic Discharge
+semantic_tags:
+  - Electrophysiology
+  - Muscle Contraction
+  - Electromagnetic Discharge
+  - Galvanometer
+  - Nerve Function
+tldr: The author, Carlo Matteucci, conducted experiments on induced muscle contraction and its connection to electromagnetic discharge. Despite facing challenges with the galvanometer, he found that induced contraction was due to an electric discharge and that muscle contraction was accompanied by a development of electricity. The author provided several experiments to support this conclusion.
+scientific_discipline: Physics > Electromagnetism

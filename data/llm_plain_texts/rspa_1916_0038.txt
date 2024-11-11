@@ -1,0 +1,10 @@
+article_id: 'rspa_1916_0038'
+revised_title: 'Magnetic Shielding of Large Spaces: Experimental Measurement and Analysis'
+semantic_tags:
+  - Electromagnetism
+  - Magnetic shielding
+  - Electromagnetic fields
+  - Permanent magnetization
+  - Leakage fields
+tldr: The authors conducted experiments to study the magnetic shielding of large spaces and measured the effectiveness of various materials. They found that the leakage fields in their experiments were four times higher than expected, emphasizing the importance of thorough shielding in such studies. The results allowed them to examine the behavior of iron under minimal magnetic force.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: 101041
+revised_title: Observations on the Baroscope and Thermoscope: Temperature and Atmospheric Pressure
+semantic_tags:
+  - Barometer
+  - Thermometer
+  - Atmospheric pressure
+  - Temperature measurement
+  - Weather observation
+tldr: In this article, Drs. Wallis and Beale describe their observations of the baroscope and thermoscope, instruments used to measure atmospheric pressure and temperature, respectively. They discuss the behavior of the baroscope and thermoscope during various weather conditions and make inferences about the nature of springs and the sources of underground water. They also provide insights into the limitations of their instruments and suggest possible improvements.
+scientific_discipline: Physics > Meteorology

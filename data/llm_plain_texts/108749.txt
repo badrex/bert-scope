@@ -1,0 +1,10 @@
+article_id: 108749
+revised_title: The Influence of Atmospheric Pressure on Combustion and Candle Burning
+semantic_tags:
+  - Combustion
+  - Atmospheric pressure
+  - Candle burning
+  - Gas laws
+  - Chemical reactions
+tldr: This article discusses the influence of atmospheric pressure on combustion and candle burning. The author conducted experiments on the summit of Mont Blanc and found that the rate of combustion of candles is independent of the density of the air. The author also repeated experiments with fuses of shells and found that the rate of combustion is subject to considerable retardation due to the reduction of atmospheric pressure, which causes a more scanty supply of oxygen. The results of these experiments led to the development of a law that can be used to calculate the time of burning for time-fuses in different atmospheric pressures.
+scientific_discipline: Chemistry > Chemical reactions and kinetics

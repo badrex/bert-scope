@@ -1,0 +1,10 @@
+article_id: rsta_1955_0014
+revised_title: Reinforcement of Isotropic Materials by Inextensible Cords
+semantic_tags:
+  - Elasticity
+  - Material Science
+  - Reinforcement
+  - Inextensible Cords
+  - Deformation
+tldr: The authors explore the theory of large elastic deformations of incompressible, isotropic materials reinforced with inextensible cords. They examine various examples of deformations, such as the pure homogeneous strain of a thin uniform sheet, the flexure of a cuboid, and the extension and flexure of a thin rectangular sheet. They obtain relations for determining the tensions in the cords in terms of the applied forces and deformation parameters.
+scientific_discipline: Engineering and Technology > Material Science

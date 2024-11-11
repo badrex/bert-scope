@@ -1,0 +1,10 @@
+article_id: rsta_1901_0024
+revised_title: Ellipsoidal Harmonic Analysis and Applications
+semantic_tags:
+  - Ellipsoidal Harmonics
+  - Mathematical Physics
+  - Applied Mathematics
+  - Fluid Dynamics
+  - Celestial Mechanics
+tldr: The author presents a method for analyzing ellipsoidal harmonics and their applications in various fields, including fluid dynamics and celestial mechanics. The study focuses on the mathematical representation of ellipsoids and the development of functions to describe their properties. The author demonstrates the potential of this analysis in solving problems related to mass distribution and dynamics in different contexts.
+scientific_discipline: Mathematics > Applied Mathematics

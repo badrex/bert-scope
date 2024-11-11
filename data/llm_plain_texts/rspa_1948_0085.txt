@@ -1,0 +1,10 @@
+article_id: rspa_1948_0085
+revised_title: 'Determination of the Velocity of Electromagnetic Waves Using Cavity Resonator'
+semantic_tags:
+  - Electromagnetic waves
+  - Cavity resonator
+  - Resonant frequency
+  - Velocity of propagation
+  - Experimental physics
+tldr: The authors measured the frequency of resonance of an evacuated cylindrical cavity resonator and determined the velocity of propagation of electromagnetic waves. Their experiment provided a more accurate and precise method for measuring the velocity of light, which is essential for calculating resonant frequencies of electrical circuits and radio navigation methods. The result obtained was 299,792 km/s, which is lower than the previously published values due to the improved accuracy of the measurements.
+scientific_discipline: Physics > Electromagnetism

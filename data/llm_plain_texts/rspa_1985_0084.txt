@@ -1,0 +1,10 @@
+article_id: 'rspa_1985_0084'
+revised_title: 'Erratum: Diffraction of Elastic Waves by a Wedge with Free Boundaries'
+semantic_tags:
+  - Elastic waves
+  - Diffraction
+  - Fourier series
+  - Wave propagation
+  - Wave mechanics
+tldr: This article is an erratum for a previous paper on the diffraction of elastic waves by a wedge with free boundaries. The author corrects a mistake in the original paper, stating that the complete elastodynamic field cannot be found using half-range Fourier sine series alone. Instead, a half-range cosine series must also be added to satisfy the equations of motion and Hooke's law in the interior of the wedge.
+scientific_discipline: Physics > Wave mechanics

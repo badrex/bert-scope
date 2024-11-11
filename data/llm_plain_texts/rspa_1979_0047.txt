@@ -1,0 +1,11 @@
+article_id: rspa_1979_0047
+revised_title: Distributed Soliton Solution of the Korteweg-de Vries Equation
+semantic_tags:
+  - Solitons
+  - Nonlinear Waves
+  - Korteweg-de Vries Equation
+  - Resonant Interactions
+  - Asymptotic Analysis
+tldr: The author presents a distributed soliton solution for the Korteweg-de Vries equation, which describes the interaction of skewed one-dimensional solitons. The solution is derived from a resonant interaction of solitons and is analyzed using asymptotic methods. The distributed soliton solution reveals a fascinating structure that resembles discrete soliton interactions but with regions of rational functions instead of exponential variations.
+scientific_discipline: Mathematics > Applied Mathematics
+sub_discipline: Nonlinear Partial Differential Equations

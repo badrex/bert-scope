@@ -1,0 +1,10 @@
+article_id: rspa_1970_0082
+revised_title: Scintillation of Extended Radio Sources with Finite Bandwidth
+semantic_tags:
+  - Radio Astronomy
+  - Scintillation
+  - Radio Waves
+  - Electromagnetic Waves
+  - Signal Processing
+tldr: This article investigates the scintillation of extended radio sources when the receiver has a finite bandwidth. The authors develop a theory for the scintillations produced by a thick scattering medium when the source subtends a finite small angle at the receiver and when the receiver bandwidth is not zero. They discuss the scintillation index, scintillation visibility, and the spatial autocorrelation function of the fluctuations of received intensity for some particular cases of source brightness function, receiver bandpass function, and autocorrelation function of irregularity in the medium.
+scientific_discipline: Physics > Electromagnetism

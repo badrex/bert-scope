@@ -1,0 +1,10 @@
+article_id: 111239
+revised_title: 'On the Conjugate Relations of Two Rational Integral Functions and Sturm's Functions'
+semantic_tags:
+  - Algebraic Geometry
+  - Number Theory
+  - Sturm's Theorem
+  - Linear Algebra
+  - Advanced Calculus
+tldr: The author, J.J. Sylvester, explores the conjugate relations of two rational integral functions and their application to Sturm's Functions and the Theory of Greatest Algebraical Common Measure. He discusses the theory of residues, Bezoutic secondaries, syzygetic multipliers, and the Bezoutiant, a quadratic function related to the coefficients of the primary system of Bezoutics. The author also examines Sturm's theorem, the theory of interpositions, and the properties of the Bezoutiant in various contexts.
+scientific_discipline: Mathematics > Algebraic Geometry

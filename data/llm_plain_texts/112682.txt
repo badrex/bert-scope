@@ -1,0 +1,10 @@
+article_id: 112682
+revised_title: 'Solving Airy's Partial Differential Equations'
+semantic_tags:
+  - Partial Differential Equations
+  - Mathematical Analysis
+  - Fluid Dynamics
+  - Elastic Fluids
+  - Equation of Condition
+tldr: The author investigates the integrability of partial differential equations proposed by Mr. Airy and demonstrates that they can be derived from an equation of the form f(x, y, z, p, q) = 0. The author also discusses the application of these findings to the equations applicable to the motion of an elastic fluid along the axis of a tube, highlighting the importance of the equation of condition.
+scientific_discipline: Mathematics > Mathematical Analysis

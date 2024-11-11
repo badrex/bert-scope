@@ -1,0 +1,10 @@
+article_id: rspa_1965_0079
+revised_title: Gaseous Dispersion in Laminar Flow through a Circular Tube: Experimental Study and Analytical Solutions
+semantic_tags:
+  - Fluid Dynamics
+  - Gas Dispersion
+  - Laminar Flow
+  - Mass Transfer
+  - Diffusion
+tldr: This study investigates the dispersion of a gas pulse injected into a flowing gas in a circular tube. The authors found that the experimental results agree well with the analytical solution for a straight tube by Aris. The presence of bends and constrictions affects the dispersion coefficient, and the data provide a simple and accurate way to study diffusion in gas mixtures.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1946_0028
+revised_title: Rheological Properties of Dispersions: A Theoretical Approach
+semantic_tags:
+  - Rheology
+  - Dispersions
+  - Fluid mechanics
+  - Elasticity
+  - Colloidal systems
+tldr: The authors develop a theory for the flow properties of substances that exhibit elastic recovery, focusing on dispersions of elastic spheres in a Newtonian fluid. They derive a set of differential equations and relate the parameters to the structural properties of the materials, providing a general framework for understanding the behavior of these substances.
+scientific_discipline: Physics > Fluid mechanics

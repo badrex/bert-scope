@@ -1,0 +1,10 @@
+article_id: rspa_1934_0077
+revised_title: 'Diplon Reactions and the Discovery of Neutron Emission'
+semantic_tags:
+  - Nuclear Physics
+  - Isotope Transmutation
+  - Neutron Emission
+  - Heavy Hydrogen
+  - Nuclear Reactions
+tldr: The authors conducted experiments using heavy hydrogen (deuterium) and observed a significant reaction when bombarding deuterium with deuterons (diplons). This reaction resulted in the emission of charged particles, specifically protons. The authors concluded that the process involved the formation of a helium nucleus, which then broke up rapidly, releasing protons and a hydrogen isotope with a mass of 3. This discovery provided evidence for the existence of a stable isotope of hydrogen with a mass of 3, known as tritium.
+scientific_discipline: Physics > Nuclear Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1972_0099
+revised_title: Temperature Independence of the de Haas-van Alphen Amplitude in Mercury
+semantic_tags:
+  - de Haas-van Alphen effect
+  - Mercury
+  - Electron-phonon scattering
+  - Temperature dependence
+  - Many-body theory
+tldr: The authors studied the amplitude of the de Haas-van Alphen effect in mercury at different temperatures and magnetic fields. They found that the amplitude remained independent of temperature, contrary to expectations. This surprising result can be explained by a many-body theory of electron-phonon scattering on the de Haas-van Alphen amplitude.
+scientific_discipline: Physics > Condensed Matter Physics

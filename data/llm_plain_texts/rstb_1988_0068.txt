@@ -1,0 +1,10 @@
+article_id: 'rstb_1988_0068'
+revised_title: 'Empirical Approaches to Frequency-Dependent Selection and Competition'
+semantic_tags:
+  - Population Biology
+  - Competition Models
+  - Frequency-Dependent Selection
+  - Density and Frequency Interactions
+  - Plant Competition
+tldr: This article examines the relationship between competition and selection using competition models and explores the interaction of density and frequency in determining competitive outcomes. The authors review the literature on frequency-dependent competitive interactions among genotypes within populations and discuss the implications of frequency-dependent selection, competition, and coexistence in natural populations.
+scientific_discipline: Biology and Life Sciences > Population Biology

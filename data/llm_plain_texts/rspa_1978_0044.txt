@@ -1,0 +1,10 @@
+article_id: rspa_1978_0044
+revised_title: 'Perturbation Solution to Wien Dissociation in Weak Electrolytes'
+semantic_tags:
+  - Electrochemistry
+  - Weak electrolytes
+  - Wien dissociation
+  - Perturbation techniques
+  - Ion-pair distribution function
+tldr: The authors developed a perturbation technique to analyze the problem of Wien dissociation in weak electrolytes. They derived an equation for the ion-pair distribution function and found that the relative increase in the dissociation constant is related to the applied electric field intensity. The technique can be applied to other problems in the field, such as non-isotropic media and ion-exchange resins.
+scientific_discipline: Chemistry > Electrochemistry

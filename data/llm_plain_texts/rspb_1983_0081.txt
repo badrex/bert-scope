@@ -1,0 +1,10 @@
+article_id: 'rspb_1983_0081'
+revised_title: 'Synaptic Vesicle Recycling and Concanavalin A Uptake in Rat Brain Synaptosomes'
+semantic_tags:
+  - Neuroscience
+  - Synaptic vesicles
+  - Endocytosis
+  - Concanavalin A
+  - Neurotransmitter release
+tldr: The study investigates the binding and uptake of concanavalin A into rat brain synaptosomes, providing evidence for synaptic vesicle recycling. The research shows that synaptosomes internalize bound lectin through endocytosis and that synaptic vesicles and cisternae become labeled. When exocytosis is induced, synaptic vesicle membrane components are incorporated into the plasma membrane, increasing concanavalin A binding. This process demonstrates the transient incorporation of synaptic vesicle membrane glycoproteins during transmitter release.
+scientific_discipline: Biology and Life Sciences > Neuroscience

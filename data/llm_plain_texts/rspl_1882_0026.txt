@@ -1,0 +1,10 @@
+article_id: rspl_1882_0026
+revised_title: 'Further Observations on Liquid Jets and the Influence of Electricity and Soap'
+semantic_tags:
+  - Fluid Dynamics
+  - Capillary Forces
+  - Electrification
+  - Soap Chemistry
+  - Jet Physics
+tldr: The author, Lord Rayleigh, conducted experiments on liquid jets and observed the influence of electricity and soap on their behavior. He discovered that soap, particularly when mixed with milk, can cause the jet to cohere and not scatter. The presence of electricity can also prevent scattering, and the author explains the underlying mechanisms behind these phenomena.
+scientific_discipline: Physics > Fluid Dynamics

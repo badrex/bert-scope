@@ -1,0 +1,10 @@
+article_id: 'rspb_1982_0081'
+revised_title: 'Efferent Regulation of Hair Cells in the Turtle Cochlea: Implications for Sensitivity and Tuning'
+semantic_tags:
+  - 'Hair cells'
+  - 'Cochlea'
+  - 'Efferent regulation'
+  - 'Turtle'
+  - 'Auditory system'
+tldr: Intracellular recordings from hair cells in the turtle cochlea revealed that efferent regulation causes hyperpolarizing synaptic potentials, reducing the sensitivity of hair cells to tones around their characteristic frequency. This efferent stimulation also degrades the hair cell's tuning properties, which could account for a threshold elevation of at least 70 dB in the auditory nerve fibers. The findings provide insights into the efferent inhibition mechanism in the turtle cochlea and its impact on auditory sensitivity and frequency selectivity.
+scientific_discipline: Biology and Life Sciences > Neuroscience

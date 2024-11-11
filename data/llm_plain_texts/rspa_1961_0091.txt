@@ -1,0 +1,10 @@
+article_id: rspa_1961_0091
+revised_title: Dynamics of Articulated Pipes Conveying Fluid: Experiments and Observations
+semantic_tags:
+  - Fluid Dynamics
+  - Pipe Conveyance
+  - Stability Analysis
+  - Fluid Mechanics
+  - Experimental Physics
+tldr: This article presents experiments conducted on systems of articulated pipes conveying fluid to study their dynamics and stability. The experiments aimed to confirm theoretical stability conditions and demonstrate various types of instabilities, such as buckling and amplified vibrations, observed in these systems. The findings provide insights into the behavior of fluid dynamics in pipe systems and have implications for engineering applications.
+scientific_discipline: Physics > Fluid Dynamics

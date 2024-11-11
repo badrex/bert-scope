@@ -1,0 +1,10 @@
+article_id: rspa_1942_0010
+revised_title: 'Studies on Sensitized Explosions, Atomic Interactions, and Molecular Structures'
+semantic_tags:
+  - Chemical kinetics
+  - Atomic interactions
+  - Molecular structure
+  - Electron diffraction
+  - Turbulence in fluid dynamics
+tldr: This collection of abstracts presents research on various topics, including the study of sensitized explosions, atomic interactions, molecular structures, and fluid dynamics. Researchers investigated the chain-thermal theory of reactions between hydrogen and oxygen sensitized by nitrogen peroxide or nitrosyl chloride. They also explored the self-consistent field for methane, the second virial and viscosity coefficients of gaseous helium, and the arrangement of long-chain organic molecules using electron diffraction patterns. Additionally, the paper discusses the transition from laminar to turbulent flow in boundary layers on streamline bodies of revolution in a water stream.
+scientific_discipline: Physics > Optics

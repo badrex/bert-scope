@@ -1,0 +1,10 @@
+article_id: rspa_1973_0117
+revised_title: Zeeman Effect Studies of DCO Microwave Spectroscopy
+semantic_tags:
+  - Microwave spectroscopy
+  - Zeeman effect
+  - Free radicals
+  - Molecular parameters
+  - Asymmetric rotor
+tldr: This article presents Zeeman effect studies of the free radical DCO using microwave spectroscopy. The authors report measurements of the -doubling transition frequencies near 9.8 GHz and analyze the spectrum in terms of the theory presented by Bowater, Brown, and Carrington. The resulting molecular parameters are compared with those obtained from solid-state studies. Complementary studies by Saito allow estimates of independent parameters for DCO.
+scientific_discipline: Chemistry > Spectroscopy

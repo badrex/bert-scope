@@ -1,0 +1,10 @@
+article_id: rspa_1927_0116
+revised_title: 'Advancements in Generating Strong Magnetic Fields'
+semantic_tags:
+  - Magnetic fields
+  - Dynamo design
+  - Electromagnetic energy
+  - High-power electrical systems
+  - Physics experiments
+tldr: The authors describe the development of a method to generate strong magnetic fields using a turbo-alternator generator and a dynamo short-circuited for a short period. This method allows for the use of large amounts of electrical energy without overheating the coil, enabling the creation of fields over 100,000 gauss. The authors also discuss the design and construction of the machinery used in their experiments, which was necessary to generate the required power.
+scientific_discipline: Physics > Electromagnetism

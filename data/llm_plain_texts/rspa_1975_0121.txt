@@ -1,0 +1,10 @@
+article_id: 'rspa_1975_0121'
+revised_title: 'Determination of Molecular Structures and Conformations in Solution'
+semantic_tags:
+  - Molecular Conformation
+  - Solution Chemistry
+  - Spectroscopy
+  - Biochemistry
+  - X-ray Diffraction
+tldr: The article discusses the challenges and methods for determining molecular structures and conformations in solution, particularly in the context of biochemistry. It highlights the limitations of traditional diffraction methods and the development of new techniques to study molecular conformations in solution. The author emphasizes the importance of understanding molecular conformations in solution for biochemical processes and the potential of new techniques to provide insights into these processes.
+scientific_discipline: Chemistry > Physical Chemistry

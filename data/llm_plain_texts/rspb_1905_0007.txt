@@ -1,0 +1,10 @@
+article_id: 'rspb_1905_0007'
+revised_title: 'Innervation and Interaction of Antagonistic Muscles'
+semantic_tags:
+  - Neurophysiology
+  - Reflexes
+  - Inhibition
+  - Spinal Mechanism
+  - Locomotion
+tldr: The author investigates the relationship between antagonistic muscles and their reflexes in the spinal cord. They discovered that when one muscle is activated, the opposing muscle's reflex becomes temporarily inhibited, but later enters a state of increased excitability. This phenomenon, called "spinal induction," plays a role in coordinating and linking reflexes together in a sequence, which is essential for locomotion and other movements.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

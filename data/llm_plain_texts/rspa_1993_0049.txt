@@ -1,0 +1,10 @@
+article_id: rspa_1993_0049
+revised_title: 'Asymptotic Analysis of Energy Transport in Rotating Sound Fields'
+semantic_tags:
+  - Acoustics
+  - Fluid Dynamics
+  - Asymptotic Analysis
+  - Propeller Noise
+  - Sound Fields
+tldr: The authors study the flow of energy in rotating sound fields, specifically in the field of a subsonic ring source. They find that energy flows in tightly bound spirals due to the interaction of two evanescent waves. Asymptotic formulae are derived for the energy density and acoustic intensity in different regions of observer space. The results can be applied to propeller noise and other rotating sound fields.
+scientific_discipline: Physics > Fluid Dynamics

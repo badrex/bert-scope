@@ -1,0 +1,10 @@
+article_id: rspa_1952_0076
+revised_title: 'Kinetics of Polysulphone Formation: The Formation of 1-Butene Polysulphone and the Ceiling Temperature'
+semantic_tags:
+  - Polymerization
+  - Chemical kinetics
+  - Polysulphone
+  - 1-Butene
+  - Ceiling temperature
+tldr: The authors investigated the kinetics of 1-butene polysulphone formation and discovered a critical temperature, called the 'ceiling temperature,' above which the reaction rate and molecular weight of the polymer formed decrease significantly. They found that the ceiling temperature is independent of the method and rate of initiation and explained the phenomenon through the equilibrium between propagation and depropagation reactions.
+scientific_discipline: Chemistry > Polymer Chemistry

@@ -1,0 +1,10 @@
+article_id: rspl_1902_0008
+revised_title: 'The Effect of Light on Chemical Dynamics and Equilibria'
+semantic_tags:
+  - Photochemistry
+  - Chemical kinetics
+  - Thermodynamics
+  - Light-induced reactions
+  - Reaction mechanisms
+tldr: The authors conducted experiments to study the effect of light on chemical dynamics and equilibria. They used the reaction between carbon monoxide and chlorine as a model system and found that light can accelerate the reaction. The authors developed a method to control the intensity and purity of the light source to obtain reliable results. Their work provides insights into the fundamental understanding of light-induced chemical reactions.
+scientific_discipline: Chemistry > Chemical kinetics

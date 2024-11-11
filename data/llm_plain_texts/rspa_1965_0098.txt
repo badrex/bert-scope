@@ -1,0 +1,10 @@
+article_id: rspa_1965_0098
+revised_title: 'Weak Interactions: A Review of Recent CERN Work'
+semantic_tags:
+  - Particle Physics
+  - Weak Interaction Theory
+  - Leptons
+  - Neutrinos
+  - Intermediate Bosons
+tldr: This article reviews the properties and interactions of weak forces, focusing on recent work conducted at CERN. It discusses the behavior of neutrinos, the conservation of leptons, and the role of intermediate bosons in weak interactions. The author also explores semi-leptonic processes and the implications of the conserved vector current hypothesis.
+scientific_discipline: Physics > Particle Physics

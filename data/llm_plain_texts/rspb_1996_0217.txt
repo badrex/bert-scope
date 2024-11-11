@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0217'
+revised_title: 'The Role of Angiogenesis in Wound Healing: A Mathematical Model'
+semantic_tags:
+  - Angiogenesis
+  - Wound Healing
+  - Mathematical Modeling
+  - Tissue Repair
+  - Capillary Sprouts
+tldr: This study presents a mathematical model that describes the role of angiogenesis in wound healing. The model focuses on six crucial variables involved in the process, including capillary tips, capillary sprouts, fibroblasts, extracellular matrix, chemoattractant, and oxygen. The model reproduces in vivo and in vitro observations and predicts certain effects that may be observed under suggested experimental procedures.
+scientific_discipline: Biology and Life Sciences > Cell Biology and Tissue Engineering

@@ -1,0 +1,10 @@
+article_id: rspl_1870_0058
+revised_title: 'Experiments on Successive Polarization of Light and a New Polarizing Apparatus'
+semantic_tags:
+  - Polarization
+  - Optics
+  - Crystallography
+  - Light refraction
+  - Optical instruments
+tldr: Sir Charles Wheatstone's experiments on successive polarization of light led to the discovery of a new polarizing apparatus. The phenomenon occurs when a ray of polarized light is transmitted through a plate of crystal or certain liquids, causing the plane of polarization to change upon emergence. Wheatstone demonstrated that this effect arises from the interference of two opposite systems of circularly polarized rays, and described a new method for producing right-handed and left-handed successive polarization.
+scientific_discipline: Physics > Optics

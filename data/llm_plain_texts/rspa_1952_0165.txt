@@ -1,0 +1,10 @@
+article_id: rspa_1952_0165
+revised_title: 'Catalyzed Polymerization of Methyl Methacrylate: Chain Transfer Studies'
+semantic_tags:
+  - Polymer Chemistry
+  - Chain Transfer Reaction
+  - Catalysts
+  - Methyl Methacrylate
+  - Benzoyl Peroxide
+tldr: The authors studied the chain-transfer reaction between growing methyl methacrylate polymer radicals and toluene when catalyzed by varying amounts of benzoyl peroxide. They found that the transfer constant remains constant, even with the presence of low catalyst concentrations, which opens up the possibility of using catalysts for chain-transfer studies. The authors also tested the initiation mechanism and found that a bimolecular initiation mechanism is more accurate than a unimolecular one.
+scientific_discipline: Chemistry > Polymer Chemistry

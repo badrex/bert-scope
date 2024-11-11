@@ -1,0 +1,10 @@
+article_id: rspa_1973_0045
+revised_title: Free Convection Effects on Oscillatory Flow Past a Porous Plate
+semantic_tags:
+  - Fluid Dynamics
+  - Heat Transfer
+  - Porous Media Flow
+  - Boundary Layer Flow
+  - Free Convection
+tldr: This study investigates the effects of free convection currents on the oscillatory flow past an infinite, vertical, porous plate with constant suction. The analysis focuses on the mean velocity, mean temperature, and mean skin friction. The results show that the mean flow is affected by the free convection currents, the Eckert number, and the Prandtl number. The Grashof number represents the effects of free convection currents. The mean velocity and mean temperature are shown graphically, and the numerical values of skin friction are provided in a table.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

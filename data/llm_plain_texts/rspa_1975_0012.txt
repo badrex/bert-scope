@@ -1,0 +1,10 @@
+article_id: rspa_1975_0012
+revised_title: Analyzing Environmental Crack and Craze Growth Phenomena in Polymers
+semantic_tags:
+  - Polymer Science
+  - Fracture Mechanics
+  - Environmental Stress Cracking
+  - Viscoelasticity
+  - Material Properties
+tldr: This article investigates the nature of slow crack and craze propagation in polymers and crack propagation in inorganic glass using fracture mechanics analysis. The authors derive equations to describe crack and craze propagation in inert and active environments, and propose a crack opening displacement criterion that governs crack propagation behavior. They also incorporate a simple fluid flow model into the analysis to describe failure processes in liquid environments. The study suggests that crack growth behavior is controlled by relaxation processes in the material, and a transition from relaxation to fluid flow control occurs at high crack speeds.
+scientific_discipline: Materials Science > Polymer Science

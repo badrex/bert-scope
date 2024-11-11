@@ -1,0 +1,10 @@
+article_id: 'rspa_1967_0141'
+revised_title: 'Triplet State Quantum Yields in Aromatic Hydrocarbons and Xanthene Dyes'
+semantic_tags:
+  - Quantum Yields
+  - Triplet State
+  - Aromatic Hydrocarbons
+  - Xanthene Dyes
+  - Photochemistry
+tldr: The authors determined the triplet state quantum yields and extinction coefficients for various aromatic hydrocarbons and xanthene dyes in dilute solutions. They found that the sum of fluorescence and triplet state formation quantum yields is close to unity, indicating that radiationless transfer from the excited singlet to the ground state is negligible. This study provides insights into the complex photochemical processes of these substances.
+scientific_discipline: Chemistry > Photochemistry

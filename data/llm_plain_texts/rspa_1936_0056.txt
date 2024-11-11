@@ -1,0 +1,10 @@
+article_id: rspa_1936_0056
+revised_title: Gauss's Theorem in General Relativity
+semantic_tags:
+  - General Relativity
+  - Tensor Calculus
+  - Riemannian Geometry
+  - Teleparallelism
+  - Einstein's Field Equations
+tldr: This article explores the extension of Gauss's theorem in the context of General Relativity. The author introduces a system of teleparallelism and expands gravitational tensors in powers of the gravitational constant to provide a simple and explicit solution for the equations involved. The study aims to express the flux integral and the tensors as explicit functions of the potentials and their first derivatives.
+scientific_discipline: Physics > General Relativity

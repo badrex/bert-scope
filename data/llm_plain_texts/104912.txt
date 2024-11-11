@@ -1,0 +1,10 @@
+article_id: 104912
+revised_title: The Advantage of Taking the Mean of a Number of Observations in Practical Astronomy
+semantic_tags:
+  - Astronomy
+  - Probability theory
+  - Error analysis
+  - Observational astronomy
+  - Mathematical physics
+tldr: The author, T. Simpson, discusses the benefits of taking the mean of multiple observations in practical astronomy to reduce errors caused by imperfect instruments and human observation. He presents a mathematical approach to calculate the probability of errors and demonstrates that using the mean of several observations significantly improves accuracy compared to relying on a single observation.
+scientific_discipline: Mathematics > Applied Mathematics

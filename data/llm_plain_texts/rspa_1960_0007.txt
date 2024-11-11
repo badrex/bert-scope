@@ -1,0 +1,10 @@
+article_id: 'rspa_1960_0007'
+revised_title: 'Electron Resonance Studies of Transition Metal Oxyions: Experimental Results for Manganate, Hypomanganate, and Ferrate Ions'
+semantic_tags:
+  - Electron Paramagnetic Resonance
+  - Transition Metal Chemistry
+  - Manganate Ions
+  - Hypomanganate Ions
+  - Ferrate Ions
+tldr: This article presents experimental results of electron resonance studies on transition metal oxyions, specifically manganate, hypomanganate, and ferrate ions. The authors confirm the spin Hamiltonian and provide insights into the single crystal properties of these ions.
+scientific_discipline: Chemistry > Transition Metal Chemistry

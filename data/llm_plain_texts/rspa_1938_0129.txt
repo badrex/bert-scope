@@ -1,0 +1,10 @@
+article_id: rspa_1938_0129
+revised_title: 'Radio-Sounding Balloons for Atmospheric Exploration'
+semantic_tags:
+  - Atmospheric Science
+  - Meteorology
+  - Radio Transmitters
+  - Aerology
+  - Weather Forecasting
+tldr: The authors describe a new method for exploring the atmosphere using radio-sounding balloons equipped with meteorological instruments. The instruments, which include a barometer and thermometer, control the modulation frequency of the radio transmitter, allowing for continuous recording of pressure and temperature during the balloon's ascent. This method provides a more accurate and efficient way to gather aerological data compared to previous techniques.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

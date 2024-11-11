@@ -1,0 +1,10 @@
+article_id: rspa_1953_0010
+revised_title: 'Extended Collective Electron Ferromagnetism Model and Analysis of Experimental Results'
+semantic_tags:
+  - Ferromagnetism
+  - Collective electron theory
+  - Nickel alloys
+  - Magnetization
+  - Specific heat
+scientific_discipline: Physics > Condensed Matter Physics
+tldr: The author extends the collective electron theory of ferromagnetism to include terms in the energy associated with the magnetization up to the fourth power. They analyze the properties of ferromagnetic materials, such as nickel, nickel-cobalt, and nickel-copper alloys, and compare the results with experimental data. The extended model provides a better fit with experiment for various properties, including the temperature variation of specific heat and spontaneous magnetization.

@@ -1,0 +1,11 @@
+article_id: rspa_1983_0040
+revised_title: 'Asymptotic Analysis of Inhomogeneous Nonlinear Diffusion Equation'
+semantic_tags:
+  - Nonlinear Diffusion Equation
+  - Asymptotic Analysis
+  - Porous Media Equation
+  - Stefan Problem
+  - Similarity Solutions
+tldr: The article investigates the large time solution of an inhomogeneous nonlinear diffusion equation with initial data of compact support. The authors identify the regions in parameter space where the generalized Barenblatt-Pattle (g.B.P.) solution and isothermal solutions are appropriate large time limits. They also show that the isothermal solution does not satisfy the boundary conditions and must be matched with inner solutions near the moving boundaries. The article provides an extension of the work of Kamin and Rosenau and offers insights into the error terms in these expansions.
+scientific_discipline: Mathematics > Applied Mathematics
+```

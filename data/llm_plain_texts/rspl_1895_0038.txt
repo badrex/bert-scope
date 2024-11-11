@@ -1,0 +1,10 @@
+article_id: rspl_1895_0038
+revised_title: 'Magnetic Rotation of Plane of Polarization of Light in Liquids'
+semantic_tags:
+  - Magnetic rotation
+  - Optics
+  - Verdet's constant
+  - Carbon bisulphide
+  - Water
+tldr: The authors conducted experiments to determine the magnetic rotation of liquids, specifically carbon bisulphide and water, at different temperatures. They found that the rate of change of rotation with temperature increases as the temperature rises. The results showed that the behavior of water is exceptional and not suitable for use in magnetic rotation studies. This research highlights the importance of understanding the relationship between rotation and temperature for accurate measurements.
+scientific_discipline: Physics > Optics

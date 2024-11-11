@@ -1,0 +1,10 @@
+article_id: rspl_1901_0052
+revised_title: 'Vibrations and Pressure Distribution in Rifle Barrels'
+semantic_tags:
+  - Ballistics
+  - Rifle design
+  - Vibration analysis
+  - Pressure distribution
+  - Gunshot mechanics
+tldr: The author investigates the vibrations and pressure distribution in rifle barrels, analyzing the effects of different pressure curves on the muzzle velocity and the barrel's deformation. They also discuss the importance of the position of the stock and the point of application of the couple in the barrel's vibration modes. This study helps improve the understanding of rifle shooting and the development of better rifle designs.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

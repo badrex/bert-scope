@@ -1,0 +1,10 @@
+article_id: rspa_1988_0107
+revised_title: 'Low-dimensional Lattices: The Mass Formula and Its Applications'
+semantic_tags:
+  - Number Theory
+  - Lattice Theory
+  - Mass Formula
+  - Quadratic Forms
+  - Automorphism Group
+tldr: The authors present a simplified version of the mass formula, which expresses the sum of the reciprocals of the group orders of lattices in a genus in terms of the properties of any of them. They focus on the 2-adic contribution to the mass and provide a reliable method for evaluating it. The mass formula is used to check the enumeration of lattices of determinant given in the first paper in this series and to provide tables of the standard mass, the -series (odd), and genera of lattices of determinant 1.
+scientific_discipline: Mathematics > Number Theory

@@ -1,0 +1,10 @@
+article_id: 'rspb_1979_0062'
+revised_title: 'Optimum Probabilistic Processing in Colour Perception: Colour Discrimination'
+semantic_tags:
+  - Color Perception
+  - Optimal Probabilistic Signal Detection
+  - Colour Space
+  - Statistical Discriminability
+  - Visual Perception
+tldr: This article presents a comprehensive account of wavelength and colour saturation discrimination using optimum probabilistic signal detection. The theory is based on statistical estimation and postulates that discriminability is limited by stochastic uncertainty in the trichromatic responses of the visual system. The study extends the concept of optimal statistical communication to colour perception, providing a framework that accommodates classical phenomena in colour vision.
+scientific_discipline: Psychology > Perception

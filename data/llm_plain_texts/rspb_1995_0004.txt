@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0004'
+revised_title: 'Strategies for Active Camouflage of Motion: A Review'
+semantic_tags:
+  - Motion camouflage
+  - Animal behavior
+  - Robotics
+  - Optic flow
+  - Visual tracking
+tldr: This article explores strategies for an agent, or'shadower', to actively camouflage its movements while tracking another, or'shadowee'. The authors demonstrate that the shadower can conceal its motion by moving along a trajectory that emulates the optic flow produced by a stationary object, as viewed by the moving shadowee. Algorithms are developed and tested for various scenarios, including moving toward a stationary or moving target, and are applicable to both structured and homogeneous backgrounds. The potential relevance of active motion camouflage is discussed in contexts such as'shadowing' behavior in hoverflies, predator-prey capture, and military maneuvers.
+scientific_discipline: Biology and Life Sciences > Animal Behavior

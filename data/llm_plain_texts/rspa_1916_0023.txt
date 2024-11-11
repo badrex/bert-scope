@@ -1,0 +1,10 @@
+article_id: rspa_1916_0023
+revised_title: 'A Simplified Method for Avoiding Collision at Sea'
+semantic_tags:
+  - Collision avoidance
+  - Navigation
+  - Maritime safety
+  - Relative speed
+  - Wireless communication
+tldr: The author presents a simple and efficient method for avoiding collisions at sea using wireless communication and a combination of three scales. By knowing the relative speed and course of the approaching ship, the method allows seamen to determine the distance and direction of the approaching vessel, enabling them to avoid collisions effectively.
+scientific_discipline: Engineering and Technology > Navigation

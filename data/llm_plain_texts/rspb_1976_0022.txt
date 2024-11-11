@@ -1,0 +1,10 @@
+article_id: 'rspb_1976_0022'
+revised_title: 'Antigenicity of Myosin and C-Protein in Muscle Structure'
+semantic_tags:
+  - Protein Structure
+  - Immunology
+  - Muscle Biology
+  - Myosin
+  - C-Protein
+tldr: The authors studied the antigenicity of myosin and C-protein in muscle structure. They found that myosin and C-protein are antigenically distinct, meaning C-protein is not derived from myosin. The study also showed that purified myosin can behave as a classically simple antigen, while C-protein is a powerful immunogen. This information is important for understanding the location of these proteins within muscle fibers and for developing antibodies to study muscle structure.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

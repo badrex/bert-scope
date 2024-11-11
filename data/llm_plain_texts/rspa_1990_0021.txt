@@ -1,0 +1,10 @@
+article_id: rspa_1990_0021
+revised_title: Acoustic Scattering by Periodically Connected Parallel Plates
+semantic_tags:
+  - Acoustics
+  - Structural Acoustics
+  - Wave Scattering
+  - Fluid-Structure Interaction
+  - Periodic Systems
+tldr: The article investigates the acoustic scattering of parallel plates connected by spatially periodic connectors. The authors develop a formally exact solution for the system and evaluate it in the asymptotic limits of heavy fluid loading. They find that the scattered sound field consists of a finite number of plane waves propagating in distinct directions, with the pressure in fluid 1 being the sum of the incident plane wave, a plane wave reflected as if the upper plate were rigid, and a term due to the periodic array of connectors.
+scientific_discipline: Engineering and Technology > Acoustics

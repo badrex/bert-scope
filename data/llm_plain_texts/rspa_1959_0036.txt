@@ -1,0 +1,10 @@
+article_id: rspa_1959_0036
+revised_title: 'Kinetics of Butyl Acrylate Polymerization: A Study of Velocity Coefficients and Energies of Activation'
+semantic_tags:
+  - Polymer Chemistry
+  - Polymerization
+  - Butyl Acrylate
+  - Photosensitization
+  - Chemical Reaction Kinetics
+tldr: The authors studied the kinetics of butyl acrylate polymerization, focusing on the velocity coefficients and energies of activation for the propagation and termination reactions. They found that the rate of polymerization increases slightly during the first 25% conversion and then gradually decreases. The overall energy of activation increases slightly at later stages of the reaction. The results provide insights into the polymerization process and help understand the effects of viscosity and polymer formation on reaction rates and activation energies.
+scientific_discipline: Chemistry > Polymer Chemistry

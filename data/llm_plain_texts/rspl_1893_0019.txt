@@ -1,0 +1,10 @@
+article_id: rspl_1893_0019
+revised_title: Absolute Thermal Conductivities of Copper and Iron
+semantic_tags:
+  - Thermal conductivity
+  - Copper
+  - Iron
+  - Thermoelectricity
+  - Material science
+tldr: This article presents the results of experiments conducted to determine the theoretical conductivity at different temperatures of iron and copper. The authors used a thermo-electric method to measure temperature and protected the bars from external factors. The findings show that the conductivity of both copper and iron decreases with an increase in temperature.
+scientific_discipline: Physics > Material Science

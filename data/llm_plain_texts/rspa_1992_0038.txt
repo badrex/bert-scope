@@ -1,0 +1,10 @@
+article_id: rspa_1992_0038
+revised_title: Similarity Analysis of Creep Indentation Tests for Nonlinear Elastic and Nonlinear Viscous Materials
+semantic_tags:
+  - Creep Indentation
+  - Nonlinear Elasticity
+  - Nonlinear Viscosity
+  - Continuum Mechanics
+  - Similarity Transformations
+tldr: The author presents a similarity analysis of creep indentation tests for nonlinear elastic and nonlinear viscous materials. The study shows how an entire process of indentation can be made to depend on the solution of just one boundary-value problem in scaled variables and with a fixed geometry. This approach simplifies the analysis of axisymmetric hardness tests and provides valuable information about the connection between the depth of penetration and the radius of contact, as well as the variation of penetration with time in a creep test under dead load.
+scientific_discipline: Engineering and Technology > Materials Science

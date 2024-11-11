@@ -1,0 +1,10 @@
+article_id: rspa_1993_0095
+revised_title: High-Resolution Neutron Powder Diffraction of C60's Crystal Structure
+semantic_tags:
+  - Crystallography
+  - Neutron diffraction
+  - Fullerene structure
+  - Molecular symmetry
+  - Orientational glass transition
+tldr: This article presents a high-resolution neutron powder diffraction study of the temperature evolution of the structure of C60. The research reveals the detailed crystal structure of the orientationally-ordered low-temperature phase and evaluates the departure from isotropic scattering of the molecule in the disordered high-temperature phase. The study also discovers an orientational glass transition at around 86 K and provides insights into the molecular reorientation and structural phase transition of C60.
+scientific_discipline: Chemistry > Crystallography

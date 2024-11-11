@@ -1,0 +1,10 @@
+article_id: 'rsta_1987_0098'
+revised_title: 'Comet Halley and Diffuse Matter: Observations and Discussions'
+semantic_tags:
+  - Astronomy
+  - Solar System
+  - Comets
+  - Interstellar Absorption Lines
+  - Spectroscopy
+tldr: Researchers observed Comet Halley and its coma, attempting to establish the presence of the carriers of the diffuse interstellar absorption. They found an additional absorption line in the spectra, which is likely of cometary origin. However, the line's identity remains unidentified, and further studies are needed to understand its nature.
+scientific_discipline: Astronomy > Solar System Studies

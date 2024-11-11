@@ -1,0 +1,10 @@
+article_id: rspa_1988_0133
+revised_title: 'Resonant-Wavelength Excitation Effects on Conductive Regime of Natural Convection in a Vertical Slot'
+semantic_tags:
+  - Natural convection
+  - Fluid dynamics
+  - Heat transfer
+  - Thermal boundary layer
+  - Fluid mechanics
+tldr: This study investigates the effects of resonant-wavelength excitation on the conductive regime of natural convection in a vertical slot. The research focuses on the interaction of instabilities with subcritical flows driven by weak imperfections in boundary temperatures. The findings show that heat transfer may fall below that due to pure conduction in subcritical flows, and an unexpected feature of the subcritical flows is the flow adjustment.
+scientific_discipline: Physics > Fluid mechanics

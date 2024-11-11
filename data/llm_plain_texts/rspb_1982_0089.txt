@@ -1,0 +1,9 @@
+article_id: 'rspb_1982_0089'
+revised_title: 'Synthesis of Brain GABA Receptors in Frog Oocytes'
+semantic_tags:
+  - GABA receptors
+  - Neurotransmitter receptors
+  - Xenopus oocytes
+  - mRNA translation
+  - Brain receptors
+tldr: Researchers discovered that frog oocytes can synthesize GABA receptors from chick brain mRNA. These receptors are inserted into the oocyte membrane, forming receptor-channel complexes that respond to GABA and related agonists. This finding provides a novel approach to studying brain receptors and their functions.

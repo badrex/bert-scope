@@ -1,0 +1,10 @@
+article_id: rspa_1935_0198
+revised_title: 'X-ray Absorption in Lead, Tin, Copper, and Iron: Wave-Lengths from 50 to 20 Units'
+semantic_tags:
+  - X-ray absorption
+  - Lead absorption
+  - Tin absorption
+  - Copper absorption
+  - Iron absorption
+tldr: The authors measured the absorption coefficients of lead, tin, copper, and iron for monochromatic X-ray beams with wave-lengths ranging from 50 to 20 units. They used an improved experimental method to determine the dependence of the absorption coefficient on the wave-length and the atomic number of the absorbing element. The results provide valuable data for applications in radiation measurement and the understanding of photoelectric absorption.
+scientific_discipline: Physics > Optics

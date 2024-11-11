@@ -1,0 +1,10 @@
+article_id: 'rspa_1932_0041'
+revised_title: 'Investigations in the Infra-Red Spectrum: Absorption Spectrum of Carbonyl Sulphide'
+semantic_tags:
+  - Infrared spectroscopy
+  - Carbonyl sulphide
+  - Molecular structure
+  - Vibrational levels
+  - Molecular force constants
+tldr: This study investigates the absorption spectrum of carbonyl sulphide in the infra-red region. The authors determine the vibrational levels and molecular force constants, comparing the results with those of carbon dioxide and carbon disulphide. The heat of formation of carbonyl sulphide is also discussed.
+scientific_discipline: Chemistry > Spectroscopy

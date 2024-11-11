@@ -1,0 +1,10 @@
+article_id: 'rsta_1984_0076'
+revised_title: 'Erratum: Bifurcations of One- and Two-Dimensional Maps'
+semantic_tags:
+  - Bifurcation Theory
+  - Dynamical Systems
+  - Mathematical Physics
+  - Nonlinear Science
+  - Resonant Bifurcations
+tldr: This erratum corrects the normal form computations of resonant bifurcations in a previous paper on one- and two-dimensional maps. The incorrect formulae for and are identified and should be replaced with and. The resonant bifurcations are found to be subcritical and occur to the left of certain points. The authors plan to report on the implications of this bifurcation reversal in a later study.
+scientific_discipline: Mathematics > Dynamical Systems

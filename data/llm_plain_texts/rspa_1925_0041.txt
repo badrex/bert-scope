@@ -1,0 +1,10 @@
+article_id: rspa_1925_0041
+revised_title: Temperature Dependence of X-Ray Reflection Intensity from Quartz and Its Implications on Crystal Structure
+semantic_tags:
+  - Crystallography
+  - X-ray diffraction
+  - Quartz crystal structure
+  - Temperature effects
+  - Crystal symmetry
+tldr: The authors investigated the variation of X-ray reflection intensity from quartz with temperature and found that the intensity changes can be explained by a small movement of oxygen layers relative to silicon layers. This study provides insights into the crystal structure and symmetry changes in quartz at different temperatures.
+scientific_discipline: Physics > Crystallography

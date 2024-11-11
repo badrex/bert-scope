@@ -1,0 +1,10 @@
+article_id: rspa_1972_0176
+revised_title: Time-Dependent Electrohydrodynamics of a Liquid Drop
+semantic_tags:
+  - Electrohydrodynamics
+  - Fluid Dynamics
+  - Liquid Drop Deformation
+  - Electric Field Stress
+  - Viscous Stress
+tldr: This theoretical paper extends Sir Geoffrey Taylor's work on the flow field induced by an electric field in and around a liquid drop immersed in an incompressible conducting fluid. The study assumes that the inducing electric field varies with time. The solution presented is based on the assumption that the flow field set up is weak, and the convection terms in the momentum equation can be ignored. It is shown that for fluids of low viscosity or when the applied electric field oscillates very rapidly, the term related to fluid density and velocity cannot be neglected. In these cases, the results of authors who have completely ignored this term are not correct.
+scientific_discipline: Physics > Fluid Dynamics

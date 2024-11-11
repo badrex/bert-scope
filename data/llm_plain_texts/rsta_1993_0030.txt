@@ -1,0 +1,10 @@
+article_id: rsta_1993_0030
+revised_title: 'Nonlinear Interactions in Wind-Wave Evolution: A Review of Computational Techniques and Properties'
+semantic_tags:
+  - Wave-Wind Interactions
+  - Nonlinear Wave Theory
+  - Wave Prediction Models
+  - Ocean Waves
+  - Wave Energy Transfer
+tldr: This article reviews the central role of nonlinear interactions in wind-wave evolution, focusing on computational techniques for evaluating these interactions. It discusses the properties of nonlinear interactions, such as spectral evolution, shape stabilization, and directional spread, and their importance in wind-wave spectrum development. The article also briefly reviews the development of wave prediction models and the challenges they face in accurately representing nonlinear interactions.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

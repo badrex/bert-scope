@@ -1,0 +1,10 @@
+article_id: 'rspb_1985_0060'
+revised_title: 'Anatomical Circuitry and Lateral Inhibition in the Horseshoe Crab Eye'
+semantic_tags:
+  - Horseshoe Crab
+  - Lateral Inhibition
+  - Eye Anatomy
+  - Neuropil Circuitry
+  - Limulus polyphemus
+tldr: The study investigates the anatomical circuitry of lateral inhibition in the eye of the horseshoe crab, Limulus polyphemus. It examines the neural plexus and its synaptic interconnections, revealing that lateral inhibitory interactions occur exclusively between eccentric cell collaterals. The findings show that spatial variation in synaptic density and terminal arborization complexity contribute to the process of lateral inhibition.
+scientific_discipline: Biology and Life Sciences > Neurobiology

@@ -1,0 +1,10 @@
+article_id: 'rspb_1973_0057'
+revised_title: 'The Stockholm County Council's Medical Information System: A Real-Time Integrated Hospital Computer System'
+semantic_tags:
+  - Medical Informatics
+  - Health Information Technology
+  - Hospital Management
+  - Real-time Systems
+  - Population Health
+tldr: The Stockholm County Council developed a real-time integrated hospital computer system to manage medical care for its 1.5 million inhabitants. The system, based on a central population register, includes a head file, patient file, admission system, and various subsystems for clinical care and administrative tasks. The primary objective was to efficiently allocate resources and track the changing medical needs in the region.
+scientific_discipline: Social Sciences, Art, and Humanities > Medical Informatics

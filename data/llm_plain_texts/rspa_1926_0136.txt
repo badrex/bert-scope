@@ -1,0 +1,10 @@
+article_id: rspa_1926_0136
+revised_title: Forces on a Cylinder in a Stream of Viscous Fluid: Analyzing Lift and Drag
+semantic_tags:
+  - Fluid Dynamics
+  - Viscosity
+  - Lift and Drag Forces
+  - Boundary Layer Theory
+  - Oseen's Approximation
+tldr: The author investigates the forces experienced by a cylinder in a stream of viscous fluid, focusing on lift and drag forces. They find that the lift is given by the Kutta-Joukowski theorem, while the drag is associated with a particular term in the solution that corresponds to an inward flow along the tail and an outward flow across a large contour. The study assumes periodic motion and provides expressions for the average lift and drag forces, which can be used to estimate the forces experienced by the cylinder.
+scientific_discipline: Physics > Fluid Dynamics

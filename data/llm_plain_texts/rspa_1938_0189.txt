@@ -1,0 +1,10 @@
+article_id: rspa_1938_0189
+revised_title: 'Coincidence Experiments on Cosmic Rays: A Theoretical Analysis'
+semantic_tags:
+  - Cosmic Rays
+  - Particle Physics
+  - Nuclear Physics
+  - Astrophysics
+  - Radiation
+tldr: This article presents a theoretical analysis of coincidence experiments on cosmic rays, focusing on the soft and hard components. The authors calculate the probabilities of different types of coincidences caused by primary electrons and discuss the number of shower electrons below a critical energy. They also examine the fluctuations of the average numbers of fast and slow electrons and positrons in showers.
+scientific_discipline: Physics > Particle Physics

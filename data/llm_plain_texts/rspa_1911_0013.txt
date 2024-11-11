@@ -1,0 +1,10 @@
+article_id: 'rspa_1911_0013'
+revised_title: 'Absolute Expansion of Mercury: A Reassessment'
+semantic_tags:
+  - Thermodynamics
+  - Temperature Measurement
+  - Mercury Expansion
+  - Temperature Regulation
+  - Scientific Apparatus
+tldr: The authors conducted experiments to measure the absolute expansion of mercury using an improved apparatus and method. They found that their results agreed with previous studies to within 1 in 10,000, and their formula for the mean coefficient provided accurate results for various temperature ranges. The study also showed that discrepancies in previous measurements were due to factors such as temperature uncertainty and heat conduction.
+scientific_discipline: Physics > Thermodynamics

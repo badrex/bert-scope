@@ -1,0 +1,9 @@
+article_id: rstb_1991_0040
+revised_title: Stereochemistry of Enzyme-Catalyzed Allylic Addition-Elimination Reactions in Terpenoid Biosynthesis
+semantic_tags:
+  - Terpenoid biosynthesis
+  - Stereochemistry
+  - Enzyme-catalyzed reactions
+  - Allylic addition-elimination
+  - Pentalenene synthase
+tldr: The article investigates the stereochemistry of enzyme-catalyzed allylic addition-elimination reactions in terpenoid biosynthesis, specifically focusing on pentalenene synthase. The authors found that the reaction proceeds with net anti-stereochemistry, in contrast to the syn stereochemistry of the prototype prenyl transferase reaction. This study provides insights into the folding of the substrate and the stereochemical course of the reaction, which is crucial for understanding the biosynthesis of cyclic sesquiterpenes.

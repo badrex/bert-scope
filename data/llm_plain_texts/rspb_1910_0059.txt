@@ -1,0 +1,10 @@
+article_id: 'rspb_1910_0059'
+revised_title: 'Opposite Electrification in Animal and Vegetable Cells'
+semantic_tags:
+  - Cell electrification
+  - Biology
+  - Life sciences
+  - Electromechanics
+  - Cell migration
+tldr: The author investigates the opposite electrification produced by animal and vegetable life. They discovered that animal cells are negatively electrified, while vegetable cells are positively electrified. The study was conducted using a high voltage and resistance, observing the movement of cells in an electric field. This research provides insights into the electrical characteristics of living cells and their colloidal components.
+scientific_discipline: Biology > Cell Biology

@@ -1,0 +1,11 @@
+article_id: rspa_1979_0009
+revised_title: Singularity Formation in Vortex Sheet Evolution
+semantic_tags:
+  - Fluid Dynamics
+  - Vortex Sheet
+  - Singularity
+  - Nonlinear Dynamics
+  - Asymptotic Analysis
+tldr: The study investigates the evolution of a small amplitude initial disturbance in a straight uniform vortex sheet. It proposes an approximation to the exact evolution equation for the Fourier coefficients and demonstrates, through an asymptotic analysis, that the solution develops a singularity at a critical time. The findings suggest that the class of vortex layer motions modeled by replacing the vortex layer with a vortex sheet is limited, and the sheet is an inadequate approximation unless it is everywhere undergoing rapid stretching.
+scientific_discipline: Mathematics > Applied Mathematics
+```

@@ -1,0 +1,10 @@
+article_id: rspl_1872_0059
+revised_title: The Effect of Light on the Electrical Resistance of Selenium
+semantic_tags:
+  - Photovoltaics
+  - Selenium
+  - Solar energy
+  - Light sensitivity
+  - Spectroscopy
+tldr: The authors conducted experiments to study the effect of light on the electrical resistance of selenium. They discovered that selenium's resistance decreases when exposed to light, with the effect being most significant in the red part of the spectrum. This research contributed to the understanding of selenium's light sensitivity and its potential applications in solar energy and photovoltaics.
+scientific_discipline: Physics > Optics

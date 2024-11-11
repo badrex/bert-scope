@@ -1,0 +1,9 @@
+article_id: rspa_1975_0201
+revised_title: Baroclinic Waves and Magnetic Field Generation in a Rotating System
+semantic_tags:
+  - Magnetohydrodynamics
+  - Geodynamo
+  - Baroclinic waves
+  - Magnetic field generation
+  - Fluid dynamics
+tldr: This article explores the generation of magnetic fields by baroclinic waves in a rotating system, such as the Earth's core. The authors consider a plane layer model and discuss the nonlinear properties of these waves in the presence of a zonal magnetic field. They find that the main regenerative effects are concentrated near the critical level where the wave speed and thermal wind velocity are equal, which is essential for dynamo action.

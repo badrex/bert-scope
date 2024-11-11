@@ -1,0 +1,10 @@
+article_id: rspa_1966_0039
+revised_title: Measurement of Cross Section for Production of Helium
+semantic_tags:
+  - Atomic Physics
+  - Electron Impact Excitation
+  - Cross Section
+  - Metastable Helium Ions
+  - Coulomb-Born Approximation
+tldr: The authors measured the cross section for the production of metastable helium ions through electron impact excitation. They used a crossed beams technique and a sensitive detector to measure the cross section over the energy range of 0 to 1000 eV. The results were compared with theoretical calculations and showed good agreement with the plane-wave Born approximation. This study provides valuable data for understanding electron impact excitation in atomic and ion physics.
+scientific_discipline: Physics > Atomic Physics

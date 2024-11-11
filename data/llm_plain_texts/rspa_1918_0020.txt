@@ -1,0 +1,10 @@
+article_id: 'rspa_1918_0020'
+revised_title: 'Carnot's Theorem and the Nature of Heat'
+semantic_tags:
+  - Thermodynamics
+  - Carnot's Theorem
+  - Heat
+  - Temperature
+  - Kinetic Theory
+tldr: The author discusses the nature of heat and its relation to Carnot's theorem. They propose that the measure of standard temperature can be selected based on this theorem, and that the motive power of a heat engine arises from the fall of heat through a range of temperature. The kinetic energies of molecules in an element of mass mix together rapidly, leading to an equilibrium of distribution. The energy at a dead level of temperature can be recovered or reconstituted into mechanical energy by exploiting the further effort towards equalization of temperature.
+scientific_discipline: Physics > Thermodynamics

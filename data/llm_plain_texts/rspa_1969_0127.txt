@@ -1,0 +1,10 @@
+article_id: rspa_1969_0127
+revised_title: 'A Calculation on the Sliding of Ice over a Wavy Surface: Newtonian Viscous Approximation'
+semantic_tags:
+  - Glaciology
+  - Ice flow
+  - Viscous flow
+  - Regelation
+  - Glacier mechanics
+tldr: This article presents an exact calculation of the drag force experienced by a glacier sliding over an irregular rock bed. The study uses a Newtonian viscous approximation to model the flow properties of the ice, considering regelation and plastic deformation mechanisms. The analysis shows that the drag force can be expressed as an integral involving the two-dimensional Fourier components of the bed relief or as an integral involving the bed relief itself, highlighting the importance of average properties of the bed relief in determining the overall drag.
+scientific_discipline: Environmental and Earth Sciences > Glaciology

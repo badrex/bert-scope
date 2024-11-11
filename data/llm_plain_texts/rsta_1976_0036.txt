@@ -1,0 +1,10 @@
+article_id: rsta_1976_0036
+revised_title: Spectroscopic Studies of the Solar Corona at X-ray Wavelengths
+semantic_tags:
+  - Solar physics
+  - X-ray spectroscopy
+  - Solar corona
+  - Plasma density
+  - Resonance scattering
+tldr: This article discusses spectroscopic studies of the solar corona at X-ray wavelengths, focusing on the spatial distribution of emission in several X-ray lines. The authors present new results for the trio of helium-like lines, demonstrating a spatial variation in the density-dependent forbidden to intersystem line ratio and a strong spatial variation in the intensity of the resonance line relative to the optically forbidden transitions. The latter effect is believed to be caused by resonance scattering by material in the line of sight.
+scientific_discipline: Physics > Astronomy

@@ -1,0 +1,10 @@
+article_id: rspa_1961_0137
+revised_title: Rapid Measurement of Spectral Intensity with an Oscillating Fabry-Perot Spectrometer: Applications in Isotope Abundance Determination
+semantic_tags:
+  - Spectroscopy
+  - Fabry-Perot interferometer
+  - Spectral intensity
+  - Isotope abundance
+  - Mercury
+tldr: The article describes a high-resolution photoelectric spectrometer using a mechanically scanned Fabry-Perot interferometer that produces high-finesse spectral profiles continuously and rapidly. The instrument is tested with the high-frequency discharge spectrum of mercury, providing accurate and reproducible single intensity measurements. The mercury isotope abundances are determined from spectral intensity measurements, agreeing well with mass-spectrometer values. The spectrometer's potential applications include rapidly varying phenomena in gas discharges, shock waves, and refractive index measurements.
+scientific_discipline: Physics > Optics

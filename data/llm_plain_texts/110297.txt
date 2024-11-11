@@ -1,0 +1,10 @@
+article_id: 110297
+revised_title: Simplifying the Calculation of Planetary Perturbations
+semantic_tags:
+  - Celestial Mechanics
+  - Planetary Motion
+  - Dynamics
+  - Astronomy
+  - Mathematical Physics
+tldr: The author presents a new method for calculating the perturbations of planetary orbits, which simplifies the process by focusing on the essential principles of dynamics and reducing the number of equations needed for the calculations. This approach allows for more efficient and accurate solutions to complex problems in planetary motion.
+scientific_discipline: Astronomy > Celestial Mechanics

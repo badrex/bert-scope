@@ -1,0 +1,10 @@
+article_id: rspa_1993_0016
+revised_title: High Rayleigh Number Thermal Convection in Shallow Cavity: Asymptotic Structures and New Flow Regime
+semantic_tags:
+  - Fluid dynamics
+  - Heat transfer
+  - Convection
+  - Boundary layer
+  - Rayleigh-Bénard convection
+tldr: The author investigates the flow of a fluid in a shallow cavity driven by lateral heating. They explore the asymptotic structures of the flow and discover a new regime when the Rayleigh number is of the same order as the aspect ratio. This new regime is characterized by a change in the amplitude of the core motion and a reduction in the horizontal temperature gradient. The author compares their findings with experimental and numerical results, showing good agreement.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

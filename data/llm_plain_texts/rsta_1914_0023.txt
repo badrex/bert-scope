@@ -1,0 +1,10 @@
+article_id: rsta_1914_0023
+revised_title: 'Heat Convection in Cylinders: Determination of Convection Constants and Applications to Hot-Wire Anemometry'
+semantic_tags:
+  - Heat convection
+  - Fluid dynamics
+  - Thermodynamics
+  - Heat transfer
+  - Hot-wire anemometry
+tldr: The authors investigate the convection of heat from small cylinders in a fluid stream, focusing on the determination of convection constants for small platinum wires. They apply their findings to hot-wire anemometry, a technique used to measure airspeed, and provide numerical evaluations of the functions involved in their study.
+scientific_discipline: Physics > Fluid Dynamics

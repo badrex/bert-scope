@@ -1,0 +1,10 @@
+article_id: rspa_1928_0032
+revised_title: The Deformation of Crystals of β-brass
+semantic_tags:
+  - Crystallography
+  - Metal alloys
+  - Deformation mechanisms
+  - Brass
+  - Crystal structure
+tldr: The author investigates the deformation of crystals of β-brass, a metal alloy similar to iron, and finds that it behaves similarly to iron when distorted. The study reveals that the resistance to shear varies depending on the orientation of the crystal plane, with the least resistance occurring when the plane of slip coincides with a crystal plane of type {110}. This research contributes to understanding the deformation mechanisms of metal alloys and their crystal structures.
+scientific_discipline: Physics > Materials Science

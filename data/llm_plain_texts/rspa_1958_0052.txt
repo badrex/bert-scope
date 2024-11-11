@@ -1,0 +1,9 @@
+article_id: rspa_1958_0052
+revised_title: 'Electron Bombardment Effects on Counting Diamonds'
+semantic_tags:
+  - Diamond physics
+  - Radiation damage
+  - Electron bombardment
+  - Counting response
+  - Diamond coloration
+tldr: The authors investigated the effects of 13.5 MeV electron bombardment on the counting properties of diamonds. They found that the counting pulse heights decrease progressively with increasing electron bombardment flux, and the diamonds become bluish-green after a total flux of around 4 x 10^16 electrons/cm². The results suggest that preferential damage in the vicinity of intrinsic aggregates of vacant sites may lead to partial graphitization of these regions.

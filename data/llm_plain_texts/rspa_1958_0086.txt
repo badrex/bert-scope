@@ -1,0 +1,10 @@
+article_id: rspa_1958_0086
+revised_title: Isotope Shifts in the Atomic Spectrum of Palladium: Experimental Method and Results
+semantic_tags:
+  - Isotope shifts
+  - Atomic spectrum
+  - Palladium
+  - Nuclear deformation
+  - Spectroscopy
+tldr: This article presents an investigation of isotope shifts in the atomic spectrum of palladium. The authors measure the isotope shifts in the arc line 3405 A for all even isotopes of palladium using enriched samples. They find that the ratio of shifts for a given sequence of neutron numbers agrees fairly closely with other elements, allowing for the derivation of information on nuclear deformation over a wider range of neutron numbers.
+scientific_discipline: Physics > Atomic and Molecular Physics

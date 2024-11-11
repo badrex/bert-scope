@@ -1,0 +1,10 @@
+article_id: 'rspb_1993_0051'
+revised_title: 'Tracing the Coupling Patterns of Axon-Bearing Horizontal Cells in Mammalian Retina'
+semantic_tags:
+  - Retinal Neurons
+  - Horizontal Cells
+  - Neurobiology
+  - Vision Science
+  - Dendritic Coupling
+tldr: The author investigated the coupling patterns of axon-bearing horizontal cells in the mammalian retina, specifically in rabbit retina, using Neurobiotin as a tracer. They discovered that B-type horizontal cells show strong tracer coupling between their dendritic trees and axonal arborizations, suggesting that these cells are electrically coupled. This finding establishes a similarity in coupling patterns between axon-bearing horizontal cells in mammalian and non-mammalian retinae.
+scientific_discipline: Biology and Life Sciences > Neurobiology

@@ -1,0 +1,10 @@
+article_id: rsta_1976_0079
+revised_title: The Kinetics of Rock Deformation by Pressure Solution
+semantic_tags:
+  - Geology
+  - Rock deformation
+  - Pressure solution
+  - Diffusion
+  - Geological structure
+tldr: The authors present a model for rock deformation by pressure solution, which involves grain boundary diffusive mass transfer. They compare this process with other deformation mechanisms and discuss the role of fluid films in stressed grain boundaries. The model predicts that pressure solution can occur at lower temperatures than other deformation processes, and the authors suggest that this may explain why it is commonly observed in nature.
+scientific_discipline: Earth Sciences > Geology

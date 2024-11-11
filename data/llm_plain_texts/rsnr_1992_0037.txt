@@ -1,0 +1,10 @@
+article_id: 'rsnr_1992_0037'
+revised_title: 'The Evolution of Hanbury Brown's Intensity Interferometer and its Impact on Quantum Optics'
+semantic_tags:
+  - Quantum Optics
+  - Radio Astronomy
+  - Intensity Interferometer
+  - Hanbury Brown
+  - History of Science
+tldr: The author reviews R. Hanbury Brown's book, 'Boffin: a personal story of the early days of radar, radio astronomy, and quantum optics,' which recounts the development of the intensity interferometer and its impact on the field of quantum optics. Hanbury Brown's work, initially met with skepticism, eventually led to significant discoveries in the measurement of stellar diameters and the understanding of the correlation between photons in coherent light beams. The book also covers Hanbury Brown's contributions to radar research and early radio astronomy.
+scientific_discipline: Physics > Optics

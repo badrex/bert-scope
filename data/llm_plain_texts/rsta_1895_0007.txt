@@ -1,0 +1,10 @@
+article_id: rsta_1895_0007
+revised_title: 'Spectra of Argon: Red and Blue'
+semantic_tags:
+  - Spectroscopy
+  - Argon
+  - Gas Spectra
+  - Induction Spark
+  - Vacuum Tubes
+tldr: The author examines the spectra of argon gas using a spectroscope and a spectrograph, discovering two distinct spectra called red and blue argon. The red spectrum is produced by a lower electromotive force, while the blue spectrum requires a higher electromotive force and a hot spark. The author also discusses the process of purifying argon gas and the differences in spectra when mixed with nitrogen.
+scientific_discipline: Physics > Spectroscopy

@@ -1,0 +1,9 @@
+article_id: 'rstb_1990_0063'
+revised_title: 'Diatom-based Paleolimnological Reconstructions of Dissolved Organic Carbon in North American Lakes'
+semantic_tags:
+  - Paleolimnology
+  - Lake acidification
+  - Diatoms
+  - Dissolved organic carbon
+  - PIRLA project
+tldr: This study presents diatom-based paleolimnological reconstructions of dissolved organic carbon (DOC) in four North American regions as part of the Paleoecological Investigation of Recent Lake Acidification (PIRLA) project. The research uses maximum likelihood and weighted-averaging regression to estimate species optima and tolerances along the DOC gradient. The findings demonstrate that DOC changes in some recently acidified lakes parallel reconstructed pH declines, highlighting the importance of understanding organic matter dynamics in lake ecosystems.

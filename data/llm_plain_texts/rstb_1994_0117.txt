@@ -1,0 +1,10 @@
+article_id: rstb_1994_0117
+revised_title: The Impact of Root Shrinkage on Soil Water Inflow and Plant Transpiration
+semantic_tags:
+  - Plant Physiology
+  - Soil Science
+  - Root-Shrinkage
+  - Water Inflow
+  - Transpiration
+tldr: This article explores the effect of root shrinkage on soil water inflow and plant transpiration. As a plant's roots dry out, they may shrink and lose partial contact with the soil, which can decrease water inflow. The author presents a model to calculate the impact of root shrinkage on water inflow and discusses the factors that influence this process, such as root radius, root shrinkage, root hydraulic conductivity, and soil water potential.
+scientific_discipline: Environmental and Earth Sciences > Soil Science

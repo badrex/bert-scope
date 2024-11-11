@@ -1,0 +1,10 @@
+article_id: rspa_1971_0047
+revised_title: 'Activity Coefficients of Electrolytes: Aqueous Mixtures of 2:2 and 1:1 Electrolytes'
+semantic_tags:
+  - Electrochemistry
+  - Aqueous solutions
+  - Ionic strength
+  - Activity coefficients
+  - Poisson-Boltzmann equation
+tldr: This article investigates the activity coefficients of electrolytes, particularly in aqueous mixtures of 2:2 and 1:1 electrolytes. The authors use Muller's method to solve the Boltzmann equation and produce tables for potential, activity coefficients, and osmotic coefficients. They find that the Kirkwood-Glueckauf approximation is more suitable for dealing with highly charged ions in concentrated solutions. The study also compares the Poisson-Boltzmann equation with Bjerrum's treatment of ion association in the presence of 1:1 electrolytes.
+scientific_discipline: Chemistry > Electrochemistry

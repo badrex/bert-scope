@@ -1,0 +1,10 @@
+article_id: rspa_1925_0123
+revised_title: 'The Influence of Surface Tension and Refractive Index on Light Scattering by Liquids'
+semantic_tags:
+  - Surface tension
+  - Light scattering
+  - Refractive index
+  - Liquid surfaces
+  - Surface opalescence
+tldr: This article investigates the relationship between surface tension, refractive index, and light scattering in various liquids. The authors found that the intensity of surface opalescence generally increases when surface tension decreases or refractive index increases. They also observed that the presence of contaminants, such as oily matter, significantly alters the surface tension and light scattering properties of water.
+scientific_discipline: Physics > Optics

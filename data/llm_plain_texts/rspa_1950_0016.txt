@@ -1,0 +1,10 @@
+article_id: rspa_1950_0016
+revised_title: 'Pressure and Temperature Effects on Thermal Conductivities of Organic Vapours'
+semantic_tags:
+  - Thermal Conductivity
+  - Organic Vapours
+  - Pressure Effects
+  - Temperature Effects
+  - Gas Conductivity
+tldr: The authors investigated the thermal conductivities of various organic vapours and found that some vapours showed a significant increase in conductivity with pressure, while others exhibited non-linear increases due to association to polymers. The results suggest that the differences in behaviour between the vapours are due to their association or non-association. The study provides insights into the relationship between gas imperfection, pressure, and temperature effects on thermal conductivity.
+scientific_discipline: Chemistry > Physical Chemistry

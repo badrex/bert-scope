@@ -1,0 +1,11 @@
+article_id: rspa_1950_0116
+revised_title: Asymptotic Expansions for Hypergeometric Functions in Gas-Flow Theory
+semantic_tags:
+  - Asymptotic expansions
+  - Hypergeometric functions
+  - Gas-flow theory
+  - Differential equations
+  - Fluid dynamics
+tldr: This article presents asymptotic expansions for hypergeometric functions that arise in gas-flow theory. The authors develop two types of formulae: elementary ones involving exponential or circular functions and singular at the sonic value, and uniform approximation formulae near the sonic value. These formulae provide 7-figure accuracy over the physically significant range of the argument for large values of the order. The coefficients are tabulated for specific cases, and the results can be used to calculate solutions of the differential equations for gas flows in two dimensions.
+scientific_discipline: Mathematics > Applied Mathematics
+```

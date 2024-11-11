@@ -1,0 +1,10 @@
+article_id: rspa_1972_0018
+revised_title: 'Superconductivity in Thick, Clean S-N-S Sandwiches'
+semantic_tags:
+  - Superconductivity
+  - Proximity effect
+  - Josephson effect
+  - Critical supercurrent density
+  - Temperature-dependent coherence length
+scientific_discipline: Physics > Condensed Matter Physics
+tldr: The authors conducted experiments on thick, clean S-N-S sandwiches to study supercurrents and the proximity effect. They found that the critical supercurrent density is subject to random variation but can be described by a semi-empirical expression. The results provide evidence that the process is controlled by a temperature-dependent coherence length. The authors observed supercurrents in lead-copper and tin-copper sandwiches but not in the lead-gold system. The findings may be due to the growth of intermetallic compounds at the interfaces.

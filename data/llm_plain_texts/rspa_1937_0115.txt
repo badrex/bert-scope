@@ -1,0 +1,10 @@
+article_id: rspa_1937_0115
+revised_title: Thermodynamic Properties of CO2 up to 3000 Atmospheres
+semantic_tags:
+  - Thermodynamics
+  - Carbon Dioxide
+  - High Pressure
+  - Temperature
+  - Gas Properties
+tldr: The authors conducted experiments to study the thermodynamic properties of CO2 at high pressures and temperatures. They found that the specific heat, free energy, total energy, and entropy of CO2 change with increasing pressure and temperature. The results provide insights into the behavior of CO2 under extreme conditions and can be used for various industrial and scientific applications.
+scientific_discipline: Chemistry > Thermodynamics

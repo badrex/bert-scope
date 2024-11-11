@@ -1,0 +1,10 @@
+article_id: rspa_1953_0142
+revised_title: 'Forces Acting on a Circular Cylinder in a Uniform Stream at Low Reynolds Numbers'
+semantic_tags:
+  - Fluid Dynamics
+  - Hydrodynamics
+  - Reynolds Number
+  - Fluid Mechanics
+  - Aerodynamics
+tldr: The authors study the forces acting on a circular cylinder set obliquely in a uniform stream at low Reynolds numbers. They calculate the transverse and longitudinal components of force and provide expansion formulae in powers of the Reynolds number. The research contributes to understanding the mechanics of swimming in long and narrow animals in a viscous fluid.
+scientific_discipline: Physics > Fluid Dynamics

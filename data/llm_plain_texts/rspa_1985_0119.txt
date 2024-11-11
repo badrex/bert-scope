@@ -1,0 +1,10 @@
+article_id: rspa_1985_0119
+revised_title: Analytic Representation of Quasi-Normal Modes of Kerr Black Holes
+semantic_tags:
+  - Black Holes
+  - Gravitational Waves
+  - Kerr Geometry
+  - Quasi-Normal Modes
+  - Astrophysics
+tldr: The author presents an analytic representation for the quasi-normal modes of Kerr black holes by constructing exact eigensolutions to the radiative boundary-value problem. The method involves using Jaffe's characteristic equation and Teukolsky's equations describing small perturbations to the Kerr geometry. The study reveals an infinite number of complex quasi-normal frequencies for each -pole moment in a Schwarzschild black hole, with the real parts of the corresponding frequencies being bounded, while the imaginary parts are not.
+scientific_discipline: Physics > Astrophysics

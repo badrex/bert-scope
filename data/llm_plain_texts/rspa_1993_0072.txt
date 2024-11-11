@@ -1,0 +1,10 @@
+article_id: rspa_1993_0072
+revised_title: Micromechanics-Based Constitutive Relations for Granular Materials
+semantic_tags:
+  - Granular materials
+  - Micromechanics
+  - Constitutive relations
+  - Fabric
+  - Contact forces
+tldr: This article presents micromechanics-based constitutive relations for two-dimensional flow of granular materials. The authors introduce local constitutive equations for the rate of change of contact forces, the evolution of contact normals, the mechanism of local failure, and the density of contacts in a particular class. The overall response of a two-dimensional assembly of discs subjected to an overall shearing deformation is determined, and the stress-strain relations and the evolution of fabric and contact forces are in qualitative agreement with the observed behavior of granular materials.
+scientific_discipline: Engineering and Technology > Mechanics and Materials

@@ -1,0 +1,10 @@
+article_id: 'rsta_1977_0004'
+revised_title: 'Carbon Composition Analysis of Luna 16 and 20 Samples'
+semantic_tags:
+  - Lunar Soil Chemistry
+  - Carbon Compounds
+  - Hydrolysable Carbon
+  - Trapped Gases
+  - Apollo Samples
+tldr: The authors analyzed the carbon chemistry of Luna 16 and 20 samples, revealing that both soils are highly mature and have experienced similar exposure on the lunar surface. They found that the concentration of hydrolysable carbon species in the samples is associated with metallic iron, and the ratio of involatile to volatile carbon provides information about the thermal history of various particle types. The study also showed that the finer fractions of the samples have lower ratios and higher absolute amounts of hydrolysable carbon.
+scientific_discipline: Earth Sciences > Geochemistry

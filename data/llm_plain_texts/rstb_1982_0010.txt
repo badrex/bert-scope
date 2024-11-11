@@ -1,0 +1,10 @@
+article_id: 'rstb_1982_0010'
+revised_title: 'A Review of Mathematical Models for Investigating Soil Nitrogen Behavior'
+semantic_tags:
+  - Soil Science
+  - Nitrogen Cycle
+  - Soil Nitrogen Models
+  - Agricultural Modeling
+  - Environmental Science
+tldr: 'This article reviews various mathematical models for studying the behavior of nitrogen in soil, categorizing them based on their purpose, timespan, dynamics, and conceptual focus. The authors discuss the differences between predictive, management, and scientific models and highlight the importance of understanding process interactions and critical feedback mechanisms in soil nitrogen research.'
+scientific_discipline: Environmental and Earth Sciences > Soil Science

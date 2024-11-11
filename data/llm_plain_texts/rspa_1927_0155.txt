@@ -1,0 +1,10 @@
+article_id: rspa_1927_0155
+revised_title: High-Pressure Gaseous Combustion: Methane and Oxygen Mixtures
+semantic_tags:
+  - Combustion
+  - High-pressure chemistry
+  - Methane
+  - Oxygen
+  - Gas explosions
+tldr: This study investigates the combustion of methane and oxygen mixtures at high pressures. The authors found that increasing the initial pressure allows for the explosion of mixtures containing larger proportions of methane. They also discovered that the effect of higher initial pressure is not only to increase the violence of explosions but also to reduce carbon deposition, sometimes even suppressing it completely. The authors provide detailed results of their experiments, including pressure-time records and gas balances, which help to understand the behavior of these mixtures under various conditions.
+scientific_discipline: Chemistry > Combustion Chemistry

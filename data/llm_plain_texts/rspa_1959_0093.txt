@@ -1,0 +1,10 @@
+article_id: rspa_1959_0093
+revised_title: Calculation of the Lamb Shift for a Tightly Bound Electron in Mercury
+semantic_tags:
+  - Atomic Physics
+  - Quantum Mechanics
+  - Lamb Shift
+  - Mercury
+  - Electron Binding Energy
+tldr: The authors calculate the Lamb shift of a tightly bound electron in mercury using a method described in a preceding paper. They find the Lamb shift to be 38 Ry, which, when combined with other theoretical calculations, results in a theoretical binding energy of -6099 Ry. This value can be compared with the experimental value of 6109 Ry for the K-absorption edge. The authors discuss other contributions of order that have not been evaluated in this paper but plan to calculate them in the future.
+scientific_discipline: Physics > Atomic Physics

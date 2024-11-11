@@ -1,0 +1,10 @@
+article_id: rspl_1881_0063
+revised_title: 'Euler's Sums of Reciprocals of Powers of Prime Numbers'
+semantic_tags:
+  - Number Theory
+  - Prime Numbers
+  - Euler's Summation Formula
+  - Bernoulli Numbers
+  - Napierian Logarithms
+tldr: The author explores Euler's work on the sums of the series of reciprocals of prime numbers and their powers. They use Legendre's table to calculate Napierian logarithms and apply Mobius' theorem to obtain the desired results. This study helps in understanding the properties of prime numbers and their significance in number theory.
+scientific_discipline: Mathematics > Number Theory

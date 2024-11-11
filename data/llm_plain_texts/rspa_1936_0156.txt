@@ -1,0 +1,10 @@
+article_id: 'rspa_1936_0156'
+revised_title: 'Ionization, Excitation, and Chemical Reactions in Uniform Electric Fields: Townsend Coefficient of Ionization'
+semantic_tags:
+  - Ionization
+  - Electric Fields
+  - Townsend Coefficient
+  - Gas Ionization
+  - Excitation
+tldr: 'The authors conducted experiments to study ionization, excitation, and chemical reactions in uniform electric fields. They focused on the Townsend coefficient of ionization, which measures the number of new ions produced by each electron while drifting in the field. The authors compared their calculated values with experimental data from other sources and discussed the discrepancies found in different gases, such as hydrogen, air, nitrogen, and argon.'
+scientific_discipline: Physics > Electromagnetism

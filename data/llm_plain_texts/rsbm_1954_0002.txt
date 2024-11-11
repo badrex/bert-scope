@@ -1,0 +1,10 @@
+article_id: 'rsbm_1954_0002'
+revised_title: 'Ernest William Barnes: A Pioneering Mathematician and Scholar'
+semantic_tags:
+  - Mathematics
+  - History of Science
+  - Analytic Functions
+  - Differential Equations
+  - Transcendental Functions
+tldr: 'Ernest William Barnes was a prominent British mathematician and scholar, known for his work on gamma functions, Riemann zeta-functions, and multiple gamma-functions. He made significant contributions to the study of integral functions, linear difference-equations, and the classification of transcendental functions. Barnes's work has had a lasting impact on the fields of mathematics and science.'
+scientific_discipline: Mathematics > History of Science

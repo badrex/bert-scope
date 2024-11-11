@@ -1,0 +1,10 @@
+article_id: rspa_1939_0140
+revised_title: Relativistic Wave Equations for Particles of Arbitrary Spin in an Electromagnetic Field
+semantic_tags:
+  - Quantum Mechanics
+  - Electromagnetic Field Theory
+  - Particle Physics
+  - Relativity
+  - Spinor Fields
+tldr: This article presents a theory for relativistic wave equations that describe particles of arbitrary spin interacting with an electromagnetic field. The authors introduce auxiliary tensors and spinors to derive equations from a variation principle, allowing them to account for the effects of external fields without introducing extra conditions. The theory is applicable to particles with spin values greater than 1, although it is more complex than for smaller spin values.
+scientific_discipline: Physics > Quantum Mechanics

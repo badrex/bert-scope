@@ -1,0 +1,10 @@
+article_id: rspa_1978_0166
+revised_title: Evolution of Resonant Wave Triads in Space and Time
+semantic_tags:
+  - Wave Interactions
+  - Resonance Phenomena
+  - Nonlinear Wave Equations
+  - Fluid Mechanics
+  - Plasma Physics
+tldr: The authors study the evolution of weakly nonlinear resonant wave triads in space and time, focusing on the 'pump-wave approximation' where one wave is much larger than the other two and propagates without change in form. They examine cases where the wave amplitudes are functions of two spatial coordinates and time, and explore the behavior of localized wave packets in the presence of a larger pump wave. This research has applications in plasma physics, nonlinear optics, electrical and mechanical oscillations, and fluid mechanics.
+scientific_discipline: Physics > Fluid Mechanics

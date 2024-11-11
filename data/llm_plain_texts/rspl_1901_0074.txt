@@ -1,0 +1,10 @@
+article_id: rspl_1901_0074
+revised_title: 'The Study of Visual Sensation and the Development of a Sensation Scale'
+semantic_tags:
+  - Visual perception
+  - Sensation scale
+  - Contrast effect
+  - Luminosity
+  - Psychophysics
+tldr: The author discusses the challenges of quantifying sensations and proposes a method to create a sensation scale. They use a rotating disc with varying shades of grey to demonstrate that equal increments of stimulus do not produce equal increments of sensation. The author suggests that equal sensations require increments of stimulus in a geometrical progression and creates a curve to represent this relationship. However, they find that the curve is not uniform and appears more like a convex curve.
+scientific_discipline: Psychology > Psychophysics

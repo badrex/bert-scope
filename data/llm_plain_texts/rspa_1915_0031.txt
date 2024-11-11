@@ -1,0 +1,10 @@
+article_id: 'rspa_1915_0031'
+revised_title: 'Investigation of Local Pressure Differences and Vortices Near a Submerged Obstacle in Oscillating Water'
+semantic_tags:
+  - Fluid dynamics
+  - Vortices
+  - Pressure differences
+  - Oscillating water
+  - Submerged obstacles
+tldr: The author conducted experiments with oscillating water and submerged obstacles to study the local pressure differences and vortices formed near the obstacles. They discovered that during the first part of a water swing, the pressure on the lee side of the obstacle is less than on top, while during the second part, the pressure on the lower part of the lee side becomes greater than on top. This local pressure difference causes local currents, leading to the formation of vortices in the lee of the obstacle.
+scientific_discipline: Physics > Fluid dynamics

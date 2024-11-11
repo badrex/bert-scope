@@ -1,0 +1,10 @@
+article_id: rspa_1933_0121
+revised_title: 'Generalized Curves and Applications in the Calculus of Variations'
+semantic_tags:
+  - Calculus of Variations
+  - Geometry
+  - Mathematical Analysis
+  - Functional Analysis
+  - Applied Mathematics
+tldr: The authors introduce generalized curves and a new approach to the calculus of variations, providing a more precise understanding of curve properties and extending the theory of semi-continuity. They also explore connections with modern quantum mechanics and provide new methods for analyzing curvilinear integrals.
+scientific_discipline: Mathematics > Calculus of Variations

@@ -1,0 +1,10 @@
+article_id: 110314
+revised_title: Further Developments in Moon's Physical Astronomy Theory
+semantic_tags:
+  - Astronomy
+  - Celestial Mechanics
+  - Lunar Dynamics
+  - Differential Equations
+  - Mathematical Physics
+tldr: John William Lubbock's paper presents further research in physical astronomy, specifically focusing on the moon's dynamics. He provides a direct integration of differential equations to support the stability of the lunar system and to simplify calculations for astronomers.
+scientific_discipline: Astronomy > Celestial Mechanics

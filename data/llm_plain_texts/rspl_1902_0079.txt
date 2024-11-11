@@ -1,0 +1,10 @@
+article_id: rspl_1902_0079
+revised_title: Abnormal Changes in Lithium Spectrum Lines
+semantic_tags:
+  - Spectroscopy
+  - Lithium
+  - Atomic physics
+  - Flame spectrum
+  - Arc spectrum
+tldr: The author examines the spectrum of lithium in both flame and arc conditions, discovering abnormal changes in some lines. They observe differences in the appearance of the blue line in various spectra, including the flame, arc, and spark spectra. The study provides insights into the behavior of lithium in different conditions and contributes to the understanding of atomic physics.
+scientific_discipline: Physics > Atomic physics

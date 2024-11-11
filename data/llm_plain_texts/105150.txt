@@ -1,0 +1,10 @@
+article_id: 105150
+revised_title: 'A Comparative Analysis of Life Expectancy Tables by Dr. Halley and M. Dupre'
+semantic_tags:
+  - Demography
+  - Life expectancy
+  - Actuarial science
+  - Probability theory
+  - Statistical analysis
+tldr: The author compares the life expectancy tables of Dr. Halley and M. Dupre, analyzing their methods and findings. They argue that Dr. Halley's table is more accurate and precise, providing a better representation of the probabilities of human life duration. The author also addresses the limitations of M. Dupre's and Justel's observations, emphasizing the importance of considering the number of living persons among whom the observations are made.
+scientific_discipline: Social Sciences > Demography

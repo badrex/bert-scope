@@ -1,0 +1,11 @@
+article_id: rspa_1990_0005
+revised_title: 'Global Bifurcation Analysis of Anisotropic Plate Buckling'
+semantic_tags:
+  - Plate Theory
+  - Anisotropy
+  - Bifurcation Analysis
+  - Nonlinear Elasticity
+  - Singular Equations
+tldr: This paper investigates the global behavior of axisymmetric buckled states of anisotropic nonlinearly elastic circular plates under edge thrust. The study uses a geometrically exact plate theory that accounts for flexure, extension, and shear, with general nonlinear constitutive functions. The anisotropy in the plate leads to unexpected pathologies in the global bifurcation analysis, requiring new techniques to handle the problem. The paper demonstrates the existence of connected global branches of solution pairs with specific nodal properties inherited from eigenfunctions of the linearized problem, which are preserved across gaps in the branches.
+scientific_discipline: Mathematics > Applied Mathematics
+sub_discipline: 'Partial Differential Equations > Boundary Value Problems'

@@ -1,0 +1,10 @@
+article_id: rspa_1983_0101
+revised_title: 'Improving Steady Inverse Boundary-Layer Flow Calculations with a Time-Dependent Approach'
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Separation and Reattachment Flows
+  - Numerical Methods
+  - Inverse Boundary-Layer Method
+tldr: The author presents a time-dependent approach for calculating steady inverse boundary-layer flows with separation, using Keller's box method and Cebeci's Mechul function formulation. This method can be used to compute flows with separation more accurately, especially when the FLARE approximation is insufficient. The results show that the time-dependent approach can improve the accuracy of solutions obtained from the FLARE approximation.
+scientific_discipline: Engineering and Technology > Fluid Dynamics

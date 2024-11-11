@@ -1,0 +1,10 @@
+article_id: rspa_1934_0145
+revised_title: 'Excitation of Band Systems by Electron Impact: A Study on Nitrogen'
+semantic_tags:
+  - Atomic and Molecular Physics
+  - Spectroscopy
+  - Electron Impact
+  - Nitrogen Band Systems
+  - Quantum Mechanics
+tldr: This article presents a study on the excitation of band systems in nitrogen by electron impact. The author develops a simple excitation theory and uses assumptions to calculate the relative intensities of bands with the same electronic transition but different initial vibrational quantum numbers. The results show that the assumptions are valid for certain voltage ranges, and the calculated complete intensities agree well with experimental data.
+scientific_discipline: Physics > Atomic and Molecular Physics

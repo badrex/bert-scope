@@ -1,0 +1,10 @@
+article_id: rspa_1953_0174
+revised_title: 'Short Surface Waves and Oscillating Immersed Bodies: A Rigorous Solution'
+semantic_tags:
+  - Fluid Dynamics
+  - Wave Theory
+  - Surface Waves
+  - Oscillating Bodies
+  - Mathematical Physics
+tldr: The article presents a rigorous and convergent method to calculate the fluid motion caused by a long circular cylinder oscillating vertically in a fluid. The solution is valid for large values of the parameter, which determines the period, radius, and gravitational acceleration of the oscillations. The method is based on an integral equation and can potentially be applied to diffraction problems in acoustics and optics.
+scientific_discipline: Physics > Fluid Dynamics

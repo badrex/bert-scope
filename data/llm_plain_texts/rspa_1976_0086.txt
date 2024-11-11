@@ -1,0 +1,10 @@
+article_id: rspa_1976_0086
+revised_title: 'Approximate Kernel for Dynamic Crack Problems in Linear Elasticity and Viscoelasticity'
+semantic_tags:
+  - Elasticity
+  - Viscoelasticity
+  - Crack problems
+  - Wiener-Hopf technique
+  - Approximate kernel
+tldr: The authors present an approximate kernel for dynamic crack problems in linear elasticity and viscoelasticity, simplifying the analysis and retaining essential features of the exact solutions. The approximate kernel can be used with the Wiener-Hopf technique or a method by E. Williams, and it also simplifies Kostrov's solution of the arbitrarily moving crack problem.
+scientific_discipline: Engineering and Technology > Materials Science

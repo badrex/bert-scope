@@ -1,0 +1,12 @@
+article_id: 'rspb_1974_0048'
+revised_title: 'Amino Acid Sequence of Human Myoglobin and Its Minor Fractions'
+semantic_tags:
+  - Protein Structure
+  - Myoglobin
+  - Amino Acid Sequence
+  - Biochemistry
+  - Human Physiology
+tldr: The authors describe the complete amino acid sequence of human skeletal and heart myoglobin. They also discuss minor fractions of myoglobin, which are shown to be artifacts arising from deamidation. The study contributes to the understanding of human myoglobin's role in muscular diseases and its comparison with the alpha- and beta-chains of human hemoglobin.
+scientific_discipline: Biology and Life Sciences > Biochemistry
+```yaml
+```

@@ -1,0 +1,10 @@
+article_id: rspa_1979_0161
+revised_title: 'Thermally Driven Hydromagnetic Convection in a Rapidly Rotating Sphere: A Review'
+semantic_tags:
+  - Fluid Dynamics
+  - Magnetohydrodynamics
+  - Convection
+  - Rotating Fluids
+  - Geophysical Fluid Dynamics
+tldr: This article investigates thermally driven hydromagnetic convection in a rapidly rotating sphere. The study focuses on the effects of an imposed azimuthal magnetic field on the fluid's stability and the resulting convection patterns. Two distinct modes of instability, "Rossby" and "magnetic," are identified, and their behavior is analyzed under varying conditions. The research provides insights into the complex interactions between buoyancy, rotation, and magnetic forces in the Earth's fluid core.
+scientific_discipline: Physics > Fluid Dynamics

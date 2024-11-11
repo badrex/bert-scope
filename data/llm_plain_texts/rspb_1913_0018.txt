@@ -1,0 +1,10 @@
+article_id: 'rspb_1913_0018'
+revised_title: 'The Liberation of Ions and Oxygen Tension in Tissues During Activity'
+semantic_tags:
+  - Cellular Biology
+  - Ion Liberation
+  - Oxygen Tension
+  - Muscle Physiology
+  - Electrobiology
+tldr: The authors conducted experiments to measure the ionic changes in tissues during muscle activity. They discovered that when muscles contract, hydrogen ions and oxygen tension change, which can affect the surrounding environment. This research could potentially lead to a method for measuring oxygen tensions in tissues directly.
+scientific_discipline: Biology and Life Sciences > Cellular Biology

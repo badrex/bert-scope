@@ -1,0 +1,10 @@
+article_id: 'rspb_1974_0060'
+revised_title: 'Characterization of Lymphocyte Surface Components: Fc Receptors, C3 Receptors, and Surface Immunoglobulin'
+semantic_tags:
+  - Immunology
+  - Lymphocytes
+  - Cell Surface Receptors
+  - Complement System
+  - B Lymphocytes
+tldr: This study investigates the properties of Fc receptors, C3 receptors, and surface immunoglobulin on rat lymphocytes. The researchers develop rosetting methods to detect these surface structures and find that they represent separate molecules on the cell membrane. This work contributes to understanding the differences between functionally different lymphocytes and their roles in immune responses.
+scientific_discipline: Biology and Life Sciences > Immunology

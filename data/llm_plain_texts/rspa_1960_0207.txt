@@ -1,0 +1,10 @@
+article_id: rspa_1960_0207
+revised_title: 'Formation of Flat Sheets of Water: A Study of Oblique Jet Impingement'
+semantic_tags:
+  - Fluid Dynamics
+  - Jet Impingement
+  - Converging and Diverging Fluid Sheets
+  - Elliptic Fluid Flow
+  - Surface Pressure
+tldr: The author investigates the formation of flat sheets of water when two cylindrical jets collide obliquely. They describe the transformation of the converging fluid sheet into a diverging sheet and analyze the distribution of thickness and pressure in the region of the transformation. The study provides a theoretical description of the process and compares it with experimental results.
+scientific_discipline: Physics > Fluid Dynamics

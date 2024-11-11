@@ -1,0 +1,10 @@
+article_id: rspa_1982_0095
+revised_title: 'Weibull Distribution Approximation for Fibrous Composites'
+semantic_tags:
+  - Weibull distribution
+  - Composite materials
+  - Probability models
+  - Load sharing
+  - Series-parallel systems
+tldr: This article presents an alternative formulation of a probability model for fibrous composites, focusing on a 'chain of bundles' model. The author demonstrates that the strength of a bundle or a series-parallel system has an approximate Weibull distribution with a shape parameter, which is consistent with previous numerical calculations and has consequences for the size effect in composites.
+scientific_discipline: Engineering and Technology > Materials Science

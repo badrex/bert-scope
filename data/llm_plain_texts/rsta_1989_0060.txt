@@ -1,0 +1,10 @@
+article_id: 'rsta_1989_0060'
+revised_title: 'Lithium Niobate Devices in Optical Switching and Multiplexing'
+semantic_tags:
+  - Integrated Optics
+  - Lithium Niobate Devices
+  - Optical Switching
+  - Optical Multiplexing
+  - Fiber Optics
+tldr: The article discusses the use of lithium niobate devices in optical switching and multiplexing for fiber-optic communication systems. These devices offer advantages in performing modulation, switching, and multiplexing functions in high-speed and low-speed systems. The author reviews the status of lithium niobate devices, their performance limitations, and potential applications, including multiplexing, demultiplexing, and network rearrangement.
+scientific_discipline: Engineering and Technology > Fiber Optics and Integrated Optics

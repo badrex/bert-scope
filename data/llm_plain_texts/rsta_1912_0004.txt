@@ -1,0 +1,10 @@
+article_id: rsta_1912_0004
+revised_title: Sturm-Liouville Series and Integral Equations in Function Representation
+semantic_tags:
+  - Sturm-Liouville series
+  - Integral equations
+  - Function representation
+  - Normal functions
+  - Mathematical analysis
+tldr: This article explores the representation of functions as a series of normal functions in the context of integral equations. It focuses on Sturm-Liouville series and their convergence properties, expanding on the work of Schmidt, Hilbert, and others. The author demonstrates the application of these series to a wide range of functions and discusses the potential for further development and extension to other expansions, such as Legendre's and Bessel's functions.
+scientific_discipline: Mathematics > Analysis

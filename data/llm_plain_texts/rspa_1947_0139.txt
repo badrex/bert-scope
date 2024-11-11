@@ -1,0 +1,10 @@
+article_id: rspa_1947_0139
+revised_title: Atmospheric Resonance and Oscillations: A Theoretical Analysis
+semantic_tags:
+  - Atmospheric oscillations
+  - Resonance theory
+  - Tidal energy
+  - Atmospheric temperature distribution
+  - Differential analyzer
+tldr: This article explores the resonance theory and its application to atmospheric oscillations. The authors describe the trapping of energy between a certain stratum and the ground due to tide-producing forces and discuss the types of free oscillations an atmosphere with a given temperature distribution may possess. They also present numerical calculations made with a differential analyzer to determine the extent to which the resonance theory restricts possible temperature variations in the atmosphere.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

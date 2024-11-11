@@ -1,0 +1,10 @@
+article_id: 'rspb_1971_0009'
+revised_title: 'Investigating the Dissociation of Sheep Haemoglobin at Neutral pH'
+semantic_tags:
+  - Biochemistry
+  - Hemoglobin
+  - Molecular Biology
+  - Osmotic Pressure
+  - Sedimentation Equilibrium
+tldr: 'This study investigates the dissociation of sheep haemoglobin at neutral pH using sedimentation equilibrium methods. The Yphantis method is used to measure the dissociation of sheep haemoglobin at low protein concentrations, providing confirmation of the results of the osmotic pressure study. The findings show that the dissociation of sheep haemoglobin is affected by ionic strength, temperature, and solvent conditions, with an enthalpy increase on dissociation of 55 to 63 kJ/mol observed in phosphate solutions of comparable ionic strength.'
+scientific_discipline: 'Chemistry > Biochemistry'

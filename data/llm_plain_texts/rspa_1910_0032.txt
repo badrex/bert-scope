@@ -1,0 +1,10 @@
+article_id: rspa_1910_0032
+revised_title: 'Investigating the Diurnal Inequality of Terrestrial Magnetism'
+semantic_tags:
+  - Magnetism
+  - Geophysics
+  - Earth's magnetic field
+  - Vector diagrams
+  - Magnetic observatories
+tldr: The author analyzed data from magnetic observatories at Greenwich, Falmouth, and Pawlowsk to study the diurnal inequality of terrestrial magnetism. They discovered a novel phenomenon where there is little or no variation in the force component parallel to the Earth's axis during the afternoon hours. This phenomenon was observed in XZ diagrams, which represent the diurnal force changes projected on the vertical plane containing the astronomical meridian.
+scientific_discipline: Earth Sciences > Geophysics

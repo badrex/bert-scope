@@ -1,0 +1,10 @@
+article_id: rspl_1870_0089
+revised_title: On Linear Differential Equations and Their Solutions
+semantic_tags:
+  - Differential Equations
+  - Mathematical Analysis
+  - Applied Mathematics
+  - Mathematical Physics
+  - Mathematical Theories
+tldr: The author discusses linear differential equations and their solutions, specifically focusing on cases where the solutions can be expressed as a product of logarithmic functions. The article explores the conditions under which a linear differential equation can have a solution in the form of a logarithmic function and presents methods for solving such equations.
+scientific_discipline: Mathematics > Applied Mathematics

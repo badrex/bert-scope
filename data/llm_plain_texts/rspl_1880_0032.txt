@@ -1,0 +1,10 @@
+article_id: rspl_1880_0032
+revised_title: Phenomena of the Capillary Electroscope: Influence of Electric Currents, Liquid Diffusion, and Osmosis
+semantic_tags:
+  - Electrochemistry
+  - Capillary action
+  - Electric convection
+  - Osmosis
+  - Electric currents
+tldr: This article investigates the phenomena of the capillary electroscope, focusing on the influence of electric currents, liquid diffusion, and osmosis. The author examines various solutions and their effects on the movement of mercury, concluding that the primary mechanical movement is due to a charged electric state of the liquid surfaces. The phenomena are found to be independent of chemical action, and the movements are primarily a result of electric convection.
+scientific_discipline: Physics > Electrochemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1930_0004
+revised_title: 'Flow Characteristics and Discharge Coefficients of Pipe Orifices at Low Reynolds Numbers'
+semantic_tags:
+  - Fluid Dynamics
+  - Pipe Flow
+  - Orifice Flow
+  - Reynolds Number
+  - Vortex Flow
+tldr: This article investigates the flow patterns and discharge coefficients of pipe orifices at low Reynolds numbers. The authors conducted experiments with water and colored fluids to visualize the flow patterns and took photographs to document the transition from steady to turbulent flow. They found that the discharge coefficient is affected by the diameter ratio and the nature of the flow, and that the flow patterns change as the Reynolds number increases, with the formation of vortices and return flows.
+scientific_discipline: Engineering and Technology > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspl_1901_0087
+revised_title: 'Integral Functions and Asymptotic Expansions'
+semantic_tags:
+  - Analytic Functions
+  - Asymptotic Expansions
+  - Divergent Series
+  - Integral Functions
+  - Mathematical Analysis
+tldr: This article explores the properties of integral functions and their asymptotic expansions. It discusses the classification of integral functions, the theory of divergent and asymptotic series, and the summation of divergent series. The author also presents actual asymptotic expansions of wide classes of simple integral functions with non-repeated zeros. 
+scientific_discipline: Mathematics > Analytic Functions

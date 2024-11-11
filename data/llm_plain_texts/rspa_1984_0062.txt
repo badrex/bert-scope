@@ -1,0 +1,10 @@
+article_id: rspa_1984_0062
+revised_title: 'High Resolution Electron Microscopy of Molecular Crystals: Radiation Processes at Room Temperature'
+semantic_tags:
+  - Electron Microscopy
+  - Radiation Damage
+  - Molecular Crystals
+  - Crystallography
+  - Radiation Chemistry
+tldr: This article investigates the nature of radiation damage in molecular crystals under high-resolution electron microscopy. The authors explore the effects of radiation on the image quality and discuss the quantifiable aspects of damage. They propose that encapsulating the specimen between carbon films can reduce the effect of radiation damage, suggesting that the encapsulation holds peripheral atoms in the crystal, allowing them to recombine with ions and radicals formed by the damage and prevent molecular degradation.
+scientific_discipline: Physics > Crystallography

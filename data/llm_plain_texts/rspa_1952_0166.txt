@@ -1,0 +1,10 @@
+article_id: rspa_1952_0166
+revised_title: Proton-Proton Scattering at 147 MeV: Angular Distribution and Cross-Section Measurements
+semantic_tags:
+  - Nuclear Physics
+  - Particle Accelerators
+  - Proton Scattering
+  - Cross-Section Measurements
+  - Angular Distribution
+tldr: The authors conducted an experiment using a proton beam from a cyclotron to investigate proton-proton scattering at 147 MeV. They studied the angular distribution of the scattering from 25 to 135 degrees and found it to be isotropic within the limits of error. The absolute differential cross-section for scattering at 90 degrees was measured and found to be 0.25 millibarns. The results can also be used to find the cross-section at 142 MeV.
+scientific_discipline: Physics > Nuclear Physics

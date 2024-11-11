@@ -1,0 +1,10 @@
+article_id: 'rstb_1978_0028'
+revised_title: 'Structural Analysis of SV40 Chromatin and its DNA'
+semantic_tags:
+  - Chromatin structure
+  - Nucleosomes
+  - SV40
+  - DNA supercoiling
+  - Histones
+tldr: The authors studied the structure of SV40 chromatin and found that raising the ionic strength leads to a reduction in sedimentation rate without changing the number of superhelical turns in the DNA. They also discovered that DNA in chromatin is rigidly held in place by histone contacts, and the endogenous DNA-relaxing enzyme can carry out nicking-closing reactions on DNA even in the compact form of chromatin.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

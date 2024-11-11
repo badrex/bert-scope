@@ -1,0 +1,10 @@
+article_id: 112372
+revised_title: 'Improving the Measurement of Luminous Intensity of Light'
+semantic_tags:
+  - Photometry
+  - Light measurement
+  - Lamp design
+  - Polarized light
+  - Optics
+tldr: The author, William Crookes, discusses the challenges in measuring the luminous intensity of light and proposes a new method using a uniform glass lamp with alcohol and benzol fuel. He also describes a photometer that uses polarized light to compare the relative intensities of different light sources, allowing for more accurate measurements of light, even when the colors differ.
+scientific_discipline: Physics > Optics

@@ -1,0 +1,10 @@
+article_id: rspa_1978_0107
+revised_title: Exploring the Structure of Electron Cyclotron Resonance Absorption Signals in Gases
+semantic_tags:
+  - Electron Cyclotron Resonance
+  - Gas-Phase Chemistry
+  - Microwave Discharges
+  - Free Electrons
+  - Spectroscopy
+tldr: This article investigates the structure of electron cyclotron resonance (ECR) absorption signals in gases, focusing on experiments with free electrons produced by chemi-ionization reactions and microwave discharges. The authors examine various hypotheses to explain the structure and find that the cause is not chemical in origin. Instead, they suggest that the structure may be related to irregularities in the collision cross section for momentum transfer of electrons and the presence of appreciable electric fields.
+scientific_discipline: Physics > Electromagnetism

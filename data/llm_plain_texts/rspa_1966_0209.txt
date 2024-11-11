@@ -1,0 +1,10 @@
+article_id: rspa_1966_0209
+revised_title: 'Electrical Properties of Rotating Bodies: Theoretical Analysis and Applications'
+semantic_tags:
+  - Electromagnetism
+  - Rotating Machinery
+  - Harmonic Components
+  - Skin Effect
+  - Homopolar Generator
+tldr: The authors present two theorems related to the electrical properties of rotating bodies, specifically focusing on the behavior of harmonic components and the skin effect in rapidly rotating conductors. These theorems help explain the interaction between the rotating body, surrounding circuitry, and brushes, and have applications in the design and analysis of homopolar generators.
+scientific_discipline: Physics > Electromagnetism

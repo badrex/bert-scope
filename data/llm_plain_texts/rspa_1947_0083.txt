@@ -1,0 +1,10 @@
+article_id: rspa_1947_0083
+revised_title: 'Effect of Interface on Conductivity and Emission in Oxide Cathodes'
+semantic_tags:
+  - Semiconductor physics
+  - Thermionic emission
+  - Interface properties
+  - Oxide cathodes
+  - Barrier layers
+tldr: The authors studied the effect of the coating-core interface on conductivity and emission in oxide cathodes. They found that a potential barrier occurs at the interface, which affects the current flow and thermionic emission. The barrier is associated with the decay of emission and conduction currents. The authors also discussed the influence of the base metal composition and coating properties on high current density performance.
+scientific_discipline: Physics > Materials Science

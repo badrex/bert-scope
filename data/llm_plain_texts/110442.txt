@@ -1,0 +1,10 @@
+article_id: 110442
+revised_title: 'Geometrical Investigations on Terrestrial Magnetism'
+semantic_tags:
+  - Geomagnetism
+  - Coordinate Geometry
+  - Dipping-Needles
+  - Magnetic Axis
+  - Geometrical Constructions
+tldr: The author presents a mathematical approach to study terrestrial magnetism using coordinate geometry and geometrical constructions. He investigates the magnetic phenomena resulting from the hypothesis of the duality of poles and discusses the implications of the findings. However, due to the uncertainty of the observations and the influence of geological and meteorological disturbances, the author hesitates to draw definitive conclusions.
+scientific_discipline: Earth Sciences > Geomagnetism

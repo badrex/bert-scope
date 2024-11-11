@@ -1,0 +1,10 @@
+article_id: rspa_1950_0006
+revised_title: 'Flow Properties and Stress-Strain-Velocity Relations in Concentrated High-Polymer Solutions'
+semantic_tags:
+  - Rheology
+  - Polymer Chemistry
+  - Fluid Dynamics
+  - Viscoelasticity
+  - Hydrodynamics
+tldr: The authors discuss the flow properties and stress-strain-velocity relations of concentrated high-polymer solutions, which exhibit unique phenomena not observed in dilute solutions. They introduce a generalized hydrodynamics model that accounts for the behavior of these complex fluids and identify two physical parameters, viscosity and normal stress coefficient, that influence their flow properties.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1931_0027
+revised_title: 'Photosensitised Decomposition of Nitrogen Trichloride: Part I'
+semantic_tags:
+  - Photochemistry
+  - Nitrogen Trichloride
+  - Chain Reaction
+  - Inhibition
+  - Quantum Efficiency
+scientific_discipline: Chemistry > Photochemistry
+tldr: The authors study the photosensitised decomposition of nitrogen trichloride and discover that it occurs through a chain reaction. They find that the length of the reaction chains is limited by the total pressure of chlorine in the system. The quantum efficiency of the decomposition depends on the total pressure of chlorine, with values ranging from 2 to 20 molecules of nitrogen trichloride decomposed per quantum at different pressures.

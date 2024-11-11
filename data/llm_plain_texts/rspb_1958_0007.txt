@@ -1,0 +1,10 @@
+article_id: 'rspb_1958_0007'
+revised_title: 'The Impact of Non-Immune Sera on the Absorption of Rabbit Antibody in Young Mice'
+semantic_tags:
+  - Immunology
+  - Serum Absorption
+  - Haemolytic Anaemia
+  - Mice Experimentation
+  - Antibody Uptake
+tldr: The study investigates the effects of different non-immune sera on the uptake of rabbit antibody from the gut of young mice. The severity of haemolytic anaemia in mice depends on the dose of anti-mouse haemolytic antiserum administered. The presence of non-immune sera in the antiserum reduces the amount of rabbit antibody that reaches the circulation, but not just by dilution. The extent of this effect depends on the specificity of the non-immune sera and their proportion in the ingested mixtures.
+scientific_discipline: Biology and Life Sciences > Immunology

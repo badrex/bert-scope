@@ -1,0 +1,10 @@
+article_id: rspl_1899_0044
+revised_title: Comparison of Platinum and Gas Thermometers and Determination of Boiling Point of Sulphur
+semantic_tags:
+  - Thermometry
+  - Temperature measurement
+  - Platinum resistance thermometer
+  - Gas thermometer
+  - Boiling point of sulphur
+tldr: This article describes a comparison of platinum and gas thermometers and a determination of the boiling point of sulphur on the nitrogen scale. The research was conducted in the laboratory of the Bureau International des Poids et Mesures at Sèvres. The authors found that the differences between the observed values on the nitrogen scale and those deduced from the platinum thermometer were small, even at high temperatures. The boiling point of sulphur on the nitrogen scale was determined to be 445.27 degrees.
+scientific_discipline: Physics > Thermodynamics

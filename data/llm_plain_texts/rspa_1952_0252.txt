@@ -1,0 +1,10 @@
+article_id: 'rspa_1952_0252'
+revised_title: 'A Discussion on Friction: Theoretical and Experimental Aspects'
+semantic_tags:
+  - Friction
+  - Surface Chemistry
+  - Textile Engineering
+  - Surface Tension
+  - Contaminants
+tldr: This article discusses the friction between single fibers and the factors affecting it. It presents a new method for measuring friction, the fiber-twist method, and explores the dependence of the coefficient of friction on the total load. The authors also debate the theories behind friction, including adhesion at zero load and contamination, and suggest further experiments to test these theories.
+scientific_discipline: Engineering and Technology > Textile Engineering

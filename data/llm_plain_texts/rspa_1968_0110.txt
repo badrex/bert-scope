@@ -1,0 +1,10 @@
+article_id: rspa_1968_0110
+revised_title: Hyperfine Structure Stark Effect in Samarium, Europium, and Aluminium
+semantic_tags:
+  - Atomic Physics
+  - Hyperfine Structure
+  - Stark Effect
+  - Atomic Beam Experiments
+  - Rare Earths
+tldr: The authors conducted atomic beam experiments to study the quadratic Stark effect in the hyperfine structure of samarium, europium, and aluminium. They measured large shifts attributed to the tensor polarizability, which allowed them to deduce values for the hyperfine structure parameters and compare the results with previous studies. This research provided insights into the breakdown of the central-field model in rare earths and the behavior of the Stark effect in these elements.
+scientific_discipline: Physics > Atomic Physics

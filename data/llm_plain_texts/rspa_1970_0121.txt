@@ -1,0 +1,10 @@
+article_id: rspa_1970_0121
+revised_title: Lattice Dynamics and X-ray Scattering: A One-Body Potential Theory Approach
+semantic_tags:
+  - Lattice dynamics
+  - X-ray scattering
+  - One-body potential theory
+  - Electron-phonon interaction
+  - Exchange and correlation forces
+tldr: The authors develop a one-body potential theory that takes into account exchange and correlation forces to calculate the electronic contribution to the dynamical matrix in lattice dynamics. They show that their theory can be used to evaluate deviations from the rigid-ion model, which is important for understanding many-body forces in lattice dynamics.
+scientific_discipline: Physics > Solid State Physics

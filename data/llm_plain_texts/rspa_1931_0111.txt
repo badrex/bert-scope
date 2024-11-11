@@ -1,0 +1,10 @@
+article_id: 'rspa_1931_0111'
+revised_title: 'A New Method for Measuring Magnetic Susceptibilities'
+semantic_tags:
+  - Magnetic susceptibility
+  - Magnetization
+  - Magnetic fields
+  - Torsion balance
+  - Experimental physics
+tldr: The authors developed a new method for measuring magnetic susceptibilities by using a small iron rod mounted on a balance to measure the force of reaction between the iron rod and the substance being tested. This method allows for the study of factors such as pressure, elastic strain, and temperature on the magnetization of feebly magnetic substances.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rspa_1953_0012
+revised_title: 'Vibration-Rotation Band Analysis of Monodeuteromethane'
+semantic_tags:
+  - Molecular spectroscopy
+  - Vibration-rotation bands
+  - Symmetric top molecules
+  - Infra-red spectroscopy
+  - Monodeuteromethane
+tldr: The authors investigated the fundamental vibration band of monodeuteromethane using high dispersion and a lead telluride detector in a grating spectrometer. They observed a clear splitting in the parallel band of the symmetric top molecule, providing an elegant example of the phenomenon. The study also revealed an anomaly in the rotational constants, which may suggest the need to consider additional molecular interactions in calculating molecular rotational energy levels.
+scientific_discipline: Chemistry > Molecular Spectroscopy

@@ -1,0 +1,11 @@
+article_id: rspa_1946_0071
+revised_title: Kinetics of Steam-Carbon System Reactions
+semantic_tags:
+  - Chemical kinetics
+  - Steam-carbon reactions
+  - Carbon monoxide
+  - Carbon dioxide
+  - Hydrogen
+  - Active charcoal
+tldr: This study investigates the kinetics of the steam-carbon system reactions, focusing on the steam-carbon reaction, carbon dioxide-carbon reaction, and water-gas reaction. The authors found that the steam-carbon reaction is of fractional order with respect to steam and is strongly retarded by hydrogen. The carbon dioxide-carbon reaction is of fractional order with respect to carbon dioxide and is strongly retarded by carbon monoxide. The study provides a consistent interpretation of previous conflicting results and suggests further experimental work to elucidate the mechanisms of these reactions.
+scientific_discipline: Chemistry > Chemical kinetics

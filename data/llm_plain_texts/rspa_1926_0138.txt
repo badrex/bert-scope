@@ -1,0 +1,10 @@
+article_id: rspa_1926_0138
+revised_title: 'The Formation and Behavior of Primary and Secondary Vortices in Oscillating Fluids'
+semantic_tags:
+  - Fluid Dynamics
+  - Vortex Formation
+  - Skin Friction
+  - Wave Mechanics
+  - Hydrodynamics
+tldr: The authors study the formation and behavior of primary and secondary vortices in oscillating fluids, particularly focusing on the connection between these vortices and skin friction. They observe that primary vortices generate secondary vortices through direct transference of water and friction, and that these vortices occur at free nodes of stationary waves. The authors also investigate the influence of different water depths and shapes of tanks on the vortices' behavior.
+scientific_discipline: Physics > Fluid Dynamics

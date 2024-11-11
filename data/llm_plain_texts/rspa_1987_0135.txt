@@ -1,0 +1,10 @@
+article_id: rspa_1987_0135
+revised_title: 'Polydisperse Polymer Solutions: Critical-Point Equations and Simplified Determinants'
+semantic_tags:
+  - Polymer Chemistry
+  - Thermodynamics
+  - Polymer Solutions
+  - Critical Points
+  - Gibbs Theory
+tldr: The authors present a simplified form of the critical-point equations for polydisperse polymer solutions, which allows for a significant reduction in computing expense. They establish these equations using the generalized Flory-Huggins concept and the framework of classical Gibbs theory. This approach can be applied to various polymer systems and can help in understanding the critical points of polydisperse polymer solutions.
+scientific_discipline: Chemistry > Polymer Chemistry

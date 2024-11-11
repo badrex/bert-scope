@@ -1,0 +1,10 @@
+article_id: rsta_1968_0008
+revised_title: Magnetohydrodynamic Wave Propagation from a Localized Source Including Hall Effect
+semantic_tags:
+  - Magnetohydrodynamics
+  - Plasma physics
+  - Hall effect
+  - Wave propagation
+  - Electromagnetic waves
+tldr: The authors study magnetohydrodynamic wave propagation from a localized source, including the Hall effect. They examine conditions where the wave frequency is of the same order as the ion cyclotron frequency and investigate how the wave amplitude depends on the direction of propagation and the ratio of the wave frequency to the ion cyclotron frequency. The results are applicable to laboratory plasmas and certain natural plasmas, such as the ionosphere and the upper regions of the Sun's atmosphere.
+scientific_discipline: Physics > Electromagnetism

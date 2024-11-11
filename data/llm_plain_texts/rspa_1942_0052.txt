@@ -1,0 +1,10 @@
+article_id: rspa_1942_0052
+revised_title: 'Behavior of Gases in Sloping Galleries: Free Streaming and Velocity Discontinuity'
+semantic_tags:
+  - Fluid dynamics
+  - Gas dynamics
+  - Mine ventilation
+  - Gas streaming
+  - Velocity discontinuity
+tldr: This study investigates the behavior of gases, specifically firedamp and hydrogen, as they stream freely in sloping galleries. The author develops a general equation for this phenomenon and compares calculated velocities with experimental results. The research also explores the velocity discontinuity and its relation to the depth of the gas stream in the gallery.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

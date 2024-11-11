@@ -1,0 +1,10 @@
+article_id: rspa_1939_0118
+revised_title: 'Cosmic Ray Particle Absorption in Gold: A Study of Energy Loss'
+semantic_tags:
+  - Cosmic Rays
+  - Particle Physics
+  - Gold Absorption
+  - Mesotrons
+  - Protons
+tldr: The authors conducted experiments to study the absorption of penetrating cosmic ray particles in gold. They found that at low energies, mesotrons suffer no energy loss comparable to ionization, while at higher energies, an additional energy loss occurs, likely due to the presence of a few absorbable particles, which are probably protons. The results confirm the low absorption at energies around 4 x 10^8 eV and the increased energy loss at higher energies.
+scientific_discipline: Physics > Particle Physics

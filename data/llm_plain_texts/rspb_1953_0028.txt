@@ -1,0 +1,10 @@
+article_id: 'rspb_1953_0028'
+revised_title: 'Active Adjustments and Temporary Resistance in Bacterial Populations'
+semantic_tags:
+  - Bacterial resistance
+  - Environmental adaptation
+  - Microbial ecology
+  - Survival curves
+  - Lethal agents
+tldr: The author investigates the death rate of bacterial populations and discovers that some cells can temporarily adjust to adverse environments, increasing their survival time. This active adjustment is influenced by factors such as nutrients and oxygen, and may help explain the shape of survival curves in bacterial populations.
+scientific_discipline: Biology and Life Sciences > Microbiology

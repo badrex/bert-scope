@@ -1,0 +1,10 @@
+article_id: 'rspb_1934_0063'
+revised_title: 'Investigating the Measurability of Auditory Sensation'
+semantic_tags:
+  - Auditory sensation
+  - Loudness perception
+  - Sensation scale
+  - Bisection method
+  - Sound intensity
+tldr: The authors conducted an experimental investigation to determine if a point-to-point correspondence exists between intensities of auditory sensation and the intensities of corresponding stimuli. They used the bisection method to test if a sensation scale of loudness can be established for sound. The results showed that the loudness intervals measured in this way cannot be correlated with measurements of sound intensity, indicating that a sensation scale based on loudness intervals does not exist.
+scientific_discipline: Psychology > Perception and Sensation

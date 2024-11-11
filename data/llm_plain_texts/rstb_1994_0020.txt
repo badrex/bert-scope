@@ -1,0 +1,10 @@
+article_id: 'rstb_1994_0020'
+revised_title: 'Coronary Flow-Pressure Relationship in Isolated Fish Hearts: Trout and Torpedo'
+semantic_tags:
+  - Cardiology
+  - Fish Physiology
+  - Coronary Circulation
+  - Trout Heart
+  - Torpedo Heart
+tldr: This study investigates the coronary circulation in isolated working heart preparations of trout (Oncorhynchus mykiss) and torpedo (Torpedo marmorata). The researchers found that in trout, coronary resistance is sensitive to input pressure and oxygen demand, while in torpedo, coronary resistance is insensitive to load conditions. These findings highlight the differences in the coronary systems of these two species and their implications for cardiac performance under various loading conditions.
+scientific_discipline: Biology and Life Sciences > Zoology

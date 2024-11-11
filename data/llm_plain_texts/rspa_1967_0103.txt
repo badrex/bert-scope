@@ -1,0 +1,10 @@
+article_id: rspa_1967_0103
+revised_title: 'In-Depth Analysis of the Covalent Bond in Diamond'
+semantic_tags:
+  - Crystallography
+  - Diamond structure
+  - Covalent bond
+  - Charge distribution
+  - X-ray diffraction
+tldr: The authors conducted an electron distribution study on the covalent bond in diamond using X-ray data and a generalized structure factor. They found that the covalent bond corresponds to a mid-bond peak and revealed two important non-spherical components in the charge densities of bonded atoms. These components are associated with the covalent bond and are responsible for the unique properties of the diamond structure.
+scientific_discipline: Chemistry > Crystallography

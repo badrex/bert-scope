@@ -1,0 +1,10 @@
+article_id: rspa_1991_0096
+revised_title: Criticality in Reactors Under Domain and External Temperature Perturbations
+semantic_tags:
+  - Reactor Design
+  - Thermal Runaway
+  - Nonlinear Equations
+  - Asymptotic Analysis
+  - Numerical Solutions
+tldr: The authors investigate the conditions for thermal runaway in reactors with small nonuniformities, focusing on three classes of perturbations: a small temperature variation on the boundary, a small distortion of the boundary of a circular cylindrical domain, and a small hole in the domain. They derive asymptotic expansions for the critical Frank-Kamenetskii parameter and use numerical schemes to determine numerical values for the coefficients in the expansions. The results are compared with numerical solutions of the perturbed problem.
+scientific_discipline: Engineering and Technology > Reactor Design

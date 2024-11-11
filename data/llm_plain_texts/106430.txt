@@ -1,0 +1,10 @@
+article_id: 106430
+revised_title: 'Electrical Experiments and the Advantages of Points in Conductors'
+semantic_tags:
+  - Electricity
+  - Conductors
+  - Points vs. Balls
+  - Lightning Protection
+  - Electrostatics
+tldr: The author, William Swift, describes new improvements to his electrical apparatus, including the use of an anti-conductor and the preference of points over balls in conductors. He explains that this design choice helps to prevent the accumulation of electric matter and can be useful in preventing damage to buildings from lightning.
+scientific_discipline: Physics > Electricity and Magnetism

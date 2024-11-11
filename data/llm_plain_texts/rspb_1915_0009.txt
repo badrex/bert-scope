@@ -1,0 +1,10 @@
+article_id: 'rspb_1915_0009'
+revised_title: 'The Effect of Animal Age on Mammalian Tissue Growth in Vitro'
+semantic_tags:
+  - Tissue culture
+  - Growth factors
+  - Age-related changes
+  - Plasma
+  - Organ development
+tldr: 'This study investigates the effect of animal age on the growth of mammalian tissues in vitro. The researchers found that young tissues grow better in old plasma, while old tissues show moderate growth in old plasma. In contrast, young tissues show little to no growth in young plasma. This discovery sheds light on the controlling factors of tissue growth and development.'
+scientific_discipline: Biology and Life Sciences > Developmental Biology

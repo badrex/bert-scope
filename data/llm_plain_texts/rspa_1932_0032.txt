@@ -1,0 +1,10 @@
+article_id: rspa_1932_0032
+revised_title: The Faraday Effect in Ferromagnetics: A Simple Model
+semantic_tags:
+  - Ferromagnetism
+  - Faraday effect
+  - Electromagnetism
+  - Crystallography
+  - Quantum mechanics
+tldr: This article explores the Faraday effect in ferromagnetics using a simple model. The authors explain the origin of the enormous negative rotation in thin films of ferromagnetics and how it is proportional to the magnetization. They consider a single crystal of the metal and use the Heisenberg model to explain the phenomenon, providing a rough estimate of the rotation and its variation with the intensity of magnetization.
+scientific_discipline: Physics > Electromagnetism

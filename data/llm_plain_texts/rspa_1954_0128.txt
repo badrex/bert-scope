@@ -1,0 +1,10 @@
+article_id: rspa_1954_0128
+revised_title: Modes of Decomposition of n-Pentane: Kinetic Considerations
+semantic_tags:
+  - Organic Chemistry
+  - Reaction Kinetics
+  - Radical Chain Reaction
+  - Unimolecular Reaction
+  - Activation Energy
+tldr: The authors conducted a study on the thermal decomposition of n-pentane and discovered two modes of unimolecular reactions, in addition to the radical chain process. One mode conforms to the classical theory with activation energy localized in a critical bond, while the other involves a series of alternative transition states. The findings have implications for understanding energy distribution and gain within the molecule.
+scientific_discipline: Chemistry > Organic Chemistry

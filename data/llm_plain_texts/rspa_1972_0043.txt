@@ -1,0 +1,10 @@
+article_id: rspa_1972_0043
+revised_title: 'Irradiation Effects on Deformation Mechanisms in Polyethylene Single Crystals'
+semantic_tags:
+  - Polymer Crystals
+  - Irradiation Crosslinking
+  - Crystal Deformation Mechanisms
+  - Plastic Deformation
+  - Electron Microscopy
+tldr: The authors studied the effects of high-energy radiation on the deformation mechanisms of polyethylene single crystals. They found that irradiation crosslinking inhibits affine deformation by suppressing slip, but deformation by (110) twinning persists. A new deformation mechanism, the nucleation and growth of micro-cracks by shear on the (200) and (020) planes, was discovered in irradiated crystals and attributed to dislocation pile-up at crosslinking sites.
+scientific_discipline: Materials Science > Polymer Science

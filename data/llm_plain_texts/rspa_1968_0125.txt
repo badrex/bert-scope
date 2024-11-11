@@ -1,0 +1,10 @@
+article_id: rspa_1968_0125
+revised_title: 'Fatigue Crack Growth in Notch Geometry'
+semantic_tags:
+  - Fatigue
+  - Crack propagation
+  - Notch fatigue
+  - Dislocation model
+  - Stress intensity factor
+tldr: This article presents a dislocation model for discussing the propagation of fatigue cracks from notches of elliptical or V-shaped profiles. The authors find that the rate of crack growth is proportional to the fourth power of the stress intensity factor, deduced from the notch geometry. Detailed predictions are made about the variation of the rate of crack growth with the parameters governing the notch shape.
+scientific_discipline: Engineering and Technology > Materials Science

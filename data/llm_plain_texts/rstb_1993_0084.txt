@@ -1,0 +1,10 @@
+article_id: 'rstb_1993_0084'
+revised_title: 'Mechanical Properties and Dynamics of Spider Trichobothria'
+semantic_tags:
+  - Arthropod Biology
+  - Spider Sensory Systems
+  - Trichobothria Mechanics
+  - Air Movement Detectors
+  - Fluid Mechanics
+tldr: The article discusses the mechanics of spider trichobothria, which are air movement detectors found in arthropods. The study focuses on the wandering spider Cupiennius salei and examines the number, arrangement, and structure of trichobothria, as well as their mechanical directionality and motion in oscillating airflow. The findings show that trichobothria are tuned to different frequency ranges and have varying mechanical sensitivities, depending on their length and arrangement. The results are compared with the predictions of a numerical model, showing good agreement between the two.
+scientific_discipline: Biology and Life Sciences > Arthropod Biology

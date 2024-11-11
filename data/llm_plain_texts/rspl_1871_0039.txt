@@ -1,0 +1,10 @@
+article_id: rspl_1871_0039
+revised_title: Measuring Internal Resistance of a Multiple Battery
+semantic_tags:
+  - Electromagnetism
+  - Galvanometer
+  - Battery Internal Resistance
+  - Electrical Measurements
+  - Physics Experiments
+tldr: The author presents a method to measure the internal resistance of a multiple battery by adjusting the galvanometer to zero. The method involves resolving magnetic forces into longitudinal and transversal components and comparing the results with theoretical calculations. This research helps improve the understanding of electrical measurements and battery performance.
+scientific_discipline: Physics > Electromagnetism

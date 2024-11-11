@@ -1,0 +1,9 @@
+article_id: rspa_1942_0016
+revised_title: Pressure Dependence of Ammonia's Equilibrium Constant
+semantic_tags:
+  - Chemical Equilibrium
+  - Ammonia
+  - Van der Waals Constants
+  - Pressure Effects
+  - Thermodynamics
+tldr: The author investigates the pressure dependence of the equilibrium constant of ammonia, calculating the effect of pressure on the chemical reaction. The results show good agreement between the theoretical and experimental values, demonstrating the importance of considering pressure in understanding chemical equilibrium.

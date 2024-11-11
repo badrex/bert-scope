@@ -1,0 +1,10 @@
+article_id: 'rsta_1993_0128'
+revised_title: 'Interfacial Constitutive Equations and Micromechanical Investigation'
+semantic_tags:
+  - Interfacial Transport Processes
+  - Surface-Excess Viscous Stress Tensor
+  - Micromechanics
+  - Constitutive Equations
+  - Interfacial Rheology
+tldr: This article presents a micromechanical investigation of interfacial transport processes, focusing on the formulation of interfacial constitutive equations. The authors develop a method to derive macroscale interfacial constitutive relations from microscale equations, which can be applied to various interfacial phenomena and help improve our understanding of interfacial transport processes.
+scientific_discipline: Physics > Fluid Dynamics

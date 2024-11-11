@@ -1,0 +1,10 @@
+article_id: 'rspb_1974_0083'
+revised_title: 'The Lymphocyte Surface: Function of Fc Receptor, C'
+semantic_tags:
+  - Immunology
+  - Lymphocytes
+  - Fc Receptor
+  - C Receptor
+  - Antibody Responsiveness
+tldr: The authors conducted experiments to understand the function of Fc receptor (FcRL), C receptor (CRL), and immunoglobulin (IgL) in lymphocytes. They found that TDL from rats primed to DNP lost their capacity to transfer a secondary 7S antibody response when depleted of IgL, but not when depleted of FcRL. CRL depletion eliminated the transferred primary 7S antibody response to polymerized flagellin and reduced the secondary 7S antibody response to DNP. The study emphasizes the importance of different lymphocyte subpopulations in the immune response.
+scientific_discipline: Biology and Life Sciences > Immunology

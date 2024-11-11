@@ -1,0 +1,10 @@
+article_id: rspa_1931_0005
+revised_title: 'Investigation of Eddy System in the Wake of Flat Circular Plates in Three-Dimensional Flow'
+semantic_tags:
+  - Fluid Dynamics
+  - Vortex Flow
+  - Eddy Formation
+  - Fluid Mechanics
+  - Circular Plates
+tldr: This article presents an investigation of the eddy system in the wake of flat circular plates in three-dimensional flow. The authors describe their experimental setup and findings, including the formation of vortex rings and periodic vortices at different flow speeds. They also discuss the critical speed at which the periodic vortices are discharged and the dynamical similarity in the motion of the eddies at this speed.
+scientific_discipline: Physics > Fluid Dynamics

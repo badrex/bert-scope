@@ -1,0 +1,10 @@
+article_id: rspa_1987_0098
+revised_title: Chaos and Population Dynamics in Biology
+semantic_tags:
+  - Chaos Theory
+  - Population Biology
+  - Nonlinear Dynamics
+  - Population Genetics
+  - Environmental Noise
+tldr: This article explores the role of chaotic dynamics in population biology, particularly in interactions between prey and predators. The author argues that chaotic behavior can arise from simple density-dependent mechanisms and has significant implications for analyzing population data. The combination of population biology with population genetics can lead to a rich assortment of nonlinear phenomena, suggesting that many genetic polymorphisms may vary cyclically or chaotically.
+scientific_discipline: Biology and Life Sciences > Population Biology

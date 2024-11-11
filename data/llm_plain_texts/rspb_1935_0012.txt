@@ -1,0 +1,10 @@
+article_id: 'rspb_1935_0012'
+revised_title: 'Effects of X-Radiation on Chromosome Structure and Behavior in Trillium erectum'
+semantic_tags:
+  - 'Radiation genetics'
+  - 'Chromosome damage'
+  - 'Meiosis'
+  - 'Trillium'
+  - 'X-ray effects'
+tldr: 'This study investigates the effects of X-radiation on chromosomes in the microspores of Trillium erectum. The researchers found that X-radiation caused chromosome breaks and translocations, as well as the formation of trabants, which are small pieces of chromosomes. These findings contribute to the understanding of the effects of radiation on chromosome behavior and structure during meiosis.'
+scientific_discipline: Biology and Life Sciences > Genetics

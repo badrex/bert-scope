@@ -1,0 +1,10 @@
+article_id: rspl_1897_0141
+revised_title: Papers on Beam Reactions, Partial Differential Equations, and Trotting Horse Speeds
+semantic_tags:
+  - Beam Mechanics
+  - Partial Differential Equations
+  - Trotting Horses
+  - Hereditary Data
+  - Applied Mathematics
+tldr: This article presents papers on various topics, including a method for determining reactions in continuous beams, integration of partial differential equations, and an examination of American trotting horse speeds as hereditary data.
+scientific_discipline: Mathematics > Applied Mathematics

@@ -1,0 +1,10 @@
+article_id: rspa_1937_0051
+revised_title: 'Ionization, Excitation, and Chemical Reaction in Uniform Electric Fields'
+semantic_tags:
+  - Plasma physics
+  - Electric fields
+  - Ionization
+  - Excitation
+  - Chemical reactions
+tldr: The authors conducted experiments to study ionization, excitation, and chemical reactions in uniform electric fields. They determined the energy efficiency for the excitation of hydrogen molecules and found a satisfactory agreement between experimental and theoretical values. This research contributes to understanding the behavior of molecules and plasmas in electric fields.
+scientific_discipline: Physics > Plasma Physics

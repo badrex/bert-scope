@@ -1,0 +1,10 @@
+article_id: rspa_1992_0018
+revised_title: 'Numerical Simulations of Detonation Transmission in Gaseous Explosives'
+semantic_tags:
+  - Detonation dynamics
+  - Shock waves
+  - Reactive flow
+  - Gas-phase explosives
+  - Oblique detonation
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science
+tldr: The authors conducted numerical simulations and related experiments to study the complex interactions between detonating layers of adjacent explosives. They found that the detonation transmission process is often dominated by an initial unsteady refraction process, which determines the nature of the final steady-state configuration. The simulations reproduce the main interaction configurations observed in the experiments, giving confidence in the numerical results' ability to predict correct general structures.

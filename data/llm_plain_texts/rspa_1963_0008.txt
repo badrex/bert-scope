@@ -1,0 +1,12 @@
+provided with correlated radio echoes. The probable errors in the reduced data are indicated in the respective columns of the table.
+
+article_id: rspa_1963_0008
+revised_title: Meteor Luminosity and Ionization: Observations and Analysis
+semantic_tags:
+  - Meteor Physics
+  - Ionization
+  - Meteor Trails
+  - Radio Echoes
+  - Meteor Luminosity
+tldr: This study investigates the relationship between meteor luminosity and ionization by conducting photographic and radio echo observations. The results show a scatter larger than expected due to inherent differences in the meteors observed. The ratio of luminosity to ionization is found to be a function of meteor brightness, velocity, and other parameters. The authors provide values for ionizing efficiency and probability of ionization for a mean photographic magnitude and velocity.
+scientific_discipline: Physics > Meteorology

@@ -1,0 +1,10 @@
+article_id: rspa_1986_0066
+revised_title: Asymptotic Investigation of Stationary Modes of Instability on a Rotating Disc
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Instability
+  - Rotating Disc
+  - Asymptotic Analysis
+  - Viscous Effects
+tldr: The article investigates high-Reynolds-number stationary instabilities in the boundary layer on a rotating disc. The asymptotic analysis demonstrates that, in addition to the inviscid mode found by Gregory, Stuart & Walker, there is a stationary short-wavelength mode. The study explains why the inviscid approach should give a good approximation to the experimentally measured orientation of the vortices and provides a starting point for the corresponding nonlinear problems.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1974_0087
+revised_title: 'Ethylene-Deuterium Reactions on Oxide Catalysts: A Comparative Study'
+semantic_tags:
+  - Catalysis
+  - Gas chromatography-mass spectrometry
+  - Oxide catalysts
+  - Ethylene reactions
+  - Deuterium exchange
+tldr: The authors developed a gas chromatograph-mass spectrometer with an 'on-line' computer to study catalysis reactions of ethylene and deuterium on various oxide catalysts. They found that alumina and magnesium oxide showed both exchange and addition reactions, while other oxides like zinc oxide and chromia mainly catalyzed hydrogenation. The study helps explain the different behaviors of oxide catalysts in ethylene-deuterium reactions and provides insights into the nature of the reactions and the role of adsorbed species in the process.
+scientific_discipline: Chemistry > Catalysis

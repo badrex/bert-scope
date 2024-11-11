@@ -1,0 +1,10 @@
+article_id: rspa_1935_0195
+revised_title: Diamagnetic Susceptibilities of Alkaline Halides and Ionic Packing Sizes
+semantic_tags:
+  - Diamagnetism
+  - Ionic packing
+  - Crystal structure
+  - Alkaline halides
+  - Susceptibility
+tldr: This study investigates the diamagnetic susceptibilities of alkaline halides and examines how closely they follow the additive law. The authors find that the susceptibilities are not strictly additive, but they observe a correlation between the departures from additivity and the ionic packing sizes and crystal structures of the salts. They conclude that the close proximity of ions in the crystal lattice and the deflections of ions due to repulsions may affect the diamagnetic susceptibilities.
+scientific_discipline: Chemistry > Crystallography

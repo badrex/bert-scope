@@ -1,0 +1,10 @@
+article_id: rspa_1954_0067
+revised_title: Reflexion of Sound Waves of Finite Amplitude by a Rigid Wall: A Special Case
+semantic_tags:
+  - Gas Dynamics
+  - Shock Waves
+  - Riemann Invariants
+  - Adiabatic Law
+  - Polytropic Gas
+tldr: This article explores the reflexion of sound waves of finite amplitude by a rigid wall in a polytropic gas. The author solves a special case where the adiabatic exponent is S and the initial density is proportional to the distance from the wall. The solution shows that a shock wave is generated at the wall, and the motion of the gas behind the shock is determined by the equations of characteristics.
+scientific_discipline: Physics > Gas Dynamics

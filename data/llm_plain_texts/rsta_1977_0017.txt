@@ -1,0 +1,10 @@
+article_id: rsta_1977_0017
+revised_title: Advancements in Laser Ranging Systems and Their Applications
+semantic_tags:
+  - Laser Technology
+  - Satellite Tracking
+  - Earth Dynamics
+  - Geodesy
+  - Space Exploration
+tldr: The article discusses the development and improvements of Goddard laser systems for satellite tracking, which have increased in accuracy by over an order of magnitude. These systems are now used for ultra-precision orbit determination, improving Earth's gravitational field, determining Earth's polar motion, and calibrating radar altimeters. The article also describes the latest Goddard laser systems and their performance for geodynamics applications programs.
+scientific_discipline: Engineering and Technology > Laser Technology

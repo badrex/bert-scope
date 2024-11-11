@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0087'
+revised_title: 'Synchronous Transport Activity in Epithelial Cells and Intracellular Calcium Concentration'
+semantic_tags:
+  - Cell Biology
+  - Calcium Signaling
+  - Epithelial Cells
+  - Sodium Transport
+  - Calcium-Sensitive Potassium Channels
+tldr: The article investigates the synchronous transporting activity in epithelial cells in relation to intracellular calcium concentration. The researchers discovered that oscillations in intracellular calcium concentration are linked to oscillations in sodium current. This phenomenon is observed in cultured human sweat-gland epithelia and is thought to result from an increase in intracellular calcium, which activates calcium-sensitive potassium channels, increasing the electrochemical gradient for sodium entry. The study shows that epithelial cells behave in synchrony to induce changes in sodium current.
+scientific_discipline: Biology and Life Sciences > Cell Biology

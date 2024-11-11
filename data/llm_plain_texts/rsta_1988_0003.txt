@@ -1,0 +1,10 @@
+article_id: 'rsta_1988_0003'
+revised_title: 'Velocity-modulation Infrared Laser Spectroscopy of Molecular Anions'
+semantic_tags:
+  - Laser spectroscopy
+  - Molecular ions
+  - Infrared absorption
+  - Plasma physics
+  - Negative ions
+tldr: The article describes the development of a new laser absorption spectroscopy technique called velocity-modulation infrared laser spectroscopy, which is used to study molecular anions in electrical discharges. This technique allows for the measurement of vibration-rotation spectra of strongly bound 'classical anions' by taking advantage of the Doppler effect resulting from the net drift motion of ions in the electric field of a positive column plasma. The technique is demonstrated through the study of hydroxide and other molecular anions.
+scientific_discipline: Chemistry > Spectroscopy

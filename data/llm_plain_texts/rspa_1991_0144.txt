@@ -1,0 +1,10 @@
+article_id: rspa_1991_0144
+revised_title: 'Dynamical Calculations for RHEED from MBE Growing Surfaces: Heteroepitaxial Growth and Interface Formation'
+semantic_tags:
+  - Epitaxial Growth
+  - Molecular Beam Epitaxy
+  - Reflection High-Energy Electron Diffraction
+  - Heterostructures
+  - Quantum Wells
+scientific_discipline: Physics > Materials Science
+tldr: The authors developed a generalized birth-death growth model to simulate the growth of heterostructures involving multiple atomic species using molecular beam epitaxy. They used dynamical reflection high-energy electron diffraction calculations to investigate various aspects of RHEED intensity oscillations, including growth rate, alloy composition, interface effects, and control of quantum well widths. This study provides insights into the formation of heteroepitaxial structures and their applications in semiconductors, metals, and insulators.

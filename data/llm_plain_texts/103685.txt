@@ -1,0 +1,11 @@
+article_id: 103685
+revised_title: The Proportionality of Force and Velocity in Bodies in Motion
+semantic_tags:
+  - Mechanics
+  - Motion
+  - Force
+  - Velocity
+  - Newtonian Physics
+  - Leibniz's Philosophy
+tldr: The author, Dr. Samuel Clarke, discusses the controversy among mathematicians regarding the proportionality of force and velocity in bodies in motion. He argues against the notion that force is proportional to the square of velocity, explaining that force is proportional to both the quantity of matter and the velocity of motion. Clarke also addresses the errors in the arguments of prominent mathematicians like Leibniz, Herman,'sGravesande, and Bernoulli, who supported the idea that force is proportional to the square of velocity.
+scientific_discipline: Physics > Mechanics

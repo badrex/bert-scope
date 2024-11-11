@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0137'
+revised_title: 'Solar Heating and Air Conditioning: Exploring Solar Boosted Heat Pump Systems'
+semantic_tags:
+  - Solar energy
+  - Solar heating
+  - Air conditioning
+  - Heat pumps
+  - Energy efficiency
+tldr: This article discusses the relationship between solar heating and air conditioning systems, focusing on solar boosted heat pump systems. It explores various configurations, including simple parallel, series, three-coil, and cascade systems, and their compatibility with air conditioning. The article also provides insights into cool storage and its potential impact on reducing peak electrical loads in conventional air conditioning systems.
+scientific_discipline: Engineering and Technology > Energy and Sustainability

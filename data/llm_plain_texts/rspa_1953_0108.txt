@@ -1,0 +1,10 @@
+article_id: rspa_1953_0108
+revised_title: Molecular Orbital Theory and Polar Bonds
+semantic_tags:
+  - Molecular Orbital Theory
+  - Chemical Bonding
+  - Quantum Chemistry
+  - Perturbation Theory
+  - Polar Molecules
+tldr: The authors use the perturbation theory to calculate the properties of molecular models with varying charges on the protons of the hydrogen molecule. They find that the binding energies and heats of reaction of these models reproduce several features observed in real molecules, and that the binding energy of a molecule increases with the increase in nuclear charges. The study provides insights into the behavior of polar molecules and the role of molecular orbital theory in understanding chemical valency.
+scientific_discipline: Chemistry > Quantum Chemistry

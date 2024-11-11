@@ -1,0 +1,10 @@
+article_id: rspa_1950_0067
+revised_title: Surface Potentials and Chemisorption in Mercury: Adsorption of Vapours
+semantic_tags:
+  - Surface chemistry
+  - Adsorption
+  - Chemisorption
+  - Surface potential
+  - Mercury
+tldr: The authors studied the adsorption of various vapours on mercury and observed changes in surface potentials associated with chemisorption. They found that substances like carbon tetrachloride, hexachlorethane, and chloroform reacted with mercury, and the rate of reaction could be determined by the change in surface potential. Methyl iodide vapour only reacted with mercury when illuminated with light from a mercury lamp, and the rate of reaction depended on the square root of the light intensity.
+scientific_discipline: Chemistry > Surface chemistry

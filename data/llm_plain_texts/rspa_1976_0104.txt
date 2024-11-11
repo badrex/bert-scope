@@ -1,0 +1,10 @@
+article_id: rspa_1976_0104
+revised_title: 'Hydrodynamic Stability and Hermitian Forms'
+semantic_tags:
+  - Hydrodynamics
+  - Stability Theory
+  - Hermitian Matrices
+  - Differential Equations
+  - Fluid Mechanics
+tldr: The author presents a method of bilinear forms for ordinary linear homogeneous differential equations to find eigenvalue bounds in hydrodynamic stability problems. The method involves using Hermitian matrices and applying constraints to find the non-existence of eigenvalues. This method is extended to equations of higher order and applied to various problems in fluid mechanics.
+scientific_discipline: Mathematics > Differential Equations

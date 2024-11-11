@@ -1,0 +1,10 @@
+article_id: rspl_1894_0155
+revised_title: 'Kinetic Theory Applied to Dense Gases: Burbury's Contributions'
+semantic_tags:
+  - Statistical mechanics
+  - Kinetic theory
+  - Gas dynamics
+  - Boltzmann equation
+  - Abelian functions
+tldr: This article explores the application of the kinetic theory to dense gases, focusing on the work of S. H. Burbury. It discusses the distribution of energy in gases, the effect of collisions on the distribution, and the behavior of Abelian functions in this context. Burbury's work contributes to understanding the behavior of gases and the development of the kinetic theory.
+scientific_discipline: Physics > Statistical mechanics

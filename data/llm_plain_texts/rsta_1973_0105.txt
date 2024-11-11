@@ -1,0 +1,10 @@
+article_id: 'rsta_1973_0105'
+revised_title: 'The Future of Batch Manufacture: Computer-Integrated Manufacturing Systems'
+semantic_tags:
+  - Manufacturing Technology
+  - Automation
+  - Computer-Integrated Manufacturing
+  - Batch Production
+  - Industrial Automation
+tldr: The article discusses the future of batch manufacture and how the application of digital computers to online automation and optimization can improve productivity and efficiency. It introduces the concept of computer-integrated manufacturing systems, which combines hardware and software components using a systems approach. The author highlights the potential of this approach and the need to address the challenges of mechanizing and automating the software component of batch manufacture.
+scientific_discipline: Engineering and Technology > Manufacturing Technology

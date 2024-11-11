@@ -1,0 +1,10 @@
+article_id: 'rspa_1909_0075'
+revised_title: 'Positive and Negative Type Functions and Their Connection to Integral Equations'
+semantic_tags:
+  - Integral Equations
+  - Mathematical Analysis
+  - Function Theory
+  - Symmetric Functions
+  - Continuous Functions
+tldr: This article explores continuous symmetric functions of positive and negative types and their significance in the theory of integral equations. It focuses on the conditions under which a function is of positive type and the properties of such functions. The author also applies these findings to various functions of positive type and provides necessary and sufficient conditions for them to be of positive type.
+scientific_discipline: Mathematics > Mathematical Analysis

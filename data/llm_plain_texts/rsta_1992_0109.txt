@@ -1,0 +1,10 @@
+article_id: rsta_1992_0109
+revised_title: A New Moving Finite-Difference Solution-Adaptive Method for Hyperbolic PDEs
+semantic_tags:
+  - Adaptive methods
+  - Finite differences
+  - Hyperbolic PDEs
+  - Node movement
+  - Error measure
+tldr: The authors developed a new moving finite-difference solution-adaptive method for solving hyperbolic partial differential equations. This method involves the adaptive movement of nodes to reduce the number of nodes needed to solve the problem, making it applicable to non-stationary flow problems with moving regions of rapid change. The method minimizes an error measure containing a function of the time derivatives of the solution to obtain a matrix equation for node velocities. This approach allows for more accurate and efficient solutions to complex problems.
+scientific_discipline: Mathematics > Numerical Analysis

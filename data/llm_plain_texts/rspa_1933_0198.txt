@@ -1,0 +1,10 @@
+article_id: rspa_1933_0198
+revised_title: 'Neutron Collisions with Light Nuclei: Part II'
+semantic_tags:
+  - Nuclear Physics
+  - Neutron interactions
+  - Particle accelerators
+  - Range-velocity relation
+  - Nuclear energy
+tldr: The authors conducted experiments to study neutron collisions with light nuclei, such as nitrogen, oxygen, and carbon, using an expansion chamber and stereoscopic photography. They found that most neutrons emitted from beryllium bombarded by alpha particles from polonium have energies less than 4.6x10^6 electron volts. The results suggest that a real feature of the energy spectrum of emitted neutrons is in question, possibly involving a continuous distribution with energy or a prominent group of neutrons with energies between 2x10^6 electron volts.
+scientific_discipline: Physics > Nuclear Physics

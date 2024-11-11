@@ -1,0 +1,10 @@
+article_id: rspa_1983_0041
+revised_title: Numerical Relativity: Techniques for the Characteristic Initial Value Problem and Evolution of Vacuum Field Equations
+semantic_tags:
+  - Numerical relativity
+  - General relativity
+  - Einstein equations
+  - Space-time singularities
+  - Quasilinear symmetric hyperbolic systems
+tldr: This article presents numerical methods for solving the characteristic initial value problem in general relativity, focusing on integrating equations up to space-time singularities. The authors discuss techniques for handling singularities and provide examples of the numerical evolution of Schwarzschild and colliding plane wave space-times.
+scientific_discipline: Physics > General Relativity

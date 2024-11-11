@@ -1,0 +1,10 @@
+article_id: rspa_1994_0030
+revised_title: Asymptotic Analysis of a Parabolic Double Obstacle Problem
+semantic_tags:
+  - Partial Differential Equations
+  - Asymptotic Analysis
+  - Mean Curvature Flow
+  - Allen-Cahn Equation
+  - Double Obstacle Potential
+tldr: The authors study a parabolic double obstacle problem, a version of the Allen-Cahn equation with a double well potential. They analyze the asymptotic behavior of the solution as a small constant approaches zero. Under certain conditions, the solution takes values of 1 in a region and -1 in another region, with a thin interfacial region between them. The authors also study the one-dimensional case and show that the -limit set consists of a singleton.
+scientific_discipline: Mathematics > Partial Differential Equations

@@ -1,0 +1,10 @@
+article_id: rspa_1953_0156
+revised_title: Deviations from the Principle of Corresponding States: Applications to Elliptical and Dipolar Molecules
+semantic_tags:
+  - Statistical mechanics
+  - Thermodynamics
+  - Intermolecular forces
+  - Molecular orientation
+  - Deviations from the principle of corresponding states
+tldr: This article investigates the deviations from the principle of corresponding states in intermolecular potential energies. The authors calculate the differences in the equations of state for assemblies of elliptical, dipolar, and spherical molecules and compare them with observed deviations in vapor pressure and rectilinear diameter of various liquids. The study provides insights into the behavior of non-spherical molecules and helps understand the limitations of the principle of corresponding states.
+scientific_discipline: Physics > Thermodynamics

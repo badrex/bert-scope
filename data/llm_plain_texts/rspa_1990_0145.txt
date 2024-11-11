@@ -1,0 +1,10 @@
+article_id: rspa_1990_0145
+revised_title: Generalized Green's Functions in One-Dimensional Polymer Chain
+semantic_tags:
+  - Polymer Chain
+  - Perturbation Expansion
+  - Excluded Volume
+  - Random Walks
+  - Self-Avoiding Walks
+tldr: The authors study the perturbation expansion of the mean square end-to-end length of a one-dimensional polymer chain in powers of the excluded volume. They classify the associated diagrams and develop methods to calculate their exact contributions. The presence of confluent singularities in the asymptotic representations of these contributions is demonstrated, which must also arise in higher dimensions.
+scientific_discipline: Mathematics > Applied Mathematics

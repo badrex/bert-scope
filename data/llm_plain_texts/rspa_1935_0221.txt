@@ -1,0 +1,10 @@
+article_id: rspa_1935_0221
+revised_title: 'Sorption of Hydrogen and Deuterium by Copper and Palladium: The Behaviour of Copper and Copper Oxides'
+semantic_tags:
+  - Metal Hydrides
+  - Sorption
+  - Copper Oxide Reduction
+  - Deuterium Reactions
+  - Heterogeneous Reactions
+tldr: The authors investigated the sorption of hydrogen and deuterium by copper and palladium, focusing on the behavior of copper and copper oxides. They found that the reduction of copper oxide by atomic and molecular hydrogen is a slow process, and the difference in the reactivity of hydrogen and deuterium isotopes is due to the difference in their zero point energies. The study also suggests that the slow activated diffusion of hydrogen and deuterium into copper is influenced by the energies of activation of the hydride and deuteride after it has diffused into the proximity of the oxide.
+scientific_discipline: Chemistry > Metal Hydrides

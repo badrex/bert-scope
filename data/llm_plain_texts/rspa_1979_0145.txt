@@ -1,0 +1,10 @@
+article_id: rspa_1979_0145
+revised_title: Growth Equations for Distributions of Small Physical Objects
+semantic_tags:
+  - Growth kinetics
+  - Rate equations
+  - Continuity equation
+  - Moment equations
+  - Physical growth rates
+tldr: This article presents a study on the growth of small physical objects, such as aerosols, suspensions, and voids in solids. The authors develop a rate theory model using a set of coupled differential equations to describe the growth process and analyze the moments of the distribution. They also explore the use of the continuity equation and its limitations in different growth scenarios.
+scientific_discipline: Physics > Fluid Dynamics

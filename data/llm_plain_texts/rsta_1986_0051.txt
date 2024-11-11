@@ -1,0 +1,12 @@
+article_id: 'rsta_1986_0051'
+revised_title: 'The Role of Hydrogen Bonding in Stabilizing the Transition State of Subtilisin'
+semantic_tags:
+  - Protein structure
+  - Enzyme kinetics
+  - Site-directed mutagenesis
+  - Hydrogen bonding
+  - Serine proteases
+tldr: The authors conducted a study on the importance of hydrogen bond formation in stabilizing the transition state of subtilisin, a serine protease. They found that mutations in the asparagine-155 residue, which forms a hydrogen bond with the substrate's carbonyl oxygen, significantly reduced the enzyme's activity. This research highlights the crucial role of hydrogen bonding in the catalytic mechanism of serine proteases.
+scientific_discipline: Biology and Life Sciences > Biochemistry
+```yaml
+```

@@ -1,0 +1,10 @@
+article_id: 'rspb_1963_0004'
+revised_title: 'Investigating Ribonucleic Acids in HeLa Cells and Their Role in Information Transfer'
+semantic_tags:
+  - RNA
+  - Cell Biology
+  - Nucleus
+  - Cytoplasm
+  - Messenger RNA
+tldr: The authors examined the ribonucleic acids in HeLa cells to understand the transfer of information from the nucleus to the cytoplasm. They found that the rapidly labeled nuclear RNA was not transferred to the microsomes in the cytoplasm before being broken down. Instead, it was broken down within the nucleus. This discovery challenges the current theory about the mechanism of information transfer between the nucleus and cytoplasm.
+scientific_discipline: Biology and Life Sciences > Cell Biology

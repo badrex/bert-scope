@@ -1,0 +1,10 @@
+article_id: 'rspb_1978_0057'
+revised_title: 'Antigenic Variation Mechanism in Trypanosomes'
+semantic_tags:
+  - 'Trypanosoma brucei'
+  - 'Antigenic variation'
+  - 'Cell surface antigens'
+  - 'Glycoproteins'
+  - 'Immunology'
+tldr: The article discusses antigenic variation in trypanosomes, focusing on Trypanosoma brucei. It explains how these parasites evade the immune response by changing their surface glycoproteins, which are unique to each variant. The author reviews the current understanding of the genetic basis of antigenic variation and the structure of the major cell surface antigens in T. brucei. The article highlights the challenges in studying trypanosome genetics and the potential for cell fusion to explore genetic exchange.
+scientific_discipline: Biology and Life Sciences > Immunology

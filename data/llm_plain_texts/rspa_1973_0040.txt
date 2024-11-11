@@ -1,0 +1,10 @@
+article_id: rspa_1973_0040
+revised_title: 'Shear Band Growth in Over-Consolidated Clay: A Fracture Mechanics Approach'
+semantic_tags:
+  - Soil Mechanics
+  - Fracture Mechanics
+  - Shear Bands
+  - Over-Consolidated Clay
+  - Progressive Failure
+tldr: This study examines the growth of slip surfaces, or shear bands, in over-consolidated clay and how they contribute to the progressive failure of slopes. The authors use concepts from fracture mechanics, specifically the J-integral, to derive conditions for the propagation of a concentrated shear band. They find that there is a strong size effect, which has important implications for the use of models in soil mechanics.
+scientific_discipline: Environmental and Earth Sciences > Soil Mechanics

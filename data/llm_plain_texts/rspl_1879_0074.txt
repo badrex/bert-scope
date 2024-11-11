@@ -1,0 +1,10 @@
+article_id: rspl_1879_0074
+revised_title: 'Practical Solution of General Problems in Continuous Beams'
+semantic_tags:
+  - Beam theory
+  - Structural engineering
+  - Bending moment
+  - Shearing force
+  - Deflection
+scientific_discipline: Engineering and Technology > Structural Engineering
+tldr: The article discusses the practical solution of general problems in continuous beams, focusing on bending moments, shearing forces, and deflections. The authors present methods for calculating these values using summations and graphical techniques, providing examples and applications for various beam configurations. This work contributes to the understanding and design of structures in civil and mechanical engineering.

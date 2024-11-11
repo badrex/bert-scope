@@ -1,0 +1,10 @@
+article_id: 'rstb_1985_0171'
+revised_title: 'Metal Ions and Oxygen Radical Reactions in Human Inflammatory Joint Disease'
+semantic_tags:
+  - 'Oxygen-derived species'
+  - 'Inflammatory joint disease'
+  - 'Metal ions'
+  - 'Hydroxyl radical'
+  - 'Tissue damage'
+tldr: The article discusses the role of oxygen-derived species, such as superoxide and hydrogen peroxide, in causing tissue damage in human inflammatory joint diseases. It highlights the importance of metal ions, like iron, in facilitating the formation of hydroxyl radicals, which contribute to the damage. The authors propose that these radicals are a major damaging agent in inflamed rheumatoid joints, and their formation is facilitated by the release of iron from transferrin in the joint's micro-environment.
+scientific_discipline: 'Environmental and Earth Sciences > Chemistry'

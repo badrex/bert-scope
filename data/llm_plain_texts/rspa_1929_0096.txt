@@ -1,0 +1,10 @@
+article_id: rspa_1929_0096
+revised_title: The Mechanism of Petroleum Cracking
+semantic_tags:
+  - Petroleum Chemistry
+  - Chemical Equilibrium
+  - Hydrocarbon Reactions
+  - Cracking Process
+  - Oil Refinery
+tldr: This article presents a theoretical study of the cracking process of petroleum. The author develops a model for hypothetical oils consisting of paraffins and unsaturated hydrocarbons, considering the chemical equilibrium between the hydrocarbons in the reaction chamber. The results are compared with real petroleum cracking, showing a good agreement. The study provides insights into the cracking process and its potential improvements in practical applications.
+scientific_discipline: Chemistry > Chemical Engineering

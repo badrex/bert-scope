@@ -1,0 +1,10 @@
+article_id: 'rsta_1995_0040'
+revised_title: 'Field Measurements of Trace Gas Fluxes using Tunable Diode Laser Spectroscopy'
+semantic_tags:
+  - Trace Gas Fluxes
+  - Tunable Diode Laser Spectroscopy
+  - Eddy Correlation Method
+  - Atmospheric Science
+  - Environmental Science
+tldr: 'The authors developed a fast-response, high-precision tunable diode laser spectrometer for field measurements of methane and nitrous oxide fluxes using the eddy correlation method. The instrument uses a novel multiple-pass absorption cell with astigmatic mirrors, providing a long absorption path length in a small volume. The combination allows rapid response with sufficient sensitivity for eddy correlation flux measurements over a wide range of meteorological conditions. The precision for methane and nitrous oxide is 0.1% of ambient levels with a 1s averaging time. Extensions of the method to measurements of surface-reactive gases such as nitric acid and ammonia are possible using rapid sampling techniques to minimize surface interactions.'
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

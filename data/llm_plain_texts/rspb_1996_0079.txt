@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0079'
+revised_title: 'Mechanical and Dynamic Fracture Properties of New Zealand Flax Leaf'
+semantic_tags:
+  - Biomimetics
+  - Fibers
+  - Plant Mechanics
+  - Fracture Properties
+  - Vibration Techniques
+tldr: The study investigates the mechanical and dynamic fracture properties of the leaf of New Zealand flax, Phormium tenax, focusing on its high content of stiff, strong fibers. The results show that the fibers dominate the stiffness and control the fracture properties in the leaf, which may have implications for the fracture of unidirectional composites in general.
+scientific_discipline: Environmental and Earth Sciences > Botany

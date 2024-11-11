@@ -1,0 +1,10 @@
+article_id: rspa_1926_0086
+revised_title: 'Exploring the Nature of Atmospherics'
+semantic_tags:
+  - Radio Waves
+  - Atmospheric Science
+  - Wireless Communication
+  - Ionosphere
+  - Radio Propagation
+tldr: This article discusses the nature of atmospherics, specifically the study of radio waves and their propagation through the ionosphere. The authors present their findings on the behavior of these waves and their potential applications in wireless communication.
+scientific_discipline: Physics > Atmospheric and Electromagnetic Waves

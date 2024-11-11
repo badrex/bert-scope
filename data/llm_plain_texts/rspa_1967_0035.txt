@@ -1,0 +1,10 @@
+article_id: 'rspa_1967_0035'
+revised_title: 'Moon's Mountain Rings and Craters Depths in Mare Nubium Region'
+semantic_tags:
+  - Lunar Geology
+  - Crater Formation
+  - Moon's Surface
+  - Astronomical Observations
+  - Geophysical Measurements
+tldr: The authors studied the depths of the Moon's mountain rings and craters in the Mare Nubium region using detailed charts and measurements. They found that the dependence between the diameter and depth of the craters is nearly linear for certain values. The large walled plains do not follow this dependence, likely due to lava flooding. The study helps in understanding the Moon's geological features and comparing observational results with computational models.
+scientific_discipline: Earth Sciences > Lunar Geology

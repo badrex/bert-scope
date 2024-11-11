@@ -1,0 +1,10 @@
+article_id: 'rstb_1985_0010'
+revised_title: 'Development of Behavioral Autonomy in Animal Intelligence'
+semantic_tags:
+  - Animal behavior
+  - Behavioral autonomy
+  - Goal revaluation
+  - Teleological model
+  - Stimulus-response model
+tldr: 'The study investigates the development of behavioral autonomy in animal intelligence, focusing on the distinction between the teleological model and the stimulus-response model. The research finds that a simple food-rewarded activity is sensitive to reward devaluation in rats following limited training, suggesting that the same activity can be either an action or a habit depending on the type of training it receives.'
+scientific_discipline: 'Biology and Life Sciences > Animal Behavior'

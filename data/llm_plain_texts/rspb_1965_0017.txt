@@ -1,0 +1,10 @@
+article_id: 'rspb_1965_0017'
+revised_title: 'The Impact of Calcium on Acetylcholine Release from Motor Nerve Terminals'
+semantic_tags:
+  - Neurotransmitter release
+  - Calcium ions
+  - Neuromuscular transmission
+  - Acetylcholine
+  - Synaptic transmission
+tldr: The study investigates the role of calcium ions in the release of acetylcholine from motor nerve terminals. The researchers found that calcium ions directly increase the release of the neurotransmitter, rather than indirectly affecting it by facilitating nerve impulse propagation or increasing the amplitude of the terminal nerve spike. This discovery helps to understand the importance of calcium ions in neuromuscular transmission.
+scientific_discipline: Biology and Life Sciences > Neurobiology

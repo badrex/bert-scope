@@ -1,0 +1,10 @@
+article_id: 'rstb_1980_0047'
+revised_title: 'Penicillin's Mechanism of Irreversible Antimicrobial Effects'
+semantic_tags:
+  - Antibiotics
+  - Penicillin
+  - Bacterial cell wall synthesis
+  - Autolysins
+  - Bacteriostatic and bactericidal effects
+tldr: This article explores the mechanism behind the irreversible antimicrobial effects of penicillin. It discusses how penicillin inhibits bacterial cell wall biosynthesis and causes physiological consequences such as loss of viability and lysis. The role of murein hydrolases (autolysins) in penicillin-induced lysis is also examined, revealing that these enzymes become triggered in penicillin-treated bacteria, leading to cell wall degradation and lysis.
+scientific_discipline: Biology and Life Sciences > Microbiology

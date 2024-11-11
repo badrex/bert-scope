@@ -1,0 +1,10 @@
+article_id: 'rspa_1933_0162'
+revised_title: 'Electric Moment Estimation in Solutions: Benzyl Compounds and Temperature Coefficient Method'
+semantic_tags:
+  - 'Chemistry'
+  - 'Solutions'
+  - 'Electric Moments'
+  - 'Benzyl Compounds'
+  - 'Temperature Coefficient Method'
+tldr: 'The authors present an experimental method to estimate the electric moment in solutions using the temperature coefficient method. They study the electric moments of benzyl compounds and discuss the importance of temperature in the estimation process. The research highlights the advantages of using higher temperatures for more accurate results and the use of decahydronaphthalene and xylene as solvents.'
+scientific_discipline: 'Chemistry > Physical Chemistry'

@@ -1,0 +1,10 @@
+article_id: rsta_1993_0032
+revised_title: Analytical Solution for Incompressible Viscous Fluid Flow in Curved Pipes
+semantic_tags:
+  - Fluid Dynamics
+  - Viscosity
+  - Pipe Flow
+  - Laminar Flow
+  - Curved Pipes
+tldr: The authors present an analytical solution for the flow of incompressible viscous fluid in curved pipes, focusing on circular pipes of elliptical cross-section. They provide detailed calculations for pipes of circular cross-section, including friction loss factors and velocity contours. The results show favorable agreements with existing experimental data and recent numerical solutions based on the Navier-Stokes equations.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

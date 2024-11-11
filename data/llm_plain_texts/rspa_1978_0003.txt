@@ -1,0 +1,10 @@
+article_id: rspa_1978_0003
+revised_title: 'Projective Representations and the Bondi-Metzner-Sachs Group in General Relativity'
+semantic_tags:
+  - Group Theory
+  - General Relativity
+  - Symmetry
+  - Quantum Field Theory
+  - Space-Time Symmetry
+tldr: This article explores the role of group theory in general relativity, specifically focusing on the Bondi-Metzner-Sachs group. It explains how studying the asymptotic symmetry group can provide insights into the energy, momentum, and angular momentum structure of curved space-times. The author argues that group theory is essential in understanding the covariance principles, highly symmetric solutions, and quantum field theory in curved backgrounds.
+scientific_discipline: Physics > General Relativity

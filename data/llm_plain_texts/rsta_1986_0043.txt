@@ -1,0 +1,10 @@
+article_id: 'rsta_1986_0043'
+revised_title: 'Knowledge-Based Techniques for Designing Novel Protein Molecules'
+semantic_tags:
+  - Protein engineering
+  - Structural biology
+  - Molecular modeling
+  - Protein structure prediction
+  - Site-directed mutagenesis
+tldr: The article discusses the importance of understanding three-dimensional protein structures for designing new molecules. It describes knowledge-based techniques, such as molecular dynamics and energy minimization, to predict the effects of site-specific mutations, insertions, and deletions in proteins. The authors emphasize the use of existing protein data to create accurate models for new protein designs, focusing on engineering amino-acid replacements, insertions, and deletions.
+scientific_discipline: Biology and Life Sciences > Structural Biology

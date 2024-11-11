@@ -1,0 +1,10 @@
+article_id: 106197
+revised_title: 'Rectification of Conic Sections and Applications in Mechanics'
+semantic_tags:
+  - Geometry
+  - Conic Sections
+  - Ellipses
+  - Hyperbolas
+  - Mechanics
+tldr: The author investigates a general theorem for finding the length of any arc of a conic hyperbola using two elliptic arcs. This theorem is applied to various problems in mechanics, including the time of descent of a heavy body and the construction of the elastic curve. The author demonstrates that both the elastic curve and the curve of equable recession from a given point can be constructed using the rectification of the ellipse, without failure in any point.
+scientific_discipline: Mathematics > Geometry

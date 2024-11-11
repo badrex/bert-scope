@@ -1,0 +1,10 @@
+article_id: rspa_1908_0075
+revised_title: Electrical Properties of Porcelain and Their Variations
+semantic_tags:
+  - Dielectric materials
+  - Porcelain properties
+  - Electrical conductivity
+  - Temperature effects
+  - Dielectric constant
+tldr: This article investigates the electrical properties of porcelain, including its dielectric constant and conductivity, and how these properties change with variations in voltage, temperature, and time. The author also explores the effects of temperature on the dielectric constant and the back electromotive force in porcelain. The findings provide insights into the behavior of dielectric materials and their potential applications.
+scientific_discipline: Physics > Electromagnetism

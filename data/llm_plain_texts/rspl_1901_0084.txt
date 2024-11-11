@@ -1,0 +1,10 @@
+article_id: rspl_1901_0084
+revised_title: Seasonal Variation of Atmospheric Temperature in the British Isles
+semantic_tags:
+  - Atmospheric temperature
+  - Seasonal variation
+  - Wind direction
+  - Meteorology
+  - Climate
+tldr: This article analyzes the seasonal variation of atmospheric temperature in the British Isles and its relation to wind direction. The authors use a method of harmonic analysis to study the temperature data from various stations and find that the second-order effect, with maxima in February and August and minima in May and November, is mainly due to meteorological factors rather than the cyclonic or anticyclonic type of weather.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

@@ -1,0 +1,10 @@
+article_id: 103505
+revised_title: 'Improving Marine Navigation: The Marine Surveyor and the Log'
+semantic_tags:
+  - Navigation
+  - Marine technology
+  - Measurement
+  - Ship technology
+  - Tides
+tldr: The author presents a new machine called the Marine Surveyor, designed to measure a ship's progress at sea more accurately than the traditional log. The device uses a dial to record the distance traveled, and the author explains its operation and potential uses, including determining the strength of tides for better navigation. The Marine Surveyor is tested and compared to the log, demonstrating its potential for improving marine navigation.
+scientific_discipline: Engineering and Technology > Navigation

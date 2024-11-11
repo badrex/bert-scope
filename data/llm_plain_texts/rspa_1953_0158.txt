@@ -1,0 +1,10 @@
+article_id: rspa_1953_0158
+revised_title: Wind Drift in Channels with Tidal Currents
+semantic_tags:
+  - Oceanography
+  - Tidal currents
+  - Wind effects
+  - Fluid dynamics
+  - Coastal processes
+tldr: This article investigates the impact of wind drift on water currents in channels with tidal currents. The study assumes a skin-friction layer near the bottom and a constant eddy viscosity above it. The research provides steady-state solutions for channels of uniform width and depth, a uniformly convergent channel, and a non-uniform channel. The findings can be applied to the English Channel, where a program of observations is planned.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

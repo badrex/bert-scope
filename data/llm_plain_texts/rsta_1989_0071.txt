@@ -1,0 +1,10 @@
+article_id: rsta_1989_0071
+revised_title: Coupled Model Simulations of Tropical-Ocean-Atmosphere Interactions
+semantic_tags:
+  - Ocean-Atmosphere Interactions
+  - El Niño Southern Oscillation
+  - Climate Modeling
+  - Tropical Pacific Ocean
+  - Atmospheric General Circulation Models
+tldr: This study presents a high-resolution tropical Pacific Ocean model coupled with a medium-resolution atmospheric general circulation model. The coupled model simulates the surface stress and net surface heating over the tropical Pacific Ocean, emphasizing the role of off-equatorial anomalies in temperature, atmospheric heating, and wind response. The results highlight the importance of air-sea heat exchange and cloud and evaporative feedbacks in the anomalous surface heat budget, providing insights into the complex interactions between the ocean and atmosphere.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

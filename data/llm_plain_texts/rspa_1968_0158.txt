@@ -1,0 +1,10 @@
+article_id: rspa_1968_0158
+revised_title: Quenching Cross-Sections for Lithium in Flames
+semantic_tags:
+  - Atomic Physics
+  - Spectroscopy
+  - Flame Fluorescence
+  - Quenching Cross-Section
+  - Lithium
+tldr: The authors used the flame fluorescence technique to study the fluorescence of lithium in hydrogen-oxygen flames diluted with argon, nitrogen, and carbon dioxide. They determined the quenching cross-sections for lithium in the state by measuring the fluorescence yield and found that the cross-sections were influenced by the flame composition. The results were compared with previously reported values for other alkali metals.
+scientific_discipline: Physics > Atomic Physics

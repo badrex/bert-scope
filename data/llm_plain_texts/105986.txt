@@ -1,0 +1,10 @@
+article_id: '105986'
+revised_title: 'Electrical Experiments and Their Effects on Various Materials and Organisms'
+semantic_tags:
+  - Electrostatics
+  - Electrical Experiments
+  - Conductivity
+  - Animal Physiology
+  - Plant Physiology
+tldr: Edward Nairne conducted electrical experiments using a machine of his own design and observed the effects of electrical discharges on various materials and organisms. He found that different materials conducted electricity differently, with silver thread causing a shock when held between the fingers, while iron wire conducted it without issue. Nairne also experimented on plants and animals, causing plants to wither and drop their leaves and animals to convulse and die upon discharge. These experiments demonstrated the potential power and impact of electricity on living organisms.
+scientific_discipline: Physics > Electrostatics

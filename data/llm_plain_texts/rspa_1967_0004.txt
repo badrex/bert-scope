@@ -1,0 +1,10 @@
+article_id: rspa_1967_0004
+revised_title: 'Solvate and Dimer Equilibria in Chlorophyll Solutions: A Quantitative Study'
+semantic_tags:
+  - Chlorophyll
+  - Solvate
+  - Dimer Equilibria
+  - Absorption Spectrum
+  - Fluorescence
+scientific_discipline: Chemistry > Organic Chemistry
+tldr: This study investigates the solvate and dimer equilibria in chlorophyll solutions, focusing on the absorption and fluorescence spectra. The authors find that the spectrum with a single peak at 641 nm in the presence of basic solvent is attributed to the chlorophyll monosolvate, while the spectrum with two maxima at 641 and 659 nm in very dry hydrocarbons is likely due to the chlorophyll dimer. The results provide insights into the environmental effects on chlorophyll's photophysical and photochemical properties.

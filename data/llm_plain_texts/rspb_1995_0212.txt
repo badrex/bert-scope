@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0212'
+revised_title: 'Spatial and Temporal Genetic Variation in British Field Populations of the Grain Aphid Sitobion Avenae'
+semantic_tags:
+  - Population Genetics
+  - Aphid Biology
+  - Host-Plant Interactions
+  - Clonal Variation
+  - Molecular Markers
+tldr: This study investigates the spatial and temporal genetic variation in British field populations of the grain aphid, Sitobion avenae, using molecular markers (RAPD-PCR). The results show that genetic variation among individuals caught in April on wheat and cocksfoot grass was independent of location. As the season progressed, host-based genetic structure became less evident due to genetic drift and local movement between adjacent host species. The findings suggest that long-distance migration has a less homogenizing effect on this species than previously thought.
+scientific_discipline: Biology and Life Sciences > Population Genetics

@@ -1,0 +1,10 @@
+article_id: 'rsta_1934_0017'
+revised_title: 'Plastico-Viscous Deformation of Right Circular Cylinders of Soft Metal'
+semantic_tags:
+  - Solid mechanics
+  - Metal deformation
+  - Plasticity
+  - Viscosity
+  - Tensor calculus
+tldr: The author investigates the deformation of right circular cylinders of soft metal under variable axial load. They develop a theoretical and rational analysis using tensor calculus, considering the metal as isotropic and incompressible. The study focuses on the plastico-viscous strains and their effects on the metal's properties, providing insights into the behavior of soft metals under stress.
+scientific_discipline: Engineering and Technology > Solid Mechanics

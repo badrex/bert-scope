@@ -1,0 +1,10 @@
+article_id: 'rsta_1990_0148'
+revised_title: 'Flow-Injection Techniques for Trace Analysis: Applications and Developments'
+semantic_tags:
+  - Analytical Chemistry
+  - Flow Injection Analysis
+  - Chemiluminescence
+  - Liquid Chromatography
+  - Chemical Process Monitoring
+tldr: 'The article discusses the use of flow injection techniques for trace analysis in analytical laboratories. It highlights the benefits of flow injection, such as on-line physical and chemical treatment of samples, and its compatibility with various detectors. The article also presents specific examples of flow injection applications, including enzyme activity monitoring, microemulsions, chemiluminescence reactions, immobilized bioluminescent enzymes, and water quality monitoring.'
+scientific_discipline: Chemistry > Analytical Chemistry

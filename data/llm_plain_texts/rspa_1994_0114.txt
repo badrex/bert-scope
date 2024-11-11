@@ -1,0 +1,10 @@
+article_id: rspa_1994_0114
+revised_title: Existence and Uniqueness of Geodesics and Jacobi Fields in Singular Semi-Riemannian Geometry
+semantic_tags:
+  - Differential Geometry
+  - Riemannian Geometry
+  - Singularity Theory
+  - Geodesics
+  - Jacobi Fields
+tldr: This article proves the existence and uniqueness of geodesics and Jacobi fields in singular semi-Riemannian geometry. It focuses on non-isotropic geodesics, which are geodesics tangent to neutral vectors, and their applications in various contexts, such as black holes and metric singularities.
+scientific_discipline: Mathematics > Differential Geometry

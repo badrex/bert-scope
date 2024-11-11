@@ -1,0 +1,10 @@
+article_id: rspa_1953_0070
+revised_title: Relativistic Quantum Field Theory of Resonance Reactions
+semantic_tags:
+  - Quantum Field Theory
+  - Resonance Reactions
+  - Nuclear Physics
+  - Relativity
+  - Particle Physics
+tldr: This article presents a relativistic quantum field theory approach to study nuclear resonance reactions. The authors extend the theory to derive general resonance formulae and investigate interference between neighboring levels. They introduce compound propagators and derive an integral equation that accounts for the possibility of disintegration. The solution of this equation leads to relativistic formulae for a general resonance reaction.
+scientific_discipline: Physics > Particle Physics

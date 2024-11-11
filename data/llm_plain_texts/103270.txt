@@ -1,0 +1,10 @@
+article_id: 103270
+revised_title: Sound Transmission in a Vacuum
+semantic_tags:
+  - Acoustics
+  - Sound propagation
+  - Vacuum experiments
+  - Air as a medium
+  - Hauksbee's experiment
+tldr: Mr. Fr. Hauksbee conducted an experiment to test whether sound could be transmitted through a vacuum. He placed a bell in a strong receiver filled with air and then exhausted the air around it. When the clapper struck the bell, no sound was transmitted through the vacuum, confirming that air is the only medium for the propagation of sound.
+scientific_discipline: Physics > Acoustics

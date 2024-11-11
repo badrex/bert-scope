@@ -1,0 +1,10 @@
+article_id: rspl_1892_0037
+revised_title: 'Magnetisation Effects on Iron and Other Wires Carrying Currents'
+semantic_tags:
+  - Magnetism
+  - Iron properties
+  - Wire magnetisation
+  - Current effects
+  - Magnetic elongation
+tldr: The author conducted experiments on the changes in length of iron and other magnetic wires when carrying currents. They found that the magnetic elongation of an iron wire is diminished by tension, and the results confirmed Maxwell's explanation of the twist. The study also showed that the effect of a current acts oppositely to tension, increasing the curve of elongation instead of lowering it, and is not due to current heating.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: 103187
+revised_title: Further Experiments on Water Ascent in Hyperbolic Curves
+semantic_tags:
+  - Fluid mechanics
+  - Surface tension
+  - Hyperbolic geometry
+  - Capillary action
+  - Experimental physics
+tldr: The author, Fr. Hauksbee, conducted experiments on the ascent of water between two glass planes in a hyperbolic curve. He observed that when the glass planes were placed vertically, the water formed curves that met in the middle. These experiments were performed both in air and in a vacuum, showing that the medium had no effect on the phenomenon. This study contributed to the understanding of fluid mechanics and surface tension.
+scientific_discipline: Physics > Fluid mechanics

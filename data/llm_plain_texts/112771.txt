@@ -1,0 +1,10 @@
+article_id: 112771
+revised_title: 'Chemical Activity of Nitrates: Coefficient and Specific Heat'
+semantic_tags:
+  - Chemistry
+  - Chemical Reactions
+  - Nitrates
+  - Chemical Activity
+  - Specific Heat
+tldr: The author, Edmund J. Mills, discovered a law of chemical activity in nitrates when they are treated with phosphoric oxychloride. This law led to the concept of the "coefficient of chemical activity," which is a constant ratio between the products of the reaction. Mills also found a connection between this coefficient and Dulong and Petit's constant of specific heat, suggesting that the two are related.
+scientific_discipline: Chemistry > Chemical Reactions

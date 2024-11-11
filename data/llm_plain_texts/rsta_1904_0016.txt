@@ -1,0 +1,10 @@
+article_id: 'rsta_1904_0016'
+revised_title: 'Acoustic Shadow of a Sphere: A Study on Sound Obstruction'
+semantic_tags:
+  - Acoustics
+  - Sound waves
+  - Sound propagation
+  - Sound reflection
+  - Sound shadow
+tldr: The author investigates the acoustic shadow of a sphere and its effect on sound propagation. They find that the intensity of sound decreases in the shadow region and increases in the direction opposite to the source. The study helps in understanding how sound waves interact with obstacles and has implications for sound engineering and design.
+scientific_discipline: Physics > Acoustics

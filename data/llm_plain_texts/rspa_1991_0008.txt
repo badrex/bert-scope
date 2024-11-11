@@ -1,0 +1,10 @@
+article_id: rspa_1991_0008
+revised_title: 'Catastrophe Indeterminacy in Attractors and Basin Boundaries'
+semantic_tags:
+  - Bifurcation Theory
+  - Dynamical Systems
+  - Chaos Theory
+  - Attractors
+  - Catastrophe Theory
+tldr: The authors explore the phenomenon of indeterminate outcomes in catastrophic bifurcations of dissipative dynamical systems. They discuss two examples of forced oscillators of Duffing type, where the probabilities of different outcomes can be estimated using phase space geometry of invariant manifolds. The study highlights the sensitivity of the outcomes to the details of how the bifurcation is realized, such as the size of the control parameter increments or the rate at which it is ramped.
+scientific_discipline: Mathematics > Dynamical Systems

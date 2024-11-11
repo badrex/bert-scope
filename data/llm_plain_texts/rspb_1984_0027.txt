@@ -1,0 +1,10 @@
+article_id: 'rspb_1984_0027'
+revised_title: 'Neurotransmitter Receptor Induction in Xenopus Oocytes by Rat Brain mRNA'
+semantic_tags:
+  - Neurotransmitter Receptors
+  - Xenopus Oocytes
+  - Rat Brain mRNA
+  - Glutamate Receptors
+  - Kainate Receptors
+tldr: Researchers discovered that injecting Xenopus oocytes with poly(A)+ mRNA extracted from rat brain made the oocytes sensitive to various neurotransmitters, including serotonin, glutamate, kainate, acetylcholine, and GABA. The rat brain mRNA induced the synthesis and incorporation of functional drug receptor-channel complexes into the oocyte membrane. This study provides insights into the translation of foreign mRNA and the insertion of receptors into the oocyte membrane, which could have implications for understanding neurotransmission and drug development.
+scientific_discipline: Biology and Life Sciences > Neurobiology

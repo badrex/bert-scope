@@ -1,0 +1,10 @@
+article_id: rsta_1986_0067
+revised_title: 'Catalysis and Gas-Surface Dynamics: A Commentary on Local Densities of States, Surface Bonds, and Rate Processes'
+semantic_tags:
+  - Surface Chemistry
+  - Catalysis
+  - Electron Spectroscopy
+  - Solid Surfaces
+  - Adsorption
+tldr: This article discusses the relevance of studying the structure and bonding at solid surfaces to understand catalysis. It explores the use of local densities of states, surface bonds, and rate processes in the context of adsorption and gas-surface dynamics. The author highlights the importance of energy exchange between adsorbates and substrates in catalytic reactions and the role of promoters and poisons in affecting the activation barriers of chemisorption processes.
+scientific_discipline: Chemistry > Surface Chemistry

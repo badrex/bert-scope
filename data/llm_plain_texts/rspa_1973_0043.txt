@@ -1,0 +1,10 @@
+article_id: rspa_1973_0043
+revised_title: 'Rydberg Series and Autoionization Resonances in Scandium I Absorption Spectrum'
+semantic_tags:
+  - Atomic Physics
+  - Spectroscopy
+  - Scandium
+  - Rydberg Series
+  - Autoionization Resonances
+tldr: The authors studied the absorption spectrum of scandium vapor and identified six long Rydberg series and two shorter ones. These series converge on excited states of Sc II and show various autoionization profiles. The findings provide a reliable value for the ionization potential of Sc I, which is essential for understanding the behavior of scandium atoms.
+scientific_discipline: Chemistry > Atomic Physics

@@ -1,0 +1,11 @@
+article_id: 'rspb_1959_0038'
+revised_title: 'The Unique Effect of Ethylation on Mutation Rates in Bacteriophages'
+semantic_tags:
+  - Mutation
+  - Bacteriophages
+  - Alkylation
+  - Ethylation
+  - DNA synthesis
+tldr: The study investigates the influence of radiomimetic substances on DNA synthesis and function in Escherichia coli phage systems. It discovers that only ethyl methane sulphonate and diethyl sulphate cause an increased mutation rate in T2 bacteriophages. The research also explores the inactivation of phage by these agents and their effect on mutation rates, finding that ethylation has a unique impact compared to other alkylations.
+
+scientific_discipline: Biology and Life Sciences > Genetics and Molecular Biology

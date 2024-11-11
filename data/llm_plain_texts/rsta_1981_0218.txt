@@ -1,0 +1,10 @@
+article_id: rsta_1981_0218
+revised_title: 'IRC + 10216: A Study of a Circumstellar Shell and Interstellar Chemistry'
+semantic_tags:
+  - Interstellar chemistry
+  - Circumstellar shells
+  - Molecular species
+  - Stellar evolution
+  - Mass loss process
+tldr: This article discusses the IRC + 10216 circumstellar shell, a prototypical source of interstellar dust. It explores the molecular species found in the shell, the chemical processes occurring in the expanding shell, and the implications for stellar evolution and the interstellar environment. The study of this shell provides a natural laboratory for understanding the chemical kinetics of cooling and expanding gas.
+scientific_discipline: Chemistry > Interstellar Chemistry

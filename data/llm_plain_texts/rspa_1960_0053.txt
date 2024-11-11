@@ -1,0 +1,10 @@
+article_id: 'rspa_1960_0053'
+revised_title: 'Effects of Environment on Molecular Energy Levels and Low-Frequency Spectra'
+semantic_tags:
+  - Molecular Energy Levels
+  - Low-Frequency Spectra
+  - Intermolecular Interactions
+  - Dielectric Loss
+  - Quadrupole Effects
+tldr: This article discusses the impact of environmental factors on molecular energy levels and low-frequency spectra. It explores various intermolecular interactions, such as dipole-dipole, London dispersion, and quadrupole effects, and their influence on electronic, vibrational, rotational, and nuclear spin energy levels. The study also highlights a new form of transition observed in low-frequency measurements, which is attributed to translational motion.
+scientific_discipline: Chemistry > Physical Chemistry

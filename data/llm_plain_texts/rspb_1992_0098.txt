@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0098'
+revised_title: 'DNA Fingerprinting: The Importance of Linkage Analysis in Parentage Studies'
+semantic_tags:
+  - Genetics
+  - DNA Fingerprinting
+  - Parentage Studies
+  - Linkage Analysis
+  - Population Genetics
+tldr: This article discusses the importance of linkage analysis in DNA fingerprinting for parentage studies in natural populations. The authors argue that while full linkage analysis is essential for confident paternity testing, linkage disequilibrium can exist whether or not the loci are linked. They also explore the effects of linkage and linkage disequilibrium on the probability of misidentification and the challenges of detecting linkage in natural populations. The authors suggest that large sample sizes can help overcome these challenges and improve the accuracy of DNA fingerprinting in parentage studies.
+scientific_discipline: Biology and Life Sciences > Genetics

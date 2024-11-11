@@ -1,0 +1,10 @@
+article_id: 'rspa_1961_0156'
+revised_title: 'Air Density Variations in the Upper Atmosphere from Discoverer Satellite Orbits'
+semantic_tags:
+  - Atmospheric Science
+  - Satellite Technology
+  - Air Density
+  - Space Exploration
+  - Solar Activity
+tldr: 'This article analyzes air density variations in the upper atmosphere from 190 to 280 km using data from Discoverer satellite orbits. The study finds that day and night air density variations are small, less than about 25%. The night-time density profile has a constant scale height of 35 km. There is no significant variation of air density with latitude, except for a possible increase of about 60% in the polar regions. The authors also discuss the effect of solar activity on air density and the need for standardization in air density calculations.'
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

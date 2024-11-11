@@ -1,0 +1,10 @@
+article_id: 103398
+revised_title: 'Electrical Experiments with Various Materials'
+semantic_tags:
+  - Electricity
+  - Electromagnetism
+  - Conductivity
+  - Material Science
+  - Physics
+tldr: The author, Stephen Gray, conducted experiments to discover that certain materials, such as silk, paper, wood, and leather, could acquire an electrical charge when rubbed. These materials could then attract small objects and emit light when rubbed in the dark. This research helped expand the understanding of electricity and its properties.
+scientific_discipline: Physics > Electromagnetism

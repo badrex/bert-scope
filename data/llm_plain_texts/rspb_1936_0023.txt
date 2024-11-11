@@ -1,0 +1,10 @@
+article_id: 'rspb_1936_0023'
+revised_title: 'The Mechanism of Bactericidal Action of Radioactive Radiations: Theoretical Approaches'
+semantic_tags:
+  - Radiation Biology
+  - Bactericidal Action
+  - Radioactive Disinfection
+  - Ionizing Radiation
+  - Chemical Reactions
+tldr: The authors conducted research to understand the mechanism of bactericidal action of radioactive radiations. They analyzed the physical phenomena accompanying the passage of radiations through matter and concluded that the biological effects of radiation are due to chemical changes caused by ions with excess energy. The region of chemical change is identified with the initial distribution of ions, which can be inferred from experiments on ionic recombination.
+scientific_discipline: Physics > Nuclear Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1951_0182
+revised_title: Spin and Parity Determination from Angular Distributions in Nuclear Reactions
+semantic_tags:
+  - Nuclear Physics
+  - Angular Distribution
+  - Spin and Parity
+  - Stripping Process
+  - Nuclear Reactions
+tldr: The authors present a method to determine the spins and parities of nuclear energy levels using angular distributions from nuclear reactions, specifically (d, p) and (d, n) reactions. They calculate the angular distributions resulting from a stripping process and find that the experimental distribution agrees with just one of the possible theoretical curves, allowing for the identification of the angular momentum transferred to the nucleus and the determination of the spin and parity of the appropriate state of the final nucleus.
+scientific_discipline: Physics > Nuclear Physics

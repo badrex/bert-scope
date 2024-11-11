@@ -1,0 +1,10 @@
+article_id: rsta_1928_0005
+revised_title: Periodic Solutions in Hamiltonian Systems of Differential Equations
+semantic_tags:
+  - Hamiltonian mechanics
+  - Differential equations
+  - Periodic solutions
+  - Contact transformations
+  - Celestial mechanics
+tldr: The author investigates periodic solutions in Hamiltonian systems of differential equations, focusing on contact transformations and the properties of these solutions. The study covers both commensurable and incommensurable cases, providing a comprehensive understanding of periodic solutions in these systems.
+scientific_discipline: Mathematics > Differential Equations

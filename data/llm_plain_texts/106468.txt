@@ -1,0 +1,10 @@
+article_id: 106468
+revised_title: 'A New Electrometer: Design and Function'
+semantic_tags:
+  - Electrometry
+  - Electricity
+  - Electromagnetic force
+  - Measurement instruments
+  - Electrostatics
+tldr: 'Abraham Brook describes a new electrometer, an instrument used to measure electric charge. The device features a glass support, two copper balls, and a dial plate with a graduated circle. The electrometer can detect the repulsive power of electric charges and determine the weight in grains that the repulsive force can lift. This instrument provides a more accurate and universal language for understanding and comparing electric charges.'
+scientific_discipline: Physics > Electromagnetism

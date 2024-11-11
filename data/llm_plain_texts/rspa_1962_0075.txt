@@ -1,0 +1,10 @@
+article_id: rspa_1962_0075
+revised_title: 'General Multiplicative Population Chains: Theory and Applications'
+semantic_tags:
+  - Population Dynamics
+  - Stochastic Processes
+  - Markov Chains
+  - Probability Theory
+  - Mathematical Biology
+tldr: The article explores the concept of general multiplicative population chains, which are populations where each individual is in a state belonging to a fixed set of states. The study focuses on the probability distribution of the first generation conditional on ancestors in states and extends the basic results concerning single-state multiplicative chains to general multiplicative population chains. The article also discusses mean distributions, extinction probabilities, and variance-covariance distributions in these population chains.
+scientific_discipline: Mathematics > Probability Theory

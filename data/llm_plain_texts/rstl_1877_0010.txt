@@ -1,0 +1,10 @@
+article_id: 'rstl_1877_0010'
+revised_title: 'Investigating Hyperjacobian Surfaces and Curves'
+semantic_tags:
+  - Algebraic Geometry
+  - Surfaces and Curves
+  - Contact Geometry
+  - Mathematical Analysis
+  - Geometry
+tldr: The author explores the properties of Hyperjacobian surfaces and curves, which are determined by the contact of surfaces and curves. They investigate the contact between these surfaces and curves, as well as the points where they intersect, and the properties of the points of contact.
+scientific_discipline: Mathematics > Algebraic Geometry

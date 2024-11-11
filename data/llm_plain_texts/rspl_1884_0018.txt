@@ -1,0 +1,10 @@
+article_id: rspl_1884_0018
+revised_title: 'Exploration of Non-Euclidean Geometry and the Pseudosphere'
+semantic_tags:
+  - Geometry
+  - Non-Euclidean Geometry
+  - Pseudosphere
+  - Lobatschewskian Geometry
+  - Beltrami's Pseudosphere
+tldr: The author explores non-Euclidean geometry, specifically the Lobatschewskian geometry, and introduces the concept of the pseudosphere. They explain how the pseudosphere can be used to understand the properties of non-Euclidean spaces and how it relates to Euclid's twelfth axiom. The author also discusses the differences between the descriptive properties of the pseudosphere and the imaginary spherical surface.
+scientific_discipline: Mathematics > Geometry

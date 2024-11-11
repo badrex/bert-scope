@@ -1,0 +1,10 @@
+article_id: 'rspa_1918_0017'
+revised_title: 'Graphical Solution for High-Angle Fire: A Method for Determining Projectile Trajectories'
+semantic_tags:
+  - Ballistics
+  - Gunfire
+  - Graphical methods
+  - Atmospheric conditions
+  - Projectile motion
+tldr: This article presents a graphical method for solving high-angle fire problems in artillery. The method accounts for the variation in air density and resistance, allowing for the determination of projectile trajectories. The process involves using five curves and a series of constructions to find the desired values. This method provides a practical and efficient way to solve complex problems in ballistics.
+scientific_discipline: Engineering and Technology > Ballistics

@@ -1,0 +1,10 @@
+article_id: rspa_1936_0108
+revised_title: The Red Line of Cadmium as a Reliable Standard of Wavelength
+semantic_tags:
+  - Spectroscopy
+  - Wave-length Standards
+  - Red Line of Cadmium
+  - Michelson Lamps
+  - Spectral Lines
+tldr: The author investigates the red line of cadmium as a standard of wavelength and finds that it is reproducible to an accuracy of at least 0.0001 Angstrom. The simplified specification of the International Astronomical Union is found to be unsatisfactory, and a new Osram cadmium lamp is suggested as a reliable substitute for the Michelson lamp. The author also confirms that a small pressure of air in the tube is advantageous for accurate reproducibility of the primary standard.
+scientific_discipline: Physics > Optics

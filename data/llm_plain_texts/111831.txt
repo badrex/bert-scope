@@ -1,0 +1,10 @@
+article_id: 111831
+revised_title: Enumeration of x-Edra with Triangular Faces and Triedral Summits
+semantic_tags:
+  - Geometry
+  - Polyhedra
+  - Combinatorics
+  - Mathematical Theory
+  - Mathematical Problem Solving
+tldr: The author presents a method to enumerate x-edra (polyhedra) with a specific type of face and summit configuration. The paper provides a mathematical framework for understanding and classifying these geometric shapes, as well as solving related problems involving the creation of new polyhedra from existing ones.
+scientific_discipline: Mathematics > Geometry

@@ -1,0 +1,10 @@
+article_id: rspa_1920_0036
+revised_title: Diamagnetism and Free Electrons in Metals
+semantic_tags:
+  - Diamagnetism
+  - Electromagnetism
+  - Free electrons
+  - Metal properties
+  - Quantum theory
+tldr: The author explains how the presence of free electrons in a metal can produce diamagnetic susceptibility, which is the ability of a material to be slightly repelled by a magnetic field. The author also discusses the relationship between the number of free electrons and the susceptibility of metals, as well as the influence of temperature on this property.
+scientific_discipline: Physics > Electromagnetism

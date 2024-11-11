@@ -1,0 +1,10 @@
+article_id: 'rstb_1995_0164'
+revised_title: 'The Role of DSS Locus and Candidate Genes in Gonadal Sex Determination'
+semantic_tags:
+  - Sex determination
+  - Genetics
+  - X chromosome
+  - Gonadal development
+  - Sex reversal
+tldr: The study of Xp duplicated patients demonstrated that sex reversal results from the presence of two active copies of the DSS (dosage sensitive sex reversal) locus. A double dosage of DSS disrupts testis formation, while its absence is compatible with a male phenotype, suggesting a role for DSS in ovarian development and as a link between ovary and testis formation. The DSS locus was localized to a 160 kb region of Xp21, overlapping the adrenal hypoplasia congenita locus. The search for expressed sequences in the DSS critical region led to the identification of two types of genes: the DAM family and DAX-1, an atypical member of the nuclear receptor superfamily.
+scientific_discipline: Biology and Life Sciences > Genetics and Genomics

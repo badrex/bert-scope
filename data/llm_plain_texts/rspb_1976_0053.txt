@@ -1,0 +1,10 @@
+article_id: 'rspb_1976_0053'
+revised_title: 'Halothane Interactions with Haemoglobin: A Study of Anaesthetic Effects on Protein Structure'
+semantic_tags:
+  - Biochemistry
+  - Anaesthesia
+  - Haemoglobin
+  - Protein Structure
+  - Fourier Transform NMR
+tldr: This study investigates the interaction between the anaesthetic halothane and haemoglobin using Fourier transform n.m.r. techniques. The research reveals that halothane causes small perturbations in haemoglobin's structure, which persist at clinical concentrations and across a wide pH range. These perturbations suggest that halothane's interaction with the protein is either highly selective or allows only specific distortions to occur. The authors attempt to locate the area of strongest interaction between halothane and haemoglobin by analyzing the histidine residues affected by the perturbations.
+scientific_discipline: Chemistry > Biochemistry

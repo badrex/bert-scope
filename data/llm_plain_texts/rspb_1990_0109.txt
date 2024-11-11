@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0109'
+revised_title: 'Glutamate Receptors and G-Proteins in Rod Bipolar Cells'
+semantic_tags:
+  - Retinal Biology
+  - Glutamate Receptors
+  - G-Proteins
+  - Cyclic GMP Cascade
+  - Retinal Neurons
+tldr: The authors discovered that glutamate receptors in rod bipolar cells are linked to a cyclic GMP cascade via a G-protein. This connection may be similar to the phototransduction process in rods, with cGMP acting as the second messenger, opening ion channels. The findings suggest that the glutamate receptors' activation through G-proteins helps regulate intracellular cGMP levels, which in turn affects the opening of subsynaptic membrane channels in rod bipolar cells.
+scientific_discipline: Biology and Life Sciences > Neuroscience

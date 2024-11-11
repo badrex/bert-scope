@@ -1,0 +1,10 @@
+article_id: rspl_1890_0047
+revised_title: Determination of Mercury's Specific Resistance in Absolute Measure
+semantic_tags:
+  - Electrical resistance
+  - Mercury
+  - Ohm
+  - Lorenz method
+  - Electrical engineering
+tldr: The author conducted experiments to determine the specific resistance of mercury using the Lorenz method. They made improvements to the method, such as using a long trough for the mercury and measuring the distance moved by the electrode between two equilibrium positions. The author also suggested ways to improve the accuracy of future measurements and proposed a new method for determining the ohm for practical use in electrical engineering.
+scientific_discipline: Physics > Electrical Engineering

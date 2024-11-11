@@ -1,0 +1,10 @@
+article_id: 111279
+revised_title: 'Thermal Effects of High-Pressure Steam'
+semantic_tags:
+  - Thermodynamics
+  - Fluid Dynamics
+  - Heat Transfer
+  - Steam Engineering
+  - Joule-Thomson Effect
+tldr: The authors conducted experiments to study the thermal effects of high-pressure steam when it is released through an orifice. They found that for each pound of pressure difference between the steam and the atmosphere, there is a cooling effect of 0.2 Centigrade. This result confirmed that steam issued from a high-pressure boiler is dry and non-scalding.
+scientific_discipline: Physics > Thermodynamics

@@ -1,0 +1,10 @@
+article_id: rsta_1982_0083
+revised_title: Earth's Core: Structure, Evolution, and Geomagnetic Field
+semantic_tags:
+  - Geophysics
+  - Earth's Core
+  - Geomagnetic Field
+  - Fluid Dynamics
+  - Secular Variation
+tldr: This article discusses the structure, evolution, and magnetic field of the Earth's core. It examines the radial component of geomagnetic secular variation at the core surface and explores the fluid motions responsible for this variation. The authors use mathematical models and data analysis to understand the core's dynamics and the relationship between the core's flow and the Earth's magnetic field.
+scientific_discipline: Earth Sciences > Geophysics

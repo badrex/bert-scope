@@ -1,0 +1,10 @@
+article_id: rspl_1890_0090
+revised_title: The Influence of Groove Geometry on Steel Rupture Strength
+semantic_tags:
+  - Material Science
+  - Steel Strength
+  - Stress Distribution
+  - Groove Geometry
+  - Rupture Phenomena
+tldr: The author conducted experiments to study the effect of groove geometry on the strength of steel under tension. They found that U-grooved steel specimens were stronger than plain specimens, despite the non-uniform stress distribution. The author also discussed the reasons for this phenomenon, such as the uneven stress distribution, bending stresses, and the crystalline nature of the steel at fracture.
+scientific_discipline: Engineering and Technology > Material Science

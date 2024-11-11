@@ -1,0 +1,10 @@
+article_id: 102192
+revised_title: Dr. Papin's Observations on a French Paper Concerning a Perpetual Motion
+semantic_tags:
+  - Thermodynamics
+  - Perpetual motion
+  - Atmospheric pressure
+  - Counterpoise
+  - Mercury
+tldr: Dr. Papin examines a French paper describing a perpetual motion machine and explains why it cannot work. The machine relies on atmospheric pressure to open bellows, but the pressure inside the bellows is weaker than outside due to the counterweight and the mercury-filled pipe. This makes it impossible for the machine to function as intended.
+scientific_discipline: Physics > Thermodynamics

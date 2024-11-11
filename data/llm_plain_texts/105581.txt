@@ -1,0 +1,10 @@
+article_id: 105581
+revised_title: Theorem of Aberration of Light Refracted Through a Lens
+semantic_tags:
+  - Optics
+  - Lens design
+  - Aberration correction
+  - Theorem
+  - Refraction
+tldr: The author, Nevil Maskelyne, presents a theorem that calculates the aberration of light rays refracted through a lens due to the imperfection of its spherical shape. This theorem helps in understanding and correcting optical aberrations in lenses, which is essential for improving the quality of optical instruments like telescopes and microscopes.
+scientific_discipline: Physics > Optics

@@ -1,0 +1,10 @@
+article_id: 101093
+revised_title: A Study of Fluid Pressure and Optics
+semantic_tags:
+  - Fluid mechanics
+  - Atmospheric pressure
+  - Optics
+  - Geometry
+  - Experiments
+tldr: The author discusses experiments related to fluid pressure and optics. They describe a method to measure the pressure of the air on the surface of the water and how it relates to the depth of the water. They also explain the geometry and optics principles involved in their experiments.
+scientific_discipline: Physics > Fluid mechanics

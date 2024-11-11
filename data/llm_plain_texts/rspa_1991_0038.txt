@@ -1,0 +1,10 @@
+article_id: rspa_1991_0038
+revised_title: Analytical Approach to Near-Earth Orbit Predictions with Drag
+semantic_tags:
+  - Celestial Mechanics
+  - Orbital Dynamics
+  - Atmospheric Drag
+  - Satellite Orbit Prediction
+  - Analytical Solutions
+tldr: The author presents an analytical theory for predicting the motion of Earth satellite orbits considering air drag effect using element equations and an analytical oblate exponential atmospheric density model. The study includes numerical analysis of six test cases, comparing the results with numerically integrated values, and highlighting the usefulness of the analytical expressions for orbit predictions.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

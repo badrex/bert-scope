@@ -1,0 +1,10 @@
+article_id: 108018
+revised_title: Empirical Laws of Tides in the Port of Liverpool
+semantic_tags:
+  - Tides
+  - Oceanography
+  - Equilibrium Theory
+  - Lunar and Solar Parallax
+  - Tide Tables
+scientific_discipline: Environmental and Earth Sciences > Oceanography
+tldr: This article investigates the empirical laws of tides in the Port of Liverpool, focusing on the effects of lunar and solar parallax and declination. The author develops an equilibrium theory to explain the observed tidal phenomena and confirms its accuracy using Liverpool tide observations. The study shows that, despite the irregularities of tides, the results of mean observations agree with the theoretical formula with a precision similar to other astronomical phenomena.

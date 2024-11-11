@@ -1,0 +1,10 @@
+article_id: 'rspb_1993_0052'
+revised_title: 'Dendritic Trees and Equivalent Cables in Neurons'
+semantic_tags:
+  - Neuroscience
+  - Dendritic Trees
+  - Cable Theory
+  - Neuron Computation
+  - Equivalent Cables
+tldr: The authors demonstrate that any passive dendritic tree can be reduced to an equivalent cable, providing a useful way to understand the behavior of neurons. This approach includes Rall's equivalent cylinder and its generalizations as special cases, offering a potentially valuable tool for studying neuron computations.
+scientific_discipline: Biology and Life Sciences > Neuroscience

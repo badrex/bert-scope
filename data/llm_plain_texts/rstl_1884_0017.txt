@@ -1,0 +1,10 @@
+article_id: 'rstl_1884_0017'
+revised_title: 'On the Motion of Fluid with Rotational and Irrotational Components'
+semantic_tags:
+  - Fluid Dynamics
+  - Vortex Flow
+  - Hydrodynamics
+  - Mathematical Physics
+  - Rotational Motion
+tldr: The author presents a mathematical analysis of fluid motion with both rotational and irrotational components. They use Clebsch's forms to express the components of velocity and derive equations for pressure and potential, ultimately providing a method to determine the continuity of fluid motion in various scenarios.
+scientific_discipline: Mathematics > Applied Mathematics

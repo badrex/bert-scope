@@ -1,0 +1,10 @@
+article_id: '107844'
+revised_title: 'Meteorological Observations in Benares'
+semantic_tags:
+  - Meteorology
+  - Climate
+  - Barometer
+  - Thermometer
+  - Weather patterns
+tldr: This article presents a meteorological journal kept in Benares during the years 1824, 1825, and 1826. It includes tables with daily oscillations of the barometer and the corresponding variations of the thermometer for each month. The author also discusses the accuracy of the instruments used and provides a diagram to represent the agreement of two lines in motion.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

@@ -1,0 +1,10 @@
+article_id: rspa_1961_0072
+revised_title: 'Heat Transfer Characteristics of Water in Couette Motion and with Taylor Vortices'
+semantic_tags:
+  - Fluid dynamics
+  - Heat transfer
+  - Taylor vortices
+  - Couette flow
+  - Annulus geometry
+tldr: This study investigates the heat transfer characteristics of water in rotational motion between horizontal concentric cylinders, considering primary fluid motion due to the rotation of the inner cylinders alone and due to the rotation of the inner cylinder with reverse flow caused by a divider. The results are correlated by a parameter related to the generalized stability parameter, and radial temperature profiles are provided to indicate flow patterns. The findings show that below a certain Taylor number, the Nusselt number is constant and equal to the theoretical value for conduction, while at a certain critical Taylor number, the Nusselt number increases with increasing Taylor number.
+scientific_discipline: Physics > Fluid dynamics

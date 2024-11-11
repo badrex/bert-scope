@@ -1,0 +1,10 @@
+article_id: rspa_1964_0018
+revised_title: Stability and Interaction of Vortex Lines in Liquid Helium II
+semantic_tags:
+  - Superfluidity
+  - Vortex lines
+  - Helium II
+  - Quantum mechanics
+  - Fluid dynamics
+tldr: The authors study the behavior of vortex lines in liquid helium II near a wire, using classical hydrodynamics. They show that states with different numbers of quanta of superfluid circulation about the wire are separated by high potential barriers. The results are compared with Vinen's experiment, and the theory of quantized vortex lines is found to account fairly well for the observations.
+scientific_discipline: Physics > Fluid Dynamics

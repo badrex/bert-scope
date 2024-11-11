@@ -1,0 +1,10 @@
+article_id: rspa_1974_0062
+revised_title: 'Nonlinear Constitutive Equations for Elastic Rods'
+semantic_tags:
+  - Elasticity Theory
+  - Rods
+  - Cosserat Curve
+  - Thermodynamics
+  - Nonlinear Equations
+tldr: This article presents a direct approach to the theory of elastic rods, focusing on the nonlinear constitutive equations for thermo-mechanical behavior. The authors develop a set of response functions for the variables involved in the field equations and inequality, leading to restrictions on the functions and resulting equations. The study is applicable to rods of non-uniform section and separates into extensional, torsional, and flexural modes of deformation.
+scientific_discipline: Mathematics > Applied Mathematics

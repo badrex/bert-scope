@@ -1,0 +1,10 @@
+article_id: 'rspb_1984_0003'
+revised_title: 'Exploring the Relationship between Chlorophyll a Fluorescence and Photosynthetic Carbon Assimilation in Intact Isolated Chloroplasts'
+semantic_tags:
+  - Photosynthesis
+  - Chlorophyll a fluorescence
+  - Carbon assimilation
+  - Chloroplasts
+  - Plant metabolism
+tldr: The authors conducted experiments with intact, isolated chloroplasts to study the relationship between chlorophyll a fluorescence and the onset of photosynthetic carbon assimilation. They discovered that a'shoulder' in the fluorescence kinetics is associated with the exponential increase in the rate of carbon dioxide-dependent oxygen evolution. The length of this induction period was influenced by various factors, such as storage, temperature, and the presence of certain metabolites.
+scientific_discipline: Biology and Life Sciences > Photosynthesis

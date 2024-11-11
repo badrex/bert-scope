@@ -1,0 +1,10 @@
+article_id: rspa_1994_0128
+revised_title: Distributed Sensitivity Analysis in Turbulent Open Channel Flow Modeling
+semantic_tags:
+  - Environmental and Earth Sciences
+  - Hydrology
+  - Fluid Dynamics
+  - River Flow Modeling
+  - Sensitivity Analysis
+tldr: This paper demonstrates the importance of distributed sensitivity analysis in assessing the predictions of a distributed model of turbulent river flow in a natural river channel. The authors apply a distributed sensitivity analysis to a model of turbulent open channel flow and show the significance of spatial feedback in environmental systems, which traditional sensitivity analysis approaches cannot reveal. The study highlights the need for a rigorous sensitivity analysis to improve model representation and reduce errors in predictions.
+scientific_discipline: Environmental and Earth Sciences > Hydrology

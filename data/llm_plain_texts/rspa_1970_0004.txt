@@ -1,0 +1,10 @@
+article_id: rspa_1970_0004
+revised_title: Radiative Transfer Effects in Natural Convection Above Fires: General Case
+semantic_tags:
+  - Natural convection
+  - Radiative heat transfer
+  - Fire plumes
+  - Schwarzschild's equation
+  - Boundary layer
+tldr: This study investigates the effect of radiation on the overall dynamics of a hot plume above large fires, considering a grey plume material and an outside atmosphere with an arbitrary lapse rate variation. The authors derive an approximate multi-dimensional transfer equation for heat radiation from Schwarzschild's equation and provide a unified approach to the problem of radiative heat transfer in natural convection. The solution curves for representative values of parameters are obtained and compared with previous publications, while also deriving asymptotic cases for large and small absorption coefficients.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Sciences

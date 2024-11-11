@@ -1,0 +1,10 @@
+article_id: rspa_1940_0092
+revised_title: 'Stability Analysis of Convective Motion in a Fluid Layer'
+semantic_tags:
+  - Fluid dynamics
+  - Convection
+  - Heat transfer
+  - Thermal convection
+  - Rayleigh-Bénard convection
+tldr: This paper examines the stability of convective motion in a fluid layer heated from below, with a focus on the conditions that lead to maintained convective motion. The authors analyze various boundary conditions and provide solutions for different scenarios, contributing to the understanding of heat transfer and fluid dynamics in such systems.
+scientific_discipline: Physics > Fluid dynamics

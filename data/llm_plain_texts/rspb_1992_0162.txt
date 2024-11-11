@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0162'
+revised_title: 'Computational Models of Motion Analysis in the Visual System'
+semantic_tags:
+  - Visual Perception
+  - Motion Detection
+  - Optical Flow
+  - Computational Neuroscience
+  - Neurobiology
+tldr: This article discusses various computational models of motion analysis in the visual system, focusing on how simple and complex cells process first-order and second-order motion patterns. The authors compare different models, such as the motion energy model and the gradient model, and explore their strengths and limitations in accurately computing optic flow.
+scientific_discipline: Neuroscience > Visual Perception

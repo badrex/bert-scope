@@ -1,0 +1,10 @@
+article_id: rspa_1974_0189
+revised_title: 'Free Vibrations of Uniform Suspended Cables: A Linear Theory'
+semantic_tags:
+  - Cable vibrations
+  - Structural engineering
+  - Mechanics
+  - Bessel functions
+  - Partial differential equations
+tldr: The authors develop a linear theory for the free vibrations of uniform suspended cables with a sag-to-span ratio of about 1:8 or less. Both in-plane and out-of-plane motion is considered, and the analysis focuses on the symmetric in-plane modes, which are heavily dependent on a parameter accounting for cable geometry and elasticity. The theory is validated through simple experiments.
+scientific_discipline: Engineering and Technology > Structural Engineering

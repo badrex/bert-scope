@@ -1,0 +1,10 @@
+article_id: rspa_1968_0057
+revised_title: 'Investigation of Mass Effects in Detonation Limits'
+semantic_tags:
+  - Detonation limits
+  - Mass effects
+  - Chemical physics
+  - Gaseous detonation
+  - Molecular mass
+scientific_discipline: Chemistry > Chemical Physics
+tldr: The authors investigated mass effects in detonation limits, focusing on the chemical physics of detonation in gases. They observed differences in detonation limits for mixtures with similar thermodynamic and hydrodynamic parameters, such as hydrogen and deuterium, or helium and argon. These findings challenge the elementary hydrodynamic theory and suggest that a deeper understanding of the processes occurring in the reaction zone may help explain the observed mass effects.

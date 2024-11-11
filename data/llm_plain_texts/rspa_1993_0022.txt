@@ -1,0 +1,10 @@
+article_id: rspa_1993_0022
+revised_title: Interfacial Micromechanics in Model Composites Using Laser Raman Spectroscopy
+semantic_tags:
+  - Composite Materials
+  - Interfacial Micromechanics
+  - Laser Raman Spectroscopy
+  - Carbon Fibers
+  - Epoxy Resin
+tldr: The authors investigate the mechanisms of load transfer in single carbon-fibre/epoxy-resin model composites using laser Raman spectroscopy. They monitor the fibre fragmentation process under incremental tensile loading and evaluate the interfacial shear stress distribution using a balance of forces analysis. The effects of fibre surface treatment and fibre modulus on stress transfer profiles are also examined.
+scientific_discipline: Materials Science > Composite Materials

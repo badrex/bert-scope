@@ -1,0 +1,10 @@
+article_id: rspa_1954_0190
+revised_title: 'Magnetic Susceptibility of Oxygen in a Clathrate Compound: A Study of Interaction Effects'
+semantic_tags:
+  - Magnetic susceptibility
+  - Clathrate compounds
+  - Oxygen
+  - Interaction effects
+  - Low-temperature physics
+tldr: The authors measured the magnetic susceptibility of oxygen in a clathrate compound with /?-quinol at temperatures between 1 to 20 K. They found that the susceptibility agreed with the calculated susceptibility for a gas of non-interacting oxygen molecules at high temperatures. However, at low temperatures, the susceptibility did not agree, indicating the presence of interaction effects between the oxygen molecules and their surrounding cage. This study provides insights into the behavior of oxygen in clathrate compounds and the influence of interaction effects on magnetic properties.
+scientific_discipline: Physics > Condensed Matter Physics

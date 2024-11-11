@@ -1,0 +1,10 @@
+article_id: rspa_1959_0175
+revised_title: 'Hydrogen Diffusion and Overvoltage in Iron and Palladium'
+semantic_tags:
+  - Overvoltage
+  - Hydrogen diffusion
+  - Iron
+  - Palladium
+  - Crystal lattice
+tldr: The authors conducted experiments to study the diffusion of hydrogen through iron and palladium during electrolysis. They observed that the lattice parameters of iron remained unchanged, while palladium experienced lattice expansion. The results showed that hydrogen blisters formed within single crystals of iron, indicating that hydrogen diffusion occurs through the crystal grains rather than along crystal boundaries. The findings have implications for understanding the mechanisms of overvoltage and hydrogen diffusion through metals.
+scientific_discipline: Physics > Materials Science

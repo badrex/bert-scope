@@ -1,0 +1,10 @@
+article_id: rspa_1953_0007
+revised_title: D-D Cross-Section and Angular Distribution: Experimental Analysis
+semantic_tags:
+  - Nuclear Physics
+  - Cross-Section
+  - Angular Distribution
+  - Deuterium-Deuterium Reaction
+  - Nuclear Reactions
+tldr: This article presents an experimental study of the D-D cross-section and angular distribution of protons from the deuterium-deuterium reaction using thin gas targets. The authors measured the cross-section and angular distributions of protons at energies ranging from 55 to 430 keV. The results were expressed in the form of asymmetry coefficients and were found to be consistent with the theory of Beiduk, Pruett, and Konopinski, introducing only a small or negligible amount of spin-orbit coupling. The branching ratio for the D-D reactions was also determined for energies up to 250 keV, showing that the total cross-section for the formation of He-3 and H-3 was very close to each other.
+scientific_discipline: Physics > Nuclear Physics

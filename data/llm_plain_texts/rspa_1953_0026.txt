@@ -1,0 +1,10 @@
+article_id: rspa_1953_0026
+revised_title: 'Investigation of the Photochemical and Thermal Decompositions of Hydrogen Sulfide'
+semantic_tags:
+  - Photochemistry
+  - Hydrogen sulfide decomposition
+  - Quantum yield
+  - Thermal decomposition
+  - Kinetics
+tldr: The authors investigated the photochemical and thermal decompositions of hydrogen sulfide, examining the effects of pressure and temperature on the reaction. They found that the quantum yield increased with pressure and that the thermal decomposition was heterogeneous at low temperatures and homogeneous at higher temperatures. The results support a mechanism involving hydrogen atoms and hydrosulfide radicals in the photochemical decomposition.
+scientific_discipline: Chemistry > Photochemistry

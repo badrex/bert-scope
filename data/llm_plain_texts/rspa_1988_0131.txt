@@ -1,0 +1,10 @@
+article_id: rspa_1988_0131
+revised_title: Structural Characterization and Properties of Zeolite Beta
+semantic_tags:
+  - Zeolite Beta
+  - Crystallography
+  - High-Resolution Electron Microscopy
+  - Powder X-ray Diffraction
+  - Catalysis
+tldr: The authors describe the determination of the framework structure of zeolite beta, a high-silica zeolite with a complex stacking disorder. They used high-resolution electron microscopy, electron diffraction, computer-assisted modeling, and powder X-ray diffraction to analyze the structure. Zeolite beta can be regarded as a highly intergrown hybrid of two distinct structures with 12-ring pore systems. The authors also discuss the synthesis, sorption properties, and ion-exchange characteristics of zeolite beta, highlighting its potential applications in various hydrocarbon conversion processes and as a sorbent.
+scientific_discipline: Chemistry > Materials Science

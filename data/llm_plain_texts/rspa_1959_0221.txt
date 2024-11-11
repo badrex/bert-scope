@@ -1,0 +1,10 @@
+article_id: rspa_1959_0221
+revised_title: 'Asymptotic Analysis of Elastic Waves in Anisotropic Media'
+semantic_tags:
+  - Elastic waves
+  - Anisotropic media
+  - Fourier integrals
+  - Asymptotic expressions
+  - Slowness surface
+tldr: The authors analyze the displacements due to a radiating point source in an infinite anisotropic elastic medium using Fourier integrals. They evaluate the integrals asymptotically, obtaining explicit expressions for displacements at points far from the source. The study shows that the decay of wave amplitudes is proportional to the distance from the source, but in certain directions, the decay can be less than this. The method also provides a way to derive known results concerning the geometry of the propagation of disturbances in anisotropic media.
+scientific_discipline: Physics > Mechanics

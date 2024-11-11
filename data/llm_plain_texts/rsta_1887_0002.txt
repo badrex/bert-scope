@@ -1,0 +1,10 @@
+article_id: rsta_1887_0002
+revised_title: 'Properties of Matter in Gaseous and Liquid States under Varying Conditions'
+semantic_tags:
+  - Gas laws
+  - Dalton's law
+  - Gas mixtures
+  - Pressure and temperature
+  - Volatile liquids
+tldr: The author investigates the properties of matter in gaseous and liquid states under various conditions of temperature and pressure. They confirm Dalton's law for most cases of gas mixtures, but find an exception for mixtures of liquids that can dissolve each other, where chemical affinities come into play. The study also explores the effects of pressure on gas mixtures and the behavior of vapors derived from these liquids.
+scientific_discipline: Chemistry > Gas laws and mixtures

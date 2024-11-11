@@ -1,0 +1,10 @@
+article_id: 105999
+revised_title: Improving Barometer and Thermometer Measurements for Accurate Height Determination
+semantic_tags:
+  - Atmospheric Pressure
+  - Thermometry
+  - Barometry
+  - Temperature and Heat
+  - Altitude Measurement
+tldr: The author describes M. De Luc's method for measuring heights using a barometer and thermometer, which is more accurate than previous methods. The technique involves using a syphon-barometer, correcting for temperature changes, and accounting for the density of air and quicksilver. This method allows for determining heights with an error of 10-15 feet, making it a valuable tool for altitude measurements.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

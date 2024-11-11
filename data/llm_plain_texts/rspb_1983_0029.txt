@@ -1,0 +1,10 @@
+article_id: 'rspb_1983_0029'
+revised_title: 'Glutamate-Activated Synaptic Channel Block by Curare and Gallamine'
+semantic_tags:
+  - Synaptic channels
+  - Glutamate receptors
+  - Curare
+  - Gallamine
+  - Neurotransmitter antagonists
+tldr: The authors examined the effects of curare and gallamine on glutamate-activated synaptic channels in locust muscle fibers. They found that both drugs cause a transient block of the channels, with gallamine being more effective. This blockage affects the time course and amplitude of the synaptic currents, providing insights into the action of cholinergic antagonists on neurotransmission.
+scientific_discipline: Biology and Life Sciences > Neurobiology

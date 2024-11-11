@@ -1,0 +1,10 @@
+article_id: 'rsta_1977_0082'
+revised_title: 'Effects of Shock on Lunar Sample Magnetism and Implications for Lunar Magnetism and Regolith Processes'
+semantic_tags:
+  - Lunar Magnetism
+  - Shock Remanence
+  - Regolith Formation
+  - Lunar Sample Analysis
+  - Shock Demagnetization
+tldr: This article reviews the effects of shock on the magnetic characteristics of lunar samples and discusses the implications for understanding lunar magnetism and regolith processes. Shock experiments show that the intensity of shock remanence increases with pressure, and shock demagnetization preferentially demagnetizes the softer part of thermo-remanent magnetization. The results suggest that shock remanence is likely to be the cause of the natural remanent magnetization of certain regolith breccias and that shock may modify the primary remanence of other samples.
+scientific_discipline: Earth Sciences > Geomagnetism

@@ -1,0 +1,10 @@
+article_id: 'rstb_1971_0085'
+revised_title: 'Water-Solute Coupling and Ion Selectivity in Epithelia: A Discussion'
+semantic_tags:
+  - Epithelial cells
+  - Ion selectivity
+  - Osmotic gradients
+  - Active transport
+  - Biological membranes
+tldr: This article discusses the active transport of salts and water in living tissues, specifically focusing on water-solute coupling and ion selectivity in epithelia. The authors propose that water transport across epithelia is coupled to active solute transport by means of local osmotic gradients set up within the epithelium. They also explore the ion selectivity of epithelial cells and the mechanisms behind it.
+scientific_discipline: Biology and Life Sciences > Cell Biology

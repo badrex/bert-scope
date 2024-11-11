@@ -1,0 +1,10 @@
+article_id: 108402
+revised_title: Observations of Double Stars and the Search for Stellar Parallax
+semantic_tags:
+  - Astrometry
+  - Double Stars
+  - Stellar Parallax
+  - Observational Astronomy
+  - Telescope Design
+tldr: The author conducted observations of 48 double stars over six years using an equatorial telescope. Despite facing challenges such as unfavorable weather and limited visibility, the author was unable to conclusively measure stellar parallax due to the errors in the observations. The author concludes that further research with better instruments is needed to accurately measure parallax.
+scientific_discipline: Astronomy > Astrometry

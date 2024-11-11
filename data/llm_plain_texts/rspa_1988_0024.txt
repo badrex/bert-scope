@@ -1,0 +1,10 @@
+article_id: rspa_1988_0024
+revised_title: 'Advances and Limits of Thin-Film Microfabrication Techniques'
+semantic_tags:
+  - Microfabrication
+  - Nanotechnology
+  - Lithography
+  - Thin Films
+  - Integrated Circuits
+tldr: The author discusses the practical and theoretical limits of thin-film microfabrication processes, focusing on ultraviolet light, X-ray, electron, and ion lithographies. The article highlights the importance of achieving high resolution and accuracy in resist patterns for the fabrication of semiconductor integrated circuits, integrated optical devices, and other devices of commercial and scientific interest.
+scientific_discipline: Engineering and Technology > Microfabrication

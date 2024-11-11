@@ -1,0 +1,10 @@
+article_id: 109512
+revised_title: Discovery of Infrared Radiation and Its Properties
+semantic_tags:
+  - Infrared Radiation
+  - Solar Radiation
+  - Thermodynamics
+  - Heat Transfer
+  - Spectroscopy
+tldr: The author, William Herschel, conducted experiments to study the invisible rays of the sun. He discovered that there are two types of rays: calorific rays, which are luminous and refrangible, and invisible rays that produce heat but no illumination. These invisible rays have a greater range of refrangibility than the colorific rays and are now known as infrared radiation. Herschel found that the heating power of these rays increases as they become less refrangible, and they extend beyond the visible spectrum.
+scientific_discipline: Physics > Thermodynamics

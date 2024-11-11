@@ -1,0 +1,10 @@
+article_id: rspa_1914_0017
+revised_title: 'Investigations on the Production of Neon and Helium by Electric Discharge'
+semantic_tags:
+  - Gas discharge spectroscopy
+  - Neon
+  - Helium
+  - Atmospheric contamination
+  - Gas analysis
+tldr: The author conducted experiments to observe the production of neon and helium using electric discharge. Despite following various methods to remove atmospheric contamination, the results were negative, indicating that the author could not confirm the production of neon or helium through this method. The author emphasized the importance of avoiding atmospheric contamination in future experiments.
+scientific_discipline: Chemistry > Spectroscopy

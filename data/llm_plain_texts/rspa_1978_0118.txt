@@ -1,0 +1,10 @@
+article_id: rspa_1978_0118
+revised_title: Eckhaus and Benjamin-Feir Resonance Mechanisms in Fluid Dynamics
+semantic_tags:
+  - Fluid mechanics
+  - Resonance
+  - Instability
+  - Water waves
+  - Fluid flow
+tldr: This article provides a unified treatment of the Eckhaus and Benjamin-Feir resonance mechanisms in fluid dynamics, focusing on the instability of two-dimensional flows and the interaction of water waves. The authors demonstrate that these mechanisms are equivalent and applicable to various situations, including convection, rotating flows, and shear flows. They also present an extended instability criterion for complex eigenvalues and parameters.
+scientific_discipline: Physics > Fluid mechanics

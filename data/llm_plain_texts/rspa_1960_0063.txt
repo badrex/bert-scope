@@ -1,0 +1,10 @@
+article_id: 'rspa_1960_0063'
+revised_title: 'Kinetics of Base-Catalyzed Bromination of s-Dichloroacetone'
+semantic_tags:
+  - Organic Chemistry
+  - Reaction Kinetics
+  - Catalysis
+  - Bromination
+  - Ionization
+tldr: The authors studied the kinetics of the base-catalyzed bromination of s-dichloroacetone in aqueous buffer solutions. They found that the reaction is zero-order with respect to bromine and exhibits general catalysis by bases. The authors also discussed the effect of different catalysts on the reaction rate and the role of hydration in the ionization of ketones in aqueous solutions.
+scientific_discipline: Chemistry > Organic Chemistry

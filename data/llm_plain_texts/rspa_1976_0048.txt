@@ -1,0 +1,10 @@
+article_id: rspa_1976_0048
+revised_title: 'Analysis of the Double Sheath in a Hot Cathode Low-Pressure Discharge'
+semantic_tags:
+  - Plasma physics
+  - Space charge sheath
+  - Thermionic emission
+  - Ion energy
+  - Double sheath structure
+tldr: The authors present a theoretical treatment of the double sheath in a hot cathode low-pressure discharge. They find that the current density of thermionically produced electrons has an upper limit and calculate the energy of ions entering the sheath from the plasma region. The spatial structure of the double sheath is computed for various electron currents up to the maximum permitted value.
+scientific_discipline: Physics > Plasma Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1953_0036
+revised_title: 'Improved Interferometer Microscope for Opaque Object Examination'
+semantic_tags:
+  - Microscopy
+  - Interferometry
+  - Surface Analysis
+  - Engineering
+  - Metallurgy
+scientific_discipline: Engineering and Technology > Microscopy and Surface Analysis
+tldr: The authors present an improved interferometer microscope for examining opaque objects, which overcomes the limitations of existing methods. The new instrument uses a single objective and inexpensive equipment, providing better lateral resolution and easier interpretation of images. This microscope is useful in engineering, metallurgy, and other fields requiring surface analysis.

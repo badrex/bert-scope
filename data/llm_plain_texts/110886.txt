@@ -1,0 +1,10 @@
+article_id: 110886
+revised_title: Gas Voltaic Battery and Voltaic Action of Phosphorus, Sulphur, and Hydrocarbons
+semantic_tags:
+  - Electrochemistry
+  - Voltaic cells
+  - Non-conductors
+  - Electro-chemical relations
+  - Gas battery
+tldr: The author, William Robert Grove, conducted experiments with a gas voltaic battery and various substances, including phosphorus, sulfur, and hydrocarbons. He discovered that these non-conductive solids could be made to generate a continuous voltaic current when placed in a gas battery. This allowed for the study of their electrochemical relations and introduced the use of the galvanometer as a test of vaporization. Grove also described a new form of gas battery that used a single piece of zinc to generate hydrogen, which charged an indefinite number of cells.
+scientific_discipline: Chemistry > Electrochemistry

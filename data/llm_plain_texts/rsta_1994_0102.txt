@@ -1,0 +1,10 @@
+article_id: rsta_1994_0102
+revised_title: 'Chaos and Forecasting in Geophysical Fluids: Introduction and Applications'
+semantic_tags:
+  - Chaos Theory
+  - Geophysical Fluid Dynamics
+  - Atmospheric Science
+  - Astrophysical Fluid Dynamics
+  - Fluid Mechanics
+tldr: This article provides a general introduction to the concepts of chaos and forecasting in geophysical and astrophysical fluid dynamics. It discusses the presence of irregular behavior in these fluid systems and the challenges in predicting their future behavior. The article also explores the role of chaos theory in understanding and analyzing these complex systems, as well as the potential applications in meteorology and other areas of geophysical research.
+scientific_discipline: Physics > Fluid Mechanics

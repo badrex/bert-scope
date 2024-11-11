@@ -1,0 +1,10 @@
+article_id: rspl_1895_0113
+revised_title: Advances in Electrometer Measurements and Effective Area Calculations
+semantic_tags:
+  - Electrometry
+  - Measurement Techniques
+  - Heterostatic Method
+  - Effective Area Calculation
+  - Schwarz's Method
+tldr: This article discusses the development of electrometer measurements and the calculation of the effective area of the attracted disk. The authors compare the heterostatic and idiostatic methods of measurement and provide a more accurate formula for the effective area when the disk and guard-ring are not in the same plane. The study highlights the advantages of the heterostatic method and presents an investigation using Schwarz's method to determine the error in the ordinary assumption of the effective area.
+scientific_discipline: Physics > Electromagnetism

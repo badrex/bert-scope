@@ -1,0 +1,10 @@
+article_id: rspa_1938_0055
+revised_title: 'Thermal Convection and Heat Transfer in a Heated Fluid Layer'
+semantic_tags:
+  - Fluid dynamics
+  - Heat transfer
+  - Convection
+  - Thermal convection
+  - Fluid mechanics
+tldr: The authors conducted experiments to study the motion of a fluid heated from below. They observed the onset of convection and the change in heat transfer as the temperature difference between the plates increased. The results showed that the critical temperature difference at which the fluid began to move decreased with an increase in the distance between the plates. The authors also used an optical method to measure the temperature gradients in the moving fluid, providing further insight into the behavior of the heated fluid layer.
+scientific_discipline: Physics > Fluid mechanics

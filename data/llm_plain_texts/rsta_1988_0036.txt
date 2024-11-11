@@ -1,0 +1,10 @@
+article_id: rsta_1988_0036
+revised_title: 'Viscous Centre Modes in the Stability of Swirling Poiseuille Flow: A Revisit'
+semantic_tags:
+  - Fluid Dynamics
+  - Vortex Flows
+  - Stability Theory
+  - Rotating Pipe Flow
+  - Viscous Modes
+tldr: This study investigates the linear stability of swirling Poiseuille flow in a rotating pipe at large Reynolds numbers. The researchers identify centre modes, which have the maximum disturbance concentrated near the axis of the pipe, and examine their properties. They find that the inviscid limit is not always attained, and when the flow is unstable, the inviscid limit is a possibility but not the dominant one at large Reynolds numbers. The results may have applications in the study of vortex breakdown.
+scientific_discipline: Physics > Fluid Dynamics

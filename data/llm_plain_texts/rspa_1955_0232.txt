@@ -1,0 +1,10 @@
+article_id: rspa_1955_0232
+revised_title: High-resolution X-ray Projection Microscopy Techniques and Limitations
+semantic_tags:
+  - X-ray microscopy
+  - Electron microscopy
+  - Microscopy resolution
+  - X-ray target materials
+  - Electron-induced contamination
+scientific_discipline: Physics > Optics
+tldr: This article discusses the limitations and techniques of high-resolution X-ray projection microscopy. The author achieves a resolution of 6A using a thin gold-leaf target to avoid electron scattering and enlargement of the point source of X-rays. The article also explores the effects of astigmatism and spherical aberration on the microscope's resolution and the role of electron-induced contamination on test grids. The author suggests that lowering the kilovoltage and using a soft X-ray image intensifier could improve the resolution further.

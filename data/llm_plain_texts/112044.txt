@@ -1,0 +1,10 @@
+article_id: 112044
+revised_title: 'Impact of Local Attraction on Geodetic Measurements and Earth's Figure Determination'
+semantic_tags:
+  - Geodesy
+  - Local Attraction
+  - Earth's Figure
+  - Surveying
+  - Trigonometry
+tldr: The author discusses the impact of local attraction on geodetic measurements and the determination of the Earth's figure. They propose a method to obtain the mean figure of the Earth free from ambiguity by comparing the Anglo-Gallic, Russian, and Indian arcs. The author also speculates on the constitution of the Earth's crust based on these calculations.
+scientific_discipline: Earth Sciences > Geodesy

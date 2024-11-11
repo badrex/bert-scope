@@ -1,0 +1,10 @@
+article_id: 'rsta_1969_0015'
+revised_title: 'Infrared Astronomy: Solar Continuum in Far-Infrared and Millimetre Regions'
+semantic_tags:
+  - Infrared Astronomy
+  - Solar Physics
+  - Chromosphere
+  - Limb Darkening
+  - Solar Models
+tldr: This article discusses the importance of studying the solar continuum in the far-infrared and millimetre regions for determining the temperature structure of the solar chromosphere. The author explains two properties of the far-infrared solar continuum that make its study crucial and presents the implications of recent observations on solar models. The article also explores the limitations of current models and suggests future directions for research in this field.
+scientific_discipline: Physics > Astronomy

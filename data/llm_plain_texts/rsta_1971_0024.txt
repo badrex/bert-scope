@@ -1,0 +1,11 @@
+article_id: 'rsta_1971_0024'
+revised_title: 'Ocean-Floor Spreading Mechanism through Partial Melt Layer Instability'
+semantic_tags:
+  - Plate Tectonics
+  - Igneous and Metamorphic Rocks
+  - Oceanic Lithosphere
+  - Mantle Convection
+  - Geothermal Gradient
+tldr: The author proposes a mechanism for ocean-floor spreading that does not rely on deep mantle convection cells. They suggest that the geotherm intersecting the mantle solidus at the base of the upper mantle creates a partially melted layer, which is less dense than the overlying lithosphere. This leads to gravitational instability, breaking up the lithosphere into plates and allowing for the escape of melted material. The process results in the formation of mid-oceanic ridges and the thinning of lithospheric plates, compatible with various continental margins and ridge/trench convergences.
+scientific_discipline: Earth Sciences > Geology
+sub_discipline: Plate Tectonics and Seafloor Spreading

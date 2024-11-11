@@ -1,0 +1,10 @@
+article_id: 'rspb_1979_0002'
+revised_title: 'Neighbouring Neurons in Isolated Cerebral Cortex: Discharge Times and Synchronization'
+semantic_tags:
+  - Neuroscience
+  - Neuronal synchronization
+  - Cerebral cortex
+  - Neural isolation
+  - Cross-correlogram
+tldr: The study investigates the correlation between discharge times of neighboring neurons in isolated cerebral cortex. It found that neighboring neurons in isolated cortex tend to discharge in near synchrony, while in the intact brain, there is a random temporal relation between the firing times of adjacent nerve cells. These findings may indicate the manner in which biologically important information is transmitted within the mammalian brain.
+scientific_discipline: Biology and Life Sciences > Neuroscience

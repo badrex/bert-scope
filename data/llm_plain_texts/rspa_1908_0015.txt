@@ -1,0 +1,10 @@
+article_id: 'rspa_1908_0015'
+revised_title: 'Cathode Ray Conversion of Diamond into Coke'
+semantic_tags:
+  - Diamond
+  - Cathode rays
+  - High vacuum
+  - Coke
+  - Temperature measurement
+tldr: The authors conducted experiments to convert diamond into coke using cathode rays in high vacuum. They determined the temperature at which the conversion takes place and examined the residual gas before and after the conversion. The experiments showed that the diamond could be entirely converted into coke and provided insights into the process and its conditions.
+scientific_discipline: Physics > Materials Science

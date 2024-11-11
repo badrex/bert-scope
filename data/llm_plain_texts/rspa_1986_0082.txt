@@ -1,0 +1,10 @@
+article_id: rspa_1986_0082
+revised_title: The Collapse of Predictability in Newtonian Dynamics
+semantic_tags:
+  - Chaos Theory
+  - Dynamical Systems
+  - Predictability
+  - Newtonian Mechanics
+  - Perturbation Theory
+tldr: The article discusses the recent realization that predictability in Newtonian dynamics is limited due to the discovery of chaos in simple systems governed by Newton's equations. This challenges the long-held belief in the determinism of the mechanical universe and has implications for the field of mechanics and engineering.
+scientific_discipline: Physics > Dynamical Systems

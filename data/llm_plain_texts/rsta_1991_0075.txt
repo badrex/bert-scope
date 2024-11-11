@@ -1,0 +1,10 @@
+article_id: rsta_1991_0075
+revised_title: L3 Experiment Results from the Large Electron Positron Collider at CERN
+semantic_tags:
+  - Particle Physics
+  - Collider Physics
+  - L3 Experiment
+  - Standard Model
+  - High-Energy Physics
+tldr: The L3 experiment at CERN's Large Electron Positron Collider aimed to search for new particles like the Higgs boson and perform precision tests of the Standard Model. The experiment focused on precise measurement of electrons, photons, and muons using a large solenoidal magnetic field. Highlights from the results obtained during the first two years of data-taking are discussed, including the detector's performance and physics goals.
+scientific_discipline: Physics > Particle Physics

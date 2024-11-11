@@ -1,0 +1,10 @@
+article_id: 'rstb_1987_0055'
+revised_title: 'Rearrangement of nif Genes during Cyanobacterial Heterocyst Differentiation'
+semantic_tags:
+  - Nitrogen fixation
+  - Cyanobacteria
+  - Heterocyst differentiation
+  - Gene rearrangement
+  - Site-specific recombination
+tldr: The article discusses the process of heterocyst differentiation in cyanobacteria, specifically Anabaena, and how DNA rearrangements occur during this process. The nifD gene, which encodes the a subunit of nitrogenase, undergoes rearrangement through site-specific recombination, resulting in the formation of a nifHDK operon. This discovery helps in understanding the molecular mechanisms controlling gene expression during heterocyst development.
+scientific_discipline: Biology and Life Sciences > Genetics and Molecular Biology

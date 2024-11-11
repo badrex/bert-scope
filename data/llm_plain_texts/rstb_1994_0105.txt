@@ -1,0 +1,10 @@
+article_id: 'rstb_1994_0105'
+revised_title: 'The Role of Apoptosis in Development, Tissue Homeostasis, and Malignancy: Integrated Control of Cell Proliferation and Cell Death by the c-myc Oncogene'
+semantic_tags:
+  - Apoptosis
+  - Oncogenes
+  - Cell proliferation
+  - Cell death
+  - Cancer biology
+tldr: The article discusses the role of apoptosis in development, tissue homeostasis, and malignancy, focusing on the c-myc oncogene's ability to regulate cell proliferation and cell death. The authors explain that c-myc can act as a potent inducer of apoptosis, which occurs only in cells deprived of growth factors or forcibly arrested with cytostatic drugs. They also highlight the importance of the c-Myc's partner, Max, in controlling both mitogenic and apoptotic functions of c-Myc through a transcriptional mechanism.
+scientific_discipline: Biology and Life Sciences > Cell Biology

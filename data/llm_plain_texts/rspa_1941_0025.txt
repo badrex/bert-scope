@@ -1,0 +1,14 @@
+reversible formation of starch from glucose-1-phosphate, has been isolated from potato tubers. The enzyme is most active at pH 5-6 and has a molecular weight of about 300,000. The reaction proceeds by the transfer of a phosphate group from glucose-1-phosphate to an acceptor molecule, which is then converted into maltose. The enzyme is specific for glucose-1-phosphate and does not act on other sugars or sugar phosphates. The reaction is inhibited by phosphate ions and is activated by inorganic ions such as potassium and magnesium. The enzyme is also capable of breaking down starch into glucose-1-phosphate, indicating its role in both the synthesis and degradation of starch in plants. The significance of these findings for the understanding of carbohydrate metabolism in plants is discussed.
+
+article_id: rspa_1941_0025
+revised_title: Enzymatic Synthesis and Degradation of Starch in Plants
+semantic_tags:
+  - Enzyme
+  - Starch
+  - Carbohydrate metabolism
+  - Phosphorylase
+  - Plant biochemistry
+tldr: The author discovered an enzyme called phosphorylase in potato tubers that can convert glucose-1-phosphate into starch or break down starch into glucose-1-phosphate. This enzyme plays a crucial role in carbohydrate metabolism in plants. The study provides insights into the synthesis and degradation of starch in plants and has implications for understanding plant biochemistry.
+
+scientific_discipline: Biology and Life Sciences > Biochemistry
+```

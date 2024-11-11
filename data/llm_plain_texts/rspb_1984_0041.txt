@@ -1,0 +1,9 @@
+article_id: 'rspb_1984_0041'
+revised_title: 'High Conductance Anion-Selective Channels in Rat Cultured Schwann Cells: Characteristics and Ion Selectivity'
+semantic_tags:
+  - Ion channels
+  - Schwann cells
+  - Anion selectivity
+  - Patch-clamp technique
+  - Neurobiology
+tldr: This study discovered high conductance anion-selective channels in rat cultured Schwann cells using the patch-clamp technique. These channels were found to have a conductance of about 450 and were activated after several minutes of exposure to the bathing medium. The channels showed a slight permeability to small cations but were mainly permeable to anions. The physiological role of these channels remains unknown.

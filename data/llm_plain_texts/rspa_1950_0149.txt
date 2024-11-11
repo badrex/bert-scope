@@ -1,0 +1,10 @@
+article_id: rspa_1950_0149
+revised_title: Entropy of Mixing in Athermal Binary Solutions: Molecules with Different Shapes and Sizes
+semantic_tags:
+  - Thermodynamics
+  - Lattice Model
+  - Athermal Solutions
+  - Molecular Configurations
+  - Entropy of Mixing
+tldr: This article explores the entropy of mixing in athermal binary solutions with molecules of different shapes and sizes. The authors use a lattice model to derive approximate formulae for the entropy of mixing and find that it depends on the shapes of the molecules rather than their relative sizes. The study extends previous work to molecules shaped like equilateral triangles, regular tetrahedra, and squares, providing a better understanding of how molecular shapes affect the entropy of mixing in athermal solutions.
+scientific_discipline: Physics > Thermodynamics

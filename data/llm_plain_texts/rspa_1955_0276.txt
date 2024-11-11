@@ -1,0 +1,10 @@
+article_id: rspa_1955_0276
+revised_title: 'The Impact of Friction on Progressive Waves of Tide and Surge in Estuaries'
+semantic_tags:
+  - Fluid Dynamics
+  - Estuaries
+  - Tides
+  - Coastal Engineering
+  - Wave Mechanics
+tldr: This article explores the effect of friction on the propagation of tidal waves and surges in estuaries. The author presents formulae that consider the impact of cross-section contraction, estuary shallowness, and bed friction on these waves. The findings can be applied to understand and predict the behavior of tides and surges in estuaries, such as the Thames Estuary.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

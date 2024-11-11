@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0166'
+revised_title: 'Spatial Evolution of Hawk-Dove Game: Revisiting Strategies and Outcomes'
+semantic_tags:
+  - Evolutionary Game Theory
+  - Spatial Dynamics
+  - Hawk-Dove Game
+  - Strategy Distribution
+  - Equilibrium Proportions
+tldr: The authors explore a spatial extension of the Hawk-Dove game, a classic evolutionary game theory model, where strategies are distributed over a spatial array of sites and have local interactions with neighboring sites. They demonstrate that the spatial extension yields qualitatively different results from the classical analysis, with lower proportions of Hawks in the population and different outcomes for strategy distributions. This suggests that spatial structure may facilitate the evolution of strategies that do not necessarily prosper in classical game theory.
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

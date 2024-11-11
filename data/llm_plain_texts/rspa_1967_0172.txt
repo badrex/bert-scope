@@ -1,0 +1,10 @@
+article_id: rspa_1967_0172
+revised_title: Resolving Electrode Fall Spaces of Electric Arcs: Advances in Measuring Arc Parameters
+semantic_tags:
+  - Electric arcs
+  - Electrode fall spaces
+  - Arc voltage
+  - Cathode and anode falls
+  - High-speed cathode ray oscilloscope
+tldr: Researchers used a high-speed cathode ray oscilloscope to measure the cathode and anode falls in electric arcs between metal electrodes in gases at atmospheric pressure. They found that the cathode falls observed were between 11 and 15 for currents of 10 A and above, while the anode falls were in the range of 2 to 5. The thickness of the anode fall space in metal vapor arcs was found to be around 1 cm, while the thickness of the cathode fall space did not exceed 0.1 cm.
+scientific_discipline: Physics > Electromagnetism

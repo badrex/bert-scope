@@ -1,0 +1,10 @@
+article_id: rspl_1888_0022
+revised_title: 'Magnetic Properties of Nickel: Cyclic Processes and Effects of Stress'
+semantic_tags:
+  - Magnetism
+  - Nickel
+  - Iron
+  - Stress effects
+  - Magnetic susceptibility
+tldr: This paper investigates the magnetic qualities of nickel through cyclic processes of magnetization and the effects of stress on its magnetic properties. The authors found that longitudinal pull significantly diminishes magnetism in nickel, and the effects of stress are less complex than in iron. The results confirm and extend Sir William Thomson's observation that longitudinal pull reduces magnetism in nickel.
+scientific_discipline: Physics > Magnetism

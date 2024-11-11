@@ -1,0 +1,10 @@
+article_id: rspa_1930_0096
+revised_title: Homogeneous Catalysis of Gaseous Reactions: The Decomposition of Acetaldehyde Catalyzed by Iodine
+semantic_tags:
+  - Homogeneous catalysis
+  - Acetaldehyde decomposition
+  - Iodine catalyst
+  - Reaction kinetics
+  - Temperature coefficient
+scientific_discipline: Chemistry > Chemical kinetics
+tldr: This study investigates the decomposition of acetaldehyde catalyzed by iodine, finding that the reaction follows unimolecular kinetics and is directly proportional to the concentration of the catalyst. The reaction is homogeneous and occurs through a simple mechanism, with the catalyst attacking a complex molecule at a specific point. The temperature coefficient of the reaction velocity is determined, and the heat of activation is found to be lower than that of the corresponding uncatalyzed reaction.

@@ -1,0 +1,10 @@
+article_id: rspa_1989_0101
+revised_title: A New Algorithm for Estimating Fractal Dimension of Surfaces
+semantic_tags:
+  - Fractal Dimension
+  - Surface Analysis
+  - Geometry
+  - Mathematics
+  - Applied Mathematics
+tldr: The authors present a new algorithm, the variation method, for estimating the fractal dimension of surfaces. This method is more reliable and robust than standard methods and is based on a new definition of fractal dimension particularly suited for graphs of functions. The variation method is validated with both fractal brownian surfaces and Takagi surfaces, giving more accurate results than classical algorithms. Finally, the authors apply the variation method to real, practical data: rough surfaces obtained by sand-blasting brass plates.
+scientific_discipline: Mathematics > Geometry

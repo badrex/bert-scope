@@ -1,0 +1,11 @@
+article_id: 'rspb_1986_0029'
+revised_title: 'Medal Awards and Accomplishments in Science'
+semantic_tags:
+  - Biology
+  - Physics
+  - Chemistry
+  - Engineering
+  - Mathematics
+  - Biographies
+tldr: The article highlights the accomplishments and awards given to various scientists by the President of the Royal Society, Sir Andrew Huxley, at the Anniversary Meeting in 1985. The recipients include Dr. A. Klug for his contributions to understanding complex biological structures, Professor R. Penrose for his work on gravitational collapse, and Professor J. B. Gurdon for his research on nuclear transplantation and gene replication. Other awards were given to Professor J. H. Argyris for his finite element analysis work, Sir Jack Lewis for his research on metal cluster compounds, Professor J. G. Thompson for his contributions to finite group theory, Professor T. H. R. Skyrme for his work on particle and nuclear physics, Dr. D. Kalderon for his achievements in turbine design, and Professor M. F. Ashby for his contributions to materials science.
+scientific_discipline: Engineering and Technology > Finite Element Analysis

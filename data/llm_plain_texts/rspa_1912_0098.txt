@@ -1,0 +1,10 @@
+article_id: rspa_1912_0098
+revised_title: 'Spectro-Photometric Comparison of Solid and Liquid Gold Emissivity'
+semantic_tags:
+  - Thermodynamics
+  - Spectroscopy
+  - Emissivity
+  - Kirchhoff's law
+  - Gold properties
+tldr: The authors conducted a spectro-photometric comparison of the emissivity of solid and liquid gold at high temperatures. They found that the emissivity of gold in both states follows Kirchhoff's law, which connects emissivity to absorptivity. The study also showed that the change in physical state at the melting point of gold does not cause a sudden change in emissivity, unlike electrical conductivity and certain optical constants.
+scientific_discipline: Physics > Thermodynamics

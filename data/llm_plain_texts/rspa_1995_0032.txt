@@ -1,0 +1,10 @@
+article_id: rspa_1995_0032
+revised_title: Ergodic Bellman Systems for Stochastic Games in Arbitrary Dimensions
+semantic_tags:
+  - Stochastic Games
+  - Ergodic Control
+  - Nonlinear Elliptic Systems
+  - Differential Equations
+  - Hamiltonian Systems
+tldr: The authors study ergodic Bellman systems for stochastic games in arbitrary dimensions, focusing on the existence and regularity of solutions. They analyze the limiting behavior as the discount factor approaches zero and establish convergence results for the systems. The techniques used involve new estimates derived from the special structure of the vector Hamiltonian.
+scientific_discipline: Mathematics > Partial Differential Equations

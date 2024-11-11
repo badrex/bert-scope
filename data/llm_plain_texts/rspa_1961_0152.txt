@@ -1,0 +1,10 @@
+article_id: 'rspa_1961_0152'
+revised_title: 'High-resolution Nuclear Magnetic Resonance Spectra of Hydrocarbon Groupings: ABCX Spectra of Vinyl Fluoride and 3-Methylbut-1-ene'
+semantic_tags:
+  - Nuclear Magnetic Resonance
+  - Hydrocarbon Groupings
+  - Vinyl Fluoride
+  - 3-Methylbut-1-ene
+  - Spectroscopy
+tldr: The authors analyze the high-resolution nuclear magnetic resonance spectra of hydrocarbon groupings, specifically the ABCX spectra of vinyl fluoride and 3-methylbut-1-ene. They demonstrate how to determine the relative signs of all internuclear coupling constants and provide detailed analyses of these two spectra, discussing the general features of ABCX-type spectra.
+scientific_discipline: Chemistry > Spectroscopy

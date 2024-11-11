@@ -1,0 +1,10 @@
+article_id: 112590
+revised_title: 'On Uniform Rotation: A New Approach to Regulating Steam-Engine Speed'
+semantic_tags:
+  - Engineering
+  - Steam engines
+  - Governors
+  - Uniform rotation
+  - Fluid dynamics
+tldr: The author, C. W. Siemens, presents a new method for achieving uniform rotation using a parabolic cup filled with liquid. This invention can be used to regulate the speed of steam engines and other machinery, providing a more accurate and stable control than previous methods like the centrifugal governor. The device works by maintaining a nearly constant velocity, preventing fluctuations in power and resistance, and automatically adjusting to changes in driving power.
+scientific_discipline: Engineering > Fluid dynamics in steam engine regulation

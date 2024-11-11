@@ -1,0 +1,10 @@
+article_id: rspa_1968_0063
+revised_title: 'A Study on the Breaking of Waves: Analyzing Solitary and Asymmetric Waves'
+semantic_tags:
+  - Wave mechanics
+  - Fluid dynamics
+  - Solitary waves
+  - Wave breaking
+  - Asymmetric waves
+tldr: This article explores the behavior of water waves using a model equation that combines nonlinear convection and dispersion effects. It demonstrates that solitary or periodic waves have a maximum height with sharp crests, and waves that are sufficiently asymmetric break into bores. The study provides insight into the breaking of water waves and the conditions required for such breaking to occur.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

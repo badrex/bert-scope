@@ -1,0 +1,10 @@
+article_id: rspa_1994_0025
+revised_title: Improved Bounds on the Conductivity of Composites by Interpolation
+semantic_tags:
+  - Composite materials
+  - Conductivity
+  - Interpolation
+  - Bounds
+  - Pade approximants
+tldr: The author presents an improved method for calculating lower and upper bounds on the effective conductivity of composites using interpolation and Pade approximants. The method is applicable to equiaxed polycrystals and can provide more accurate results for conductivity ratios above 10.
+scientific_discipline: Engineering and Technology > Materials Science

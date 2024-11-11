@@ -1,0 +1,10 @@
+article_id: 'rspb_1971_0068'
+revised_title: 'Understanding the Helical Movement of Micro-organisms'
+semantic_tags:
+  - Microbiology
+  - Fluid Dynamics
+  - Biomechanics
+  - Flagella Movement
+  - Viscous Fluids
+tldr: 'This article explores the helical movement of micro-organisms, such as flagellated bacteria and spermatozoa, in a viscous fluid. The author uses a mechanical model to analyze the movement, considering the balance of forces and torques acting on the organism. The study finds that the forward speed and angular velocity of a flagellated organism in helical waving motion are determined by the conditions that both the net force and net torque acting on the organism must vanish. The results provide insights into the movement of micro-organisms and their propulsion mechanisms.'
+scientific_discipline: Biology and Life Sciences > Microbiology

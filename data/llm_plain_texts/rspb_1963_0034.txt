@@ -1,0 +1,10 @@
+article_id: 'rspb_1963_0034'
+revised_title: 'The Mechanism of DNA Denaturation by Y-Rays'
+semantic_tags:
+  - DNA denaturation
+  - Y-rays
+  - Free radicals
+  - Indirect action
+  - Radiolysis
+tldr: The authors investigate the mechanism of DNA denaturation by y-rays and conclude that it is an indirect effect caused by free radicals produced by radiolysis of water. They find that the denaturing effect of y-rays is proportional to the concentration of DNA and is inhibited by substances that react with free radicals. The study also shows that y-rays are less effective in the presence of chloride than fluoride ions, suggesting that DNA is attacked by more reactive hydroxyl radicals in fluoride solutions.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

@@ -1,0 +1,10 @@
+article_id: rsta_1921_0009
+revised_title: 'Plane Stress and Plane Strain in Bipolar Co-ordinates: Applications and Solutions'
+semantic_tags:
+  - Elasticity
+  - Stress
+  - Strain
+  - Bipolar Coordinates
+  - Solid Mechanics
+tldr: The author investigates the problem of equilibrium in an elastic solid under applied forces using bipolar coordinates. They establish a theorem that allows for the application of the two-dimensional theory to the average stresses through the thickness of a plate, with modified elastic constants. The author provides solutions for various problems, including an infinite plate with two circular holes, a semi-infinite plate with a straight edge and a circular hole, and a circular disc with an eccentric circular hole.
+scientific_discipline: Physics > Solid Mechanics

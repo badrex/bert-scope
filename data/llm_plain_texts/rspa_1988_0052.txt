@@ -1,0 +1,10 @@
+article_id: rspa_1988_0052
+revised_title: Non-Empirical Quantum-Chemical Calculations on ZSM-5 Zeolites: Bronsted Acid Sites
+semantic_tags:
+  - Zeolites
+  - Quantum chemistry
+  - Bronsted acid sites
+  - Catalysis
+  - Computational chemistry
+tldr: This study investigates the hydroxyl group in ZSM-5 zeolites using a combination of classical and quantum-chemical calculations. The authors use a cluster model with a small quantum-chemical cluster surrounding the hydroxyl group and a large point-charge cluster representing the rest of the zeolite lattice. They discuss the importance of geometry in electronic properties and report parameters such as O-H vibrational frequency, proton binding energy, and aluminum substitution energy, which have implications for the catalytic properties of ZSM-5 zeolites.
+scientific_discipline: Chemistry > Catalysis

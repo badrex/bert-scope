@@ -1,0 +1,10 @@
+article_id: rsta_1973_0078
+revised_title: Isothermal Gravimetric Study of Titanium-Oxygen System
+semantic_tags:
+  - Thermodynamics
+  - Titanium Oxides
+  - Crystallographic Shear
+  - Non-stoichiometry
+  - Phase Transitions
+tldr: The authors conducted an isothermal gravimetric study of the titanium-oxygen system, focusing on the composition range Ti3O5 to TiO2 at 1304 K. They discovered that complete equilibrium is rarely attained, and two composite hysteresis loops exist in the regions occupied by the (121) and (132) crystallographic shear structure families. The findings provide insights into the thermodynamics and structure of inorganic solids, particularly those that exhibit non-stoichiometry.
+scientific_discipline: Chemistry > Materials Science

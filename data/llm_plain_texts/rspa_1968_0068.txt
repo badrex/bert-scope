@@ -1,0 +1,10 @@
+article_id: rspa_1968_0068
+revised_title: 'Flow Behavior and Grain Growth of Polycrystalline Lead under Simple Shear at Higher Temperatures'
+semantic_tags:
+  - Materials Science
+  - Crystallography
+  - Shear deformation
+  - Grain growth
+  - Lead alloys
+tldr: The authors investigated the flow behavior and grain growth of polycrystalline lead under simple shear at higher temperatures. They found that the flow properties of the metal change significantly at temperatures above 27°C, with the metal behaving as a non-Newtonian fluid. The study also revealed that the final average grain diameter of the lead is influenced by temperature, with a constant grain size being characteristic of the temperature. The results provide insights into the flow behavior and grain growth of polycrystalline lead, which is important for understanding the mechanical properties of metals under stress.
+scientific_discipline: Materials Science > Crystallography

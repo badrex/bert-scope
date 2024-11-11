@@ -1,0 +1,11 @@
+article_id: 'rstb_1990_0179'
+revised_title: 'Predicting Pesticide Behavior in Soil: A Structure-Property Approach'
+semantic_tags:
+  - Environmental Chemistry
+  - Soil Science
+  - Pesticide Behavior
+  - Chemical Structure-Property Relationships
+  - Environmental Pollution
+tldr: The article discusses a method to predict the behavior of pesticides in soil based on their physical and chemical properties. By analyzing the chemical structure, one can estimate important parameters such as vapor pressure, water solubility, and soil adsorption. This approach helps in designing molecules with environmentally favorable properties and assessing their potential behavior in the environment.
+
+scientific_discipline: Chemistry > Environmental Chemistry

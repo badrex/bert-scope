@@ -1,0 +1,10 @@
+article_id: rspa_1961_0079
+revised_title: Inhibition Phenomena in the Decomposition of Di-tertiary-butyl Peroxide
+semantic_tags:
+  - Chemical Kinetics
+  - Chain Reactions
+  - Inhibition Mechanisms
+  - Gas-Phase Decomposition
+  - Peroxide Chemistry
+tldr: This study investigates the effects of foreign gases on the decomposition of di-tertiary-butyl peroxide. Carbon tetrachloride, silicon tetrafluoride, and sulfur hexafluoride accelerate the reaction, while the addition of ammonia, propylene, or iso-butene inhibits the acceleration. The findings suggest that these accelerations may be caused by chain processes involving chlorine atoms.
+scientific_discipline: Chemistry > Chemical Kinetics

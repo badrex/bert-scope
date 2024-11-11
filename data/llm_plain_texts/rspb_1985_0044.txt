@@ -1,0 +1,10 @@
+article_id: 'rspb_1985_0044'
+revised_title: 'TRH's Photopic Action on Cat Retinal Ganglion Cells'
+semantic_tags:
+  - Retinal Neurons
+  - Thyrotropin-releasing hormone (TRH)
+  - Photopic action
+  - Ganglion cells
+  - Cat retina
+tldr: The study investigates the effects of thyrotropin-releasing hormone (TRH) on cat retinal ganglion cells under photopic conditions. The results show that TRH differentially affects on- and OFF-center cells, suppressing the maintained activity and light response in ON-center cells and enhancing it in OFF-center cells. This suggests that TRH may play a role in light adaptation.
+scientific_discipline: Biology and Life Sciences > Neuroscience

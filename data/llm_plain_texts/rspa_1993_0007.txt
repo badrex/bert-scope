@@ -1,0 +1,9 @@
+article_id: rspa_1993_0007
+revised_title: 'Effects of Bulk Resonance Diffraction on Inelastic Scattering of High-Energy Electrons by Crystals: A Theoretical Study'
+semantic_tags:
+  - Electron diffraction
+  - Crystallography
+  - High-energy electrons
+  - Bulk resonance diffraction
+  - Inelastic scattering
+tldr: This article presents a formal treatment of the effects of bulk resonance diffraction on inelastic scattering of high-energy electrons by crystals. The authors show that bulk resonance diffraction leads to an enhancement in the characteristic X-ray yield and the redistribution of scattered electrons, resulting in the formation of Kikuchi ring patterns. The study focuses on the dynamical diffraction processes responsible for the formation of these patterns and provides a theoretical explanation for their origin.

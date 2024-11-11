@@ -1,0 +1,10 @@
+article_id: 'rspb_1982_0096'
+revised_title: 'Induction of Action Potentials in Fish Red Muscle by Denervation'
+semantic_tags:
+  - Neuromuscular Transmission
+  - Denervation
+  - Action Potentials
+  - Fish Muscle Fibers
+  - RNA Synthesis
+tldr: The study investigates the effects of denervation on fish red muscle fibers, discovering that after 40-50 hours of denervation, miniature endplate potentials disappear, and action potentials can be induced in the muscles after approximately 3 weeks. The action potential is sodium-dependent and sensitive to tetrodotoxin, indicating that RNA synthesis is necessary for the induction of the action potential mechanism, which is under neural control.
+scientific_discipline: Biology and Life Sciences > Neuromuscular Biology

@@ -1,0 +1,10 @@
+article_id: rstl_1878_0013
+revised_title: 'Cayley's Expansion on the Transformation of Elliptic Functions'
+semantic_tags:
+  - Elliptic Functions
+  - Mathematical Analysis
+  - Transformation Theory
+  - Modular Equations
+  - Cubic Equations
+tldr: 'A. Cayley expands on the theory of elliptic functions, specifically the septic transformation, and determines the modular equation for it. He also provides values for the ratios and equations involved in the transformation process, completing the analytical theory.'
+scientific_discipline: Mathematics > Analysis

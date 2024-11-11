@@ -1,0 +1,10 @@
+article_id: 'rspa_1930_0104'
+revised_title: 'The Raman Spectrum and Structure of Phosgene'
+semantic_tags:
+  - Raman spectroscopy
+  - Molecular structure
+  - Phosgene
+  - Infrared absorption
+  - Chemical analysis
+tldr: The authors describe the Raman spectrum and structure of phosgene, a toxic chemical compound. They detail the experimental setup and process of obtaining the Raman spectrum, which reveals three vibration frequencies. The authors also mention the lack of comparison with the infrared absorption spectrum due to its unmeasured long wavelengths.
+scientific_discipline: Chemistry > Molecular Spectroscopy

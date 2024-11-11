@@ -1,0 +1,10 @@
+article_id: rspa_1929_0009
+revised_title: 'The Impact of Phase Loss on the Mechanical and Optical Lengths of a Steel End-Gauge'
+semantic_tags:
+  - Optics
+  - Metrology
+  - Interferometry
+  - Phase loss
+  - Wave-length standard
+scientific_discipline: Physics > Optics
+tldr: The authors conducted experiments to measure the difference between the mechanical and optical lengths of a steel end-gauge. They discovered that when light is reflected at a metallic surface, there is an additional change of phase, which they called "phase loss." This phase loss affects optical measurements where steel gauge surfaces are used as reflectors. By understanding and accounting for this phase loss, they were able to derive the actual value of the length of an end-gauge in terms of light waves, using a purely optical measurement.

@@ -1,0 +1,10 @@
+article_id: rstb_1987_0080
+revised_title: 'Nucleosome Positioning and DNA Bending: Implications for Chromosome Structure and Function'
+semantic_tags:
+  - Chromatin structure
+  - DNA bending
+  - Nucleosome positioning
+  - Histone proteins
+  - DNA accessibility
+tldr: This article explores the role of DNA bending and anisotropic bendability in nucleosome positioning. The authors use DNase I as a probe to study the organization of DNA in nucleosomes and find that the bending preference of DNA is a significant determinant of nucleosome positioning. This has implications for understanding chromosome structure and function in eukaryotic cells.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

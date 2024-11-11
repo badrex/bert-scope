@@ -1,0 +1,10 @@
+article_id: rspa_1966_0011
+revised_title: 'Investigation of Optical Properties and Absorption Spectrum of Bismuth Tri-Iodide'
+semantic_tags:
+  - Crystallography
+  - Optical properties
+  - Bismuth tri-iodide
+  - Absorption spectrum
+  - Exciton states
+tldr: The authors studied the optical properties and absorption spectrum of bismuth tri-iodide crystals. They found that the absorption consists of a doublet at 16900 and 20000 cm^-1 with subsidiary peaks at 18400 and 21400 cm^-1. The absorption coefficients of the peaks were determined, and the long-wavelength tail of the absorption was described by Urbach's equation. The authors also measured the ordinary refractive index and crystal birefringence, attributing the absorption bands to exciton states associated with the splitting of the valence band.
+scientific_discipline: Physics > Crystallography

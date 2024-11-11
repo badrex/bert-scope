@@ -1,0 +1,10 @@
+article_id: 'rspb_1985_0034'
+revised_title: 'Mitochondrial Genome Selection and Segregation in a Mouse Cell Line'
+semantic_tags:
+  - Mitochondrial DNA
+  - Selection pressure
+  - Chloramphenicol resistance
+  - Mitochondrial population
+  - Cellular selection
+tldr: The article studies the effects of selection for or against mitochondrial genomes that confer chloramphenicol resistance in a mouse cell line. The mutation occurs at a highly conserved position in the mitochondrial genome and confers an advantage to cells grown in the presence of chloramphenicol. The results show that selection at the cellular level plays a role in the evolution of the cell lines, and fixation takes many generations. This research may provide insights into the evolution of special mechanisms that favor the production of homoplasmic gametes in various organisms.
+scientific_discipline: Biology and Life Sciences > Genetics and Molecular Biology

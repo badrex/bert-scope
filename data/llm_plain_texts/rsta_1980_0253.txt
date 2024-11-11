@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0253'
+revised_title: 'Development and Applications of the Synchroscan Picosecond Streak Camera System'
+semantic_tags:
+  - Ultra-short laser pulses
+  - Streak camera
+  - Time resolution
+  - Cerenkov radiation
+  - Mode-locked dye lasers
+tldr: The Synchroscan picosecond streak camera system is developed to record repetitive laser pulses with high time resolution. The system is tested with a train of laser pulses and then applied to record Cerenkov radiation produced by a beam of particles. The Synchroscan method is further developed into a commercially available accessory for the Imacon 675 streak camera, enabling the study of fluorescence and other luminous phenomena on a picosecond time scale.
+scientific_discipline: Engineering and Technology > Optics and Photonics

@@ -1,0 +1,10 @@
+article_id: rspa_1966_0100
+revised_title: Descriptive Baire Sets in Completely Regular Spaces
+semantic_tags:
+  - Mathematical Analysis
+  - Topology
+  - Baire Sets
+  - Descriptive Theory
+  - Completely Regular Spaces
+tldr: This article develops a theory of descriptive Baire sets for an arbitrary completely regular space. It shows that descriptive Baire sets are Baire sets and form a system closed under countable union, countable intersection, and intersection with a Baire set. The article also explores the relationship between descriptive Baire sets, Borel sets, and descriptive Borel sets, and provides conditions for these classes to coincide.
+scientific_discipline: Mathematics > Topology

@@ -1,0 +1,10 @@
+article_id: rspa_1927_0130
+revised_title: 'Experimental Investigation of the Flow of Air Behind an Inclined Flat Plate of Infinite Span'
+semantic_tags:
+  - Fluid dynamics
+  - Aerodynamics
+  - Vortex formation
+  - Boundary layer
+  - Wind tunnel experiments
+tldr: This article presents an experimental investigation of the flow of air behind an inclined flat plate of infinite span. The authors conducted experiments to determine the frequency and speed of vortices, the dimensions of the vortex system, the average strength of individual vortices, and the rate at which vorticity leaves the plate's edges. The results provide insights into the phenomenon of flow behind an inclined plate and help to understand the resistance experienced by the plate.
+scientific_discipline: Physics > Fluid dynamics

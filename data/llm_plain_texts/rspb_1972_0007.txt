@@ -1,0 +1,10 @@
+article_id: 'rspb_1972_0007'
+revised_title: 'Exploring the Relationship between Photorespiration and Nitrogenase Activity in Blue-Green Algae'
+semantic_tags:
+  - Photosynthesis
+  - Nitrogen fixation
+  - Blue-green algae
+  - Oxygen inhibition
+  - Respiration
+tldr: The study investigates the relationship between photorespiration and nitrogenase activity in the blue-green alga, Anabaena cylindrica. It shows that oxygen uptake in the light (photorespiration) by the nitrogen-fixing blue-green alga may be up to twenty times the dark respiration rate. The results suggest that photorespiration and nitrogenase activity compete indirectly for reducing power, and at least one mechanism of oxygen inhibition of nitrogenase activity is via a stimulation of photorespiration.
+scientific_discipline: Biology and Life Sciences > Photosynthesis and Respiration

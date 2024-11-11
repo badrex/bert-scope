@@ -1,0 +1,10 @@
+article_id: 'rsta_1991_0012'
+revised_title: 'Seakeeping: Techniques for Predicting Ship Performance in Rough Weather'
+semantic_tags:
+  - Ship Design
+  - Seakeeping
+  - Ship Motion Calculations
+  - Ship Performance
+  - Naval Engineering
+tldr: 'The paper discusses the techniques used to predict a ship's performance in rough weather, focusing on ship motion calculations and seakeeping criteria. It highlights the importance of understanding the ship's mission and analyzing the tasks that may be affected by rough weather conditions. The author emphasizes the need for accurate predictions of ship motions and the development of universally acceptable measures of performance to improve ship design and ensure safe operations.'
+scientific_discipline: Engineering and Technology > Naval Engineering

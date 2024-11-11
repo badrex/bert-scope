@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0039'
+revised_title: 'Genotype-by-Environment Interaction and its Impact on Fitness in Chlamydomonas'
+semantic_tags:
+  - Population Genetics
+  - Genotype-Environment Interaction
+  - Chlamydomonas Algae
+  - Environmental Manipulation
+  - Fitness Measures
+tldr: This study investigates the impact of genotype-by-environment interaction on the fitness of Chlamydomonas algae strains. The researchers cultured the strains in different macroenvironments created by manipulating nutrient levels in the growth media. They found that a large proportion of the overall genotypic variance in fitness measures was due to genotype-by-environment interaction. This interaction was caused by incomplete genetic correlation and differences in genetic variance among genotypes. The study highlights the importance of understanding the relationship between genotypes and environments for better population growth and management.
+scientific_discipline: Biology > Population Genetics

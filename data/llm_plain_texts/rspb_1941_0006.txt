@@ -1,0 +1,10 @@
+article_id: 'rspb_1941_0006'
+revised_title: 'Investigating the Electrical Polarization of Frog Skin by Direct Currents'
+semantic_tags:
+  - Electrophysiology
+  - Frog skin
+  - Direct currents
+  - Membrane potential
+  - Local action currents
+tldr: 'This study investigates the electrical polarization of frog skin using direct currents. The results show that frog skin is electrically non-homogeneous and in a state of disequilibrium. The findings suggest a three-unit model with a series resistance and local action between an anodic and a cathodic area. This research provides evidence for understanding the electrical behavior of frog skin and its implications in interphases and membrane studies.'
+scientific_discipline: Biology and Life Sciences > Electrophysiology

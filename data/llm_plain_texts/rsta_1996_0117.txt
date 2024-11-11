@@ -1,0 +1,16 @@
+article_id: 'rsta_1996_0117'
+revised_title: 'Three-dimensional Characterization of Electronic Materials'
+semantic_tags:
+  - Analytical Techniques
+  - Semiconductor Science
+  - Electron Microscopy
+  - Scanning Probe Microscopy
+  - Data Analysis
+semantic_tags:
+  - Analytical Techniques
+  - Semiconductor Science
+  - Electron Microscopy
+  - Scanning Probe Microscopy
+  - Data Analysis
+tldr: This preface discusses a meeting that brought together experts in analytical and semiconductor science to compare the potential abilities of various analytical techniques with the future requirements of the electronics industry. The focus is on three-dimensional characterization of electronic materials, as the drive for increased speed, packing density, and functionality will continue for at least the next 20 years. The meeting covered topics such as electron and Auger microscopies and spectroscopies, secondary ion mass spectrometry, scanning probe microscopies, data analysis, reference materials and standards, future device materials and architectures, and a summary of deficiencies in the analytical methods.
+scientific_discipline: Engineering and Technology > Electronics and Semiconductors

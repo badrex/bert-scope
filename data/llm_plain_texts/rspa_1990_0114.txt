@@ -1,0 +1,10 @@
+article_id: rspa_1990_0114
+revised_title: Erratum: The Teukolsky-Starobinsky Constant for Arbitrary Spin
+semantic_tags:
+  - General Relativity
+  - Astrophysics
+  - Mathematics
+  - Physics
+  - Chandrasekhar's Equation
+tldr: This article is an erratum for a previous publication about the Teukolsky-Starobinsky constant for arbitrary spin. It corrects a mistake in the equation, specifically in the third row and fourth column of the determinant. The corrected equation is 6i cr.
+scientific_discipline: Physics > General Relativity

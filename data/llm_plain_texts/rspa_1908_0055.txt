@@ -1,0 +1,10 @@
+article_id: 'rspa_1908_0055'
+revised_title: 'Decay Rate of Radium Emanation in Water'
+semantic_tags:
+  - Radioactivity
+  - Radium Emanation
+  - Decay Rate
+  - Solubility
+  - Gas Burette
+tldr: 'The authors investigated the decay rate of radium emanation when dissolved in water. They collected the emanation from 110 milligrammes of radium bromide and observed its decay using a gas burette. The half-time period of decay was found to be 3.8 days, similar to when the emanation is in air. The results do not definitively support either of the two possible theories regarding the behavior of the emanation in different solvents.'
+scientific_discipline: 'Chemistry > Radioactivity'

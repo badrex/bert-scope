@@ -1,0 +1,10 @@
+article_id: 'rspa_1930_0022'
+revised_title: 'The Atomic Weights of Krypton, Xenon, and Mercury through Mass-Spectrography'
+semantic_tags:
+  - Mass-spectrography
+  - Isotopes
+  - Atomic weights
+  - Photometry
+  - Inert gases
+scientific_discipline: Chemistry > Atomic Physics
+tldr: The author used a mass-spectrograph to study the relative abundance of isotopes in elements, focusing on krypton, xenon, and mercury. By measuring the optical intensities of the lines produced on photographic plates, the author determined the atomic weights of these elements, providing insights into the isotopic constitution of complex elements. This research contributes to the understanding of the evolution of matter and the abundance of elements in the universe.

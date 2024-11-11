@@ -1,0 +1,10 @@
+article_id: rspa_1979_0080
+revised_title: Momentum Space Techniques for Curved Space-Time Quantum Field Theory
+semantic_tags:
+  - Quantum Field Theory
+  - Cosmology
+  - Astrophysics
+  - Adiabatic Regularization
+  - Particle Creation
+scientific_discipline: Physics > Quantum Mechanics
+tldr: The article presents a momentum space formulation of curved space-time quantum field theory, allowing the application of nuclear physics techniques to cosmology and astrophysics. It demonstrates how one technique can provide exact or accurate approximate results in cases that are intractable in coordinate space. The article also describes an efficient method of numerical solution.

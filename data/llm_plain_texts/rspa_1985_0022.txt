@@ -1,0 +1,10 @@
+article_id: 'rspa_1985_0022'
+revised_title: 'Visual Ambiguity and Optic Flow in Moving Plane Perception'
+semantic_tags:
+  - Optic Flow
+  - Visual Perception
+  - Motion Perception
+  - Visual Ambiguity
+  - Eigenvalue Problem
+tldr: The author investigates the optic flow field arising from motion relative to a visually textured plane. They show that the observer's linear and angular velocity and the plane's coordinate vector can be characterized by eight parameters. However, these parameters do not uniquely determine the vectors. The author presents three possible interpretations of the optic flow field, and by applying a condition that attributes every image element to a light source in the observer's field of view, they eliminate two spurious interpretations, leaving only the veridical interpretation. The computation of this interpretation involves solving a 3x3 eigenvalue problem derived from the flow field.
+scientific_discipline: Psychology > Cognitive and Perception Sciences

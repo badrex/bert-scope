@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0091'
+revised_title: 'Experimental Testing of Evolutionarily Stable Foraging Speeds in Fish Scrambles'
+semantic_tags:
+  - Evolutionary biology
+  - Foraging behavior
+  - Scramble competition
+  - Fish behavior
+  - Density-dependent foraging
+tldr: This study presents a model of scramble competition that predicts how population density affects individual foraging strategies, specifically foraging speed. The model is tested using cichlid fish, Aequidens portalegrensis, in conditions of varying densities and food input regimes. The results support the model in situations where payoffs are density-dependent but less so in density-independent scenarios.
+scientific_discipline: Biology and Life Sciences > Animal Behavior

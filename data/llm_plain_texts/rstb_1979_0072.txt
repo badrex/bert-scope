@@ -1,0 +1,10 @@
+article_id: 'rstb_1979_0072'
+revised_title: 'Forecasting and Controlling Migrant Pest Infestations: The African Armyworm'
+semantic_tags:
+  - Entomology
+  - Pest Control
+  - Migration Patterns
+  - Meteorology
+  - Agriculture
+tldr: The article discusses the development and performance of a forecasting service for infestations of the African armyworm, Spodoptera exempta, in East Africa. The service uses nightly moth catches, meteorological information, and reports of larvae to provide weekly forecast probabilities of larvae damaging cereal crops and grazing. The forecasting service has been successful in helping farmers organize control measures in time and improve the accuracy of the forecasting service.
+scientific_discipline: Biology and Life Sciences > Entomology

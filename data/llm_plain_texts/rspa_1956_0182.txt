@@ -1,0 +1,10 @@
+article_id: rspa_1956_0182
+revised_title: 'Self-Consistent Field Theory and Density Matrix Applications in Molecular Orbital Theory'
+semantic_tags:
+  - Quantum Chemistry
+  - Molecular Orbital Theory
+  - Self-Consistent Field Theory
+  - Density Matrix
+  - Huckel Theory
+tldr: The authors present a reformulation of the Hartree-Fock self-consistent field method, focusing on the density matrix as a way to calculate the total energy and one-electron density matrix directly through an iterative process. They apply this method to the molecular orbital theory of conjugated systems, providing a more accurate and self-consistent approach to the Huckel theory. This method allows for a better understanding of chemical properties and can be used to quickly write down approximate solutions for systems containing hetero-atoms.
+scientific_discipline: Chemistry > Quantum Chemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1969_0077
+revised_title: 'Retarded Two-Molecule Interaction: Long Range Cut-off and Energy Shift'
+semantic_tags:
+  - Quantum Electrodynamics
+  - Radiation Damping
+  - Retarded Interaction
+  - Energy Shift
+  - Spontaneous Decay
+tldr: This article explores the long-range cut-off and energy shift in the retarded two-molecule interaction. The authors show that the existence of the cut-off follows from conventional quantum electrodynamics and radiation damping. They also discuss the dependence of the energy shift on the distance between the molecules and the decay factor, which is influenced by the lifetime of the excited state and other loss processes.
+scientific_discipline: Physics > Quantum Mechanics

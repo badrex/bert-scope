@@ -1,0 +1,10 @@
+article_id: 'rspb_1984_0019'
+revised_title: 'Developing a Prototype Vaccine for Epstein-Barr Virus-Associated Tumors'
+semantic_tags:
+  - Epstein-Barr virus
+  - Vaccine development
+  - Tumor prevention
+  - Lymphoproliferative diseases
+  - Nasopharyngeal carcinoma
+tldr: The author discusses the development of a prototype vaccine to prevent Epstein-Barr virus (EBV)-associated tumors. EBV is a herpesvirus that infects all human populations and is linked to conditions like infectious mononucleosis, Burkitt's lymphoma, and undifferentiated nasopharyngeal carcinoma. The vaccine is based on the virus-determined antigen (MA gp340) that elicits virus-neutralizing antibodies. The author explains the challenges in working with EBV and the progress made in creating an efficient antigen preparation method and incorporating it into liposomes to enhance its immunogenicity. Protection against virus challenge has been assessed in immunized cottontop tamarins, a suitable animal model for EBV infection.
+scientific_discipline: Biology and Life Sciences > Virology

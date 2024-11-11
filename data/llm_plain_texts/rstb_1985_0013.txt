@@ -1,0 +1,10 @@
+article_id: 'rstb_1985_0013'
+revised_title: 'Cortical Mechanisms and Cues for Action in Animal Intelligence'
+semantic_tags:
+  - Cognitive Psychology
+  - Animal Intelligence
+  - Frontal Cortex
+  - Conditional Problem Solving
+  - Visual Discrimination
+tldr: The article explores the cognitive abilities of animals, particularly monkeys and rats, in tasks involving visual discrimination and conditional problem solving. It highlights the importance of cortical mechanisms in relating information presented at different times or in different places. The study shows that rats can learn tasks as efficiently as monkeys, even though monkeys have more highly developed brains. The article also discusses the role of the premotor cortex in these tasks, as damage to this area impairs the ability to use environmental cues for action.
+scientific_discipline: Psychology > Cognitive Psychology

@@ -1,0 +1,10 @@
+article_id: rspa_1929_0014
+revised_title: 'Investigation of Band Spectra in Zinc, Cadmium, and Mercury Vapors'
+semantic_tags:
+  - Spectroscopy
+  - Band spectra
+  - Metal molecules
+  - Impurities in metals
+  - Chemical compounds
+tldr: The authors conducted experiments to study the band spectra of zinc, cadmium, and mercury vapors. They discovered that some of the previously attributed band spectra were due to impurities in the metals, while others were due to metal molecules such as Cd2, Zn2, and Hg2. The authors used various methods to identify the impurities and their corresponding band spectra, providing a better understanding of the origin of these spectral features.
+scientific_discipline: Chemistry > Spectroscopy

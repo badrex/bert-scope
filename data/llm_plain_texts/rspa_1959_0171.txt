@@ -1,0 +1,10 @@
+article_id: rspa_1959_0171
+revised_title: On the Dispersion of a Solute by Diffusion, Convection, and Exchange Between Phases
+semantic_tags:
+  - Diffusion
+  - Convection
+  - Exchange between phases
+  - Chromatography
+  - Mass transfer
+tldr: The article discusses the dispersion of a solute in a fluid flowing through a tube, considering the effects of diffusion, convection, and exchange between phases. The authors apply the method to the case where the solute can also pass into another fluid phase flowing in an annular region around the first. They introduce the concept of an apparent diffusion coefficient and demonstrate its application in distillation and partition chromatography.
+scientific_discipline: Chemistry > Chemical Engineering

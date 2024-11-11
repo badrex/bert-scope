@@ -1,0 +1,10 @@
+article_id: 'rspb_1964_0030'
+revised_title: 'Electrical Properties of Striated Muscle Fibers and Their Implications'
+semantic_tags:
+  - Muscle Physiology
+  - Membrane Capacitance
+  - Impedance Measurements
+  - Muscle Fiber Structure
+  - Electrical Modeling
+tldr: The authors conducted experiments on striated muscle fibers using intracellular electrodes to study their electrical properties. They discovered that the fibers have two capacitances in the path between the inside and outside, one with a resistance in series. This finding helps to explain the disparity in capacitance measurements of striated muscle fibers and provides insights into the muscle fiber's structure and function.
+scientific_discipline: Biology and Life Sciences > Muscle Physiology

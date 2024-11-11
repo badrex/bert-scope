@@ -1,0 +1,10 @@
+article_id: 106136
+revised_title: 'Securing Powder Magazines from Lightning: Recommendations by the Royal Society Committee'
+semantic_tags:
+  - Lightning protection
+  - Conductors
+  - Powder magazine safety
+  - Electricity
+  - Building construction
+tldr: The Royal Society Committee investigated the safety of powder magazines at Purfleet and recommended installing conductors to protect them from lightning. They advised using iron rods connected to the ground to safely conduct lightning away from the buildings. This method had been successful in other cases, and the committee believed it was necessary to prevent potential disasters like the one that occurred in Brescia, Italy.
+scientific_discipline: Engineering and Technology > Electrical Engineering

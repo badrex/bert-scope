@@ -1,0 +1,10 @@
+article_id: 112444
+revised_title: 'Improving Astronomical Clocks with a New Escapement and Pendulum Governor'
+semantic_tags:
+  - Clock mechanics
+  - Escapement design
+  - Pendulum governor
+  - Timekeeping accuracy
+  - Astronomy
+tldr: 'Sir William Thomson presents a new design for astronomical clocks that improves their timekeeping accuracy. He introduces a new escapement mechanism and a pendulum governor to better control the clock's motion. This innovation could lead to more precise timekeeping in astronomical clocks and other timekeeping devices.'
+scientific_discipline: Engineering and Technology > Mechanical Engineering

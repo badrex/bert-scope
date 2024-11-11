@@ -1,0 +1,10 @@
+article_id: 107612
+revised_title: 'Determination of Pendulum Acceleration in Different Latitudes'
+semantic_tags:
+  - Geodesy
+  - Timekeeping
+  - Gravity
+  - Earth's figure
+  - Longitude and Latitude
+tldr: The author conducted experiments to determine the acceleration of pendulums in different latitudes using clocks and pendulums provided by the Royal Society. They set up the clocks at various locations and recorded the number of vibrations made by each pendulum in different latitudes. The results were used to deduce information about the Earth's shape and gravity.
+scientific_discipline: Physics > Geodesy

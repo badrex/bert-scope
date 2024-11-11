@@ -1,0 +1,10 @@
+article_id: rspa_1961_0223
+revised_title: 'Decomposition of Nickel Carbonyl via Flash Photolysis'
+semantic_tags:
+  - Flash photolysis
+  - Nickel carbonyl decomposition
+  - Kinetic spectroscopy
+  - Inhibited reactions
+  - Carbon monoxide inhibition
+tldr: The authors studied the decomposition of nickel carbonyl using flash photolysis and kinetic spectroscopy. They found that the rate of reaction depends on the square of the flash energy and that carbon monoxide strongly inhibits the decomposition. A new mechanism is proposed for the homogeneous thermal decomposition of nickel carbonyl, providing insights into the complex reactions involved.
+scientific_discipline: Chemistry > Inorganic Chemistry

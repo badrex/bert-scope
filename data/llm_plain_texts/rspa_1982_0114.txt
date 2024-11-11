@@ -1,0 +1,10 @@
+article_id: rspa_1982_0114
+revised_title: 'Molecular Dynamics Study of Sodium Nitrite's Paraelectric Solid and Molten Phases'
+semantic_tags:
+  - Solid-state chemistry
+  - Molecular dynamics
+  - Ionic crystals
+  - Crystal structure
+  - Phase transitions
+tldr: The authors conducted molecular dynamics simulations on the paraelectric phase of solid sodium nitrite and its molten state. They found that the structure of the molten salt has a high degree of local octahedral coordination, and the reorientation of anions in the solid occurs predominantly about an axis parallel to the crystallographic direction. The results agree with available experimental data and provide insights into the properties of both phases.
+scientific_discipline: Chemistry > Solid-state chemistry

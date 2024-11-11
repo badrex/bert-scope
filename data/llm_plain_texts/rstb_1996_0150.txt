@@ -1,0 +1,10 @@
+article_id: 'rstb_1996_0150'
+revised_title: 'Scaling Analysis of Measles Epidemics in Small Populations'
+semantic_tags:
+  - Epidemiology
+  - Measles
+  - Power-law behavior
+  - Infectious disease modeling
+  - Public health
+tldr: The authors analyze measles outbreaks in the Faroe Islands, a small isolated community, and find that the distribution of epidemic sizes and durations follows a power-law behavior. This suggests the existence of an underlying scaling mechanism in the measles case returns, which is not purely stochastic. The study provides a novel way to consider the dynamics of other communicable diseases with frequent fade-out in case returns.
+scientific_discipline: Biology and Life Sciences > Epidemiology

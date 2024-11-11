@@ -1,0 +1,10 @@
+article_id: 'rspb_1959_0037'
+revised_title: 'The Effects of Radiomimetic Substances on DNA Synthesis and Function in Bacteriophages'
+semantic_tags:
+  - DNA synthesis
+  - Bacteriophages
+  - Radiomimetic substances
+  - Alkylating agents
+  - Inactivation mechanisms
+tldr: The authors investigate the effects of radiomimetic substances, specifically di(2-chloroethyl)methylamine, on deoxyribonucleic acid (DNA) synthesis and function in bacteriophages. They find that the inactivation of phage T2 occurs due to a failure of DNA injection into host cells, which can be caused by internal cross-linking of DNA by the chloro-ethylamine. This study provides insights into the mechanisms of inactivation and potential applications for further research on alkylating agents and host-virus complexes.
+scientific_discipline: Biology and Life Sciences > Genetics and Molecular Biology

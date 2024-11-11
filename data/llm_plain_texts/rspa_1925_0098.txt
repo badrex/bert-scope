@@ -1,0 +1,10 @@
+article_id: rspa_1925_0098
+revised_title: 'The Influence of Infra-Red Radiation on Combustion Rates of Inflammable Gaseous Mixtures'
+semantic_tags:
+  - Combustion
+  - Infra-red radiation
+  - Gas mixtures
+  - Chemical kinetics
+  - Heat transfer
+tldr: This study investigates the effect of infra-red radiation on the combustion rate of inflammable gaseous mixtures, such as hydrogen, carbon-monoxide, and methane combined with air. The researchers used two types of experimental setups to examine the influence of radiation on the rate of combustion. They found that radiation from a heated coil increased the combustion rate of carbon-monoxide and air mixtures, but had no effect on hydrogen and air mixtures. The results suggest that the type of radiation and the gaseous mixture play a significant role in the combustion process.
+scientific_discipline: Chemistry > Chemical kinetics

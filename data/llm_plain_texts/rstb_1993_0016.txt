@@ -1,0 +1,10 @@
+article_id: 'rstb_1993_0016'
+revised_title: 'Gene Regulation of Flowering in Antirrhinum'
+semantic_tags:
+  - 'Floral Development'
+  - 'Gene Regulation'
+  - 'Homeotic Mutations'
+  - 'Plant Genetics'
+  - 'Antirrhinum'
+tldr: 'The authors studied gene regulation in the process of flowering in Antirrhinum plants. They identified three classes of genes that affect floral development, including the switch from inflorescence to floral meristems, organ identity within whorls, and the interactions between these genes. These findings provide insights into the molecular mechanisms controlling flowering and can be compared with other plant species like Arabidopsis.'
+scientific_discipline: 'Biology and Life Sciences > Plant Biology'

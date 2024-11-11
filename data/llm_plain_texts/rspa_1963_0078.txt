@@ -1,0 +1,10 @@
+article_id: rspa_1963_0078
+revised_title: 'Investigation of Radiation Protection in Irradiated Dimethylsiloxane Polymers'
+semantic_tags:
+  - Radiation protection
+  - Polymer chemistry
+  - Crosslinking
+  - Radical reactions
+  - Additives
+tldr: The authors studied the effects of various additives, such as anthracene, iodine, sulphur, and benzophenone, on the crosslinking of dimethylsiloxane polymers under radiation exposure. They found that iodine and sulphur provided significant protection against crosslinking, while benzophenone offered protection but also reduced gas evolution. Anthracene did not provide protection and was destroyed during the process. The results have implications for understanding the mechanisms of crosslinking and radiation protection in polymers.
+scientific_discipline: Chemistry > Polymer Chemistry

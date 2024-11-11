@@ -1,0 +1,10 @@
+article_id: rspa_1958_0059
+revised_title: Dislocation Theory and Crystal Deformation in Single Glide
+semantic_tags:
+  - Crystallography
+  - Dislocations
+  - Crystal deformation
+  - Lattice rotation
+  - Plane strain
+tldr: The authors apply the theory of continuously dislocated crystals to study the behavior of crystals deformed by single glide, where glide occurs on one set of crystal planes. They analyze the dislocation density, lattice geometry, and the relationship between lattice, shape, and dislocation deformations. The study provides a basis for classifying possible states of dislocation and offers insights into the deformation of crystals under various conditions.
+scientific_discipline: Physics > Materials Science

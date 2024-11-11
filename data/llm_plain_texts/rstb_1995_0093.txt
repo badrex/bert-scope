@@ -1,0 +1,10 @@
+article_id: 'rstb_1995_0093'
+revised_title: 'Molecular Phylogenies and Host-Parasite Cospeciation: Pocket Gophers and Lice as a Model System'
+semantic_tags:
+  - 'Molecular Phylogenetics'
+  - 'Host-Parasite Cospeciation'
+  - 'Pocket Gophers'
+  - 'Chewing Lice'
+  - 'Evolutionary Biology'
+tldr: 'This article explores the use of molecular phylogenies to study the relationship between pocket gophers and their chewing lice, focusing on the cospeciation and coevolution of the two species. The authors use DNA sequences from the cytochrome c oxidase subunit I gene to build phylogenetic trees for both hosts and parasites, and discuss the implications of these findings for understanding the evolution of host-parasite systems.'
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

@@ -1,0 +1,10 @@
+article_id: rspa_1976_0123
+revised_title: Functional Integrals for Fermi Systems: A New Approach
+semantic_tags:
+  - Quantum Mechanics
+  - Functional Integrals
+  - Fermi Systems
+  - Statistical Mechanics
+  - Many-Particle Systems
+tldr: This article introduces a new system of states for functional integrals in Fermi systems, bypassing the complexities of quaternionic calculus. The author presents a method for developing functional integrals for Fermi systems over complex variables, providing a more convenient and efficient approach for studying many-fermion problems.
+scientific_discipline: Physics > Quantum Mechanics

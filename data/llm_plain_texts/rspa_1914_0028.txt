@@ -1,0 +1,10 @@
+article_id: 'rspa_1914_0028'
+revised_title: 'The Transparency and Translucence of Surface Films Produced in Polishing Metals'
+semantic_tags:
+  - Surface Science
+  - Metal Polishing
+  - Material Science
+  - Microscopy
+  - Optics
+tldr: 'The author investigates the transparency and translucence of surface films formed on metal surfaces during polishing. They observe that these films cover pits on the metal surface and are highly translucent. Using microscopy and autochrome plates, they demonstrate that the films are thin and that the pits underneath are empty when the films form, suggesting that the films flow unsupported. This research provides insight into the process of metal polishing and the properties of surface films.'
+scientific_discipline: 'Material Science > Surface Science'

@@ -1,0 +1,10 @@
+article_id: rspa_1936_0027
+revised_title: Quantum Mechanical Calculation of Elastic Constants in Monovalent Metals
+semantic_tags:
+  - Solid State Physics
+  - Quantum Mechanics
+  - Elasticity
+  - Crystal Lattice
+  - Metallic Sodium
+scientific_discipline: Physics > Solid State Physics
+tldr: This article presents a quantum mechanical calculation of the elastic constants of monovalent metals, such as sodium, lithium, and potassium. The author uses Wigner and Seitz's theory to calculate the lattice energy and compressibility of these metals and extends the theory to determine their elastic constants. The results show satisfactory agreement with observed values of elastic constants and characteristic temperatures, suggesting that quantum mechanics can effectively explain the properties of monovalent metals.

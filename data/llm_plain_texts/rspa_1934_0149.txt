@@ -1,0 +1,10 @@
+article_id: rspa_1934_0149
+revised_title: 'Investigation of Artificial Radioactivity Induced by Alpha Particles'
+semantic_tags:
+  - Nuclear Physics
+  - Radioactivity
+  - Alpha Particles
+  - Artificial Disintegration
+  - Nuclear Reactions
+tldr: 'The authors, C. D. Ellis and W. J. Henderson, conducted experiments to study the phenomenon of induced radioactivity discovered by Curie and Joliot. They investigated the production of radio-phosphorus from aluminum using alpha particles of different energies and analyzed the excitation probability and potential barrier of the aluminum nucleus. The authors also compared the efficiencies of producing radio-elements from boron, aluminum, and magnesium.'
+scientific_discipline: Physics > Nuclear Physics

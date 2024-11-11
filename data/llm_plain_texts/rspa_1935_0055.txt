@@ -1,0 +1,10 @@
+article_id: rspa_1935_0055
+revised_title: 'Neutron Scattering by Protons: Theoretical Analysis and Experimental Results'
+semantic_tags:
+  - Nuclear Physics
+  - Neutron Scattering
+  - Nuclear Forces
+  - Particle Physics
+  - Quantum Mechanics
+tldr: 'This article presents a theoretical analysis of neutron scattering by protons, focusing on the interaction forces and their impact on the scattering intensity. The authors discuss the importance of experimental measurements to validate their assumptions and provide an overview of the expected results. They also compare the predictions of ordinary and exchange forces in the proton-neutron interaction.'
+scientific_discipline: Physics > Nuclear Physics

@@ -1,0 +1,10 @@
+article_id: '110923'
+revised_title: 'Investigation of the Power Consumed in Overcoming the Inertia of Railway Trains and Air Resistance at High Velocities'
+semantic_tags:
+  - Railway Physics
+  - Air Resistance
+  - Locomotive Engines
+  - Atmospheric Railway
+  - Tractive Force
+tldr: 'P. W. Barlow investigates the power consumed in overcoming the inertia of railway trains and the resistance of the air to their motion at high velocities. He compares the theoretical velocities of trains with those observed in experiments and discusses the power loss in locomotive engines and atmospheric railways. Barlow concludes that the resistance of the air is less than previously estimated, and the main resistance in railway progression arises from the air being in motion.'
+scientific_discipline: Engineering and Technology > Railway Physics

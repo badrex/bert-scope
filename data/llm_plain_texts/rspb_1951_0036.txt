@@ -1,0 +1,10 @@
+article_id: 'rspb_1951_0036'
+revised_title: 'Repetitive Monosynaptic Activation of Motoneurones: Insights and Findings'
+semantic_tags:
+  - Neuroscience
+  - Synaptic transmission
+  - Motoneurones
+  - Repetitive stimulation
+  - Monosynaptic activation
+tldr: The authors conducted experiments to study the effects of repetitive monosynaptic activation of motoneurones using maximum repetitive stimulation of group I afferent fibers of the nerves to various muscles. They discovered that the repetitive synaptic potential conforms to a standard pattern for both flexor and extensor motoneurones. The excitability of motoneurones during and after repetitive activation was tested heterosynaptically, revealing that the synaptic potential plateau raises excitability, while the positive after-potential causes depression. This study provides insights into the response of motoneurones to repetitive volleys in group I afferent fibers, which is essential for understanding myotatic reflexes and central synapse activation.
+scientific_discipline: Neuroscience > Synaptic Transmission

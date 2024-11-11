@@ -1,0 +1,10 @@
+article_id: 'rspa_1970_0070'
+revised_title: 'Vibrational Isomerization and Quenching of Cycloheptatriene'
+semantic_tags:
+  - Isomerization
+  - Quenching
+  - Vibrational energy
+  - Transition state theory
+  - Quantum mechanics
+tldr: The authors studied the isomerization and quenching of vibrationally excited cycloheptatriene. They found that quenching is a multistep process and calculated the average energies removed per collision for various species. The results challenge the strong collision hypothesis and provide insights into unimolecular reactions and transition state theory.
+scientific_discipline: Chemistry > Physical Chemistry

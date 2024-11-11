@@ -1,0 +1,10 @@
+article_id: rsta_1888_0004
+revised_title: On the Asymptotic Development of Hypothenusal Numbers
+semantic_tags:
+  - Number Theory
+  - Mathematical Analysis
+  - Series Expansion
+  - Hamiltonian Numbers
+  - Hypothenusal Numbers
+tldr: This article explores the asymptotic development of Hypothenusal Numbers, focusing on the coefficients and indices of the series expansion. The author demonstrates the relationship between Hypothenusal and Hamiltonian Numbers and establishes the asymptotic development for Hypothenusal Numbers, which begins with an irregular portion followed by a regular series.
+scientific_discipline: Mathematics > Number Theory

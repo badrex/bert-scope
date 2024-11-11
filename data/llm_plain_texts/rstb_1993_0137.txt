@@ -1,0 +1,10 @@
+article_id: rstb_1993_0137
+revised_title: 'HIV Entry and Tropism: The Role of CD4 and Additional Receptors'
+semantic_tags:
+  - HIV entry
+  - CD4 receptor
+  - Alternative receptors
+  - Tropism
+  - Virus-cell interaction
+tldr: This article discusses the role of the CD4 receptor in HIV entry and the possibility of additional receptors being involved. The authors review evidence suggesting that alternative receptors, such as a serine protease called tryptase TL2, may play a role in HIV entry and tropism. They also highlight differences in entry requirements for HIV-1, HIV-2, and SIV, indicating that these viruses may use distinct cell surface molecules during entry.
+scientific_discipline: Biology and Life Sciences > Immunology

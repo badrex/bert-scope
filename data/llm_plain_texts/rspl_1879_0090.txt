@@ -1,0 +1,10 @@
+article_id: rspl_1879_0090
+revised_title: On Definite Integrals and Converging Series
+semantic_tags:
+  - Calculus
+  - Mathematical Analysis
+  - Series Expansion
+  - Integral Evaluation
+  - Mathematical Methods
+tldr: The author presents a method for evaluating definite integrals using series expansion and converging series. The method is demonstrated through several examples, and the author discusses the conditions required for the validity of the process. This work builds upon previous papers and contributes to the understanding of mathematical analysis and integral evaluation.
+scientific_discipline: Mathematics > Calculus

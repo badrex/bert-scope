@@ -1,0 +1,10 @@
+article_id: rspl_1890_0087
+revised_title: Focometry of Lenses and Lens-Combinations: A New Focometer
+semantic_tags:
+  - Optics
+  - Lens design
+  - Focometry
+  - Optical instruments
+  - Lens measurement
+tldr: The authors present a new method for measuring the focal length and the distance between the principal points of lenses and lens-combinations, called focometry. They describe the design and principles of a focometer, an instrument that allows for direct measurements of these properties. The authors also discuss the results obtained with the focometer on various lenses, including microscope objectives and camera lenses, and highlight the differences in the positions of the principal planes for different types of lenses.
+scientific_discipline: Physics > Optics

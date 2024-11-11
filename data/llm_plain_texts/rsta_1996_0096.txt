@@ -1,0 +1,10 @@
+article_id: rsta_1996_0096
+revised_title: Unbalanced Minimal Surfaces in Anisotropic Liquid-Crystalline Phases
+semantic_tags:
+  - Bicontinuous Geometry
+  - Liquid-Crystalline Phases
+  - Minimal Surfaces
+  - Surface Topology
+  - Surfactant-Water Mixtures
+tldr: The article explores the geometric analysis of bicontinuous liquid-crystalline phases in surfactant-water mixtures, focusing on unbalanced minimal surfaces. The tetragonal and hexagonal surfaces of genus 4 are considered as potential candidates for these intermediate phases. The article provides details on calculating cell dimensions, vertex positions, areas, and volumes of these surface families, which can help in understanding and identifying bicontinuous structures in anisotropic intermediates.
+scientific_discipline: Physics > Materials Science

@@ -1,0 +1,10 @@
+article_id: rspa_1971_0076
+revised_title: 'Collision-Induced Overtone Spectra of Hydrogen: Applications to Planetary Atmospheres'
+semantic_tags:
+  - Infrared Spectroscopy
+  - Planetary Atmospheres
+  - Collision-Induced Absorption
+  - Hydrogen Spectra
+  - Astrophysics
+tldr: This study investigates the pressure-induced spectra of hydrogen in the first and second overtone regions to better understand its behavior in planetary atmospheres. The researchers recorded the spectra with an absorption path length of 137 cm and found that the structure and integrated intensities of the bands were in good agreement with the theory of quadrupole induction. The results have implications for studying the hydrogen and helium content of planetary atmospheres.
+scientific_discipline: Physics > Astrophysics

@@ -1,0 +1,10 @@
+article_id: rspa_1918_0057
+revised_title: 'Polarization and Intensity of Light Scattered by Gases'
+semantic_tags:
+  - Light scattering
+  - Polarization
+  - Gas molecules
+  - Optics
+  - Spectroscopy
+tldr: The author investigates the polarization and intensity of light scattered by gases, using a laboratory setup to study the behavior of molecules and their preferential directions of vibration. The experiments reveal that the polarization of scattered light is not always complete, indicating that gas molecules have certain preferential directions of vibration.
+scientific_discipline: Physics > Optics

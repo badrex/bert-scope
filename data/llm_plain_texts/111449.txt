@@ -1,0 +1,10 @@
+article_id: 111449
+revised_title: 'On the Electric-Conducting Power of Metals and Thermo-Electricity'
+semantic_tags:
+  - Thermoelectricity
+  - Electrical conductivity
+  - Metals
+  - Electrochemistry
+  - Temperature
+tldr: The author, Augustus Matthiessen, conducted experiments to determine the electric-conducting power of various metals at different temperatures. He used a method described in the 'Philosophical Magazine' to obtain wires of metals from the alkalies and alkaline earths. Matthiessen also investigated the thermo-electric series and the electromotive powers of thermo-elements formed from different metals.
+scientific_discipline: Physics > Electromagnetism

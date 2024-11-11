@@ -1,0 +1,10 @@
+article_id: rspa_1980_0107
+revised_title: Experimental Investigation of the Elastic Properties of Films in EHL Contacts
+semantic_tags:
+  - Tribology
+  - Lubrication
+  - Contact mechanics
+  - Elasticity
+  - Viscosity
+tldr: This study investigates the elastic properties of films in elastohydrodynamic lubrication (EHL) contacts using an experimental setup. The authors found that the film changes from a viscous to an elastic material, with its shear modulus and ultimate shear strength increasing mostly linearly with pressure. The results confirm previous work and provide evidence for understanding the behavior of lubricants under high pressure.
+scientific_discipline: Engineering and Technology > Tribology

@@ -1,0 +1,10 @@
+article_id: rspl_1889_0117
+revised_title: Boundary Conditions and Vibrations in Thin Shells
+semantic_tags:
+  - Shell theory
+  - Elasticity
+  - Vibrations
+  - Bending and extension
+  - Edge stresses
+tldr: The author discusses the boundary conditions and vibrations in thin shells, particularly focusing on the relationship between bending, extension, and edge stresses. They explain that while the flexural vibrations are more significant, extensional vibrations are usually feeble and have high pitches. The author also provides equations of motion for cylindrical and spherical shells.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

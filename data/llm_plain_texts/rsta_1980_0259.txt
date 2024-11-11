@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0259'
+revised_title: 'Ultra-Short Laser Pulses: Applications and Developments in Plasma Research'
+semantic_tags:
+  - Laser Physics
+  - Plasma Physics
+  - High-Power Lasers
+  - Short-Pulse Laser-Produced Plasmas
+  - Optics
+tldr: This article discusses the research on short-pulse laser-produced plasmas and their applications. It covers topics such as the generation of ultra-short laser pulses, the physical processes involved in laser-produced plasmas, and the development of new techniques for studying these plasmas. The article also highlights the potential uses of these plasmas in fields like fusion energy research and material processing.
+scientific_discipline: Physics > Laser Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1952_0173
+revised_title: 'A Theoretical Treatment of Cation Exchangers: Equilibria between an Ion Exchanger and an Aqueous Solution with a Common Cation'
+semantic_tags:
+  - Ion exchange
+  - Electrochemistry
+  - Cation exchangers
+  - Osmotic coefficients
+  - Harned coefficients
+tldr: The authors present a theoretical treatment of cation exchangers and their equilibria with aqueous solutions containing a common cation. They extend the treatment of ion exchangers as concentrated aqueous poly-electrolytes and derive equations for activity and osmotic coefficients of mixtures of 1:1 electrolytes with resinates. By applying these equations to experimental data, they calculate Harned coefficients and determine the activity coefficient of the resinate. This study helps in understanding ion-exchange behavior and predicting the interactions between ion exchangers and electrolytes.
+scientific_discipline: Chemistry > Electrochemistry

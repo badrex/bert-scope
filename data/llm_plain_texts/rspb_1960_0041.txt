@@ -1,0 +1,10 @@
+article_id: 'rspb_1960_0041'
+revised_title: 'The Effect of Sinusoidal Length Changes on Insect Fibrillar Muscle'
+semantic_tags:
+  - Muscle Physiology
+  - Insect Biology
+  - Visco-elasticity
+  - Sinusoidal Analysis
+  - Muscle Contraction
+tldr: The authors studied the effect of sinusoidal length changes on a beetle flight muscle to understand the properties of insect fibrillar muscle. They used a high-impedance mechanical drive to impose sinusoidal length changes and observed the resulting sinusoidal changes of tension. The results showed that the resting muscle can be represented by a visco-elastic model, and the stimulated muscle behaves with a time delay between length changes and tension changes. The study provides insights into the mechanism of the rhythmic activity of insect fibrillar muscle.
+scientific_discipline: Biology and Life Sciences > Insect Biology

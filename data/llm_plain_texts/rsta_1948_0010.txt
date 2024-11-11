@@ -1,0 +1,10 @@
+article_id: 'rsta_1948_0010'
+revised_title: 'Vibrations and Raman Spectrum of Diamond Lattice: A Theoretical Analysis'
+semantic_tags:
+  - Crystallography
+  - Lattice dynamics
+  - Raman spectroscopy
+  - Diamond structure
+  - Elastic constants
+tldr: This article investigates the vibrations and Raman spectrum of the diamond lattice, providing a theoretical analysis of the crystal's structure and properties. The authors derive expressions for the elastic constants of diamond and use the measured elastic constants and frequency shifts of the Raman lines to determine the force constants between atoms in the lattice. The study concludes that first-neighbour forces alone are not sufficient to explain the experimental results, but the addition of second-neighbour central forces produces satisfactory agreement.
+scientific_discipline: Physics > Crystallography

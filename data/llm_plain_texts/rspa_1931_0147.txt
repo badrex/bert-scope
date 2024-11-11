@@ -1,0 +1,10 @@
+article_id: rspa_1931_0147
+revised_title: 'X-ray Reflection and Diffraction: Theoretical and Experimental Advances'
+semantic_tags:
+  - X-ray diffraction
+  - X-ray reflection
+  - Refractive index
+  - Resonance theory
+  - Anomalous dispersion
+scientific_discipline: Physics > Optics
+tldr: This article discusses the reflection and diffraction of X-rays, exploring the theories of reflection and refraction, and presenting experimental findings on the reflection of X-rays by various materials. The authors also investigate the use of ruled gratings to diffract X-rays at larger angles than previously assumed, and they analyze the intensity of reflection at these angles.

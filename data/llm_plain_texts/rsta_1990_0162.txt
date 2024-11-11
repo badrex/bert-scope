@@ -1,0 +1,10 @@
+article_id: rsta_1990_0162
+revised_title: Lagrangian Motion of Fluid Elements and Small Particles in Non-Uniform Flows
+semantic_tags:
+  - Fluid dynamics
+  - Particle motion
+  - Chaotic advection
+  - Laminar flows
+  - Stokes flow
+tldr: This article discusses the motion of fluid elements and small spherical and non-spherical particles in non-uniform flows. It explores the differences in their responses and how these particles are influenced by factors such as inertia, gravitational settling, and the surrounding fluid's properties. The study focuses on laminar flows and highlights the complexity of particle motion compared to the simple motion of fluid elements.
+scientific_discipline: Physics > Fluid Dynamics

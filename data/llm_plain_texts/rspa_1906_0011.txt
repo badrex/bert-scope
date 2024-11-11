@@ -1,0 +1,10 @@
+article_id: rspa_1906_0011
+revised_title: The Periodogram and Its Optical Analogy: A Revised Definition
+semantic_tags:
+  - Spectroscopy
+  - Fourier analysis
+  - Optics
+  - Astronomical observations
+  - Periodic variations
+tldr: The author presents a revised definition of the periodogram, an essential tool for analyzing periodic variations in data. The new definition is based on an optical analogy and improves the method's convenience and applicability. The periodogram is particularly useful in astronomy for analyzing fluctuations in light intensity from celestial objects.
+scientific_discipline: Physics > Optics

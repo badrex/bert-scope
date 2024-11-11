@@ -1,0 +1,10 @@
+article_id: 'rspa_1992_0145'
+revised_title: 'Soliton Model for Collective Proton Transfer in Hydrogen-Bonded Systems'
+semantic_tags:
+  - Solitons
+  - Proton transfer
+  - Hydrogen bonding
+  - Nonlinear dynamics
+  - Molecular interactions
+tldr: The authors present a soliton model for collective proton transfer in extended hydrogen-bonded systems. They introduce the concept of local proton potentials and discuss the differences between solitons generated using various potentials. The study focuses on the Lippincott-Schroeder potential and its impact on the solitonic mechanism and the contribution of hydrogen bonding. The authors also estimate the Peierls-Nabarro barrier and analyze its changes when the heavier subsystem is relaxed upon proton quasi-kink formation.
+scientific_discipline: Chemistry > Molecular interactions

@@ -1,0 +1,10 @@
+article_id: rspl_1898_0083
+revised_title: Effects of Prolonged Heating on the Magnetic Properties of Iron
+semantic_tags:
+  - Iron
+  - Magnetic properties
+  - Heating effects
+  - Hysteresis
+  - Annealing
+tldr: This article investigates the effects of prolonged heating on the magnetic properties of iron. The author found that material in the annealed state is more susceptible to change than in a harder state. Prolonged heating at high temperatures does not remove the material's susceptibility to change at moderate temperatures. The heating process can be either continuous or a series of short periods at a given temperature, with both resulting in the same cumulative effect.
+scientific_discipline: Physics > Materials Science

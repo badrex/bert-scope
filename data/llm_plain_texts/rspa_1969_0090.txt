@@ -1,0 +1,10 @@
+article_id: rspa_1969_0090
+revised_title: 'Self-Inhibition Mechanism in Neopentane Pyrolysis'
+semantic_tags:
+  - Chemical kinetics
+  - Pyrolysis
+  - Self-inhibition
+  - Neopentane
+  - Free radical reactions
+tldr: The authors conducted a detailed study on the self-inhibition of neopentane pyrolysis at small extents of reaction. They found that the reaction is both homogeneous and strongly self-inhibited, with the pyrolysis being entirely free radical in character. The mechanism is based on a simple Rice-Herzfeld scheme, and self-inhibition is associated with the presence of isobutene. This research provides a better understanding of the early stages of the reaction and the role of self-inhibition in neopentane pyrolysis.
+scientific_discipline: Chemistry > Chemical kinetics

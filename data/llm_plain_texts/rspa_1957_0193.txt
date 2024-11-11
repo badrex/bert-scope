@@ -1,0 +1,11 @@
+article_id: rspa_1957_0193
+revised_title: Surface Analysis of Reduced Nickel Powder and the Role of Oxygen and Sulphur Impurities
+semantic_tags:
+  - Surface Analysis
+  - Nickel Powder
+  - Adsorption
+  - Surface Impurities
+  - Oxygen
+  - Sulphur
+tldr: The authors investigate the surface composition of reduced nickel powder by comparing its adsorptive properties with those of a clean nickel surface. They find that the powder has a surface containing up to 37% clean nickel atoms, with traces of silica possibly accounting for the rest. The study also explores the effects of oxygen and sulphur as surface impurities on the adsorption of hydrogen and krypton. The results provide insights into the preparation of metal powders with surfaces of known purity for further research in heterogeneous reactions.
+scientific_discipline: Chemistry > Surface Chemistry

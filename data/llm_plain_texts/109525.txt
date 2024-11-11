@@ -1,0 +1,10 @@
+article_id: 109525
+revised_title: 'Algebraic Expression for Portions of Solidity of a Sphere'
+semantic_tags:
+  - Geometry
+  - Calculus
+  - Solid Geometry
+  - Mathematical Analysis
+  - Theorems
+tldr: The author presents a theorem that assigns portions of the solidity of a sphere using algebraic expressions. This theorem is similar to Viviani's theorem and involves a transformation of the sphere's coordinates to simplify the integration process.
+scientific_discipline: Mathematics > Geometry

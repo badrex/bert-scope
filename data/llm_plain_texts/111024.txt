@@ -1,0 +1,10 @@
+article_id: 111024
+revised_title: 'Elliptic Functions and the Rotation of a Rigid Body'
+semantic_tags:
+  - Elliptic Functions
+  - Rigid Body Dynamics
+  - Mechanics
+  - Mathematical Physics
+  - Geometry
+tldr: The author, James Booth, applies the theory of elliptic functions to study the rotation of a rigid body around a fixed point. He introduces an ellipsoid, whose axes are directly proportional to the moments of inertia of the body, to represent the motion. The paper presents a method of investigation that provides a simple and elegant interpretation of integrals needed to determine the dynamic state of a body at any given time.
+scientific_discipline: Mathematics > Applied Mathematics

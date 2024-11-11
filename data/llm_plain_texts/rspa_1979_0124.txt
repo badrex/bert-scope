@@ -1,0 +1,10 @@
+article_id: rspa_1979_0124
+revised_title: 'Molecular Alignment in Nematic Liquid Crystals: A Review of Experimental Results and Mean Field Theories'
+semantic_tags:
+  - Liquid Crystals
+  - Molecular Alignment
+  - Mean Field Theories
+  - Nematic Order
+  - Thermodynamics
+tldr: This article compares experimental results on molecular alignment in nematic liquid crystals under high pressure with predictions based on mean field theories. The authors find that none of the examined mean field theories can satisfactorily explain the observed temperature and volume dependence. They also discuss the latent heat associated with the nematic-isotropic transition and the limitations of current theories.
+scientific_discipline: Physics > Thermodynamics

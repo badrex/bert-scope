@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0097'
+revised_title: 'Understanding the Perception of Biological Motion'
+semantic_tags:
+  - Visual Perception
+  - Biological Motion
+  - Low-level Motion Detection
+  - Event Perception
+  - Human Visual System
+tldr: This study investigates the visual processes underlying the perception of biological motion, specifically how the movements of individual dots in a display are encoded and integrated to form a representation of a walking figure. The research suggests that the effect relies upon responses in low-level motion-detecting processes and does not involve hierarchical visual analysis of motion components. The findings challenge current theoretical treatments of biological motion perception.
+scientific_discipline: Psychology > Visual Perception

@@ -1,0 +1,10 @@
+article_id: 'rspb_1966_0105'
+revised_title: 'Growth Kinetics of Fungi in Pellet Form: A Theoretical Analysis'
+semantic_tags:
+  - Fungal growth
+  - Submerged culture
+  - Pellet formation
+  - Nutrient diffusion
+  - Oxygen limitation
+tldr: The author presents a theoretical analysis of the growth kinetics of fungi in the pellet form in submerged culture. They propose that pellets consist of an outer layer of growing hyphae and an inner mass of non-growing mycelium. The theory explains the cube root growth observed in fungi and predicts that the growth-limiting nutrient will almost always be oxygen when air is supplied at one atmosphere. The author suggests several ways to test the theory, including maintaining a constant dissolved oxygen concentration and investigating the effect of pellet concentration.
+scientific_discipline: Biology and Life Sciences > Microbiology

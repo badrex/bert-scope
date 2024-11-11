@@ -1,0 +1,10 @@
+article_id: rspa_1966_0108
+revised_title: Infrared Spectroscopy of Hydrogen Bonding in Alcohols
+semantic_tags:
+  - Infrared spectroscopy
+  - Hydrogen bonding
+  - Alcohol chemistry
+  - Molecular vibrations
+  - Spectrometer design
+tldr: This study investigates the far-infrared spectra of a series of aliphatic alcohols to determine the vibration frequencies associated with hydrogen bonding. The authors used a Fourier transform spectrometer to measure the spectra and assigned frequencies to the stretching mode of the hydrogen bond and the torsional mode in the monomers. The results provide insights into the behavior of hydrogen bonding systems in alcohols and can be compared with other chemical compounds.
+scientific_discipline: Chemistry > Spectroscopy

@@ -1,0 +1,10 @@
+article_id: rspa_1934_0010
+revised_title: Quantum Theory of Electromagnetic Field: A New Perspective
+semantic_tags:
+  - Quantum Electrodynamics
+  - Electromagnetic Field Theory
+  - Quantum Mechanics
+  - Maxwell's Equations
+  - Mie's Field Theory
+tldr: The authors discuss the limitations of existing attempts to apply quantum theory to the electromagnetic field and propose a new set of equations based on Mie's general field theory. They introduce a finite-radius electron with finite energy, which behaves differently for short waves and can explain inconsistencies in older theories. The authors also explore the connection between the quantization of field equations and mechanical equations of motion.
+scientific_discipline: Physics > Electromagnetic Theory

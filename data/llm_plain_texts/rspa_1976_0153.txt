@@ -1,0 +1,10 @@
+article_id: rspa_1976_0153
+revised_title: Optimization of Fluid Film Bearings: A Mathematical Approach
+semantic_tags:
+  - Fluid Dynamics
+  - Lubrication Theory
+  - Optimization Algorithms
+  - Finite Difference Methods
+  - Finite Element Methods
+tldr: The authors present a method for optimizing fluid film bearings using algorithms developed for this class of problems. They apply the method to the two-dimensional lubrication problem, considering both finite difference and finite element approximations. The optimization problem involves finding the film profile that supports the maximum load capacity for a given minimum film thickness and bearing pad area.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

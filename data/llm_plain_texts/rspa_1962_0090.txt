@@ -1,0 +1,10 @@
+article_id: rspa_1962_0090
+revised_title: 'Aerodynamic Sound Generation and its Impact on Airflows'
+semantic_tags:
+  - Aeroacoustics
+  - Turbulence
+  - Jet Noise
+  - Boundary Layer Noise
+  - Sound Propagation
+tldr: The author discusses the generation of sound aerodynamically, focusing on the expansion of acoustics in the mid-20th century. They explain the difference between sound and pseudo-sound, and how sound is generated as a by-product of airflows. The author also explores the influence of sound on airflows and the main practical problem of ground-level noise due to aircraft in flight.
+scientific_discipline: Physics > Aeroacoustics

@@ -1,0 +1,10 @@
+article_id: 111969
+revised_title: Internal Radiation in Uniaxal Crystals
+semantic_tags:
+  - Crystal Optics
+  - Wave Theory of Light
+  - Refraction
+  - Polarization
+  - Internal Radiation
+tldr: The author analyzes the internal radiation in uniaxal crystals, specifically the relationship between the incident and refracted light. They discuss the concept of principal planes and how they affect the behavior of light within the crystal. The author also explores the wave theory of light and the form of the wave-surface, concluding that the ratio of internal to external radiation depends on the crystal's properties and the direction of the refracted light.
+scientific_discipline: Physics > Optics

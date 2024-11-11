@@ -1,0 +1,10 @@
+article_id: rspa_1979_0155
+revised_title: Basic Fourier Series and Orthogonal Functions
+semantic_tags:
+  - Fourier series
+  - Orthogonal functions
+  - Sturm-Liouville theory
+  - Basic integration
+  - Basic differentiation
+tldr: The article introduces a basic analogue of the Sturm-Liouville system, leading to families of orthogonal functions with respect to basic integration. This analysis provides a generalization of Fourier and Fourier-Bessel expansions and can be applied to study stochastic processes and time-series.
+scientific_discipline: Mathematics > Analysis

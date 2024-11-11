@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0085'
+revised_title: 'Characterization of a Slow Voltage-Activated Potassium Current in Rat Vagal Neurons'
+semantic_tags:
+  - Neuronal potassium currents
+  - Electrophysiology
+  - Rat vagal neurons
+  - Dorsal motor nucleus of the vagus
+  - Voltage-activated potassium current
+tldr: Researchers discovered a slow voltage-activated potassium current in rat vagal neurons, specifically in the dorsal motor nucleus of the vagus. This current is different from the fast transient current called A-current and is not blocked by 4-aminopyridine, catechol, or tetraethylammonium. The slow current is associated with an increase in membrane conductance and has a reversal potential close to the potassium equilibrium potential.
+scientific_discipline: Biology and Life Sciences > Neuroscience

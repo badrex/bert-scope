@@ -1,0 +1,10 @@
+article_id: rspa_1939_0012
+revised_title: 'General Theory of Relaxation Methods for Linear Systems'
+semantic_tags:
+  - Linear algebra
+  - Relaxation methods
+  - Mathematical physics
+  - Elastic frameworks
+  - Optimization
+tldr: The article presents a general theory of relaxation methods applied to linear systems, specifically for solving problems in mathematical physics and engineering. The author demonstrates a method of successive approximations using the concept of relaxation to find the position of equilibrium in elastic frameworks. The theory is applicable to both discrete and continuous systems and provides a foundation for solving non-homogeneous linear integral and differential equations.
+scientific_discipline: Mathematics > Linear algebra

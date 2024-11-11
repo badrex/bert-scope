@@ -1,0 +1,10 @@
+article_id: rspa_1947_0049
+revised_title: The Effect of Radial Expansion on the Velocity of Detonation in Solid Explosives
+semantic_tags:
+  - Explosives
+  - Detonation
+  - Shock waves
+  - Reaction kinetics
+  - Fluid dynamics
+tldr: The authors studied the effect of radial expansion on the velocity of detonation in solid explosives. They found that the detonation velocity depends on the diameter of the charge and the degree of radial expansion within the reaction zone. This effect can be used to determine the rate of the chemical reaction occurring in the detonation wave, providing valuable information about the decomposition of explosives and the release of chemical energy.
+scientific_discipline: Physics > Fluid Dynamics

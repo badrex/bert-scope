@@ -1,0 +1,10 @@
+article_id: rspa_1913_0056
+revised_title: The Hall Effect in Liquid Electrolytes: A Reassessment
+semantic_tags:
+  - Hall effect
+  - Liquid electrolytes
+  - Electromagnetism
+  - Electrolyte conductivity
+  - Ion mobility
+scientific_discipline: Physics > Electromagnetism
+tldr: This article discusses the attempts to measure the Hall effect in liquid electrolytes. The Hall effect is a phenomenon where the flow of electric current in a magnetic field causes a deflection of the current. The authors describe previous experiments and their limitations, and then present their own experiment using a more sensitive galvanometer. They find a small but measurable Hall effect in liquid electrolytes, which they attribute to the deflection of elementary molecular currents due to the magnetic field. This discovery contributes to the understanding of the behavior of ions in liquids and the potential applications of the Hall effect in various fields.

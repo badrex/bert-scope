@@ -1,0 +1,10 @@
+article_id: rspa_1909_0057
+revised_title: Simplified Computation of Electrostatic Energy and Attractive/Repulsive Forces between Electrified Spherical Conductors
+semantic_tags:
+  - Electrostatics
+  - Capacitance
+  - Electromagnetic force
+  - Wireless telegraphy
+  - Dielectrics
+scientific_discipline: Physics > Electromagnetism
+tldr: The authors present simplified formulas for calculating the electrostatic energy stored between electrified spherical conductors and the attractive or repulsive forces between them. These formulas are particularly useful for understanding wireless telegraphy systems and can help engineers optimize the energy stored in these systems.

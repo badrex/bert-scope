@@ -1,0 +1,10 @@
+article_id: rspa_1938_0036
+revised_title: 'Spectrum Analysis of Chlorine Emission Bands'
+semantic_tags:
+  - Spectroscopy
+  - Chemistry
+  - Molecular Physics
+  - Atomic Physics
+  - Quantum Mechanics
+tldr: The authors conducted experiments on the emission spectrum of chlorine gas using a high-frequency electrical discharge. They discovered that the discrete bands in the spectrum are due to ionized chlorine molecules. The study involved the use of spectrographs, microphotometer records, and intensity measurements to analyze the bands. The findings contribute to the understanding of chlorine's molecular and atomic properties.
+scientific_discipline: Chemistry > Spectroscopy

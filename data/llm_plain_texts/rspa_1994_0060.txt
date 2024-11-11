@@ -1,0 +1,10 @@
+article_id: rspa_1994_0060
+revised_title: Triple Coalescence of Coupling Points for Waves in Stratified Media
+semantic_tags:
+  - Wave Propagation
+  - Electromagnetic Waves
+  - Ionosphere
+  - Radio Waves
+  - Stratified Media
+tldr: This article studies the triple coalescence of coupling points for waves in stratified media, focusing on radio waves in the ionosphere. The author presents the basic theory and tests it with computed solutions, revealing cases where the expected phase advance of a reflected wave is replaced by phase retardation.
+scientific_discipline: Physics > Electromagnetism

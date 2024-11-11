@@ -1,0 +1,10 @@
+article_id: rspa_1995_0079
+revised_title: Ignition and Extinction Wave Speeds in Combustion
+semantic_tags:
+  - Combustion
+  - Reaction-diffusion equations
+  - Wave speed
+  - Bifurcation diagrams
+  - Numerical methods
+tldr: The authors study the ignition and extinction wave speeds in combustion using reaction-diffusion equations. They determine the wave speeds numerically for different parameter values and discuss the implications of their findings. The results complement previous work on monostable and bistable reaction functions relevant to combustion.
+scientific_discipline: Environmental and Earth Sciences > Combustion

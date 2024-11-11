@@ -1,0 +1,10 @@
+article_id: 108027
+revised_title: 'Improving Voltaic Combinations and Battery Efficiency'
+semantic_tags:
+  - Electrochemistry
+  - Battery Technology
+  - Voltaic Arrangement
+  - Electric Current
+  - Electrolyte
+tldr: The author, J. Frederic Daniell, describes a new voltaic arrangement called the Dissected Battery, which provides a constant current of electricity for any desired length of time. This innovation helps overcome the variability of action in common batteries, making it easier to measure and compare different voltaic phenomena. The author also discusses the importance of hydrogen's affinity for metal surfaces and its role in the decomposition of water by zinc in voltaic cells.
+scientific_discipline: Chemistry > Electrochemistry

@@ -1,0 +1,10 @@
+article_id: rsta_1977_0142
+revised_title: 'Propagation of Atmospheric Rossby Gravity Waves in Latitudinally Sheared Zonal Flows'
+semantic_tags:
+  - Atmospheric Science
+  - Meteorology
+  - Geophysical Fluid Dynamics
+  - Wave Propagation
+  - Rossby Waves
+tldr: This article discusses the propagation properties of atmospheric Rossby gravity waves in latitudinally sheared zonal flows. The authors use the -plane approximation to formulate the equations governing these waves and explore their behavior in various types of zonal flow profiles. They also examine the effects of critical latitude phenomena, wave trapping, and wave amplification on the propagation of these waves.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

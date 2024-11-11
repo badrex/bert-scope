@@ -1,0 +1,10 @@
+article_id: 'rspb_1975_0131'
+revised_title: 'Nucleotide Sequencing in DNA: Techniques and Applications'
+semantic_tags:
+  - DNA sequencing
+  - Molecular biology
+  - Genetics
+  - Biochemistry
+  - Nucleotide analysis
+tldr: The author describes the development and application of methods to determine the sequences of DNA molecules, focusing on the single-stranded DNA of bacteriophage X.174. Techniques such as partial degradation, restriction enzymes, and copying methods are discussed, leading to the sequencing of nucleotides and the identification of genetic information in DNA.
+scientific_discipline: Biology and Life Sciences > Genetics

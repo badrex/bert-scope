@@ -1,0 +1,10 @@
+article_id: 101125
+revised_title: Discovering the Heterogeneous Nature of Light
+semantic_tags:
+  - Optics
+  - Refraction
+  - Color Theory
+  - Telescope design
+  - Heterogeneous mixtures
+tldr: In this article, Isaac Newton explains his experiments with prisms to study the nature of light and colors. He discovered that white light is made up of different colors that have varying refrangibility, which limits the perfection of telescopes at the time. This led to the understanding that light is a heterogeneous mixture of differently refrangible rays.
+scientific_discipline: Physics > Optics

@@ -1,0 +1,10 @@
+article_id: 'rstb_1985_0053'
+revised_title: 'Mapping Noxious-Stimulus Evoked Activity in the Nervous System'
+semantic_tags:
+  - Nociception
+  - Pain
+  - Dorsal Root Ganglia
+  - Spinal Cord
+  - Glycogen Phosphorylase Histochemistry
+tldr: 'The authors used glycogen phosphorylase histochemistry to map noxious-stimulus evoked activity in dorsal root ganglia and the spinal cord. They found that primary afferent cell bodies and spinal cord cells showed changes in glycogen phosphorylase activity in response to noxious stimuli. This study provides insights into the mechanisms of pain and the role of calcium in neuronal activity.'
+scientific_discipline: 'Biology and Life Sciences > Neuroscience'

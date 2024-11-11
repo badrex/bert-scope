@@ -1,0 +1,10 @@
+article_id: rspa_1976_0080
+revised_title: Unusual Elastohydrodynamic Lubrication in Metal Seals
+semantic_tags:
+  - Elastohydrodynamic Lubrication
+  - Metal Seals
+  - Hydrodynamic Pressure
+  - Reynolds Equation
+  - Seal Design
+tldr: The authors studied the elastohydrodynamic lubrication in metal seals and discovered unusual conditions where rapidly diverging oil films can coexist with high hydrodynamic pressure. They analyzed the inverse Reynolds equation and found that these conditions can be met in metal seals. Theoretical and experimental results are presented, showing the potential issues with working in this elastohydrodynamic regime.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

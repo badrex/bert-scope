@@ -1,0 +1,10 @@
+article_id: 105644
+revised_title: Observations on the Variations of Gravity and Timekeeping at St. Helena
+semantic_tags:
+  - Gravity
+  - Timekeeping
+  - Pendulum clocks
+  - Equatorial and polar gravity
+  - Latitude variations
+tldr: The author, Nevil Maskelyne, conducted experiments with a clock made by John Shelton at St. Helena to observe the variations of gravity and timekeeping in different latitudes. The clock was adjusted to mean solar time and was used to measure the rate of timekeeping in relation to the Earth's gravitational force. The results showed that the clock lost 1 minute and 59 seconds per day, and the author concluded that the rate of timekeeping was affected by the Earth's gravitational force and latitude.
+scientific_discipline: Physics > Mechanics

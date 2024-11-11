@@ -1,0 +1,10 @@
+article_id: 'rspb_1993_0036'
+revised_title: 'Mathematical Modeling of Photosynthesis: Evidence for a Functional Supercomplex Around Photosystem 1'
+semantic_tags:
+  - Photosynthesis
+  - Electron transport
+  - Photosystem 1
+  - Mathematical modeling
+  - Supercomplexes
+tldr: The author developed a mathematical model to analyze the electron transport process in photosynthesis, focusing on the functional supercomplex around photosystem 1. The model considers factors such as light intensity, chlorophyll concentration, and the reduction state of electron carriers. The results support the existence of functional supercomplexes that can carry out channelled electron transport during photosynthesis.
+scientific_discipline: Biology and Life Sciences > Photosynthesis

@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0055'
+revised_title: 'Investigating the Role of Vertical Disparity in Stereoscopic Depth Perception'
+semantic_tags:
+  - Stereopsis
+  - Visual Perception
+  - Binocular Disparity
+  - Depth Perception
+  - Visual Cues
+tldr: This study investigates whether vertical disparity, the difference in the position of an object's image on the retinas of the two eyes, influences the perception of stereoscopic depth. The researchers created stereograms with varying gradients of vertical disparity and asked participants to estimate the depth between two surfaces. They found that changes in vertical disparity did not affect the perceived depth, suggesting that the human visual system does not use vertical disparity as a scaling parameter for depth judgments.
+scientific_discipline: Psychology > Perception

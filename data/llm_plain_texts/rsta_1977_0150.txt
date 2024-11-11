@@ -1,0 +1,10 @@
+article_id: rsta_1977_0150
+revised_title: Analytical Tools of Operational Research and Systems Analysis
+semantic_tags:
+  - Operations Research
+  - Systems Analysis
+  - Decision Making
+  - Optimization Methods
+  - Linear Programming
+tldr: This article discusses the development and application of analytical tools in operational research and systems analysis for decision-making. It covers various methodologies, including optimization methods, linear programming, and their impact on other disciplines. The author also highlights the current challenges and future prospects of the field.
+scientific_discipline: Mathematics > Optimization

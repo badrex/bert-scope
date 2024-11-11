@@ -1,0 +1,10 @@
+article_id: 'rspa_1953_0079'
+revised_title: 'Sorption of Hydrogen and Other Gases by Evaporated Iron Films'
+semantic_tags:
+  - Surface Chemistry
+  - Adsorption
+  - Iron Films
+  - Gas Sorption
+  - Surface Area
+tldr: The authors investigated the sorption of hydrogen, carbon monoxide, and nitrogen on evaporated iron films. They found that sorption is mainly confined to the surface, with minimal absorption or solution contributing to the total uptake of gas. The study also showed that presintering at higher temperatures reduces the surface area and affects the distribution of adsorption potential sites. The results provide insights into the surface properties and potential applications of evaporated iron films.
+scientific_discipline: Chemistry > Surface Chemistry

@@ -1,0 +1,10 @@
+article_id: rspl_1883_0153
+revised_title: "On the Vapour-Pressures of Ice, Camphor, Benzene, Acetic Acid, and Water"
+semantic_tags:
+  - Thermodynamics
+  - Vapour-Pressure
+  - Surface Tension
+  - Surface-Pressure
+  - Capillarity
+tldr: The author conducted experiments to measure the vapour-pressures of ice, camphor, benzene, acetic acid, and water. They found that the vapour-pressure of a solid is less than that of a liquid at the same temperature, and that the differences between these pressures can be calculated from thermic data. The author also introduced a new method for determining the vapour-pressures of solids and liquids, which offers significant advantages over previous methods.
+scientific_discipline: Chemistry > Thermodynamics

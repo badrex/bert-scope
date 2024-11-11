@@ -1,0 +1,10 @@
+article_id: rspa_1954_0215
+revised_title: 'The Effect of Electric Field on Viscosity of Polar Liquids'
+semantic_tags:
+  - Viscosity
+  - Electromagnetic Field
+  - Polar Liquids
+  - Dielectric Heating
+  - Fluid Dynamics
+tldr: The authors conducted experiments to study the effect of an electric field on the viscosity of polar liquids. They discovered that an electric field increases the viscosity of polar liquids, and this effect depends on the frequency of the electric field. The authors also found that the increase in viscosity is due to the rotation of molecules in the electric field, which is influenced by the flow of the liquid. This research has implications for understanding the behavior of liquids and their applications in various industries.
+scientific_discipline: Physics > Electromagnetism

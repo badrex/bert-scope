@@ -1,0 +1,10 @@
+article_id: rspl_1902_0003
+revised_title: 'Investigations on Spark Discharge and Spectral Phenomena in Water'
+semantic_tags:
+  - Plasma physics
+  - Spectroscopy
+  - Electric discharge
+  - Spectral lines
+  - Metal spectra
+tldr: The author investigates the spectral phenomena and discharge of sparks in water, focusing on the spectra of various metals. They observe broadened and reversed spectral lines, which they classify into different types. The study provides insights into the behavior of spectral lines in different conditions and contributes to the understanding of stellar spectroscopy.
+scientific_discipline: Physics > Plasma Physics

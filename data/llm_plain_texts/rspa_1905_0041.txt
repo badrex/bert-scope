@@ -1,0 +1,10 @@
+article_id: 'rspa_1905_0041'
+revised_title: 'Explosives Transformations and Erosion: A Study on Cordite, Modified Cordite, and Nitro-Cellulose'
+semantic_tags:
+  - Explosives
+  - Chemical reactions
+  - Erosion
+  - High-pressure experiments
+  - Thermodynamics
+tldr: This study investigates the transformations of three explosives (cordite, modified cordite, and nitro-cellulose) under varying pressures and densities. The research shows that the transformation of these explosives follows similar general laws, with an increase in carbonic anhydride volume and a decrease in carbonic monoxide volume. The experiments also reveal that the amount of erosion is primarily determined by the heat developed during the explosion, and is independent of the pressure.
+scientific_discipline: Chemistry > Chemical Reactions and Erosion

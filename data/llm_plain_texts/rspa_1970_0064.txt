@@ -1,0 +1,10 @@
+article_id: rspa_1970_0064
+revised_title: Invariant Forms of Equations of State in General Relativity
+semantic_tags:
+  - General Relativity
+  - Equations of State
+  - Rheological Behavior
+  - Tensor Calculus
+  - Continuum Mechanics
+tldr: This article discusses the invariant forms of equations of state for continuous matter in general relativity, focusing on the rheological behavior of matter that depends on previous states. The author presents a complete set of variables, including deformation history, mechanical-stress history, temperature history, proper-time lag, and physical constants, to describe the relevant information about the matter at an event. The article covers elasticity, viscosity, and their combinations, and provides a foundation for a comprehensive relativistic theory of deformation and flow applicable to various materials.
+scientific_discipline: Physics > Continuum Mechanics

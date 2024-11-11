@@ -1,0 +1,10 @@
+article_id: rsta_1889_0008
+revised_title: 'Investigations on the Reflection and Transmission of Light by Different Kinds of Glass'
+semantic_tags:
+  - Optics
+  - Light reflection
+  - Light transmission
+  - Glass properties
+  - Photometry
+tldr: The authors conducted experiments to determine the amount of light reflected and transmitted by various types of glass. They used photometric methods to compare the illumination produced by two Argand gas flames and measured the relative intensities. The results provided insights into the properties of glass and its impact on light transmission and reflection.
+scientific_discipline: Physics > Optics

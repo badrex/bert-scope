@@ -1,0 +1,10 @@
+article_id: rspa_1978_0059
+revised_title: 'Stable Combustion in Heat Exchangers: A Study of Flame Stability and Heat Recirculation'
+semantic_tags:
+  - Combustion
+  - Heat Exchangers
+  - Flame Stability
+  - Heat Recirculation
+  - Lean Mixtures
+tldr: This study examines the ranges of flow for stable combustion in heat exchangers with extensive heat recirculation between products and reactants. The authors explore the dependence of heat recirculation on geometry, flow velocity, and other parameters in various heat exchanger designs. They find that flame temperature remains constant for one fuel, regardless of flow velocity, heat losses, or fuel concentration, allowing for efficient combustion of lean mixtures.
+scientific_discipline: Engineering and Technology > Energy and Fuels

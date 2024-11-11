@@ -1,0 +1,10 @@
+article_id: rsta_1956_0013
+revised_title: Chain Reaction Theory in Flame Phenomena
+semantic_tags:
+  - Combustion
+  - Chemical kinetics
+  - Flame propagation
+  - Chain reactions
+  - Hydrazine decomposition
+tldr: The authors study flame phenomena involving chain reactions, focusing on the decomposition of hydrazine. They develop a method to calculate flame speeds and energy conversion rates, providing insights into the behavior of chain reactions in flames. Their findings help improve understanding of combustion processes and the role of chain reactions in flame propagation.
+scientific_discipline: Chemistry > Chemical kinetics

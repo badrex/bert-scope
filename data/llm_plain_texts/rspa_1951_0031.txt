@@ -1,0 +1,10 @@
+article_id: rspa_1951_0031
+revised_title: 'A Dielectric Constant Method for Investigating Non-Stationary States in Polymerization'
+semantic_tags:
+  - Polymerization
+  - Dielectric Constant
+  - Non-Stationary State
+  - Kinetics
+  - High-Frequency Bridge
+tldr: The authors developed a dielectric constant method to study the non-stationary state in polymerization, using a high-frequency bridge with high sensitivity. They measured the dielectric constant changes during the reaction, allowing them to investigate the kinetics and radical reactivities in polymerization processes.
+scientific_discipline: Chemistry > Polymer Chemistry

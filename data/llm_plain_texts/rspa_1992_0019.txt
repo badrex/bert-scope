@@ -1,0 +1,10 @@
+article_id: rspa_1992_0019
+revised_title: 'Global Structure of Robinson-Trautman Space-Times'
+semantic_tags:
+  - General Relativity
+  - Space-Time Geometry
+  - Einstein Equations
+  - Cosmic Censorship Hypothesis
+  - Robinson-Trautman Metrics
+tldr: The author studies the global structure of Robinson-Trautman space-times, a class of metrics that evolve from singular data prescribed on a null hypersurface. The results show that solutions exist in the backwards or forwards direction in the space-time, depending on the sign of a constant related to the total Bondi mass of the metric. The findings also suggest that unique solutions exist in the Robinson-Trautman class, and smooth vacuum extensions may exist beyond the event horizon, except for the Schwarzschild metric.
+scientific_discipline: Physics > General Relativity

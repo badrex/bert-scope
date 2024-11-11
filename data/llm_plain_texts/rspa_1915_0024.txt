@@ -1,0 +1,10 @@
+article_id: 'rspa_1915_0024'
+revised_title: 'Corpuscular Radiation in Vapors by Homogeneous X-Radiation'
+semantic_tags:
+  - X-rays
+  - Corpuscular radiation
+  - Gas ionization
+  - Radiation effects
+  - Vapors
+tldr: 'The authors conducted experiments to study the corpuscular radiation liberated in various vapors by homogeneous X-radiation. They used a mixture of gases and vapors, such as hydrogen, hydrochloric acid, ammonia, nitrous oxide, and carbon dioxide, to measure the ionization caused by the radiation. They found that the ionization in the chamber was affected by the type of gas and the insulation used, and they developed a method to calculate the ratio of corpuscular radiation in different gases.'
+scientific_discipline: Physics > Electromagnetism

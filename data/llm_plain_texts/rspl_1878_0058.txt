@@ -1,0 +1,10 @@
+article_id: rspl_1878_0058
+revised_title: Determining the Scale Value of a Thomson's Quadrant Electrometer
+semantic_tags:
+  - Atmospheric electricity
+  - Electrometry
+  - Electromagnetic measurements
+  - Battery technology
+  - Kew Observatory
+tldr: The author describes a series of experiments conducted to determine the scale value of a Thomson's quadrant electrometer used for registering atmospheric electricity variations at the Kew Observatory. The experiments involved using a battery of Bunsen cells and a chloride of silver battery, and the results were used to create a scale for measuring the curves produced by the electrograph.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rspa_1973_0103
+revised_title: Theoretical Prediction of Intramolecularly Crosslinked Polymer Dimensions
+semantic_tags:
+  - Polymer Chemistry
+  - Crosslinking
+  - Polymer Solutions
+  - Polymer-Solvent Interactions
+  - Polymer Dimensions
+tldr: The authors developed a theory to explain the dimensions of intramolecularly crosslinked polymer molecules in solution. They used a random chain model and incorporated van der Waals interactions in the system. The theory predicts the dimensions of crosslinked polystyrene molecules, agreeing well with experimental results. This study helps understand the behavior of polymers in various applications, such as materials science and engineering.
+scientific_discipline: Chemistry > Polymer Chemistry

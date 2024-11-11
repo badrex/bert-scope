@@ -1,0 +1,10 @@
+article_id: rsta_1994_0035
+revised_title: Errata: Statistical Energy Analysis
+semantic_tags:
+  - Electromagnetic Theory
+  - Beltrami-Moses Fields
+  - Boundary Value Problem
+  - Lorentz-Force
+  - Magnetic Stress
+tldr: This article provides corrections to a previous paper on statistical energy analysis. It discusses an initial boundary value problem involving Beltrami-Moses fields in electromagnetic theory and includes corrections to equations and a missing reference. 
+scientific_discipline: Physics > Electromagnetism

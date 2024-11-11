@@ -1,0 +1,10 @@
+article_id: rsta_1967_0046
+revised_title: 'Air Density Variations at 280 km Height: Orbital Analysis of Cosmos Satellites'
+semantic_tags:
+  - Atmospheric Density
+  - Satellite Orbits
+  - Air Drag
+  - Space Research
+  - Orbital Mechanics
+tldr: This study investigates the effect of air drag on the orbits of six Cosmos satellites with low perigee heights. The diurnal variation of neutral atmospheric density at about 280 km is found to have an amplitude of around 25% of its average value, with a maximum at about 14 local time. The results show some correlation with geomagnetic index and solar flux values on a few occasions but not generally.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

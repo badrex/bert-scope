@@ -1,0 +1,10 @@
+article_id: rspa_1967_0216
+revised_title: Poiseuille Gas Flow in the Transition Regime: Application of General Theory
+semantic_tags:
+  - Gas flow
+  - Transition regime
+  - Boltzmann equation
+  - Relaxation time approximation
+  - Poiseuille flow
+tldr: This article investigates the gas flow in the transition regime using a relaxation-time approximation for the collision operator. The results show that the total gas flow through a capillary tube agrees with experimental values within 2%. The study applies the general theory of Poiseuille gas flow and provides a better understanding of the flow behavior in the transition region.
+scientific_discipline: Physics > Fluid Dynamics

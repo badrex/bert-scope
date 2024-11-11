@@ -1,0 +1,10 @@
+article_id: rspa_1976_0173
+revised_title: 'Variable Properties Effects in Laminar Natural Convection Boundary Layers on Near-Horizontal Plates'
+semantic_tags:
+  - Natural Convection
+  - Boundary Layer
+  - Heat Transfer
+  - Fluid Mechanics
+  - Variable Properties Fluids
+tldr: The article presents a boundary-layer analysis for laminar natural convection flow over a near-horizontal heated plate, considering variable properties effects and stress work. Detailed calculations are provided for air and water flows, and the analysis is extended to predict heat transfer rates on plates of rectangular planforms. The study improves previous theoretical predictions and offers a better understanding of the flow's behavior.
+scientific_discipline: Environmental and Earth Sciences > Fluid Mechanics

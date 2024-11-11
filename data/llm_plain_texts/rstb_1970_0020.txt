@@ -1,0 +1,10 @@
+article_id: 'rstb_1970_0020'
+revised_title: 'Atomic Structure and Mechanism of Carboxypeptidase A'
+semantic_tags:
+  - Enzyme structure
+  - Protein crystallography
+  - Carboxypeptidase A
+  - Catalytic mechanism
+  - Amino acid sequence
+tldr: The authors studied the structure of carboxypeptidase A, a zinc-containing enzyme that breaks down peptides and esters, using crystallography. They determined the atomic structure at 0.2 nm resolution and analyzed the enzyme's interactions with glycyl-L-tyrosine. The findings helped clarify the enzyme's binding and catalytic mechanisms, providing insights into its function and potential applications.
+scientific_discipline: Biology and Life Sciences > Biochemistry

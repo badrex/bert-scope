@@ -1,0 +1,10 @@
+article_id: rspa_1932_0182
+revised_title: 'Investigating the Frequency Disturbance of Superconductivity'
+semantic_tags:
+  - Superconductivity
+  - High-frequency currents
+  - Temperature dependence
+  - Tantalum
+  - Lead
+tldr: 'The authors conducted experiments to study the effect of high-frequency alternating currents on superconductivity in metals like lead and tantalum. They found that the critical temperature for superconductivity decreases with increasing frequency of the alternating current. The study also showed that the frequency disturbance of superconductivity is an effect of small magnitude, measurable only at temperatures below the boiling point of helium.'
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rspa_1933_0085
+revised_title: 'Elementary Theory of Electronic Semi-Conductors and Their Properties'
+semantic_tags:
+  - Semiconductors
+  - Electronic conduction
+  - Hall effect
+  - Thermoelectric power
+  - Quantum mechanics
+tldr: The author presents an elementary theory of electronic semi-conductors and their properties, discussing models of semi-conductors and their potential applications. The theory explains the behavior of electrons and holes in semi-conductors, and how it relates to the Hall effect and thermoelectric power. The author also explores the differences between intrinsic and extrinsic semi-conductors, and how impurities affect their conductivity.
+scientific_discipline: Physics > Solid State Physics

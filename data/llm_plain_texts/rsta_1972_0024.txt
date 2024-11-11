@@ -1,0 +1,10 @@
+article_id: rsta_1972_0024
+revised_title: Auroral Zone Winds and Their Relation to Geomagnetic Activity
+semantic_tags:
+  - Geomagnetic activity
+  - Auroral zone
+  - Neutral wind
+  - Ionospheric electric fields
+  - Thermosphere
+tldr: This article discusses the relationship between winds and temperatures in the auroral zone and their connection to geomagnetic activity. The authors found a strong correlation between east-west neutral wind speed and the mean local south-north ground magnetic perturbation. They also discovered that ionospheric electric fields and electron density drive the auroral electrojet and accelerate the neutral gas via ion-neutral collisions. These wind disturbances can propagate to mid-latitudes in the night hemisphere, leading to anomalously high neutral wind speeds during geomagnetic storm conditions.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

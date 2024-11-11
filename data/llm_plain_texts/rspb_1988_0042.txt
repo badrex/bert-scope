@@ -1,0 +1,10 @@
+article_id: 'rspb_1988_0042'
+revised_title: 'Ontogenesis of GABA and Glycine Receptor mRNAs in Rat Cerebral Cortex'
+semantic_tags:
+  - Neuroscience
+  - GABA receptors
+  - Glycine receptors
+  - mRNA expression
+  - Brain development
+tldr: The study examines the ontogenesis of mRNAs coding for GABA and glycine receptors in the rat cerebral cortex. The authors extracted poly(A)+ mRNA from the brains of embryonic, postnatal, and adult rats and injected it into Xenopus oocytes to measure the membrane currents elicited by the agonists. The study found that the size of the GABA-induced current increased with age, while the glycine-induced response was highest in newborn animals and decreased with age. Both GABA and glycine receptors are associated with chloride channels.
+scientific_discipline: Biology and Life Sciences > Neuroscience

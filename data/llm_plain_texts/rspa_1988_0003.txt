@@ -1,0 +1,10 @@
+article_id: rspa_1988_0003
+revised_title: Dynamics of the Double Hopf Bifurcation with 2:1 Resonance
+semantic_tags:
+  - Nonlinear Dynamics
+  - Bifurcation Theory
+  - Resonance Phenomena
+  - Chaos Theory
+  - Oscillator Interactions
+tldr: The authors study the double Hopf bifurcation with 2:1 resonance in a two-parameter problem, focusing on the dynamics near a codimension-two singularity. They analyze the normal form equations and find that the phase variables do not decouple from the amplitudes, leading to a three-dimensional system with rich behavior. The analysis reveals the role of a heteroclinic bifurcation in producing transitions between phase-locked and phase-unlocked solutions, and a greater variety of global bifurcations.
+scientific_discipline: Mathematics > Dynamical Systems

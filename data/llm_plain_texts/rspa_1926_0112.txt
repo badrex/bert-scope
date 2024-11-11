@@ -1,0 +1,10 @@
+article_id: rspa_1926_0112
+revised_title: Tensile Tests on Large Gold, Silver, and Copper Crystals
+semantic_tags:
+  - Crystal growth
+  - Tensile testing
+  - Materials science
+  - Metals
+  - X-ray crystallography
+tldr: The authors conducted tensile tests on large gold, silver, and copper crystals grown by Bridgman's method. They determined the crystal orientations using X-ray diffraction and observed slip-bands in all the crystals. The results showed that the distortion of these metal crystals is of the same type as in aluminum, with slip occurring on octahedral planes. The shapes of the stress-strain curves for the metals are different, indicating that the hardening is due to specific properties of each metal rather than bending and breaking up of the crystal during the process of slipping.
+scientific_discipline: Materials Science > Crystallography

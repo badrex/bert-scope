@@ -1,0 +1,10 @@
+article_id: rsta_1995_0053
+revised_title: High-Temperature Structural Materials: Microstructure and Process Modeling
+semantic_tags:
+  - Materials Science
+  - Solidification
+  - Microstructure
+  - Process Modeling
+  - High-Temperature Materials
+tldr: This article discusses the importance of understanding and predicting the microstructure of high-temperature materials during the solidification process. It presents a macroscopic modeling approach and a stochastic cellular automaton model for simulating grain structure formation in solidification processes. The models help predict the microstructural features and crystallographic textures of high-temperature materials, such as superalloys, used in aerospace applications.
+scientific_discipline: Materials Science > Solidification and Microstructure Modeling

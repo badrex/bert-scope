@@ -1,0 +1,10 @@
+article_id: 112243
+revised_title: 'Pedal Surfaces and Their Volumes: A Study on Geometric Properties'
+semantic_tags:
+  - Geometry
+  - Surface Geometry
+  - Ellipsoids
+  - Pedal Surfaces
+  - Mathematical Formulas
+tldr: This article investigates the volumes of pedal surfaces derived from the same primitive surface but with different origins. It presents formulas to calculate the volume of any pedal surface when the volume of another is known. The study also explores the properties of pedal surfaces, including the origins of pedals of the same volume lying on a surface of the third order. The article focuses on ellipsoid pedals and their properties, such as the volume of the pedal whose origin is at a corner of the rectangular parallelepiped described about the primitive ellipsoid.
+scientific_discipline: Mathematics > Geometry

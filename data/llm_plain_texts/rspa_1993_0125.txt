@@ -1,0 +1,10 @@
+article_id: rspa_1993_0125
+revised_title: Second-Order Deformation of a Compressible Isotropic Elastic Annulus Under Circular Shearing
+semantic_tags:
+  - Elasticity
+  - Annulus deformation
+  - Compressible materials
+  - Torsion
+  - Finite Hankel transforms
+tldr: This study investigates the second-order deformation of a compressible isotropic elastic annulus with an axial cylindrical hole, subjected to constant angular deformation on the interior boundary. The research uses finite Hankel transforms with Weber-Orr kernel functions to solve the problem and provides insights into the behavior of the annulus under different conditions.
+scientific_discipline: Engineering and Technology > Mechanics of Materials

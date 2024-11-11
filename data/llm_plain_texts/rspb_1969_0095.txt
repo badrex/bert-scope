@@ -1,0 +1,10 @@
+article_id: 'rspb_1969_0095'
+revised_title: 'ATP Utilization in Muscle Contraction: Activation Heat and Heat of Shortening'
+semantic_tags:
+  - Muscle contraction
+  - ATP utilization
+  - Activation heat
+  - Heat of shortening
+  - Muscle energetics
+tldr: The authors conducted experiments on isolated sartorius muscles of Rana pipiens to study the chemical energetics of muscle contraction. They found that the usage of adenosine triphosphate (ATP) per pulse decreased at higher rates of stimulation, and that little ATP was used by muscles in hypertonic solutions. The results suggest that activation heat and the heat of shortening are not associated with ATP splitting.
+scientific_discipline: Biology and Life Sciences > Muscle Physiology

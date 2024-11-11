@@ -1,0 +1,10 @@
+article_id: 112656
+revised_title: 'On the Orders and Genera of Ternary Quadratic Forms: Further Developments in Eisenstein's Theory'
+semantic_tags:
+  - Number Theory
+  - Quadratic Forms
+  - Algebraic Geometry
+  - Eisenstein's Theory
+  - Ternary Forms
+tldr: This paper by Henry J. Stephen Smith further develops Eisenstein's theory on ternary quadratic forms, discussing the classification of forms based on their discriminant and the introduction of a new generic character. It also explores the transformation of forms through substitutions and the weight of classes, orders, and representations in definite and positive forms. The paper provides methods for determining the weight of binary classes of certain series of negative determinants.
+scientific_discipline: Mathematics > Number Theory

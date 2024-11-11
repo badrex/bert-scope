@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0166'
+revised_title: 'Neuronal Transients and Dynamic Correlations in the Brain'
+semantic_tags:
+  - Neuroscience
+  - Temporal Coding
+  - Neuronal Interactions
+  - Singular Value Decomposition
+  - Dynamic Modulation
+tldr: The author presents an alternative explanation for the dynamic modulation of neuronal interactions observed by Vaadia et al. (1995). They propose that these interactions can be explained by the correlated expression of neuronal transients following or preceding a salient event. This alternative perspective allows for models of neural coding to be reinstated and suggests a powerful analysis based on singular value decomposition of firing rates.
+scientific_discipline: Neuroscience > Temporal Coding

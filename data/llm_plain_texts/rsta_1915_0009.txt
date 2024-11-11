@@ -1,0 +1,10 @@
+article_id: 'rsta_1915_0009'
+revised_title: 'X-rays and Crystal Structure: The Investigation of Atomic Arrangement'
+semantic_tags:
+  - X-ray crystallography
+  - Crystal structure
+  - Atomic arrangement
+  - Rock salt
+  - Bragg's Law
+tldr: 'The author explains the method of investigating crystalline structure using X-rays and applies it to the atomic arrangement in rock salt crystals. By analyzing the angles and distances at which X-rays are reflected, the author determines the arrangement of sodium and chlorine atoms in the crystal. This method provides insight into the atomic structure of crystals and the properties of materials.'
+scientific_discipline: Physics > Optics

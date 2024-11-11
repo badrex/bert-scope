@@ -1,0 +1,9 @@
+article_id: rspa_1936_0114
+revised_title: 'The Variation of Gaseous Ions Mobility with Temperature: Caesium and Sodium Ions in Helium'
+semantic_tags:
+  - Ion mobility
+  - Gas physics
+  - Temperature effects
+  - Caesium ions
+  - Sodium ions
+tldr: This study investigates the variation of mobility of gaseous ions, specifically caesium and sodium ions, in helium with temperature. The mobility of caesium ions at constant density reaches a maximum value, while sodium ions suggest a similar maximum at higher temperatures. The results support classical theories of Langevin and Hasse and Cook, with improvements suggested for the repulsive field term.

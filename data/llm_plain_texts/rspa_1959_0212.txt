@@ -1,0 +1,10 @@
+article_id: rspa_1959_0212
+revised_title: 'Radio Astronomical Measurements from Earth Satellites: Overcoming Atmospheric and Ionospheric Obstacles'
+semantic_tags:
+  - Space Research
+  - Radio Astronomy
+  - Earth Satellites
+  - Ionosphere
+  - Atmospheric Absorption
+tldr: The article discusses the importance of radio astronomical measurements from earth satellites to overcome the limitations of the atmosphere and ionosphere. It highlights the need for measurements in the low-frequency range, below the critical ionospheric frequencies, which can only be made from earth satellites or other space stations. The article also covers the challenges faced in measuring the spectra of radio sources, the low-frequency cut-off in the radio source spectrum, the general galactic radio emission, and the high-frequency end of the spectrum.
+scientific_discipline: Physics > Space Science

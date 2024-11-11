@@ -1,0 +1,10 @@
+article_id: rspa_1995_0145
+revised_title: Challenging the Non-locality of Quantum Physics
+semantic_tags:
+  - Quantum Mechanics
+  - Locality
+  - Determinism
+  - Quantum Gravity
+  - State Vector Reduction
+tldr: The author proposes a local deterministic model of quantum spin measurement, challenging the conventional view that quantum physics is non-local. The model's phase space has two chaotic attractor sets, and although the dynamics are deterministic, the evolution of the state vector towards the attractors can be effectively uncomputable. This model suggests that quantum theory does not necessarily have to be non-local and reconciles the views of Bohr and Einstein on quantum reality.
+scientific_discipline: Physics > Quantum Mechanics

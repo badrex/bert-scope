@@ -1,0 +1,10 @@
+article_id: 'rstb_1990_0013'
+revised_title: 'DNA Methylation and Gene Regulation in Mouse Embryonic Development'
+semantic_tags:
+  - Epigenetics
+  - Gene expression
+  - X-chromosome inactivation
+  - Imprinting
+  - Developmental biology
+tldr: This article discusses the changes in DNA methylation patterns during mouse embryonic development and their relation to X-chromosome activity and imprinting. The author reviews the current data on methylation patterns in gametes, early embryos, embryonic and extra-embryonic cell lineages, and the germ line. The implications of changing DNA methylation in development are considered in terms of X-chromosome activity in female development and the processes of initiation, propagation, and erasure of imprinting.
+scientific_discipline: Biology and Life Sciences > Developmental Biology

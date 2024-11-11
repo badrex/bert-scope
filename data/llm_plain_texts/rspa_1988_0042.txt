@@ -1,0 +1,11 @@
+article_id: rspa_1988_0042
+revised_title: Asymptotic Analysis of the Sal'nikov Thermokinetic Oscillator
+semantic_tags:
+  - Thermokinetic Oscillator
+  - Asymptotic Analysis
+  - Sal'nikov Model
+  - Relaxation Oscillations
+  - Bifurcation Theory
+tldr: The authors analyze the Sal'nikov thermokinetic oscillator in the limit where the dimensionless heat capacity tends to zero. They find regions of parameter space where the system exhibits relaxation oscillations and large single excursions before approaching a steady state. The study also explores the behavior of the oscillator when fuel consumption is included, showing that it exhibits finite trains of almost periodic behavior before reaching equilibrium.
+scientific_discipline: Mathematics > Applied Mathematics
+sub_discipline: Dynamical Systems and Chaos

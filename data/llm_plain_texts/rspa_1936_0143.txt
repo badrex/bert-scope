@@ -1,0 +1,10 @@
+article_id: rspa_1936_0143
+revised_title: 'Quantization of a Theory for Multiple Integrals and its Application to Born'
+semantic_tags:
+  - Quantum Mechanics
+  - Variational Principles
+  - Born's Rule
+  - Lagrangian Mechanics
+  - Quantum Conditions
+tldr: The authors apply a variational principle to multiple integrals and use it to develop a theory for quantization. They discuss the application of this theory to Born's rule, explaining how it maintains correspondence with classical mechanics while also incorporating quantum conditions. The authors also explore the implications of their method for Lagrangian mechanics and the role of conjugate variables in quantum mechanics.
+scientific_discipline: Physics > Quantum Mechanics

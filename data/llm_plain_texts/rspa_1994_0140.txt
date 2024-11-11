@@ -1,0 +1,10 @@
+article_id: rspa_1994_0140
+revised_title: Delamination Mechanisms in Compressively Stressed Laminated Materials
+semantic_tags:
+  - Delamination
+  - Composites
+  - Mechanics
+  - Buckling
+  - Failure mechanisms
+tldr: This article investigates the mechanics of delamination from an edge flaw in laminated materials under compressive stress. Two failure mechanisms are identified: uniform delamination along the crack front and localized delamination initiated by buckling-driven delamination. The latter can cause general failure of the laminate. Experiments with mica and aluminum demonstrate these mechanisms, and the factors governing the transitions between them are discussed. The critical flaw size for a transition between the two failure mechanisms is determined.
+scientific_discipline: Engineering and Technology > Materials Science

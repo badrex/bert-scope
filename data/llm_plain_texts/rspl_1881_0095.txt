@@ -1,0 +1,10 @@
+article_id: rspl_1881_0095
+revised_title: 'On Certain Geometrical Theorems and Applications to Linear Differential Equations'
+semantic_tags:
+  - Geometry
+  - Analytical Geometry
+  - Differential Equations
+  - Mathematical Theorems
+  - Mathematical Applications
+tldr: The author presents a short and simple proof of the equation to a circle inscribed in a triangle using trilinear coordinates. Additionally, the paper discusses functions of the coefficients of linear differential equations and their applications to solving problems involving relations among the solutions of the equations.
+scientific_discipline: Mathematics > Geometry

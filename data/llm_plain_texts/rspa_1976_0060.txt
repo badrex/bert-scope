@@ -1,0 +1,10 @@
+article_id: rspa_1976_0060
+revised_title: Field-Induced Emission of Electrons from Glass and the Mechanism of the Silent Electric Discharge
+semantic_tags:
+  - Field Emission
+  - Silent Electric Discharge
+  - Glass Physics
+  - Ozonizer
+  - Electron Emission
+tldr: The authors discovered that glass can emit electrons when a strong electric field is applied, which could be the mechanism behind the silent electric discharge. They studied the emission from both glass tips and tubes, finding that the number of emitting sites increased with the applied field. The emitted particles were identified as electrons, and the authors proposed a model for field-enhanced thermionic emission from sites with low work function.
+scientific_discipline: Physics > Materials Science

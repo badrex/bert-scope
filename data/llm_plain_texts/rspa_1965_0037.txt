@@ -1,0 +1,10 @@
+article_id: rspa_1965_0037
+revised_title: Dynamic Nuclear Polarization in Crystals: Techniques and Applications
+semantic_tags:
+  - Nuclear Magnetic Resonance
+  - Dynamic Nuclear Polarization
+  - Solid-State Physics
+  - Crystallography
+  - Electron-Nuclear Spin Systems
+tldr: This article discusses dynamic nuclear polarization in crystals, a technique that uses magnetic resonance to polarize nuclear spins. The author explains the process of inducing forbidden microwave transitions to achieve polarization and explores various applications, such as orienting minute quantities of radioactive nuclei and observing nuclear magnetic resonance in electron-nuclear spin systems.
+scientific_discipline: Physics > Solid-State Physics

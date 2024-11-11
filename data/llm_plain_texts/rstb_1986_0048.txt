@@ -1,0 +1,10 @@
+article_id: 'rstb_1986_0048'
+revised_title: 'Characterization of the Rubisco Large Subunit Binding Protein in Plants'
+semantic_tags:
+  - 'Rubisco'
+  - 'Protein synthesis'
+  - 'Chloroplasts'
+  - 'Molecular chaperone'
+  - 'Plant biochemistry'
+tldr: The article discusses the Rubisco large subunit binding protein, which helps in the assembly of the Rubisco enzyme in plants. The protein binds to newly synthesized large subunits and ensures their correct interaction with small subunits. The binding protein is an oligomer of two types of subunits, alpha and beta, and is synthesized by cytoplasmic ribosomes. It is found in various plant plastids containing Rubisco.
+scientific_discipline: Biology and Life Sciences > Biochemistry and Molecular Biology

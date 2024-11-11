@@ -1,0 +1,10 @@
+article_id: rspa_1991_0098
+revised_title: Design of Uni-Axially Loaded Components from Tough Fiber-Reinforced Ceramic Matrix Composites
+semantic_tags:
+  - Composite Materials
+  - Mechanical Engineering
+  - Structural Analysis
+  - Damage Mechanics
+  - Ceramic Matrix Composites
+tldr: The authors developed a simple model for the stress-strain behavior of fiber-reinforced ceramic matrix composites and used it to study the behavior of uni-axially loaded structures. They found that damage evolution due to load application results in stress redistribution and that the load-displacement characteristics of the structures reflect the stress-strain curve. The study helps in understanding the deformation and rupture of uni-axially loaded components and provides guidelines for their design.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

@@ -1,0 +1,10 @@
+article_id: rspa_1972_0116
+revised_title: 'Electron Microscopy of Biological Specimens Using an Electrostatic Phase Plate'
+semantic_tags:
+  - Electron microscopy
+  - Biological specimens
+  - Electrostatic phase plate
+  - Contrast enhancement
+  - Resolution improvement
+tldr: The authors developed a new electron microscopy imaging method using an electrostatic phase plate, which enhances detail in biological materials and improves resolution. This method creates a more uniform phase shift between unscattered and scattered waves, resulting in a faithful representation of the object structure. The technique emphasizes details within the biological material and reduces contrast from surrounding stains, allowing for better preservation of specimen morphology.
+scientific_discipline: Physics > Optics

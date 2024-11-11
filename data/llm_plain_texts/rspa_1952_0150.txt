@@ -1,0 +1,10 @@
+article_id: rspa_1952_0150
+revised_title: The Influence of Pressure on the Equilibrium between Carbon Dioxide and Air
+semantic_tags:
+  - Carbon dioxide
+  - Air pressure
+  - Gas solubility
+  - Phase equilibrium
+  - Cryogenics
+tldr: This study examines the equilibrium between solid carbon dioxide and air at various pressures and temperatures. The experiments reveal that the concentration of carbon dioxide in the mixed phase can be significantly higher than expected from Dalton's law, especially at high pressures and low temperatures. The results show that the behavior of this system is consistent with a binary system near the critical point of the more volatile component when the second component separates as the solid phase.
+scientific_discipline: Chemistry > Gas Solubility and Phase Equilibrium

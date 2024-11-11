@@ -1,0 +1,10 @@
+article_id: rspa_1961_0041
+revised_title: 'Comparative Study of Ionosphere Models and Reflexion of Long Radio Waves'
+semantic_tags:
+  - Ionosphere
+  - Radio Wave Propagation
+  - Electromagnetic Waves
+  - Ionospheric Modeling
+  - Reflexion Coefficients
+tldr: The authors used numerical methods to solve differential equations and study the reflexion of long radio waves from the ionosphere. They compared various ionosphere models and found that one model, which closely agrees with experimental observations, should be modified to better represent the day-time ionosphere in summer. The study also discusses the transition from day to night conditions in the ionosphere and the effect of sudden ionospheric disturbances.
+scientific_discipline: Physics > Electromagnetism

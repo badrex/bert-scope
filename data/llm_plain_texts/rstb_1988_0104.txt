@@ -1,0 +1,10 @@
+article_id: 'rstb_1988_0104'
+revised_title: 'Serotypic Analysis of Plasmodium Falciparum Transmission Dynamics'
+semantic_tags:
+  - Malaria epidemiology
+  - Serotyping
+  - Plasmodium falciparum
+  - S-antigen system
+  - Transmission dynamics
+tldr: The article discusses the use of serotyping techniques, specifically the S-antigen system, to analyze the transmission dynamics of Plasmodium falciparum, the parasite responsible for the most severe form of malaria. The authors explore the stability and prevalence of different S-antigen serotypes in various populations, highlighting the complexities of malaria transmission and the potential implications for vaccine trials.
+scientific_discipline: Biology and Life Sciences > Epidemiology

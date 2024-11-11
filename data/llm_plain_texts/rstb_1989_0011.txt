@@ -1,0 +1,10 @@
+article_id: rstb_1989_0011
+revised_title: Assessing Photosynthetic Performance in Crops Using Quantum Yield and Chlorophyll Fluorescence
+semantic_tags:
+  - Photosynthesis
+  - Quantum yield
+  - Chlorophyll fluorescence
+  - Crop assessment
+  - Field measurements
+tldr: The authors developed an apparatus to measure the quantum yield of carbon assimilation and chlorophyll fluorescence in field-grown crops. They found that the quantum yield and the ratio of variable to maximal fluorescence increased from May to August and decreased in September. The results showed a linear correlation between the quantum yield and the fluorescence ratio, and the efficiency of light-energy conversion to dry matter by the crop was correlated with changes in the quantum yield during the growing season.
+scientific_discipline: Biology and Life Sciences > Photosynthesis

@@ -1,0 +1,10 @@
+article_id: rspl_1887_0084
+revised_title: Electrodeposition of Alloys and Electromotive Forces of Metals in Cyanide Solutions
+semantic_tags:
+  - Electrochemistry
+  - Alloy deposition
+  - Electromotive force
+  - Cyanide solutions
+  - Metal properties
+tldr: The authors investigated the electrodeposition of alloys and the electromotive forces of metals in cyanide solutions. They found that the effect of higher concentration of cyanide solutions increases the electromotive force of copper more than zinc. The authors also discovered that in electrodeposition, the counter electromotive force at the cathode varies with the rate at which metal is being deposited and the current-density employed. This research helps explain why the law of Berzelius, stating that out of a solution of mixed metals, the least electropositive metal is deposited first, does not apply in some cases.
+scientific_discipline: Chemistry > Electrochemistry

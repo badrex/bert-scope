@@ -1,0 +1,10 @@
+article_id: rspa_1964_0051
+revised_title: 'Advancements in Radiometric Photometry for Light Measurement'
+semantic_tags:
+  - Photometry
+  - Radiometry
+  - Light Measurement
+  - Thermopile
+  - Optical Condensing System
+tldr: The authors developed a radiometric photometer to measure luminous intensity using a high-sensitivity thermopile and an optical condensing system. They investigated the relation between the radiometric and photometric scales of measurement by making radiometric measurements on standard lamps. The results showed that the radiometric method can be used to perpetuate the unit of light, providing a more accurate and efficient way of measuring light intensity.
+scientific_discipline: Physics > Optics

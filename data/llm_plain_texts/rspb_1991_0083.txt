@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0083'
+revised_title: 'Characterization of the Single-Stranded DNA-Binding Protein in Filamentous Bacteriophage If1'
+semantic_tags:
+  - Bacteriophage
+  - DNA Binding Protein
+  - Filamentous Bacteriophage
+  - Protein Structure
+  - Gene Sequencing
+tldr: The authors isolated and sequenced the putative single-stranded DNA-binding protein of the filamentous bacteriophage If1. They found that the protein has a molecular mass of 10,553 Da and its sequence corresponds to the DNA sequence. The protein is closely related to domains in the coliphage T4 gene 32 protein and the Pseudomonas phage Pfl ssDNA-binding protein, suggesting that it has a ssDNA-binding function.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

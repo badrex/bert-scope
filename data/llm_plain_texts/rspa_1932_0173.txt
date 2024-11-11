@@ -1,0 +1,10 @@
+article_id: rspa_1932_0173
+revised_title: Mechanism of Initiation and Propagation of Detonation in Solid Explosives
+semantic_tags:
+  - Explosives
+  - Detonation
+  - Shock waves
+  - Chemical reactions
+  - Sensitivity tests
+tldr: This article investigates the mechanism of detonation in solid explosives, focusing on the initiation and propagation of detonation waves. The authors discuss the limitations of classical mechanical theories and propose a new approach to understanding the behavior of high explosives. They develop a method to test the sensitivity of explosive compositions using fall hammer tests and analyze the results to gain insights into the factors contributing to detonation.
+scientific_discipline: Physics > Materials Science

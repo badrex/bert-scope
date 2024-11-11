@@ -1,0 +1,10 @@
+article_id: rspa_1988_0119
+revised_title: A Perturbation Analysis of the Bell-Szekeres Space-Time
+semantic_tags:
+  - Gravitational Waves
+  - Black Holes
+  - Space-Time
+  - Astrophysics
+  - Physics
+tldr: The authors conducted a perturbation analysis of the Bell-Szekeres space-time, focusing on the region where the scattering of colliding plane-fronted waves occurs and the regions prior to the instant of collision. They found a complete set of normal modes expressed in terms of spin-weighted spherical harmonics, which exhibit increasing frequency as the horizon is approached. This analysis raises conceptual questions about the stability of space-time solutions and the development of horizons.
+scientific_discipline: Physics > Astrophysics

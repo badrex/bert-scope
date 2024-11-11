@@ -1,0 +1,10 @@
+article_id: 'rstb_1982_0143'
+revised_title: 'Anion Binding and Transport in Living Tissues: Electrogenic Cl'
+semantic_tags:
+  - Anion transport
+  - Electrogenic pump
+  - ATPase
+  - Membrane biochemistry
+  - Acetabularia
+tldr: The article investigates the binding and transport of anions in living tissues, specifically focusing on the electrogenic Cl pump in the unicellular marine alga Acetabularia. The authors identify an ATPase responsible for the electrogenic pump and develop a three-state model to describe the pump's reaction kinetics and electrical properties. The study provides insights into the electrical aspects of charge-transporting enzymes in membranes and their role in converting metabolic energy to electrical energy.
+scientific_discipline: Biology and Life Sciences > Membrane Biochemistry

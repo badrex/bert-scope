@@ -1,0 +1,10 @@
+article_id: rspa_1929_0124
+revised_title: 'A New Method for Measuring Night Sky Light Intensity'
+semantic_tags:
+  - Photoelectricity
+  - Astronomy
+  - Light Intensity Measurement
+  - Night Sky
+  - Atmospheric Conditions
+tldr: The author developed a photoelectric method to measure the intensity of the night sky's light, providing more accurate results than visual photometry. This method allows for the observation of hourly changes in light intensity and opens up new possibilities for studying the night sky and atmospheric conditions.
+scientific_discipline: Physics > Optics

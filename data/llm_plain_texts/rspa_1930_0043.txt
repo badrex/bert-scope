@@ -1,0 +1,10 @@
+article_id: rspa_1930_0043
+revised_title: 'Quantitative Analysis of Metallic Corrosion and its Factors'
+semantic_tags:
+  - Corrosion
+  - Electrochemistry
+  - Metal Science
+  - Oxygen control
+  - Ion control
+tldr: This article investigates the degree of reproducibility in measuring corrosion using the oxygen absorption method and compares it with the loss of weight method. The authors discuss the factors affecting reproducibility, such as metallic impurities, convection currents, and temperature changes. They also explain the role of oxygen control and ion control in the corrosion process and the importance of maintaining consistent experimental conditions.
+scientific_discipline: Chemistry > Electrochemistry

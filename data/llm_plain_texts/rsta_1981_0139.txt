@@ -1,0 +1,10 @@
+article_id: rsta_1981_0139
+revised_title: The Development and Potential of Atmospheric Cherenkov Technique in Gamma-Ray Astronomy
+semantic_tags:
+  - Gamma-Ray Astronomy
+  - Atmospheric Cherenkov Technique
+  - Extensive Air Showers
+  - Cosmic Rays
+  - Cherenkov Radiation
+tldr: The article discusses the early days of gamma-ray astronomy using the atmospheric Cherenkov technique. It explains how the technique works by detecting the Cherenkov light produced by charged particles in extensive air showers initiated by high-energy gamma rays. The author highlights the unique advantages of this method, such as being ground-based, directional, and relatively simple and inexpensive compared to satellite experiments. The article also touches upon the history, development, and potential of the atmospheric Cherenkov technique in the field of gamma-ray astronomy.
+scientific_discipline: Physics > Astronomy

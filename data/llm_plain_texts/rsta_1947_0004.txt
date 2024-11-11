@@ -1,0 +1,11 @@
+article_id: 'rsta_1947_0004'
+revised_title: 'Integrally Dependent Integral Domains: A Theoretical Study'
+semantic_tags:
+  - Algebra
+  - Ring Theory
+  - Ideal Theory
+  - Number Theory
+  - Mathematical Structures
+tldr: This article explores the properties of integrally dependent integral domains, focusing on the conditions for possessing an integral basis. It discusses the discriminant-ideal, different-ideal, and complementary ideals, providing necessary and sufficient conditions for these concepts. The study contributes to a deeper understanding of mathematical structures in algebra and number theory.
+scientific_discipline: Mathematics > Algebra
+```

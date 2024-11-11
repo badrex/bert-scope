@@ -1,0 +1,10 @@
+article_id: 'rstl_1876_0015'
+revised_title: 'Exploring the Variations of Earth's Magnetism due to Solar and Lunar Actions'
+semantic_tags:
+  - Earth's Magnetism
+  - Solar Rotation
+  - Lunar Revolution
+  - Magnetometer
+  - Geomagnetism
+tldr: The author investigates the variations in Earth's daily mean horizontal magnetic force caused by the Sun's rotation and the Moon's synodical and tropical revolutions. They discovered that the Sun and Moon have a combined effect on Earth's magnetism, which cannot be explained by either body's action alone. The study used observations from 1844 and 1845 to analyze the oscillations in the Earth's magnetic force and understand the underlying causes.
+scientific_discipline: Physics > Geomagnetism

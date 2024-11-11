@@ -1,0 +1,10 @@
+article_id: rsta_1995_0008
+revised_title: Computational Studies of Hydrogen-Related Complexes in Semiconductors
+semantic_tags:
+  - Computational chemistry
+  - Semiconductors
+  - Hydrogen bonding
+  - Density-functional theory
+  - Muon implantation
+tldr: This article discusses computational techniques for studying hydrogen-related complexes in semiconductors, focusing on the Hartree-Fock method and density-functional approach. The authors explore the equilibrium sites of acceptors and donors passivated by hydrogen or muonium in silicon and calculate vibrational frequencies of these passivation complexes. They also investigate the influence of gradient corrections to the local density approximation and the importance of accounting for correlation effects in open shell systems.
+scientific_discipline: Physics > Materials Science

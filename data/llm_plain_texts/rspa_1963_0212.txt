@@ -1,0 +1,10 @@
+article_id: rspa_1963_0212
+revised_title: 'Reflexion of a Pulse in a Solid Sphere: Analysis and Pulse Shape'
+semantic_tags:
+  - Elasticity
+  - Wave Equations
+  - Reflection
+  - Pulse Shape
+  - Kirchhoff's Formula
+tldr: This article investigates the reflexion of a pulse in a solid sphere using wave equations and boundary conditions. The authors calculate the pulse shape near the caustics and the axis, providing a method for estimating the initial values of the potentials immediately after reflexion. They also apply Kirchhoff's formula to obtain the pulse shape in terms of integrals involving the distribution.
+scientific_discipline: Physics > Elasticity

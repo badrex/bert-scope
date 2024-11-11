@@ -1,0 +1,10 @@
+article_id: 'rspb_1986_0027'
+revised_title: 'The Influence of Light Quantity on the Growth and Pigmentation of Planktonic Blue-Green Algae'
+semantic_tags:
+  - 'Algae Biology'
+  - 'Photosynthesis'
+  - 'Light Climate'
+  - 'Phycobiliproteins'
+  - 'Growth Rate'
+tldr: 'This study investigates the effect of varying light quantity on the growth and pigmentation of eight strains of planktonic blue-green algae. The research found that as light intensity increases, the concentration of chlorophyll and phycobiliproteins per cell decreases. However, at high irradiances, the algae reduce the synthesis of phycobiliproteins, maintaining maximum growth rates and preventing chlorophyll photooxidation. This adaptation helps the algae survive in the low light environment of productive lakes.'
+scientific_discipline: Biology and Life Sciences > Algae Biology

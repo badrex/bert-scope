@@ -1,0 +1,10 @@
+article_id: rspa_1992_0011
+revised_title: Electrodischarge Texturing of Steel Rolls: A Theoretical Model
+semantic_tags:
+  - Electrodischarge Machining
+  - Surface Texturing
+  - Steel Manufacturing
+  - Material Processing
+  - Surface Roughness
+tldr: This article presents a theoretical model for the surface texturing of steel rolls using electrodischarge machining. The model explains the process of texturing by analyzing the effects of various process parameters, such as the applied voltage, on-time, and gap width, on the surface roughness and peak count of the textured roll. The model provides an order of magnitude estimate of the peak count, which is in agreement with experimental values.
+scientific_discipline: Engineering and Technology > Material Processing

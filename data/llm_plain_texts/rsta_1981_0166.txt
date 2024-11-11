@@ -1,0 +1,10 @@
+article_id: 'rsta_1981_0166'
+revised_title: 'Bioelectrocatalysis: Applications in Electroenzymology and Biofuel Cells'
+semantic_tags:
+  - Electrochemistry
+  - Bioelectrocatalysis
+  - Enzyme Electrodes
+  - Electroenzymology
+  - Biofuel Cells
+tldr: This article discusses the use of biological materials as catalysts for electrochemical processes, focusing on bioelectrocatalysis. The author explains the importance of rapid electron transfer between enzymes and electrodes for successful bioelectrocatalysis, either directly or through the use of mediators. The article explores potential applications in electroenzymology, such as the catalysis of oxidations, and biofuel cells, which could provide an efficient and sustainable energy source.
+scientific_discipline: Chemistry > Electrochemistry

@@ -1,0 +1,10 @@
+article_id: 'rspb_1983_0099'
+revised_title: 'Cultured Rat Submandibular Ganglion Neurons and Their Responses to Acetylcholine'
+semantic_tags:
+  - Neuronal culture
+  - Acetylcholine receptors
+  - Patch clamp technique
+  - Ganglion neurons
+  - Pharmacology
+tldr: The article describes the culture of rat submandibular ganglion neurons and their macroscopic responses to acetylcholine. The neurons were grown in a controlled environment and their responses were recorded using the whole-cell voltage-clamp technique. The cultured neurons had similar characteristics to adult rat submandibular ganglion neurons, with resting potentials around -60mV and smaller responses to acetylcholine compared to adult neurons.
+scientific_discipline: Biology and Life Sciences > Neuroscience

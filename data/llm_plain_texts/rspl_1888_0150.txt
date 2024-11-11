@@ -1,0 +1,10 @@
+article_id: rspl_1888_0150
+revised_title: Exploring Varying Electrostatic Fields with a New Apparatus
+semantic_tags:
+  - Electromagnetism
+  - Electrostatics
+  - Induction
+  - Condenser
+  - Telephone receiver
+tldr: The author describes a new apparatus that can explore varying electrostatic fields. The device uses an iron annulus surrounded by a copper wire coil embedded in paraffin wax, with tinfoil coatings on glass plates as a condenser. The electric displacement through the iron annulus sets up magnetic forces and induction currents in the copper wire, which can be heard in a telephone receiver. This device may have other useful applications, such as investigating specific inductive capacities.
+scientific_discipline: Physics > Electromagnetism

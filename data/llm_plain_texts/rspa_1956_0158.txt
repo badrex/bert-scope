@@ -1,0 +1,10 @@
+article_id: rspa_1956_0158
+revised_title: Investigation of the Differential Stopping Power of Liquid Water for Alpha-Particles
+semantic_tags:
+  - Nuclear Physics
+  - Stopping Power
+  - Alpha-Particles
+  - Water
+  - Radiation Detection
+tldr: The authors developed a method to measure the differential stopping power of liquid water for alpha-particles with energies ranging from 4 to 6 MeV. They used a system with a capillary tube and a proportional counter to detect alpha-particles after traversing a water film. The results showed that the differential stopping power of water is in agreement with Bragg's law and is the same as that of an equivalent mixture of hydrogen and oxygen.
+scientific_discipline: Physics > Nuclear Physics

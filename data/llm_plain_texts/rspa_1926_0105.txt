@@ -1,0 +1,10 @@
+article_id: 'rspa_1926_0105'
+revised_title: 'Inter-traction: Horizontal Streaming and Fluid Dynamics'
+semantic_tags:
+  - Fluid dynamics
+  - Interfacial tension
+  - Molecular fields
+  - Surface tension
+  - Capillary action
+tldr: The author, Sir Almroth E. Wright, explores the phenomenon of inter-traction, which causes reciprocal instreaming of fluids. He describes a new technique using a filter paper disc and cover-glass to observe horizontal streaming and discusses its implications for understanding molecular fields and interfacial tension.
+scientific_discipline: Physics > Fluid Dynamics

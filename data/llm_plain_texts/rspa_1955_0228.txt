@@ -1,0 +1,10 @@
+article_id: rspa_1955_0228
+revised_title: 'Energy Loss of Protons Passing Through Hydrogen: A Detailed Analysis'
+semantic_tags:
+  - Atomic Physics
+  - Particle Acceleration
+  - Nuclear Physics
+  - Cross-Section Calculations
+  - Stopping Power
+tldr: The authors conducted a detailed analysis of the energy loss of protons passing through hydrogen using cross-section calculations involving protons and neutral hydrogen atoms. They compared the computed total energy loss with experimental data and discussed the accuracy of the Born approximation for heavy particle collisions. This study helps improve our understanding of the energy loss mechanisms in atomic hydrogen and contributes to the development of better theoretical models for charged particle interactions with matter.
+scientific_discipline: Physics > Atomic and Nuclear Physics

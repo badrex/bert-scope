@@ -1,0 +1,10 @@
+article_id: 'rsta_1903_0013'
+revised_title: 'Experimental Investigation of Temperature Effects on Critical Velocity in Pipe Flow'
+semantic_tags:
+  - Fluid dynamics
+  - Pipe flow
+  - Critical velocity
+  - Temperature effects
+  - Reynolds number
+tldr: This article presents an experimental study on the effect of temperature on the critical velocity of water flow in pipes. The authors found that the critical velocity decreases with increasing temperature, which is important for understanding fluid dynamics in pipes and optimizing pipe flow systems.
+scientific_discipline: Physics > Fluid Dynamics

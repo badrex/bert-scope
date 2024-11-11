@@ -1,0 +1,10 @@
+article_id: 'rspb_1983_0003'
+revised_title: 'Electrical Properties and Firing Patterns of Rat Supraoptic Neurons in Vitro'
+semantic_tags:
+  - Neuronal physiology
+  - Intracellular recording
+  - Hypothalamic slice preparation
+  - Electrical properties of neurons
+  - Synaptic activity
+tldr: The study investigates the electrical properties and firing patterns of neurons in the rat supraoptic nucleus using in vitro slice preparations. The researchers found that these neurons have an average cell time constant of 14 ms and can fire in different patterns, including continuous firing, phasic firing, and bursts of activity. The study also reveals that action potentials and synaptic activity can be blocked by divalent cations like Mg2+, Mn2+, and Co2+. These findings provide insights into the complex firing patterns and electrical properties of neurons in the rat supraoptic nucleus.
+scientific_discipline: Biology and Life Sciences > Neuroscience

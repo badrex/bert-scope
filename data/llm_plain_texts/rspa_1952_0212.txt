@@ -1,0 +1,10 @@
+article_id: rspa_1952_0212
+revised_title: Renormalization of Lattice Vibrations and Electron Interactions
+semantic_tags:
+  - Quantum Field Theory
+  - Lattice Vibrations
+  - Electron-Phonon Interaction
+  - Renormalization
+  - Superconductivity
+tldr: The author performs a canonical transformation on the Hamiltonian of free electrons in the field of lattice vibrations to account for the interaction between electrons and lattice vibrations. This transformation leads to a renormalization of the velocity of sound and the interaction parameter, resolving an objection by Wentzel against the use of large interaction values. The transformed Hamiltonian provides a more accurate representation of the energy of the ground state and offers insights into the behavior of metals and superconductivity.
+scientific_discipline: Physics > Solid State Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1977_0081
+revised_title: Quantum Vacuum Stress in Two-Dimensional Space-Time
+semantic_tags:
+  - Quantum Mechanics
+  - Quantum Field Theory
+  - Conformal Anomaly
+  - Stress Tensor
+  - Two-Dimensional Space-Time
+tldr: The authors prove the existence of a unique conserved stress tensor in two-dimensional quantum theory of massless scalar and spinor fields. They demonstrate that the stress tensor can be determined without regularization, and the results agree with earlier calculations using point-splitting regularization. This study contributes to understanding quantum vacuum stress and conformal anomalies in curved space-time.
+scientific_discipline: Physics > Quantum Mechanics

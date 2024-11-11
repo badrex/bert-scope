@@ -1,0 +1,10 @@
+article_id: rspa_1932_0162
+revised_title: 'Energy Distribution Among Positive Ions in Glow Discharge Through Gases'
+semantic_tags:
+  - Ion energy distribution
+  - Glow discharge
+  - Retarding potential method
+  - Electrostatic field analysis
+  - Positive ions
+tldr: The authors conducted experiments to study the energy distribution of positive ions at the cathode in a glow discharge through gases. They used a retarding potential method and an electrostatic field analysis to measure the energy distribution of positive ions. The results showed that ions with energies ranging from zero to the full energy corresponding to the potential across the discharge were present, with a maximum number of ions at low energies and a sharp decline at energies close to the cathode fall potential.
+scientific_discipline: Physics > Plasma Physics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0149'
+revised_title: 'Kin Selection Model for the Evolution of Virulence'
+semantic_tags:
+  - Evolutionary Biology
+  - Parasitology
+  - Host-Parasite Interactions
+  - Virulence
+  - Kin Selection
+tldr: The author presents a kin selection model for the evolution of virulence in parasites. The model suggests that parasites face a tradeoff between their hosts, which destroys their food supply, and the benefits of rapid growth and transmission. The model predicts that intermediate levels of virulence are often favored when the advantages of high transmission rates are weighed against the costs. This model provides specific predictions for the relationship between genetic variability and the evolution of virulence.
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

@@ -1,0 +1,10 @@
+article_id: rspa_1910_0044
+revised_title: The Recoil from Light: Experimental Investigation of Light Pressure on a Source
+semantic_tags:
+  - Light pressure
+  - Radiation pressure
+  - Experimental physics
+  - Optics
+  - Classical mechanics
+tldr: This article describes an experiment conducted by J.H. Poynting and Guy Barlow to measure the pressure of light against its source, known as the recoil from light. They used a series of discs with different configurations to study the pressure exerted by light on the source. The results showed that light pressure is a real phenomenon and has implications for understanding the interaction between light and matter.
+scientific_discipline: Physics > Optics

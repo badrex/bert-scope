@@ -1,0 +1,10 @@
+article_id: rspa_1980_0137
+revised_title: A Numerical Investigation of Vortex Sheet Rolling-Up
+semantic_tags:
+  - Fluid Dynamics
+  - Vortex Sheet
+  - Numerical Simulation
+  - Instability
+  - Fluid Mechanics
+tldr: This article presents a numerical investigation of the rolling-up of vortex sheets, focusing on the development of a vortex sheet due to an initially sinusoidal disturbance. The author integrates the equations of motion using a Runge-Kutta technique and discusses the effects of round-off errors and viscosity on the calculations. The study shows that a process of rolling-up of vorticity occurs, and the results provide insight into the behavior of vortex sheets in fluid dynamics.
+scientific_discipline: Physics > Fluid Dynamics

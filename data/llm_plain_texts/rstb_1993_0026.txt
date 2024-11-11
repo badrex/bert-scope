@@ -1,0 +1,10 @@
+article_id: 'rstb_1993_0026'
+revised_title: 'The Role of Heat-Shock Proteins in Thermotolerance'
+semantic_tags:
+  - Heat-shock proteins
+  - Thermotolerance
+  - Protein folding
+  - Protein degradation
+  - Molecular chaperones
+tldr: The article examines the role of heat-shock proteins (hsps) in thermotolerance using the budding yeast Saccharomyces cerevisiae and the fruit fly Drosophila melanogaster. The major protein responsible for thermotolerance in yeast is hsp 100, while in Drosophila, hsp 70 plays a more significant role. The hsp 100 family has been highly conserved in evolution, and the proteins serve an important role in thermotolerance in many organisms. The primary function of hsp 104 is to rescue proteins from denaturation rather than to degrade them once they have been denatured.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

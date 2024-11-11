@@ -1,0 +1,10 @@
+article_id: 'rstb_1995_0089'
+revised_title: 'AIDS Virus Transmission and Recombination in Primates'
+semantic_tags:
+  - 'Virology'
+  - 'Cross-species transmission'
+  - 'Recombination'
+  - 'HIV'
+  - 'SIV'
+tldr: The article discusses the cross-species transmission and recombination of 'AIDS' viruses, focusing on HIV-1 and HIV-2. Phylogenetic analyses indicate that cross-species transmission events have been frequent, with HIV-1 and HIV-2 appearing to have resulted from multiple transfers of lentiviruses naturally infecting other primates. The study also provides evidence of recombination between divergent viruses in vivo, which has important implications for HIV vaccine development programs.
+scientific_discipline: Biology and Life Sciences > Virology

@@ -1,0 +1,10 @@
+article_id: 105047
+revised_title: Experiments on Odours Passing Through Electrified Globes and Tubes
+semantic_tags:
+  - Electrochemistry
+  - Odor transmission
+  - Electrification
+  - Glass physics
+  - Electrical experiments
+tldr: The article discusses experiments conducted by Professor Winkler on the transmission of odors through electrified glass globes and tubes. He found that when certain substances were placed inside the globes and tubes and the globes were electrified, the odor of the substances could pass through the glass and be detected at a distance. The experiments were replicated in various locations, but the results were not consistent, leading to further investigation and the sharing of experimental methods and materials.
+scientific_discipline: Physics > Electrochemistry

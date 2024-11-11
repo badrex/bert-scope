@@ -1,0 +1,10 @@
+article_id: rspa_1978_0057
+revised_title: 'Influence of Particle Solubility and Inhomogeneities on Precipitation Kinetics in Crystals'
+semantic_tags:
+  - Crystal growth
+  - Precipitation kinetics
+  - Solubility
+  - Inhomogeneities
+  - Dislocations
+tldr: The authors studied the effect of particle solubility and inhomogeneities on the kinetics of precipitation in crystals. They found that the solubility of a precipitate particle in a matrix depends on its radius, which affects the solute currents and the growth rate. Inhomogeneities in the distribution of particles cause different groups to grow with different relaxation times, leading to precipitation curves that can be explained by considering factors such as surface reaction kinetics, bulk diffusion, and the influence of dislocations. The study provides a better understanding of precipitation processes in crystals and helps to explain discrepancies between theoretical models and experimental observations.
+scientific_discipline: Materials Science > Crystal Growth and Defects

@@ -1,0 +1,10 @@
+article_id: 'rspa_1937_0240'
+revised_title: 'Optical Activity in Ketones: Rotatory Dispersion and Circular Dichroism of m-Methyl Cyclohexanone and Pulegone'
+semantic_tags:
+  - 'Optical activity'
+  - 'Rotatory dispersion'
+  - 'Circular dichroism'
+  - 'Ketones'
+  - 'Carbonyl group'
+tldr: 'The authors studied the optical activity, rotatory dispersion, and circular dichroism of m-methyl cyclohexanone and pulegone. They found that the optical activity of ketones is mainly due to the electrons of the carbonyl group and not directly to the asymmetric carbon atoms. The results showed that the rotatory power is mainly a function of electrons associated with the carbonyl group, and the circular dichroism is generally confined to the longer wavelengths in the carbonyl absorption band.'
+scientific_discipline: Chemistry > Organic Chemistry

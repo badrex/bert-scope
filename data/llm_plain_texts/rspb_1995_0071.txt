@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0071'
+revised_title: 'Inward Rectification Mechanisms in Neuronal Nicotinic Acetylcholine Receptors'
+semantic_tags:
+  - Ion channels
+  - Neurophysiology
+  - Nicotinic acetylcholine receptors
+  - Voltage dependency
+  - Rectification
+tldr: The authors investigated the inward rectification of neuronal nicotinic acetylcholine receptors using homomeric α7 receptors expressed in Xenopus laevis oocytes. They found that negatively charged glutamate residues at the inner mouth of the channel are essential for rectification. The results suggest that rectification is partly due to open channel block by internal free Mg2+ ions, with the remaining voltage dependence unlikely to result from intrinsic gating.
+scientific_discipline: Biology and Life Sciences > Neurobiology

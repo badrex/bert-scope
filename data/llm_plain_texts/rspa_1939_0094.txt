@@ -1,0 +1,10 @@
+article_id: rspa_1939_0094
+revised_title: 'X-ray Diffraction Anomalies in Crystals at Elevated Temperatures'
+semantic_tags:
+  - X-ray diffraction
+  - Crystallography
+  - High-temperature effects
+  - Materials science
+  - Crystal defects
+tldr: The authors investigate the diffraction of X-rays by crystals at elevated temperatures and observe that the intensity of anomalous streaks on Laue photographs increases with temperature. They provide experimental evidence using aluminum, rocksalt, periclase, and diamond crystals and discuss the possible causes of these streaks. The findings contribute to the understanding of crystal defects and materials science.
+scientific_discipline: Physics > Materials Science

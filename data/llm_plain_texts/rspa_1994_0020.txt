@@ -1,0 +1,10 @@
+article_id: rspa_1994_0020
+revised_title: Pressure Drop in Helical Pipes: An Experimental Study
+semantic_tags:
+  - Fluid Dynamics
+  - Helical Pipes
+  - Pressure Drop
+  - Laminar Flow
+  - Turbulence
+tldr: This study investigates the pressure drop in helical pipes with varying pitch and curvature ratios. The results show that the pressure drop is proportional to the square root of the Dean number, confirming earlier theories. The research also examines the transition to turbulent flow in helical pipes, finding that the critical Reynolds number is higher than in straight pipes. The findings provide valuable insights into the behavior of fluids in helical pipes, with potential applications in engineering and technology.
+scientific_discipline: Engineering and Technology > Fluid Dynamics

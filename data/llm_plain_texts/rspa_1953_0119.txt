@@ -1,0 +1,10 @@
+article_id: rspa_1953_0119
+revised_title: New Calculations on the Ethylene Molecule's Structure and Properties
+semantic_tags:
+  - Quantum Chemistry
+  - Molecular Orbital Theory
+  - Ethylene
+  - Spectroscopy
+  - Chemical Bonding
+tldr: The authors present a new approach to understanding the electronic structure of the ethylene molecule using the method of atoms in molecules. They focus on the unsaturation electrons and calculate the location of absorption bands, which aligns well with the observed spectrum. This method offers improvements over previous calculations and provides a more accurate representation of the ethylene molecule's properties.
+scientific_discipline: Chemistry > Quantum Chemistry

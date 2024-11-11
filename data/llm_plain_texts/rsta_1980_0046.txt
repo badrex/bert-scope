@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0046'
+revised_title: 'Doppler Tracking and Geodetic Applications: Adjusting the Primary Triangulation of Great Britain'
+semantic_tags:
+  - Satellite Doppler tracking
+  - Geodesy
+  - Triangulation
+  - Geodetic framework
+  - Geodetic reference system
+tldr: The authors compared satellite Doppler tracking data with the primary triangulation of Great Britain to improve the geodetic framework. They adjusted the terrestrial observations and Doppler positional data simultaneously, resulting in a more accurate and consistent coordinate system. The study found a significant scale discrepancy between the satellite and terrestrial systems, which was corrected by scaling up the terrestrial distances. This improved the accuracy of the geodetic network and provided a better understanding of the potential errors in the system.
+scientific_discipline: Geodesy > Geodetic Reference Systems

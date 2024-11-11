@@ -1,0 +1,10 @@
+article_id: 110976
+revised_title: On the Solution of Linear Differential Equations
+semantic_tags:
+  - Differential Equations
+  - Mathematical Analysis
+  - Applied Mathematics
+  - Linear Algebra
+  - Calculus
+tldr: The author presents a method for solving linear differential equations using two theorems that express the laws of differentiation. The method is applied to various types of equations, including those of the first, second, and higher orders, and partial linear differential equations. The solutions obtained are subject to certain restrictions but can be converted into definite integrals in some cases.
+scientific_discipline: Mathematics > Applied Mathematics

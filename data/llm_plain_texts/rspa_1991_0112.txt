@@ -1,0 +1,10 @@
+article_id: rspa_1991_0112
+revised_title: Quadratic Autocatalysis with Quadratic Decay: Travelling Waves in a Simple Isothermal Chemical System
+semantic_tags:
+  - Chemical kinetics
+  - Reaction-diffusion
+  - Travelling waves
+  - Autocatalysis
+  - Non-dimensional parameter
+tldr: This article discusses the development of travelling waves in a simple isothermal chemical system with quadratic autocatalysis and quadratic decay. It shows that a travelling wave can be initiated for all values of the non-dimensional ratio of decay to autocatalytic reaction rates, and examines the structure of these travelling waves, their speed, and the limits of the system.
+scientific_discipline: Chemistry > Chemical kinetics

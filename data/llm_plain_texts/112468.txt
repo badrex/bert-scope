@@ -1,0 +1,10 @@
+article_id: 112468
+revised_title: Lunar-Diurnal Variation of Magnetic Declination: A Reexamination
+semantic_tags:
+  - Geomagnetism
+  - Lunar and Solar Variations
+  - Magnetic Declination
+  - Earth's Magnetic Field
+  - Observational Astronomy
+tldr: The author, J. A. Broun, discusses the lunar-diurnal variation of magnetic declination and its relation to the solar-diurnal variation. He explains that the lunar-diurnal variation becomes inverted when the sun passes from one hemisphere to another, and that this inversion is also observed in the solar-diurnal variation. Broun also notes that the mean law for a north latitude should be the inverse of that for a south latitude, and that a maximum of easterly declination in one hemisphere should be simultaneous or nearly so with a minimum in the other.
+scientific_discipline: Earth Sciences > Geomagnetism

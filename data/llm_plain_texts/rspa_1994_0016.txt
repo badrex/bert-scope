@@ -1,0 +1,10 @@
+article_id: rspa_1994_0016
+revised_title: Subharmonic Resonance and Trapped Waves in Venice Lagoon Storm Gates
+semantic_tags:
+  - Wave mechanics
+  - Fluid dynamics
+  - Trapped modes
+  - Subharmonic resonance
+  - Storm barriers
+tldr: The authors study the resonance mechanism of storm gates designed for the Venice Lagoon. They identify the existence of trapped modes as a consequence of the gates' articulated construction and show that subharmonic resonance can occur due to normally incident waves. The authors provide a new inviscid theory of trapped modes and present experimental evidence confirming the natural frequency predicted by the theory.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

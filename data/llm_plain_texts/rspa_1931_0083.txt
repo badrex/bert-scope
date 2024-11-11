@@ -1,0 +1,10 @@
+article_id: rspa_1931_0083
+revised_title: 'Effects of an Electric Field on Flame Propagation in Dry Carbonic Oxide-Oxygen Mixtures'
+semantic_tags:
+  - Plasma physics
+  - Combustion
+  - Electrostatics
+  - Gas combustion
+  - Flame behavior
+tldr: The authors conducted experiments on the effects of an electric field on the combustion of dry carbonic oxide-oxygen mixtures. They discovered that the electric field influenced the flame's behavior, with flames moving faster towards the negative pole. The results suggest that the electric field affects the distribution of ions and particles in the flame, leading to differences in combustion rates.
+scientific_discipline: Physics > Plasma Physics

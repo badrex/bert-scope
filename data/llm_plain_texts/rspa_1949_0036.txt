@@ -1,0 +1,10 @@
+article_id: rspa_1949_0036
+revised_title: Ionospheric Applications of Electronic Motion in Gases
+semantic_tags:
+  - Ionosphere
+  - Radio wave interaction
+  - Electronic motion
+  - Atmospheric physics
+  - Rocket soundings
+tldr: This article explores the behavior of slow electrons in air and its applications to ionospheric studies. The author combines experimental data from rocket soundings with measurements of wave interaction in the ionosphere and laboratory data to estimate the height at which wave interaction occurs and the collisional frequency. The study also discusses the theory of electronic motion in direct and alternating fields and the interaction of radio waves in the ionosphere.
+scientific_discipline: Physics > Atmospheric Physics

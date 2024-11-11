@@ -1,0 +1,10 @@
+article_id: 'rspb_1968_0060'
+revised_title: 'Adaptation and Composition Changes in Rhodopseudomonas spheroides'
+semantic_tags:
+  - Microbiology
+  - Photosynthesis
+  - Bacteriochlorophyll
+  - Enzyme activity
+  - Adaptation in microorganisms
+tldr: The authors studied the adaptation and composition changes in Rhodopseudomonas spheroides when grown under different conditions. They found that anaerobically grown cells have a different composition than cells grown under oxygen, with a major increase in protein and phospholipid content. The authors also observed that during adaptation to semi-anaerobic conditions, there is a significant increase in particulate protein, phospholipid, and enzymes related to bacteriochlorophyll synthesis before the formation of photopigments or chromatophores.
+scientific_discipline: Biology and Life Sciences > Microbiology

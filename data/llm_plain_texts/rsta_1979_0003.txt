@@ -1,0 +1,10 @@
+article_id: rsta_1979_0003
+revised_title: Acoustic Destabilization of Vortices: A Study on Fluid Dynamics
+semantic_tags:
+  - Fluid Dynamics
+  - Vortex Acoustics
+  - Instability
+  - Turbulence
+  - Mixing Layers
+tldr: This article explores the acoustic destabilization of vortices in fluid dynamics. The authors analyze the interaction between vortices and sound waves, demonstrating how acoustic radiation can carry energy away and cause instability. They also discuss the implications of these findings for turbulence and mixing layers in fluid systems.
+scientific_discipline: Physics > Fluid Dynamics

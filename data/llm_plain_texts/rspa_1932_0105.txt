@@ -1,0 +1,10 @@
+article_id: rspa_1932_0105
+revised_title: Fine Structure Analysis of Bromine and Iodine Arc Spectra
+semantic_tags:
+  - Atomic Physics
+  - Spectroscopy
+  - Isotopes
+  - Quantum Mechanics
+  - Chemical Elements
+tldr: The authors studied the fine structures of bromine and iodine arc spectra using a high-frequency electrodeless discharge and a Fabry-Perot interferometer. They discovered that the two isotopes of bromine have the same nuclear spin and confirmed the nuclear spin of iodine. The study also revealed that the interval rule holds closely in lines with a small upper interval factor.
+scientific_discipline: Physics > Atomic Physics

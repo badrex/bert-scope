@@ -1,0 +1,10 @@
+article_id: 'rspb_1938_0027'
+revised_title: 'Investigating the Polarization of a Calomel Electrode'
+semantic_tags:
+  - Electrochemistry
+  - Calomel electrode
+  - Polarization
+  - Electrode resistance
+  - Electrode potential
+tldr: The author investigates the polarization of a calomel electrode and defines the limits within which it remains unaffected by electric current. They find that the calomel electrode's resistance changes when current affects it, which is important in bio-electric measurement and stimulation. The study helps to understand the behavior of the calomel electrode and its potential applications.
+scientific_discipline: Chemistry > Electrochemistry

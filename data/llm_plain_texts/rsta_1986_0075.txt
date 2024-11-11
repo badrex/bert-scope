@@ -1,0 +1,10 @@
+article_id: rsta_1986_0075
+revised_title: 'Advanced Electron Energy Loss Spectroscopy Techniques for Solid Surface Analysis'
+semantic_tags:
+  - Electron microscopy
+  - Electron spectroscopy
+  - Solid surface analysis
+  - Chemical composition
+  - Electronic structure
+tldr: The article discusses the use of electron energy loss spectroscopy with an electron microscope to analyze the surfaces of solids. The technique allows for the determination of a sample's elemental composition, electronic structure, and interatomic distances. It also provides information about the local coordination of different atoms and the electronic properties of the solid in momentum space. The method is demonstrated through various examples, including the identification of elements in metallic states and the analysis of whiskers and hydrides.
+scientific_discipline: Physics > Optics

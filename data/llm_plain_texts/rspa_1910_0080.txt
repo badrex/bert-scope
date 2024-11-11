@@ -1,0 +1,10 @@
+article_id: rspa_1910_0080
+revised_title: 'The Distribution of Stars and the Limitations of Observations'
+semantic_tags:
+  - Astrophysics
+  - Star distribution
+  - Observational astronomy
+  - Stellar parallax
+  - Proper motion
+tldr: The author analyzes the distribution of stars based on their parallax and proper motion, concluding that the observed data is insufficient to determine the distribution of stars in space. The limitations of current observations are discussed, including the lack of systematic searches for stars beyond a certain magnitude and the challenges in defining double stars.
+scientific_discipline: Astronomy > Observational Astronomy

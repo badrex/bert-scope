@@ -1,0 +1,10 @@
+article_id: 'rsta_1902_0005'
+revised_title: 'On the Mathematical Theory of Errors of Judgment and Personal Equation'
+semantic_tags:
+  - Statistics
+  - Error Theory
+  - Personal Equation
+  - Correlation
+  - Observational Errors
+tldr: The author investigates the mathematical theory of errors in judgment and personal equation, focusing on the correlation between judgments made by independent observers. They introduce new terminology and discuss the importance of considering both the absolute and relative errors in judgment when analyzing observational data. The author also emphasizes the need to account for the correlation between judgments when combining observations made by different observers.
+scientific_discipline: Social Sciences > Statistics

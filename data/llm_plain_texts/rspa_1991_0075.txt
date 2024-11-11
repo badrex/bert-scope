@@ -1,0 +1,10 @@
+article_id: rspa_1991_0075
+revised_title: 'Kolmogorov's Ideas on Turbulence: Local Structure and Isotropy in Incompressible Fluids'
+semantic_tags:
+  - Fluid Dynamics
+  - Turbulence
+  - Isotropy
+  - Reynolds Number
+  - Viscosity
+tldr: This article discusses the local structure and isotropy of turbulence in incompressible fluids with very large Reynolds numbers. The author, A.N. Kolmogorov, presents ideas and hypotheses on how turbulence can be understood and analyzed, including the concept of local isotropy and the role of viscosity in the process. The article also explores the energy dispersion and the behavior of fine pulsations in turbulent flows.
+scientific_discipline: Physics > Fluid Dynamics

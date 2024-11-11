@@ -1,0 +1,11 @@
+article_id: rsta_1981_0155
+revised_title: Erratum: A Study of Coupled Gravitational and Electromagnetic Perturbations to the Reissner-Nordström Black Hole
+semantic_tags:
+  - Black Holes
+  - Gravitational Perturbations
+  - Electromagnetic Perturbations
+  - Reissner-Nordström Geometry
+  - Scattering Matrix
+  - Quasi-Normal Modes
+tldr: This erratum corrects the phase shifts of reflected waves in the Reissner-Nordström black hole perturbation study. The error occurred during table compilation, but the other results and conclusions remain unaffected. The corrected phase shifts do not alter the conversion coefficients or figures.
+scientific_discipline: Physics > Gravitational Waves

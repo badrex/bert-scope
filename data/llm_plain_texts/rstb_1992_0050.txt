@@ -1,0 +1,9 @@
+article_id: rstb_1992_0050
+revised_title: Understanding the Mechanism of DNA Polymerase Fidelity and Conformational Coupling
+semantic_tags:
+  - DNA polymerase
+  - Conformational change
+  - Enzyme kinetics
+  - Molecular biology
+  - Biochemistry
+tldr: This article explores the mechanism behind DNA polymerase fidelity and the role of conformational changes in the enzyme's function. The author examines the kinetics and thermodynamics of T7 DNA polymerase, focusing on the selectivity of nucleotide binding and the conformational change that occurs upon correct base pairing. The study provides insights into how the enzyme checks for proper Watson-Crick base-pairing geometry and how it uses binding energy for enzymatic specificity and catalytic efficiency.

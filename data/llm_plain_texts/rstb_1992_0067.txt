@@ -1,0 +1,10 @@
+article_id: 'rstb_1992_0067'
+revised_title: 'The Role of Perceptual Grouping in Modulation Discrimination Interference'
+semantic_tags:
+  - Auditory Perception
+  - Modulation Discrimination Interference
+  - Perceptual Grouping
+  - Auditory Grouping
+  - Sound Processing
+tldr: 'The authors investigated the role of perceptual grouping in modulation discrimination interference (MDI), a phenomenon where the ability to detect changes in modulation patterns of sounds is affected by the presence of other modulated sounds. They found that two factors contribute to MDI: difficulty in hearing a pitch corresponding to the target frequency, which is strongly affected by perceptual grouping, and a specific difficulty in hearing the modulation of the target, or distinguishing it from the modulation of other sounds present. The results suggest that perceptual grouping plays a significant role in MDI.'
+scientific_discipline: Psychology > Auditory Perception

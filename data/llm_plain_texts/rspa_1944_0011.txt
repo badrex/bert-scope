@@ -1,0 +1,10 @@
+article_id: rspa_1944_0011
+revised_title: Asymptotic Formulae in Crystal Physics
+semantic_tags:
+  - Crystallography
+  - Lattice Dynamics
+  - Asymptotic Analysis
+  - Fourier Series
+  - Solid State Physics
+tldr: The authors examine methods of approximation used in the physical theory of crystals and address the controversy surrounding the validity of the accepted theory. They show that the frequency distribution of a vibrating crystal follows Born's law for cyclic crystals and provide upper bounds for the errors caused by these approximations.
+scientific_discipline: Physics > Solid State Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1954_0091
+revised_title: The Role of Light Quanta in the Electric Breakdown of Gases: A New Perspective
+semantic_tags:
+  - Electric Breakdown
+  - Gas Discharge
+  - Light Quanta
+  - Neon
+  - Quantum Multiplication
+scientific_discipline: Physics > Electromagnetism
+tldr: This article investigates the electric breakdown of gases, specifically neon, at various pressures and wavelengths. The authors discovered that the starting field for breakdown is influenced by the concentration of excited atoms, which can multiply both electrons and light quanta. This new understanding of the breakdown process can have implications for other types of discharges in different gases.

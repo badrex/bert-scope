@@ -1,0 +1,10 @@
+article_id: 110280
+revised_title: The Thermostat: A Self-Acting Physical Apparatus for Regulating Temperature
+semantic_tags:
+  - Thermodynamics
+  - Temperature regulation
+  - Heat Governor
+  - Metals expansion
+  - Temperature control devices
+tldr: The author, Andrew Ure, describes a self-acting physical apparatus called the Thermostat or Heat Governor, which regulates temperature based on the principle of unequal expansion of different metals by heat. The device can be used to control the opening of dampers, letting in cold air or water, or closing fireplace draught.
+scientific_discipline: Physics > Thermodynamics

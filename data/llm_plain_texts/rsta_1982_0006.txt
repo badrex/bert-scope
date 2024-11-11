@@ -1,0 +1,10 @@
+article_id: 'rsta_1982_0006'
+revised_title: 'Gauge Theories and the Quest for Grand Unification'
+semantic_tags:
+  - Gauge Theories
+  - Grand Unification
+  - Particle Physics
+  - Standard Model
+  - Fundamental Interactions
+tldr: This article discusses the limitations of the standard SU(3)SU(2) model and explores the philosophy of grand unification in gauge theories. It presents simple grand unified theories based on the groups SU and SO(10) and calculates the order of magnitude of the fine-structure constant. The article also predicts nucleon decay and neutrino masses, which may be observable in the near future, and discusses the baryon asymmetry of the universe and the potential for measuring a neutron electric dipole moment.
+scientific_discipline: Physics > Particle Physics

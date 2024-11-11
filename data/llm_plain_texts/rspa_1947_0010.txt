@@ -1,0 +1,10 @@
+article_id: rspa_1947_0010
+revised_title: Impact Sensitivity of Liquid Explosives and the Role of Entrapped Gas Spaces
+semantic_tags:
+  - Explosives
+  - Impact sensitivity
+  - Gas bubbles
+  - Adiabatic compression
+  - Liquid explosives detonation
+tldr: The authors investigated the impact sensitivity of liquid explosives and found that the high sensitivity is due to the entrapping of minute gas spaces in the explosive. The adiabatic compression of these gas bubbles during impact initiates the explosion. The study highlights the importance of preventing the inclusion of small gas bubbles to avoid unintended detonations.
+scientific_discipline: Physics > Mechanics

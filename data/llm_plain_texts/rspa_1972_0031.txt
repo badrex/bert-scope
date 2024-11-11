@@ -1,0 +1,10 @@
+article_id: rspa_1972_0031
+revised_title: 'Decomposition of Tetramethyl-Lead and Formation of Lead Oxide Particles in Shock-Tube Studies'
+semantic_tags:
+  - 'Chemistry'
+  - 'Reaction kinetics'
+  - 'Shock tubes'
+  - 'Lead oxide formation'
+  - 'Tetramethyl-lead decomposition'
+tldr: 'This study investigates the decomposition of tetramethyl-lead and the formation of lead oxide particles using shock-tube experiments. The rate of decomposition was measured over a temperature range of 890 to 1000K and found to be first-order with a rate constant of (1.260.4)-(9.00.4). The presence of oxygen did not affect the rate of decomposition. The study also discusses the processes involved in the formation of lead oxide particles and their relevance to the behavior of lead alkyls in delaying spontaneous ignition of hydrocarbons.'
+scientific_discipline: Chemistry > Reaction kinetics

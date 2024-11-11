@@ -1,0 +1,10 @@
+article_id: rspa_1967_0119
+revised_title: 'Nonlinear Theory of Wave Propagation in Dispersive Systems: Applications to Water Waves'
+semantic_tags:
+  - Wave theory
+  - Dispersive systems
+  - Water waves
+  - Variational methods
+  - Fluid dynamics
+tldr: This paper discusses the use of variational methods in the theory of nonlinear dispersive waves, with a focus on water waves. The author presents the appropriate variational principle for water waves and derives long-wave approximations, such as the Boussinesq and Korteweg-de Vries equations. The paper also explores resonant near-linear interactions and the author's theory of slowly varying wavetrains, which are applied to Stokes's waves. Finally, the paper demonstrates how more general dispersive relations can be formulated using integro-differential equations, with an application to understanding the breaking of water waves.
+scientific_discipline: Physics > Fluid Dynamics

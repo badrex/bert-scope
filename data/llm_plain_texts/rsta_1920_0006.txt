@@ -1,0 +1,10 @@
+article_id: rsta_1920_0006
+revised_title: Scattering of Plane Electric Waves by Spheres
+semantic_tags:
+  - Electromagnetic Waves
+  - Wave Scattering
+  - Electromagnetic Theory
+  - Spherical Coordinates
+  - Electromagnetic Fields
+tldr: The author presents a general solution to the problem of scattering of plane electric waves by spheres using spherical polar coordinates. The study focuses on the electric and magnetic forces in the directions of the axes of reference and provides a comprehensive analysis of the field in terms of these forces. The findings can be applied to various scenarios, including those involving divergent waves and waves within a spherical boundary.
+scientific_discipline: Physics > Electromagnetic Theory

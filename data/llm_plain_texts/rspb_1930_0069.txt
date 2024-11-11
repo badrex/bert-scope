@@ -1,0 +1,11 @@
+article_id: 'rspb_1930_0069'
+revised_title: 'The Nature of Gelatin Solutions and Gels: Light Scattering and Molecular Aggregation'
+semantic_tags:
+  - Protein solutions
+  - Gelatin
+  - Light scattering
+  - Ultracentrifugation
+  - Molecular aggregation
+tldr: This study investigates the effect of temperature on the intensity and depolarization of light scattered by gelatin sols and gels. The authors propose that gelatin sols are polydisperse systems with molecularly dispersed gelatin and polymolecular micelles. They also examine the variation in the intensity of scattered light with gelatin sols and gels' concentration and discuss the molecular state of gelatin in sols. The authors provide an explanation for the observed changes in depolarization and the role of acid or base in preventing gelatin precipitation.
+scientific_discipline: Chemistry > Biochemistry
+```

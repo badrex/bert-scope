@@ -1,0 +1,10 @@
+article_id: rspa_1959_0213
+revised_title: Performance, Control, and Guidance of Satellite Vehicles: A Discussion on Space Research
+semantic_tags:
+  - Space Research
+  - Satellite Technology
+  - Rocket Propulsion
+  - Satellite Stabilization
+  - Satellite Control Systems
+tldr: This article discusses the performance, control, and guidance of satellite vehicles, focusing on the next steps in technology to apply satellites to scientific observations. It explores various aspects of satellite stabilization, control systems, and the importance of deciding on the required scientific observations to optimize satellite design and function.
+scientific_discipline: Engineering and Technology > Spacecraft Engineering

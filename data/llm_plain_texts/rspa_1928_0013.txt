@@ -1,0 +1,10 @@
+article_id: 'rspa_1928_0013'
+revised_title: 'A Study on the Relationship Between Photoelectric Emissivity and Sparking Potentials'
+semantic_tags:
+  - Photoelectric effect
+  - Sparking potentials
+  - Cathode modification
+  - Intensive purification
+  - Discharge tube system
+tldr: The authors conducted experiments to study the relationship between photoelectric emissivity and sparking potentials. They found that the sparking potential is a function of the photoelectric emissivity of the cathode. The authors also discovered that the gas layer on the cathode surface undergoes slow changes, affecting the photoelectric emissivity and sparking potential. This research provides a convenient method for studying sparking potentials and offers insights into the behavior of cathode modifications under different conditions.
+scientific_discipline: Physics > Electromagnetism

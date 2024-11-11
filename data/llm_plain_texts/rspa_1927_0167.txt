@@ -1,0 +1,10 @@
+article_id: rspa_1927_0167
+revised_title: 'Catalysis by Nickel of Hydrogen and Oxygen Union: A New Method'
+semantic_tags:
+  - Catalysis
+  - Nickel
+  - Oxidation
+  - Accommodation coefficient
+  - Surface chemistry
+tldr: The authors investigated the catalytic activity of nickel in the reaction between hydrogen and oxygen. They discovered a new method to test whether a metallic surface is covered with an oxide layer by measuring the accommodation coefficient of hydrogen. The results showed that the rate of formation of water in contact with a nickel surface covered with a thin layer of oxide is similar to the rate in contact with visibly oxidized metal under the same conditions.
+scientific_discipline: Chemistry > Surface chemistry

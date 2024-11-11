@@ -1,0 +1,10 @@
+article_id: 'rstl_1876_0009'
+revised_title: 'Multiple Contact of Surfaces: A Geometric Analysis'
+semantic_tags:
+  - Geometry
+  - Algebraic Geometry
+  - Surface Contact
+  - Contact Geometry
+  - Differential Geometry
+tldr: This article explores the conditions for multiple contact between surfaces, specifically focusing on quadrics. The author presents a geometric analysis of the problem and provides equations for determining the contact points and conditions. The findings have implications for understanding the intersection and contact of various surfaces in geometry and algebraic geometry.
+scientific_discipline: Mathematics > Geometry

@@ -1,0 +1,10 @@
+article_id: '110544'
+revised_title: 'Investigations on Voltaic Combinations and Temperature Effects'
+semantic_tags:
+  - Electrochemistry
+  - Batteries
+  - Temperature effects
+  - Electrolytes
+  - Secondary currents
+tldr: The author, John Frederick Daniell, conducted experiments on voltaic combinations and the effects of temperature on their performance. He discovered that the increased effect of the current was mainly due to the increased energy of affinity, producing a greater electromotive force. Daniell also found that the resistance to the passage of the current was diminished by dissolving the sulfate of copper in contact with the copper in the standard sulfuric acid. He developed an improved apparatus using porous earthenware tubes and sockets, which allowed for easier removal and replacement of the tubes, and determined that the increase of effect consequent on an augmentation of temperature is but in a slight degree dependent on an increase of conducting power in the electrolyte.
+scientific_discipline: Chemistry > Electrochemistry

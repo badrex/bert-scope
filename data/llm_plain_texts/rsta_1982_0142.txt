@@ -1,0 +1,10 @@
+article_id: 'rsta_1982_0142'
+revised_title: 'Heteronuclear Cluster Compounds: Synthesis, Properties, and Reactions'
+semantic_tags:
+  - Organometallic Chemistry
+  - Cluster Compounds
+  - Transition Metal Chemistry
+  - Metal-Metal Bonding
+  - Cluster Reactivity
+tldr: The article discusses the synthesis, properties, and reactivity of heteronuclear cluster compounds, which involve multiple metal atoms and other elements. These compounds can be synthesized through various methods, including step-by-step construction, fragment combination, and metal exchange. They exhibit unique properties, such as electron distribution and chirality, and can undergo various reactions, like unfolding, substrate addition, and capping. Heteronuclear cluster compounds have potential applications in catalysis and the study of metal-metal bonding.
+scientific_discipline: Chemistry > Organometallic Chemistry

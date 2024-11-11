@@ -1,0 +1,10 @@
+article_id: rspa_1940_0110
+revised_title: 'Thermal Diffusion Characteristics and Their Dependence on Molecular Properties'
+semantic_tags:
+  - Thermal diffusion
+  - Gas mixtures
+  - Molecular forces
+  - Molecular masses
+  - Molecular diameters
+tldr: This article examines the characteristics of thermal diffusion in gas mixtures and how they depend on molecular properties such as mass and diameter. The author discusses the factors that influence the thermal diffusion ratio and provides expressions for appropriate coefficients in various special cases. The study has implications for understanding the separation of isotopes using thermal diffusion.
+scientific_discipline: Physics > Thermodynamics

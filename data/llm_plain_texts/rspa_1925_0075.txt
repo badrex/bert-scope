@@ -1,0 +1,10 @@
+article_id: 'rspa_1925_0075'
+revised_title: 'An Electrical Method for Studying Impact on Struck Strings'
+semantic_tags:
+  - Impact mechanics
+  - Electrical resistance
+  - Vibration
+  - Struck strings
+  - Contact pressure
+tldr: 'The authors present an electrical method to study impact on struck strings, focusing on the influence of contact pressure, hammer vibration, and the properties of the string. They aim to determine the relationship between impact pressure and electrical resistance, which could help improve understanding of the behavior of musical instruments and other impacted systems.'
+scientific_discipline: Physics > Mechanics

@@ -1,0 +1,10 @@
+article_id: rspa_1966_0124
+revised_title: Stability of Coplanar Dislocation-Type Cracks in Solids
+semantic_tags:
+  - Fracture mechanics
+  - Dislocation theory
+  - Elasticity
+  - Materials science
+  - Solid mechanics
+tldr: The article examines the stability of two coplanar wedge-shaped cracks in solids and demonstrates the conditions under which interaction effects are important. The authors use a dislocation distribution function to describe the opening of the cracks and derive the crack extension condition based on the total energy of the system. The study is relevant to understanding the conditions for complete fracture of materials, particularly in the context of cleavage fracture in crystalline solids like steels.
+scientific_discipline: Materials Science > Fracture Mechanics

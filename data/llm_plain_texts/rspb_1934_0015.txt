@@ -1,0 +1,10 @@
+article_id: 'rspb_1934_0015'
+revised_title: 'Oxidation-Reduction Potentials of Cytochrome C: Quinhydrone Interactions'
+semantic_tags:
+  - Biochemistry
+  - Cytochrome C
+  - Oxidation-Reduction Potentials
+  - Quinhydrone
+  - Spectroscopy
+tldr: 'The authors studied the oxidation-reduction potentials of cytochrome C and its interaction with quinhydrone. They found that quinhydrone partially reduced oxidized cytochrome and partially oxidized reduced cytochrome. The extent of reduction by quinhydrone in alkaline solution was much greater than the potential measurements of cytochrome predicted. The study also revealed that the change from the reduced to the oxidized form of cytochrome involved only a single equivalent, and it lies on the oxidation-reduction scale intermediate between methylene blue and the indophenols in the physiological range.'
+scientific_discipline: 'Biology and Life Sciences > Biochemistry'

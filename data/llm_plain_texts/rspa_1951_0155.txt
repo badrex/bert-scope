@@ -1,0 +1,10 @@
+article_id: 'rspa_1951_0155'
+revised_title: 'Discovery of a New Iron-Nitride Phase in the Decomposition of Nitrogen-Martensite'
+semantic_tags:
+  - Iron-Nitride Alloy
+  - Crystal Structure
+  - Martensite Tempering
+  - Interstitial Alloy
+  - Nitrogen-Metallurgy
+tldr: The author discovered a new type of interstitial alloy, a*-iron nitride, during the tempering of nitrogen-martensite. The crystal structure of this new phase contains eight distorted and expanded body-centered tetragonal units of the original martensite structure. The iron atoms are displaced due to the presence of nitrogen atoms occupying one twenty-fourth of the number of octahedral interstices in a completely ordered manner. This discovery sheds light on the tempering mechanisms of iron-nitrogen systems and the formation of new types of disorder-order changes.
+scientific_discipline: Materials Science > Alloy Formation and Properties

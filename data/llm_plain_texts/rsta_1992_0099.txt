@@ -1,0 +1,10 @@
+article_id: 'rsta_1992_0099'
+revised_title: 'Advancements in Modelling Solid Catalysts and their Surface Processes'
+semantic_tags:
+  - 'Catalysis'
+  - 'Solid Catalysts'
+  - 'Zeolitic Catalysts'
+  - 'Metal Oxide Catalysts'
+  - 'Computational Modelling'
+tldr: 'The authors discuss the role of computational modelling in studying solid heterogeneous catalysis. They focus on uniform catalysts, such as zeolitic and metal oxide catalysts, and explore various techniques like energy minimization, Monte Carlo simulations, and molecular dynamics. These methods help in understanding the structure of catalysts, active sites, and reaction mechanisms, ultimately guiding the development of improved catalytic materials.'
+scientific_discipline: Chemistry > Catalysis

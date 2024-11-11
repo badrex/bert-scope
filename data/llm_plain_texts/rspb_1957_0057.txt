@@ -1,0 +1,10 @@
+article_id: 'rspb_1957_0057'
+revised_title: 'The Role of Hydrostatic Pressure Gradients in Water Absorption by Roots'
+semantic_tags:
+  - Plant Physiology
+  - Root Biology
+  - Water Movement
+  - Osmotic Permeability
+  - Hydrostatic Pressure
+tldr: The authors conducted experiments to understand the role of hydrostatic pressure gradients in water absorption by plant roots. They discovered that applying pressure differences across the root cortex increased the osmotic permeability coefficient, indicating that water movement through the cortex is facilitated by pressure gradients. The results also showed a dual nature of water movement, with both diffusional and mass flow pathways involved in the process.
+scientific_discipline: Biology and Life Sciences > Plant Biology

@@ -1,0 +1,10 @@
+article_id: rspa_1952_0135
+revised_title: 'Comparing the Acceleration Due to Gravity at Various International Locations'
+semantic_tags:
+  - Gravimetry
+  - Geodesy
+  - Geophysics
+  - Pendulum experiments
+  - Gravity measurements
+tldr: The author compares the acceleration due to gravity at the National Physical Laboratory, Teddington, the Bureau International des Poids et Mesures, Sèvres, the Physikalisch-Technische Bundesanstalt, Brunswick, and the Geodetic Institute, Potsdam, using pendulum observations with Invar pendulums. The results help improve the accuracy of gravity surveys and the absolute value of gravity, which is essential for geodetic work.
+scientific_discipline: Physics > Geophysics

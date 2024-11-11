@@ -1,0 +1,10 @@
+article_id: rspa_1970_0128
+revised_title: 'Landsberg's Formulation of Chemical Thermodynamics'
+semantic_tags:
+  - Chemical Thermodynamics
+  - Set Theory
+  - Equilibrium States
+  - Axiomatic Thermodynamics
+  - Metastable Equilibrium
+scientific_discipline: Chemistry > Chemical Thermodynamics
+tldr: The article presents a detailed analysis of chemical thermodynamics using Landsberg's formulation in terms of set theory. It explains how this approach clarifies the statement of axioms and the assumptions involved in the thermodynamic theory of chemical equilibrium. The author also discusses the importance of metastable equilibrium states and non-equilibrium states in the theory.

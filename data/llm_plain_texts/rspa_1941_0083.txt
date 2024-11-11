@@ -1,0 +1,10 @@
+article_id: rspa_1941_0083
+revised_title: 'Investigating Nuclear Forces Through Neutron-Deuteron Scattering'
+semantic_tags:
+  - Nuclear Physics
+  - Neutron-Deuteron Scattering
+  - Nuclear Forces
+  - Exchange Forces
+  - Nuclear Interactions
+tldr: This article presents a study on the scattering of neutrons by deuterons to understand the nature of nuclear forces. The authors calculate the angular distributions and cross-sections for elastic collisions between neutrons and deuterons, considering both ordinary and exchange forces. The results show that exchange forces better explain the observed values, providing insights into the fundamental interactions between particles in the nucleus.
+scientific_discipline: Physics > Nuclear Physics

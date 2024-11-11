@@ -1,0 +1,10 @@
+article_id: rspa_1987_0065
+revised_title: Type-6 Transonic States in Cubic Symmetry Linear Elastic Media
+semantic_tags:
+  - Elasticity
+  - Transonic states
+  - Cubic symmetry
+  - Surface-wave propagation
+  - Stroh eigenvalues
+tldr: The authors explore the existence of type-6 transonic states in linear elastic media of cubic symmetry. They demonstrate that these states occur in 21 out of 25 cubic media studied and provide a method to find these states using inverse type and Stroh's method. The study helps in understanding surface-wave propagation and the behavior of elastic materials.
+scientific_discipline: Physics > Mechanics

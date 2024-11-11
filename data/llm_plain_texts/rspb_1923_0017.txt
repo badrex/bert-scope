@@ -1,0 +1,10 @@
+article_id: 'rspb_1923_0017'
+revised_title: 'Donnan Equilibrium and Colloidal Behaviour: A Reevaluation of Loeb's Theory'
+semantic_tags:
+  - Colloidal Chemistry
+  - Donnan Membrane Equilibrium
+  - Electrochemistry
+  - Protein Solutions
+  - Thermodynamics
+tldr: The author critiques Loeb's theory that Donnan Membrane Equilibrium is the basis of colloidal properties in protein solutions. They argue that the equality of potential difference observed experimentally is a necessary consequence of the observations and general thermodynamical reasoning, not a support for Loeb's theory.
+scientific_discipline: Chemistry > Colloidal Chemistry

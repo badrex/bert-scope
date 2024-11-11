@@ -1,0 +1,10 @@
+article_id: 'rsta_1978_0078'
+revised_title: 'Deep-Sea Engineering: Manned and Remotely Controlled Vehicles'
+semantic_tags:
+  - Underwater vehicles
+  - Offshore oil and gas developments
+  - Diver lockout submersibles
+  - Remote viewing
+  - Manipulative dexterity
+scientific_discipline: Engineering and Technology > Ocean Engineering
+tldr: This article discusses the engineering aspects of manned and remotely controlled vehicles for deep-sea operations. It explores the current status and capabilities of these vehicles, including their design, depth capabilities, and work requirements. The authors predict future challenges and potential solutions for deep-sea engineering, emphasizing the importance of direct viewing, manipulative dexterity, and diver lockout support.

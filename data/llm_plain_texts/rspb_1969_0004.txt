@@ -1,0 +1,10 @@
+article_id: 'rspb_1969_0004'
+revised_title: 'Investigating Oncogenicity in SV 40-Transformed Hamster Heart Cell Line and Its Clones'
+semantic_tags:
+  - Oncogenetics
+  - SV 40 Virus
+  - Hamster Cell Transformation
+  - Tumor Progression
+  - Cellular Mutation
+tldr: The study investigates the factors behind the increased oncogenicity of an SV 40-transformed hamster heart cell line after in vivo passage. The research explores two possible mechanisms: selection of cells with high oncogenicity and cellular mutation. The findings provide no evidence that the viral genome is responsible for the increase in oncogenicity and contribute to a better understanding of tumor progression.
+scientific_discipline: Biology and Life Sciences > Oncogenetics

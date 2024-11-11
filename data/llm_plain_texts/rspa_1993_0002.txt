@@ -1,0 +1,10 @@
+article_id: rspa_1993_0002
+revised_title: The Shift Lattice: Applications and Properties of Infinitely Adaptive Structures
+semantic_tags:
+  - Crystallography
+  - Modulated Structures
+  - Incommensurate Structures
+  - Fourier Transform
+  - Shift Lattice
+tldr: The authors introduce the concept of the shift lattice, a generalization of the lattice concept, to describe the properties of ordered, non-periodic systems. They explore the one-dimensional shift lattice and its Fourier transform, and discuss its applications to specific systems and its relation to modulated structures. The shift lattice provides a complementary perspective for understanding the evolution of certain structures with chemical composition, temperature, and other parameters.
+scientific_discipline: Physics > Crystallography

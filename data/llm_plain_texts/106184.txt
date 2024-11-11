@@ -1,0 +1,10 @@
+article_id: 106184
+revised_title: The Effect of Boiling on Water's Freezing Point
+semantic_tags:
+  - Thermodynamics
+  - Phase transitions
+  - Water properties
+  - Boiling
+  - Freezing
+tldr: Joseph Black conducted experiments to determine the effect of boiling on water's freezing point. He found that boiled water freezes more quickly than unboiled water due to the disturbance caused by boiling, which prevents the water from remaining undisturbed and cooling below the freezing point. This discovery explains why boiling water is used in India to make ice.
+scientific_discipline: Chemistry > Thermodynamics

@@ -1,0 +1,10 @@
+article_id: rspl_1902_0033
+revised_title: Refractive Indices of Fluorite, Quartz, and Calcite: A New Method of Measurement
+semantic_tags:
+  - Refractive Index
+  - Fluorite
+  - Quartz
+  - Calcite
+  - Optics
+tldr: The authors present a new method for measuring the refractive indices of fluorite, quartz, and calcite. They use this method to obtain accurate and precise values for the refractive indices, which are essential for understanding the optical properties of these materials and for constructing high-precision optical instruments. The authors also compare their results with previous measurements and discuss the accuracy of their observations.
+scientific_discipline: Physics > Optics

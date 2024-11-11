@@ -1,0 +1,10 @@
+article_id: rspa_1908_0008
+revised_title: 'Effects of Temperature and Pressure on the Thermal Conductivities of Solids: Part II - Low Temperature Impact on Metals and Alloys'
+semantic_tags:
+  - Thermal Conductivity
+  - Low Temperature Physics
+  - Metals and Alloys
+  - Temperature and Pressure
+  - Thermometry
+tldr: This study investigates the effects of temperature and pressure on the thermal conductivities of solids, specifically focusing on the impact of low temperatures on pure metals and alloys. The research extends previous measurements to include temperatures as low as liquid air, providing a wider range for comparison between thermal and electrical conductivities. The results show that the thermal conductivities of most pure metals decrease as temperature rises within the specified range, while the conductivities of all tested alloys increase with rising temperature.
+scientific_discipline: Physics > Thermodynamics

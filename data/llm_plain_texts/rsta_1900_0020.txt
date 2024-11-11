@@ -1,0 +1,10 @@
+article_id: rsta_1900_0020
+revised_title: Ionization of Dilute Solutions at the Freezing Point
+semantic_tags:
+  - Electrolytic conductivity
+  - Ionization
+  - Freezing point depression
+  - Dilute solutions
+  - Solution theory
+tldr: This article investigates the relationship between the ionization of dilute solutions and the depression of the freezing point. The author discusses the conductivity of dilute solutions and the ionization of potassium permanganate, bichromate, and ferricyanide in dilute solutions. The study aims to determine the coefficient of ionization and its connection to freezing point phenomena.
+scientific_discipline: Chemistry > Solution Theory

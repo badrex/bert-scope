@@ -1,0 +1,10 @@
+article_id: rspa_1989_0024
+revised_title: 'Numerical Solutions for Non-Elliptic Shapes in Distortion and Necking of a Viscous Inclusion in Stokes Flow'
+semantic_tags:
+  - Fluid mechanics
+  - Viscous flow
+  - Stokes flow
+  - Inclusion deformation
+  - Boudinage
+tldr: The authors present numerical solutions for the deformation of a highly-viscous inclusion in a Stokes flow of less viscous fluid. They examine the evolution of non-elliptic shapes and focus on the phenomenon of boudinage, where alternate swelling and necking occurs as the inclusion is stretched by the flow. The study has applications in various fields of fluid mechanics, such as the formation of emulsions and the deformation of droplets.
+scientific_discipline: Environmental and Earth Sciences > Fluid Mechanics

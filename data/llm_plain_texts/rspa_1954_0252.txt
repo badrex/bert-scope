@@ -1,0 +1,10 @@
+article_id: rspa_1954_0252
+revised_title: 'Redefining Finite Operator Quantities in Quantum Electrodynamics'
+semantic_tags:
+  - Quantum electrodynamics
+  - Field theory
+  - Renormalization
+  - Operator quantities
+  - Action integral
+tldr: The authors propose a new method to redefine quantized field equations in quantum electrodynamics by incorporating a limiting process and avoiding divergent or undefined quantities. They introduce an action integral and derive field equations for finite field operators, discussing the concept of renormalization and its possible arbitrariness. The use of commutation relations for incoming free fields is assumed in the determination of finite quantities.
+scientific_discipline: Physics > Electrodynamics

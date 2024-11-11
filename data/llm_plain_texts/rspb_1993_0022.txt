@@ -1,0 +1,10 @@
+article_id: 'rspb_1993_0022'
+revised_title: 'Excitatory Amino Acid Receptors in the Binaural Auditory Pathway'
+semantic_tags:
+  - Auditory Pathway
+  - Excitatory Amino Acid Receptors
+  - Synaptic Transmission
+  - Neuroscience
+  - Rat Medial Nucleus of Trapezoid Body
+tldr: This study investigates the role of excitatory amino acid receptors in the binaural auditory pathway, specifically in the rat medial nucleus of the trapezoid body. The researchers found that synaptic transmission has two components, a fast excitatory postsynaptic current (EPSC) mediated by non-NMDA receptors and a slow EPSC mediated by NMDA receptors. These findings contribute to the understanding of how the brain processes auditory information.
+scientific_discipline: Neuroscience > Auditory Pathway

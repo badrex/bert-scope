@@ -1,0 +1,10 @@
+article_id: rspa_1954_0177
+revised_title: 'Porous Glass Expansion and Non-Polar Gas Adsorption'
+semantic_tags:
+  - Porous materials
+  - Adsorption
+  - Surface tension
+  - Surface free energy
+  - Gas expansion
+tldr: The author designed an absolute dilatometer to measure the expansion of porous glass when non-polar gases are adsorbed. Experiments with argon, nitrogen, oxygen, hydrogen, and krypton showed that the expansion is related to the surface free energy lowering and the bulk modulus of the adsorbent. The results confirmed an equation derived by the author, which explains the expansion of porous solids on gas adsorption due to changes in surface tension.
+scientific_discipline: Physics > Materials Science

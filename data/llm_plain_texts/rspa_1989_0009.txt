@@ -1,0 +1,10 @@
+article_id: rspa_1989_0009
+revised_title: Chaotic Escape from a Potential Well: A Study of Driven Mechanical Oscillators
+semantic_tags:
+  - Chaos Theory
+  - Nonlinear Dynamics
+  - Oscillators
+  - Damping
+  - Bifurcation
+tldr: This article explores the escape from a potential well in a driven mechanical oscillator with a cubic potential. The study focuses on the chaotic phenomena and the role of homoclinic tangling in the escape process. The authors analyze the behavior of the oscillator under different control parameters and discuss the implications of their findings for various applications in physics, engineering, and technology.
+scientific_discipline: Physics > Chaos Theory

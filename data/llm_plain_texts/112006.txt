@@ -1,0 +1,10 @@
+article_id: 112006
+revised_title: 'Perfect Musical Scales and the Realization of Tones on Instruments'
+semantic_tags:
+  - Music Theory
+  - Musical Scales
+  - Musical Instruments
+  - Pitch and Intervals
+  - Musical Notation
+tldr: The author, Alexander J. Ellis, explores the conditions, extent, and realization of a perfect musical scale on instruments with fixed tones. He introduces a new notation system to represent tones and pitches accurately and discusses the necessary conditions for a perfect scale. Ellis also investigates the relationships between chords and the formation of scales, ultimately proposing a system of 15 keys and 72 tones per octave.
+scientific_discipline: Music > Music Theory

@@ -1,0 +1,10 @@
+article_id: rspa_1990_0064
+revised_title: 'Asymptotic Theory and Experiment: Receptivity of Boundary Layers'
+semantic_tags:
+  - Boundary Layer Theory
+  - Fluid Mechanics
+  - Asymptotic Analysis
+  - Wind Tunnel Experiments
+  - Tollmien-Schlichting Waves
+tldr: This article explores the receptivity of boundary layers, focusing on the asymptotic theory and wind tunnel experiments. It discusses the sources of disturbance, such as vibrators, small jets, vortices, and sound waves, and their ability to provoke the onset of eigenoscillations with exponentially growing amplitude. The study uses the asymptotic theory of an interacting boundary layer with a triple-deck structure to scale frequencies and wavenumbers in terms of the Reynolds number, providing insights into the mechanisms of generating Tollmien-Schlichting waves or wave packets by external agencies.
+scientific_discipline: Physics > Fluid Mechanics

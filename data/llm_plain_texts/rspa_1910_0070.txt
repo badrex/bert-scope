@@ -1,0 +1,10 @@
+article_id: 'rspa_1910_0070'
+revised_title: 'Additional Refractive Indices of Quartz, Vitreous Silica, Calcite, and Fluorite'
+semantic_tags:
+  - Optics
+  - Crystallography
+  - Refractive Index
+  - Wave-lengths
+  - Spectroscopy
+tldr: This paper presents additional refractive indices for quartz, vitreous silica, calcite, and fluorite, expanding on previous research by the authors. The study uses a specific method of measurement and includes seven new wave-lengths, some of which are particularly valuable due to their brilliance. The research highlights the accuracy of the instruments used and the improvements made in the measurements.
+scientific_discipline: Physics > Optics

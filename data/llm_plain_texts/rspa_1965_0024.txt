@@ -1,0 +1,10 @@
+article_id: rspa_1965_0024
+revised_title: Ultra-Violet and Gamma-Irradiation Induced Thermoluminescence and Phosphorescence in Polyethylene
+semantic_tags:
+  - Polymer Chemistry
+  - Thermoluminescence
+  - Phosphorescence
+  - Radiation Effects
+  - Polymer Physics
+tldr: The authors studied the thermoluminescence and phosphorescence of polyethylene under ultra-violet and gamma-irradiation. They found that the phosphorescence decay time is barely dependent on temperature, suggesting a 'forbidden' tripletsinglet transition. The phosphorescence intensity variation with temperature showed two main structural transitions in polyethylene. The thermoluminescence efficiency is proportional to the dose rate at low doses, and the authors identified the luminescence centers as carbonyl groups on side chains.
+scientific_discipline: Chemistry > Polymer Chemistry

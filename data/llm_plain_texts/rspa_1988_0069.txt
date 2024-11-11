@@ -1,0 +1,10 @@
+article_id: rspa_1988_0069
+revised_title: 'Wave Resistance and Hydrodynamic Forces on a Submerged Sphere Advancing in Water'
+semantic_tags:
+  - Fluid Dynamics
+  - Wave Resistance
+  - Hydrodynamics
+  - Submerged Sphere
+  - Water Waves
+tldr: 'This study analyzes a submerged sphere advancing in regular deep-water waves at constant forward speed using linearized potential theory. The equations governing the velocity potential are satisfied by using the appropriate Green function and choosing the coefficients in the series of Legendre functions to satisfy the body surface condition. Numerical results are obtained for wave resistance, hydrodynamic coefficients, and exciting forces on the sphere. The study also discusses some theoretical aspects of a body advancing in waves.'
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

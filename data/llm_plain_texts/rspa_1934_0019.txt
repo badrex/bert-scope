@@ -1,0 +1,10 @@
+article_id: 'rspa_1934_0019'
+revised_title: 'Investigation of Term Structures and Hyperfine Structures of Bismuth Bi III and Bi II Spectra'
+semantic_tags:
+  - Atomic physics
+  - Spectroscopy
+  - Bismuth
+  - Hyperfine structure
+  - Term analysis
+tldr: The authors conducted an investigation of the term structures and hyperfine structures of bismuth Bi III and Bi II spectra. They used a unique electrodeless discharge source to excite the bismuth vapor and obtained new experimental data by photographing spectra from 1000 A to 10,000 A. Their findings confirmed previous term analyses and provided more accurate values for wave numbers and hyperfine structure intervals.
+scientific_discipline: Physics > Atomic physics

@@ -1,0 +1,10 @@
+article_id: rspa_1937_0037
+revised_title: 'Motion of an Elliptic Cylinder in Fluids with Constant Vorticity'
+semantic_tags:
+  - Fluid dynamics
+  - Vorticity
+  - Elliptic cylinder
+  - Stream-function
+  - Hydrodynamics
+tldr: The authors study the motion of an elliptic cylinder in a fluid with constant vorticity. They derive equations of motion and calculate the pressure and forces acting on the cylinder. The study includes various cases of motion, such as uniform shear motion and rotation, and provides insights into the behavior of the cylinder in different scenarios.
+scientific_discipline: Physics > Fluid dynamics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0079'
+revised_title: 'Magnetite Null Detector as a Migrating Bird's Compass'
+semantic_tags:
+  - Magnetoreception
+  - Bird migration
+  - Magnetite crystals
+  - Gravity detection
+  - Torque detector
+tldr: The author proposes a model that explains how a magnetite null detector, consisting of magnetite crystals attached to hair cells, could function as a migrating bird's compass. The model demonstrates that this device can integrate the detection of gravity and the magnetic field to determine the angle between them, allowing the bird to navigate accurately. This research provides insight into the complex mechanisms behind bird migration and magnetoreception.
+scientific_discipline: Biology and Life Sciences > Animal Behavior

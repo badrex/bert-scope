@@ -1,0 +1,10 @@
+article_id: rspa_1960_0165
+revised_title: 'Electron Microscope Study of Dislocation Structures in Graphite'
+semantic_tags:
+  - Crystallography
+  - Graphene
+  - Dislocations
+  - Transmission Electron Microscopy
+  - Material Science
+tldr: 'This article discusses the electron microscope study of dislocation structures in graphite. The dislocations observed were parallel to the layer plane, and the stacking fault energy was found to be independent of temperature up to 900°C. Two types of interactions between dislocations were observed, one forming a network with extended and contracted nodes, and the other an indirect interaction due to the long-range stress fields of the dislocations. All dislocations were found to be glissile, meaning they could move without becoming sessile or locked in place.'
+scientific_discipline: Materials Science > Crystallography

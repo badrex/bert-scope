@@ -1,0 +1,10 @@
+article_id: rspa_1969_0215
+revised_title: 'Scattering Processes of Atomic Particles with Solid Surfaces at Intermediate Energies'
+semantic_tags:
+  - Atomic particle scattering
+  - Solid surfaces
+  - Intermediate energies
+  - Particle interactions
+  - Material science
+tldr: 'This study investigates the scattering processes of atomic particles with solid surfaces at intermediate energies. The authors measured the energy distributions of charged particles emitted from various targets bombarded by atomic and molecular positive ions. They found that scattering of incident particles is predominantly elastic and approximately independent of the charge state of the incident particle. The energy distribution of negatively charged scattered ions is generally broader than that for positively charged scattered ions at the same incident energy, especially for lighter ions.'
+scientific_discipline: Physics > Material Science

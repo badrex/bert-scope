@@ -1,0 +1,10 @@
+article_id: rspa_1977_0047
+revised_title: Thermodynamic Theory of Black Holes and Their Phase Transitions
+semantic_tags:
+  - Black Holes
+  - Thermodynamics
+  - Gravitational Collapse
+  - Quantum Mechanics
+  - Cosmic Censorship Hypothesis
+tldr: The authors develop a thermodynamic theory for black holes and apply it to the Kerr-Newman family of black holes. They find that black holes undergo a phase transition at a certain point, and above this transition, the specific heat is positive, allowing for isothermal equilibrium with a surrounding heat bath. The authors also investigate processes and stability criteria for various black hole situations and discuss the limits for entropically favored black hole formation.
+scientific_discipline: Physics > Gravitational Physics

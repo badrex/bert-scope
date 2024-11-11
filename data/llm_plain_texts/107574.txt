@@ -1,0 +1,10 @@
+article_id: 107574
+revised_title: 'Davy's Experiments on Slow Combustion and the Safe-Lamp'
+semantic_tags:
+  - Combustion
+  - Gas mixtures
+  - Inflammable gases
+  - Safe-lamp
+  - Platinum
+tldr: Humphry Davy conducted experiments on the slow combustion of gaseous mixtures, discovering that certain combinations could ignite without flame. He also developed a safe-lamp using a platinum wire that could burn in explosive gas mixtures, providing a new source of light in coal mines.
+scientific_discipline: Chemistry > Combustion and Flame

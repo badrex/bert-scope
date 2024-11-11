@@ -1,0 +1,21 @@
+article_id: 'rspb_1980_0154'
+revised_title: 'Awards and Achievements in Science: Royal Society Honorees of 1980'
+semantic_tags:
+  - Chemistry
+  - Biochemistry
+  - Organic Chemistry
+  - Nuclear Physics
+  - Genetics
+  - Instrumentation
+  - Evolutionary Biology
+  - Electrodynamics
+semantic_tags:
+  - Scientific Awards
+  - Scientific Contributions
+  - Scientific Discoveries
+  - Scientific Instruments
+  - Evolutionary Theory
+  - Quantum Phenomena
+tldr: The article highlights the accomplishments and research of various scientists honored by the Royal Society in 1980. Notable achievements include Sir Derek Barton's groundbreaking work in conformational analysis and organic chemistry, Professor W. F. Vinen's discovery of large-scale quantum effects in liquid helium, and Professor Henry Harris' development of cell fusion for studying somatic cell genetics and differentiation. Other honorees include Sir Denys Wilkinson, Dr. J. P. Wild, Professor A. W. Johnson, Professor S. Wright, and Dr. F. J. M. Farley, who made significant contributions to nuclear physics, chemistry, genetics, and electrodynamics.
+scientific_discipline: Chemistry > Organic Chemistry
+second_level_subdiscipline: Biochemistry > Cell Fusion

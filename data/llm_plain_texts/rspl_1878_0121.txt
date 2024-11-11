@@ -1,0 +1,10 @@
+article_id: rspl_1878_0121
+revised_title: Volumetric Estimation of Sugar Using Ammoniated Cupric Test
+semantic_tags:
+  - Sugar analysis
+  - Volumetric analysis
+  - Chemistry
+  - Ammonia
+  - Copper test
+tldr: The author presents a new method for the volumetric estimation of sugar using an ammoniated cupric test that avoids precipitation. This method involves using ammonia to dissolve the reduced copper suboxide, allowing for more accurate measurements of sugar content. The author demonstrates the effectiveness of this method through various experiments and comparisons with traditional methods.
+scientific_discipline: Chemistry > Analytical Chemistry

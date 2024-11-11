@@ -1,0 +1,10 @@
+article_id: rsta_1888_0003
+revised_title: 'Motion of a Sphere in a Viscous Liquid: Implications and Applications'
+semantic_tags:
+  - Fluid dynamics
+  - Viscosity
+  - Sphere motion
+  - Stokes' law
+  - Terminal velocity
+scientific_discipline: Physics > Fluid mechanics
+tldr: This article explores the motion of a sphere in a viscous liquid, focusing on the cases where the sphere moves in a straight line under the action of a constant force and when it is surrounded by an infinite liquid and rotates with uniform velocity. The author derives equations for the motion and discusses the implications of these findings, including the terminal velocity of the sphere and the role of viscosity in natural phenomena like cloud suspension.

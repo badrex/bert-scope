@@ -1,0 +1,10 @@
+article_id: rspa_1931_0035
+revised_title: Torsion Problem Solution for Circular Shafts with Varying Radius
+semantic_tags:
+  - Mechanics
+  - Torsion
+  - Stress Analysis
+  - Engineering
+  - Materials Science
+tldr: The authors present a new arithmetical trial and error method to solve the torsion problem for circular shafts with varying radius. This method can be applied to various physical problems and provides accurate results for stresses and strains in the shafts.
+scientific_discipline: Engineering and Technology > Mechanics

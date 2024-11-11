@@ -1,0 +1,10 @@
+article_id: rspa_1963_0164
+revised_title: 'Solving the Boltzmann Equation for Conduction Electrons'
+semantic_tags:
+  - Boltzmann equation
+  - Conduction electrons
+  - Anisotropic metals
+  - Electron distribution function
+  - Integral equations
+tldr: The author presents a method for solving the Boltzmann equation for conduction electrons in anisotropic metals. The method involves expanding the solution in terms of scattering eigenfunctions and using iterative calculations to determine the coefficients. This approach allows for more accurate calculations of the electron distribution function and conductivity in complex metal structures.
+scientific_discipline: Physics > Condensed Matter Physics

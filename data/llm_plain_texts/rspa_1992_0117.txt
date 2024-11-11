@@ -1,0 +1,10 @@
+article_id: rspa_1992_0117
+revised_title: 'Higher-Order Asymptotics in Conditional Likelihood and Power'
+semantic_tags:
+  - Statistical Analysis
+  - Asymptotic Theory
+  - Statistical Inference
+  - Conditional Likelihood
+  - Power Analysis
+tldr: This article investigates a wide class of tests, including conditional and usual versions of the likelihood ratio, Rao's, and Wald's tests, in the presence of a nuisance parameter. The author compares their power functions under contiguous alternatives and orthogonal parametrization, finding that the conditional versions have identical power functions up to the second order with the corresponding tests that assume the nuisance parameter is known. The study establishes an optimality property of the conditional test in terms of second-order local maximinity.
+scientific_discipline: Mathematics > Statistics

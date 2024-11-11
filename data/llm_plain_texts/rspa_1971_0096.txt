@@ -1,0 +1,10 @@
+article_id: rspa_1971_0096
+revised_title: 'Numerical Analysis of Partial Differential Equations: Elliptic Difference Equations'
+semantic_tags:
+  - Numerical Analysis
+  - Partial Differential Equations
+  - Elliptic Equations
+  - Finite-Difference Methods
+  - Convergence Theory
+tldr: The article presents a survey of recent results in convergence theory for finite-difference approximations to Dirichlet's problem for second-order linear elliptic differential equations. The author discusses various approaches, including a priori inequalities and convergence estimates, to analyze finite-difference operators and their applications in solving elliptic difference equations.
+scientific_discipline: Mathematics > Numerical Analysis

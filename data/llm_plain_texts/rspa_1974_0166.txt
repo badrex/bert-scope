@@ -1,0 +1,9 @@
+revised_title: On the Mass, Momentum, Energy, and Circulation of a Solitary Wave
+semantic_tags:
+  - Fluid Dynamics
+  - Solitary Waves
+  - Wave Mechanics
+  - Water Waves
+  - Wave Theory
+tldr: This article investigates the mass, momentum, energy, and circulation of solitary waves in water of uniform depth. The author extends previous series approximations and introduces a new variable related to the particle speed at the wave crest. The study finds that the highest solitary wave is not always the most energetic, which helps explain the difference between plunging and spilling breakers. The results are compared to laboratory observations and provide insights into wave breaking in shallow water.
+scientific_discipline: Physics > Fluid Dynamics

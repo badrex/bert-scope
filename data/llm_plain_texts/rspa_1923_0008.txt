@@ -1,0 +1,10 @@
+article_id: rspa_1923_0008
+revised_title: 'Extreme Ultra-Violet Carbon Arc Spectrum: A Detailed Study'
+semantic_tags:
+  - Spectroscopy
+  - Carbon arc spectrum
+  - Extreme ultra-violet
+  - Vacuum spectrograph
+  - Wave-length measurement
+tldr: The authors conducted a detailed study of the carbon arc spectrum in the extreme ultra-violet region using a vacuum spectrograph. They measured the wave-lengths of various lines in the arc spectrum and found that some lines had not been mentioned by previous workers with the arc. The study provides a more accurate measurement of the carbon spectrum, which can be useful for further research in spectroscopy.
+scientific_discipline: Physics > Optics

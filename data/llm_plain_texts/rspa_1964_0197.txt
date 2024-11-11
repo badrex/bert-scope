@@ -1,0 +1,10 @@
+article_id: rspa_1964_0197
+revised_title: 'Effects of Nuclear Explosions and Corpuscular Radiation on the Ionosphere'
+semantic_tags:
+  - Ionosphere
+  - Nuclear explosions
+  - Corpuscular radiation
+  - Geomagnetic field
+  - Space research
+tldr: The authors studied the effects of the Starfish nuclear explosion and corpuscular radiation on the ionosphere. They found that the explosion produced ionization clouds extending over thousands of kilometers in altitude and that corpuscular radiation is a major source of ionization in the topside ionosphere. The ionosphere can recover from major disturbances within 24 hours, indicating a close coupling with the F2 region through inter-diffusion processes.
+scientific_discipline: Physics > Space Physics

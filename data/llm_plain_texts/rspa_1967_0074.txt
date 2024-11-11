@@ -1,0 +1,10 @@
+article_id: rspa_1967_0074
+revised_title: 'Endor and EPR Investigation of Substitutional Hydrogen Atoms in CaF2'
+semantic_tags:
+  - Nuclear Magnetic Resonance
+  - Paramagnetic Resonance
+  - Crystallography
+  - Solid State Physics
+  - Defect Centers
+tldr: The authors conducted a study on the paramagnetic resonance and electron nuclear double resonance of substitutional hydrogen atoms in calcium fluoride (CaF2) crystals. They found that hydrogen atoms move into interstitial sites at certain temperatures, producing a specific e.p.r. spectrum. The study also revealed details about the hyperfine interactions with fluorine nuclei and the effect of indirect fluorine-fluorine interactions. These findings are important for understanding the production and annealing mechanisms of irradiation-induced defects in the crystals.
+scientific_discipline: Physics > Solid State Physics

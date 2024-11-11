@@ -1,0 +1,10 @@
+article_id: rsta_1893_0011
+revised_title: Thermal Radiation in Absolute Measure: Experiments on Copper Globes
+semantic_tags:
+  - Thermal radiation
+  - Heat loss
+  - Copper globes
+  - Heat emission
+  - Heat transfer
+tldr: The author conducted experiments to determine the effect of dimensions and form of the cooling body on thermal emission. They experimented with copper globes, comparing the loss of heat from different surfaces and under varying conditions. The results showed that the loss of heat and radiation from different surfaces varied significantly, and confirmed previous findings on thermal radiation.
+scientific_discipline: Physics > Heat Transfer

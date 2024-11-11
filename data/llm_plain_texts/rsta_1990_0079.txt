@@ -1,0 +1,10 @@
+article_id: rsta_1990_0079
+revised_title: Structural Integrity of Fast Reactor Components in Liquid-Sodium-Cooled Fast Reactors
+semantic_tags:
+  - Nuclear Reactor Design
+  - Structural Integrity
+  - Fast Breeder Reactors
+  - Sodium Coolant
+  - Materials Science
+tldr: This article discusses the structural integrity of key components in liquid-sodium-cooled fast reactors, focusing on three main areas: core support path and containment, hot pool structures, and steam generator units. The authors analyze the factors influencing structural integrity, such as the high boiling point of sodium, its high thermal conductivity, and the choice of materials for structural components. They also consider safety-related structural components, discussing the main sources and levels of stress and the potential failure processes.
+scientific_discipline: Engineering and Technology > Nuclear Engineering

@@ -1,0 +1,10 @@
+article_id: '110522'
+revised_title: 'Ventilation Methods and Health in Heated Rooms'
+semantic_tags:
+  - Ventilation
+  - Building engineering
+  - Health effects of indoor air quality
+  - Industrial ventilation
+  - Air quality
+tldr: The author, Andrew Ure, conducted experiments on various methods of warming and ventilating rooms, focusing on the health effects of different heating methods. He found that rooms heated through cast-iron pipes or stoves had poor air quality and caused health issues for occupants. In contrast, rooms heated using steam pipes maintained better air quality and had a positive impact on the health of workers. Ure also compared the efficiency of air ventilation using a fire and chimney versus a fan-ventilator, finding that the fan-ventilator was more effective.
+scientific_discipline: Environmental and Earth Sciences > Building engineering

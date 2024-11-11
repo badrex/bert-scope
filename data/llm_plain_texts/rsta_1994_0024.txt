@@ -1,0 +1,10 @@
+article_id: rsta_1994_0024
+revised_title: 'Ambient Noise Analysis in Upward Refracting Ocean with Inverse-Square Profile'
+semantic_tags:
+  - Ocean Acoustics
+  - Sound Propagation
+  - Inverse-Square Profile
+  - Ambient Noise Field
+  - Green's Function
+tldr: The author analyzes the vertical coherence of surface-generated ambient noise in a semi-infinite, horizontally stratified ocean with an upward refracting, inverse-square sound speed profile. They develop an analytical model and find that the noise field is spatially inhomogeneous, with strong dependence on the sound speed profile and the depth of the sensors. This model can help in understanding the structure of the noise field and extracting information about the oceanographic environment.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

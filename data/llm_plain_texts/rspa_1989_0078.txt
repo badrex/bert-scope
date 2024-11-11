@@ -1,0 +1,10 @@
+article_id: 'rspa_1989_0078'
+revised_title: 'Solutions of the Wave Equation on a Schwarzschild Space-Time with Localized Energy: A New Approach'
+semantic_tags:
+  - General Relativity
+  - Black Holes
+  - Wave Equations
+  - Quantum Mechanics
+  - Astrophysics
+tldr: This article explores solutions to the wave equation in a Schwarzschild space-time, focusing on localized energy. The authors develop a new approach to examine radiation fields in static space-times, providing insights into black hole dynamics and astrophysical phenomena.
+scientific_discipline: Physics > Astrophysics

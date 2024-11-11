@@ -1,0 +1,10 @@
+article_id: rspa_1948_0094
+revised_title: 'Expected Loss Rates in Particle Counting from Pulsed Sources'
+semantic_tags:
+  - Nuclear Physics
+  - Particle Detectors
+  - Radioactivity
+  - Statistics
+  - Probability Theory
+tldr: 'The authors study the expected loss rates in counting particles from pulsed sources, considering the effects of dead-time and background counts. They provide calculations for different scenarios, such as short dead-time compared to pulse length and the presence of background counts. The study is relevant for understanding and improving particle detection techniques in nuclear physics.'
+scientific_discipline: Physics > Nuclear Physics

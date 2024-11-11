@@ -1,0 +1,10 @@
+article_id: rspa_1988_0098
+revised_title: Existence and Approximation of Solutions for Heaving Motion of a Circular Cylinder in Fluids
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Value Problems
+  - Integral Equations
+  - Water Waves
+  - Potential Theory
+tldr: The authors study the heaving motion of a circular cylinder more or less than half immersed in a fluid. They develop a new approach using a modified source potential to obtain an integral equation with a continuous kernel, allowing them to prove the existence of a solution and provide an approximation method for practical applications.
+scientific_discipline: Physics > Fluid Dynamics

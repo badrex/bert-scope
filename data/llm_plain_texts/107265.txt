@@ -1,0 +1,10 @@
+article_id: 107265
+revised_title: 'Improving Crystal Angle Measurements with a Reflective Goniometer'
+semantic_tags:
+  - Crystallography
+  - Goniometry
+  - Mineralogy
+  - Reflective surfaces
+  - Angle measurement
+tldr: William Hyde Wollaston invents a reflective goniometer to improve the accuracy of measuring crystal angles. The instrument uses reflected light as the radius of contact, allowing for more precise measurements, especially with small crystals. This innovation helps in identifying minerals based on their external forms and angular dimensions.
+scientific_discipline: Physics > Optics

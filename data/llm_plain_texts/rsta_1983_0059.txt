@@ -1,0 +1,10 @@
+article_id: rsta_1983_0059
+revised_title: 'Color-Hyperfine Spectra in the Bag Model: A Survey with the P-Matrix Formalism'
+semantic_tags:
+  - Multiquark hadrons
+  - Bag model
+  - Colour-hyperfine spectra
+  - P-matrix formalism
+  - Quantum chromodynamics
+tldr: This article explores the masses of multiquark states in the MIT bag model, taking into account flavor symmetry violations. The author uses the P-matrix formalism to analyze the eigenstates and compare them to experimental data, finding agreement with the bag model predictions. The study focuses on color-hyperfine spectra and provides a comprehensive survey of the multiquark hadron sector.
+scientific_discipline: Physics > Particle Physics

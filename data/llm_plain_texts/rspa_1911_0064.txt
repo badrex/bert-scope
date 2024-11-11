@@ -1,0 +1,10 @@
+article_id: rspa_1911_0064
+revised_title: 'Pendulum Clocks: Analyzing Errors and Improving Accuracy'
+semantic_tags:
+  - Clock mechanics
+  - Pendulum physics
+  - Time measurement
+  - Clock errors
+  - Clock accuracy
+tldr: This article discusses the various factors that can affect the accuracy of pendulum clocks, such as the design of the pendulum, suspension, and the clock's mechanism. The author analyzes these factors and provides suggestions for improving the accuracy of pendulum clocks, which can help in measuring time more precisely.
+scientific_discipline: Physics > Mechanics

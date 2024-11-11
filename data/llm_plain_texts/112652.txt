@@ -1,0 +1,10 @@
+article_id: 112652
+revised_title: 'Electrical Force Conversion without Permanent Magnetism'
+semantic_tags:
+  - Electromagnetism
+  - Electromagnetic Induction
+  - Electromechanical Energy Conversion
+  - Siemens' Experiment
+  - Alternating Current
+tldr: 'C. W. Siemens discovered that it is possible to convert mechanical force into electrical force without the need for permanent magnetism. He demonstrated this through an experiment using an electromagnetic machine with a rotating keeper. This finding showed that powerful electrical effects could be produced without relying on steel magnets, which can lose their magnetism during use.'
+scientific_discipline: Physics > Electromagnetism

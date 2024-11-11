@@ -1,0 +1,10 @@
+article_id: rspa_1982_0016
+revised_title: 'Resonant Orbits and the Evaluation of 15th-Order Harmonics in the Geopotential'
+semantic_tags:
+  - Celestial Mechanics
+  - Satellite Orbits
+  - Geopotential Harmonics
+  - Resonant Orbits Analysis
+  - Satellite Resonance
+tldr: The authors analyzed the perturbations in 23 resonant satellite orbits to determine the harmonic coefficients of the geopotential. They found that the Goddard Earth Model 1OB was the best fit for the data, with a standard deviation of about 0.0001 in the GEM-order coefficients. This study helps improve our understanding of the Earth's gravitational potential and the behavior of satellites in resonant orbits.
+scientific_discipline: Environmental and Earth Sciences > Geophysics

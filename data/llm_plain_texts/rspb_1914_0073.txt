@@ -1,0 +1,10 @@
+article_id: 'rspb_1914_0073'
+revised_title: 'The Constancy of the Optimum Temperature of Enzymes under Varying Substrate and Enzyme Concentrations'
+semantic_tags:
+  - Enzyme kinetics
+  - Temperature optima
+  - Enzyme concentration
+  - Substrate concentration
+  - Maltase
+tldr: The author conducted experiments with the enzyme maltase from Aspergillus oryzae (taka-diastase) to study how the optimum temperature of the enzyme changes with varying substrate and enzyme concentrations. They found that the optimum temperature remains constant, regardless of the substrate and enzyme concentrations, suggesting a general law for enzyme behavior.
+scientific_discipline: Biology and Life Sciences > Enzyme kinetics

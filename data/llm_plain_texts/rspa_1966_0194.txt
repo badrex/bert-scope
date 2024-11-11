@@ -1,0 +1,10 @@
+article_id: rspa_1966_0194
+revised_title: Balancing Techniques for Axially Asymmetric Shafts
+semantic_tags:
+  - Rotating Machinery
+  - Vibration Analysis
+  - Mechanical Engineering
+  - Asymmetrical Shafts
+  - Balancing Techniques
+tldr: The article presents a technique for balancing rotating shafts with axial asymmetry. It examines the effects of axial asymmetry on the modal interpretation of the vibration caused by mass unbalance and proposes a method for locating the plane of unbalance and selecting suitable balancing masses. The technique is suitable for shafts with small stiffness asymmetry, where the critical speeds are close together and near the operating speed.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

@@ -1,0 +1,10 @@
+article_id: rspl_1877_0070
+revised_title: Electrostriction: Phenomenon and Applications
+semantic_tags:
+  - Electrochemistry
+  - Electrostriction
+  - Thermometry
+  - Metals
+  - Paraffin
+tldr: The author investigates the phenomenon of electrostriction, which is the change in size of a metal when it is subjected to an electric current. They conducted experiments with various metals and paraffin, observing the changes in size and temperature. The results led to the development of new methods for measuring temperature and pressure, as well as understanding the properties of metals and their electrostrictive effects.
+scientific_discipline: Physics > Electrochemistry

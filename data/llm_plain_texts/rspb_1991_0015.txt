@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0015'
+revised_title: 'Exploring a Protein Pool with Lifetime Kinetics in Whole-Body Protein Turnover'
+semantic_tags:
+  - Protein metabolism
+  - Nutritional science
+  - Isotope tracing
+  - End-product method
+  - Protein turnover modeling
+tldr: The authors propose a four-pool model for measuring whole-body protein turnover, incorporating a protein pool with lifetime kinetics. They found that a step in the labeling curve of urinary ammonia during constant infusion of glycine could be explained by this model. The existence of a protein pool turning over by lifetime kinetics could have implications for understanding protein metabolism and nutritional science.
+scientific_discipline: Biology and Life Sciences > Nutritional Science

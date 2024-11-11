@@ -1,0 +1,10 @@
+article_id: 'rspa_1978_0139'
+revised_title: 'Effects of Healing and Relaxation in Helium II due to Heat Transfer at a Wall'
+semantic_tags:
+  - Superfluidity
+  - Helium II
+  - Heat transfer
+  - Fluid dynamics
+  - Thermodynamics
+tldr: The article examines the effects of healing and relaxation in helium II due to heat transfer at a wall. The authors model the helium as a two-fluid continuum and incorporate relaxation and healing terms into the governing equations. They find that the superfluid velocity behaves like a power law, and the healing parameter can be scaled out of the equations. The results reduce to those obtained by Clark (1963) when healing and relaxation are ignored.
+scientific_discipline: Physics > Fluid Dynamics

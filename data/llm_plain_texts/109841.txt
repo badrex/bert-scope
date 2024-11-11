@@ -1,0 +1,10 @@
+article_id: 109841
+revised_title: Calculating Functions: Inverse Operations and Functional Equations
+semantic_tags:
+  - Calculus
+  - Mathematical Analysis
+  - Differential Equations
+  - Functions
+  - Inverse Operations
+tldr: This article discusses the concept of functions in mathematical analysis and the inverse operations related to them. The author, C. Babbage, aims to determine the value of an unknown function using functional equations, rather than finding a quantity from a known function, as in the direct method. This approach could not be publicly read due to its mode of inquiry.
+scientific_discipline: Mathematics > Calculus and Analysis

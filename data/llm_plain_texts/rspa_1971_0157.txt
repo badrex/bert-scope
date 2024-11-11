@@ -1,0 +1,10 @@
+article_id: rspa_1971_0157
+revised_title: Fatigue Fracture Mechanisms in Low-Density Polyethylene
+semantic_tags:
+  - Polymer Science
+  - Fatigue Fracture
+  - Fracture Mechanics
+  - Visco-Elasticity
+  - Low-Density Polyethylene
+tldr: This study investigates the growth of fatigue cracks in low-density polyethylene using non-classical fracture mechanics. The authors found that most materials reveal two distinct regions with different fracture mechanics parameters, linked by a transition zone. The fatigue life of virgin specimens can be predicted using the crack growth characteristics and the size of intrinsic flaws, which correspond to the polyethylene spherulites.
+scientific_discipline: Engineering and Technology > Materials Science

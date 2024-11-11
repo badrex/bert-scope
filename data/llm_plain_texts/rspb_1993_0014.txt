@@ -1,0 +1,10 @@
+article_id: 'rspb_1993_0014'
+revised_title: 'Effects of Substrates on N2-Fixing Soybean Bacteroids'
+semantic_tags:
+  - Nitrogen fixation
+  - Soybean bacteroids
+  - Substrate concentrations
+  - Flow chamber reactions
+  - Malic enzymes
+scientific_discipline: Biology and Life Sciences > Microbiology
+tldr: The authors studied the effects of different substrate concentrations on N2-fixing soybean bacteroids in a flow chamber. They found that glucose was poorly utilized, while ethanol and C4-dicarboxylates like succinate and malate had varying effects on oxygen demand and N2 fixation. The results suggest that the presence of malic enzymes and a pyruvate dehydrogenase complex in bacteroids may influence the response to these substrates.

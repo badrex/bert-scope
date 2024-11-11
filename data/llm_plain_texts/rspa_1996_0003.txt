@@ -1,0 +1,10 @@
+article_id: rspa_1996_0003
+revised_title: The Impact of Control Rings on Ring-Spinning Balloon Stability
+semantic_tags:
+  - Yarn spinning
+  - Textile engineering
+  - Control systems
+  - Stability analysis
+  - Ring spinning machines
+tldr: This study investigates the effect of control rings on the stability of ring-spinning balloons in textile manufacturing. The researchers developed a more accurate model for yarn movement over control rings and found that a single control ring can greatly extend the region of stable balloon formation and lower yarn tension. The findings can be useful for improving ring-spinning processes in the textile industry.
+scientific_discipline: Engineering and Technology > Textile Engineering

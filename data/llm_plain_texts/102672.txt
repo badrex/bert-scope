@@ -1,0 +1,10 @@
+article_id: 102672
+revised_title: The Hauksbee Experiment: Ascention of Water in Small Tubes
+semantic_tags:
+  - Fluid dynamics
+  - Atmospheric pressure
+  - Vacuum
+  - Barometer
+  - Surface tension
+tldr: The Hauksbee experiment demonstrated that water rises in small tubes open at both ends, both in a vacuum and in open air, due to atmospheric pressure. This finding helped to understand the behavior of fluids and paved the way for the development of barometers and other scientific instruments.
+scientific_discipline: Physics > Fluid dynamics

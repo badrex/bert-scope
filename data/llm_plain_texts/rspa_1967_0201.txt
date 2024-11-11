@@ -1,0 +1,10 @@
+article_id: rspa_1967_0201
+revised_title: X-ray Analysis of Covalent Bonding in Diamond and Silicon
+semantic_tags:
+  - Crystallography
+  - X-ray diffraction
+  - Diamond structure
+  - Silicon chemistry
+  - Covalent bonding
+tldr: The authors compared two methods for studying covalent bonding in diamond and silicon using X-ray diffraction data. They found that only one approach, which uses the generalized formalism of the structure factor, allows for adequate interpretation of the experimental evidence. The study provides a comprehensive account of covalent bonding effects in diamond and silicon structures.
+scientific_discipline: Physics > Crystallography

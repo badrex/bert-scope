@@ -1,0 +1,10 @@
+article_id: rspa_1990_0137
+revised_title: Unfolding a Chaotic Bifurcation in Forced Pendulum Dynamics
+semantic_tags:
+  - Chaotic Dynamics
+  - Bifurcation Theory
+  - Pendulum Dynamics
+  - Nonlinear Dynamics
+  - Symmetry-Breaking
+tldr: The authors study the chaotic behavior of a forced pendulum and discover two symmetrically related chaotic attractors that merge and separate as the forcing amplitude and a constant bias are varied. They explain this phenomenon in terms of homoclinic structures and propose a codimension two bifurcation of chaotic attractors, which is closely related to the elementary cusp catastrophe.
+scientific_discipline: Mathematics > Dynamical Systems

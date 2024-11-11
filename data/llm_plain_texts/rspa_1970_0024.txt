@@ -1,0 +1,10 @@
+article_id: rspa_1970_0024
+revised_title: 'Dissociation of Water Vapour and Recombination Rates in Shock Waves'
+semantic_tags:
+  - Shock Wave Physics
+  - Water Vapour Dissociation
+  - Reaction Kinetics
+  - Gas Dynamics
+  - Spectroscopy
+tldr: The authors studied the dissociation of water vapour in dilute argon mixtures behind shock waves. They used a short-duration flash absorption technique to follow the growth of OH concentration and constructed profiles of OH concentration for various conditions. The results indicate that water decomposition proceeds by a specific reaction, and the rate constants for this reaction were determined over a temperature range. This provides an assessment of the recombination rate of OH radicals, which is essential for controlling heat release in flame systems.
+scientific_discipline: Physics > Gas Dynamics

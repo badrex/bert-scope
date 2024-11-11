@@ -1,0 +1,10 @@
+article_id: rspa_1978_0036
+revised_title: Twistor Theory and Multipole Moments in Electromagnetism and Linearized Gravitational Fields
+semantic_tags:
+  - Twistor Theory
+  - Electromagnetism
+  - Linearized Gravitational Fields
+  - Multipole Moments
+  - Spinor Fields
+tldr: This article explores the connection between multipole moments and twistors in both electromagnetism and linearized gravitational fields. The author demonstrates how to code multipole information into a set of many indexed symmetric twistors satisfying certain algebraic constraints and how to extract this information from complex-valued functions on twistor space. The article also discusses the potential applications of this twistor approach in elementary particle theory and the extension of multipole definitions to non-stationary fields and curved asymptotically flat backgrounds.
+scientific_discipline: Physics > Electromagnetism and Gravitation

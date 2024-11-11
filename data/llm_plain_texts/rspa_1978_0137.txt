@@ -1,0 +1,10 @@
+article_id: rspa_1978_0137
+revised_title: 'Inhibition of Recrystallization in Porous Copper'
+semantic_tags:
+  - Porous materials
+  - Recrystallization
+  - Grain growth
+  - Pore migration
+  - Metal sintering
+tldr: 'This study investigates the effect of ultrafine porosity on the recrystallization of porous copper. The authors found that loose-sintered copper components, hot-rolled into rods and then cold-drawn into wire, exhibit inhibited recrystallization due to the presence of fine, gas-filled pores. These pores act as a barrier to grain boundary migration, preventing the metal from fully recrystallizing. The research provides insights into the interaction between pores and grain boundaries in porous materials, which can be useful for understanding and improving the properties of metals and ceramics.'
+scientific_discipline: Materials Science > Porous Materials

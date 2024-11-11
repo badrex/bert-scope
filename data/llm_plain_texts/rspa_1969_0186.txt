@@ -1,0 +1,10 @@
+article_id: rspa_1969_0186
+revised_title: 'Infrared Spectroscopy of Carbon Monoxide Chemisorption on Deposited Metal Aerosols'
+semantic_tags:
+  - Infrared spectroscopy
+  - Chemisorption
+  - Carbon monoxide
+  - Metal aerosols
+  - Catalysts
+tldr: The authors developed a novel technique to obtain deposited metal aerosols for infrared spectroscopic studies of chemisorption phenomena. They studied the chemisorption of carbon monoxide on nickel, platinum, and palladium using this technique and found similar spectra to those obtained by alternative methods. The authors also examined the effects of evacuation and added gases on the chemisorbed carbon monoxide and investigated the kinetics of the oxidation of CO on platinum.
+scientific_discipline: Chemistry > Catalysis

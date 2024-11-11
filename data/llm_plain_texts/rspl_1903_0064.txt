@@ -1,0 +1,10 @@
+article_id: rspl_1903_0064
+revised_title: Determination of Oxygen's Pressure Coefficient at Constant Volume and Different Initial Pressures
+semantic_tags:
+  - Gas properties
+  - Thermodynamics
+  - Pressure coefficient
+  - Oxygen
+  - Temperature
+tldr: The authors conducted experiments to measure the pressure coefficient of oxygen at constant volume and different initial pressures. They used a unique method to generate and measure oxygen, accounting for various factors like the dead space and temperature. The results showed that the pressure coefficient of oxygen was higher than that of nitrogen and hydrogen, which could be explained by the association of the oxygen molecule at lower temperatures.
+scientific_discipline: Chemistry > Thermodynamics

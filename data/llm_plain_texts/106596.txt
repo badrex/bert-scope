@@ -1,0 +1,10 @@
+article_id: '106596'
+revised_title: 'Comparing and Connecting Thermometers for Strong Fire'
+semantic_tags:
+  - Thermometry
+  - Heat measurement
+  - Expansion of metals
+  - Temperature scales
+  - Temperature comparison
+tldr: 'Josiah Wedgwood attempts to connect his strong fire thermometer with the common mercurial one, aiming to create a uniform series of heat measurements. He uses the expansion of metals as a principle for an intermediate measure and develops a gage to measure the expansion and contraction of materials. The gage is made of a mixture of tobacco-pipe clay and charcoal, which allows for accurate measurements of heat and expansion.'
+scientific_discipline: 'Chemistry > Thermodynamics'

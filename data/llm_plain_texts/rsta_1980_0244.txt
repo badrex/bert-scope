@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0244'
+revised_title: 'Ultra-Short Laser Pulses: A Historical Overview and Future Prospects'
+semantic_tags:
+  - Laser Physics
+  - Ultra-Short Pulses
+  - Time-Resolved Spectroscopy
+  - Picosecond and Femtosecond Phenomena
+  - Laser Applications
+tldr: This article provides an introduction to ultra-short laser pulses and their applications in various scientific fields. It discusses the development of ultra-short pulse generation and measurement techniques, their historical background, and the potential for future advancements in technology. The article highlights the importance of these techniques in studying ultra-fast processes in physics, chemistry, and biology.
+scientific_discipline: Physics > Laser Physics

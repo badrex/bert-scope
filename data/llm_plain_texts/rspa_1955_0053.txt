@@ -1,0 +1,10 @@
+article_id: rspa_1955_0053
+revised_title: Atomic Distribution and Angular Intensity Distribution in Liquid Helium
+semantic_tags:
+  - Liquid Helium
+  - Atomic Distribution
+  - Angular Intensity Distribution
+  - Scattering
+  - Low-Temperature Physics
+tldr: The authors investigated the atomic distribution and angular intensity distribution of liquid helium using X-ray scattering techniques. They found no significant change in the intensity distribution accompanying the -point transformation, suggesting that the -point transition may be related to a condensation phenomenon rather than a structural change. The atomic distribution function may be correlated with a lattice structure that could account for some of the unique properties of liquid helium.
+scientific_discipline: Physics > Condensed Matter Physics

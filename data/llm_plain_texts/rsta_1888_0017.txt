@@ -1,0 +1,10 @@
+article_id: 'rsta_1888_0017'
+revised_title: 'Advancements in Colour Photometry: Measuring Reflected Colours'
+semantic_tags:
+  - Colour Photometry
+  - Spectral Analysis
+  - Light Refraction
+  - Optics
+  - Photometry Techniques
+tldr: 'This article discusses the development of a new method for measuring the light reflected from bodies in terms of the colours of the spectrum of the light illuminating them. The authors describe their improvements to the colour photometer, including the use of a double-image prism to ensure equal thickness of glass for both spectra. They also emphasize the importance of excluding extraneous light when comparing the illuminated shadows of different colours.'
+scientific_discipline: Physics > Optics

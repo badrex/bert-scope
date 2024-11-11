@@ -1,0 +1,10 @@
+article_id: 105763
+revised_title: Solving Equations and Calculating Easter Dates
+semantic_tags:
+  - Chronology
+  - Easter calculations
+  - Mathematics
+  - Theorem
+  - Calendar
+tldr: The author applies Dr. Saunderson's theorem to solve a curious question in chronology, specifically calculating the years when Easter falls on the earliest possible date. They find that the next occurrence will be in 1818 and the next after that will be in 2285. The author also provides a method for calculating Easter dates for the 22nd century.
+scientific_discipline: Mathematics > Applied Mathematics

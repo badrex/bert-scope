@@ -1,0 +1,11 @@
+article_id: rspa_1952_0249
+revised_title: The Influence of Adsorbed Films on the Friction of Non-Metals
+semantic_tags:
+  - Surface chemistry
+  - Friction
+  - Adsorption
+  - Diamond
+  - Graphite
+  - Carbon
+tldr: This article discusses an experimental study on the frictional behavior of diamond, graphite, and carbon when their surface films are removed by outgassing. The results show that the frictional force can be explained by the formation and fracture of strong interfacial bonds, suggesting that the mechanism of friction for non-metallic solids is similar to that proposed for metals.
+scientific_discipline: Physics > Materials Science

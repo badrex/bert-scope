@@ -1,0 +1,10 @@
+article_id: rspa_1965_0103
+revised_title: 'Compression and Contact Analysis of Anisotropic Fiber Monofilaments'
+semantic_tags:
+  - Material Science
+  - Fiber Composites
+  - Mechanical Engineering
+  - Polymer Science
+  - Contact Mechanics
+tldr: The authors conducted experiments to study the compression of anisotropic fiber monofilaments, such as polyethylene terephthalate, polypropylene, and nylon. They derived a theoretical solution for the contact area of a cylinder compressed between two rigid planes when the cylinder is a transversely isotropic elastic body. The solution was found to hold experimentally, and the theory was used to derive the transverse modulus of the filaments from the compression experiments.
+scientific_discipline: Engineering and Technology > Material Science

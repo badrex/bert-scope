@@ -1,0 +1,10 @@
+article_id: 110667
+revised_title: Establishing a New Notation for Life Contingencies
+semantic_tags:
+  - Actuarial Science
+  - Mathematical Notation
+  - Probability Theory
+  - Life Insurance
+  - Statistics
+tldr: Peter Hardy proposed a new and general notation for the doctrine of life contingencies, which is applicable to the field of actuarial science and life insurance. This notation aimed to simplify calculations and improve the understanding of probability and statistics in the context of life events.
+scientific_discipline: Mathematics > Applied Mathematics

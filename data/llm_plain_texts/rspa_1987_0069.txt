@@ -1,0 +1,10 @@
+article_id: rspa_1987_0069
+revised_title: 'Transport Properties of Touching Cylinder Pairs and Square Arrays'
+semantic_tags:
+  - Electromagnetism
+  - Conductivity
+  - Multipole coefficients
+  - Cylinder arrays
+  - Asymptotic expressions
+tldr: The authors studied the transport properties of touching cylinder pairs and square arrays of cylinders. They derived a closed-form expression for the set of multipole coefficients for a pair of touching cylinders and used it to estimate the truncation errors in the matrix solution for the square array of touching cylinders. This allowed them to study the array conductivity for high cylinder conductivities and confirm an asymptotic expression due to O'Brien. They also derived a perturbation formula to analyze the effect of small cylinder separations on array conductivity.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rspa_1988_0030
+revised_title: 'Travelling Waves in Exothermic Systems: A Study of Spatial Structures and Reaction Dynamics'
+semantic_tags:
+  - Chemical Reactivity
+  - Thermal Ignition
+  - Combustion Waves
+  - Exothermic Systems
+  - Cusp Catastrophe
+tldr: This article investigates the existence and properties of travelling waves in exothermic systems near the 'degenerate critical conditions' of thermal ignition. The authors discover that these waves can form spatial structures and have implications for combustion theory and the study of chemical reactions in porous materials. The study provides insights into the behavior of exothermic systems under various conditions and contributes to the understanding of the complex dynamics of chemical reactions.
+scientific_discipline: Chemistry > Chemical Reactivity

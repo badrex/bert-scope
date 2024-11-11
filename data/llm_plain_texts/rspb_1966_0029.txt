@@ -1,0 +1,10 @@
+article_id: 'rspb_1966_0029'
+revised_title: 'Exploring the Association between DNA and Membrane in Bacteria'
+semantic_tags:
+  - Bacterial genetics
+  - DNA replication
+  - Membrane association
+  - Conjugation
+  - Replicon model
+tldr: The authors discovered that bacterial DNA is associated with the cell membrane and that this association plays a crucial role in DNA replication. They proposed the replicon model, which suggests that each DNA structure, or replicon, controls its own replication. This model explains the efficiency of genetic transfer in bacteria and provides insights into the relationship between DNA replication and cellular growth.
+scientific_discipline: Biology and Life Sciences > Genetics

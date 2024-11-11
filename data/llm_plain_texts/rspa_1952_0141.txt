@@ -1,0 +1,10 @@
+article_id: rspa_1952_0141
+revised_title: Excitation Transfer and Diffusion of Metastable Helium in Normal Gaseous Helium
+semantic_tags:
+  - Atomic Physics
+  - Collision Theory
+  - Metastable Helium
+  - Excitation Transfer
+  - Diffusion Coefficient
+tldr: The authors investigated the resonance collision of normal and metastable helium atoms and calculated cross-sections for total elastic scattering, diffusion, and transfer of excitation. The theoretical diffusion coefficient of metastable atoms in normal helium agreed reasonably with experimental results. The transfer cross-section showed an unusual variation, being small for low collision energies and reaching a maximum for collisions about 1 eV. The study compared their findings with experiments by Reynolds and provided a theoretical understanding of the process.
+scientific_discipline: Physics > Atomic Physics

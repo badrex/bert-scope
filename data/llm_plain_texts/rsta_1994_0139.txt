@@ -1,0 +1,10 @@
+article_id: rsta_1994_0139
+revised_title: Multistability, Oscillations, and Traveling Waves in a Product-Feedback Autocatalator Model: The Initiation and Propagation of Traveling Waves
+semantic_tags:
+  - Reaction-diffusion systems
+  - Autocatalator kinetics
+  - Traveling waves
+  - Multistability
+  - Oscillations
+scientific_discipline: Mathematics > Applied Mathematics
+tldr: The authors study a product-feedback autocatalator model and explore the initiation and propagation of traveling waves in reaction-diffusion systems. They find that the concentrations of reactants and autocatalysts can grow in time, and the system can develop propagating reaction-diffusion waves under specific conditions. The study provides insights into the behavior of complex chemical systems and their potential applications.

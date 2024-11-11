@@ -1,0 +1,10 @@
+article_id: rspa_1968_0089
+revised_title: 'Fermi Surface and Pseudopotential Analysis of Potassium'
+semantic_tags:
+  - Fermi surface
+  - Pseudopotential
+  - De Haas-van Alphen effect
+  - Potassium
+  - Alkali metals
+tldr: The authors studied the de Haas-van Alphen oscillations of magnetization in potassium crystals to determine the shape and anisotropy of the Fermi surface. They used a sensitive recording system to measure the phase changes in the oscillations as the crystals were rotated in a magnetic field. The experimental data was analyzed using a local and nonlocal pseudopotential to deduce the radial distortion of the Fermi surface and compare it with previous band structure calculations.
+scientific_discipline: Physics > Condensed Matter Physics

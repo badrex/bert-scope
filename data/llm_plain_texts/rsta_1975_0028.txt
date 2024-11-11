@@ -1,0 +1,10 @@
+article_id: rsta_1975_0028
+revised_title: Hypo-Critical Points in Superconductors: A Theoretical Study
+semantic_tags:
+  - Superconductivity
+  - Phase Diagrams
+  - Thermodynamics
+  - Landau Critical Point
+  - Hypo-Critical Point
+tldr: This article explores the concept of a hypo-critical point in the phase diagram of a moderately small superconductor in a magnetic field. The authors propose a new term to be incorporated into the expression for the difference in Gibbs free energy between the superconducting and normal states, which gives rise to a transition from the normal state to a superconducting state with a finite value of at a point called the hypo-critical point. This point occurs at a lower field than the Landau critical point and has implications for understanding the behavior of superconductors in various conditions.
+scientific_discipline: Physics > Condensed Matter Physics

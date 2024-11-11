@@ -1,0 +1,10 @@
+article_id: 'rstb_1996_0047'
+revised_title: 'Transcription Factors and the Regulation of Gene Expression in Eukaryotes'
+semantic_tags:
+  - Transcription factors
+  - Gene regulation
+  - Eukaryotic transcription
+  - TAFs
+  - TBP
+tldr: This article discusses the role of transcription factors in regulating gene expression in eukaryotes. The authors describe the discovery of TAFs (TBP-associated factors) as essential components of TFIID, which mediate activator-dependent transcription. They also explain how TAFs serve as coactivators and contribute to template selectivity in the transcription process. The findings provide a better understanding of the complex mechanisms governing gene expression in animal cells.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

@@ -1,0 +1,10 @@
+article_id: rspa_1963_0041
+revised_title: Molecular Weight Averages of the Sol Fraction in Polymerization
+semantic_tags:
+  - Polymer Chemistry
+  - Polymerization
+  - Molecular Weight Averages
+  - Sol Fraction
+  - Cascade Theory
+tldr: The authors use cascade theory to derive formulae for the weight average and -average degree of polymerization of the sol fraction in polymerization. They also discuss the distribution of branched polymers in solution and the importance of understanding these molecular weight averages for studying polymerization reactions.
+scientific_discipline: Chemistry > Polymer Chemistry

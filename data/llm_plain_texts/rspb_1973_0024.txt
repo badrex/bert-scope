@@ -1,0 +1,10 @@
+article_id: 'rspb_1973_0024'
+revised_title: 'Pulse Labeling Experiment on the Mitotic Cell Cycle in Zea mays Root Meristem'
+semantic_tags:
+  - Cell cycle
+  - Plant development
+  - Root meristem
+  - Proliferation
+  - DNA synthesis
+tldr: The authors conducted a pulse labeling experiment to study the mitotic cell cycle in the root meristem of Zea mays. They identified 17 different regions within the area of proliferative activity and analyzed the data for each region separately using a mathematical model for cell proliferation. The main difference between the regions studied was the mean duration of Ol9, the average delay a newborn cell experiences before it begins to synthesize DNA. The quiescent center region had a relatively high proportion of slowly dividing and non-proliferating cells.
+scientific_discipline: Biology and Life Sciences > Plant Biology

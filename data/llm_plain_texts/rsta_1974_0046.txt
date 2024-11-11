@@ -1,0 +1,10 @@
+article_id: rsta_1974_0046
+revised_title: Equations of Motion for Extended Bodies in General Relativity
+semantic_tags:
+  - General Relativity
+  - Equations of Motion
+  - Energy-Momentum Tensor
+  - Multipole Moments
+  - Gravitational Fields
+tldr: The authors study the motion of an extended body in arbitrary gravitational and electromagnetic fields, extending the concept of reduced multipole moments to the energy-momentum tensor. They derive equations of motion for the body, which are consistent with the conservation of total charge, total momentum, and total angular momentum (spin). The authors also investigate the uniqueness of the chosen set of moments and simplify the equations of motion using the multipole approximation.
+scientific_discipline: Physics > General Relativity

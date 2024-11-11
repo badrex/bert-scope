@@ -1,0 +1,10 @@
+article_id: 106733
+revised_title: Investigating Heat Production in Different Materials
+semantic_tags:
+  - Thermodynamics
+  - Heat transfer
+  - Heat capacity
+  - Heat conduction
+  - Experiments
+tldr: The author conducted experiments to understand how different materials, such as iron and pasteboard, absorb and produce heat when exposed to the same amount of sunlight. They found that the iron diaphragm produced more heat than the pasteboard diaphragm, even when exposed to the same amount of sunlight. This discovery highlights the importance of understanding the properties of different materials when it comes to heat production and transfer.
+scientific_discipline: Physics > Thermodynamics

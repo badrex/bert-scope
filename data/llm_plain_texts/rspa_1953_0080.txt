@@ -1,0 +1,10 @@
+article_id: rspa_1953_0080
+revised_title: Heat Transfer in Rotating Cylinders: Convection and Turbulence
+semantic_tags:
+  - Fluid dynamics
+  - Heat transfer
+  - Convection
+  - Turbulence
+  - Rotating cylinders
+tldr: This study investigates the heat transfer from an isolated heated horizontal cylinder rotating around its axis. The authors found that the heat transfer is nearly constant at the free convection value for rotational speeds from zero to a critical value, and then increases proportionally to the power of the rotational speed. The critical speed occurs when the circumferential speed of the rotating surface becomes approximately equal to the upward free convection velocity at the side of the heated stationary cylinder. Above the critical speed, the turbulent motion near the cylinder is similar to that which occurs in free convection above a heated horizontal surface facing upwards.
+scientific_discipline: Physics > Fluid dynamics

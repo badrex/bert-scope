@@ -1,0 +1,10 @@
+article_id: rspa_1962_0098
+revised_title: 'Electron Nuclear Double Resonance of the Divalent Europium Ion: A New Approach to Studying Hyperfine Structure'
+semantic_tags:
+  - Nuclear Magnetic Resonance
+  - Europium Ion
+  - Hyperfine Structure
+  - Crystal Field
+  - Spin Hamiltonian
+tldr: The authors conducted electron nuclear double resonance (ENDOR) experiments on the divalent europium ion in a calcium fluoride single crystal. They measured the dipole and quadrupole interactions and nuclear magnetic moments of the two europium isotopes, providing new evidence for understanding the hyperfine structure. The results offer insights into the complex interactions between the europium ion and its surrounding environment, contributing to the study of nuclear magnetic resonance and solid-state physics.
+scientific_discipline: Physics > Nuclear and Particle Physics

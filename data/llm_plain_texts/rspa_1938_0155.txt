@@ -1,0 +1,10 @@
+article_id: rspa_1938_0155
+revised_title: 'Lead Fluoride Band Spectrum: Exploring Ground States and Electronic States'
+semantic_tags:
+  - Spectroscopy
+  - Chemistry
+  - Band spectra
+  - Lead fluoride
+  - Electronic states
+tldr: This study investigates the band spectrum of lead fluoride to understand the ground and electronic states of diatomic germanium, tin, and lead halides. The researchers discovered that the lead monohalides' spectra do not show doublet multiplicity, and they suggest that the apparent absence of a second component system is due to the large doublet separation in the ground state. They also observed two broad continua in absorption and emission, and discuss the possible origins of these continuums.
+scientific_discipline: Chemistry > Spectroscopy

@@ -1,0 +1,10 @@
+article_id: 'rspb_1980_0011'
+revised_title: 'Muscarinic Receptor Subtypes in Rat Brain Regions'
+semantic_tags:
+  - Neuropharmacology
+  - Receptor binding
+  - Muscarinic receptors
+  - Brain regions
+  - Rat
+tldr: This study examines the character of muscarinic receptors in different regions of the rat brain. The researchers found that while antagonist binding constants were similar across areas, agonist binding curves showed significant differences. They discovered that all regions have three classes of receptors with similar binding characteristics, but present in different proportions. This suggests that the diverse agonist binding curves for different areas can be attributed to the different abundance of three receptor types of essentially the same binding characteristics.
+scientific_discipline: Biology and Life Sciences > Neurobiology

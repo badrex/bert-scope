@@ -1,0 +1,10 @@
+article_id: rspa_1963_0020
+revised_title: 'Rheological Properties of Interfacial Adsorbed Films of Macromolecules'
+semantic_tags:
+  - Rheology
+  - Interfacial films
+  - Macromolecules
+  - Stress relaxation
+  - Surface rheometer
+tldr: This study investigates the rheological properties of interfacial adsorbed films of macromolecules, focusing on stress relaxation phenomena. The researchers used a surface rheometer to analyze films of bovine serum albumin, pepsin, poly-L-lysine, and sodium arabinate at the hydrocarbon/water interface. They found that the films' behavior can be explained by a mechanical model with Maxwell elements, and the relaxation spectra reveal activation energies for the films' relaxation. The results provide insights into the viscoelastic properties of these films and their potential applications in materials science.
+scientific_discipline: Physics > Materials Science

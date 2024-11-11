@@ -1,0 +1,10 @@
+article_id: rspa_1986_0123
+revised_title: 'Investigation of Pseudostationary Oblique Shock-Wave Reflections in Sulphur Hexafluoride'
+semantic_tags:
+  - Fluid Dynamics
+  - Shock Waves
+  - Gas Dynamics
+  - Interferometry
+  - Computational Fluid Dynamics
+tldr: This study investigates pseudostationary oblique shock-wave reflections in sulphur hexafluoride (SF6) using interferometric and numerical methods. The four main types of shock-wave reflection - regular, single-Mach, complex-Mach, and double-Mach - were observed and analyzed. The results provide insight into the complex-flow fields and help establish the transition boundaries between different types of shock-wave reflections. The study also highlights the importance of real-gas effects in non-stationary shock-wave systems.
+scientific_discipline: Physics > Fluid Dynamics

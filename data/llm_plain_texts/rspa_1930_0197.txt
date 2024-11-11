@@ -1,0 +1,10 @@
+article_id: rspa_1930_0197
+revised_title: Tidal Oscillations in an Elliptic Basin of Variable Depth
+semantic_tags:
+  - Fluid dynamics
+  - Hydrodynamics
+  - Elliptic geometry
+  - Wave motion
+  - Mathematical physics
+tldr: This article examines the oscillations in an elliptic basin with a paraboloidal depth law, showing that the problem can be solved using polynomials and finding the free periods of any type of motion. The analysis provides a physical interpretation of certain theorems concerning the nature of solutions of differential equations and has applications in the theory of seiches in lakes.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

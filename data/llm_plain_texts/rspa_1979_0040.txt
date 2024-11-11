@@ -1,0 +1,10 @@
+article_id: rspa_1979_0040
+revised_title: Conductance Stopped-Flow Study on Micellar Equilibria of Ionic Surfactants: Sodium Dodecyl Sulfate, Sodium Tetradecyl Sulfate, and Sodium Hexadecyl Sulfate
+semantic_tags:
+  - Surfactants
+  - Micelles
+  - Conductance stopped-flow technique
+  - Ionic surfactants
+  - Relaxation times
+tldr: The authors conducted a conductance stopped-flow study on the micellar equilibria of ionic surfactants, focusing on sodium dodecyl sulfate, sodium tetradecyl sulfate, and sodium hexadecyl sulfate. They found that the relaxation times assigned to the micellization-dissolution process could be obtained from the traces of conductance changes in a wider concentration range than previous methods. The results showed that the relaxation times decreased with increasing concentration and increased with temperature.
+scientific_discipline: Chemistry > Colloids and Surface Chemistry

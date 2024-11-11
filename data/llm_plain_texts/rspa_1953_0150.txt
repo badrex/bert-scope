@@ -1,0 +1,9 @@
+article_id: rspa_1953_0150
+revised_title: 'Yield Points in Brass Crystals: The Role of Nitrogen and Zinc Segregation'
+semantic_tags:
+  - Materials Science
+  - Crystallography
+  - Mechanical Properties
+  - Brass
+  - Yield Points
+tldr: This study investigates the yielding behavior of brass crystals and the effect of nitrogen and zinc on their mechanical properties. The research finds that yield points occur in brass crystals containing 1% zinc or more, and repeated yielding happens when the crystals contain 10% zinc or more. The yield points are caused by the segregation of zinc atoms to dislocations, and a theoretical estimate is made of the critical amount of zinc needed for the yield phenomenon. The experiments also reveal that exposure to nitrogen during crystal growth produces yield points, suggesting that nitrogen in the material is responsible for the yield.

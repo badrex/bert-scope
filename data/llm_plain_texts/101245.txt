@@ -1,0 +1,10 @@
+article_id: 101245
+revised_title: A Method for Finding the Julian Period for Any Year
+semantic_tags:
+  - Mathematics
+  - Number theory
+  - Chronology
+  - Astronomy
+  - Calendar systems
+tldr: The author presents a method for finding the Julian Period, the Cycle of the Sun, the Cycle of the Moon, and the Indictions for any given year. The method involves using multipliers and divisors to determine the remainder and ultimately find the Julian Period. This information is useful for understanding historical dates and calendars.
+scientific_discipline: Mathematics > Number theory

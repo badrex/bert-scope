@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0117'
+revised_title: 'Genetic Identification of Chimpanzee Subspecies Using Hair DNA and Allele-Specific Probes'
+semantic_tags:
+  - 'Chimpanzee subspecies identification'
+  - 'Mitochondrial DNA'
+  - 'Allele-specific probes'
+  - 'Captive breeding management'
+  - 'Forensic applications'
+tldr: 'The authors developed a non-invasive method to determine the subspecies identity of chimpanzees using DNA extracted from hair. This method involves amplifying a specific segment of the mitochondrial DNA and using allele-specific oligonucleotide probes for dot-blot typing. This technique can help in colony management, recognizing individuals in comparative studies, and forensic investigations related to the origin of traded animals.'
+scientific_discipline: Biology and Life Sciences > Genetics

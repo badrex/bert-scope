@@ -1,0 +1,9 @@
+article_id: 'rspb_1995_0214'
+revised_title: 'Surrogate Mapping of Biodiversity: New World Birds and Species Richness'
+semantic_tags:
+  - Biodiversity
+  - Species Richness
+  - Avifauna
+  - Environmental Variables
+  - Higher Taxa
+tldr: The authors examine the effectiveness of environmental variables and higher taxa numbers as surrogates for species richness using the avifauna of the New World. They find that numbers of genera and families have the strongest correlations with species richness and provide the best predictions for areas in Central and South America based on data from North America. This study highlights the importance of using appropriate surrogates to estimate and map biodiversity in areas where direct measurements are not feasible.

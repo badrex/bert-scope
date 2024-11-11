@@ -1,0 +1,10 @@
+article_id: 'rstb_1981_0143'
+revised_title: 'Central Processes in Speech Understanding: Psychological Mechanisms of Language'
+semantic_tags:
+  - Psycholinguistics
+  - Speech comprehension
+  - Language processing
+  - Reaction-time tasks
+  - Discourse context
+tldr: This article explores the central processes in speech understanding and the psychological mechanisms of language. It discusses how listeners process speech in real-time, analyzing the input and transforming it into meaningful utterances. The research uses reaction-time tasks to study the temporal properties of speech understanding processes and how listeners construct a message-level interpretation of the input. The findings suggest that the listener's mental operations function optimally by bringing the speech signal into contact with the word-recognition domain as rapidly as possible, allowing for immediate interpretation of the message.
+scientific_discipline: Psychology > Psycholinguistics

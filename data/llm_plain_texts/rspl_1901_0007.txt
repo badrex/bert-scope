@@ -1,0 +1,10 @@
+article_id: rspl_1901_0007
+revised_title: 'Integration of Equations of Propagation of Electric Waves and Applications'
+semantic_tags:
+  - Electromagnetic Waves
+  - Dielectric Medium
+  - Wave Propagation
+  - Green's Theory of Potential
+  - Spherical Harmonics
+tldr: The author presents a method for integrating the equations of propagation of electric waves through a dielectric medium. They discuss various ways to solve these equations, including using spherical harmonics and arbitrary functions of time. The author also applies this method to problems like radiation passing through an aperture and the decay of electric vibrations in a condenser.
+scientific_discipline: Physics > Electromagnetic Waves

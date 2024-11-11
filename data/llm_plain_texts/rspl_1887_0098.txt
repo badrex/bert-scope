@@ -1,0 +1,10 @@
+article_id: rspl_1887_0098
+revised_title: Electrochemical Effects of Magnetisation on Iron
+semantic_tags:
+  - Electrochemistry
+  - Magnetism
+  - Iron corrosion
+  - Oxidation
+  - Electrochemical potential
+tldr: The author conducted experiments to investigate the effect of magnetisation on the electrochemical position of iron bars. They found that when an iron bar was magnetised, it became more positively charged compared to an unmagnetised bar when exposed to various solutions. This was due to the increased action of the solution on the magnetised iron, which was surrounded by a slightly stronger saline solution. The results showed that magnetisation influenced the electrochemical properties of iron.
+scientific_discipline: Physics > Electromagnetism

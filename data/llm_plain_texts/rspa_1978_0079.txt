@@ -1,0 +1,10 @@
+article_id: rspa_1978_0079
+revised_title: Finite Amplitude Benard Convection in a Cylindrical Container
+semantic_tags:
+  - Fluid dynamics
+  - Convection
+  - Heat transfer
+  - Rayleigh-Bénard convection
+  - Cylindrical geometry
+tldr: This study investigates the effect of sidewalls on the transition to finite amplitude Benard convection in a cylindrical container. The research focuses on axisymmetric circular rolls and their behavior in different Rayleigh number ranges. The results show that the amplitude at the center of the cylinder is increased, and the critical Rayleigh number for convection cells to spread throughout the fluid is slightly higher than in the two-dimensional case.
+scientific_discipline: Physics > Fluid dynamics

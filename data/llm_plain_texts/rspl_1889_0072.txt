@@ -1,0 +1,10 @@
+article_id: rspl_1889_0072
+revised_title: Electric Discharge Between Electrodes at Different Temperatures in Air and High Vacua
+semantic_tags:
+  - Electrochemistry
+  - Electric discharge
+  - Carbon incandescence lamps
+  - Electric arc
+  - Electromotive force
+scientific_discipline: Physics > Electromagnetism
+tldr: The author investigates electric discharge between electrodes at different temperatures in air and high vacua, focusing on incandescent lamps with an insulated wire or plate. They discover that the potential difference between the insulated metal plate and the negative electrode is equal to the working potential difference of the lamp. The author also observes that the position and material of the metal plate influence the current flowing through a galvanometer connected to the lamp.

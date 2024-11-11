@@ -1,0 +1,10 @@
+article_id: rspa_1966_0190
+revised_title: 'Gaseous Dispersion in Laminar Flow through a Circular Tube with Mass Transfer to a Retentive Layer: Experimental Verification of Aris's Analysis'
+semantic_tags:
+  - Gas chromatography
+  - Mass transfer
+  - Laminar flow
+  - Dispersion coefficient
+  - Capillary columns
+tldr: The authors studied the dispersion of a gaseous tracer in a flowing stream of another gas, with mass transfer to a retentive layer in a circular tube. They verified Aris's analysis by experimenting with a system that used a retentive layer of stagnant gas held within a porous solid structure. This research can be applied to gas chromatography and the study of gaseous diffusion in catalysts and other porous materials.
+scientific_discipline: Engineering and Technology > Chemical Engineering

@@ -1,0 +1,10 @@
+article_id: 109816
+revised_title: Double Distillation Process Using Steam and Heat
+semantic_tags:
+  - Distillation
+  - Heat Transfer
+  - Steam Condensation
+  - Atmospheric Pressure
+  - Chemical Engineering
+tldr: The author explains a method for producing a double distillation process using the same heat. By controlling the temperature and pressure, the process can be optimized to achieve better results. The method involves using a specially designed apparatus with a head and receiver to ensure air-tightness and efficient heat transfer.
+scientific_discipline: Chemistry > Chemical Engineering

@@ -1,0 +1,10 @@
+article_id: 'rspb_1950_0061'
+revised_title: 'The Biological Foundations of Measurements of Growth and Form'
+semantic_tags:
+  - Growth and Development
+  - Allometry
+  - Morphology
+  - Biology
+  - Mathematical Modeling
+tldr: This article discusses the importance of understanding the biological foundations of measurements of growth and form in order to accurately analyze and compare growing organisms. It explores the limitations of mathematical analysis in describing complex growth patterns and emphasizes the need for a more comprehensive approach that takes into account the complexity of biological systems.
+scientific_discipline: Biology > Morphology

@@ -1,0 +1,10 @@
+article_id: rspa_1922_0018
+revised_title: Temperature Influence on Formic Acid Decomposition Modes
+semantic_tags:
+  - Chemical kinetics
+  - Temperature effects
+  - Heterogeneous catalysis
+  - Formic acid decomposition
+  - Surface reactions
+tldr: The authors studied the influence of temperature on two simultaneous modes of decomposition of formic acid. They found that the reactions have different temperature coefficients, with one reaction having a higher coefficient. The results support the theory of heterogeneous catalysis, where reactions occur in a unimolecular layer at the surface of the catalyst.
+scientific_discipline: Chemistry > Chemical kinetics

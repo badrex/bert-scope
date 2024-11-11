@@ -1,0 +1,10 @@
+article_id: rspa_1967_0211
+revised_title: 'Heat Transfer in Heat-Generating Fluids in Vertical Cylinders'
+semantic_tags:
+  - Fluid dynamics
+  - Heat transfer
+  - Natural convection
+  - Thermal engineering
+  - Nuclear engineering
+tldr: The article predicts heat transfer due to natural convection in vertically cooled cylinders containing heat-generating fluids. It focuses on fluids with Prandtl numbers of unity or above and provides solutions for infinite and semi-infinite cells with closed lower ends. The study is relevant to nuclear engineering, chemical engineering, and geophysics.
+scientific_discipline: Engineering and Technology > Fluid Dynamics and Heat Transfer

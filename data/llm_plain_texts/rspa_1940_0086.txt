@@ -1,0 +1,10 @@
+article_id: rspa_1940_0086
+revised_title: A Theoretical Study of Paramagnetic Alums at Low Temperatures
+semantic_tags:
+  - Alums
+  - Paramagnetism
+  - Low temperatures
+  - Crystal lattice
+  - Magnetic dipoles
+tldr: This article presents a theoretical study of a possible model of paramagnetic alums at low temperatures. The authors propose a lattice of freely suspended magnetic dipoles as a first approximation to represent a paramagnetic alum. They discuss the configuration energy, partition function, and the critical temperature of the system, providing insights into the behavior of paramagnetic alums under various conditions.
+scientific_discipline: Physics > Condensed Matter Physics

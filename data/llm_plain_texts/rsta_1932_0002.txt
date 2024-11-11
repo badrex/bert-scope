@@ -1,0 +1,10 @@
+article_id: rsta_1932_0002
+revised_title: Investigation of the Equation of State for Propellant Gases
+semantic_tags:
+  - Gas dynamics
+  - Explosives
+  - Pressure measurement
+  - Equation of state
+  - Propellant chemistry
+tldr: The authors conducted experiments to measure the pressures developed by gases from the explosion of colloidal propellants and derived an explicit expression for the equation of state. They designed special recording apparatus to measure pressures given by various explosives at various densities of loading and compared the values with relevant kinetic and thermodynamical data.
+scientific_discipline: Physics > Gas dynamics

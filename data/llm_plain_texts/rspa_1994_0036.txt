@@ -1,0 +1,10 @@
+article_id: 'rspa_1994_0036'
+revised_title: 'Evaluating Incomplete Elliptic Integrals Using Kampe de Feriet Double Hypergeometric Functions'
+semantic_tags:
+  - Elliptic Integrals
+  - Hypergeometric Functions
+  - Kampe de Feriet Double Hypergeometric Functions
+  - Erdelyi-Kober Fractional Integrals
+  - Incomplete Elliptic Integrals
+tldr: The authors provide a closed-form evaluation of Erdelyi-Kober fractional integrals involving incomplete elliptic integrals of the first and second kind. They achieve this by representing these integrals in terms of Kampe de Feriet double hypergeometric functions. The authors also simplify solutions for thirteen special cases, including integrals involving complete elliptic integrals.
+scientific_discipline: Mathematics > Special Functions

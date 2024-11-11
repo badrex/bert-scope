@@ -1,0 +1,10 @@
+article_id: rspa_1962_0056
+revised_title: 'Impurity Atmosphere Growth Around Dislocations: Analytical and Numerical Approaches'
+semantic_tags:
+  - Materials Science
+  - Dislocations
+  - Impurity Atmospheres
+  - Computational Physics
+  - Solid State Physics
+tldr: This article presents a study on the growth of impurity atmospheres around dislocations in materials. The authors develop an analytical perturbation solution and a direct numerical method to understand the kinetics of impurity growth and the role of physical processes involved. The findings suggest that the simple formation of atmospheres around dislocations cannot explain all the observations related to the phenomenon of strain aging.
+scientific_discipline: Physics > Materials Science

@@ -1,0 +1,10 @@
+article_id: 'rspb_1934_0057'
+revised_title: 'Improving Bacterial Counting Methods in Soil: The Ratio Method'
+semantic_tags:
+  - Soil microbiology
+  - Bacterial counting
+  - Soil analysis
+  - Microscopy
+  - Ratio method
+tldr: The authors discuss the limitations of traditional plate counting methods for estimating bacterial populations in soil samples. They propose a new ratio method that uses added particles to calculate bacterial numbers, avoiding the need to estimate the mass of soil in the film. This method provides a more accurate and reliable estimation of bacterial content in soil samples.
+scientific_discipline: Environmental and Earth Sciences > Soil Science

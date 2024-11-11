@@ -1,0 +1,10 @@
+article_id: rspa_1993_0163
+revised_title: Bounds on the Number of Local Maxima of Constrained Quadratic Forms
+semantic_tags:
+  - Matrix Theory
+  - Evolutionary Stability
+  - Polymorphisms
+  - Quadratic Forms
+  - Optimization
+tldr: The authors investigate the problem of determining the maximum number of local maxima for a constrained quadratic form. They consider the biological context of population genetics and provide bounds on the number of local maxima. The results have implications for understanding the stability of genetic systems and the existence of different allele combinations in populations.
+scientific_discipline: Mathematics > Matrix Theory

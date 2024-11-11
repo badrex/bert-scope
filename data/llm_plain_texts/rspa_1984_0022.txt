@@ -1,0 +1,10 @@
+article_id: rspa_1984_0022
+revised_title: Discovering Diabolical Points in the Spectra of Triangles
+semantic_tags:
+  - Quantum Mechanics
+  - Spectroscopy
+  - Triangle Geometry
+  - Diabolical Points
+  - Energy Levels
+tldr: The authors explore the energy levels of a two-parameter family of triangular quantum billiards and discover diabolical points, which are accidental degeneracies between energy levels. They use a Green-function technique to compute the levels and find several diabolical points for low-lying levels. The authors also confirm the conical structure of these points and analyze the variation of wavefunctions and nodal patterns around them.
+scientific_discipline: Physics > Quantum Mechanics

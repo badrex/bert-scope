@@ -1,0 +1,10 @@
+article_id: rspa_1963_0060
+revised_title: 'Magnetic and Chemical Order in Platinum-Rich Pt + Fe Alloys'
+semantic_tags:
+  - Alloy Chemistry
+  - Antiferromagnetism
+  - Ferromagnetism
+  - Neutron Diffraction
+  - Magnetic Structures
+tldr: The authors studied the magnetic structures of platinum-iron alloys near the composition PtFe using neutron diffraction and direct magnetic measurements. They found that the magnetic structure is sensitive to the chemical order, particularly the number of nearest-neighbor iron atoms. Alloys with perfect chemical order have a simple antiferromagnetic structure, while adding excess iron leads to the coexistence of two different structures with different Neel temperatures. An incipient ferromagnetic state associated with excess iron is also observed. As the iron content increases beyond 34%, bulk ferromagnetism develops, with iron atoms carrying a magnetic moment and little or no moment on platinum atoms.
+scientific_discipline: Physics > Materials Science

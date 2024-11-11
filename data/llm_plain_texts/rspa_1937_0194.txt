@@ -1,0 +1,10 @@
+article_id: 'rspa_1937_0194'
+revised_title: 'Molecular Interpretation of Thermoelastic Properties in Muscle'
+semantic_tags:
+  - Muscle Biology
+  - Thermoelasticity
+  - Molecular Structure
+  - Protein Chains
+  - Viscous-Elasticity
+tldr: The authors investigated the effect of temperature change on the elastic force of a stretched muscle. They concluded that the elastic system of muscle consists of flexible, primary-valence chain molecules that become ordered when stretched and return to a random arrangement with thermal agitation. The elastic force increases more rapidly at intermediate elongations, and latent heat is set free during stretching. X-ray studies support the molecular interpretation of the muscle's viscous-elastic properties.
+scientific_discipline: Biology and Life Sciences > Muscle Biology

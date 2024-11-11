@@ -1,0 +1,10 @@
+article_id: rspa_1973_0099
+revised_title: 'Relaxing Monotonicity Conditions for Quasilinear Elliptic Equations in Unbounded Domains'
+semantic_tags:
+  - Partial Differential Equations
+  - Elliptic Equations
+  - Monotone Operators
+  - Sobolev Spaces
+  - Unbounded Domains
+tldr: This paper presents a theorem that shows the existence of a variational solution for the Dirichlet problem of quasilinear elliptic partial differential equations in unbounded domains. The authors relax the monotonicity conditions on the coefficients of the equations, allowing for more flexibility in applications. The theory of monotone operators and weighted Sobolev spaces is used to prove the main result.
+scientific_discipline: Mathematics > Functional Analysis

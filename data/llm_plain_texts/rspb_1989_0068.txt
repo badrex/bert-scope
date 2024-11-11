@@ -1,0 +1,12 @@
+article_id: 'rspb_1989_0068'
+revised_title: 'The Biogenesis of Cyanellae in Cyanophora Paradoxa: In Vitro Synthesis of Cyanellar Polypeptides'
+semantic_tags:
+  - 'Cyanophora Paradoxa'
+  - 'Cyanellae Biogenesis'
+  - 'In Vitro Translation'
+  - 'Polypeptide Synthesis'
+  - 'RNA Separation'
+tldr: 'The study investigates the biogenesis of cyanellae in Cyanophora Paradoxa by synthesizing cyanellar polypeptides in vitro using separated cytoplasmic and cyanellar RNA. The results indicate that certain proteins, such as the linker polypeptide of the phycobilisome, the y subunit of coupling factor CF1, and subunit II of PS I, are synthesized in the cytoplasm as precursor molecules before being imported into the cyanellae.'
+scientific_discipline: Biology and Life Sciences > Cell Biology
+```yaml
+```

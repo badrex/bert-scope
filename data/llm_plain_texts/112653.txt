@@ -1,0 +1,10 @@
+article_id: 112653
+revised_title: 'On the Augmentation of the Power of a Magnet by the Reaction of Induced Currents'
+semantic_tags:
+  - Electromagnetism
+  - Magnetism
+  - Electromagnetic Induction
+  - Electromagnetic Machines
+  - Physics
+tldr: 'Charles Wheatstone discovered that an electro-magnet can become a powerful magnet by the gradually augmenting currents it generates itself. This phenomenon occurs when the electro-magnet's residual magnetism interacts with the currents produced by a rotating armature. The resulting increase in magnetic power can be further enhanced by using a cross wire to divert a portion of the current, reducing the resistance and improving the overall effect.'
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rspa_1965_0016
+revised_title: Unstable Cyclotron Waves in Relativistic Plasmas: A Study of Three Models
+semantic_tags:
+  - Plasma physics
+  - Cyclotron waves
+  - Relativistic plasmas
+  - Cosmic rays
+  - Astrophysics
+tldr: This article explores the existence of unstable cyclotron waves in three models of relativistic particle momentum distribution: Maxwellian and slightly anisotropic with a momentum cutoff, cosmic ray type and anisotropic with a momentum cutoff, and cosmic ray type and isotropic with a momentum cutoff and a finite loss cone. The study aims to determine the conditions for instability and the maximum rates of growth for these models, using the Penrose condition and considering physical values appropriate to the Crab Nebula and Cassiopeia A.
+scientific_discipline: Physics > Plasma Physics

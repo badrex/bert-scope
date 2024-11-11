@@ -1,0 +1,10 @@
+article_id: 'rspa_1960_0129'
+revised_title: 'Scattering of 28.5 MeV 3He Particles and Nuclear Reactions'
+semantic_tags:
+  - Nuclear Physics
+  - Optical Model
+  - Elastic Scattering
+  - Nuclear Reactions
+  - 3He Particles
+tldr: The authors conducted experiments to study the scattering of 28.5 MeV 3He particles and the resulting nuclear reactions. They analyzed the elastic scattering distributions using an optical model and found that the 3He nucleus behaves similarly to alpha particles. The observed angular distributions confirm that the 3He nucleus has a short mean free path in nuclear matter, making the interaction mainly a surface effect. The authors also obtained interaction radii from the positions of maxima and minima in the scattering patterns.
+scientific_discipline: Physics > Nuclear Physics

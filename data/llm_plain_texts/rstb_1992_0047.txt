@@ -1,0 +1,10 @@
+article_id: 'rstb_1992_0047'
+revised_title: 'ATP-Dependent DNA Topoisomerases in Energy Transduction and Cellular Regulation'
+semantic_tags:
+  - DNA topoisomerases
+  - ATP-dependent enzymes
+  - DNA supercoiling
+  - Cellular regulation
+  - Energy transduction
+tldr: 'This article discusses the role of ATP-dependent DNA topoisomerases in energy transduction and cellular regulation. It explains how these enzymes, such as DNA gyrase and eukaryotic type II topoisomerases, change the topological state of DNA and influence processes like DNA replication, transcription, and recombination. The article also explores the mechanisms of these enzymes and their importance in cellular functions.'
+scientific_discipline: Biology and Life Sciences > Molecular Biology

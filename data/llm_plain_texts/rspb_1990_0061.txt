@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0061'
+revised_title: 'Exploring the Mechanisms of Epidermal Wound Healing through Mathematical Modeling'
+semantic_tags:
+  - Wound healing
+  - Epidermal migration
+  - Cell density
+  - Mathematical modeling
+  - Cell growth
+tldr: This article presents a mathematical model to study the mechanisms of epidermal wound healing, focusing on the spreading of cells across the surface of an epidermal wound. The model suggests that biochemical regulation of cell mitosis is essential for the healing process, and a single chemical with a simple regulatory effect can account for the healing of circular epidermal wounds. The model results are compared with experimental data, providing insights into the role of cell migration, mitosis, and contact inhibition in wound healing.
+scientific_discipline: Biology and Life Sciences > Cell Biology

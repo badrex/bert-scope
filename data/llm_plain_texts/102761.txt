@@ -1,0 +1,10 @@
+article_id: 102761
+revised_title: Observations of Thermometer and Magnetick Needle at the Cape of Good Hope
+semantic_tags:
+  - Temperature measurement
+  - Magnetism
+  - Compass variation
+  - Navigation
+  - Geomagnetism
+tldr: James Cuningham observed the thermometer and magnetic needle during his voyage to the Cape of Good Hope. He found that the thermometer's highest reading was two divisions below extreme hot near the equator. The compass needle varied by 8 degrees north of the equator and inclined 48 degrees upward as he sailed southward.
+scientific_discipline: Environmental and Earth Sciences > Geomagnetism

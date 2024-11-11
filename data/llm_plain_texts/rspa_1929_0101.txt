@@ -1,0 +1,10 @@
+article_id: rspa_1929_0101
+revised_title: 'Intensity of Total Scattering of X-rays by Atoms'
+semantic_tags:
+  - X-ray scattering
+  - Atomic physics
+  - Quantum mechanics
+  - Relativity
+  - Atomic spectroscopy
+tldr: This article investigates the intensity of total X-ray scattering by atoms, focusing on the coherent and incoherent scattered radiation. The authors derive general expressions for the scattered radiation and apply them to the special case of helium atoms. They also discuss the effects of relativity and the role of electron spin in the scattering process.
+scientific_discipline: Physics > Atomic physics

@@ -1,0 +1,10 @@
+article_id: rspa_1910_0087
+revised_title: Tidal Observations of the British Antarctic Expedition, 1907
+semantic_tags:
+  - Tides
+  - Oceanography
+  - Antarctic research
+  - Tide gauge
+  - Seiches
+scientific_discipline: Earth Sciences > Oceanography
+tldr: The British Antarctic Expedition of 1907 conducted tidal observations to study the behavior of tides and seiches in the Antarctic region. They used a tide gauge apparatus to record the changes in water levels and discovered regular oscillations of shorter intervals than tidal periods. The collected data was analyzed to understand the tides' heights, phases, and harmonic constituents, providing valuable insights into the Antarctic ocean dynamics.

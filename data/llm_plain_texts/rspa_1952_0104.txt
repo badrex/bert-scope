@@ -1,0 +1,10 @@
+article_id: rspa_1952_0104
+revised_title: Grain Boundaries in Crystal Structures: A Dynamical Model
+semantic_tags:
+  - Crystallography
+  - Grain Boundaries
+  - Dislocations
+  - Materials Science
+  - Bubble Rafts
+tldr: This article presents a dynamical model of a crystal structure, focusing on grain boundaries and their behavior in pure metals. The authors use bubble rafts as a two-dimensional model to study the transition from small-angle boundaries with separate dislocations to large-angle boundaries with a more complex structure. They discuss the nature of boundaries in metals, grain boundary energies, and the movement of dislocations in these structures.
+scientific_discipline: Materials Science > Crystallography

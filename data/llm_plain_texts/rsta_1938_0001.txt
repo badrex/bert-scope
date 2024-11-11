@@ -1,0 +1,10 @@
+revised_title: Stark Effect in Argon and Krypton: A Detailed Analysis
+semantic_tags:
+  - Atomic Physics
+  - Spectroscopy
+  - Quantum Mechanics
+  - Stark Effect
+  - Argon
+  - Krypton
+tldr: This article presents a detailed investigation of the Stark effect in argon and krypton using the Lo Surdo method. The authors observed Stark effects for 86 normal levels in argon and 75 in krypton at exactly 100 kV/cm. They found that seven levels in argon and six in krypton reverse the directions of their displacements with increasing field strength. The authors provide energy level diagrams and discuss the implications of their findings.
+scientific_discipline: Physics > Atomic Physics

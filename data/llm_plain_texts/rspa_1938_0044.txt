@@ -1,0 +1,10 @@
+article_id: rspa_1938_0044
+revised_title: Velocity and Temperature Distributions in Turbulent Wakes
+semantic_tags:
+  - Fluid Dynamics
+  - Turbulence
+  - Heat Transfer
+  - Vorticity Transport Theory
+  - Boundary Layer Theory
+tldr: The authors apply Taylor's modified vorticity transport theory of turbulence to calculate the velocity and temperature distributions in the turbulent wake behind a heated body of revolution in a uniform stream. They assume geometrical and mechanical similarity and isotropy in turbulence, and compare their theoretical curve of velocity distribution with experimental observations of Schlichting and Simmons.
+scientific_discipline: Physics > Fluid Dynamics

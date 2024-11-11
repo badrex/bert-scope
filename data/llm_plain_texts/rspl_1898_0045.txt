@@ -1,0 +1,10 @@
+article_id: rspl_1898_0045
+revised_title: Extension of Maxwell's Electromagnetic Theory for Dispersion and Metallic Reflection
+semantic_tags:
+  - Electromagnetic Theory
+  - Dispersion
+  - Metallic Reflection
+  - Dielectric Media
+  - Optics
+tldr: The author extends Maxwell's electromagnetic theory to include dispersion and metallic reflection. They consider a dielectric medium composed of molecules with oppositely charged atoms and analyze the electric moments and forces acting on them. The study also covers the propagation of electrical disturbances in polarizable media, dispersion (both ordinary and anomalous), and metallic reflection, with a focus on Kundt's experiments on the velocity of light in metals.
+scientific_discipline: Physics > Electromagnetism

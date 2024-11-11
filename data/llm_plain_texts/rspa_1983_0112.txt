@@ -1,0 +1,10 @@
+article_id: rspa_1983_0112
+revised_title: Soliton Solutions of Korteweg-de Vries and Kadomtsev-Petviashvili Equations Using Wronskian Technique
+semantic_tags:
+  - Solitons
+  - Korteweg-de Vries equation
+  - Kadomtsev-Petviashvili equation
+  - Wronskian technique
+  - Nonlinear partial differential equations
+tldr: The authors present a compact and efficient method for finding soliton solutions of the Korteweg-de Vries and Kadomtsev-Petviashvili equations using the Wronskian technique. This method simplifies the manipulation of determinants and provides a direct verification of the solutions' correctness. The technique also allows for the derivation of explicit expressions for functions used in inverse scattering theory and the satisfaction of eigenvalue equations and Backlund transformations.
+scientific_discipline: Mathematics > Applied Mathematics

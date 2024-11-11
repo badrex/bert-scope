@@ -1,0 +1,10 @@
+article_id: rspa_1921_0090
+revised_title: 'The Efficiency of Heterogeneous Light in Photographic Processes'
+semantic_tags:
+  - Photometry
+  - Light efficiency
+  - Photographic technology
+  - Spectral lines
+  - Atomic structure
+tldr: The authors conducted experiments to study the efficiency of heterogeneous light in photographic processes. They found that radiations of different frequencies do not act independently in producing the photochemical change, and the efficiency depends on the total amount of energy absorbed by the photographic grains, regardless of the different frequencies. This discovery helps to understand the photographic efficiency of various light sources and improve photographic technology.
+scientific_discipline: Physics > Optics

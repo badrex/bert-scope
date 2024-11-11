@@ -1,0 +1,10 @@
+article_id: 'rsta_1987_0076'
+revised_title: 'Ultra-high-sensitivity Mass Spectrometry with Accelerators: Tandem-Accelerator Mass-Spectrometry Measurements of Radioisotopes and Stable Isotopes in Natural Samples'
+semantic_tags:
+  - Accelerator Mass Spectrometry
+  - Radioisotopes
+  - Stable Isotopes
+  - Tandem-Accelerator
+  - Natural Samples
+tldr: This article discusses the use of tandem-accelerator mass-spectrometry (TAMS) to measure radioisotopes and stable isotopes in various natural samples. The technique has been applied to a range of fields, including archaeology, oceanography, geology, and meteorology. The authors describe their work at the University of Rochester, focusing on measurements of 10Be, 36Cl, and 129I, as well as stable isotopes of osmium. The high sensitivity of the method allows for precise detection and analysis of these isotopes, providing valuable information for understanding the age and origin of natural materials.
+scientific_discipline: Chemistry > Analytical Chemistry

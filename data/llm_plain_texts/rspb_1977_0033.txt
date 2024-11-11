@@ -1,0 +1,10 @@
+article_id: 'rspb_1977_0033'
+revised_title: 'Understanding the Biology of Chemical Carcinogenesis: A Report on a Discussion Meeting'
+semantic_tags:
+  - Carcinogenesis
+  - Mutagenicity
+  - Cancer prevention
+  - DNA repair mechanisms
+  - Enzyme activation
+tldr: This article reports on a discussion meeting about the biology of chemical carcinogenesis held at the Royal Society. The participants agreed that the proceedings should not be published, so the author, R. Dulbecco, wrote a report summarizing the meeting. The report covers topics such as the activation of chemical carcinogens, the role of enzymes in metabolism, and the relationship between mutagenic and carcinogenic actions of active intermediates. The meeting highlighted the importance of understanding these processes for cancer prevention and the potential for identifying groups with unusually high or low risk of developing cancer after exposure to carcinogens.
+scientific_discipline: Biology and Life Sciences > Genetics and Molecular Biology

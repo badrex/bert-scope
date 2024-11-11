@@ -1,0 +1,10 @@
+article_id: 'rspb_1936_0045'
+revised_title: 'Quantitative Study of Bacteria Sensitivity to Ultra-Violet Light'
+semantic_tags:
+  - Bacteriology
+  - Ultra-Violet Light
+  - Photobiology
+  - Bacterial Growth
+  - Sensitivity to Light
+tldr: The authors conducted experiments to understand the effect of different wavelengths of ultra-violet light on the growth of various bacteria species. They found that bacteria have varying levels of sensitivity to different wavelengths of ultra-violet light, and that exposure to certain wavelengths can significantly reduce bacterial growth. The study also introduced a new technique for measuring bacterial growth using a photoelectric effect.
+scientific_discipline: Biology and Life Sciences > Microbiology

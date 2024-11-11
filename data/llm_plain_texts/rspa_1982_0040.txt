@@ -1,0 +1,9 @@
+article_id: rspa_1982_0040
+revised_title: 'Improved Technique for Measuring Diffusion Coefficients of Reactive Species in Dilute Gases'
+semantic_tags:
+  - Gas chromatography
+  - Diffusion coefficients
+  - Reactive species
+  - Hydrogen atoms
+  - Gas-phase reactions
+tldr: The authors developed an improved technique for measuring the diffusion coefficients of reactive species in dilute gases, such as hydrogen atoms in argon and nitrogen. The method involves injecting a pulse of reactive species into a stream of gas flowing rapidly and measuring the rate of dispersion using resonance fluorescence. This technique allows for more accurate measurements of transport properties for reactive species, which is important for understanding various chemical processes in the atmosphere, combustion, and heterogeneous reactions.

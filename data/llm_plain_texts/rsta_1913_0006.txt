@@ -1,0 +1,10 @@
+article_id: 'rsta_1913_0006'
+revised_title: 'Temperature Dependence of Chemical Reaction Rates'
+semantic_tags:
+  - Chemical kinetics
+  - Temperature effects
+  - Reaction rate constants
+  - Ferric chloride
+  - Stannous chloride
+tldr: The authors studied the effect of temperature on the rate of a chemical reaction between ferric chloride and stannous chloride. They found that the reaction rate increased with temperature, and the rate could be nearly represented by a geometric progression. The authors also discovered that at zero temperature, atoms are at rest and no chemical change occurs.
+scientific_discipline: Chemistry > Chemical kinetics

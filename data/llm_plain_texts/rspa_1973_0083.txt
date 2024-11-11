@@ -1,0 +1,10 @@
+article_id: rspa_1973_0083
+revised_title: Iterative Methods for Solving Linear Problems
+semantic_tags:
+  - Linear Algebra
+  - Numerical Methods
+  - Operator Theory
+  - Iterative Methods
+  - Convergence
+tldr: The article discusses iterative methods for solving linear problems by successive approximations. It presents a new approach to ensure convergence and provides upper and lower bounds on the quadratic functional of the solution, making it possible to evaluate important physical quantities more efficiently.
+scientific_discipline: Mathematics > Linear Algebra

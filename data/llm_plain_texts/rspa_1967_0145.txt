@@ -1,0 +1,10 @@
+article_id: rspa_1967_0145
+revised_title: Anisotropy of Free Carrier Absorption in Silicon Carbide
+semantic_tags:
+  - Semiconductor materials
+  - Absorption coefficients
+  - Anisotropic effective mass
+  - Carrier relaxation time
+  - Silicon carbide
+tldr: This article presents absorption measurements in 6H and 15R silicon carbide, focusing on the anisotropy of free carrier absorption. The authors demonstrate that the absorption coefficients for radiation with its electric vector perpendicular to the symmetry axis are greater than those for parallel polarization. They also discuss the wavelength dependence of the absorption coefficients in the high-frequency region and the effects of anisotropy in the effective mass and relaxation time on the absorption. The results provide insights into the conduction bands in silicon carbide and help determine the effective mass and relaxation time in the material.
+scientific_discipline: Physics > Materials Science

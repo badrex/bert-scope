@@ -1,0 +1,11 @@
+article_id: 'rspb_1940_0038'
+revised_title: 'Investigation of Chloroplasts and Photosynthesis Mechanism'
+semantic_tags:
+  - Photosynthesis
+  - Chloroplasts
+  - Oxygen production
+  - Urethane inhibition
+  - Ferric oxalate reaction
+tldr: 'The authors conducted experiments with isolated chloroplasts from Stellaria media to study the reduction of ferric oxalate and its relation to photosynthesis. They found that varying light intensity and the presence of urethane affected the ferric oxalate reaction. The results suggest that the light reaction in photosynthesis is the production of the oxygen molecule, rather than the reduction of carbon dioxide.'
+
+scientific_discipline: Biology and Life Sciences > Photosynthesis

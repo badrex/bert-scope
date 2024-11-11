@@ -1,0 +1,10 @@
+article_id: 'rspb_1921_0029'
+revised_title: 'Optimal Frequency and Reflex Responses in Frog's Muscles'
+semantic_tags:
+  - Reflex responses
+  - Frog physiology
+  - Stimulation frequency
+  - Spinal reflex centre
+  - Optimal frequency-rate
+tldr: The author conducted experiments on frogs to study the relationship between the frequency and intensity of stimulation and the resulting reflex reactions. They discovered that there is an optimal frequency-rate of stimulation that produces the most powerful reflex contraction. The author also found that the reflex center discharge follows the successive volleys of centripetal impulses at the same rate as those evoked in and transmitted to it by the afferent nerve.
+scientific_discipline: Biology and Life Sciences > Physiology

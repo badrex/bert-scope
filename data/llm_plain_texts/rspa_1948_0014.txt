@@ -1,0 +1,10 @@
+article_id: rspa_1948_0014
+revised_title: 'Penetrating Particles in Extensive Air Showers: Density Spectrum and Physical Interpretation'
+semantic_tags:
+  - Cosmic Rays
+  - Particle Physics
+  - Air Showers
+  - Nuclear Physics
+  - Absorbers
+tldr: The authors conducted experiments to study the production of penetrating particles in extensive air showers. They found that the density spectrum of these particles is proportional to the density of the air showers. The results suggest that most of the coincidences are caused by showers of low density, and the probability of multiple particles falling on the area is independent of the density. This discovery helps to understand the physical processes involved in air showers and the behavior of penetrating particles.
+scientific_discipline: Physics > Particle Physics

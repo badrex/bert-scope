@@ -1,0 +1,10 @@
+article_id: rspa_1967_0036
+revised_title: Quantum Yields of Triplet Formation in Chlorophyll Solutions
+semantic_tags:
+  - Photosynthesis
+  - Chlorophyll
+  - Triplet state
+  - Quantum yields
+  - Flash photolysis
+tldr: The authors used flash photolysis to measure the quantum yields of triplet formation in chlorophyll solutions. They found that the yields were higher in polar solvents like ether and lower in non-polar solvents like hydrocarbons. The results suggest that the low yields in dry solvents are due to the dissociation of excited singlet dimer chlorophyll into ground state monomer species.
+scientific_discipline: Biology and Life Sciences > Photosynthesis

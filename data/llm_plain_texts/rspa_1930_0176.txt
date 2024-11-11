@@ -1,0 +1,11 @@
+article_id: 'rspa_1930_0176'
+revised_title: 'Displacement of the Explosion Limit in Chain Reactions by Ultra-Violet Light'
+semantic_tags:
+  - Chain reactions
+  - Explosion limits
+  - Ultra-violet light
+  - Phosphine
+  - Oxygen
+  - Chemical kinetics
+tldr: 'The authors discovered that exposing a mixture of phosphine and oxygen to ultra-violet light lowers the pressure needed for an explosion. They found that a substance is formed by the light, which makes the mixture more explosive. This substance accumulates until it reaches a concentration that balances its formation and decay. The authors also found that the active substance is destroyed at the walls of the container, and only a small fraction of the collisions with the wall are effective in destroying it.'
+scientific_discipline: Chemistry > Chemical kinetics

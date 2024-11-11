@@ -1,0 +1,10 @@
+article_id: rspa_1963_0132
+revised_title: 'Improving Mass Spectrometer Design for Studying Chemical Reactions'
+semantic_tags:
+  - Mass spectrometry
+  - Chemical kinetics
+  - Gas-phase reactions
+  - Ion source design
+  - Differential pumping
+tldr: The authors developed a mass spectrometer designed to study gas-phase chemical kinetics. They created an ion source with a differentially pumped electron beam filament chamber and line-of-sight access from the sampling pinhole to the ionization region. This design significantly reduced contamination of the sample by pyrolysis products formed from the sample on the hot filament, improving the accuracy of the mass spectrometer for studying chemical reactions.
+scientific_discipline: Chemistry > Analytical Chemistry

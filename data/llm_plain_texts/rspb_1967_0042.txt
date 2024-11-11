@@ -1,0 +1,10 @@
+article_id: 'rspb_1967_0042'
+revised_title: 'Interaction of Lysozyme and Penicillin: Structural and Functional Insights'
+semantic_tags:
+  - Enzyme structure
+  - Antibiotics
+  - Protein-ligand interactions
+  - Crystallography
+  - Penicillin
+tldr: This article discusses the interaction between lysozyme and penicillin, focusing on their structure and function. The authors use crystallographic experiments to study how penicillin binds to the active site of lysozyme. They find that penicillin binds specifically to the cleft in the enzyme surface, but the binding appears weaker compared to N-acetylmuramic acid. The authors also explore possible amino acid residues involved in the interaction and discuss the inhibitory effects of penicillin on lysozyme's action on Micrococcus lysodeikticus cells.
+scientific_discipline: Biology and Life Sciences > Biochemistry

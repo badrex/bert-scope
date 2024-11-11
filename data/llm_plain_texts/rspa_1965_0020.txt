@@ -1,0 +1,10 @@
+article_id: rspa_1965_0020
+revised_title: Ionization of Atomic Hydrogen by Electron Impact: A Study of Cross-Sections and Asymptotic Forms
+semantic_tags:
+  - Atomic physics
+  - Electron impact
+  - Ionization
+  - Cross-sections
+  - Asymptotic forms
+tldr: This article investigates the ionization of atomic hydrogen by electron impact, focusing on the cross-sections and asymptotic forms of the process. The authors develop a general theory, discuss experimental results, and present numerical calculations to better understand the phenomenon. The study provides insights into the behavior of electrons and their interactions with hydrogen atoms during ionizing collisions.
+scientific_discipline: Physics > Atomic and Molecular Physics

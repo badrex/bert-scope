@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0155'
+revised_title: 'Molecular Evidence Suggests Early Acquisition of Mitochondrion Endosymbiont'
+semantic_tags:
+  - 'Mitochondria'
+  - 'Endosymbiosis'
+  - 'Eukaryote Evolution'
+  - 'Trichomonas'
+  - 'Naegleria'
+tldr: 'The study investigates the timing of the mitochondrion endosymbiosis by analyzing a partial cpn-60 coding region from Trichomonas vaginalis and Naegleria fowleri. The results show a high degree of sequence similarity with bacterial and mitochondrial cpn-60s, suggesting that the ancestor of T. vaginalis once contained the endosymbiont that gave rise to mitochondria. This implies that the symbiosis occurred before the Trichomonas lineage diverged from the main eukaryote trunk.'
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

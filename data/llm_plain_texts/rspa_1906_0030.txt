@@ -1,0 +1,10 @@
+article_id: 'rspa_1906_0030'
+revised_title: 'The Influence of Personal Equation and Subjective Influences in Statistical Analysis of Ill-defined Qualities'
+semantic_tags:
+  - Statistics
+  - Psychometrics
+  - Data Analysis
+  - Personal Equation
+  - Subjective Influences
+tldr: The author conducted an experimental study to understand the impact of personal equation and subjective influences on the statistical analysis of ill-defined qualities. The study used a photographic paper with varying tints, which participants named under different classification schemes. The results showed that observers were not consistent in their naming, and the terms used for classification did not determine discrete classes. This suggests that methods treating qualities as discrete classes based on common usage may not be applicable, and quantitative results obtained by such methods should be considered as useful illustrative analogies only.
+scientific_discipline: Social Sciences > Psychometrics

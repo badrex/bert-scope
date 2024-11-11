@@ -1,0 +1,10 @@
+article_id: rspa_1944_0026
+revised_title: 'Point-Particle Theory and Energy-Momentum Conservation'
+semantic_tags:
+  - Point-Particle Theory
+  - Energy-Momentum Tensor
+  - Conservation Laws
+  - Relativity
+  - Quantum Mechanics
+tldr: The authors develop a theory for point-particles, which are particles with all their field-producing and inertial properties located at a single point. They prove that finite equations for the motion of point-particles can always be derived and show that it's possible to modify the energy-momentum tensor to make the flow of energy and momentum into a world tube finite. This work contributes to understanding the behavior of particles in relativity and quantum mechanics.
+scientific_discipline: Physics > Relativity

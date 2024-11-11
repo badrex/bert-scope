@@ -1,0 +1,10 @@
+article_id: 'rspa_1993_0032'
+revised_title: 'Proof of Shinbrot's Conjecture for the Navier-Stokes Equations'
+semantic_tags:
+  - Navier-Stokes equations
+  - Fluid mechanics
+  - Partial differential equations
+  - Hardy-Littlewood maximal theorem
+  - Fractional derivatives
+tldr: The author proves Shinbrot's conjecture that weak solutions of the Navier-Stokes equations have fractional derivatives in time of any order less than 1. The proof is based on the Hardy-Littlewood maximal theorem and is valid for the two-dimensional case. In the three-dimensional case, the result is shown to be true conditionally.
+scientific_discipline: Mathematics > Partial Differential Equations

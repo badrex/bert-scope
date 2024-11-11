@@ -1,0 +1,10 @@
+article_id: rspa_1969_0092
+revised_title: Eigenvalue Distribution of Ordinary Differential Operators
+semantic_tags:
+  - Differential Equations
+  - Spectral Theory
+  - Sturm-Liouville Theory
+  - Quantum Mechanics
+  - Asymptotic Analysis
+tldr: The article discusses a method to obtain quantitative information about the distribution of eigenvalues of ordinary differential operators. The author modifies Friedrichs' technique to calculate the number of eigenvalues below a given value. The method is demonstrated through various examples, including the Hermit polynomials, Sturm-Liouville problems, and the hydrogen atom's quantum-mechanical theory.
+scientific_discipline: Mathematics > Differential Equations

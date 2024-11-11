@@ -1,0 +1,10 @@
+article_id: rspa_1955_0257
+revised_title: 'Anomalies in the Specific Heats of Potassium, Rubidium, and Caesium'
+semantic_tags:
+  - Thermodynamics
+  - Calorimetry
+  - Alkali metals
+  - Impurities
+  - Phase transitions
+tldr: This study measures the specific heats of potassium, rubidium, and caesium at temperatures below 330 K. Anomalies in the specific heats of these metals are discovered, which are affected by heat treatment of the samples. The caesium measurements provide direct calorimetric information related to the caesium-oxygen binary system. The results indicate that the anomalies are real and not due to experimental error.
+scientific_discipline: Chemistry > Thermodynamics

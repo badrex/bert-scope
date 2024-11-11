@@ -1,0 +1,10 @@
+article_id: rspa_1950_0054
+revised_title: 'Investigating the Specific Energy of Crystal Boundaries in Tin'
+semantic_tags:
+  - Crystallography
+  - Surface Energy
+  - Tin
+  - Transitional Lattice Theory
+  - Metal Science
+tldr: 'This study examines the specific energy of crystal boundaries in tin and how it depends on the difference in orientation between adjacent crystals. The researchers found that the surface energy decreases progressively as the difference in orientation decreases below about 6 degrees, supporting the transitional lattice theory of crystal boundaries.'
+scientific_discipline: Materials Science > Crystallography

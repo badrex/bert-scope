@@ -1,0 +1,10 @@
+article_id: rspa_1939_0104
+revised_title: 'Investigating the Mechanism of Sliding on Ice and Snow'
+semantic_tags:
+  - Friction
+  - Ice and Snow
+  - Pressure Melting
+  - Lubrication
+  - Skiing
+tldr: 'This study investigates the friction of solids sliding on ice and snow, exploring the possibility of a water layer forming due to pressure melting or frictional heating. The research shows that at low temperatures, friction is high, while at higher temperatures, friction decreases, suggesting that frictional heating plays a significant role in the low friction observed for rapidly moving solids on ice and snow.'
+scientific_discipline: Physics > Mechanics

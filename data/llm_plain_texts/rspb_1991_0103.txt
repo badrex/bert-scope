@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0103'
+revised_title: 'Regulation of Stretch-Activated Channels in Loach Embryos'
+semantic_tags:
+  - Ion Channels
+  - Cell Biology
+  - Embryogenesis
+  - Protein Kinase
+  - Cell Cycle
+tldr: The study investigates the properties of stretch-activated channels in loach embryos during early stages of embryogenesis. It found that the stretch sensitivity of these channels changes dramatically during the cell cleavage cycle. The activity of these channels may be regulated through -dependent phosphorylation, providing a basis for explaining the stretch sensitivity modulation during the cell cycle.
+scientific_discipline: Biology and Life Sciences > Cell Biology

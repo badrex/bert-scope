@@ -1,0 +1,10 @@
+article_id: rspa_1986_0091
+revised_title: Limit Theorems for Fuzzy Random Variables: A Generalization of Random Sets
+semantic_tags:
+  - Fuzzy Mathematics
+  - Probability Theory
+  - Random Sets
+  - Fuzzy Random Variables
+  - Banach Space
+tldr: The article presents a strong law of large numbers and a central limit theorem for independent and identically distributed fuzzy random variables. These theorems are based on embedding theorems and probability techniques in Banach space, extending the concept of random sets to fuzzy random variables and providing a foundation for statistical techniques in pattern recognition.
+scientific_discipline: Mathematics > Fuzzy Mathematics

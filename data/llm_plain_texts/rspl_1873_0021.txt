@@ -1,0 +1,10 @@
+article_id: rspl_1873_0021
+revised_title: A Self-Recording Method for Measuring the Intensity of Total Daylight's Chemical Action
+semantic_tags:
+  - Meteorology
+  - Atmospheric Science
+  - Photometry
+  - Chemical Sensitivity
+  - Climate Science
+tldr: The author, H. E. Roscoe, presents a self-recording method for measuring the intensity of the chemical action of total daylight. This method reduces the need for hourly observations, making it more feasible for adoption in meteorological observatories. The method involves exposing sensitive paper to varying intervals of daylight throughout the day, with the paper's coloration indicating the intensity of the daylight. The paper is then read and compared to a fixed strip of standard tints to determine the chemical intensity of the daylight.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

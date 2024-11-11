@@ -1,0 +1,10 @@
+article_id: 'rstb_1994_0153'
+revised_title: 'Balancing Selection and Evolution of Mammalian Class II Major Histocompatibility Complex Loci'
+semantic_tags:
+  - Major Histocompatibility Complex
+  - Polymorphism
+  - Evolution
+  - Natural Selection
+  - Molecular Biology
+tldr: The authors studied the role of natural selection in the evolution of major histocompatibility complex (MHC) class II loci in mammals. They found that the rate of non-synonymous nucleotide substitution exceeded that of synonymous substitution in the codons encoding the antigen recognition site of polymorphic class II molecules, suggesting that polymorphism at these loci is maintained by balancing selection, such as overdominant selection. The authors also analyzed the patterns of sharing of polymorphic residues at class II loci by mammals of different species, revealing extensive convergent evolution at these loci.
+scientific_discipline: Biology and Life Sciences > Molecular Biology and Genetics

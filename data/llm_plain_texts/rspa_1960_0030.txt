@@ -1,0 +1,10 @@
+article_id: 'rspa_1960_0030'
+revised_title: 'Martensitic Transformation and Specific Heat Anomalies in Sodium'
+semantic_tags:
+  - Martensitic transformation
+  - Sodium
+  - Specific heat
+  - Thermal history
+  - Phase transitions
+tldr: The author investigates the specific heat of sodium from 20 to 300 K, focusing on the martensitic transformation. They find that the specific heat in the two-phase region depends on the thermal history and proportions of the two phases present. The heat of transformation from hexagonal close-packed to body-centered cubic sodium is deduced to be about 10 cal/g atom. The Debye temperatures of the two phases are determined to be 160 and 153 K, respectively.
+scientific_discipline: Physics > Materials Science

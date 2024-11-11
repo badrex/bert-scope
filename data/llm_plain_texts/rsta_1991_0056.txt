@@ -1,0 +1,10 @@
+article_id: rsta_1991_0056
+revised_title: Equilibrium and Geometry of Elastic Networks
+semantic_tags:
+  - Elasticity
+  - Network Theory
+  - Differential Geometry
+  - Mechanics
+  - Material Science
+tldr: This article presents a general equilibrium theory for nets made of two families of perfectly flexible elastic fibers. The authors study the configurations of nets that minimize the potential energy of deformation and develop a relaxed energy density that accounts for wrinkling of the network. They also explore universal deformations that can be maintained in every elastic net by applying edge tractions and lateral pressure alone.
+scientific_discipline: Mathematics > Differential Geometry

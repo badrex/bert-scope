@@ -1,0 +1,10 @@
+article_id: rspa_1954_0214
+revised_title: Oxidation of Iron at 175 to 350°C: A Study of Oxide Growth and Mechanisms
+semantic_tags:
+  - Metal oxidation
+  - Iron oxidation
+  - Oxide film growth
+  - Diffusion mechanisms
+  - Metallography
+tldr: This study investigates the oxidation of iron at temperatures between 175 to 350°C using various methods, including microgravimetric, electrometric, and film-transfer techniques. The authors identify different oxides formed during the oxidation process and discuss the growth mechanisms of oxide films on iron. They find that the growth rate of oxide films follows a parabolic law at higher temperatures and a logarithmic law at lower temperatures, suggesting different growth mechanisms for each case.
+scientific_discipline: Chemistry > Materials Science

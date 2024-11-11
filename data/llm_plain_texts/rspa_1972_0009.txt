@@ -1,0 +1,10 @@
+article_id: rspa_1972_0009
+revised_title: Relativistic Theory and Magnetic Moment of the Free Electron
+semantic_tags:
+  - Quantum electrodynamics
+  - Relativity
+  - Magnetic moment
+  - Free electron
+  - External magnetic field
+tldr: The authors calculate the change in the radiative correction to the magnetic moment of a free electron when it is placed between infinite, parallel, perfectly conducting plates. They use a fully relativistic calculation to determine the effect of an external magnetic field on the electron's magnetic moment. This study provides a relativistic confirmation of the leading spin-independent energy shifts for a free electron.
+scientific_discipline: Physics > Electromagnetism

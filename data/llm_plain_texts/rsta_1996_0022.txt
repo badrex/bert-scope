@@ -1,0 +1,10 @@
+article_id: rsta_1996_0022
+revised_title: Nonlinear Surface Waves on Water: Experimental Investigation and Theoretical Analysis
+semantic_tags:
+  - Wave mechanics
+  - Nonlinear waves
+  - Wave-wave interactions
+  - Oceanography
+  - Fluid dynamics
+tldr: This paper presents an experimental study of nonlinear wave-wave interactions in water, focusing on the formation and behavior of large, focused wave groups. The study measures surface elevation, underlying kinematics, and nonlinearity of the focused wave group in a laboratory flume. The results are compared with linear and nonlinear wave theories, highlighting the importance of nonlinear interactions in the formation of extreme waves in the ocean.
+scientific_discipline: Physics > Fluid Dynamics

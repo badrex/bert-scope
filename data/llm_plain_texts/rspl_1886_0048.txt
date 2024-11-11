@@ -1,0 +1,10 @@
+article_id: rspl_1886_0048
+revised_title: Temperature Effects on Torsional Elasticity and Internal Friction of Metals
+semantic_tags:
+  - Materials Science
+  - Thermodynamics
+  - Mechanical Properties
+  - Metallurgy
+  - Heat Treatment
+tldr: The authors conducted experiments to study the effect of temperature on the torsional elasticity and internal friction of metals. They found that the torsional elasticity and internal friction of metals change significantly with temperature. The percentage decrease of torsional elasticity is about twenty times the corresponding percentage increase of length. The temperature of minimum internal friction varies for different types of metals and annealing treatments.
+scientific_discipline: Materials Science > Mechanical Properties

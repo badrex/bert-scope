@@ -1,0 +1,10 @@
+article_id: rspa_1948_0082
+revised_title: Dynamic Yield Stress Measurements on Various Metallic Materials
+semantic_tags:
+  - Materials Science
+  - Mechanical Testing
+  - Impact Mechanics
+  - Projectile Design
+  - Metallic Materials
+tldr: The authors describe an experimental technique to measure the dynamic compressive yield strength of various metallic materials using flat-ended projectiles. They test materials such as steel, duralumin, copper, lead, iron, and silver, and discuss the accuracy of the measurements and their effect on the values of yield strength. The dynamic compressive yield strength is found to be generally greater than the static strength represented by the compressive stress giving permanent strain.
+scientific_discipline: Engineering and Technology > Materials Science

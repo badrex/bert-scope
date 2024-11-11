@@ -1,0 +1,10 @@
+article_id: 'rspb_1969_0058'
+revised_title: 'Radioimmunoassay of Angiotensin II: A Breakthrough in Hormone Detection'
+semantic_tags:
+  - Hormone detection
+  - Radioimmunoassay
+  - Angiotensin II
+  - Blood plasma
+  - Physiology
+tldr: The authors developed a radioimmunoassay technique to detect angiotensin II in blood plasma. They created a specific antibody against free angiotensin II by immunizing rabbits with angiotensin II adsorbed on micro-particles of carbon. This method allowed them to measure angiotensin II levels in various physiological and pathological states, providing a better understanding of the hormone's role in the body.
+scientific_discipline: Biology and Life Sciences > Physiology

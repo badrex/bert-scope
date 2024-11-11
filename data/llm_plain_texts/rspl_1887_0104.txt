@@ -1,0 +1,10 @@
+article_id: rspl_1887_0104
+revised_title: On Certain Definite Integrals and Elliptic Functions
+semantic_tags:
+  - Mathematics
+  - Calculus
+  - Elliptic Functions
+  - Integration
+  - Transcendental Functions
+tldr: The author, W. H. L. Russell, presents a series of definite integrals expressed in terms of elliptic functions. He demonstrates various transformations and applications of these integrals, highlighting their extensive nature and connection to other mathematical concepts.
+scientific_discipline: Mathematics > Calculus

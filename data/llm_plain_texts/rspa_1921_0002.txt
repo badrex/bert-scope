@@ -1,0 +1,10 @@
+article_id: rspa_1921_0002
+revised_title: 'Improving the Measurement of Low Magnetic Susceptibility with a New Instrument'
+semantic_tags:
+  - Magnetic susceptibility
+  - Electromagnet
+  - Moving coil
+  - Torsion balance
+  - Magnetic properties of materials
+tldr: The authors developed a new instrument to measure low magnetic susceptibility, which allows for a wider range of magnetic force measurement and improved accuracy compared to the Curie balance. The instrument uses an electromagnet and a moving coil to create a magnetic field and measure the mechanical force exerted on the specimen. This innovation enables the study of magnetic properties in various materials and contributes to a better understanding of their behavior.
+scientific_discipline: Physics > Electromagnetism

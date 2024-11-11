@@ -1,0 +1,10 @@
+article_id: rspa_1929_0078
+revised_title: 'Vortex Theory of Screw Propellers: A Mathematical and Physical Analysis'
+semantic_tags:
+  - Fluid Dynamics
+  - Propeller Design
+  - Vortex Theory
+  - Aerodynamics
+  - Mathematical Physics
+tldr: This article presents a mathematical and physical analysis of the vortex theory of screw propellers. The author develops a method to find the exact solution for the two-bladed propeller, considering the important case of the two-bladed propeller and providing formulae for any number of blades. The study focuses on the fluid dynamics and the interaction between the propeller and the surrounding fluid, aiming to improve the understanding and design of screw propellers.
+scientific_discipline: Engineering and Technology > Fluid Dynamics

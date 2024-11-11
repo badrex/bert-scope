@@ -1,0 +1,10 @@
+article_id: rspa_1935_0048
+revised_title: The Electromagnetic Theory of Supraconductors
+semantic_tags:
+  - Supraconductivity
+  - Electromagnetic field
+  - Meissner effect
+  - Electromagnetic equations
+  - Quantum mechanics
+tldr: The authors propose a new electromagnetic theory for supraconductors, replacing Ohm's law with a new fundamental equation. They explain the Meissner effect and describe the behavior of electric currents and magnetic fields in supraconductors. The theory provides a new perspective for understanding the electromagnetic field in these materials.
+scientific_discipline: Physics > Electromagnetism

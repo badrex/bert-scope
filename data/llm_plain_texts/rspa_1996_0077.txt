@@ -1,0 +1,10 @@
+article_id: rspa_1996_0077
+revised_title: 'Liquid Jet Impact and Penetration in Water: A Study of Cavitation Cloud and Jet-Target Interface Dynamics'
+semantic_tags:
+  - Fluid Dynamics
+  - Cavitation
+  - Jet Impact
+  - Shock Waves
+  - High-Speed Photography
+tldr: This study investigates the impact and penetration of a water surface by a liquid jet. The experiments reveal the formation of an axial cavitation cloud ahead of the jet, which collapses due to an entrapped air bubble. The jet-target interface shows periodic acceleration and deceleration, and the results have implications for various practical situations involving cavities and their collapse.
+scientific_discipline: Physics > Fluid Dynamics

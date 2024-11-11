@@ -1,0 +1,10 @@
+article_id: rsta_1981_0196
+revised_title: 'Premixed Flames in CO, N2, and O2 Mixtures with H2 and H2O: Structure and Chemical Mechanism'
+semantic_tags:
+  - Combustion
+  - Flame chemistry
+  - Gas mixtures
+  - Hydrogen combustion
+  - Carbon monoxide combustion
+tldr: This study investigates the structure, chemical mechanism, and properties of premixed flames in mixtures of carbon monoxide, nitrogen, and oxygen with hydrogen and water vapor. The authors analyze the effects of adding carbon monoxide, carbon dioxide, and hydrogen to the flames, providing insights into burning velocities, flame structures, and chemical reactions involved in the combustion process.
+scientific_discipline: Chemistry > Combustion Chemistry

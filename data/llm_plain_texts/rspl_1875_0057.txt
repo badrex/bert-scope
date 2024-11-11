@@ -1,0 +1,10 @@
+article_id: rspl_1875_0057
+revised_title: The Residual Charge of the Leyden Jar: A Study on Dielectric Properties and Electropolar States
+semantic_tags:
+  - Electromagnetism
+  - Dielectric materials
+  - Electropolar state
+  - Leyden jar
+  - Residual charge
+tldr: This article explores the residual charge of the Leyden jar and the properties of dielectric materials. The authors propose that dielectrics have an electropolar state that requires time for development or decay, which can explain the residual charge phenomenon. They also suggest that glass, a common dielectric material, is a mixture of different silicates with multiple electro-polarities. The authors verify their hypothesis by charging the Leyden jar alternately positively and negatively and observing the effects of mechanical agitation on the residual charge.
+scientific_discipline: Physics > Electromagnetism

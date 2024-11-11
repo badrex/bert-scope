@@ -1,0 +1,10 @@
+article_id: rspa_1926_0022
+revised_title: Investigating the Electrode Potential and Electrical Resistance of Steel
+semantic_tags:
+  - Steel properties
+  - Electrode potential
+  - Heat treatment
+  - Electrical resistance
+  - Alloy steel
+tldr: This study investigates the physical properties of steel, focusing on electrode potential and electrical resistance. The authors examine various heat-treated steel samples and find that the electrode potential is influenced by the carbon content and the quenching temperature. They also observe that martensite, unlike austenite, is not affected by liquid air, and that tempering reduces the amount of carbon in solution. These findings contribute to a better understanding of steel properties and its heat treatment.
+scientific_discipline: Materials Science > Metallurgy

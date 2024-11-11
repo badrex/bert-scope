@@ -1,0 +1,10 @@
+article_id: rspl_1890_0064
+revised_title: Stokes' Current Function and Fluid Dynamics Applications
+semantic_tags:
+  - Fluid Dynamics
+  - Hydrodynamics
+  - Stokes' Theorem
+  - Vortex Motion
+  - Irrotational Motion
+tldr: The author discusses Stokes' current function and its applications in fluid dynamics, particularly in irrotational and rotational motions. They explore the use of extended doublets and their effects on fluid motion, as well as the circulation of fluids in various scenarios, such as flux past obstacles and through complex shapes.
+scientific_discipline: Physics > Fluid Dynamics

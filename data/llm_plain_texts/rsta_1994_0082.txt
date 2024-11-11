@@ -1,0 +1,10 @@
+article_id: rsta_1994_0082
+revised_title: Modeling Self-Order and Form in Polymeric Materials: Thermotropic Polymers
+semantic_tags:
+  - Polymer Science
+  - Liquid Crystals
+  - Thermotropic Polymers
+  - Microstructure Modeling
+  - Frank Elasticity Equations
+tldr: This article presents a lattice model for liquid crystalline microstructure in thermotropic polymers. The model provides a three-dimensional solution to the Frank elasticity equations and represents the development of texture as the microstructure relaxes over time. It also simulates disclination motion and their interactions, offering insights into the organization of disclination loops and the influence of splay constants on microstructure.
+scientific_discipline: Physics > Materials Science

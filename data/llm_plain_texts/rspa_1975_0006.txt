@@ -1,0 +1,10 @@
+article_id: rspa_1975_0006
+revised_title: Comprehensive Analysis of the Schumann-Runge Band System
+semantic_tags:
+  - Molecular spectroscopy
+  - Atmospheric physics
+  - Schumann-Runge system
+  - Molecular constants
+  - Emission spectrum
+tldr: The authors conducted a comprehensive analysis of the Schumann-Runge band system in the emission spectrum of oxygen. They used a modified Loomis-Wood method to assign measurements to unambiguous transitions and derived a self-consistent set of molecular constants. This study improves our understanding of atmospheric opacity and has implications for synthetic spectrum applications in atmospheric physics and aeronomy.
+scientific_discipline: Physics > Optics

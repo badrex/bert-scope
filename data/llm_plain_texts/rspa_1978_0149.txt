@@ -1,0 +1,10 @@
+article_id: rspa_1978_0149
+revised_title: Advances in Stochastic Neutron Transport Theory
+semantic_tags:
+  - Neutron transport
+  - Stochastic processes
+  - Markov processes
+  - Nuclear reactor physics
+  - Boltzmann equation
+tldr: This article presents a new and direct derivation of the Bell-Pal fundamental equation for neutron stochastic behavior in the Boltzmann continuum model. The author introduces the stochastic importance for neutron transport theory and relates it to the conventional deterministic importance. The study of neutron transport theory has applications in cosmic ray showers, neutron fission reactors, fusion reactors, and electron cascades.
+scientific_discipline: Physics > Nuclear Physics

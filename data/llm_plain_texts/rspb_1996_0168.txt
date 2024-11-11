@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0168'
+revised_title: 'Spatial Organization and Long-Term Transient Behavior in Metapopulation Models'
+semantic_tags:
+  - Metapopulation
+  - Population Dynamics
+  - Spatial Structure
+  - Coupled Map Lattices
+  - Transient Behavior
+tldr: The authors extend the analysis of a metapopulation model representing a linear set of habitat fragments and demonstrate that the model predicts organized spatial heterogeneity across the system. They confirm the existence of transient behavior and characterize the conditions under which they are likely to occur. The model also predicts that peripheral populations should experience greater temporal variation than interior populations.
+scientific_discipline: Biology and Life Sciences > Ecology

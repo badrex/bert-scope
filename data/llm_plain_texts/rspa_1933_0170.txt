@@ -1,0 +1,10 @@
+article_id: 'rspa_1933_0170'
+revised_title: 'Interference in Wind Tunnels: Theory and Applications'
+semantic_tags:
+  - Fluid Dynamics
+  - Wind Tunnel Testing
+  - Aerodynamics
+  - Vorticity
+  - Interference Phenomena
+tldr: 'The authors present a theory of wind-tunnel interference, which is essential for understanding the behavior of aerofoils in wind tunnels. They explain the concept of vorticity and how it affects the interference velocities inside the wind tunnel. The theory is based on Prandtl's work, and the authors provide mathematical expressions and examples to illustrate the interference effects in different scenarios.'
+scientific_discipline: 'Environmental and Earth Sciences > Fluid Dynamics'

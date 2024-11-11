@@ -1,0 +1,10 @@
+article_id: rspa_1925_0115
+revised_title: 'Investigation of the Flame Spectra of Carbon Monoxide and Water-Gas'
+semantic_tags:
+  - Spectroscopy
+  - Combustion
+  - Carbon Monoxide
+  - Hydrogen
+  - Flame Spectrum
+tldr: The author investigates the flame spectra of carbon monoxide and water-gas, discovering that the gradual addition of hydrogen to burning carbon monoxide has a significant impact on the flame spectrum. The study confirms previous observations that the so-called continuous spectrum of a carbon monoxide flame is actually banded, and that the presence of hydrogen in the flame causes the banded and continuous parts of the spectrum to fade away, leaving only "steam" lines visible. This research sheds light on the complex combustion process of carbon monoxide and the role of hydrogen in the process.
+scientific_discipline: Chemistry > Spectroscopy

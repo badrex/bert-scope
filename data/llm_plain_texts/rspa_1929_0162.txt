@@ -1,0 +1,10 @@
+article_id: rspa_1929_0162
+revised_title: The Exclusion Principle and Aperiodic Systems: Applications in Collisions and Atomic Interactions
+semantic_tags:
+  - Quantum Mechanics
+  - Exclusion Principle
+  - Aperiodic Systems
+  - Atomic Interactions
+  - Particle Collisions
+tldr: This article discusses the exclusion principle and its application to aperiodic systems, particularly in the context of particle collisions and atomic interactions. The authors explain the importance of using antisymmetrical wave-functions to describe these phenomena and demonstrate how the exclusion principle can be applied to collisions between electrons and atoms, as well as to the scattering of electrons by atoms with oriented magnetic moments.
+scientific_discipline: Physics > Quantum Mechanics

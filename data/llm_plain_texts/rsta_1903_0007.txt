@@ -1,0 +1,10 @@
+article_id: 'rsta_1903_0007'
+revised_title: 'Stability of the Pear-Shaped Figure of Equilibrium in a Rotating Mass of Liquid'
+semantic_tags:
+  - Fluid dynamics
+  - Equilibrium
+  - Rotating masses
+  - Ellipsoidal harmonics
+  - Stability analysis
+tldr: The author investigates the stability of the pear-shaped figure of equilibrium in a rotating mass of liquid. They use ellipsoidal harmonics and mathematical analysis to determine the energy lost during the concentration process and find that the pear-shaped figure is stable. This study contributes to the understanding of fluid dynamics and celestial mechanics.
+scientific_discipline: Physics > Fluid dynamics

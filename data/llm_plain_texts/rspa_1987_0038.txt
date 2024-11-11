@@ -1,0 +1,10 @@
+article_id: rspa_1987_0038
+revised_title: Advancements in Numerical Weather Prediction for Aviation Forecasting
+semantic_tags:
+  - Numerical Weather Prediction
+  - Aviation Meteorology
+  - Atmospheric Modeling
+  - Fluid Dynamics
+  - Aviation Forecasting
+tldr: The authors discuss the advancements in numerical weather prediction for aviation forecasting, highlighting the development of a computer-based weather-forecasting system for civil aviation. They explain the physical basis of numerical weather prediction and the main components of the operational weather prediction model in the Meteorological Office. The authors also mention the benefits of improved weather forecasting for aviation, such as reduced fuel consumption and increased efficiency.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

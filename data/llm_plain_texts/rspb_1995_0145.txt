@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0145'
+revised_title: 'Subunit-dependent Assembly and Functional Properties of Inward-Rectifier K Channels'
+semantic_tags:
+  - Ion channels
+  - Potassium channels
+  - Inward-rectifier channels
+  - Subunit assembly
+  - Channel heterogeneity
+tldr: The authors studied the assembly and functional properties of inward-rectifier potassium channels, which are important for stabilizing the membrane potential in cells. They found that these channels are composed of four subunits and can form hetero-tetramers with distinct functional properties. This research provides insights into the complex assembly and function of these channels, which could have implications for understanding various physiological processes and developing potential treatments for related diseases.
+scientific_discipline: Biology and Life Sciences > Cell Biology and Physiology

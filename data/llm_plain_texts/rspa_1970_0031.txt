@@ -1,0 +1,10 @@
+article_id: rspa_1970_0031
+revised_title: 'Effects of Secondary Flow on Laminar Dispersion in Curved Tubes'
+semantic_tags:
+  - Fluid Dynamics
+  - Secondary Flow
+  - Laminar Flow
+  - Dispersion
+  - Convective Transport
+tldr: The article investigates the effects of secondary flow on the laminar dispersion of an injected substance in a curved tube. The authors extend the iterative Fourier-series solution of Dean's simplified Navier-Stokes equations to calculate the dispersion and compare their results with experimental measurements and theoretical work. The study shows that secondary flow can produce a more uniform distribution of velocity over the fluid than in Poiseuille flow, and it highlights the importance of convection in the dispersion process.
+scientific_discipline: Physics > Fluid Dynamics

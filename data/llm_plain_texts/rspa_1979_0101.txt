@@ -1,0 +1,10 @@
+article_id: rspa_1979_0101
+revised_title: Hertz-Bromwich-Debye-Whittaker-Penrose Potentials in General Relativity
+semantic_tags:
+  - General Relativity
+  - Electromagnetic Fields
+  - Gravitational Perturbations
+  - Hertz Potentials
+  - Algebraically Special Vacuum Space-Time
+tldr: This article discusses the problem of deriving scalar potentials governing electromagnetic and gravitational perturbations of vacuum space-times. For algebraically special vacuum background space-times, explicit formulae are given in terms of derivatives of the scalar potential. The study of linearized perturbations in relativity theory is significantly lightened by this concept. The article also presents a generalization of Penrose's treatment of the electromagnetic field to a curved vacuum space-time, confirming previous results and providing new insights.
+scientific_discipline: Physics > General Relativity

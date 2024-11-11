@@ -1,0 +1,10 @@
+article_id: 112309
+revised_title: 'Excyclic Distribution and Double Determinants'
+semantic_tags:
+  - Combinatorics
+  - Mathematics
+  - Algebra
+  - Number Theory
+  - Polynomials
+tldr: The author, J.J. Sylvester, explores the concept of excyclic distribution, a type of arrangement where no closed circuit of double colors can be formed between any number of urns. He presents two propositions, one qualitative and the other quantitative, related to these distributions. Additionally, he discusses double determinants and their relation to excyclic distributions, explaining how they can be represented by polynomial functions.
+scientific_discipline: Mathematics > Combinatorics

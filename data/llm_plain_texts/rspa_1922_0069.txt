@@ -1,0 +1,10 @@
+article_id: rspa_1922_0069
+revised_title: 'Copper-Nickel Catalysts and Catalytic Activity'
+semantic_tags:
+  - Catalysis
+  - Copper-Nickel Catalysts
+  - Promoter Action
+  - Surface Chemistry
+  - Nickel Reduction
+tldr: The authors studied the catalytic actions of solid surfaces, specifically the interaction between copper and nickel in promoting catalytic activity. They discovered that when copper and nickel are chemically associated in a complex carbonate molecule, the nickel can be reduced at lower temperatures, enhancing the catalyst's efficiency. This finding sheds light on the role of promoters in catalysis and the importance of surface chemistry in determining catalytic activity.
+scientific_discipline: Chemistry > Surface Chemistry

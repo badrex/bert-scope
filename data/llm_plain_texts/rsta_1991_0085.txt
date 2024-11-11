@@ -1,0 +1,10 @@
+article_id: rsta_1991_0085
+revised_title: Observations of Solar Flares from the Hinotori Mission
+semantic_tags:
+  - Solar Physics
+  - Solar Flares
+  - X-ray Astronomy
+  - Plasma Physics
+  - Space Missions
+tldr: The Hinotori satellite observed over 700 solar flares, revealing that flares produce plasmas as hot as 10^7 K and have varying characteristics depending on the environment of the flaring regions. The satellite's hard-ray telescope and high dispersion soft-ray crystal spectrometer provided valuable insights into the location and behavior of high-energy particles during solar flares, leading to a better understanding of the solar atmosphere and the processes occurring within it.
+scientific_discipline: Physics > Astronomy

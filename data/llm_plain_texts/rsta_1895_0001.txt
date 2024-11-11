@@ -1,0 +1,10 @@
+article_id: rsta_1895_0001
+revised_title: Improving the Sensitivity and Accuracy of the Cavendish Experiment
+semantic_tags:
+  - Gravitation
+  - Cavendish Experiment
+  - Torsion Balance
+  - Experimental Physics
+  - Measurement Techniques
+tldr: The author describes improvements to the Cavendish experiment, a method for measuring the Newtonian constant of gravitation, by reducing the size of the apparatus and using quartz fibers for torsion. The author also discusses the advantages of using a cylindrical tube for hanging the beam and the importance of minimizing disturbances due to convection in achieving high accuracy.
+scientific_discipline: Physics > Mechanics

@@ -1,0 +1,10 @@
+article_id: rspa_1930_0147
+revised_title: 'Effect of Wind Tunnel Interference on Aerofoil Characteristics'
+semantic_tags:
+  - Fluid Dynamics
+  - Aerodynamics
+  - Wind Tunnel
+  - Aerofoil
+  - Lift and Drag
+tldr: This article investigates the effect of wind tunnel interference on the characteristics of an aerofoil. It explains how the walls of the wind tunnel affect the lift and drag experienced by the aerofoil, and how these effects can be corrected to obtain accurate results for free air conditions. The study covers both uniform and elliptic distribution of circulation and provides corrections for the angle of incidence and drag coefficients.
+scientific_discipline: Engineering and Technology > Fluid Dynamics

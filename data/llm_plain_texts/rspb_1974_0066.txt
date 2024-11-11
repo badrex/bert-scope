@@ -1,0 +1,10 @@
+article_id: 'rspb_1974_0066'
+revised_title: 'Genetical Analysis of Fructose Utilization in Escherichia Coli'
+semantic_tags:
+  - Microbiology
+  - Genetics
+  - Metabolism
+  - Enzyme I
+  - Phosphoenolpyruvate-phosphotransferase system
+tldr: The authors conducted a genetical analysis of fructose utilization in Escherichia coli and located the genes that specify the activities of the components of the phosphoenolpyruvate-phosphotransferase system. They found that these genes lie on the genome of Escherichia coli at minutes 41 and 35.6. The study helps to understand the different routes of fructose utilization in E. coli and the enzymes involved in the process.
+scientific_discipline: Biology and Life Sciences > Genetics and Microbiology

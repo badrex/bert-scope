@@ -1,0 +1,10 @@
+article_id: rspa_1979_0136
+revised_title: Slowly Varying Solitary Waves in Nonlinear Schrödinger Equation
+semantic_tags:
+  - Nonlinear Schrödinger Equation
+  - Solitary Waves
+  - Asymptotic Analysis
+  - Wave Modulation
+  - Conservation Laws
+tldr: The author investigates the slowly varying solitary waves in the nonlinear Schrödinger equation, using an asymptotic analysis. They find that the amplitude and phase of the wave can be determined to the second order in the perturbation parameter, and that a certain constraint on the coefficients leads to an exact solution. The study also discusses the conservation laws related to the wave's behavior.
+scientific_discipline: Mathematics > Applied Mathematics

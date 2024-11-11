@@ -1,0 +1,10 @@
+article_id: rspa_1942_0032
+revised_title: Stress Systems in Aeolotropic Plates: Advanced Theories and Applications
+semantic_tags:
+  - Solid Mechanics
+  - Material Science
+  - Aeronautics
+  - Engineering
+  - Elasticity
+tldr: This article presents a comprehensive study of stress systems in aeolotropic plates, focusing on the development of advanced theories and applications. The authors explore various methods for solving stress distribution problems in aeolotropic materials, including numerical work using elastic constants from spruce and oak wood specimens. The study offers valuable insights into stress analysis and engineering applications, particularly in the fields of aeronautics and material science.
+scientific_discipline: Engineering and Technology > Solid Mechanics

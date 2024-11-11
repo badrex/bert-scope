@@ -1,0 +1,10 @@
+article_id: rspa_1951_0076
+revised_title: 'Analysis of Secondary Circulation in Fluid Flow in Bends and Ducts'
+semantic_tags:
+  - Fluid Dynamics
+  - Secondary Circulation
+  - Pipe Flow
+  - Fluid Mechanics
+  - Bernoulli Surfaces
+tldr: The article discusses the phenomenon of secondary circulation in fluid flow, particularly in bends and ducts. The author presents a general theory for the change in secondary circulation along a streamline in a perfect, incompressible fluid. The flow in bent pipes is analyzed, and the theory is compared with experiments on bent pipes and ducts. The author also explores the behavior of the Bernoulli surfaces and streamlines in the flow and how they are distorted as the fluid passes downstream.
+scientific_discipline: Physics > Fluid Dynamics

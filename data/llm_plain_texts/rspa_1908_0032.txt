@@ -1,0 +1,10 @@
+article_id: 'rspa_1908_0032'
+revised_title: 'The Effect of Hydrogen on the Discharge of Negative Electricity from Hot Platinum: A Study of Platinum Surface Chemistry'
+semantic_tags:
+  - Surface chemistry
+  - Electrical discharge
+  - Platinum
+  - Hydrogen interaction
+  - Electrical double layer
+tldr: This study examines the effect of hydrogen on the discharge of negative electricity from hot platinum. The author finds that hydrogen increases the current and changes the behavior of old platinum wires. The research suggests that hydrogen dissolves in the platinum surface and forms a stable chemical combination. This discovery helps to understand the interaction between hydrogen and platinum, which is essential for various applications, such as fuel cells and sensors.
+scientific_discipline: Chemistry > Surface chemistry

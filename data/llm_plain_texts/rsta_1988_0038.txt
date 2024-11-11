@@ -1,0 +1,10 @@
+article_id: rsta_1988_0038
+revised_title: A New Theory of Laminated Elastic Plates: Isotropic Laminae
+semantic_tags:
+  - Elasticity Theory
+  - Laminated Plates
+  - Isotropic Materials
+  - Stress Analysis
+  - Composite Materials
+tldr: The authors develop an exact theory for stretching and bending of laminated elastic plates with isotropic layers. The theory provides solutions for each lamina and satisfies all interface traction and displacement continuity conditions. This refined approach offers a more accurate analysis of stress and deformation distribution within laminated plates, especially for composite materials like fiber-reinforced composites used in aerospace industries.
+scientific_discipline: Engineering and Technology > Materials Science

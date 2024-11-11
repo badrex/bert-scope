@@ -1,0 +1,10 @@
+article_id: rspa_1968_0028
+revised_title: 'Freezing of Supercooled Water Droplets in Air and Other Gases'
+semantic_tags:
+  - Atmospheric Science
+  - Cryology
+  - Nucleation
+  - Thermodynamics
+  - Environmental Physics
+tldr: The authors studied the freezing process of small supercooled water droplets as they fell through a controlled vertical temperature gradient in cold, purified air and other gases. They found that the median freezing temperature of the droplets was a function of their size and cooling rate, and that the results were consistent with the theory of homogeneous nucleation. This research provides valuable insights into the natural process of supercooled cloud droplets freezing while falling in the atmosphere.
+scientific_discipline: Physics > Atmospheric Science

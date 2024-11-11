@@ -1,0 +1,10 @@
+article_id: 'rstb_1990_0092'
+revised_title: 'Human Factors in Hazardous Situations: The Discrepancy Between Verbal Knowledge and Action'
+semantic_tags:
+  - Cognitive Psychology
+  - Decision Making
+  - Human Factors
+  - Expert Systems
+  - Training and Assessment
+tldr: This article discusses the discrepancy between a person's reported knowledge of a system and their ability to control it. It explores the connection between verbal knowledge and action, and the effectiveness of different methods of training and assessment. The author considers the possibility of dissociation between declarative and procedural knowledge, and its implications for understanding human control of complex systems.
+scientific_discipline: Psychology > Cognitive Psychology

@@ -1,0 +1,10 @@
+article_id: rspa_1975_0166
+revised_title: Investigating the Importance of Phase Memory in Ionospheric Propagation
+semantic_tags:
+  - Ionospheric Propagation
+  - Wave Refraction
+  - Radio Waves
+  - Electromagnetic Waves
+  - Phase Integral Method
+tldr: This article examines the phase memory factor in W.K.B. and phase integral solutions for ionospheric propagation problems. It demonstrates the importance of this factor, which cannot be absorbed into the local factor, and shows that its omission can lead to serious errors in calculations involving radio wave reflexion coefficients. The study compares full wave solutions with phase integral methods, with and without the phase memory term, and discusses its physical interpretation and implications.
+scientific_discipline: Physics > Electromagnetism

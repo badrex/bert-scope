@@ -1,0 +1,10 @@
+article_id: 'rsta_1979_0112'
+revised_title: 'Picosecond Spectroscopy in Physics, Chemistry, and Biology: Applications in Studying Biological Systems'
+semantic_tags:
+  - 'Picosecond spectroscopy'
+  - 'Biological systems'
+  - 'Ultrafast molecular processes'
+  - 'Time-resolved spectroscopy'
+  - 'Rhodopsin'
+tldr: 'The article discusses the use of picosecond spectroscopy to study ultrafast molecular processes in biological systems. The author describes the experimental setup, techniques, and applications of picosecond spectroscopy, focusing on the primary events in rhodopsin from 300 to 400 nm. The technique reveals that proton tunneling is the primary event in rhodopsin, at least at low temperatures.'
+scientific_discipline: 'Chemistry > Spectroscopy'

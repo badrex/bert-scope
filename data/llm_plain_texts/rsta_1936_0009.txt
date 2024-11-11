@@ -1,0 +1,10 @@
+article_id: rsta_1936_0009
+revised_title: 'Development of Krypton Spectrum as a Secondary Wave-Length Standard'
+semantic_tags:
+  - Spectroscopy
+  - Krypton
+  - Wave-length Standards
+  - Interferometry
+  - Secondary Standards
+tldr: The author investigates the first spectrum of krypton to determine its suitability as a system of secondary wave-length standards. They measure the wave-lengths of the krypton lines with etalon separations ranging from 1 cm to 10 cm and extend the wave-length range to include fainter lines at the red and ultra-violet ends of the spectrum. The study finds that krypton lines are suitable for determining phase correction of interferometer plates and can be used as secondary standards. The author also designs new types of etalons and an etalon carrier to improve the accuracy of wave-length comparisons.
+scientific_discipline: Physics > Optics

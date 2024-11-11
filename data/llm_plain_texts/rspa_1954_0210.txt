@@ -1,0 +1,10 @@
+article_id: rspa_1954_0210
+revised_title: 'Effect of Drop Size on Flame Propagation in Liquid Aerosols: A Study of Combustion Properties'
+semantic_tags:
+  - Combustion
+  - Aerosols
+  - Drop size
+  - Flame propagation
+  - Tetralin
+tldr: The authors developed a method to create controlled uniform drop size aerosols from pure liquids, specifically tetralin, to study the effect of drop size on the combustion properties of liquid-in-air suspensions. They discovered that the mechanism of flame propagation changes within the drop-size range of 7 to, with smaller drops behaving like a vapor and larger drops burning individually in their own air envelope. This transformation affects the lower concentration limit of inflammability and the burning rate.
+scientific_discipline: Chemistry > Combustion and Flame

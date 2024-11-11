@@ -1,0 +1,10 @@
+article_id: rsta_1985_0048
+revised_title: Geometry of the Hill Equation and Neumann System: Applications in Solitons
+semantic_tags:
+  - Solitons
+  - Geometry
+  - Hill Equation
+  - Neumann System
+  - Integrable Systems
+tldr: The authors explore the geometry of the Hill equation and Neumann system, demonstrating how finite-gap operators can be embedded in projective spaces. They show that the Kummer image of the Jacobian of hyperelliptic curves can be realized as a hypersurface in the momentum space of the Neumann system, providing a new perspective on soliton theory and integrable systems.
+scientific_discipline: Mathematics > Geometry of Solitons

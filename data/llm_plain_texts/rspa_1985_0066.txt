@@ -1,0 +1,10 @@
+article_id: rspa_1985_0066
+revised_title: 'Axisymmetric Flow Past a Slender Body of Finite Length: A Theoretical Study'
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Axisymmetric Flow
+  - Slender Body of Revolution
+  - Trailing Tip Flow
+tldr: This article studies the axisymmetric laminar boundary layer on a finite slender body of revolution and its trailing tip flow. The authors find that the axisymmetric boundary layer develops a complex multilayer structure dependent on the trailing-tip shape. The study provides numerical and analytical results for the flow properties, focusing on the boundary layer development from the front stagnation point to the onset of the trailing tip.
+scientific_discipline: Physics > Fluid Dynamics

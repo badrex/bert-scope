@@ -1,0 +1,10 @@
+article_id: rspa_1905_0061
+revised_title: The Electric Arc and Ion Transit Experimentation
+semantic_tags:
+  - Electric Arc
+  - Ion Transit
+  - Electrodes
+  - Electrified Corpuscles
+  - Faraday Cylinder
+tldr: The authors conducted experiments to test the theory of the electric arc, where positively and negatively charged ions travel from the electrodes along the arc and bombard the opposite electrodes. They used a modified apparatus with a Faraday cylinder to measure the electric current and found that the theory was correct, proving that ions travel in opposite directions along the arc.
+scientific_discipline: Physics > Electricity and Magnetism

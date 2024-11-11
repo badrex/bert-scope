@@ -1,0 +1,10 @@
+article_id: rsta_1980_0248
+revised_title: Ultra-Short Laser Pulses: Mode-Locked Laser Systems and Theoretical Models
+semantic_tags:
+  - Laser Physics
+  - Optics
+  - Quantum Mechanics
+  - Nonlinear Optics
+  - Ultrafast Phenomena
+tldr: This article discusses the theoretical models of mode-locked laser systems, specifically focusing on ultra-short laser pulses. It explains how these pulses can be generated and how they can be used in various applications, such as in nonlinear optics and ultrafast phenomena.
+scientific_discipline: Physics > Laser Physics

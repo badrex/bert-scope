@@ -1,0 +1,10 @@
+article_id: 'rspb_1960_0034'
+revised_title: 'Nucleic Acid Changes and Cell Expansion in Plant Roots'
+semantic_tags:
+  - 'Plant Biology'
+  - 'Nucleic Acids'
+  - 'Cell Expansion'
+  - 'Root Development'
+  - 'RNA and DNA'
+tldr: The study investigates the changes in RNA and DNA content during cell expansion in plant roots. It found that the RNA content per cell increases fourfold, and the DNA content doubles during expansion. The base composition of RNA changes as well, while the DNA base composition remains constant. The results suggest that the changing proportions of RNA fractions may be due to a progressive enzymatic degradation of the initial RNA complement, which could be significant for understanding cell growth mechanisms.
+scientific_discipline: Biology and Life Sciences > Plant Biology

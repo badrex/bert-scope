@@ -1,0 +1,10 @@
+article_id: rspa_1985_0055
+revised_title: Continuum Mechanics Model for Damage in Composite Materials
+semantic_tags:
+  - Composite Materials
+  - Damage Mechanics
+  - Continuum Mechanics
+  - Fatigue Damage
+  - Material Response
+tldr: The article presents a continuum mechanics model for damage in composite materials, focusing on the characterization of damage through a set of internal vector field variables. The authors derive constitutive equations for the isothermal, small-deformation behavior of composite materials in a given damage state and discuss the usefulness of these relations in assessing damage development.
+scientific_discipline: Engineering and Technology > Materials Science

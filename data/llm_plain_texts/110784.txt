@@ -1,0 +1,10 @@
+article_id: 110784
+revised_title: 'Elliptic Polarization of Light: Experimental Research and Theory'
+semantic_tags:
+  - Optics
+  - Polarization
+  - Light refraction
+  - Metallic surfaces
+  - Analytical results
+tldr: The author conducted experiments on the elliptic polarization of light resulting from the reflection of polarized light from metallic surfaces. They developed a theory to explain these phenomena and provided analytical results in a tabular form, applied to the cases of the experiments.
+scientific_discipline: Physics > Optics

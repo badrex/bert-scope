@@ -1,0 +1,10 @@
+article_id: rspa_1939_0151
+revised_title: 'Magnetic Susceptibilities of Cupric Salts: Temperature and Crystal Field Effects'
+semantic_tags:
+  - Magnetism
+  - Crystal Field Theory
+  - Cupric Salts
+  - Temperature Dependence
+  - Magnetic Susceptibility
+tldr: This article investigates the magnetic susceptibilities of cupric salts, including cupric sulphate pentahydrate, copper potassium sulphate, and copper ammonium sulphate. The authors find that the salts' susceptibilities follow a Weiss law at higher temperatures and a simple Curie law at lower temperatures. The results provide insights into the magnetic properties of these materials and their crystal field effects.
+scientific_discipline: Physics > Magnetism

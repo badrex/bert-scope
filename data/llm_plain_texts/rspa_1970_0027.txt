@@ -1,0 +1,10 @@
+article_id: rspa_1970_0027
+revised_title: 'New Scheme for Defining and Classifying Atomic Shell States'
+semantic_tags:
+  - Atomic Physics
+  - Quantum Mechanics
+  - Group Theory
+  - Quasi-particles
+  - Angular Momentum
+tldr: The authors propose a new scheme for defining and classifying atomic shell states using group theory and quasi-particles. They factor the spin-up and spin-down spaces into two parts, creating a more complete classification system and providing a direct explanation for certain features in atomic configurations.
+scientific_discipline: Physics > Atomic Physics

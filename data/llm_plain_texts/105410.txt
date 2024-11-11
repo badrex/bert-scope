@@ -1,0 +1,10 @@
+article_id: '105410'
+revised_title: 'Artificial Cold Production and Mercury Solidification'
+semantic_tags:
+  - Cryogenics
+  - Mercury
+  - Temperature
+  - Thermometer
+  - Physics
+tldr: In 1759, Dr. Himsel and other scientists observed the freezing of mercury at extremely low temperatures using a mixture of spirit of nitre and snow. They discovered that mercury could be turned into a solid state, which could be hammered and extended like other metals. This solidified mercury would eventually return to its liquid state when exposed to the open air. The experiments provided insight into the behavior of mercury under extreme cold conditions.
+scientific_discipline: Physics > Thermodynamics

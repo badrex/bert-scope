@@ -1,0 +1,10 @@
+article_id: 'rspa_1957_0060'
+revised_title: 'Chemical Shifts in Nuclear Magnetic Resonance: Induced Current Densities'
+semantic_tags:
+  - Nuclear Magnetic Resonance
+  - Chemical Shifts
+  - Quantum Mechanics
+  - Molecular Orbital Theory
+  - Perturbation Theory
+tldr: The authors present a theory of chemical shifts in nuclear magnetic resonance, focusing on induced current densities. They develop a method to calculate current density using molecular orbital theory and perturbation theory, which enables them to analyze complex molecules. This work provides a foundation for understanding proton magnetic resonance studies.
+scientific_discipline: Chemistry > Physical Chemistry

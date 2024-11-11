@@ -1,0 +1,10 @@
+article_id: 'rspa_1957_0162'
+revised_title: 'A Comprehensive Analysis of Work-Hardening, Fatigue, and Dislocation Mechanisms in Metals'
+semantic_tags:
+  - Work-hardening
+  - Fatigue
+  - Dislocations
+  - Metals
+  - Mechanical properties
+tldr: This article discusses the current understanding of work-hardening and fatigue in metals, focusing on the role of dislocations in the process. It covers the three stages of work-hardening, the initiation and spread of fatigue cracks, and the connection between fatigue and plastic deformation. The authors present evidence from various experiments and theories to provide a comprehensive overview of the topic.
+scientific_discipline: Materials Science > Mechanical Properties

@@ -1,0 +1,10 @@
+article_id: rspa_1975_0057
+revised_title: Ariel 4 Satellite: Scientific Results and Data Processing
+semantic_tags:
+  - Space Science
+  - Ionosphere
+  - Spacecraft Technology
+  - Radio Frequency Noise
+  - High Energy Charged Particles
+tldr: The Ariel 4 satellite was designed to study the interaction between high energy charged particles and electromagnetic radiation in the upper ionosphere and magnetosphere. The satellite carried experiments to measure radio frequency noise, energetic charged particle streams, and plasma electron density and temperature. The data collected from Ariel 4 helped to identify the relationship between energetic particles and electromagnetic radiation, contributing to the understanding of the upper ionosphere's behavior.
+scientific_discipline: Engineering and Technology > Spacecraft Technology

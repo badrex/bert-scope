@@ -1,0 +1,10 @@
+article_id: 'rspa_1937_0232'
+revised_title: 'Experimental Study of Photo-Disintegration of Deuterium and Neutron Mass Determination'
+semantic_tags:
+  - Nuclear Physics
+  - Deuterium
+  - Neutron
+  - Photo-disintegration
+  - Particle Physics
+tldr: 'The authors conducted experiments to study the photo-disintegration of deuterium using a radiothorium source. They measured the range and angle of projection for the protons produced and determined the binding energy of the deuterium. The results indicated a considerable preponderance of the photoelectric type of disintegration and provided a value for the mass of the neutron.'
+scientific_discipline: Physics > Nuclear Physics

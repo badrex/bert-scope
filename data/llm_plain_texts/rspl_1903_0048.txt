@@ -1,0 +1,10 @@
+article_id: rspl_1903_0048
+revised_title: Enhanced Lines and Flutings in Metallic Arc Spectra in an Exhausted Globe
+semantic_tags:
+  - Spectroscopy
+  - Arc spectra
+  - Metallic arcs
+  - Enhanced lines
+  - Flutings
+tldr: The authors conducted experiments with metallic arcs in an exhausted globe to study their spectra. They discovered that certain lines, called enhanced lines, and flutings appeared in the spectra of magnesium, zinc, and cadmium. These phenomena may be due to the presence of hydrogen released from the heated poles of the metals. The authors suggest that further investigation is needed to understand the exact nature of the action of hydrogen on the arc.
+scientific_discipline: Physics > Spectroscopy

@@ -1,0 +1,10 @@
+article_id: 'rstb_1992_0045'
+revised_title: 'The Actomyosin ATPase: A Two-State System and its Role in Muscle Contraction'
+semantic_tags:
+  - Muscle Contraction
+  - Actomyosin
+  - ATPase
+  - Nucleotide Triphosphatases
+  - Protein Conformation
+tldr: The actomyosin ATPase is a two-state system that plays a crucial role in muscle contraction. The preferred state of the actomyosin complex depends on the nature of the nucleotide bound to myosin, the calcium binding state of tropomyosin, and the mechanical state of the complex. The two-state model explains how the interaction between actin and myosin, along with ATP hydrolysis, leads to the development of mechanical force in muscles and some non-muscle motile systems.
+scientific_discipline: Biology and Life Sciences > Muscle Contraction

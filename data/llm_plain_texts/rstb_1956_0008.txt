@@ -1,0 +1,10 @@
+article_id: 'rstb_1956_0008'
+revised_title: 'Biology and Physics of Locust Flight: Flight Performance of the Desert Locust'
+semantic_tags:
+  - Insect flight
+  - Aerodynamics
+  - Locust behavior
+  - Flight performance
+  - Wing-stroke parameters
+tldr: This study investigates the flight performance of the desert locust, focusing on how various wing-stroke parameters are related to the lift and thrust produced during steady-state flight. The locusts were suspended from a balance and flown against a uniform horizontal wind in a wind tunnel. The results show that the stroke frequency and lift are influenced by reflex control, while the stroke angles, stroke-plane angles, and wing positions remain relatively constant. The flight performance and stroke parameters are independent of changes in air temperature within a specific range, and the large variations in lift cannot be explained by changes in measured stroke parameters. The study provides a basis for further research on locust flight dynamics and energetics.
+scientific_discipline: Biology > Insect Physiology

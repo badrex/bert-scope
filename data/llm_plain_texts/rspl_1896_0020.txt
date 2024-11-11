@@ -1,0 +1,10 @@
+article_id: rspl_1896_0020
+revised_title: 'Magnetic Permeability and Hysteresis of Iron at Low Temperatures'
+semantic_tags:
+  - Magnetism
+  - Iron properties
+  - Low temperature physics
+  - Hysteresis
+  - Annealed soft iron
+tldr: This article discusses the magnetic permeability and hysteresis of iron at low temperatures. The authors conducted experiments using liquid air to cool iron samples and found that the permeability of soft annealed iron decreases when cooled to low temperatures. They also observed that the permeability increases uniformly as the temperature rises from -185°C to the ordinary temperature. The authors examined the hysteresis of the iron at different temperatures and for various maximum inductions, providing valuable insights into the behavior of iron at low temperatures.
+scientific_discipline: Physics > Magnetism

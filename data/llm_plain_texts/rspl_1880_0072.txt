@@ -1,0 +1,10 @@
+article_id: rspl_1880_0072
+revised_title: 'The Critical Temperature and Liquid State: A Study of Surface Tension and Capillarity'
+semantic_tags:
+  - Thermodynamics
+  - Phase transitions
+  - Surface tension
+  - Critical temperature
+  - Capillarity
+tldr: This study investigates the limit of the liquid state and the effects of temperature and pressure on phase transitions. The author finds that the liquid state has a limit, an isothermal line passing through the critical point. They also discover a novel classification of matter into four states: gaseous, vaporous, liquid, and solid. The research includes experiments with various liquids and gases, such as alcohol, hydrogen, and nitrogen, to observe the behavior of surface tension and capillarity under high pressures.
+scientific_discipline: Physics > Thermodynamics

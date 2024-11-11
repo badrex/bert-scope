@@ -1,0 +1,10 @@
+article_id: rspa_1982_0060
+revised_title: Source Genericity of Caustics by Reflexion in R
+semantic_tags:
+  - Differential Geometry
+  - Catastrophe Theory
+  - Singularity Theory
+  - Caustics
+  - Reflective Surfaces
+tldr: The authors study the genericity of caustics formed by reflection in a mirror, focusing on the local aspect of source genericity. They consider transversality to strata of corank 2 and 1 of codimension 2. The key idea is to reduce the problem to studying the contact of a quadric of revolution with the mirror. The results show that certain types of mirrors, such as those with bad umbilics or surfaces of revolution, provide counterexamples to source genericity.
+scientific_discipline: Mathematics > Differential Geometry

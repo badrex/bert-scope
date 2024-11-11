@@ -1,0 +1,10 @@
+article_id: rstb_1992_0128
+revised_title: Calcium Channels and Intracellular Calcium Signaling in Plants
+semantic_tags:
+  - Calcium signaling
+  - Plant physiology
+  - Ion channels
+  - Plant cell biology
+  - Phosphoinositide metabolism
+tldr: This article discusses the role of intracellular calcium in plant cells and the use of calcium channels in regulating various cellular processes. The authors review previous studies on phosphoinositide metabolism in plants and present patch-clamp experiments on isolated red beet vacuoles to study the effects of buffers on calcium-mediated channels. They also analyze the effects of buffers on the diffusion of calcium in a buffered medium using a simplified model.
+scientific_discipline: Biology and Life Sciences > Plant Physiology

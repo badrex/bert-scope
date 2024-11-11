@@ -1,0 +1,10 @@
+article_id: 'rstl_1880_0015'
+revised_title: 'Investigating the Relationship between Magnetic Declination, Horizontal Force, and Solar Spot Frequency'
+semantic_tags:
+  - Magnetism
+  - Solar activity
+  - Sunspots
+  - Earth's magnetic field
+  - Astronomical observations
+tldr: This article examines the relationship between the diurnal range of magnetic declination and horizontal force observed at the Royal Observatory in Greenwich from 1841 to 1877 and the period of solar spot frequency. The author discusses the impact of these observations on understanding the earth's magnetic field and its connection to solar activity.
+scientific_discipline: Physics > Electromagnetism

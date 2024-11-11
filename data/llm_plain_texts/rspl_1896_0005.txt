@@ -1,0 +1,10 @@
+article_id: rspl_1896_0005
+revised_title: Monochromatic Imaging and its Applications in Light Photography
+semantic_tags:
+  - Light photography
+  - Monochromatic light
+  - Spectroscopy
+  - Solar work
+  - Electric light
+tldr: The author describes a method to create monochromatic images using a prism and a slit, which can be applied to photographing sources of light, including electric lights and the sun. This technique can be used to study the properties of different types of light and to create detailed color photographs. The author also discusses the use of flat refraction gratings as an alternative to prisms for solar work.
+scientific_discipline: Physics > Optics

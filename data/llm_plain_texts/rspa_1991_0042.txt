@@ -1,0 +1,10 @@
+article_id: rspa_1991_0042
+revised_title: 'Elastic Field Analysis of a Rotated Rigid Ellipsoidal Inclusion'
+semantic_tags:
+  - Elasticity Theory
+  - Ellipsoidal Inclusion
+  - Tensor Analysis
+  - Stress Concentration
+  - Anisotropic Materials
+tldr: The author presents a simple singularity representation for the elastic field around a rotated rigid ellipsoidal inclusion in an anisotropic matrix. The method provides direct relations between the couple and rotation vectors, stress, strain, and rotation concentrations on the ellipsoidal surface without solving the equations of equilibrium in the matrix or the fundamental ones of a point force. The study focuses on an incompressible matrix and offers a full solution for an isotropic matrix.
+scientific_discipline: Engineering and Technology > Materials Science

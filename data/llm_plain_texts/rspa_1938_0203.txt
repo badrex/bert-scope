@@ -1,0 +1,10 @@
+article_id: 'rspa_1938_0203'
+revised_title: 'Errata: The Low Temperature Properties of Gaseous Helium'
+semantic_tags:
+  - Low Temperature Physics
+  - Helium Gas Properties
+  - Quantum Formulation
+  - Atomic Interaction
+  - Errata
+tldr: This article corrects errors in a previous publication about the low temperature properties of gaseous helium. The authors modify the atomic interaction equation and discuss the differences between their results and those of other researchers. They also provide corrections to the summary and equations in the original paper.
+scientific_discipline: Physics > Thermodynamics

@@ -1,0 +1,10 @@
+article_id: rspl_1890_0123
+revised_title: On the Electrodynamics of Non-Circuital Currents
+semantic_tags:
+  - Electrodynamics
+  - Electromagnetic Theory
+  - Non-Circuital Currents
+  - Dielectric Polarization
+  - Maxwell's Equations
+tldr: The author investigates the electrodynamics of non-circuital currents and dielectric polarization, expanding on Maxwell's theory. They explore the equations of the field and the propagation of electrical action in continuous media, considering the role of non-circuital currents and the function of dielectric polarization in the context of electrodynamics.
+scientific_discipline: Physics > Electromagnetic Theory

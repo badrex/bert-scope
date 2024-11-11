@@ -1,0 +1,10 @@
+article_id: 'rsta_1990_0111'
+revised_title: 'Femtochemistry of the Reaction of IHgI: Quantum Mechanical Treatment of Dissociation Dynamics'
+semantic_tags:
+  - Quantum mechanics
+  - Chemical reaction dynamics
+  - Femtochemistry
+  - Wave packet propagation
+  - Dissociation
+tldr: The article presents a two-dimensional quantum mechanical treatment of the dissociation dynamics of mercury diiodide, allowing for a detailed discussion of the wave packet motion and product state distribution. The study provides insights into the ultrafast elementary chemical reactions and offers a more accurate understanding of the reaction mechanisms.
+scientific_discipline: Chemistry > Quantum mechanics

@@ -1,0 +1,10 @@
+article_id: 108945
+revised_title: Quantitative Analysis of Chemical Reactions: The Influence of Conditions on the Amount of Change
+semantic_tags:
+  - Chemical kinetics
+  - Reaction rate
+  - Reaction conditions
+  - Permanganic acid
+  - Oxalic acid
+tldr: The authors conducted a series of experiments to study the relationship between chemical change and reaction conditions, focusing on the reaction between permanganic acid and oxalic acid. They found that the amount of chemical change is influenced by factors such as the concentration of sulfuric acid, the presence of manganous sulfate, and the proportion of oxalic acid. The results showed complex relationships between these factors and the reaction rate, highlighting the complexity of chemical reactions and the importance of considering various conditions in understanding their outcomes.
+scientific_discipline: Chemistry > Chemical kinetics

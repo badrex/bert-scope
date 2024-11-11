@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0060'
+revised_title: 'Excessive Homoplasy in Monomorphic Proteins: A Case Study on Glycerol-3-Phosphate Dehydrogenase'
+semantic_tags:
+  - Molecular Evolution
+  - Protein Variation
+  - Glycerol-3-Phosphate Dehydrogenase
+  - Homoplasy
+  - Purifying Selection
+tldr: The author investigates the evolution of the monomorphic protein glycerol-3-phosphate dehydrogenase (GPDH) in a range of Drosophila species. They find that GPDH has a high proportion of amino acid parallelism and reversal (homoplasy) at four sites, which is significantly greater than other proteins. This indicates that GPDH is strongly constrained by both the number of amino acid differences and the types of changes allowed.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

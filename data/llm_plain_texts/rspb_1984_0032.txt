@@ -1,0 +1,10 @@
+article_id: 'rspb_1984_0032'
+revised_title: 'Characterization of Human Brain Glycine Receptors in Xenopus Oocytes'
+semantic_tags:
+  - Neuroscience
+  - Receptors
+  - Glycine
+  - GABA
+  - Xenopus oocytes
+tldr: The authors discovered that injecting Xenopus oocytes with mRNA extracted from the human brain induced the formation of functional glycine and GABA receptors in the oocyte membrane. They found that the glycine receptor response was blocked by strychnine and not potentiated by barbiturate, and that the current induced by glycine decreased with hyperpolarization beyond -60mV. This study provides insights into the properties of human brain glycine receptors and their potential role in the nervous system.
+scientific_discipline: Biology and Life Sciences > Neuroscience

@@ -1,0 +1,10 @@
+article_id: rspa_1983_0054
+revised_title: 'Effect of Bubbles Attached to an Electrode on Electrical Resistance and Dissolved Gas Concentration'
+semantic_tags:
+  - Electrochemistry
+  - Bubble dynamics
+  - Electrolysis
+  - Electrical resistance
+  - Gas concentration
+tldr: This article investigates the impact of bubbles attached to an electrode on electrical resistance and dissolved gas concentration in an electrolytic cell. The authors calculate the additional resistance caused by attached bubbles using an asymptotic method and discuss the degree of supersaturation of dissolved gas, which affects the reversible voltage of the cell. The findings can help improve understanding of the effect of attached bubbles on current distribution and voltage in electrolytic cells.
+scientific_discipline: Engineering and Technology > Electrochemistry

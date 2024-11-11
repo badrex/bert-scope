@@ -1,0 +1,10 @@
+article_id: rspa_1967_0064
+revised_title: Singularity-Free Spherically Symmetric Space-Time Manifolds
+semantic_tags:
+  - General Relativity
+  - Space-Time Manifolds
+  - Spherical Symmetry
+  - Lorentz Manifolds
+  - Differential Geometry
+tldr: The author presents a method for constructing globally defined, spherically symmetric space-time manifolds in general relativity by considering space-time as a sphere bundle over a Lorentz 2-manifold. This approach avoids the singularities of polar coordinate systems and allows for the creation of singularity-free models representing vacuum and a massive body with everywhere positive mass density but non-Euclidean topology.
+scientific_discipline: Mathematics > Differential Geometry

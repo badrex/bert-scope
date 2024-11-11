@@ -1,0 +1,10 @@
+article_id: 'rstb_1995_0063'
+revised_title: 'The Role of the North Atlantic in the Global Carbon Cycle: Air-Sea CO2 Transfer and the Carbon Budget'
+semantic_tags:
+  - Ocean Carbon Cycle
+  - Air-Sea CO2 Flux
+  - Ocean Circulation
+  - Biological Pump
+  - Solubility Pump
+tldr: This study examines the role of the North Atlantic in the global carbon cycle, focusing on air-sea CO2 transfer and the carbon budget of the region. The research uses a model simulation to understand how ocean circulation interacts with the solubility and biological pumps, creating features such as the large loss of CO2 from the tropics and gain in high latitudes. The study also quantifies the role of the biological pump in the uptake of anthropogenic carbon from the atmosphere and combines model results with observations to develop a carbon budget for the Atlantic Ocean.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

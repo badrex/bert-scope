@@ -1,0 +1,10 @@
+article_id: rspl_1895_0108
+revised_title: Investigating Temperature Variations in Clark Cells' Electromotive Force
+semantic_tags:
+  - Electromotive force
+  - Temperature coefficients
+  - Clark cell
+  - Standard of E.M.F.
+  - Temperature effects
+tldr: This article investigates the effect of temperature variations on the accuracy of Clark cells, which are used as a standard of electromotive force. The authors conducted experiments to determine the temperature coefficients and the extent of corrections needed for temperature changes in practice. They found that cells respond readily to temperature changes and that the accuracy of the standard can be affected by these variations.
+scientific_discipline: Physics > Electromagnetism

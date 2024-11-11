@@ -1,0 +1,10 @@
+article_id: rspa_1930_0088
+revised_title: 'Investigation of Soft X-Ray Excitation from Single Crystal and Polycrystalline Surfaces'
+semantic_tags:
+  - X-ray physics
+  - Surface science
+  - Crystallography
+  - Electron physics
+  - Tungsten deposition
+tldr: This study compares the excitation of soft X-rays from single crystal and polycrystalline surfaces of graphite and aluminum. The authors investigate the effects of electron bombardment and tungsten deposition on the X-ray generation process. They find that many discontinuous changes in X-ray excitation are not related to electron displacement in atomic orbits and suggest possible explanations, such as electron reflection, electron waves, and secondary electron effects. Further research on single crystal faces is planned.
+scientific_discipline: Physics > Crystallography

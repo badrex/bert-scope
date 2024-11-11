@@ -1,0 +1,10 @@
+article_id: rspa_1957_0141
+revised_title: 'Irradiated Polyester Network Formation: A Mathematical Analysis'
+semantic_tags:
+  - Polymer Chemistry
+  - Radiation Cross-Linking
+  - Chain Reactions
+  - Network Formation
+  - Polyester Curing
+tldr: The authors present a mathematical analysis of network formation in irradiated polyesters, focusing on gel formation and solubility. They develop a model that considers a combination of polymerization reactions and the linking of polyester molecules, taking into account factors such as cross-linking index, molecular weight, and molecular weight distribution. This analysis extends previous work on radiation-induced cross-linking and degradation of long-chain polymers to the case of chain reactions in shorter molecules.
+scientific_discipline: Chemistry > Polymer Chemistry

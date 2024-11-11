@@ -1,0 +1,10 @@
+article_id: rspa_1953_0092
+revised_title: 'Elastic and Viscous Properties of Emulsions and Suspensions: A Study of Rheology'
+semantic_tags:
+  - Rheology
+  - Emulsions
+  - Suspensions
+  - Interfacial tension
+  - Viscosity
+tldr: The authors investigate the elastic and viscous properties of emulsions and suspensions, focusing on the interfacial tension between the two phases. They calculate the rheological properties and find that the relaxation time and retardation time for the system depend on the drop diameter and inversely on the interfacial tension. The study also considers the effect of slip at the interfaces, which can change the type of elastic behavior.
+scientific_discipline: Physics > Fluid Dynamics

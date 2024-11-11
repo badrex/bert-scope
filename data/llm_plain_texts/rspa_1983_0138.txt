@@ -1,0 +1,10 @@
+article_id: rspa_1983_0138
+revised_title: 'Einstein Equations for Uniformly Accelerated Particles: Removing Nodal Singularities'
+semantic_tags:
+  - General Relativity
+  - Accelerated Particles
+  - Boost-Rotation Symmetry
+  - Ernst's Procedure
+  - Nodal Singularities
+tldr: The authors study the solutions of the Einstein equations for uniformly accelerated particles without nodal singularities. They apply Ernst's procedure to the Bonnor and Swaminarayan solutions and construct a new solution representing two independent Curzon-Chazy particles falling freely in opposite directions in an external gravitational field. This solution provides a clear physical interpretation for generalized Bonnor and Swaminarayan solutions and Ernst's generalized -metric.
+scientific_discipline: Physics > General Relativity

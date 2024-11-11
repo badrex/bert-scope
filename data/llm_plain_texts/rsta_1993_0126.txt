@@ -1,0 +1,10 @@
+article_id: 'rsta_1993_0126'
+revised_title: 'Protein Engineering of Insulin Assembly and Modification'
+semantic_tags:
+  - Protein engineering
+  - Insulin assembly
+  - Molecular recognition
+  - Hormone absorption
+  - Zinc coordination
+tldr: This article discusses the assembly and modification of insulin molecules through protein engineering. The authors explain how insulin forms dimers and hexamers, and how these structures affect its absorption by tissues. They describe how introducing carboxylic acids can create electrostatic repulsion, stabilizing the monomeric state and improving insulin's absorption characteristics. The article also explores the effects of chloride, phenol, and other molecules on insulin's structure and assembly.
+scientific_discipline: Biology and Life Sciences > Biochemistry

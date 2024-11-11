@@ -1,0 +1,10 @@
+article_id: rsta_1984_0132
+revised_title: Transient Noise-Induced Optical Bistability: A Study on the Effects of Noise on Critical Slowing-Down
+semantic_tags:
+  - Optical Bistability
+  - Noise Effects
+  - Critical Slowing-Down
+  - Fokker-Planck Equation
+  - Transient Phenomenon
+tldr: The authors study the effects of noise on critical slowing-down in optical bistability. They find that noise causes the intensity probability distribution to become double-peaked during its approach to the single-peak steady-state distribution. The switching time also undergoes remarkable fluctuations, with the average time being shorter than predicted by the deterministic theory. This phenomenon, called transient noise-induced optical bistability, can be observed in various physical, chemical, biological, and other systems.
+scientific_discipline: Physics > Optics

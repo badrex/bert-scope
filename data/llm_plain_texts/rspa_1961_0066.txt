@@ -1,0 +1,10 @@
+article_id: rspa_1961_0066
+revised_title: 'The Impact of Elastically Reflected Electrons on Thermionic Diode Characteristics'
+semantic_tags:
+  - Thermionic diodes
+  - Electron reflection
+  - Space-charge limited region
+  - Exponential region
+  - Electric field distribution
+tldr: The authors studied the effect of elastically reflected electrons on the characteristics of a thermionic diode. They found that the elastic reflexion of slow electrons significantly affects the voltage/current characteristic and the electric field distribution in diodes with oxide-coated cathodes. This discovery has implications for understanding and improving the performance of thermionic diodes in various applications.
+scientific_discipline: Physics > Electronics

@@ -1,0 +1,10 @@
+article_id: 'rspa_1929_0172'
+revised_title: 'The Influence of Transverse Magnetic Fields on Light Propagation'
+semantic_tags:
+  - Electromagnetism
+  - Quantum Mechanics
+  - Zeeman Effect
+  - Photon Properties
+  - Interferometry
+tldr: The authors conducted experiments to study the effect of a transverse magnetic field on the propagation of light. They observed no significant changes in the interference pattern, suggesting that photons do not have magnetic moments. This finding contributes to the understanding of the similarities and differences between photons and other particles in quantum mechanics.
+scientific_discipline: Physics > Electromagnetism

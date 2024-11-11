@@ -1,0 +1,12 @@
+article_id: 'rspb_1939_0039'
+revised_title: 'A Study of Non-Persistent Plant Virus Transmission by Aphids'
+semantic_tags:
+  - Plant Virology
+  - Virus Transmission
+  - Aphids
+  - Non-Persistent Viruses
+  - Hyoscyamus Virus 3
+  - Potato Virus Y
+  - Cucumber Virus 1
+tldr: This study investigates the transmission of non-persistent plant viruses, such as Hyoscyamus virus 3, potato virus Y, and cucumber virus 1, by aphid vectors like Myzus persicae, M. circumflexus, and Macrosiphum gei. The research shows that these viruses have unique properties, such as increased vector efficiency after fasting before feeding on infected plants, and declining vector efficiency with longer feeding times on the source of infection. This suggests that non-persistent virus transmission is a complex and specialized process, rather than a simple mechanical contamination of the insect's stylets.
+scientific_discipline: Biology and Life Sciences > Plant Pathology

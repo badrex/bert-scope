@@ -1,0 +1,10 @@
+article_id: rspl_1889_0139
+revised_title: Gas Battery E.M.F. Diminution and Condensation Heats
+semantic_tags:
+  - Electrochemistry
+  - Thermodynamics
+  - Gas batteries
+  - Heat evolution
+  - Condensation
+tldr: The author discusses the diminution of the E.M.F. of gas batteries and attributes it to the heat evolved during the condensation of gases on surfaces like spongy metals. They also mention previous papers on this topic and the conclusion that the heats of condensation of oxygen and hydrogen may jointly amount to almost as much as the energy developed by their union to form liquid water.
+scientific_discipline: Chemistry > Electrochemistry

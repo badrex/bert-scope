@@ -1,0 +1,10 @@
+article_id: 'rspb_1965_0013'
+revised_title: 'Continuous Analysis of Electroencephalogram (EEG) Signal Variance'
+semantic_tags:
+  - EEG analysis
+  - Signal processing
+  - Frequency bands
+  - Variance index
+  - Analog computing
+tldr: The article presents a technique for analyzing electroencephalogram (EEG) signals by dividing them into frequency bands and calculating signal variance. This method allows for the display of eeg activity changes in association with external events and provides a numerical measure of activity, making it easier to compare and analyze EEG recordings.
+scientific_discipline: Biology and Life Sciences > Neuroscience

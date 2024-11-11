@@ -1,0 +1,10 @@
+article_id: 'rspb_1987_0002'
+revised_title: 'A Structural Model for the Elastic Element in Muscle Crossbridges'
+semantic_tags:
+  - Muscle Contraction
+  - Myosin Rod
+  - Crossbridge Cycle
+  - Muscle Elasticity
+  - Biomechanics
+tldr: The authors propose a structural model for the rapid elastic element in muscle crossbridges. The model suggests that the myosin rod portion connecting the heads to the thick filament shaft gradually bends, allowing the subfragment 2 to detach and reattach during the crossbridge cycle. This movement provides the restoring force and accounts for the elastic element observed in mechanical transient experiments on vertebrate skeletal muscle.
+scientific_discipline: Biology and Life Sciences > Biomechanics

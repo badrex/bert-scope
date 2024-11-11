@@ -1,0 +1,10 @@
+article_id: rspa_1977_0051
+revised_title: Proton Collisions with Hydrogen Atoms: Quantum Theory and Integrated Cross-Sections
+semantic_tags:
+  - Nuclear Physics
+  - Quantum Mechanics
+  - Atomic Physics
+  - Cross-Section
+  - Proton-Hydrogen Collisions
+tldr: The authors calculated the phase shifts and integrated cross-sections for proton collisions with hydrogen atoms at low energies using quantum mechanics. They found that the phase shifts and cross-sections differ from semi-classical results, especially at energies below 0.1 eV. The study provides accurate data for 57 energy values ranging from 0.0001 to 10 eV, which can be used to improve our understanding of proton-hydrogen collisions and their applications.
+scientific_discipline: Physics > Nuclear Physics

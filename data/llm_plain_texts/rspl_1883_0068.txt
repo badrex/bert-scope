@@ -1,0 +1,10 @@
+article_id: rspl_1883_0068
+revised_title: 'Effects of Electrical Stimulation on Frog's Heart and its Modifications by Heat, Cold, and Drugs'
+semantic_tags:
+  - Cardiology
+  - Electrophysiology
+  - Heart refractory period
+  - Strychnine
+  - Temperature effects on heart
+tldr: This study examines the effects of electrical stimulation on a frog's heart and how these effects are modified by heat, cold, and drugs like strychnine. The researchers found that the heart's refractory period, the time during which it cannot respond to another stimulus, varies depending on the intensity of the stimulus and the conditions under which the heart is operated. Heat shortens the refractory period, while cold lengthens it. The study also shows that minimal and maximal stimulation of the heart can cause reduplication of beats and changes in the rhythm of the heart.
+scientific_discipline: Biology and Life Sciences > Physiology

@@ -1,0 +1,10 @@
+article_id: rspl_1888_0111
+revised_title: Bending and Vibration of Thin Elastic Cylindrical Shells
+semantic_tags:
+  - Elasticity
+  - Shell theory
+  - Cylindrical shells
+  - Vibration frequency
+  - Thin structures
+tldr: The author investigates the bending and vibration behavior of thin elastic cylindrical shells, focusing on the frequency equations for various types of vibrations. The study covers flexural, extensional, and torsional vibrations, as well as the effects of curvature and wave-length on the vibrations' frequencies.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

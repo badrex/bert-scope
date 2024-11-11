@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0077'
+revised_title: 'Structural Constraints and Evolutionary Patterns in Protein Sequences'
+semantic_tags:
+  - Protein Structure
+  - Evolutionary Biology
+  - Molecular Biology
+  - Amino Acid Substitution
+  - Protein Folding
+tldr: The authors conducted a comparative analysis of families of homologous globular proteins to characterize and quantify the structural constraints on amino acid substitutions in protein evolution. They classified residues based on amino acid type, secondary structure, accessibility, and side-chain hydrogen bonding, identifying distinct patterns of substitution that can be used to construct sequence templates, predict tertiary environments, and test the validity of putative structures.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

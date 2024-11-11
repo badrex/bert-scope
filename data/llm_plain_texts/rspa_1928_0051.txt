@@ -1,0 +1,10 @@
+article_id: rspa_1928_0051
+revised_title: 'Intermediate Strengths of Magnetic Fields and the Zeeman Effect'
+semantic_tags:
+  - Zeeman effect
+  - Magnetic fields
+  - Atomic physics
+  - Quantum mechanics
+  - Spectroscopy
+tldr: The author presents a method to calculate the frequencies and intensities of the Zeeman effect for any intermediate magnetic field strength using new formulae developed by Prof. C.G. Darwin. The author applies this method to three cases involving doublets and triplets, providing numerical solutions and tables of results.
+scientific_discipline: Physics > Atomic and Quantum Physics

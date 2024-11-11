@@ -1,0 +1,10 @@
+article_id: 'rspb_1993_0040'
+revised_title: 'Exploring the Organization of Neural Systems in the Primate Cerebral Cortex'
+semantic_tags:
+  - Neuroscience
+  - Brain anatomy
+  - Cerebral cortex
+  - Neural networks
+  - Topological analysis
+tldr: The author investigates the organization of neural systems in the primate cerebral cortex using optimization analysis. They examine the connections between cortical areas and suggest a gross topological organization of the cortical information processing system. This analysis helps understand the place of individual areas within the organization and may provide insights for further research.
+scientific_discipline: Neuroscience > Brain anatomy

@@ -1,0 +1,10 @@
+article_id: rspa_1927_0172
+revised_title: 'Spectrum of Carbon Arcs in Air at High Current Densities'
+semantic_tags:
+  - Spectroscopy
+  - Carbon arc
+  - High current density
+  - Spectral lines
+  - Plasma physics
+tldr: The authors studied the spectrum of carbon arcs at high current densities, discovering that the arc's spectrum mainly consists of neutral carbon, nitrogen, oxygen, and hydrogen. They also found new lines belonging to C I, N I, or O I. The high current density arc has a higher intrinsic brightness due to the intense radiation from the vaporized core material.
+scientific_discipline: Physics > Plasma Physics

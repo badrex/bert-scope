@@ -1,0 +1,10 @@
+article_id: rspa_1974_0184
+revised_title: Cooling of Low-Heat-Resistance Sheets in Fluids
+semantic_tags:
+  - Heat Transfer
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Thermal Diffusivity
+  - Prandtl Number
+tldr: The article investigates the cooling process of a low-heat-resistance sheet moving through a fluid. It assumes that the temperature remains uniform across the sheet and derives equations to describe the heat transfer and cooling process. The study finds that cooling is determined by the smaller of two diffusivities: kinematic viscosity and thermal diffusivity.
+scientific_discipline: Engineering and Technology > Heat Transfer

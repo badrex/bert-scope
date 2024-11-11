@@ -1,0 +1,10 @@
+article_id: rspa_1935_0079
+revised_title: 'Rotational Dispersion of Sound in Hydrogen: A Study of the Interaction Forces'
+semantic_tags:
+  - Acoustic dispersion
+  - Hydrogen
+  - Sound velocity
+  - Collision theory
+  - Quantum mechanics
+tldr: 'The authors investigate the rotational dispersion of sound in hydrogen using the interferometric method. They study the interaction forces between hydrogen molecules and find that the sound velocity increases due to incomplete energy exchange between the molecules. The results suggest that the dispersion in hydrogen is caused by rotational energy lag and is not related to vibrational energy exchanges.'
+scientific_discipline: Physics > Acoustics

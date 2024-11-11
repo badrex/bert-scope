@@ -1,0 +1,10 @@
+article_id: rspa_1986_0114
+revised_title: 'Dynamical Thermal Diffuse Scattering of Fast Electrons in Rutile: An Einstein Model Approach'
+semantic_tags:
+  - Electron diffraction
+  - Crystallography
+  - Inelastic scattering
+  - Rutile
+  - Einstein model
+tldr: The authors studied the dynamical thermal diffuse scattering of fast electrons in rutile using an Einstein model. They found that the diffuse scattering patterns were in good agreement with the theory, and the symmetry of the patterns was related to the projection symmetry of the crystal structure. The study also showed how the current density plot could be used to determine the orientations where fast electron current density was peaked at a specific site within the crystal.
+scientific_discipline: Physics > Crystallography

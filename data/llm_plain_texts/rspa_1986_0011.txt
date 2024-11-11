@@ -1,0 +1,10 @@
+article_id: rspa_1986_0011
+revised_title: Existence of Conical Turbulent Vortex Solutions with Variable Eddy Viscosity
+semantic_tags:
+  - Fluid Dynamics
+  - Turbulence
+  - Vortex Flow
+  - Eddy Viscosity
+  - Conical Vortices
+tldr: The author examines the existence of conical turbulent vortex solutions in the Navier-Stokes equations by introducing variable eddy viscosity. They find that for a specific class of eddy viscosity functions, a steady turbulent vortex can satisfy both the regularity condition at the core and the adherence condition at the surface, except for a singularity at the origin. This discovery reveals a connection between the behavior and existence of vortices and turbulence.
+scientific_discipline: Physics > Fluid Dynamics

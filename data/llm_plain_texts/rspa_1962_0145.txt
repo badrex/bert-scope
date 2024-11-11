@@ -1,0 +1,10 @@
+article_id: rspa_1962_0145
+revised_title: 'Investigating the Donnan Law and its Application to Ion Exchanger Polymers'
+semantic_tags:
+  - Ion exchange
+  - Donnan equilibrium
+  - Electrolyte uptake
+  - Diffusion coefficients
+  - Ion exchanger polymers
+tldr: The authors developed a new technique to measure the electrolyte uptake from dilute solutions by ion exchanger polymers. They found that the Donnan equilibrium relation, which predicts a co-ion distribution coefficient proportional to the solution concentration, is not followed. Instead, the distribution coefficient is proportional to a low power of the external counter-ion concentration. The authors also discovered that the diffusion coefficients in the exchanger phase have an abnormally high dependence on concentration, which they attribute to the non-uniform nature of single-phase exchanger polymers.
+scientific_discipline: Chemistry > Ion Exchange and Membrane Processes

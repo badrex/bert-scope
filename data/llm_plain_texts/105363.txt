@@ -1,0 +1,10 @@
+article_id: 105363
+revised_title: 'Experimental Study of Water and Wind Power for Mill and Machine Motion'
+semantic_tags:
+  - Wind power
+  - Water power
+  - Mill design
+  - Mechanical power
+  - Fluid mechanics
+tldr: 'J. Smeaton conducted experiments to understand the natural powers of water and wind in turning mills and machines. He designed a model to study the effects of water and wind on a water wheel and found that the power of water and wind can be measured by the weight raised and the height it reaches in a given time. This research helped in understanding the efficiency of water and wind power in practical applications.'
+scientific_discipline: Engineering and Technology > Mechanical Engineering

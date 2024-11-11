@@ -1,0 +1,10 @@
+article_id: rspa_1972_0037
+revised_title: Investigating Asperity Persistence and Real Area of Contact in Rough Surfaces
+semantic_tags:
+  - Surface Topography
+  - Contact Mechanics
+  - Tribology
+  - Indentation
+  - Asperity Deformation
+tldr: This study investigates the persistence of surface asperities and the real area of contact between rough surfaces. The authors demonstrate that asperity persistence does not depend on the specific metal in contact and is not an intrinsic property of individual surface hills. They also show that the degree of contact, or the ratio of real to nominal area, is generally independent of the load. The findings challenge previous theories on asperity persistence and provide insights into contact phenomena such as friction, wear, adhesion, and electrical contact resistance.
+scientific_discipline: Engineering and Technology > Materials Science and Tribology

@@ -1,0 +1,10 @@
+article_id: rspa_1960_0136
+revised_title: Electrical Conduction in Solids: The Contact of Iron Surfaces
+semantic_tags:
+  - Electrical conduction
+  - Contact resistance
+  - Iron surfaces
+  - Surface contamination
+  - Thermal instability
+scientific_discipline: Physics > Materials Science
+tldr: This article investigates the behavior of iron surfaces contaminated with an oxide layer and the effect of electrical conduction in solids. The authors found that when a critical current is exceeded, the contact resistance decreases due to an increase in the contact area following melting. The study also examines the impact of varying amounts of oxide contamination on contact resistance and the rate of heating.

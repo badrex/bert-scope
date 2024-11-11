@@ -1,0 +1,10 @@
+article_id: rspa_1979_0091
+revised_title: 'Negative Corona in a Rod/Plane Gap: Propagation and Streamer/Anode Interaction'
+semantic_tags:
+  - Electrical breakdown
+  - Corona discharge
+  - Streamer corona
+  - Electric fields
+  - Space charge
+tldr: This study investigates the electric fields and space charge due to negative impulse corona in a 0.5 m rod/plane gap. The results show that a total electric field of about 1.8 MV m-1 is required near the head of the streamer for propagation. The findings provide insights into the complex leader process following the first corona and the interaction of negative streamers with the anode, which can affect sparkover probability. The research also compares the negative corona discharge with the positive corona discharge.
+scientific_discipline: Engineering and Technology > Electrical and Electronics Engineering

@@ -1,0 +1,10 @@
+article_id: rspa_1989_0087
+revised_title: 'Truncation Criteria and Algorithm for the Reduction to Normal Form of Catastrophe Unfoldings: Singularities with Zero Rank'
+semantic_tags:
+  - Catastrophe Theory
+  - Topology
+  - Differential Geometry
+  - Applied Mathematics
+  - Algorithm Development
+tldr: The authors develop algorithms for constructing approximate right-equivalences that reduce elementary catastrophes to their normal forms. They focus on the reduction of unfoldings of zero rank singularities and present a truncation theorem that specifies the terms in an unfolding that determine its normal form. This work is applicable to various applications, such as catastrophe optics and uniform asymptotic approximation of oscillatory integrals.
+scientific_discipline: Mathematics > Applied Mathematics

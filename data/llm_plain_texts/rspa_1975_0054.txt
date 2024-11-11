@@ -1,0 +1,10 @@
+article_id: rspa_1975_0054
+revised_title: 'Effects of Powerful Radio Waves on Ionospheric Plasma and Reflexion'
+semantic_tags:
+  - Ionospheric plasma
+  - Radio wave reflection
+  - Wave absorption
+  - Magneto-ionic components
+  - Wave interaction
+tldr: The article studies the effects of powerful radio waves on the ionospheric plasma and their reflection. It investigates how the power absorbed by the plasma from the radio waves can cause an increase in the effective electron collision frequency, leading to changes in the complex height of reflection. The research also discusses the impact of these changes on the total wave polarization and the complex reflection height of a wanted wave reflected within a region of great absorption.
+scientific_discipline: Physics > Electromagnetism

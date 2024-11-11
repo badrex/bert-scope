@@ -1,0 +1,10 @@
+article_id: 'rsta_1991_0137'
+revised_title: 'Correcting and Reevaluating a Coherent Structure Model of Turbulent Boundary Layers'
+semantic_tags:
+  - Fluid Dynamics
+  - Turbulence Modeling
+  - Boundary Layer Theory
+  - Reynolds Number
+  - Eddy Scales
+tldr: The author discovered an error in a previously published coherent structure model of the turbulent boundary layer and corrected it. They reevaluated the model using experimentally measured values and found that the typical eddy scale is approximately larger than the pocket scale. The conclusions about the similar dependencies between the pockets and the typical eddies remain unchanged.
+scientific_discipline: Physics > Fluid Dynamics

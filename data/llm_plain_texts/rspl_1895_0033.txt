@@ -1,0 +1,10 @@
+article_id: rspl_1895_0033
+revised_title: Exploring the Differences in Lichtenberg's Dust-Figures and Discharge Mechanisms
+semantic_tags:
+  - Electrification
+  - Discharge mechanisms
+  - Lichtenberg figures
+  - Electrostatics
+  - Physics
+tldr: The author investigates the differences in Lichtenberg's dust-figures and their correlation to the discharge mechanisms. They found that the dendritic patterns in positive figures are related to brush discharges, while the rounded patches in negative figures are due to silent discharges. The author also discusses the similarities between these differences and the photo-electric loss of charge experiments by Hertz and Lodge.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rspa_1931_0200
+revised_title: 'Clarifications on Elastic Collisions and the Ramsauer Effect'
+semantic_tags:
+  - Collision Theory
+  - Gas Kinetics
+  - Electron Scattering
+  - Ramsauer Effect
+  - Atomic and Molecular Physics
+tldr: This article discusses the inaccuracies and misleading descriptions in previous papers on elastic collisions of slow electrons with atoms or molecules of gases. The author clarifies the objections raised and refers to some principal experiments that discovered the properties of slow electrons. The article also highlights the importance of understanding the Ramsauer effect and its relation to the mean free paths of electrons in gases.
+scientific_discipline: Physics > Atomic and Molecular Physics

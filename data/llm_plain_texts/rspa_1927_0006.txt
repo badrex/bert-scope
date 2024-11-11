@@ -1,0 +1,10 @@
+article_id: rspa_1927_0006
+revised_title: 'Thermal Constants of Sodium and Potassium: A Study of Vapour Pressure and Specific Heat'
+semantic_tags:
+  - Thermodynamics
+  - Sodium
+  - Potassium
+  - Vapour pressure
+  - Specific heat
+tldr: This article investigates the chemical and thermal constants of sodium and potassium, focusing on their vapour pressure and specific heat. The authors measure the vapour pressure of sodium and potassium at various temperatures and use this data to calculate their specific heat. They find that the constants obtained are higher than the theoretical values, but within the possible error range. Further experiments are needed to determine the exact values of these constants.
+scientific_discipline: Chemistry > Thermodynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1924_0098
+revised_title: Molecular Fields and Crystal Measurements
+semantic_tags:
+  - Molecular fields
+  - Crystal measurements
+  - Kinetic theory
+  - Atomic forces
+  - Interatomic distances
+tldr: The authors explore molecular fields and their effects on crystal structures using kinetic theory and crystal measurements. They calculate interatomic distances in crystalline Argon and find that the observed grating intervals of KC1 can be explained by considering the ions as having the same structure and outer field as Argon, with added positive or negative electrostatic charges. The study provides a better understanding of atomic forces and their impact on crystal structures.
+scientific_discipline: Physics > Materials Science

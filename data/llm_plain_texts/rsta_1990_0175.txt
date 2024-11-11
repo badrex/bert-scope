@@ -1,0 +1,10 @@
+article_id: rsta_1990_0175
+revised_title: Advances in NMR Chemical Microscopy: Applications and Future Prospects
+semantic_tags:
+  - Nuclear Magnetic Resonance (NMR)
+  - Chemical Microscopy
+  - Medical Imaging
+  - Spectroscopy
+  - Biomedical Applications
+tldr: This article discusses recent developments and future prospects of nuclear magnetic resonance (NMR) chemical microscopy, focusing on its applications in medical imaging and spectroscopy. The authors explore high spatial resolution imaging, chemical shift resolution, and nuclear spin relaxation times to obtain chemical data without sacrificing spatial resolution. They also discuss potential applications, limitations, and future prospects of NMR chemical microscopy in the field of medicine and biology.
+scientific_discipline: Physics > Medical Imaging

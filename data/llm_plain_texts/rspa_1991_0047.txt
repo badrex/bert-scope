@@ -1,0 +1,10 @@
+article_id: rspa_1991_0047
+revised_title: 'Experimental Investigation of Liquid Jet Breakup and Satellite Formation'
+semantic_tags:
+  - Fluid Mechanics
+  - Jet Instability
+  - Satellite Formation
+  - Drop Formation
+  - Liquid Jet Breakup
+tldr: This study investigates the different regimes of liquid jet breakup and the effect of frequency and amplitude on the breakup time. The researchers discovered various patterns of satellite formation and merging, confirming Rayleigh's theory for specific conditions. They also found that smaller jet diameters make it more difficult for satellites to form due to increased pressure differences.
+scientific_discipline: Physics > Fluid Mechanics

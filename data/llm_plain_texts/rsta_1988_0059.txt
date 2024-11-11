@@ -1,0 +1,10 @@
+article_id: 'rsta_1988_0059'
+revised_title: 'Chemistry and the Origin of the Solar System: General Discussion'
+semantic_tags:
+  - Solar System Formation
+  - Interstellar Chemistry
+  - Circumstellar Environments
+  - Carbonaceous Grains
+  - Isotopic Anomalies
+tldr: 'This article discusses the role of chemistry in understanding the origin of the Solar System. The authors explore the chemical composition of interstellar grains, the conditions required for their formation, and the implications of recent discoveries such as the detection of diamond in meteorites. They also debate the applicability of laboratory experiments to the study of interstellar chemistry and the persistence of structures like C60 in different environments.'
+scientific_discipline: 'Chemistry > Chemical Composition of the Solar System'

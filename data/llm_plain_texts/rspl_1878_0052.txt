@@ -1,0 +1,10 @@
+article_id: rspl_1878_0052
+revised_title: 'On Stresses in Rarefied Gases and Their Effects on Solid Bodies'
+semantic_tags:
+  - Gas dynamics
+  - Thermodynamics
+  - Fluid mechanics
+  - Heat transfer
+  - Molecular physics
+tldr: This article explores the stresses in rarefied gases caused by temperature inequalities and their effects on solid bodies. The author, J. Clerk Maxwell, explains that these stresses can cause repulsion or attraction between bodies, depending on their temperatures. He also discusses the role of tangential stresses and the sliding motion of gases over surfaces, which can set up currents and complicate the problem.
+scientific_discipline: Physics > Fluid mechanics

@@ -1,0 +1,10 @@
+article_id: rspa_1961_0104
+revised_title: Quantum Statistical Ergodicity and H-Theorems for Incomplete Systems
+semantic_tags:
+  - Statistical mechanics
+  - Quantum thermodynamics
+  - Ergodic theory
+  - Incomplete specifications
+  - Information theory
+tldr: This article explores the quantum statistical ergodic and H-theorems for systems with incomplete specifications. The authors discuss the implications of these theorems in the context of statistical mechanics, quantum thermodynamics, and information theory.
+scientific_discipline: Physics > Statistical Mechanics

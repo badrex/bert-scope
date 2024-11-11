@@ -1,0 +1,10 @@
+article_id: rspa_1937_0188
+revised_title: 'Semiclassical Theory of Metallic Reflexion and Surface Photoelectric Effect'
+semantic_tags:
+  - Surface photoelectric effect
+  - Metallic reflexion
+  - Quantum theory
+  - Electromagnetic wave
+  - Electron density
+tldr: The authors present a semiclassical theory of metallic reflexion and the surface photoelectric effect, which is simpler than previous theories while still closely approximating them. They calculate the effect of electron density on the incident light wave and discuss the resulting photo-emission. The theory is applied to potassium, and the results are compared with experimental determinations of the current.
+scientific_discipline: Physics > Electromagnetism

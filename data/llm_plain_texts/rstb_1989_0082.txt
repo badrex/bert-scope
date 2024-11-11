@@ -1,0 +1,10 @@
+article_id: 'rstb_1989_0082'
+revised_title: 'Comparing the Growth Rates of the AIDS Epidemic in European Countries'
+semantic_tags:
+  - Epidemiology
+  - AIDS
+  - Statistical analysis
+  - Public health
+  - European countries
+tldr: This article analyzes the growth rates of the AIDS epidemic in various European countries using statistical methods. The authors compare the incidence of AIDS cases and explore the use of empirical Bayes methods to improve predictions of the epidemic's growth. They find that the rates of growth for different groups, such as intravenous drug users, bisexuals, and heterosexuals, are different and in increasing order.
+scientific_discipline: 'Social Sciences, Art, and Humanities > Public Health'

@@ -1,0 +1,10 @@
+article_id: rsta_1987_0068
+revised_title: 'Advancements and Applications of Accelerator Mass Spectrometry'
+semantic_tags:
+  - Mass spectrometry
+  - Accelerator mass spectrometry
+  - Tandem accelerators
+  - Radioisotope dating
+  - Isotope analysis
+tldr: This article discusses the development and advantages of accelerator mass spectrometry (AMS) in detecting long-lived isotopes for various applications, including dating and analyzing natural processes in archaeology, Earth sciences, and other fields. The use of tandem accelerators and advancements in technology have significantly improved the sensitivity and accuracy of AMS, leading to its widespread adoption in research.
+scientific_discipline: Physics > Nuclear Physics

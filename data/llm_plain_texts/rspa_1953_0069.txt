@@ -1,0 +1,10 @@
+article_id: rspa_1953_0069
+revised_title: 'Catalysis on Evaporated Metal Films: Efficiency of Metals in Methane-Deuterium Reaction'
+semantic_tags:
+  - Catalysis
+  - Metal Films
+  - Methane-Deuterium Reaction
+  - Exchange Reaction
+  - Activation Energy
+tldr: The authors studied the efficiency of different metals, such as rhodium, platinum, tungsten, and palladium, in the reaction between methane and deuterium on evaporated metal films. They found that the exchange reaction occurs through two mechanisms, producing different compounds. The energies of activation and frequency factors for the reactions were determined, and the results showed that tungsten and palladium have lower activation energies compared to other metals. The authors also discussed the effect of inhibiting gas on the frequency factor of a catalytic reaction and the catalytic activity of iron films for this reaction.
+scientific_discipline: Chemistry > Catalysis

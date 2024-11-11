@@ -1,0 +1,10 @@
+article_id: 'rstl_1872_0017'
+revised_title: 'Experimental Inquiry on the Action of Electricity on Oxygen Gas'
+semantic_tags:
+  - Electrochemistry
+  - Gas Chemistry
+  - Ozone
+  - Electrified Gases
+  - Induction Tube
+tldr: The author conducted experiments on the action of electricity on oxygen gas using the induction tube, discovering that the electrified gas undergoes a contraction when passed through a solution of neutral hyposulphite of soda. The author also found that the amount of ozone produced is affected by the temperature at which the gas is operated on, and that the induction tube is an essential apparatus for this research.
+scientific_discipline: Chemistry > Electrochemistry

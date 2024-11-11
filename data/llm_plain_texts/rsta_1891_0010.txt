@@ -1,0 +1,10 @@
+article_id: rsta_1891_0010
+revised_title: 'Magnetic Effects on Light Reflection and Refraction'
+semantic_tags:
+  - Electromagnetism
+  - Light polarization
+  - Magnetic theory of light
+  - Metallic reflection
+  - Boundary conditions
+tldr: This article investigates the magnetic effects on light reflection and refraction, specifically examining Dr. Kerr's experiments on the impact of magnetism on light. The author found that the magnetic term influences the intensity of reflected light and that the effects produced by magnetization vary with the angle of incidence. However, a complete explanation of these phenomena requires a more advanced electromagnetic theory of metallic reflection.
+scientific_discipline: Physics > Electromagnetism

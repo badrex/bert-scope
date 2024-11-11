@@ -1,0 +1,10 @@
+article_id: 111216
+revised_title: 'Mean Temperature of Every Day in the Year at the Royal Observatory, Greenwich'
+semantic_tags:
+  - Climate Science
+  - Temperature Measurement
+  - Meteorology
+  - Temperature Data Analysis
+  - Temperature Anomalies
+tldr: This paper presents the mean daily temperatures observed at the Royal Observatory in Greenwich from 1814 to 1851. The author, James Glaisher, explains his method of arranging and testing the data and provides twelve tables with the mean daily temperatures for each month. He also discusses the challenges in determining the physical causes of temperature anomalies during specific periods.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

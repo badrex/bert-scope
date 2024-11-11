@@ -1,0 +1,10 @@
+article_id: 107769
+revised_title: Investigating the Rate Difference of an Invariable Pendulum in Greenwich and London
+semantic_tags:
+  - Pendulum experiments
+  - Timekeeping
+  - Astronomy
+  - Physics
+  - Clocks
+tldr: Edward Sabine conducted experiments to determine the difference in the number of vibrations made by an invariable pendulum at the Royal Observatory in Greenwich and a house in London. The pendulum was found to vibrate faster in Greenwich, with an acceleration of 0.48 vibrations per day, which was unexpected given the difference in latitude and elevation between the two locations. This discovery highlights the importance of accurate timekeeping and the need for precise measurements in scientific experiments.
+scientific_discipline: Physics > Mechanics

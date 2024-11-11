@@ -1,0 +1,10 @@
+article_id: rspa_1984_0032
+revised_title: 'Stability of a Compressible Two-Dimensional Vortex Under Three-Dimensional Perturbations: A Study on Critical Boundary'
+semantic_tags:
+  - Fluid Dynamics
+  - Vortex Stability
+  - Compressible Fluids
+  - Perturbation Theory
+  - Critical Boundary
+tldr: The author investigates the stability of a compressible two-dimensional vortex under three-dimensional perturbations. They find that the vortex becomes unstable when the wavelength of the perturbation is greater than a critical value, which depends on the Mach number of the vortex. A critical boundary is defined to divide stable and unstable modes. The study focuses on Rankine vortices and vortices with different velocity profiles within the core, showing qualitatively similar behavior.
+scientific_discipline: Physics > Fluid Dynamics

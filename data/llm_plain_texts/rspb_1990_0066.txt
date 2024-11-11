@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0066'
+revised_title: 'Chlorophyll Fluorescence and CO2 Fixation in Photosynthesis: Predicting Oscillations'
+semantic_tags:
+  - Photosynthesis
+  - Chlorophyll fluorescence
+  - Carbon dioxide fixation
+  - Photosynthetic oscillations
+  - Plant physiology
+tldr: Researchers used chlorophyll fluorescence to predict carbon dioxide fixation during photosynthetic oscillations in plants. They found that both the Weis and Genty models could predict photosynthetic electron transport, but the Genty model was more accurate. This study helps us understand how plants use light energy for photosynthesis and how different factors affect the process.
+scientific_discipline: Biology and Life Sciences > Plant Biology

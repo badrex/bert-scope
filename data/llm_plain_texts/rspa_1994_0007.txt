@@ -1,0 +1,10 @@
+article_id: rspa_1994_0007
+revised_title: 'Droplet and Gas Motion in Liquid Sprays: A One-Dimensional Model for Predicting Induced Air Velocity'
+semantic_tags:
+  - Fluid Mechanics
+  - Spray Dynamics
+  - Turbulence
+  - Entrainment
+  - Air Velocity
+tldr: This study presents a new one-dimensional model for predicting the induced air velocity within droplet-driven sprays. The model considers the mechanics of droplet and gas motion in liquid sprays and is compared with a two-dimensional axisymmetric model. The results are in good agreement with experimental measurements, providing a basis for optimizing nozzle designs and understanding environmental processes involving droplet ejection.
+scientific_discipline: Environmental and Earth Sciences > Fluid Mechanics

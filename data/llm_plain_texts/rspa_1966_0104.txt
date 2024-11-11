@@ -1,0 +1,10 @@
+article_id: rspa_1966_0104
+revised_title: Charge Transfer in Proton-Atomic Hydrogen Collisions: Experimental Study and Theoretical Comparisons
+semantic_tags:
+  - Atomic and Molecular Physics
+  - Charge Transfer
+  - Proton-Hydrogen Collisions
+  - Crossed Beam Technique
+  - Quantum Mechanics
+tldr: This study investigates charge transfer in proton-atomic hydrogen collisions at impact energies above 40 keV using the crossed beam technique. The researchers measured the flux of fast neutral atoms produced by charge transfer and compared the results with theoretical values. The findings suggest that capture into excited states in the range 20 to 50 keV occurs to a greater extent than predicted by previous theories. The study provides insights into the validity of various scattering approximations used in quantum mechanical descriptions of charge transfer at moderately high impact energies.
+scientific_discipline: Physics > Atomic and Molecular Physics

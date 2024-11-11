@@ -1,0 +1,10 @@
+article_id: rspl_1901_0081
+revised_title: Determination of Earth's Magnetic Field and Comparison with Kew Observatory Standard Instruments
+semantic_tags:
+  - Geomagnetism
+  - Magnetic Measurements
+  - Earth's Magnetic Field
+  - Electrochemistry
+  - Voltameter
+scientific_discipline: Earth Sciences > Geomagnetism
+tldr: The author compared the readings of the Earth's magnetic field given by different magnetometers at various observatories in Great Britain. They employed a new method using a coil and a magnetic needle to measure the horizontal component of the Earth's magnetic field. The results showed a discrepancy with the Kew Observatory standard instrument, and the author discussed possible reasons for this difference.

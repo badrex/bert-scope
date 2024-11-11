@@ -1,0 +1,10 @@
+article_id: rspa_1966_0090
+revised_title: 'Separating Field and Exchange Effects in the Inductive Effect of Substituents'
+semantic_tags:
+  - Quantum Chemistry
+  - Inductive Effect
+  - Substituent Effects
+  - Exchange Energy
+  - Coulomb Energy
+scientific_discipline: Chemistry > Physical Chemistry
+tldr: The authors analyze the inductive effect of substituents on the electronic spectra of hydrocarbons. They show that the inductive effect can have contributions from both exchange and Coulomb types, but the exchange terms can be treated empirically as if they arise from a short-range field effect. The authors provide calculations for common substituents and discuss the relative importance of exchange and field effects.

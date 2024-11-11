@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0026'
+revised_title: 'Investigating the Neural Mechanism of Light's Effect on Non-photic Phase Shifts'
+semantic_tags:
+  - Circadian rhythm
+  - Neuropeptide Y
+  - Photopharmacology
+  - Hamsters
+  - Suprachiasmatic nucleus
+tldr: This study investigates the effect of light on non-photic phase shifts in hamsters, specifically focusing on the role of neuropeptide Y. The authors found that phase shifts in response to induced wheel-running and neuropeptide Y injections during the subjective day were greatly reduced by a subsequent light pulse. This suggests that light must act downstream from the release of neuropeptide Y into the suprachiasmatic nucleus to block activity-induced shifts.
+scientific_discipline: Biology and Life Sciences > Neuroscience

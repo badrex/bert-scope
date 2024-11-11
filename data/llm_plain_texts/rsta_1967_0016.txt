@@ -1,0 +1,10 @@
+article_id: rsta_1967_0016
+revised_title: 'Magnetohydrodynamic Power Generation: Thermodynamic Properties of Combustion Products of Methane with Potassium Carbonate'
+semantic_tags:
+  - Magnetohydrodynamics
+  - Combustion
+  - Thermodynamics
+  - Energy Conversion
+  - Potassium Carbonate
+tldr: This article discusses the composition and thermodynamic properties of combustion products of methane containing potassium carbonate for magnetohydrodynamic power generation. The authors present calculations and results on the equilibrium composition of the plasma, considering various temperatures and pressures. The addition of potassium carbonate influences the chemical composition of the gases, affecting the formation of potassium compounds and the overall efficiency of the energy conversion process.
+scientific_discipline: Chemistry > Thermodynamics and Chemical Equilibrium

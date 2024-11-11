@@ -1,0 +1,10 @@
+article_id: '110823'
+revised_title: 'Instruments and Processes for Determining Voltaic Circuit Constants'
+semantic_tags:
+  - Electricity
+  - Circuit Constants
+  - Voltameter
+  - Electromotive Force
+  - Galvanometer
+tldr: The author, Charles Wheatstone, describes several new instruments and processes for determining the constants of a voltaic circuit. These instruments were originally designed to optimize the production of electric effects in extensive circuits to test the feasibility of transmitting signals through electric currents over long distances. Wheatstone also explains a new method for measuring resistances and electromotive forces in circuits using variable resistances and discusses various voltaic elements and their electromotive forces. The author highlights the advantages of these instruments in regulating electro-magnetic engines, voltameter operations, and other applications.
+scientific_discipline: Physics > Electricity and Magnetism

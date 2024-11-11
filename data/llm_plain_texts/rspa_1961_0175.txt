@@ -1,0 +1,10 @@
+article_id: rspa_1961_0175
+revised_title: Development of Single Determinant Wave Functions in Quantum Mechanics
+semantic_tags:
+  - Quantum Mechanics
+  - Wave Functions
+  - Molecular Orbitals
+  - Density Matrix
+  - Spin Eigenfunctions
+tldr: This article develops the theory of single determinant wave functions in quantum mechanics, focusing on unrestricted molecular orbitals, natural spin orbitals, and corresponding orbitals. The authors explore the use of matrices, symmetry, and projection operators to improve wave functions and eigenfunctions of spin. The study aims to provide a more accurate treatment of electronic structure while maintaining the physical advantages of assigning electrons to orbitals.
+scientific_discipline: Physics > Quantum Mechanics

@@ -1,0 +1,10 @@
+article_id: rspa_1950_0062
+revised_title: 'Investigation of the Effect of Flashing on Thermal Accommodation Coefficients of Gases'
+semantic_tags:
+  - Gas kinetics
+  - Thermal accommodation coefficient
+  - Heat transfer
+  - Gas diffusion
+  - Surface properties
+tldr: The authors conducted experiments to study the effect of flashing on the thermal accommodation coefficients of gases. They found that the heat loss from a wire after flashing did not remain constant but slowly increased, indicating that the reduction in heat loss was due to the slow redeposition of impurities on the wire surface. The authors also examined the effects of flashing using different types of filament vessels and found that the behavior of the vessels after flashing was not the same, suggesting that the deposited films on the vessel walls had a significant effect on the rate of heat transfer.
+scientific_discipline: Physics > Thermodynamics

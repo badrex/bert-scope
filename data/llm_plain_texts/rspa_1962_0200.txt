@@ -1,0 +1,10 @@
+article_id: rspa_1962_0200
+revised_title: 'Magnetic Breakthrough and Coupled Electron Orbits in Metals'
+semantic_tags:
+  - Quantum Mechanics
+  - Solid State Physics
+  - Magnetic Fields
+  - Electron Orbits
+  - de Haas-van Alphen Effect
+tldr: The author discusses the failure of semi-classical quantization of electron orbits in metals in strong magnetic fields, known as magnetic breakthrough. They analyze the interference effects that arise when orbits around different centers are coupled and how energy levels are broadened and reform into a different set of levels. The study also reveals the evolution of the level system and the impact of magnetic breakthrough on metallic behavior.
+scientific_discipline: Physics > Solid State Physics

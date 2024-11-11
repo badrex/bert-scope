@@ -1,0 +1,10 @@
+article_id: rspl_1878_0018
+revised_title: Direct Comparison of Standard Barometers at Royal Observatory and Kew Observatory
+semantic_tags:
+  - Barometers
+  - Atmospheric pressure
+  - Instrumentation
+  - Meteorology
+  - Observatories
+tldr: This article describes a series of experiments conducted to compare the standard barometers of the Royal Observatory, Greenwich, and the Kew Observatory. The authors found a mean difference of 0.0012 inches between the two observatories, after accounting for various factors such as temperature and index errors. The results provide valuable information for improving the accuracy of atmospheric pressure measurements in these important establishments.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

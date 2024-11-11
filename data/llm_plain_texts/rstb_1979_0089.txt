@@ -1,0 +1,10 @@
+article_id: 'rstb_1979_0089'
+revised_title: 'Trace Elements in the Atmosphere: Environmental Geochemistry and Health'
+semantic_tags:
+  - Environmental Geochemistry
+  - Atmospheric Pollution
+  - Trace Elements
+  - Aerosols
+  - Health Impacts
+tldr: 'This article discusses the distribution and behavior of particulate trace elements in the atmosphere, analyzing samples from seven non-urban sites in the United Kingdom over five years. The study found that concentrations of trace elements vary between sites but have more uniform relative concentrations, suggesting a similarity of origin or good atmospheric mixing. The research also classified trace elements as either soil-derived or industrial, and examined the relationship between particle size and enrichment factors. The findings have implications for understanding the health impacts of atmospheric pollution and the potential sources of trace elements in the environment.'
+scientific_discipline: Environmental and Earth Sciences > Environmental Geochemistry

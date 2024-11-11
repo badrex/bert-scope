@@ -1,0 +1,10 @@
+article_id: 'rsta_1991_0057'
+revised_title: 'Macroscopic Theory of Microcrack Growth in Brittle Materials'
+semantic_tags:
+  - Fracture mechanics
+  - Microcrack growth
+  - Brittle materials
+  - Continuum mechanics
+  - Constitutive equations
+tldr: This paper presents a macroscopic theory of microcrack growth in brittle materials, incorporating the effects of crack alignment, energetic, and dynamical aspects of crack growth. The theory uses additional kinematical variables and conservation laws to describe the behavior of microcracks in materials like geophysical materials, concrete, and certain ceramics. The constitutive response of the dependent variables is significantly restricted by considering energetic effects and microscopic processes that give rise to crack growth.
+scientific_discipline: Environmental and Earth Sciences > Geology and Geophysics

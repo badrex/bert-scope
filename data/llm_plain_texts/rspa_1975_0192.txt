@@ -1,0 +1,10 @@
+article_id: rspa_1975_0192
+revised_title: 'Centrifugal Barrier Perturbation and Anomalies in the nf 2F Series of Ba II'
+semantic_tags:
+  - Atomic Physics
+  - Quantum Defects
+  - Spin-Orbit Splitting
+  - Hartree-Fock Calculations
+  - Double Valley Potential
+tldr: The authors conducted Hartree-Fock calculations for the nf 2F series of Ba II and found that several nf wavefunctions are shared between the inner and outer wells of the double valley potential. This results in anomalies in intensity, spin-orbit splitting, and quantum defects, providing a qualitative explanation for recent observations.
+scientific_discipline: Physics > Atomic Physics

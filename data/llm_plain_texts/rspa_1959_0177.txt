@@ -1,0 +1,10 @@
+article_id: rspa_1959_0177
+revised_title: 'Ionization Effects in Diamonds: A New Approach to Energy Loss and Pulse-Height Spectra'
+semantic_tags:
+  - Ionization effects
+  - Diamond physics
+  - Energy loss
+  - Pulse-height spectra
+  - Scintillation response
+scientific_discipline: Physics > Materials Science
+tldr: The authors investigated the ionization effects in diamonds when subjected to mono-energetic beta-ray bombardment. They developed a new technique to obtain pulse-height spectra rapidly and under various experimental conditions. The results showed that only a small proportion of incident beta-rays dissipate their total energy within the diamond specimen. The mean energy per ion pair was found to be independent of the primary electron energy, with a value of 20, which differs from the previously accepted value of 10. The authors proposed a theory that the degradation of the primary electron takes place primarily through interaction with the valence electrons of the crystal, affecting the width of the valence band and the position of the maximum in the density of states curve. The finite breadth of the pulse spectra can be explained by a charge-reducing process occurring after the total dissipation of the incident energy, possibly linked to the scintillation response of the diamond crystal.

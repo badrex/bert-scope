@@ -1,0 +1,10 @@
+article_id: rspa_1971_0055
+revised_title: 'Anisotropy in the Hardness of Single Crystals: A Comprehensive Analysis'
+semantic_tags:
+  - Crystallography
+  - Hardness testing
+  - Material Science
+  - Anisotropy
+  - Indentation
+tldr: This study investigates the anisotropy in the hardness of various single crystals, including magnesium oxide, lithium fluoride, calcium fluoride, and aluminum oxide. The research confirms that anisotropy in hardness is an inherent property of all crystalline materials. The analysis establishes a relationship between the effective resolved shear stress, the crystal's bulk, and the observed hardness. The findings can be used to identify active slip systems in crystals where dislocations can move on more than one system.
+scientific_discipline: Materials Science > Crystallography

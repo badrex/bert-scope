@@ -1,0 +1,10 @@
+article_id: '107431'
+revised_title: 'Polarization of Light by Oblique Transmission through All Bodies'
+semantic_tags:
+  - Polarization
+  - Optics
+  - Light refraction
+  - Crystallography
+  - Glass properties
+tldr: The author, David Brewster, discovered that light transmitted obliquely through any transparent material, whether crystallized or not, undergoes polarization. This phenomenon occurs similarly to the pencils formed by doubly refracting crystals. Brewster also established a relationship between the number of plates and the angle of incidence at which the polarization occurs, and he explored the variations in these angles when changing the refractive power of the plates.
+scientific_discipline: Physics > Optics

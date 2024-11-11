@@ -1,0 +1,10 @@
+article_id: 106293
+revised_title: A New and General Method for Finding Simple and Quickly-Converging Series
+semantic_tags:
+  - Mathematics
+  - Series Convergence
+  - Geometry
+  - Trigonometry
+  - Number Theory
+tldr: The author, Charles Hutton, presents a new method for finding simple and quickly-converging series to compute the proportion of a circle's diameter to its circumference. This method involves using small and simple fractions as tangents for arcs, which allows for easier calculations and faster convergence. Hutton demonstrates the effectiveness of his method by comparing it to previous methods used by other mathematicians, such as Dr. Halley, Mr. Machine, and M. Euler.
+scientific_discipline: Mathematics > Trigonometry

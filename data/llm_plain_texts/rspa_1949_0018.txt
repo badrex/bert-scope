@@ -1,0 +1,10 @@
+article_id: rspa_1949_0018
+revised_title: 'Second Virial Coefficients and Dimerization in Organic Vapours'
+semantic_tags:
+  - Thermodynamics
+  - Gas behavior
+  - Dimerization
+  - Molecular interactions
+  - Organic chemistry
+tldr: The authors conducted experiments to measure the second virial coefficients of various organic vapors and found that they fall into two distinct classes. Class I vapors, such as ethane and benzene, have second virial coefficients that agree with the calculated values, while Class II vapors, like acetaldehyde and methyl alcohol, have significantly higher coefficients. The authors conclude that Class II vapors undergo dimerization due to strong intermolecular forces, while Class I vapors do not.
+scientific_discipline: Chemistry > Organic Chemistry

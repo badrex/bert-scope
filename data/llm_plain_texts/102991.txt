@@ -1,0 +1,10 @@
+article_id: 102991
+revised_title: 'Improved Combinations and Alternations Theory'
+semantic_tags:
+  - Combinatorics
+  - Mathematical Notation
+  - Mathematical Theory
+  - Mathematical Applications
+  - Mathematical Concepts
+tldr: The author, Edward Thornycroft, presents an improved and completed theory of combinations and alternations. He explains the concepts of indices of occurrences and how they apply to the number of combinations and alternations of various things. The text provides a detailed explanation of the mathematical formulas and applications of this theory, which can be used in various fields.
+scientific_discipline: Mathematics > Combinatorics

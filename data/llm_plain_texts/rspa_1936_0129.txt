@@ -1,0 +1,10 @@
+article_id: rspa_1936_0129
+revised_title: 'Magnetization Curves of Supraconducting Spheres and Rings: Implications of Purity and Geometry'
+semantic_tags:
+  - Supraconductivity
+  - Magnetization
+  - Lead purity
+  - Sphere geometry
+  - Critical field
+tldr: The author investigates the magnetization curves of a supraconducting sphere and ring, focusing on the effects of purity and geometry. They discover that the critical field is influenced by impurities and that the transition between the supraconducting and normal states varies depending on the shape of the specimen. The study provides insights into the behavior of supraconducting materials and their potential applications.
+scientific_discipline: Physics > Electromagnetism

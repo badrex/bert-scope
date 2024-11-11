@@ -1,0 +1,10 @@
+article_id: rspa_1990_0133
+revised_title: Turbulent Burning Velocity: A Laminar Flamelet Model
+semantic_tags:
+  - Combustion
+  - Turbulence
+  - Flamelet model
+  - Burning velocity
+  - Pre-mixed combustion
+tldr: The author presents a laminar flamelet model for pre-mixed turbulent combustion, where a characteristic length scale controls the flamelet surface-to-volume ratio. The model is compared with experimental data, leading to an experimental determination of the ratio of effective to true laminar burning velocities as a function of Karlovitz number. This study helps in understanding turbulent flame propagation and assessing the accuracy of theoretical models of turbulent combustion.
+scientific_discipline: Engineering and Technology > Combustion and Flame

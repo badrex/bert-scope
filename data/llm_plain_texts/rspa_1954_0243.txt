@@ -1,0 +1,10 @@
+article_id: rspa_1954_0243
+revised_title: Electronic Digital Computers in Molecular Orbital Problems
+semantic_tags:
+  - Quantum Chemistry
+  - Molecular Orbital Theory
+  - Computational Chemistry
+  - Aromatic Hydrocarbons
+  - Electronic Digital Computers
+tldr: The authors used the Manchester computer to solve molecular orbital problems and calculated bond lengths in aromatic hydrocarbons using a self-consistent molecular orbital approximation. The results were compared with existing experimental values, demonstrating the potential of electronic digital computers in advancing valency theory and molecular research.
+scientific_discipline: Chemistry > Quantum Chemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1953_0141
+revised_title: 'Gravity Measurements in North America: The Cambridge Pendulum Apparatus'
+semantic_tags:
+  - Geodesy
+  - Gravity measurements
+  - Pendulum apparatus
+  - Geophysics
+  - North America
+tldr: This article describes the use of the Cambridge pendulum apparatus to establish a line of nine fundamental gravity stations in North America, between Mexico City and Winnipeg. The authors discuss the apparatus, modifications made for the project, and the elimination of magnetic disturbances. They also provide detailed observations and results, including the total range in gravity covered by the line of stations and the standard deviation of the difference of gravity.
+scientific_discipline: Earth Sciences > Geodesy

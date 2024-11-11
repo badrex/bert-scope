@@ -1,0 +1,10 @@
+article_id: rspl_1880_0038
+revised_title: 'Torsion Gravimeter: Design, Examination, and Limitations'
+semantic_tags:
+  - Gravimetry
+  - Torsion balance
+  - Instrument design
+  - Geophysics
+  - Measurement
+tldr: The author examines the design and functionality of the torsion gravimeter, a device invented by J. Allan Broun. The instrument, which measures changes in gravity, has a complex design and requires precise manipulation. Despite its potential for providing valuable data, the author found that the instrument's construction flaws made it difficult to obtain accurate readings. The study offers insights into the limitations of the device and suggests possible improvements for future designs.
+scientific_discipline: Physics > Geophysics

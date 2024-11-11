@@ -1,0 +1,10 @@
+article_id: rspa_1952_0140
+revised_title: Creep Behavior of Metals under Interrupted Stressing
+semantic_tags:
+  - Metal Creep
+  - Andrade's Law
+  - Stress Analysis
+  - Mechanical Properties of Materials
+  - Material Science
+tldr: This article investigates the creep behavior of metals under interrupted stressing, specifically focusing on the effect of stress pulses on the material's deformation. The authors develop a method to analyze the creep curve and demonstrate that the effect of interruptions can be expressed in terms of a single parameter. The study has implications for understanding the behavior of materials under stress and can be applied to various engineering and technological applications.
+scientific_discipline: Engineering and Technology > Material Science

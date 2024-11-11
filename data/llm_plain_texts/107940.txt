@@ -1,0 +1,10 @@
+article_id: 107940
+revised_title: 'Tidal Observations and Theories in the Port of London'
+semantic_tags:
+  - Tides
+  - Hydrodynamics
+  - Coastal Engineering
+  - Geophysics
+  - Navigation
+tldr: The author presents a detailed analysis of tidal observations made at the London Docks from 1804 to 1831, providing valuable data on the time and height of high water. The author compares the theories of Bernoulli and Laplace with the observed data and discusses the effects of changes in the moon's parallax and declination on the tides. The author also provides empirical tables for calculating the time and height of high water, taking into account the effects of wind and other factors.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

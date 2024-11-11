@@ -1,0 +1,10 @@
+article_id: rspa_1985_0008
+revised_title: Twistor Theory and Sourced Fields on Worldlines
+semantic_tags:
+  - Twistor Theory
+  - Field Theory
+  - Worldlines
+  - Non-Hausdorff Spaces
+  - Cohomology
+tldr: The article explores the relationship between twistor spaces and fields with sources on worldlines. It demonstrates how cohomology on non-Hausdorff spaces can be used to describe zero-rest-mass fields with sources on an analytic worldline. The authors construct twistor spaces that correspond to these regions and show how cohomology classes on the twistor space correspond to sourced fields on Minkowski space.
+scientific_discipline: Mathematics > Algebraic Geometry

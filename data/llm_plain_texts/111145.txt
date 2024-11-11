@@ -1,0 +1,10 @@
+article_id: 111145
+revised_title: 'Magnetic Declination Variations at Colonial Observatories'
+semantic_tags:
+  - Geomagnetism
+  - Time variations
+  - Magnetic surveys
+  - Observational astronomy
+  - Earth's magnetic field
+tldr: The author analyzed annual variations of the magnetic declination at four Colonial Observatories in Toronto, Hobarton, the Cape of Good Hope, and St. Helena. They found that the range of variation is greater during the day than at night, and that the increase is most rapid in the first or second hour after sunrise. The author also discussed the importance of considering both the period of the year and the period of the day when making observations and the need for magnetic corrections.
+scientific_discipline: Environmental and Earth Sciences > Geomagnetism

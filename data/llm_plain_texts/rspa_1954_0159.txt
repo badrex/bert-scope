@@ -1,0 +1,10 @@
+article_id: rspa_1954_0159
+revised_title: 'Experimental Analysis of Combustion Zone Parameters in Flat Flames'
+semantic_tags:
+  - Combustion
+  - Flame Propagation
+  - Refractive Index
+  - Temperature Distribution
+  - Lean Ethylene-Air Flames
+tldr: The authors developed a method to analyze the distribution of parameters across the combustion zone of flat flames, using a lean ethylene-air flame as an example. They measured the burning velocity and temperature distribution, along with physical constants of the mixture, to analyze the variables. The method relies on refractive index gradient measurement and can be used to study other combustion zones in the future.
+scientific_discipline: Engineering and Technology > Chemical Engineering

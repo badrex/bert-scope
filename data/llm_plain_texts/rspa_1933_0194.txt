@@ -1,0 +1,10 @@
+article_id: rspa_1933_0194
+revised_title: Mechanism of the Oxygen Electrode and Its Impact on Reversibility
+semantic_tags:
+  - Electrochemistry
+  - Oxygen electrode
+  - Electrode potential
+  - Platinum oxide
+  - Reversible processes
+tldr: The authors investigated the mechanism behind the oxygen electrode's irreversibility and found that the formation of platinum oxide on the electrode surface is responsible for the incomplete reversibility. They also determined that the necessary current density decreases with time, which affects the electrode's potential. This study provides a better understanding of the oxygen electrode's behavior and its impact on the hydrogen-oxygen cell's efficiency.
+scientific_discipline: Chemistry > Electrochemistry

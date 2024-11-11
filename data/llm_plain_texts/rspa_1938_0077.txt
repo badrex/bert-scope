@@ -1,0 +1,10 @@
+article_id: rspa_1938_0077
+revised_title: The Influence of Rate of Deformation on Tensile Test in Iron and Steel
+semantic_tags:
+  - Materials Science
+  - Mechanical Testing
+  - Metal Deformation
+  - Yield Point
+  - Tensile Strength
+tldr: This study investigates the effect of the rate of deformation on the tensile test, particularly the yield point, in iron and steel. The authors conducted experiments using different testing machines and rates of extension to understand the influence of deformation on the stress-strain curve. The results showed that the rate of deformation plays a significant role in the yield point and the stress-strain behavior of iron and steel. The study also highlights the importance of the testing machine's design and the need for accurate extension measurements.
+scientific_discipline: Materials Science > Mechanical Testing

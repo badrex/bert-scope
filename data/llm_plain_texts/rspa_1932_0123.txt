@@ -1,0 +1,10 @@
+article_id: rspa_1932_0123
+revised_title: 'Oxidation of Carbon Monoxide: Mechanism and Kinetics'
+semantic_tags:
+  - Chemical kinetics
+  - Chain reactions
+  - Heterogeneous reactions
+  - Oxygen
+  - Carbon monoxide
+tldr: The authors studied the oxidation of carbon monoxide and found that the reaction is influenced by the presence of water and oxygen. They discovered that the reaction occurs through a chain process, with water and carbon monoxide initiating the reaction, and oxygen breaking the chains at the surface. The results show that the efficiency of collisions for propagating the chains is very high, indicating a unique mechanism for this reaction.
+scientific_discipline: Chemistry > Chemical kinetics

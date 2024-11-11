@@ -1,0 +1,10 @@
+article_id: rspa_1989_0029
+revised_title: 'Numerical Study of Thermokinetic Model for Oscillatory Cool Flame and Complex Ignition Phenomena in Ethanal Oxidation'
+semantic_tags:
+  - Combustion
+  - Kinetic modeling
+  - Ethanal oxidation
+  - Oscillatory cool flames
+  - Ignition phenomena
+tldr: This study presents a numerical analysis of a thermokinetic model for oscillatory cool flames and complex ignition phenomena in ethanal oxidation under well-stirred flowing conditions. The research predicts and explains the different reaction modes, including oscillatory cool flames, two-stage, and multiple-stage ignitions, in a non-adiabatic, well-stirred flow reactor. The findings provide insights into the origins of complex oscillatory waveforms for cool flames and help establish a comprehensive understanding of the non-isothermal phenomena in ethanal oxidation.
+scientific_discipline: Chemistry > Combustion Chemistry

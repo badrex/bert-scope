@@ -1,0 +1,10 @@
+article_id: rspa_1969_0063
+revised_title: Quantum Theory of Lattice Dynamics: Part I
+semantic_tags:
+  - Lattice dynamics
+  - Quantum theory
+  - Crystal stability
+  - Normal coordinate transformation
+  - Phonon dispersion curves
+tldr: This article presents a detailed analysis of the quantum theory of lattice dynamics, focusing on the adiabatic approximation and Hartree-Fock approximation. The author discusses the effective potential energy for atomic nuclei and the two-body interaction model, which is used to explain the direct nuclear-nuclear interaction and the total adiabatic energy of electrons in the ground state. The article also covers crystal stability, normal coordinate transformation, and the relationship between the Fourier transforms and potential energy functions.
+scientific_discipline: Physics > Solid State Physics

@@ -1,0 +1,10 @@
+article_id: rspl_1897_0040
+revised_title: 'Determination of the Mechanical Equivalent of Heat'
+semantic_tags:
+  - Thermodynamics
+  - Heat transfer
+  - Mechanical engineering
+  - Fluid dynamics
+  - Heat engines
+tldr: This article describes the experiments conducted by Osborne Reynolds and W.H. Moorby to determine the mechanical equivalent of heat. They used a hydraulic brake to convert mechanical work into heat, and by measuring the temperature change of the water passing through the brake, they were able to calculate the mechanical equivalent of heat. Their research provided a more accurate method for determining the mechanical equivalent of heat and improved our understanding of heat transfer and thermodynamics.
+scientific_discipline: Physics > Thermodynamics

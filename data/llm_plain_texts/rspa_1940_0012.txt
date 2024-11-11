@@ -1,0 +1,10 @@
+article_id: rspa_1940_0012
+revised_title: 'Ionospheric Reflexion and Waveform Analysis of Atmospherics'
+semantic_tags:
+  - Ionosphere
+  - Atmospheric physics
+  - Electromagnetic wave propagation
+  - Lightning
+  - Radio wave propagation
+tldr: The authors developed an instrument to study the waveforms and energy of atmospherics, which are electromagnetic disturbances caused by lightning. They found that the ionosphere plays a significant role in the reflection and propagation of these disturbances. By analyzing the oscillograms, they were able to determine the height of the ionosphere and the distance of the lightning source.
+scientific_discipline: Physics > Electromagnetic Waves

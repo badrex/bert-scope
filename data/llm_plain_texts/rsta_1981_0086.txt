@@ -1,0 +1,10 @@
+article_id: rsta_1981_0086
+revised_title: Plasma Confinement in Stellarator Systems: High Temperature Plasma Physics Applications
+semantic_tags:
+  - Plasma physics
+  - Stellarator
+  - Plasma confinement
+  - Magnetic fields
+  - Fusion energy
+tldr: This article discusses the properties and advancements of plasma confinement in stellarator systems, focusing on the understanding of containment and heating in the stellarator configuration. It presents results from the CLEO and W VIIA experiments, exploring the potential of stellarators as a basic toroidal confinement system for assessing reactor potential. The article also investigates the confinement of a hot plasma in the absence of current and the effects of auxiliary heating methods, such as laser-produced plasma, electron cyclotron resonant heating, and neutral injection.
+scientific_discipline: Physics > Plasma Physics

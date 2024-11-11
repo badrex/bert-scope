@@ -1,0 +1,10 @@
+article_id: rspa_1964_0136
+revised_title: 'Pyrolysis of Acetylene: Temperature and Reaction Mechanism'
+semantic_tags:
+  - Chemical kinetics
+  - Pyrolysis
+  - Acetylene
+  - Vinylacetylene
+  - Polymerization
+tldr: The authors studied the pyrolysis of acetylene at temperatures between 500 to 1000°C and found that the reaction follows a second-order kinetic law. The initial product of the reaction is vinylacetylene, and other products like diacetylene, methylacetylene, benzene, and methane are formed through further reactions. The authors proposed a mechanism that accounts for the chain character of the reaction and the existence of equilibria.
+scientific_discipline: Chemistry > Chemical kinetics

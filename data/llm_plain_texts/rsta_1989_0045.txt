@@ -1,0 +1,10 @@
+article_id: rsta_1989_0045
+revised_title: Seismic Tomography and Mantle Convection: Models of Layered Mantle Convection
+semantic_tags:
+  - Mantle convection
+  - Seismic tomography
+  - Layered mantle
+  - Earth's interior
+  - Geophysics
+tldr: This article explores the possibility of layered convection in the Earth's mantle using numerical model calculations. The seismic discontinuity at 670 km depth and the top of the lower mantle are considered as candidates for internal boundaries. The author discusses various mechanisms, such as phase transitions and chemical changes, that could enforce the separation of convecting layers and the implications for the Earth's mantle circulation.
+scientific_discipline: Earth Sciences > Geophysics

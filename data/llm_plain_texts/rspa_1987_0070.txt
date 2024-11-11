@@ -1,0 +1,10 @@
+article_id: rspa_1987_0070
+revised_title: 'Multicellular Convection in Shallow Lateral Heated Cavity: Onset and Stability'
+semantic_tags:
+  - Fluid Dynamics
+  - Convection
+  - Heat Transfer
+  - Rayleigh-Benard Convection
+  - Prandtl Number
+tldr: The article investigates the onset of multicellular convection in a shallow laterally heated cavity, focusing on the effects of Rayleigh and Prandtl numbers. The study finds that at low Prandtl numbers, the horizontal core flow may be replaced by a multicellular structure, leading to an imperfect bifurcation. The results provide insights into the stability and behavior of fluid dynamics in such systems.
+scientific_discipline: Physics > Fluid Dynamics

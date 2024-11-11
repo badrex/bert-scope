@@ -1,0 +1,10 @@
+article_id: rsta_1981_0101
+revised_title: 'Mathieu Functions of General Order: Connection Formulae, Base Functions, and Asymptotic Formulae'
+semantic_tags:
+  - Mathieu Functions
+  - Differential Equations
+  - Applied Mathematics
+  - Asymptotic Analysis
+  - Mathematical Physics
+tldr: This article presents the connection formulae, base functions, and asymptotic formulae for Mathieu functions of general order. It discusses the Liouville-Green method applied to the Mathieu equation, providing a comprehensive analysis of the mathematical properties and applications of these functions in various fields of science and engineering.
+scientific_discipline: Mathematics > Applied Mathematics

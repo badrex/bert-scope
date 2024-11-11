@@ -1,0 +1,10 @@
+article_id: rsta_1980_0036
+revised_title: Geoid Float Techniques in Satellite Geodesy: A Review
+semantic_tags:
+  - Satellite Geodesy
+  - Geoid Float
+  - Doppler Tracking
+  - Geodetic Applications
+  - Datum Shift
+tldr: The article discusses the problem of reconciling satellite-derived ground station positions with terrestrial geodetic data using geoid float techniques. The authors propose a method called "geoid float" that allows the geoid to adjust its position and shape to fit the satellite data, improving the accuracy of the combined data. This technique can be used to identify and correct errors in both satellite and ground survey data, leading to a more accurate representation of the Earth's surface.
+scientific_discipline: Environmental and Earth Sciences > Geodesy

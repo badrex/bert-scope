@@ -1,0 +1,10 @@
+article_id: rspa_1967_0116
+revised_title: 'Viscoelastic Relaxation of Supercooled Liquids: A New Theoretical Model'
+semantic_tags:
+  - Viscoelasticity
+  - Supercooled liquids
+  - Relaxation theory
+  - Free volume description
+  - Maxwell model
+tldr: The authors conducted experiments on 14 different liquids to study their viscoelastic properties in the supercooled region. They discovered a new theoretical model that can predict the viscoelastic behavior of pure liquids within experimental error. This model is considered a limiting case for liquids that follow the free volume description of steady flow viscosity. The results show that the effective viscoelastic relaxation region extends over a wider range of frequency than that for a single relaxation time process based on the Maxwell model.
+scientific_discipline: Chemistry > Materials Science

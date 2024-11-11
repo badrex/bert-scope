@@ -1,0 +1,10 @@
+article_id: rspa_1980_0051
+revised_title: 'The Evolution of Quantum Mechanical Electron Theory of Metals (1900-1928)'
+semantic_tags:
+  - Solid State Physics
+  - Quantum Mechanics
+  - Electron Theory
+  - Metal Conductivity
+  - Fermi-Dirac Statistics
+tldr: The article traces the development of the electron theory of metals from Drude's free electron picture to Bloch's quantum mechanical treatment of electrons in crystal lattices. It highlights the inadequacies of the classical Drude-Lorentz theory and the introduction of Fermi-Dirac statistics, which paved the way for the modern quantum theory of metals.
+scientific_discipline: Physics > Solid State Physics

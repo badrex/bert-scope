@@ -1,0 +1,10 @@
+article_id: rspa_1994_0107
+revised_title: Nonlinear Tollmien-Schlichting/Vortex Interaction in Cross-Flow
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer
+  - Vortex Flow
+  - Nonlinear Interaction
+  - Triple-Deck Theory
+tldr: This study investigates the influence of cross-flow on the nonlinear interaction between Tollmien-Schlichting waves and vortices in a three-dimensional boundary layer. The research focuses on the effects of cross-flow on the behavior of the flow solution downstream from the input station. The authors find three distinct responses in the nonlinear behavior of the flow solution: an algebraic finite-distance singularity, far-downstream saturation, or far-downstream wave decay leaving pure vortex flow. These responses depend on the input conditions, wave angles, and the size of the cross-flow.
+scientific_discipline: Physics > Fluid Dynamics

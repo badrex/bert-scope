@@ -1,0 +1,10 @@
+article_id: rspa_1953_0124
+revised_title: Magnetic Resonance Theory for Salts of the Rare Earths
+semantic_tags:
+  - Magnetic Resonance
+  - Rare Earths
+  - Crystal Field Theory
+  - Spin-Hamiltonian
+  - Paramagnetic Resonance
+tldr: The authors present a comprehensive theory for interpreting magnetic resonance data on salts of the rare earths. They focus on determining the ground state, deriving the spin-Hamiltonian, and considering the effects of external magnetic fields and nuclear interactions. The study assumes a high degree of symmetry in the crystal field and provides a reference source for future theoretical work on specific salts.
+scientific_discipline: Physics > Solid State Physics

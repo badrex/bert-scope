@@ -1,0 +1,10 @@
+article_id: rspa_1963_0009
+revised_title: 'Polarization of Electron Impact Radiation in Helium: A Study of Secondary Processes'
+semantic_tags:
+  - Atomic Physics
+  - Electron Impact
+  - Helium
+  - Polarization
+  - Secondary Processes
+tldr: The authors studied the polarization of electron impact radiation in helium to understand the effects of secondary processes on the observed radiation. They determined the conditions for negligible depolarization and measured the optical excitation functions and polarization as a function of electron energy under these conditions. The findings provide insights into the behavior of impact radiation and its potential applications.
+scientific_discipline: Physics > Atomic Physics

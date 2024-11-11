@@ -1,0 +1,10 @@
+article_id: rsta_1902_0004
+revised_title: Elastic Equilibrium of Circular Cylinders under Practical Load Systems
+semantic_tags:
+  - Elasticity
+  - Mechanics
+  - Stress Analysis
+  - Torsion
+  - Compression
+scientific_discipline: Engineering and Technology > Mechanics
+tldr: The author investigates the elastic equilibrium of circular cylinders under various practical load systems, including axial pull, transverse pressure, and shear forces. They discuss three cases of interest and provide numerical examples for each, contributing to a better understanding of mechanical stress and strain in engineering applications.

@@ -1,0 +1,10 @@
+article_id: '106384'
+revised_title: 'The Effect of Electricity on the Shortening of Wires'
+semantic_tags:
+  - Electricity
+  - Conductivity
+  - Wire Shortening
+  - Experiments
+  - Iron
+tldr: 'Edward Nairne discovered that electricity can cause iron wires to shorten in length when an electrical charge passes through them. He conducted experiments to demonstrate this phenomenon and found that the wires continued to shorten with each discharge of the battery. This discovery could have implications for the design and construction of electrical systems.'
+scientific_discipline: Engineering and Technology > Electrical Engineering

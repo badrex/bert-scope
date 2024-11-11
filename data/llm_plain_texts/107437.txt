@@ -1,0 +1,10 @@
+article_id: 107437
+revised_title: 'Improved Formula for Atmospheric Refraction and its Impact on Observations'
+semantic_tags:
+  - Atmospheric Refraction
+  - Astronomy
+  - Observational Astronomy
+  - Astrophysics
+  - Celestial Mechanics
+tldr: The author, Stephen Groombridge, conducted a series of observations to improve the formula for atmospheric refraction. He found that the previously assumed formula by Dr. Bradley was not accurate for all zenith distances and suggested a new formula for computing the mean refraction. This new formula can be used for practical astronomers and can be applied to the observed zenith distance of the sun at the winter solstice as a test of its accuracy.
+scientific_discipline: Physics > Optics

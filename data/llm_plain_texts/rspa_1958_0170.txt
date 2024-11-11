@@ -1,0 +1,10 @@
+article_id: rspa_1958_0170
+revised_title: Nucleon-Deuteron Scattering with Tensor Forces: A Theoretical Approach
+semantic_tags:
+  - Nuclear Physics
+  - Nuclear Forces
+  - Quantum Mechanics
+  - Scattering Theory
+  - Nuclear Interactions
+tldr: This article presents a theoretical study of nucleon-deuteron scattering with tensor forces. The authors use the resonating group method to derive coupled integro-differential equations for the wave functions of relative nucleon-deuteron motion. They express the differential cross-section in terms of eigenphase shifts and mixing parameters, which can be calculated from the asymptotic form of the solutions of these equations. The study provides insights into the nature of nuclear forces and the importance of many-body forces in nuclear structure.
+scientific_discipline: Physics > Nuclear Physics

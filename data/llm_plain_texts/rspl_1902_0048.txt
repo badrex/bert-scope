@@ -1,0 +1,10 @@
+article_id: rspl_1902_0048
+revised_title: 'Exploration of Flame Movements and Pressures in Gaseous Explosions'
+semantic_tags:
+  - Combustion
+  - Explosion dynamics
+  - Gas properties
+  - Flame propagation
+  - Detonation waves
+tldr: The author examines the movements and pressures of flames in gaseous explosions, focusing on the role of detonation waves and the properties of gases involved. They analyze the maximum pressures and temperatures produced by explosions and discuss the behavior of gases in closed vessels. The study provides insights into the factors affecting combustion and the development of detonation waves.
+scientific_discipline: Physics > Fluid Dynamics

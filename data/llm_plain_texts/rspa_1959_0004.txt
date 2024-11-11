@@ -1,0 +1,10 @@
+article_id: rspa_1959_0004
+revised_title: 'Investigating the Chain Arrangement and Sense of the α-Helix in Poly-L-Alanine Fibers'
+semantic_tags:
+  - Protein Structure
+  - Crystallography
+  - Polypeptides
+  - X-ray Diffraction
+  - Helix Geometry
+tldr: The authors studied the structure of poly-L-alanine fibers in the α-helix form using X-ray diffraction and optical diffraction patterns. They found that the chain arrangement in the crystal structure is a hexagonal, close-packed array of right-handed helices with a random chain sense. This arrangement explains the observed X-ray diffraction pattern and supports the right-handed α-helix as the structural unit in the crystal of poly-L-alanine.
+scientific_discipline: Chemistry > Crystallography

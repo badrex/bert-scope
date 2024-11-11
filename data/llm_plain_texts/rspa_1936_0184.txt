@@ -1,0 +1,10 @@
+article_id: rspa_1936_0184
+revised_title: 'Magnetic Field Distribution Around Supraconductors: Simply and Multiply Connected'
+semantic_tags:
+  - Supraconductivity
+  - Magnetic fields
+  - Persistent current
+  - Meissner effect
+  - Electromagnetism
+tldr: The authors conducted experiments to study the distribution of magnetic fields around simply and multiply connected supraconductors. They observed the behavior of magnetic fields in both types of supraconducting bodies and confirmed the law of constant flux. The results showed that persistent currents can flow in multiply connected bodies, while simply connected bodies have zero constant flux.
+scientific_discipline: Physics > Electromagnetism

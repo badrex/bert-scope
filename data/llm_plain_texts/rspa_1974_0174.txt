@@ -1,0 +1,10 @@
+article_id: rspa_1974_0174
+revised_title: 'Conformal Solutions and Partial Structure Factors in Binary Fluids'
+semantic_tags:
+  - Statistical mechanics
+  - Thermodynamics
+  - Liquid mixtures
+  - Binary fluids
+  - Pair correlation functions
+tldr: The authors use the conformal solutions model to calculate the partial structure factors of a binary fluid. They provide explicit expressions for the number-concentration structure factors of the mixture and discuss transport properties like interdiffusion and thermal diffusion ratio. The model can be used to understand the structure of binary alloys and atomic dynamics in conformal solutions.
+scientific_discipline: Physics > Statistical mechanics

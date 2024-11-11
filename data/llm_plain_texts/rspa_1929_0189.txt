@@ -1,0 +1,10 @@
+article_id: rspa_1929_0189
+revised_title: 'Differential Equation in Compressible Fluid Motion and Variational Problems'
+semantic_tags:
+  - Fluid Dynamics
+  - Partial Differential Equations
+  - Variational Calculus
+  - Hydrodynamics
+  - Adiabatic Conditions
+scientific_discipline: Mathematics > Applied Mathematics
+tldr: The author discusses a differential equation that occurs in the two-dimensional motion of a compressible fluid and its associated variational problems. They explore the properties of the equation and the conditions required for a unique solution, considering both elliptic and hyperbolic types. The author also examines the connection between hydrodynamics and the calculus of variations.

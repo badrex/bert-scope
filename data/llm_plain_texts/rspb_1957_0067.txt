@@ -1,0 +1,10 @@
+article_id: 'rspb_1957_0067'
+revised_title: 'Effect of Glycerol Concentration on the Viability of Frozen Erythrocytes'
+semantic_tags:
+  - Blood transfusion
+  - Cryopreservation
+  - Erythrocyte viability
+  - Glycerol concentration
+  - Hemolysis
+tldr: The authors investigated the impact of glycerol concentration on the viability of erythrocytes stored in the frozen state. They found that a final glycerol concentration of 4.5M allowed red cells to deteriorate very slowly, maintaining their organic phosphates content and post-transfusion survival. However, exposure to high glycerol concentrations for brief periods can damage red cell metabolism and decrease post-transfusion survival.
+scientific_discipline: Biology and Life Sciences > Hematology

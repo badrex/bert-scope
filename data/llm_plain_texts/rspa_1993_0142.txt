@@ -1,0 +1,10 @@
+article_id: rspa_1993_0142
+revised_title: 'Stabilizing Inverted Pendulums with Vertical Oscillations'
+semantic_tags:
+  - Pendulum dynamics
+  - Mathieu equations
+  - Stability theory
+  - Oscillations
+  - Mechanical systems
+tldr: The author presents a theorem that demonstrates how linked pendulums can be stabilized in their inverted state by subjecting the support to small vertical oscillations. The theorem is applicable to pendulums of any kind and is based on two properties of the system in its non-inverted state. The stability of the inverted state is achieved by choosing suitable oscillation amplitudes and frequencies.
+scientific_discipline: Physics > Mechanics

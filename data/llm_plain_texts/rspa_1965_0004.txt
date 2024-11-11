@@ -1,0 +1,10 @@
+article_id: rspa_1965_0004
+revised_title: Overcoming Shock Attenuation in Shock Tubes Using Detonating Driver Gases
+semantic_tags:
+  - Shock tubes
+  - Detonation
+  - High-temperature gas research
+  - Gas dynamics
+  - Combustion
+tldr: This article explores two experimental conditions to overcome the attenuation of shocks in shock tubes using detonating driver gases. The authors investigate a double-diaphragm shock tube with unheated hydrogen as the driver gas and a detonable gas in the middle section. They find that detonation conditions can be optimized to produce uniformly driven shocks, which can be useful for high-temperature gas research and studying gas dynamics.
+scientific_discipline: Engineering and Technology > Gas Dynamics

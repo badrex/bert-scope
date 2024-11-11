@@ -1,0 +1,10 @@
+article_id: rspa_1936_0029
+revised_title: Relativistic Theory of the Auger Effect and Its Applications
+semantic_tags:
+  - Atomic Physics
+  - Relativity
+  - Auger Effect
+  - Electron Interactions
+  - Quantum Mechanics
+tldr: The authors present a relativistic theory of the Auger effect, which involves the interaction of two electrons in an atom. They calculate the probability of internal conversion of series radiation for gold and silver using Moszkowski's formula, taking into account relativistic effects and electron exchange. The study provides a test of Dirac's equations applied to atomic phenomena and contributes to the understanding of the Auger effect in heavy atoms.
+scientific_discipline: Physics > Atomic Physics

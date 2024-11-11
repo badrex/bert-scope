@@ -1,0 +1,10 @@
+article_id: rsta_1982_0059
+revised_title: 'Revolutionary Impact of Microprocessors on Analytical Chemistry'
+semantic_tags:
+  - Microprocessors
+  - Analytical Chemistry
+  - Data Processing
+  - Instrumentation
+  - Consumer Computers
+tldr: The article discusses the significant impact of microprocessors on analytical chemistry and scientific instrumentation. Microprocessors have enabled the development of intelligent instruments with advanced capabilities, such as automated analysis, large data storage, powerful data processing, self-testing, and information management. The consumer market for computers is also starting to influence analytical instrumentation and laboratories, offering new opportunities for data acquisition and processing.
+scientific_discipline: Engineering and Technology > Computer Science

@@ -1,0 +1,10 @@
+article_id: rsta_1980_0045
+revised_title: 'Doppler Integration Intervals and Correlation in Satellite Geodesy'
+semantic_tags:
+  - Satellite Geodesy
+  - Doppler Tracking
+  - Integration Intervals
+  - Correlation Modeling
+  - Geodetic Applications
+tldr: The authors conducted numerical tests to determine the effect of varying integration time intervals used in the reduction of satellite Doppler data and established the contribution of geometrical correlation between adjacent Doppler counts. They analyzed observational data from a United Kingdom Doppler campaign involving 13 primary triangulation stations and found that using integration intervals between 20 to 40 seconds is suitable for geodetic applications. The results also confirmed that introducing correlation reduces the internal consistency of the solution but does not significantly affect the number of passes accepted or overall computing cost.
+scientific_discipline: Environmental and Earth Sciences > Geodesy

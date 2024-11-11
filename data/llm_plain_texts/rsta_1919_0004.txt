@@ -1,0 +1,10 @@
+article_id: rsta_1919_0004
+revised_title: 'On the Propagation of Sound in the Free Atmosphere and Acoustic Efficiency of Fog-Signal Machinery'
+semantic_tags:
+  - Acoustics
+  - Sound propagation
+  - Fog signal machinery
+  - Atmospheric refraction
+  - Sound intensity
+scientific_discipline: Physics > Acoustics
+tldr: This article discusses the propagation of sound in the free atmosphere and the acoustic efficiency of fog signal machinery. The authors conducted experiments at Father Point, Quebec, to study the efficiency of sound-producing instruments and the propagation of sound-waves of finite amplitude. They found that the efficiency of fog signals is affected by atmospheric refractions and that sound intensity decreases with distance, but not according to the inverse square law. The authors also investigated the mode of propagation of waves of great intensity and the losses associated with it.

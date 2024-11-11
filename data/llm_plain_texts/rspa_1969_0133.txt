@@ -1,0 +1,10 @@
+article_id: rspa_1969_0133
+revised_title: Ariel III Satellite: Terrestrial Radio Noise Measurements
+semantic_tags:
+  - Satellite Technology
+  - Radio Noise
+  - Atmospheric Science
+  - Space Exploration
+  - Ionosphere
+tldr: The Ariel III satellite was designed to measure terrestrial radio noise from lightning discharges to study the distribution of sources and understand the electrical balance of the atmosphere. The experiment focused on three frequency ranges and used a circular orbit at an altitude of about 500 km to receive noise from specific areas. The findings provided statistical information on the distribution of radio noise sources and helped resolve issues related to interference in communications and meteorology.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

@@ -1,0 +1,10 @@
+article_id: rspa_1974_0115
+revised_title: 'Computer Simulations of Cosmic-Ray Air Showers: Heavy Primary Particle Initiated Showers'
+semantic_tags:
+  - Cosmic Rays
+  - Air Showers
+  - Particle Physics
+  - Nuclear Interactions
+  - Monte Carlo Simulations
+tldr: This study investigates the characteristics of extensive air showers initiated by heavy primary particles using computer simulations. The research focuses on the break-up of heavy primary particles upon collision with air nuclei and the resulting fluctuations in shower development. The authors use a fragmentation model based on nuclear emulsion experiments to represent the interaction of heavy nuclei with air nuclei. The study aims to identify the nature of the energetic primary particles and improve future experiments for this purpose.
+scientific_discipline: Physics > Particle Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1953_0029
+revised_title: Nuclear Magnetic Resonance Investigation of Solid Cyclohexane
+semantic_tags:
+  - Nuclear Magnetic Resonance
+  - Solid State Chemistry
+  - Cyclohexane
+  - Molecular Structure
+  - Crystal Lattice
+tldr: The authors conducted a nuclear magnetic resonance investigation of solid cyclohexane, measuring the absorption spectrum and spin-lattice relaxation time. They found that the second moment of the measured spectrum, which indicates molecular structure, is consistent with a structure having symmetry, tetrahedral bond angles, and specific bond lengths. The study also revealed changes in the second moment and spin-lattice relaxation time as the temperature increased, providing insights into the molecular motion and structure of cyclohexane.
+scientific_discipline: Chemistry > Solid State Chemistry

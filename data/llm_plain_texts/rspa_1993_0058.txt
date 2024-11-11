@@ -1,0 +1,10 @@
+article_id: rspa_1993_0058
+revised_title: 'Flow Past a Row of Flat Plates at Large Reynolds Numbers: A Numerical Study'
+semantic_tags:
+  - Fluid Dynamics
+  - Computational Fluid Dynamics
+  - Boundary Layer Theory
+  - Vorticity
+  - Navier-Stokes Equations
+tldr: The authors numerically studied the steady, incompressible, high Reynolds number flow past a row of flat plates using a Galerkin finite element method. They found a transition from narrow wake eddies to wide wake eddies as the blockage ratio decreased, and their results suggest that this flow behavior is generic for any symmetric bluff body in this geometry.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

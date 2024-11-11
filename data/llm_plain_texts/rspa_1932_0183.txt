@@ -1,0 +1,10 @@
+article_id: 'rspa_1932_0183'
+revised_title: 'Adsorption: A Study of Availability and Accessibility in Lubricants'
+semantic_tags:
+  - Surface Chemistry
+  - Lubrication
+  - Friction
+  - Adsorption Equilibrium
+  - Molecular Availability
+tldr: The authors conducted experiments to study the adsorption and friction of lubricants on surfaces. They discovered that the availability and accessibility of molecules in the adsorbed layer are influenced by temperature and the chemical composition of the lubricant. The experiments reveal that the friction and adsorption behavior of lubricants can be understood in terms of availability and accessibility, which are crucial factors in determining the performance of lubricants in various applications.
+scientific_discipline: Chemistry > Surface Chemistry

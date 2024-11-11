@@ -1,0 +1,10 @@
+article_id: rspa_1936_0081
+revised_title: Tidal Oscillations in an Elliptic Basin of Variable Depth
+semantic_tags:
+  - Fluid dynamics
+  - Tidal waves
+  - Elliptic geometry
+  - Rotating systems
+  - Hydrodynamics
+tldr: The author investigates the tidal oscillations in an elliptic basin of variable depth, considering the effects of rotation. They develop a mathematical model to describe the wave motion and find that the solutions can be expressed in terms of finite sets of polynomials. The study provides insights into the behavior of long waves in rotating elliptical bodies of water.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

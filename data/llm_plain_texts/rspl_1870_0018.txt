@@ -1,0 +1,10 @@
+article_id: rspl_1870_0018
+revised_title: 'Rankine's Theory on Combined Streams and Efficiency'
+semantic_tags:
+  - Fluid Dynamics
+  - Thermodynamics
+  - Engineering
+  - Hydraulics
+  - Efficiency
+tldr: This article by W.J. Macquorn Rankine discusses the mathematical theory of combined streams and how to calculate the efficiency of their combination. It presents a general equation for the combination of any number of fluids and explores two main forms of the problem, providing methods for solving them. The article also explains the loss of energy in the junction-chamber and how to calculate the efficiency of combined streams.
+scientific_discipline: Engineering and Technology > Fluid Dynamics

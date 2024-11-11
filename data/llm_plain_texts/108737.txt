@@ -1,0 +1,10 @@
+article_id: 108737
+revised_title: "Advanced Mathematics: Ternary Cubics and Covariants"
+semantic_tags:
+  - Algebraic Geometry
+  - Ternary Cubics
+  - Covariants
+  - Arthur Cayley
+  - Notation
+tldr: This article delves into the theory of ternary cubics and introduces new covariants, linear functions of the fundamental ones, to better understand the relationships between these complex mathematical structures. The author, Arthur Cayley, compares his notation with that of M. Aronhold and expands on the work of previous memoirs on quantics.
+scientific_discipline: Mathematics > Algebraic Geometry

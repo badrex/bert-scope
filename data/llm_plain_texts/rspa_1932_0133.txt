@@ -1,0 +1,10 @@
+article_id: 'rspa_1932_0133'
+revised_title: 'Artificial Disintegration of Elements by High Velocity Protons'
+semantic_tags:
+  - Nuclear Physics
+  - Particle Acceleration
+  - Radioactivity
+  - Atomic Structure
+  - Nuclear Reactions
+tldr: 'Cockcroft and Walton, along with Rutherford, conducted experiments using high velocity protons to disintegrate elements. They discovered that protons with energies above 150,000 volts could cause elements to emit alpha particles, a process that was the reverse of beta particle transformation. The researchers found that lithium, boron, and fluorine produced the largest emission of particles, suggesting that the addition of a captured proton formed a new alpha particle inside the nucleus.'
+scientific_discipline: Physics > Nuclear Physics

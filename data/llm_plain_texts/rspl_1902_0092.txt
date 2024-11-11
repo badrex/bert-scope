@@ -1,0 +1,10 @@
+article_id: rspl_1902_0092
+revised_title: Dielectric Properties of Solid Glycerine
+semantic_tags:
+  - Dielectrics
+  - Glycerine
+  - Solid state physics
+  - Condensers
+  - Temperature effects
+tldr: This study investigates the dielectric properties of solid glycerine at various temperatures. The specific capacity of glycerine is found to change as it transitions from a liquid to a solid state. The research also examines the conductivity of glycerine at different temperatures and times, revealing interesting effects during the freezing process.
+scientific_discipline: Physics > Solid state physics

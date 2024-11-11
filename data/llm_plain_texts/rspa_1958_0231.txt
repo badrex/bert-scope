@@ -1,0 +1,10 @@
+article_id: rspa_1958_0231
+revised_title: 'Optical Properties and Image-Forming Capabilities of Circular and Spiral Diffraction Gratings'
+semantic_tags:
+  - Diffraction Gratings
+  - Circular Gratings
+  - Spiral Gratings
+  - Optical Properties
+  - Image Formation
+tldr: This article explores the optical properties and image-forming capabilities of circular and spiral diffraction gratings. It derives expressions for the light intensity distribution in the images of a point source and discusses their applications in metrology and other purposes. The accuracy of construction of these gratings is also described, highlighting their high precision and potential for use in various fields.
+scientific_discipline: Physics > Optics

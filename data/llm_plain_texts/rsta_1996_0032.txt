@@ -1,0 +1,10 @@
+article_id: rsta_1996_0032
+revised_title: The Foundations of Quantum Cryptography
+semantic_tags:
+  - Quantum Cryptography
+  - Cryptography Theory
+  - Quantum Information
+  - Quantum Physics
+  - Encryption
+tldr: This article introduces the principles of quantum cryptography, a method of secure communication that uses the principles of quantum theory to protect the transmission of information against interception by eavesdroppers. Quantum cryptography relies on the fact that measurements in quantum physics induce changes in the system being measured, making it difficult for unauthorized parties to gain information without leaving traces of their interference. The article explains the concept of superposition and its role in quantum cryptography, as well as the use of two-state systems to encode information on quantum binary digits.
+scientific_discipline: Physics > Quantum Mechanics

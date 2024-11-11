@@ -1,0 +1,10 @@
+article_id: rsta_1991_0036
+revised_title: Receptivity Problem for Gortler Vortices: Vortex Motions Induced by Wall Roughness
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer
+  - Gortler Vortices
+  - Wall Roughness
+  - Stability Theory
+tldr: The article investigates the receptivity problem for Gortler vortices, focusing on vortex motions induced by wall roughness. The authors analyze the cases of isolated and distributed roughness elements and find that the most unstable modes are likely to be the source of transition in curved flows at high Gortler numbers. The study provides insights into minimizing the likelihood of transition induced by Gortler vortices in practical situations.
+scientific_discipline: Physics > Fluid Dynamics

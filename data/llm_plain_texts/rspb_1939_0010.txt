@@ -1,0 +1,10 @@
+article_id: 'rspb_1939_0010'
+revised_title: 'Protein Molecule: Structure, Properties, and Analysis Techniques'
+semantic_tags:
+  - Protein structure
+  - Molecular weight determination
+  - Protein chemistry
+  - Ultracentrifugation
+  - X-ray crystallography
+tldr: The article discusses the nature of protein molecules and the experimental techniques used to study their structure, properties, and molecular weights. It highlights the importance of ultracentrifugation, diffusion, osmotic pressure, electrophoresis, X-ray analysis, viscosity, and other methods in understanding the architecture and behavior of protein molecules. The article also touches upon the concept of protein dissociation and association and the rule of simple multiples for molecular weights.
+scientific_discipline: Biology and Life Sciences > Biochemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1987_0122
+revised_title: Stability of Superspheres in Colloidal Systems
+semantic_tags:
+  - Colloidal Chemistry
+  - Superspheres
+  - Electrostatic Forces
+  - Dispersion Forces
+  - Aggregation
+scientific_discipline: Chemistry > Colloidal Chemistry
+tldr: This article explores the stability of superspheres, which are compact, three-dimensional spherical clumps of colloidal crystalites. The stability is explained by the existence of two opposing forces within the superspheres: long-range electrostatic repulsion and short-range attractive dispersion forces. The author provides a condition of stability that agrees with experimental observations and discusses the generality of the phenomenon. The study also applies the theory to diffusion-limited aggregates, which have a fractal dimension.

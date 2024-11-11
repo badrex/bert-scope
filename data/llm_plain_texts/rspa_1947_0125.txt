@@ -1,0 +1,10 @@
+article_id: rspa_1947_0125
+revised_title: Detection Attempts of Secondary Charged Particles in Uranium Fission
+semantic_tags:
+  - Nuclear Physics
+  - Fission
+  - Particle Detection
+  - Proportional Counter
+  - Coincidence Counting
+tldr: The authors attempted to detect the emission of secondary charged particles during the fission of uranium using slow neutrons. They used coincidence counting techniques with proportional counters and ionization chambers to analyze the data. The results showed a small positive effect, indicating that secondary charged particles might be emitted during the fission process.
+scientific_discipline: Physics > Nuclear Physics

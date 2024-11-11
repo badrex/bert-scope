@@ -1,0 +1,10 @@
+article_id: rspa_1990_0128
+revised_title: 'Turbulent Mixing of Compressible Free Shear Layers: A Large-Scale Structure Model'
+semantic_tags:
+  - Turbulence
+  - Fluid Dynamics
+  - Shear Layers
+  - Large-Scale Structures
+  - Compressibility
+tldr: This article presents a model for turbulent mixing in compressible free shear layers, focusing on the large-scale structures that dominate the flow. The model calculates the development of both time-averaged and time-dependent motions, predicting the effects of external conditions such as velocity and density ratios, and compressibility without the need for empirical constants. The models are computationally efficient and provide an alternative to direct numerical simulations.
+scientific_discipline: Physics > Fluid Dynamics

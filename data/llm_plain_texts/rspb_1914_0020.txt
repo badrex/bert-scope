@@ -1,0 +1,12 @@
+article_id: 'rspb_1914_0020'
+revised_title: 'Exploring the Conduction of Pulse Waves and Arterial Pressure Measurements'
+semantic_tags:
+  - Blood pressure
+  - Pulse wave conduction
+  - Arterial pressure
+  - Sphygmomanometer
+  - Blood flow
+
+tldr: The authors conducted experiments to understand the conduction of pulse waves and arterial pressure measurements. They discovered that the pressure required to stop the pulse wave in an artery is lower than the internal diastolic pressure of the vessel. The authors also found that the lability of the arterial wall plays a significant role in pulse wave conduction. This research helps in understanding the factors affecting blood pressure readings and the role of tissues and surrounding structures in pulse wave conduction.
+
+scientific_discipline: Medicine and Health Sciences > Physiology

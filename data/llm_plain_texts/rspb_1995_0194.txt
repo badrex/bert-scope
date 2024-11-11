@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0194'
+revised_title: 'Mechanics and Geometry of Insect Hindwing Fans: A Modeling Approach'
+semantic_tags:
+  - Insect flight mechanics
+  - Wing geometry
+  - Euler buckling
+  - Logarithmic spiral
+  - Insect anatomy
+tldr: The author models the mechanics and geometry of insect hindwing fans, specifically the umbrella effect, which is a mechanism of camber generation in orthopteroid and dictyopteroid insects. The model treats the fan as a framework with a truncated logarithmic spiral outer margin, and it explains the distribution of compression forces in the veins around the spiral. The model predicts conditions that must be met and departures from the model expected in real wings. Actual insects fit the model and predictions quite well.
+scientific_discipline: Biology and Life Sciences > Zoology

@@ -1,0 +1,10 @@
+article_id: rspa_1976_0122
+revised_title: Ariel 5 Hard X-Ray Measurements of Galactic and Extragalactic X-Ray Sources
+semantic_tags:
+  - X-ray astronomy
+  - Galactic sources
+  - Extragalactic sources
+  - X-ray detectors
+  - Satellite observations
+tldr: The authors present a review of the hard X-ray measurements obtained from the Ariel 5 satellite, focusing on the detection and analysis of galactic and extragalactic X-ray sources. They discuss the detector configuration, radioactivity corrections, and the implications of their findings on source models and the understanding of X-ray astronomy.
+scientific_discipline: Physics > Astronomy

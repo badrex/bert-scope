@@ -1,0 +1,10 @@
+article_id: rsta_1969_0066
+revised_title: 'Investigations of Sound Transmission Fluctuations in Shallow Coastal Waters'
+semantic_tags:
+  - Acoustics
+  - Underwater Sound
+  - Coastal Water Studies
+  - Environmental Measurements
+  - Tidal Effects
+tldr: This study investigates the propagation and fluctuations of sound in shallow coastal waters off the British Isles. The authors describe the environment and special environmental measurements taken, as well as the acoustic measurements made for various ranges and frequencies. They identify nine fluctuation mechanisms, including seasonal changes, fish presence, storm effects, and tidal changes in depth and water structure. These findings are important for understanding the impact of fluctuations on underwater sound transmission for applications like telemetry, communication, and echo ranging.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

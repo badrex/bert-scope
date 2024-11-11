@@ -1,0 +1,10 @@
+article_id: 111788
+revised_title: 'Investigating the Distribution of Planetary Perihelia and Nodes'
+semantic_tags:
+  - Celestial Mechanics
+  - Planetary Orbits
+  - Astronomy
+  - Astrostatistics
+  - Statistical Analysis
+tldr: The author examines the distribution of perihelia and nodes of known planets to determine if there is a pattern or law governing their positions. They find that a significant number of perihelia and nodes fall within specific heliocentric semicircles, suggesting the existence of an undiscovered law. The author invites further analysis to explore this phenomenon.
+scientific_discipline: Astronomy > Celestial Mechanics

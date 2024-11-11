@@ -1,0 +1,10 @@
+article_id: rspa_1974_0036
+revised_title: 'Recombination and Electrical Networks: A Theoretical Approach'
+semantic_tags:
+  - Recombination Theory
+  - Electrical Networks
+  - Conductance
+  - Kirchhoff's Laws
+  - Collisional-Radiative Recombination
+tldr: The article presents a theorem that describes recombination as a steady current through an electrical network of linear conductors. It explains how recombination can be precisely related to the flow of current through a network, with the potential of each point representing a level and the conductance of the link between levels determining the rate of recombination. The theorem is applicable to various types of recombination processes and provides a useful tool for understanding and analyzing recombination in different contexts.
+scientific_discipline: Physics > Electromagnetism

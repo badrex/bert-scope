@@ -1,0 +1,10 @@
+article_id: rsta_1923_0009
+revised_title: 'Measurement of Wind Using Shooting Spheres Upward: A New Method'
+semantic_tags:
+  - Meteorology
+  - Wind measurement
+  - Ballistics
+  - Aerodynamics
+  - Atmospheric science
+tldr: The authors present a new method for measuring wind using steel spheres shot upward. The method is advantageous in foggy conditions, is cost-effective, and provides wind measurements directly overhead. The theory and practical aspects of the measurement are discussed, and the authors demonstrate the method's effectiveness by comparing their results with the Dines anemometer.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

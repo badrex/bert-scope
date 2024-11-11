@@ -1,0 +1,10 @@
+article_id: 'rspa_1959_0164'
+revised_title: 'Eigenvalues in Problems with Spherical Symmetry: Further Developments'
+semantic_tags:
+  - Mathematical Physics
+  - Eigenvalue Problems
+  - Spherical Symmetry
+  - Van Der Corput's Theorem
+  - Lattice-Point Sums
+tldr: This article explores the eigenvalues in problems with spherical symmetry, focusing on the behavior of the number of eigenvalues not exceeding a certain value. The author extends previous work by considering cases where the function is a constant and applies van der Corput's theorem to derive approximations. The results are applicable to a range of problems in mathematical physics.
+scientific_discipline: Mathematics > Analysis

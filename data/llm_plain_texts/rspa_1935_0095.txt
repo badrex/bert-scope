@@ -1,0 +1,10 @@
+article_id: rspa_1935_0095
+revised_title: 'In-depth Study of Gas Diffusion through Metals'
+semantic_tags:
+  - Gas diffusion
+  - Metal properties
+  - Temperature effects
+  - Pressure effects
+  - Adsorption isotherm
+tldr: This article investigates the diffusion of gases through metals, focusing on the effects of temperature and pressure on the rate of diffusion. The authors propose a new equation that accounts for adsorption on the metal surface, providing a better understanding of gas diffusion at both high and low pressures.
+scientific_discipline: Physics > Materials Science

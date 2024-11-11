@@ -1,0 +1,10 @@
+article_id: rspa_1972_0145
+revised_title: Quantum Mechanical Interpretation of Light Dispersion
+semantic_tags:
+  - Quantum Mechanics
+  - Light Dispersion
+  - Atomic Physics
+  - Optical Physics
+  - Refractive Index
+tldr: The article explores the relationship between light shifts and the dispersion of light in a medium using quantum mechanics. It considers a system of one photon interacting with atoms near resonance and finds an approximately stationary solution for the eigenstates and energy of the interacting system. The study reveals that the interaction energy, or light shift, is simply related to the atomic polarizability, and provides a quantum-mechanical interpretation of the refractive index.
+scientific_discipline: Physics > Optics

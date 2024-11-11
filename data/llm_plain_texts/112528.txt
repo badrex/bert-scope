@@ -1,0 +1,10 @@
+article_id: 112528
+revised_title: 'On Waves in Liquids: Theoretical Analysis and Applications'
+semantic_tags:
+  - Fluid dynamics
+  - Wave theory
+  - Surface waves
+  - Tidal waves
+  - Virtual depth
+tldr: This paper by W.J. Macquorn Rankine explores the velocity of advance of waves in liquids, demonstrating a law that applies to waves transmitting disturbances in a liquid with a uniform pressure surface. The author also discusses the concept of virtual depth and its relation to wave behavior, as well as the possibility of oblique tidal waves.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

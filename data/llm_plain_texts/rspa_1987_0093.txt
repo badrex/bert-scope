@@ -1,0 +1,10 @@
+article_id: rspa_1987_0093
+revised_title: 'Turbulent Boundary-Layer Wall Pressure Spectrum and Acoustic Wavenumber'
+semantic_tags:
+  - Fluid Dynamics
+  - Turbulence
+  - Acoustics
+  - Boundary Layer Theory
+  - Aeroacoustics
+tldr: The article investigates the structure of the turbulent boundary-layer wall pressure spectrum near the acoustic wavenumber. It examines theoretical attempts to determine the magnitude of the spectral peak in real flows by imposing a finite limit on the size of the boundary layer or taking account of the attenuation of grazing acoustic waves by the turbulence. The influence of turbulence absorption is found to be negligible, while the effects of finite boundary-layer size and wall curvature are of comparable magnitudes and govern the height of the spectral peak for boundary layers formed on a rigid wall.
+scientific_discipline: Physics > Fluid Dynamics

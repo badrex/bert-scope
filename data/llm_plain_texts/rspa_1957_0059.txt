@@ -1,0 +1,10 @@
+article_id: rspa_1957_0059
+revised_title: Spherical Aberration and the Information Content of Optical Images: A Study on Low-Contrast Photographic Transparencies
+semantic_tags:
+  - Optical aberration
+  - Image quality
+  - Photographic processes
+  - Fourier analysis
+  - Spherical aberration
+tldr: This article explores the effects of spherical aberration and focus variation on the information content of low-contrast photographic transparencies. The authors use mathematical models and Fourier analysis to understand how different photographic processes affect image quality and information density. They also discuss the importance of fine object detail in evaluating the performance of optical systems.
+scientific_discipline: Physics > Optics

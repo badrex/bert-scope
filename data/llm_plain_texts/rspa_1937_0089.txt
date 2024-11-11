@@ -1,0 +1,10 @@
+article_id: rspa_1937_0089
+revised_title: 'Electrodynamics of a Rigidly and Uniformly Electrified Sphere in Uniform Circular Motion'
+semantic_tags:
+  - Electromagnetic theory
+  - Classical electrodynamics
+  - Electromagnetic radiation
+  - Electromagnetic fields
+  - Electrodynamics of moving bodies
+tldr: The author investigates the uniform circular motion of a rigidly and uniformly electrified sphere with invariable normal spin. They derive equations of motion and analyze the electromagnetic field reactions, showing that the tangential and normal force constituents are quadratic polynomials in the spin, while the couple constituent is linear. The author also demonstrates the existence of radiationless orbits and discusses the implications for problems of nuclear structure and atomic models.
+scientific_discipline: Physics > Electromagnetic Theory

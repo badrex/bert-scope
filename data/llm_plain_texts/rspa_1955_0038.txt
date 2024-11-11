@@ -1,0 +1,10 @@
+article_id: rspa_1955_0038
+revised_title: Line Geometry and Quadrics in Four and Five Dimensions Over GF(3)
+semantic_tags:
+  - Geometry
+  - Algebraic Geometry
+  - Projective Geometry
+  - Linear Algebra
+  - Group Theory
+tldr: This paper explores the line geometry of three dimensions over GF(3) and the allied geometry of quadrics in four and five dimensions. It describes the properties of quadrics and their relationship to line geometry, providing insights into the structure and properties of well-known groups like the "cubic surface group" of order 51840.
+scientific_discipline: Mathematics > Algebraic Geometry

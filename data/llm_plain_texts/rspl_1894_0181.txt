@@ -1,0 +1,10 @@
+article_id: rspl_1894_0181
+revised_title: Argon Absence in Vegetable and Animal Substances
+semantic_tags:
+  - Gas Chemistry
+  - Inorganic Chemistry
+  - Nitrogen Compounds
+  - Animal Tissues
+  - Vegetable Analysis
+tldr: The authors conducted experiments to determine if argon was present in vegetable or animal substances. They used Dumas' method to collect nitrogen from peas and mice, and then passed the gas over heated magnesium to separate any argon. The experiments yielded no evidence of argon in either peas or mice, suggesting that argon is not contained in these substances.
+scientific_discipline: Chemistry > Inorganic Chemistry

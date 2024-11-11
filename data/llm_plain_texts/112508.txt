@@ -1,0 +1,10 @@
+article_id: 112508
+revised_title: Resistance of Air to Rifled Projectiles: A Reevaluation
+semantic_tags:
+  - Ballistics
+  - Fluid dynamics
+  - Aerodynamics
+  - Projectile motion
+  - Air resistance
+tldr: This article investigates the resistance of air to rifled projectiles and reevaluates the laws of resistance proposed by Robins, Hutton, and other authors. The author, J. A. Longridge, presents new data and equations to better understand the relationship between air resistance and projectile velocity. The study concludes that the increase in resistance at high velocities is not due to the vacuum behind the projectile, but rather the condensation of air in front of it.
+scientific_discipline: Engineering and Technology > Ballistics

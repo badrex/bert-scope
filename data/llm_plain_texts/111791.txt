@@ -1,0 +1,10 @@
+article_id: '111791'
+revised_title: 'Magnetic Medium and Compression Effects'
+semantic_tags:
+  - Magnetism
+  - Diamagnetism
+  - Magnetic Medium
+  - Crystallography
+  - Compression Effects
+tldr: The author discusses the concept of a magnetic medium and its relation to compression effects. They explain that when magnetic bodies are compressed, the attraction to a magnet increases due to the loss of magnetic medium and the increase in magnetic matter. In contrast, when diamagnetic bodies are compressed, the repulsion from a magnet increases as the magnetic medium is replaced by less magnetic matter. The author also notes that crystals with different magnetic properties have different magnetic functions depending on their crystallographic axes.
+scientific_discipline: Physics > Magnetism

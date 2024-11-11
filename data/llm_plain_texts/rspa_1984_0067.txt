@@ -1,0 +1,10 @@
+article_id: rspa_1984_0067
+revised_title: Liquid Drops Suspended by Soap Films: General Formulation and Axial Symmetry
+semantic_tags:
+  - Free-boundary problems
+  - Variational principles
+  - Equilibria of suspended drops
+  - Surface tension
+  - Capillary forces
+tldr: This study introduces a new category of free-boundary problems concerning the equilibria of suspended liquid drops. The authors present a general formulation and analyze the case of axial symmetry, where a horizontal wire frame is spanned by a soap film, and a drop of liquid is suspended from it. The equilibrium is determined by surface tension and gravity, and the problem is linked with variational principles. The case of axisymmetric drops in circular frames is fully tractable and demonstrates the main features of the problem.
+scientific_discipline: Mathematics > Applied Mathematics

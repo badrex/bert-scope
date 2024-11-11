@@ -1,0 +1,10 @@
+article_id: rsta_1996_0115
+revised_title: Joint Distributions of Apparent Open and Shut Times of Single-ion Channels and Maximum Likelihood Fitting of Mechanisms
+semantic_tags:
+  - Ion channels
+  - Markov processes
+  - Single-channel recording
+  - Maximum likelihood fitting
+  - Biophysics
+tldr: The authors develop joint distributions of apparent open and shut times of single-ion channels, considering the limitations of time resolution and the effects of missed events. They use these distributions to compute the likelihood for an entire single-channel recording and obtain efficient maximum likelihood estimates for the mechanism's rate constants.
+scientific_discipline: Physics > Biophysics

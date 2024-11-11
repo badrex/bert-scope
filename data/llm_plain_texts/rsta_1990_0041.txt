@@ -1,0 +1,10 @@
+article_id: rsta_1990_0041
+revised_title: Time Series Analysis of Holocene Climate Data
+semantic_tags:
+  - Climate Science
+  - Time Series Analysis
+  - Holocene Climate
+  - Solar Activity
+  - Geophysical Data
+tldr: This article presents a time series analysis method for Holocene climate data, focusing on the multiple-window technique. The method is advantageous for detecting periodic components and separating them from non-deterministic parts of the process. The analysis confirms the presence of the 'Suess wiggles' and provides an estimated period of 208.2 years. The study also highlights the challenges in analyzing climate data, such as the presence of statistical outliers, irregular sampling, and confounding effects.
+scientific_discipline: Environmental and Earth Sciences > Climate Science

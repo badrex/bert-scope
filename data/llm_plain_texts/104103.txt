@@ -1,0 +1,10 @@
+article_id: '104103'
+revised_title: 'Calculating Friction in Compound Engines: An Experiment with Pulleys'
+semantic_tags:
+  - Friction
+  - Mechanical engineering
+  - Pulleys
+  - Machine design
+  - Physics
+tldr: 'J. T. Desaguliers conducted an experiment to demonstrate how the friction of various parts in a compound engine can be calculated. Using a machine with three pulleys, he determined the friction of each part and found that the total friction was 20 ounces, which was close to his theoretical prediction. This experiment helped to develop a better understanding of friction and its impact on machine design.'
+scientific_discipline: Engineering and Technology > Mechanical engineering

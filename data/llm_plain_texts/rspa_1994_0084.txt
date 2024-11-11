@@ -1,0 +1,10 @@
+article_id: rspa_1994_0084
+revised_title: 'Constructing Local Times of Two-Dimensional Diffusions'
+semantic_tags:
+  - Stochastic Processes
+  - Diffusion
+  - Local Time
+  - Two-Dimensional Space
+  - Markov Process
+tldr: The author constructs local times for specific two-dimensional diffusions on a one-dimensional subspace, showing that they are jointly continuous in both time and space. This research focuses on understanding the behavior of diffusions in two-dimensional spaces and the properties of local times, which record how long a Markovian random process spends at a particular point.
+scientific_discipline: Mathematics > Probability and Statistics

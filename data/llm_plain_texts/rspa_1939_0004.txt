@@ -1,0 +1,10 @@
+article_id: rspa_1939_0004
+revised_title: The Fluctuating Nature of Sliding Friction and Its Impact on Surface Temperature
+semantic_tags:
+  - Friction
+  - Surface Temperature
+  - Metallic Junctions
+  - Sliding Mechanics
+  - Boundary Lubrication
+tldr: This article investigates the nature of sliding friction and its fluctuations, revealing that the frictional force is not constant but undergoes rapid and violent changes. The sliding process is not continuous, but rather proceeds by jerks, with the metallic surfaces sticking together until a sudden break occurs. The study also shows a correlation between surface temperature fluctuations and frictional changes, suggesting that metals do not slide uniformly and that intermittent clutching and breaking away of metal surfaces can occur.
+scientific_discipline: Physics > Mechanics

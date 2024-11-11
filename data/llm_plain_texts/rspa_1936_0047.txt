@@ -1,0 +1,10 @@
+article_id: rspa_1936_0047
+revised_title: Statistical Theory of Superlattices with Unequal Concentrations
+semantic_tags:
+  - Superlattices
+  - Statistical mechanics
+  - Alloy chemistry
+  - Order and disorder in materials
+  - Thermodynamics
+tldr: This article presents a statistical theory of superlattices with unequal concentrations of components, focusing on the degree of order and energy content in alloys. The authors extend Bethe's method to include a face-centered lattice and provide equations for calculating the partition function and average number of atoms in the first shell. The results show the relationship between the degree of order, temperature, and energy content in superlattices.
+scientific_discipline: Physics > Materials Science

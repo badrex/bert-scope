@@ -1,0 +1,10 @@
+article_id: rsta_1986_0124
+revised_title: Magnetoacoustic and Barkhausen Emission Techniques for Non-Destructive Examination of Ferromagnetic Materials
+semantic_tags:
+  - Non-destructive testing
+  - Ferromagnetic materials
+  - Magnetoacoustic emission
+  - Barkhausen emission
+  - Residual stress measurement
+tldr: This article explores the use of magnetoacoustic and Barkhausen emission techniques for non-destructive examination and validation of ferromagnetic materials. The authors study the effects of precipitates, dislocations, radiation, and tensile stress on the materials and demonstrate the potential of these techniques for residual stress measurements.
+scientific_discipline: Engineering and Technology > Materials Science

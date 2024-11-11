@@ -1,0 +1,10 @@
+article_id: rspl_1899_0071
+revised_title: Electrical Resistivity of Electrolytic Nickel
+semantic_tags:
+  - Electrical resistivity
+  - Nickel
+  - Electrolytic metals
+  - Temperature coefficient
+  - Material science
+tldr: The author conducted experiments to determine the electrical resistivity of electrolytic nickel at various temperatures. They found that the resistivity of electrolytic nickel at 0°C is 6935 C.G.S. units, and the average temperature coefficient between 0°C and 100°C is 0.00618. The results indicate that electrolytic nickel has a significantly lower resistivity than the nickel used in previous experiments. The author suggests investigating the physical differences between the two types of nickel.
+scientific_discipline: Physics > Material Science

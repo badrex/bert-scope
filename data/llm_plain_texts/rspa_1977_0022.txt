@@ -1,0 +1,10 @@
+article_id: rspa_1977_0022
+revised_title: 'Doppler Velocimetry in Turbulent Flames: Challenges and Solutions'
+semantic_tags:
+  - Doppler velocimetry
+  - Turbulent flames
+  - Interferometry
+  - Schlieren effect
+  - Flame surface
+tldr: This article discusses the challenges of using Doppler velocimetry in turbulent flames due to the interaction of light beams with moving phase boundaries. The authors explain two effects, the phase effect and the schlieren effect, which can cause large spurious velocities. They propose experimental methods to correct or inactivate the system during these bursts of unreliability, allowing for more accurate velocity and turbulence measurements in systems like turbulent flames and plasma jets.
+scientific_discipline: Physics > Optics

@@ -1,0 +1,10 @@
+article_id: 'rstb_1995_0013'
+revised_title: 'The Regulation of p53 Tumour Suppressor and its Role in Cellular Response to DNA Damage'
+semantic_tags:
+  - DNA repair
+  - p53 protein
+  - Cellular response
+  - DNA damage
+  - Cancer development
+tldr: The article discusses the regulation of the p53 tumour suppressor and its role in the cellular response to DNA damage. The p53 protein helps induce cell death after activation in response to DNA damage, and its regulation is crucial for preventing the development of cancer. The article explores three mechanisms of regulation: inactivation by cellular and viral gene products, control of protein stability, and allosteric regulation through phosphorylation.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

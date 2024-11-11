@@ -1,0 +1,10 @@
+article_id: rspa_1968_0086
+revised_title: 'Advanced Holography: Deep Hologram Theory and Applications'
+semantic_tags:
+  - Holography
+  - Wavefront Reconstruction
+  - Laser Technology
+  - Color Photography
+  - Optical Engineering
+tldr: The authors present a comprehensive theory of deep holograms, which are produced by the interference of an object wave and a coherent reference wave falling on the emulsion from opposite sides. Deep holograms have unique properties, such as directional selectivity, color selectivity, and the suppression of the twin wave. These properties make deep holograms valuable for applications like projection screens for three-dimensional images. The theory also discusses the information storage form in the random pattern of diffuse holograms.
+scientific_discipline: Physics > Optics

@@ -1,0 +1,10 @@
+article_id: rspl_1894_0073
+revised_title: Equilibrium Stresses and Strains in Isotropic Elastic Solid Ellipsoids
+semantic_tags:
+  - Elasticity
+  - Solid Mechanics
+  - Ellipsoids
+  - Potential Theory
+  - Stress and Strain
+tldr: The authors present a comprehensive solution for the stresses and strains in isotropic elastic solid ellipsoids under the action of bodily forces derived from a potential. The method enables the variation in the effects of gravitation and rotation with the change of shape of the ellipsoid to be traced. The solution satisfies all elastic solid equations without limitations or assumptions.
+scientific_discipline: Mathematics > Applied Mathematics

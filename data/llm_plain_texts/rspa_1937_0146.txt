@@ -1,0 +1,10 @@
+article_id: rspa_1937_0146
+revised_title: 'X-ray Absorption Coefficients for Al, Cu, and Ag in the 13 to 24 Å Range'
+semantic_tags:
+  - X-ray absorption
+  - Metal foils
+  - Spectroscopy
+  - Photographic density
+  - Mass absorption coefficients
+tldr: This article presents experimental measurements of the mass absorption coefficients for aluminum, copper, and silver in the X-ray region from 13 to 24 Å. The authors used a plane grating spectrograph to isolate homogeneous X-ray radiations and divided the beam into two parts, one passing through a metal foil and the other not. They determined the absorption coefficients by measuring the ratio of the photographic densities of the two segments of the line corresponding to the two portions of the beam. The results provide valuable data for understanding the absorption of X-rays by metal foils in this wavelength range.
+scientific_discipline: Physics > X-ray Spectroscopy

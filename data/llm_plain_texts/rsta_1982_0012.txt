@@ -1,0 +1,10 @@
+article_id: 'rsta_1982_0012'
+revised_title: 'Inverse Problem for Vibrating Beams in Free-Clamped Configuration: A Review'
+semantic_tags:
+  - Beam Vibrations
+  - Inverse Problem
+  - Mathematical Physics
+  - Boundary Value Problems
+  - Spectral Analysis
+tldr: The article discusses the inverse problem for vibrating beams in the free-clamped configuration. The author reconstructs the flexural rigidity and density functions of the beam from data associated with natural frequencies of vibration. The study focuses on the unique non-singular beam without a back and presents a method to construct the beam using auxiliary equations and fundamental solutions.
+scientific_discipline: Mathematics > Applied Mathematics

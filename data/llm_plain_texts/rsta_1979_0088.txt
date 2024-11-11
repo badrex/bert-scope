@@ -1,0 +1,10 @@
+article_id: rsta_1979_0088
+revised_title: Electrostatic Energy Relations in Minerals: Dioctahedral and Trioctahedral Phyllosilicates
+semantic_tags:
+  - Crystallography
+  - Mineralogy
+  - Electrostatics
+  - Phyllosilicates
+  - Surface energies
+tldr: This article presents a new approach to calculating the electrostatic energy relations in minerals, specifically dioctahedral and trioctahedral phyllosilicates. The method involves calculating site potentials and surface energies, which can be used to make predictions about the properties of silicates with unknown crystal structures. The author applies this method to various phyllosilicates, providing insights into their lattice energies and bonding.
+scientific_discipline: Chemistry > Crystallography

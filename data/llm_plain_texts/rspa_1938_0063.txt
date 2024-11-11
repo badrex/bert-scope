@@ -1,0 +1,10 @@
+article_id: rspa_1938_0063
+revised_title: 'Kinematic Derivation of Electromagnetic Equations'
+semantic_tags:
+  - Electromagnetism
+  - Classical Electrodynamics
+  - Kinematic Basis
+  - Scalar Superpotentials
+  - 4-Vector
+scientific_discipline: Physics > Electromagnetism
+tldr: The author presents a new approach to derive the equations of electromagnetism based on a purely kinematic basis. By avoiding empirical laws and hypothetical assumptions, the author introduces a magnetic intensity definition and formulates equations of motion containing the next most general type of external force. The resulting field equations and identities are compared with the classical theory, providing a new perspective on the laws of nature in the context of the theory of electrons.

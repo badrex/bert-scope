@@ -1,0 +1,10 @@
+article_id: rsta_1938_0011
+revised_title: Bipartitional Functions and Their Applications in Applied Statistics
+semantic_tags:
+  - Combinatorics
+  - Applied Statistics
+  - Symmetric Functions
+  - Partitional Functions
+  - Combinatorial Problems
+tldr: The authors discuss bipartitional functions, which are arithmetical functions of two partitions of the same number, and their importance in combinatorial problems and applied statistics. They explore methods for evaluating these functions and their applications in various statistical scenarios, such as moment calculations and sampling problems.
+scientific_discipline: Mathematics > Combinatorics

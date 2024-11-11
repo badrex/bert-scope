@@ -1,0 +1,10 @@
+article_id: 'rstb_1980_0011'
+revised_title: 'Host Cell Influence on Influenza Virus Replication'
+semantic_tags:
+  - Influenza virus
+  - Host cell interaction
+  - Virus replication
+  - RNA transcription
+  - DNA function
+tldr: The article discusses the influence of the host cell on the replication of the influenza virus. It highlights the unique dependence of the virus on the host cell's nuclear function and the role of host cell DNA in the replication process. The study also examines the effects of various inhibitors on the virus replication, such as a-amanitin, actinomycin D, ultraviolet light, and A-acetoxyacetamino-fluorene.
+scientific_discipline: Biology and Life Sciences > Virology

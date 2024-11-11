@@ -1,0 +1,10 @@
+article_id: rstb_1995_0126
+revised_title: Spatial Stochastic Model for Bovine Tuberculosis in Badger Populations
+semantic_tags:
+  - Bovine Tuberculosis
+  - Badger Epidemiology
+  - Spatial Modeling
+  - Disease Control
+  - Wildlife Reservoir
+tldr: This study develops a spatial stochastic simulation model to understand the dynamics of bovine tuberculosis in badger populations in southwest England. The model considers various factors, such as disease prevalence, infection probabilities, and population density, to predict the spread and persistence of the disease. The findings suggest that the disease can persist in badger populations for long periods and that control operations may increase the probability of persistence or spread of the infection.
+scientific_discipline: Environmental and Earth Sciences > Ecology and Ecosystems

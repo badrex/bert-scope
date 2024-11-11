@@ -1,0 +1,10 @@
+article_id: rspa_1977_0126
+revised_title: A Statistical Analysis of Bivariate Point Processes in Electronic Counters
+semantic_tags:
+  - Point Processes
+  - Statistical Analysis
+  - Electronic Counters
+  - Dead-Time
+  - Covariance
+tldr: This article explores the statistical analysis of bivariate point processes in electronic counters, focusing on the estimation of the rate of occurrence of coincidences and the covariance of the numbers of events recorded on two counters. The authors consider the effects of counter dead-time and provide mathematical calculations and formulas for these estimations.
+scientific_discipline: Mathematics > Statistics

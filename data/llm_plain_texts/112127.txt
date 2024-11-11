@@ -1,0 +1,10 @@
+article_id: 112127
+revised_title: 'Proposing a New Unit of Electrical Resistance by the British Association Committee'
+semantic_tags:
+  - Electrical Standards
+  - Electrical Resistance
+  - Telecommunications
+  - History of Science
+  - Measurement Units
+tldr: The article discusses the need for a standardized unit of electrical resistance and the proposal by the British Association Committee in 1861. The committee appointed by the British Association for the Advancement of Science aimed to determine the best standard of electrical resistance. They eventually issued a new standard, which was based on a column of chemically pure mercury 1 meter long with a section equal to 1 millimeter square, maintained at a temperature of 0°C. This standard aimed to address the discrepancies and inconsistencies found between different sets of resistance coils used in telegraphy and electrical measurements.
+scientific_discipline: Engineering and Technology > Electrical Engineering

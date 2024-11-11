@@ -1,0 +1,10 @@
+article_id: 110894
+revised_title: The Impact of Mechanical Agitation on the Magnetic Powers of Steel Bars
+semantic_tags:
+  - Magnetism
+  - Steel properties
+  - Mechanical vibrations
+  - Retentive force
+  - Magnetic force
+tldr: William Sturgeon's experiments showed that even minor mechanical agitation, such as blows with a wooden mallet or vibrations, can significantly reduce the magnetic power of steel magnets. This loss is permanent and reaches a maximum point, indicating that magnets possess a specific retentive force that cannot be further diminished by additional mechanical commotion.
+scientific_discipline: Physics > Magnetism

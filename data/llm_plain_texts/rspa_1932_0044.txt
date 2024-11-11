@@ -1,0 +1,10 @@
+article_id: rspa_1932_0044
+revised_title: Double Scattering of Electrons and Polarization Effects
+semantic_tags:
+  - Electron polarization
+  - Double scattering
+  - Relativistic theory
+  - Spin axis
+  - Stern-Gerlach experiment
+tldr: This article investigates the polarization of electrons through double scattering and the effects of spin on scattering angles. The author finds that the number of electrons scattered depends on the polarization of the beam, and that a beam of polarized electrons can be produced by knocking electrons off hydrogen atoms with specific spin directions. The double scattering experiment demonstrates an asymmetry in the scattering, which is related to the spin direction of the electrons.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rsta_1989_0001
+revised_title: A Thermodynamical Theory of Turbulence: Basic Developments and Constitutive Coefficients
+semantic_tags:
+  - Turbulence
+  - Fluid Dynamics
+  - Continuum Mechanics
+  - Thermodynamics
+  - Constitutive Equations
+tldr: This article presents a thermodynamical theory of turbulence based on a continuum model that incorporates various aspects of experimental results and applications. The theory develops a complete set of equations for viscous turbulent flow, including energy effects of turbulent fluctuations and standard thermomechanical effects. It also introduces two temperature-like variables and additional scalar quantities to describe the turbulent flow's microscopic and molecular levels.
+scientific_discipline: Physics > Fluid Dynamics

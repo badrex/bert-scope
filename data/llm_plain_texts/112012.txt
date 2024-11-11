@@ -1,0 +1,10 @@
+article_id: 112012
+revised_title: Applications of Calculus of Symbols to Non-Linear Differential Equations
+semantic_tags:
+  - Differential Equations
+  - Calculus of Symbols
+  - Non-Commutative Symbols
+  - Mathematical Notation
+  - Mathematical Analysis
+tldr: The author, W.H.L. Russell, extends the Calculus of Symbols to non-linear differential equations. He provides a notation to find the conditions for a non-linear function to be externally divisible by the symbol of differentiation and extends the investigation to the symbolical division of non-linear functions by linear functions of the symbol of differentiation.
+scientific_discipline: Mathematics > Calculus of Symbols

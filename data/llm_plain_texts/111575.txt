@@ -1,0 +1,10 @@
+article_id: '111575'
+revised_title: 'The Impact of Himalayan Attraction on the Deflection of the Plumb-Line in India'
+semantic_tags:
+  - Geodesy
+  - Geophysics
+  - Himalayas
+  - Earth's figure
+  - Surveying
+tldr: 'The author, Archdeacon Pratt, discusses the impact of the Himalayan Mountains' attraction on the deflection of the plumb-line in India. He updates his previous paper with new information from Major Strachey's work on the physical geography of the Himalayas. The author finds that the mean height of the table-land was underestimated, and the northern deflections caused by the attraction of the table-land alone are provided. The errors produced in the astronomical amplitudes are significant and cannot be ignored in geodetic calculations or mapping the country with precision.'
+scientific_discipline: 'Earth Sciences > Geodesy'

@@ -1,0 +1,10 @@
+article_id: rspa_1918_0051
+revised_title: The Effect of Wind Pressure on Organ Pipe Pitch
+semantic_tags:
+  - Fluid Dynamics
+  - Acoustics
+  - Organ Pipes
+  - Hydrodynamics
+  - Oscillations
+tldr: The author conducted experiments with water and air jets to study the effect of wind pressure on the pitch of organ pipes. They discovered that the pitch of the note produced is dependent on the pressure of the wind supply and the nature of the fluid motion when the effects of instability have been fully established. The author found that the lateral motion of the jet is in the same phase as the velocity of the oscillating column, and the distance between the jet orifice and the lip must be greater for water than for air due to the difference in kinematic viscosity of the two fluids.
+scientific_discipline: Physics > Fluid Dynamics

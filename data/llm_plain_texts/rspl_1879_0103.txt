@@ -1,0 +1,10 @@
+article_id: rspl_1879_0103
+revised_title: 'Effects of an Induction Coil with a De Meritens Magneto-Electric Machine'
+semantic_tags:
+  - Electromagnetism
+  - Induction coil
+  - De Meritens machine
+  - Electric discharge
+  - Spectra analysis
+tldr: The author investigates the effects of an induction coil when used with a de Meritens magneto-electric machine. They observe the secondary discharge in air, the spectrum of the spark with different metal terminals, and the behavior of the spark in various atmospheres and magnetic fields. The study reveals that the discharge is a real flame with metallic particles passing between the terminals in a solid condition, and the temperature is generally low, insufficient to cause significant vaporization.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rspl_1894_0007
+revised_title: 'On the Reflection and Refraction of Light: A Study of the Transition Film'
+semantic_tags:
+  - Optics
+  - Wave Theory
+  - Reflection
+  - Refraction
+  - Electromagnetic Theory
+tldr: The authors examine the consequences of a continuous transition between different refractive media and derive expressions for the amplitudes and changes of phase of reflected and refracted light. They compare the results with existing theories, including elastic solid theories and electromagnetic theory, and discuss the implications of these findings for understanding the behavior of light at the boundaries of different media.
+scientific_discipline: Physics > Optics

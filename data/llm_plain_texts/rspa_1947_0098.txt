@@ -1,0 +1,10 @@
+article_id: rspa_1947_0098
+revised_title: Advances in Interference Microscopy for Enhanced Specimen Visualization
+semantic_tags:
+  - Interference Microscopy
+  - Microscopy Techniques
+  - Refractive Index
+  - Light Refraction
+  - Zone Plates
+tldr: The author describes interference microscopy, a method that increases the visibility of specimens with slight differences in refractive index by using semi-reflecting surfaces and monochromatic light. They discuss the use of zone plates and two-color zone plates to improve the technique, allowing for clearer observation of specimens up to a few microns in thickness.
+scientific_discipline: Physics > Optics

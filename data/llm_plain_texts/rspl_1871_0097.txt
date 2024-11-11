@@ -1,0 +1,10 @@
+article_id: rspl_1871_0097
+revised_title: 'Poisson's Process and the Attraction of Spheroids'
+semantic_tags:
+  - Potential Theory
+  - Mathematical Physics
+  - Gravitational Attraction
+  - Spheroids
+  - Laplace's Functions
+tldr: This article extends Poisson's process to demonstrate the truth of formulae for all orders of the small quantity in the attraction of spheroids. The author focuses on the potential of a homogeneous body at any point and establishes the formulae for external and internal particles. The process involves the use of Laplace's functions and demonstrates the importance of potential theory in understanding the attraction of spheroids.
+scientific_discipline: Mathematics > Applied Mathematics

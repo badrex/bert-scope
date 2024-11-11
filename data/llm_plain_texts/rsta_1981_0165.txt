@@ -1,0 +1,10 @@
+article_id: 'rsta_1981_0165'
+revised_title: 'Advancements in Industrial Electrochemistry: Chemically Modified Electrodes for Enhanced Electrocatalysis'
+semantic_tags:
+  - Electrochemistry
+  - Chemically modified electrodes
+  - Electrocatalysis
+  - Polymer films
+  - Redox reactions
+tldr: This article discusses the advancements in industrial electrochemistry, specifically focusing on chemically modified electrodes for enhanced electrocatalysis. The author explores various types of electrocatalysis, including self-catalysis, negative catalysis, and interface redox polymer systems. The article also highlights the potential of polymeric multimolecular layer films to greatly enhance electrocatalytic rates.
+scientific_discipline: Chemistry > Electrochemistry

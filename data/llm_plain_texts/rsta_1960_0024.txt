@@ -1,0 +1,10 @@
+article_id: rsta_1960_0024
+revised_title: 'Effects of Ionic Size on Adsorption at the Oil/Water Interface and Electrical Potentials'
+semantic_tags:
+  - Surface Chemistry
+  - Electrochemistry
+  - Colloidal Chemistry
+  - Monolayers
+  - Double Layer Theory
+tldr: The authors developed a modified Gouy equation that accounts for the finite sizes of adsorbed and counter ions in the oil/water interface. This equation predicts electrical potentials in the interface more accurately than the simple Gouy equation. The study focused on the effects of ionic size on adsorption and electrical potentials in the presence of long-chain ions and various electrolyte concentrations.
+scientific_discipline: Chemistry > Colloidal Chemistry

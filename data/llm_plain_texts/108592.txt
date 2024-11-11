@@ -1,0 +1,10 @@
+article_id: 108592
+revised_title: Enumeration of Polyhedra with Triangular Summits and a (x-1)-Gonal Base
+semantic_tags:
+  - Geometry
+  - Polyhedra
+  - Combinatorial mathematics
+  - Topology
+  - Mathematical theorems
+tldr: The author presents a mathematical study on the enumeration of polyhedra with triangular summits and a (x-1)-gonal base. The paper explores the properties of these polyhedra, including their faces and summits, and provides methods for cutting and rearranging them to create different polyhedra. The study covers various types of polyhedra, such as reversible, irreversible, doubly reversible, and triply irreversible, and their corresponding arrangements.
+scientific_discipline: Mathematics > Geometry

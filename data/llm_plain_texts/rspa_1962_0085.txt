@@ -1,0 +1,10 @@
+article_id: rspa_1962_0085
+revised_title: Temperature Measurements of C2 and CN Radicals in a Shock Tube
+semantic_tags:
+  - Chemical kinetics
+  - Shock waves
+  - Spectroscopy
+  - Pyrolysis
+  - Gas-phase reactions
+tldr: The authors measured the excitation temperatures of C2 and CN radicals generated in a shock tube by the pyrolysis of cyanogen and acetylene. They used a brightness and emissivity method with a xenon flash tube as a background source. The results provide insights into the processes leading to the formation of electronically excited radicals in high-temperature gas reactions.
+scientific_discipline: Chemistry > Chemical kinetics

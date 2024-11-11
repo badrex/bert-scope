@@ -1,0 +1,10 @@
+article_id: 107855
+revised_title: 'Magnetic Influence in Solar Rays: Samuel Hunter Christie's Experiments'
+semantic_tags:
+  - Magnetism
+  - Solar Physics
+  - Sun's rays
+  - Magnetic needle
+  - Solar radiation
+tldr: In 1828, Samuel Hunter Christie conducted experiments to study the effect of the sun's rays on a magnetized needle. He found that the sun's rays had a significant impact on the needle's vibrations, and the effect was more pronounced when the needle was magnetized. Christie's observations led to the conclusion that the diminution in the terminal arc was not caused by the heat from the sun but by the intensity of the sun's rays.
+scientific_discipline: Physics > Electromagnetism

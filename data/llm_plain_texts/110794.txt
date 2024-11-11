@@ -1,0 +1,10 @@
+article_id: 110794
+revised_title: A New Method for Calculating Planetary Perturbations
+semantic_tags:
+  - Celestial Mechanics
+  - Planetary Motion
+  - Astronomy
+  - Mathematical Physics
+  - Perturbation Theory
+tldr: Prof. Hanson presents a new method for calculating the perturbations of planets with significant eccentricities and inclinations. This method improves upon existing techniques and provides more accurate predictions for planetary motion.
+scientific_discipline: Astronomy > Celestial Mechanics

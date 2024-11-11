@@ -1,0 +1,10 @@
+article_id: rspa_1993_0124
+revised_title: Analyzing the Effective Dielectric Constant of Coated Cylinders in a Three-Phase Composite Material
+semantic_tags:
+  - Composite Materials
+  - Dielectric Constants
+  - Coated Cylinders
+  - Transport Properties
+  - Effective Media Models
+tldr: The authors study the effective dielectric constant of a three-phase composite material consisting of a square array of coated cylinders. They extend Lord Rayleigh's method to coated cylinders and analyze the behavior of the effective dielectric constant in terms of the dielectric constants of the three phases and cylinder radii. This research has implications for understanding the transport properties of various materials, including thermal conductivity, electrical conductivity, and magnetic permeability.
+scientific_discipline: Physics > Materials Science

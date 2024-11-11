@@ -1,0 +1,10 @@
+article_id: rspa_1966_0187
+revised_title: Unstable Oscillation of Tubular Cantilevers Conveying Fluid: A Theoretical Analysis
+semantic_tags:
+  - Fluid Dynamics
+  - Mechanical Engineering
+  - Structural Stability
+  - Oscillations
+  - Cantilevers
+tldr: This article investigates the unstable oscillation of tubular cantilevers conveying fluid. The authors establish the conditions of stability for a system constrained to move in a horizontal plane, neglecting internal friction in the tube material and the surrounding fluid. They construct a universal stability curve and calculate the complex frequency of the system's lowest modes to demonstrate the transition from stability to instability as the flow velocity increases.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

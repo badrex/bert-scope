@@ -1,0 +1,10 @@
+article_id: rspa_1976_0002
+revised_title: 'Electromagnetic Effects in the Conductivity of Molten Organic Salts'
+semantic_tags:
+  - Conductivity
+  - Organic salts
+  - Electromagnetic fields
+  - Mesophases
+  - Relaxation effects
+tldr: The authors studied the electrical conductivity of molten organic salts in their mesophases and observed novel electromagnetic effects. They found that the conductivity of sodium isovalerate was sensitive to the applied frequency, while sodium butyrate showed no effect. The results suggest that the domain structure and orientation of the organic salts play a significant role in their electromagnetic behavior.
+scientific_discipline: Chemistry > Electrochemistry

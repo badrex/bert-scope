@@ -1,0 +1,10 @@
+article_id: rspa_1925_0039
+revised_title: 'Investigation of the Ratio of Specific Heats using Small Volumes of Gas'
+semantic_tags:
+  - Thermodynamics
+  - Gas properties
+  - Adiabatic expansion
+  - Temperature measurement
+  - Gas density
+scientific_discipline: Physics > Thermodynamics
+tldr: The authors conducted experiments to measure the ratio of specific heats of air and hydrogen using small volumes of gas. They investigated the cooling effect in adiabatic expansion and found that small vessels can be used to obtain accurate results, improving the understanding of gas properties and thermodynamics.

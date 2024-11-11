@@ -1,0 +1,10 @@
+article_id: rspl_1887_0053
+revised_title: 'On the Principal Electric Time-Constant of a Circular Disk: Analyzing Resistance and Decay'
+semantic_tags:
+  - Electromagnetism
+  - Electrical conductivity
+  - Time-constant
+  - Electric resistance
+  - Circular disk
+tldr: This article explores the electric time-constant of a circular disk, focusing on the relationship between resistance, decay, and the disk's properties. The author, Horace Lamb, examines the resistance and time-constant of various materials, such as iron and non-magnetic substances, and provides insights into the behavior of electric currents in these materials.
+scientific_discipline: Physics > Electromagnetism

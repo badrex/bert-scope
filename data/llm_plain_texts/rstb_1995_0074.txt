@@ -1,0 +1,10 @@
+article_id: rstb_1995_0074
+revised_title: Investigating the Intrinsic Toughness of Plant Cell Walls
+semantic_tags:
+  - Plant Anatomy
+  - Fracture Mechanics
+  - Cell Wall Properties
+  - Tissue Toughness
+  - Cellular Geometry
+tldr: Researchers conducted cutting experiments on twenty plant tissues and plant-based materials to determine the intrinsic toughness of plant cell walls. They found that cell wall toughness is directly proportional to the volume fraction that the cell wall occupies, and that plastic work can increase toughness to a value of at least 30 in woody tissues. This study provides a more accurate understanding of plant cell wall toughness and its relationship with cellular geometry.
+scientific_discipline: Biology and Life Sciences > Plant Biology

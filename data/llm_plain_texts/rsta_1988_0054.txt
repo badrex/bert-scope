@@ -1,0 +1,10 @@
+article_id: rsta_1988_0054
+revised_title: 'Advanced Techniques for Measuring Gas Thermal Conductivity'
+semantic_tags:
+  - Thermal conductivity
+  - Gas properties
+  - Transient hot-wire method
+  - Fluid dynamics
+  - Heat transfer
+tldr: The authors describe the development and operation of a transient hot-wire apparatus for measuring gas-phase thermal conductivities. The method offers advantages over steady-state apparatuses by minimizing the effects of natural convection and not requiring physical dimensions in the zeroth-order calculation of thermal conductivity. Results are provided for helium and other gases, demonstrating a precision of 0.1% and an absolute accuracy of 0.5% for the described apparatus.
+scientific_discipline: Physics > Thermodynamics

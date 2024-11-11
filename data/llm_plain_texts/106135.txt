@@ -1,0 +1,10 @@
+article_id: 106135
+revised_title: The Effect of Black Paint on Thermometer Bulbs Exposed to Sunlight
+semantic_tags:
+  - Thermodynamics
+  - Heat Transfer
+  - Temperature Measurement
+  - Color and Heat Absorption
+  - Experimentation
+tldr: Richard Watson, a professor at Cambridge, conducted an experiment in which he painted the bulb of a thermometer black and exposed it to direct sunlight. He found that the mercury in the thermometer rose by 10 degrees Fahrenheit due to the black coating, suggesting that black surfaces absorb more heat. Watson proposed further experiments with thermometers of different colors to study the relationship between color and heat absorption.
+scientific_discipline: Physics > Heat Transfer

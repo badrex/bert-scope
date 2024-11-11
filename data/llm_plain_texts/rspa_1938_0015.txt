@@ -1,0 +1,10 @@
+article_id: rspa_1938_0015
+revised_title: 'Experimental Investigation of Fluid Instability and Convection Patterns'
+semantic_tags:
+  - Fluid dynamics
+  - Convection
+  - Heat transfer
+  - Instability
+  - Fluid mechanics
+tldr: This study investigates the motion and instability of fluids heated from below, focusing on the critical temperature differences required to initiate motion in layers of varying depths. The research explores two distinct convection patterns, Type I and Type II, and examines their characteristics and behavior in different experimental conditions.
+scientific_discipline: Physics > Fluid mechanics

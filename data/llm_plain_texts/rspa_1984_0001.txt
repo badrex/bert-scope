@@ -1,0 +1,10 @@
+article_id: rspa_1984_0001
+revised_title: Non-Unique Solutions in Wakes and Boundary Layers
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Wake Flow
+  - Non-Unique Solutions
+  - Viscous Wakes
+tldr: The author investigates the non-uniqueness of solutions in wakes and boundary layers, specifically in streamlined flow past a flat plate aligned with a uniform stream. They discover that the Goldstein near-wake and Blasius boundary layer are non-unique solutions for the classical boundary layer equations, while the Rott-Hakkinen very-near-wake appears to be unique. This non-uniqueness could have implications for the understanding and modeling of fluid flow in various situations.
+scientific_discipline: Physics > Fluid Dynamics

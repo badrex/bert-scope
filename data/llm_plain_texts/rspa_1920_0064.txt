@@ -1,0 +1,10 @@
+article_id: rspa_1920_0064
+revised_title: Vibrations of an Elastic Plate in Contact with Water: A Study of Frequency and Damping
+semantic_tags:
+  - Acoustics
+  - Fluid-structure interaction
+  - Wave propagation
+  - Vibrations
+  - Damping
+tldr: This article investigates the vibrations of an elastic plate in contact with water, focusing on the effects of water on the frequency and damping of the vibrations. The author calculates the frequency and damping for both the gravest symmetrical mode and the mode with a nodal diameter, providing approximations for practical applications.
+scientific_discipline: Physics > Acoustics

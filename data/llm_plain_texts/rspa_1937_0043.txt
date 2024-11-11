@@ -1,0 +1,10 @@
+article_id: rspa_1937_0043
+revised_title: 'The Impact of Many-Quantum Transitions on Energy Emission and Absorption by Solids'
+semantic_tags:
+  - Solid-state physics
+  - Quantum mechanics
+  - Surface science
+  - Adsorption
+  - Crystal lattice
+tldr: This article explores the effect of many-quantum transitions on the emission and absorption of energy by solids. The authors develop a mathematical model to analyze the interaction of atoms and molecules with solid surfaces, considering the energy changes in the crystal lattice. The study focuses on the transition probabilities and the impact of multiple quantum emissions on the adsorption and desorption processes.
+scientific_discipline: Physics > Solid-state physics

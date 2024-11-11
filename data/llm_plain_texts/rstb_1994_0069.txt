@@ -1,0 +1,10 @@
+article_id: 'rstb_1994_0069'
+revised_title: 'Selfish DNA as a Method for Pest Control: Applications and Strategies'
+semantic_tags:
+  - Genetics
+  - Pest Control
+  - Population Biology
+  - Evolutionary Biology
+  - Biotechnology
+tldr: 'The author explores the potential use of selfish DNA as a method for pest control. Selfish DNA, such as cytoplasmic incompatibility and 'M' factors, can reduce the fitness of pests and potentially control their populations. The author discusses the dynamics of these genes, their effects on host fitness, and the strategies for introducing them into pest populations. The practical application of this method depends on ecological factors, population regulation, and the feasibility of introducing selfish genes into different species.'
+scientific_discipline: Biology and Life Sciences > Genetics and Evolution

@@ -1,0 +1,10 @@
+article_id: rspa_1930_0186
+revised_title: 'Series of Bessel Functions in Cylindrical Wind-Tunnels: Applications and Expansions'
+semantic_tags:
+  - Bessel functions
+  - Wind tunnels
+  - Fluid dynamics
+  - Aerodynamics
+  - Mathematical analysis
+tldr: This article explores the use of Bessel function series in solving problems related to cylindrical wind tunnels. The author demonstrates how to express these series as combinations of elementary functions and convergent series, providing valuable insights for computation when the radius is small. The findings have significant implications for understanding fluid dynamics and aerodynamics.
+scientific_discipline: Mathematics > Applied Mathematics

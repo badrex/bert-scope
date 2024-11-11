@@ -1,0 +1,10 @@
+article_id: rspa_1967_0167
+revised_title: 'Optical Determination of Preferred Orientation in Clays and its Application to Consolidated Kaolin'
+semantic_tags:
+  - Clay mineralogy
+  - Soil mechanics
+  - Birefringence
+  - Microstructure
+  - Consolidation
+tldr: The authors describe a method to study the preferred orientation of clay particles in thin sections using birefringence. They apply this technique to investigate the development of preferred orientation in consolidated kaolin. The study shows that the birefringence of the aggregate arises solely from the birefringence of the constituent particles, and the degree of orientation can be predicted using a model distribution function.
+scientific_discipline: Environmental and Earth Sciences > Soil Mechanics

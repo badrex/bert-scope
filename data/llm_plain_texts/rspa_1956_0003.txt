@@ -1,0 +1,10 @@
+article_id: rspa_1956_0003
+revised_title: 'Vibrational Energy Transfer in Oxygen Molecules: A Study of Kinetic Spectroscopy'
+semantic_tags:
+  - Vibrational spectroscopy
+  - Kinetic spectroscopy
+  - Energy transfer
+  - Oxygen molecules
+  - Photolysis
+tldr: The authors studied the production of vibrationally excited oxygen molecules using kinetic spectroscopy. They found that energy transfer occurs more rapidly for excited electronic states, particularly in higher vibrational levels. The study provides insights into the efficiency of collisions in transferring energy between vibrations and from vibrations to other degrees of freedom.
+scientific_discipline: Chemistry > Spectroscopy

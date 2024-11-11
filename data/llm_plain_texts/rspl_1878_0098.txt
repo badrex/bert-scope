@@ -1,0 +1,10 @@
+article_id: rspl_1878_0098
+revised_title: 'Molecular Shadows and the Illumination of Lines of Molecular Pressure'
+semantic_tags:
+  - Molecular physics
+  - Electromagnetism
+  - Vacuum physics
+  - Shadow formation
+  - Phosphorescence
+tldr: The author, William Crookes, examines the dark space surrounding the negative pole of a vacuum tube when a spark from an induction coil is passed through it. He conducts various experiments with different poles, spark intensities, and gases, and discovers that the visible layer of molecular disturbance is identical to the invisible layer of molecular pressure. He also observes the convergence of lines of force to a focus and the formation of molecular shadows. Crookes proposes that the induction spark illuminates the lines of molecular pressure caused by the electrical excitement of the negative pole, and that the thickness of the dark space is a measure of the length of the path between successive molecular collisions.
+scientific_discipline: Physics > Electromagnetism

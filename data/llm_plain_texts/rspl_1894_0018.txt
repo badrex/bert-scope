@@ -1,0 +1,10 @@
+article_id: rspl_1894_0018
+revised_title: 'A Precision Instrument for Grinding and Polishing Crystal Section-Plates and Prisms'
+semantic_tags:
+  - Crystallography
+  - Optical Constants
+  - Crystal Preparation
+  - Grinding Instrument
+  - Precision Instrumentation
+tldr: The authors describe a new instrument for grinding and polishing section-plates and prisms of crystals and artificial preparations with high precision. This instrument allows for more accurate determination of optical constants and reduces the risk of fracturing fragile crystals. The device consists of a short, wide hollow cone with three movable inner axes, enabling adjustments for various crystal orientations and grinding directions.
+scientific_discipline: Engineering and Technology > Precision Instrumentation

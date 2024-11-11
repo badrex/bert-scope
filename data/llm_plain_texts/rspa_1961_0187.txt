@@ -1,0 +1,10 @@
+article_id: rspa_1961_0187
+revised_title: 'Computational Evaluation of Dirichlet L-Functions and their Zeros'
+semantic_tags:
+  - Number Theory
+  - Analytic Continuation
+  - Riemann Hypothesis
+  - Computational Mathematics
+  - Dirichlet L-Functions
+tldr: The authors developed a method to compute Dirichlet L-functions and their zeros on the line using electronic digital computers. They calculated many functions with real and complex characters and moduli up to 163. The results supported the Riemann hypothesis in the range of the calculations.
+scientific_discipline: Mathematics > Number Theory

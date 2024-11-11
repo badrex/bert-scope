@@ -1,0 +1,10 @@
+article_id: rspl_1903_0045
+revised_title: Surface Flow Phenomena in Crystalline Solids
+semantic_tags:
+  - Surface flow
+  - Crystalline solids
+  - Mechanical disturbance
+  - Polishing
+  - Viscous flow
+tldr: The author investigates the surface flow in crystalline solids, such as metals and antimony, under mechanical disturbance. They observe that the surface layer behaves like a viscous, semi-solid substance and can be spread over irregular surfaces, smoothing and rounding asperities into flowing curves. This phenomenon is also seen in the polishing process, where the pressure needed for surface flow is very slight.
+scientific_discipline: Physics > Materials Science

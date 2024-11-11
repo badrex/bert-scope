@@ -1,0 +1,10 @@
+article_id: rspa_1971_0026
+revised_title: 'Numerical Master Geometry System: A Parametric Surface Approach in Aircraft Design and Manufacturing'
+semantic_tags:
+  - Aircraft design
+  - Numerical geometry
+  - Parametric surface mathematics
+  - Computer-aided design
+  - Manufacturing technology
+tldr: The article discusses the development of the British Aircraft Corporation's Numerical Master Geometry system, which uses parametric surface mathematics to represent aircraft shapes numerically for design and manufacturing. This system offers advantages in speed, accuracy, and repeatability compared to traditional lofting techniques, and has been successfully implemented in the aircraft industry.
+scientific_discipline: Engineering and Technology > Computer-aided Design and Manufacturing

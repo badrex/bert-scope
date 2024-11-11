@@ -1,0 +1,10 @@
+article_id: rspa_1975_0167
+revised_title: 'Incorporating Cascade Damage Effects in the Swelling of Irradiated Materials'
+semantic_tags:
+  - Radiation damage
+  - Void growth
+  - Vaccum loops
+  - Irradiation
+  - Material swelling
+tldr: The authors extended the homogeneous rate theory of void growth to include the formation of vacancy loops from displacement cascades in irradiated materials. They applied this model to calculate the volume swelling in solution-treated M316 stainless steel, highlighting the sensitivity of void swelling to the scale of interstitial loop nucleation and the challenges of predicting swelling under neutron irradiation at elevated temperatures.
+scientific_discipline: Materials Science > Radiation Damage and Void Growth

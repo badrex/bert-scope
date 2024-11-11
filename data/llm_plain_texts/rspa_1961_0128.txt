@@ -1,0 +1,10 @@
+article_id: rspa_1961_0128
+revised_title: 'Thermal Conduction in Superconducting and Normal Tin and Indium'
+semantic_tags:
+  - Superconductivity
+  - Thermal conductivity
+  - Lattice vibrations
+  - Impurity scattering
+  - Material purity
+tldr: The authors conducted experiments on the thermal conductivity of pure tin and indium in both normal and superconducting states. They found that the ratio of superconducting to normal thermal conductivities depends on the type of resistive scattering mechanism in the metal. The results showed that phonon scattering contributes significantly to thermal resistance at low temperatures, while impurity content affects the temperature at which the thermal conductivity peak occurs.
+scientific_discipline: Physics > Materials Science

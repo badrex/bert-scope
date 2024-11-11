@@ -1,0 +1,10 @@
+article_id: rstb_1977_0031
+revised_title: Water Structure and Transport in Biology: Dynamics of Water in Heterogeneous Systems
+semantic_tags:
+  - Water dynamics
+  - Nuclear magnetic resonance
+  - Dielectric relaxation
+  - Quasi-elastic neutron scattering
+  - Biological systems
+tldr: This article discusses the dynamics of water in heterogeneous systems, focusing on the motions of water molecules and their interactions with macromolecules. The authors use nuclear magnetic resonance, dielectric relaxation, and quasi-elastic neutron scattering techniques to study water molecule dynamics in various biological systems, such as moist protein powders, protein solutions, and biological polymers. They find that water molecules in these systems are highly mobile and exchange with water molecules free of macromolecular influence.
+scientific_discipline: Chemistry > Chemical Physics

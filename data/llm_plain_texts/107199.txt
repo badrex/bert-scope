@@ -1,0 +1,10 @@
+article_id: 107199
+revised_title: A New Demonstration of the Binomial Theorem with Fractional Exponents
+semantic_tags:
+  - Algebra
+  - Binomial Theorem
+  - Mathematical Proof
+  - Mathematical Analysis
+  - Number Theory
+tldr: The author presents a new demonstration of the binomial theorem when the exponent is a positive or negative fraction. The proof is based on multiplication and is considered a more direct way to establish the theorem than previous methods. The binomial theorem is essential for raising powers and extracting roots and is useful in various investigations in higher algebra.
+scientific_discipline: Mathematics > Algebra

@@ -1,0 +1,10 @@
+article_id: rspa_1947_0042
+revised_title: Theoretical Analysis of Fragmentation in Shell Cases
+semantic_tags:
+  - Materials Science
+  - Fracture Mechanics
+  - Explosives
+  - Shell Casings
+  - Tensile Strength
+tldr: The author presents a theory on the fragmentation of shell cases, focusing on the metal case of a cylindrical ring-bomb. The theory considers the scatter in the values of the reduction in area at which fracture occurs in a tensile test, which determines the fragment size. The distribution of fragment lengths is calculated, providing insights into the average size of fragments from a shell made of ductile materials like steel.
+scientific_discipline: Engineering and Technology > Materials Science

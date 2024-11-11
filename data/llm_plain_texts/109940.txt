@@ -1,0 +1,10 @@
+article_id: 109940
+revised_title: 'Determination of Pendulum Length Variation and Earth's Ellipticity'
+semantic_tags:
+  - Geodesy
+  - Pendulum experiments
+  - Trigonometrical Survey
+  - Gravity
+  - Earth's shape
+tldr: This paper describes experiments conducted to determine the variation in the length of a pendulum vibrating seconds at various stations of the Trigonometrical Survey of Great Britain. The author, Henry Kater, explains the construction of the pendulum and its appendages, and details the operations and results at each station. The paper also includes calculations of the latitude of each station and observations about the figure of the earth. Kater concludes that the error in the number of vibrations of the seconds pendulum at any particular station does not amount to 1/11th of a vibration, which is about equal to 400,000th part of the length, allowing for accurate determination of gravitation.
+scientific_discipline: Earth Sciences > Geodesy

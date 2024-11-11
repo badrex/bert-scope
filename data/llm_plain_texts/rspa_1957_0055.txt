@@ -1,0 +1,10 @@
+article_id: rspa_1957_0055
+revised_title: Spectra Produced by Shock Waves, Flames, and Detonations: A Study of Emission Spectra Excited by Intense Shock Waves
+semantic_tags:
+  - Shock waves
+  - Flame spectra
+  - Detonations
+  - Emission spectra
+  - Chemical reactions
+tldr: This article investigates the emission spectra produced by shock waves, flames, and detonations. The authors compare the spectra of various gases, including fuel and fuel + argon mixtures, excited by strong shock waves from a bursting diaphragm with those given by flames and spark- or shock-ignited detonations. The study provides insights into the chemical reactions and processes occurring in these phenomena, with implications for understanding flame behavior and the propagation of detonations.
+scientific_discipline: Chemistry > Chemical Kinetics

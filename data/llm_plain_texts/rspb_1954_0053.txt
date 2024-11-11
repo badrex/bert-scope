@@ -1,0 +1,10 @@
+article_id: 'rspb_1954_0053'
+revised_title: 'Quantitative Analysis of Tissue Transplantation Immunity in Mice'
+semantic_tags:
+  - Immunology
+  - Tissue Transplantation
+  - Inbred Mice Strains
+  - Skin Grafts
+  - Survival Times
+tldr: The authors conducted experiments on tissue transplantation immunity in mice, specifically studying the survival times of skin homografts exchanged between members of different inbred strains. They found that skin homografts do not long survive transplantation between mice of different inbred strains, and the intensity of the reaction can be measured in terms of median survival time. The study also showed that homografts exchanged between mice of the same inbred strain could not be distinguished from autografts, while incompatibilities became apparent when homografts were exchanged between members of separate sublines.
+scientific_discipline: Biology and Life Sciences > Immunology

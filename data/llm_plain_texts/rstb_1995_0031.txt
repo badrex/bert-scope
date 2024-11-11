@@ -1,0 +1,10 @@
+article_id: 'rstb_1995_0031'
+revised_title: 'Microcracking and Stress Analysis in Bone: A Comparative Study'
+semantic_tags:
+  - Bone mechanics
+  - Microcracking
+  - Finite element analysis
+  - Anisotropic materials
+  - Orthopedic engineering
+tldr: The authors conducted an experiment to study the microcracking around a circular hole in a bone plate and compared it with predicted stresses using a finite element analysis. They found that the Tsai-Wu anisotropic yield criterion best predicted the pattern of microcracking. The presence of microdamage in bone before failure suggests that damage-based criteria are more likely to be successful predictors of bone remodeling behavior than stress or strain-based criteria.
+scientific_discipline: Engineering and Technology > Biomechanics and Biomedical Engineering

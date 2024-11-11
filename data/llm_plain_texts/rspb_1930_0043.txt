@@ -1,0 +1,10 @@
+article_id: 'rspb_1930_0043'
+revised_title: 'Investigating the Effect of Cell Content on Hemolytic Systems'
+semantic_tags:
+  - Hemolysis
+  - Lysin
+  - Erythrocyte resistance
+  - Zone of action
+  - Time-dilution curve
+tldr: The author investigates the effect of varying cell content in hemolytic systems, focusing on the relationship between cell concentration and lysin transformation. They introduce the concept of a "zone of action" surrounding each cell, and explore how this affects the overall hemolytic process. The study uses time-dilution curves and different cell types to analyze the results and validate the underlying theory.
+scientific_discipline: Biology and Life Sciences > Cell Biology

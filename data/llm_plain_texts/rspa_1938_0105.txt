@@ -1,0 +1,10 @@
+article_id: 'rspa_1938_0105'
+revised_title: 'Experimental Study of Fluid Surface Friction with a Half-Pitot Tube'
+semantic_tags:
+  - Fluid Mechanics
+  - Surface Friction
+  - Glycerine Flow
+  - Reynolds Number
+  - Viscosity
+tldr: 'This article presents an experimental study of fluid surface friction using a half-pitot tube. The author measures the pressure difference between the fluid in the half-pitot and the fluid in a hole in the solid surface. The results show that the effective opening of the half-pitot is proportional to the Reynolds number, and the tangential stress at the fluid surface is related to the viscosity of the fluid. The findings contribute to the understanding of fluid dynamics and the behavior of fluids in different flow conditions.'
+scientific_discipline: 'Environmental and Earth Sciences > Fluid Mechanics'

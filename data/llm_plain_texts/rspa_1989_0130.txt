@@ -1,0 +1,10 @@
+article_id: rspa_1989_0130
+revised_title: 'Inversion and Phase Recovery of Electromagnetic Scattered Amplitude Data'
+semantic_tags:
+  - Electromagnetic Scattering
+  - Inverse Scattering
+  - Signal Processing
+  - Polarization States
+  - Dielectric Scattering
+tldr: The authors investigate the one-dimensional inverse electromagnetic scattering problem for the inversion of amplitude data of either linear polarization state. They develop a method that exploits the complex structure of the field scattered from a class of inhomogeneous dielectrics, enabling the reconstruction of the analytic signal from measurements of the amplitude alone. The method is demonstrated and exemplified with experimental data in both transverse electric and transverse magnetic polarization states.
+scientific_discipline: Physics > Electromagnetism

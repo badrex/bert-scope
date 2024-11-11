@@ -1,0 +1,10 @@
+article_id: rspa_1957_0078
+revised_title: 'Susceptibility of Ferromagnetic Materials Above the Curie Point'
+semantic_tags:
+  - Ferromagnetism
+  - Susceptibility
+  - Curie temperature
+  - Ising model
+  - Heisenberg model
+tldr: The authors examine the susceptibility of ferromagnetic materials above the Curie point using the Ising and Heisenberg models. They analyze series expansions for the susceptibility at high temperatures to estimate the curvature of the reciprocal susceptibility near the Curie point. The study concludes that the curvature depends primarily on the lattice structure and little on the type of interaction, and that there is a marked difference between two-dimensional and three-dimensional lattices.
+scientific_discipline: Physics > Condensed Matter Physics

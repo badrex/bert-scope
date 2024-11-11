@@ -1,0 +1,10 @@
+article_id: rspa_1968_0134
+revised_title: Resonant Oscillations of Water Waves: A Comprehensive Study
+semantic_tags:
+  - Fluid Dynamics
+  - Wave Theory
+  - Resonance Phenomena
+  - Nonlinear Effects
+  - Boundary Layer Theory
+tldr: This article presents a theory to describe the oscillations of a liquid in a tank near a resonant frequency, where linearized theory is invalid. The author shows that although the oscillations are described adequately by the classical wave equation, the boundary conditions cannot be properly satisfied unless the non-linear terms are included. The effects of dissipation and dispersion are also significant in the determination of the oscillations, even though the terms to which they give rise in the equations are multiplied by small parameters under normal laboratory conditions. The author discusses various mechanisms that influence the near-resonant oscillations and derives a non-linear equation to describe these oscillations.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rsta_1966_0038
+revised_title: Erosion Mechanisms in Cobalt-Chromium Alloys Under Liquid Impact
+semantic_tags:
+  - Erosion resistance
+  - Material testing
+  - Steam turbine blades
+  - Metallography
+  - Alloy deformation
+tldr: The authors conducted experiments to study the erosion of a cobalt-chromium alloy (Stellite 6) by liquid impact, which occurs in steam turbines. They developed a four-stage mechanism for erosion in Stellite 6, involving matrix deformation, cracking at carbide-matrix boundaries, crack intersection, and material removal. The study also compared the erosion resistance of cast and wrought forms of the alloy, with the wrought form (Haynes 6B) showing better homogeneity and suitability for detailed metallographic analysis.
+scientific_discipline: Engineering and Technology > Materials Science

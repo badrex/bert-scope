@@ -1,0 +1,10 @@
+article_id: rspa_1980_0037
+revised_title: The Topological Nature of Polarization Fields for Body Waves in Anisotropic Elastic Media
+semantic_tags:
+  - Elasticity Theory
+  - Anisotropic Materials
+  - Acoustic Waves
+  - Topology
+  - Crystallography
+tldr: The authors study the topological nature of polarization fields for body waves in anisotropic elastic media. They show that only one type of polarization field occurs in actual acoustical tensors and discuss the relation between the Khatkevich condition for acoustic axes and the discriminant of the eigenvalue problem.
+scientific_discipline: Physics > Elasticity Theory

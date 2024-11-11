@@ -1,0 +1,10 @@
+article_id: rspa_1972_0032
+revised_title: Stress-Induced Diffusion in Ionic Crystals: Theory and Applications
+semantic_tags:
+  - Ionic crystals
+  - Diffusion
+  - Stress-induced deformation
+  - Point defects
+  - Flux equations
+tldr: The authors develop a theory for stress-induced diffusion in ionic crystals, focusing on the migration of ions in the presence of concentration gradients of vacancies and internal electric fields. They investigate the flux of ions in ionic crystals containing Schottky defects and provide equations for the rate of migration and deformation of the crystal. This theory can be applied to processes like sintering, pressure sintering, and diffusion-controlled creep in ionic materials.
+scientific_discipline: Physics > Materials Science

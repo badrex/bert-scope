@@ -1,0 +1,10 @@
+article_id: rspa_1926_0100
+revised_title: 'Analysis of Locomotive Driving Wheel Action and Contact Surface Pressure'
+semantic_tags:
+  - Locomotive mechanics
+  - Contact mechanics
+  - Elasticity
+  - Railway engineering
+  - Surface strain
+tldr: The authors studied the forces and stresses between a locomotive's driving wheel and the rail, focusing on the contact surface pressure and surface strain. They developed a mathematical model to analyze the tractive effort and creepage of the wheel and rail, which can help improve the efficiency and performance of electric locomotives.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

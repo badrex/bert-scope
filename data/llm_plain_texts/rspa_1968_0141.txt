@@ -1,0 +1,10 @@
+article_id: rspa_1968_0141
+revised_title: Gas Phase Reactions of Methylene with Ethyl Chloride
+semantic_tags:
+  - Radical Chemistry
+  - Gas Phase Reactions
+  - Methylene Reactions
+  - Ethyl Chloride
+  - Free Radical Mechanism
+tldr: The authors studied the gas phase reactions between methylene and ethyl chloride to understand the nature of the reaction mechanism and the relative importance of abstraction and insertion in chlorohydrocarbons reactions. They found that the gas phase reaction between methylene and ethyl chloride resulted in the formation of various products, and the reaction mechanism involved a free radical process. The authors also observed that the selectivity shown by the two species of methylene (singlet and triplet) is a result of differences in electronic structure rather than energy content.
+scientific_discipline: Chemistry > Radical Chemistry

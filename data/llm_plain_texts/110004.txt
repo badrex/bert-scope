@@ -1,0 +1,10 @@
+article_id: 110004
+revised_title: Anomalous Magnetic Action of Hot Iron: A Study on the Influence of Heat on Iron's Magnetic Properties
+semantic_tags:
+  - Magnetism
+  - Iron properties
+  - Heat effects
+  - Magnetic attraction
+  - Anomalous behavior
+tldr: The author, Peter Barlow, conducted experiments to study the effect of heat on the magnetic properties of iron. He discovered an anomalous magnetic action in iron when heated between the white and blood-red heat. The iron's magnetic attraction changed direction at a specific temperature range, and this behavior was influenced by the position of the compass relative to the iron bar. Barlow also found that the negative attraction was affected by the height or depth of the iron bar's center from the compass. He suggested that the anomalies might be due to the iron cooling faster at its extremities than at its center, causing one part of the bar to become magnetic before the other.
+scientific_discipline: Physics > Magnetism

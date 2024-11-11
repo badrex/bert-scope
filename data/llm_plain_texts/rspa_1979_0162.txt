@@ -1,0 +1,10 @@
+article_id: rspa_1979_0162
+revised_title: 'Elastic Fracture Mechanics Analysis Using the Boundary Integral Equation Method'
+semantic_tags:
+  - Fracture Mechanics
+  - Boundary Integral Equation Method
+  - Stress Analysis
+  - Elasticity
+  - Numerical Modeling
+tldr: The authors present a numerical technique called the boundary integral equation method for solving three-dimensional fracture mechanics problems. They apply this method to analyze elastic stress in cracked solid components and demonstrate its accuracy by comparing it with established solutions for various crack geometries. The method is also used to study the nature of the stress singularity at the intersection between a crack front and a free surface, providing insights into the behavior of stresses and strains near the free surface.
+scientific_discipline: Engineering and Technology > Mechanics

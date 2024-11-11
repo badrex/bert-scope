@@ -1,0 +1,10 @@
+article_id: rsta_1975_0085
+revised_title: Symplectic Structure in Degenerate Variational Problems
+semantic_tags:
+  - Calculus of Variations
+  - Symplectic Geometry
+  - Lagrange Bracket
+  - Hamiltonian Dynamics
+  - Pfaffian Differential Forms
+tldr: This article establishes the existence of symplectic structure in degenerate variational problems, proving that Poincare's conserved antisymmetric derived bilinear differential form in the orbit manifold of any regular degenerate problem admits no null vectors other than those representing infinitesimal deviations due to indeterminacy in the evolution of the orbit. The author also shows how to construct a regular variational principle reproducing all given orbits and the associated bilinear form.
+scientific_discipline: Mathematics > Calculus of Variations

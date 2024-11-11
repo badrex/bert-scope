@@ -1,0 +1,10 @@
+article_id: rspa_1972_0096
+revised_title: Compressible Rubberlike Solids: Correlating Theory and Experiment
+semantic_tags:
+  - Elasticity
+  - Rubber materials
+  - Compressibility
+  - Strain-energy function
+  - Isotropic materials
+tldr: The authors develop a novel approach to correlate the isothermal mechanical behavior of compressible rubberlike solids. They expand the strain-energy function to account for volume changes and compare predictions with experimental data. The study focuses on the strain-energy function for compressible rubber materials, considering the effects of volume changes and providing a better understanding of the mechanical response of these materials.
+scientific_discipline: Physics > Mechanics

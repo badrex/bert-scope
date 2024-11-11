@@ -1,0 +1,10 @@
+article_id: rspa_1971_0066
+revised_title: Rotational Analysis of the A0 Systems in Gaseous Silver Halides
+semantic_tags:
+  - Molecular spectroscopy
+  - Silver halides
+  - Rotational analysis
+  - Vibrational levels
+  - Predissociation
+tldr: The authors conducted a detailed rotational analysis of the A0 systems in gaseous silver halides, focusing on the A and B-X systems. They found that state A has a low dissociation energy and may possess only two stable vibrational levels. The study also revealed that state B is predissociated, and the upper state of the 303.0 nm continuum is likely responsible for the predissociation. The ground state of the molecule has a 52% ionic character, and the authors provide molecular constants for the ground state and excited states.
+scientific_discipline: Chemistry > Molecular spectroscopy

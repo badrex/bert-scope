@@ -1,0 +1,10 @@
+article_id: rspa_1953_0132
+revised_title: Continuous Absorption of Light in Alkali-Metal Vapours: Sodium Experiments and Theoretical Comparisons
+semantic_tags:
+  - Atomic physics
+  - Spectroscopy
+  - Alkali metals
+  - Photo-ionization
+  - Absorption cross-sections
+scientific_discipline: Physics > Atomic and Molecular Physics
+tldr: This article presents experiments on the continuous absorption of light in sodium vapour, covering the spectral regions of quartz ultra-violet and vacuum ultra-violet. The authors discuss the atomic absorption cross-section and compare their experimental results with theoretical calculations. They find good agreement between theory and experiment, except for the magnitude of absorption at the minimum. The study contributes to understanding the processes leading to the production of positive ions and electrons by photo-ionization in gases, which is significant in the energy balance of outer layers of stars, Earth's atmosphere, and discharge tubes.

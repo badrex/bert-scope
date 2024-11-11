@@ -1,0 +1,10 @@
+article_id: rspa_1975_0104
+revised_title: 'Optimizing High-Resolution Nuclear Magnetic Resonance Spectrometers'
+semantic_tags:
+  - Nuclear Magnetic Resonance
+  - Spectrometer Design
+  - Fourier Transform
+  - Signal Processing
+  - Magnetic Field Homogeneity
+tldr: The authors analyze and discuss the critical factors that influence the performance of a Fourier transform nuclear magnetic resonance (NMR) spectrometer. They describe the design and use of a spectrometer based on their analysis, focusing on field homogeneity, probe design, transient circuit behavior, Johnson noise, nonlinear analysis, phase-sensitive detection, and signal processing. The authors also introduce a cyclically ordered phase sequence (CYCLOPS) to simplify quadrature Fourier transformation. They demonstrate the spectrometer's performance with spectra obtained from cesium and phosphorus resonances.
+scientific_discipline: Physics > Electromagnetism

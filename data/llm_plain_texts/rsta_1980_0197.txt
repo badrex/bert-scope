@@ -1,0 +1,10 @@
+article_id: rsta_1980_0197
+revised_title: Nuisance Parameters, Mixture Models, and the Efficiency of Partial Likelihood Estimators
+semantic_tags:
+  - Statistical Analysis
+  - Estimation Theory
+  - Asymptotic Statistics
+  - Mixture Models
+  - Partial Likelihood
+tldr: This paper establishes lower bounds for estimation in parametric statistical models with nuisance parameters that increase in number with the sample size. It introduces an information measure for the mixture model and demonstrates the efficiency of partial maximum likelihood estimators in various examples, including the one-way analysis of variance model.
+scientific_discipline: Mathematics > Statistics

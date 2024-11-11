@@ -1,0 +1,10 @@
+article_id: rspa_1971_0183
+revised_title: Dielectric Breakdown of Low Density Gases: Experiments on Mercury Vapour
+semantic_tags:
+  - Gas breakdown
+  - Dielectric properties
+  - Mercury vapor
+  - Pre-breakdown current
+  - Townsend theory
+tldr: This article describes experiments on the dielectric breakdown of low density gases, specifically mercury vapor. The authors developed experimental techniques to measure pre-breakdown current growth at high values, allowing them to compute electron multiplication and secondary emission coefficients. The results confirm the theory of breakdown and pre-breakdown current growth developed in a previous paper. The study contributes to understanding the dielectric properties of gases and the behavior of electrical discharges in low pressure environments.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rspa_1990_0012
+revised_title: 'Conservation and Non-Conservation of Mass in Cylindrical Systems in General Relativity'
+semantic_tags:
+  - General Relativity
+  - Cylindrical Systems
+  - Gravitational Induction
+  - Energy Transfer
+  - Adiabatic Changes
+scientific_discipline: Physics > Relativity
+tldr: This article explores the concept of mass conservation in cylindrical systems within the framework of general relativity. The author demonstrates that there is no conserved mass per unit length for a relativistic infinite cylinder due to gravitational induction and energy transfer along the cylinder. The study focuses on slowly changing cylindrical systems and excludes loss or gain of energy by gravitational radiation, tangible axial transfer, and axial inductive transfer to examine the possibility of identifying a conserved quantity for time-dependent cylindrically symmetric systems.

@@ -1,0 +1,10 @@
+article_id: rsta_1994_0097
+revised_title: Local Optimal Prediction: Exploiting Strangeness and the Variation of Sensitivity to Initial Conditions
+semantic_tags:
+  - Chaos Theory
+  - Time Series Analysis
+  - Predictive Modeling
+  - Dynamical Systems
+  - Statistical Analysis
+tldr: This paper presents a method for local optimal prediction in chaotic systems by exploiting strangeness and the variation of sensitivity to initial conditions. The authors demonstrate the effectiveness of this approach using a Lorenz system and discuss its potential applications in various fields.
+scientific_discipline: Mathematics > Dynamical Systems

@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0101'
+revised_title: 'Ammonium Uptake in Green Hydra and its Symbiotic Relationship with Chlorella'
+semantic_tags:
+  - 'Symbiosis'
+  - 'Ammonium uptake'
+  - 'Green hydra'
+  - 'Chlorella'
+  - 'Nitrogen budget'
+tldr: The author's study found that green hydra, which contain Chlorella symbionts, can take up ammonium added to their medium. Aposymbiotic hydra without their symbionts do not take up ammonium but release it. The uptake is concentration-dependent and may be partly caused by the activity of animal glutamine synthetase. This discovery helps understand the control of symbiont growth and the nitrogen budget of the symbiosis.
+scientific_discipline: Biology and Life Sciences > Symbiosis

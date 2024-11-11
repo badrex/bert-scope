@@ -1,0 +1,10 @@
+article_id: rsta_1982_0052
+revised_title: Analytical Applications of High-Resolution Nuclear Magnetic Resonance Spectroscopy of Solids
+semantic_tags:
+  - Solid-state NMR
+  - Analytical chemistry
+  - Nuclear magnetic resonance spectroscopy
+  - Cross-polarization-magic-angle spinning
+  - Chemical structure analysis
+tldr: This article discusses the analytical chemical applications of high-resolution nuclear magnetic resonance (NMR) spectroscopy of solids. It describes the cross-polarization-magic-angle spinning (CP-MAS) experiment, which provides high-resolution NMR spectra of solid materials. The technique is useful for analyzing amorphous systems, crystalline materials, and chemically exchanging solid systems, offering a bridge between solid-state and solution structures.
+scientific_discipline: Chemistry > Analytical Chemistry

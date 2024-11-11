@@ -1,0 +1,10 @@
+article_id: rsta_1990_0122
+revised_title: Breakdown of Superfluidity in Liquid Helium
+semantic_tags:
+  - Superfluidity
+  - Vortex Nucleation
+  - Quantum Tunnelling
+  - Liquid Helium
+  - Vortex Creation
+tldr: The authors report measurements of the rate at which negative ions nucleate quantized vortices in isotopically pure superfluid helium for various electric fields, temperatures, and pressures. They discuss the experimental data and analyze it in terms of the macroscopic quantum tunnelling model, providing evidence that the model is accurate and that the minimal vortex is a loop rather than an encircling ring. The temperature dependence of the vortex creation rate is interpreted in terms of a phonon-driven vortex nucleation mechanism, and values for its cross-section are extracted from the data.
+scientific_discipline: Physics > Condensed Matter Physics

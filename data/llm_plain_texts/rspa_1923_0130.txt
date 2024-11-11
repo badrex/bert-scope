@@ -1,0 +1,10 @@
+article_id: rspa_1923_0130
+revised_title: 'Investigating the Proportionality of Mass and Weight in Various Substances'
+semantic_tags:
+  - Gravitational constant
+  - Mass and weight
+  - Pendulum experiments
+  - Atomic weight
+  - Hydrogen content
+tldr: This article presents experiments conducted to determine if the gravitational constant is the same for all substances. The experiments focused on substances with a high hydrogen content, such as ammonium fluoride and paraffin wax, and used a pendulum to compare the gravitational accelerations of these substances. The results showed that the gravitational constant is indeed the same for all substances, confirming the principle of equivalence in Einstein's theory of relativity.
+scientific_discipline: Physics > Mechanics

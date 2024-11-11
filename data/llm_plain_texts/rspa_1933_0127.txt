@@ -1,0 +1,10 @@
+article_id: rspa_1933_0127
+revised_title: 'Catalytic Properties and Structure of Sputtered Platinum Films'
+semantic_tags:
+  - Surface chemistry
+  - Catalysis
+  - Electron diffraction
+  - Metal films
+  - X-ray crystallography
+tldr: The authors studied the catalytic properties and structure of sputtered platinum films. They found that the activity of the films was related to their structural properties, which could be examined using electron diffraction. The films were prepared in various conditions, and their catalytic properties were measured by observing the rate of hydrogen and oxygen combustion at room temperature. The results provided insights into the mechanism of catalytic combustion and the role of metal atoms in promoting chemical reactions.
+scientific_discipline: Chemistry > Surface chemistry

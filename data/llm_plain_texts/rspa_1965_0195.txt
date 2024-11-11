@@ -1,0 +1,10 @@
+article_id: rspa_1965_0195
+revised_title: 'Unitary Representations of the 2+1 Lorentz Group'
+semantic_tags:
+  - Group Theory
+  - Lie Algebras
+  - Quantum Mechanics
+  - Representation Theory
+  - Lorentz Group
+tldr: The authors present a simple algebraic method to obtain linear representations of non-compact groups, focusing on the 2+1 Lorentz group. They use multispinors with complex indices to find all linear representations of the group, their realizations in Hilbert space, and the matrix elements of finite transformations. The study of non-compact groups is essential for understanding their applications in physics.
+scientific_discipline: Mathematics > Group Theory

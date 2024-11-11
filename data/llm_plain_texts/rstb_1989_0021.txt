@@ -1,0 +1,10 @@
+article_id: 'rstb_1989_0021'
+revised_title: 'Applications of Photoacoustic Measurements in Plant Science'
+semantic_tags:
+  - Photosynthesis
+  - Plant Science
+  - Photoacoustic Measurements
+  - Non-Radiative De-Excitation
+  - Chlorophyll Fluorescence
+tldr: 'The article discusses the use of photoacoustic measurements in plant science, particularly in photosynthesis research. The technique detects light-induced heat produced during non-radiative de-excitation, which helps in understanding the energy transfer processes and efficiency in plants. The author explains the principles of photoacoustic detection, different instrumentations, and various applications, such as measuring induction kinetics, time constants, and photoacoustic spectra, which provide valuable information about pigment composition, depth profiles, and energy transfer efficiency in plant samples.'
+scientific_discipline: Biology and Life Sciences > Photosynthesis

@@ -1,0 +1,10 @@
+article_id: rspa_1971_0118
+revised_title: An Analysis of Phase Determination from Anomalous Dispersion Observations in Cobyric Acid
+semantic_tags:
+  - Crystallography
+  - Anomalous dispersion
+  - Phase determination
+  - X-ray crystallography
+  - Heavy atom method
+tldr: The author examines the use of anomalous dispersion in determining phase angles for crystal structures, specifically in the case of cobyric acid. They compare different methods of phase determination and discuss the advantages and limitations of each. The study confirms that the anomalous synthesis provides the best approximation for structure solution in this case.
+scientific_discipline: Physics > Crystallography

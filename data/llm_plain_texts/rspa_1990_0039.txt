@@ -1,0 +1,10 @@
+article_id: rspa_1990_0039
+revised_title: 'Duality and Approximations in Meshes and Legendre Transforms'
+semantic_tags:
+  - Mesh duality
+  - Legendre duality
+  - Convex functions
+  - Applied mathematics
+  - Numerical analysis
+tldr: The authors explore the relationship between mesh duality and Legendre duality, demonstrating how a general pair of meshes can be considered as a projection of piecewise linear functions that are dual to each other. They also discuss applications, including the Delaunay mesh and Voronoi tessellation, and provide examples from meteorology.
+scientific_discipline: Mathematics > Applied Mathematics

@@ -1,0 +1,10 @@
+article_id: rspa_1923_0134
+revised_title: 'A Reassessment of Heyrovsky's Thermodynamical Argument on Electrode Potentials'
+semantic_tags:
+  - Electrochemistry
+  - Thermodynamics
+  - Electrode potential
+  - Ionization
+  - Brownian movement
+scientific_discipline: Chemistry > Electrochemistry
+tldr: The author critiques Heyrovsky's thermodynamical argument on electrode potentials, pointing out that several stages in the cyclic process are irreversible. They provide an alternative method for conducting the process reversibly and conclude that the cyclic process does not offer valuable information about the relations between electrode potentials and chemical equilibrium constants.

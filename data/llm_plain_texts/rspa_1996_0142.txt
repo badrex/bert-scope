@@ -1,0 +1,10 @@
+article_id: rspa_1996_0142
+revised_title: Asymptotic Expansion of General Integrals in Mathematics
+semantic_tags:
+  - Asymptotic Analysis
+  - Integral Calculus
+  - Mathematical Functions
+  - Applied Mathematics
+  - Complex Analysis
+tldr: The article presents a systematic formula for the asymptotic expansion of a general integral with respect to a small, positive parameter. The method uses integration in the finite part sense of Hadamard and applies to a wide range of complex functions and real functions. The results have various applications in mathematics, physics, and engineering.
+scientific_discipline: Mathematics > Applied Mathematics

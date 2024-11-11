@@ -1,0 +1,10 @@
+article_id: rspa_1931_0183
+revised_title: Thermal Conductivities of Saturated Hydrocarbons in Gaseous State
+semantic_tags:
+  - Thermodynamics
+  - Gas thermal conductivity
+  - Hydrocarbon
+  - Heat transfer
+  - Temperature coefficient
+tldr: This study investigates the thermal conductivities of gaseous saturated hydrocarbons, focusing on methane, ethane, propane, butane, pentane, and hexane. The research uses the hotwire method to measure the thermal conductivities and temperature coefficients of these gases. The results show a slight increase in conductivity with pressure, which is attributed to convection. The findings contribute to understanding heat transfer in hydrocarbon gases and their applications in various industries.
+scientific_discipline: Physics > Thermodynamics

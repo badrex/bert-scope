@@ -1,0 +1,12 @@
+article_id: 'rspb_1996_0161'
+revised_title: 'Parasite Infection Affects Schooling Behavior in Minnows'
+semantic_tags:
+  - Fish behavior
+  - Parasite infection
+  - Schooling behavior
+  - Cestode Ligula intestinalis
+  - Antipredator adaptation
+tldr: 'The study investigates the effects of parasite infection with the cestode Ligula intestinalis on the schooling behavior of European minnows, Phoxinus phoxinus. Infected minnows exhibit increased nearest neighbor distances and deviant positioning within schools, which may increase their susceptibility to certain predators and have consequences for parasite transmission.'
+
+scientific_discipline: Biology and Life Sciences > Ecology
+sub_discipline: 'Fish Behavior and Ecology'

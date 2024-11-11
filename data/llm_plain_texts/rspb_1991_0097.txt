@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0097'
+revised_title: 'Leishmania Chitinase Function in Sandfly Vector'
+semantic_tags:
+  - Leishmaniasis
+  - Chitinase
+  - Sandfly
+  - Parasitology
+  - Vector Biology
+tldr: The article discusses the role of chitinase, an enzyme secreted by Leishmania parasites, in the sandfly vector. The chitinase helps break down the peritrophic membrane, allowing the parasites to migrate forward and concentrate in the cardiac valve region, leading to infection. This process is specific to infected sandflies and is not observed in uninfected ones.
+scientific_discipline: Biology and Life Sciences > Parasitology

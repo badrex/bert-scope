@@ -1,0 +1,10 @@
+article_id: 'rspb_1970_0004'
+revised_title: 'Root Exudation: A Standing-Gradient Osmotic Flow Model'
+semantic_tags:
+  - Plant Physiology
+  - Osmosis
+  - Root Pressure Exudation
+  - Plant Roots
+  - Plant Water Relations
+tldr: 'The authors demonstrate that root pressure exudation from excised primary roots of Zea mays can be described by a standing gradient osmotic flow model. They modified the differential equations from Diamond and Bossert (1967) to better suit the excised root and used an analogue program to solve the equations. The model provides a good fit for the experimentally determined water and salt fluxes, allowing the osmotic permeability of the root to vary along its length. The anatomical identity of the exudate channel is discussed, but no definitive assignment is made.'
+scientific_discipline: Biology and Life Sciences > Plant Physiology

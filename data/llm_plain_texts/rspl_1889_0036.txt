@@ -1,0 +1,10 @@
+article_id: rspl_1889_0036
+revised_title: 'Improving Gas Batteries: A New Construction and Its Performance'
+semantic_tags:
+  - Electrochemistry
+  - Batteries
+  - Gas batteries
+  - Electrolytes
+  - Platinum black
+scientific_discipline: Chemistry > Electrochemistry
+tldr: The authors, Mond, Langer, and Rayleigh, developed a new construction for gas batteries that uses a quasi-solid electrolyte and a porous non-conducting diaphragm to improve contact between gases, electrolyte, and absorbent. This new design allows for better performance and efficiency in gas batteries, which can be used to generate electricity from hydrogen and air.

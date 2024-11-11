@@ -1,0 +1,10 @@
+article_id: rspa_1927_0004
+revised_title: Magnetic Anisotropy and Double-Refraction in Benzene and its Derivatives
+semantic_tags:
+  - Magnetic double-refraction
+  - Benzene
+  - Optical anisotropy
+  - Light scattering
+  - Molecular structure
+tldr: The authors studied magnetic double-refraction in benzene and its derivatives using the Langevin theory. They found that benzene exhibits a remarkable magnetic anisotropy, with the susceptibility in the direction of the axis being about twice as large as in perpendicular directions. The study also suggests that at least 12 of the electron orbits binding the atoms in the molecule must be orientated in a plane parallel to the ring. This research helps to understand the relationship between chemical structure and magnetic anisotropy in carbon compounds.
+scientific_discipline: Physics > Optics

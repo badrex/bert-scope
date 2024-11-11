@@ -1,0 +1,10 @@
+article_id: rsnr_1988_0009
+revised_title: Newton's Principia and its Legacy: Chaotic Dynamics and the New Unpredictability
+semantic_tags:
+  - Chaotic Dynamics
+  - Newtonian Mechanics
+  - Molecular Dynamics
+  - Fluid Mechanics
+  - Engineering Applications
+tldr: This article explores the legacy of Sir Isaac Newton's Principia and its applications in various scientific fields. It discusses the impact of computers on the study of chaotic motions, the use of Newtonian mechanics in molecular dynamics simulations of protein molecules, and the application of Newtonian mechanics in engineering, particularly in assessing the dynamic stability of structures in waves and currents.
+scientific_discipline: Physics > Mechanics

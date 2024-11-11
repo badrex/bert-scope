@@ -1,0 +1,11 @@
+article_id: rspa_1990_0055
+revised_title: Advances in Tension-Field Theory for Isotropic Elastic Membranes
+semantic_tags:
+  - Elasticity
+  - Tension-field theory
+  - Wrinkling
+  - Membrane deformation
+  - Isotropic materials
+tldr: The author develops a general theory of tension-field for isotropic elastic membranes undergoing finite deformations. They derive a partial differential equation describing a geometrical property of tension trajectories, which is part of a system of two equations that describe the stress state independently of the deformation. The theory is applied to the analysis of wrinkling in membranes and provides insights into the behavior of elastic tension fields.
+scientific_discipline: Mathematics > Applied Mathematics
+```

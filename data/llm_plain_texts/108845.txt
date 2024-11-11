@@ -1,0 +1,10 @@
+article_id: 108845
+revised_title: Thermal Effects of Fluids in Motion: A Study on Gas Pressures and Cooling Effects
+semantic_tags:
+  - Thermodynamics
+  - Fluid Dynamics
+  - Gas Pressure
+  - Cooling Effects
+  - Heat Transfer
+tldr: This article presents experiments conducted by Joule and Thomson on the thermal effects of fluids in motion. They studied the cooling effects of gases under high and low pressures and found that the difference in temperature between the high and low-pressure sides of a porous plug is proportional to the difference in pressure. The authors also investigated the cooling effects of various gas mixtures and discovered that some gases, like nitrogen, deviate less from the condition of a perfect gas than others.
+scientific_discipline: Physics > Thermodynamics

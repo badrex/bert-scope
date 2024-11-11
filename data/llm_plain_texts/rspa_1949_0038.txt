@@ -1,0 +1,10 @@
+article_id: rspa_1949_0038
+revised_title: The Interaction of Atomic Hydrogen with Olefines: A New Technique for Investigating Radical Reactions
+semantic_tags:
+  - Radical reactions
+  - Hydrogen-olefine interactions
+  - Gas-phase chemistry
+  - Reaction kinetics
+  - Para-hydrogen techniques
+tldr: The authors developed a new technique using para-hydrogen conversion to study the interaction of atomic hydrogen with olefines. They designed a special reaction vessel and employed molybdenum and tungsten oxides to remove hydrogen atoms. This technique allowed them to measure the rate of addition of hydrogen atoms to the oxide surface and provided insights into the collision efficiency of hydrogen atoms with olefines.
+scientific_discipline: Chemistry > Gas-phase chemistry and reaction kinetics

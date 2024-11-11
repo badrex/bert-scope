@@ -1,0 +1,10 @@
+article_id: rspa_1948_0025
+revised_title: Fatigue Behavior of Glass under Static and Cyclic Loading
+semantic_tags:
+  - Glass fatigue
+  - Mechanical testing
+  - Material properties
+  - Stress analysis
+  - Fracture mechanics
+tldr: The authors conducted experiments on mineral glass to understand its fatigue behavior under static and cyclic loading. They found that glass does not fatigue significantly faster under cyclic loading compared to static loading. This supports the idea that static fatigue in glass is due to the spread of cracks rather than deterioration of the inherent strength of the material. The study also provides insights into the difference in fatigue behavior between glass and metals, suggesting that metals' fatigue is associated with flow and work hardening.
+scientific_discipline: Materials Science > Mechanical Properties

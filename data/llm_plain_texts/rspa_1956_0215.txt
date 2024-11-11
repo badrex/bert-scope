@@ -1,0 +1,10 @@
+article_id: rspa_1956_0215
+revised_title: 'The Rotation of Liquid Helium II: The Theory of Mutual Friction in Uniformly Rotating Helium II'
+semantic_tags:
+  - Superfluidity
+  - Quantum Mechanics
+  - Fluid Dynamics
+  - Vortex Lines
+  - Mutual Friction
+tldr: The authors discuss the theory of mutual friction in uniformly rotating helium II, focusing on Feynman's model of quantized vortex lines. They calculate the magnitude and temperature dependence of mutual friction and compare it with experimental results, confirming the validity of Feynman's model and providing evidence for the dragging of normal fluid by vortex lines.
+scientific_discipline: Physics > Fluid Dynamics

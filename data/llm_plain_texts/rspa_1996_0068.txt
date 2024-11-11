@@ -1,0 +1,10 @@
+article_id: 'rspa_1996_0068'
+revised_title: 'Asymptotic Solutions of Second-Order Linear Differential Equations: Applications and Extensions'
+semantic_tags:
+  - Differential Equations
+  - Asymptotic Analysis
+  - Parabolic Cylinder Functions
+  - Incomplete Gamma Function
+  - Error Bounds
+tldr: The author derives uniform asymptotic expansions for solutions of second-order linear differential equations, providing explicit error bounds and applications to the incomplete gamma function and the generalized exponential integral. The approximations involve parabolic cylinder functions and are valid for large values of the parameter u.
+scientific_discipline: Mathematics > Differential Equations

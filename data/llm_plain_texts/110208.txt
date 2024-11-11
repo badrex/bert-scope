@@ -1,0 +1,10 @@
+article_id: 110208
+revised_title: 'Periodical Colors Produced by Grooved Surfaces: A Study on Metallic and Transparent Bodies'
+semantic_tags:
+  - Optics
+  - Interference
+  - Reflection
+  - Color Theory
+  - Metallic Surfaces
+tldr: This article discusses the author's experiments on the effects of grooved surfaces on light. The author observed a series of periodical colors produced by the grooved surfaces of metallic and transparent bodies. These colors were found to be dependent on the number of grooves and intervals, and the angle of incidence. The author also analyzed the phenomena using homogeneous light, red light, and violet light, explaining the color deficiencies and providing tables of the angles of incidence. The study was conducted on various materials, including gold, silver, calcareous spar, tin, realgar, and isinglass.
+scientific_discipline: Physics > Optics

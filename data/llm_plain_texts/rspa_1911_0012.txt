@@ -1,0 +1,10 @@
+article_id: rspa_1911_0012
+revised_title: Improving End-Standards of Length Measurement Techniques
+semantic_tags:
+  - Metrology
+  - Gauge accuracy
+  - Measurement instruments
+  - Optics
+  - Precision engineering
+tldr: The authors describe improvements in measuring end-standards of length, focusing on enhancing the accuracy of gauges and measuring machines. They discuss the limitations of existing gauges and propose a new measuring machine design to improve accuracy and detect irregularities in gauge faces. The authors also compare the performance of different gauges and highlight the superiority of Johanson gauges in terms of precision.
+scientific_discipline: Engineering and Technology > Metrology

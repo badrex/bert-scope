@@ -1,0 +1,10 @@
+article_id: rspa_1951_0212
+revised_title: 'High-Energy Neutron-Deuteron Scattering: A Study of Nuclear Interactions'
+semantic_tags:
+  - Nuclear Physics
+  - Neutron Scattering
+  - Deuteron Interactions
+  - Born's Approximation
+  - Nuclear Potential
+tldr: The authors used Born's approximation to calculate total elastic and inelastic cross-sections and angular distributions for neutron-deuteron scattering at high energies. They investigated four types of isotopic factors and the effect of the ground state wave of the deuteron on the scattering. The study aimed to understand the nature of the nuclear interaction and compare calculated cross-sections with experimental measurements.
+scientific_discipline: Physics > Nuclear Physics

@@ -1,0 +1,10 @@
+article_id: rsta_1973_0073
+revised_title: Self-Similar Elastodynamics: Formulations and Applications
+semantic_tags:
+  - Elastodynamics
+  - Mixed boundary-value problems
+  - Crack expansion
+  - Indentation problems
+  - Radon transform
+tldr: This article presents a unified approach to solve self-similar mixed boundary-value problems in elastodynamics, including crack expansion and indentation problems. The author formulates the problems using the Radon transform and provides a method of solution. The study exposes the common features of both two-dimensional and three-dimensional problems and offers more general solutions for unmixed problems than previously available.
+scientific_discipline: Physics > Mechanics

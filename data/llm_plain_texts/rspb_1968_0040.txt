@@ -1,0 +1,11 @@
+article_id: 'rspb_1968_0040'
+revised_title: 'Incorporation of Radioactivity from [Me-14C] Methionine and [2-14C] Glycine into Lipids of Rhodopseudomonas Spheroides'
+semantic_tags:
+  - Lipid metabolism
+  - Phospholipids
+  - Rhodopseudomonas spheroides
+  - Radioactive tracer
+  - Biochemistry
+tldr: The authors studied how radioactivity from [Me-14C] methionine and [2-14C] glycine gets incorporated into the lipids of Rhodopseudomonas spheroides. They found that radioactivity was mainly incorporated into phosphatidylcholine, phosphatidylethanolamine, and ornithine lipid. The study also demonstrated a precursor-product relationship between the methylated phospholipids and phosphatidylcholine, and showed that the a-carbon of glycine gives rise to one-carbon fragments and acetate.
+scientific_discipline: Biology and Life Sciences > Biochemistry
+```

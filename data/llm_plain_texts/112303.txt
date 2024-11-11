@@ -1,0 +1,10 @@
+article_id: 112303
+revised_title: The Influence of Vapour-Density on Fractional Distillation
+semantic_tags:
+  - Chemical Engineering
+  - Distillation
+  - Vapour-Density
+  - Boiling Points
+  - Fractional Distillation
+tldr: The author, J. A. Wanklyn, investigates the influence of vapour-density on the distillation of mixtures, specifically focusing on the rates at which constituents distil. He explains that the tension of the vapours and the proportion of the mixture's constituents are not the only factors determining distillation rates. The adhesion of liquids to one another and the vapour-densities of these liquids also play a role. Wanklyn provides an experiment to illustrate this point, demonstrating that the less volatile constituent can sometimes boil faster due to a higher vapour-density. This phenomenon helps explain why homologous bodies are difficult to separate through fractional distillation and why oils distil readily in steam.
+scientific_discipline: Chemistry > Chemical Engineering

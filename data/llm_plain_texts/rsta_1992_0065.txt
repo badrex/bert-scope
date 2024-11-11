@@ -1,0 +1,10 @@
+article_id: 'rsta_1992_0065'
+revised_title: 'Time-Resolved Crystallography on H-ras p21: Structural Changes in Ras Protein during GTP Hydrolysis'
+semantic_tags:
+  - Protein Crystallography
+  - GTPase
+  - Ras Protein
+  - Oncogenes
+  - Time-Resolved Structural Biology
+tldr: The article describes time-resolved macromolecular crystallography experiments on H-ras p21, a protein involved in cell signaling. The researchers used a photosensitive precursor of GTP (caged GTP) to study the structural changes in the protein during GTP hydrolysis. The results provide insights into the protein's active and resting states, as well as the mechanism of oncogenic transformation.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

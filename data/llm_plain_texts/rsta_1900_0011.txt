@@ -1,0 +1,10 @@
+article_id: 'rsta_1900_0011'
+revised_title: 'The Crystalline Structure of Metals and the Effects of Strain'
+semantic_tags:
+  - Crystallography
+  - Metallurgy
+  - Strain effects
+  - Metal structure
+  - Microscopy
+tldr: The authors conducted a microscopic study of metals to understand their crystalline structure, particularly focusing on the effects of strain. They discovered that the structure of metals remains crystalline even under conditions that might be expected to destroy it. The research demonstrated that metals exhibit plasticity and maintain their crystalline structure when strained. This work has implications for understanding the properties of metals and their applications in various industries.
+scientific_discipline: Materials Science > Metallurgy

@@ -1,0 +1,10 @@
+article_id: 110413
+revised_title: On the Insufficiency of Clairaut's Theory for Fluid Equilibrium
+semantic_tags:
+  - Fluid Mechanics
+  - Hydrostatics
+  - Equations of Fluids
+  - Mathematical Physics
+  - Planetary Fluids
+tldr: The author, James Ivory, critiques Clairaut's theory of fluid equilibrium, showing that it is insufficient to solve the problem in its full generality. He derives equations for the upper surface and other level surfaces of the fluid, demonstrating that the equilibrium of a fluid at liberty will not be disturbed by pressure applied to its exterior surface. Ivory also discusses the limitations of Maclaurin's demonstration of equilibrium for oblate elliptical spheroids and comments on Poisson's treatment of the subject.
+scientific_discipline: Mathematics > Applied Mathematics > Fluid Mechanics

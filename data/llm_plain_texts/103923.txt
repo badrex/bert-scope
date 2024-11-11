@@ -1,0 +1,10 @@
+article_id: '103923'
+revised_title: 'The Effect of Extreme Cold on the Sea-Compass'
+semantic_tags:
+  - Magnetism
+  - Navigation
+  - Sea-Compass
+  - Cold-temperature effects
+  - Christopher Middleton
+tldr: 'Captain Christopher Middleton observed that a magnetic needle used for navigation, or sea-compass, would not traverse when exposed to extreme cold in Hudson's Bay. He found that heating the compass helped it to function properly. Middleton was unsure of the cause of this phenomenon, but it was a surprising and noteworthy observation.'
+scientific_discipline: 'Environmental and Earth Sciences > Climatology'

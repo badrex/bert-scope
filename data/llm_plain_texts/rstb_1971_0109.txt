@@ -1,0 +1,10 @@
+article_id: rstb_1971_0109
+revised_title: Inheritance and Polymorphism in Mimetic Butterfly Papilio memnon
+semantic_tags:
+  - Genetics
+  - Butterfly evolution
+  - Batesian mimicry
+  - Inheritance
+  - Polymorphism
+tldr: The authors studied the genetics of the mimetic butterfly Papilio memnon, focusing on the inheritance of various female forms from Java and Sumatra. They found that these forms are determined by the same complex locus or super-gene that controls the polymorphism in the butterfly. The results suggest that the resemblance of the mimic to its model has evolved gradually through the accumulation of modifiers. The study provides further insight into the evolution of Batesian mimicry and the role of super-genes in this process.
+scientific_discipline: Biology and Life Sciences > Genetics and Evolution

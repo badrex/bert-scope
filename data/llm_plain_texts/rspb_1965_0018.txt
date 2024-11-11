@@ -1,0 +1,10 @@
+article_id: 'rspb_1965_0018'
+revised_title: 'Electrode Processes and Semi-conduction in Crustacean Cuticle'
+semantic_tags:
+  - Electrochemistry
+  - Biology
+  - Crustacea
+  - Organic semi-conductors
+  - Electrode processes
+tldr: The authors investigated the presence of semi-conducting materials in the biological membrane of crustaceans and their potential for electrode processes. They discovered that crustacean cuticle, which consists of several layers, exhibits electronic conduction and can act as an electrode. The study found that the potential difference in crustaceans, such as Palaemonetes varians and Carcinus maenas, is established by ionic diffusion and active transport, and that electrode processes occur at the surfaces of these crustaceans. This research has implications for understanding the electrical potentials in biological materials and the role of organic semi-conductors in their functioning.
+scientific_discipline: Biology > Electrochemistry

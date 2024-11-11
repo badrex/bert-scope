@@ -1,0 +1,11 @@
+article_id: rspa_1960_0057
+revised_title: Rapid Convergence Procedure for Solving Subsonic Potential Flow Equations
+semantic_tags:
+  - Fluid Dynamics
+  - Aerodynamics
+  - Potential Flow
+  - Approximation Methods
+  - Analytic Solutions
+tldr: The authors present a rapidly convergent procedure for solving the equations of subsonic potential flow, focusing on analytic solutions. They discuss various approximations and their accuracy, demonstrating the effectiveness of the method for two-dimensional bodies with low Mach numbers. The method can also be applied to three-dimensional bodies that are nearly axisymmetric.
+scientific_discipline: Mathematics > Applied Mathematics
+```

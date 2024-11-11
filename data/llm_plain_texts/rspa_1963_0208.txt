@@ -1,0 +1,10 @@
+article_id: rspa_1963_0208
+revised_title: Lattice Dynamics and Effective Potential in Sodium
+semantic_tags:
+  - Lattice dynamics
+  - Sodium
+  - Effective potential
+  - Phonon dispersion relation
+  - Crystallography
+tldr: The author analyzes the lattice dynamics of sodium using the method of orthogonalized plane waves and the concept of an effective potential. They find that the experimental data on phonon dispersion relations in sodium is consistent with the effective potential concept and can be used to interpret force constants and electron screening effects.
+scientific_discipline: Physics > Solid State Physics

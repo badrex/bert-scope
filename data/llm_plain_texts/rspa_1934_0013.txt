@@ -1,0 +1,10 @@
+article_id: rspa_1934_0013
+revised_title: X-ray Measurements of Bismuth Thermal Expansion
+semantic_tags:
+  - Crystallography
+  - Thermal expansion
+  - X-ray diffraction
+  - Allotropy
+  - Bismuth
+tldr: The authors conducted X-ray measurements on the thermal expansion of bismuth from room temperature to just below its melting point. They found no evidence of discrepancies in the thermal expansion coefficients using X-ray and optical methods. The study also revealed a small discontinuity in the coefficient of expansion at 75°C, which may be associated with an allotropic change in the bismuth crystal lattice.
+scientific_discipline: Physics > Crystallography

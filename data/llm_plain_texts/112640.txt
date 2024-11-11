@@ -1,0 +1,10 @@
+article_id: 112640
+revised_title: On Poisson's Solution of the Equations of Fluid Motion
+semantic_tags:
+  - Fluid dynamics
+  - Partial differential equations
+  - Mathematical physics
+  - Acoustics
+  - Theoretical physics
+tldr: The author examines Poisson's solution of the equations of fluid motion and the transmission of sound through a cylindrical tube. They argue that the failure to derive a solution containing two arbitrary functions from the equations of motion of the received theory is not due to difficulties of integration but rather the defective law of pressure. The author presents a new solution that satisfies certain conditions and discusses the implications for the theory of partial differential equations.
+scientific_discipline: Mathematics > Applied Mathematics

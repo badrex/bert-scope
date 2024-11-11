@@ -1,0 +1,10 @@
+article_id: rspa_1915_0053
+revised_title: Deep-Sea Water Waves Caused by Local Surface Disturbances
+semantic_tags:
+  - Fluid dynamics
+  - Wave propagation
+  - Hydrodynamics
+  - Bessel functions
+  - Water waves
+tldr: The author investigates deep-sea water waves caused by local disturbances on or beneath the surface. They use mathematical equations and Bessel functions to analyze the oscillations and wave propagation in water. The study focuses on the effects of the initial disturbance's size and shape on the resulting waves.
+scientific_discipline: Physics > Fluid dynamics

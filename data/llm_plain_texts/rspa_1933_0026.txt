@@ -1,0 +1,10 @@
+article_id: rspa_1933_0026
+revised_title: Electrode Processes: Reversible Reduction and Oxidation
+semantic_tags:
+  - Electrochemistry
+  - Kinetics
+  - Electrode processes
+  - Methylene blue
+  - Quinhydrone
+scientific_discipline: Chemistry > Electrochemistry
+tldr: The authors investigated the kinetics of electrode processes, specifically reversible reduction and oxidation processes, using methylene blue and quinhydrone solutions at platinum electrodes. They observed a transition phenomenon in the current-voltage curves and analyzed the effect of current density, concentration, and time on the transition times and the amount of electricity required for the transition. Their findings contribute to the understanding of electrolytic reductions and oxidations.

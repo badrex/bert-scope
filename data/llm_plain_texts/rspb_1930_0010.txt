@@ -1,0 +1,10 @@
+article_id: 'rspb_1930_0010'
+revised_title: 'Delayed Lethal Effect of Radium on Tissue Cultures In Vitro'
+semantic_tags:
+  - Radiation Biology
+  - Tissue Culture
+  - Radium
+  - Gamma Rays
+  - Cell Biology
+tldr: The authors conducted experiments to study the delayed lethal effect of gamma rays from radium on tissue cultures in vitro. They found that the delayed lethal effect occurred sooner in cultures exposed to higher intensities of radiation for shorter periods compared to those exposed to lower intensities for longer periods. The results indicate that the product of milligrammes of radium and hours of exposure is crucial in determining the delayed lethal effect.
+scientific_discipline: Biology and Life Sciences > Cell Biology

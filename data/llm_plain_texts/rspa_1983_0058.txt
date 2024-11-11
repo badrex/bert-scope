@@ -1,0 +1,10 @@
+article_id: 'rspa_1983_0058'
+revised_title: 'Monocular Depth Perception from Optical Flow: A Space-Time Signal Processing Approach'
+semantic_tags:
+  - Computer Vision
+  - Optical Flow
+  - Monocular Depth Perception
+  - Space-Time Signal Processing
+  - Edge Detection
+tldr: This article presents a theory of monocular depth determination using space-time signal processing. The authors generalize the Marr-Hildreth edge detection operator to incorporate the effect of finite temporal resolution. They introduce a new operator, called D2G, which can be used to infer the depth of an object when the observer and object are in relative motion. The authors propose that both mechanisms, spatial and temporal resolution, and the cross-over effect can be used to extract depth information in computer vision systems and may be related to depth perception in humans.
+scientific_discipline: Engineering and Technology > Computer Science > Computer Vision

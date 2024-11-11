@@ -1,0 +1,10 @@
+article_id: rspa_1936_0201
+revised_title: 'Experimental Investigation of Lithium-7 Isotope Transmutation by Deuterons'
+semantic_tags:
+  - Nuclear physics
+  - Isotope transmutation
+  - Lithium-7
+  - Deuterons
+  - Nuclear reactions
+tldr: The authors conducted experiments to investigate the transmutation of lithium-7 isotope when bombarded by deuterons. They found no evidence of a stable helium-5 nucleus being produced in the process. The study also introduced an improved experimental method using two counters to detect and analyze the continuous distribution of particles.
+scientific_discipline: Physics > Nuclear Physics

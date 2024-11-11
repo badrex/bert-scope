@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0081'
+revised_title: 'Exploring Chlorophyll Fluorescence Measures and Photosynthetic Efficiency'
+semantic_tags:
+  - Photosynthesis
+  - Chlorophyll fluorescence
+  - Quantum efficiency
+  - Plant adaptation
+  - Plant physiology
+tldr: Researchers studied chlorophyll fluorescence in plants to measure photosynthetic efficiency. They found that different plant species can adapt to various light conditions and that chlorophyll fluorescence can be used to estimate gas exchange rates. The relationship between chlorophyll fluorescence and photosynthetic efficiency can be used to validate and improve methods for measuring these rates in plants.
+scientific_discipline: Biology and Life Sciences > Plant Biology

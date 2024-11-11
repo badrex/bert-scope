@@ -1,0 +1,10 @@
+article_id: rstb_1976_0090
+revised_title: Early Visual Information Processing: The Primal Sketch and Figure-Ground Separation
+semantic_tags:
+  - Visual Information Processing
+  - Primal Sketch
+  - Figure-Ground Separation
+  - Edge Detection
+  - Image Analysis
+tldr: This article introduces a theory of early visual information processing, focusing on the computation of the primal sketch, a primitive but rich description of the grey-level changes present in an image. The author argues that this description is obtained from the intensity array by fixed techniques and can be used for further processing, such as figure-ground separation. The theory is implemented, and examples of images at various stages of analysis are provided.
+scientific_discipline: Psychology > Cognitive Psychology

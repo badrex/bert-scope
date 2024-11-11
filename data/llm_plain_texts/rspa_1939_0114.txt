@@ -1,0 +1,10 @@
+article_id: 'rspa_1939_0114'
+revised_title: 'Correction to Fluctuations in Electromagnetic Radiation'
+semantic_tags:
+  - Electromagnetic Radiation
+  - Quantum Mechanics
+  - Statistical Mechanics
+  - Thermodynamics
+  - Quantum Field Theory
+tldr: The authors correct a mistake in their previous paper on fluctuations in electromagnetic radiation. They provide a revised equation and explain that the essential difference in the calculation comes from the average over all directions of polarization. The corrected formula shows that the term previously interpreted as the fluctuation of zero energy drops out, leading to the same result as the thermodynamical treatment of a closed system.
+scientific_discipline: Physics > Electromagnetic Theory

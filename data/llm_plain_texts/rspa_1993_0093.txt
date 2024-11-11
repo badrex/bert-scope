@@ -1,0 +1,10 @@
+article_id: rspa_1993_0093
+revised_title: 'Maximizing Entropy in Powder Diffraction and Electron Crystallography'
+semantic_tags:
+  - Crystallography
+  - Powder diffraction
+  - Electron crystallography
+  - Maximum entropy method
+  - Phase determination
+scientific_discipline: Physics > Optics
+tldr: The authors apply the maximum entropy method to powder diffraction and electron crystallography, demonstrating its effectiveness in phase determination and structure analysis. They explain the process of phasing and provide examples of its application in various fields, including X-ray powder diffraction, electron crystallography, and macromolecular crystallography. The method has proven to be sensitive and capable of handling complex data sets with overlapping reflections.

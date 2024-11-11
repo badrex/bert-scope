@@ -1,0 +1,10 @@
+article_id: 'rspa_1932_0067'
+revised_title: 'Determination of Heat of Dissociation of Fluorine and Latent Heat of Vaporization of Lithium'
+semantic_tags:
+  - 'Chemistry'
+  - 'Thermodynamics'
+  - 'Heat of Dissociation'
+  - 'Latent Heat'
+  - 'Vaporization'
+tldr: 'The authors determined the heat of dissociation of fluorine and the latent heat of vaporization of lithium by analyzing the absorption spectra of alkali fluorides in the gaseous state. They used a method developed by Frank and calculated the atomic heat of dissociation. The results showed that the latent heat of vaporization of lithium is approximately 105.5 kilo-cals.'
+scientific_discipline: Chemistry > Thermodynamics

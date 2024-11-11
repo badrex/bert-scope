@@ -1,0 +1,10 @@
+article_id: rspa_1933_0033
+revised_title: Fluorescent Excitation of Mercury by Resonance Frequency and Lower Frequencies
+semantic_tags:
+  - Atomic physics
+  - Fluorescence
+  - Mercury spectroscopy
+  - Resonance frequency
+  - Atomic absorption
+scientific_discipline: Physics > Atomic and Molecular Physics
+tldr: The author investigates the fluorescent excitation of mercury using resonance frequency and lower frequencies. They discover that the resonance line can be excited without exact coincidence with the exciting frequency and that 2 3Pj atoms are not formed in appreciable numbers when the interval between the excitation and resonance line is increased. The study provides insights into the behavior of mercury vapor and its fluorescence under different conditions.

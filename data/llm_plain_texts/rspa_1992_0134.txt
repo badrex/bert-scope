@@ -1,0 +1,10 @@
+article_id: rspa_1992_0134
+revised_title: Thermoplasticity Model for Concrete under Transient Temperature and Biaxial Stress
+semantic_tags:
+  - Thermoplasticity
+  - Concrete
+  - Biaxial stress
+  - Transient temperature
+  - Nonlinear hardening material
+tldr: The authors developed a thermoplasticity model for concrete under transient temperature and biaxial stress, addressing the limitations of existing algorithms for perfectly plastic materials. They used an integration scheme derived from the Euler backward scheme to integrate the rate equations and analyzed existing biaxial data to investigate the effect of sustained load on concrete's deformational response under biaxial loading and elevated temperature.
+scientific_discipline: Engineering and Technology > Materials Science

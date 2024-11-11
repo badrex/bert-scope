@@ -1,0 +1,10 @@
+article_id: 'rspb_1980_0043'
+revised_title: 'Investigating Prokaryotic Cell-Water Relations using Gas Vesicles'
+semantic_tags:
+  - Cell biology
+  - Water relations
+  - Prokaryotes
+  - Gas vesicles
+  - Osmotic relations
+tldr: The article describes a method to investigate the water relations of gas-vacuolate prokaryotes using pressure-sensitive gas vesicles. The gas vesicles can be used to measure turgor pressure, elastic modulus, hydraulic conductivity, and membrane permeability in prokaryotic cells. This method can be applied to various gas-vacuolate blue-green algae and bacteria with appreciable turgor pressure. The author presents the experimental methods, underlying theory, and potential sources of error, along with sample results from investigations on Anabaena flos-aquae.
+scientific_discipline: Biology and Life Sciences > Cell Biology

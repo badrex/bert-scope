@@ -1,0 +1,10 @@
+article_id: rspa_1952_0109
+revised_title: 'Vibration-Rotation Bands of Methane: A Detailed Analysis'
+semantic_tags:
+  - Spectroscopy
+  - Methane
+  - Vibration-rotation bands
+  - Infra-red absorption
+  - Coriolis interactions
+tldr: The authors studied the complex vibration-rotation bands of methane using infra-red absorption spectroscopy. They analyzed the rotational structure and found that the complex spectrum arises from overlapping transitions and energy levels split by mutual interactions. The authors also used the Coriolis sum rule to make a detailed analysis of the bands, providing insights into the behavior of methane's vibration-rotation bands.
+scientific_discipline: Chemistry > Spectroscopy

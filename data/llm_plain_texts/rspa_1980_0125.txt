@@ -1,0 +1,10 @@
+article_id: rspa_1980_0125
+revised_title: Thermodynamics of Mixed Crystals of Ammonium Chloride and Ammonium Bromide
+semantic_tags:
+  - Thermodynamics
+  - Mixed crystals
+  - Ammonium chloride
+  - Ammonium bromide
+  - Heat capacity
+tldr: The authors measured the heat capacity of a mixed crystal of ammonium chloride and ammonium bromide, finding that it undergoes a transition at 271.2 K and a second transition to a face-centered cubic crystal at 382.8 K. The study provides thermodynamic parameters for the mixed crystal and contributes to the understanding of its properties.
+scientific_discipline: Chemistry > Thermodynamics and Statistical Mechanics

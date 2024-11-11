@@ -1,0 +1,10 @@
+article_id: rspa_1988_0066
+revised_title: 'Forced Oscillations in a Self-Oscillating Bimolecular Surface Reaction Model'
+semantic_tags:
+  - Nonlinear Dynamics
+  - Chemical Engineering
+  - Bifurcation Theory
+  - Forced Oscillations
+  - Surface Reaction Models
+tldr: The authors study the effects of forced oscillations in a simple isothermal, bimolecular surface reaction model. They find various responses, including subharmonic, quasi-periodic, and chaotic solutions, and identify different bifurcation features such as folds, period doubling, Hopf bifurcations, homoclinic tangles, and codimension-two bifurcations. This research can help understand the response of nonlinear systems and has potential applications in chemical engineering, process control, and analytical laboratory studies.
+scientific_discipline: Mathematics > Nonlinear Dynamics

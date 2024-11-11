@@ -1,0 +1,10 @@
+article_id: rsta_1977_0145
+revised_title: 'Semi-classical Mechanics in Phase Space: A Study of Wigner's Function'
+semantic_tags:
+  - Quantum Mechanics
+  - Phase Space
+  - Wigner Function
+  - Classical Limit
+  - Non-Integrable Systems
+tldr: This article explores the semi-classical structure of Wigner functions representing bound energy eigenstates for systems with degrees of freedom. It discusses the classical limit and the semi-classical limiting form of the Wigner function for integrable and non-integrable systems. The study reveals that Planck's constant plays a different role in integrable and non-integrable systems, imposing oscillatory quantum fine structure on a smooth classical background in the former and quantum smoothing on a classical background with fine structure on arbitrarily small scales in the latter.
+scientific_discipline: Physics > Quantum Mechanics

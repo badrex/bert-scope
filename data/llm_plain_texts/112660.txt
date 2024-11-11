@@ -1,0 +1,10 @@
+article_id: 112660
+revised_title: 'Exploring the Efficiency of Magneto-Electric Machines and the Role of Shunts'
+semantic_tags:
+  - Electromagnetism
+  - Electrical engineering
+  - Shunts
+  - Electromagnetic machines
+  - Varley's experiments
+tldr: The author, C.F. Varley, conducted experiments with magneto-electric machines and discovered that adding a shunt to the electromagnet increases the power. He also found that the force expended in the shunt is wasted in heat, and suggested using a secondary wire or a copper cylinder to maintain magnetism and increase power. Varley discussed the differences between Wilde's, Wheatstone's, and Siemens's machines and proposed his own improvements.
+scientific_discipline: Engineering and Technology > Electrical engineering

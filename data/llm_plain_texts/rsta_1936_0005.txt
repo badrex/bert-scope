@@ -1,0 +1,10 @@
+article_id: rsta_1936_0005
+revised_title: Magnetic Behaviour of Paramagnetic Ions in Crystals
+semantic_tags:
+  - Crystal magnetism
+  - Paramagnetic ions
+  - Magnetic anisotropy
+  - Stark splitting
+  - Magnetic properties of crystals
+tldr: The authors investigate the magnetic behavior of paramagnetic ions in crystals, focusing on the -state ions. They discuss the magnetic anisotropy and the influence of crystalline electric fields on the energy levels of the ions. The study includes measurements on single crystals of manganous and ferric salts, and the results are related to entropy and specific heat at low temperatures.
+scientific_discipline: Physics > Condensed Matter Physics

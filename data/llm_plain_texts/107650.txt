@@ -1,0 +1,10 @@
+article_id: 107650
+revised_title: 'Temperature Variations in the Caribbean Sea Depths'
+semantic_tags:
+  - Oceanography
+  - Thermodynamics
+  - Temperature measurement
+  - Sea water properties
+  - Deep sea exploration
+tldr: Edward Sabine conducted an experiment to measure the temperature at considerable depths in the Caribbean Sea. He used a self-registering thermometer enclosed in an iron cylinder to avoid any external influences. The experiment showed a significant decrease in temperature as the depth increased, with the surface water temperature being around 82°F to 83°F, while the temperature at a depth of over 1,000 fathoms was around 45°F. This study provides valuable information on the temperature variations in the deep sea and the potential effects of heat on water density.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

@@ -1,0 +1,10 @@
+article_id: 'rspb_1994_0069'
+revised_title: 'Immigration and Asynchronous Cycles in Chaotic Populations'
+semantic_tags:
+  - Population Dynamics
+  - Chaotic Systems
+  - Migration
+  - Asynchronous Cycles
+  - Species Persistence
+tldr: The author investigates how low levels of immigration between chaotic populations can reduce system extinctions by inducing asynchronous regular cycles. They find that populations in a weakly linked system often exhibit simple cycles or remain at a stable level, with a reduced probability of falling to low population levels. This effect allows for recolonization following the extinction of a subset of the populations, making it more difficult for all populations to go extinct.
+scientific_discipline: Biology and Life Sciences > Population Dynamics

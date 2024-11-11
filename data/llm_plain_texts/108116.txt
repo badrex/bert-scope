@@ -1,0 +1,10 @@
+article_id: 108116
+revised_title: On the Determination of Secular Inequalities in Celestial Mechanics
+semantic_tags:
+  - Celestial mechanics
+  - Astronomy
+  - Orbital dynamics
+  - Perturbation theory
+  - Mathematical physics
+tldr: The author investigates the terms in the disturbing function of the fourth order concerning eccentricities and inclinations that cause secular inequalities in celestial mechanics. They develop a method to calculate these terms and provide analytical expressions for the secular inequalities resulting from them. This work contributes to a better understanding of the behavior of celestial bodies and their orbits.
+scientific_discipline: Astronomy > Celestial Mechanics

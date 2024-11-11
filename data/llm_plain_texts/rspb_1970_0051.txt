@@ -1,0 +1,10 @@
+article_id: 'rspb_1970_0051'
+revised_title: 'Cell Fusion and Gene Action: The Reactivation of Erythrocyte Nuclei'
+semantic_tags:
+  - Gene expression
+  - Cell fusion
+  - Nucleus reactivation
+  - Heterokaryon
+  - Gene regulation
+tldr: Researchers used cell fusion to study gene action and found that the reactivation of a hen erythrocyte nucleus in a heterokaryon is influenced by signals from the recipient cell's cytoplasm. The process of switching genes on in a dormant nucleus is slow, and a nucleus does not transfer genetic information to the cytoplasm until it develops a nucleolus and begins to synthesize ribosomal RNA.
+scientific_discipline: Biology and Life Sciences > Genetics and Gene Expression

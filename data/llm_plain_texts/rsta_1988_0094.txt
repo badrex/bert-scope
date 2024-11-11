@@ -1,0 +1,10 @@
+article_id: 'rsta_1988_0094'
+revised_title: 'VLSI Technology and Its Impact on Computer Architecture'
+semantic_tags:
+  - Computer Architecture
+  - VLSI Technology
+  - Multiprocessors
+  - Programming Languages
+  - Occam Language
+tldr: The article discusses the influence of Very-Large-Scale Integration (VLSI) technology on computer architecture, particularly the development of multiprocessor systems. It highlights the benefits of using VLSI technology, such as reduced costs and increased processing power, and introduces the Occam programming language designed for parallel computing.
+scientific_discipline: Engineering and Technology > Computer Architecture

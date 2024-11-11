@@ -1,0 +1,10 @@
+article_id: rspa_1933_0096
+revised_title: 'Revisiting the Theory of Film Lubrication'
+semantic_tags:
+  - Fluid mechanics
+  - Lubrication theory
+  - Tribology
+  - Fluid dynamics
+  - Bearing design
+tldr: The authors analyze the limitations of existing theories of film lubrication and propose a new approach that considers the development of the oil film and its boundaries. They argue that previous assumptions, such as the extent of the lubricating film being determined by the brass, are not accurate and can lead to discrepancies between calculation and experiment. The new approach suggests that the film's boundaries should not be determined by the extent of the brass, leading to a more accurate understanding of the behavior of lubricated surfaces.
+scientific_discipline: Engineering and Technology > Fluid mechanics

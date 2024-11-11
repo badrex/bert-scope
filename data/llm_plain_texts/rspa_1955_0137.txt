@@ -1,0 +1,10 @@
+article_id: rspa_1955_0137
+revised_title: Angular Distribution of Multiply-Scattered Gamma-Radiation
+semantic_tags:
+  - Radiation Scattering
+  - Gamma Radiation
+  - Ionization
+  - Radiation Shielding
+  - Angular Distribution
+tldr: The authors measured the intensity of ionization from a 500 curie 6Co source at various distances using condenser integrating ion chambers. They found that 26% of the unshielded dose at 100 yards and 52% at 400 yards was due to scattered radiation arriving outside the main beam. The study suggests that equilibrium is reached at about 600 yards with values only slightly above those quoted for 400 yards.
+scientific_discipline: Physics > Nuclear and Particle Physics

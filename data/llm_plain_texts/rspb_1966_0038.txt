@@ -1,0 +1,10 @@
+article_id: 'rspb_1966_0038'
+revised_title: 'Human Population Structure and Evolution: Spatial Variations in Gene Frequencies'
+semantic_tags:
+  - Population Genetics
+  - Human Evolution
+  - Gene Frequency
+  - Population Density
+  - Migration
+tldr: The author investigates the spatial variations in gene frequencies in a region of Northern Italy, focusing on population density and migration. They find that gene frequencies vary more in areas with lower population densities, suggesting that isolation is the main cause of these variations. The study also reveals a correlation between the frequency of consanguineous marriages and population density, which can be used to predict the amount of genetic variation due to random sampling.
+scientific_discipline: Biology and Life Sciences > Population Genetics

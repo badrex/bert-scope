@@ -1,0 +1,10 @@
+article_id: rspa_1990_0131
+revised_title: Clifford Algebras and Vector-Valued Rational Forms
+semantic_tags:
+  - Clifford Algebras
+  - Vector-Valued Rational Forms
+  - Pade Approximants
+  - Continued Fractions
+  - Vector Sequences
+scientific_discipline: Mathematics > Algebra
+tldr: The article explores the use of Clifford algebras as a framework for constructing vector-valued rational forms, offering advantages over the usual scalar theory. It demonstrates how these forms can be used to create vector-valued Pade approximants and rational interpolants, and shows the close connection between these constructs and generalized inverse rational forms. The article also provides examples of simple vector-valued Pade approximants and their properties.

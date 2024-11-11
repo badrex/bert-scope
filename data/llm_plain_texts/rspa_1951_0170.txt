@@ -1,0 +1,10 @@
+article_id: rspa_1951_0170
+revised_title: 'A Comparison of Theory and Experiment for Photo-Ionization Cross-Sections: Neon and Elements from Boron to Neon'
+semantic_tags:
+  - Atomic Physics
+  - Photo-ionization
+  - Cross-sections
+  - Astrophysics
+  - Quantum Mechanics
+tldr: The authors compare the theory and experiment of photo-ionization cross-sections for neon and elements from boron to neon. They use Hartree-Fock wave functions and two formulae, dipole length and dipole velocity, to calculate the cross-sections. The results provide insights into the accuracy of the atomic model used and its sensitivity to the approximation of wave functions. This research is important for understanding the ionization equilibrium in interstellar space and the formation of ionized layers in the Earth's upper atmosphere.
+scientific_discipline: Physics > Atomic Physics

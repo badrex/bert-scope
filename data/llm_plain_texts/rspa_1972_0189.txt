@@ -1,0 +1,10 @@
+article_id: rspa_1972_0189
+revised_title: Faceting in Dilute Oxygen Atmospheres of Group VIA Metals: A Study of Surface Physics
+semantic_tags:
+  - Surface Physics
+  - Surface Chemistry
+  - Faceting
+  - Oxidation
+  - Metal Surfaces
+tldr: This article investigates the faceting process in group VIA metals, such as chromium, molybdenum, and tungsten, when heated in low oxygen pressures. The authors use low-energy electron diffraction (LEED) and reflection mode high-energy electron diffraction (RHEED) to study the changes in surface topography and the formation of facets. They discuss the effect of faceting on surface parameters and its relevance to the growth of oxide films on metal surfaces.
+scientific_discipline: Physics > Materials Science

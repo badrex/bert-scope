@@ -1,0 +1,10 @@
+article_id: 107982
+revised_title: 'Advancements in Fluid Lens Refracting Telescope Construction'
+semantic_tags:
+  - Telescope design
+  - Fluid lens
+  - Achromatism
+  - Spherical aberration
+  - Optics
+tldr: The author, Peter Barlow, describes the construction of a fluid lens refracting telescope with an aperture of eight inches and a length of eight feet and three-quarters. The telescope's front lens is composed of two plano-convex lenses, and the fluid lens corrects for color and spherical aberration. The author also discusses the dispersive ratio between the fluid and crown glass, as well as the radii of curvature of the lenses.
+scientific_discipline: Engineering and Technology > Optics and Optical Instruments

@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0019'
+revised_title: 'Dynamics of Divergence in Mean Fitness among Initially Identical Populations'
+semantic_tags:
+  - Population genetics
+  - Evolutionary biology
+  - Genetic drift
+  - Natural selection
+  - Mutation
+tldr: 'Theoretical analysis of divergence in mean fitness between initially identical populations shows that two distinct dynamics can occur: coincident-event and isolated-event collective replacement. The dynamics depend on the rate of beneficial mutations and the strength of natural selection. This study complements experimental studies of adaptation and divergence, providing insights into the predictability of evolution and the potential for divergence within populations.'
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

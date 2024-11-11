@@ -1,0 +1,10 @@
+article_id: 'rspa_1946_0022'
+revised_title: 'Effect of Surface-Active Substances on Hexyl Resorcinol Penetration in Ascaris lumbricoides'
+semantic_tags:
+  - Surface-Active Substances
+  - Penetration
+  - Ascaris lumbricoides
+  - Hexyl Resorcinol
+  - Biological Systems
+tldr: 'The study investigates the impact of surface-active substances on the penetration of hexyl resorcinol into Ascaris lumbricoides. It is found that low concentrations of soap accelerate the penetration, while high concentrations cause complete inhibition. The explanation for this behavior involves micelle formation, which competes with the biological interface for the drug, reducing the rate and leading to inhibition. This explanation is applicable to other biological systems.'
+scientific_discipline: Biology and Life Sciences > Parasitology

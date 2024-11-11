@@ -1,0 +1,10 @@
+article_id: rspa_1966_0037
+revised_title: Irreducible Representations of the Poincaré Group and Particle States
+semantic_tags:
+  - Group Theory
+  - Particle Physics
+  - Poincaré Group
+  - Irreducible Representations
+  - Quantum Mechanics
+tldr: The article discusses the concept of irreducible representations of the Poincaré group, which is essential for understanding particle physics. It explains how these representations help in classifying states and describing interactions between particles. The author also introduces the little group, which is a subgroup of the Poincaré group, and its connection with the spin of particles.
+scientific_discipline: Physics > Particle Physics

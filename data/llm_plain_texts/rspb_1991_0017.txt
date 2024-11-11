@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0017'
+revised_title: 'Mitochondrial DNA Resolves Deep Branches in Bird Phylogenetics'
+semantic_tags:
+  - Molecular Biology
+  - Bird Evolution
+  - Mitochondrial DNA
+  - Phylogenetics
+  - DNA Hybridization
+tldr: Researchers used mitochondrial DNA sequences to resolve deep branches in the genealogical tree for perching birds. They sequenced a 924 base-pair segment of the cytochrome b gene in 13 species representing major groups within the order of perching birds. The mitochondrial tree shows broad concordance with the tree based on nuclear DNA hybridization, but parsimony and maximum likelihood methods suggest a close kinship between thrushes and Australian babblers, in agreement with traditional morphological classification.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

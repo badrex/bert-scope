@@ -1,0 +1,10 @@
+article_id: 'rstb_1994_0114'
+revised_title: 'Exploring Temporal Variability in Animal Abundances: Measures, Methods, and Patterns'
+semantic_tags:
+  - Population Biology
+  - Ecological Statistics
+  - Animal Abundance
+  - Population Density
+  - Time Series Analysis
+tldr: This article reviews the different measures, methods, and patterns of temporal variability in animal abundances. It discusses the importance of understanding population size and density, the impact of sampling and trend errors, and the distinction between structural and sampling zeros. The authors provide suggestions for improving the basis for comparative analyses and highlight the need for clear definitions and appropriate data collection methods.
+scientific_discipline: Biology and Life Sciences > Ecology

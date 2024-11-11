@@ -1,0 +1,10 @@
+article_id: 'rspb_1981_0001'
+revised_title: 'Directional Selectivity and Its Applications in Early Visual Processing'
+semantic_tags:
+  - Visual Processing
+  - Motion Perception
+  - Directional Selectivity
+  - Neurophysiology
+  - Computational Vision
+tldr: The authors explore the computational requirements for detecting and measuring the direction of motion in visual processing. They discuss the construction of directionally selective units and their use in separating moving objects from one another and the background. The study also proposes a specific model of information processing by retinal and cortical cells, leading to several psychophysical and neurophysiological predictions.
+scientific_discipline: Biology and Life Sciences > Neuroscience

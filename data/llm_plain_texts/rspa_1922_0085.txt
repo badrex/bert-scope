@@ -1,0 +1,10 @@
+article_id: rspa_1922_0085
+revised_title: 'Einstein's Theory of Gravitational Waves'
+semantic_tags:
+  - Gravitational Waves
+  - General Relativity
+  - Einstein's Equations
+  - Riemann-Christoffel Tensor
+  - Gravitational Disturbances
+tldr: The author investigates the propagation of gravitational waves as discussed by Einstein. They find that genuine gravitational waves, called transverse-transverse waves, travel at the speed of light, while other types of waves, such as longitudinal-longitudinal and longitudinal-transverse waves, do not have a fixed velocity. The author also examines the source of these waves and concludes that they arise from secondary disturbances in the distribution of matter.
+scientific_discipline: Physics > General Relativity

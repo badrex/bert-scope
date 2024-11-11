@@ -1,0 +1,10 @@
+article_id: rspa_1914_0078
+revised_title: 'Magnetic Field Effects on Explosion Flames'
+semantic_tags:
+  - Plasma physics
+  - Explosions
+  - Magnetic fields
+  - Gas combustion
+  - High-speed photography
+tldr: The authors conducted experiments to study the effects of a magnetic field on the propagation of explosion flames. They used high-speed photography to capture the movement of flames in various gaseous mixtures with and without a magnetic field. The results showed that the magnetic field had no visible influence on the flames' velocity, intensity, or propagation. This research contributes to understanding the role of electrons and ionization in explosions.
+scientific_discipline: Physics > Plasma Physics

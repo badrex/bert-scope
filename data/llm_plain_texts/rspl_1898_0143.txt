@@ -1,0 +1,10 @@
+article_id: 'rspl_1898_0143'
+revised_title: 'Phosphorus Detection and Localization in Animal and Vegetable Tissues'
+semantic_tags:
+  - Biochemistry
+  - Plant Physiology
+  - Stomatal Transpiration
+  - Phosphorus Localization
+  - Plant Tissue Analysis
+tldr: The author describes a method to detect and localize phosphorus in animal and vegetable tissues. The method relies on the fact that stomatal inspiration in adult leaves affects the amount of watery vapor released, which can be used as an index of stomatal condition. The author uses a hygroscope, a device that demonstrates stomatal transpiration, to measure the degree of stomata opening and phosphorus presence in plant tissues.
+scientific_discipline: Biology and Life Sciences > Plant Physiology

@@ -1,0 +1,10 @@
+article_id: rspa_1993_0030
+revised_title: 'Improved Error Bounds for Asymptotic Expansions in the Method of Steepest Descents'
+semantic_tags:
+  - Asymptotic Expansions
+  - Error Bounds
+  - Steepest Descents
+  - Mathematical Analysis
+  - Applied Mathematics
+tldr: The author presents new error bounds for asymptotic expansions in the method of steepest descents, which are easier to compute than previous bounds. These error bounds are derived from the reformulation of the method by Berry and Howls and can be applied to various asymptotic expansions, such as those arising from the Pearcey integral, the Airy function, the modified Bessel function, and the integral of the Airy function.
+scientific_discipline: Mathematics > Applied Mathematics

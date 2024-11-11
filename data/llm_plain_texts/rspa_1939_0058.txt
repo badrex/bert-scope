@@ -1,0 +1,10 @@
+article_id: rspa_1939_0058
+revised_title: 'Experimental Determination of the Adiabatic Piezo-Optic Coefficient of Liquids'
+semantic_tags:
+  - Piezo-Optic Coefficient
+  - Adiabatic Conditions
+  - Refractive Index
+  - Liquids
+  - Optics
+tldr: The authors developed a new experimental method to determine the adiabatic piezo-optic coefficient of liquids, which is important for understanding the behavior of light in liquids under pressure. They used an interferential refractometer to measure the changes in refractive index of liquids under adiabatic conditions, providing valuable data for testing optical theories and understanding the relationship between refractivity and temperature in dense fluids.
+scientific_discipline: Physics > Optics

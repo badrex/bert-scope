@@ -1,0 +1,10 @@
+article_id: 'rstb_1994_0112'
+revised_title: 'The Role of Apoptosis in Cancer Development and Chemotherapy'
+semantic_tags:
+  - Apoptosis
+  - Cancer
+  - Chemotherapy
+  - Cellular Survival
+  - Tumor Resistance
+tldr: The article discusses the role of apoptosis in cancer development and tissue homeostasis. It highlights the importance of understanding the molecular basis for differences in the survival potential of stem cells in the colon and small intestine. The author explains how the advantageous survival of colonic stem cells, provided by the expression of bcl-2 and a muted p53 response to DNA damage, allows damaged cells to survive. This resistance to drug-induced DNA damage contributes to the inherent resistance of tumor cells to engage apoptosis, making it a key component in strategies for drug treatment of disseminated cancers.
+scientific_discipline: Biology and Life Sciences > Cell Biology

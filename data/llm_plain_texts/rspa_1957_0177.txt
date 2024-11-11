@@ -1,0 +1,10 @@
+article_id: rspa_1957_0177
+revised_title: 'Interferometry of Intensity Fluctuations in Light: Basic Theory and Correlation between Photons in Coherent Beams'
+semantic_tags:
+  - Interferometry
+  - Photon Correlation
+  - Quantum Mechanics
+  - Electromagnetic Radiation
+  - Astronomy
+tldr: The authors demonstrate a quantum-mechanical and classical theory explaining the correlation between photons in coherent beams of radiation, which is related to the wave aspect of light. They show that the correlation is directly linked to the bunching of photons due to their indistinguishability and Bose-Einstein statistics. The phenomenon has applications in astronomy, such as measuring the apparent angular diameter of stars.
+scientific_discipline: Physics > Electromagnetic Radiation

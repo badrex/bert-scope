@@ -1,0 +1,10 @@
+article_id: 'rspa_1925_0069'
+revised_title: 'Effects of Resistance in Triode Oscillating Circuits: Experiments and Analysis'
+semantic_tags:
+  - Triode
+  - Oscillating Circuit
+  - Resistance
+  - Thermionic Tubes
+  - Vector Diagrams
+tldr: 'This article presents experiments conducted on the effects of resistance in the oscillating circuit of a triode. The authors used four pairs of single-layer cylindrical coils and a maintained circuit with a crystal detector. They analyzed the relationship between the increase in resistance in the condenser branch and the decrease in the vernier condenser reading. The results provide insights into the behavior of triode circuits and contribute to the understanding of vector diagrams used with thermionic tubes.'
+scientific_discipline: Engineering and Technology > Electronics and Telecommunications

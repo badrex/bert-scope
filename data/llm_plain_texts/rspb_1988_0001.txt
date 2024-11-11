@@ -1,0 +1,10 @@
+article_id: 'rspb_1988_0001'
+revised_title: 'Amyloid-Related Cell and Alzheimer's Disease: Coated Vesicles, Coated Pits, and Amyloid Secretion'
+semantic_tags:
+  - Alzheimer's disease
+  - Amyloid-related cell
+  - Coated vesicles
+  - Coated pits
+  - Amyloid secretion
+tldr: The article investigates the relationship between the amyloid-related cell (ARC) and the extracellular amyloid deposits in Alzheimer's disease. The authors propose that ARC-coated vesicles fuse with the cell membrane, forming coated pits, which may release secretory material into the extracellular space where amyloid filaments polymerize. This suggests that the ARC may be an amyloid-secretory cell rather than a phagocytotic one.
+scientific_discipline: Biology and Life Sciences > Neuroscience

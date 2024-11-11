@@ -1,0 +1,10 @@
+article_id: rspa_1927_0169
+revised_title: 'Elasticity of Collisions Between Alpha Particles and Hydrogen Nuclei'
+semantic_tags:
+  - Nuclear Physics
+  - Atomic Collisions
+  - Particle Acceleration
+  - Nuclear Energy
+  - Experimental Physics
+tldr: 'The authors conducted experiments to study the collisions of alpha particles with hydrogen nuclei. They found that these collisions are elastic within the limits of experimental error. The study also showed that if any kinetic energy is lost during the collision, it must be less than a certain value. This research contributes to the understanding of atomic interactions and nuclear energy.'
+scientific_discipline: Physics > Nuclear Physics

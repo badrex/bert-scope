@@ -1,0 +1,10 @@
+article_id: rspa_1965_0073
+revised_title: Investigating the Starting Mechanism of the First Stage of the Ring Discharge
+semantic_tags:
+  - Plasma Physics
+  - Discharge Mechanisms
+  - High Frequency Electric Fields
+  - Gas Ionization
+  - Electrostatic Screening
+tldr: This article investigates the starting mechanism of the first stage of the ring discharge, focusing on the relative contribution of the longitudinal and circumferential components of the electric field of the exciting coil. The authors present new experimental evidence and a theory based on elementary processes, concluding that the axial uniform field is crucial for initiating the discharge.
+scientific_discipline: Physics > Plasma Physics

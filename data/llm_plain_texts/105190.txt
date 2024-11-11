@@ -1,0 +1,10 @@
+article_id: 105190
+revised_title: 'Investigating Circle Properties and Their Applications in Mathematics'
+semantic_tags:
+  - Trigonometry
+  - Circle Geometry
+  - Mathematical Theorems
+  - Algebraic Equations
+  - Calculus
+tldr: The author, John Landen, investigates several theorems related to circle geometry and their applications in resolving fractions with complex denominators. These theorems are useful in the field of calculus and can help simplify mathematical computations. Landen demonstrates how these theorems can be applied to various scenarios, including calculating the properties of circles and the values of trigonometric functions.
+scientific_discipline: Mathematics > Trigonometry

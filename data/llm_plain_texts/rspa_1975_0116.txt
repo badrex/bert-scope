@@ -1,0 +1,10 @@
+article_id: rspa_1975_0116
+revised_title: 'Three Dimensional Stagnation Point Flow into a Corner: A Study of Fluid Dynamics Near Corners'
+semantic_tags:
+  - Fluid Dynamics
+  - Stagnation Point Flow
+  - Corner Flow
+  - Navier-Stokes Equations
+  - Viscous Fluids
+tldr: This article investigates the three-dimensional laminar motion of a viscous fluid near the front stagnation point of a body when the stagnation point lies on the line of intersection of two infinite planes meeting at an angle. The study focuses on the nature of the fluid flow over the infinite surface and the influence of the corner on the distribution of streamwise vorticity and secondary flow patterns. The article presents new exact solutions of the Navier-Stokes equations for the sink-flow phenomenon at arbitrary positive values of the corner angle.
+scientific_discipline: Mathematics > Fluid Dynamics

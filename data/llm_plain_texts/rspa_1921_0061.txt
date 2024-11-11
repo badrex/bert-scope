@@ -1,0 +1,10 @@
+article_id: rspa_1921_0061
+revised_title: A New Approach to Fourier's Integral Theorem and Its Applications in Quantum Theory
+semantic_tags:
+  - Quantum Mechanics
+  - Fourier's Integral Theorem
+  - Stieltjes Integral
+  - Mathematical Physics
+  - Planck's Hypothesis
+tldr: The author extends Fourier's integral theorem to include discontinuous functions and applies it to the theory of quanta. This extension helps fill a gap in Poincaré's argument, supporting the hypothesis of quanta, which states that energy can only change in discrete amounts in a resonator.
+scientific_discipline: Mathematics > Mathematical Physics

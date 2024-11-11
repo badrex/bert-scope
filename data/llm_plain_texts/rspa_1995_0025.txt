@@ -1,0 +1,10 @@
+article_id: rspa_1995_0025
+revised_title: 'Light Propagation in Helicoidal Bianisotropic Mediums: Theory and Applications'
+semantic_tags:
+  - Electromagnetism
+  - Wave Propagation
+  - Liquid Crystals
+  - Chiral Materials
+  - Electromagnetic Constitutive Relations
+tldr: This article explores light propagation in helicoidal bianisotropic mediums, which include liquid crystals, cross-linked polymer networks, and solid thin films. The authors derive solutions for axial propagation in these mediums and demonstrate their use in obtaining the plane-wave response of a slab. The study exemplifies the analytical results through applications to four mediums.
+scientific_discipline: Physics > Electromagnetism

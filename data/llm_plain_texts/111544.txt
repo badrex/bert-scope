@@ -1,0 +1,10 @@
+article_id: 111544
+revised_title: A Sixth Memoir on Quantics: Establishing the Notion of Distance
+semantic_tags:
+  - Algebra
+  - Geometry
+  - Analytical Geometry
+  - Distance
+  - Quantics
+tldr: In this memoir, Arthur Cayley explores the geometrical theory of binary and ternary quantics, focusing on the geometry of one dimension and two dimensions. He aims to establish the notion of distance on purely descriptive principles. This work is significant for its contribution to the understanding of analytical geometry and the interpretation of quantics.
+scientific_discipline: Mathematics > Algebra and Geometry

@@ -1,0 +1,10 @@
+article_id: 'rsta_1994_0007'
+revised_title: 'Experimental Results on Atmospheric Neutrinos: A Review'
+semantic_tags:
+  - Neutrino astronomy
+  - Atmospheric neutrinos
+  - Neutrino mass
+  - Neutrino flavour mixing
+  - Particle physics
+tldr: This article reviews the experimental results on atmospheric neutrinos and their potential implications. Atmospheric neutrinos arise from the decay of mesons produced by high-energy cosmic rays interacting with Earth's atmosphere. Studies of these neutrinos can help determine their mass and flavor mixing. The article discusses the various types of experiments, their data, and the possible interpretations of these results, including the detection of contained events and upward muons. The findings have implications for understanding the properties of neutrinos and the behavior of particles in the universe.
+scientific_discipline: Physics > Particle Physics

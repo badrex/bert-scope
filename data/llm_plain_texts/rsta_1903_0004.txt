@@ -1,0 +1,10 @@
+article_id: rsta_1903_0004
+revised_title: 'Spherical Harmonics and Tesseral Functions: Applications and Integrals'
+semantic_tags:
+  - Spherical harmonics
+  - Tesseral functions
+  - Mathematical physics
+  - Applied mathematics
+  - Geometry
+tldr: The author presents a new method for reducing a function of spherical coordinates to a series of spherical harmonics, focusing on definite integrals and tesseral functions. This method simplifies calculations and allows for the determination of coefficients independently of higher-degree terms. Applications include expressing constant quantities over a sphere and solving integrals involving tesseral functions.
+scientific_discipline: Mathematics > Applied Mathematics

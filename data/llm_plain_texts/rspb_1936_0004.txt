@@ -1,0 +1,11 @@
+article_id: 'rspb_1936_0004'
+revised_title: 'Cyanide Inhibition and Inactivation of Xanthine Oxidase'
+semantic_tags:
+  - Enzyme inhibition
+  - Cyanide
+  - Xanthine oxidase
+  - Respiratory inhibitors
+  - Biochemistry
+tldr: The authors investigate the action of cyanide on xanthine oxidase, an enzyme involved in the metabolism of purines. They find that cyanide inactivates the enzyme completely, even with small concentrations, and that this inactivation is irreversible. This study highlights the unique features of cyanide inhibition on xanthine oxidase compared to other known cases of enzyme inhibition. 
+scientific_discipline: Biology and Life Sciences > Biochemistry
+```

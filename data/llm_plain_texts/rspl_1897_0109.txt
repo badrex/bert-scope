@@ -1,0 +1,11 @@
+article_id: 'rspl_1897_0109'
+revised_title: 'Biology and Thermal Conductivity of Stereum hirsutum and Substances'
+semantic_tags:
+  - Mycology
+  - Thermal conductivity
+  - Temperature effects
+  - Fungi
+  - Thermoelectrics
+tldr: The author studied the biology of Stereum hirsutum, a type of fungus, by cultivating its mycelium on sterilized wood and observing its effects on various trees. Additionally, the author conducted experiments to determine the effect of temperature on thermal conductivities of various substances, including solids, liquids, and mixtures. The results showed that solids and liquids generally decrease in conductivity with an increase in temperature, and the conductivity of a mixture lies between the conductivities of its constituents.
+scientific_discipline: Biology > Mycology
+sub_discipline: 'Environmental and Earth Sciences > Biogeography'

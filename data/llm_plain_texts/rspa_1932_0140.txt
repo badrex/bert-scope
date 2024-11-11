@@ -1,0 +1,10 @@
+article_id: rspa_1932_0140
+revised_title: Electrochemical Study of Corrosion Velocity and Salt Concentration
+semantic_tags:
+  - Electrochemistry
+  - Corrosion
+  - Salt concentration
+  - Boundary wave velocity
+  - Cathodic and anodic areas
+tldr: The authors conducted experiments to understand the velocity of corrosion from an electrochemical standpoint. They studied the effect of salt concentration on the corrosion process and found that the corrosion velocity is highest at intermediate salt concentrations. The authors also discovered that the intensity of corrosion is greatest at intermediate salt concentrations, and the boundary wave velocity is highest in producing regions. This research provides insights into the mechanisms of corrosion and can be applied to improve the understanding and prevention of corrosion in various industries.
+scientific_discipline: Chemistry > Electrochemistry

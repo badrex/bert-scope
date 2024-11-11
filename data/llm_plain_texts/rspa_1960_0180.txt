@@ -1,0 +1,10 @@
+article_id: rspa_1960_0180
+revised_title: 'Experimental Study of Friction and Wear in Abrasion of Metals'
+semantic_tags:
+  - Tribology
+  - Material Science
+  - Surface Engineering
+  - Abrasion Resistance
+  - Metal Wear
+tldr: The authors conducted experiments to study the friction and wear of various metals during abrasion. They investigated the effects of abrasive particle diameter, load, and distance of sliding on metals such as aluminum, silver, copper, platinum, iron, and molybdenum. The results showed that the friction coefficient and wear rate were influenced by the hardness of the metal and the pick-up of abrasive particles by the metal surface. The study provides a detailed understanding of the friction and wear processes during abrasion, which is essential for improving the performance of machine bearings and other abrasive processes in industry.
+scientific_discipline: Engineering and Technology > Material Science

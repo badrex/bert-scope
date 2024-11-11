@@ -1,0 +1,11 @@
+article_id: 'rspb_1995_0208'
+revised_title: 'Molecular Basis of Green-Blue Sensitivity Shift in European Eel Rod Visual Pigments'
+semantic_tags:
+  - Visual Pigments
+  - Rod Photoreceptors
+  - Opsin Gene Expression
+  - Spectral Sensitivity
+  - European Eel
+tldr: The authors discovered that the rod visual pigments in the European eel change their sensitivity when the eel matures and migrates to deep-sea breeding grounds. This change is due to a shift in the opsin component of the visual pigment molecule. The researchers used hormone injections to induce these changes and cloned and sequenced the opsin coding region from retinal mRNA. They found two distinct opsin proteins with significant amino acid substitutions that are likely involved in spectral tuning of the eel's green and blue-sensitive rod visual pigments.
+
+scientific_discipline: Biology and Life Sciences > Zoology

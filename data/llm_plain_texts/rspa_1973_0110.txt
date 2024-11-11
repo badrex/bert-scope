@@ -1,0 +1,10 @@
+article_id: rspa_1973_0110
+revised_title: 'Investigation of Point Defects in Sodium Chlorate Crystals'
+semantic_tags:
+  - Crystallography
+  - Point Defects
+  - Sodium Chlorate
+  - Impurity-Vacancy Association
+  - Defect Parameters
+tldr: This study investigates point defects in sodium chlorate crystals, focusing on the effects of divalent cation impurities. The research analyzes the electrical conductivity of the crystals and determines various defect parameters, such as impurity-vacancy association energy, jump activation energy, and formation energy of a Frenkel defect pair. The findings provide insights into the behavior of point defects in ionic crystals and their impact on conductivity.
+scientific_discipline: Physics > Crystallography

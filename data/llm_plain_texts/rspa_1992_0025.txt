@@ -1,0 +1,10 @@
+article_id: rspa_1992_0025
+revised_title: Analytic Solutions for Diffusion in Pore Systems
+semantic_tags:
+  - Diffusion
+  - Partially permeable barriers
+  - Boundary conditions
+  - Pore systems
+  - Fourier transforms
+tldr: The authors present an exact analytic solution for macroscopic diffusion of particles in one dimension impeded by any set of plane, parallel partially permeable barriers. They provide explicit results for one barrier and an infinite system of uniformly spaced barriers, and discuss various physically illuminating approximations. This model can be generalized to different pore shapes and is proposed as a convenient model for fitting experimental data.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1951_0184
+revised_title: Calculation of Latent Heats and Similar Properties in Binary and Ternary Systems
+semantic_tags:
+  - Thermodynamics
+  - Phase Equilibrium
+  - Latent Heat
+  - Binary Mixtures
+  - Ternary Systems
+tldr: The authors present a theoretical approach for calculating latent heats and other similar properties in binary and ternary systems. They derive exact thermodynamic expressions for principal latent heats, enabling the calculation of these quantities in terms of other properties. The method is applied to the evaluation of the Joule-Thomson coefficient in the two-phase region of a binary system.
+scientific_discipline: Chemistry > Thermodynamics

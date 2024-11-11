@@ -1,0 +1,10 @@
+article_id: 'rspa_1964_0154'
+revised_title: 'Isotope Shifts in the Arc Spectrum of Ruthenium: Experimental Techniques and Results'
+semantic_tags:
+  - Isotope Shifts
+  - Ruthenium Spectrum
+  - Nuclear Volume Shifts
+  - Mass Shifts
+  - Spectroscopy
+tldr: This study investigates the isotope shifts in the arc spectrum of ruthenium, focusing on the isotope shifts due to the finite size of the nucleus. The researchers used enriched isotopes and a Fabry-Perot etalon to measure the isotope shifts in six lines of the arc spectrum. They found that the isotope shifts in the line A4372 A were the largest, allowing them to estimate the proportion of mass effects and nuclear volume effects in the different lines. The study provides accurate values of the isotope shifts and offers a method to separate mass shifts from volume shifts in elements of intermediate mass.
+scientific_discipline: Physics > Spectroscopy

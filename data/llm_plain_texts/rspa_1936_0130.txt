@@ -1,0 +1,10 @@
+article_id: 'rspa_1936_0130'
+revised_title: 'Understanding Voltage and Current Surges in Transmission Lines'
+semantic_tags:
+  - Electrical Engineering
+  - Transmission Lines
+  - Voltage Surge
+  - Current Surge
+  - Power Systems
+tldr: This article discusses the problem of voltage and current surges in electrical transmission lines. It presents a corrected solution to the problem, which is important for understanding disturbances caused by lightning strikes or other sudden changes in the system. The analysis can be applied to various types of surges, including those caused by switching.
+scientific_discipline: Engineering and Technology > Electrical Engineering

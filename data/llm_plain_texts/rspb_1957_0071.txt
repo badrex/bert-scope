@@ -1,0 +1,10 @@
+article_id: 'rspb_1957_0071'
+revised_title: 'The Protective Effects of Glycerol on Mammalian Cells and Tissues During Freezing'
+semantic_tags:
+  - Cryobiology
+  - Cell preservation
+  - Glycerol
+  - Freezing
+  - Temperature
+tldr: The author investigates the effects of sub-zero temperatures on rat superior cervical ganglia and the protective influence of glycerol. They find that freezing below -15°C destroys the ganglion's function, but after treating with glycerol, the ganglion can withstand cooling to -76°C and recover normal responses to electrical stimulation. The study shows the potential for glycerol to protect mammalian cells and tissues during freezing.
+scientific_discipline: Biology and Life Sciences > Cell Biology and Physiology

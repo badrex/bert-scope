@@ -1,0 +1,10 @@
+article_id: 'rspa_1930_0064'
+revised_title: 'Raman Spectra of Organic Halogen Compounds: Analysis and Interpretation'
+semantic_tags:
+  - Raman spectroscopy
+  - Organic chemistry
+  - Halogen compounds
+  - Molecular vibrations
+  - Quantum mechanics
+tldr: The authors investigated the Raman spectra of 17 halogen compounds, including aliphatic and aromatic hydrocarbons. They discovered that the Raman lines close to the exciting mercury spectrum lines were due to the large mass of halogen atoms. The study also found that combinational frequencies or overtones were rare in these compounds, and the presence of low frequencies supported the view that they were directly attributed to the modes of molecular vibrations.
+scientific_discipline: Chemistry > Organic Chemistry

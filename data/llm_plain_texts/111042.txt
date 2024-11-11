@@ -1,0 +1,10 @@
+article_id: 111042
+revised_title: On the Mechanical Equivalent of Heat: Experimental Research
+semantic_tags:
+  - Thermodynamics
+  - Heat
+  - Mechanical Equivalent
+  - Friction
+  - Specific Heat
+tldr: J.P. Joule conducted experiments to determine the mechanical equivalent of heat in various scenarios, including the friction of water, mercury, and cast iron. He found that a constant relation exists between the work done and heat produced, which is essential for understanding thermodynamics.
+scientific_discipline: Physics > Thermodynamics

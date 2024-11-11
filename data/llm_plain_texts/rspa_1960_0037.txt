@@ -1,0 +1,10 @@
+article_id: rspa_1960_0037
+revised_title: High-Pressure Superconductivity Studies on Tin, Lead, and Thallium
+semantic_tags:
+  - Superconductivity
+  - High-pressure physics
+  - Material science
+  - Thermodynamics
+  - Physics of condensed matter
+tldr: The authors conducted experiments on tin, lead, and thallium under high pressures up to 10,000 atmospheres to study their superconductivity. They found that the transition temperatures and critical magnetic fields of these materials change with pressure, and their results support the electron-phonon interaction theory of superconductivity. The study also demonstrates the effectiveness of using high pressures in understanding the behavior of materials at the atomic level.
+scientific_discipline: Physics > Condensed Matter Physics

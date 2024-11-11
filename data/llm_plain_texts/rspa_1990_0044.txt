@@ -1,0 +1,10 @@
+article_id: rspa_1990_0044
+revised_title: 'Exact Slab Transmission Line Solutions for Dielectric Waveguiding Structures'
+semantic_tags:
+  - Waveguides
+  - Optoelectronics
+  - Transmission lines
+  - Dielectric waveguides
+  - Optics
+tldr: The authors present exact slab transmission line solutions for planar dielectric waveguiding structures, which can be used to study radiation and improve understanding of optoelectronic applications. These solutions provide accurate controls for numerical methods and offer physical insight into waveguide intersections and reflections, potentially leading to the development of new structures and devices in optoelectronics.
+scientific_discipline: Physics > Optics

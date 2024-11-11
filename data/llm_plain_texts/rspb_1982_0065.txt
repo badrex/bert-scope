@@ -1,0 +1,10 @@
+article_id: 'rspb_1982_0065'
+revised_title: 'Evolution and Structure of Ribosomes: A Review'
+semantic_tags:
+  - Ribosomes
+  - Molecular Biology
+  - Protein Structure
+  - RNA Structure
+  - Evolution
+tldr: This article discusses the structure and evolution of ribosomes, focusing on the E. coli ribosome. It covers the components, isolation, immunology, molecular masses, primary and secondary structures, tertiary structure determination methods, and crystallization of ribosomal proteins. The article highlights the strong conservation of ribosomal RNA secondary structures throughout evolution and the unique tertiary structures of ribosomal proteins.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

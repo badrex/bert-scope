@@ -1,0 +1,10 @@
+article_id: rspa_1972_0152
+revised_title: 'General Solutions for Nonlinear Realizations of Chiral Algebras'
+semantic_tags:
+  - Chiral Algebras
+  - Nonlinear Realizations
+  - Lagrangians
+  - High-Energy Theory
+  - Group Theory
+tldr: The authors present a complete and general treatment for the nonlinear realizations of chiral algebras and their associated invariant Lagrangians. They provide all transformation functions and covariant derivatives in a closed form, focusing on the physically important cases of SU(2) and SU(3). This work contributes to the understanding of current algebras in chiral and high-energy theory.
+scientific_discipline: Physics > Group Theory

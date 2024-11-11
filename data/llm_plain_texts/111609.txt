@@ -1,0 +1,10 @@
+article_id: 111609
+revised_title: On the Algebraic Foundations of Geometry and Quaternions
+semantic_tags:
+  - Algebra
+  - Geometry
+  - Quaternions
+  - Coordinate Geometry
+  - Vector Calculus
+tldr: The author presents a comprehensive analysis of the algebraic foundations of geometry, focusing on the manipulation of scalars, formators, and clinants. They introduce the concept of quaternions and demonstrate their distinct algebraic properties compared to scalars. The study also explores the applications of these mathematical concepts in coordinate geometry, trigonometry, and mechanics.
+scientific_discipline: Mathematics > Algebra and Geometry

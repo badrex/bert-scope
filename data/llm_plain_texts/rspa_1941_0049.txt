@@ -1,0 +1,10 @@
+article_id: rspa_1941_0049
+revised_title: Bose-Einstein Statistics and Degeneracy: Applications to Liquid Helium
+semantic_tags:
+  - Statistical mechanics
+  - Quantum statistics
+  - Bose-Einstein condensation
+  - Degenerate gases
+  - Liquid helium
+tldr: The authors explore the thermodynamic properties of degenerate and non-degenerate Bose-Einstein gases, focusing on the completely non-relativistic and completely relativistic cases. They discuss the connection between black-body radiation and the relativistic Bose-Einstein degenerate case and the possibility of non-degenerate radiation. The study has implications for understanding liquid helium and its potential applications.
+scientific_discipline: Physics > Statistical mechanics

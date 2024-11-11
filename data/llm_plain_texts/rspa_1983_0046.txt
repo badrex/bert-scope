@@ -1,0 +1,10 @@
+article_id: rspa_1983_0046
+revised_title: Improved Solution to the Fourth Moment Equation for Intensity Fluctuations
+semantic_tags:
+  - Wave Propagation
+  - Random Media
+  - Fourth Moment Equation
+  - Two Scale Expansion
+  - Intensity Fluctuations
+tldr: The authors present an improved solution to the fourth moment equation for intensity fluctuations in a wave propagating through a randomly fluctuating medium. They use a two-scale expansion procedure to derive the zero-order approximation and the correction term, which provides better agreement with previous numerical work and allows for approximate error estimates.
+scientific_discipline: Physics > Wave Propagation

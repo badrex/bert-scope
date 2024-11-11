@@ -1,0 +1,10 @@
+article_id: 111324
+revised_title: Multiple Proportions in Heat Production from Chemical Combustion
+semantic_tags:
+  - Chemistry
+  - Thermodynamics
+  - Heat
+  - Chemical reactions
+  - Oxygen
+tldr: This paper discusses the existence of multiple proportions in the quantities of heat produced by the chemical combination of oxygen and other substances. The author, Thomas Woods, presents a detailed account of his experiments and findings, including a correction for the heat produced when molybdenum combines with oxygen.
+scientific_discipline: Chemistry > Thermodynamics

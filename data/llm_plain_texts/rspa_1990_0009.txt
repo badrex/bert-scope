@@ -1,0 +1,10 @@
+article_id: rspa_1990_0009
+revised_title: Reduction of the Characteristic Initial Value Problem to the Cauchy Problem in General Relativity
+semantic_tags:
+  - General Relativity
+  - Cauchy Problem
+  - Characteristic Initial Value Problem
+  - Einstein Equations
+  - Asymptotic Flatness
+scientific_discipline: Mathematics > Differential Geometry
+tldr: The author presents a method to reduce the characteristic initial value problem to the Cauchy problem for the Einstein equations, demonstrating its application in various contexts, including numerical relativity, cosmology, and the study of gravitational radiation. This method can be applied to a wide range of hyperbolic equations, showing its versatility and usefulness in solving complex problems in general relativity.

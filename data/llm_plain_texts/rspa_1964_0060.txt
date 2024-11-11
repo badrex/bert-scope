@@ -1,0 +1,10 @@
+article_id: rspa_1964_0060
+revised_title: Coefficient of Viscosity and Mutual Diffusion of Atomic and Molecular Hydrogen
+semantic_tags:
+  - Viscosity
+  - Diffusion
+  - Hydrogen
+  - Gas dynamics
+  - Atomic physics
+tldr: The authors determined the coefficients of viscosity and mutual diffusion for atomic and molecular hydrogen mixtures. They used an improved version of Harteck's viscometer and analyzed the flow of the reacting gases. The results were in good agreement with the best theoretical values available at the time, providing a more accurate understanding of the transport properties of atomic hydrogen.
+scientific_discipline: Physics > Gas dynamics

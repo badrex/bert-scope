@@ -1,0 +1,10 @@
+article_id: rspl_1894_0099
+revised_title: 'A New Method for Determining Thermal Conductivity of Metals'
+semantic_tags:
+  - Thermal Conductivity
+  - Metals
+  - Heat Transfer
+  - Thermoelectricity
+  - Material Science
+tldr: The authors developed a new method to determine the thermal conductivity of metals, such as copper, silver, gold, and platinum, using a simple apparatus and test that can be completed in a few hours. They tested various qualities of copper, gold, silver, and platinum and found that the thermal conductivity is related to their electrical conductivity. The authors plan to continue their research on alloys and the effect of temperature on conductivity.
+scientific_discipline: Physics > Material Science

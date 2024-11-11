@@ -1,0 +1,10 @@
+article_id: 108289
+revised_title: 'Improving Accuracy in Monthly Mean Meteorological Observations'
+semantic_tags:
+  - Meteorology
+  - Climate science
+  - Atmospheric science
+  - Weather observation
+  - Data correction
+tldr: The author, James Glaisher, explains how to correct monthly mean meteorological observations taken at different times of the day to convert them into accurate monthly values. He provides tables and methods for adjusting temperature and barometer readings, taking into account diurnal oscillations and seasonal variations. This helps improve the accuracy of weather observations and better understand atmospheric conditions.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

@@ -1,0 +1,10 @@
+article_id: 'rspb_1988_0003'
+revised_title: 'Characterization of Potassium Channels in Human and Avian Fibroblasts'
+semantic_tags:
+  - Ion channels
+  - Potassium channels
+  - Cell physiology
+  - Patch-clamp technique
+  - Fibroblasts
+tldr: The authors studied single potassium channels in human and avian fibroblasts using cell-attached and inside-out patch-clamp techniques. They identified six different potassium channels with various conductances, ion selectivities, and voltage sensitivities. None of the channels were found to be mechanically sensitive to suction stimuli. This research provides insights into the complex changes in membrane potential in fibroblasts and their responses to external stimuli.
+scientific_discipline: Biology and Life Sciences > Cell Biology

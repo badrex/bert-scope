@@ -1,0 +1,10 @@
+article_id: rspa_1940_0028
+revised_title: 'Kinetics of Slow Combustion of Benzene and its Mono-Alkyl Derivatives'
+semantic_tags:
+  - Combustion kinetics
+  - Aromatic hydrocarbons
+  - Temperature coefficients
+  - Reaction rates
+  - Oxidation reactions
+tldr: The authors studied the slow combustion of benzene and its mono-alkyl derivatives at low temperatures. They found that the rate of oxidation is affected by temperature and pressure, with a negative temperature coefficient observed in some cases. The results suggest that the course of the reaction is not significantly changed by varying pressure or oxygen concentration, and the energy of activation varies depending on the temperature and pressure conditions.
+scientific_discipline: Chemistry > Organic Chemistry

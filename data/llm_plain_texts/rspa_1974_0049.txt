@@ -1,0 +1,10 @@
+article_id: rspa_1974_0049
+revised_title: 'Density Dependence of Gas Refractivity: A New Interferometric Technique'
+semantic_tags:
+  - Refractivity
+  - Gas Density
+  - Interferometry
+  - Polarizability
+  - Molecular Interactions
+tldr: The authors developed a sensitive interferometer to measure the effects of molecular interactions on the refractivity of gases. They determined the second refractivity virial coefficients for various gases, providing insights into the density dependence of refractivity and the role of molecular interactions. This new technique offers a more accurate method for studying the impact of gas density on refractivity.
+scientific_discipline: Physics > Optics

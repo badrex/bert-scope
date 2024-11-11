@@ -1,0 +1,10 @@
+article_id: 'rstb_1989_0059'
+revised_title: 'Protein Engineering and Design: Advances in Knowledge-Based Approaches'
+semantic_tags:
+  - Protein engineering
+  - Knowledge-based design
+  - Structural biology
+  - Bioinformatics
+  - Biotechnology
+tldr: 'The article discusses protein engineering as a multidisciplinary technology for designing and constructing proteins. It highlights the importance of knowledge-based approaches, which use facts, rules, and observations about proteins of known three-dimensional structure to improve the design process. The article also covers the integration of various methodologies, such as biochemistry, biophysics, biocomputing, recombinant DNA, microbiology, and cell biology, in the protein engineering cycle.'
+scientific_discipline: Biology and Life Sciences > Structural Biology

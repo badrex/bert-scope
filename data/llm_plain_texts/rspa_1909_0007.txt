@@ -1,0 +1,10 @@
+article_id: 'rspa_1909_0007'
+revised_title: 'Effect of Hydrogen on Discharge of Negative Electricity from Hot Platinum'
+semantic_tags:
+  - 'Electrochemistry'
+  - 'Platinum'
+  - 'Hydrogen'
+  - 'Electricity'
+  - 'Free electrons'
+scientific_discipline: Chemistry > Electrochemistry
+tldr: The author investigates the effect of hydrogen on the discharge of negative electricity from hot platinum. They find that the required energy to raise the temperature of electrons is greater than that needed to raise the temperature of the platinum. This leads to a revised estimate of the number of free electrons and resolves a previous difficulty in the calculations. The results are applied to platinum polarized with hydrogen in dilute sulfuric acid, providing further insights into the electrochemical properties of the material.

@@ -1,0 +1,10 @@
+article_id: rspa_1964_0143
+revised_title: 'Magnetic and Spectral Anomalies in Transition Metal Complexes'
+semantic_tags:
+  - Transition Metal Complexes
+  - Ligand Field Theory
+  - Magnetic Properties
+  - Spectroscopy
+  - Temperature Dependence
+tldr: The authors discuss the behavior of transition metal complexes with nearly equal high-spin and low-spin states, which can lead to magnetic and spectral anomalies. They explore the conditions under which this situation occurs and the properties associated with these equienergetic ground states, such as temperature-dependent magnetic moments and unique spectral features. The authors also propose that a crossover situation should be sensitive to changes in electron density at the ligating atom.
+scientific_discipline: Chemistry > Transition Metal Complexes

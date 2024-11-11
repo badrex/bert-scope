@@ -1,0 +1,10 @@
+article_id: rspa_1991_0141
+revised_title: A Kelvin-Helmholtz Instability Mechanism for Seismic Faulting
+semantic_tags:
+  - Seismic Instability
+  - Earthquake Mechanism
+  - Faulting Dynamics
+  - Kelvin-Helmholtz Instability
+  - Geophysics
+tldr: The author proposes a mechanism called the Kelvin-Helmholtz instability to explain seismic faulting. This mechanism involves the conversion of some of the sliding kinetic energy into wave energy in the form of an internal wave, which represents an elastic buckling of the walls of the fault line during rapid slip. The conditions for instability are determined by factors such as the rigidity of the fault walls, the stress state, and the thickness of the fragmented rock flow region.
+scientific_discipline: Earth Sciences > Geophysics

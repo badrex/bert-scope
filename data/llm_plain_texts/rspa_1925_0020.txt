@@ -1,0 +1,10 @@
+article_id: rspa_1925_0020
+revised_title: 'Copper Catalytic Activity: Comparing Dehydrogenation Rates of Various Alcohols'
+semantic_tags:
+  - Catalysis
+  - Copper catalyst
+  - Alcohol dehydrogenation
+  - Surface poisoning
+  - Temperature coefficient
+tldr: This study compares the dehydrogenation rates of various alcohols using a copper catalyst. The authors found that the activity of the catalyst decreases with higher alcohols due to surface poisoning. They also discovered that the temperature coefficient of the reaction velocity is the same for all primary alcohols, while secondary alcohols have a slightly higher reaction rate and temperature efficiency.
+scientific_discipline: Chemistry > Catalysis

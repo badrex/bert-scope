@@ -1,0 +1,10 @@
+article_id: 'rstb_1960_0004'
+revised_title: 'The Function and Structure of Respiratory Horns in Fly Eggs'
+semantic_tags:
+  - Insect respiration
+  - Plastron
+  - Fly eggs
+  - Environmental adaptation
+  - Oxygen extraction
+tldr: The author investigates the respiratory horns of fly eggs, specifically in the families Sepsidae, Drosophilidae, Sphaeroceridae, Muscidae, and Cordiluridae. These horns contain a plastron, a thin layer of air with a large water/air interface that resists water penetration even under pressure. This plastron allows the eggs to extract oxygen from both the air and the water when submerged, making it an efficient respiratory structure. The respiratory horns project above the surface of the material the eggs are embedded in, enabling them to extract oxygen from the ambient water during rainy periods.
+scientific_discipline: Biology and Life Sciences > Entomology

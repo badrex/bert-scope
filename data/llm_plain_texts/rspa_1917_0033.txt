@@ -1,0 +1,10 @@
+article_id: rspa_1917_0033
+revised_title: 'High-Frequency Resistance of Multiply-Stranded Insulated Wire: Analysis and Optimization'
+semantic_tags:
+  - Electromagnetic Induction
+  - Eddy Currents
+  - Conductor Design
+  - High-Frequency Currents
+  - Stranded Wires
+tldr: This article investigates the high-frequency resistance of multiply-stranded insulated wire and provides methods to determine the effective resistance and optimize conductor design for carrying high-frequency currents. The author explains the impact of eddy currents on the resistance and proposes formulas and tables to help choose the best number and size of strands for various conditions.
+scientific_discipline: Engineering and Technology > Electrical Engineering

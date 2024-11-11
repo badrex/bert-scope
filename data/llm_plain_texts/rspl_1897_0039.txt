@@ -1,0 +1,10 @@
+article_id: rspl_1897_0039
+revised_title: 'Magnetisation Limit of Iron: A Comparison of Single-Pole and Double-Pole Methods'
+semantic_tags:
+  - Magnetism
+  - Iron
+  - Electromagnet
+  - Magnetisation limit
+  - Single-pole method
+tldr: The author conducted experiments to determine the magnetisation limit of iron using single-pole and double-pole methods. The results showed that the single-pole method provided a more accurate measurement of the magnetisation limit. The tractive force increased with the length of the wire up to 10 inches, beyond which no higher degree of magnetisation was obtained.
+scientific_discipline: Physics > Magnetism

@@ -1,0 +1,10 @@
+article_id: 'rspb_1915_0004'
+revised_title: 'The Influence of Hydrogen Ion Concentration on Enzyme Optimum Temperature'
+semantic_tags:
+  - Enzyme kinetics
+  - Hydrogen ion concentration
+  - Optimum temperature
+  - Maltose
+  - Aspergillus oryzce
+tldr: The author investigates the effect of hydrogen ion concentration on the optimum temperature of the enzyme maltase in Aspergillus oryzce. They find that the enzyme's efficiency decreases as the hydrogen ion concentration deviates from the optimal value, and the optimum temperature decreases as the hydrogen ion concentration increases beyond the optimal value. The results provide insights into the relationship between enzyme activity and the hydrogen ion concentration of the medium.
+scientific_discipline: Biology and Life Sciences > Biochemistry

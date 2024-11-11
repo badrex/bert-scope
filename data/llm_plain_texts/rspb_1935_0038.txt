@@ -1,0 +1,10 @@
+article_id: 'rspb_1935_0038'
+revised_title: 'The Impact of Blood Pressure and Decerebration on Blood Sugar Levels'
+semantic_tags:
+  - Blood sugar
+  - Blood pressure
+  - Decerebration
+  - Hypoglycemia
+  - Physiology
+tldr: The study investigates the relationship between blood sugar levels and systemic blood pressure in rats. The researchers found that decerebration, or the removal of the brain's higher functions, can cause a decrease in blood sugar levels. They also discovered that low blood pressure plays a significant role in this effect, especially when the liver has little glycogen to convert into sugar. This research highlights the importance of considering blood pressure when studying blood sugar levels and their relationship to the brain.
+scientific_discipline: Biology and Life Sciences > Physiology

@@ -1,0 +1,10 @@
+article_id: rsta_1990_0117
+revised_title: Variational Calculations of Rovibrational States in HCN: A Precise High-Energy Potential Surface
+semantic_tags:
+  - Molecular Physics
+  - Quantum Chemistry
+  - Rovibrational States
+  - Potential Surface
+  - HCN
+tldr: This article presents variational calculations of rovibrational energy levels and wavefunctions for the HCN molecule. The authors use a hamiltonian expressed in internal coordinates and a polynomial expansion in Morse coordinates for bond stretches and the interbond angle. They believe their calculation is converged to better than 1% at 18,000 cm^-1. The potential surface is expressed in terms of 31 parameters, with about half refined by least squares to optimize the fit to experimental data.
+scientific_discipline: Chemistry > Molecular Physics

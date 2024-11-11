@@ -1,0 +1,10 @@
+article_id: rspa_1993_0069
+revised_title: 'Cusp Catastrophe and Helicopter Ground Resonance Stability'
+semantic_tags:
+  - Cusp Catastrophe
+  - Helicopter Dynamics
+  - Aeroelasticity
+  - Ground Resonance
+  - Stability Analysis
+tldr: The author applies catastrophe theory to derive closed-form expressions for the critical speeds of helicopters in ground resonance using an adaptation of Coleman's model. The study shows that the characteristic polynomial of the rotorcraft system is diffeomorphic to a versal unfolding of the cusp catastrophe germ. The results provide an exact solution for predicting critical speeds and improving helicopter safety.
+scientific_discipline: Mathematics > Applied Mathematics

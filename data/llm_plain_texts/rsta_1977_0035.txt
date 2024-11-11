@@ -1,0 +1,10 @@
+article_id: rsta_1977_0035
+revised_title: Testing Relativity and Gravitational Theories by Radar Ranging to a Heliocentric Satellite
+semantic_tags:
+  - Gravitational Theories
+  - Relativity
+  - Radar Ranging
+  - Heliocentric Satellite
+  - Solar Probe
+tldr: This article discusses the potential of radar ranging to heliocentric satellites, particularly a highly eccentric solar probe, for testing relativity and gravitational theories. The author outlines the challenges and possibilities of such a mission, emphasizing the need for accurate measurements of range and range-rate to determine the orbit and test various aspects of current gravitational theories.
+scientific_discipline: Physics > Astronomy

@@ -1,0 +1,10 @@
+article_id: 'rspb_1993_0107'
+revised_title: 'Sulphonylurea Receptor and KATP Channel Dissociation in Rat Insulin-secreting Cell Line'
+semantic_tags:
+  - 'Sulphonylurea receptor'
+  - 'KATP channel'
+  - 'Insulin secretion'
+  - 'Rat insulinoma cell lines'
+  - 'Patch-clamp studies'
+tldr: 'The study investigates the relationship between the sulphonylurea receptor and KATP channel in rat insulin-secreting cell lines. It concludes that the KATP channel can exist and function independently of the sulphonylurea receptor, suggesting they are not part of a single protein assembly.'
+scientific_discipline: 'Biology and Life Sciences > Physiology'

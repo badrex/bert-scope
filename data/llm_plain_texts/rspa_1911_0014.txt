@@ -1,0 +1,10 @@
+article_id: rspa_1911_0014
+revised_title: Geometrical Proof of the Theorem of a Double Six of Straight Lines
+semantic_tags:
+  - Projective Geometry
+  - Geometric Theorems
+  - Linear Algebra
+  - Mathematical Proof
+  - Combinatorial Geometry
+tldr: The author presents a geometrical proof of the theorem of a double six of straight lines, which states that if 11 lines are in specific relations, there exists a line intersecting 1', 2', 3', and 4'. The proof involves the use of projective geometry and demonstrates the existence of a line meeting certain conditions, providing a deeper understanding of geometric theorems and their applications.
+scientific_discipline: Mathematics > Projective Geometry

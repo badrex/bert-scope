@@ -1,0 +1,10 @@
+article_id: rspa_1934_0239
+revised_title: 'A New Approach to Calculate the Frequency Spectrum of Polar Crystal Lattices'
+semantic_tags:
+  - Crystal Lattice
+  - Frequency Spectrum
+  - Polar Crystals
+  - Electrical Interactions
+  - Mechanical Vibrations
+tldr: The authors present a new method to calculate the frequency spectrum of polar crystal lattices, taking into account the real forces between ions, such as electrical interactions and repulsive forces. They overcome the difficulties of calculating these forces by using a "cyclic lattice" approach and considering the finite speed of propagation of electric forces. This method can help in understanding and predicting the properties of crystals, such as specific heat, thermal expansion, and strength.
+scientific_discipline: Physics > Mechanics

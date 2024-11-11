@@ -1,0 +1,10 @@
+article_id: rspl_1899_0060
+revised_title: An Investigation of Light Standards and the Electric Arc
+semantic_tags:
+  - Light standards
+  - Electric arc
+  - Photometry
+  - Emissivity
+  - Carbon arc
+tldr: This article discusses the challenges and limitations of various light standards, such as the amyl acetate lamp and the pentane gas standard, and proposes the use of the electric arc as a potential standard. The author investigates the intrinsic brilliancy of the electric arc, its variations, and the conditions required for it to be used as a standard. The article also describes the experimental setup and methods used to study the electric arc.
+scientific_discipline: Physics > Optics

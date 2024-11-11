@@ -1,0 +1,10 @@
+article_id: 'rspb_1988_0034'
+revised_title: 'Primary Trajectories of Spores in Still Air and Laminar Flow'
+semantic_tags:
+  - 'Aerobiology'
+  - 'Botany'
+  - 'Particle Trajectories'
+  - 'Laminar Flow'
+  - 'Boundary-Layer Flow'
+tldr: The article calculates the primary trajectories of spores ejected into still air and laminar flow. It determines the plane ballistic trajectories followed by small spherical particles representing various spores in a constant gravitational field and resisted by the Stokes law of viscous friction. The study also considers the movement of spores in linear laminar boundary-layer flows, both steady and periodic in time. The results show that factors like projection to the largest possible vertical and downstream altitude and the presence of temporal periodic horizontal wind motion can significantly augment the ground range achieved.
+scientific_discipline: Biology and Life Sciences > Botany

@@ -1,0 +1,10 @@
+article_id: '109511'
+revised_title: 'Investigation of the Prismatic Colours' Heating and Illuminating Powers and Their Refrangibility'
+semantic_tags:
+  - 'Optics'
+  - 'Color Theory'
+  - 'Heat and Light'
+  - 'Telescope Design'
+  - 'Refrangibility'
+tldr: 'William Herschel conducted experiments to investigate the heating and illuminating powers of different colored rays using a prism. He discovered that the red ray has the highest heating power, while the violet has the least. The maximum illumination lies in the yellow or pale green. Herschel also found that radiant heat is refrangible and suggested that different colored rays may have different chemical properties. He proposed using dark-green and smoked glasses to view the sun more safely and comfortably through telescopes.'
+scientific_discipline: 'Physics > Optics'

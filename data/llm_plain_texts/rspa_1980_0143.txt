@@ -1,0 +1,10 @@
+article_id: rspa_1980_0143
+revised_title: Magnetic Effects in Barium and Strontium Absorption Spectra
+semantic_tags:
+  - Atomic Physics
+  - Zeeman Effect
+  - Magnetic Fields
+  - Quantum Mechanics
+  - Spectroscopy
+tldr: This article discusses the magnetic effects observed in the absorption spectra of Barium and Strontium. The authors analyze the Zeeman patterns of the transitions and provide interpretations involving a magnetically forced transition to a level close to 1. They also explore the Landau resonances and the changes in magnetic structures over the whole spectrum studied.
+scientific_discipline: Physics > Atomic Physics

@@ -1,0 +1,10 @@
+article_id: rsta_1996_0033
+revised_title: Quantum Cryptography for Secure Optical Communications
+semantic_tags:
+  - Quantum cryptography
+  - Optical communications
+  - Encryption
+  - Information security
+  - Quantum key distribution
+tldr: This article discusses the development and implementation of quantum cryptography for secure optical communications. The authors review the design considerations for practical quantum cryptography systems, focusing on the properties of optical fibers and the performance of single-photon detectors. They describe two experimental systems and discuss the use of quantum cryptography in multi-user optical networks. The article highlights the potential of quantum cryptography to change the way information confidentiality and communication network integrity are protected.
+scientific_discipline: Physics > Optics

@@ -1,0 +1,10 @@
+article_id: rspl_1894_0039
+revised_title: Investigating the Effective Temperature of the Sun
+semantic_tags:
+  - Solar Physics
+  - Thermodynamics
+  - Temperature Measurement
+  - Astronomical Observations
+  - Radiation
+tldr: This article presents experimental investigations on the effective temperature of the Sun conducted at Daramona, Streete, Co. Westmeath. The authors discuss and compare their results with previous studies by Rossetti and Le Chatelier. They used a radiation balance method and a modified "meldo-meter" as an artificial source of heat. The final mean result for the effective solar temperature was found to be 6200°C. The authors suggest that this method could be further improved in tropical regions to study the solar temperature variations during a sun-spot cycle.
+scientific_discipline: Physics > Thermodynamics

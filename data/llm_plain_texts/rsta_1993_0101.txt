@@ -1,0 +1,10 @@
+article_id: rsta_1993_0101
+revised_title: Direct Synthesis of Lateral Quantum Size Effects in Semiconductor Structures
+semantic_tags:
+  - Quantum confinement
+  - Semiconductor growth
+  - Surface and interface engineering
+  - Quantum wire and quantum dot structures
+  - Molecular beam epitaxy
+tldr: The authors describe a new concept for synthesizing GaAs quantum wire and dot structures in an AlAs matrix using molecular beam epitaxy. They exploit the evolution of surface and interface structures on non-(100)-oriented GaAs substrates during epitaxy to create periodic arrays of macrosteps and facets, which form symmetric and asymmetric quantum-dot and wire arrays. The existence of lateral quantum-size effects in these structures is confirmed by reflection high-energy electron diffraction, atomic force microscopy, high-resolution electron microscopy, and distinct electronic properties.
+scientific_discipline: Physics > Materials Science

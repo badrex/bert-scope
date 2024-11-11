@@ -1,0 +1,10 @@
+article_id: rsta_1971_0083
+revised_title: Spectral Analysis of Ocean Currents and their Dynamics
+semantic_tags:
+  - Oceanography
+  - Spectral analysis
+  - Ocean currents
+  - Temperature gradients
+  - Vertical water motion
+tldr: This article discusses the collection and analysis of deep current records from the eastern North Atlantic Ocean. The authors investigate the validity of deriving vertical water motion from temperature records and explore the potential energy distribution in the ocean. They also examine the limitations of the indirect method used for measuring vertical motion, such as the effect of temperature microstructure on the derived time series.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

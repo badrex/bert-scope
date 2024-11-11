@@ -1,0 +1,10 @@
+article_id: rspa_1957_0128
+revised_title: Hyperfine Structures of Indium 115 Resonance Lines
+semantic_tags:
+  - Atomic Physics
+  - Spectroscopy
+  - Hyperfine Structure
+  - Indium Isotopes
+  - Atomic Beam
+tldr: This article presents the hyperfine structures of the resonance lines of indium 115 using atomic beam spectroscopy. The authors describe their method for measuring the structures with high accuracy and discuss the causes of systematic errors in interferometric measurements. They also explain the use of a double etalon to improve the resolving power and reduce errors. The findings contribute to a better understanding of the properties of indium isotopes and the development of atomic spectroscopy techniques.
+scientific_discipline: Physics > Atomic Physics

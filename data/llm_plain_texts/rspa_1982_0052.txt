@@ -1,0 +1,10 @@
+article_id: rspa_1982_0052
+revised_title: 'Extension and Simplification of Hardy-Littlewood Integral Inequalities'
+semantic_tags:
+  - Differential Equations
+  - Operator Theory
+  - Inequalities
+  - Titchmarsh-Weyl Theory
+  - Hilbert Spaces
+tldr: This paper extends and simplifies the Hardy-Littlewood integral inequality by considering a more general form of the inequality involving the Titchmarsh-Weyl m-coefficient of the associated differential equation. The results show that the inequality holds under minimal conditions on the coefficients and determine the best possible constant K and all cases of equality. The paper also discusses the progress made in studying the inequality and its applications.
+scientific_discipline: Mathematics > Operator Theory

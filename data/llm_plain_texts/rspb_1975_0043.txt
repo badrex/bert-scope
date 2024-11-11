@@ -1,0 +1,10 @@
+article_id: 'rspb_1975_0043'
+revised_title: 'Sodium Gating Current and Conduction Velocity in Squid Giant Axon'
+semantic_tags:
+  - Neurophysiology
+  - Ion channels
+  - Action potential
+  - Squid axon
+  - Gating current
+tldr: This study investigates the relationship between conduction velocity and gating current in the squid giant axon. The researchers found that the presence of gating current affects the temperature coefficient of conduction velocity and that there is a maximum conduction velocity at a channel density of between 600 and 1000 channels per square micrometre. The findings confirm Hodgkin's prediction that the conduction velocity is more nearly proportional to the fifth root than to the fourth root of the sodium conductance.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

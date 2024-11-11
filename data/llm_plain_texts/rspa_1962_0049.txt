@@ -1,0 +1,10 @@
+article_id: rspa_1962_0049
+revised_title: 'Neutron Diffraction Study of Water Molecules in CuSO4.5H2O'
+semantic_tags:
+  - Crystallography
+  - Neutron diffraction
+  - Water molecule structure
+  - Hydrogen bonding
+  - Copper sulfate
+tldr: The authors used neutron diffraction to study the structure of water molecules in hydrated copper sulfate crystals. They found that the hydrogen bonds between water molecules are bent to maintain the tetrahedral angle within the water molecules. The study refutes the suggestion that molecular rotations of water molecules occur before dehydration. The research also provides insights into the environment of water molecules in the crystal structure.
+scientific_discipline: Chemistry > Crystallography

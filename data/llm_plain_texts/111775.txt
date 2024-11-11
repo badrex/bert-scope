@@ -1,0 +1,10 @@
+article_id: 111775
+revised_title: Advances in Invariant Theory: Permutational and Functional Perspectives
+semantic_tags:
+  - Invariant Theory
+  - Mathematics
+  - Algebra
+  - Permutations
+  - Variants
+tldr: This article explores the concept of invariants from a permutational and functional perspective. The author, William Spottiswoode, presents a method for determining the coefficients of invariants and discusses the potential for applying this method to higher-degree functions. Additionally, Spottiswoode introduces a new concept called variants, which are related to invariants.
+scientific_discipline: Mathematics > Algebra

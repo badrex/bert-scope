@@ -1,0 +1,10 @@
+article_id: rspa_1988_0019
+revised_title: 'Bifurcations in a Simple Bimolecular Surface-Reaction Model'
+semantic_tags:
+  - Bifurcation theory
+  - Surface reactions
+  - Chemical kinetics
+  - Nonlinear dynamics
+  - Langmuir-Hinshelwood mechanism
+tldr: The article presents a simple bimolecular surface-reaction model that exhibits complex behavior, including sustained oscillations, turning points, and bifurcations. The model is based on the Langmuir-Hinshelwood mechanism, where a pair of ordinary differential equations describe a heterogeneously catalyzed chemical reaction. The study focuses on the dynamics of the reaction, with emphasis on geometrical representation of the observed dynamics.
+scientific_discipline: Mathematics > Bifurcation theory

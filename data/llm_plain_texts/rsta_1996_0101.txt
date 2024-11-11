@@ -1,0 +1,10 @@
+article_id: rsta_1996_0101
+revised_title: Bloch Oscillations in Semiconductor Superlattices: Fundamentals and Applications
+semantic_tags:
+  - Semiconductor Physics
+  - Superlattices
+  - Quantum Interference
+  - Terahertz Radiation
+  - Optical Techniques
+tldr: This article discusses the current status of semiconductor tunnelling devices, specifically focusing on Bloch oscillations in semiconductor superlattices. Bloch oscillations are excited by femtosecond laser pulses and have allowed researchers to measure internal electric field changes, emitted terahertz electromagnetic radiation, and nonlinear coherent optical response directly in the time domain. The potential of Bloch oscillations for practical applications in terahertz radiation sources is assessed.
+scientific_discipline: Physics > Semiconductor Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1931_0134
+revised_title: 'Advanced Study of Cataphoresis and Verification of Smoluchowski's Equation'
+semantic_tags:
+  - Electrophoresis
+  - Electrosmosis
+  - Fluid dynamics
+  - Physics
+  - Surface chemistry
+tldr: The authors present a new experimental method to study cataphoresis and confirm Smoluchowski's equation. They use a glass fibre suspension to measure the cataphoretic velocity and investigate the flow of liquid through a pipe of rectangular cross-section. The results support Smoluchowski's equation, providing insights into the understanding of cataphoresis and its applications.
+scientific_discipline: Physics > Fluid dynamics

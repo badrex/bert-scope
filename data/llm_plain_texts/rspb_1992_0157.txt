@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0157'
+revised_title: 'Analyzing Pancreatic Islet Patterns with Fractal Geometry'
+semantic_tags:
+  - Fractal Geometry
+  - Pancreatic Islets
+  - Quantitative Histomorphometry
+  - Diabetes Mellitus
+  - Endocrinology
+tldr: Researchers used fractal geometry to analyze the patterns of pancreatic islets in normal and alloxan-treated guinea-pigs. They found that islet centers cluster in fractal subsets of dimension less than 3, suggesting that islet regeneration follows the same mathematical dynamics as original islet formation. This study provides a new method for understanding the geometry of pancreatic islet patterns and their role in diabetes.
+scientific_discipline: Biology and Life Sciences > Endocrinology

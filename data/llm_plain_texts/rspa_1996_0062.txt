@@ -1,0 +1,10 @@
+article_id: rspa_1996_0062
+revised_title: The Levitron: A Theoretical Analysis of a Spinning Top Floating Above a Magnetic Base
+semantic_tags:
+  - Adiabatic theory
+  - Geometric magnetism
+  - Magnetic levitation
+  - Spin dynamics
+  - Mechanical stability
+tldr: The author presents a theoretical analysis of the Levitron, a spinning top that can float stably above a magnetic base. The device relies on adiabatic theory and geometric magnetism, which compensates the gravitational force and allows the top to spin stably above the base. The author explains the mechanics behind the Levitron's operation and its similarities to other traps for microscopic particles.
+scientific_discipline: Physics > Classical Mechanics

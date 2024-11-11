@@ -1,0 +1,10 @@
+article_id: rspa_1996_0048
+revised_title: Stochastic State Vector Reduction in Quantum Mechanics
+semantic_tags:
+  - Quantum Mechanics
+  - Stochastic Dynamics
+  - State Vector Collapse
+  - Martingales
+  - Quantum State Space Geometry
+tldr: The author presents a geometric and probabilistic approach to understand the state vector reduction in quantum mechanics. They introduce stochastic dynamics to modify the conventional Schrodinger evolution and use stochastic differential geometry to provide a systematic geometric formulation for stochastic models of state vector collapse. The study involves the use of modern probabilistic methods, such as martingales and their associated quadratic variation processes, to analyze the reduction phenomenon.
+scientific_discipline: Mathematics > Differential Geometry

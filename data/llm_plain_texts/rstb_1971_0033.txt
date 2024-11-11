@@ -1,0 +1,10 @@
+article_id: rstb_1971_0033
+revised_title: Prospects for High-Resolution Electron Microscopy in Biology
+semantic_tags:
+  - Electron Microscopy
+  - Atomic Resolution
+  - Biological Applications
+  - Specimen Thickness
+  - Electron Wavelength
+tldr: This article discusses the limitations of current electron microscopes in achieving atomic resolution in unperiodic specimens, such as biological molecules. The main issue is the electron wavelength, which is not short enough to allow a satisfactory depth of focus at the required resolution level. The author suggests that electron microscopes working in the megavolt range have a better chance of attaining atomic resolution.
+scientific_discipline: Physics > Optics

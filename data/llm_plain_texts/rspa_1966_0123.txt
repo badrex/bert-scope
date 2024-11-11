@@ -1,0 +1,10 @@
+article_id: rspa_1966_0123
+revised_title: 'Radiolysis of Dilute Aqueous Thiourea Solutions: Protection Mechanisms and Reactions'
+semantic_tags:
+  - Radiolysis
+  - Thiourea
+  - Radiation Protection
+  - Aqueous Solutions
+  - Indirect Effect
+tldr: The authors studied the radiolysis of dilute aqueous thiourea solutions and found that thiourea acts as an efficient radiation protector for macromolecules in aqueous solutions. The protection occurs mainly through the indirect effect, where thiourea reacts with radiolytic products of water, such as radicals and hydrated electrons, preventing them from attacking the macromolecules. The study also showed that the presence of oxygen influences the radiolysis process and the formation of various decomposition products.
+scientific_discipline: Chemistry > Chemical Reactions and Radiation Chemistry

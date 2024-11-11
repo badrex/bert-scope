@@ -1,0 +1,10 @@
+article_id: 'rspb_1936_0074'
+revised_title: 'Measurement of Light Intensity and Color in Woods using Photoelectric Cells'
+semantic_tags:
+  - Photometry
+  - Plant Ecology
+  - Photoelectric Cells
+  - Light Measurement
+  - Forest Illumination
+tldr: The authors used photoelectric cells to measure the intensity and color of light in woods. They found that the illumination inside the woods was significantly lower than the outside, and the percentage of illumination varied depending on the location and the presence of trees and vegetation. The study highlights the importance of understanding the relationship between plant growth and light intensity in different environments.
+scientific_discipline: Environmental and Earth Sciences > Ecology and Ecosystems

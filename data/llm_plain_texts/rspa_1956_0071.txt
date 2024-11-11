@@ -1,0 +1,10 @@
+article_id: rspa_1956_0071
+revised_title: 'Detection and Analysis of N3 Radical in High-Intensity Photolysis of Hydrogen Azide'
+semantic_tags:
+  - Photolysis
+  - Free Radicals
+  - Hydrogen Azide
+  - Spectroscopy
+  - Nitrogen Chemistry
+tldr: The authors detected the N3 radical in the high-intensity photolysis of hydrogen azide using flash photolysis techniques. They observed the absorption spectra of NH and NH2 radicals and found a new complex absorption around 2700 A, which they attributed to the N3 radical. The mechanism of hydrogen azide photolysis was discussed, and an alternative reaction scheme was proposed, involving the formation of N3 as an intermediate.
+scientific_discipline: Chemistry > Spectroscopy and Chemical Bonding

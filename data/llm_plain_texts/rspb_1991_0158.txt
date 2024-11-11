@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0158'
+revised_title: 'Functional Specialization in the Frontal Cortex for Serial Order Memory'
+semantic_tags:
+  - 'Neuroscience'
+  - 'Cognitive Psychology'
+  - 'Frontal Cortex'
+  - 'Memory'
+  - 'Monkey Studies'
+tldr: 'The study investigates the role of the dorsolateral frontal cortex in serial order memory using monkeys. Monkeys with lesions in the mid-dorsolateral frontal cortex had severe impairments in remembering the order of stimuli, while those with lesions in the posterior region of the dorsolateral frontal cortex performed normally. These findings suggest that the primate mid-dorsolateral frontal cortex is a critical component of a neural circuit for monitoring the serial order of stimuli.'
+scientific_discipline: 'Biology and Life Sciences > Neuroscience'

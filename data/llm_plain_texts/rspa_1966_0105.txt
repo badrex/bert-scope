@@ -1,0 +1,10 @@
+article_id: rspa_1966_0105
+revised_title: 'Determination of the Dipole Moment of Water Molecules in Ice'
+semantic_tags:
+  - Molecular Physics
+  - Water Structure
+  - Ice Structure
+  - Electric Fields
+  - Dipole Moments
+tldr: The authors calculated the average dipole moment of a water molecule in ice by considering the electric fields of neighboring molecules. They found that the dipole moment of a water molecule in ice is greater than that of an isolated molecule due to the electric fields of neighboring molecules. This research helps to understand the interactions of water molecules in ice and the effects of these interactions on the dipole moment of water molecules.
+scientific_discipline: Chemistry > Molecular Physics

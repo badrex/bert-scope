@@ -1,0 +1,10 @@
+article_id: rspl_1898_0023
+revised_title: Calculation of Coefficient of Mutual Induction Between a Circle and a Coaxial Helix
+semantic_tags:
+  - Electromagnetism
+  - Electromagnetic Induction
+  - Coaxial Helix
+  - Mutual Induction
+  - Electromagnetic Force
+tldr: This article presents two methods for calculating the coefficient of mutual induction between a circle and a coaxial helix, which is essential for understanding the electromagnetic force between them. The first method simplifies a previously developed method, while the second method is more general and applicable to various values of the parameters involved. The results can be used to determine the potential energy of the system and improve the accuracy of current weighing apparatus.
+scientific_discipline: Physics > Electromagnetism

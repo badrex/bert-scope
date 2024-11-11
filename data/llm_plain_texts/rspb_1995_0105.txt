@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0105'
+revised_title: 'Sex Allocation and Population Structure in Malaria and Related Parasitic Protozoa'
+semantic_tags:
+  - Malaria
+  - Parasitic protozoa
+  - Sex allocation theory
+  - Population structure
+  - Transmission-stage sex ratio
+tldr: The authors demonstrate how sex allocation theory can be applied to parasitic organisms, specifically malaria and related protozoa. They investigate the mating patterns and sex ratio evolution within natural populations of these parasites, finding a relationship between transmission-stage sex ratio and prevalence across parasite populations. This research supports the idea that gametocyte sex ratios vary with selfing rates in natural parasite populations, and provides novel predictions relating prevalence to sex ratio.
+scientific_discipline: Biology and Life Sciences > Ecology and Evolution

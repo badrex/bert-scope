@@ -1,0 +1,10 @@
+article_id: rsta_1914_0017
+revised_title: Enhanced Lines in Spark Spectra: A Study of the 4481 and 4686 Series
+semantic_tags:
+  - Spectroscopy
+  - Atomic physics
+  - Series lines
+  - Spark spectra
+  - Magnesium spectra
+tldr: The author investigates enhanced lines in spark spectra, focusing on the 4481 and 4686 series. They study the behavior of these lines in magnesium and other elements, resolving the 4481 line into two components. The findings contribute to understanding the nature of these series and their importance in atomic physics and celestial spectroscopy.
+scientific_discipline: Physics > Optics

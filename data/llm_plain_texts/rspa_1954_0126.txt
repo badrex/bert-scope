@@ -1,0 +1,10 @@
+article_id: 'rspa_1954_0126'
+revised_title: 'Adaptation Mechanism of Bact. coli mutabile to Lactose'
+semantic_tags:
+  - Microbiology
+  - Adaptation
+  - Lactose Metabolism
+  - Mutation Theory
+  - Bacterial Genetics
+tldr: The author investigates the adaptation of \lt;italic\gt;Bact. coli mutabile\lt;/italic\gt; to lactose and discovers that the time needed for colony development on lactose-agar progressively diminishes during the lag phase in a liquid lactose medium. This indicates an adaptive process occurring in the bacteria. The growth rate of newly adapted strains is initially variable, and the author criticizes recent arguments about the mutational nature of these phenomena in light of the new evidence.
+scientific_discipline: Biology and Life Sciences > Microbiology

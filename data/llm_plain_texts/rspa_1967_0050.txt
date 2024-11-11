@@ -1,0 +1,10 @@
+article_id: rspa_1967_0050
+revised_title: 'Low Temperature Circular Dichroism: Applications in Conformational Analysis'
+semantic_tags:
+  - Circular Dichroism
+  - Conformational Analysis
+  - Molecular Geometry
+  - Spectroscopy
+  - Stereochemistry
+tldr: The article discusses the use of low temperature circular dichroism (CD) as a powerful tool for determining the geometry of molecules in solution. It explores how changes in temperature can affect CD measurements and how this can be applied to conformational analysis. The article also provides examples of different molecules and their CD behavior under various temperature conditions.
+scientific_discipline: Chemistry > Spectroscopy

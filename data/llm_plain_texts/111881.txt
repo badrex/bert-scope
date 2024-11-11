@@ -1,0 +1,10 @@
+article_id: 111881
+revised_title: 'A Seventh Memoir on Quantics: Ternary Cubics and Derived Contravariants'
+semantic_tags:
+  - Algebra
+  - Ternary Cubics
+  - Contravariants
+  - Covariants
+  - Mathematical Notation
+tldr: This article discusses the theory of ternary cubics and introduces two derived contravariants, YU and ZU, which are linear functions of the fundamental ones. The author, Arthur Cayley, also suggests two new derived covariants, CU and DU, and compares his notation with that of M. Aronhold. The article focuses on the relationships between different quantics in (a, /3) contained in the formulae relating to the ternary cubic.
+scientific_discipline: Mathematics > Algebra

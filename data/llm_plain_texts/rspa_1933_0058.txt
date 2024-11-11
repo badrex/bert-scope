@@ -1,0 +1,10 @@
+article_id: rspa_1933_0058
+revised_title: Gas Adsorption Effects on Electrically Conducting Films During Condensation
+semantic_tags:
+  - Surface chemistry
+  - Gas adsorption
+  - Thin films
+  - Electrical conductivity
+  - Molecular beams
+tldr: The authors conducted experiments to study the effects of gases on the electrical conductivity of metallic films deposited from the vapor phase. They found that gas adsorption can alter the evaporation rate of the metal and its specific resistance, which can impact the growth and properties of the films. This research has implications for various applications, including molecular beams, surface catalysts, thermionic, and photoelectric surfaces.
+scientific_discipline: Physics > Surface chemistry

@@ -1,0 +1,10 @@
+article_id: 'rspb_1969_0020'
+revised_title: 'Electrical Method for Measuring Non-Electrolyte Permeability'
+semantic_tags:
+  - Permeability
+  - Non-electrolyte
+  - Osmotic flow
+  - Streaming potentials
+  - Gall-bladder
+tldr: The authors developed a rapid method to measure the permeability of rabbit gall-bladder epithelium to non-electrolytes using an electrical method based on streaming potentials. The method relies on concentration gradients of permeant molecules producing lower rates of osmotic flow than impermeant molecules. This technique allows for measuring permeability in a short time frame and can be applied to non-electrolytes that undergo chemical transformation in aqueous solutions.
+scientific_discipline: Biology and Life Sciences > Cell Physiology

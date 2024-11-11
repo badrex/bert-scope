@@ -1,0 +1,10 @@
+article_id: 110347
+revised_title: Experimental Investigation of Magneto-Electric Induction in Metals
+semantic_tags:
+  - Electromagnetism
+  - Magneto-Electric Induction
+  - Conductivity
+  - Metals
+  - Current Intensity
+tldr: Samuel Hunter Christie conducted experiments to determine the laws of magneto-electric induction in different masses of the same metal and the intensity of this induction in various metals. He found that the intensity of the currents in the wires was proportional to their conducting powers and that the intensity of the electricity in different metals varied. The results showed that the intensity of the current varied nearly as the square of the diameter and that the intensity or conducting power varied as the mass or weight directly and as the square of the length inversely.
+scientific_discipline: Physics > Electromagnetism

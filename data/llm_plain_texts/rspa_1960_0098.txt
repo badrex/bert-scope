@@ -1,0 +1,11 @@
+article_id: 'rspa_1960_0098'
+revised_title: 'Corrections to a Mathematical and Physical Sciences Paper'
+semantic_tags:
+  - Mathematics
+  - Physics
+  - Corrections
+  - Scientific Papers
+  - Journal Publications
+tldr: This article presents corrections to a previous paper published in the Proceedings of the Royal Society of London. The authors, A. E. Green and E. B. Spratt, add a term to an expression and provide consequential corrections to another paper by W. S. Blackburn and A. E. Green. The corrections involve replacing certain terms and values in the original paper.
+scientific_discipline: Mathematics > Mathematics in Science
+```

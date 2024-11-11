@@ -1,0 +1,10 @@
+article_id: rspa_1953_0115
+revised_title: Calculations of K Absorption Edges in Heavy Atoms
+semantic_tags:
+  - Atomic Physics
+  - Absorption Edges
+  - Relativistic Effects
+  - Self-Consistent Field Calculations
+  - Heavy Atoms
+tldr: This article calculates the binding energy of a K-absorption edge in heavy atoms using the Hartree model and self-consistent field calculations. The authors consider the interaction of the electron with the nucleus, other electrons, and the outer electrons. They find that the potential due to the outer electrons can be written in the form of a large constant potential with a small correction. The results are in good agreement with experimental data.
+scientific_discipline: Physics > Atomic Physics

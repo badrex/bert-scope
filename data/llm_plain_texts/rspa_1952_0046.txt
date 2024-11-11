@@ -1,0 +1,10 @@
+article_id: rspa_1952_0046
+revised_title: 'Thermal Decomposition Mechanisms of Lithium Aluminium Hydride'
+semantic_tags:
+  - Solid reactions
+  - Nucleation
+  - Thermal decomposition
+  - Lithium aluminium hydride
+  - Chemical kinetics
+tldr: 'The authors study the thermal decomposition of lithium aluminium hydride and discover that it occurs in three stages. They analyze the pressure against time curves and find that the initial reaction is rapid, followed by an interface reaction and a slow process. The authors propose a mechanism for the formation of nuclei during the decomposition process.'
+scientific_discipline: Chemistry > Chemical kinetics

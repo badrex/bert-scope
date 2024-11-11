@@ -1,0 +1,10 @@
+article_id: 105736
+revised_title: 'Determination of the Sun's Parallax from the Observations of the Transit of Venus'
+semantic_tags:
+  - Astronomy
+  - Parallax
+  - Transit of Venus
+  - Observational Astronomy
+  - Solar System
+tldr: The author, James Short, analyzes observations of the 1761 transit of Venus to determine the Sun's parallax. By comparing observations from various locations, Short calculates a parallax of approximately 8.6 arcminutes. This research helps improve the accuracy of astronomical measurements and our understanding of the Solar System.
+scientific_discipline: Astronomy > Observational Astronomy

@@ -1,0 +1,10 @@
+article_id: rsta_1989_0038
+revised_title: Seismic Tomography and Mantle Circulation: Long-Wavelength Variations in Earth's Geoid and Their Implications
+semantic_tags:
+  - Geophysics
+  - Seismic tomography
+  - Mantle circulation
+  - Earth's geoid
+  - Plate tectonics
+tldr: This article explores the long-wavelength variations in Earth's geoid and their physical models and dynamical implications. The authors use seismic tomography to explain nearly 90% of the variance in the observed geoid at wavelengths greater than 4000 km. They find that the seismic velocity anomalies resolved by seismic tomography are associated with variations in density that lead to collective flow and dynamically maintained topography at the Earth's surface, core-mantle boundary, and any interior chemical boundaries that might exist. The study also reveals that the geoid is sensitive to relative variations in viscosity but not to the absolute level of viscosity, and that the heat advected by the flow associated with the inferred density contrasts is sensitive to the absolute viscosity.
+scientific_discipline: Earth Sciences > Geophysics

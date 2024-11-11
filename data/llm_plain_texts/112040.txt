@@ -1,0 +1,10 @@
+article_id: 112040
+revised_title: 'Discovery of Stellar Spectra and Elements in Fixed Stars'
+semantic_tags:
+  - Astronomy
+  - Astrophysics
+  - Stellar Spectroscopy
+  - Chemical Composition of Stars
+  - Star Colors
+tldr: The authors used a spectroscope attached to a 10-foot telescope to study the spectra of fixed stars and planets. They found that some stars had similar spectra to certain elements on Earth, such as sodium, magnesium, and hydrogen. The authors also discussed the colors of stars, suggesting that differences in color are due to differences in the composition of the stars' atmospheres.
+scientific_discipline: Astronomy > Stellar Spectroscopy

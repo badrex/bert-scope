@@ -1,0 +1,10 @@
+article_id: rspa_1966_0210
+revised_title: Investigation of Turbulent Vortices in a Cylinder Wake
+semantic_tags:
+  - Fluid Dynamics
+  - Turbulence
+  - Vortex Flow
+  - Cylinder Wake
+  - Hot Wire Anemometry
+tldr: This study investigates the turbulent vortices in the wake of circular cylinders using hot wire anemometry. The researchers determined the vortex strength and its variation with distance downstream and Reynolds number. They also discussed vortex paths, formation regions, and three-dimensional effects. The findings contribute to the understanding of fluid dynamics and vortex flow in engineering applications.
+scientific_discipline: Physics > Fluid Dynamics

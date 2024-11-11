@@ -1,0 +1,10 @@
+article_id: rspa_1936_0220
+revised_title: Mercury Photosensitized Exchange Reactions of Deuterium with Ammonia, Methane, and Water
+semantic_tags:
+  - Deuterium exchange reactions
+  - Mercury photosensitization
+  - Chemical kinetics
+  - Hydrogen and deuterium atoms
+  - Homogeneous and heterogeneous reactions
+scientific_discipline: Chemistry > Chemical kinetics
+tldr: The authors investigate the mercury photosensitized exchange reactions of deuterium with ammonia, methane, and water, providing insights into the energetics of these processes and the mechanisms involved. They find that the progress of the exchange reaction follows an exponential law, and the half-life times can be used to characterize the velocity of both reactions. The study also explores the effect of various hydrides on the stationary atom concentration and the influence of composition on the rate of exchange.

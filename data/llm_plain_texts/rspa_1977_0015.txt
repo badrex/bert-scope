@@ -1,0 +1,10 @@
+article_id: rspa_1977_0015
+revised_title: 'Non-Steady-State Stimulated Scattering: A Comprehensive Approach'
+semantic_tags:
+  - Laser Physics
+  - Nonlinear Optics
+  - Convolution Integrals
+  - Stimulated Scattering
+  - Bragg Reflection
+tldr: The authors present a non-steady-state theory of stimulated light scattering, emphasizing the effects induced in the scattering medium. They demonstrate that the spatial modulation of the dielectric constant can be expressed in terms of simple convolution integrals involving the input pulse shape, steady-state scattering spectrum, and frequency shift between the laser and scattered beams. This approach allows for the calculation of the amplification coefficient and the modulation's amplitude and phase, providing a better understanding of non-steady-state scattering processes.
+scientific_discipline: Physics > Laser Physics

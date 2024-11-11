@@ -1,0 +1,10 @@
+article_id: rspa_1937_0018
+revised_title: 'Diffraction of Atoms and Molecules by Solid Surfaces: A Study of Surface Fields and Adsorption'
+semantic_tags:
+  - Surface physics
+  - Adsorption
+  - Diffraction
+  - Quantum mechanics
+  - Surface fields
+tldr: The authors study the interaction of atoms and molecules with solid surfaces, focusing on the diffraction of atoms and the properties of surface fields. They develop a mathematical model to calculate the intensity of diffracted beams and explore the probability of selective adsorption and evaporation processes. Their findings contribute to understanding the behavior of atoms on surfaces and the establishment of equilibrium between gas and adsorbed phases.
+scientific_discipline: Physics > Surface physics

@@ -1,0 +1,10 @@
+article_id: rsta_1994_0037
+revised_title: Energy Levels of Diatomic Dipole Molecules in Electric Fields
+semantic_tags:
+  - Molecular Physics
+  - Quantum Mechanics
+  - Electric Fields
+  - Diatomic Molecules
+  - Perturbation Theory
+tldr: This article explores the energy quantization problem for rigid diatomic electric dipole molecules in a homogeneous static electric field. It covers the field-free case, very weak fields, and very strong fields, providing comprehensive and easily surveyable derivations for each scenario. The results will be used in the following papers to study the rotation of a rigid diatomic dipole molecule in a homogeneous electric field.
+scientific_discipline: Physics > Molecular Physics

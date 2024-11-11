@@ -1,0 +1,10 @@
+article_id: rspa_1977_0151
+revised_title: 'Conformal Anomalies and Stress Tensor for Massless Fields in Robertson-Walker Universe'
+semantic_tags:
+  - Quantum Field Theory
+  - Conformal Anomalies
+  - Stress Tensor
+  - Robertson-Walker Universe
+  - Massless Fields
+tldr: The authors derive the unique vacuum stress tensor for electromagnetic, neutrino, and massless scalar fields in a Robertson-Walker universe. They use this result to compute the numerical coefficients of the conformal trace anomalies from the known values of the Casimir energy in the Einstein universe. The study helps in understanding the behavior of quantum fields in a simple background spacetime and the evaluation of conformal trace anomalies.
+scientific_discipline: Physics > Quantum Field Theory

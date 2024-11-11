@@ -1,0 +1,10 @@
+article_id: rsta_1896_0010
+revised_title: 'Diffusion of Metals and Alloys: A Study on Osmotic Pressure and Temperature'
+semantic_tags:
+  - Diffusion
+  - Osmotic pressure
+  - Temperature effects
+  - Metals
+  - Alloys
+tldr: The author investigates the diffusion of metals and alloys, focusing on the osmotic pressure and temperature effects. They conducted experiments with molten lead and bismuth, observing the diffusion of other metals in these fluids. The study aimed to understand the factors affecting the diffusion process and its implications for the behavior of metals and alloys.
+scientific_discipline: Physics > Thermodynamics

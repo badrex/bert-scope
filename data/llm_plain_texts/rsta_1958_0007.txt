@@ -1,0 +1,10 @@
+article_id: rsta_1958_0007
+revised_title: Geomagnetic Dynamos and the Earth's Core
+semantic_tags:
+  - Geomagnetism
+  - Earth's Core
+  - Dynamo Theory
+  - Electromagnetic Fields
+  - Planetary Science
+tldr: The authors explore a model of a conducting sphere with two rotating, smaller spheres inside, demonstrating the possibility of a dynamo due to motions in the sphere. They discuss the conditions for this model to act as a dynamo and the potential implications for the Earth's core.
+scientific_discipline: Physics > Electromagnetism

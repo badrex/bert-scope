@@ -1,0 +1,10 @@
+article_id: rspa_1970_0015
+revised_title: Global Isometric Embedding of Pseudo-Riemannian Manifolds
+semantic_tags:
+  - Riemannian Geometry
+  - Pseudo-Riemannian Geometry
+  - Manifold Theory
+  - Differential Geometry
+  - Topology
+tldr: The authors explore the global isometric embedding of pseudo-Riemannian manifolds, demonstrating that any such manifold can be embedded into a pseudo-Euclidean space. They also provide a new proof using a Euclidean space of lower dimension and apply the result to the space-time of relativity.
+scientific_discipline: Mathematics > Differential Geometry

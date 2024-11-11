@@ -1,0 +1,10 @@
+article_id: 'rspb_1921_0011'
+revised_title: 'The Impact of Radium and X-Rays on Tumor Growth and Animal Resistance'
+semantic_tags:
+  - Radiation therapy
+  - Tumor growth
+  - Radium
+  - X-Rays
+  - Animal resistance
+tldr: The authors conducted experiments to understand the effects of radium and X-rays on tumor growth and animal resistance. They found that different doses of radiation had varying effects on tumor cells and the animals carrying the tumors. A lethal dose of radiation could prevent tumor growth, but the resistance of the animal also decreased. The study showed that animals exposed to small doses of radiation had increased resistance to tumor growth, but not complete immunity. The findings have implications for the development of radiation therapy for cancer treatment.
+scientific_discipline: Biology and Life Sciences > Oncology

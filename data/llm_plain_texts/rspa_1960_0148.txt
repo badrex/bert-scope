@@ -1,0 +1,10 @@
+article_id: 'rspa_1960_0148'
+revised_title: 'Flow Dynamics Behind Shock Waves in Conducting Gases'
+semantic_tags:
+  - Fluid Dynamics
+  - Shock Waves
+  - Gas Dynamics
+  - Aerodynamics
+  - Shock Wave Boundary Layer Interaction
+tldr: 'The authors study the flow behind shock waves in conducting gases, providing expressions for flow and field quantities behind the shock waves in terms of values in front of the shock. They derive relations between the shock strength and other parameters, which can be used to understand the behavior of shock waves and their interactions with the surrounding gas.'
+scientific_discipline: Physics > Fluid Dynamics

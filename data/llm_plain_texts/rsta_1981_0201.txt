@@ -1,0 +1,10 @@
+article_id: 'rsta_1981_0201'
+revised_title: 'Discovery and Analysis of Saturn's E Ring and Orbit of Janus'
+semantic_tags:
+  - Planetary exploration
+  - Astronomy
+  - Saturn's rings
+  - Satellite orbits
+  - Celestial mechanics
+tldr: 'The author reports new observations of Saturn's rings, specifically the E ring, which extends up to 3.6 equatorial radii from Saturn's center. They also reobserve and determine the orbit of Janus, the tenth satellite of Saturn. The E ring is a complex and changing flat structure with arms, streamers, or segments, and may be the visualization of remnant storage of small debris from meteoroid impacts on Saturn satellites. The outer ring's structures and the celestial mechanics of Janus and its companion have important implications for understanding the physics of rings and satellite orbits.'
+scientific_discipline: Astronomy > Planetary exploration

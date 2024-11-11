@@ -1,0 +1,10 @@
+article_id: rspl_1877_0015
+revised_title: 'On Stratified and Unstratified Discharges in Leyden Jars'
+semantic_tags:
+  - Electrical Discharges
+  - Leyden Jars
+  - Gas Discharge Phenomena
+  - Physics Experiments
+  - Electromagnetic Theory
+tldr: The author conducted experiments with Leyden jars and vacuum tubes to study the behavior of electrical discharges. They discovered that the discharge form changes from stratified to unstratified as the charge increases. The experiments also showed that the tension, rather than the quantity, determines the character of the discharge. The findings contribute to the understanding of gas discharge phenomena and electromagnetic theory.
+scientific_discipline: Physics > Electricity and Magnetism

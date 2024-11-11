@@ -1,0 +1,10 @@
+article_id: rspa_1985_0012
+revised_title: 'Investigation of the Pure Flaw Model for Chopped Fiber Composites'
+semantic_tags:
+  - Composite Materials
+  - Mechanics
+  - Materials Science
+  - Strength of Materials
+  - Statistical Analysis
+tldr: The paper investigates the pure flaw model for chopped fiber composites, focusing on the statistical behavior of their tensile strength. The authors extend previous work on the model, providing mathematical and numerical justifications for its application to chopped fiber composites with randomly oriented fibers. They analyze the necessary and sufficient conditions for failure and discuss the implications of their findings for the understanding of composite materials' failure mechanisms.
+scientific_discipline: Materials Science > Composite Materials

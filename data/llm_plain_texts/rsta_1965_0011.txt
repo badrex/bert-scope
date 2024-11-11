@@ -1,0 +1,10 @@
+article_id: rsta_1965_0011
+revised_title: 'Exploring Singularities in Three-Dimensional Boundary Layers'
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Separation Phenomena
+  - Streamlines
+  - Three-Dimensional Flows
+tldr: This article investigates the nature of flow in the vicinity of separation of a boundary layer, focusing on three-dimensional cases. It explores the existence of singularities at separation points and discusses the mathematical criteria for separation. The study includes examples of separation in various flow configurations, such as delta wings and geodesic ellipsoids, and examines the behavior of streamlines and skin friction in these scenarios.
+scientific_discipline: Physics > Fluid Dynamics

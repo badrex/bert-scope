@@ -1,0 +1,10 @@
+article_id: rspa_1958_0063
+revised_title: Rate-Pressure Relations in the Thermal Decomposition of Diethyl Ether
+semantic_tags:
+  - Chemical kinetics
+  - Diethyl ether decomposition
+  - Pressure dependence
+  - Inhibition
+  - Unimolecular reactions
+tldr: This study investigates the rate and pressure relations in the thermal decomposition of diethyl ether. The authors found that the rate of decomposition increases with pressure, and hydrogen and chemically inert gases have different effects on the reaction. The results provide insights into the complex patterns of unimolecular reactions and the role of inhibitors in controlling reaction rates.
+scientific_discipline: Chemistry > Chemical kinetics

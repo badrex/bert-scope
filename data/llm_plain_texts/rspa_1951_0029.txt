@@ -1,0 +1,10 @@
+article_id: rspa_1951_0029
+revised_title: 'Investigating the Thickness of Helium Films'
+semantic_tags:
+  - Cryogenics
+  - Superfluidity
+  - Surface Films
+  - Optics
+  - Helium II
+tldr: 'The authors developed an optical method to determine the thickness of helium II films. They used a steel mirror coated with barium stearate layers and observed that the thickness of the helium film was nearly independent of temperature between specific points. The method involved measuring the rotation of a nicol prism to restore equality of illumination when a helium film covered the mirror. This research provided insights into the properties of helium films and their behavior with temperature.'
+scientific_discipline: Physics > Cryogenics

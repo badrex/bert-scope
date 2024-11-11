@@ -1,0 +1,10 @@
+article_id: rsta_1994_0032
+revised_title: Advanced Statistical Energy Analysis: A New Approach to Modeling Power Transport in Complex Structural Assemblies
+semantic_tags:
+  - Statistical Energy Analysis
+  - Structural Acoustics
+  - Vibration Analysis
+  - Power Transport
+  - Coupling Loss Factors
+tldr: This article introduces advanced statistical energy analysis (ASEA), a high-frequency theory that accounts for power transport mechanisms, such as tunnelling, in complex structural assemblies. ASEA uses a ray theory approach to track power flowing around the network and combines it with standard SEA to handle residual power. The theory allows for coupling between sub-systems that are physically separate and can be used to improve predictive accuracy in structural acoustics and vibration analysis.
+scientific_discipline: Engineering and Technology > Mechanical Engineering > Structural Acoustics and Vibration Analysis

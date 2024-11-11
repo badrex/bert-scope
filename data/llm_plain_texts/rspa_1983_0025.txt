@@ -1,0 +1,10 @@
+article_id: rspa_1983_0025
+revised_title: 'Vibrations of Heated Elliptical Plates of Variable Thickness'
+semantic_tags:
+  - Plate Theory
+  - Thermal Stresses
+  - Vibration Analysis
+  - Elliptical Geometry
+  - Aerodynamics
+tldr: 'This article presents an exact analysis of the natural frequencies and mode shapes of an unsupported elliptical plate with variable thickness, considering the influence of middle-surface stresses arising from a planar quadratic temperature distribution. The study focuses on the vibrations of plates in high-speed aerodynamics, where they may form lifting and control surfaces of missiles.'
+scientific_discipline: Engineering and Technology > Mechanical Engineering

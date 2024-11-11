@@ -1,0 +1,10 @@
+article_id: 'rspa_1959_0182'
+revised_title: 'The Impact of Attachment on Radio Echo Observations of Meteor Trails'
+semantic_tags:
+  - Meteor Astronomy
+  - Radio Astronomy
+  - Atmospheric Physics
+  - Meteor Physics
+  - Attachment Processes
+tldr: The authors studied the effect of attachment on radio echo observations of meteors. They found that the durations of radio echoes from meteor trails can be explained quantitatively in terms of attachment processes. The data on Geminid and Perseid meteors showed good agreement with the theoretical curve of echo duration against visual magnitude. The study also revealed that the effect of attachment is more significant for faint magnitude meteors and that the longest observable durations from bright meteors are less than for Perseids.
+scientific_discipline: Physics > Atmospheric and Environmental Sciences

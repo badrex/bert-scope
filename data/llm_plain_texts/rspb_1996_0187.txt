@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0187'
+revised_title: 'Chloroplast Simple Sequence Repeats in Rice: A Powerful Tool for Intraspecific Studies'
+semantic_tags:
+  - 'Plant Genetics'
+  - 'Rice'
+  - 'Chloroplast DNA'
+  - 'Microsatellites'
+  - 'Genetic Diversity'
+tldr: 'This study developed a PCR-based assay to detect intraspecific chloroplast variability in rice using mononucleotide microsatellite loci. Six out of 12 primer pairs revealed length polymorphisms, with between two and five size variants detected. The high level of polymorphism allows for the study of chloroplast variability at the intraspecific level, providing valuable information for plant population genetics and germplasm collection management.'
+scientific_discipline: 'Biology and Life Sciences > Plant Genetics'

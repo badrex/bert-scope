@@ -1,0 +1,10 @@
+article_id: 'rstb_1944_0002'
+revised_title: 'Large-Scale Sample Surveys in Agricultural Statistics'
+semantic_tags:
+  - Sampling techniques
+  - Agricultural statistics
+  - Crop estimation
+  - Statistical engineering
+  - Field surveys
+tldr: The authors discuss the development of sampling techniques for large-scale crop surveys, focusing on the estimation of crop areas and yield. They describe their work in the Calcutta Statistical Laboratory, covering extensive areas and dealing with the challenges of organizing and processing data. The authors emphasize the importance of maximizing precision while minimizing costs, and they present their findings as a significant advancement in the application of statistical methods to practical problems.
+scientific_discipline: Social Sciences > Statistics

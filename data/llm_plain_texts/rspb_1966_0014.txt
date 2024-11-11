@@ -1,0 +1,10 @@
+article_id: 'rspb_1966_0014'
+revised_title: 'Structural Analysis of Rat Thymus Deoxyribonucleoprotein'
+semantic_tags:
+  - 'Nucleoprotein structure'
+  - 'Electric birefringence'
+  - 'Centrifugation'
+  - 'Deoxyribonucleoprotein properties'
+  - 'Molecular biology'
+tldr: 'The authors studied the structure and properties of rat thymus deoxyribonucleoprotein using electric birefringence and centrifugation techniques. They found that dilutions of the gel contained a substantial gel phase and that the birefringence properties of the solution phase were similar to those of unfractionated solutions at the same concentration. The results suggest that aging is a process of denaturation, occurring more rapidly in shaken solutions than in controls. The study provides insights into the structure and stability of deoxyribonucleoprotein, a main constituent of chromosomes.'
+scientific_discipline: Biology and Life Sciences > Molecular Biology

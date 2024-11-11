@@ -1,0 +1,10 @@
+article_id: rstb_1995_0047
+revised_title: Understanding Protein Folding Through Native Structure Analysis
+semantic_tags:
+  - Protein folding
+  - Protein structure
+  - Secondary structure propensity
+  - Protein topology
+  - Amino acid preferences
+tldr: This article presents two studies on protein structure, focusing on secondary structure propensity and protein topology. The authors calculate intrinsic propensities for different amino acids, showing that these preferences vary and do not necessarily agree with the associated secondary structure propensities. They also analyze the distribution of protein domain folds and discuss the implications for protein folding. The findings provide insights into the factors that influence protein folding and the balance between satisfying local conformational preferences and global requirements for protein structure.
+scientific_discipline: Biology and Life Sciences > Biochemistry and Molecular Biology

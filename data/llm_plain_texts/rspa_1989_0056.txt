@@ -1,0 +1,10 @@
+article_id: rspa_1989_0056
+revised_title: A Theoretical Study of the Brinell Hardness Test and Its Applications
+semantic_tags:
+  - Material Science
+  - Mechanics of Continua
+  - Elastoplasticity
+  - Indentation
+  - Hardness Testing
+tldr: This article presents a theoretical study of the Brinell hardness test, a widely used method for assessing the hardness of metals during forming operations. The authors develop a constitutive framework for modeling the deformation in Brinell hardness tests, considering infinitesimal strain and workhardening elastic/plastic materials. They analyze the test's global aspects, such as the dependence on Meyer's law, O'Neill's rule, and Tabor's findings, and provide a detailed solution for the indentation of elastoplastic media by a ball. The study's results are validated through finite element computations and show excellent agreement with experimental findings.
+scientific_discipline: Engineering and Technology > Materials Science

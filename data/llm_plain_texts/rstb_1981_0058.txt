@@ -1,0 +1,10 @@
+article_id: 'rstb_1981_0058'
+revised_title: 'Structural Dynamics of Yeast Hexokinase and its Role in Glycolysis'
+semantic_tags:
+  - Glycolysis
+  - Enzyme structure
+  - Hexokinase
+  - Crystallography
+  - Enzyme mechanism
+tldr: The article discusses the structure and function of yeast hexokinase, an enzyme involved in glycolysis. The authors describe the conformational changes that occur in the enzyme when it binds to glucose and how these changes affect the enzyme's activity. They also explore the enzyme's interaction with ATP and the role of substrate-induced conformational changes in catalysis and control. The study provides insights into the structural dynamics of enzyme action and the mechanism of hexokinase during the glycolysis process.
+scientific_discipline: Biology and Life Sciences > Biochemistry

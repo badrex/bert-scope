@@ -1,0 +1,10 @@
+article_id: rsta_1972_0053
+revised_title: Electrohydrostatic Stability in Two-Dimensional Problems
+semantic_tags:
+  - Electrohydrodynamics
+  - Fluid mechanics
+  - Surface tension
+  - Boundary-value problems
+  - Asymptotic analysis
+tldr: The authors study the breakdown of equilibrium of a conducting fluid surface, such as a membrane, when placed in the field of a charged cylindrical conductor. They develop an approximate theory and an extension of the asymptotic analysis to predict the breakdown potential and analyze the stability of the equilibrium configuration of the membrane. The results are compared with those obtained using the asymptotic analysis.
+scientific_discipline: Physics > Fluid mechanics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0065'
+revised_title: 'Eggshell Fracture Strength Under Internal Pressure in Domestic Fowl'
+semantic_tags:
+  - 'Eggshell Mechanics'
+  - 'Biomechanics'
+  - 'Fracture Strength'
+  - 'Domestic Fowl'
+  - 'Eggshell Thickness'
+tldr: 'Researchers measured the internal fluid pressure needed to fracture the eggshell of domestic fowl and found an average fracture stress of 15.2 MPa. The study compared this to previous concentric loading tests and concluded that the difference in fracture strength is mainly due to the difference in stressed areas. The results provide insights into the mechanics of eggshells and their resistance to pressure.'
+scientific_discipline: 'Biology and Life Sciences > Zoology'

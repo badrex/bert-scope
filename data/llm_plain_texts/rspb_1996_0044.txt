@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0044'
+revised_title: 'Determination of Young's and Shear Moduli in Cortical Bone'
+semantic_tags:
+  - 'Biomaterials'
+  - 'Mechanical properties'
+  - 'Bone structure'
+  - 'Cortical bone'
+  - 'Mineral content'
+tldr: 'This study determined the Young's and shear moduli of cortical bone from various animals using three-point bending tests. The main determinant of mechanical properties was found to be the mineral content. The ratio of Young's modulus to shear modulus was approximately 20:1, indicating the importance of controlled crack propagation in protecting hollow bones from failure due to local impact.'
+scientific_discipline: 'Engineering and Technology > Materials Science'

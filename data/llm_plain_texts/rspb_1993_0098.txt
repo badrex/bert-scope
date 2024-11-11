@@ -1,0 +1,10 @@
+article_id: 'rspb_1993_0098'
+revised_title: 'Molecular Clock in Endosymbiotic Bacteria and Aphid Hosts'
+semantic_tags:
+  - Molecular clock
+  - Endosymbiotic bacteria
+  - Aphid phylogeny
+  - Evolutionary rates
+  - Prokaryote evolution
+tldr: The authors study the molecular clock in endosymbiotic bacteria found in aphids and use the insect hosts' phylogeny to date divergence events. They find that rates of base substitution are similar in the ribosomal DNA of different endosymbiont lineages and estimate the minimum age of the endosymbiotic association and the age of aphids to be between 160-280 million years old.
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

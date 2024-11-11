@@ -1,0 +1,10 @@
+article_id: rspa_1956_0205
+revised_title: 'Thermal Conductivities of Liquids: New Determinations and Appraisal of Existing Values'
+semantic_tags:
+  - Thermal Conductivity
+  - Heat Transfer
+  - Liquid Cooling Media
+  - Thermodynamics
+  - Fluids
+tldr: The authors developed a guarded hot-plate apparatus to determine the thermal conductivities of liquids, including water, heavy water, glycerine, ethyl alcohol, toluene, medicinal paraffin, and carbon tetrachloride. They compared their results with existing values and found that Riedel's data were in best agreement. The study highlights the importance of accurate thermal conductivity measurements for predicting heat transfer in industrial processes using liquid cooling media.
+scientific_discipline: Physics > Thermodynamics

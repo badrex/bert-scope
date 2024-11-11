@@ -1,0 +1,10 @@
+article_id: rspa_1955_0202
+revised_title: 'Experimental Study and Analysis of Chlorine Trifluoride Flames'
+semantic_tags:
+  - Combustion
+  - Chemical Equilibrium
+  - Flame Chemistry
+  - Spectroscopy
+  - Diffusion Flames
+tldr: This study examines the properties and behavior of chlorine trifluoride flames when burning various fuels, such as hydrogen, carbon monoxide, carbon disulfide, water, ammonia, and halogenated hydrocarbons. The authors found that these flames possess unique features, such as the presence of radicals like CN and the formation of carbon. They also compared these flames with fluorine flames and discussed the effects of adding oxygen, nitrogen, and other elements to the flames.
+scientific_discipline: Chemistry > Combustion Chemistry

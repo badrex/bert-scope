@@ -1,0 +1,10 @@
+article_id: rspa_1954_0095
+revised_title: Investigating Spiral Growth Mechanisms in Large Crystal Surfaces
+semantic_tags:
+  - Crystal growth
+  - Crystallography
+  - Lithium sulphate
+  - Spiral growth mechanism
+  - Twinned growth
+tldr: The authors developed a method to observe the growth of large lithium sulphate crystals and discovered spiral growth patterns on their surfaces. These spirals have characteristic shapes and are related to the crystal's etch figures. The study provides evidence that the growth mechanism involves the addition of large unit blocks preformed in solution as ordered clusters, which can explain the occurrence of twinning in the crystals.
+scientific_discipline: Physics > Crystallography

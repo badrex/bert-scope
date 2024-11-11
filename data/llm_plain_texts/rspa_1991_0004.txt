@@ -1,0 +1,10 @@
+article_id: rspa_1991_0004
+revised_title: Brittle Fracture and Microcrack Arrays in Solids
+semantic_tags:
+  - Fracture mechanics
+  - Microcracks
+  - Elasticity
+  - Solid mechanics
+  - Materials science
+tldr: The author analyzes the response of an infinite elastic solid containing a single periodic array of inclined curved cracks under uniform remote loading. They derive expressions for the stress intensity factors at each crack tip, the crack displacement profile, and the extra compliance of the body due to the presence of the cracks. The study examines brittle fracture by the development of a periodic array of cracks in a solid under various remote proportional loadings, comparing the results with experimental observations for polymers and rocks.
+scientific_discipline: Engineering and Technology > Materials Science

@@ -1,0 +1,10 @@
+article_id: rspa_1967_0208
+revised_title: 'Probe Studies of Expanded Shock Tube Flows and Molecular Beam Generation'
+semantic_tags:
+  - Shock tube
+  - Molecular beam
+  - High-temperature flow
+  - Mass spectrometry
+  - Gas expansion
+tldr: The authors developed an apparatus to study expanded shock tube flows and molecular beam generation. They used various probes to investigate the expansion process and the properties of the molecular beam produced by the expansion. The study aimed to analyze the composition of high-temperature gas as a function of time using a mass spectrometer, providing insights into the mechanisms responsible for the formation of various ionic species.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1940_0001
+revised_title: Thermal Capacity of Pure Iron: A Study of Specific Heat and Thermal Properties
+semantic_tags:
+  - Thermodynamics
+  - Iron properties
+  - Heat capacity
+  - Calorimetry
+  - Metallurgy
+tldr: This study investigates the specific heat and thermal properties of pure iron using an electrical method. The specific heat rises from 50°C to the magnetic point, with a peak at 755°C. The study also reveals an increased absorption of heat in the range of 120 to 280°C. The thermal capacity of pure iron is determined through a series of experiments, providing valuable insights into iron's properties and potential applications.
+scientific_discipline: Physics > Thermodynamics

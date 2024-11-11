@@ -1,0 +1,10 @@
+article_id: rspa_1981_0039
+revised_title: 'Glow and Ignition Behaviors in Carbon Monoxide Oxidation: Effects of Added Hydrogen'
+semantic_tags:
+  - Combustion
+  - Chemical kinetics
+  - Gas-phase chemistry
+  - Ignition
+  - Chemiluminescence
+tldr: This study investigates the glow and ignition behaviors in carbon monoxide oxidation with varying amounts of added hydrogen. The authors use a clean quartz vessel and continuous monitoring methods to analyze the reactions, finding that the amount of added hydrogen significantly affects the ignition and chemiluminescence processes. The results help establish boundaries for different reaction modes and provide insights into the underlying mechanisms.
+scientific_discipline: Chemistry > Combustion and Chemical Kinetics

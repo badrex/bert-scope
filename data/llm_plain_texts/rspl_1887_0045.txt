@@ -1,0 +1,11 @@
+article_id: rspl_1887_0045
+revised_title: 'Effects of Stress and Strain on Magnetic Induction in Iron, Nickel, and Cobalt'
+semantic_tags:
+  - Magnetic properties
+  - Iron
+  - Nickel
+  - Cobalt
+  - Stress and strain
+  - Magnetization
+tldr: The author conducted experiments on the effects of stress and strain on the magnetic permeabilities of iron, nickel, and cobalt. They discovered that loading can increase or decrease the magnetic permeability, depending on whether it is temporary or permanent. The author also found that the effects of loading on magnetic permeability vary with the amount of previous strain and temperature. These findings contribute to a better understanding of the relationship between stress, strain, and magnetization in these materials.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rspa_1992_0028
+revised_title: 'Closure Relations of Invariant Manifolds in Nonlinear Vibrations'
+semantic_tags:
+  - Nonlinear Dynamics
+  - Diffeomorphisms
+  - Homoclinic Tangles
+  - Safe Basin Erosion
+  - Bifurcation Theory
+tldr: The authors study planar diffeomorphisms in nonlinear vibrations and derive six closure relations that relate the invariant manifolds of a hilltop saddle cycle to other invariant sets. These relations help in understanding the organization and behavior of nonlinear phenomena in these systems, such as multiple coexisting stable periodic solutions, period-doubling cascades, and homoclinic tangencies.
+scientific_discipline: Mathematics > Dynamical Systems

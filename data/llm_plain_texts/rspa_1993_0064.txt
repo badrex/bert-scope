@@ -1,0 +1,10 @@
+article_id: rspa_1993_0064
+revised_title: 'Numerical Method for Shock Wave Propagation Based on Geometrical Shock Dynamics'
+semantic_tags:
+  - Shock Dynamics
+  - Numerical Methods
+  - Fluid Dynamics
+  - Computational Methods
+  - Gasdynamics
+tldr: The author presents a new numerical method for calculating shock wave motion based on Whitham's theory of geometrical shock dynamics. This method uses a conservative finite difference formulation and is relatively easy to implement, making it suitable for both two-dimensional and three-dimensional problems. The numerical method is compared with previous approaches and tested for shock propagation in channels and converging cylindrical and spherical shocks.
+scientific_discipline: Physics > Fluid Dynamics

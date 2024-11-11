@@ -1,0 +1,10 @@
+article_id: 'rspb_1959_0058'
+revised_title: 'The Reversal of Chemical Reactions in Contracting Muscles During Applied Stretch'
+semantic_tags:
+  - Muscle Physiology
+  - Muscle Contraction
+  - Chemical Reactions
+  - Muscle Stretching
+  - Thermoelastic Effects
+tldr: The authors conducted experiments on toad muscles to study the reversal of chemical reactions during muscle contraction and stretching. They discovered that when a muscle is stretched during contraction, the chemical products of the reaction can be wholly returned to their initial state. This result depends on the amplitude and timing of the stretch, and the authors propose a thermoelastic heat absorption theory to explain the observed phenomena.
+scientific_discipline: Biology and Life Sciences > Muscle Physiology

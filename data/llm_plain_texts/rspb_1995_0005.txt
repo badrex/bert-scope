@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0005'
+revised_title: 'Exploring the Evolution of Uniparental Organelle Inheritance'
+semantic_tags:
+  - Genetics
+  - Evolutionary Biology
+  - Organelle Inheritance
+  - Replication
+  - Two-level Selection
+tldr: The authors propose an alternative evolutionary pathway for uniparental inheritance of organelles, considering the autonomous evolution of cytoplasmic genes. They suggest that organelles specialize to cell lines and invade the cytoplasm by replicating in the female germ-line, leading to a stable mode of inheritance. This process is influenced by the selective context acting on the germ line and the dynamics of two-level selection.
+scientific_discipline: Biology and Life Sciences > Genetics and Evolution

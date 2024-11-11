@@ -1,0 +1,10 @@
+article_id: rspl_1897_0067
+revised_title: High-Temperature Magnetic Properties of Iron
+semantic_tags:
+  - Magnetism
+  - Iron
+  - High-temperature properties
+  - Material science
+  - Physics
+tldr: The author investigates the magnetic properties of iron at high temperatures and finds that heating iron above its critical point does not entirely destroy the effects of previous magnetization. The study also discusses the Hall effect and its relationship to rapidly alternating currents.
+scientific_discipline: Physics > Magnetism

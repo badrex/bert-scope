@@ -1,0 +1,10 @@
+article_id: 'rstb_1988_0034'
+revised_title: 'Mitochondrial Biogenesis: Translational Regulation of Mitochondrial Gene Expression in Saccharomyces cerevisiae'
+semantic_tags:
+  - 'Mitochondrial biogenesis'
+  - 'Translational regulation'
+  - 'Mitochondrial gene expression'
+  - 'Saccharomyces cerevisiae'
+  - 'Nuclear genes'
+tldr: The article describes how nuclear genes in Saccharomyces cerevisiae regulate the expression of mitochondrial genes, specifically focusing on the translation of cytochrome c oxidase subunits II and III. The authors discuss the role of nuclear genes PET111, PET494, and PET55 in the regulation of mitochondrial gene expression and how these genes may be involved in modulating the balance of mitochondrial and nuclear gene products in response to environmental conditions.
+scientific_discipline: Biology and Life Sciences > Genetics and Molecular Biology

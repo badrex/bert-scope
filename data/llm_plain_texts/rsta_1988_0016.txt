@@ -1,0 +1,10 @@
+article_id: 'rsta_1988_0016'
+revised_title: 'Interstellar Molecular Ions: Formation and Destruction in Molecular Clouds'
+semantic_tags:
+  - Astrochemistry
+  - Molecular ions
+  - Interstellar medium
+  - Gas-phase ion chemistry
+  - Dissociative recombination
+tldr: The article discusses the role of molecular positive ions in interstellar chemistry. It explains how simple ions are converted to polyatomic ions through gas-phase ionic reactions, leading to the formation of complex molecules. The process of dissociative recombination, which contributes to the destruction of polyatomic ions and the formation of neutral molecules in interstellar clouds, is also discussed. Spectroscopy of molecular ions plays a crucial role in understanding interstellar physics and chemistry.
+scientific_discipline: Chemistry > Astrochemistry

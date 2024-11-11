@@ -1,0 +1,10 @@
+article_id: rspa_1931_0091
+revised_title: 'Effect of Channel Walls on Lift Coefficient of a Flat Plate'
+semantic_tags:
+  - Fluid Dynamics
+  - Aerodynamics
+  - Lift Coefficient
+  - Boundary Layer
+  - Wind Tunnel
+tldr: The authors investigate the effect of channel walls on the lift coefficient of a flat plate using a theoretical approach. They find that the presence of walls increases the lift coefficient, and provide curves and tables showing this increase for various angles of attack and ratios of chord to channel width.
+scientific_discipline: Physics > Fluid Dynamics

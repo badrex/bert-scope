@@ -1,0 +1,10 @@
+article_id: rsta_1960_0021
+revised_title: Enlarging the Classical Field Theory of Matter and Electricity
+semantic_tags:
+  - Electromagnetic Theory
+  - Field Equations
+  - Relativity
+  - Matrix Representation
+  - Conservation of Energy and Momentum
+tldr: The author presents a revised and simplified version of the classical field theory of matter and electricity, focusing on deriving field equations that represent conserved matter. The new equations include two extra variables, which resolve the difficulties faced by the traditional electromagnetic field theory. This approach allows for a deeper understanding of the fundamental continuous matter from which particles are formed.
+scientific_discipline: Physics > Electromagnetism

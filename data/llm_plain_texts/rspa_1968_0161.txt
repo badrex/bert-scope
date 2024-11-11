@@ -1,0 +1,10 @@
+article_id: rspa_1968_0161
+revised_title: Simplifying Constitutive Equations of Isotropic Materials with Memory
+semantic_tags:
+  - Material Science
+  - Isotropic Materials
+  - Constitutive Equations
+  - Symmetry
+  - Material Frame-Indifference
+tldr: The author demonstrates how to simplify the constitutive equations of isotropic materials with memory by using the principles of material symmetry and frame-indifference. This simplification is applicable to both solid and fluid materials and can help in understanding their behavior under various motions.
+scientific_discipline: Mathematics > Applied Mathematics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0014'
+revised_title: 'Outer Hair Cell Voltage Responses to Tones and the Role of Electromotility in Cochlear Desensitization'
+semantic_tags:
+  - Auditory system
+  - Cochlear mechanics
+  - Electromotility
+  - Desensitization
+  - Hair cell physiology
+tldr: Researchers studied the voltage responses of outer hair cells in the guinea-pig cochlea to understand the significance of electromotility and desensitization. They discovered that the amplitude and polarity of voltage responses to a 100 Hz tone could be altered when presented with tones at frequencies above the characteristic frequency. The findings suggest that desensitization is associated with changes in the mechanical properties of the cochlea, possibly related to the outer hair cells themselves, rather than inactivation of transducer channels. The study also considered the consequences of these measurements on hair cell electromotility.
+scientific_discipline: Biology and Life Sciences > Auditory System Physiology

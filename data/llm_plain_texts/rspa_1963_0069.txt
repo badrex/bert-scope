@@ -1,0 +1,10 @@
+article_id: rspa_1963_0069
+revised_title: Magnetohydrodynamic Waves in Rotating Liquids with External Magnetic Fields
+semantic_tags:
+  - Magnetohydrodynamics
+  - Fluid dynamics
+  - Electromagnetism
+  - Wave propagation
+  - Rotating fluids
+tldr: This article studies the propagation and distribution of magnetohydrodynamic waves in a rotating, electrically conducting liquid with an external magnetic field. The presence of the magnetic field makes the wave pattern asymmetrical and introduces novel features like radial expansion of Alfven waves and splitting of Taylor waves. The analysis provides insights into the interaction of Coriolis and Lorentz forces in such systems.
+scientific_discipline: Physics > Electromagnetism

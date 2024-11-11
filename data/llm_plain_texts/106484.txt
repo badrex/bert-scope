@@ -1,0 +1,10 @@
+article_id: '106484'
+revised_title: 'Investigating the Resistance of Air and its Impact on Different Shapes and Sizes'
+semantic_tags:
+  - Fluid Dynamics
+  - Aerodynamics
+  - Wind Resistance
+  - Sail Design
+  - Experiments
+tldr: The author conducted experiments to understand the resistance of air on different shapes and sizes. They found that the resistance increases with the size and shape of the object, and that the air fluid stagnates near the middle of the plane upon which it strikes. This research has implications for sail design and the efficiency of wind-powered machines.
+scientific_discipline: Physics > Fluid Dynamics

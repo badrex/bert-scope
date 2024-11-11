@@ -1,0 +1,10 @@
+article_id: 'rspa_1915_0026'
+revised_title: 'Aerodynamics of Bent Planes and Aerofoils'
+semantic_tags:
+  - Fluid Dynamics
+  - Aerodynamics
+  - Aerofoils
+  - Camber
+  - Lift
+tldr: 'The authors studied the fluid motion of bent planes and aerofoils, finding that a large camber provides a better lift-to-surface ratio. They also discovered that the lift on a bent plane is much greater than on its chord, making bent planes more efficient. As the length of the front plane increases, the total lift decreases, but the lift-to-drift ratio increases.'
+scientific_discipline: 'Engineering and Technology > Fluid Mechanics'

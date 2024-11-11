@@ -1,0 +1,10 @@
+article_id: rspa_1969_0073
+revised_title: Time and Space Development of Plasma Parameters in Laser-Induced Sparks in Helium
+semantic_tags:
+  - Plasma physics
+  - Laser-induced breakdown
+  - Spectroscopy
+  - Blast wave theory
+  - Helium plasma
+tldr: This study investigates the time and space development of plasma parameters in laser-induced sparks in helium. The authors used image converter streak photography and quantitative spectroscopy techniques to analyze the plasma's electron density, temperature, and spatial dimensions. They found that the plasma's evolution can be divided into two phases: a radiation-driven breakdown wave phase and a thermally driven expansion phase. The data suggest a self-similar expansion consistent with the blast wave theory, with radial distributions of parameters departing from the center, deviating from the original theory.
+scientific_discipline: Physics > Plasma Physics

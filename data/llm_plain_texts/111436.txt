@@ -1,0 +1,10 @@
+article_id: 111436
+revised_title: 'The Influence of Tension and Humidity on Wood Expansion'
+semantic_tags:
+  - Thermodynamics
+  - Material Science
+  - Wood Properties
+  - Heat Expansion
+  - Elasticity
+tldr: The author, J. P. Joule, conducted experiments to understand the effect of tension and humidity on the expansion of wood by heat. He found that the expansion of wood cut in the direction of the grain is greatly influenced by the tension to which it is exposed and its humidity. The elasticity of the wood decreases with an increase in temperature. When wood absorbs water, its coefficient of expansion decreases, and in some cases, it may even experience contraction by heat.
+scientific_discipline: Physics > Material Science

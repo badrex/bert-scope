@@ -1,0 +1,10 @@
+article_id: 'rspa_1967_0139'
+revised_title: 'Decomposition Mechanisms of Nitromethane and Methyl Nitrite'
+semantic_tags:
+  - Chemical kinetics
+  - Photolysis
+  - Pyrolysis
+  - Nitromethane
+  - Methyl nitrite
+tldr: The authors studied the photolysis and pyrolysis of nitromethane and methyl nitrite using flash photolysis and kinetic spectroscopy techniques. They found that nitromethane decomposes into methyl radicals and nitrogen dioxide, while methyl nitrite forms an isomer that reverts to the stable form. The decomposition mechanisms involve various reactions, including recombination, disproportionation, and isomerization.
+scientific_discipline: Chemistry > Chemical kinetics

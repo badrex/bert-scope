@@ -1,0 +1,10 @@
+article_id: 'rsta_1977_0012'
+revised_title: 'Cathodoluminescence Topography and X-ray Topography in Natural Diamonds'
+semantic_tags:
+  - Diamond physics
+  - Crystallography
+  - Cathodoluminescence
+  - X-ray topography
+  - Natural diamonds
+tldr: The authors conducted an extensive examination of cathodoluminescent emissions from natural diamonds, correlating the properties with the local crystal lattice texture and imperfection content revealed by other topographic techniques, such as X-ray topography. They discovered that certain crystals with both type II and type Ia diamond zones have rich and varied cathodoluminescence patterns. The study found that some cathodoluminescence emissions have clearly defined, topographically localized sources, such as dislocation lines and regions of natural particle irradiation. The findings provide insights into the growth history and properties of natural diamonds.
+scientific_discipline: Physics > Crystallography

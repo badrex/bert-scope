@@ -1,0 +1,10 @@
+article_id: rspa_1919_0050
+revised_title: Investigating the Relationship between Wind and Pressure Distribution
+semantic_tags:
+  - Meteorology
+  - Atmospheric Pressure
+  - Wind
+  - Friction
+  - Geostrophic Wind
+tldr: This study investigates the relationship between wind and pressure distribution, focusing on the impact of friction on the difference between actual and theoretical winds. The authors analyze various factors, such as turbulence, temperature lapse rate, and the difference in temperature between air and sea, to understand the causes of variations in wind and pressure distribution.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

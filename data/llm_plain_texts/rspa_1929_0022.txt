@@ -1,0 +1,10 @@
+article_id: rspa_1929_0022
+revised_title: 'Efficiency of Zinc-Sulphide in Transforming Alpha Particle Energy into Radiant Energy'
+semantic_tags:
+  - Nuclear Physics
+  - Scintillation
+  - Radioluminescence
+  - Zinc-sulphide
+  - Alpha particles
+tldr: The authors conducted experiments to determine the efficiency of zinc-sulphide in transforming the energy of alpha particles into radiant energy. They used an alpha-ray tube filled with radon and various zinc-sulphide coverings to measure the spectral distribution of the radiant energy in absolute units. The results showed that the luminous efficiency of zinc-sulphide was around 10-15%, with the efficiency of transforming alpha particle energy into radiant energy being around 1.5%. The study also compared the brightness of the alpha-ray tube to a plane screen of the same zinc-sulphide with known alpha particle energy and numbers.
+scientific_discipline: Physics > Nuclear Physics

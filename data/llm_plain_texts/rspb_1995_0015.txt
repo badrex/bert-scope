@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0015'
+revised_title: 'Seasonality and Extinction in Chaotic Metapopulations: A Study on Measles Dynamics'
+semantic_tags:
+  - Metapopulation dynamics
+  - Chaotic systems
+  - Seasonality
+  - Epidemiology
+  - Measles
+tldr: This study explores the relationship between seasonal forcing and metapopulation extinction in chaotic systems, specifically focusing on measles dynamics. The research shows that increased seasonality, which causes chaos, maintains or increases levels of global extinction of infection by increasing the synchrony of sub-population epidemics. The study also highlights the importance of population interaction on patterns of synchrony and extinction.
+scientific_discipline: Biology and Life Sciences > Ecology and Population Biology

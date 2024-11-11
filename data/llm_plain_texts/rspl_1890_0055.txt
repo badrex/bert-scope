@@ -1,0 +1,10 @@
+article_id: 'rspl_1890_0055'
+revised_title: 'Electromotive Force Variations in Metal Cells with Nitric Acid'
+semantic_tags:
+  - Electrochemistry
+  - Electromotive force
+  - Nitric acid
+  - Metal reactions
+  - Electrolysis
+tldr: The authors conducted experiments on cells consisting of certain metals, platinum, and nitric acid to study the variations of electromotive force. They found that the electromotive force increases when nitrous acid is produced, and the final value is due to the nitrous acid alone. The authors also discovered that the rise of electromotive force is affected by factors such as temperature, impurity, and concentration of the acid. They propose further investigations on cells containing other acids to determine if their action on metals is conditioned by their products of electrolysis.
+scientific_discipline: Chemistry > Electrochemistry

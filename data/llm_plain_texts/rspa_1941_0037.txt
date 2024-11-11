@@ -1,0 +1,10 @@
+article_id: rspa_1941_0037
+revised_title: 'Dissociation Constants and Basic Strengths of Methylamines'
+semantic_tags:
+  - Chemistry
+  - Acid-Base Chemistry
+  - Thermodynamics
+  - Methylamine
+  - Dissociation Constants
+tldr: The authors determined the dissociation constants of the methylammonium ions and the basic strengths of the methylamines in water. They found that the relation between dissociation constants and ionic strength is not linear for the methylamines, indicating a change in heat capacity during ionization. This study provides valuable data on the thermodynamic functions of these compounds and helps to understand their behavior in aqueous solutions.
+scientific_discipline: Chemistry > Acid-Base Chemistry

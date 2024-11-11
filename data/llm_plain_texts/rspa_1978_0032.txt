@@ -1,0 +1,10 @@
+article_id: rspa_1978_0032
+revised_title: 'Electromagnetic and Hydrodynamic Sound Generation by Ionized Inhomogeneities'
+semantic_tags:
+  - Acoustics
+  - Electromagnetism
+  - Fluid Mechanics
+  - Wave Generation
+  - Plasma Physics
+tldr: The article explores the emission of sound by an ionized inhomogeneity in a non-uniform mean flow, extending the hydrodynamic problem to include a variable electromagnetic field. The stagnation enthalpy is taken as the thermodynamic function of state and satisfies an inhomogeneous wave equation, describing the propagation and generation of sound in a compressible mean flow. The effective acoustic source consists of two dipoles, associated with the Laplace-Lorentz force and the hydrodynamic force. The level of radiation depends on the changes of the activity of these forces experienced by the ionized inhomogeneity. The article discusses the amplitude and shape of sound pulses in various generation conditions and observation positions in the far-field, considering both hydrodynamic and electromagnetic sound generation.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,11 @@
+article_id: 'rspb_1996_0090'
+revised_title: 'Neural Competition and Statistical Mechanics: A New Computational Approach'
+semantic_tags:
+  - Neural Plasticity
+  - Statistical Mechanics
+  - Neurotrophins
+  - Sprouting and Retraction
+  - Computational Modeling
+tldr: The authors present a new computational approach to neural competition that explicitly permits the sprouting and retraction of connections and considers neurotrophins as the objects of competition. They adopt the framework of statistical mechanics to model the interactions of large neural systems, allowing them to focus on the biological facts of interest without addressing the underlying mechanisms. This approach can account for various plasticity phenomena in different systems, including the effects of pharmacological manipulations.
+scientific_discipline: Biology and Life Sciences > Neuroscience
+```

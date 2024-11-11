@@ -1,0 +1,10 @@
+article_id: rspa_1961_0191
+revised_title: Graphite Structure: Stability and Deformation Modes
+semantic_tags:
+  - Crystallography
+  - Graphene
+  - Bond Alternation
+  - Molecular Orbital Theory
+  - Carbon Materials
+tldr: The authors investigate the stability of graphite layers and explore three possible deformation modes. They use molecular orbital theory to analyze the energy of the deformed structures and conclude that the regular graphite configuration is the most stable, confirming Bernal's model of graphite.
+scientific_discipline: Physics > Crystallography

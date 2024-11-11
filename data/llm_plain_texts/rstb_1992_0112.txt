@@ -1,0 +1,10 @@
+article_id: 'rstb_1992_0112'
+revised_title: 'Advancements in Vision Systems for Mobile Robots'
+semantic_tags:
+  - Robotics
+  - Computer Vision
+  - Mobile Robots
+  - Image Processing
+  - Navigation
+tldr: This article discusses the development of vision systems for mobile robots, focusing on localized feature points, particularly corners, for efficient and reliable image processing. The authors describe algorithms to compute optic flow and determine scene structure using stereo or structure from motion, arguing that a mobile robot may not need to compute depth explicitly for effective navigation.
+scientific_discipline: Engineering and Technology > Robotics

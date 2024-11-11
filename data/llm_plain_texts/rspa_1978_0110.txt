@@ -1,0 +1,10 @@
+article_id: rspa_1978_0110
+revised_title: 'Singular Perturbation Theory for Solitons and External Influences'
+semantic_tags:
+  - Solitons
+  - Nonlinear Dynamics
+  - Perturbation Theory
+  - Nonlinear Schrodinger Equation
+  - Sine-Gordon Equation
+tldr: The authors develop a singular perturbation theory to describe the long-term effects of weak perturbations on solitons, showing that they behave like particles or nonlinear oscillators under external forces. They analyze the response of solitons in various scenarios, including synchronization with periodic fields, motion in density gradients, and interactions with impurities. This study provides insights into the resilience and behavior of solitons in complex systems.
+scientific_discipline: Physics > Nonlinear Dynamics

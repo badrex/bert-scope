@@ -1,0 +1,10 @@
+article_id: rspa_1943_0013
+revised_title: 'X-ray Reflexion Analysis of Anti-Phase Nuclei in AuCu<sub>3</sub>'
+semantic_tags:
+  - X-ray diffraction
+  - Crystallography
+  - Alloy phases
+  - Gold-copper alloys
+  - Anti-phase nuclei
+tldr: The authors study the reflexion of X-rays from the anti-phase nuclei of the AuCu<sub>3</sub> alloy. They analyze five different models of how the anti-phase nuclei change step and find that the closest agreement with the observed broadening is given by a model in which gold atoms avoid each other. This research helps to understand the structure and properties of the alloy.
+scientific_discipline: Physics > Materials Science

@@ -1,0 +1,10 @@
+article_id: rspa_1932_0054
+revised_title: 'Magnetostriction in Dia- and Para-magnetic Substances: Experiments and Observations'
+semantic_tags:
+  - Magnetostriction
+  - Magnetic properties
+  - Dia-magnetic substances
+  - Para-magnetic substances
+  - Crystallography
+tldr: The author conducted experiments on the magnetic properties of matter in strong magnetic fields, focusing on magnetostriction in dia- and para-magnetic substances. They studied the magnetostriction along the crystal axis and found that it follows the square law. The author also observed a more complicated magnetostriction phenomenon perpendicular to the crystal axis, which showed a deviation from the square law and a saturation effect at lower temperatures.
+scientific_discipline: Physics > Crystallography

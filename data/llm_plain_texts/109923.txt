@@ -1,0 +1,10 @@
+article_id: 109923
+revised_title: 'Probability of Error in Physical Observations and Density of the Earth'
+semantic_tags:
+  - Probability theory
+  - Error analysis
+  - Density of the Earth
+  - Pendulum experiments
+  - Language origins
+tldr: Dr. Thomas Young examines the probabilities of error in physical observations and the density of the Earth, focusing on the reduction of experiments on pendulums. He demonstrates how the combination of multiple causes of error can diminish the overall variation of their joint effect. Additionally, he applies the doctrine of chances to matters of literature and history, discussing language origins and the accuracy of historians. Lastly, he explores the mean density of the Earth and the effect of pressure on it, concluding that the general law of compression is sufficient to explain the greater density of the Earth's interior.
+scientific_discipline: Mathematics > Probability theory

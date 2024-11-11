@@ -1,0 +1,10 @@
+article_id: rspa_1955_0265
+revised_title: 'Magneto-Hydrodynamics: Instability of Laminar Flow of Mercury by External Magnetic Field'
+semantic_tags:
+  - Magneto-hydrodynamics
+  - Fluid dynamics
+  - Laminar flow
+  - External magnetic fields
+  - Instability
+tldr: This article discusses an experiment where an external magnetic field causes instability in the laminar flow of mercury. The magnetic field introduces electric currents, modifying the state of motion and creating an electrodynamic force. The result is the formation of vortex rows in the presence of the magnetic field, with the number of vortices increasing with the magnetic field strength.
+scientific_discipline: Physics > Fluid Dynamics

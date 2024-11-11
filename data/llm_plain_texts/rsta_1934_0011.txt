@@ -1,0 +1,10 @@
+article_id: rsta_1934_0011
+revised_title: Rotational Analysis of IC1 Absorption Bands
+semantic_tags:
+  - Molecular spectroscopy
+  - Rotational spectroscopy
+  - Quantum mechanics
+  - Isotopes
+  - Infrared spectroscopy
+tldr: The authors conducted a rotational analysis of the absorption bands of IC1, a molecule with two isotopic molecules, IC127 and IC137. They determined the vibrational and rotational constants of the molecule in the normal and excited states, and identified the allocation of lines to branches using a graphical method. The study provides insights into the molecular structure and properties of IC1.
+scientific_discipline: Chemistry > Molecular spectroscopy

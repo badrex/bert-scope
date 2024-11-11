@@ -1,0 +1,10 @@
+article_id: rspa_1962_0189
+revised_title: 'Catalytic Efficiency of H2 and D2 in Vibrational Energy Transfer'
+semantic_tags:
+  - Vibrational energy transfer
+  - Catalysis
+  - Isotopic molecules
+  - Methyl chloride
+  - Cyclopropane
+tldr: The authors conducted experiments to compare the efficiency of H2 and D2 as catalysts for transferring vibrational energy to various molecules. They found that D2 is more efficient than H2 in most cases, and that the efficiency ratio is influenced by factors such as mass, vibrational frequencies, and rotational quanta. The results provide insights into the complex mechanisms of energy transfer in gaseous collisions.
+scientific_discipline: Chemistry > Chemical Kinetics

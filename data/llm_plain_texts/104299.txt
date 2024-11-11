@@ -1,0 +1,10 @@
+article_id: 104299
+revised_title: Measuring Latitude in New York: A Proposal by J. Alexander
+semantic_tags:
+  - Geodesy
+  - Latitude measurement
+  - Earth's figure
+  - Hudson River
+  - Ice
+scientific_discipline: Environmental and Earth Sciences > Geodesy
+tldr: In a letter to Peter Collinson, J. Alexander proposes measuring a degree of latitude using the frozen Hudson River. He suggests that this method would be more accurate than in England or France due to the absence of ascents, descents, and curved lines. The distance between New York and Albany, with a latitude of 40°, would provide an ideal location for this measurement.

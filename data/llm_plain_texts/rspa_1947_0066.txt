@@ -1,0 +1,10 @@
+article_id: rspa_1947_0066
+revised_title: 'Sublimation and Ice Formation in a Wilson Chamber'
+semantic_tags:
+  - Cloud Chamber
+  - Sublimation
+  - Ice Formation
+  - Atmospheric Science
+  - Condensation Nuclei
+tldr: The authors conducted experiments in a Wilson chamber to study sublimation and ice formation at low temperatures. They discovered that only liquid water droplets form at higher temperatures, but below a certain threshold temperature, ice particles begin to form through direct sublimation of water vapor. The experiments also showed that in dust-free air, there are no sublimation nuclei for ice formation at temperatures between 0 and -32°C. The presence of negative ions and X-rays increased the density of ice particles, suggesting that they act as genuine sublimation nuclei.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

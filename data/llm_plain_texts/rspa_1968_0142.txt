@@ -1,0 +1,10 @@
+article_id: rspa_1968_0142
+revised_title: Dual Detonation Regimes in Hydrogen/Oxygen and Deuterium/Oxygen Mixtures
+semantic_tags:
+  - Detonation Theory
+  - Hydrogen Peroxide
+  - Gas Mixtures
+  - Chemical Engineering
+  - Explosives
+tldr: The authors discovered dual detonation regimes in hydrogen/oxygen and deuterium/oxygen mixtures, with slower regimes near the limits. They found that these slower regimes might be associated with the formation of hydrogen peroxide, which then decomposes into water or deuterium oxide. This dual detonation mechanism has implications for understanding the propagation of detonation waves in gaseous mixtures.
+scientific_discipline: Chemistry > Chemical Engineering

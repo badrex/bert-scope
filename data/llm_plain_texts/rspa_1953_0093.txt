@@ -1,0 +1,10 @@
+article_id: rspa_1953_0093
+revised_title: Direct Measurement of Isothermal Joule-Thomson Coefficient for Gases
+semantic_tags:
+  - Thermodynamics
+  - Gas properties
+  - Joule-Thomson coefficient
+  - Isothermal expansion
+  - Gas flow measurement
+tldr: The authors developed a new apparatus to measure the isothermal Joule-Thomson coefficient for gases. They tested nitrogen, ethylene, carbon dioxide, and nitrous oxide in the range of 1 to 45 atm. The results agreed with other direct measurements and adiabatic Joule-Thomson and compressibility data. This method provides a direct measure of the deviations from ideal behavior and helps in understanding intermolecular forces between like and unlike molecules.
+scientific_discipline: Physics > Thermodynamics

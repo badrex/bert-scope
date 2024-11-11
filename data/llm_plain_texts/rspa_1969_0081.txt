@@ -1,0 +1,10 @@
+article_id: rspa_1969_0081
+revised_title: 'Sail Interaction Analysis for Smoothly Attached Flow'
+semantic_tags:
+  - Fluid Dynamics
+  - Sail Design
+  - Aerodynamics
+  - Thin-Wing Theory
+  - Vorticity Distribution
+tldr: 'This article investigates the interaction between two-dimensional sails in smoothly attached flow using linearized thin-wing theory. The authors derive critical equations for the sails and present a matrix formulation to solve the eigenvalue problem. The results confirm expectations regarding sail behavior and can be useful for the theoretically-minded sailor.'
+scientific_discipline: Engineering and Technology > Fluid Dynamics

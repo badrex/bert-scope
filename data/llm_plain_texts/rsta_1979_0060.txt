@@ -1,0 +1,10 @@
+article_id: rsta_1979_0060
+revised_title: Advances in X-ray Image Intensifiers and Their Applications in Engineering and Medical Diagnosis
+semantic_tags:
+  - Medical Imaging
+  - X-ray Technology
+  - Image Intensifiers
+  - Fluoroscopy
+  - Radiology
+tldr: This article discusses the limitations and future prospects of ultrasonic and radiological methods in engineering and medical diagnosis, focusing on X-ray image intensifiers. It explores the design and potential improvements of these devices, including their components, such as the detection screen, photocathode, electron optics, and output screen. The article also highlights the importance of optimizing quantum detection efficiency and modulation transfer in the fluorescent input screen, as well as the potential of alternative approaches, like channel image intensifiers and fiber optic faceplates, for specific applications.
+scientific_discipline: Engineering and Technology > Medical Imaging

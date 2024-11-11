@@ -1,0 +1,10 @@
+article_id: 'rsta_1979_0083'
+revised_title: 'Potential Energy Profiles for Unimolecular Reactions of Organic Ions'
+semantic_tags:
+  - Mass spectrometry
+  - Organic chemistry
+  - Ion chemistry
+  - Potential energy profiles
+  - Unimolecular reactions
+tldr: The article discusses the potential energy profiles for unimolecular reactions of organic ions using mass spectrometry. The authors investigate the slow step in the pathway to dissociation products and construct potential energy profiles for reaction. They find that a general cause of the release of a range of kinetic energies in a unimolecular reaction is a rate-determining isomerization, followed by a more energetically facile dissociation with excess energy in the transition state for dissociation.
+scientific_discipline: Chemistry > Organic Chemistry

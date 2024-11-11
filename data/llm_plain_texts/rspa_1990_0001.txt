@@ -1,0 +1,10 @@
+article_id: rspa_1990_0001
+revised_title: Stress-Driven Redistribution of Point Defects in Crack-Like Singularities
+semantic_tags:
+  - Materials Science
+  - Fracture Mechanics
+  - Point Defects
+  - Crack Analysis
+  - Elasticity
+tldr: The authors study the stress-driven redistribution of point defects near crack-like singularities in materials. They analyze the elastic interaction between a crack and a point defect, and estimate the kinetics of point defect redistribution under mode II load and a slip band impinging against a grain boundary sink. The study provides insights into the importance of stress-driven processes in the fracture of materials.
+scientific_discipline: Materials Science > Fracture Mechanics

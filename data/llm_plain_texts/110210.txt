@@ -1,0 +1,10 @@
+article_id: 110210
+revised_title: Correction of Captain Kater's Pendulum Experiment and its Implications
+semantic_tags:
+  - Pendulum
+  - Air Density
+  - Buoyancy
+  - Vacuum
+  - Hygrometry
+scientific_discipline: Physics > Mechanics
+tldr: The author, Edward Sabine, investigated the reduction of Captain Kater's pendulum experiment to account for the erroneous principles used. He found that the amount of retardation caused by air was greater than previously computed, and the convertibility of the pendulum was affected by the hygrometric state of the atmosphere. Sabine corrected the experiment by reducing the wooden tailpieces and substituting brass slips, which improved the accuracy of the pendulum's vibrations in different conditions.

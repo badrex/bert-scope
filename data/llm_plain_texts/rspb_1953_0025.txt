@@ -1,0 +1,10 @@
+article_id: 'rspb_1953_0025'
+revised_title: 'X-ray Scattering Analysis of Protein Structures'
+semantic_tags:
+  - Protein Structure
+  - X-ray Crystallography
+  - Denaturation
+  - Radial Distribution Curve
+  - Helical Structures
+tldr: The authors used X-ray scattering to study the structure of various proteins in their native and denatured states. They found that the fundamental structure of the proteins remains the same in both states, with the polypeptide chains folding in a similar way. The results support the alpha-helix model for protein structure and suggest that the alpha-helix is resistant to moderate heating in the absence of other factors.
+scientific_discipline: Biology and Life Sciences > Biochemistry

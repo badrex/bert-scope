@@ -1,0 +1,10 @@
+article_id: rspa_1972_0159
+revised_title: Corrected Methods for Surface Tension and Spreading Coefficients in Sessile Drop Profiles
+semantic_tags:
+  - Surface tension
+  - Spreading coefficient
+  - Sessile drop
+  - Capillary pressure
+  - Contact angle
+tldr: The authors present a study on the height of a sessile drop and its relation to the size of the drop and contact angle. They derive correction factors to calculate surface tension and spreading coefficients from sessile drop heights, showing that all sessile drops possess a maximum height at an intermediate size. This research provides a better understanding of the behavior of sessile drops and helps in accurately measuring surface properties.
+scientific_discipline: Physics > Fluid Mechanics

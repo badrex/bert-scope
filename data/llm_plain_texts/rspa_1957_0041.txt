@@ -1,0 +1,10 @@
+article_id: rspa_1957_0041
+revised_title: 'Interpolation of Atomic Wave Functions for Large Atomic Numbers'
+semantic_tags:
+  - Atomic Physics
+  - Quantum Mechanics
+  - Wave Functions
+  - Screening Numbers
+  - Atomic Wave Function Interpolation
+tldr: The author investigates the behavior of atomic wave functions for large atomic numbers. They develop a method to determine the limiting values of screening numbers and the derivatives of wave functions as the atomic number approaches infinity. This allows for the estimation of wave functions for atoms with higher atomic numbers through interpolation rather than extrapolation.
+scientific_discipline: Physics > Atomic Physics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0131'
+revised_title: 'Bootstrap Uncertainty Analysis of Lyapunov Exponents in Holarctic Microtine Rodents'
+semantic_tags:
+  - Chaos Theory
+  - Ecological Dynamics
+  - Lyapunov Exponents
+  - Bootstrap Method
+  - Microtine Rodents
+tldr: The authors estimate the uncertainty of the dominant Lyapunov exponent for Holarctic microtine rodents using the bootstrap method. They find that the dynamic properties of northern and southern populations are different, and there is no general evidence for chaotic dynamics in northern microtine populations. The study provides confidence intervals for the Lyapunov exponents, which can help improve the understanding of ecological systems.
+scientific_discipline: Biology and Life Sciences > Ecology

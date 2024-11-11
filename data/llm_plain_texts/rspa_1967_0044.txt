@@ -1,0 +1,10 @@
+article_id: rspa_1967_0044
+revised_title: 'Spherical Analyser for Photoelectron Kinetic Energy Analysis in Gases'
+semantic_tags:
+  - Photoelectron spectroscopy
+  - Ionization potentials
+  - Franck-Condon factors
+  - Spherical analyser
+  - Gas analysis
+tldr: The authors developed a spherical analyser to measure the kinetic energy distribution of photoelectrons in various gases. They found that the ionic energy levels agreed well with optical spectroscopy, and the photoelectron stopping curves could reveal the bonding or antibonding nature of ionized orbitals. This technique has potential applications in nuclear fusion research and upper atmospheric studies.
+scientific_discipline: Chemistry > Spectroscopy

@@ -1,0 +1,10 @@
+article_id: rspa_1979_0140
+revised_title: 'Thermal Explosions and the Disappearance of Criticality in Small Activation Energies: Exact Results for Slab Geometry'
+semantic_tags:
+  - Thermal explosions
+  - Criticality
+  - Activation energies
+  - Slab geometry
+  - Frank-Kamenetsku boundary conditions
+tldr: This article investigates thermal explosions and the disappearance of criticality in small activation energies using exact results for slab geometry. The authors analyze the relationship between the Frank-Kamenetsku parameter and the reduced ambient temperature for two rate laws, the Arrhenius law, and the bimolecular law. They find that when the activation energy is small, critical ignition phenomena disappear, and only a smooth reaction rate with imposed ambient temperature can occur.
+scientific_discipline: Engineering and Technology > Chemical Engineering

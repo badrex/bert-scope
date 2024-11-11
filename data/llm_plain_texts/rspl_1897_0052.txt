@@ -1,0 +1,10 @@
+article_id: rspl_1897_0052
+revised_title: Inheritance and Ancestral Contributions in Pedigree Stock
+semantic_tags:
+  - Genetics
+  - Heredity
+  - Pedigree analysis
+  - Statistical law
+  - Inheritance patterns
+tldr: Francis Galton studied the inheritance of color patterns in a large pedigree stock of Basset hounds. He discovered a statistical law that states that each ancestor contributes, on average, half of their heritage to their offspring. This law can be applied to other characters and is consistent with the observed binary subdivisions of germ cells.
+scientific_discipline: Biology and Life Sciences > Genetics

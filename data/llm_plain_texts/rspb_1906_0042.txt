@@ -1,0 +1,10 @@
+article_id: 'rspb_1906_0042'
+revised_title: 'Development of an Antityphoid Serum from Goat Immunization'
+semantic_tags:
+  - Immunology
+  - Antitoxins
+  - Typhoid vaccine
+  - Goat immunization
+  - Endotoxin neutralization
+tldr: The authors conducted experiments to develop an antityphoid serum by immunizing goats with cell juices of the Bacillus typhosus. They found that the serum obtained from the immunized goats had significant anti-endotoxic, agglutinative, and bacteriolytic properties, which could neutralize multiple lethal doses of the typhoid endotoxin. The serum was also tested for its specificity against the cholera endotoxin.
+scientific_discipline: Biology and Life Sciences > Immunology

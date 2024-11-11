@@ -1,0 +1,10 @@
+article_id: rspa_1983_0126
+revised_title: Aerofoil-Vortex Stability in Rotational and Strained Fields
+semantic_tags:
+  - Fluid Dynamics
+  - Vortex Theory
+  - Aerofoil Design
+  - Fluid Mechanics
+  - Stability Analysis
+tldr: The authors explore the existence and stability of a steady solution for a plane region (vortex) of uniform vorticity in a rotational and strained field. They find that a vortex with an aerofoil-shaped boundary is a possible region of solution and determine the corresponding angular velocity, strain rates, and stability conditions. The study uses complex notation and conformal mapping theory to analyze the problem.
+scientific_discipline: Mathematics > Applied Mathematics > Fluid Dynamics

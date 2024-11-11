@@ -1,0 +1,10 @@
+article_id: rspa_1934_0056
+revised_title: 'Photography of Fluid Flow Dynamics Using the Ultramicroscope'
+semantic_tags:
+  - Fluid dynamics
+  - Turbulence
+  - Ultramicroscopy
+  - Photomicrography
+  - Flow visualization
+tldr: The authors used an ultramicroscope to capture photographs of fluid flow, revealing the internal motions of water without interference. They examined turbulent flow in pipes, the wakes behind bluff obstacles, and the flow around a circular cylinder at low Reynolds numbers. This technique allowed for a better understanding of fluid dynamics and flow visualization.
+scientific_discipline: Physics > Fluid Dynamics

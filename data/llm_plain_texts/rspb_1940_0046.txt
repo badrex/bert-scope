@@ -1,0 +1,10 @@
+article_id: 'rspb_1940_0046'
+revised_title: 'Carcinogenic Activity of Hydrocarbons: A Study on 1,2-Benzanthracene Derivatives'
+semantic_tags:
+  - Carcinogenesis
+  - Hydrocarbons
+  - Cancer Research
+  - Molecular Structure
+  - Tumors
+tldr: The authors conducted experiments with various hydrocarbons, focusing on 1,2-benzanthracene derivatives, to study their carcinogenic activity. They found that certain molecular structures are more likely to be associated with carcinogenic properties. The study also revealed that some compounds are more effective in producing epitheliomas than sarcomas, while others produce sarcomas more efficiently. This research supports the idea that molecular structure plays a significant role in carcinogenic action.
+scientific_discipline: Chemistry > Carcinogenesis

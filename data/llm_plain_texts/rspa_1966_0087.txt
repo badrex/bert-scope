@@ -1,0 +1,10 @@
+article_id: 'rspa_1966_0087'
+revised_title: 'Condensation Effects in Detonation of Tetramethylsilane: A Study on Detonation Velocities and Fuel Concentration'
+semantic_tags:
+  - Detonation
+  - Condensation
+  - Tetramethylsilane
+  - Fuel Concentration
+  - Detonation Velocities
+tldr: 'This study investigates the detonation of tetramethylsilane and its relation to fuel concentration and detonation velocities. The authors found that fluctuations in detonation velocities increase with fuel concentration, but once carbon formation is established, detonation stability is enhanced. A possible mechanism based on a main reaction is proposed to explain these findings.'
+scientific_discipline: Chemistry > Chemical Kinetics

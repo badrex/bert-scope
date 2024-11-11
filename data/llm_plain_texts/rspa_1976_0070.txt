@@ -1,0 +1,10 @@
+article_id: rspa_1976_0070
+revised_title: Electrohydrostatic Stability of Two-Dimensional Charged Conducting Membranes
+semantic_tags:
+  - Electrohydrostatic stability
+  - Conducting membranes
+  - Complex variable techniques
+  - Equilibrium configuration
+  - Edge effects
+tldr: The authors investigate the electrohydrostatic equilibrium configuration of two-dimensional charged conducting membranes using complex variable techniques. They focus on the case of two membranes carrying equal and opposite charges and placed symmetrically. The study shows that the equilibrium configuration breaks down when the membranes are charged beyond a certain critical value, and edge effects become more relevant as the separation distance between the membranes increases.
+scientific_discipline: Physics > Electromagnetism

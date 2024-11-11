@@ -1,0 +1,10 @@
+article_id: rspa_1969_0148
+revised_title: 'Rational Theory of Self-Induced Separation in Boundary Layers'
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Shock Wave Interaction
+  - Incompressible Flow
+  - Laminar Flow
+tldr: The authors develop a rational theory to explain the initial pressure rise and separation of a laminar boundary layer when interacting with a moderately strong shock. They divide the region of interest into three parts and find that the problem of self-induced separation reduces to the solution of a single problem in the theory of incompressible boundary layers. The theory provides a better understanding of the phenomenon and serves as a foundation for approximate methods.
+scientific_discipline: Physics > Fluid Dynamics

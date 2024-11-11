@@ -1,0 +1,11 @@
+article_id: 'rspb_1977_0041'
+revised_title: 'NMR Studies of Tyrosine Residues in Lactobacillus Casei Dihydrofolate Reductase'
+semantic_tags:
+  - Nuclear Magnetic Resonance (NMR)
+  - Enzyme Structure
+  - Dihydrofolate Reductase
+  - Protein Conformation
+  - Ligand Binding
+tldr: The authors studied the effects of ligand binding on the tyrosine residues of Lactobacillus casei dihydrofolate reductase using nuclear magnetic resonance (NMR) spectroscopy. They prepared a selectively deuterated enzyme and found that ligands like methotrexate and NADPH affect the chemical shifts of the tyrosine residues. The results provide insights into the molecular interactions and conformational changes of the enzyme upon ligand binding.
+scientific_discipline: Biology and Life Sciences > Biochemistry
+```

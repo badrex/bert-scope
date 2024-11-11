@@ -1,0 +1,10 @@
+article_id: rspa_1975_0203
+revised_title: 'Van der Waals Forces in Oil-Water Systems: The Dependence of Thinning on Film Composition and Structure'
+semantic_tags:
+  - Surface Chemistry
+  - Colloidal Chemistry
+  - Thin Films
+  - Van der Waals Forces
+  - Lipid Chemistry
+tldr: This article investigates the van der Waals free energy of thinning in lipid films with various compositions and structures. The authors determine the Hamaker coefficients and find that they approach a constant value as the film thickness increases, but tend to rise rapidly towards smaller thicknesses. They also examine the role of lipid polar groups, hydrocarbon layer structure, and dielectric permeability in determining the Hamaker coefficient.
+scientific_discipline: Chemistry > Surface Chemistry

@@ -1,0 +1,9 @@
+revised_title: "On the Mass, Momentum, Energy, and Circulation of a Solitary Wave: A New Approach to Approximating the Solitary Wave's Profile"
+semantic_tags:
+  - Fluid Dynamics
+  - Solitary Waves
+  - Wave Mechanics
+  - Water Waves
+  - Wave Energy
+tldr: The author investigates the mass, momentum, energy, and circulation of a solitary wave, providing new relations between these properties. They also derive a simple but accurate approximation to the profile of the solitary wave of maximum amplitude using energy relations and an exponential function.
+scientific_discipline: Physics > Fluid Dynamics

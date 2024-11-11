@@ -1,0 +1,10 @@
+article_id: rspa_1979_0108
+revised_title: Gravitational Wave Detectors: Recent Developments in General Relativity
+semantic_tags:
+  - Gravitational waves
+  - General relativity
+  - Gravitational wave detectors
+  - Space-based experiments
+  - Laser interferometry
+tldr: This article discusses the development of gravitational wave detectors and the potential for space-based experiments to detect low-frequency waves from supermassive black holes. Earth-based detectors using laser interferometry and resonant bars at low temperatures are also being constructed to search for gravitational waves from supernovae.
+scientific_discipline: Physics > Gravitational Waves

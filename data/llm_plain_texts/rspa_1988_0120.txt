@@ -1,0 +1,10 @@
+article_id: rspa_1988_0120
+revised_title: 'Geostationary Orbits Around a Rotating Rigid Body: Analyzing Stability and Types'
+semantic_tags:
+  - Celestial Mechanics
+  - Spacecraft Design
+  - Geostationary Orbits
+  - Satellite Dynamics
+  - Rigid Body Rotation
+tldr: The article investigates the existence and stability of geostationary orbits around a general, non-symmetric rotating body. It demonstrates that there are at least two possible geostationary positions for small satellites, with half being oscillatory and half being unstable. The study also suggests the possibility of a general phenomenon where initially geostationary satellites tend to cluster around specific points.
+scientific_discipline: Physics > Celestial Mechanics

@@ -1,0 +1,11 @@
+article_id: 'rstb_1970_0008'
+revised_title: 'The Discovery and Understanding of Protein Structure'
+semantic_tags:
+  - Protein Crystallography
+  - X-ray Diffraction
+  - Enzyme Structure
+  - Peptide Chains
+  - Protein Hydrolysis
+tldr: The author discusses the early history of protein crystallography, focusing on the discovery of the first protein crystal structure, pepsin. She highlights the initial challenges and hesitations in understanding the existence of peptide chains in globular proteins and how X-ray analysis has since provided detailed insights into their structure.
+scientific_discipline: Biology and Life Sciences > Biochemistry
+```

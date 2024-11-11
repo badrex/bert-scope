@@ -1,0 +1,10 @@
+article_id: 'rspb_1980_0146'
+revised_title: 'Exploring the Interaction between Simian Virus 40 T Antigen and a Specific Host Protein'
+semantic_tags:
+  - 'Virology'
+  - 'Molecular Biology'
+  - 'Tumor Virus'
+  - 'Host-Pathogen Interaction'
+  - 'Protein Complex'
+tldr: The article investigates the complex between simian virus 40 (SV40) T antigen and a specific host protein. The researchers found that a fraction of the large-T protein in transformed cells exists in a specific complex with a host-coded phosphoprotein of 53,000 apparent molecular mass. The study examines the nature of this complex in various SV40-transformed cell lines and explores its potential role in the transformation process.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

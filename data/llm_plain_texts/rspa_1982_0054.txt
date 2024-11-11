@@ -1,0 +1,10 @@
+article_id: rspa_1982_0054
+revised_title: Total Interaction as Perturbation in the Schrödinger Equation
+semantic_tags:
+  - Quantum Mechanics
+  - Schrödinger Equation
+  - Perturbation Theory
+  - Quantum Systems
+  - Energy Eigenvalues
+tldr: The article discusses a simple approximation for the Schrödinger equation, considering total interaction as perturbation. The approximation retains the scaling behavior of exact eigenvalues and provides upper bounds for energy eigenvalues. It can be applied to various quantum systems and offers order-of-magnitude estimates for physical quantities.
+scientific_discipline: Physics > Quantum Mechanics

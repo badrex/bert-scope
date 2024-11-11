@@ -1,0 +1,10 @@
+article_id: rspa_1972_0165
+revised_title: De Haas-van Alphen Measurements of Conduction Electron g-Factor in Noble Metals and Potassium
+semantic_tags:
+  - Fermi surface
+  - De Haas-van Alphen effect
+  - Conduction electron g-factor
+  - Noble metals
+  - Potassium
+tldr: The authors developed a new technique to measure the conduction electron g-factor in noble metals and potassium using the de Haas-van Alphen effect. They studied the g-factor of the neck orbits in noble metals and found a large g-shift from the free electron value in potassium, which they attributed to many-body effects. This technique allowed them to determine the anisotropy of the local g-factor over the Fermi surface and provided a value for the Landau coefficient in potassium.
+scientific_discipline: Physics > Condensed Matter Physics

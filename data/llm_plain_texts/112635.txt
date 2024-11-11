@@ -1,0 +1,10 @@
+article_id: 112635
+revised_title: A Study of Caustics and Refraction in Optics
+semantic_tags:
+  - Optics
+  - Caustics
+  - Refraction
+  - Geometry
+  - Mathematical Physics
+tldr: This article discusses the properties of caustics, focusing on the case of parallel rays refracted at a circle. The author presents a mathematical analysis of the secondary caustic curve, which is a curve of the order 8. The article also explores the case of reflection, where the curve degenerates into a curve of the order 6, and proposes further study of this sextic curve.
+scientific_discipline: Mathematics > Applied Mathematics

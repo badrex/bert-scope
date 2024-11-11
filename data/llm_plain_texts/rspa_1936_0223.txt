@@ -1,0 +1,10 @@
+article_id: rspa_1936_0223
+revised_title: Electro-Kinetic Effects in Solution: Reactions Between Ions and Polar Molecules
+semantic_tags:
+  - Electrochemistry
+  - Reaction kinetics
+  - Ion-dipole interactions
+  - Bimolecular reactions
+  - Electrostatic interactions
+tldr: The article investigates the efficiency of emission of fluorescent radiation from xenon and krypton using an expansion chamber. It then explores a theory of electro-kinetic effects in solution, focusing on reactions between ions and polar molecules. The author provides a mathematical analysis of the factors involved in these reactions, including the velocity coefficient, and discusses the implications of their findings for understanding chemical reactions and the role of electrostatic interactions.
+scientific_discipline: Chemistry > Electrochemistry

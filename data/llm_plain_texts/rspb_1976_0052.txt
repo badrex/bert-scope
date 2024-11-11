@@ -1,0 +1,10 @@
+article_id: 'rspb_1976_0052'
+revised_title: 'Erythrocyte Behavior in Concentrated Suspensions: Conductimetric Investigation'
+semantic_tags:
+  - Hematology
+  - Blood Rheology
+  - Erythrocyte Deformation
+  - Shear Flow
+  - Particle Orientation
+tldr: This study investigates the behavior of canine erythrocytes in isotonic saline suspensions undergoing shear flow. By measuring suspension resistivities, the researchers found that erythrocyte shape changes significantly with increasing shear rate. The results show that cell concentration is a major determinant of erythrocyte behavior and point to the existence of three concentration regimes in the range of flow rates investigated. The findings suggest that erythrocyte deformation becomes the primary mechanism of suspension flow at high concentrations.
+scientific_discipline: Biology and Life Sciences > Hematology

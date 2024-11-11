@@ -1,0 +1,10 @@
+article_id: rspa_1951_0070
+revised_title: 'Wedge Effect and Interfacial Tension in Electrolysis of Amalgams'
+semantic_tags:
+  - Electrochemistry
+  - Surface Tension
+  - Amalgams
+  - Electrolysis
+  - Interfacial Phenomena
+tldr: The authors discovered a 'wedge effect' when electrolyzing certain amalgams at a mercury cathode, causing a wedge of electrolyte to form between the mercury and the glass. This phenomenon is attributed to a decrease in the interfacial tension between the mercury and the electrolyte, which invalidates the Neumann equilibrium requirements at the contact line between the mercury, glass, and electrolyte. The authors also studied the effects of this phenomenon on the interfacial tension and pressure distribution within the electrolyte wedge.
+scientific_discipline: Chemistry > Electrochemistry

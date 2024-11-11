@@ -1,0 +1,10 @@
+article_id: 'rspa_1932_0174'
+revised_title: 'Mobility of Alkali Ions in Gases: Dispersion and Resolving Power'
+semantic_tags:
+  - Ion mobility
+  - Alkali metals
+  - Gas dispersion
+  - Resolving power
+  - Ion clustering
+scientific_discipline: Chemistry > Physical Chemistry
+tldr: This article investigates the mobility of alkali ions in various gases, focusing on the resolving power of the four-gauze method. The authors analyze factors that determine the resolving power and discuss the mobility spectrum of ions in different gases. They also explore the effects of ion clustering and the possibility of detecting isotopes of lithium using the method. The study provides insights into the behavior of alkali ions in gases and the potential for improving the resolving power of ion mobility experiments.

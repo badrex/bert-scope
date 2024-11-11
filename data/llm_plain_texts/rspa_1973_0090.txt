@@ -1,0 +1,10 @@
+article_id: rspa_1973_0090
+revised_title: Investigation of the Neutral Vacancy in Diamond
+semantic_tags:
+  - Diamond physics
+  - Crystallography
+  - Optical absorption
+  - Uniaxial stress
+  - Point defects
+tldr: The authors studied the GR1 optical absorption system in diamond, responsible for the blue-green color of electron-irradiated diamonds. They discovered two zero-phonon lines at 1.665 and 1.673 eV associated with the defect, and proposed an energy level scheme to explain the thermal behavior of the lines. The energy levels facilitated the interpretation of uniaxial stress data, leading to the conclusion that the defect possesses tetrahedral symmetry. The research suggests that the GR1 center is likely the neutral vacancy.
+scientific_discipline: Physics > Crystallography

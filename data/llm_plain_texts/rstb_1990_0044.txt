@@ -1,0 +1,10 @@
+article_id: 'rstb_1990_0044'
+revised_title: 'Fibroblast Growth Factor's Role in Mesoderm Induction in Early Xenopus Development'
+semantic_tags:
+  - 'Embryonic Development'
+  - 'Mesoderm Induction'
+  - 'Fibroblast Growth Factor'
+  - 'Xenopus'
+  - 'Heparin Binding Growth Factors'
+tldr: 'The article discusses the role of fibroblast growth factor (FGF) in mesoderm induction during early Xenopus development. FGF, along with other heparin binding growth factors, can induce ventral mesoderm formation in ectoderm cells. The competence of ectoderm cells to respond to FGF increases from the 128-cell stage and declines by the onset of gastrulation. This process is crucial for the proper development of various tissues and structures in the Xenopus embryo.'
+scientific_discipline: Biology and Life Sciences > Developmental Biology

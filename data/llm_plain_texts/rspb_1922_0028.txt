@@ -1,0 +1,10 @@
+article_id: 'rspb_1922_0028'
+revised_title: 'Muscle Acidity and Contraction: A Study on Veratrin and Decerebrate Preparations'
+semantic_tags:
+  - Muscle physiology
+  - Acid-base balance
+  - Muscle contraction
+  - Veratrin
+  - Decerebrate preparations
+tldr: This study investigates the relationship between muscle acidity and contraction using a method that records changes in hydrogen-ion concentrations in tissues. The author finds that acidity remains constant during maintained muscle contractions and decreases when the tension falls. The results suggest that acidity is common to both tetanus and tone, indicating that there is one mechanism in muscle and not two.
+scientific_discipline: Biology and Life Sciences > Muscle Physiology

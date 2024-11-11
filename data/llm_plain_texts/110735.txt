@@ -1,0 +1,10 @@
+article_id: 110735
+revised_title: Investigating the Relationship Between Barometer Height and Moon's Declination
+semantic_tags:
+  - Atmospheric pressure
+  - Barometer
+  - Lunar declination
+  - Meteorology
+  - Ocean tides
+tldr: The author combined observations of barometer height and lunar declination to investigate the relationship between them. They found that the inequality in barometer height might be related to the lunar declination, suggesting that ocean tides could be influenced by the moon's position.
+scientific_discipline: Earth Sciences > Meteorology

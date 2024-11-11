@@ -1,0 +1,10 @@
+article_id: rspa_1963_0166
+revised_title: First-order Raman Effect in Crystals: Theory and Applications
+semantic_tags:
+  - Raman Spectroscopy
+  - Semiconductors
+  - Crystal Lattice Vibration
+  - Electron-Lattice Interaction
+  - Deformation Potential Approximation
+tldr: This article presents a theory of the first-order Raman effect in crystals, focusing on semiconductors. It explains that the most important Raman scattering mechanism involves the interaction of radiation with the lattice via electrons. The theory covers the symmetry and frequency dependence of the scattering tensor, as well as the width and temperature shift of Raman lines. The article also derives expressions for elasto-optical and electro-optical coefficients as by-products of the calculation.
+scientific_discipline: Physics > Solid State Physics

@@ -1,0 +1,10 @@
+article_id: 'rstb_1986_0080'
+revised_title: 'Biological Invasions: Modelling, Chance, Explanation, and Prediction'
+semantic_tags:
+  - 'Biological invasions'
+  - 'Ecosystems'
+  - 'Stochastic models'
+  - 'Spatial spread'
+  - 'Population dynamics'
+tldr: 'The article discusses the importance of modeling biological invasions, considering factors such as chance, explanation, and prediction. It explores various models, including stochastic and deterministic approaches, to understand the spread and persistence of species in ecosystems. The author emphasizes the need for clear and robust models that can be applied to real-world situations and help in understanding the complex dynamics of biological invasions.'
+scientific_discipline: 'Environmental and Earth Sciences > Ecology'

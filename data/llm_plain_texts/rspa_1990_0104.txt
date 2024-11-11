@@ -1,0 +1,10 @@
+article_id: rspa_1990_0104
+revised_title: 'Cubic and Mixed Autocatalysis in Isothermal Chemical Systems'
+semantic_tags:
+  - Chemical kinetics
+  - Reaction-diffusion waves
+  - Autocatalysis
+  - Travelling waves
+  - Non-dimensional parameter
+tldr: This article investigates the development of travelling waves in a simple isothermal chemical system with cubic and mixed autocatalysis. The authors extend previous studies to cubic autocatalysis and mixed systems where quadratic and cubic autocatalyses occur concurrently. They find that the reaction-diffusion wave has a form appropriate to a purely cubic autocatalysis when a non-dimensional parameter lies between certain values, and approaches those of quadratic autocatalysis when the parameter exceeds a specific value. The authors also examine the initial formation of a propagating reaction-diffusion front in the case of large initial concentration of the autocatalyst.
+scientific_discipline: Chemistry > Chemical kinetics

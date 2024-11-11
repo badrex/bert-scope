@@ -1,0 +1,10 @@
+article_id: rspa_1987_0044
+revised_title: 'Weighted Sobolev Spaces and Exterior Problems for the Helmholtz Equation'
+semantic_tags:
+  - Helmholtz equation
+  - Weighted Sobolev spaces
+  - Exterior problems
+  - Radiation condition
+  - Boundary value problems
+tldr: The authors use weighted Sobolev spaces to study existence and uniqueness of solutions to exterior problems for the Helmholtz equation. They show that radiating solutions satisfy a specific condition and have certain integrability properties, providing a unique solution to the problem.
+scientific_discipline: Mathematics > Functional Analysis

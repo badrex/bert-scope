@@ -1,0 +1,10 @@
+article_id: rspl_1873_0070
+revised_title: Prime Factorization of Reciprocals with a Given Number of Figures
+semantic_tags:
+  - Number Theory
+  - Prime Numbers
+  - Factorization
+  - Decimal Expansions
+  - Reciprocals
+tldr: The author presents a table to determine prime numbers based on the number of figures in the period of their reciprocals. The table shows the prime factors of numbers formed by writing down n nines, where n is the given number of figures in the period of the reciprocal. The author also discusses exceptions and the process of prime factorization for composite numbers.
+scientific_discipline: Mathematics > Number Theory

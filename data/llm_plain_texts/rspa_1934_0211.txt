@@ -1,0 +1,10 @@
+article_id: rspa_1934_0211
+revised_title: 'Inhibition Mechanism of the Photochemical Reaction between Hydrogen and Chlorine'
+semantic_tags:
+  - Photochemistry
+  - Chain reactions
+  - Inhibition
+  - Nitrogen trichloride
+  - Quantum efficiency
+tldr: The authors studied the induction period of the photochemical reaction between hydrogen and chlorine, discovering that nitrogen trichloride is the inhibiting substance produced when chlorine and hydrogen are added to ammonia. They found that during the induction period, the quantum efficiency of hydrogen chloride formation is very small, and the inhibition must be applied at the very inception of the hydrogen-chlorine chain. This work provides a deeper understanding of the reaction mechanism and the role of inhibitors in the process.
+scientific_discipline: Chemistry > Photochemistry

@@ -1,0 +1,10 @@
+article_id: 'rsta_1987_0094'
+revised_title: 'Comet Halley: Gas Composition and Space Missions'
+semantic_tags:
+  - Comet Halley
+  - Gas composition
+  - Space missions
+  - Astronomy
+  - Astrophysics
+tldr: The article discusses the gas composition of Comet Halley, focusing on the results obtained from space missions. Water vapor and carbon dioxide were identified as the most abundant gases, with production rates of about 10^30 s^-1 and 10^28 s^-1, respectively. The presence of hydrocarbons and/or carbonaceous material was also detected in the vicinity of the nucleus. Space missions, including Vega 1, Vega 2, and Giotto, provided valuable data on the spatial distribution of radicals, parent molecules, and gaseous constituents in the coma.
+scientific_discipline: Astronomy > Astrophysics

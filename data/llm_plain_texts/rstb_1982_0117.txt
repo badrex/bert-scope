@@ -1,0 +1,10 @@
+article_id: 'rstb_1982_0117'
+revised_title: 'Interferon's Antiviral and Non-Antiviral Effects on Virus-Infected Cells'
+semantic_tags:
+  - Interferon
+  - Antiviral state
+  - Virus-specific effects
+  - Retrovirus replication
+  - Cell fusion inhibition
+tldr: The article investigates the antiviral and non-antiviral effects of interferon on virus-infected cells. It shows that interferon induces the development of an antiviral state in cells against exogenous infections of cytolytic viruses. However, in some cases, the antiviral effects of interferon are virus-specific. The study also highlights the inhibition of retrovirus production by interferon and its correlation with non-antiviral actions on cell membranes.
+scientific_discipline: Biology and Life Sciences > Virology

@@ -1,0 +1,10 @@
+article_id: rspa_1964_0004
+revised_title: 'Experimental Investigation of Fluctuating Lift and Drag Forces on a Circular Cylinder in a Flowing Fluid'
+semantic_tags:
+  - Fluid Dynamics
+  - Vortex Shedding
+  - Fluid-Induced Vibration
+  - Strouhal Number
+  - Aerodynamics
+tldr: This study measures the fluctuating lift and drag forces, as well as the steady drag force, exerted by a fluid on a stationary circular cylinder. The research aims to provide a better understanding of the forces involved in fluid dynamics and their impact on structures like bridges and buildings. The findings can help engineers design more stable structures and improve our understanding of fluid-induced vibrations.
+scientific_discipline: Physics > Fluid Dynamics

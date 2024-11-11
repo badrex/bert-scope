@@ -1,0 +1,10 @@
+article_id: rspa_1988_0023
+revised_title: 'Pore-Size Distributions and Pore-Space Interconnectivity of Vycor Porous Glass'
+semantic_tags:
+  - Adsorption-desorption hysteresis
+  - Capillary condensation
+  - Pore-size distribution
+  - Pore-space interconnectivity
+  - Vycor porous glass
+tldr: The authors develop a model to determine the pore-size distributions and pore-space interconnectivity of Vycor porous glass using adsorption-desorption hysteresis capillary condensation isotherms. They use a Bethe tree as the network of pore connections and analyze capillary condensation adsorption and desorption scanning curves. The results provide an estimate of the cavity-size distribution, window-size distribution, and the number of windows per cavity, enabling the calculation of geometric pore sizes from the Kelvin pore sizes.
+scientific_discipline: Physics > Materials Science

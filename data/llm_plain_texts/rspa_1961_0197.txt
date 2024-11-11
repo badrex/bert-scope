@@ -1,0 +1,10 @@
+article_id: rspa_1961_0197
+revised_title: Diffraction of a Plane Wave by a Nearly Circular Cylinder: Asymptotic Analysis
+semantic_tags:
+  - Electromagnetic Wave Diffraction
+  - Wave Scattering
+  - Bessel Functions
+  - Asymptotic Analysis
+  - Radar Scattering
+tldr: This article presents a solution to the problem of a plane wave diffraction by a nearly circular cylinder. The analysis focuses on the case where the mean radius of the cylinder is large compared to the wavelength. The study uses infinite Fourier transform techniques and provides an asymptotic analysis for the specular and creeping contributions to the far field. The results are compared with the Luneberg-Kline method and Keller's prescription, showing agreement in the expected range.
+scientific_discipline: Physics > Electromagnetic Waves

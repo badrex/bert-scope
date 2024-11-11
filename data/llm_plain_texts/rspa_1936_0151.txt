@@ -1,0 +1,10 @@
+article_id: 'rspa_1936_0151'
+revised_title: 'Investigation of Optical Contact and Molecular Forces Between Glass Surfaces'
+semantic_tags:
+  - Surface Physics
+  - Molecular Forces
+  - Glass Science
+  - Contact Mechanics
+  - Optical Refraction
+tldr: The author investigates the contact between glass surfaces and the range of molecular forces involved. They find that the distance between contacted surfaces is larger than previously estimated, challenging previous notions on molecular forces. The optical tests focus on the distance between the contacted surfaces rather than the range of the attractive force beyond that distance.
+scientific_discipline: Physics > Surface Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1950_0057
+revised_title: Dynamics of One-Dimensional Dislocations
+semantic_tags:
+  - Solid Mechanics
+  - Dislocations
+  - Crystallography
+  - Material Science
+  - Relativistic Mechanics
+tldr: The authors study the equations of motion for a one-dimensional dislocation model and find solutions representing disturbances propagated without change of form. They discover three types of solutions: dislocations with velocities less than the characteristic wave velocity, anti-dislocations with velocities greater than the characteristic wave velocity, and waves of infinitesimal amplitude. The study provides insights into the behavior of dislocations in three-dimensional crystals and helps in understanding the dynamics of materials.
+scientific_discipline: Physics > Solid Mechanics

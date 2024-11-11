@@ -1,0 +1,10 @@
+article_id: rspa_1994_0035
+revised_title: Direct Reductions and Differential Constraints in Partial Differential Equations
+semantic_tags:
+  - Differential Equations
+  - Partial Differential Equations
+  - Reduction Methods
+  - Nonlinear Analysis
+  - Mathematical Physics
+tldr: The author explores the relationship between direct reduction methods and differential constraints in partial differential equations. They show that there is a one-to-one correspondence between direct reductions and compatible first-order quasi-linear differential constraints, and demonstrate how this connection can be used to analyze reductions of partial differential equations to ordinary differential equations.
+scientific_discipline: Mathematics > Differential Equations

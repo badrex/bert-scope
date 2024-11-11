@@ -1,0 +1,10 @@
+article_id: rspa_1931_0072
+revised_title: 'Investigating the Reflection of Vapour Molecules at a Liquid Surface'
+semantic_tags:
+  - Surface Science
+  - Evaporation
+  - Thermodynamics
+  - Heat Transfer
+  - Molecular Reflection
+tldr: The authors conducted experiments to determine the rate of evaporation of water and the reflection of vapor molecules at a liquid surface. They found that only about 1% of incident vapor molecules can enter the liquid, suggesting there is significant reflection at the surface.
+scientific_discipline: Physics > Thermodynamics

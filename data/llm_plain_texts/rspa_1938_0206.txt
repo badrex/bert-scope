@@ -1,0 +1,10 @@
+article_id: rspa_1938_0206
+revised_title: 'Investigation of Spark Discharge Development at Various Pressures'
+semantic_tags:
+  - Electrical Discharge
+  - Spark Discharge
+  - High-Voltage Electrode
+  - Atmospheric Pressure
+  - Low-Pressure Experiments
+tldr: The authors conducted experiments to study the development of the spark discharge at different pressures, from atmospheric to sub-atmospheric. They used a rotating-film camera and a high-speed cathode-ray oscillograph to capture voltage and current oscillograms. The results showed that the development of the spark discharge is affected by the presence of capacitance and resistance in the circuit, and the speed of the leader stroke decreases as the pressure decreases. The authors also observed different types of discharges, such as positive and negative discharges, and the formation of leader strokes with various branching patterns.
+scientific_discipline: Physics > Electromagnetism

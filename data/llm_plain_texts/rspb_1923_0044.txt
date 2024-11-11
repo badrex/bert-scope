@@ -1,0 +1,10 @@
+article_id: 'rspb_1923_0044'
+revised_title: 'A New Method for Measuring Percentage Hemolysis in Real Time'
+semantic_tags:
+  - Hemolysis
+  - Radiometer
+  - Light measurement
+  - Haemolytic reactions
+  - Temperature control
+tldr: The authors developed a new method to measure the percentage of red blood cells hemolysed in real-time using a radiometer to detect changes in light transmission through the cell suspension. This method allows for more accurate and precise measurements of hemolysis, especially at high temperatures and with high concentrations of haemolytic agents.
+scientific_discipline: Biology and Life Sciences > Hematology

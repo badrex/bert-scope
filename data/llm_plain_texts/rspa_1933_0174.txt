@@ -1,0 +1,10 @@
+article_id: rspa_1933_0174
+revised_title: Investigation of the Carbon Dioxide Afterglow Spectrum
+semantic_tags:
+  - Spectroscopy
+  - Carbon Dioxide
+  - Afterglow
+  - Band Spectrum
+  - Molecular Physics
+tldr: This article investigates the spectrum of the afterglow of carbon dioxide, finding that the bands of the afterglow and carbon monoxide flame spectrum are identical in the region X 3500 to X 4850. The authors conclude that the afterglow and CO flame spectrum likely originate from molecules of carbon dioxide, with the afterglow's phenomena depending on the interaction between neutral oxygen molecules and excited neutral molecules of carbon monoxide.
+scientific_discipline: Physics > Spectroscopy

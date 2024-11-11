@@ -1,0 +1,10 @@
+article_id: rspa_1934_0154
+revised_title: 'Improving Techniques for Counter-Controlled Cloud Chamber Experiments'
+semantic_tags:
+  - Cloud Chamber
+  - Particle Physics
+  - Cosmic Rays
+  - Nuclear Physics
+  - Experimental Techniques
+tldr: The author describes the technique of the counter-controlled cloud chamber, which is used to detect and study very fast atomic particles, particularly cosmic rays. The method involves using tube counters to detect the passage of high-energy particles through a cloud chamber, and then using relays to actuate the chamber. The author discusses the design and operation of the chamber, including the movement of the piston, the choice of gases and liquids, and the placement of the counters and solenoid. The technique allows for the capture of clear, fine tracks of particles, which can be used to study their properties and interactions.
+scientific_discipline: Physics > Particle Physics

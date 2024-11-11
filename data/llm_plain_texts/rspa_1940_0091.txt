@@ -1,0 +1,10 @@
+article_id: rspa_1940_0091
+revised_title: 'Study of Quenching Efficiency in Sodium Resonance Radiation'
+semantic_tags:
+  - Quenching of resonance radiation
+  - Sodium
+  - Molecular structure
+  - Non-adiabatic reactions
+  - Stern-Volmer relation
+tldr: This study investigates the quenching efficiency of various molecules in sodium's resonance radiation. The results show that unsaturated molecules have a higher quenching efficiency, while saturated hydrocarbons have a lower efficiency. The findings suggest that the energy discrepancy between molecules is not the main factor controlling quenching efficiency.
+scientific_discipline: Chemistry > Molecular Physics

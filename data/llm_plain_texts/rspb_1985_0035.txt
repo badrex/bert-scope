@@ -1,0 +1,10 @@
+article_id: 'rspb_1985_0035'
+revised_title: 'Horseradish Peroxidase Study of Motorneuron Pools in Axolotl Limbs'
+semantic_tags:
+  - 'Neuroscience'
+  - 'Motor Neurons'
+  - 'Axolotl'
+  - 'Regeneration'
+  - 'Retrograde Tracing'
+tldr: This study investigates motorneuron pools in the axolotl's forelimb and hindlimb musculature using horseradish peroxidase as a retrograde neuronal tracer. The research characterizes motorneuron pools by four criteria: position in the rostrocaudal axis, median position, number of labeled cells, and position in the transverse plane of the spinal cord. The findings provide a map to assay neuromuscular specificity in experiments on limb regeneration in axolotls.
+scientific_discipline: Biology and Life Sciences > Neuroscience

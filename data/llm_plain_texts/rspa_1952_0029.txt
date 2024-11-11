@@ -1,0 +1,10 @@
+article_id: rspa_1952_0029
+revised_title: Thermal and Electrical Conductivity of Copper at Low Temperatures
+semantic_tags:
+  - Low-temperature physics
+  - Thermal conductivity
+  - Electrical conductivity
+  - Copper
+  - Lorenz number
+tldr: The authors measured the thermal and electrical conductivity of copper at low temperatures and found a strong discrepancy between theory and experiment. They discovered that the Lorenz number curve for copper and sodium deviated widely from the theoretical curve, with no obvious physical basis for the discrepancies. The results suggest that further research is needed to understand the anomalous minimum in the electrical resistance and the absence of the predicted minimum of thermal conductivity.
+scientific_discipline: Physics > Solid State Physics

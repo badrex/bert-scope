@@ -1,0 +1,10 @@
+article_id: 'rstb_1994_0101'
+revised_title: 'The Role of Reaper Gene in Programmed Cell Death in Drosophila'
+semantic_tags:
+  - 'Apoptosis'
+  - 'Programmed Cell Death'
+  - 'Drosophila'
+  - 'Genetics'
+  - 'Cell Biology'
+tldr: 'The article discusses the role of apoptosis in development, tissue homeostasis, and malignancy in Drosophila. The researchers found that a single region on the third chromosome, called reaper, is essential for all cell deaths that occur during Drosophila embryogenesis. The reaper gene is specifically expressed in cells that are destined to die and plays a central control function for the activation of apoptosis in response to various signals.'
+scientific_discipline: Biology and Life Sciences > Genetics and Development

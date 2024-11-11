@@ -1,0 +1,10 @@
+article_id: rspl_1903_0016
+revised_title: Amended Solution for Bending of Electric Waves Around Conducting Obstacles
+semantic_tags:
+  - Electromagnetism
+  - Wave Propagation
+  - Conducting Materials
+  - Mathematical Analysis
+  - Physics
+tldr: The author presents a corrected analysis of the bending of electric waves around conducting obstacles. The study focuses on the mathematical development of the solution, which agrees with Lord Rayleigh's anticipation. The findings provide a better understanding of the behavior of electric waves in the presence of conducting materials.
+scientific_discipline: Physics > Electromagnetism

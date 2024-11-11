@@ -1,0 +1,10 @@
+article_id: rspa_1973_0063
+revised_title: Vibrational Relaxation in the Triplet State of Aromatic Compounds
+semantic_tags:
+  - Triplet state
+  - Vibrational relaxation
+  - Intersystem crossing
+  - Buffer gas
+  - Anthracene
+tldr: The authors used a monochromatic ruby laser and nanosecond time resolution to study vibrational relaxation in the triplet state of several aromatic compounds, including anthracene. They proposed a mechanism for vibrational relaxation and determined the average amount of energy removed per collision for mixtures of buffer gas and anthracene. The pressure dependence of the triplet yield upon excitation of anthracene at 347 nm was also investigated.
+scientific_discipline: Chemistry > Spectroscopy

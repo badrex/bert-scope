@@ -1,0 +1,10 @@
+article_id: rspl_1879_0165
+revised_title: 'On the Constants of the Cup Anemometer: Experiments and Analysis'
+semantic_tags:
+  - Meteorology
+  - Fluid dynamics
+  - Anemometers
+  - Wind measurement
+  - Hydrodynamics
+tldr: The author conducted experiments to determine the constants of the cup anemometer, a device used to measure wind speed. They compared different types of anemometers and found that each type has its own constants. The author recommends using the Kew type anemometer for fixed instruments and suggests selecting a standard type for portable anemometers to create a uniform system of wind measurement.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

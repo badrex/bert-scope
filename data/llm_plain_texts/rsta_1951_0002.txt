@@ -1,0 +1,10 @@
+article_id: rsta_1951_0002
+revised_title: High-Current Toroidal Ring Discharge: A Study of Plasma Ion Oscillations and Ion Concentrations
+semantic_tags:
+  - Plasma physics
+  - Ion concentration
+  - Toroidal ring discharge
+  - Induction accelerator
+  - High-current discharge
+tldr: The authors studied a high-current toroidal ring discharge, where the primary coil is a metal coating on the outside of the torus. They obtained waveforms of currents and electric fields in the gas and studied the light from the discharge spectroscopically and with a photomultiplier. The gases used were hydrogen and argon. The results showed very large currents in the gas, with peak amplitudes greater than A. The current is in phase with the electric field, and the exciting frequency is 150. The authors found that peak ion concentrations occur, which are greater than the molecular concentrations, and are thought to be plasma ion oscillations. The toroidal ring discharge has potential as an induction accelerator.
+scientific_discipline: Physics > Plasma Physics

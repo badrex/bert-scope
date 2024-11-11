@@ -1,0 +1,10 @@
+article_id: 'rspb_1993_0138'
+revised_title: 'Modeling B-Cell Activation by Crosslinking of Membrane Immunoglobulins'
+semantic_tags:
+  - Immunology
+  - B-Cell Activation
+  - Percolation Theory
+  - Crosslinking
+  - Membrane Immunoglobulins
+tldr: The authors propose a simple model for B-cell activation induced by crosslinking of membrane immunoglobulins, based on percolation theory. They define an activation function that depends on experimental parameters, such as ligand valence and constant rates, and analyze its behavior through numerical methods. This model challenges the assumption in immune network models that the activation function is identical for all ligands.
+scientific_discipline: Biology and Life Sciences > Immunology

@@ -1,0 +1,10 @@
+article_id: 'rspa_1925_0051'
+revised_title: 'Investigation of the Field of Force Near the Neutral Point Produced by Two Coaxial Coils'
+semantic_tags:
+  - Electromagnetism
+  - Mutual Inductance
+  - Coaxial Coils
+  - Campbell Standard
+  - Electromagnetic Force
+tldr: This article investigates the field of force near the neutral point produced by two equal coaxial coils, focusing on the Campbell standard of mutual inductance. The author calculates the variation of mutual inductance due to a radial displacement of the secondary coil and compares it with previous results. The findings can be applied to the design of the Campbell Standard of Mutual Inductance at the National Physical Laboratory.
+scientific_discipline: Physics > Electromagnetism

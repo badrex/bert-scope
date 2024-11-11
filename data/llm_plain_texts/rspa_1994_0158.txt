@@ -1,0 +1,10 @@
+article_id: rspa_1994_0158
+revised_title: 'Extension of the Method of Steepest Descents for Gamma Function Asymptotics'
+semantic_tags:
+  - Asymptotic Expansions
+  - Gamma Function
+  - Mathematical Analysis
+  - Integral Representations
+  - Error Bounds
+tldr: The author extends the method of steepest descents to derive a new representation for the gamma function, which can be used to find explicit and realistic error bounds for its asymptotic expansion. This new representation also leads to the discovery of the Berry transition between different asymptotic expansions across a Stokes line and asymptotic estimates for the late coefficients.
+scientific_discipline: Mathematics > Asymptotic Analysis

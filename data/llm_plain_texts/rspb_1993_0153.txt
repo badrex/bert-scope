@@ -1,0 +1,10 @@
+article_id: 'rspb_1993_0153'
+revised_title: 'Sodium Channel Content and Action Potential Conduction in Myelin-Deficient Optic Nerve'
+semantic_tags:
+  - Neurophysiology
+  - Optic Nerve
+  - Myelin
+  - Sodium Channels
+  - Action Potentials
+tldr: The study investigates the relationship between action potential conduction and sodium channel content in the optic nerve of myelin-deficient rats. Results show that action potential propagation in myelin-deficient rats is slower, but still secure, with refractory and frequency-following properties similar to control myelinated axons. The study also finds that sodium channel density per axon is equivalent in both myelin-deficient and control optic nerves.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

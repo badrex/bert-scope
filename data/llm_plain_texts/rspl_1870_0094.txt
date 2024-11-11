@@ -1,0 +1,10 @@
+article_id: rspl_1870_0094
+revised_title: Hydro-Kinetics and the Expansion of Fluids
+semantic_tags:
+  - Fluid Dynamics
+  - Hydrodynamics
+  - Fluid Pressure
+  - Incompressible Fluids
+  - Experimental Physics
+tldr: The author discusses the effect of diminished fluid pressure in rapidly moving portions of a fluid, leading to a slight expansion due to the fluid not being perfectly incompressible. The author also highlights the importance of experimental illustrations in the field of hydro-kinetics, which helps to improve the understanding of those who study it mathematically.
+scientific_discipline: Physics > Fluid Dynamics

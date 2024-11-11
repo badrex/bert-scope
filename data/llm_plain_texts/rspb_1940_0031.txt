@@ -1,0 +1,10 @@
+article_id: 'rspb_1940_0031'
+revised_title: 'Effect of Field Size and Pattern on Visual Sensitivity: A Study on Adaptation'
+semantic_tags:
+  - Visual sensitivity
+  - Adaptation
+  - Field size
+  - Pattern interference
+  - Threshold brightness
+tldr: The study investigates the effect of field size and pattern on visual sensitivity and adaptation. It shows that the threshold brightness remains constant for larger conditioning fields, but increases to a maximum and then decreases for smaller fields. The findings suggest that the conditioning field raises the threshold brightness through integrative effects and pattern interference, which vary depending on the retinal area and brightness level.
+scientific_discipline: Psychology > Perception and Vision

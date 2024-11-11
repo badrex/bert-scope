@@ -1,0 +1,10 @@
+article_id: rspa_1954_0185
+revised_title: The Etching of Diamond: Cleavage, Dodecahedron, and Cube Faces
+semantic_tags:
+  - Diamond etching
+  - Crystallography
+  - Microscopy
+  - Interferometry
+  - Laminated structure
+tldr: This article studies the etching of different diamond faces, cleavage, dodecahedron, and cube, using high-resolution microscopy, multiple-beam interferometry, and the light-profile microscope. The authors discover a laminated internal fine structure within the diamond, revealing that the diamond has grown by laying down a large number of thin lamellae, sheets parallel to the crystallographic planes. The etching process provides a sectional history of the diamond's growth, showing increased resistance to etching at the onset or end of each layer.
+scientific_discipline: Physics > Crystallography

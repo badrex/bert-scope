@@ -1,0 +1,10 @@
+article_id: 'rstb_1983_0004'
+revised_title: 'Industrial Enzyme Production: Techniques and Challenges'
+semantic_tags:
+  - Enzyme production
+  - Microbial enzymes
+  - Fermentation techniques
+  - Strain improvement
+  - Enzyme recovery
+tldr: This article reviews the methods used to produce industrial enzymes on a large scale, focusing on microbial enzymes derived from Bacillus and Aspergillus species. It discusses strain development, fermentation techniques, including solid-state and submerged fermentation, and enzyme recovery processes. The article highlights the importance of strain improvement and the challenges faced in measuring and controlling various factors in the fermentation process.
+scientific_discipline: Biology and Life Sciences > Microbiology

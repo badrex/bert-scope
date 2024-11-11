@@ -1,0 +1,10 @@
+article_id: rspa_1956_0016
+revised_title: Phase Separation in Rod-like Particle Solutions
+semantic_tags:
+  - Polymer Chemistry
+  - Phase Equilibria
+  - Rod-like Particles
+  - Lattice Model
+  - Molecular Orientation
+tldr: This article presents a simplified lattice model to study phase equilibria in solutions of rod-like particles. The model considers the number of configurations available for solute molecules with different orientations. The free energy of mixing is derived, and the results show that phase separation occurs due to particle asymmetry, even without repulsive forces between the particles. The theory offers a statistical mechanical basis for interpreting the precipitation of rod-like colloidal particles and fibrillar structures in fibrous proteins.
+scientific_discipline: Physics > Materials Science

@@ -1,0 +1,10 @@
+article_id: rspa_1950_0100
+revised_title: 'Diffraction by a Plane Screen: A Revisit'
+semantic_tags:
+  - Electromagnetic Waves
+  - Diffraction Theory
+  - Integral Equations
+  - Wave Functions
+  - Boundary Conditions
+tldr: The author investigates the diffraction of electromagnetic waves by a perfectly conducting plane screen using integral equations and wave functions. They demonstrate that the boundary conditions on the edge of the screen are crucial for the solution and that the integral-equation method is valid even when certain conditions are not met. The author also solves the three-dimensional problem of diffraction by a half-plane, providing a more comprehensive understanding of the phenomenon.
+scientific_discipline: Physics > Electromagnetic Waves

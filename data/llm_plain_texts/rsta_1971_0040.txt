@@ -1,0 +1,10 @@
+article_id: rsta_1971_0040
+revised_title: Wind-Induced Instability of Structures: Vortex-Induced Bending Oscillations and Transverse Galloping
+semantic_tags:
+  - Aeronautical Aerodynamics
+  - Wind Engineering
+  - Structural Dynamics
+  - Vortex-Induced Oscillations
+  - Transverse Galloping
+tldr: This article discusses wind-induced instabilities in structures, focusing on vortex-induced bending oscillations and transverse galloping. It explains the phenomena, effects of body and wind parameters, and methods of analysis and suppression for susceptible structures. The article also considers future requirements and prospects in the field of wind engineering.
+scientific_discipline: Engineering and Technology > Wind Engineering

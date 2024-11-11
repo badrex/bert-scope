@@ -1,0 +1,10 @@
+article_id: rspa_1962_0207
+revised_title: 'Derivation of the Spin-Orbit Coupling Constant in Atoms'
+semantic_tags:
+  - Atomic Physics
+  - Spin-Orbit Coupling
+  - Hartree-Fock Description
+  - Two-Body Mutual Spin-Orbit Interaction
+  - Atomic Configuration
+scientific_discipline: Physics > Atomic and Molecular Physics
+tldr: The authors derive an exact expression for the spin-orbit coupling constant within the Hartree-Fock description of atoms by considering the two-body mutual spin-orbit interaction between electrons. They find that the usual expression for the coupling constant is only approximate and that exchange terms, which arise from the two-body interaction and determinantal wave function, must also be included. The resulting expression for the spin-orbit coupling constant is given in terms of radial integrals that can be calculated using Hartree or Hartree-Fock wave functions.

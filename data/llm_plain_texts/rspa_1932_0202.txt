@@ -1,0 +1,10 @@
+article_id: rspa_1932_0202
+revised_title: 'Anomalous Intensity Distribution in the Lyman Series of Hydrogen'
+semantic_tags:
+  - Atomic Spectroscopy
+  - Hydrogen Spectrum
+  - Resonance Effect
+  - Discharge Tube
+  - Helium
+scientific_discipline: Physics > Atomic and Molecular Physics
+tldr: The authors studied the resonance spectrum of hydrogen using a hollow cathode discharge in helium. They discovered an anomalous distribution of intensity among the members of the Lyman series, with a sudden enhancement in the intensity of the 10th and 11th members. This phenomenon was found to occur only in the presence of arsenic, becoming more prominent with greater pressure of arsenic vapor in the discharge tube. The cause of this anomalous intensity is attributed to a resonance effect.

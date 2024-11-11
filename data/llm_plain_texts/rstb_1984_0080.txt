@@ -1,0 +1,10 @@
+article_id: 'rstb_1984_0080'
+revised_title: 'Modeling Pea Moth Flight to Pheromone Traps in Crops'
+semantic_tags:
+  - Entomology
+  - Mathematical modeling
+  - Pheromone traps
+  - Crop physics
+  - Insect behavior
+tldr: This article presents a mathematical model that explains how pea moths navigate to pheromone traps in a crop field. The model takes into account the physical effects of the crop on the pheromone plume and the role of the crop in absorbing and re-emitting pheromones. The model helps predict the behavior of pea moths and can be used to improve the placement of pheromone traps in crop fields.
+scientific_discipline: Biology and Life Sciences > Entomology

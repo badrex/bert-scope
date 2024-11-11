@@ -1,0 +1,10 @@
+article_id: rspl_1879_0081
+revised_title: 'Improving the Capillary Electroscope for Accurate Measurements'
+semantic_tags:
+  - Electrochemistry
+  - Electrometry
+  - Capillary electrophoresis
+  - Mercury
+  - Electromotive force
+scientific_discipline: Physics > Electromagnetism
+tldr: The author discusses the challenges and improvements of the capillary electroscope, an instrument used to measure the different degrees of electromotive force in various metals and electrolytic solutions. They provide detailed instructions on how to clean and maintain the instrument to ensure accurate measurements, emphasizing the importance of a suitable capillary tube, clean mercury, and proper conducting solutions. The author also explains the factors affecting the movement of the mercury column in the capillary tube, such as adhesion, air or gas bubbles, and irregularities in the glass.

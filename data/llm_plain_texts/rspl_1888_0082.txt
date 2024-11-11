@@ -1,0 +1,10 @@
+article_id: rspl_1888_0082
+revised_title: 'Co-relations and their Measurement: An Exploration of Anthropometric Data'
+semantic_tags:
+  - Statistics
+  - Anthropometry
+  - Correlation
+  - Regression
+  - Human Biology
+tldr: This article introduces the concept of correlation and its measurement, particularly from anthropometric data. The author, Francis Galton, explains the relationship between variables and how they are influenced by common causes. He also discusses the use of the probable error as a universal unit for measuring various attributes, such as breathing capacity, strength, memory, and eyesight. The article provides examples and data from a study conducted at the anthropometric laboratory at South Kensington.
+scientific_discipline: Social Sciences > Statistics

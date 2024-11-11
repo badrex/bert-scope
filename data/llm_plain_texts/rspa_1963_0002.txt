@@ -1,0 +1,10 @@
+article_id: rspa_1963_0002
+revised_title: 'Surface Flow and Gas-Phase Blockage in Microporous Media: Binary Gas Mixtures'
+semantic_tags:
+  - Adsorption
+  - Gas separation
+  - Surface diffusion
+  - Microporous media
+  - Gas-phase flow
+tldr: The authors conducted experiments on the flow of binary gas mixtures through a microporous carbon plug. They found that the less volatile components in the mixtures were transported on the surface of the adsorbent, leading to efficient separation processes. The blockage of gas-phase flow by the adsorbed phase was investigated, showing that the membrane can become impermeable to a non-sorbed component while remaining permeable to a strongly sorbed component. This study provides insights into the potential for using surface diffusion for gas separations.
+scientific_discipline: Chemistry > Adsorption and Surface Chemistry

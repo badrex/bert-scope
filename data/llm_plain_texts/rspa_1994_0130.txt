@@ -1,0 +1,10 @@
+article_id: rspa_1994_0130
+revised_title: 'Numerical Study of Heat and Mass Transport in Fibre Suspensions'
+semantic_tags:
+  - Heat transfer
+  - Mass transport
+  - Fibre suspensions
+  - Effective conductivity
+  - Diffusion-controlled reaction
+scientific_discipline: Environmental and Earth Sciences > Heat Transfer
+tldr: This article presents a numerical study of heat and mass transport in fibre suspensions, focusing on the effective conductivity and reaction rate coefficients. The authors use slender body theory, periodic boxes, and the periodic solution to Laplace's equation to develop a set of integral equations that are numerically solved. The study considers fibre-fibre interactions and is valid for suspension concentrations up to the semi-dilute regime and for various fibre shapes, including blunt-ended bodies. The results show that fibre-fibre interactions enhance the effective conductivity beyond dilute theory predictions at suspension concentrations of up to a certain threshold. The study also provides a direct verification of the semi-dilute theories of Shaqfeh and Fredrickson, demonstrating the scaling behavior of suspensions of cylinders and spheroids.

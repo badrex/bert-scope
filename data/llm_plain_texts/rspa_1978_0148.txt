@@ -1,0 +1,10 @@
+article_id: rspa_1978_0148
+revised_title: Theoretical Evaluation of Higher Order Hyperfine Terms in the Spin Hamiltonian
+semantic_tags:
+  - Spin Hamiltonian
+  - Hyperfine interaction
+  - Electron paramagnetic resonance
+  - Crystal field theory
+  - Quantum chemistry
+tldr: The authors present a method to evaluate the higher order hyperfine terms in the spin Hamiltonian for an electron system with electron-nuclear interactions. They develop a unique solution for the parameters in the spin Hamiltonian and discuss its application in various crystal field environments, including octahedral, tetragonal, and trigonal symmetries.
+scientific_discipline: Physics > Quantum mechanics

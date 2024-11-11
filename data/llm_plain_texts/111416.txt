@@ -1,0 +1,10 @@
+article_id: 111416
+revised_title: Investigating the Electrical Conductivity of Commercial Copper
+semantic_tags:
+  - Electrical conductivity
+  - Copper quality
+  - Submarine telegraphs
+  - Wire manufacturing
+  - Absolute measurement
+tldr: The author examines the differences in electrical conductivity among various types of commercial copper wire used in submarine telegraphs. They discovered that the quality of copper wire varies greatly between manufacturers and that some copper samples have significantly lower conductivity than others. The author also discusses the importance of using high-quality copper wire for submarine telegraph construction and the use of absolute measurement in determining specific resistances and conductivities.
+scientific_discipline: Engineering and Technology > Electrical Engineering

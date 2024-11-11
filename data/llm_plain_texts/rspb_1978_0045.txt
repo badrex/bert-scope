@@ -1,0 +1,10 @@
+article_id: 'rspb_1978_0045'
+revised_title: 'Surface Chemistry Differences in T Lymphocytes of Varying Major Histocompatibility Haplotypes'
+semantic_tags:
+  - Immunology
+  - Lymphocytes
+  - Major Histocompatibility Complex
+  - Surface Chemistry
+  - T Lymphocytes
+tldr: The authors studied the surface chemistry of spleen T lymphocytes from mice with different major histocompatibility haplotypes. They found significant differences in the number of cationogenic amino groups on the surface of T lymphocytes with H-2f and H-2S haplotypes. This difference in surface chemistry could be responsible for the subtle differences in the immune response between these mice.
+scientific_discipline: Biology and Life Sciences > Immunology

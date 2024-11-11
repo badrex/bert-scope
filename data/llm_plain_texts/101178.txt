@@ -1,0 +1,10 @@
+article_id: 101178
+revised_title: 'A New Instrument for Accurate Moon Observation and Solar Refraction Corrections'
+semantic_tags:
+  - Astronomy
+  - Lunar observation
+  - Solar refraction
+  - Instrument design
+  - Celestial mechanics
+tldr: The author, Mr. Flamsteed, describes his new design for an instrument to accurately measure the Moon's position to within a minute or two. He also discusses his method for correcting solar refractions and the need to improve the accuracy of planetary observations. This work has implications for understanding the Moon's position and refining astronomical calculations.
+scientific_discipline: Astronomy > Lunar observation and instrument design

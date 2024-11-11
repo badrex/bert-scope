@@ -1,0 +1,10 @@
+article_id: rspa_1993_0135
+revised_title: Two-Dimensional Tensor Function Representations for Material Symmetry
+semantic_tags:
+  - Material Symmetry
+  - Tensor Analysis
+  - Anisotropic Materials
+  - Plane Problems
+  - Structural Mechanics
+tldr: The author establishes complete and irreducible representations for scalar-, vector-, and second-order tensor-valued functions in two-dimensional space with respect to all kinds of material symmetry. These representations help develop general invariant forms of physical and constitutive laws for anisotropic materials in plane problems.
+scientific_discipline: Mathematics > Tensor Analysis

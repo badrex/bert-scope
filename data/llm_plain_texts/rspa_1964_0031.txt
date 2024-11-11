@@ -1,0 +1,10 @@
+article_id: rspa_1964_0031
+revised_title: Electrostatic Contributions to the Free Energy and Enthalpy of Ionization of Methaemoglobins
+semantic_tags:
+  - Biochemistry
+  - Hemoglobin
+  - Electrostatic interactions
+  - Protein structure
+  - Ionization
+tldr: The authors conducted experiments on methaemoglobin ionization and found that the differences in free energies, enthalpies, and entropies of ionization for different methaemoglobins are largely due to different electrostatic interactions between their globins and the reactive site. They used a model for a globular protein to estimate the electrostatic contributions to the free energy and enthalpy of ionization, showing that the observed differences can be accounted for by the different electrostatic interactions. This study provides insights into the thermodynamics of ionizations of abnormal haemoglobin forms.
+scientific_discipline: Chemistry > Biochemistry

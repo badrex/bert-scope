@@ -1,0 +1,10 @@
+article_id: rspa_1949_0109
+revised_title: Paramagnetic Resonance in Copper Tutton Salts: Crystallography and Susceptibility
+semantic_tags:
+  - Paramagnetic resonance
+  - Crystallography
+  - Copper Tutton salts
+  - Crystalline electric field
+  - Susceptibility
+tldr: The authors investigated the paramagnetic resonance in seven copper Tutton salts, examining their crystallography and susceptibility. They found that the crystalline electric field has tetragonal symmetry, and the effective gyromagnetic ratio deviates from the free-spin value of 2, consistent with Polder's theory. The line shapes indicate the presence of varying degrees of exchange interaction, and the "mean square moment" of the lines can be explained by magnetic dipole interaction and unresolved hyperfine structure.
+scientific_discipline: Physics > Materials Science

@@ -1,0 +1,10 @@
+article_id: 'rstb_1990_0098'
+revised_title: 'Automating Assistance for Safety-Critical Decisions: Symbolic Decision Procedures and Human Factors'
+semantic_tags:
+  - Decision Support Systems
+  - Human Factors
+  - Symbolic Decision Procedures
+  - Artificial Intelligence
+  - Decision Theory
+tldr: This article discusses the limitations of classical statistical decision models and proposes the use of symbolic decision procedures inspired by human decision-making behavior. These procedures aim to provide more flexible and intelligible assistance for safety-critical decisions in unpredictable environments, improving accountability and communication with human supervisors and auditors.
+scientific_discipline: Psychology > Human Factors

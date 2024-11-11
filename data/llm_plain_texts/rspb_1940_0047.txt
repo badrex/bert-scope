@@ -1,0 +1,10 @@
+article_id: 'rspb_1940_0047'
+revised_title: 'Infrared Absorption Method for Estimating Small Quantities of Carbon Dioxide in Air'
+semantic_tags:
+  - Carbon dioxide detection
+  - Infra-red radiation
+  - Air analysis
+  - Environmental science
+  - Atmospheric chemistry
+tldr: The authors developed a new method for estimating small quantities of carbon dioxide in air using the absorption of infra-red radiation. This method is simple, accurate, and sensitive, allowing for the estimation of carbon dioxide levels in ordinary air without the need for a spectrometer. The technique involves measuring the total transmission of radiation through the air sample, which eliminates the need for sensitive detecting apparatus and reduces the impact of temperature variations on the results.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Chemistry

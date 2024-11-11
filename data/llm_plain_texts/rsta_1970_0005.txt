@@ -1,0 +1,10 @@
+article_id: rsta_1970_0005
+revised_title: Uniqueness and Resolution in Inverting Inaccurate Gross Earth Data
+semantic_tags:
+  - Geophysics
+  - Earth modeling
+  - Inversion techniques
+  - Observational errors
+  - Seismic data analysis
+tldr: The authors explore the effects of observational errors on the extraction of geophysical information from a finite set of gross Earth data, such as frequencies of oscillation of normal modes and seismic travel times. They demonstrate how to determine if a given set of measured data permits the construction of localized averages of Earth structure and how to find the shortest length scale for these averages while maintaining a specified level of error. The study applies the general theory to linear and nonlinear problems, including the determination of local elastic dissipation and density against depth.
+scientific_discipline: Earth Sciences > Geophysics

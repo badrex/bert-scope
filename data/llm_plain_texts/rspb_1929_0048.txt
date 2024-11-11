@@ -1,0 +1,10 @@
+article_id: 'rspb_1929_0048'
+revised_title: 'The Interaction between Two Trains of Impulses in Motoneurons'
+semantic_tags:
+  - Neurophysiology
+  - Motor Neurons
+  - Reflexes
+  - Afferent Nerves
+  - Occlusion
+tldr: The authors investigated the interaction between two trains of impulses converging on the same motoneuron. They found that when one afferent pathway is activated, it can cause exclusion of the effect of the other afferent pathway on the common motoneuron. However, when the stimuli are minimal, the effect of each afferent can augment and summate at the place of convergence. The study provides insights into the complex interactions between different afferent pathways and their effects on motoneurons.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

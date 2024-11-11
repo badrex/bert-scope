@@ -1,0 +1,12 @@
+article_id: rspa_1954_0046
+revised_title: 'Argon-Oxygen Liquid-Vapor Equilibrium: A Comprehensive Study'
+semantic_tags:
+  - Thermodynamics
+  - Gas Mixtures
+  - Phase Equilibrium
+  - Vapour Pressure
+  - Cryogenics
+tldr: 'This study investigates the liquid-vapor equilibrium of the argon/oxygen binary system, measuring the vapor pressures of condensed liquid mixtures and determining the composition differences between liquid and vapor phases in equilibrium. The results show a marked positive deviation from ideal behavior, with a tendency to form a low-boiling azeotrope. The data is presented in tabular form, and constants and formulas are provided for calculating values for any pressure, temperature, or composition.'
+scientific_discipline: Chemistry > Thermodynamics
+```yaml
+```

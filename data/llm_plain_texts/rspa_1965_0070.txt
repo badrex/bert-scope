@@ -1,0 +1,10 @@
+article_id: rspa_1965_0070
+revised_title: Fluid Surface Perturbations and their Growth Rates
+semantic_tags:
+  - Fluid Dynamics
+  - Hydrodynamics
+  - Shock Waves
+  - Perturbation Theory
+  - Equations of State
+tldr: The article investigates the growth of perturbations on fluid surfaces using numerical integration of hydrodynamic equations and simplified methods. Two equations of state are considered, and the effects of compressibility and varying shell energy are analyzed. The study focuses on the behavior of perturbations on the inner and outer surfaces of a thick collapsing spherical shell.
+scientific_discipline: Physics > Fluid Dynamics

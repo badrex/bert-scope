@@ -1,0 +1,10 @@
+article_id: 'rspb_1983_0012'
+revised_title: 'Contrast-Coding in Amblyopia: Neural Differences in Human Amblyopia'
+semantic_tags:
+  - Visual Perception
+  - Amblyopia
+  - Contrast Sensitivity
+  - Strabismus
+  - Anisometropia
+tldr: This study investigates the contrast-coding deficit of amblyopic eyes and explores the differences in neural basis of human amblyopia, including strabismic, anisometropic, and astigmatic forms. The results suggest that strabismic and anisometropic amblyopes have different neural bases and that all forms share a common feature of large threshold losses relative to suprathreshold anomalies. The findings raise questions about our understanding of contrast-coding in normal vision and its perceptual importance.
+scientific_discipline: Psychology > Visual Perception

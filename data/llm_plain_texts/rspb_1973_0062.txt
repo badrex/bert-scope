@@ -1,0 +1,10 @@
+article_id: 'rspb_1973_0062'
+revised_title: 'Computer-Aided Surgical Diagnosis: A Study on Abdominal Pain'
+semantic_tags:
+  - Medical Diagnosis
+  - Computer-aided diagnosis
+  - Bayes Theorem
+  - Abdominal pain
+  - Surgical diagnosis
+tldr: This study investigates the use of a computer-aided system to assist in surgical diagnosis, specifically in patients with abdominal pain. The system uses a variant of Bayes Theorem to compare new cases with a database of 600 patients and produce a diagnostic prediction. The overall diagnostic accuracy of the computer-aided system was 91.5%, significantly higher than the clinicians' accuracy, and the system performed well in differentiating between common conditions like appendicitis and non-specific abdominal pain. The results suggest that computer-aided systems can be a valuable tool in improving diagnostic accuracy in surgical cases.
+scientific_discipline: Medicine and Health Sciences > Medical Diagnosis

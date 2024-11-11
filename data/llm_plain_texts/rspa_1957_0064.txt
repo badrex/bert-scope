@@ -1,0 +1,10 @@
+article_id: rspa_1957_0064
+revised_title: 'Wave Induction on a Vertical Water Film: Mechanism of Flooding in a Packed Tower'
+semantic_tags:
+  - Fluid Dynamics
+  - Wave Formation
+  - Packed Tower Flooding
+  - Air-Water Interactions
+  - Bernoulli's Theorem
+tldr: This study investigates the formation of standing waves on a vertical water film caused by an accelerating airstream. The research aims to understand the mechanism of flooding in a packed tower, which is used in the chemical industry for gas-liquid contact. The authors found that the formation of these waves is the initial step in the flooding of a packed tower, and their findings can help improve the design and operation of these systems.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

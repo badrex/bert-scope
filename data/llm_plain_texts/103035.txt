@@ -1,0 +1,10 @@
+article_id: 103035
+revised_title: A New Method for Finding Logarithms and Corresponding Numbers
+semantic_tags:
+  - Mathematics
+  - Logarithms
+  - Number Theory
+  - Mathematical Tables
+  - Arithmetic
+tldr: The author presents a new method for finding logarithms and corresponding numbers using a table. The table consists of eight classes of numbers, which are essentially scales of mean proportionals. This method allows for quick calculations of logarithms and their corresponding numbers, making it easier for mathematicians and scientists to work with large numbers and complex calculations.
+scientific_discipline: Mathematics > Number Theory

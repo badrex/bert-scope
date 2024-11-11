@@ -1,0 +1,10 @@
+article_id: 'rstb_1995_0139'
+revised_title: 'Characterization of Phytochrome Signal-Transduction Pathways and Isolation of Mutants'
+semantic_tags:
+  - 'Plant Molecular Biology'
+  - 'Phytochrome'
+  - 'Signal Transduction'
+  - 'Plant Genetics'
+  - 'Plant Development'
+tldr: 'This article discusses the study of phytochrome signal-transduction pathways in higher plants, focusing on the characterization of three distinct pathways: calcium-dependent, cGMP-dependent, and calcium/cGMP-dependent. The authors also describe the isolation of mutants with altered photomorphogenic responses and their use in understanding the regulation and interactions of these signaling pathways.'
+scientific_discipline: Biology and Life Sciences > Plant Biology

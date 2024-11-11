@@ -1,0 +1,10 @@
+article_id: 'rstl_1883_0020'
+revised_title: 'Determination of the Limiting Thickness of Liquid Films'
+semantic_tags:
+  - Surface Science
+  - Thin Films
+  - Physics
+  - Optics
+  - Electrical Resistance
+tldr: 'The authors conducted experiments to determine the limiting thickness of liquid films using electrical and optical methods. They used a soap solution to create thin films and measured their electrical resistance and optical properties. The results provided a better understanding of the properties of thin films and their applications in various fields.'
+scientific_discipline: Physics > Surface Science

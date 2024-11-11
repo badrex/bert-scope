@@ -1,0 +1,10 @@
+article_id: 112403
+revised_title: On the Conditions for the Existence of Certain Systems of Equal Roots of a Binary Quartic or Quintic
+semantic_tags:
+  - Algebra
+  - Number Theory
+  - Polynomials
+  - Root Systems
+  - Mathematical Analysis
+tldr: Professor Cayley discusses the conditions for the existence of specific systems of equal roots in binary quartics and quintics. He corrects the title and introductory paragraph of his previous memoir, focusing on the threefold relations of root-systems instead of the twofold relations. The proper title should be "On the Conditions for the Existence of Certain Systems of Equal Roots of a Binary Quartic or Quintic."
+scientific_discipline: Mathematics > Algebra

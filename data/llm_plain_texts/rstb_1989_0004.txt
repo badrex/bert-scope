@@ -1,0 +1,10 @@
+article_id: 'rstb_1989_0004'
+revised_title: 'Anatomical Plasticity and Synaptic Changes in the Optic Lobe of the Fly'
+semantic_tags:
+  - Synaptic plasticity
+  - Optic lobe
+  - Visual system
+  - Neural development
+  - Fly anatomy
+tldr: The authors studied the anatomical plasticity of synapses in the lamina of the optic lobe of the fly. They found that the frequency of synaptic profiles increased until one day post-eclosion and then declined. Exposing young adult flies to different visual stimuli caused changes in synaptic frequencies, demonstrating that the L2 feedback synapse is plastic during the first four days of adult life. These findings contribute to our understanding of neural development and the visual system in insects.
+scientific_discipline: Biology and Life Sciences > Neuroscience

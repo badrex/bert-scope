@@ -1,0 +1,10 @@
+article_id: 106004
+revised_title: 'Jupiter's Satellites Observations and Longitude Determination'
+semantic_tags:
+  - Astronomy
+  - Satellite observation
+  - Celestial mechanics
+  - Longitude determination
+  - Telescopes
+tldr: 'The author, Thomas Wright, observed the immersions and emersions of Jupiter's first satellite using a two-feet reflecting telescope at Jupiter's Inlet, Anticosti Island, North America. By comparing the observations with those made at the Royal Observatory at Greenwich, he determined the longitude of the place. The study highlights the difference in the clarity of the air at Anticosti Island and Greenwich, affecting the telescope's performance.'
+scientific_discipline: Astronomy > Celestial mechanics

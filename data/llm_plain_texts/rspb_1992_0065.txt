@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0065'
+revised_title: 'Neurophysiological Adaptation in the Cerebellum During Motor Practice'
+semantic_tags:
+  - Cerebellum
+  - Motor learning
+  - Positron tomography
+  - Neurophysiology
+  - Brain activation
+tldr: The study used positron tomography to investigate the neurophysiological changes in the cerebellum during the repeated performance of a simple motor task. The results showed that the cerebellum exhibited a decrease in physiological activation with practice, suggesting that it plays a role in motor learning in humans.
+scientific_discipline: Neuroscience > Cerebellum and Motor Learning

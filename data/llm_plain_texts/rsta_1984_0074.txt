@@ -1,0 +1,10 @@
+article_id: rsta_1984_0074
+revised_title: Multiple Buoyancy-Driven Flows in a Vertical Cylinder Heated from Below: A Numerical Study
+semantic_tags:
+  - Buoyancy-driven flows
+  - Vertical cylinder
+  - Heat transfer
+  - Fluid dynamics
+  - Numerical simulations
+tldr: This study investigates the structure and stability of buoyancy-driven convection in a vertical cylinder heated from below using numerical simulations. The research focuses on the behavior of steady two-dimensional flows in a cylinder with rigid boundaries and insulated sidewalls. The findings provide insights into the evolution of flow patterns and their stability under varying Rayleigh numbers and Prandtl numbers, contributing to the understanding of natural convection processes.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1921_0084
+revised_title: 'Influence of Pressure on the Rate of Hydrogenation of Liquids in Presence of Nickel'
+semantic_tags:
+  - Catalysis
+  - Hydrogenation
+  - Nickel catalyst
+  - Pressure effects
+  - Organic compounds
+tldr: The authors studied the effect of hydrogen pressure on the rate of hydrogenation of various organic compounds in the presence of a nickel catalyst. They found that the rate of hydrogenation is directly proportional to the pressure of hydrogen for simple ethylenic compounds. However, for unsaturated alcohols and carboxylic acids, the rate of hydrogenation increases abnormally with increasing pressure due to the presence of other groups that have affinity towards nickel but are not open to hydrogenation.
+scientific_discipline: Chemistry > Catalysis

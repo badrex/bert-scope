@@ -1,0 +1,10 @@
+article_id: 108093
+revised_title: 'Investigations on Temperature Effects and Secondary Combinations in Voltaic Batteries'
+semantic_tags:
+  - Electrochemistry
+  - Voltaic action
+  - Temperature effects
+  - Battery design
+  - Electrolytes
+tldr: The author conducted experiments on the effects of temperature and secondary combinations on voltaic batteries. They discovered that temperature significantly affects the battery's performance, with higher temperatures increasing the action. The author also observed curious disturbances in the battery current due to secondary combinations and discussed the decomposition of secondary electrolytes. The findings led to improvements in battery design and understanding of the underlying processes.
+scientific_discipline: Chemistry > Electrochemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1975_0020
+revised_title: 'Rotational Excitation of Carbon Monoxide by Hydrogen Atom Impact: A Quantal Study'
+semantic_tags:
+  - Molecular scattering
+  - Quantum mechanics
+  - Astrophysics
+  - Carbon monoxide
+  - Hydrogen atoms
+tldr: This article presents a quantal study of the rotational excitation of carbon monoxide in collision with hydrogen atoms. The authors construct an interaction potential at short range and use the close-coupling formulation to assess the reliability of the fixed-nuclei approximation. They also examine two simplified close-coupling methods and find that they can provide results of useful accuracy. The study is relevant to understanding the physical conditions in interstellar clouds and the formation of protostars.
+scientific_discipline: Chemistry > Molecular Physics

@@ -1,0 +1,10 @@
+article_id: rspa_1922_0007
+revised_title: 'Investigations of the Whispering-Gallery Phenomenon and its Theoretical Explanations'
+semantic_tags:
+  - Acoustics
+  - Wave Propagation
+  - Sound Reflection
+  - Optics
+  - Light Reflection
+scientific_discipline: Physics > Optics
+tldr: This article discusses the Whispering-Gallery phenomenon and the experiments conducted to study it. The authors observed fluctuations of sound intensity in the gallery and found that radial and circumferential variations of intensity could be demonstrated using different sources and reflectors. They also compared the phenomenon to similar effects in other branches of physics, such as the propagation of electric or seismic waves. The authors concluded that Rayleigh's theory does not fully explain the observed phenomena and suggest two methods to develop a more complete theory.

@@ -1,0 +1,10 @@
+article_id: rspa_1981_0166
+revised_title: Uniqueness and Properties of Reflectors in Geometrical Optics
+semantic_tags:
+  - Geometrical Optics
+  - Reflectors
+  - Monge-Ampere Equation
+  - Boundary-Value Problems
+  - Antenna Design
+tldr: The authors present a uniqueness theorem for reflector mappings in the complex plane, which arise in geometrical optics and antenna design. They focus on the Monge-Ampere equation and its elliptic properties, providing a boundary condition for reflector mappings. The theorem has practical applications in the design of single and offset dual reflectors for radar and communications purposes.
+scientific_discipline: Mathematics > Applied Mathematics

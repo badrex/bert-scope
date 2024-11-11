@@ -1,0 +1,10 @@
+article_id: rspa_1936_0155
+revised_title: Acoustic Properties of Transforming and Non-Transforming Special Steels at Low Temperatures
+semantic_tags:
+  - Steel properties
+  - Acoustic studies
+  - Low temperature research
+  - Vibration damping
+  - Material transformation
+tldr: This study investigates the acoustic properties and vibration frequencies of special steels at low temperatures. The results show that transforming nickel steels experience a significant increase in internal damping and a decrease in Young's modulus of elasticity. The findings also reveal a correlation between the steel's properties and its structure, suggesting that the acoustic method is a useful tool for studying secular changes in metals.
+scientific_discipline: Materials Science > Steel Properties

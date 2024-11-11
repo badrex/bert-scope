@@ -1,0 +1,10 @@
+article_id: rspa_1928_0043
+revised_title: The Kinetics of Hydrogen and Oxygen Combination: A Study of Gaseous Reactions
+semantic_tags:
+  - Chemical kinetics
+  - Gas reactions
+  - Combustion
+  - Catalysis
+  - Surface reactions
+tldr: This study investigates the reaction between hydrogen and oxygen gases, focusing on the kinetics and factors affecting the rate of the chemical change. The authors used a static method to examine the reaction at constant temperature and volume, finding that the reaction changes its nature with increasing temperature. At higher temperatures, the reaction becomes more sensitive to pressure, autocatalytic, and less dependent on the surface area. The authors also observed that the reaction is strongly influenced by the presence of steam and powdered silica.
+scientific_discipline: Chemistry > Chemical kinetics

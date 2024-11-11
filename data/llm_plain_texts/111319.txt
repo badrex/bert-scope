@@ -1,0 +1,10 @@
+article_id: 111319
+revised_title: 'Invention of a Bimetallic Thermometer for Measuring Temperature Fluctuations'
+semantic_tags:
+  - Thermometry
+  - Temperature measurement
+  - Bimetallic thermometer
+  - Atmospheric temperature
+  - Heat radiation
+tldr: The author, Balfour Stewart, invented a bimetallic thermometer that measures temperature changes using the capillary action of mercury. The instrument consists of two thermometric tubes with differently-sized bores connected by a bulb filled with mercury. The mercury expands from heat in one tube and contracts from cold in the other. This instrument can be used to measure fluctuations of atmospheric temperature and estimate the heating effect of a source of heat.
+scientific_discipline: Physics > Thermodynamics

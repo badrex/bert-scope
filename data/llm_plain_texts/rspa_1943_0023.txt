@@ -1,0 +1,10 @@
+article_id: rspa_1943_0023
+revised_title: Turbulent Diffusion Equation and Its Applications in Evaporation
+semantic_tags:
+  - Turbulence
+  - Diffusion
+  - Evaporation
+  - Fluid dynamics
+  - Atmospheric science
+tldr: The authors discuss the two-dimensional form of the diffusion equation in a turbulent medium and its application to evaporation problems. They present a new form of the equation and explore various boundary conditions, providing a connected account suitable for solving evaporation problems under different conditions.
+scientific_discipline: Physics > Fluid Dynamics

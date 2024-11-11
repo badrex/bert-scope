@@ -1,0 +1,10 @@
+article_id: rspa_1950_0120
+revised_title: 'Investigation of Surf Beats: Sea Waves with 1 to 5 Minute Periods'
+semantic_tags:
+  - Oceanography
+  - Waves
+  - Coastal Processes
+  - Wave Mechanics
+  - Correlation Analysis
+tldr: 'This study investigates the phenomenon of surf beats, which are long sea waves with periods of 1 to 5 minutes, caused by groups of waves breaking on the shore. The research finds that the amplitude of these long waves is approximately proportional to the amplitude of ordinary waves and independent of their period. The mechanism behind their formation is discussed, and it is suggested that they are produced by the sharp increase in shoreward transport of water in or near the breaking zone.'
+scientific_discipline: Environmental and Earth Sciences > Oceanography

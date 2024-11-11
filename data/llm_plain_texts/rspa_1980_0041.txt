@@ -1,0 +1,10 @@
+article_id: rspa_1980_0041
+revised_title: Velocity of Vortex Rings with Thin Elliptical Core
+semantic_tags:
+  - Fluid Dynamics
+  - Vortex Rings
+  - Elliptical Geometry
+  - Vorticity
+  - Fluid Mechanics
+tldr: The study investigates the motion of a circular vortex ring with a thin elliptical core. The core is untwisted, and the vorticity is proportional to the distance from the axis of symmetry. The core rotates with a constant angular velocity, and the velocity of the ring is periodic. The average velocity is smaller than the velocity of a ring with a circular core of the same cross-sectional area. The findings show that among all motions with given impulse and core area, the steady motion has the greatest kinetic energy.
+scientific_discipline: Physics > Fluid Dynamics

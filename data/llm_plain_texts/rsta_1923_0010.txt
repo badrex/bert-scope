@@ -1,0 +1,10 @@
+article_id: rsta_1923_0010
+revised_title: 'Resistance of a Cylinder Moving in a Viscous Fluid: Analyzing the Effect of Fluid Dynamics'
+semantic_tags:
+  - Fluid Dynamics
+  - Viscosity
+  - Cylinder Resistance
+  - Boundary Layer
+  - Hydrodynamics
+tldr: This article investigates the resistance experienced by a cylinder moving through a viscous fluid. The authors develop a method to calculate the resistance for various types of cylinders and analyze the effect of fluid dynamics on their motion. Their findings contribute to the understanding of fluid resistance and can be applied to various engineering and technological applications.
+scientific_discipline: Physics > Fluid Dynamics

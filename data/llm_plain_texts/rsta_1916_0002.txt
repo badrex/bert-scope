@@ -1,0 +1,10 @@
+article_id: rsta_1916_0002
+revised_title: Electrical Conductivity and Luminosity of Flames with Salt Vapors
+semantic_tags:
+  - Plasma physics
+  - Flame properties
+  - Electric fields
+  - Salt chemistry
+  - Luminosity
+tldr: The author investigates the electrical conducting and luminosity of flames containing salt vapors. They study the motion of luminous salt vapors in flames due to an electric field and measure the relative motion of the luminous salt vapor and flame gases. The experiments reveal that the conductivity of the salt-containing puffs is less than the rest of the flame, and the electric field is less in the puffs, resulting in a smaller deflection of the puffs.
+scientific_discipline: Physics > Plasma Physics

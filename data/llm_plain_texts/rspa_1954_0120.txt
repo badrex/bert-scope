@@ -1,0 +1,10 @@
+article_id: rspa_1954_0120
+revised_title: 'Hydromagnetic Instabilities in Ionized Plasmas'
+semantic_tags:
+  - Plasma physics
+  - Hydromagnetic stability
+  - Electromagnetic fields
+  - Fluid dynamics
+  - Astrophysics
+tldr: The authors investigate two cases of equilibrium for a highly conducting plasma and analyze their stability. In the first case, a plasma is supported against gravity by a horizontal magnetic field and found to be unstable. In the second case, the so-called pinch effect is studied, where a plasma is kept within a cylinder by a toroidal magnetic field and found unstable against lateral distortions.
+scientific_discipline: Physics > Plasma physics

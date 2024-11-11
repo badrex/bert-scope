@@ -1,0 +1,10 @@
+article_id: 'rsta_1962_0002'
+revised_title: 'Stored Energy in Graphite of Power-Producing Reactors: Experimental and Theoretical Work'
+semantic_tags:
+  - Nuclear Reactor Technology
+  - Graphite Properties
+  - Radiation Damage
+  - Stored Energy Release
+  - Reactor Design
+tldr: This article discusses the stored energy in graphite used in power-producing reactors. The authors describe their experimental and theoretical work on the release of energy from the graphite moderator at various temperatures. They also explore the effects of irradiation and annealing conditions on the energy release and graphite conductivity. The findings can help improve reactor design and operation by understanding the energy storage and release mechanisms in graphite moderators.
+scientific_discipline: Engineering and Technology > Nuclear Reactor Technology

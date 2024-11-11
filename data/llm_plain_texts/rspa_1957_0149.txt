@@ -1,0 +1,10 @@
+article_id: rspa_1957_0149
+revised_title: Fluid Dynamics in Papermaking Machines: Suction and Resistance
+semantic_tags:
+  - Fluid dynamics
+  - Papermaking
+  - Suction
+  - Hydraulic resistance
+  - Porous media
+tldr: This article investigates the fluid dynamics in a papermaking machine, focusing on the drainage of water from paper pulp. The author examines the suction produced under the wire, which supports the pulp and plays a significant role in the drainage process. Two cases are discussed, considering different resistance laws of the wire and paper pulp. The results show that the maximum suction occurs at the point where the resistance law is linear, and the suction is proportional to the resistance. The findings are compared with previous analysis by P. E. Wrist, highlighting the inconsistencies in his physical assumptions but confirming his prediction of the maximum suction.
+scientific_discipline: Engineering and Technology > Fluid Mechanics

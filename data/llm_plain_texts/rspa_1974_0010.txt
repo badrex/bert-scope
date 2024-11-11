@@ -1,0 +1,10 @@
+article_id: rspa_1974_0010
+revised_title: 'Magnetic Anisotropy and Nuclear Magnetic Resonance of Europium Iron Garnet'
+semantic_tags:
+  - Magnetic Anisotropy
+  - Europium Iron Garnet
+  - Nuclear Magnetic Resonance
+  - Exchange Coupling
+  - Crystalline Field
+tldr: The authors studied the magnetic anisotropy and nuclear magnetic resonance of europium iron garnet, finding that the magnetic anisotropy is caused by the combined effect of crystalline field and anisotropic exchange. They derived most of the required parameters from experimental results on nuclear magnetic resonance, spectroscopy, magnetization, and Mossbauer techniques. The study reveals that the value of the magnetic anisotropy constant is sensitive to small changes in the parameters, and the calculations are repeated for different values to satisfy the experimental values and available results on ferromagnetic resonance.
+scientific_discipline: Physics > Materials Science

@@ -1,0 +1,10 @@
+article_id: rsta_1990_0097
+revised_title: Large Magnetic Reynolds Number Dynamo Action in Spatially Periodic Flows with Mean Motion
+semantic_tags:
+  - Dynamo Theory
+  - Fluid Dynamics
+  - Magnetohydrodynamics
+  - Large Reynolds Number
+  - Kinematic Dynamo
+tldr: The authors study a family of steady fluid flows with a spatially periodic array of spiral eddies and a small uniform velocity. They investigate the advection and diffusion of passive scalar and vector fields in these flows, focusing on the large magnetic Reynolds number dynamo action. The results provide insights into the transport of scalar fields and the -effect, which is essential for understanding the complex problem of advection-diffusion by flows with chaotic Lagrangian paths.
+scientific_discipline: Physics > Fluid Dynamics

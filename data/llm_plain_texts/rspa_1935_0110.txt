@@ -1,0 +1,10 @@
+article_id: rspa_1935_0110
+revised_title: 'Vapour Pressure and Condensation of Radon at Low Temperatures: A Reassessment'
+semantic_tags:
+  - Radon
+  - Vapour pressure
+  - Condensation
+  - Low temperatures
+  - Thermodynamics
+tldr: This article investigates the behaviour of radon at low temperatures and its condensation process. The author presents a method to measure the concentration of radon in the gaseous state and examines the vapour pressure of radon at low temperatures. The results show that the condensation of radon is not solely due to the presence of condensible impurities, but is also influenced by thermodynamical factors.
+scientific_discipline: Chemistry > Thermodynamics

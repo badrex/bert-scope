@@ -1,0 +1,10 @@
+article_id: rspa_1992_0027
+revised_title: Spin Distribution, Canting, and Covalence in Ammonium Chromous Tutton Salt
+semantic_tags:
+  - Crystal Field Theory
+  - Magnetization Density
+  - Polarized Neutron Diffraction
+  - Transition Metal Complexes
+  - Jahn-Teller Distortion
+tldr: The authors conducted polarized neutron diffraction experiments on deuterated ammonium chromous Tutton salt to study the spin distribution, canting, and covalence in the compound. They found that the spin density corresponds to a'spin hole' with a significant contribution from covalence and spin polarization. The canting parameters describe the projection of the total ion spin moment, and the results are well-explained by a tetragonal crystal field model.
+scientific_discipline: Physics > Optics

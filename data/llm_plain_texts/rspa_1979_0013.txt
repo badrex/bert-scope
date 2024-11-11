@@ -1,0 +1,10 @@
+article_id: rspa_1979_0013
+revised_title: 'Linear Stability Analysis of Centrifugal Instabilities in Circumferential Flows of Finite Cylinders'
+semantic_tags:
+  - Fluid dynamics
+  - Taylor-Couette flow
+  - Centrifugal instability
+  - Linear stability theory
+  - Cylindrical annulus
+tldr: The authors investigate the linear stability of circumferential flows in finite cylinders, focusing on the centrifugal instabilities. They find that the critical Taylor numbers for different modes are affected by the length of the annulus, and that the finiteness of the container can lead to distinct disturbance flow fields compared to infinite problems. The study provides insights into the behavior of Taylor cells in finite-length containers and the effects of end conditions on the stability of the flow.
+scientific_discipline: Physics > Fluid dynamics

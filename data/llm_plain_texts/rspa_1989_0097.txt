@@ -1,0 +1,10 @@
+article_id: rspa_1989_0097
+revised_title: Exploring Spatial and Temporal Complexity in Biological Systems with Hamiltonian Dynamics
+semantic_tags:
+  - Hamiltonian Dynamics
+  - Biological Modeling
+  - Population Genetics
+  - Pattern Formation
+  - Excitable Systems
+tldr: This article explores the spatial and temporal complexity in biological systems using nonintegrable Hamiltonian dynamics. The author discusses various models, including population genetics, mollusc shell patterning, and excitable systems, and demonstrates the role of Hamiltonian dynamics in understanding complex phenomena in these areas.
+scientific_discipline: Mathematics > Applied Mathematics > Dynamical Systems

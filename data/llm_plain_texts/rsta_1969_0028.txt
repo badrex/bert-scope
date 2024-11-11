@@ -1,0 +1,10 @@
+article_id: 'rsta_1969_0028'
+revised_title: 'Submillimetre Astronomy: Advances and Future Prospects'
+semantic_tags:
+  - Astronomy
+  - Infrared Astronomy
+  - Atmospheric Science
+  - Molecular Spectroscopy
+  - Space Observation
+tldr: This article discusses the advancements and future prospects of submillimetre astronomy. It highlights the atmospheric windows and absorption features in the wave-number regions, the use of the 76 cm telescope at Jungfraujoch for solar and atmospheric studies, and the potential of using the 337 maser for a heterodyne detection system. The authors also mention the extension of the aircraft experiment for solar observations and the possibility of revealing weaker features with improved spectral resolution.
+scientific_discipline: Astronomy > Infrared Astronomy

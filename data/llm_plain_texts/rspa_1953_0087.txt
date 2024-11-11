@@ -1,0 +1,10 @@
+article_id: rspa_1953_0087
+revised_title: 'Deuterium Tracing Mechanisms in Flame Spectra Formation'
+semantic_tags:
+  - Flame spectroscopy
+  - Combustion chemistry
+  - Deuterium tracing
+  - Chemical reactions
+  - Spectral analysis
+tldr: The authors used deuterium as a tracer to study the formation of OH, CH, and HCO in flame spectra. They found that these radicals are not formed directly from the breakdown of hydrocarbon, but rather through secondary reactions. The results indicate that CH and HCO do not come directly from the breakdown of acetylene but from some secondary reaction where the hydrogen atom has an equal chance of coming from hydrogen or acetylene.
+scientific_discipline: Chemistry > Chemical kinetics and reaction dynamics

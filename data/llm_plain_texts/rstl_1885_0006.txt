@@ -1,0 +1,10 @@
+article_id: 'rstl_1885_0006'
+revised_title: 'Continuous Calculating Machines and Mechanisms: A New Approach'
+semantic_tags:
+  - Mechanism design
+  - Calculating machines
+  - Integration and differentiation
+  - Engineering applications
+  - Velocity ratios
+tldr: The authors discuss the theory of continuous calculating machines and a mechanism on a new principle, which can perform operations of differentiation and integration. They explore the potential applications and limitations of this mechanism, and suggest ways to improve its accuracy and efficiency. This mechanism has various applications in engineering, such as measuring power transmitted from a prime mover or to a machine.
+scientific_discipline: Engineering and Technology > Mechanism Design

@@ -1,0 +1,10 @@
+article_id: rspl_1876_0029
+revised_title: 'On the Influence of Residual Gas on Repulsion Resulting from Radiation'
+semantic_tags:
+  - Radiation
+  - Repulsion
+  - Residual Gas
+  - Viscosity
+  - Thermometry
+scientific_discipline: Physics > Thermodynamics
+tldr: The author conducted experiments to study the repulsion resulting from radiation and its relation to residual gas. They discovered that the repulsive force was not directly due to radiation but was indirectly caused by a difference in thermometric heat between black and white surfaces of the moving body. The presence of residual gas played a significant role in the observed phenomena, affecting both the force of radiation and the viscosity of the gas.

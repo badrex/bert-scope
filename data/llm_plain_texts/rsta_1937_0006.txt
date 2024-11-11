@@ -1,0 +1,10 @@
+article_id: rsta_1937_0006
+revised_title: Radiation Field and Calculation of Resistance and Reactance in Cylindrical Antennas
+semantic_tags:
+  - Electromagnetic theory
+  - Antenna design
+  - Radio broadcasting
+  - Transmission lines
+  - Boundary conditions
+tldr: The author investigates the radiation field of a perfectly conducting base insulated cylindrical antenna over a perfectly conducting plane earth and calculates the radiation resistance and reactance. The study improves the understanding of antenna design and radio broadcasting, especially for antennas with heights comparable to the wavelength.
+scientific_discipline: Engineering and Technology > Electrical Engineering

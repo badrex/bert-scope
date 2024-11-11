@@ -1,0 +1,10 @@
+article_id: rspl_1893_0056
+revised_title: 'Electrical Interference Phenomena: A Study of Reflection and Transmission'
+semantic_tags:
+  - Electromagnetism
+  - Wave Theory
+  - Electrical Interference
+  - Electrometry
+  - Condenser
+tldr: The author investigates electrical interference phenomena and their relation to Newton's theory. They study the reflection and transmission of electrical waves in conductors with varying properties, using an electrometer and a special apparatus. The findings provide insights into the behavior of electrical waves and the potential applications of these phenomena in various fields.
+scientific_discipline: Physics > Electromagnetism

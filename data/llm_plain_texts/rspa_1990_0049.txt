@@ -1,0 +1,10 @@
+article_id: rspa_1990_0049
+revised_title: Hydrogenolysis and Related Reactions of Hydrocarbons on Silica-Supported Rh-Pt Bimetallic Catalysts
+semantic_tags:
+  - Catalysis
+  - Hydrogenolysis
+  - Rhodium
+  - Platinum
+  - Hydrocarbons
+tldr: The authors studied the hydrogenolysis and related reactions of hydrocarbons (C3 to C5) on silica-supported Rh-Pt bimetallic catalysts. They found that the main reaction was hydrogenolysis, breaking a single carbon-carbon bond. Rhodium catalysts were more active than platinum for hydrogenolysis, with different rates and selectivities for various hydrocarbons. The results help understand the active sites and mechanisms involved in these reactions.
+scientific_discipline: Chemistry > Catalysis

@@ -1,0 +1,10 @@
+article_id: rspa_1989_0004
+revised_title: Fractal Dimensions and Mixing in Turbulent Flows
+semantic_tags:
+  - Turbulence
+  - Fluid Dynamics
+  - Fractal Dimensions
+  - Mixing
+  - Entrainment
+scientific_discipline: Physics > Fluid Dynamics
+tldr: This article explores the relationship between the fractal dimension of surfaces in turbulent flows and the processes of mixing and entrainment. The authors demonstrate that the fractal dimension of these surfaces can be used to predict the amount of mixing between two reactants in a turbulent flow, and they provide experimental evidence to support their predictions. The findings have implications for understanding and modeling mixing and entrainment in a variety of turbulent flows.

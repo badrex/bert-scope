@@ -1,0 +1,10 @@
+article_id: rspa_1946_0090
+revised_title: Stability of Viscous Flow Between Rotating Cylinders in Opposite Directions
+semantic_tags:
+  - Fluid Dynamics
+  - Viscosity
+  - Rotating Cylinders
+  - Stability Analysis
+  - Asymptotic Expansions
+tldr: This article investigates the stability of a viscous fluid flowing between rotating cylinders when they rotate in opposite directions. The author develops a mathematical model and uses asymptotic expansions to analyze the problem, finding the critical velocities and spacings of vortices. The results are compared with experimental data, showing good agreement.
+scientific_discipline: Physics > Fluid Dynamics

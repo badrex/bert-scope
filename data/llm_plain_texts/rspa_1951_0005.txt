@@ -1,0 +1,10 @@
+article_id: rspa_1951_0005
+revised_title: 'Experimental Investigation of the T(d,n) Reaction Cross-Section'
+semantic_tags:
+  - Nuclear Physics
+  - Nuclear Reaction
+  - Cross-Section
+  - Resonance
+  - Tritium-Deuterium Reaction
+tldr: The authors conducted experiments to investigate the cross-section of the T(d,n) reaction, focusing on the energy range of 100 to 200 triton energy. They used a thin vapour target and a more reliable method to measure voltage, comparing the yield of alpha-particles from the T-D reaction with the yield of protons from the D-D reaction. The results disagreed with previous resonance formulae and suggested that a conventional theory postulating a reaction at a distance equal to the sum of the nuclear radii could not explain the reaction. The evidence for a low-energy resonance was considered inconclusive.
+scientific_discipline: Physics > Nuclear Physics

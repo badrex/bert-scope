@@ -1,0 +1,10 @@
+article_id: rspa_1924_0032
+revised_title: 'Sorption and Desorption of Gases in Contact with Glass Surfaces'
+semantic_tags:
+  - Gas sorption
+  - Gas desorption
+  - Glass surfaces
+  - Gas diffusion
+  - Gas solution
+scientific_discipline: Chemistry > Physical Chemistry
+tldr: The authors conducted experiments to study the behavior of gases in contact with glass surfaces. They found that the sorption process could not be explained by simple diffusion or solution, and the phenomenon was the initial phase of a very slow process. The results showed that the rate of sorption was related to the pressure and the gas's solubility in water. The authors also observed that reaching equilibrium in the desorption process was as difficult as in the sorption process.

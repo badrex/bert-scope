@@ -1,0 +1,10 @@
+article_id: rspa_1981_0014
+revised_title: 'Dissolution Kinetics of Ionic Oxides: The Role of Cations and pH'
+semantic_tags:
+  - Oxide dissolution
+  - Surface chemistry
+  - Electrolyte
+  - Magnesium oxide
+  - Crystal surfaces
+tldr: The authors studied the initial dissolution kinetics of ionic oxides, focusing on magnesium oxide. They discovered that factors like cation concentration and pH can significantly affect the dissolution rate. The results challenge current theoretical models and provide a qualitative explanation for the establishment of a stable solution double layer.
+scientific_discipline: Chemistry > Surface Chemistry

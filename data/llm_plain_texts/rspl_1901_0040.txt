@@ -1,0 +1,10 @@
+article_id: rspl_1901_0040
+revised_title: 'Electrical Conductivity of Air and Salt Vapours: Temperature and Ionization'
+semantic_tags:
+  - Electrical conductivity
+  - Ionization
+  - Temperature dependence
+  - Salt vapours
+  - Air
+tldr: The authors conducted experiments to study the electrical conductivity of air and salt vapours and how it varies with temperature. They found that the current increases with temperature and that the energy required to ionize air and salt vapours is similar. This suggests that the ions involved in the process are of the same nature in both cases.
+scientific_discipline: Chemistry > Electrochemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1951_0174
+revised_title: 'Autoradiographic Study of Metallic Transfer in Sliding Metals'
+semantic_tags:
+  - Tribology
+  - Friction
+  - Lubrication
+  - Surface Science
+  - Autoradiography
+tldr: This study investigates the friction and metallic transfer between sliding metal surfaces using an autoradiographic method. The results show that metallic transfer consists of a small number of discrete particles, and the amount of transfer is significantly reduced when lubricants are present. The investigation supports the idea that friction between metals is mainly due to the formation and shearing of metallic junctions, and that the primary function of a boundary lubricant is to minimize metallic interaction.
+scientific_discipline: Physics > Tribology

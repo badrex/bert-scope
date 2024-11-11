@@ -1,0 +1,10 @@
+article_id: 'rspa_1963_0134'
+revised_title: 'Methyl Radical Reactions with Oxygen: A Mass Spectrometric Study'
+semantic_tags:
+  - Mass spectrometry
+  - Methyl radicals
+  - Oxygen reactions
+  - Chemical kinetics
+  - Photochemistry
+tldr: 'This study investigates the reaction of methyl radicals with oxygen using mass spectrometry. The authors found that the reaction produces methanol, formaldehyde, and hydroperoxide. The results suggest that hydroxyl radicals may be present, and the reaction order with respect to hydrogen iodide is one greater for hydroperoxide production than for formaldehyde. The study provides insights into the chemical kinetics and photochemistry of these reactions.'
+scientific_discipline: Chemistry > Chemical kinetics

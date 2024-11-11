@@ -1,0 +1,10 @@
+article_id: rspa_1965_0253
+revised_title: Relativistic Effects in Europium's Hyperfine Structure and Nuclear Magnetic Moments
+semantic_tags:
+  - Nuclear Magnetic Resonance
+  - Relativistic Physics
+  - Atomic Physics
+  - Europium
+  - Hyperfine Structure
+tldr: The authors remeasured the nuclear magnetic dipole moments of europium and found that the hyperfine structure anomaly in the ground state of the europium atom is zero within limits of error. They also explained part of the nuclear magnetic dipole interaction by relativistic effects and treated the quadrupole interaction using the same theory, achieving good agreement with experimental results.
+scientific_discipline: Physics > Atomic Physics

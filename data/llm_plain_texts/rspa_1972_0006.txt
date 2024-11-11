@@ -1,0 +1,10 @@
+article_id: rspa_1972_0006
+revised_title: Gas Phase Interactions with Catalytic Oxidation Reactions: Benzene to Maleic Anhydride
+semantic_tags:
+  - Catalytic oxidation
+  - Gas-solid interactions
+  - Benzene oxidation
+  - Maleic anhydride synthesis
+  - Vanadia-molybdena catalysts
+tldr: The authors investigate the interaction between gas phase reactions and catalytic oxidation in the conversion of benzene to maleic anhydride over vanadia-based catalysts. They find that gas phase reactions play a significant role in the process, and the kinetics of the reaction cannot be explained solely by gas-solid reactions. The study provides insights into the complex interactions between gas and gas-solid processes in catalytic reactions.
+scientific_discipline: Chemistry > Catalysis

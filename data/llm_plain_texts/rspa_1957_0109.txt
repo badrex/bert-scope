@@ -1,0 +1,10 @@
+article_id: rspa_1957_0109
+revised_title: Hydrodynamic Stability of Helium II Between Rotating Cylinders
+semantic_tags:
+  - Fluid dynamics
+  - Helium
+  - Hydrodynamics
+  - Rotating cylinders
+  - Mutual friction
+tldr: The authors investigate the hydrodynamic stability of helium II between rotating cylinders, considering two assumptions for the mutual friction force between the normal and superfluid components of the liquid. They find that the flow becomes unstable along two branches, one being the normal (Taylor) instability and the other being the (Rayleigh) instability. The study provides insights into the behavior of helium II under specific conditions.
+scientific_discipline: Physics > Fluid dynamics

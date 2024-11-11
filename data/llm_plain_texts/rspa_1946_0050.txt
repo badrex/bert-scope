@@ -1,0 +1,10 @@
+article_id: rspa_1946_0050
+revised_title: 'Experimental Verification of Fuchs' Theory of Droplet Evaporation'
+semantic_tags:
+  - Evaporation
+  - Diffusion
+  - Droplet evaporation
+  - Fuchs' theory
+  - Vapour pressures
+scientific_discipline: Chemistry > Physical Chemistry
+tldr: The authors studied the rate of evaporation of droplets of dibutyl phthalate and butyl stearate and found that the results align with Fuchs' theory of droplet evaporation. They measured the vapour pressures of these liquids and calculated the evaporation and diffusion coefficients from the experimental data. This experimental verification of Fuchs' theory can be applied to the evaporation of very small drops at atmospheric pressure.

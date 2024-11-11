@@ -1,0 +1,10 @@
+article_id: 'rstb_1985_0056'
+revised_title: 'Nociception and Pain: Electrical Activity in Anterolateral Funiculus During Cordotomy'
+semantic_tags:
+  - Pain Management
+  - Neurophysiology
+  - Spinal Cord
+  - Nerve Stimulation
+  - Cordotomy
+tldr: This study investigates the electrical activity in the anterolateral funiculus during percutaneous cordotomy in humans. Researchers recorded potentials evoked by nerve stimulation and found that the ipsilateral potential (PI6) is a near-field potential with intraspinal generators. The study also suggests that the contralateral potential (P16) may be a complex potential arising from multiple generators, including the dorsal column system.
+scientific_discipline: Medicine and Health Sciences > Pain Management and Neurophysiology

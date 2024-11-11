@@ -1,0 +1,10 @@
+article_id: rspa_1968_0049
+revised_title: Resonance Valence State: A New Approach to Molecular Energies
+semantic_tags:
+  - Quantum Chemistry
+  - Valence Bond Theory
+  - Molecular Orbital Theory
+  - Resonance
+  - Molecular Energies
+tldr: The authors propose a new approach to the atomic valence state, called the resonance valence state, which uses a valence bond wavefunction for molecules. This approach allows resonance among pairing schemes for ligand orbitals, making it easier to calculate molecular energies and simplifying the valence state compared to the perfect-pairing valence state. The resonance valence state can be a linear combination of terms with the highest multiplicity, and its energy can be directly available from spectral term values in many cases.
+scientific_discipline: Chemistry > Quantum Chemistry

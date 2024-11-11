@@ -1,0 +1,10 @@
+article_id: 'rspb_1994_0120'
+revised_title: 'Odorant-Activated Inhibitory K+ Currents in Olfactory Neurons'
+semantic_tags:
+  - Neurobiology
+  - Olfaction
+  - Ion channels
+  - Inhibitory currents
+  - Odorant response
+tldr: The authors discovered that odorants not activating the cAMP cascade in olfactory neurons can inhibit electrical activity, cause membrane hyperpolarization, and trigger a potassium-selective, tetraethylammonium-sensitive outward current. This finding suggests that the K+ current is responsible for odorant-induced inhibition of action potential firing in olfactory neurons.
+scientific_discipline: Biology and Life Sciences > Neurobiology

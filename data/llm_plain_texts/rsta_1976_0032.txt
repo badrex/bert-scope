@@ -1,0 +1,10 @@
+article_id: rsta_1976_0032
+revised_title: 'Optical and Magnetic Measurements of the Photosphere and Low Chromosphere'
+semantic_tags:
+  - Solar Physics
+  - Chromosphere
+  - Photosphere
+  - Magnetic Fields
+  - Sunspots
+tldr: This article discusses optical and magnetic measurements of the photosphere and low chromosphere, focusing on the relationship between magnetic fields and chromospheric structures. The authors use an array of diodes to capture simultaneous observations at multiple wavelengths, revealing the connection between magnetic knots in the photosphere and chromospheric activity. They also explore the decay of sunspots and the role of magnetic fields in the evolution of active regions.
+scientific_discipline: Physics > Astronomy

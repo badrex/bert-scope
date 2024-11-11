@@ -1,0 +1,10 @@
+article_id: 'rspb_1987_0045'
+revised_title: 'Molecular Regulators of Normal and Leukaemic Blood Cells'
+semantic_tags:
+  - Hematology
+  - Blood cell development
+  - Leukemia
+  - Cell culture
+  - Molecular biology
+tldr: The author discusses the molecular regulators of normal and leukaemic blood cells, focusing on the development of a cell-culture system for cloning and clonal differentiation of different blood cell lineages. They identify proteins that regulate growth and differentiation of normal and leukaemic blood cells, and explore the molecular basis of normal and abnormal control of cell development in blood-forming tissue. The author also explains how to suppress malignancy in leukaemic cells and the potential clinical applications of these findings.
+scientific_discipline: Biology and Life Sciences > Hematology

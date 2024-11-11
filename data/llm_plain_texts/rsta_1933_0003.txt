@@ -1,0 +1,10 @@
+article_id: 'rsta_1933_0003'
+revised_title: 'Restoration and Further Observations of a Quartz Thread Gravity Balance'
+semantic_tags:
+  - Gravimetry
+  - Quartz thread balance
+  - Instrument restoration
+  - Temperature measurements
+  - Experimental errors
+scientific_discipline: Physics > Optics
+tldr: This article discusses the restoration and further observations of a quartz thread gravity balance. The balance was initially constructed in 1889 and was later transported to England for further testing. The authors faced several challenges in restoring the balance, including repairing the platinum thermometer and addressing air leaks. They also conducted observations to determine the best method for routine use of the balance and examined possible sources of experimental errors. The balance's behavior remained consistent with previous observations made in Australia.

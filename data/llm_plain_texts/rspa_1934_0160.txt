@@ -1,0 +1,10 @@
+article_id: rspa_1934_0160
+revised_title: 'Kinetics and Mechanism of Formaldehyde Decomposition'
+semantic_tags:
+  - Chemical kinetics
+  - Formaldehyde decomposition
+  - Thermal decomposition
+  - Bimolecular reaction
+  - Activation energy
+scientific_discipline: Chemistry > Chemical kinetics
+tldr: The thermal decomposition of formaldehyde into carbon monoxide and hydrogen is a bimolecular reaction. The study shows that the rate of reaction is proportional to the square of the initial pressure, and the energy of activation is 44,500 calories. The results provide insights into the kinetics and mechanism of formaldehyde decomposition.

@@ -1,0 +1,10 @@
+article_id: rsta_1921_0006
+revised_title: The Phenomena of Rupture and Flow in Solids: A New Approach
+semantic_tags:
+  - Solid Mechanics
+  - Material Science
+  - Stress Analysis
+  - Fatigue
+  - Fracture Mechanics
+tldr: The authors investigated the effect of surface treatment on the mechanical strength of solids and discovered that scratches can significantly weaken materials. They proposed a new criterion for rupture based on the theorem of minimum energy, taking into account the increase in potential energy during the formation of new surfaces within solids. This new approach helps explain the discrepancies between previous hypotheses and experimental results, and provides a better understanding of the behavior of materials under stress.
+scientific_discipline: Materials Science > Solid Mechanics

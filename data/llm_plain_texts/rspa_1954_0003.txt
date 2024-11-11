@@ -1,0 +1,10 @@
+article_id: 'rspa_1954_0003'
+revised_title: 'Photosensitized Polymerization of Vinyl Chloride: Intermittent Illumination Theory and Kinetic Coefficients'
+semantic_tags:
+  - Polymer Chemistry
+  - Photochemistry
+  - Chain Reaction
+  - Intermittent Illumination
+  - Vinyl Chloride Polymerization
+tldr: This article presents a theory of intermittent illumination for the photosensitized polymerization of vinyl chloride in tetrahydrofuran solution. The authors outline a method to compute the rate constants for the various steps of the chain reaction, which can be applied to other chain reactions with similar conditions. The study also provides kinetic coefficients for monomer termination, mutual termination, and propagation at specific temperatures.
+scientific_discipline: Chemistry > Polymer Chemistry

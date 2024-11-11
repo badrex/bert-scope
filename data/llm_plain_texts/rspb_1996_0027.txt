@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0027'
+revised_title: 'Image Blur as a Pictorial Depth Cue: A Study on Perception and Cues'
+semantic_tags:
+  - Depth perception
+  - Pictorial cues
+  - Image processing
+  - Visual psychology
+  - Computer-generated images
+tldr: This study investigates how image blur acts as a pictorial depth cue in photographic and computer-generated images. The research demonstrates that blur can be an effective depth cue even when other pictorial cues are removed. The degree of blur at borders between blurred and sharp image regions is used by the visual system to establish the depth ordering of different regions. This finding can be applied to enhance the impression of depth in computer-generated and cartoon images, as well as potentially contributing to depth perception in natural retinal images.
+scientific_discipline: Psychology > Visual Perception

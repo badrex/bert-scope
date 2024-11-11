@@ -1,0 +1,10 @@
+article_id: rspa_1996_0021
+revised_title: Dynamics and Stability of Cubic Autocatalytic Chemical Waves in Three-Dimensional Systems
+semantic_tags:
+  - Chemical Waves
+  - Autocatalysis
+  - Reaction Kinetics
+  - Diffusion
+  - Pattern Formation
+tldr: The authors investigate the dynamics and stability of cubic autocatalytic chemical waves in three-dimensional systems, focusing on planar, cylindrical, and spherical waves. They find that the dynamics of the wavefront depend on the ratio of the diffusivities of the reactants and the autocatalyst, as well as the system geometry. The study provides insights into the evolution of perturbations and the conditions for patterned front formation in different systems.
+scientific_discipline: Chemistry > Reaction Kinetics and Catalysis

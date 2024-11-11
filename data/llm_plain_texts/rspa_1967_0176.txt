@@ -1,0 +1,10 @@
+article_id: rspa_1967_0176
+revised_title: Spin Wave Energies in Ferromagnetism: A Detailed Investigation
+semantic_tags:
+  - Spin Waves
+  - Ferromagnetism
+  - Band Theory
+  - Magnetic Materials
+  - Quantum Mechanics
+tldr: This article presents a detailed investigation of the coefficient in the energy of a spin wave of small wave vector in a ferromagnetic cubic metal. The author assumes that the spins of all particles within the energy band system are aligned in the ground state. An exact expression for the energy is obtained, considering one plausible assumption and examining it for a one-band model with short-range inter-particle interactions. The results provide a more accurate understanding of spin wave energies in ferromagnetism.
+scientific_discipline: Physics > Condensed Matter Physics

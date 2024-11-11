@@ -1,0 +1,10 @@
+article_id: rspa_1971_0093
+revised_title: 'Numerical Analysis of Partial Differential Equations: Finite-Difference and Finite-Element Methods'
+semantic_tags:
+  - Numerical Analysis
+  - Partial Differential Equations
+  - Finite-Difference Method
+  - Finite-Element Method
+  - Error Estimation
+tldr: This article discusses the numerical solution of partial differential equations using finite-difference and finite-element methods. It explores the advantages and disadvantages of each method, the importance of error estimation, and the use of higher difference terms to increase accuracy. The article also highlights the challenges of applying these methods to more complex boundary conditions and problems.
+scientific_discipline: Mathematics > Numerical Analysis

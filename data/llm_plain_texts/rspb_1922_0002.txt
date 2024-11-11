@@ -1,0 +1,10 @@
+article_id: 'rspb_1922_0002'
+revised_title: 'Investigating the Optical Rotatory Power of Crystalline Ovalbumin and Serum Albumin'
+semantic_tags:
+  - Protein chemistry
+  - Protein purification
+  - Optical rotation
+  - Isoelectric point
+  - Protein structure
+tldr: The authors conducted experiments to determine the specific rotation of crystalline ovalbumin and serum albumin to study their purity. They compared two methods of coagulation and found that both methods yielded consistent results. The specific rotations obtained were constant after the second crystallization, and the authors discussed the possibility of slight molecular differences in the albumin from different egg sources or differences in crystal formation.
+scientific_discipline: Chemistry > Protein chemistry

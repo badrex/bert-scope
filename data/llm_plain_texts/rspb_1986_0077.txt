@@ -1,0 +1,10 @@
+article_id: 'rspb_1986_0077'
+revised_title: 'Temperature Dependence of Triadic Delay in Skeletal Muscle Fibers'
+semantic_tags:
+  - Muscle Physiology
+  - Triadic Junctions
+  - Temperature Effects
+  - Calcium Release
+  - Optical Recording Techniques
+tldr: The authors studied the coupling process at the triadic junctions in skeletal muscle fibers and found a significant temperature dependence in the triadic delay. They used optical techniques to record the depolarization of the transverse tubular membrane and calcium release from the sarcoplasmic reticulum, suggesting that a sequence of chemical steps may link the electrical signal in the tubules to the opening of calcium channels in the sarcoplasmic reticulum.
+scientific_discipline: Biology and Life Sciences > Muscle Physiology

@@ -1,0 +1,10 @@
+article_id: rspa_1930_0046
+revised_title: 'Investigation of Characteristic Energy Losses of Electrons Scattered from Incandescent Solids'
+semantic_tags:
+  - Electron scattering
+  - Energy loss
+  - Incandescent solids
+  - Electron emission
+  - X-ray levels
+scientific_discipline: Physics > Materials Science
+tldr: The authors conducted experiments to study the energy losses of electrons scattered from incandescent solids. They discovered that new maxima appear at high temperatures, which are characteristic of the target substance itself. The research also showed that the 25-volt maximum was produced by an adsorbed layer formed on the cold target in the high vacuum. The authors used an improved apparatus to analyze the velocity distribution among scattered electrons for various angles.

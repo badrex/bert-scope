@@ -1,0 +1,10 @@
+article_id: rspa_1960_0204
+revised_title: Atmospheric Rotation's Effect on Near-Earth Satellite Orbital Planes
+semantic_tags:
+  - Satellite Orbits
+  - Atmospheric Forces
+  - Orbital Inclination
+  - Earth's Gravitational Field
+  - Space Technology
+tldr: The authors studied the impact of atmospheric rotation on the orbital plane of a near-Earth satellite. They derived theoretical formulae for the rotation of the orbital plane and the change in orbital inclination due to the influence of the atmosphere. The results showed reasonable agreement with observations and highlighted the importance of considering atmospheric rotation when estimating the harmonics of the Earth's gravitational field.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

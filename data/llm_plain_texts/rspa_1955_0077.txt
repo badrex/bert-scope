@@ -1,0 +1,11 @@
+article_id: rspa_1955_0077
+revised_title: 'Elastic Deformations and Curvilinear Aeolotropy in Materials'
+semantic_tags:
+  - Elasticity
+  - Aeolotropy
+  - Strain-energy function
+  - Stress-strain relations
+  - Curvilinear co-ordinates
+tldr: The article presents a theory for finite elastic deformations of materials exhibiting curvilinear aeolotropy using tensor notation. It develops stress-strain relations for compressible and incompressible materials and solves problems with cylindrical and spherical symmetry. The theory can be applied to materials with orthotropic or transversely isotropic properties at each point with respect to the given system of curvilinear coordinates.
+scientific_discipline: Mathematics > Applied Mathematics
+sub_discipline: Mechanics > Solid Mechanics

@@ -1,0 +1,10 @@
+article_id: rspa_1958_0085
+revised_title: 'Stability and Penetration of Fluids in Porous Media and Hele-Shaw Cells'
+semantic_tags:
+  - Fluid mechanics
+  - Porous media
+  - Hele-Shaw cell
+  - Interface stability
+  - Darcy's law
+tldr: The authors study the stability and penetration of fluids in porous media and Hele-Shaw cells. They discover that the interface between two fluids is stable or unstable depending on the direction of motion, with the interface being unstable when the motion is from the more viscous to the less viscous fluid. This phenomenon has implications for oil extraction and the behavior of fluids in porous materials.
+scientific_discipline: Environmental and Earth Sciences > Hydrogeology

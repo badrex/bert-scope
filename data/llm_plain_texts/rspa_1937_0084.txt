@@ -1,0 +1,10 @@
+article_id: rspa_1937_0084
+revised_title: Turbulence Theory and Flow Dynamics in Pipes and Channels
+semantic_tags:
+  - Fluid Dynamics
+  - Turbulence
+  - Flow Control
+  - Pipe Flow
+  - Channel Flow
+tldr: The authors explore the similarity theory of turbulence and its application to flow between parallel planes and through pipes. They discuss the assumptions of the theory, its consequences, and the velocity distribution in pressure flow. The study provides a deeper understanding of turbulence and its impact on fluid dynamics in pipes and channels.
+scientific_discipline: Physics > Fluid Dynamics

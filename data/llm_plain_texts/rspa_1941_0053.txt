@@ -1,0 +1,10 @@
+article_id: rspa_1941_0053
+revised_title: 'Investigation of Transition from Laminar to Turbulent Flow in Boundary Layers'
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer
+  - Turbulence
+  - Transition
+  - Fluid Mechanics
+tldr: This study investigates the transition from laminar to turbulent flow in boundary layers on streamline bodies of revolution in a water stream. The authors observed the movements of small particles and filament bands to gather information on the transition caused by isotropic turbulence, falling velocity, and flow disturbances from surface wires. They found a non-dimensional number that represents the conditions of flow in the boundary layer and discovered that the observed position of transition is near the position of separation given by a solution of the momentum equation for laminar flow.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1988_0068
+revised_title: 'Type-D Solutions and the Collision of Plane-Fronted Gravitational Waves'
+semantic_tags:
+  - Gravitational Waves
+  - Einstein Equations
+  - Type-D Geometry
+  - Event Horizon
+  - Null Geodesics
+tldr: The authors present exact solutions of the Einstein vacuum equations describing the collision of plane-fronted gravitational shock waves accompanied by impulsive waves, which produce a type-D geometry in the region of interaction. The collision results in the development of a null surface acting like an event horizon, and the metric has been analytically extended beyond it. The behavior of null geodesics is analyzed, showing that all null particles in the interaction region cross the horizon and escape to infinity, and the connection between focusing and the creation of horizons and singularities is investigated.
+scientific_discipline: Physics > Gravitational Waves

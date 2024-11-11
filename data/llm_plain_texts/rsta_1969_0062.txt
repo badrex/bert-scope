@@ -1,0 +1,10 @@
+article_id: rsta_1969_0062
+revised_title: Solving Laplace's Equations for Tides in the World Oceans
+semantic_tags:
+  - Tides
+  - Oceanography
+  - Laplace's Equations
+  - Ocean Modeling
+  - Tidal Friction
+tldr: The authors used Laplace's tidal equations to solve for the tide in a realistic model of the world oceans based on the observed topography of the ocean floor. They found that when friction was neglected, the theoretical tides were high but of the right order of magnitude. The positions of the amphidromic centers remained stable and were close to the empirically deduced amphidromes. When friction was included, the theoretical tidal heights were in fair agreement with the observed values, and the numerical convergence was improved.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

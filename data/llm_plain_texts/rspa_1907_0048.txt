@@ -1,0 +1,10 @@
+article_id: rspa_1907_0048
+revised_title: 'Investigation of Canal Rays and Their Mechanical Effects'
+semantic_tags:
+  - Canal rays
+  - Electrified particles
+  - Mechanical pressure
+  - Mill-wheel rotation
+  - Radiometer action
+tldr: The authors conducted experiments to discover if canal rays, discovered by Goldstein, have the same mechanical properties as cathode rays. They found that canal rays do cause mica mill-wheels to rotate rapidly, and that the effect is likely due to the rays making the vanes hotter on one side than the other, causing a radiometer action. This demonstrates the motion of positively electrified particles in canal rays.
+scientific_discipline: Physics > Electromagnetism

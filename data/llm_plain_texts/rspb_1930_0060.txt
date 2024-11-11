@@ -1,0 +1,10 @@
+article_id: 'rspb_1930_0060'
+revised_title: 'The Frozen State in Mammalian Muscle: Equilibrium Temperatures and Ice Formation'
+semantic_tags:
+  - Cryobiology
+  - Muscle physiology
+  - Freezing
+  - Ice formation
+  - Dilatometry
+tldr: This study investigates the frozen state in mammalian muscle and the equilibrium temperatures at which ice forms. The researchers used dilatometry to measure the volume changes in muscle samples from beef, mutton, and pork as they froze and thawed. They found that there was very little "bound water" in the muscle, suggesting that most of the water in muscle is not tightly bound to the tissue. This finding supports recent work by A.V. Hill and contradicts the idea that some water in muscle may be present in capillary spaces.
+scientific_discipline: Biology and Life Sciences > Muscle Physiology

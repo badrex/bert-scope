@@ -1,0 +1,10 @@
+article_id: rspa_1956_0079
+revised_title: On the Order of the Automorphism Group of a Finite Group
+semantic_tags:
+  - Group Theory
+  - Finite Group
+  - Automorphism
+  - Sylow Theorem
+  - Central Extension
+tldr: This article explores the order of the automorphism group of a finite group and provides a bound for the order of the group when it is divisible by a given prime. The authors use the theory of central extensions and the Sylow theorem to analyze the structure of the group and its automorphism group.
+scientific_discipline: Mathematics > Group Theory

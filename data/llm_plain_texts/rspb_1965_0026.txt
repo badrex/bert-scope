@@ -1,0 +1,10 @@
+article_id: 'rspb_1965_0026'
+revised_title: 'Exploring Factor Interaction and Linkage in Evolution'
+semantic_tags:
+  - Evolutionary Biology
+  - Genetics
+  - Population Genetics
+  - Gene Interaction
+  - Selective Value
+scientific_discipline: Biology and Life Sciences > Genetics
+tldr: This article discusses the importance of factor interaction and linkage in the evolution of organisms. It presents the three-phase shifting balance theory, which suggests that selection is directed towards an optimum in the middle of the range of variability. The effects of linkage on this model are explored, showing that it makes selective peaks shallower but does not eliminate them. The study concludes that deviations from random combination in panmictic populations are of secondary importance in the general theory of evolution, but crucial for specific organisms.

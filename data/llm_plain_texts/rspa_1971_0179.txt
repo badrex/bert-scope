@@ -1,0 +1,10 @@
+article_id: rspa_1971_0179
+revised_title: The Two-Fluid Model of Helium Film: Equilibrium and Wave Dynamics
+semantic_tags:
+  - Superfluidity
+  - Helium film
+  - Thermodynamics
+  - Fluid mechanics
+  - Surface tension
+tldr: This article explores the two-fluid model of a helium film and its equilibrium conditions. The authors find that the film thickness should not change when the film goes into superflow, and they also make predictions about waves in the film, including the convection speed and attenuation of the waves.
+scientific_discipline: Physics > Fluid mechanics

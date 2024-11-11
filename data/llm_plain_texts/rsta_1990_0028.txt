@@ -1,0 +1,10 @@
+article_id: 'rsta_1990_0028'
+revised_title: 'Solar Modulation of Cosmic Radiation and Climate Change Over Millennia'
+semantic_tags:
+  - Climate Change
+  - Solar Activity
+  - Cosmic Radiation
+  - Ice Core Analysis
+  - Radiocarbon Dating
+tldr: The article examines the relationship between the Earth's climate and solar activity over the past 5000 years, focusing on the solar modulation of cosmic radiation. The authors compare 14C records in tree rings with 10Be records in ice cores to understand short-term and long-term variations in cosmic radiation. They discuss the stability of the carbon system and its potential influence on atmospheric 14C:12C ratios, as well as the impact of carbon system changes on the Earth's climate.
+scientific_discipline: Environmental and Earth Sciences > Climate Science

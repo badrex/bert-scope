@@ -1,0 +1,10 @@
+article_id: rspa_1971_0185
+revised_title: 'Mercury Photoionization Study via Photoelectron Spectroscopy'
+semantic_tags:
+  - Photoionization
+  - Mercury
+  - Photoelectron Spectroscopy
+  - Atomic Physics
+  - Spectroscopy
+tldr: The authors conducted a photoionization study of mercury using photoelectron spectroscopy in the wavelength region of 70 to 90 nm. They determined relative cross-sections for producing mercury ions in specific energy states and found that autoionized states above the 2 * * *D| limit decay to the 2Sj and 2 *D j states of the ion with approximately equal probability.
+scientific_discipline: Physics > Atomic and Molecular Physics

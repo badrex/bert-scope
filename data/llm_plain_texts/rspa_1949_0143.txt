@@ -1,0 +1,10 @@
+article_id: rspa_1949_0143
+revised_title: Revisiting Bose-Einstein Condensation and Partition Theory
+semantic_tags:
+  - Statistical mechanics
+  - Bose-Einstein condensation
+  - Partition theory
+  - Quantum statistics
+  - Thermodynamics
+tldr: The authors examine the existing theory of Bose-Einstein condensation and compare it with the theory of partition numbers. They study two models, one with equally spaced energy levels and another as a perfect gas. The results show that the orthodox theory is not universally valid and that the true distribution law is more complex, with the orthodox expression being valid at high and low temperatures but failing in a range of intermediate temperatures.
+scientific_discipline: Physics > Thermodynamics

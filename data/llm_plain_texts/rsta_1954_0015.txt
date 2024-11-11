@@ -1,0 +1,10 @@
+article_id: rsta_1954_0015
+revised_title: Unsteady Aerofoil Motion and Lift and Moment Acting on Thick Aerofoils
+semantic_tags:
+  - Fluid Dynamics
+  - Aerofoil Design
+  - Aerodynamics
+  - Unsteady Flow
+  - Viscosity
+tldr: The authors present a new approach to calculate the unsteady two-dimensional flow around thick aerofoils in an incompressible fluid, taking into account the effects of viscosity. They introduce a complex harmonic function to describe the flow and provide algebraic results for the lift and moment acting on the aerofoil. The theory allows for the modification of the Joukowski condition, the velocity distribution of the mean steady flow, and the viscous damping effect, leading to a better understanding of the impact of aerofoil thickness on air-load coefficients.
+scientific_discipline: Physics > Fluid Dynamics

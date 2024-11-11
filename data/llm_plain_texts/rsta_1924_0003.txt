@@ -1,0 +1,10 @@
+article_id: rsta_1924_0003
+revised_title: 'Magnetic Field and Return Current Distribution Around a Submarine Cable'
+semantic_tags:
+  - Electromagnetic Waves
+  - Submarine Cables
+  - Alternating Current
+  - Magnetic Field Distribution
+  - Sea Water Conductivity
+tldr: The author investigates the distribution of the magnetic field and return current around a submarine cable carrying alternating current. They use an alternating current potentiometer and search coils to measure the magnetic field's intensity and phase, and the current density in the water. The research provides a comprehensive understanding of the propagation of electromagnetic waves in the sea and the distribution of the magnetic field and return current around a submerged cable.
+scientific_discipline: Physics > Electromagnetism

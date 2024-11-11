@@ -1,0 +1,10 @@
+article_id: rspa_1956_0217
+revised_title: 'Infrared Spectrum and Intensities of Benzene and Deuterated Derivatives'
+semantic_tags:
+  - Infrared spectroscopy
+  - Benzene
+  - Molecular vibrations
+  - Dipole moment
+  - Deuterated compounds
+tldr: The authors measured the intensities of the infrared active fundamental vibrations of benzene, monodeuterobenzene, and para-dideuterobenzene. They interpreted the results in terms of the dipole moment derivatives and found that the effective C-H bond moment for in-plane bending is different from that for out-of-plane bending. The study provides insight into the nature of carbon-hydrogen bonds in hydrocarbons.
+scientific_discipline: Chemistry > Spectroscopy

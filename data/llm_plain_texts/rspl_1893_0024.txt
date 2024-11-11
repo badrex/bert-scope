@@ -1,0 +1,10 @@
+article_id: rspl_1893_0024
+revised_title: 'Spectrum Analysis of Thallium and its Homologous Spectra of Indium and Gallium'
+semantic_tags:
+  - Spectroscopy
+  - Thallium
+  - Indium
+  - Gallium
+  - Atomic Spectra
+tldr: The author conducted experiments to study the spectrum of thallium and discovered a previously overlooked red line in its spectrum. They also compared the arc spectra of thallium, indium, and gallium, finding that their characteristic lines advance towards the more refrangible parts of the spectrum in the inverse order of their atomic weights. This research contributes to the understanding of the spectral reactions and properties of these elements.
+scientific_discipline: Chemistry > Spectroscopy

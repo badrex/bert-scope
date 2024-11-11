@@ -1,0 +1,10 @@
+article_id: 112503
+revised_title: 'Magnetic Disturbances and Terrestrial Galvanic Currents: A Study at the Royal Observatory, Greenwich'
+semantic_tags:
+  - Magnetometry
+  - Geomagnetism
+  - Terrestrial magnetism
+  - Electromagnetism
+  - Galvanometry
+tldr: This article compares magnetic disturbances recorded by self-registering magnetometers at the Royal Observatory, Greenwich, with magnetic disturbances deduced from corresponding terrestrial galvanic currents recorded by self-registering galvanometers. The author, George Biddell Airy, discusses the establishment of the wires and apparatus used for this study and presents the theory and numerical expressions for inferring magnetic forces from galvanic currents. The author also examines the agreement and discordances between the curves of magnetic forces obtained from magnetometers and galvanometers, suggesting possible reasons for these discrepancies.
+scientific_discipline: Physics > Electromagnetism

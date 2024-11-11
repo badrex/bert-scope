@@ -1,0 +1,10 @@
+article_id: rsta_1970_0072
+revised_title: Information Theory in Scattering of Electromagnetic Radiation
+semantic_tags:
+  - Information Theory
+  - Scattering
+  - Electromagnetic Radiation
+  - Optical Problems
+  - Signal Processing
+tldr: The paper discusses the application of information theory to the scattering of electromagnetic radiation by inhomogeneous media. The authors develop a theory that takes into account the finiteness of the scattering volume and the coherence characteristics of the radiation. They examine the structural information of scattering experiments, the achievable resolution, and the ways to improve it. The paper also explores the use of partial coherence as a low-pass filter and the desirability of filtering in scattering measurements.
+scientific_discipline: Physics > Optics

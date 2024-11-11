@@ -1,0 +1,10 @@
+article_id: 108272
+revised_title: 'Elliptic Polarization of Light by Metallic Surfaces: Observations and Theory'
+semantic_tags:
+  - Polarization
+  - Metallic surfaces
+  - Optics
+  - Elliptic polarization
+  - Light refraction
+tldr: The author, Baden Powell, investigates the elliptic polarization of light by reflection from metallic surfaces. They observed changes in the degree of ellipticity and the virtual plane of polarization by metallic reflection. The author also developed a formula for the rings in elliptic light of all degrees with general coefficients and for all positions of the polarizer and analyzer. The study provides insights into the laws of metallic reflection and the application of the undulatory theory.
+scientific_discipline: Physics > Optics

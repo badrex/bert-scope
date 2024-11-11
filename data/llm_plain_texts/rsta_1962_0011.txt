@@ -1,0 +1,12 @@
+article_id: rsta_1962_0011
+revised_title: Fermi Surfaces of Copper, Silver, and Gold: De Haas-Van Alphen Effect
+semantic_tags:
+  - Fermi surface
+  - De Haas-Van Alphen effect
+  - Copper
+  - Silver
+  - Gold
+  - Crystallography
+  - Materials science
+tldr: The authors studied the Fermi surfaces of copper, silver, and gold using the de Haas-Van Alphen effect. They discovered the general topology of the Fermi surfaces, confirming Pippard's model. By measuring the oscillations' frequencies and directions, they determined the precise shapes and sizes of the Fermi surfaces for each metal, providing valuable information about their electron structures.
+scientific_discipline: Physics > Materials Science

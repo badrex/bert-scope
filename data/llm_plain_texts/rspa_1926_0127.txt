@@ -1,0 +1,10 @@
+article_id: rspa_1926_0127
+revised_title: 'Amplitude and Velocity Distribution of Sound Waves in Pipes'
+semantic_tags:
+  - Acoustics
+  - Fluid dynamics
+  - Organ pipes
+  - Hot-wire anemometer
+  - Vortex circulation
+scientific_discipline: Physics > Fluid Dynamics
+tldr: The authors developed a method to measure the amplitude and velocity distribution of sound waves in pipes using a hot-wire anemometer. They found that the simple sine relation for the change of velocity or displacement amplitude along the pipe is not satisfied near the mouth and for a considerable distance along the pipe. The motion suffers a rapid magnification as the mouth is approached due to the circulation of vortices at the mouth, which contribute nothing to the pressure variations in the pipe itself.

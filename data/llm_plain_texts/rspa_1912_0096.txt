@@ -1,0 +1,10 @@
+article_id: rspa_1912_0096
+revised_title: 'Investigations on the Discharge between Concentric Cylinders in Gases at Low Pressures'
+semantic_tags:
+  - Gas discharge physics
+  - Plasma physics
+  - Electrodes
+  - Gas properties
+  - Vacuum physics
+tldr: This article investigates the discharge between concentric cylinders in gases at low pressures, focusing on the effects of current density, pressure, and electrode curvature on the length of the Crookes dark space. The results show that the curvature of the cathode affects the length of the dark space, with convex cathodes having a shorter dark space than concave ones. The findings provide insights into the mechanism of the dark space and its relation to ionization density.
+scientific_discipline: Physics > Plasma Physics

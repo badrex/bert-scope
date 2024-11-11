@@ -1,0 +1,10 @@
+article_id: rspa_1936_0010
+revised_title: 'Refractive Dispersion of Organic Compounds: Isomers of C4H8O2'
+semantic_tags:
+  - Refractive Index
+  - Molecular Refraction
+  - Isomers
+  - Optical Properties
+  - Organic Chemistry
+tldr: The authors conducted a study on the refractive dispersion of four isomers of C4H8O2, including dioxan, ethyl acetate, iso-butryic acid, and acetoin. They used the interference method to measure refractivities in the visible and ultra-violet spectrum. The results showed that the refractivity of the carboxyl group is less than that of the constituent carbonyl and oxygen radicals in the visible spectrum. However, as the carboxylic band is approached, this effect is reversed, and the carboxyl-group exhibits a positive optical exaltation. The study supports the idea that the law for additivity of atomic refractions is valid at all wavelengths for compounds whose refractive dispersions can be represented by equations containing only one variable term.
+scientific_discipline: Chemistry > Organic Chemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1948_0043
+revised_title: 'Interpretation and Application of the Foucault Test for Local Zonal Errors'
+semantic_tags:
+  - Optics
+  - Interferometry
+  - Mirror figuring
+  - Astronomical instrumentation
+  - Zonal errors
+tldr: The authors investigate the Foucault test's interpretation and its application to local zonal errors in mirrors. They apply diffraction theory to analyze the effects of small changes in mirror figure on the test's shadows. The study focuses on narrow, local zones on nearly true mirrors and provides insights into designing more efficient polishing tools for correcting zonal errors.
+scientific_discipline: Physics > Optics

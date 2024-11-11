@@ -1,0 +1,10 @@
+article_id: rspa_1953_0138
+revised_title: 'Equilibrium Theory as the Limit of Kinetic Theory in Exchange Processes'
+semantic_tags:
+  - Exchange processes
+  - Ion exchange chromatography
+  - Equilibrium theory
+  - Kinetic theory
+  - Mathematical modeling
+tldr: The author investigates the equilibrium theory as the limit of the kinetic theory in exchange processes, specifically ion exchange chromatography. They set out the mathematical solutions for certain initial conditions and demonstrate that these solutions are the correct limits of the corresponding solutions on the kinetic theory. The study provides a deeper understanding of the exchange and conservation equations in these processes.
+scientific_discipline: Mathematics > Applied Mathematics

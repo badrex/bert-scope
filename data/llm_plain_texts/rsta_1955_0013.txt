@@ -1,0 +1,10 @@
+article_id: rsta_1955_0013
+revised_title: 'Stability of Three-Dimensional Boundary Layers and Applications to Rotating Disk Flow'
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Hydrodynamic Stability
+  - Rotating Disk Flow
+  - Vortex Dynamics
+tldr: This article discusses the stability of three-dimensional boundary layers, particularly in the context of the flow due to a rotating disk. The authors describe their experimental and theoretical work on this topic, which includes the use of a china-clay evaporation technique to visualize vortex systems in the flow. They also examine the nature of three-dimensional flows and the importance of coordinates along and normal to the streamlines outside the boundary layer. The authors apply their findings to other physical phenomena and draw conclusions about the correlation between experimentally observed and theoretically possible disturbances.
+scientific_discipline: Physics > Fluid Dynamics

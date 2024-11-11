@@ -1,0 +1,10 @@
+article_id: 'rsta_1900_0029'
+revised_title: 'Investigations on the Phenomena of Annealing in Metals'
+semantic_tags:
+  - Metal annealing
+  - Crystal structure
+  - Metallurgy
+  - Microscopy
+  - Heat treatment
+tldr: 'The authors studied the phenomena of annealing in metals, focusing on iron, steel, and brass. They observed that annealing is accompanied by a rearrangement of the crystalline grains of the metal. The researchers also discovered that prolonged annealing tends to produce larger crystals in iron and steel. They found that the pattern seen after annealing resembles that found in a similar specimen before it has been strained, but the scale and character of the pattern depend on the details of the annealing process.'
+scientific_discipline: 'Engineering and Technology > Metallurgy'

@@ -1,0 +1,10 @@
+article_id: rspa_1905_0020
+revised_title: 'Determination of the Specific Heat of Superheated Steam by Throttling and Other Experiments'
+semantic_tags:
+  - Thermodynamics
+  - Heat transfer
+  - Steam engineering
+  - Throttling
+  - Specific heat
+tldr: The author conducted experiments to determine the specific heat of superheated steam using throttling and other methods. They found that the specific heat of superheated steam increases with temperature. The study also revealed a small deviation in the total heat and temperature of saturated steam, which affects the calculated specific heat of superheated steam. The author suggests that Regnault's tables of saturated steam may not be accurate enough for this purpose.
+scientific_discipline: Physics > Thermodynamics

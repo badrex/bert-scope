@@ -1,0 +1,10 @@
+article_id: 'rsta_1980_0084'
+revised_title: 'Hot Ductility Behavior of C-Mn-Nb-Al Steels and Its Relation to Crack Propagation in Continuous Casting'
+semantic_tags:
+  - Steel Manufacturing
+  - Materials Science
+  - Mechanical Properties
+  - Continuous Casting
+  - Microstructure
+tldr: This study investigates the hot ductility behavior of C-Mn-Nb-Al steels and its relation to crack propagation during the straightening of continuous cast strand. The authors examine the influence of composition on the tendency for surface crack propagation during straightening and compare it with the hot ductility behavior measured by Gleeble tensile tests. They find that soluble aluminum is the most detrimental to ductility, while niobium reduces hot ductility significantly at lower temperatures. Phosphorus has a small beneficial effect on hot ductility. The study suggests that Gleeble test results can be used with confidence to predict the behavior of other steel compositions during continuous casting.
+scientific_discipline: Materials Science > Mechanical Properties

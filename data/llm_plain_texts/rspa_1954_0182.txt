@@ -1,0 +1,10 @@
+article_id: rspa_1954_0182
+revised_title: Experimental Verification of Temperature Distribution in Thin Rods
+semantic_tags:
+  - Thermal Conductivity
+  - Emissivity
+  - Electrical Conductivity
+  - Acheson Graphite
+  - Heat Transfer
+tldr: This article presents an experimental study of the temperature distribution along thin rods of Acheson graphite, electrically heated in a vacuum. The authors verify the main theoretical results obtained in previous parts by measuring the temperature distribution, thermal and electrical conductivities, and spectral and total emissivities of the surface at different temperatures. The study helps to understand the behavior of the temperature distribution in rods of medium and short lengths, providing valuable insights into heat transfer and material properties.
+scientific_discipline: Physics > Heat Transfer

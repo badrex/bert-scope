@@ -1,0 +1,10 @@
+article_id: rspa_1972_0121
+revised_title: Surface and Interfacial Tensions from the Profile of a Sessile Drop: A Comprehensive Study
+semantic_tags:
+  - Surface tension
+  - Interfacial tension
+  - Sessile drop
+  - Meniscus
+  - Contact angle
+tldr: This study presents a method for measuring surface and interfacial tensions using the profile of a sessile drop. The authors developed a formula that takes into account the height of the drop, the density difference between the liquids, and the gravitational acceleration. They tested the method on various liquid systems and found that it provided accurate results. The method can also be used for captive bubbles and interfacial tensions of lighter liquids.
+scientific_discipline: Physics > Fluid Mechanics

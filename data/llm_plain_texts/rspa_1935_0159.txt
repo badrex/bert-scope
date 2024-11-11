@@ -1,0 +1,10 @@
+article_id: rspa_1935_0159
+revised_title: 'Statistical Theory of Turbulence and Decay'
+semantic_tags:
+  - Turbulence
+  - Fluid dynamics
+  - Decay of turbulence
+  - Reynolds number
+  - Statistical theory
+tldr: The author presents a statistical theory of turbulence and its decay, using experimental data to validate the theory. The study focuses on the correlation between turbulent components of velocity at two points in a turbulent flow and the decay of turbulence in an air stream behind grids and honeycombs. The findings support the idea that the constant A in the equation for the decay of turbulence is a universal constant for all square-mesh grids.
+scientific_discipline: Physics > Fluid dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1938_0042
+revised_title: Quantal Interpretation of Alkyl Halides' Continuous Absorption Spectra
+semantic_tags:
+  - Quantum Mechanics
+  - Spectroscopy
+  - Chemical Bonding
+  - Molecules
+  - Alkyl Halides
+tldr: The authors analyze the continuous absorption spectra of alkyl iodides and alkyl bromides using quantum mechanics. They find that molecules with vibrational energy up to the third quantum level play a role in absorption. The study provides insights into the potential energy curves and eigenfunction levels of these molecules, leading to a better understanding of their properties and behavior.
+scientific_discipline: Chemistry > Spectroscopy

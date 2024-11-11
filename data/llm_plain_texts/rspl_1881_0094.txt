@@ -1,0 +1,10 @@
+article_id: rspl_1881_0094
+revised_title: 'On the Double Theta-Functions and Their Applications'
+semantic_tags:
+  - Mathematics
+  - Number Theory
+  - Theta Functions
+  - Differential Equations
+  - Elliptic Functions
+tldr: This article explores the properties and applications of double theta-functions, including their expansions, differential equations, and addition theorems. The author investigates the connections between these functions and single theta-functions, as well as their applications in various mathematical contexts.
+scientific_discipline: Mathematics > Number Theory

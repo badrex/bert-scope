@@ -1,0 +1,10 @@
+article_id: rspl_1881_0081
+revised_title: 'On the Electrolytic Diffusion of Liquids: A New Method and Observations'
+semantic_tags:
+  - Electrochemistry
+  - Electrolysis
+  - Diffusion
+  - Liquid properties
+  - Meniscus
+tldr: The author, G. Gore, presents a new method to study the electrolytic diffusion of liquids and shares his observations on the process. He uses a unique apparatus to test the diffusion of two liquids with different specific gravities and finds that the liquid continuously diffuses downwards through the meniscus during the passage of the upward current. This research provides insights into the behavior of liquids during electrolysis and the role of diffusion in the process.
+scientific_discipline: Chemistry > Electrochemistry

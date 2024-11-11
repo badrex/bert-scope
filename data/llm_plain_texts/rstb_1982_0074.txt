@@ -1,0 +1,10 @@
+article_id: 'rstb_1982_0074'
+revised_title: 'Neuropsychology of Cognitive Function: Memory System in Monkeys'
+semantic_tags:
+  - Cognitive Function
+  - Memory System
+  - Neuropsychology
+  - Monkey Studies
+  - Visual Recognition
+tldr: The author presents a neural model based on monkey studies, suggesting that coded representations of stimuli are stored in higher-order sensory areas of the cortex when stimulus activation triggers a cortico-limbo-thalamo-cortical circuit. This circuit may consist of two parallel circuits involving the amygdala and dorsomedial nucleus of the thalamus or the hippocampus and anterior nuclei. The stored stimulus representation mediates recognition, recall, and association memory processes.
+scientific_discipline: Biology and Life Sciences > Neuropsychology

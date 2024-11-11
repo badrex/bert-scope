@@ -1,0 +1,10 @@
+article_id: rspa_1972_0157
+revised_title: 'Unitary Representations of the Bondi-Metzner-Sachs Group and Elementary Particle Classification'
+semantic_tags:
+  - Group Theory
+  - Particle Physics
+  - Quantum Theory
+  - Asymptotically Flat Space-Time
+  - Representation Theory
+tldr: The author investigates the Bondi-Metzner-Sachs group, a larger group than the Poincare group, and its potential role in classifying elementary particles in quantum theory. They determine the unitary representations of the group, which are induced from irreducible unitary representations of the connected little groups. The author shows that the connected little groups are compact, leading to discrete particle spins and finite-component wavefunctions, in contrast to the Poincare group, which allows both discrete and continuous spins.
+scientific_discipline: Mathematics > Group Theory

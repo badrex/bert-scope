@@ -1,0 +1,10 @@
+article_id: 'rspa_1908_0088'
+revised_title: 'Vapour-Pressure and Osmotic Pressure of a Volatile Solute'
+semantic_tags:
+  - Osmotic pressure
+  - Vapour-pressure
+  - Volatile solute
+  - Hydrostatic pressure
+  - Osmotic membrane
+tldr: The authors explore the relationship between vapour-pressure and osmotic pressure of a volatile solute. They discuss the effect of hydrostatic pressure on the osmotic membrane and propose a formula for the change of vapour-pressure of a volatile solute with hydrostatic pressure. The study also considers the osmotic membrane as a vapour-sieve, permeable to the vapour of the solution but not to the liquid phase.
+scientific_discipline: Chemistry > Physical Chemistry

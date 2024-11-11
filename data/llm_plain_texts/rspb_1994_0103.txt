@@ -1,0 +1,10 @@
+article_id: 'rspb_1994_0103'
+revised_title: 'Relational Colour Constancy: A Study on Cone-Excitation Ratios'
+semantic_tags:
+  - Colour Constancy
+  - Cone-Excitation Ratios
+  - Visual Coding
+  - Spatial Colour Relations
+  - Adaptational Models
+scientific_discipline: Biology and Life Sciences > Vision and Perception
+tldr: This study investigates the ability of human observers to make discriminations between changes in illuminant and changes in reflecting properties of scenes. It explores the potential of cone-excitation ratios as a basis for perceptual colour constancy in terms of colour relations. The research shows that a coding of colour relations in terms of ratios could provide an observer with the necessary information to make the required discriminations.

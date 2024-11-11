@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0119'
+revised_title: 'Gene Duplication and Evolution in Drosophila Melanogaster'
+semantic_tags:
+  - Gene Duplication
+  - Population Genetics
+  - Drosophila Melanogaster
+  - Gene Conversion
+  - Unequal Crossing Over
+tldr: The authors studied gene duplication in the glycerol-3-phosphate dehydrogenase (GPDH) locus of Drosophila melanogaster. They found that the duplication deletes both the first and second exons and has a size of 4500 base pairs. The fact that there is no sequence variation at the junction point of the duplicated units among strains suggests a single origin for the duplication event. The study also indicates that the frequent transfer of genetic information occurs from one to the other of the duplicates on the same chromosome either by gene conversion or by unequal crossing over.
+scientific_discipline: Biology and Life Sciences > Genetics

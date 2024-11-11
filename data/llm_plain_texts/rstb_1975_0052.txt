@@ -1,0 +1,10 @@
+article_id: 'rstb_1975_0052'
+revised_title: 'Intra- and Extracellular Gradients of Electrical Potential and Ion Activities in Rabbit Ileum Epithelial Cells'
+semantic_tags:
+  - Ion activities
+  - Electrical potential
+  - Epithelial cells
+  - Microelectrodes
+  - Rabbit ileum
+tldr: This study investigates the intra- and extracellular environment of rabbit ileum epithelial cells using microelectrodes. The researchers found that there is a gradient of electrical potential and ion activities along the length of each epithelial cell. The potassium activity increases from 50 mM at the mucosal end to 160 mM near the basement membrane, while chloride activity decreases from 80 mM near the lumen to 10 mM near the basement membrane. These findings provide insights into the transport mechanisms in the intestine.
+scientific_discipline: Biology and Life Sciences > Cell Biology

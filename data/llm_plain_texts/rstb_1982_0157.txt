@@ -1,0 +1,10 @@
+article_id: 'rstb_1982_0157'
+revised_title: 'Design and Application of the Ornithodolite for Bird Speed Measurements'
+semantic_tags:
+  - Ornithodolite
+  - Bird Speed Measurements
+  - Flight Speed Estimation
+  - Microcomputers
+  - Zoology
+tldr: The ornithodolite is an instrument designed to collect large samples of bird speed measurements. It uses a rangefinder mounted on an alt-azimuth mount and digital photoelectric angular encoders to measure azimuth, elevation, and range. The data is stored in a microcomputer and later analyzed to estimate bird speeds. This instrument is useful for observing bird flight speeds in the wild, especially for albatrosses and petrels.
+scientific_discipline: Biology and Life Sciences > Zoology

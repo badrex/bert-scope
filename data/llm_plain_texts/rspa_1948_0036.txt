@@ -1,0 +1,10 @@
+article_id: rspa_1948_0036
+revised_title: 'Investigation of Solar Radio-Frequency Radiation'
+semantic_tags:
+  - Solar radiation
+  - Radio-frequency radiation
+  - Astrophysics
+  - Astronomy
+  - Sunspots
+tldr: The authors conducted experiments to measure radio-frequency radiation emitted from the sun. They used special equipment to separate solar radiation from galactic radiation and found that during periods of increased solar activity, the radiation was mainly circularly polarized. This research aimed to understand the increased radiation observed during solar disturbances.
+scientific_discipline: Physics > Astrophysics

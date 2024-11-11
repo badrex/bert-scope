@@ -1,0 +1,10 @@
+article_id: 'rspb_1988_0053'
+revised_title: 'Mathematical Model for Freezing Process in Biological Tissue'
+semantic_tags:
+  - Cryobiology
+  - Tissue freezing
+  - Mathematical modeling
+  - Liver tissue
+  - Cryopreservation
+tldr: The authors developed a mathematical model to study the freezing process in biological organs, specifically focusing on liver tissue. The model, which consists of a repetitive unit structure, compares well with experimental data on tissue frozen under controlled thermal conditions. The study supports the proposal that direct mechanical damage caused by ice formation in the vascular system is responsible for the lack of success in preserving tissue in a frozen state.
+scientific_discipline: Biology and Life Sciences > Cell Biology and Tissue Engineering

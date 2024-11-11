@@ -1,0 +1,10 @@
+article_id: rspa_1953_0179
+revised_title: Crystal and Molecular Structure of Ovalene: A Quantitative X-ray Investigation
+semantic_tags:
+  - Crystallography
+  - Organic Chemistry
+  - Aromatic Compounds
+  - X-ray Diffraction
+  - Molecular Structure
+tldr: The authors conducted a quantitative X-ray investigation to determine the crystal and molecular structure of ovalene, an aromatic compound consisting of ten benzene rings fused together. They found that the space group is P2Ja, and the unit cell contains two planar, centro-symmetric molecules. The structure was refined using double Fourier series methods, revealing variations in carbon-carbon bond lengths. The results showed good agreement with theoretical predictions and provided insights into the arrangement of molecules in the crystal.
+scientific_discipline: Chemistry > Organic Chemistry

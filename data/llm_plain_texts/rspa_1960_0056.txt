@@ -1,0 +1,11 @@
+article_id: rspa_1960_0056
+revised_title: A Rapidly Convergent Procedure for Solving Subsonic Potential Flow Equations
+semantic_tags:
+  - Fluid Dynamics
+  - Aerodynamics
+  - Numerical Methods
+  - Potential Flow
+  - Subsonic Flow
+tldr: The authors present a new, rapidly convergent method for solving the equations of subsonic potential flow. This method improves upon previous techniques by providing a more accurate first approximation, leading to a more accurate second approximation. The authors demonstrate the effectiveness of their method by applying it to examples of a circular cylinder and a sphere, with estimated errors from performing the third approximation.
+scientific_discipline: Mathematics > Applied Mathematics
+sub_discipline: Numerical Analysis

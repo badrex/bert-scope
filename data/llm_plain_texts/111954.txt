@@ -1,0 +1,10 @@
+article_id: 111954
+revised_title: On the Calculus of Functions: Linear Functional Equations and Applications
+semantic_tags:
+  - Functional Equations
+  - Calculus of Finite Differences
+  - Differential Equations
+  - Mathematical Analysis
+  - Applied Mathematics
+tldr: The author, W. H. L. Russell, presents a study on functional equations and their applications in the calculus of functions. He discusses linear functional equations of the first order with constant coefficients and provides methods for solving them using series and definite integrals. Russell also explores functional equations with variable coefficients and equations involving definite integrals with an unknown function under the integral sign. This work aims to extend the power and resources of the calculus of functions.
+scientific_discipline: Mathematics > Applied Mathematics

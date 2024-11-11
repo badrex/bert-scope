@@ -1,0 +1,10 @@
+article_id: '109926'
+revised_title: 'Investigating Compass Irregularities in Naval Voyages'
+semantic_tags:
+  - Compass Navigation
+  - Magnetism
+  - Geomagnetism
+  - Shipboard Science
+  - Navigation Errors
+tldr: 'Edward Sabine examines the irregularities in compass needles of H.M.S. Isabella and Alexander during their voyages of discovery. He investigates the impact of local attraction due to iron in the ships and how it affects compass readings. Sabine also discusses the inadequacy of Captain Flinders' rule for calculating corrections, which is based on the dip of the magnetic needle. The author emphasizes the importance of understanding these irregularities for accurate navigation at sea.'
+scientific_discipline: 'Earth Sciences > Geomagnetism'

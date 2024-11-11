@@ -1,0 +1,10 @@
+article_id: 'rspb_1942_0005'
+revised_title: 'The Biology of Epidemics: Understanding Disease Spread and Control'
+semantic_tags:
+  - Epidemiology
+  - Disease Control
+  - Population Dynamics
+  - Parasitology
+  - Host-Parasite Interactions
+tldr: The author discusses the biology of epidemics and the importance of understanding the movements and interactions of various biological species, including parasites and hosts, in controlling the spread of infectious diseases. They describe experiments with mice and different diseases to study the effects of varying the rate of addition of susceptible mice and the type of contact between infected and uninfected individuals. The author emphasizes the need to consider environmental factors and the complexity of natural systems in order to effectively intervene and control disease outbreaks.
+scientific_discipline: Biology > Epidemiology

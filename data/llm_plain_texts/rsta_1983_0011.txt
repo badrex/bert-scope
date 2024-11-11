@@ -1,0 +1,10 @@
+article_id: rsta_1983_0011
+revised_title: Internal Waves in JASIN: Observations and Comparisons with the Garrett-Munk Model
+semantic_tags:
+  - Oceanography
+  - Internal waves
+  - Joint Air-Sea Interaction Project
+  - Spectral continuum
+  - Tidal band
+tldr: The Joint Air-Sea Interaction Project (JASIN) observed internal waves in the upper ocean near the center of Rockall Trough. The observed spectra were compared with the Garrett-Munk model, which represents the internal wavefield in the deep ocean. The JASIN observations showed higher spectral levels than the GM model, particularly at high frequencies and wavenumbers. The three-mode model was used to explain these features, and the spatial variation of internal wave variance was related to topography.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

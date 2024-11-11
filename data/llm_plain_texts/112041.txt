@@ -1,0 +1,10 @@
+article_id: 112041
+revised_title: A Second Memoir on Skew Surfaces: Establishing Different Types of Quartic Scrolls
+semantic_tags:
+  - Geometry
+  - Algebraic Surfaces
+  - Skew Surfaces
+  - Mathematical Analysis
+  - Mathematical Theory
+tldr: This article focuses on establishing the different types of skew surfaces of the fourth order, or Quartic Scrolls. It includes preliminary research connected to the author's previous memoir on skew surfaces and explores the theory of cubic scrolls. The author finds eight species of quartic scrolls and discusses the possibility of subforms that might have been counted as distinct species by M. Chasles.
+scientific_discipline: Mathematics > Geometry

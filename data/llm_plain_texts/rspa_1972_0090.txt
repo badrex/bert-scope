@@ -1,0 +1,10 @@
+article_id: 'rspa_1972_0090'
+revised_title: 'Effect of Singlet State Quenchers on Radiation-Induced Formation of Excited States in Aromatic Hydrocarbons'
+semantic_tags:
+  - 'Chemistry'
+  - 'Spectroscopy'
+  - 'Fluorescence'
+  - 'Intersystem Crossing'
+  - 'Nitromethane'
+tldr: 'This article investigates the effect of singlet state quenchers, nitromethane and xenon, on the radiation-induced formation of excited states of aromatic hydrocarbons in benzene and cyclohexane. The study focuses on the contribution of intersystem crossing to triplet state formation and the quenching of excited singlet states. The results provide insights into the role of singlet state quenchers in the photochemistry and radiation chemistry of aromatic hydrocarbons.'
+scientific_discipline: Chemistry > Spectroscopy

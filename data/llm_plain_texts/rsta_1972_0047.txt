@@ -1,0 +1,10 @@
+article_id: rsta_1972_0047
+revised_title: Assessing the Impacts of the Thames Barrier on Pollution and Salinity in the Thames Estuary
+semantic_tags:
+  - Estuarine Ecology
+  - Water Pollution
+  - Tidal Control
+  - Salinity Distribution
+  - Mathematical Modeling
+tldr: This article discusses the potential effects of the Thames Barrier on pollution and salinity distribution in the Thames Estuary. The authors develop a mathematical model to predict the dispersion of pollutants and the changes in salinity under different tidal control scenarios. The study finds that the barrier could reduce the overall variation in salinity and displace the upstream limit of saltwater, which may have implications for the estuary's ecosystem and water quality management.
+scientific_discipline: Environmental and Earth Sciences > Estuarine Ecology

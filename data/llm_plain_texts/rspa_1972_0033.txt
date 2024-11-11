@@ -1,0 +1,10 @@
+article_id: rspa_1972_0033
+revised_title: 'Chloride Ion Substitution in Alkali Bromide Surfaces: Cooperative Interactions and Surface Transitions'
+semantic_tags:
+  - Surface Chemistry
+  - Alkali Halides
+  - Cooperative Interactions
+  - Surface Transition
+  - Thermodynamics
+tldr: The authors studied the equilibrium in reactions involving NaBr or KBr surfaces and chloride ion substitution. They discovered a surface transition induced by HCl adsorption, which affects the properties of surface ions. The findings suggest that anions in the surface acquire two-dimensional translation during the transition, leading to cooperative interactions and non-ideal behavior.
+scientific_discipline: Chemistry > Surface Chemistry

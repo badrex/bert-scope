@@ -1,0 +1,10 @@
+article_id: rsta_1995_0023
+revised_title: Erratum: Solar and Heliospheric Processes from Solar Wind Composition Measurements
+semantic_tags:
+  - Solar wind
+  - Heliospheric processes
+  - Ion acceleration
+  - Interstellar ions
+  - Corotating interaction regions
+tldr: This article provides corrections to an earlier publication on solar and heliospheric processes. The corrections involve adjustments to figures and descriptions related to mass/charge spectra, ion speeds, and velocity distributions of solar wind and interstellar ions. The authors highlight the preferential acceleration of non-thermal pick-up ions and the presence of power law tails in their speed distributions.
+scientific_discipline: Environmental and Earth Sciences > Solar Physics

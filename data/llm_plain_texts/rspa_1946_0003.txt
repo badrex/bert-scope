@@ -1,0 +1,10 @@
+article_id: rspa_1946_0003
+revised_title: 'Perforated Isotropic Plates: Transverse Flexure and Stress Concentration'
+semantic_tags:
+  - Elasticity
+  - Stress Analysis
+  - Plate Theory
+  - Stress Concentration
+  - Complex Variables
+tldr: The authors present a theoretical solution for the transverse flexure of large thin isotropic plates containing holes of various shapes. They use complex variable methods to analyze stress distributions and provide numerical values for stress concentrations in square and triangular holes under different bending conditions. This study helps in understanding the behavior of perforated plates and their practical applications.
+scientific_discipline: Engineering and Technology > Mechanics of Materials

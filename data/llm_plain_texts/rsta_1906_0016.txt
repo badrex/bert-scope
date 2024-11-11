@@ -1,0 +1,10 @@
+article_id: 'rsta_1906_0016'
+revised_title: 'On the Periodicities of Sunspots: Analyzing Sunspot Data and Discovering Hidden Periodicities'
+semantic_tags:
+  - Sunspots
+  - Solar Physics
+  - Periodicities
+  - Fourier Analysis
+  - Astronomical Data Analysis
+tldr: The author investigates the periodicities of sunspots using various sunspot data series, including Wolf's sunspot numbers, sunspot areas from photographs, and Greenwich observations. They develop a method to analyze the data using Fourier's theorem and periodograms to discover hidden periodicities, particularly focusing on the 11-year period. This method helps to understand the sun's behavior and improve our knowledge of solar physics.
+scientific_discipline: Physics > Astronomy

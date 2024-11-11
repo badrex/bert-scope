@@ -1,0 +1,10 @@
+article_id: 'rstb_1992_0002'
+revised_title: 'Neurophysiological Mechanisms of Face Processing in the Temporal Cortex'
+semantic_tags:
+  - Neuroscience
+  - Face processing
+  - Temporal cortex
+  - Single neuron recordings
+  - Visual recognition
+tldr: This article discusses the neurophysiological mechanisms underlying face processing in the temporal cortical visual areas of primates. It explores the ways in which information about faces is represented and stored through single neuron recordings in macaques. The study reveals that face-selective neurons are found in the anterior part of the superior temporal sulcus and the TE areas in the inferior temporal gyrus. The findings suggest that ensemble encoding is used to represent information about the identity of individuals, rather than a single "grandmother cell." The article also highlights the invariance of the representation built in temporal cortical areas, which is useful for storage and as an output from the visual system.
+scientific_discipline: Neuroscience > Cognitive Neuroscience

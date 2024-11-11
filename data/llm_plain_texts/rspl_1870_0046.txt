@@ -1,0 +1,10 @@
+article_id: rspl_1870_0046
+revised_title: 'Investigating the Strains and Distribution of Weight in Ships'
+semantic_tags:
+  - Shipbuilding
+  - Naval Architecture
+  - Fluid Dynamics
+  - Engineering Mechanics
+  - Bending and Shearing Strains
+tldr: This paper investigates the actual strains and distribution of weight in various types of ships, including the royal yacht 'Victoria and Albert,' the 'Minotaur,' the iron-clad 'Bellerophon,' and the 'Invincible' class. The author calculates the strains in still water, on the crests of waves, and in the hollow of two adjacent waves, as well as the maximum breaking-strains when supported on shore. The study reveals remarkable contrasts of strain between light and laden ships and shows that the theories of former writers on the subject require modification.
+scientific_discipline: Engineering and Technology > Naval Architecture

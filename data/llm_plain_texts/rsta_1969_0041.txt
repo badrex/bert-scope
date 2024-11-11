@@ -1,0 +1,10 @@
+article_id: rsta_1969_0041
+revised_title: A Numerical Model for Investigating North Sea Storm Surges
+semantic_tags:
+  - Oceanography
+  - Numerical modeling
+  - Storm surges
+  - Tides
+  - Coastal oceanography
+tldr: This article presents a two-dimensional numerical sea model for investigating storm surges in the North Sea. The model allows for the calculation of various types of storm surges and has been used to reproduce surge heights experienced at different ports around the North Sea coast. The model also considers the influence of flow through the Strait of Dover on surge levels in the North Sea.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

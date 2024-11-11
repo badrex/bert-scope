@@ -1,0 +1,10 @@
+article_id: 'rstl_1878_0019'
+revised_title: 'A Study on Covariants and Generating Functions in Algebraic Geometry'
+semantic_tags:
+  - Algebraic Geometry
+  - Covariants
+  - Generating Functions
+  - Mathematical Theory
+  - Quantics
+tldr: The author presents a tenth memoir on quantics, discussing the numerical and real generating functions of covariants in algebraic geometry. They introduce the concept of segregates and congregates, and establish a theorem that every congregate can be expressed as a linear function of the segregates of the same deg-order. The memoir also explores the use of these functions in understanding the properties of covariants in various mathematical scenarios.
+scientific_discipline: Mathematics > Algebraic Geometry

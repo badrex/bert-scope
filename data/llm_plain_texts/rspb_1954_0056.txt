@@ -1,0 +1,10 @@
+article_id: 'rspb_1954_0056'
+revised_title: 'Partitioning Variance and Correlations in Random Mating Populations'
+semantic_tags:
+  - Population Genetics
+  - Genetic Variance
+  - Epistasis
+  - Random Mating
+  - Correlation
+tldr: The author presents a method for partitioning variance in a random mating population, focusing on genotypic and environmental variances. They demonstrate how to calculate the covariance of two individuals with no inbreeding and discuss the implications of their findings for understanding genetic relationships in populations.
+scientific_discipline: Biology and Life Sciences > Population Genetics

@@ -1,0 +1,10 @@
+article_id: rspa_1908_0092
+revised_title: 'A Reassessment of the Sellmeier Dispersion Formula and Alternative Theories'
+semantic_tags:
+  - Electromagnetic Theory
+  - Refractive Index
+  - Dispersion
+  - Optical Physics
+  - Dielectric Constant
+tldr: The author examines the Sellmeier dispersion formula and its compatibility with observed values of refractive indices and dielectric constants. They find discrepancies in the calculated values of X2 and the observed positions of absorption bands for various substances. The author discusses possible solutions to these discrepancies and suggests the need for alternative dispersion formulas that better align with experimental data.
+scientific_discipline: Physics > Electromagnetic Theory

@@ -1,0 +1,10 @@
+article_id: rspa_1956_0080
+revised_title: 'Metastable Approximations in Co-operative Assemblies: A Study of Critical Behavior'
+semantic_tags:
+  - Statistical mechanics
+  - Thermodynamics
+  - Ising model
+  - Metastable states
+  - Critical phenomena
+tldr: The authors present a method for analyzing the behavior of co-operative assemblies using metastable approximations. They apply this method to the Ising model, a widely used model in statistical mechanics, and find that it provides more reliable information about the system's behavior near the critical point. This approach can be used to estimate critical values and understand the differences between two- and three-dimensional lattices.
+scientific_discipline: Physics > Statistical mechanics

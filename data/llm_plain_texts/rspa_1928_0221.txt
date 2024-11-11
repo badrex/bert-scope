@@ -1,0 +1,10 @@
+article_id: rspa_1928_0221
+revised_title: 'Asymmetry and Distribution of Photoelectrons in X-ray Experiments'
+semantic_tags:
+  - X-ray physics
+  - Photoelectron distribution
+  - Asymmetry
+  - Longitudinal distribution
+  - Quantum mechanics
+tldr: This article presents experiments on the longitudinal distribution of photoelectrons produced by X-rays, focusing on the asymmetry and dispersion of the emitted particles. The authors found that the average forward momentum of a photoelectron is 40% greater than that of an absorbed quantum, and they introduced a new asymmetry factor to correlate and compare results from previous observers.
+scientific_discipline: Physics > Electromagnetism

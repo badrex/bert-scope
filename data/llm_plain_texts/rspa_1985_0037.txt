@@ -1,0 +1,10 @@
+article_id: rspa_1985_0037
+revised_title: Aerosol Formation in Vapor-Gas Mixtures: Heat and Mass Transfer
+semantic_tags:
+  - Aerosol formation
+  - Heat transfer
+  - Mass transfer
+  - Vapor-gas mixtures
+  - Condensation
+tldr: This article examines the process of aerosol formation in vapor-gas mixtures, focusing on heat and mass transfer. The authors develop equations for heat and mass transfer and explore the effects of the Lewis number and condensation number on aerosol growth. They also consider the conditions under which aerosols will evaporate or not form during cooling processes. The findings have implications for environmental studies and safety in industries such as nuclear power.
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Sciences

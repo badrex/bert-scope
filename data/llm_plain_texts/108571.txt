@@ -1,0 +1,10 @@
+article_id: 108571
+revised_title: 'Secular Variation of the Moon's Mean Motion and Eccentricity'
+semantic_tags:
+  - Celestial mechanics
+  - Lunar motion
+  - Astronomical perturbations
+  - Orbital mechanics
+  - Laplace's method
+tldr: The author investigates the secular variation of the Moon's mean motion and its connection to the diminishing eccentricity of the Earth's orbit. They explain how the change in the central disturbing force due to the decreasing eccentricity affects the Moon's gravity towards the Earth and its mean distance, leading to an increase in the Moon's mean angular motion. The author also discusses the impact of this change on the Moon's acceleration and the need for a more accurate determination of the amount of acceleration for precise calculations of the Moon's place in distant epochs.
+scientific_discipline: Astronomy > Celestial Mechanics

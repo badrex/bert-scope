@@ -1,0 +1,10 @@
+article_id: 'rspb_1954_0034'
+revised_title: 'Phenol and Thymol Resistance in Saccharomyces cerevisiae'
+semantic_tags:
+  - Yeast biology
+  - Phenol resistance
+  - Thymol resistance
+  - Microbial adaptation
+  - Microbial resistance
+tldr: This study investigates the effects of phenol and thymol on the growth of a strain of Saccharomyces cerevisiae. Phenol reduces the growth rate without causing a significant lag, while thymol induces a long initial lag that can be eliminated through training. The adapted yeast strain shows a curve of lag against concentration displaced to higher concentrations. The ability to sporulate is reduced in yeast strains adapted to thymol. The research suggests that yeast strains can develop resistance to toxic agents through adaptive mechanisms.
+scientific_discipline: Biology and Life Sciences > Microbiology

@@ -1,0 +1,10 @@
+article_id: 'rspa_1994_0013'
+revised_title: 'Exploring Polyhedral Configurations and Transformations in Three-Dimensional Frameworks'
+semantic_tags:
+  - Polyhedra
+  - Geometrical Transformations
+  - Crystallography
+  - Zeolites
+  - Framework Materials
+tldr: The authors explore the geometrical transformations of polyhedral units, such as edge opening, stellation, and handle replacement, applied to the regular cube, tetrahedron, and hexagonal prism. They enumerate the resulting configurations and discuss their potential applications in the classification and understanding of framework materials, including zeolites.
+scientific_discipline: Mathematics > Geometry

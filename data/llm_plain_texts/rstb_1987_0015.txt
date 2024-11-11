@@ -1,0 +1,10 @@
+article_id: 'rstb_1987_0015'
+revised_title: 'Biosensors: Advances in Ion-Selective Field-Effect Transistors (ISFETs) for Biomedical Applications'
+semantic_tags:
+  - Biosensors
+  - ISFETs
+  - Ion-selective field-effect transistors
+  - Biomedical applications
+  - Biosensing technology
+tldr: This article discusses the development and applications of ion-selective field-effect transistors (ISFETs) as biosensors for monitoring ions in biological samples, such as blood. The authors describe the structure and function of ISFETs, their sensitivity to various ions, and their potential for use in medical applications. They also highlight the challenges and future prospects for ISFET technology.
+scientific_discipline: Engineering and Technology > Electronics and Sensors

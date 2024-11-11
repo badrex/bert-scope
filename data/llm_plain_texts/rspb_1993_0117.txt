@@ -1,0 +1,11 @@
+article_id: 'rspb_1993_0117'
+revised_title: 'Presynaptic Inhibition of Excitatory Transmission in Visual Cortical Neurons by Metabotropic Glutamate Receptor Agonist'
+semantic_tags:
+  - Neurotransmitter
+  - Glutamate Receptors
+  - Synaptic Transmission
+  - Visual Cortex
+  - Neuroscience
+tldr: The study investigates the effect of a metabotropic glutamate receptor agonist, ( + )-l-aminocyclopentane-trans-l,3-dicarboxylic acid (inms-ACPD), on excitatory post-synaptic currents (epscs) in neurons of rat visual cortex. The results show that ACPD presynaptically suppresses epscs, and this suppression is mediated by a 4-aminopyridine (4-AP)-sensitive mechanism.
+scientific_discipline: Biology and Life Sciences > Neuroscience
+sub_discipline: Neurotransmitter Function and Synaptic Transmission

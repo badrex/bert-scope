@@ -1,0 +1,10 @@
+article_id: rspa_1910_0061
+revised_title: 'Investigation of Water Flow Resistance in Curved Pipes'
+semantic_tags:
+  - Fluid dynamics
+  - Pipe flow
+  - Hydraulics
+  - Coiled tubes
+  - Resistance to flow
+tldr: The authors conducted experiments to study the resistance to the flow of water in curved pipes. They used a flexible rubber tube coiled around wooden cylinders to investigate the effect of curvature on water flow. The results showed that the resistance to flow increased significantly as the number of coils and the curvature increased, especially at velocities below the critical velocity in straight pipes.
+scientific_discipline: Engineering and Technology > Fluid Dynamics

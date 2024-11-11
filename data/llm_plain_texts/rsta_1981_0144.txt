@@ -1,0 +1,10 @@
+article_id: rsta_1981_0144
+revised_title: Observations of High-Energy Gamma Rays from Cygnus X-3
+semantic_tags:
+  - Gamma-ray astronomy
+  - High-energy physics
+  - Cygnus X-3
+  - Pulsars
+  - X-ray binaries
+tldr: The authors report on observations of high-energy gamma rays from the X-ray source Cygnus X-3 using the atmospheric Cherenkov technique. They confirm previous findings of a periodic signal with a 4.8-hour period and a dominant interpulse at 0.7-0.8 periods after the X-ray minimum. The results support models that require a young pulsar and suggest that Cygnus X-3 is an unusual type of X-ray binary source.
+scientific_discipline: Physics > Astronomy

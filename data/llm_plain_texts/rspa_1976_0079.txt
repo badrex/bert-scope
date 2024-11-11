@@ -1,0 +1,10 @@
+article_id: rspa_1976_0079
+revised_title: Creep Rupture Behavior of the Andrade Shear Disk
+semantic_tags:
+  - Creep Rupture
+  - Andrade Shear Disk
+  - Multi-Axial Stress Rupture Criteria
+  - Materials Science
+  - Finite Deformation Analysis
+tldr: The paper discusses the use of the Andrade shear disk as a method for determining multi-axial stress rupture criteria for materials that undergo both small and large strains to failure. Creep rupture tests were conducted on copper and aluminum disks, and the results were compared with predictions made from assumed multi-axial rupture criteria and uni-axial data. A finite deformation analysis was performed for the copper disks, and statements were made about the use of constitutive and damage relationships in situations where rotations of material elements occur within a homogeneous stress field.
+scientific_discipline: Engineering and Technology > Materials Science

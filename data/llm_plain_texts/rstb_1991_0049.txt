@@ -1,0 +1,10 @@
+article_id: 'rstb_1991_0049'
+revised_title: 'Cardiovascular Adaptations in Hemoglobinless Antarctic Icefish: In vitro Performance of the Heart'
+semantic_tags:
+  - 'Cardiology'
+  - 'Icefish'
+  - 'Cardiac Adaptations'
+  - 'Circulatory System'
+  - 'Temperature Effects'
+tldr: The study investigates the mechanical performance of the heart of the haemoglobinless Antarctic icefish, Chionodraco hamatus, under different loading conditions and temperature. The icefish heart is well adapted to work within a range of preloads and is unable to sustain afterloads higher than 3.0 kPa. The heart rate is unaffected by changes in preload and afterload, and an increase in temperature affects heart rate but not stroke volume. The in vitro data is similar to in vivo measurements in another icefish, C. aceratus, showing that the heart of C. hamatus works as a typical volume pump.
+scientific_discipline: Biology and Life Sciences > Zoology

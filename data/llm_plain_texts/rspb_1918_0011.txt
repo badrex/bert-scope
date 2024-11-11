@@ -1,0 +1,10 @@
+article_id: 'rspb_1918_0011'
+revised_title: 'Investigating the Electrical Signs of Emotive Discharges'
+semantic_tags:
+  - Physiology
+  - Psychophysiology
+  - Galvanometry
+  - Emotion
+  - Neurophysiology
+tldr: The author conducted experiments to determine if electrical signs of emotive discharges can be demonstrated using a galvanometer, even in the absence of visible signs of emotion. The experiments involved recording both galvanometric and muscular movements of subjects in response to various stimuli. The results showed that there were large and sudden electrical responses that were independent of muscular contraction, suggesting a correlation with the presence of sweat glands.
+scientific_discipline: Biology and Life Sciences > Physiology

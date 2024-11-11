@@ -1,0 +1,10 @@
+article_id: rspa_1964_0140
+revised_title: 'Combined Flash-Photolysis and Shock-Tube Technique for Studying Fast Photochemical Reactions'
+semantic_tags:
+  - Photochemistry
+  - Shock-Tube Technique
+  - Flash-Photolysis
+  - Kinetic Studies
+  - Chemical Reactions
+tldr: The authors developed a combined flash-photolysis and shock-tube technique to study fast photochemical reactions. This method combines the advantages of both techniques, allowing for precise temperature control and high-velocity gas flow. The technique was demonstrated using the decompositions of phosgene and oxalyl chloride, providing interesting insights into the reactions and their products.
+scientific_discipline: Chemistry > Photochemistry

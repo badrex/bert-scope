@@ -1,0 +1,10 @@
+article_id: rsta_1965_0010
+revised_title: Lattice Thermal Conductivity of Silver Alloys: A Theoretical and Experimental Study
+semantic_tags:
+  - Thermal conductivity
+  - Silver alloys
+  - Electron-phonon interaction
+  - Phonon scattering mechanisms
+  - Ultrasonic attenuation
+scientific_discipline: Physics > Solid State Physics
+tldr: This article investigates the lattice thermal conductivity of silver alloys between 0.3 and 4°K. The authors interpret their findings in terms of Pippard's semi-classical theory of electron-phonon interaction, and they study phonon scattering mechanisms, such as dislocations and boundary scattering. The results show that the lattice thermal conductivity is proportional to the absolute temperature, with a quadratic or higher power temperature dependence for large values of the parameter and a linear temperature dependence when the electron mean free path is short compared to the average phonon wavelength.

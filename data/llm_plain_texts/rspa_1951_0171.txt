@@ -1,0 +1,10 @@
+article_id: rspa_1951_0171
+revised_title: 'A Comparison of Theory and Experiment for Photo-Ionization Cross-Sections: Sodium and Alkali Metals'
+semantic_tags:
+  - Atomic Physics
+  - Photo-ionization
+  - Sodium
+  - Alkali Metals
+  - Cross-Sections
+tldr: The article presents a comparison of theoretical and experimental photo-ionization cross-sections for sodium and alkali metals. The authors calculate the cross-section for sodium using Hartree-Fock wave functions and compare it with recent measurements. They also discuss the differences between dipole length and dipole velocity formulae and their impact on the results. The study highlights the importance of accurate wave functions in predicting photo-ionization cross-sections and the need for further refinements in the theory to account for spin-orbit perturbations in other alkali metals.
+scientific_discipline: Physics > Atomic Physics

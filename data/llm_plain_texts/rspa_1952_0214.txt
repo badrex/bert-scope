@@ -1,0 +1,10 @@
+article_id: rspa_1952_0214
+revised_title: 'Investigation of Secondary Electron Emission from Copper and Silver Films'
+semantic_tags:
+  - Secondary electron emission
+  - Copper films
+  - Silver films
+  - Low-energy electron beams
+  - Surface contamination
+tldr: The authors developed a method to measure the secondary emission ratios at low primary electron energies using a new electron gun. They investigated the secondary electron emission from copper and silver films and found that these metals have a secondary emission ratio less than 0.1 in the primary energy range of 1 to 5 eV. The results showed that at very low energies, secondary electrons are actually elastically reflected primary electrons.
+scientific_discipline: Physics > Electricity and Magnetism

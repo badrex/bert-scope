@@ -1,0 +1,10 @@
+article_id: rspa_1936_0190
+revised_title: The Effects of Dilution on the Explosive Combustion of Hydrocarbons
+semantic_tags:
+  - Combustion
+  - Hydrocarbons
+  - Gas mixtures
+  - Explosions
+  - Flame temperature
+tldr: This article investigates the effects of dilution on the explosive combustion of hydrocarbons, specifically ethylene and acetylene, with oxygen. The authors found that dilution with helium, argon, and nitrogen had little effect on the combustion process until near the limit of inflammability. However, when diluted with hydrogen, the combustion process resulted in some carbon formation without noticeable carbon deposition. The study suggests that the mean maximum flame temperature plays a significant role in the process, with both carbon deposition and steam formation becoming more noticeable as the flame temperature decreases.
+scientific_discipline: Chemistry > Combustion Chemistry

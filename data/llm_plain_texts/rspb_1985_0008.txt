@@ -1,0 +1,10 @@
+article_id: 'rspb_1985_0008'
+revised_title: 'P-Adrenergic Induced K+ Current in Oocytes: Role of cAMP and Inhibition by Muscarinic Agents'
+semantic_tags:
+  - Neurobiology
+  - Cellular Physiology
+  - Adrenergic Receptors
+  - cAMP Signaling
+  - Muscarinic Agents
+tldr: The study investigates the K+ current induced by isoprenaline acting on (3-adrenergic receptors in Xenopus laevis oocytes. The research finds that this current is mediated by an intracellular rise of cAMP. Acetylcholine produces a long-lasting inhibition of the isoprenaline current, which is not seen in the presence of atropine. The results support the hypothesis of the involvement of cAMP in the catecholamine-induced increase of K+ conductance in oocytes and describe the inhibition of this p-adrenergic response by muscarinic agents.
+scientific_discipline: Biology and Life Sciences > Neurobiology

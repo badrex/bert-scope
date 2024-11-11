@@ -1,0 +1,10 @@
+article_id: 'rspb_1985_0080'
+revised_title: 'The Role of Oncogenes in Normal and Malignant Growth: Proteins Expressed by the c-myc Oncogene in Lymphomas'
+semantic_tags:
+  - Oncogenes
+  - Lymphomas
+  - c-myc protein
+  - Cancer research
+  - Cell biology
+tldr: The authors identified two major proteins encoded by the c-myc oncogene in human and avian lymphomas. They found that these proteins are phosphorylated nuclear proteins tightly bound to the nuclear matrix and have a short half-life. The study showed that the ratio of these two proteins changes in tumor cell lines containing c-myc rearrangements or amplifications, suggesting a role for the c-myc gene in lymphomagenesis.
+scientific_discipline: Biology and Life Sciences > Cell Biology

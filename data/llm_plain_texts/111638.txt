@@ -1,0 +1,10 @@
+article_id: 111638
+revised_title: 'Magnetism's Influence on Electric Discharge and Light Phenomena'
+semantic_tags:
+  - Electromagnetism
+  - Plasma physics
+  - Gas discharge
+  - Light manipulation
+  - Magnetic surfaces
+tldr: The author investigates the electric discharge through rarefied gases and vapors and how magnets affect the light produced by the discharge. They discovered that magnets can change the color of the light, concentrate it along magnetic curves, and even extinguish the light without affecting the current. The findings demonstrate the importance of magnetic curves in experimental research and the potential for further exploration of the relationship between magnetism and electric currents.
+scientific_discipline: Physics > Electromagnetism

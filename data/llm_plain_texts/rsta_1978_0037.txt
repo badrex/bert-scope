@@ -1,0 +1,10 @@
+article_id: rsta_1978_0037
+revised_title: 'Magma Ascent and Cooling: Understanding the Terrestrial Heat and Generation of Magmas'
+semantic_tags:
+  - Geology
+  - Volcanology
+  - Magma dynamics
+  - Heat transfer
+  - Andesitic magma
+tldr: This article explores the cooling process of andesitic magma as it ascends through the Earth's lithosphere. The author considers various cooling models, including elastic crack propagation, viscous blobs, and flow up a pipe, to estimate the ascent velocity of the magma. The study concludes that heat transfer is predominantly by convection and conduction, and that adiabatic ascent is unlikely. The findings have implications for understanding volcanic activity and the dynamics of magma beneath island arcs.
+scientific_discipline: Earth Sciences > Volcanology

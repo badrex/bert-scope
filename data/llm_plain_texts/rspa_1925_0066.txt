@@ -1,0 +1,10 @@
+article_id: rspa_1925_0066
+revised_title: 'High-Frequency Corona Interaction of Carbon Dioxide and Hydrogen'
+semantic_tags:
+  - Plasma physics
+  - Gas discharge
+  - High-frequency alternating current
+  - Chemical reactions
+  - Gas mixtures
+tldr: The author investigates the interaction of carbon dioxide and hydrogen in a corona due to high-frequency alternating currents. They observe a unique discharge with intense luminosity and high-pitched sound, and find that the dielectric strength of the gas mixture reaches a maximum at a certain pressure. The research focuses on the chemical effects and electrical factors involved in the process, providing a detailed description of the experimental setup and methods.
+scientific_discipline: Physics > Plasma Physics

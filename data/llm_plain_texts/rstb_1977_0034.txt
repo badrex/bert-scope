@@ -1,0 +1,10 @@
+article_id: 'rstb_1977_0034'
+revised_title: 'Water Transport Mechanisms in Membranes: A Review of Polymer and Biological Membrane Studies'
+semantic_tags:
+  - Membrane Biology
+  - Polymer Science
+  - Water Transport
+  - Non-equilibrium Thermodynamics
+  - Membrane Structure
+tldr: This review discusses the current understanding of water transport in biological, lipid, and polymer membranes. It focuses on the molecular processes, mathematical formulations, and non-equilibrium thermodynamics involved in water transport. The review also highlights the similarities and differences between polymer and biological membranes, and the potential applications of synthetic polymers in developing devices like artificial kidneys and lungs.
+scientific_discipline: Chemistry > Polymer Science

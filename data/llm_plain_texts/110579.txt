@@ -1,0 +1,10 @@
+article_id: 110579
+revised_title: Explaining the Phenomenon of Intermitting Springs
+semantic_tags:
+  - Hydrology
+  - Fluid dynamics
+  - Syphon mechanics
+  - Water flow
+  - Hypothesis
+tldr: W.L. Wharton proposed a hypothesis to explain the functioning of intermitting springs. He argued that the water stream, falling obliquely down the syphon, breaks into drops and carries air bubbles. These bubbles, when the lower end of the tube has an abrupt bend upwards, are pushed forward and escape, causing a rarefaction of air in the tube. This allows the syphon to function effectively.
+scientific_discipline: Environmental and Earth Sciences > Hydrology

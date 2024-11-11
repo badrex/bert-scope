@@ -1,0 +1,10 @@
+article_id: rsta_1963_0003
+revised_title: Crystallographic Point Groups as Semi-Direct Products
+semantic_tags:
+  - Group Theory
+  - Crystallography
+  - Point Groups
+  - Semi-Direct Products
+  - Symmetry
+tldr: This article presents a systematic treatment of crystallographic point groups using the concept of semi-direct products. It discusses well-known properties of point groups, such as the invariant subgroups and the theory of poles of finite rotations. The author demonstrates that all crystallographic point groups can be expressed as a semi-direct product of one of their invariant subgroups by a cyclic subgroup. This approach simplifies the use of symmetrizing and projection operators required to obtain symmetry-adapted functions.
+scientific_discipline: Mathematics > Group Theory

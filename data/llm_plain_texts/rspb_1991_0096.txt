@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0096'
+revised_title: 'Inhibition of TNF Activity by a Synthetic Peptide of the 55 kDa Human TNF Receptor'
+semantic_tags:
+  - 'Cytokines'
+  - 'Tumour Necrosis Factor (TNF)'
+  - 'TNF Receptor'
+  - 'Peptide Synthesis'
+  - 'Immunology'
+tldr: Researchers discovered that a 20 amino acid synthetic peptide from the 55 kDa human TNF receptor can inhibit the cytolytic and binding activities of recombinant human tumour necrosis factor (TNF) in vitro. The peptide, called peptide B, blocks about 50% of TNF binding to the TNF receptor of L929 cells, suggesting that the 20 amino acid sequence from position 175 to 194 in the N-terminal extracellular domain of the 55 kDa TNF receptor may be involved in the binding site.
+scientific_discipline: Biology and Life Sciences > Immunology

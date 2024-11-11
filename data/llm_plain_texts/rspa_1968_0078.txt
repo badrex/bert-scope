@@ -1,0 +1,11 @@
+article_id: rspa_1968_0078
+revised_title: Infrared Spectra Analysis of Nitromethane and Methyl Boron Difluoride
+semantic_tags:
+  - Infrared spectroscopy
+  - Vibrational modes
+  - Molecules
+  - Internal rotation
+  - Nitromethane
+  - Methyl boron difluoride
+tldr: The authors analyzed the gas-phase infrared spectra of nitromethane and methyl boron difluoride, focusing on the fine structure caused by internal rotation. They found that the vibrations associated with the heavy-atom skeletons and parallel type vibrations of the methyl group can be classified according to the point group. The study provides information about the band origins and Coriolis coupling constants of the degenerate vibrations, supporting the interpretation of free internal rotation of the methyl group in these molecules.
+scientific_discipline: Chemistry > Spectroscopy

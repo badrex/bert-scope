@@ -1,0 +1,11 @@
+article_id: 'rsta_1992_0035'
+revised_title: 'Spectroscopy of Reacted Surfaces in Energetic Materials'
+semantic_tags:
+  - Energetic materials
+  - Explosives
+  - X-ray photoelectron spectroscopy
+  - Hot spots
+  - Chemical reactions
+tldr: This article investigates the microscopic sites of early reaction in damaged energetic materials, focusing on the role of morphological defects, sensitized products, and exothermic energy in the ignition process. The authors use scanning electron microscopy and X-ray photoelectron spectroscopy to analyze the chemistry and physical structure of the materials, providing insight into the sensitization of roughly handled explosives and the early stages of ignition.
+
+scientific_discipline: Chemistry > Materials Science

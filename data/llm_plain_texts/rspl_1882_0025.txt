@@ -1,0 +1,10 @@
+article_id: rspl_1882_0025
+revised_title: 'Spectral Observations of Carbon and Its Compounds'
+semantic_tags:
+  - Spectroscopy
+  - Carbon compounds
+  - Cyanogen spectrum
+  - Arc discharge
+  - Flame chemistry
+tldr: The authors studied the spectra of carbon and its compounds using arc and spark discharges. They observed variations in the intensity and persistence of different series of carbon flutings, which occur in the spectra of various compounds. The authors also investigated the effect of surrounding gases and pressures on the emissive power of cyanogen produced synthetically in the arc discharge. Their findings contribute to the understanding of the chemical reactions in flames that cause the cyanogen spectrum to appear at relatively low temperatures.
+scientific_discipline: Chemistry > Spectroscopy

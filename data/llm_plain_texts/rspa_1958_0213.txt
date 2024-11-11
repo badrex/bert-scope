@@ -1,0 +1,10 @@
+article_id: 'rspa_1958_0213'
+revised_title: 'Generalized Retarded Products and their Applications in Quantum Field Theory'
+semantic_tags:
+  - Quantum Field Theory
+  - Retarded Commutators
+  - LSZ Method
+  - Causal Products
+  - Dispersion Relations
+tldr: The article discusses the concept of generalized retarded products, a generalization of the retarded commutator, and its applications in quantum field theory. The author presents a proof of its causal property and a new proof of its relation to -matrix elements, providing a generalization of the work of Lehmann, Symanzik, and Zimmermann. The generalized retarded product is defined and its properties are investigated, including its connection to -matrix elements and dispersion relations.
+scientific_discipline: Physics > Quantum Field Theory

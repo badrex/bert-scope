@@ -1,0 +1,10 @@
+article_id: rspa_1953_0198
+revised_title: Generalizing Molecular Orbital Theory for Paired Electrons in Polyatomic Molecules
+semantic_tags:
+  - Quantum Chemistry
+  - Molecular Orbital Theory
+  - Valence Bond Theory
+  - Chemical Bonding
+  - Polyatomic Molecules
+tldr: The authors develop a generalized molecular orbital theory that accounts for the tendency of paired electrons in polyatomic molecules to keep apart due to their repulsive field. They introduce paired electron orbitals and show that the new theory contains previous results and the valence-bond wave function as particular approximations. This generalization improves the description of chemical structures and energy calculations in molecules.
+scientific_discipline: Chemistry > Quantum Chemistry

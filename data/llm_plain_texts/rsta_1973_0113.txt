@@ -1,0 +1,10 @@
+article_id: rsta_1973_0113
+revised_title: Stability Criteria for Axisymmetric Menisci
+semantic_tags:
+  - Fluid mechanics
+  - Surface tension
+  - Capillary forces
+  - Meniscus formation
+  - Equilibrium shapes
+tldr: This study investigates the equilibrium and stability of a meniscus, focusing on pendant drops, sessile drops, and rod-in-free-surface menisci. The authors define the energy of meniscus formation and provide methods for calculating the free energy in perturbed and unperturbed states. They establish stable, critically stable, and unstable equilibrium states based on energy profiles and present detailed stability criteria for each type of meniscus. The findings predict critically stable states with high accuracy, useful for understanding liquid behavior in various applications.
+scientific_discipline: Physics > Fluid mechanics

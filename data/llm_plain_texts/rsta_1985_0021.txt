@@ -1,0 +1,10 @@
+article_id: rsta_1985_0021
+revised_title: Electromagnetic Effects in Rods: A Review
+semantic_tags:
+  - Electromechanics
+  - Rod Theory
+  - Electromagnetic Forces
+  - Continuum Mechanics
+  - Thermomechanics
+tldr: This article discusses the nonlinear and linear thermomechanical theories of deformable rod-like bodies that account for electromagnetic effects. The authors develop a one-dimensional continuum model called a Cosserat curve and explore its applications in various scenarios, including magnetic thermoelastic rods and non-conducting rods in free space.
+scientific_discipline: Physics > Electromagnetism

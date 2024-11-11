@@ -1,0 +1,10 @@
+article_id: 110399
+revised_title: Zenith Telescope Observations and Method Improvement Suggestions
+semantic_tags:
+  - Astronomy
+  - Zenith Telescope
+  - Observational Astronomy
+  - Celestial Mechanics
+  - Astronomical Instrumentation
+tldr: The author discusses the observations made with the new zenith telescope at the Royal Observatory and suggests a method to improve the accuracy of measurements. The method involves using subsidiary observations on two stars with similar zenith distances and measuring the angular distance between them. This technique can help account for changes in the position of stars due to aberration, nutation, and other factors, and may be useful in future investigations with moveable zenith instruments.
+scientific_discipline: Astronomy > Observational Astronomy

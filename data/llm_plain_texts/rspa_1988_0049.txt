@@ -1,0 +1,10 @@
+article_id: rspa_1988_0049
+revised_title: Dynamic Plastic Instabilities in Pulse-Loaded Beams: Effects of Slenderness Ratio and Damping
+semantic_tags:
+  - Structural Engineering
+  - Plasticity
+  - Damping
+  - Dynamic Instabilities
+  - Shanley Beam Model
+tldr: This article investigates the effects of slenderness ratio and damping on dynamic plastic instabilities in pulse-loaded beams. The authors use a simple elastic-plastic model to study these phenomena and find that small amounts of damping can dramatically modify the instability behaviors. The results provide insights into the design and analysis of structures subjected to short-pulse excitations.
+scientific_discipline: Engineering and Technology > Structural Engineering

@@ -1,0 +1,10 @@
+article_id: 112718
+revised_title: 'Thermodynamic Theory of Waves of Finite Longitudinal Disturbance'
+semantic_tags:
+  - Thermodynamics
+  - Wave propagation
+  - Elasticity
+  - Adiabatic processes
+  - Mass-velocity
+tldr: The author investigates the relationship between the laws of elasticity, heat, and wave-like propagation of finite longitudinal disturbances in substances. They determine the conditions for maintaining the type of disturbance without energy loss or change and explore the limitations of wave propagation with absolute permanence of type. The study also examines adiabatic waves and their transformation into sudden disturbances.
+scientific_discipline: Physics > Thermodynamics

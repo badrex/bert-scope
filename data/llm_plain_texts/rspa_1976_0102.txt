@@ -1,0 +1,10 @@
+article_id: rspa_1976_0102
+revised_title: 'On the Speed and Profile of Steep Solitary Waves: A Study of Solitary Waves in Water'
+semantic_tags:
+  - Fluid Dynamics
+  - Solitary Waves
+  - Wave Speed
+  - Wave Profile
+  - Water Waves
+tldr: This study investigates the speed and profile of steep solitary waves in water using an integral equation approach. The authors found that the speed of a solitary wave does not increase monotonically with wave amplitude, reaching a maximum at a certain point. The highest wave is neither the fastest nor the most energetic. The method also provides a more accurate profile for the free surface of steep solitary waves, confirming previous findings that the highest waves lie beneath their neighbors.
+scientific_discipline: Physics > Fluid Dynamics

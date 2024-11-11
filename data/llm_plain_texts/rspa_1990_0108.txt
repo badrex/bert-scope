@@ -1,0 +1,10 @@
+article_id: rspa_1990_0108
+revised_title: 'Advanced Theory of Light Propagation in Anisotropic Crystals'
+semantic_tags:
+  - Electromagnetic Theory
+  - Crystal Optics
+  - Multipole Theory
+  - Anisotropic Materials
+  - Birefringence
+tldr: The authors present a consistent multipole theory to describe light propagation in nonabsorbing non-magnetic crystals. The theory accounts for birefringence in cubic crystals and optical activity, allowing for electric octopoles and magnetic quadrupoles induced by the light wave. The theory also provides an alternative description for the two light rays that propagate in an anisotropic medium. 
+scientific_discipline: Physics > Electromagnetic Theory

@@ -1,0 +1,10 @@
+article_id: rspa_1983_0119
+revised_title: 'Sound Pulse Momentum in a Dispersive Medium: A Study on Nonlinear and Dispersive Effects'
+semantic_tags:
+  - Acoustics
+  - Fluid Dynamics
+  - Nonlinear Physics
+  - Wave Propagation
+  - Sound Wave Dispersion
+tldr: This article investigates the behavior of sound pulses in a slightly dispersive medium, focusing on the effects of nonlinearity and dispersion on the pulse's momentum. The author finds that the momentum of a sound pulse can be ambiguous and may not be possible to define, especially when the pulse splits into two parts due to different propagation velocities. The study also highlights the importance of considering nonlinear terms in the equations of motion for a fluid.
+scientific_discipline: Physics > Acoustics

@@ -1,0 +1,10 @@
+article_id: 'rspa_1951_0229'
+revised_title: 'Perturbation Theory and the Spectrum of Differential Equations'
+semantic_tags:
+  - Perturbation Theory
+  - Differential Equations
+  - Mathematical Physics
+  - Spectral Theory
+  - Eigenvalues
+tldr: The author presents a general analysis of the perturbation problem where the perturbed equation has a continuous spectrum, while the unperturbed equation has a discrete spectrum. They show that in certain cases, the function that determines the spectrum has a pole just below the real axis, leading to a highly concentrated perturbed spectrum instead of a perturbed eigenvalue. This study applies to various cases, including the example where the spectrum of the differential equation is discrete over the interval 0 < A < 0, while that of the perturbed equation is continuous over this interval.
+scientific_discipline: Mathematics > Spectral Theory

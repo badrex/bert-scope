@@ -1,0 +1,10 @@
+article_id: 'rstb_1989_0073'
+revised_title: 'Epidemiological and Statistical Aspects of the AIDS Epidemic: A Review'
+semantic_tags:
+  - AIDS epidemiology
+  - HIV transmission
+  - Epidemiological modeling
+  - Public health policy
+  - Disease surveillance
+tldr: This article introduces a series of papers discussing the epidemiological, statistical, and mathematical aspects of the AIDS epidemic. The authors explore the challenges of predicting future trends in AIDS incidence and HIV infection rates due to limited data, uncertainties in transmission dynamics, and the influence of behavioral changes on infection rates. The papers provide a comprehensive analysis of the research, including transmission dynamics, temporal changes in sexual behavior, and statistical studies of AIDS incidence and survival times.
+scientific_discipline: Social Sciences, Art, and Humanities > Public Health

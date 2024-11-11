@@ -1,0 +1,10 @@
+article_id: rspa_1994_0106
+revised_title: 'Effects of Microstructure on Dynamic Compressive and Tensile Strengths of Aluminas'
+semantic_tags:
+  - Ceramics
+  - Material Science
+  - Mechanical Properties
+  - Shock Physics
+  - Plate-Impact Experiments
+tldr: This study investigates the effects of microstructural variations, such as grain size, porosity, and glass content, on the dynamic compressive and tensile strengths of aluminas. The researchers conducted plate-impact experiments on seven aluminas with varying properties and found that the dynamic compressive strength decreased with increasing grain size, while the "plastic" wave rise time increased. The results provide insights into the relationship between microstructure and material properties, which can help improve the understanding and application of aluminas in various industries.
+scientific_discipline: Materials Science > Mechanical Properties

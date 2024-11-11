@@ -1,0 +1,10 @@
+article_id: rspa_1976_0075
+revised_title: 'Shear-Free Congruences of Null Geodesics and Algebraically Special Space-Times'
+semantic_tags:
+  - General Relativity
+  - Shear-Free Congruences
+  - Algebraically Special Space-Times
+  - Spinor Calculus
+  - Integrability Condition
+tldr: The article explores the properties of shear-free congruences of null geodesics and their relation to algebraically special vacuum space-times. It introduces an integrability condition that leads to a basis-free proof of the Goldberg-Sachs theorem and related results. The study focuses on the vacuum field equations for algebraically special space-times and the existence of a shear-free geodetic null congruence in these space-times.
+scientific_discipline: Physics > General Relativity

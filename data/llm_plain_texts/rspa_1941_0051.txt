@@ -1,0 +1,10 @@
+article_id: rspa_1941_0051
+revised_title: Precise Measurements of Beta-Ray Energies from Radium B and C
+semantic_tags:
+  - Nuclear Physics
+  - Radioactivity
+  - Spectroscopy
+  - Beta Decay
+  - Radium
+tldr: The authors conducted precise measurements of the energies of beta-rays from radium B and C using a magnetic spectrograph. They found that their values agreed closely with those of Rogers for the lines measured by him. The energies were calculated using weighted mean values of e/m and c, and the error in the energies was approximately 1 part in 10^3. This research helped improve the accuracy of determining nuclear levels and energy differences in radium isotopes.
+scientific_discipline: Physics > Nuclear Physics

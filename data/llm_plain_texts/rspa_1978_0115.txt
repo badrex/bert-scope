@@ -1,0 +1,10 @@
+article_id: 'rspa_1978_0115'
+revised_title: 'Corrections to Atomic Ionization Potentials'
+semantic_tags:
+  - Atomic Physics
+  - Ionization Potentials
+  - Corrigendum
+  - Chemistry
+  - Physics
+tldr: This article provides a corrigendum for a previous publication on the relation between successive atomic ionization potentials. The authors have omitted table 8 from the original publication and have included it in this corrigendum for reference. The table presents correlation corrections to neutral atom energy components and their ratios.
+scientific_discipline: Chemistry > Atomic Physics

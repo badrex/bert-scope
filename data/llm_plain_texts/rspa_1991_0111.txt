@@ -1,0 +1,10 @@
+article_id: rspa_1991_0111
+revised_title: General Method for Elastic Field in Joined Semi-Infinite Solids with an Inclusion
+semantic_tags:
+  - Elasticity
+  - Inclusions
+  - Solid Mechanics
+  - Transformation Inclusion Problem
+  - Galerkin Vectors
+tldr: The authors present a general method to obtain the elastic field in two joined semi-infinite isotropic solids due to an inclusion of any shape undergoing a spontaneous change of shape. The method uses Galerkin vectors for nuclei of strain in the two joined semi-infinite solids and can be applied to inclusions with uniform eigenstrains of practical interest. The solution for ellipsoidal inclusions with uniform eigenstrains is expressible in terms of known functions, and existing solutions for the inclusion in a semi-infinite solid are shown to be special cases of the present general solution.
+scientific_discipline: Engineering and Technology > Solid Mechanics

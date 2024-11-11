@@ -1,0 +1,10 @@
+article_id: 107888
+revised_title: 'Optical Glass Manufacture: Overcoming Streaks and Striae'
+semantic_tags:
+  - Glass manufacturing
+  - Optics
+  - Homogeneity
+  - Achromatic lenses
+  - Telescope design
+scientific_discipline: Physics > Optics
+tldr: This article discusses the challenges and solutions in manufacturing optical glass for telescopes and other optical instruments. The main issue is achieving a perfectly homogeneous composition and structure to prevent streaks, striae, and other irregularities that can distort the image. The author focuses on improving the manufacturing process for flint glass, which is essential for achromatic lenses, and provides insights into avoiding faults like striae, waves, and bubbles.

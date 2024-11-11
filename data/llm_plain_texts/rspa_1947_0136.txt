@@ -1,0 +1,10 @@
+article_id: rspa_1947_0136
+revised_title: 'Electronic Structure and Reactivity of Conjugated Systems'
+semantic_tags:
+  - Quantum Chemistry
+  - Organic Chemistry
+  - Molecular Orbital Theory
+  - Conjugated Systems
+  - Reactivity
+tldr: The authors apply the molecular orbital theory to study the electronic structure and reactivity of conjugated systems, specifically unsaturated hydrocarbons and their hetero-derivatives. They establish a relationship between electron densities and chemical reactivity, and predict the effect of structural changes on electron densities and chemical behavior. The authors also discuss the law of alternating polarity in conjugated molecules containing one hetero-atom or substituent.
+scientific_discipline: Chemistry > Organic Chemistry

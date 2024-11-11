@@ -1,0 +1,10 @@
+article_id: rspa_1932_0073
+revised_title: 'Canonical Co-ordinates and Axially Symmetric Gravitational Fields'
+semantic_tags:
+  - Gravitational Equations
+  - Canonical Co-ordinates
+  - Axially Symmetric Fields
+  - Einstein's Theory of Relativity
+  - Rotating Systems
+tldr: The authors explore the use of canonical co-ordinates in solving equations of axially symmetric gravitational fields. They demonstrate this through the case of an infinite rotating cylinder and a rotating sphere, providing solutions to the equations and discussing the effects of rotation on the gravitational field.
+scientific_discipline: Physics > Relativity

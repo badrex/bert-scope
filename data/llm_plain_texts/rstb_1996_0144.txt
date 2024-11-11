@@ -1,0 +1,10 @@
+article_id: rstb_1996_0144
+revised_title: Evaluating Higher Taxa as Proxies for Species-Level Biodiversity Patterns
+semantic_tags:
+  - Biodiversity
+  - Taxonomy
+  - Marine Molluscs
+  - Eastern Pacific
+  - Species Richness
+tldr: This study evaluates the use of higher taxa as a proxy for species-level biodiversity patterns using a large database of eastern Pacific marine molluscs. The research finds that while higher taxa can be useful for general species-level patterns, they cannot adequately resolve regional variations. The authors recommend calibrating genera as proxies for species-level patterns by using well-sampled local assemblages for regional studies.
+scientific_discipline: Biology and Life Sciences > Ecology

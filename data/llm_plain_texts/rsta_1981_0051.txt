@@ -1,0 +1,10 @@
+article_id: 'rsta_1981_0051'
+revised_title: 'Motor Fuels and Chemicals Production from Coal via the Sasol Synthol Route'
+semantic_tags:
+  - Coal chemistry
+  - Fischer-Tropsch reaction
+  - Motor fuels
+  - Chemicals production
+  - Synthol process
+tldr: The article discusses the production of motor fuels and chemicals from coal using the Sasol Synthol process, which is based on the Fischer-Tropsch reaction. The process involves passing hydrogen and carbon monoxide over iron catalysts at high temperatures and pressures. The fixed-bed system produces heavy hydrocarbons, while the fluid-bed system generates light motor fuels and oxygenates. The resulting products can be used as raw materials for various industries, including the petrochemical, paper, textile, and food industries.
+scientific_discipline: Engineering and Technology > Chemical Engineering

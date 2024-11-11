@@ -1,0 +1,10 @@
+article_id: rsta_1895_0011
+revised_title: Determination of Specific Heat of Water Using International Electric Units
+semantic_tags:
+  - Thermodynamics
+  - Heat transfer
+  - Electrical measurements
+  - Specific heat
+  - Temperature
+tldr: This article presents a method to determine the specific heat of water in terms of international electric units. The authors used a simple apparatus and Clark cells as standards to measure the electrical work done in a conductor. They found that the specific heat of water is constant and independent of temperature within the limits of their experiments.
+scientific_discipline: Physics > Thermodynamics

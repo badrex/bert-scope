@@ -1,0 +1,10 @@
+article_id: rspa_1940_0025
+revised_title: 'Investigation of the Transfer of Excitation Energy in Uranium Ions in Solution'
+semantic_tags:
+  - Photochemistry
+  - Fluorescence Quenching
+  - Uranium Chemistry
+  - Oxalic Acid Decomposition
+  - Energy Transfer Mechanisms
+tldr: The authors studied the transfer of excitation energy from uranium ions in solution and its relation to the photosensitized decomposition of oxalic acid. They found that the addition of quenching substances, such as iodide and bromide ions, decreased the reaction velocity without significantly changing the reaction products. The study provides insights into the mechanism of energy transfer in photosensitized reactions.
+scientific_discipline: Chemistry > Photochemistry

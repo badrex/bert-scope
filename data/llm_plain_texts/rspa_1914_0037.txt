@@ -1,0 +1,10 @@
+article_id: 'rspa_1914_0037'
+revised_title: 'Electron Diffusion Through a Slit: Analyzing the Lateral Diffusion of a Stream of Electrons'
+semantic_tags:
+  - Electron diffusion
+  - Electric fields
+  - Fourier expansion
+  - Townsend's experiments
+  - Electrodes
+tldr: This article investigates the lateral diffusion of a stream of electrons in an electric field. The authors, J. H. Mackie and Prof. J. S. Townsend, develop a method to determine the charges acquired by electrodes when the electron distribution satisfies the differential equation and the boundary conditions. They also compare the accuracy of the simplified equation to the more complex one, showing that more than 99% of the ions entering the field are collected by the electrodes when the ratio exceeds.
+scientific_discipline: Physics > Electromagnetism

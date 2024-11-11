@@ -1,0 +1,10 @@
+article_id: rspl_1879_0092
+revised_title: 'Glycerine Barometer: A New Approach to Atmospheric Pressure Measurement'
+semantic_tags:
+  - Atmospheric Pressure
+  - Barometers
+  - Glycerine
+  - Fluid Dynamics
+  - Scientific Instruments
+tldr: The author describes the construction and testing of a glycerine barometer, an instrument designed to measure atmospheric pressure using a fluid with a lower density than mercury. Glycerine was chosen for its low vapor tension and minimal expansion, allowing for more accurate readings. The barometer was successfully erected at Kew Observatory, and a series of observations were planned to assess its scientific and practical value.
+scientific_discipline: Physics > Fluid Dynamics

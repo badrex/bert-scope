@@ -1,0 +1,10 @@
+article_id: 'rstb_1995_0095'
+revised_title: 'Exploring the Applications and Interpretations of Evolutionary Trees'
+semantic_tags:
+  - Molecular Evolution
+  - Phylogenetics
+  - Gene Trees
+  - Evolutionary Biology
+  - Tree Conflicts
+tldr: This article discusses various uses and interpretations of evolutionary trees in molecular evolution and biology. It highlights different types of trees, such as species trees, gene duplication, partial internal duplications, recombination, reassortment, translocation, xenology, greatest rate, gene conversion, covarions, and dating events. The author provides examples and explanations of these tree types and their significance in understanding evolutionary processes and relationships among organisms.
+scientific_discipline: Biology and Life Sciences > Molecular Evolution and Phylogenetics

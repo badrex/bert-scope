@@ -1,0 +1,10 @@
+article_id: 'rstb_1989_0009'
+revised_title: 'Regulation of Photosystem II by Metabolic and Environmental Factors in Photosynthesis'
+semantic_tags:
+  - Photosynthesis
+  - Photosystem II
+  - Chlorophyll Fluorescence
+  - Photoinhibition
+  - Protein Phosphorylation
+tldr: The article discusses the regulation of photosystem II in photosynthesis by metabolic and environmental factors. It explores the role of chlorophyll fluorescence, state transitions, and photoinhibition in the process. The authors also investigate the protective mechanisms against photoinhibition and the importance of ATP/NADPH stoichiometry and protein phosphorylation in regulating these processes.
+scientific_discipline: Biology and Life Sciences > Photosynthesis

@@ -1,0 +1,10 @@
+article_id: rspa_1980_0022
+revised_title: Fluid Flow from Nozzles at Small Reynolds Numbers: An Alternative Approach
+semantic_tags:
+  - Fluid dynamics
+  - Die swell
+  - Non-Newtonian fluids
+  - Surface tension
+  - Free-surface flows
+tldr: This article presents an alternative approach to studying the flow of fluids from nozzles at small Reynolds numbers. The authors propose a modified version of the die-swell problem that is easier to set up experimentally and is well-posed mathematically. They discuss the theoretical ideas behind this approach and describe some experiments comparing the flow of Newtonian and non-Newtonian fluids.
+scientific_discipline: Physics > Fluid Dynamics

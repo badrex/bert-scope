@@ -1,0 +1,10 @@
+article_id: rsta_1951_0013
+revised_title: Stability of Saturn's Rings
+semantic_tags:
+  - Celestial mechanics
+  - Planetary rings
+  - Orbital stability
+  - Saturn
+  - Mathematical physics
+tldr: This article investigates the stability of Saturn's rings by analyzing the gravitational interactions between the rings and Saturn. The author demonstrates that a system of two rings, subject to the gravitational attractions of the primary (Saturn) and each other, is stable, with particles oscillating around their mean positions. The study concludes that the Saturnian system, considered as a number of such rings, is also stable.
+scientific_discipline: Physics > Celestial Mechanics

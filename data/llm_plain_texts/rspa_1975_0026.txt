@@ -1,0 +1,10 @@
+article_id: rspa_1975_0026
+revised_title: 'Infrared Absorption Spectra of Hydrogen-Bonded Species: Coupling of Anharmonic v(XH) and v(XH..Y) Modes'
+semantic_tags:
+  - Infrared spectroscopy
+  - Hydrogen bonding
+  - Anharmonic coupling
+  - Vibrational modes
+  - Molecular potential energy
+tldr: The authors develop a theory of the coupling between anharmonic v(XH) and v(XH..Y) modes in hydrogen-bonded species. They calculate the Franck-Condon factors governing the excitation of combination bands and the spread in energy of terms within such bands. The theory provides support for the view that broad infrared bands of hydrogen-bonded systems are influenced by contributions from combination bands, but suggests that other potential energy terms should be considered in a more refined subsequent theory.
+scientific_discipline: Chemistry > Spectroscopy

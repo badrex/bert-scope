@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0080'
+revised_title: 'Intrspecific Communication and Variation in Butterfly Ultraviolet Colors'
+semantic_tags:
+  - Butterfly coloration
+  - Intraspecific communication
+  - Lepidoptera
+  - Ultraviolet colors
+  - Species recognition
+tldr: The authors analyzed the ultraviolet (UV) and visible wavelengths of various butterfly species using reflectance spectrometry. They found that there was significant variation in reflected wavelengths between individuals but not between species. This suggests that butterflies are unlikely to recognize specific species based on UV colors. The authors propose that variation in UV reflectance in male Pierid butterflies is more likely associated with mate choice by females or male-male interactions.
+scientific_discipline: Biology and Life Sciences > Entomology

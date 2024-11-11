@@ -1,0 +1,10 @@
+article_id: 'rstb_1982_0058'
+revised_title: 'Surface-Associated Growth in Microbial Communities: Understanding Interfaces and Attachments'
+semantic_tags:
+  - Microbial growth
+  - Surface-associated organisms
+  - Chemostat
+  - Interface chemistry
+  - Bacterial cell wall
+scientific_discipline: Biology and Life Sciences > Microbiology
+tldr: This article discusses the importance of microbial growth on surfaces and the various types of interfaces where microorganisms can be found. It explores the chemostat as a tool for studying nutrient environments and controlling growth parameters. The article also examines the chemistry of bacterial cell walls and the role of teichoic and teichuronic acids in surface attachment. The study highlights the potential energetic advantages of surface-associated growth for microbes.

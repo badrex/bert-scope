@@ -1,0 +1,10 @@
+article_id: rsta_1993_0031
+revised_title: A General Nonlinear Theory of Viscous Fluid Flow in Pipes
+semantic_tags:
+  - Fluid Dynamics
+  - Viscosity
+  - Pipe Flow
+  - Nonlinear Theory
+  - Fluid Mechanics
+tldr: This article presents a direct approach to constructing a general nonlinear theory of viscous fluid flow in pipes, applicable to both straight and curved pipes with arbitrary cross-sections. The authors establish a 1-1 correspondence between the Lagrangian and Eulerian formulations of the balance laws of a thermomechanical theory of directed curves. They demonstrate the utility of the theory with an example of unsteady flow in straight pipes of varying elliptical cross-section.
+scientific_discipline: Physics > Fluid Dynamics

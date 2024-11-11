@@ -1,0 +1,10 @@
+article_id: rspa_1957_0100
+revised_title: 'Interferometric and X-ray Study of Polytypism in Silicon Carbide Crystals'
+semantic_tags:
+  - Crystallography
+  - Polytypism
+  - Silicon carbide
+  - Dislocations
+  - X-ray diffraction
+tldr: This article investigates the phenomenon of polytypism in silicon carbide crystals using interferometric and X-ray methods. The study reveals different categories of crystals based on the relationship between growth spiral step heights and unit cell sizes. The findings support the dislocation mechanism and provide insights into the origin and cause of the stability of the many-layered structures in silicon carbide crystals.
+scientific_discipline: Physics > Crystallography

@@ -1,0 +1,10 @@
+article_id: 'rspa_1936_0006'
+revised_title: 'Optical Activity in a Regular Tetrahedron Twisted through a Small Angle'
+semantic_tags:
+  - Crystallography
+  - Optical activity
+  - Tetrahedron geometry
+  - Quantum mechanics
+  - Molecular vibrations
+tldr: The author investigates the optical activity of a regular tetrahedron when it is twisted through a small angle. They develop a mathematical model to calculate the rotatory power and find that the optical activity is proportional to the third power of the small angle of twist. This study can help estimate the influence of deviations from a regular shape on the optical activity of a system.
+scientific_discipline: Physics > Crystallography

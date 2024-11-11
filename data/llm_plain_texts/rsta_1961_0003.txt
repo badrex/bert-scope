@@ -1,0 +1,10 @@
+article_id: rsta_1961_0003
+revised_title: Vibrational-Rotational Bands of an Asymmetric Rotor: Structure and Analysis
+semantic_tags:
+  - Molecular Spectroscopy
+  - Asymmetric Rotor Theory
+  - Vibrational-Rotational Bands
+  - Quantum Mechanics
+  - Symmetric Rotor Limits
+tldr: This article discusses the structure and analysis of vibrational-rotational bands of an asymmetric rotor, focusing on the A-type bands and their relation to symmetric rotor limits. The authors explain the selection rules, energy levels, and sub-band structure, providing a comprehensive understanding of the complex spectra of asymmetric rotor bands.
+scientific_discipline: Physics > Molecular Physics

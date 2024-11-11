@@ -1,0 +1,10 @@
+article_id: rspl_1904_0095
+revised_title: Separation of Volatile Gases from Air without Liquefaction
+semantic_tags:
+  - Gas separation
+  - Atmospheric science
+  - Liquefaction
+  - Charcoal absorption
+  - Helium and neon isolation
+tldr: The author describes a method to separate volatile gases from air without liquefaction using charcoal absorption. The process involves cooling air to create a high vacuum and using charcoal to capture and concentrate gases like helium, neon, and hydrogen. This method has potential applications in studying atmospheric gases and minerals containing similar elements.
+scientific_discipline: Chemistry > Atmospheric Science

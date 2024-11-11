@@ -1,0 +1,10 @@
+article_id: 'rspa_1969_0171'
+revised_title: 'Kinematics of Particle Interactions and Canonical Frames'
+semantic_tags:
+  - Particle Physics
+  - Kinematics
+  - Canonical Frames
+  - Particle Interactions
+  - Quantum Field Theory
+tldr: The author introduces a new canonical frame for studying particle interactions, where the matrix of second moments of 4-momenta is diagonal. This frame simplifies the transformation of integrals and provides a better understanding of the kinematics of particle interactions. The author also discusses the eigenvalues of the interaction matrix and their implications for particle physics.
+scientific_discipline: Physics > Particle Physics

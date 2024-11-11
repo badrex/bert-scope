@@ -1,0 +1,10 @@
+article_id: rspl_1874_0069
+revised_title: 'Experiments on Stratification in Electrical Discharges through Rarefied Gases: A Study of Contact-Breaker Effects'
+semantic_tags:
+  - Electrical Discharges
+  - Gas Discharge Phenomena
+  - Contact-Breaker Technology
+  - Plasma Physics
+  - Vacuum Tubes
+tldr: The author conducted experiments on electrical discharges through rarefied gases and discovered that the occurrence of stratification is not solely dependent on the size of the plant. They found that irregular distribution of striae in discharges is due to certain peculiarities in the current, which can be improved by using a contact-breaker with a steel rod vibrator. The author also observed that the striae in double currents are arranged to fit exactly into each other, and that any disturbance affecting one column of striae affects the other in a similar manner.
+scientific_discipline: Physics > Plasma Physics

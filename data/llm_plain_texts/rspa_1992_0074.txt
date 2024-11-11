@@ -1,0 +1,10 @@
+article_id: rspa_1992_0074
+revised_title: 'Second Variation of Liquid Crystal Energy: A Simplified Proof'
+semantic_tags:
+  - Liquid Crystal Theory
+  - Oseen-Frank Energy
+  - Second Variation
+  - Elastic Constants
+  - Frame Indifference
+tldr: 'The authors provide a simplified proof of the second variation of the Oseen-Frank energy in liquid crystals. They use frame indifference and a new expression for the second invariant null lagrangian as a surface integral to prove the Cohen & Taylor result. The study focuses on the stability of liquid crystal energy and its relation to elastic constants.'
+scientific_discipline: Physics > Materials Science

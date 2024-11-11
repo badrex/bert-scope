@@ -1,0 +1,10 @@
+article_id: rspa_1994_0103
+revised_title: 'Effect of Initial Diameter on Spherically Symmetric Droplet Combustion of Sooting Fuels'
+semantic_tags:
+  - Combustion
+  - Droplet combustion
+  - Soot formation
+  - Microgravity
+  - Burning rate
+tldr: This study examines the effect of initial droplet diameter on the burning rate of sooting fuels, such as n-heptane and 1-chloro-octane, in a spherically symmetric droplet combustion environment. The experiments were conducted in microgravity to minimize buoyancy and achieve spherical flames for stationary droplets. Results showed that burning rate constants decreased as the initial droplet diameter increased above 0.6 mm for both fuels, due to increased soot formation and accumulation in larger droplet flames. This finding challenges the classical theory of spherically symmetric droplet combustion, which predicts that burning rate constants should be independent of droplet diameter.
+scientific_discipline: Engineering and Technology > Combustion and Flame

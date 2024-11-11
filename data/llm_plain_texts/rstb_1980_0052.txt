@@ -1,0 +1,10 @@
+article_id: 'rstb_1980_0052'
+revised_title: 'The Genetic Basis of Penicillin Resistance in Bacteria'
+semantic_tags:
+  - Antibiotic resistance
+  - Plasmids
+  - Bacterial genetics
+  - Penicillinase
+  - Evolution
+tldr: This article discusses the genetic basis of the spread of beta-lactamase synthesis among plasmid-carrying bacteria. It explores the various genetic organizations and mechanisms that contribute to the spread of antibiotic resistance, including plasmid transfer, transposons, and bacterial conjugation. The article highlights the importance of understanding these mechanisms to combat the growing problem of antibiotic-resistant bacterial populations in hospitals.
+scientific_discipline: Biology and Life Sciences > Genetics and Microbiology

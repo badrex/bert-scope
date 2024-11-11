@@ -1,0 +1,10 @@
+article_id: 'rspa_1958_0209'
+revised_title: 'Exploring the Physics of Water and Ice Morphology'
+semantic_tags:
+  - Crystallography
+  - Ice formation
+  - Free energy
+  - Anisotropic growth
+  - Impurities in crystals
+tldr: The author discusses the physics of water and ice, focusing on the different morphological forms of ice and the role of impurities in crystal growth. They propose a hypothesis that explains the transitions between ice forms and the effect of impurities on these transitions. This hypothesis could help explain why certain ice structures form at specific temperatures and how impurities, such as heavy water, can alter these structures.
+scientific_discipline: 'Chemistry > Crystallography'

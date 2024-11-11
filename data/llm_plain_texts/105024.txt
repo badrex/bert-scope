@@ -1,0 +1,10 @@
+article_id: 105024
+revised_title: Patrick Murdocke's Analysis of the Moon's Mean Motion and the Sun's Disturbing Force
+semantic_tags:
+  - Celestial Mechanics
+  - Lunar Motion
+  - Newtonian Mechanics
+  - Astronomical Calculations
+  - Gravitational Attraction
+tldr: The author, Patrick Murdocke, examines the mean motion of the Moon's apogee and the impact of the Sun's disturbing force on the Moon's orbit. He analyzes Sir Isaac Newton's propositions and provides an arithmetical calculation to account for the motion in question. Murdocke also discusses the implications of the Earth and Moon revolving around their common center of gravity, which affects the motion of the apsis.
+scientific_discipline: Physics > Celestial Mechanics

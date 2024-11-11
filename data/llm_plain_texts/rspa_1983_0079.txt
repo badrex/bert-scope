@@ -1,0 +1,10 @@
+article_id: rspa_1983_0079
+revised_title: Fourier Transform Analysis of Compton Profiles in Organic Molecules
+semantic_tags:
+  - Fourier Transform
+  - Compton Profiles
+  - Organic Chemistry
+  - Reciprocal Form Factor
+  - Wavefunction Overlap
+tldr: This article presents a study of the Fourier transform of directional Compton profiles in organic molecules, focusing on the reciprocal form factor and its relation to wavefunction overlaps. The authors analyze the effects of wavefunction quality and orthogonality between bonds in molecules like methane, ethane, ethylene, acetylene, and benzene. The results help to interpret the structure and transferability of directional Compton profiles in these molecules.
+scientific_discipline: Chemistry > Organic Chemistry

@@ -1,0 +1,10 @@
+article_id: rsta_1990_0108
+revised_title: Intramolecular Motion and Chemical Reaction: Pathways for Intramolecular Relaxation in S1 Benzene
+semantic_tags:
+  - Chemical reaction
+  - Intramolecular relaxation
+  - Benzene
+  - Non-radiative decay
+  - Spectroscopy
+tldr: This article investigates the pathways of intramolecular relaxation in benzene through the analysis of sub-Doppler spectra of one- and two-photon vibronic bands. The authors find that the decay behavior depends on the excess energy and rotational quantum numbers rather than the vibrational character and symmetry of the excited state. They discover that coupling to background states plays a significant role in the intramolecular relaxation process.
+scientific_discipline: Chemistry > Spectroscopy

@@ -1,0 +1,10 @@
+article_id: rspa_1950_0014
+revised_title: 'Dynamics of Combustion Products Behind Plane and Spherical Detonation Fronts in Explosives'
+semantic_tags:
+  - Detonation
+  - Explosives
+  - Hydrodynamics
+  - Chapman-Jouguet Condition
+  - Riemann Analysis
+tldr: The author investigates the flow dynamics behind detonation fronts in explosives, specifically plane and spherical detonation waves. The study uses Riemann's analysis to determine the conditions necessary for a progressive wave of finite amplitude to exist behind the detonation front. The author applies these findings to the detonation of T.N.T., providing valuable insights into the behavior of combustion products and the potential for controlling detonation waves.
+scientific_discipline: Physics > Fluid Dynamics

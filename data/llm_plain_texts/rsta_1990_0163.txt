@@ -1,0 +1,10 @@
+article_id: rsta_1990_0163
+revised_title: Lagrangian Microscales in Turbulence: A New Paradigm
+semantic_tags:
+  - Fluid Dynamics
+  - Turbulence
+  - Lagrangian Mechanics
+  - Direct Numerical Simulations
+  - Strain Rate
+tldr: The authors analyze the temporal behavior of lagrangian acceleration and strain rate in homogeneous isotropic turbulence using direct numerical simulations. Contrary to the long-accepted paradigm of persistent strain, they find that turbulent straining is not persistent. Instead, they propose a new paradigm where small-scale quantities containing directional information have short timescales, while amplitudes have longer timescales that increase with Reynolds number. This study provides a better understanding of the behavior of fluid particles in turbulent flows.
+scientific_discipline: Physics > Fluid Dynamics

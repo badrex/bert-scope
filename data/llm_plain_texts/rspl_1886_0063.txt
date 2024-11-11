@@ -1,0 +1,10 @@
+article_id: rspl_1886_0063
+revised_title: The Effect of Magnetisation on the Elasticity and Internal Friction of Metals
+semantic_tags:
+  - Magnetism
+  - Material properties
+  - Elasticity
+  - Internal friction
+  - Metals
+tldr: The authors conducted experiments to test the effect of magnetisation on the physical properties of metals, specifically their elasticity and internal friction. They found that when deformations produced by oscillations are small, the internal friction of a torsionally vibrating wire is not affected by sustained longitudinal magnetisation. However, when deformations are large, the internal friction is significantly increased by sustained longitudinal magnetisation. The authors also discovered that the torsional elasticity is independent of any sustained longitudinally magnetising stress, and the number of oscillations executed in a given time is slightly reduced by sustained longitudinal magnetisation when deformations are large.
+scientific_discipline: Physics > Material properties

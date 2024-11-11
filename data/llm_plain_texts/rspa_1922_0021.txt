@@ -1,0 +1,10 @@
+article_id: rspa_1922_0021
+revised_title: Atmospheric Pressure and Refractive Indices in Optical Glass
+semantic_tags:
+  - Atmospheric pressure
+  - Refractive index
+  - Optical glass
+  - Glass properties
+  - Temperature coefficients
+tldr: This article investigates the influence of atmospheric pressure on the refractive indices of optical glass. The authors develop a method to correct for atmospheric pressure and temperature, enabling more accurate refractive index measurements. They present a table of refractive indices for various types of glass, accounting for these factors.
+scientific_discipline: Physics > Optics

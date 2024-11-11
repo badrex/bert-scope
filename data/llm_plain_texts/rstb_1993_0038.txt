@@ -1,0 +1,10 @@
+article_id: 'rstb_1993_0038'
+revised_title: 'Efficient Coding of Natural Time-Varying Images in the Early Visual System: A Study on Spatiotemporal Spectrum and Tracking Effects'
+semantic_tags:
+  - Visual Perception
+  - Spatiotemporal Processing
+  - Eye Movements
+  - Retinal Pathways
+  - Natural Images
+tldr: This study investigates how eye movements and the spatiotemporal pathways in the early visual system efficiently code time-varying images. The authors analyze the spatiotemporal spectrum of natural images and the effects of tracking on the velocity field and stationary components. They find that tracking reduces the temporal frequency bandwidth of the velocity field component at the point of tracking, while the stationary component's spectrum remains unaffected. The results suggest that the visual system's coding strategy optimizes the transmission of visual information, given physiological constraints like limited dynamic range and spatial and temporal bandwidths.
+scientific_discipline: Biology and Life Sciences > Visual Perception

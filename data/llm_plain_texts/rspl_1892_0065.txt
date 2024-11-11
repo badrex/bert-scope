@@ -1,0 +1,10 @@
+article_id: rspl_1892_0065
+revised_title: Absolute Measurements of Thermal Radiation Loss
+semantic_tags:
+  - Thermodynamics
+  - Heat Transfer
+  - Radiation
+  - Heat Loss
+  - Copper Globes
+tldr: The author conducted experiments to measure the loss of heat from copper globes through thermal radiation. They used different surface conditions and air pressures to determine the impact on heat loss. The results showed that the loss of heat by radiation was significantly reduced in a vacuum and with a silvered and polished surface.
+scientific_discipline: Physics > Thermodynamics

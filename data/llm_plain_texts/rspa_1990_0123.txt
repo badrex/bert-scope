@@ -1,0 +1,10 @@
+article_id: 'rspa_1990_0123'
+revised_title: 'Molecular Dynamics Simulations of Carbon Bombardment on Graphite and Diamond'
+semantic_tags:
+  - 'Molecular dynamics'
+  - 'Carbon bombardment'
+  - 'Graphite'
+  - 'Diamond'
+  - 'Ejection mechanisms'
+tldr: 'The author conducted molecular dynamics simulations to study the effects of carbon bombardment on graphite and diamond. The study examined normal incidence carbon bombardment on diamond {100}, diamond {111}, and graphite {1000} faces. The simulations showed that the ejected material has different energy and angular distributions for each surface, with the peak ejection energy varying between the different surfaces. The results provide insights into the ejection mechanisms and can be useful for understanding radiation damage and surface analysis techniques.'
+scientific_discipline: 'Physics > Materials Science'

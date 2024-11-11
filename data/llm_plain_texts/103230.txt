@@ -1,0 +1,10 @@
+article_id: 103230
+revised_title: 'Density of Air: An Experiment on the Effect of Temperature'
+semantic_tags:
+  - Atmospheric Science
+  - Temperature
+  - Density
+  - Thermometer
+  - Barometer
+tldr: 'Fr. Hauksbee conducted an experiment to measure the density of air at different temperatures. He used a syphon and thermometer to observe how the air's density changed from the highest natural heat to the lowest natural cold in the climate. The results showed that air is more dense at lower temperatures and less dense at higher temperatures.'
+scientific_discipline: Environmental and Earth Sciences > Atmospheric Science

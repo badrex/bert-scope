@@ -1,0 +1,10 @@
+article_id: rspa_1948_0033
+revised_title: 'Surface Wave Propagation of the Slow Component in Atmospherics'
+semantic_tags:
+  - Electromagnetic Waves
+  - Surface Waves
+  - Atmospherics
+  - Ionosphere
+  - Radio Waves
+tldr: The authors explore the possibility of the slow or tail component in atmospherics being propagated as a surface wave. They set up solutions for the propagation of electromagnetic waves between conductive layers and find that a solution exists that corresponds to the observed velocities and periods of the slow component. This suggests that the slow component may be a surface wave, providing insight into the mode of propagation and the relationship between the slow and oscillatory components in atmospherics.
+scientific_discipline: Physics > Electromagnetism

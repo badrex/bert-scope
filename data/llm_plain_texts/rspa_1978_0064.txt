@@ -1,0 +1,10 @@
+article_id: rspa_1978_0064
+revised_title: Superexchange Mechanism in Copper Acetates
+semantic_tags:
+  - Superexchange
+  - Copper chemistry
+  - Antiferromagnetic exchange coupling
+  - Crystal field theory
+  - Ligand field theory
+tldr: The authors explore the superexchange mechanism in copper acetates, demonstrating that it can account for the ground state properties of the structurally analogous molecule. They argue that the superexchange mechanism, made possible through configurational mixing of functions caused by the close proximity of the second metal atom, can reproduce the magnitudes, temperature-dependences, and orientations of the principal magnetic susceptibilities. The authors also discuss the limitations of the angular overlap model and the ligand-field mixing coefficient in predicting the superexchange pathway.
+scientific_discipline: Chemistry > Inorganic Chemistry

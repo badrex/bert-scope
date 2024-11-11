@@ -1,0 +1,10 @@
+article_id: rspa_1970_0150
+revised_title: Generalized Veneziano Model and Duality-Reggeons in Elementary Particle Processes
+semantic_tags:
+  - Particle Physics
+  - Regge Theory
+  - Veneziano Model
+  - Duality
+  - Bootstrap Hypothesis
+tldr: The article discusses the generalization of the Veneziano model to many-particle reactions, focusing on duality-Reggeons and resonances in elementary particle processes. The generalized model exhibits desirable properties such as duality, crossing symmetry, and Regge asymptotic behavior, and is consistent with the bootstrap hypothesis. The article also explores the implications of the model for particle physics and the construction of higher-point functions involving spinning particles.
+scientific_discipline: Physics > Particle Physics

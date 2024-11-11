@@ -1,0 +1,10 @@
+article_id: 'rspb_1993_0092'
+revised_title: 'Wave Mechanisms in Microbial Populations: An Alternative to Turing Structures'
+semantic_tags:
+  - Wave Theory
+  - Microbial Populations
+  - Pattern Formation
+  - Chemotaxis
+  - Nonlinear Dynamics
+tldr: 'The authors discovered an alternative to Turing's model for pattern formation in microbial populations, based on wave interactions in excitable media. They observed that taxis waves, which consume different substrates, can create motionless patterns when they collide and annihilate. This wave mechanism provides a new approach to understanding biological pattern formation and offers potential applications in various fields.'
+scientific_discipline: Biology and Life Sciences > Ecology and Ecosystems

@@ -1,0 +1,9 @@
+article_id: rsta_1988_0009
+revised_title: High-Resolution Infrared Spectroscopy of Molecular Ions: Techniques and Recent Results
+semantic_tags:
+  - Molecular spectroscopy
+  - Infrared spectroscopy
+  - Ion spectroscopy
+  - Tunable laser techniques
+  - Molecular ions
+tldr: This article discusses experimental techniques of high-resolution infrared absorption spectroscopy, focusing on the modulated hollow-cathode discharge method. It presents recent results, such as the fundamental band of molecular ions, and explores the abundance ratio and astrophysical implications. The article also explains the use of magnetic fields to enhance ion signals and differentiate them from neutral species.

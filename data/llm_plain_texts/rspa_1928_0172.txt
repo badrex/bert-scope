@@ -1,0 +1,10 @@
+article_id: rspa_1928_0172
+revised_title: 'Precise Measurements of the Absorption Spectrum of Cesium'
+semantic_tags:
+  - Atomic Physics
+  - Spectroscopy
+  - Quantum Mechanics
+  - Cesium
+  - Absorption Spectrum
+tldr: 'This research aimed to obtain more accurate values of the wave-lengths in the absorption spectrum of caesium. The authors used a Rowland grating and a unique method to prepare the caesium vapour. They successfully measured the wave-lengths of the principal series and found that their measurements were accurate to about one part in 100,000. The results also indicated that the limit of the series might be slightly different from previous estimates.'
+scientific_discipline: Physics > Atomic Physics

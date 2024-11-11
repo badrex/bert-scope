@@ -1,0 +1,10 @@
+article_id: rspa_1974_0020
+revised_title: 'Gravitational Radiation and Virtual Quanta in Ultrarelativistic Encounters'
+semantic_tags:
+  - Gravitational radiation
+  - Virtual quanta
+  - Ultrarelativistic encounters
+  - Schwarzschild mass
+  - Geodesic motion
+tldr: The authors extend the Weizsacker-Williams method of virtual quanta to gravitational encounters and set up a correlation between collision problems and the corresponding interaction of gravitational radiation. They analyze the Schwarzschild field of a particle and compute the curvature forces in the local rest frame of an observer on a test body. The authors calculate the scattering of a pulse of gravitational radiation by the test particle and the radiative loss of gravitational energy in a rapidly moving particle. They also compute the radiation spectrum and total energy radiated in a distant brehmsstrahlung encounter as an example.
+scientific_discipline: Physics > Gravitational Waves

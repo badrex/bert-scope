@@ -1,0 +1,10 @@
+article_id: rspa_1973_0062
+revised_title: Microwave Spectroscopy of Nonlinear Free Radicals: General Theory and Application to the Zeeman Effect in HCO
+semantic_tags:
+  - Microwave spectroscopy
+  - Nonlinear free radicals
+  - Zeeman effect
+  - HCO radical
+  - Molecular physics
+tldr: This article presents a general theory for the description of microwave spectra of nonlinear open-shell molecules in the presence of external electric or magnetic fields. The authors describe the detection and analysis of the HCO radical's microwave spectrum, providing insights into the molecular parameters and comparing them with solid-state studies. The study has implications for understanding the physics of molecules and molecular astronomy.
+scientific_discipline: Physics > Molecular Physics

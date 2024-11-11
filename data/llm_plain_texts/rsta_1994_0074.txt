@@ -1,0 +1,10 @@
+article_id: rsta_1994_0074
+revised_title: Exploring Complex Spiral Wave Dynamics in Excitable Media
+semantic_tags:
+  - Nonlinear dynamics
+  - Spiral waves
+  - Excitable media
+  - Belousov-Zhabotinsky reaction
+  - Chemical waves
+tldr: This article investigates the diverse and complex spiral wave dynamics in excitable media, particularly in the Belousov-Zhabotinsky reaction. The authors explore three factors that contribute to this complexity: initial concentration of sulfuric acid, aging of the solution, and periodic modulation of the medium's parameters. They compare experimental results with computer simulations to better understand the behavior of spiral waves in these systems.
+scientific_discipline: Physics > Nonlinear Dynamics

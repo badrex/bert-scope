@@ -1,0 +1,10 @@
+article_id: rspa_1953_0126
+revised_title: Argon Vacuum Wave-Length Measurements Using Reflecting Echelons
+semantic_tags:
+  - Spectroscopy
+  - Echelons
+  - Argon spectrum
+  - Vacuum wave-length standards
+  - Reflecting interferometer
+tldr: The authors conducted experiments using two reflecting echelons to measure the vacuum wave-lengths of 84 lines in the argon spectrum. They found that the values obtained were independent of the particular instrument employed and established that non-linearity of dispersion did not require correction in the visible and ultra-violet regions of the spectrum. This study contributed to the development of secondary vacuum wave-length standards.
+scientific_discipline: Physics > Optics

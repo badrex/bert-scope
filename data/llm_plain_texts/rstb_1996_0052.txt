@@ -1,0 +1,10 @@
+article_id: 'rstb_1996_0052'
+revised_title: 'Transcription Factors: Control of Cell-Specificity in Bacillus subtilis'
+semantic_tags:
+  - 'Bacterial Genetics'
+  - 'Transcription Factors'
+  - 'Sporulation'
+  - 'Sigma Factors'
+  - 'Cell Differentiation'
+tldr: 'This article discusses the control of cell-specificity in Bacillus subtilis through the regulation of transcription factors, specifically sigma factors. The authors describe the role of sigma factors in gene expression during sporulation and how the activity of the sigma factor (aF) is regulated by an anti-sigma factor, SpoIIAB, which is controlled by an anti-anti-sigma factor, SpoIIAA. The biochemical basis for the temporal and spatial regulation of aF activity is also explored, including the potential role of changes in adenine nucleotides.'
+scientific_discipline: Biology and Life Sciences > Genetics and Molecular Biology

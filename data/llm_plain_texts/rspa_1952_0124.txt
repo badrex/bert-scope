@@ -1,0 +1,12 @@
+article_id: rspa_1952_0124
+revised_title: Sorption and Surface Diffusion in Porous Glass: A Study of Gas Flow and Adsorption
+semantic_tags:
+  - Porous materials
+  - Gas flow
+  - Adsorption
+  - Surface diffusion
+  - Henry's law
+scientific_discipline: Chemistry > Materials Science
+```yaml
+tldr: This study investigates the sorption and surface diffusion of gases in porous glass. The authors found that porous glass exhibits type IV isotherms with characteristic hysteresis loops, indicating its non-uniform sorbing surface. They also discovered that surface diffusion plays a significant role in the transport of gases in the most dilute adsorbed films. The results provide insights into the behavior of gases in microporous solids and can be applied to improve the understanding of gas transport processes in various materials.
+```

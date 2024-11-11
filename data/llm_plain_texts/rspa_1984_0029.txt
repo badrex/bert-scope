@@ -1,0 +1,10 @@
+article_id: rspa_1984_0029
+revised_title: A Mathematical Model for Two-Dimensional Etching
+semantic_tags:
+  - Etching
+  - Diffusion
+  - Stefan Problems
+  - Asymptotic Analysis
+  - Moving Boundary Problems
+tldr: This article presents a mathematical model for the etching of a semi-infinite active surface, focusing on the transport of the active species by diffusion. The author demonstrates how to solve the problem using a singular perturbation technique, distinguishing a near field and a far field, and provides the leading terms of a composite expansion to determine the shape of the moving boundary at all times.
+scientific_discipline: Mathematics > Applied Mathematics

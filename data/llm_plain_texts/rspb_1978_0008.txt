@@ -1,0 +1,10 @@
+article_id: 'rspb_1978_0008'
+revised_title: 'Cortico-Cortical Connections to Area 5 of the Parietal Lobe from the Primary Somatic Sensory Cortex of the Monkey'
+semantic_tags:
+  - Neuroscience
+  - Parietal Lobe
+  - Somatosensory Cortex
+  - Monkey Brain
+  - Cortico-Cortical Connections
+tldr: The study investigates the cortico-cortical connections between the primary somatic sensory cortex and area 5 of the parietal lobe in the monkey brain. The research shows that there is no overlap between the projections of different topographic subdivisions of the primary somatic sensory area, but there is spatial convergence within the cortex of area 5 containing the same representation. The findings provide an anatomical basis for the observation of single neurons responding to movement of more than one joint in a single limb.
+scientific_discipline: Neuroscience > Parietal Lobe

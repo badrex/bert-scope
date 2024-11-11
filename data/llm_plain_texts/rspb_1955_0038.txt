@@ -1,0 +1,10 @@
+article_id: 'rspb_1955_0038'
+revised_title: 'Molecular Specificity of Steroid-Enzyme Combinations: Kinetics of -Hydroxysteroid Dehydrogenase'
+semantic_tags:
+  - Enzyme kinetics
+  - Steroid metabolism
+  - Molecular specificity
+  - Enzyme-substrate interactions
+  - Structural biology
+tldr: The authors studied the molecular specificity and kinetics of -hydroxysteroid dehydrogenase, an enzyme that catalyzes the oxidation of hydroxylated steroids. They found that the enzyme has a high affinity and structural specificity for certain steroids, and the reaction kinetics do not follow the classical Michaelis-Menten theory. The study provides insights into the structural requirements for efficient binding of substrate molecules to the enzyme surface and the relationship between binding affinity and physiological activities of steroids.
+scientific_discipline: Biology and Life Sciences > Biochemistry

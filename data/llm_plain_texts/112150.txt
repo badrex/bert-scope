@@ -1,0 +1,10 @@
+article_id: 112150
+revised_title: 'Advanced Techniques for Summation of Series'
+semantic_tags:
+  - Mathematics
+  - Series summation
+  - Definite integrals
+  - Calculus
+  - Mathematical analysis
+tldr: The author, W. H. L. Russell, presents advanced methods for summing complicated series using definite integrals. He explains the general method of calculation and applies it to various series, including those with rational functions. This work builds upon his previous research in the field.
+scientific_discipline: Mathematics > Calculus

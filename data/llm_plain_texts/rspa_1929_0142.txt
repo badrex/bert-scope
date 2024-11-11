@@ -1,0 +1,10 @@
+article_id: rspa_1929_0142
+revised_title: 'Effect of Adsorbed Gas on Soft X-Ray Emission and Photoelectric Detector'
+semantic_tags:
+  - X-ray emission
+  - Photoelectric effect
+  - Adsorbed gas
+  - Surface science
+  - Material degassing
+tldr: The authors investigated the effect of adsorbed gas molecules on the emission of soft X-rays and the performance of photoelectric detectors. They found that the presence of adsorbed gas significantly affects the efficiency of soft X-ray excitation and the photoelectric current. The researchers also discovered that proper degassing and surface treatment of the photoelectric detector are crucial for accurate measurements of soft X-ray emissivities and photoelectric activity of different elements.
+scientific_discipline: Physics > Material Science

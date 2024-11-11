@@ -1,0 +1,10 @@
+article_id: 'rsta_1985_0049'
+revised_title: 'Davydov Solitons in Polypeptides: A Quantum Mechanical Analysis'
+semantic_tags:
+  - Solitons
+  - Biophysics
+  - Protein Structure
+  - Molecular Vibrations
+  - Quantum Mechanics
+tldr: This article explores Davydov soliton theory, which explains the self-trapping of molecular vibrational energy in polypeptides, specifically in crystalline acetanilide. The author reviews the experimental evidence for this phenomenon and discusses the quantum mechanical analysis of the self-trapping process. The findings have implications for understanding energy storage and transport in proteins and biological organisms.
+scientific_discipline: Physics > Optics

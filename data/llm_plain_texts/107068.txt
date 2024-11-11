@@ -1,0 +1,10 @@
+article_id: 107068
+revised_title: 'Experiments on the Solubility of Gases in Water: Temperature and Pressure Effects'
+semantic_tags:
+  - Gas solubility
+  - Chemical reactions
+  - Temperature effects
+  - Pressure effects
+  - Gas absorption
+tldr: The author conducted experiments to determine the quantity of gases absorbed by water at different temperatures and under various pressures. They found that the solubility of gases in water is influenced by both temperature and pressure, with higher pressures and lower temperatures generally leading to increased gas absorption. The author also discovered that the quality of the unabsorbed gas residue plays a significant role in the absorption process.
+scientific_discipline: Chemistry > Chemical Reactions and Equilibria

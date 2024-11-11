@@ -1,0 +1,10 @@
+article_id: rspa_1959_0193
+revised_title: 'Vibrational Relaxation Mechanisms in Gases'
+semantic_tags:
+  - Vibrational relaxation
+  - Gas dynamics
+  - Molecular collisions
+  - Acoustic interferometry
+  - Gas imperfection
+scientific_discipline: Physics > Thermodynamics
+tldr: The authors conducted experiments using ultrasonic dispersion measurements to study the probability of transition between translational and vibrational energy in homomolecular collisions. They discovered that molecules with a distribution of fundamental frequencies undergo a single relaxation process, while molecules with a large gap between fundamental frequencies experience a double relaxation process. The results provide insights into the correlation between molecular structure and energy transition probability.

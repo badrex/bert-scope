@@ -1,0 +1,10 @@
+article_id: 'rspb_1949_0023'
+revised_title: 'The Early Heat Production and Mechanical Response in Muscle Contraction'
+semantic_tags:
+  - Muscle Contraction
+  - Heat Production
+  - Mechanical Efficiency
+  - Muscle Physiology
+  - Temperature Effects
+tldr: The author investigates the early heat production and mechanical response during muscle contraction in frog muscles at low temperatures. They find that the heat production starts off at a low rate and gradually increases as the contraction is propagated. The mechanical efficiency of frog muscles at low temperatures is as great as at higher temperatures, and the maximum force exerted in a twitch may be 1 to 2. The author concludes that there is no sign of negative heat production during contraction or relaxation, and any endothermic processes are masked by exothermic ones.
+scientific_discipline: Biology and Life Sciences > Muscle Physiology

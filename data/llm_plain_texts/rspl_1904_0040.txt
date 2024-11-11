@@ -1,0 +1,10 @@
+article_id: rspl_1904_0040
+revised_title: A Criterion for Testing Theories of Inheritance
+semantic_tags:
+  - Statistical genetics
+  - Heredity
+  - Inheritance
+  - Population genetics
+  - Mendelian inheritance
+tldr: The author proposes a criterion to test various theories of inheritance by analyzing the variability of offspring arrays based on parental characters. This criterion can be applied to different inheritance theories, including the Ancestral Law, parental dominance, and Mendelian inheritance. The author demonstrates the effectiveness of this criterion using measurements of stature, span, and forearm in over 1000 families.
+scientific_discipline: Social Sciences > Statistics

@@ -1,0 +1,10 @@
+article_id: rsta_1963_0001
+revised_title: Improved Recurrence Relations for Matrix Elements of the Rotation Group
+semantic_tags:
+  - Group Theory
+  - Matrix Representation
+  - Recurrence Relations
+  - Hypergeometric Functions
+  - Jacobi Polynomials
+tldr: The authors present a new and simpler recurrence relation for calculating the matrix elements of the rotation group, which is more efficient than previous methods. They also provide a systematic procedure for using this relation and discuss its advantages for both desk and electronic computers. The authors have compiled extensive tables of calculated coefficients, which are available for use in various physical problems.
+scientific_discipline: Mathematics > Group Theory

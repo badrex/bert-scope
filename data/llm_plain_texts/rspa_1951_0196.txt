@@ -1,0 +1,10 @@
+article_id: rspa_1951_0196
+revised_title: 'Quantitative Determination of Atmospheric Gases by Infra-Red Spectroscopic Methods: Laboratory Determination of the Absorption of the 7.8 and 8.6μ Bands of Nitrous Oxide with Dry Air as a Foreign Gas'
+semantic_tags:
+  - Atmospheric Chemistry
+  - Infra-Red Spectroscopy
+  - Nitrous Oxide
+  - Absorption
+  - Line Shape
+scientific_discipline: Chemistry > Atmospheric Chemistry
+tldr: The authors conducted laboratory experiments to determine the absorption of the 7.8 and 8.6μ bands of nitrous oxide with dry air as a foreign gas using infra-red spectroscopic methods. They found that it is possible to measure band intensities with a reasonable degree of accuracy and that the Lorentz line shape is applicable to infra-red absorption lines in most of the pressure range used in these experiments.

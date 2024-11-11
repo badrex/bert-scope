@@ -1,0 +1,10 @@
+article_id: rspa_1978_0078
+revised_title: 'Understanding the Hydration Mechanism of Portland Cement'
+semantic_tags:
+  - Cement chemistry
+  - Hydration process
+  - Calcium silicate hydrate
+  - Microstructure
+  - Mechanical properties
+tldr: This article investigates the hydration process of Portland cement and its impact on the microstructure and mechanical properties of cement paste. The authors propose that the hydrated surface of cement grains consists of low molecular mass silicic acids, which interact with dissolved hydroxylated calcium species to form a semi-permeable membrane of calcium silicate hydrate. This membrane's rupture leads to the growth of excrescences from the grain, affecting the cement paste's tensile strength. The study focuses on the major interstitial material, calcium silicate hydrate, as it plays a significant role in the hardening process and the final material's mechanical properties.
+scientific_discipline: Engineering and Technology > Materials Science

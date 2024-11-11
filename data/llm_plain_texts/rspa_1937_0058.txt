@@ -1,0 +1,10 @@
+article_id: rspa_1937_0058
+revised_title: Structure and Properties of Liquid Hydrogen Peroxide
+semantic_tags:
+  - Liquid structure
+  - X-ray diffraction
+  - Hydrogen peroxide
+  - Molecular modeling
+  - Close-packed structure
+tldr: The authors used X-ray diffraction and Fourier analysis to study the structure of liquid hydrogen peroxide. They found that the liquid has a close-packed face-centered cubic structure, with the hydroxyl (OH) groups having a larger radius than in water. The results also support the Penney-Sutherland model for the orientation of the OH groups, which is consistent with the observed dipole moment of hydrogen peroxide.
+scientific_discipline: Chemistry > Physical Chemistry

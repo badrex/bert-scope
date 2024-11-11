@@ -1,0 +1,10 @@
+article_id: rspl_1891_0016
+revised_title: Electromagnetic Energy Flux and Stresses
+semantic_tags:
+  - Electromagnetism
+  - Vector Calculus
+  - Electromagnetic Theory
+  - Energy Conservation
+  - Maxwell's Equations
+tldr: This article discusses the forces, stresses, and fluxes of energy in the electromagnetic field, focusing on the principles of energy conservation and the application of vector calculus. The author presents a new method for expressing electromagnetic theory, which includes the Poynting flux of energy, the convection of electric and magnetic energy, and the convection of other energy associated with the working of the translational force due to stress. The article also examines the stress in the electromagnetic field, its components, and its relation to energy flux.
+scientific_discipline: Physics > Electromagnetism

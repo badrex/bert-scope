@@ -1,0 +1,10 @@
+article_id: 'rspa_1983_0129'
+revised_title: 'Control Engineering and Economic Modelling: A Collaboration for National Economy Control'
+semantic_tags:
+  - Control Engineering
+  - Economic Modelling
+  - National Economy Control
+  - System Control
+  - Economic Theories
+tldr: The author discusses the application of control engineering techniques to economic modelling and the control of the national economy. They highlight the challenges and complexities of applying control theory to economic systems, including the lack of consensus on economic theories and the limited availability of data. The author emphasizes the importance of collaboration between economists and control engineers to improve the control of the national economy.
+scientific_discipline: Engineering and Technology > Control Engineering

@@ -1,0 +1,10 @@
+article_id: rspa_1938_0178
+revised_title: 'Quantum Effects and Statistics in Gaseous Helium'
+semantic_tags:
+  - Quantum mechanics
+  - Helium properties
+  - Bose-Einstein statistics
+  - Viscosity
+  - Second virial coefficient
+tldr: The authors studied the low-temperature properties of gaseous helium and the effects of quantum mechanics on its behavior. They compared the experimental values of the viscosity and second virial coefficients with theoretical values using different statistics, such as Boltzmann, Fermi-Dirac, and Bose-Einstein. Their findings showed that Bose-Einstein statistics were the most suitable for describing helium atoms, and they provided insights into the interaction of helium atoms and the validity of quantum theory at low temperatures.
+scientific_discipline: Physics > Thermodynamics

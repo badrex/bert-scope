@@ -1,0 +1,10 @@
+article_id: rspl_1888_0005
+revised_title: Hydraulic Mean Depth in Pipes and Channels
+semantic_tags:
+  - Fluid Mechanics
+  - Hydraulics
+  - Pipe Design
+  - Open Channel Flow
+  - Isoperimetrical Problems
+tldr: The author investigates the hydraulic mean depth in pipes and channels, focusing on the resistance due to friction of the liquid against the sides of the pipes or channels. They explore the optimal shapes for pipes and channels to maximize hydraulic mean depth, considering various scenarios such as full pipes, half-full pipes, and pipes with fluctuating contents. The author concludes that a catenary curve with its convexity turned to the chord and the axis of depth can provide a favorable hydraulic mean depth for open channels with fluctuating contents.
+scientific_discipline: Engineering and Technology > Fluid Mechanics

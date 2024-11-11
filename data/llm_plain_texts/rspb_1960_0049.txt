@@ -1,0 +1,10 @@
+article_id: 'rspb_1960_0049'
+revised_title: 'The Optimal Cell Density for Bacterial Survival in Nutrient-Deprived Conditions'
+semantic_tags:
+  - Bacterial survival
+  - Nutrient deprivation
+  - Cell density
+  - Microbiology
+  - Bacterium lactis aerogenes
+tldr: 'The study investigates the survival of Bacterium lactis aerogenes when held at growth temperature without nutriment. It found that maximum survival occurs at a specific cell density, with survival being proportionally less at higher and lower densities. The findings suggest that bacterial cells can interact and support each other's survival in nutrient-deprived conditions.'
+scientific_discipline: Biology and Life Sciences > Microbiology

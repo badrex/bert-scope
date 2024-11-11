@@ -1,0 +1,10 @@
+article_id: rspl_1879_0072
+revised_title: 'Spectroscopic Experiments on Sodium and the Effect of Preheating on Salt Solutions'
+semantic_tags:
+  - Thermo-electricity
+  - Spectroscopy
+  - Sodium
+  - Salt solutions
+  - Molecular arrangement
+scientific_discipline: Chemistry > Thermochemistry
+tldr: The authors conducted experiments to study the effect of preheating on salt solutions and the behavior of sodium in spectroscopic experiments. They discovered that preheating the salt usually weakens the current and that the differences in molecular arrangement cause the differences in the currents obtained. Additionally, they observed the expansion of the lines of sodium when heated in iron tubes and found that iron has a unique interaction with sodium vapor, which affects the width of the bright D line.

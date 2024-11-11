@@ -1,0 +1,10 @@
+article_id: rspa_1908_0063
+revised_title: 'Investigation of Electrolytic Properties of Diluted Solutions of Sulphuric Acid'
+semantic_tags:
+  - Electrochemistry
+  - Conductivity
+  - Acid solutions
+  - Migration constant
+  - Transport ratio
+tldr: The authors conducted experiments to study the electrolytic properties of diluted solutions of sulphuric acid. They designed a cell to measure the transport ratio and migration constant of the solutions. The results showed that the decrease in equivalent conductivity at great dilutions was not affected by impurities in the solvent. The authors concluded that the phenomenon was caused by a decrease in the effective velocity of one or both ions in the solution.
+scientific_discipline: Chemistry > Electrochemistry

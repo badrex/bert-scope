@@ -1,0 +1,10 @@
+article_id: 108947
+revised_title: 'Investigation of the Expansion by Heat of Water and Mercury'
+semantic_tags:
+  - Thermodynamics
+  - Heat expansion
+  - Physical properties of alloys
+  - Temperature measurement
+  - Experimental methods
+tldr: The author conducted experiments to determine the coefficients of expansion for water and mercury by measuring their changes in length when heated. They developed a method using glass rods and a specially designed apparatus to weigh the metals in water at different temperatures. The results provided insights into the expansion of alloys and the accuracy of temperature measurements.
+scientific_discipline: Physics > Thermodynamics

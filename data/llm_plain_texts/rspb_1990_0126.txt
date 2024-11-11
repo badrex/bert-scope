@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0126'
+revised_title: 'Polymorphism and Inheritance of the TRAP Gene in Plasmodium falciparum'
+semantic_tags:
+  - Malaria
+  - Genetics
+  - Molecular Biology
+  - Parasitology
+  - Gene Polymorphism
+tldr: The authors investigated the natural sequence variation of the TRAP gene in Plasmodium falciparum using DNA analysis and polymerase chain reaction. They found the gene to be highly polymorphic, with over 50 amino acid substitutions and a small-variable tandemly repeating motif. The TRAP gene is linked to chromosome 13 and exhibits no significant linkage to growth parameters in a genetic cross. The study suggests that TRAP gene mutations may play a role in allelic variation by the parasite.
+scientific_discipline: Biology and Life Sciences > Genetics and Molecular Biology

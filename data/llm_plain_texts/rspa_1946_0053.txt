@@ -1,0 +1,10 @@
+article_id: rspa_1946_0053
+revised_title: 'An Analysis of Binary and Ternary Encounters in Gases'
+semantic_tags:
+  - Gas dynamics
+  - Chemical reactions
+  - Statistical mechanics
+  - Molecular collisions
+  - Kinetic theory
+tldr: 'The author presents two theories to analyze the probability of encounters between gas molecules, focusing on binary and ternary encounters. The first theory uses a cubic cell approach, while the second theory considers a spherical shell surrounding a molecule. Both theories show deviations from the law of Guldberg and Waage at high densities, with the second theory providing a more accurate measure of encounters.'
+scientific_discipline: Chemistry > Chemical kinetics

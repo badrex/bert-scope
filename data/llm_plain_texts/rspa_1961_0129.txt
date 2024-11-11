@@ -1,0 +1,10 @@
+article_id: rspa_1961_0129
+revised_title: Density and Volume Parameters of Molten Mixtures of Potassium Nitrate and Barium Nitrate
+semantic_tags:
+  - Thermodynamics
+  - Crystal structure
+  - Ionic melts
+  - Density measurements
+  - Volume parameters
+tldr: The authors conducted density measurements on molten mixtures of potassium nitrate and barium nitrate to study their volume parameters and crystal structures. They found that the partial equivalent volumes of the two species are independent of composition at a given temperature, and the isotherms of equivalent volume as a function of equivalent composition were straight lines. This unusual mixing behavior is discussed in relation to possible structures for nitrate melts and other ionic melts and liquids.
+scientific_discipline: Chemistry > Thermodynamics

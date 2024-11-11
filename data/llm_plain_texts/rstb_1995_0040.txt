@@ -1,0 +1,10 @@
+article_id: 'rstb_1995_0040'
+revised_title: 'Mapping Protein Folding Pathways: Structures of Transition States and Intermediates'
+semantic_tags:
+  - Protein folding
+  - Protein engineering
+  - Nuclear magnetic resonance
+  - Transition states
+  - Protein structure
+tldr: 'The article discusses the process of mapping protein folding pathways by determining the structures of transition states and intermediates. The authors use a combination of protein engineering and nuclear magnetic resonance methods to analyze the folding pathways of barnase and chymotrypsin inhibitor 2. They find that barnase folds according to a framework model, while chymotrypsin inhibitor 2 folds without a kinetically significant intermediate. The protein engineering method is also used to study the effects of molecular chaperones on folding pathways.'
+scientific_discipline: Biology and Life Sciences > Biochemistry

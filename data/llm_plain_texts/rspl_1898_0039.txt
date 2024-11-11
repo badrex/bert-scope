@@ -1,0 +1,10 @@
+article_id: rspl_1898_0039
+revised_title: 'Magnetic Susceptibility of Liquid Oxygen'
+semantic_tags:
+  - Magnetic susceptibility
+  - Liquid oxygen
+  - Diamagnetism
+  - Paramagnetism
+  - Electromagnet design
+tldr: The authors conducted experiments to measure the magnetic susceptibility of liquid oxygen using an electromagnet design. They found that liquid oxygen is diamagnetic, meaning it is repelled by a magnetic field. This discovery helped improve the understanding of the magnetic properties of materials and the design of electromagnets.
+scientific_discipline: Physics > Electromagnetism

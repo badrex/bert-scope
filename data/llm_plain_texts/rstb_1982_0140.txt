@@ -1,0 +1,10 @@
+article_id: rstb_1982_0140
+revised_title: 'Single Chloride Channels: Open-State Substructure and Conductance Mechanism'
+semantic_tags:
+  - Ion channels
+  - Chloride channels
+  - Neurophysiology
+  - Membrane biology
+  - Torpedo electroplax
+tldr: The study investigates single chloride channels from Torpedo electroplax and discovers that the open channel fluctuates between three distinct substates. The conducting unit of the chloride channel is composed of two identical chloride diffusion pathways, each containing a voltage-dependent gate.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

@@ -1,0 +1,10 @@
+article_id: rspa_1948_0120
+revised_title: "Turbulence and Sea Water Mixing: A Theoretical Approach"
+semantic_tags:
+  - Oceanography
+  - Turbulence
+  - Sea water mixing
+  - Eddy diffusion
+  - Fluid dynamics
+tldr: "The article applies Sir Geoffrey Taylor's theory of eddy diffusion to study the mixing of sea water by turbulence. It derives formulas for the distribution of salinity and the rate of transport of salt, considering various cases of mean turbulence and mean current. The theory is applied to estimate the mean current through the central region of the Irish Sea."
+scientific_discipline: Environmental and Earth Sciences > Oceanography

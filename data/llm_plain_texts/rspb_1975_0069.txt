@@ -1,0 +1,10 @@
+article_id: 'rspb_1975_0069'
+revised_title: 'Exploring Lysozyme's Structure and Exchangeable Hydrogens via Fourier Transform Proton Magnetic Resonance'
+semantic_tags:
+  - 'Protein Structure'
+  - 'Nuclear Magnetic Resonance'
+  - 'Lysozyme'
+  - 'Exchangeable Hydrogens'
+  - 'Molecular Biology'
+tldr: The authors used Fourier transform proton magnetic resonance techniques to study the exchangeable hydrogens in hen and human lysozymes. They observed the resonances of exchangeable and non-exchangeable hydrogens, and found that the structures of the active sites of both lysozymes were very similar to each other and their crystal structures. This study revealed an interesting interaction between the residues tryptophan 108 and glutamic acid 35 in lysozyme.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

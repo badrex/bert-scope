@@ -1,0 +1,10 @@
+article_id: 105142
+revised_title: 'Chemical Analysis of Copper Springs in Wicklow, Ireland'
+semantic_tags:
+  - Geochemistry
+  - Mineralogy
+  - Acid Mine Drainage
+  - Copper extraction
+  - Iron corrosion
+tldr: The author, John Bond, conducted experiments on the copper springs in Wicklow, Ireland, and discovered that the water contained a strong mineral acid that dissolved copper from the surrounding ore and precipitated it onto iron. This process led to the formation of copper deposits at the bottom of the pits. The author also explained the mechanism behind this process and provided practical suggestions for improving the efficiency of such springs.
+scientific_discipline: Chemistry > Geochemistry

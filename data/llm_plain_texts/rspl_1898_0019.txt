@@ -1,0 +1,10 @@
+article_id: rspl_1898_0019
+revised_title: "Twisted Structures and the Rotation of Polarization Plane"
+semantic_tags:
+  - Electromagnetism
+  - Polarization
+  - Twisted structures
+  - Optical rotation
+  - Physics
+tldr: The author investigates the effect of twisted structures on the plane of polarization of electric waves. They discovered that twisted structures, such as fibers or bundles, can rotate the plane of polarization, which may be related to the optical rotation produced by liquids. This phenomenon could have implications for understanding the behavior of light in various materials and solutions.
+scientific_discipline: Physics > Electromagnetism

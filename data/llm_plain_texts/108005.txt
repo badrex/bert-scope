@@ -1,0 +1,10 @@
+article_id: 108005
+revised_title: Re-evaluating Atomic Weights and the Composition of Compounds
+semantic_tags:
+  - Atomic weight
+  - Chemical composition
+  - Analytical chemistry
+  - Barium chloride
+  - Lead analysis
+tldr: The author investigates the accuracy of atomic weights used by British and Continental chemists, focusing on the composition of barium chloride. They find that the British chemist Dr. Thomson's estimates contain errors, leading to incorrect conclusions in his work. The author then proceeds to analyze the atomic weights of lead, chlorine, silver, barium, and nitrogen, providing more accurate estimates and questioning the reliability of previous research.
+scientific_discipline: Chemistry > Analytical Chemistry

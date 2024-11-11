@@ -1,0 +1,10 @@
+article_id: rspl_1883_0014
+revised_title: Hydrogen Line Reversal and Outburst in Arc Spectra
+semantic_tags:
+  - Spectroscopy
+  - Hydrogen lines
+  - Arc spectra
+  - Reversal of spectral lines
+  - Plasma physics
+tldr: The authors, G. D. Liveing and J. Dewar, study the reversal of hydrogen lines and the outburst of hydrogen lines when water is dropped into an arc. They find that hydrogen lines can be easily reversed and expand when the pressure is increased. The outburst of hydrogen lines occurs when water is added to the arc, and the lines are usually more expanded and unequally wide. The authors also discuss the order of reversibility of spectral lines.
+scientific_discipline: Physics > Spectroscopy

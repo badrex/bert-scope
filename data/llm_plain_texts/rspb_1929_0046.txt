@@ -1,0 +1,11 @@
+article_id: 'rspb_1929_0046'
+revised_title: 'Biomechanics of Olympic Athletes'
+semantic_tags:
+  - Biomechanics
+  - Athletics
+  - Sports Performance
+  - Human Physiology
+  - Olympic Games
+tldr: This study investigates the biomechanics of Olympic athletes, focusing on the initial movement of runners during a 100-yard race. The researchers used a galvanometer to measure the deflection and time of the athletes' first movement, aiming to understand factors affecting performance. The results showed that the maximum speed of the athletes varied, but the initial movement was consistent with their overall speed.
+scientific_discipline: Biology and Life Sciences > Human Physiology
+```

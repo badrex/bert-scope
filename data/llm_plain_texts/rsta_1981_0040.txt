@@ -1,0 +1,10 @@
+article_id: rsta_1981_0040
+revised_title: High-Resolution 13C NMR Spectroscopy of Solids: Applications and Techniques
+semantic_tags:
+  - Nuclear Magnetic Resonance (NMR)
+  - Solid-state chemistry
+  - Spectroscopy
+  - Organic compounds
+  - Polymer materials
+scientific_discipline: Chemistry > Spectroscopy
+tldr: This article discusses the applications and techniques of high-resolution 13C nuclear magnetic resonance (NMR) spectroscopy in solid-state chemistry. The authors describe various experimental methods, such as dipolar decoupling, cross-polarization, and magic angle rotation, and present examples of their use in studying organic compounds, polymer materials, and inorganic systems. The techniques provide valuable information about molecular environments, chemical effects on shielding constants, and the influence of other nuclei in solid-state chemistry.

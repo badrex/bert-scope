@@ -1,0 +1,10 @@
+article_id: 'rspb_1939_0019'
+revised_title: 'The Effect of X-Rays on Glucose and Hexose-Phosphate Glycolysis in Tumor Tissue'
+semantic_tags:
+  - Radiation Biology
+  - Tumor Metabolism
+  - X-ray Effects
+  - Enzyme Sensitivity
+  - Cell Irradiation
+tldr: The authors conducted experiments to study the effects of X-rays on the glucose and hexose-phosphate glycolysis of tumor tissue. They found that X-rays selectively affect metabolic processes, causing inhibition of tissue respiration and anaerobic glycolysis. The results suggest that differences in metabolism may account for the variability in response to radiation among different tissues.
+scientific_discipline: Biology and Life Sciences > Cell Biology

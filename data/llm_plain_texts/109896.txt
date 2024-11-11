@@ -1,0 +1,10 @@
+article_id: 109896
+revised_title: Comparison of French Metre with English Standard
+semantic_tags:
+  - Measurement Standards
+  - Metrology
+  - Pendulum Experiments
+  - Temperature Correction
+  - Scientific Instruments
+tldr: The author, Henry Kater, conducted experiments to compare the French Metre with the British Standard Measure. He used two different French Metre bars and found that the length of the Metre à Traits was 39.37076 inches and the length of the Metre à Bouts was 39.37081 inches on Sir George Shuckburgh's scale. The mean derived from both metres is considered as the length of the French metre.
+scientific_discipline: Physics > Measurement and Metrology

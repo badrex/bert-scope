@@ -1,0 +1,10 @@
+article_id: rspa_1914_0025
+revised_title: 'X-ray Spectra Analysis of Sulphur and Quartz Crystals'
+semantic_tags:
+  - Crystallography
+  - X-ray diffraction
+  - Crystal structure
+  - Sulphur
+  - Quartz
+tldr: 'The authors, W. H. Bragg and M. A., F. R. S., studied the X-ray spectra produced by sulphur and quartz crystals. They found that the crystal structure of sulphur has one atom of sulphur at each corner of the unit cell and at the center of the two faces perpendicular to the longer axis. For quartz, they discovered that there are three interlattices of the assumed form for every atom in the molecule, arranged in a specific pattern. This research helped in understanding the crystal structures of these materials.'
+scientific_discipline: Physics > Crystallography

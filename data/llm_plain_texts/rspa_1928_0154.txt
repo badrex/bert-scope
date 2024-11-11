@@ -1,0 +1,10 @@
+article_id: 'rspa_1928_0154'
+revised_title: 'Bessel Functions and Lattice-Points of an n-Dimensional Ellipsoid'
+semantic_tags:
+  - Bessel functions
+  - Ellipsoids
+  - Lattice points
+  - n-dimensional geometry
+  - Mathematical analysis
+tldr: The authors explore a series of Bessel functions connected with the lattice-points of an n-dimensional ellipsoid. They provide mathematical analysis and proofs to demonstrate the properties and relationships of these functions.
+scientific_discipline: Mathematics > Analysis

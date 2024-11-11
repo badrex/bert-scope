@@ -1,0 +1,10 @@
+article_id: rspa_1941_0006
+revised_title: Temperature and Mobility of Alkali Ions in Inert Gases
+semantic_tags:
+  - Gas mobility
+  - Alkali ions
+  - Temperature effects
+  - Inert gases
+  - Quantum mechanics
+tldr: The authors conducted experiments to measure the mobility of alkali ions in various inert gases at different temperatures. They found that classical theories do not accurately predict the results, suggesting that a quantum mechanical treatment for each individual case is necessary. The experimental data collected may be useful in future theoretical developments.
+scientific_discipline: Chemistry > Physical Chemistry

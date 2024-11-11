@@ -1,0 +1,10 @@
+article_id: rspa_1954_0205
+revised_title: The Structure of Haemoglobin: Fourier Projections on the 010 Plane
+semantic_tags:
+  - Crystallography
+  - Haemoglobin structure
+  - Molecular biology
+  - Fourier transform
+  - Protein structure
+tldr: This article presents the structure of haemoglobin using Fourier projections on the 010 plane. The authors used the molecular Fourier transform to calculate a Fourier projection of a single row of molecules, which provides a clearer picture of the molecular outline. The results show the advantages of using the molecular Fourier transform as a continuous function of one of the axes, allowing for a better understanding of the haemoglobin molecule's structure.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

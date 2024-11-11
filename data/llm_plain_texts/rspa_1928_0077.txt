@@ -1,0 +1,10 @@
+article_id: rspa_1928_0077
+revised_title: Fluid Resistance to Moving and Stationary Spheres
+semantic_tags:
+  - Fluid dynamics
+  - Drag
+  - Reynolds number
+  - Turbulence
+  - Sphere resistance
+tldr: This article presents experiments on the resistance of air and water to the motion of spheres. The authors confirm previous conclusions about increased resistance to accelerated motion and provide more precise values for the resistance to uniform motion. They also discuss the relationship between the carried mass of fluid, the displaced mass, and the Reynolds number, and compare their findings with other studies on air and water resistance.
+scientific_discipline: Physics > Fluid dynamics

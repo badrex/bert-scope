@@ -1,0 +1,10 @@
+article_id: rspa_1962_0183
+revised_title: 'Friction and Abrasion of Hard Solids at High Sliding Speeds: A Study of Diamond and Other Refractory Materials'
+semantic_tags:
+  - Friction
+  - Abrasion
+  - High-speed sliding
+  - Hard solids
+  - Diamond
+tldr: This study investigates the friction and wear of hard solids, such as sapphire, rutile, diamond, and fused silica, when sliding against metal surfaces at high speeds. The research shows that hard solids can undergo significant wear when rubbed against metals with lower hardness. The findings suggest that this effect is partly due to the abrading action of small particles of the harder material that become dislodged and dragged across the surfaces. The study also highlights the importance of chemical affinity between materials in determining their frictional behavior during high-speed sliding.
+scientific_discipline: Physics > Materials Science

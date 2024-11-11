@@ -1,0 +1,10 @@
+article_id: rspa_1934_0166
+revised_title: Resistance of Liquid Metals and its Relation to Atomic Vibration and Melting
+semantic_tags:
+  - Metallic conduction
+  - Resistance
+  - Melting point
+  - Atomic vibration
+  - Free electrons
+tldr: This article discusses the electrical resistance of liquid metals and how it changes upon melting. The authors propose a theory based on the wave mechanics of electronic conduction and the vibration of atoms in both solid and liquid states. They find that the change in resistance is mainly due to the change in atomic vibration amplitude and the effective number of free electrons in the liquid state.
+scientific_discipline: Physics > Materials Science

@@ -1,0 +1,10 @@
+article_id: rspa_1954_0149
+revised_title: Antiferromagnetism in Metals: A Collective Electron Approach
+semantic_tags:
+  - Antiferromagnetism
+  - Collective electron approach
+  - Energy-band theory
+  - Chromium
+  - Manganese
+tldr: The article presents a simple formulation of an energy-band theory of antiferromagnetism based on the collective electron approach. It explains how this approach leads to an understanding of the differences between antiferromagnetic metals and antiferromagnetic compounds, focusing on chromium and manganese. The theory predicts small magnetic moments and the absence of significant anomalies in susceptibility and specific heat, which is consistent with experimental observations.
+scientific_discipline: Physics > Condensed Matter Physics

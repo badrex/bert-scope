@@ -1,0 +1,10 @@
+article_id: rsta_1966_0053
+revised_title: 'Planetary Waves in Ocean Basins: Hemispherical Analysis'
+semantic_tags:
+  - Oceanography
+  - Fluid Dynamics
+  - Planetary Waves
+  - Geophysics
+  - Tidal Forces
+tldr: This study investigates the free modes of oscillation in a rotating hemispherical ocean basin. The research focuses on planetary waves, which are long-period currents influenced by the Earth's rotation. The paper compares the results of an exact computation with the -plane approximation, a simpler method that replaces the spherical ocean with a flat plane. The findings show that the -plane approximation can accurately predict the behavior of planetary waves in ocean basins.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

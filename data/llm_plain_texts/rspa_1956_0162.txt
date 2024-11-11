@@ -1,0 +1,10 @@
+article_id: rspa_1956_0162
+revised_title: The Cell Theory of Liquids: Advanced Calculations and Comparisons
+semantic_tags:
+  - Statistical mechanics
+  - Thermodynamics
+  - Liquids
+  - Intermolecular forces
+  - Molecular simulation
+tldr: This article presents advanced calculations and comparisons for the cell theory of liquids, focusing on the 12-6 potential in the critical region of density and temperature. The authors evaluate the free volume, correlation integral, and communal parameter, and discuss the importance of multiple occupation and correlation effects. They compare their findings with experimental data and the theory of de Boer, concluding that the cell theory offers a promising approach to understanding liquids.
+scientific_discipline: Physics > Thermodynamics

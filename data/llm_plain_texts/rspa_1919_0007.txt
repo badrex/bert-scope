@@ -1,0 +1,10 @@
+article_id: rspa_1919_0007
+revised_title: Extreme Ultra-Violet Spectra Investigation with a Vacuum-Grating Spectrograph
+semantic_tags:
+  - Spectroscopy
+  - Vacuum spectrograph
+  - Extreme ultra-violet spectra
+  - Grating spectroscopy
+  - Atomic spectra
+tldr: The authors conducted experiments using a vacuum-grating spectrograph to investigate extreme ultra-violet spectra. They studied the spectra of hydrogen, helium, and some metals, and their findings supported the Bohr theory. The carbon arc was found to be the most effective source for studying very short wavelengths.
+scientific_discipline: Physics > Optics

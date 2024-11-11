@@ -1,0 +1,10 @@
+article_id: rspl_1880_0016
+revised_title: Electrostatic Capacity of Glass: A Comparative Study
+semantic_tags:
+  - Electrostatics
+  - Glass properties
+  - Capacitance
+  - Experimental methods
+  - Electromotive force
+tldr: The author compares different methods for measuring the electrostatic capacity of glass and finds that previous discrepancies in results were due to deviations in the uniformity of the electric field. The study concludes that the electrostatic capacity of glass is not affected by the electromotive force and that the five-plate induction balance used by another researcher cannot provide reliable results.
+scientific_discipline: Physics > Electromagnetism

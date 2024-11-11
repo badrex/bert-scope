@@ -1,0 +1,10 @@
+article_id: rspa_1947_0075
+revised_title: Crystal Structure Analysis of Sucrose Sodium Bromide Dihydrate
+semantic_tags:
+  - Crystallography
+  - Sucrose
+  - Crystal structure determination
+  - X-ray diffraction
+  - Space group
+tldr: The authors determined the crystal structure of sucrose sodium bromide dihydrate using X-ray diffraction and space group analysis. They found that the pyranose ring of the molecule is in the Sachse trans form, and the furanose ring is a compact grouping with one member displaced from the plane of the other four. The sucrose molecules are held together by bonds from the hydroxyl groups to the sodium and bromine ions and water molecules. This study provides valuable insights into the conformation of saccharide molecules and the external bonding of the hydroxyl groups in the sugar molecule.
+scientific_discipline: Chemistry > Crystallography

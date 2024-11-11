@@ -1,0 +1,10 @@
+article_id: rspa_1990_0025
+revised_title: 'Exact Solutions for Discrete Systems in Traffic Flow'
+semantic_tags:
+  - Traffic Flow
+  - Discrete Systems
+  - Nonlinear Equations
+  - Shock Waves
+  - Carfollowing
+scientific_discipline: Physics > Fluid Dynamics
+tldr: This article explores wave propagation in a discrete nonlinear system of equations used as a model for car-following in traffic flow. The author finds exact solutions for shock waves, periodic waves, and solitary waves, and discusses the broader interest in nonlinear effects in discrete systems and systems with time shifts. The study also examines the instabilities in the perturbations of a uniform flow and the existence of nonlinear solutions of finite amplitude in the unstable range.

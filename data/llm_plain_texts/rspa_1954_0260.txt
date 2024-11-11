@@ -1,0 +1,10 @@
+article_id: rspa_1954_0260
+revised_title: 'Modifying Non-Symmetric Unified Field Theory for Equations of Motion'
+semantic_tags:
+  - Unified Field Theory
+  - Electromagnetism
+  - Gravitation
+  - Field Equations
+  - Non-Symmetric Theory
+tldr: The authors modify the non-symmetric unified field theory to include the Coulomb force between electric charges and derive the equations of motion for charged masses. The modified theory leads to Maxwell's equations with a different restriction on the current density, resulting in a charge distribution more likely to correspond to a particle. The authors argue that no simpler non-symmetric theory is likely to give these equations in their conventional form.
+scientific_discipline: Physics > Electromagnetism

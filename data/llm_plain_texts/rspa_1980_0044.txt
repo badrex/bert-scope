@@ -1,0 +1,10 @@
+article_id: rspa_1980_0044
+revised_title: Exploring the Weierstrass-Mandelbrot Fractal Function
+semantic_tags:
+  - Fractals
+  - Mathematics
+  - Fourier series
+  - Weierstrass function
+  - Quantum mechanics
+tldr: The authors study the Weierstrass-Mandelbrot fractal function, which is continuous but non-differentiable and has no scale. They explore its properties, including its Hausdorff-Besicovitch dimension, and discuss its applications in various fields, such as quantum mechanics and fractal phenomena.
+scientific_discipline: Mathematics > Fractals

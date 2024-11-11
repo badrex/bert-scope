@@ -1,0 +1,10 @@
+article_id: 'rspb_1967_0028'
+revised_title: 'Investigating Monocular Fixation and Eye Movements'
+semantic_tags:
+  - Ophthalmology
+  - Eye Movement Control
+  - Fixation Mechanism
+  - Saccades
+  - Drifts
+scientific_discipline: Biology and Life Sciences > Ophthalmology
+tldr: This study records and analyzes monocular eye movements using a contact lens/optical lever system to understand the functions of saccades and drifts during fixation. The research finds that there is an elliptical overall fixation area with overlapping short-period fixation areas, and saccades serve to either recenter the retinal image or move the fixation area to avoid receptor fatigue. An organizational model of the fixation control system is developed from the analysis.

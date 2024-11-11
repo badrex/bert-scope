@@ -1,0 +1,10 @@
+article_id: 'rstl_1871_0006'
+revised_title: 'On the Theory of Resonance in Aerial Vibrations'
+semantic_tags:
+  - Resonance
+  - Aerial Vibrations
+  - Acoustics
+  - Sound Theory
+  - Fluid Dynamics
+tldr: The author presents a theory of resonance in aerial vibrations, focusing on air-spaces confined by rigid walls and communicating with the external atmosphere through narrow passages. The study covers the fundamental vibrations of resonators, including the mathematical reasoning and experimental results. The theory applies to cases of multiple resonance and offers insights into the resistance of variously shaped tubes and pipes.
+scientific_discipline: Physics > Acoustics

@@ -1,0 +1,10 @@
+article_id: rspa_1985_0016
+revised_title: 'Flow Induced by a Piston Moving in a Dusty Gas: Effects of Particle Collision'
+semantic_tags:
+  - Fluid Dynamics
+  - Dusty Gas Flow
+  - Shock Waves
+  - Particle Collision
+  - Continuum Modeling
+tldr: The study investigates the flow created by a piston moving impulsively in a dusty gas, considering two types of particle collisions with the piston: sticking and reflection. The research uses an idealized equilibrium-gas approximation to analyze the effects of piston speed and dust particle mass concentration on the resulting shock wave. Numerical solutions reveal the flow structure's development over time and demonstrate the influence of particle collision types on the flow.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1985_0059
+revised_title: 'Neutron and X-ray Diffraction Studies on Naphthazarin C Polymorphism'
+semantic_tags:
+  - Crystallography
+  - Polymorphism
+  - Naphthazarin
+  - Proton transfer
+  - Solid-state chemistry
+tldr: The article discusses the crystal structure and polymorphism of naphthazarin C, a molecule with potential energy surfaces that have a symmetric double minimum. Neutron diffraction and X-ray diffraction studies reveal that the molecule undergoes intramolecular proton exchange at room temperature, and the structure of naphthazarin C is compared to its polymorphs A and B. The findings contribute to the understanding of intramolecular hydrogen transfer in solid-state chemistry.
+scientific_discipline: Chemistry > Crystallography

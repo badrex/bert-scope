@@ -1,0 +1,10 @@
+article_id: rspa_1960_0116
+revised_title: Partial Cross-Sections for Dissociation of Fast H2+ Ions by Hydrogen
+semantic_tags:
+  - Atomic and Molecular Physics
+  - Nuclear Physics
+  - Particle Accelerators
+  - Cross-Section Measurements
+  - Dissociation Processes
+tldr: The authors conducted experiments to measure the partial cross-sections for the dissociation of fast H2+ ions by hydrogen gas. They used a magnetic field and CsI(Tl) scintillation crystals to separate and detect the dissociation products. The results showed that the partial cross-sections for processes 3 and 4 (dissociative capture and charge exchange) have a strong energy dependence, while processes 1 and 2 (dissociation and ionization) show an Ex dependence at high energies. The authors' findings help to understand the mechanism of the dissociation process and improve the techniques used for injecting particles into thermonuclear devices and particle accelerators.
+scientific_discipline: Physics > Atomic and Molecular Physics

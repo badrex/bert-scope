@@ -1,0 +1,10 @@
+article_id: rsta_1975_0008
+revised_title: Cosmic Radiation Spectrum and Its Possible Explanations
+semantic_tags:
+  - Cosmic Rays
+  - Particle Physics
+  - Astrophysics
+  - Galactic Sources
+  - Energy Spectrum
+tldr: This article discusses the energy spectrum of cosmic radiation and examines possible explanations for its shape. The authors analyze various experimental measurements and propose different models to explain the observed spectrum, considering factors such as diffusion of particles from galactic sources and black body cutoff effects for extra-galactic particles. They also explore the role of anisotropies in arrival directions and energy-dependent diffusion in shaping the spectrum.
+scientific_discipline: Physics > Particle Physics

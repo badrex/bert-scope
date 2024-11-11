@@ -1,0 +1,10 @@
+article_id: 'rspa_1914_0054'
+revised_title: 'Fourier Series Calculations and Discontinuity'
+semantic_tags:
+  - Fourier Series
+  - Mathematical Analysis
+  - Wave Theory
+  - Discontinuous Functions
+  - Mathematical Physics
+tldr: The author explores Fourier series calculations in a simple case where the ordinate is constant between limits and vanishes outside them. They discuss the behavior of the curves and the approximation towards discontinuity as the parameter increases. They also propose a simpler solution for partial suppression of shorter wave-lengths.
+scientific_discipline: Mathematics > Mathematical Analysis

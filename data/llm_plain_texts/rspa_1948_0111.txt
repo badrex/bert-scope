@@ -1,0 +1,10 @@
+article_id: rspa_1948_0111
+revised_title: 'Stability Analysis of Laminar Viscous Flow Between Parallel Planes'
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Stability Analysis
+  - Reynolds Number
+  - Bessel Functions
+tldr: The authors analyze the stability of laminar viscous flow between parallel planes, focusing on the Reynolds number and the behavior of the flow near the critical point. They provide a transformation to find the solution and discuss the implications of their findings on Heisenberg-Tollmien's theory.
+scientific_discipline: Physics > Fluid Dynamics

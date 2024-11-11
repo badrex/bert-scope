@@ -1,0 +1,10 @@
+article_id: 111205
+revised_title: On the Theory of Waves: Analyzing Positive and Negative Waves
+semantic_tags:
+  - Wave Theory
+  - Fluid Dynamics
+  - Oscillating Waves
+  - Wave Mechanics
+  - Hydraulic Engineering
+tldr: The author analyzes the mathematical theory of waves, focusing on positive and negative waves. They deduce the velocity of transmission and the horizontal motion of particles in waves, and discuss the differences between oscillating and non-oscillating waves. The author also examines the possibility of a series of oscillatory waves in a channel of uniform breadth and depth, and questions the accuracy of a previous solution by Mr. Airy.
+scientific_discipline: Physics > Fluid Dynamics

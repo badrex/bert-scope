@@ -1,0 +1,10 @@
+article_id: rspa_1937_0026
+revised_title: Hyperfine Structure and Zeeman Effect of Silver Resonance Lines
+semantic_tags:
+  - Atomic Physics
+  - Nuclear Spin
+  - Zeeman Effect
+  - Hyperfine Structure
+  - Silver Isotopes
+tldr: The authors investigated the hyperfine structure and Zeeman effect of silver's resonance lines using an atomic beam and an etalon. They determined the nuclear spins and magnetic moments of both silver isotopes by measuring the intensities of the observed components and analyzing the structure in a magnetic field.
+scientific_discipline: Physics > Atomic Physics

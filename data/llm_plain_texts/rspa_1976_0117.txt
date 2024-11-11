@@ -1,0 +1,10 @@
+article_id: rspa_1976_0117
+revised_title: Ariel 5 Satellite Observations of Transient X-ray Sources
+semantic_tags:
+  - X-ray astronomy
+  - Transient sources
+  - X-ray binaries
+  - Neutron stars
+  - Gravitational radiation
+tldr: The authors discuss the results from the Ariel 5 satellite, focusing on the observations of transient X-ray sources. They describe the light curves, spectra, and other properties of five transient sources, including the modulation of X-ray emission at periods of a few minutes. The findings raise questions about the nature of these systems, involving either slowly rotating neutron stars or very close binaries, and the role of gravitational radiation in their evolution.
+scientific_discipline: Physics > Astronomy

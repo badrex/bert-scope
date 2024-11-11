@@ -1,0 +1,10 @@
+article_id: 'rspb_1963_0050'
+revised_title: 'Penicillinase Production and Induction in Staphylococcus aureus'
+semantic_tags:
+  - Penicillinase
+  - Staphylococcus aureus
+  - Induction
+  - Methicillin
+  - Penicillin Resistance
+tldr: This study investigates the production and induction of penicillinase by a strain of Staphylococcus aureus. The authors found that methicillin is more effective in inducing penicillinase formation due to its greater stability against the enzyme. They also describe a method for preparing cell-free penicillinase and discuss the significance of the Michaelis constants for various penicillins in relation to their effectiveness against penicillinase-producing staphylococci.
+scientific_discipline: Biology and Life Sciences > Microbiology

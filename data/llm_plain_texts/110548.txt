@@ -1,0 +1,10 @@
+article_id: 110548
+revised_title: 'Optimal Lighthouse Illumination: A Study on Light Refraction and Reflection'
+semantic_tags:
+  - Lighthouse design
+  - Light refraction
+  - Light reflection
+  - Optics
+  - Illumination engineering
+tldr: This article discusses the adaptation of different modes of illuminating lighthouses based on their situations and purposes. The author, William Henry Barlow, investigates the principles of illuminating power and intensity, comparing the use of reflectors and lenses. He concludes that lenses are more economical and effective in certain situations due to their reduced divergence of rays. Barlow also classifies lighthouses into three categories based on their functions and provides rules for their optimal design.
+scientific_discipline: Engineering and Technology > Illumination engineering

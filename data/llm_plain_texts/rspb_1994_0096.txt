@@ -1,0 +1,10 @@
+article_id: 'rspb_1994_0096'
+revised_title: 'The Alternating Prisoner's Dilemma and the Emergence of Cooperative Strategies'
+semantic_tags:
+  - Game Theory
+  - Evolutionary Biology
+  - Cooperative Behavior
+  - Asynchronous Decision Making
+  - Strategy Dynamics
+tldr: The author explores the prisoner's dilemma in an asynchronous setting where players make decisions one after the other instead of simultaneously. They find that the timing of decisions is crucial in determining which strategy emerges in the long run. In this alternating game, a new cooperative strategy called "firm but fair" dominates, which is retaliatory yet highly cooperative, and prevents the exploitation of suckers.
+scientific_discipline: Social Sciences > Game Theory

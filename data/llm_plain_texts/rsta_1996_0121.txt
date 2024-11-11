@@ -1,0 +1,10 @@
+article_id: rsta_1996_0121
+revised_title: Advanced Analytical Electron Microscopy Techniques for Semiconductor Characterization
+semantic_tags:
+  - Analytical Electron Microscopy
+  - Semiconductor Materials
+  - Transmission Electron Microscopy
+  - Device Characterization
+  - Microscopy Techniques
+tldr: This article discusses the role of transmission electron microscopy (TEM) in characterizing the physical structure and elemental composition of silicon and III-V materials and devices. The author demonstrates how TEM provides valuable three-dimensional information and spatial resolution for modern fine-dimensional structures, enabling a multidisciplinary approach to understanding device performance and improving processing techniques.
+scientific_discipline: Engineering and Technology > Materials Science

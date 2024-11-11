@@ -1,0 +1,11 @@
+article_id: rspa_1959_0160
+revised_title: 'Energy Loss of Helium and Nitrogen Ions in Metals: Experimental Study'
+semantic_tags:
+  - Ion Accelerators
+  - Energy Loss
+  - Stopping Power
+  - Helium Ions
+  - Nitrogen Ions
+  - Metals
+tldr: The authors conducted experiments to measure the rate of energy loss of helium and nitrogen ions passing through thin metal foils. They used the Manchester University's Van de Graaff generator to accelerate the ions and an electrostatic analyzer to measure their energies. The results provide relative mass stopping powers for the ions in various metals and contribute to the understanding of energy loss in heavy charged particles.
+scientific_discipline: Physics > Ion Accelerators and Energy Loss

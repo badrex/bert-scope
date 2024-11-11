@@ -1,0 +1,10 @@
+article_id: rspa_1993_0071
+revised_title: Asymptotic Expansion of the Fourier Integral and Fundamental Solution to the Heat Equation
+semantic_tags:
+  - Fourier integral
+  - Asymptotic expansion
+  - Heat equation
+  - Laplacian
+  - Bessel function
+tldr: The authors derive an asymptotic expansion for the Fourier integral and prove that the fundamental solution to the heat equation has an infinite number of zeros tending to infinity. They use a combination of one-dimensional integrals, Bessel functions, and steepest descent methods to analyze the behavior of the solution.
+scientific_discipline: Mathematics > Analysis

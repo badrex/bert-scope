@@ -1,0 +1,10 @@
+article_id: rsta_1976_0028
+revised_title: 'A Review of Solar Extreme Ultraviolet Continuum Physics'
+semantic_tags:
+  - Solar Physics
+  - Extreme Ultraviolet (EUV) Continuum
+  - Solar Atmosphere
+  - Solar Model
+  - Continuous Opacity
+tldr: This article reviews the most recent measurements and computations of the Sun's extreme ultraviolet (EUV) continuum, focusing on the solar atmosphere's temperature distribution, particularly the temperature minimum. The author discusses the unknown continuous opacity and its impact on solar models, comparing results on the Sun with those obtained from stars in the same spectral region. The study emphasizes the importance of accurate measurements in understanding the solar EUV continuum and its effects on the Earth's upper atmosphere.
+scientific_discipline: Physics > Astronomy

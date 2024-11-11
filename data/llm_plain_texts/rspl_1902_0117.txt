@@ -1,0 +1,10 @@
+article_id: rspl_1902_0117
+revised_title: 'Investigating the Solidification and Chemical Transformations in Copper-Tin Alloys'
+semantic_tags:
+  - Alloy chemistry
+  - Solidification
+  - Phase transitions
+  - Microscopy
+  - Material science
+tldr: This paper explores the solidification and chemical transformations in copper-tin alloys through a systematic chilling method. The authors determine the freezing-point curve and the solidus curve, which reveals the different solids that crystallize out of the liquid alloys. They also examine the microscopic patterns in the solid alloys and discuss the chemical transformations that occur during the cooling process.
+scientific_discipline: Chemistry > Material Science

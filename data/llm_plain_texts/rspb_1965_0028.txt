@@ -1,0 +1,10 @@
+article_id: 'rspb_1965_0028'
+revised_title: 'Detection of Messenger and Ribosomal RNA Synthesis in Pea Seedlings'
+semantic_tags:
+  - RNA synthesis
+  - Electrophoresis
+  - Messenger RNA
+  - Ribosomal RNA
+  - Plant biology
+tldr: The author describes a method to analyze microsome fractions from pea seedling roots using electrophoresis on cellulose acetate membrane. The synthesis of RNA in the growing root is studied by incubating the seedlings in radioactive phosphate, and analyzing the isolated microsomal fractions by electrophoresis. Two highly labeled RNA fractions showing some criteria of mRNA are found, one labeled during pulse incubation and the other after a chase. The base composition of these RNA fractions is determined by counting the radioactivity of the nucleotides after alkaline hydrolysis.
+scientific_discipline: Biology and Life Sciences > Molecular Biology

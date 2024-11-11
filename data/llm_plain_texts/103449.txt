@@ -1,0 +1,10 @@
+article_id: 103449
+revised_title: 'Experiments and Solutions for Efficient Water Flow in Pipes'
+semantic_tags:
+  - Fluid dynamics
+  - Hydraulics
+  - Pipe design
+  - Air removal
+  - Water distribution
+tldr: The author conducted experiments to understand the factors affecting water flow in pipes, such as friction, air trapped in pipes, and pipe length. They developed a new machine to remove air from pipes, improving water flow efficiency and preventing waste.
+scientific_discipline: Engineering and Technology > Fluid Mechanics

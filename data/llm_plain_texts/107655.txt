@@ -1,0 +1,10 @@
+article_id: 107655
+revised_title: Investigating the Diurnal Deviations of the Horizontal Needle Under Magnet Influence
+semantic_tags:
+  - Magnetism
+  - Geomagnetism
+  - Magnetic declination
+  - Magnetic variation
+  - Magnetic needle
+tldr: The author conducted experiments to investigate the daily variations of a horizontal magnetic needle under the influence of magnets. By adjusting the position and strength of the magnets, the author observed significant deviations in the needle's direction, which could be attributed to the Earth's magnetic field. This research helped to better understand the daily changes in the Earth's magnetic field and the behavior of magnetic needles.
+scientific_discipline: Physics > Electromagnetism

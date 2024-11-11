@@ -1,0 +1,10 @@
+article_id: rsta_1984_0020
+revised_title: Bifurcations of One- and Two-Dimensional Maps: A Study of Horseshoes and Chaos
+semantic_tags:
+  - Dynamical Systems
+  - Chaos Theory
+  - Bifurcation Theory
+  - Horseshoe Map
+  - One- and Two-Dimensional Maps
+tldr: This article studies the local and global bifurcations of two-parameter families of planar maps with constant Jacobian determinant. The authors focus on the creation of horseshoes, a type of chaotic behavior, and explore the relation between bifurcation sets and invariant sets of one- and two-dimensional maps. They use the orientation-preserving Hénon map as their main example and discuss the differences in bifurcation sequences between one- and two-dimensional maps.
+scientific_discipline: Mathematics > Dynamical Systems

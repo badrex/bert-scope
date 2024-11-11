@@ -1,0 +1,10 @@
+article_id: rsta_1991_0064
+revised_title: Turbulent Flow Structure Near Walls: Drag Reduction and Turbulent Structure in Two-Dimensional Channel Flows
+semantic_tags:
+  - Turbulence
+  - Drag reduction
+  - Fluid dynamics
+  - Channel flows
+  - Polymer additives
+tldr: This study investigates the effects of wall strain rate, polymer concentration, and channel height on drag reduction and turbulent structure in two-dimensional channel flows. A two-component laser velocimeter was used to measure the flow's properties, revealing that drag reduction levels depended on these factors independently. The turbulent structure mainly depended on the level of drag reduction. The authors found that polymer solutions inhibit the transfer of energy from streamwise to wall-normal velocity fluctuations, potentially through the pressure-strain correlation mechanism.
+scientific_discipline: Physics > Fluid Dynamics

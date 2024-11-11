@@ -1,0 +1,10 @@
+article_id: 'rspa_1936_0091'
+revised_title: 'The 2530 Band of NH: Spectral Analysis and Molecular Structure'
+semantic_tags:
+  - Molecular spectroscopy
+  - Inorganic chemistry
+  - Ammonia
+  - Band system
+  - Rotational constants
+tldr: This study investigates the 2530 band of the NH molecule using a hollow cathode discharge in rapidly streaming ammonia. The authors extend their observations to the ultra-violet region and confirm Hori's assignment of the band to the NH molecule. They also provide accurate values for the rotational constants and discuss the differences between the lower and upper levels of the band.
+scientific_discipline: Chemistry > Inorganic Chemistry

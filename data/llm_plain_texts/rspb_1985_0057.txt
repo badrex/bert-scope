@@ -1,0 +1,10 @@
+article_id: rspb_1985_0057
+revised_title: A Mathematical Model of Thalamic Neuron
+semantic_tags:
+  - Neuronal modeling
+  - Thalamus
+  - Bursting neurons
+  - Action potential
+  - Limit cycles
+scientific_discipline: Biology and Life Sciences > Neuroscience
+tldr: The authors develop a mathematical model of a thalamic neuron by modifying their previous model of bursting neurons. The new model can have up to five equilibrium points and explains various firing patterns observed in thalamic neurons. The model also predicts the steady-state current-voltage curve for these cells and suggests that thalamic neurons may have evolved from simpler burst-generating neurons.

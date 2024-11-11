@@ -1,0 +1,10 @@
+article_id: rspa_1978_0037
+revised_title: 'Stability Analysis of Flat Stokes Layers'
+semantic_tags:
+  - Fluid Dynamics
+  - Stability Theory
+  - Boundary Layer
+  - Oscillatory Flows
+  - Stokes Layer
+tldr: The linear stability of flat Stokes layers is investigated, revealing that the flow is stable in the parameter range studied. The study shows that the presence of a Stokes layer further stabilizes the flow, and the least stable disturbance of the finite Stokes layer does not correspond to that of the infinite Stokes layer when the latter flow is stable.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspl_1871_0009
+revised_title: 'On the Numerical Value of Euler's Constant and the Summation of the Harmonic Series'
+semantic_tags:
+  - Mathematics
+  - Number Theory
+  - Harmonic Series
+  - Euler's Constant
+  - Summation Techniques
+tldr: The author, William Shanks, presents a method for calculating the numerical value of Euler's constant and the summation of the harmonic series. He discusses different techniques for summing the harmonic series and provides calculations for various sets of numbers. The results can be used to improve the accuracy of calculations involving Euler's constant.
+scientific_discipline: Mathematics > Number Theory

@@ -1,0 +1,10 @@
+article_id: rsta_1996_0041
+revised_title: Asymptotic Analysis of Three-Dimensional Thin-Film Effects on Hele-Shaw Fingering
+semantic_tags:
+  - Fluid Dynamics
+  - Hele-Shaw Flow
+  - Thin-Film Effects
+  - Asymptotic Analysis
+  - Linear Stability
+tldr: This article presents an asymptotic calculation for the linear stability of a Hele-Shaw finger, incorporating three-dimensional thin-film effects into the boundary conditions. The study shows that, as with simpler boundary conditions, there is only one stable branch of steady finger while others are unstable. The findings provide insights into the nonlinear instability mechanism and the initial value problem in the small limit.
+scientific_discipline: Physics > Fluid Dynamics

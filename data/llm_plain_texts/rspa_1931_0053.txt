@@ -1,0 +1,10 @@
+article_id: rspa_1931_0053
+revised_title: 'Twisted Cubic Curves and Their Properties'
+semantic_tags:
+  - Algebraic Geometry
+  - Geometry
+  - Combinatorics
+  - Mathematical Analysis
+  - Mathematical Modeling
+tldr: The authors investigate twisted cubic curves that satisfy twelve conditions, using various methods such as direct treatment and the degeneration method. They determine the number of cubic curves that meet specific conditions and explore the properties of these curves, including the use of Cremona transformations to solve enumerative problems.
+scientific_discipline: Mathematics > Algebraic Geometry

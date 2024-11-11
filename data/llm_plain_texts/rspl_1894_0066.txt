@@ -1,0 +1,10 @@
+article_id: rspl_1894_0066
+revised_title: 'The Extinctive Effect of Carbon Dioxide and Nitrogen on Flames'
+semantic_tags:
+  - Combustion
+  - Gas Mixtures
+  - Flame Extinction
+  - Carbon Dioxide
+  - Nitrogen
+tldr: The author conducted experiments to determine the composition of atmospheres that extinguish flames. They found that carbon dioxide is more effective at extinguishing flames than nitrogen. The study also showed that the proportion of inert gas needed to just extinguish wick-fed flames is uniform, while gas-fed flames have no simple relation to the proportion of oxygen in the atmosphere. This research has practical implications for using hydrogen flames in safety lamps in environments with high carbon dioxide levels.
+scientific_discipline: Chemistry > Combustion and Flame

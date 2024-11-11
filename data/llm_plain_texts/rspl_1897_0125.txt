@@ -1,0 +1,10 @@
+article_id: rspl_1897_0125
+revised_title: The Kelvin Electrometer as a Wattmeter and Voltmeter: Applications and Limitations
+semantic_tags:
+  - Electrometry
+  - Wattmeter
+  - Voltmeter
+  - Alternating Current
+  - Electrical Engineering
+tldr: The author describes the use of the Kelvin quadrant electrometer as a wattmeter and voltmeter, discussing its applications and limitations. The electrometer's performance is tested with alternating currents, and the results are analyzed to determine its accuracy and usefulness in measuring electrical power.
+scientific_discipline: Engineering and Technology > Electrical Engineering

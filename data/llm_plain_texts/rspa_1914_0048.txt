@@ -1,0 +1,10 @@
+article_id: 'rspa_1914_0048'
+revised_title: 'Determination of Electromotive Force of Weston Normal Cell in Semi-Absolute Volts'
+semantic_tags:
+  - Electromotive force
+  - Weston normal cell
+  - Electrodynamometer
+  - Electrical measurements
+  - Kelvin-Varley slide
+tldr: This paper presents a precise determination of the electromotive force of the Weston normal cell using a modified form of the bifilar Weber electro-dynamometer. The authors improved the accuracy of the value of the cell's electromotive force by overcoming previous obstacles in using the electro-dynamometer. The final value for the electromotive force of the international mean Weston normal cell is found to be 1.01831 semi-absolute volts at 20°C.
+scientific_discipline: Physics > Electromagnetism

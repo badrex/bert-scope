@@ -1,0 +1,10 @@
+article_id: rsta_1995_0079
+revised_title: Nonlinear Effects in Boundary-Layer Transition: Spikes and Spots
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer
+  - Nonlinear Theory
+  - Turbulence
+  - Transition
+tldr: This article discusses the nonlinear effects in boundary-layer transition, focusing on spikes and spots. The authors present a strongly nonlinear theory and compare it with experimental findings. They explore the evolution of spots, their internal properties, and interactions with global dynamics. The research aims to provide a better understanding of turbulent flow and turbulence modeling.
+scientific_discipline: Physics > Fluid Dynamics

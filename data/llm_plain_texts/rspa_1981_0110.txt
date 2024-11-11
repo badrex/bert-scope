@@ -1,0 +1,10 @@
+article_id: rspa_1981_0110
+revised_title: 'Diffraction of Elastic Waves by a Rigid Wedge: A Study of Sommerfeld Transforms and Boundary Conditions'
+semantic_tags:
+  - Elastic waves
+  - Diffraction
+  - Rigid wedges
+  - Sommerfeld transforms
+  - Boundary conditions
+tldr: This article investigates the diffraction of elastic waves by a rigid wedge using Sommerfeld transforms and boundary conditions. The authors develop a solution in the form of Sommerfeld integrals, which represent a superposition of plane longitudinal and transverse waves. They establish functional equations for the unknown amplitudes of these waves using boundary conditions and solve the singular parts of the equations using Fourier transforms. The regular parts are expanded in Chebyshev polynomials, and an asymptotic expression for the edge-diffracted field is given.
+scientific_discipline: Physics > Optics

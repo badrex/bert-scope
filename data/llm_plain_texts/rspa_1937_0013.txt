@@ -1,0 +1,10 @@
+article_id: rspa_1937_0013
+revised_title: Dielectric Constants of Solids and the Influence of Water of Crystallization
+semantic_tags:
+  - Dielectric constants
+  - Solid materials
+  - Water of crystallization
+  - Fricke's equation
+  - Molecular refractivity
+tldr: The authors investigated the dielectric constants of solid materials and found that the dielectric constant of a hydrated salt is lower than that of its dehydrated form. They tested Fricke's equation for mixtures of powdered salts in oil and determined the proper value of the constant for accurate calculations. The study also showed that the change in molecular refractivity per molecule of water of crystallization is approximately constant.
+scientific_discipline: Physics > Electromagnetism

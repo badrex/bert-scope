@@ -1,0 +1,10 @@
+article_id: rspa_1968_0096
+revised_title: 'Radical and Molecular Yields in the y-Radiolysis of Water: The Sodium Hypobromite System'
+semantic_tags:
+  - Radiation Chemistry
+  - Radiolysis
+  - Sodium Hypobromite
+  - Radical Yields
+  - Water Chemistry
+tldr: The authors investigated the radiolysis of alkaline aqueous solutions of sodium hypobromite to study the effect of high pH on primary radical yields. They found that the presence of nitrous oxide increases the yields of nitrogen and that the reaction mechanism is influenced by the concentration of bromide ions. The results show that the primary radical yields are independent of pH above pH 4.
+scientific_discipline: Chemistry > Radiation Chemistry

@@ -1,0 +1,10 @@
+article_id: 112615
+revised_title: Fundamental Concepts of Mechanics and the Introduction of Dyname and Rotatory Dyname
+semantic_tags:
+  - Mechanics
+  - Dynamics
+  - Geometry
+  - Applied Mathematics
+  - Physics
+tldr: The author introduces the concept of dyname and rotatory dyname, which are used to represent complex forces and rotations in mechanics. They provide two general theorems that form the basis of statics and can be transformed into fundamental theorems of mechanics. The author also discusses the representation of complexes of forces and rotations using coordinates and equations, and how these concepts can be applied to various scenarios.
+scientific_discipline: Mathematics > Applied Mathematics

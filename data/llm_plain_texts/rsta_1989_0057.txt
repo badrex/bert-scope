@@ -1,0 +1,10 @@
+article_id: rsta_1989_0057
+revised_title: Evolution to Broadband via Optical ISDN: Optical Technologies and Wideband Local Networks
+semantic_tags:
+  - Optical Communications
+  - Fiber Optics
+  - Broadband Networks
+  - Optical ISDN
+  - Telecommunications Infrastructure
+tldr: This article discusses the evolution of broadband networks through the use of optical technologies, specifically focusing on optical ISDN. The authors explore the development of fiber-optic networks for long-distance transmission and their potential for local access networks. They consider different network architectures, such as star networks and distributed networks, and the optoelectronic issues affecting their adoption. The article also examines the challenges and potential solutions for cost-effectively implementing fiber-optic networks for current narrowband services and evolving them to broadband services.
+scientific_discipline: Engineering and Technology > Telecommunications

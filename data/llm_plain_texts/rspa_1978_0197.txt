@@ -1,0 +1,10 @@
+article_id: 'rspa_1978_0197'
+revised_title: 'Quantum Coherence and Thermodynamics: A Revisit'
+semantic_tags:
+  - Quantum mechanics
+  - Thermodynamics
+  - Black holes
+  - Negative energy flux
+  - Second law of thermodynamics
+tldr: The authors discuss the concept of negative energy fluxes in quantum field theories and their potential impact on the second law of thermodynamics. They explore the conditions under which a negative energy flux can occur and demonstrate that it does not lead to a violation of the second law. The study also examines the effects of negative energy fluxes on black holes and the generalized second law of thermodynamics.
+scientific_discipline: Physics > Thermodynamics

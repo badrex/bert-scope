@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0003'
+revised_title: 'Pertussis and Cholera Toxin Sensitivity of Retinal On-Bipolar Cells'
+semantic_tags:
+  - Retinal Biology
+  - G-Proteins
+  - Neurotransmitter Receptors
+  - Glutamate Receptors
+  - Toxin Sensitivity
+tldr: The study investigates the effects of pertussis and cholera toxins on the glutamate-receptor linked cGMP cascade in retinal on-bipolar cells. Pertussis toxin increases inward current and membrane conductance, while cholera toxin blocks light responses and induces an outward current and decrease in membrane conductance. The results suggest that the G-protein linked to the cGMP cascade in on-bipolar cells may have structural homology with transducin.
+scientific_discipline: Biology and Life Sciences > Neurobiology

@@ -1,0 +1,10 @@
+article_id: rsta_1993_0018
+revised_title: 'Control of Thermal Conductivity in Chemical Vapour Deposition Diamond Films'
+semantic_tags:
+  - Diamond films
+  - Thermal conductivity
+  - Chemical vapour deposition
+  - Microstructure
+  - Impurity content
+scientific_discipline: Materials Science > Diamond Films
+tldr: The authors investigate the thermal conductivity of chemical vapour deposition (CVD) diamond films and find that it is controlled by the microstructure, impurity content, and carbon double bonds in the films. They discuss various scattering mechanisms affecting the thermal conductivity, such as dislocation scattering, phonon-phonon scattering, and the influence of hydrogen and metal impurities. The authors also explore the anisotropies and gradients in the thermal conductivity due to the film's microstructure.

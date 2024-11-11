@@ -1,0 +1,10 @@
+article_id: 111125
+revised_title: Magnetic Survey of the Eastern Archipelago: Observations and Findings
+semantic_tags:
+  - Geomagnetism
+  - Surveying
+  - Earth's magnetic field
+  - Magnetic declination
+  - Magnetic intensity
+scientific_discipline: Earth Sciences > Geomagnetism
+tldr: In the mid-19th century, C. M. Elliot conducted a magnetic survey of the Eastern Archipelago, collecting data from 16 fixed stations across the region. The study aimed to determine specific magnetic lines, observe magnetic variations, and compare changes in declination, intensity, and barometer readings. The findings showed that most stations agreed with the magnetic behavior at Singapore, with some discrepancies in stations north of the line of no dip and minimum force. The study also revealed regular oscillations in the horizontal force, barometer, and air pressure, with maximum and minimum values occurring at specific times of the day.

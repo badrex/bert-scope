@@ -1,0 +1,10 @@
+article_id: rspa_1989_0025
+revised_title: A Theory of Minimum Plastic Spin in Crystal Mechanics: Application to f.c.c. Crystals
+semantic_tags:
+  - Crystal Mechanics
+  - Plastic Spin
+  - Multiple Slip Configurations
+  - Finite Deformation of Crystals
+  - f.c.c. Crystals
+tldr: The authors propose a theory of minimum plastic spin for the finite deformation of crystals, focusing on f.c.c. crystals. They investigate three families of multiple-slip configurations and demonstrate that minimum plastic spin uniquely predicts the experimentally observed behavior in each case. This theory helps resolve non-uniqueness problems in uniform deformation of crystals.
+scientific_discipline: Mechanics > Solid Mechanics

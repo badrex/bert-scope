@@ -1,0 +1,10 @@
+article_id: rspa_1940_0069
+revised_title: 'Investigation of Dielectric Loss in Alkyd Resins'
+semantic_tags:
+  - Polymer Chemistry
+  - Dielectric Materials
+  - Molecular Structure
+  - Dielectric Loss
+  - Relaxation Time
+scientific_discipline: Chemistry > Polymer Chemistry
+tldr: This study investigates the dielectric loss in simple alkyd resins and how it relates to their molecular structure. The research found that the dielectric loss in these polymers is influenced by factors such as chain flexibility and the orientation of polar groups. The results suggest that further investigation into a wider range of substances and the effect of molecular weights on dielectric properties could lead to the development of new low-loss dielectrics.

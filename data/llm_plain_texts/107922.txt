@@ -1,0 +1,10 @@
+article_id: '107922'
+revised_title: 'Magnetic Susceptibility of Non-Metallic Substances'
+semantic_tags:
+  - Magnetism
+  - Non-metallic substances
+  - Electromagnetism
+  - Physics experiments
+  - William Snow Harris
+tldr: The author, William Snow Harris, conducted experiments to study the magnetic susceptibility of non-metallic substances. He discovered that certain non-metallic substances, like copper, could be influenced by magnets when placed in an exhausted receiver. This research led to further understanding of the transient magnetic state of various substances and their impact on compass needles.
+scientific_discipline: Physics > Electromagnetism

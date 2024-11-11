@@ -1,0 +1,10 @@
+article_id: 111281
+revised_title: Investigating the Deflection of the Plumb-Line at Arthur's Seat and the Mean Specific Gravity of the Earth
+semantic_tags:
+  - Geodesy
+  - Geophysics
+  - Earth's gravity
+  - Local attraction
+  - Triangulation
+tldr: This article discusses the observations and computations made to determine the deflection of the plumb-line at Arthur's Seat and the mean specific gravity of the Earth. The author, Col. James, conducted observations with Airy's Zenith Sector on the summit of Arthur's Seat and nearby locations. The results showed that the plumb-line was deflected due to the unequal distribution of matter in the surrounding area. The calculated mean density of the Earth was found to be 5.14, with a probable error of ±0.07.
+scientific_discipline: Environmental and Earth Sciences > Geodesy

@@ -1,0 +1,10 @@
+article_id: 'rspa_1992_0014'
+revised_title: 'Sobolev Maps with Integer Degree and Applications to Skyrme's Problem: A Simplified Approach'
+semantic_tags:
+  - Differential Geometry
+  - Calculus of Variations
+  - Skyrme's Problem
+  - Sobolev Maps
+  - Riemannian Manifolds
+tldr: The authors prove that for maps with finite energy, the degree is an integer, and they obtain the existence of a minimizer of the energy in the natural class of maps with finite energy. This result is important for Skyrme's problem, which involves minimizing the energy of maps with a given integer degree.
+scientific_discipline: Mathematics > Differential Geometry

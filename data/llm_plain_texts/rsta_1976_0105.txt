@@ -1,0 +1,10 @@
+article_id: rsta_1976_0105
+revised_title: Engineering Requirements for Undercarriage Materials in Aircraft
+semantic_tags:
+  - Materials Science
+  - Aerospace Engineering
+  - Steel Alloys
+  - Undercarriage Design
+  - Fracture Mechanics
+tldr: This article discusses the engineering requirements for undercarriage materials in aircraft, focusing on the use of ultra-high tensile steels. It covers the main properties sought in undercarriage materials, such as strength, ductility, and resistance to fatigue and corrosion. The article also compares different materials like magnesium, aluminum, titanium, and steel alloys, and highlights the advantages and limitations of each.
+scientific_discipline: Engineering and Technology > Aerospace Engineering

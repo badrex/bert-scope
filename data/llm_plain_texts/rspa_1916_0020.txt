@@ -1,0 +1,10 @@
+article_id: 'rspa_1916_0020'
+revised_title: 'Existence of Converging Sequences in Oscillating Successions of Functions'
+semantic_tags:
+  - Mathematical Analysis
+  - Real Analysis
+  - Functional Analysis
+  - Sequences and Series
+  - Oscillating Functions
+tldr: The author demonstrates that oscillating successions of functions contain subsets of functions that converge. This is proven through various theorems and examples, showing the importance of understanding the behavior of these functions in mathematical analysis.
+scientific_discipline: Mathematics > Real Analysis

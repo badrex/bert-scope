@@ -1,0 +1,10 @@
+article_id: rsta_1973_0084
+revised_title: Advances in Heavy Electrical Plant: Homopolar Machines and Applications
+semantic_tags:
+  - Homopolar machines
+  - Electromagnetic induction
+  - Liquid metal sliprings
+  - Electromechanical systems
+  - Energy conversion
+tldr: This article discusses recent advancements in homopolar machines, which generate a steady electromotive force in a moving conductor. The authors explore the challenges of current collection, heat management, and torque provision, and present a solution using an all-steel construction and a liquid metal alloy of indium and gallium. They also describe potential applications in electrolytic processes, marine propulsion, and liquid metal fast breeder reactors.
+scientific_discipline: Engineering and Technology > Electromechanical Systems

@@ -1,0 +1,10 @@
+article_id: rspa_1931_0176
+revised_title: 'Surface Reaction and Gas-Phase Chain Reaction in Hydrogen and Oxygen Combustion'
+semantic_tags:
+  - Combustion
+  - Surface reaction
+  - Gas-phase chain reaction
+  - Chemical kinetics
+  - Explosion limits
+scientific_discipline: Chemistry > Physical Chemistry
+tldr: This article investigates the combination of hydrogen and oxygen on the surface of silica and its relation to the propagation of reaction chains in the gas. The authors found that the rate of reaction is almost independent of the oxygen concentration, while it varies directly with the hydrogen concentration. They also discovered that the upper explosion limit is influenced by the presence of foreign gases and the number of reaction chains initiated on the surface. The hypothesis of deactivation in the gas phase is proposed to explain the upper limit and the "pre-treatment" effects observed in the experiments.

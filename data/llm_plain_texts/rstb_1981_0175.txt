@@ -1,0 +1,10 @@
+article_id: 'rstb_1981_0175'
+revised_title: 'Analysis of Calcium Fluxes and Pools in Pancreatic Acini'
+semantic_tags:
+  - Calcium signaling
+  - Pancreatic secretion
+  - Cellular biology
+  - Endoplasmic reticulum
+  - Mitochondria
+tldr: This article investigates the control of secretion in pancreatic acini by analyzing calcium fluxes and pools. The study finds that secretagogues increase calcium influx and release from a plasma membrane-bound 'trigger' pool, while intracellular calcium sequestration occurs in the rough endoplasmic reticulum and mitochondria. The findings provide insights into the role of calcium ions in secretagogue-induced enzyme secretion from the exocrine pancreas.
+scientific_discipline: Biology and Life Sciences > Cellular Biology

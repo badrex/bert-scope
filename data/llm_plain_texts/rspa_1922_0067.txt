@@ -1,0 +1,10 @@
+article_id: rspa_1922_0067
+revised_title: The Scattering of Beta-Rays and the Multiple Scattering Theory
+semantic_tags:
+  - Particle Physics
+  - Nuclear Physics
+  - Scattering Theory
+  - Beta-Rays
+  - Rutherford's Theory
+tldr: The author examines the scattering of beta-rays and compares the results with the single and multiple scattering theories. They find that the multiple scattering theory agrees better with the experimental results, suggesting that the fraction of beta-rays scattered through considerable angles is larger and cannot be neglected.
+scientific_discipline: Physics > Particle Physics

@@ -1,0 +1,10 @@
+article_id: rsta_1961_0007
+revised_title: Dynamical Theory of Electron Diffraction for Moiré Patterns in Crystal Lattices
+semantic_tags:
+  - Electron Diffraction
+  - Crystallography
+  - Moiré Patterns
+  - Transmission Electron Microscopy
+  - Crystal Structure Analysis
+tldr: The authors apply the dynamical theory of electron diffraction to interpret electron microscopic images of moiré patterns in crystal lattices. They analyze the cases of closely superposed crystals without a vacuum layer and with a vacuum layer between them, as well as resolved lattice images. The intensity profiles of the images depend on crystal thicknesses and the vacuum layer, as well as deviations from the Brag angle. The study provides insights into the relation between moiré patterns and crystal structure, with potential applications in structure analysis.
+scientific_discipline: Physics > Optics

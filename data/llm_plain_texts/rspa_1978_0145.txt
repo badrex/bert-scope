@@ -1,0 +1,10 @@
+article_id: rspa_1978_0145
+revised_title: 'Interaction Between a Rotating Spherical Shell and a Central Black Hole'
+semantic_tags:
+  - Black Holes
+  - Gravitational Perturbations
+  - Kerr Metric
+  - Rotating Shell
+  - Energy-Momentum Tensor
+tldr: The author investigates the interaction between a rotating, spherical shell of matter and a central black hole. They apply Chrzanowski's method, which involves horizon multipole moments, to calculate the spin-down law for the black hole. The study shows similarities and differences to known laws describing the response of a black hole to scalar and electromagnetic fields. The research is relevant to understanding the behavior of black holes in the presence of external elements that break their symmetry.
+scientific_discipline: Physics > Gravitational Physics

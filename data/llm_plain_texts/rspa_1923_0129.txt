@@ -1,0 +1,10 @@
+article_id: rspa_1923_0129
+revised_title: Advanced Techniques for Measuring and Correcting Prismatic Errors
+semantic_tags:
+  - Optics
+  - Geometrical Optics
+  - Prism Errors
+  - Optical Instruments
+  - Telescope Design
+scientific_discipline: Physics > Optics
+tldr: This article presents methods for measuring and correcting errors in right-angled prisms, which are essential components in optical instruments like telescopes. The authors discuss two methods for determining the angular error and pyramidal error in prisms, providing formulas and experimental setups to accurately measure these errors. These techniques help improve the precision and accuracy of optical devices.

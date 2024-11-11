@@ -1,0 +1,10 @@
+article_id: rsta_1956_0018
+revised_title: Ergodic Theorems for One-Parameter Semigroups of Operators
+semantic_tags:
+  - Operator Theory
+  - Ergodic Theory
+  - Functional Analysis
+  - Mathematical Physics
+  - Semigroups of Operators
+tldr: The authors present ergodic theorems for one-parameter semigroups of operators, discussing various sets of averages and their properties. They also explore the relationship between weak and strong ergodicity and the ergodic projection. The theorems have applications in functional analysis and mathematical physics.
+scientific_discipline: Mathematics > Functional Analysis

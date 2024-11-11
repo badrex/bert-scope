@@ -1,0 +1,10 @@
+article_id: rspa_1962_0128
+revised_title: 'Boltzmann Equation Solution for Anisotropic Metals'
+semantic_tags:
+  - Boltzmann Equation
+  - Anisotropic Metals
+  - Transport Phenomena
+  - Scattering Probability
+  - Energy Surfaces
+tldr: The article presents an exact solution to the Boltzmann equation for anisotropic metals, assuming that the scattering probability can be written as a finite sum of products of a function of the wave vector and a function of the energy. The solution is derived for arbitrary energy surfaces and can be used to calculate transport phenomena in metals more accurately.
+scientific_discipline: Physics > Solid State Physics

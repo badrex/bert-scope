@@ -1,0 +1,10 @@
+article_id: rspa_1934_0064
+revised_title: Thermal Conductivity of Gases at 0°C
+semantic_tags:
+  - Thermodynamics
+  - Gas properties
+  - Heat transfer
+  - Temperature
+  - Thermal resistance
+tldr: The authors conducted experiments to measure the thermal conductivity of various gases at 0°C. They found that the thermal resistance of gases is inversely proportional to their temperature and provide a mathematical formula to calculate it. This research contributes to understanding heat transfer in gases and their applications in engineering and technology.
+scientific_discipline: Physics > Thermodynamics

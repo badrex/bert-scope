@@ -1,0 +1,10 @@
+article_id: 'rspb_1982_0021'
+revised_title: 'Brillouin Scattering in Eye Lenses: Understanding Dynamic Elastic Properties'
+semantic_tags:
+  - Biophysics
+  - Optics
+  - Lens Biology
+  - Elasticity
+  - Brillouin Scattering
+tldr: The authors studied Brillouin scattering in eye lenses to understand their dynamic elastic properties. They used a triple-pass Fabry Perot interferometer to observe the weak Brillouin scattering features in the presence of strong elastic scattering. The results provided information about the lens's structure and helped in understanding the properties of a complex gel, which may give insights into the cause of cataracts.
+scientific_discipline: Physics > Optics

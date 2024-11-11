@@ -1,0 +1,10 @@
+article_id: rspa_1939_0062
+revised_title: 'Diffusion in Absorbing Media: Theoretical Framework and Applications'
+semantic_tags:
+  - Diffusion
+  - Absorption
+  - Porous materials
+  - Heat transfer
+  - Thermodynamics
+tldr: This article discusses the diffusion of substances through porous materials, specifically focusing on the absorption and immobilization of substances within the solid. The author presents a theoretical framework for understanding the interaction between heat and the diffusion process, and how it affects the absorption of substances in the solid. The study has implications for various applications, including the uptake of moisture by materials like cotton.
+scientific_discipline: Physics > Thermodynamics

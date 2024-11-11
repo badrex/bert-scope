@@ -1,0 +1,10 @@
+article_id: rstl_1871_0003
+revised_title: 'A Reassessment of the Theory of Quantics and Covariants'
+semantic_tags:
+  - Algebra
+  - Mathematics
+  - Covariants
+  - Binary Quantics
+  - Irreducible Covariants
+tldr: The author, Professor Cayley, revisits the theory of quantics and covariants, specifically focusing on binary quintics. He corrects an error in his previous work and presents new formulae to better understand the relationship between covariants and syzygies. This leads to a more accurate determination of the number of irreducible covariants for binary quintics and other quantics.
+scientific_discipline: Mathematics > Algebra

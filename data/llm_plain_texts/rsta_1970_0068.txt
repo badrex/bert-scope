@@ -1,0 +1,10 @@
+article_id: rsta_1970_0068
+revised_title: Angular Distribution and Intensity in Molecular Photoelectron Spectroscopy
+semantic_tags:
+  - Photoelectron spectroscopy
+  - Angular distribution
+  - Molecular ionization
+  - Diatomic molecules
+  - Quantum mechanics
+tldr: The authors present a general theory for the angular distribution of photoelectrons ejected from diatomic molecules. They develop expressions for the anisotropy parameter and the total cross-section, which can be used to study molecular ionization potentials and orbital energies. The theory is applicable to transitions between individual rotational levels and can provide valuable information about the symmetry of the molecular orbital from which photoelectrons are ejected. This information supplements the data available from band shapes and Franck-Condon factors.
+scientific_discipline: Physics > Optics

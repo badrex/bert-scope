@@ -1,0 +1,10 @@
+article_id: rspa_1973_0115
+revised_title: 'Experimental Study of Hgi Absorption Spectrum and Excitation of 4f and 5s Subshells'
+semantic_tags:
+  - Atomic Physics
+  - X-ray Absorption Spectroscopy
+  - Synchrotron Radiation
+  - Mercury Spectroscopy
+  - Subshell Excitation
+tldr: The authors conducted experiments using synchrotron radiation to study the absorption spectrum of neutral mercury in the vacuum ultraviolet region. They observed a broad transmission maximum centered at about 80 Å and reported new features in the spectrum due to excitation from the 4f and 5s subshells. The results provide insights into the structure of the Hgi absorption spectrum and the energy dependence of photoionization cross-sections.
+scientific_discipline: Physics > Atomic Physics

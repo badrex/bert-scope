@@ -1,0 +1,10 @@
+article_id: 'rsta_1966_0059'
+revised_title: 'Cubic Equations of Additive Type and Simultaneous Equations'
+semantic_tags:
+  - Number Theory
+  - Diophantine Equations
+  - Algebraic Geometry
+  - Mathematical Analysis
+  - p-adic Numbers
+tldr: The authors investigate the solubility of two simultaneous cubic equations with integral coefficients, focusing on the p-adic and rational cases. They prove that these equations have a non-trivial solution in every p-adic field if n > 16 and in rational integers if n > 18. The study of these equations has implications for number theory, algebraic geometry, and mathematical analysis.
+scientific_discipline: Mathematics > Number Theory

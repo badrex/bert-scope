@@ -1,0 +1,10 @@
+article_id: rspa_1940_0101
+revised_title: The Mechanism of Carbon Monoxide Poisoning on Palladium Catalysts
+semantic_tags:
+  - Catalysis
+  - Surface chemistry
+  - Gas reactions
+  - Palladium catalysts
+  - Carbon monoxide poisoning
+tldr: The authors investigate the effect of carbon monoxide on the hydrogen-oxygen reaction at a palladium surface. They find that small amounts of carbon monoxide can inhibit the reaction, but the effect is temporary. The length of the inert periods increases with the amount of carbon monoxide introduced, and the rate of removal of carbon monoxide becomes very high when the amount is small. The results support the hypothesis of De la Rive that the catalysis of the reaction involves the alternate oxidation of the metal and the reduction of the surface oxide by hydrogen or carbon monoxide.
+scientific_discipline: Chemistry > Catalysis

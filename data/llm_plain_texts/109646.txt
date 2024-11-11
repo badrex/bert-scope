@@ -1,0 +1,10 @@
+article_id: '109646'
+revised_title: 'Improvements in Eudiometry and Gas Analysis'
+semantic_tags:
+  - Gas analysis
+  - Eudiometry
+  - Atmospheric air
+  - Chemical analysis
+  - Gas measurement
+tldr: 'William Hasledine Pepys developed a new eudiometer to measure the purity of gases. The eudiometer consists of two tubes with elastic gum bottles and a glass cylinder. It can measure the contraction of gases and is useful for analyzing various gases, including nitrous gas, oxygen gas, atmospheric air, carbonic gas, and sulphuretted hydrogen. The eudiometer can also be used for analyzing compound gases and is recommended to be used with hot solutions to facilitate chemical union.'
+scientific_discipline: Chemistry > Chemical analysis

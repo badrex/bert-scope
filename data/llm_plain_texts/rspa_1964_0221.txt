@@ -1,0 +1,10 @@
+article_id: 'rspa_1964_0221'
+revised_title: 'Viscoelastic Properties of Metal Salts of Polymeric Acids: A New Material for Structural Applications'
+semantic_tags:
+  - Polyelectrolyte materials
+  - Viscoelasticity
+  - Polymer chemistry
+  - Material science
+  - Structural materials
+tldr: The authors investigated the mechanical properties of rigid polyelectrolyte-type polymers, including polyacrylic acid, styrene-methacrylic acid copolymers, and their metal salts. They found that metal salts of homopolymeric acids have high elastic moduli and do not soften significantly below their decomposition temperature. These materials have better structural properties than most organic polymers, making them promising candidates for future applications.
+scientific_discipline: Material Science > Polymers and Polyelectrolytes

@@ -1,0 +1,10 @@
+article_id: rspa_1974_0018
+revised_title: 'Negative Temperature States and Vortex Fluids in Two-Dimensional Systems'
+semantic_tags:
+  - Plasma physics
+  - Vortex dynamics
+  - Statistical mechanics
+  - Negative temperature
+  - Two-dimensional systems
+tldr: The authors investigate the statistical mechanics of two-dimensional plasma and vortex fluid systems, discovering that they can exist in negative temperature states with observable characteristics, such as particle clustering. They also discuss the limitations of conventional thermodynamics in these systems and introduce a modified model with a finite-range potential to explore the behavior of these systems further.
+scientific_discipline: Physics > Plasma Physics

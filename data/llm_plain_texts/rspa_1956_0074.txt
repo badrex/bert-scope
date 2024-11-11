@@ -1,0 +1,10 @@
+article_id: rspa_1956_0074
+revised_title: 'Infrared Spectroscopy of Peptide Group in Proteins and Related Compounds'
+semantic_tags:
+  - Infrared spectroscopy
+  - Peptide group
+  - Protein structure
+  - Amides
+  - Overtone and combination bands
+tldr: The authors studied the near-infrared spectrum of the peptide group in various proteins and related compounds using infrared spectroscopy. They identified and assigned high-frequency absorption bands, confirming the association of several bands with peptide group oscillations. The study provides insights into molecular structure and potential applications in estimating water content in proteins.
+scientific_discipline: Chemistry > Spectroscopy

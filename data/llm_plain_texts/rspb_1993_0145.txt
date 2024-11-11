@@ -1,0 +1,10 @@
+article_id: 'rspb_1993_0145'
+revised_title: 'Reevaluating Host-Parasite Specificity and Polymorphism'
+semantic_tags:
+  - Population Genetics
+  - Host-Parasite Interactions
+  - Gene-for-Gene Model
+  - Matching-Allele Model
+  - Elicitor-Receptor Model
+scientific_discipline: Biology and Life Sciences > Ecology and Evolution
+tldr: The author argues that detectable polymorphism in host resistance and parasite host range is a poor guide to the true specificity of a host-parasite interaction. They propose the matching-allele model, which is based on the currently favored elicitor-receptor model for the biochemistry of plant-pathogen recognition, as an alternative to the gene-for-gene model. The matching-allele model can lead to inferred patterns of resistance and virulence that appear similar to the gene-for-gene specificity, making it difficult to reconstruct both specificity and population history from patterns of resistance among host-parasite pairs in a sample.

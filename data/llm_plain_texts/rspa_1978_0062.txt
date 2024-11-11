@@ -1,0 +1,10 @@
+article_id: rspa_1978_0062
+revised_title: Exchange and Anisotropic Susceptibilities in Binuclear Cobalt II Species
+semantic_tags:
+  - Magnetic exchange
+  - Anisotropic susceptibilities
+  - Binuclear cobalt species
+  - Exchange-coupled systems
+  - Paramagnetic susceptibility
+scientific_discipline: Chemistry > Inorganic Chemistry
+tldr: This article presents a model for calculating the principal magnetic susceptibilities of exchange-coupled binuclear cobalt II species. The authors perform a two-centre exchange calculation within a basis constructed from appropriately antisymmetrized products of one-centre functions belonging to the terms. The exchange parameters refer to interactions between separate one-centre orbitals, resembling the angular overlap parameters used to describe one-centre perturbations. The study focuses on binuclear bridged 'octahedral' high-spin cobalt compounds, which offer a wide range of possibilities for chemical and structural variation while being relatively easy to synthesize and stable.

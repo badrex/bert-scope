@@ -1,0 +1,10 @@
+article_id: rspa_1932_0026
+revised_title: 'A New Method for Rapid and Accurate Estimation of Nitrogen Peroxide'
+semantic_tags:
+  - Photoelectricity
+  - Spectroscopy
+  - Gas Analysis
+  - Nitrogen Peroxide Detection
+  - Absorption Spectroscopy
+tldr: The authors developed a new method for estimating nitrogen peroxide using photoelectricity and absorption spectroscopy. This method allows for high accuracy and quick results, even in low concentrations. The technique utilizes the strong absorption of nitrogen peroxide in the visible light spectrum and the sensitivity of a potassium photoelectric cell to record the transmitted light. This method provides a linear relationship between the photoelectric current and the concentration of nitrogen peroxide, making it a reliable and efficient method for gas analysis.
+scientific_discipline: Chemistry > Spectroscopy

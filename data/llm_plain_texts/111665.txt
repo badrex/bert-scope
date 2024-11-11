@@ -1,0 +1,10 @@
+article_id: 111665
+revised_title: 'Seminvariants and Covariants in Equation of Differences'
+semantic_tags:
+  - Algebra
+  - Seminvariants
+  - Covariants
+  - Equation of Differences
+  - Mathematical Analysis
+tldr: The author, Arthur Cayley, presents a method to calculate the equation of differences for equations of various orders using seminvariants and covariants. The process is demonstrated for equations of the second, third, fourth, and fifth orders. The equation of differences can be obtained by eliminating a single quantity from two equations and applying a simplification to these equations.
+scientific_discipline: Mathematics > Algebra

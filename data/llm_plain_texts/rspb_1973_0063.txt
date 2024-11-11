@@ -1,0 +1,10 @@
+article_id: 'rspb_1973_0063'
+revised_title: 'Automating Pattern Recognition in Health Service: Applications and Challenges'
+semantic_tags:
+  - Medical Imaging
+  - Automation in Healthcare
+  - Pattern Recognition
+  - Data Capture
+  - Image Analysis
+tldr: The article discusses the history and current state of automation in the health service, specifically in pattern recognition by computers. It highlights the importance of data capture, image enhancement, and picture analysis in the domain of two-dimensional optical patterns. The author also explores various systems and techniques used for tasks such as differential white blood cell counting and screening of body fluids for malignant cells. The challenges and potential solutions for automating pattern recognition in healthcare are also discussed.
+scientific_discipline: Engineering and Technology > Medical Imaging

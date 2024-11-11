@@ -1,0 +1,10 @@
+article_id: 'rspb_1991_0117'
+revised_title: 'Cortico-Cortical Projection Neurons Clustering in Area 7 of the Monkey Brain'
+semantic_tags:
+  - Neuroscience
+  - Brain anatomy
+  - Cortico-cortical connections
+  - Alzheimer's disease
+  - Neurofibrillary tangles
+tldr: The study investigates the distribution of cells of origin of ipsilateral cortico-cortical fibers to area 7 in the parietal lobe of the monkey. The researchers found significant clustering of labeled cells in various cortical areas, with typical bands varying from 500-800 µm in width. The intra-area distribution of cortico-cortical projection neurons is comparable to the distribution of neurofibrillary tangles in the cortex in Alzheimer's disease.
+scientific_discipline: Neuroscience > Brain anatomy

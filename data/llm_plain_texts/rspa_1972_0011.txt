@@ -1,0 +1,9 @@
+article_id: rspa_1972_0011
+revised_title: High-Pressure and Temperature Sorption of Krypton and Xenon in Chabazite
+semantic_tags:
+  - Zeolites
+  - Sorption
+  - High-pressure
+  - High-temperature
+  - Gas separation
+tldr: This study investigates the sorption of krypton and xenon in chabazite zeolites at high pressures and temperatures. The researchers obtained isotherms of Kr and Xe in chabazite for absolute sorption and Gibbs excess sorption, determining thermodynamic equilibrium constants, standard state concentrations, and heats of sorption. The results show significant differences between absolute sorption and Gibbs excess sorption at high pressures, with implications for the effectiveness of zeolites in reducing pressure in high-temperature, high-pressure systems.

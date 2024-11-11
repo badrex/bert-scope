@@ -1,0 +1,10 @@
+article_id: 'rspa_1929_0109'
+revised_title: 'The Role of Nitrogen Peroxide in the Combustion of Hydrogen and Oxygen'
+semantic_tags:
+  - Chemical kinetics
+  - Combustion
+  - Nitrogen peroxide
+  - Hydrogen peroxide
+  - Chain reactions
+tldr: This study investigates the influence of nitrogen peroxide on the combination of hydrogen and oxygen. The authors found that small traces of nitrogen peroxide significantly affect the reaction, even at temperatures far below the normal reaction rate. They propose a mechanism for this effect, involving chain reactions and the role of activated molecules. The findings provide insights into the combustion process and the potential for controlling reactions with additives.
+scientific_discipline: Chemistry > Chemical kinetics

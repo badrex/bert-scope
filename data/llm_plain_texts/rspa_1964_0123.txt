@@ -1,0 +1,10 @@
+article_id: rspa_1964_0123
+revised_title: 'Stellar Photon Fluxes Near 2000 Å: Ultra-Violet Radiation from Celestial Objects'
+semantic_tags:
+  - Astronomy
+  - Astrophysics
+  - Stellar Photometry
+  - Ultra-Violet Radiation
+  - Celestial Objects
+tldr: The authors conducted a study using Skylark 43, a research rocket, to measure the ultra-violet radiation from celestial objects. They identified 52 signals from stars and 7 from the Moon. The study aimed to determine the photon fluxes received from stars and understand the effects of the Earth's atmosphere on these measurements.
+scientific_discipline: Astronomy > Astrophysics

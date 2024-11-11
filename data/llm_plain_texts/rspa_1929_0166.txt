@@ -1,0 +1,10 @@
+article_id: 'rspa_1929_0166'
+revised_title: 'Kronecker's Contributions to Number Theory'
+semantic_tags:
+  - Number Theory
+  - Analytic Functions
+  - Quadratic Forms
+  - Bessel Functions
+  - Poisson's Summation Formula
+tldr: The author explores Kronecker's work in number theory, focusing on the convergence of series, analytic functions, and quadratic forms. They also discuss the behavior of the zeta function and its relation to Bessel functions and Poisson's summation formula.
+scientific_discipline: Mathematics > Number Theory

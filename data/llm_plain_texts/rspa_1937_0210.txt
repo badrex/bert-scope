@@ -1,0 +1,10 @@
+article_id: rspa_1937_0210
+revised_title: 'Exploring Critical Phenomena in Gases: A Statistical Mechanics Approach'
+semantic_tags:
+  - Statistical Mechanics
+  - Gas Theory
+  - Critical Phenomena
+  - Interatomic Forces
+  - Equation of State
+tldr: This article explores the behavior of gases at high densities, focusing on the critical phenomena and interatomic forces. The authors use statistical mechanics to develop an equation of state and analyze the properties of gases, including the critical temperature, internal energy, and potential energy. They apply their methods to gases like neon, argon, hydrogen, and nitrogen, providing valuable insights into the behavior of gases at high concentrations.
+scientific_discipline: Physics > Thermodynamics

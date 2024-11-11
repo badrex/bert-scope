@@ -1,0 +1,10 @@
+article_id: rspa_1969_0103
+revised_title: 'Ion Implantation and Hyperfine Interactions: A Study on Iron after Inelastic Proton Scattering'
+semantic_tags:
+  - Nuclear Physics
+  - Hyperfine Interactions
+  - Ion Implantation
+  - Perturbed Angular Correlation
+  - Inelastic Proton Scattering
+tldr: The authors conducted a series of experiments using ion implantation perturbed angular correlation technique, impact, to study hyperfine interactions in iron after inelastic proton scattering. They populated the 847 keV, 10-4 ps 2+ state in 56Fe and the 1,408 MeV, 1.42 ps, 2+ state in 54Fe via the nuclear reaction. The low results imply that the average hyperfine field in iron implanted into iron is less than 175 kG during the first 10 ps after implantation. The authors discussed the results in terms of possible radiation damage and transient field effects, as well as microscopic details of the impact process.
+scientific_discipline: Physics > Nuclear Physics

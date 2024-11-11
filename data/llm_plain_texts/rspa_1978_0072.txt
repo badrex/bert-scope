@@ -1,0 +1,10 @@
+article_id: rspa_1978_0072
+revised_title: 'Confirmation of the Jones-Richards Experiment and the Role of Optical Radiation Pressure in Dispersive Media'
+semantic_tags:
+  - Optics
+  - Radiation Pressure
+  - Dispersive Media
+  - Laser Technology
+  - Torsion Balance
+tldr: The authors conducted an experiment to measure the optical radiation pressure in dispersive media using a torsion balance and a laser beam. They confirmed the results of the Jones-Richards experiment, showing that the momentum associated with electromagnetic radiation increases directly with the refractive index of the medium. The experiment also demonstrated that the magnitude of recoil of a mirror in oblique incidence does not vary when the plane of polarization is changed.
+scientific_discipline: Physics > Optics

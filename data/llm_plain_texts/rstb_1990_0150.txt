@@ -1,0 +1,10 @@
+article_id: rstb_1990_0150
+revised_title: Directional Motion Detection in the Fly's H1 Neuron
+semantic_tags:
+  - Visual Neuroscience
+  - Insect Vision
+  - Motion Detection
+  - Neuronal Responses
+  - Directional Motion Perception
+tldr: The study investigates the response of the H1 neuron in fruit flies to jumped edges, revealing that the neuron detects directional motion by considering the previous state of the receptors, even when the stimulus has been at rest. The results show that the H1 neuron responds differently to advancing black and white edges, with black edges eliciting a stronger response. This research contributes to understanding the mechanisms of motion detection in insects and their visual systems.
+scientific_discipline: Biology and Life Sciences > Neurobiology

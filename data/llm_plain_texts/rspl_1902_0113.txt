@@ -1,0 +1,10 @@
+article_id: rspl_1902_0113
+revised_title: A New Magnetic Detector for Hertzian Waves for Quantitative Work
+semantic_tags:
+  - Wireless telegraphy
+  - Hertzian waves
+  - Magnetic detectors
+  - Electromagnetic waves
+  - Quantitative experiments
+tldr: The author presents a new form of magnetic detector for Hertzian waves that is suitable for quantitative experiments. The detector consists of multiple bundles of iron wires, each with its own magnetizing and demagnetizing coil. The device can be used to measure the intensity of Hertzian wave radiation and has potential applications in the design of radiators and transmitters for wireless telegraphy.
+scientific_discipline: Physics > Electromagnetism

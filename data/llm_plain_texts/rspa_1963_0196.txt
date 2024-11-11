@@ -1,0 +1,10 @@
+article_id: rspa_1963_0196
+revised_title: Electrical Resistance and Permeability Measurements in Ferromagnetic Sheets
+semantic_tags:
+  - Ferromagnetism
+  - Eddy Currents
+  - Electrical Resistance
+  - Permeability
+  - Domain Theory
+tldr: The authors conducted experiments on iron strips to study their electrical resistance and permeability in alternating electric and magnetic fields. They found that the classical eddy current theory underestimates the measured losses, especially at low frequencies. The results agree with the predictions of a domain theory that considers the spread of domain wall restoring forces in iron. This research contributes to understanding the behavior of ferromagnetic materials in various applications.
+scientific_discipline: Physics > Electromagnetism

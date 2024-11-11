@@ -1,0 +1,10 @@
+article_id: rsta_1981_0128
+revised_title: 'Exploratory Soft X-ray Mapping of COS-B Gamma-Ray Sources'
+semantic_tags:
+  - Gamma-ray astronomy
+  - X-ray astronomy
+  - COS-B satellite
+  - Einstein Observatory
+  - Astrophysics
+tldr: This article discusses an exploratory study on mapping five COS-B gamma-ray sources using the Einstein Observatory to search for soft X-ray and optical counterparts. The study aimed to identify high-energy gamma-ray sources and their astrophysical properties, contributing to a better understanding of the universe's phenomena.
+scientific_discipline: Astronomy > Gamma-ray astronomy

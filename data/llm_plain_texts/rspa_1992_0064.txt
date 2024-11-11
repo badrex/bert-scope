@@ -1,0 +1,10 @@
+article_id: rspa_1992_0064
+revised_title: Berry Phase in Slowly Varying Waveguides
+semantic_tags:
+  - Wave Optics
+  - Quantum Mechanics
+  - Adiabatic Invariant
+  - Wave Action Conservation
+  - Slowly Varying Lagrangian
+tldr: The authors explore the concept of the Berry phase in a slowly varying waveguide, which is a multidimensional analogue of the geometric phase of an adiabatic quantum system. They demonstrate that this additional phase can be obtained from a variational principle based on a slowly varying lagrangian, and discuss its implications for wave propagation in waveguides.
+scientific_discipline: Physics > Optics

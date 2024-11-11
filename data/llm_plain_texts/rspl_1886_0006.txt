@@ -1,0 +1,10 @@
+article_id: rspl_1886_0006
+revised_title: Straining of Ships Caused by Rolling: A Reassessment of Stress Distribution
+semantic_tags:
+  - Shipbuilding
+  - Naval Architecture
+  - Stress Analysis
+  - Marine Engineering
+  - Material Science
+tldr: This article investigates the straining actions and stresses caused by rolling in ships, challenging existing theories and assumptions about stress distribution in ship hulls. The author argues that twisting moments have a significant impact on stress and that current rules for regulating ship strength do not adequately account for these forces.
+scientific_discipline: Engineering and Technology > Naval Architecture

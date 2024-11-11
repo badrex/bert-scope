@@ -1,0 +1,10 @@
+article_id: rspl_1885_0026
+revised_title: 'Magnetisation of Steel, Cast Iron, and Soft Iron: A Study of Their Magnetic Properties'
+semantic_tags:
+  - Magnetism
+  - Iron alloys
+  - Magnetic properties
+  - Magnetic measurements
+  - Watt Prize
+scientific_discipline: Physics > Electromagnetism
+tldr: This article investigates the magnetisation of steel, cast iron, and soft iron, comparing their magnetic properties and intensities. The author, John W. Gemmell and Sir William Thomson, conducted experiments using various magnetising forces and measured the resulting magnetisation using a reflecting magnetometer. The results show that cast iron has the highest magnetisability and lowest retentiveness, while soft steel has the lowest magnetisability and highest retentiveness. The study also reveals interesting features in the curves of total and residual magnetisation.

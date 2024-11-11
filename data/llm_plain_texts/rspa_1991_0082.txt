@@ -1,0 +1,10 @@
+article_id: rspa_1991_0082
+revised_title: 'Kolmogorov's Ideas on Turbulence: From Global Scaling to Local Multifractal Scaling'
+semantic_tags:
+  - Turbulence
+  - Fluid Dynamics
+  - Scaling Theory
+  - Multifractal Scaling
+  - Navier-Stokes Equations
+tldr: This article discusses the evolution of Kolmogorov's ideas on turbulence, focusing on scaling theories. It presents a modern viewpoint of turbulence and explores global scaling and lack of universality, local multifractal scaling, and the implications of these concepts in fully developed turbulence. The author also addresses the importance of the Navier-Stokes equations and the role of scaling exponents in understanding turbulence.
+scientific_discipline: Physics > Fluid Dynamics

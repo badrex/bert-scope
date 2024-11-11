@@ -1,0 +1,10 @@
+article_id: 'rspb_1977_0111'
+revised_title: 'Confirmation of Adrenalin's Effect on Guinea-Pig Taenia Coli Membrane Conductance'
+semantic_tags:
+  - Membrane conductance
+  - Adrenalin
+  - Guinea-pig taenia coli
+  - Smooth muscle
+  - Physiology
+tldr: The authors conducted experiments on the guinea-pig taenia coli to study the effect of adrenalin on membrane conductance. They found that adrenalin increased the membrane conductance by reducing the membrane resistance, while the membrane capacitance remained nearly constant. This discovery helps to understand the physiological effects of adrenalin on smooth muscle cells.
+scientific_discipline: Biology and Life Sciences > Physiology

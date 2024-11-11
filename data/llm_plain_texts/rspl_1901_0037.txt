@@ -1,0 +1,10 @@
+article_id: rspl_1901_0037
+revised_title: 'In-Depth Analysis of Vanadium Arc Spectrum'
+semantic_tags:
+  - Spectroscopy
+  - Vanadium
+  - Arc Spectrum
+  - Metal Spectra
+  - Intensity Scale
+tldr: The authors conducted a detailed study of the arc spectrum of vanadium, comparing it with other elements and analyzing the lines in the spectrum. They found that many lines in the Kensington list were not present in other records, possibly due to the use of carbon poles in those studies. The authors also discussed the intensity scale used in spectroscopy and its limitations. The study contributes to the understanding of vanadium's role in the spectra of sunspots and helps establish a more accurate list of vanadium lines.
+scientific_discipline: Chemistry > Spectroscopy

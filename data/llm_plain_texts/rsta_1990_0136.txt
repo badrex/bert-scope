@@ -1,0 +1,10 @@
+article_id: rsta_1990_0136
+revised_title: Sensitive Enzyme Electrodes: Applications and Advancements
+semantic_tags:
+  - Enzyme electrodes
+  - Electrochemistry
+  - Analytical chemistry
+  - Inhibition enzyme electrodes
+  - Packed bed wall jet electrode
+tldr: This article discusses the development and application of sensitive enzyme electrodes, which use enzymes to detect and measure specific analytes in biological fluids. The authors describe the principles of inhibited enzyme electrodes and the packed bed wall jet electrode, which allows for efficient reaction of the substrate with the enzyme and improved electrochemical detection. They present results for the determination of acetylcholine and human immunoglobulin, as well as in vivo changes in brain ascorbate levels in freely moving rats. The article highlights the potential of enzyme electrodes for various applications in analytical chemistry.
+scientific_discipline: Chemistry > Analytical Chemistry

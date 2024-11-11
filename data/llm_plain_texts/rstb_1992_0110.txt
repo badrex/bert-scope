@@ -1,0 +1,10 @@
+article_id: 'rstb_1992_0110'
+revised_title: 'A Neural Network Model of the Vestibulo-Ocular Reflex Using Local Synaptic Learning Rule'
+semantic_tags:
+  - 'Neural Networks'
+  - 'Vestibulo-Ocular Reflex'
+  - 'Synaptic Learning'
+  - 'Neuroscience'
+  - 'Oculomotor System'
+tldr: The article presents a neural network model of the vestibulo-ocular reflex, which helps maintain clear vision during head movements. The model uses a local synaptic learning rule and incorporates adaptive features, allowing it to integrate signals and perform eye movements accurately. The network can recover from lesions and hemilabyrinthectomy, and its units carry a variety of combinations of eye position and velocity signals.
+scientific_discipline: Neuroscience > Neural Networks

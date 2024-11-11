@@ -1,0 +1,12 @@
+article_id: rspa_1994_0076
+revised_title: 'Thermal Interference and Coupling Ratio Constraint in Enzyme-Catalyzed Reactions'
+semantic_tags:
+  - Biochemistry
+  - Enzyme-coupled reactions
+  - Thermal interference
+  - Coupling ratio constraint
+  - Free energy mixing
+tldr: The author proposes a novel mechanism for enzyme-catalyzed coupled reactions in biological systems, involving a thermal interference effect. This effect, similar to quantum interference, suggests that the energy scale has an absolute meaning in determining the magnitude of the interference. The coupling ratio constraint hypothesis, which fixes the ratios of forward and backward transition probabilities in coupled degrees of freedom, leads to a free energy mixing effect that drives unfavorable reactions using the "credit" of favorable reactions.
+scientific_discipline: Chemistry > Biochemistry
+```yaml
+```

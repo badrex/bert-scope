@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0100'
+revised_title: 'Exploring the Coupling between Giant Axon Schwann Cells in Squids'
+semantic_tags:
+  - Neuron-Glia Interactions
+  - Schwann Cells
+  - Axon Physiology
+  - Electrical Coupling
+  - Dye Coupling
+scientific_discipline: Biology and Life Sciences > Neuroscience
+tldr: This study investigates the coupling between giant axon Schwann cells in squids, examining dye and electrical coupling using microelectrodes. The results show that dye coupling and electrical coupling exist between Schwann cells, with the electrical length constant of the Schwann-cell sheath being 25 µm and 100 µm along the axon circumference and long axis, respectively. The coupling ratio between cells is affected by substances like octanol and barium, suggesting that Schwann cells are unlikely to be involved in the spatial buffering of axonally released potassium ions.

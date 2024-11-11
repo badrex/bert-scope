@@ -1,0 +1,11 @@
+article_id: 'rstb_1996_0018'
+revised_title: 'Intracellular Signaling Pathways: A GTPase-Regulated PI3K Isoform and Its Potential Effectors'
+semantic_tags:
+  - 'Cell Signaling'
+  - 'GTPase Regulation'
+  - 'Phosphoinositide 3-Kinase'
+  - 'Rac Activation'
+  - 'Intracellular Pathways'
+tldr: 'The article discusses a heterotrimeric GTPase-regulated isoform of phosphoinositide 3-kinase (PI3K) and its potential effectors. The authors describe the regulation of this PI3K isoform and its role in cellular signaling pathways, particularly in the activation of the small G-protein rac. The study provides insights into the molecular mechanisms underlying the regulation of intracellular signaling pathways and the potential targets of PI3K in cellular responses.'
+scientific_discipline: 'Biology and Life Sciences > Cell Biology'
+sub_discipline: 'Cell Signaling and Regulation'

@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0106'
+revised_title: 'Protein Kinase Inhibition and its Effects on Morphological Differentiation and Ion Channel Expression in Rat Pheochromocytoma (PC12) Cells'
+semantic_tags:
+  - Neuronal differentiation
+  - Protein kinases
+  - Ion channel expression
+  - PC12 cells
+  - Nerve growth factor
+tldr: The study investigates the effects of inhibiting protein kinases in rat pheochromocytoma (PC12) cells, comparing the results with those of nerve growth factor (NGF) induced differentiation. The research shows that while both methods promote morphological differentiation, only NGF enhances ion channel expression. This discovery provides insight into the mechanisms of neuronal differentiation and the role of protein kinases in ion channel regulation.
+scientific_discipline: Biology and Life Sciences > Neurobiology

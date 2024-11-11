@@ -1,0 +1,10 @@
+article_id: 108756
+revised_title: Analytical Theory of Attraction of Solids Bounded by Surfaces of a Hypothetical Class
+semantic_tags:
+  - Mathematical Physics
+  - Solid Mechanics
+  - Differential Equations
+  - Ellipsoids
+  - Attraction Theory
+tldr: The author presents a simplified analytical approach to the problem of attraction of solids bounded by surfaces of a hypothetical class, including ellipsoids. The study involves the use of differential equations and demonstrates theorems related to attraction and potential of solids and shells. The findings can be applied to various closed surfaces and contribute to the understanding of solid mechanics and mathematical physics.
+scientific_discipline: Mathematics > Applied Mathematics

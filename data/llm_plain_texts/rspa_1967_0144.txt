@@ -1,0 +1,10 @@
+article_id: rspa_1967_0144
+revised_title: 'Hall Effect and Infrared Faraday Rotation Measurements in 6H and 15R Silicon Carbide'
+semantic_tags:
+  - Semiconductors
+  - Hall effect
+  - Infrared Faraday rotation
+  - Silicon carbide
+  - Crystallography
+tldr: The authors conducted experiments on 6H and 15R silicon carbide to study its conduction bands using the Hall effect and infrared Faraday rotation measurements. They found that the Hall coefficient was isotropic, suggesting that the conduction band extrema were located on the symmetry axis. The Faraday rotation results provided effective mass values for directions perpendicular to the axis of symmetry in both polytypes. The authors also discussed the importance of selecting high-quality specimens for accurate measurements.
+scientific_discipline: Physics > Semiconductors

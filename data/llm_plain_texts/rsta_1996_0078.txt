@@ -1,0 +1,11 @@
+article_id: rsta_1996_0078
+revised_title: Unusual Evolutionary Equation and its Solitary and Periodic Waves
+semantic_tags:
+  - Nonlinear Dispersive Waves
+  - Pseudo-Differential Equation
+  - Solitary Waves
+  - Periodic Waves
+  - Two-Fluid System
+tldr: The author analyzes a pseudo-differential equation that models nonlinear dispersive waves in a two-fluid system. They study the properties of solitary and periodic waves of permanent form, showing that their character depends primarily on the dispersion relation. The existence and stability of these waves are explored using various mathematical techniques, including positive-operator methods and the implicit-function theorem.
+scientific_discipline: Mathematics > Applied Mathematics
+```

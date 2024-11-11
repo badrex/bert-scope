@@ -1,0 +1,10 @@
+article_id: rspa_1951_0033
+revised_title: Paramagnetic Resonance Spectra of Manganese Salts
+semantic_tags:
+  - Magnetic Resonance
+  - Manganese Chemistry
+  - Crystal Field Theory
+  - Spectroscopy
+  - Paramagnetism
+tldr: The authors analyzed the paramagnetic resonance spectra of manganese fluosilicate and manganese ammonium sulfate using centimeter wave lengths. They found that the splitting of the state is mainly due to the non-cubic symmetry of the crystalline field, with the cubic field effect being a small correction. The spectra confirmed the nuclear spin of manganese and showed that the spectroscopic splitting factor is close to the free-spin value. This research provides insights into the magnetic interactions and energy levels of these manganese salts.
+scientific_discipline: Chemistry > Inorganic Chemistry

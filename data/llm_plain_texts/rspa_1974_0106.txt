@@ -1,0 +1,10 @@
+article_id: 'rspa_1974_0106'
+revised_title: 'Photoelectron Spectra of Allene, Deuteroallenes, and Tetrafluoroallene'
+semantic_tags:
+  - Molecular Spectroscopy
+  - Photochemistry
+  - Quantum Chemistry
+  - Allene
+  - Tetrafluoroallene
+tldr: The authors measured the photoelectron spectra of allene, deuteroallenes, and tetrafluoroallene in the 6-20 eV range. Allene showed three vertical ionization potentials, with the first band involving ionization from an n orbital and displaying complex vibrational structure. The spectra of the deuteroallenes had similar bands, with vibrational intervals affected by the isotope effect. Tetrafluoroallene's photoelectron spectrum had three bands, with the first band associated with ionization from an n orbital and showing a coupled vibrational frequency of about 1450 cm-1. The infrared and Raman spectra of tetrafluoroallene were measured to determine molecular vibration frequencies, and all eleven frequencies were assigned.
+scientific_discipline: Chemistry > Molecular Spectroscopy

@@ -1,0 +1,10 @@
+article_id: rspa_1980_0077
+revised_title: 'Dissociated Dislocation Climb Mechanism in Metals and Alloys'
+semantic_tags:
+  - Materials Science
+  - Crystallography
+  - Dislocation Theory
+  - Electron Microscopy
+  - Metals and Alloys
+tldr: The authors studied the climb mechanism of dissociated dislocations in face-centered cubic metals and alloys using the weak-beam electron microscopy technique. They found that prismatic loops nucleate on individual partial dislocations, and their growth is controlled by the climb force. This research provides a better understanding of the complex dislocation configurations formed at elevated temperatures.
+scientific_discipline: Materials Science > Crystallography

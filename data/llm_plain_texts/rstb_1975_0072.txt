@@ -1,0 +1,10 @@
+article_id: rstb_1975_0072
+revised_title: Enzyme-Substrate Interactions and the Role of Binding Sites in Enzyme Catalysis
+semantic_tags:
+  - Enzyme kinetics
+  - Protein structure
+  - Catalysis
+  - Transition state stabilization
+  - Binding site interactions
+tldr: This article discusses the physics and chemistry of biological recognition, focusing on enzyme-substrate interactions and the role of binding sites in enzyme catalysis. The author explains how enzymes bind to substrates in an intermediate state of the reaction, reducing the activation energy and accelerating the reaction. The article also explores the importance of proximity and entropy in enzyme catalysis and the role of the charge relay system in the trypsin family of enzymes.
+scientific_discipline: Biology and Life Sciences > Biochemistry

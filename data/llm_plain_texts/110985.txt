@@ -1,0 +1,10 @@
+article_id: 110985
+revised_title: On the Consistency of Heat in Metallic Substitutions
+semantic_tags:
+  - Thermodynamics
+  - Chemical Reactions
+  - Heat of Reaction
+  - Metallic Substitutions
+  - Equivalent Substitution
+tldr: Thomas Andrews conducted experiments to determine the heat evolved during metallic substitutions. He found that when one metal replaces another in a solution of its salts, the heat developed is always the same, provided the metals are the same. This principle applies to any number of metals in similar relationships.
+scientific_discipline: Chemistry > Chemical Reactions

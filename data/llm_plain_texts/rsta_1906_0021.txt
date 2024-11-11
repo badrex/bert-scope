@@ -1,0 +1,10 @@
+article_id: rsta_1906_0021
+revised_title: 'Galvanic Cells Produced by Light: The Chemical Statics and Dynamics of Reversible and Irreversible Systems under the Influence of Light'
+semantic_tags:
+  - Photochemistry
+  - Electrochemistry
+  - Galvanic cells
+  - Light-induced reactions
+  - Photovoltaics
+tldr: The authors conducted experiments on galvanic cells produced by light and discovered that the observed phenomena were not surface phenomena. They found that these cells were reversible and influenced by the chemical composition of the system. The study of these cells led to the understanding that light creates an electromotive force (EMF) of polarization, which is a new phenomenon. This research contributes to the development of photovoltaic technologies and the understanding of light-induced reactions in electrochemistry.
+scientific_discipline: Physics > Electrochemistry

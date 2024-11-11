@@ -1,0 +1,10 @@
+article_id: rsta_1932_0008
+revised_title: Redetermination of the Yard in Wavelengths of Light
+semantic_tags:
+  - Metrology
+  - Interferometry
+  - Wave-length Standards
+  - Michelson Interferometer
+  - Fiducial Marks
+tldr: The author discusses the determination of the yard in wavelengths of light, focusing on the use of diamond-engraved fiducial marks for precise measurements. The author proposes using these marks on standard bars for more accurate comparisons and to improve the validity of measurements in interferometry.
+scientific_discipline: Physics > Optics

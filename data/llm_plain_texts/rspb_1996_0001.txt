@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0001'
+revised_title: 'Diffusion-Regulated Control of Cellular Dendritic Morphogenesis'
+semantic_tags:
+  - Cell Biology
+  - Dendritic Growth
+  - Calcium Ion Morphogens
+  - Neuronal Development
+  - Membrane Conductance
+tldr: The article explores the diffusion-regulated control of cellular dendritic morphogenesis, focusing on the role of diffusible growth-regulating factors (morphogens) like calcium ions. The authors model the growth of cells under the influence of these morphogens and demonstrate how unstable growth, influenced by membrane conductance, galvanotropism, and chemotropism, leads to complex branching patterns. This self-organizing pattern formation aligns with the development of real neurons under similar conditions.
+scientific_discipline: Biology and Life Sciences > Cell Biology

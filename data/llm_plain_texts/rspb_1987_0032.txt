@@ -1,0 +1,10 @@
+article_id: 'rspb_1987_0032'
+revised_title: 'Effects of Halogenated Ethers on Ionic Currents of Squid Giant Axon'
+semantic_tags:
+  - Neurophysiology
+  - Ion channels
+  - Anaesthetics
+  - Halogenated ethers
+  - Squid giant axon
+tldr: The article examines the effects of fourteen halogenated ethers on the sodium and potassium currents of voltage-clamped squid giant axons. The results show that halogenated ethers tend to reduce potassium currents at least as much, if not more, than sodium currents. Certain halogenated ethers induce a pronounced maximum in potassium current traces, which can be described by adding an inactivation term to the Hodgkin-Huxley equation for potassium currents. The electrophysiological effects of these substances depend on the position and number of hydrogen bonds that can be formed.
+scientific_discipline: Biology and Life Sciences > Neurophysiology

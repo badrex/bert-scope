@@ -1,0 +1,10 @@
+article_id: rspa_1956_0206
+revised_title: Catalytic Fission of Carbon-Nitrogen Bond in Methylamine
+semantic_tags:
+  - Catalysis
+  - Carbon-Nitrogen Bond
+  - Methylamine
+  - Metal Films
+  - Surface Chemistry
+tldr: The authors studied the catalytic fission of the carbon-nitrogen bond in methylamine by examining its reactions with hydrogen on evaporated metal films. They found that ammonia and methane were the main products, along with higher amines and carbon loss. The study also showed that the activation energies for methylamine decomposition and product formation were similar on different metals, indicating a common rate-determining step in the fission of the carbon-nitrogen bond. The results provide insights into the efficiency of various metals in breaking this bond.
+scientific_discipline: Chemistry > Catalysis

@@ -1,0 +1,10 @@
+article_id: 'rspa_1929_0158'
+revised_title: 'Spin and Wave Equations of the Electron'
+semantic_tags:
+  - Quantum Mechanics
+  - Electromagnetic Fields
+  - Spin
+  - Wave Equations
+  - Dirac's Theory
+tldr: 'The authors present a study of the wave equations of the spinning electron, focusing on the non-commutative properties of operators and to introduce spin corrections into the Schrodinger-Gordon equation. They explore the effects of electromagnetic fields on the electron and provide a theoretical framework for understanding the behavior of electrons with spin.'
+scientific_discipline: Physics > Quantum Mechanics

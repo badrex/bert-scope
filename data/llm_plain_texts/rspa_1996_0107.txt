@@ -1,0 +1,10 @@
+article_id: rspa_1996_0107
+revised_title: Quasi-Steady Structures in the Two-Dimensional Initiation of Detonations
+semantic_tags:
+  - Detonation initiation
+  - Shock wave reflection
+  - Computational fluid dynamics
+  - Quasi-steady structures
+  - Reaction waves
+tldr: This article examines the transient phenomena that occur in the first few microseconds after an incident shock reflection in a shock tube. The authors use numerical simulations to study the interaction between the dynamics and chemistry of a reactive gas mixture, leading to the formation of quasi-steady structures, such as weak detonations and fast flames. These findings contribute to the understanding of detonation initiation processes.
+scientific_discipline: Physics > Fluid Dynamics

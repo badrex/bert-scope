@@ -1,0 +1,10 @@
+article_id: rspl_1901_0092
+revised_title: Stability of Rotating Fluids and the Equilibrium of Pyriform Figures
+semantic_tags:
+  - Fluid dynamics
+  - Celestial mechanics
+  - Stability analysis
+  - Mathematical physics
+  - Astrophysics
+tldr: The author investigates the stability of figures in a rotating fluid, specifically focusing on the equilibrium of pear-shaped figures. They find that the critical Jacobian ellipsoid is the longest stable figure and discuss the difficulties in obtaining absolute proof of stability. The paper also mentions related works and new admissions to the Royal Society.
+scientific_discipline: Physics > Fluid dynamics

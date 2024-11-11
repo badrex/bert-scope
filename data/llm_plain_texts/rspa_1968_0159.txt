@@ -1,0 +1,10 @@
+article_id: rspa_1968_0159
+revised_title: Stability of Closely Spaced Drops at Different Electric Potentials
+semantic_tags:
+  - Electrostatics
+  - Fluid dynamics
+  - Surface tension
+  - Soap bubbles
+  - Stability analysis
+tldr: The author investigates the coalescence of closely spaced drops at different electric potentials, focusing on the stability of the drops when they are at rest. The study uses soap bubbles and water drops to analyze the critical potential difference and the effect of the electric field on the drops' shape and behavior. The findings provide insights into the reaction between neighboring drops in an electric field and the conditions required for coalescence.
+scientific_discipline: Physics > Fluid mechanics

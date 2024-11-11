@@ -1,0 +1,10 @@
+article_id: rspa_1916_0024
+revised_title: 'Ignition of Gases by Impulsive Electrical Discharge: A Study of Spark Ignition and Ionization'
+semantic_tags:
+  - Gas ignition
+  - Electrical discharge
+  - Ionization
+  - Spark ignition
+  - Gaseous combustion
+tldr: This article investigates the ignition of gases by impulsive electrical discharge, focusing on spark ignition and ionization. The author examines the factors affecting ignition, such as spark length, voltage, and gas composition, and discusses the role of ionization in gaseous combustion. The findings provide insights into the ignition process and the potential applications of impulsive electrical discharge in various fields.
+scientific_discipline: Physics > Electromagnetism

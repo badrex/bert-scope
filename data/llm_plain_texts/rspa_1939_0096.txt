@@ -1,0 +1,10 @@
+article_id: rspa_1939_0096
+revised_title: 'Thermal Diffusion in Mixtures of Inert Gases: Experimental Methods and Findings'
+semantic_tags:
+  - Thermal diffusion
+  - Inert gases
+  - Gas mixtures
+  - Gas separation
+  - Katharometer
+tldr: 'This article describes the experimental methods and findings of thermal diffusion in mixtures of inert gases. The authors, B. E. Atkins, R. E. Bastick, and T. L. Ibbs, used a katharometer to measure the change in concentration of gases after thermal diffusion. They found that the thermal separation is independent of pressure and that heavier gases require more time for the separation process. The authors also developed a new method to measure the total separation for mixtures with low thermal conductivity, such as krypton-xenon. The study provides valuable information on intermolecular fields and the behavior of gases under different conditions.'
+scientific_discipline: Chemistry > Thermodynamics

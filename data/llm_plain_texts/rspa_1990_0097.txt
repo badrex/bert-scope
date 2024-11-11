@@ -1,0 +1,10 @@
+article_id: rspa_1990_0097
+revised_title: Observations of Singularities in Electric and Magnetic Fields of Freely Propagating Microwaves
+semantic_tags:
+  - Electromagnetic Fields
+  - Microwaves
+  - Singularities
+  - Polarization
+  - Wave Propagation
+tldr: The author conducted experiments on freely propagating microwaves and observed singularities in the electric and magnetic fields. They discovered that these singularities are generally spatially separated and found various topologically significant features of the full electric and magnetic fields. This study helps to verify theoretical predictions and provides a better understanding of the behavior of electromagnetic waves.
+scientific_discipline: Physics > Electromagnetic Waves

@@ -1,0 +1,10 @@
+article_id: 'rspb_1986_0078'
+revised_title: 'Spatial Spread of Rabies Among Foxes: Modeling and Control Strategies'
+semantic_tags:
+  - Epidemiology
+  - Rabies
+  - Fox ecology
+  - Disease control
+  - Mathematical modeling
+tldr: This study presents a mathematical model for the spatial spread of rabies among foxes and explores potential control strategies. The model considers the erratic movement of rabid foxes as the main cause of the disease's spread and suggests that vaccination has considerable advantages over severe culling. The authors estimate that the disease would reach Manchester within about 3.5 years if introduced near Southampton, moving at speeds as high as 100 km per year in the central region.
+scientific_discipline: Environmental and Earth Sciences > Ecology

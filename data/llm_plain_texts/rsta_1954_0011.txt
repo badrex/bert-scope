@@ -1,0 +1,10 @@
+article_id: rsta_1954_0011
+revised_title: 'Crystallization Phenomena in Polymers: Effect of Melt Conditions and Temperature on Crystallization in Polyethylene Terephthalate'
+semantic_tags:
+  - Polymer Crystallization
+  - Polyethylene Terephthalate
+  - Melt Conditions
+  - Crystallization Temperature
+  - Density Gradient Method
+scientific_discipline: Chemistry > Polymer Science
+tldr: This study investigates the effect of melt conditions and crystallization temperature on the crystallization process in polyethylene terephthalate. The researchers used density gradient and density balance methods to measure the changes in density during crystallization. They found that the fusion temperature significantly affects the course of crystallization, with lower fusion temperatures resulting in larger grain sizes and faster crystallization rates. The study also observed secondary crystallization processes in polyethylene terephthalate.

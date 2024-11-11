@@ -1,0 +1,10 @@
+article_id: 'rspb_1983_0070'
+revised_title: 'Mathematical Genetics: Evolution and Challenges'
+semantic_tags:
+  - Population Genetics
+  - Evolutionary Genetics
+  - Mathematical Models
+  - Molecular Biology
+  - Genetics
+tldr: This article discusses the role of mathematics in genetics, particularly in understanding the complex interactions of genes and their mutations. It highlights the importance of mathematical models in analyzing genetic data and the challenges posed by modern experimental genetics and molecular biology. The author emphasizes that while mathematics may not hold the key to genetics, it plays a crucial role in advancing our understanding of the subject.
+scientific_discipline: Biology and Life Sciences > Genetics

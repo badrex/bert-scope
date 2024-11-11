@@ -1,0 +1,10 @@
+article_id: rspa_1933_0009
+revised_title: Absolute Measurements of Electron Scattering in Helium
+semantic_tags:
+  - Electron scattering
+  - Helium
+  - Quantum mechanics
+  - Semi-conductor
+  - Crystal-photoeffect
+scientific_discipline: Physics > Electromagnetism
+tldr: The author conducted experiments to measure the absolute scattering of electrons in helium at 90° and 45° angles. They used a ring-slit apparatus to determine the number of scattered electrons and found that the scattering is linearly related to the angle. The results were in good agreement with theoretical predictions, providing valuable insights into the behavior of electrons in gases.

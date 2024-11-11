@@ -1,0 +1,10 @@
+article_id: rspa_1972_0051
+revised_title: Radiative Decay and Intramolecular Coupling in Highly Excited Electronic States of Large Molecules
+semantic_tags:
+  - Quantum Chemistry
+  - Molecular Physics
+  - Spectroscopy
+  - Fluorescence
+  - Intramolecular Coupling
+tldr: The authors study the radiative decay and intramolecular coupling in highly excited electronic states of large molecules, focusing on the second excited singlet state. They develop a theoretical model to understand the decay patterns and interference effects in the radiative decay process, providing insights into the behavior of large molecules like aromatic hydrocarbons.
+scientific_discipline: Chemistry > Quantum Chemistry

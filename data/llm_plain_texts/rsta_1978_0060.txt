@@ -1,0 +1,10 @@
+article_id: rsta_1978_0060
+revised_title: Nets of Quadrics and Theta-Characteristics of Singular Curves: A Geometric Analysis
+semantic_tags:
+  - Algebraic Geometry
+  - Invariant Theory
+  - Singularity Theory
+  - Quadrics
+  - Theta-Characteristics
+tldr: This article explores the classification of nets of quadrics and their relationship to the geometry of singular curves. The author introduces the concept of an adjugate system and provides a systematic enumeration of nets of quadrics, focusing on their geometric properties and invariant theory.
+scientific_discipline: Mathematics > Algebraic Geometry

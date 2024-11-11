@@ -1,0 +1,10 @@
+article_id: rspl_1890_0031
+revised_title: Accurate Determination of Boiling and Freezing Points with Platinum Thermometers
+semantic_tags:
+  - Thermometry
+  - Platinum thermometer
+  - Boiling points
+  - Freezing points
+  - Temperature measurement
+tldr: The authors conducted experiments with platinum thermometers to determine the boiling and freezing points of various substances. They developed a method to accurately graduate these thermometers without using an air thermometer and found that the results from different thermometers were in practical agreement. This research contributed to the accurate measurement of temperatures up to about 500°C.
+scientific_discipline: Chemistry > Thermodynamics

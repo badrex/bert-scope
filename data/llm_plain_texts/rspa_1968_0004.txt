@@ -1,0 +1,10 @@
+article_id: rspa_1968_0004
+revised_title: Gravitational Radiation from Uniformly Accelerated Particles in General Relativity
+semantic_tags:
+  - Gravitational radiation
+  - General relativity
+  - Accelerated particles
+  - Asymptotic behavior
+  - Radiative properties
+tldr: The authors investigate the radiative properties of an exact solution of Einstein's equations representing uniformly accelerated particles in general relativity. They find that the solution is radiative and similar to electromagnetic radiation of an analogous system of charges. The study provides insights into the nature of gravitational waves and the behavior of the Riemann tensor at light infinity.
+scientific_discipline: Physics > General Relativity

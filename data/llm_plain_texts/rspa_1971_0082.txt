@@ -1,0 +1,10 @@
+article_id: rspa_1971_0082
+revised_title: Vibrational Frequencies of Electrified Water Drops
+semantic_tags:
+  - Fluid Dynamics
+  - Electromechanics
+  - Vibration Theory
+  - Electrified Drops
+  - Atmospheric Electricity
+tldr: The authors conducted experiments and calculations to determine the fundamental vibrational frequencies of electrified water drops and drops in an electric field. They found that the fundamental frequency of a charged drop is zero when the charge equals the Rayleigh critical value, and for higher charges, the frequency is imaginary, indicating instability. The fundamental frequency of an uncharged drop in a uniform electric field decreases with increasing field strength and equals zero when the field reaches a critical value.
+scientific_discipline: Physics > Fluid Dynamics

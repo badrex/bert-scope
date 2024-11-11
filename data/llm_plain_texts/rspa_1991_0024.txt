@@ -1,0 +1,10 @@
+article_id: rspa_1991_0024
+revised_title: Strain Energy Release Rates and Fatigue Growth of Matrix Cracks in Composite Laminates
+semantic_tags:
+  - Composite Materials
+  - Crack Growth
+  - Strain Energy Release Rate
+  - Fatigue
+  - Mechanics of Materials
+tldr: This article investigates the growth of matrix cracks in composite laminates and presents expressions for the strain energy release rate associated with crack growth. The authors compare their predictions with experimental measurements and find that a Paris law is applicable for crack growth rate and strain energy release rate relationships. The study provides insights into the behavior of composite materials with multiple cracks and helps in understanding their load-bearing capacity.
+scientific_discipline: Engineering and Technology > Materials Science

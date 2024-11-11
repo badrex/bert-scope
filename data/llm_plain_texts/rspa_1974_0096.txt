@@ -1,0 +1,10 @@
+article_id: rspa_1974_0096
+revised_title: 'Fluidity and Horizon Formation in Molten Organic Salts'
+semantic_tags:
+  - Fluid dynamics
+  - Organic salts
+  - Mesophases
+  - Horizon formation
+  - Fluidity
+tldr: The authors developed a simple horizon test to study the fluidity of molten organic salts and their mesophases. They found that sodium isovalerate behaves as a completely fluid melt above 260°C, while molten sodium w-butyrate remains fluid throughout its entire mesophase range. The test provides insights into the mechanical properties and fluidity of these organic salts, which have complex melting mechanisms and unique characteristics.
+scientific_discipline: Chemistry > Fluid dynamics

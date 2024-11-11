@@ -1,0 +1,10 @@
+article_id: rspl_1888_0083
+revised_title: Maximum Discharge Through a Pipe of Circular Section Due to Pipe Inclination
+semantic_tags:
+  - Fluid Dynamics
+  - Hydraulics
+  - Pipe Flow
+  - Fluid Mechanics
+  - Engineering
+tldr: The author investigates the maximum discharge through a pipe of circular section when the effective head is due only to the pipe's inclination. They find that a circular pipe carries more liquid when filled up to nineteen-twentieths of its diameter than when completely full, which they call a "hydraulic paradox." This result can be utilized in circular drain-pipes that may be coated with sediments.
+scientific_discipline: Engineering and Technology > Fluid Mechanics

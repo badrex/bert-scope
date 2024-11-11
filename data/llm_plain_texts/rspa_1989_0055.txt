@@ -1,0 +1,10 @@
+article_id: rspa_1989_0055
+revised_title: 'Calculating Local Three-Spin Correlations in Free-Fermion and Planar Ising Models'
+semantic_tags:
+  - Statistical Mechanics
+  - Ising Model
+  - Free-Fermion Model
+  - Planar Lattices
+  - Correlations in Physics
+tldr: The authors calculate local three-spin correlations in the free-fermion and planar Ising models, using a method called'sum over star' identities. They find that these correlations are related to the spontaneous magnetization and can be expressed as algebraic functions of the Boltzmann weights. This research provides a better understanding of the physical properties of these models and can be applied to other exactly solved models in statistical mechanics.
+scientific_discipline: Physics > Statistical Mechanics

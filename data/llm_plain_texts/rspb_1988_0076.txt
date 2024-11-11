@@ -1,0 +1,10 @@
+article_id: 'rspb_1988_0076'
+revised_title: 'Intracellular Staining of a Horizontal Cell Selectively Contacting Blue-Sensitive Cones in Cyprinid Fish Retina'
+semantic_tags:
+  - Retinal neuroscience
+  - Cone photoreceptors
+  - Horizontal cells
+  - Blue-sensitive cones
+  - Cyprinid fish retina
+tldr: The authors discovered a horizontal cell (HC-B) in the roach retina that selectively contacts blue-sensitive cones. They used horseradish peroxidase to intracellularly stain the HC-B cell and studied its light-evoked responses. The HC-B cell generated biphasic S-potentials, with a large hyperpolarization in the blue region of the spectrum and a modest depolarization in the yellow-orange region. This study provides insights into the connectivity and function of horizontal cells in the retina, particularly in coding chromatic aspects of visual information.
+scientific_discipline: Biology and Life Sciences > Neuroscience

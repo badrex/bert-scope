@@ -1,0 +1,10 @@
+article_id: 'rspb_1985_0083'
+revised_title: 'Exploring the Role of Oncogenes in Normal and Malignant Growth'
+semantic_tags:
+  - Oncogenes
+  - Cancer Biology
+  - Cellular Growth
+  - Tumor Suppressor Genes
+  - Gene Expression
+tldr: This article discusses the function of oncogenes, such as SV40 Large T, myc, and p53, in normal and malignant cell growth. Oncogenes are proteins that play a role in cell transformation and can lead to the development of cancer. The article explores the similarities and differences between these oncogenes, their nuclear location, DNA binding activity, and complex formation with other proteins. It also touches upon the concept of immortalization and how oncogenes may act in a multistep process of carcinogenesis.
+scientific_discipline: Biology and Life Sciences > Molecular Biology and Genetics

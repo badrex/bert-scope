@@ -1,0 +1,11 @@
+article_id: 'rspb_1984_0044'
+revised_title: 'A New Method for Recording Single-Channel Currents from Skeletal Muscle Sarcolemma'
+semantic_tags:
+  - Ion channels
+  - Electrophysiology
+  - Skeletal muscle
+  - Membrane potential
+  - Patch clamp technique
+tldr: The authors developed a new method to prepare spherical vesicles of sarcolemma from frog skeletal muscle for recording single-channel currents. They used patch clamp recording to measure unitary and Na currents from this preparation and found that the kinetic properties of Na and channels appeared unaltered by vesicle formation. This method provides a useful alternative for studying ionic channels in adult cells.
+scientific_discipline: Biology and Life Sciences > Cell Biology
+```

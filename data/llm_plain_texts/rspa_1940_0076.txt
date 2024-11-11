@@ -1,0 +1,10 @@
+article_id: rspa_1940_0076
+revised_title: 'X-ray Electrons Expelled from Metals: Silver Radiations and Atomic Constants'
+semantic_tags:
+  - X-ray spectroscopy
+  - Atomic constants
+  - Silver radiations
+  - Planck's constant
+  - Magnetic spectrograph
+tldr: The authors measured the energies of X-ray electrons expelled from metals using silver radiations and a magnetic spectrograph. They combined their results with previous measurements to determine a value for Planck's constant. Their work contributes to understanding atomic constants and the behavior of X-ray electrons in metals.
+scientific_discipline: Physics > Optics

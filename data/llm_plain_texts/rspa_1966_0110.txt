@@ -1,0 +1,10 @@
+article_id: rspa_1966_0110
+revised_title: Investigating the Electron-Nuclear Overhauser Effect in Radical Solutions
+semantic_tags:
+  - Nuclear Magnetic Resonance
+  - Electron-Nuclear Overhauser Effect
+  - Chemical Physics
+  - Spectroscopy
+  - Molecular Interactions
+tldr: The authors investigate the electron-nuclear Overhauser effect in solutions of 2,4,6-tri-tert-butyl phenoxy radical in various organic solvents. They explore both dipolar and scalar interactions and find that the diffusion model better explains the experimental results. The study allows for the calculation of diffusional correlation times, distances of closest approach, and relative diffusion coefficients of solvent and radical molecules.
+scientific_discipline: Chemistry > Physical Chemistry

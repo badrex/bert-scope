@@ -1,0 +1,10 @@
+article_id: 'rspa_1931_0199'
+revised_title: 'The Effect of Frequency on the Condensed Discharge Ignition of Carbonic Oxide-Air Detonating Gas'
+semantic_tags:
+  - Gas ignition
+  - Electrical discharge
+  - Carbonic oxide
+  - Oscillation frequency
+  - Ignitibility
+tldr: The authors conducted experiments to study the effect of frequency on the ignition of carbonic oxide-air detonating gas using condensed electric discharges. They found that the igniting power of the spark increased with decreasing frequency, despite the energy dissipated by the spark decreasing. This shows that the discharge circuit frequency has a greater influence on the igniting power of the spark than the potential energy stored in the condenser prior to discharge.
+scientific_discipline: Physics > Electromagnetism

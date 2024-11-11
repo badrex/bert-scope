@@ -1,0 +1,10 @@
+article_id: rspa_1926_0096
+revised_title: 'In-Depth Analysis of the Gold Arc Spectrum Structure'
+semantic_tags:
+  - Atomic Physics
+  - Spectroscopy
+  - Quantum Mechanics
+  - Gold Atom
+  - Term Series
+tldr: This article presents an in-depth analysis of the structure of the gold arc spectrum. The authors confirm Thorsen's selection of the first pair of principal series and extend it to include the second pair. They also discuss two other features of the spectral structure: a deep metastable inverted doublet D term and a pair of terms with features similar to doublet terms of the P type. The authors use Pauli, Heisenberg, and Hund's methods to predict the terms belonging to the arc spectrum and develop the theoretical structure of the gold arc spectrum. The empirical analysis of the gold arc spectrum reveals double electron groups, which are possible for the un-ionized atom of gold and have been found in other elements as well.
+scientific_discipline: Physics > Atomic Physics

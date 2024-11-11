@@ -1,0 +1,10 @@
+article_id: rstb_1980_0055
+revised_title: Nuclear Magnetic Resonance in Intact Biological Systems: A Review
+semantic_tags:
+  - Nuclear Magnetic Resonance
+  - Biological Systems
+  - Molecular Fingerprint
+  - Relaxation Times
+  - Analytical Sensitivity
+tldr: This article discusses the use of nuclear magnetic resonance (NMR) spectroscopy in studying intact biological systems. It covers the basics of NMR, its limitations, and the potential for quantitative analysis, molecular structure identification, and mapping of chemicals in biological systems. The author also highlights the importance of mobility and the need for quantitative chemical analyses of extracts alongside NMR observations.
+scientific_discipline: Chemistry > Spectroscopy

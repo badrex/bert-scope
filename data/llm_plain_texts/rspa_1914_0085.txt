@@ -1,0 +1,10 @@
+article_id: 'rspa_1914_0085'
+revised_title: 'Production of Rare Gases through Electric Discharge: A Review of T. R. Merton's Experiment'
+semantic_tags:
+  - Gas production
+  - Electric discharge
+  - Uranium bombardment
+  - Cathode rays
+  - Rare gases
+tldr: This article discusses the attempts to produce rare gases like helium, neon, and argon by electric discharge, specifically through the bombardment of uranium with cathode rays. The author, J. Norman Collie, reviews T. R. Merton's experiment and presents the results, which show the presence of these rare gases in the residual gases. The origin of these gases is still uncertain, and further experiments are needed to understand their source.
+scientific_discipline: Chemistry > Gas Chemistry

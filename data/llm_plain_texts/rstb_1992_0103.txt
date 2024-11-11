@@ -1,0 +1,10 @@
+article_id: 'rstb_1992_0103'
+revised_title: 'Honeybees' Exploitation of Optic Flow for Distance Estimation and Object Discrimination'
+semantic_tags:
+  - Optic Flow
+  - Honeybee Behavior
+  - Visual Perception
+  - Neural Models
+  - Distance Estimation
+tldr: This article explores how honeybees use optic flow to estimate distances, distinguish objects at different distances, and land on contrasting edges. The study demonstrates that honeybees balance the speeds of retinal images on their two eyes to maintain equidistance and navigate through various environments. The findings suggest that the honeybee's visual system can compute the apparent angular speed of a pattern independently of its contrast or spatial-frequency content.
+scientific_discipline: Biology and Life Sciences > Entomology

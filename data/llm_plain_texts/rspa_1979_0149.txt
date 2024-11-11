@@ -1,0 +1,10 @@
+article_id: 'rspa_1979_0149'
+revised_title: 'The Evolution of Information Engines: From Computing Slaves to Knowledgeable Servants'
+semantic_tags:
+  - Information Engineering
+  - Computer Design
+  - Technological Evolution
+  - Information Theory
+  - Information Systems
+tldr: The author discusses the evolution of computers from their early days as "computing slaves" to their current potential as "knowledgeable servants." They argue that the design of information systems should be based on understanding users' needs and information processing requirements, rather than solely on technological advancements. The author also highlights the importance of considering the broader social context and the role of natural selection in the evolution of information engines.
+scientific_discipline: Engineering and Technology > Information Engineering

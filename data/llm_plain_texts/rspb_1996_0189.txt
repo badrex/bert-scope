@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0189'
+revised_title: 'Sperm Competition and the Evolution of Mating Strategies in Group Spawners'
+semantic_tags:
+  - Sperm competition
+  - Mating strategies
+  - Evolutionary biology
+  - Game theory
+  - Reproductive biology
+tldr: This article explores how sperm competition intensity affects sperm expenditure in group-spawning species. It demonstrates that across species, average ejaculate expenditure increases with sperm competition intensity, but within a species, the trend is reversed for more than two males competing for the same set of eggs. The study uses game theory models to show that males should decrease their sperm expenditure as the estimated number of competitors present at a given spawning increases above two.
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology

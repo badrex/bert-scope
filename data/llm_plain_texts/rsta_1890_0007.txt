@@ -1,0 +1,10 @@
+article_id: rsta_1890_0007
+revised_title: On the Extension and Flexure of Cylindrical and Spherical Thin Elastic Shells
+semantic_tags:
+  - Elasticity
+  - Shell theory
+  - Thin structures
+  - Cylindrical shells
+  - Spherical shells
+tldr: The author presents a theory for the extension and flexure of cylindrical and spherical thin elastic shells, focusing on the stresses and forces acting upon them. The theory is based on the assumption that certain stresses can be treated as zero, leading to a more accurate calculation of the potential energy due to strain. The author also discusses the equations of motion and boundary conditions for these shells.
+scientific_discipline: Engineering and Technology > Mechanics of Materials

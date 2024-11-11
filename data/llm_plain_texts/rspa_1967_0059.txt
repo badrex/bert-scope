@@ -1,0 +1,10 @@
+article_id: rspa_1967_0059
+revised_title: Circular Dichroism: Principles and Applications in Polypeptide Research
+semantic_tags:
+  - Circular dichroism
+  - Polypeptides
+  - Protein conformation
+  - Optical activity
+  - Spectroscopy
+tldr: This article discusses the principles and applications of circular dichroism (CD) in studying polypeptide structures. CD is a technique that measures the difference in absorption of left and right circularly polarized light by chiral molecules, such as polypeptides. The authors explain the relationship between CD and the electronic and structural properties of polypeptides, and demonstrate how CD can be used to study the conformation and conformational changes in polypeptides, including synthetic homopolymers and proteins. They also discuss the optical activity of disordered and helical polypeptide chains and the potential of CD as a powerful tool for understanding the structure-function relationships in biological macromolecules.
+scientific_discipline: Chemistry > Spectroscopy

@@ -1,0 +1,10 @@
+article_id: rsta_1994_0016
+revised_title: Existence of Slow Manifolds in Systems with Different Timescales
+semantic_tags:
+  - Nonlinear Systems
+  - Partial Differential Equations
+  - Slow Manifolds
+  - Timescale Analysis
+  - Inertial Manifolds
+tldr: The authors study time-dependent systems of partial differential equations with solutions on different timescales, focusing on the existence of slow manifolds. They demonstrate how to initialize the system to suppress the fast timescale and approximate the system with a finite-dimensional Galerkin system, providing conditions for the existence of a slow manifold in the approximating system.
+scientific_discipline: Mathematics > Dynamical Systems

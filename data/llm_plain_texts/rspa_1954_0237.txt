@@ -1,0 +1,10 @@
+article_id: rspa_1954_0237
+revised_title: 'Contemporary Perspectives on Fluid Viscosity and Bulk Viscosity'
+semantic_tags:
+  - Fluid dynamics
+  - Viscosity
+  - Bulk viscosity
+  - Fluid mixtures
+  - Acoustics
+tldr: This article discusses the controversy surrounding the concept of bulk viscosity in fluids and its effects on fluid dynamics. The author analyzes various experimental data and theoretical models, concluding that many common fluids do not behave like classical viscous fluids when subjected to ultrasonic disturbances. The author proposes a new approach to understanding fluid behavior, considering them as mixtures of components with different properties.
+scientific_discipline: Physics > Fluid Dynamics

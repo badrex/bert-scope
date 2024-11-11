@@ -1,0 +1,11 @@
+article_id: rsta_1994_0071
+revised_title: Excitability, Wave Reflection, and Wave Splitting in a Cubic Autocatalysis Reaction-Diffusion System
+semantic_tags:
+  - Excitable media
+  - Reaction-diffusion systems
+  - Wave reflection
+  - Wave splitting
+  - Cubic autocatalysis
+tldr: This article examines the excitability properties of a two-variable cubic autocatalysis model for chemical oscillations. The reaction-diffusion behavior of this model is studied in a one-dimensional configuration with varying relative diffusivities of the species. The authors discover wave reflection and wave splitting, which depend on the relative diffusivities of the variable species. These findings contribute to the understanding of nonlinear phenomena in excitable media.
+scientific_discipline: Mathematics > Applied Mathematics
+sub_discipline: Dynamical Systems > Reaction-Diffusion Systems

@@ -1,0 +1,10 @@
+article_id: rspa_1913_0067
+revised_title: 'Electric Effect of Rotating a Magnetic Insulator in a Magnetic Field'
+semantic_tags:
+  - Electromagnetism
+  - Electromotive force
+  - Induction
+  - Insulators
+  - Magnetic fields
+tldr: The authors conducted experiments to study the electric effect of rotating a magnetic insulator in a magnetic field. They found that the induced electromotive force is nearly proportional to the current and the number of revolutions per second. The results support the theory of relativity and provide insights into the behavior of insulators in magnetic fields.
+scientific_discipline: Physics > Electromagnetism

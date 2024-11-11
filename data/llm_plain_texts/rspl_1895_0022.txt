@@ -1,0 +1,10 @@
+article_id: rspl_1895_0022
+revised_title: Temperature Variation of Thermal Conductivity in Rocks
+semantic_tags:
+  - Geophysics
+  - Rock properties
+  - Heat transfer
+  - Thermoelectricity
+  - Geological materials
+tldr: This article presents experiments conducted by Lord Kelvin and J. R. Erskine Murray on the thermal conductivity of rocks. They used thermoelectric junctions to measure the temperatures at different points in a rock sample heated by sources applied to its surface. The authors found that the thermal conductivity of rocks decreases with an increase in temperature, providing evidence for the diminishing conductivity with temperature.
+scientific_discipline: Environmental and Earth Sciences > Geophysics

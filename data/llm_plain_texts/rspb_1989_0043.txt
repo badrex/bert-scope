@@ -1,0 +1,10 @@
+article_id: 'rspb_1989_0043'
+revised_title: 'The Locomotion and Propulsion of a Fin Whale: Understanding the Speed of the Fin Whale'
+semantic_tags:
+  - Marine Biology
+  - Whale Locomotion
+  - Propulsion
+  - Fluid Dynamics
+  - Oscillating Aerofoils
+tldr: The authors studied the propulsion and swimming capabilities of fin whales, which are known for being the fastest large whales. They analyzed the flukes' shape and movement, using a strip theory to calculate the whale's flukes as an oscillating propeller. The study found that the whale's efficiency is significantly reduced by frictional effects, and the results provide insights into the biology and efficient operation of fin whales, as well as the design of oscillating-foil propellers.
+scientific_discipline: Biology and Life Sciences > Marine Biology

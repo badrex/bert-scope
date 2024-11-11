@@ -1,0 +1,10 @@
+article_id: rspa_1979_0132
+revised_title: Pendellosung Interference in Bragg Reflexion of X-Rays: A New Investigation
+semantic_tags:
+  - X-ray diffraction
+  - Pendellosung interference
+  - Bragg reflexion
+  - Crystallography
+  - Atomic scattering factor
+tldr: The authors investigate Pendellosung interference in the Bragg reflexion of X-rays from a crystal surface, focusing on the diamond 113 reflexion and Cu radiation. They cast doubt on Uragami's claim to have observed fringes in a similar experiment and provide an absolute determination of the atomic scattering factor of carbon in the diamond 113 reflexion. The study demonstrates the challenges of observing Pendellosung fringes in the Bragg case and highlights the importance of experimental technique.
+scientific_discipline: Physics > Crystallography

@@ -1,0 +1,10 @@
+article_id: 'rspa_1987_0014'
+revised_title: 'Assessment and Consequences of Degraded Core Accidents in Pressurized-Water Reactors'
+semantic_tags:
+  - Nuclear Safety
+  - Pressurized-Water Reactor
+  - Degraded-Core Accidents
+  - Risk Assessment
+  - Nuclear Power
+tldr: 'This article analyzes the likelihood and consequences of degraded-core accidents in pressurized-water reactors, focusing on the proposed Sizewell B reactor. The analysis concludes that such accidents are highly improbable, and the plant has been designed to reduce their frequency to around 10^-6 per year. The containment building would only fail in a small proportion of degraded-core accidents, and the release of radioactivity to the environment would be minimal. The individual risk of accidental death near the reactor would only increase by 1 in 100,000, and the risk of death due to cancer would also see a small increase. The article emphasizes the large margin of safety between the risks estimated for Sizewell B and those already present in society.'
+scientific_discipline: Engineering and Technology > Nuclear Engineering

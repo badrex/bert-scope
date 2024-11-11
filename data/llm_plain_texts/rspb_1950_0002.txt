@@ -1,0 +1,10 @@
+article_id: 'rspb_1950_0002'
+revised_title: 'Genetic Enumerations and Combinatorial Structures'
+semantic_tags:
+  - Genetics
+  - Combinatorics
+  - Enumerations
+  - Partitional functions
+  - Permutations
+tldr: The author presents a class of enumerations important in genetics, focusing on isomorphic sets of genotypes in tetrasomic organisms. They develop a method to count these sets using combinatorial structures and partitional functions, which can be applied to other genetic problems involving enumeration.
+scientific_discipline: Mathematics > Combinatorics

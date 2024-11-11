@@ -1,0 +1,10 @@
+article_id: rspl_1886_0049
+revised_title: 'Conversion of Heat Energy to Electrical Energy Using a Chromic Chloride Solution'
+semantic_tags:
+  - Thermoelectricity
+  - Electrochemistry
+  - Galvanic cells
+  - Temperature effects
+  - Electromotive force
+tldr: The author describes an experiment using a chromic chloride solution in a galvanic cell to convert heat energy into electrical energy. The electromotive force increased with temperature, reaching a maximum of 0.2607 volts at 197°F. The element's efficiency and the effects of temperature on its performance are discussed.
+scientific_discipline: Chemistry > Electrochemistry

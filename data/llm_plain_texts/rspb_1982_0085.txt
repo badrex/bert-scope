@@ -1,0 +1,10 @@
+article_id: 'rspb_1982_0085'
+revised_title: 'Exploring Predictive Coding in Retinal Inhibition'
+semantic_tags:
+  - Visual Processing
+  - Retinal Inhibition
+  - Predictive Coding
+  - Spatial Correlation
+  - Intrinsic Noise
+tldr: The authors propose a new theory called predictive coding, which suggests that lateral inhibition in the retina minimizes the range of inputs presented to a neuron by exploiting the correlation that exists between neighboring points in a visual scene. This theory helps to reduce the range of signals each interneuron needs to encode, allowing for better encoding of spatial detail and reducing spatial redundancy. The authors demonstrate that this coding strategy also removes temporal redundancy from the interneuron's output, improving the overall efficiency of the visual system.
+scientific_discipline: Neuroscience > Visual Processing

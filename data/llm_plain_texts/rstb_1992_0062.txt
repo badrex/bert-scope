@@ -1,0 +1,10 @@
+article_id: 'rstb_1992_0062'
+revised_title: 'Auditory Processing of Complex Sounds: An Overview'
+semantic_tags:
+  - Auditory processing
+  - Frequency selectivity
+  - Cochlear filtering
+  - Speech perception
+  - Hearing impairment
+tldr: This article provides an overview of the auditory system's processing of complex sounds, focusing on frequency selectivity and cochlear filtering. The author explains how the ear separates and analyzes individual sounds, enhancing spectral and temporal contrasts to extract meaningful information from complex sounds like speech. The article also discusses the impact of hearing impairments on cochlear filtering and its implications for diagnosis and rehabilitation.
+scientific_discipline: Psychology > Auditory Perception

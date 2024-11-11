@@ -1,0 +1,10 @@
+article_id: rspa_1955_0200
+revised_title: Ground State of Lattices with Antiferromagnetic Exchange Interactions
+semantic_tags:
+  - Antiferromagnetism
+  - Exchange interactions
+  - Lattice theory
+  - Heisenberg model
+  - Ground state
+tldr: The authors examine the ground state of a lattice with one electron per atom and antiferromagnetic exchange interactions between nearest neighbors. They use a variational method similar to previous treatments of the linear-chain problem to calculate the energy eigenvalues and determine the ground state. The results indicate that all lattices have disordered ground states, and the energy differences between ordered and disordered states are small, making the nature of the ground state sensitive to small additional ordering forces.
+scientific_discipline: Physics > Condensed Matter Physics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1955_0067'
+revised_title: 'Quantitative Cytochemical Method for Estimating Alkaline Phosphatase Activity'
+semantic_tags:
+  - Enzyme activity
+  - Alkaline phosphatase
+  - Cytochemistry
+  - Interference microscopy
+  - Calcium phosphate deposition
+tldr: The authors developed a quantitative cytochemical method to measure alkaline phosphatase activity in cells using interference microscopy. They studied the effect of substrate concentration, temperature, and calcium-ion concentration on enzymatic activity in rat-kidney tubules and duodenal epithelium. This method provides a new approach to studying enzyme activity at cellular sites and can be used to estimate the mass of calcium phosphate deposited during enzyme action.
+scientific_discipline: Biology and Life Sciences > Biochemistry

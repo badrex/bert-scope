@@ -1,0 +1,10 @@
+article_id: 'rspb_1961_0053'
+revised_title: 'Effects of Alpha-Particle and X-Ray Irradiation on DNA Synthesis in Tissue Cultures'
+semantic_tags:
+  - DNA synthesis
+  - Tissue culture
+  - Radiation effects
+  - Alpha particles
+  - X-rays
+tldr: The study investigates the effects of alpha-particle and X-ray irradiation on DNA synthesis in mouse fibroblast and Hela cells in tissue culture. Using tritiated thymidine autoradiography, the research shows that both types of radiation reduce the rate of DNA synthesis in irradiated cells, with the effect being an immediate response. The results suggest that DNA template damage may be the cause of these effects.
+scientific_discipline: Biology and Life Sciences > Genetics and Molecular Biology

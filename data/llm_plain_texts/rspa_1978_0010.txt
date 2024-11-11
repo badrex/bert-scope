@@ -1,0 +1,10 @@
+article_id: rspa_1978_0010
+revised_title: Determining the Gas Constant from the Speed of Sound in Argon
+semantic_tags:
+  - Gas constant
+  - Speed of sound
+  - Acoustic virial coefficient
+  - Argon
+  - Interatomic potential
+tldr: The authors determine the gas constant from the speed of sound in argon at 273.16 K. They calculate the corrections due to the gas imperfection using measured values of the second virial coefficient and the Ar-Ar intermolecular potential. The results suggest that the recent measurements of the speed of sound by Quinn, Colclough, and Chandler lead to a gas constant slightly above the currently accepted value but within the sum of the estimated errors.
+scientific_discipline: Physics > Thermodynamics

@@ -1,0 +1,10 @@
+article_id: 'rstb_1974_0041'
+revised_title: 'The Role of Interneurons in the Control of Locust Metathoracic Leg Movements'
+semantic_tags:
+  - 'Neurobiology'
+  - 'Locust Physiology'
+  - 'Motor Control'
+  - 'Interneurons'
+  - 'Sensory Integration'
+tldr: This article investigates the organization of inputs to motoneurons in the locust metathoracic leg, focusing on the role of interneurons in controlling leg movements. The authors analyze the synaptic inputs to motoneurons and examine how different types of responses, including resistance reflexes and elicited responses, are controlled by central commands and interneuron combinations. The study reveals the importance of sensory integration and interneuron interactions in coordinating leg movements and generating coordinated responses.
+scientific_discipline: Biology and Life Sciences > Neurobiology

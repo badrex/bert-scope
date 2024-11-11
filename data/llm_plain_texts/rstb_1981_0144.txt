@@ -1,0 +1,10 @@
+article_id: 'rstb_1981_0144'
+revised_title: 'The Role of Syllables in Speech Processing: Infant and Adult Data'
+semantic_tags:
+  - Language Processing
+  - Phonology
+  - Speech Perception
+  - Cognitive Psychology
+  - Linguistics
+tldr: This study investigates the role of syllables in speech processing for both infants and adults. The authors argue that syllable-like sequences act as minimal accessing devices in speech processing. They also discuss the importance of understanding the computational processes used in perceiving speech stimuli and the potential benefits of developing information processing models with speech acquisition in mind.
+scientific_discipline: Psychology > Cognitive Psychology

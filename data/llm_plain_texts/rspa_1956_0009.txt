@@ -1,0 +1,9 @@
+article_id: rspa_1956_0009
+revised_title: Correlating Magnetic Temperature Scales of Paramagnetic Salts
+semantic_tags:
+  - Magnetic susceptibility
+  - Paramagnetic salts
+  - Temperature scales
+  - Cerium magnesium nitrate
+  - Anisotropic susceptibility
+tldr: The authors developed a new method to correlate magnetic temperature scales of paramagnetic salts using cerium magnesium nitrate as a magnetic thermometer. They determined the susceptibilities of several paramagnetic salts at temperatures below 1 Kelvin, providing a more accurate measure of temperature and improving thermometry at low temperatures. This method can be applied to various paramagnetic salts, enhancing the understanding of their magnetic properties and temperature scales.

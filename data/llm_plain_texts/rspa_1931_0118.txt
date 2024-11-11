@@ -1,0 +1,10 @@
+article_id: rspa_1931_0118
+revised_title: 'Magnetic Field Effects on the Resistance of Nickel'
+semantic_tags:
+  - Magnetoresistance
+  - Ferromagnetic materials
+  - Magnetic properties of materials
+  - Electron conduction
+  - Magnetic energy
+tldr: The author investigates the change of resistance in nickel when exposed to a magnetic field. They find that the resistance change is proportional to the magnetic energy, and that this relationship holds true for both transverse and longitudinal magnetic fields. This discovery is important for understanding electron conduction in ferromagnetic materials.
+scientific_discipline: Physics > Magnetism

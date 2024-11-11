@@ -1,0 +1,10 @@
+article_id: 'rspa_1931_0177'
+revised_title: 'Atomic Weight of Xenon: A New Determination Method'
+semantic_tags:
+  - Atomic Weight
+  - Xenon
+  - Density Determination
+  - Microbalance
+  - Gas Laws
+tldr: The authors redetermined the atomic weight of xenon using a new method that directly compares the balancing pressures of oxygen and xenon with a sensitive microbalance. This method eliminates many sources of error and provides a more accurate result, with an order of 1 part in 10,000.
+scientific_discipline: Chemistry > Atomic Weight and Isotopes

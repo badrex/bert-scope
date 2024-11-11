@@ -1,0 +1,10 @@
+article_id: rspa_1962_0230
+revised_title: Electronic Properties of Tetrahedral Intermetallic Compounds: Conduction Band in Diamond
+semantic_tags:
+  - Band structure
+  - Diamond
+  - Crystal physics
+  - Quantum mechanics
+  - Solid-state physics
+tldr: The authors used a modified orthogonalized plane-wave method to calculate the conduction band in diamond. They found that the lowest conduction band level is threefold degenerate, and the minimum of the conduction band is located along the direction. This study helps in understanding the electronic properties of diamond and its potential applications in various fields.
+scientific_discipline: Physics > Solid-state physics

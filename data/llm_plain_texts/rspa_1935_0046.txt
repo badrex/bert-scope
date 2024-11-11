@@ -1,0 +1,10 @@
+article_id: rspa_1935_0046
+revised_title: The Effect of Temperature on Hydrogen's Thermal Conductivity and Accommodation Coefficient
+semantic_tags:
+  - Thermal conductivity
+  - Hydrogen
+  - Temperature effects
+  - Accommodation coefficient
+  - Gas properties
+tldr: This article investigates the effect of temperature on the thermal conductivity and accommodation coefficient of hydrogen. The authors use a double system of tubes and wires to eliminate convective losses from their measurements, allowing them to study the temperature drop at the wire and the corresponding discontinuity of temperature at the wall of the tube. They find that the temperature difference between the wire and the wall varies progressively with time during the experiment, and they develop equations to describe the relationship between thermal conductivity and temperature.
+scientific_discipline: Physics > Thermodynamics

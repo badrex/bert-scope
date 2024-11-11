@@ -1,0 +1,10 @@
+article_id: rspa_1964_0076
+revised_title: 'Avoidance of Singularities in C-Field Cosmology: The Role of Negative Energy Density'
+semantic_tags:
+  - Cosmology
+  - General Relativity
+  - C-field
+  - Singularity
+  - Negative Energy Density
+tldr: The authors explore the concept of C-field cosmology, which prevents the formation of singularities in the collapse of a cold, spherically symmetric object. They demonstrate that the prevention of singularities relies on the negative energy density of the C-field, rather than its property of matter creation. The study emphasizes the importance of understanding the role of negative energy fields in avoiding space-time singularities.
+scientific_discipline: Physics > Cosmology

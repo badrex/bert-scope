@@ -1,0 +1,10 @@
+article_id: 'rspa_1974_0195'
+revised_title: 'Correction to "Unsteady Convective Diffusion with Interphase Mass Transfer"'
+semantic_tags:
+  - Convective Diffusion
+  - Interphase Mass Transfer
+  - Fluid Dynamics
+  - Mathematical Modeling
+  - Engineering
+tldr: This article corrects a previous paper on unsteady convective diffusion with interphase mass transfer. The authors found that the corrected equations provide a better approximation to the original exact results for large dimensionless parameters and a wider range of values. The corrected figures show similar qualitative conclusions as the previous paper.
+scientific_discipline: Mathematics > Applied Mathematics

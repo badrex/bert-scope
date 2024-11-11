@@ -1,0 +1,10 @@
+article_id: rspa_1966_0009
+revised_title: Aerosol Deposition in Turbulent Pipe Flow
+semantic_tags:
+  - Aerosol Deposition
+  - Turbulent Flow
+  - Pipe Flow
+  - Fluid Dynamics
+  - Boundary Layer
+tldr: This article investigates the factors controlling the deposition of aerosols from turbulent flow through pipes. It explores the role of boundary layers, eddy diffusion, and particle size in the deposition process. The author presents an empirical equation for the eddy diffusion coefficient, which helps calculate the deposition velocity of aerosols in pipes.
+scientific_discipline: Engineering and Technology > Fluid Dynamics

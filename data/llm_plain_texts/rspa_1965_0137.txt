@@ -1,0 +1,10 @@
+article_id: rspa_1965_0137
+revised_title: 'Kinetic Energy of Fragment Ions in Radiofrequency Mass Spectrometry'
+semantic_tags:
+  - Mass spectrometry
+  - Kinetic energy
+  - Fragment ions
+  - Polyatomic molecules
+  - Dissociation
+tldr: The authors used a radiofrequency mass spectrometer to study the kinetic energy of fragment ions from polyatomic molecules. They found that certain fragment ions, such as those from ethanol, have excess kinetic energy, suggesting that they come from dissociations in isolated electronic states. This finding challenges the statistical theory of mass spectra, which assumes that excess electronic energy is randomly distributed as vibrational energy in the ground electronic state.
+scientific_discipline: Chemistry > Spectroscopy

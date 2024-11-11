@@ -1,0 +1,10 @@
+article_id: 106635
+revised_title: Determining Latitude and Longitude of York through Astronomical Observations
+semantic_tags:
+  - Astronomy
+  - Geodesy
+  - Latitude and Longitude
+  - Astronomical Observations
+  - Method of Determining Longitude
+tldr: Edward Pigott conducted a series of astronomical observations to determine the latitude and longitude of York. He used various methods, including observing the moon's transit, occultations, and eclipses of Jupiter's satellites. Pigott's findings helped improve the accuracy of determining longitude and contributed to the development of better methods for future astronomers.
+scientific_discipline: Astronomy > Geodesy

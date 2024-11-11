@@ -1,0 +1,10 @@
+article_id: rspl_1874_0076
+revised_title: 'A New Modification of Dynamo-Magneto-Electric Machine'
+semantic_tags:
+  - Electromagnetism
+  - Dynamo
+  - Electromagnetic machine
+  - Commutator
+  - Electric power
+tldr: The author presents a new modification of the dynamo-magneto-electric machine that simplifies the design and maximizes effective power. The machine uses an electromagnet with shoes and a Siemens's armature that revolves in a groove. The innovation lies in the break or commutator, which employs two springs or rubbers to take the current off from the commutator, allowing for the utilization of alternate currents in the same direction. This design is applicable to machines with multiple armatures, offering economic advantages and the ability to vary the power of the machine.
+scientific_discipline: Engineering and Technology > Electromagnetism

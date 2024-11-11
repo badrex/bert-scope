@@ -1,0 +1,10 @@
+article_id: 101949
+revised_title: 'Robert Boyle's Method for Examining Water Freshness and Saltness'
+semantic_tags:
+  - Water analysis
+  - Salinity
+  - Freshwater
+  - Chemical precipitation
+  - Robert Boyle
+tldr: The article describes Robert Boyle's method for examining the freshness and saltness of water using a simple chemical experiment. By adding a small amount of salt to water and observing the precipitation that occurs when a metal solution is added, Boyle was able to determine the level of saltiness in the water. This method could be used to analyze both distilled and natural waters, making it a valuable tool for understanding the properties of various water sources.
+scientific_discipline: Chemistry > Chemical Analysis

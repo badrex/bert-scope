@@ -1,0 +1,10 @@
+article_id: rspa_1956_0015
+revised_title: 'Thermodynamics of Semi-Flexible Chain Molecules in Polymer Solutions'
+semantic_tags:
+  - Polymer Chemistry
+  - Statistical Thermodynamics
+  - Chain Flexibility
+  - Polymer Solutions
+  - Polymer Crystallization
+tldr: The authors develop a model for semi-flexible chain molecules in polymer solutions, considering the effects of chain flexibility on the equilibrium properties of polymer melts and concentrated solutions. They argue that intramolecular forces, through their influence on the configurational character of the polymer chain, can play a significant role in the crystallization of polymers. The study provides insights into the behavior of polymer solutions and the factors affecting polymer crystallization.
+scientific_discipline: Chemistry > Polymer Chemistry

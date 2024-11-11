@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0081'
+revised_title: 'Horizontal Gene Transfer of Isopenicillin N Synthetase Gene from Prokaryotes to Eukaryotes'
+semantic_tags:
+  - Gene Transfer
+  - Isopenicillin N Synthetase
+  - Prokaryotes
+  - Eukaryotes
+  - Streptomyces
+tldr: The authors found that the isopenicillin N synthetase (IPNS) gene, responsible for making antibiotic compounds, has been transferred from bacteria to fungi. This is the first example of such a transfer from prokaryotes to eukaryotes. The study compared the evolutionary distances between bacterial and fungal IPNS genes and 5S rRNA genes, showing that the IPNS genes are much closer, supporting a horizontal gene transfer.
+scientific_discipline: Biology and Life Sciences > Genetics and Molecular Biology

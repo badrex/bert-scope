@@ -1,0 +1,10 @@
+article_id: rspa_1935_0061
+revised_title: Fine Structure Analysis of Iodine Spark Spectrum and Nuclear Spin Determination
+semantic_tags:
+  - Nuclear Spin
+  - Iodine Spectroscopy
+  - Fine Structure
+  - Term Analysis
+  - Atomic Physics
+tldr: The authors conducted a thorough examination of the fine structures in the spark and arc spectra of iodine to determine the nuclear spin of iodine. They found that the nuclear spin is 5/2 by analyzing the fine structure term multiplicity and comparing the interval factors of different terms. This study provides a better understanding of iodine's atomic structure and contributes to the field of atomic physics.
+scientific_discipline: Physics > Atomic Physics

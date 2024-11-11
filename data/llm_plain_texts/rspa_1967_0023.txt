@@ -1,0 +1,10 @@
+article_id: rspa_1967_0023
+revised_title: Tidal Friction and the Early History of the Moon
+semantic_tags:
+  - Lunar Tides
+  - Tidal Friction
+  - Celestial Mechanics
+  - Earth-Moon System
+  - Orbital Dynamics
+tldr: The author investigates the importance of tidal friction for the early history of the Moon, focusing on the Earth-Moon system as a two-body problem. They found that tidal friction increases the lunar orbital angular momentum and decreases the Earth's rotation angular momentum, with the total angular momentum remaining constant. The study suggests that the minimum distance between the Earth and the Moon occurred around 1.4 billion years ago, and the time scale of this event is a key factor in understanding the Moon's capture in geological time.
+scientific_discipline: Physics > Celestial Mechanics

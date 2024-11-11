@@ -1,0 +1,10 @@
+article_id: 109748
+revised_title: Solving the Problem of Penetrating a Hemisphere with Cylinders
+semantic_tags:
+  - Geometry
+  - Calculus
+  - Mathematical problem-solving
+  - Surface area
+  - Volume
+tldr: Thomas Knight presents a mathematical problem of piercing a hemisphere with an indefinite number of equal and similar cylinders, ensuring that the remaining surface can be exactly quadratured. The solution to this problem, as well as others in the preceding communication, was not suitable for public reading.
+scientific_discipline: Mathematics > Geometry

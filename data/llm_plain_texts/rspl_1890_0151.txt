@@ -1,0 +1,10 @@
+article_id: rspl_1890_0151
+revised_title: Electromagnetic Wave Velocity and Inductive Capacity of Vacuum
+semantic_tags:
+  - Electromagnetism
+  - Electrodynamics
+  - Maxwell's Equations
+  - Inductive Capacity
+  - Wave Velocity
+tldr: The author discusses the velocity of electromagnetic waves in a vacuum, considering the ratio of electrostatic and electromagnetic units of quantity. They mention that the velocity for a vacuum is multiplied by the ratio of electric units in vacuum, agreeing with von Helmholtz's result. The author also highlights the limitations of electrodynamics within Maxwell's scheme and the importance of inductive capacity.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: 'rspa_1933_0120'
+revised_title: 'Graphical Derivation of Stresses from Photo-Elastic Observations'
+semantic_tags:
+  - Photoelasticity
+  - Stress analysis
+  - Graphical methods
+  - Isopachics
+  - Isochromatics
+tldr: The authors present a new method for deriving stresses graphically from photo-elastic observations. They use isopachics and isochromatics to determine the directions of principal stresses and the difference between the principal stresses. This method allows for a more accurate and efficient analysis of stress in materials under load.
+scientific_discipline: Engineering and Technology > Materials Science

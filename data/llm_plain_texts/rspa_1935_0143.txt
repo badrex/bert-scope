@@ -1,0 +1,10 @@
+article_id: 'rspa_1935_0143'
+revised_title: 'Kinetics and Mechanism of N-bromacetanilide Rearrangement in Chlorobenzene'
+semantic_tags:
+  - Acid catalysis
+  - Non-aqueous solvents
+  - Reaction kinetics
+  - Organic chemistry
+  - Reaction mechanism
+tldr: The authors studied the kinetics and mechanism of the rearrangement of N-bromacetanilide in chlorobenzene, catalyzed by trichloracetic acid. They found that the reaction follows a unimolecular course and that the reaction velocity is much slower than predicted by the simple collision theory. The low collision efficiency is attributed to a spatial steric effect.
+scientific_discipline: Chemistry > Organic Chemistry

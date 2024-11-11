@@ -1,0 +1,10 @@
+article_id: rspa_1988_0033
+revised_title: 'Numerical Scheme for Three-Dimensional Shock Propagation in Geometrical Shock Dynamics'
+semantic_tags:
+  - Shock Dynamics
+  - Numerical Methods
+  - Gas Dynamics
+  - Fluid Mechanics
+  - Three-Dimensional Calculations
+tldr: The authors present a numerical scheme for calculating shock propagation in three dimensions using geometrical shock dynamics. The method involves representing the shock surface with a discrete set of points on an adaptive mesh, advancing these points along their surface normals, and using mesh refinement to maintain an even point spacing. The scheme is demonstrated through two fundamental shock propagation problems: shock focusing and shock propagation around a bend in a pipe.
+scientific_discipline: Physics > Fluid Mechanics

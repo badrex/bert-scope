@@ -1,0 +1,10 @@
+article_id: rspa_1972_0030
+revised_title: Thermodynamics of Boundary Lubrication and Scuffing: The Role of Surface Active Agents and Additives
+semantic_tags:
+  - Lubrication
+  - Surface Chemistry
+  - Boundary Lubrication
+  - Scuffing
+  - Additives
+tldr: This article investigates the thermodynamics of boundary lubrication and scuffing in engineering systems, focusing on the role of surface active agents and additives. The authors identify the critical temperature of scuffing and explain the phenomenon of additive interference. They also discuss the effects of retained austenite in metal pairs and the importance of chain matching between carrier and additives in lubrication.
+scientific_discipline: Engineering and Technology > Tribology

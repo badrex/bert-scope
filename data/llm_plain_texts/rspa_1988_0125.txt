@@ -1,0 +1,10 @@
+article_id: rspa_1988_0125
+revised_title: Resonant Flow Dynamics in Submerged Cavities within Boundary Layers
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer
+  - Turbulence Control
+  - Cavity Flow
+  - Resonance
+scientific_discipline: Physics > Fluid Dynamics
+tldr: The study investigates the unsteady flow in a series of submerged cavities within a turbulent boundary layer. The cavity flow resonates when the cavity and Stokes layer depths are nearly the same, and the resonant frequency is independent of the flow speed. The research explores the relationship between surface resistance and roughness vortex shedding characteristics in rough wall turbulent boundary layers, with potential applications in flow control and turbulence production mechanisms.

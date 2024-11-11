@@ -1,0 +1,10 @@
+article_id: 'rspb_1978_0076'
+revised_title: 'Intracellular Recording from Visually Identified Motoneurons in Rat Spinal Cord Slices'
+semantic_tags:
+  - Neuroscience
+  - Motoneurons
+  - Spinal Cord
+  - Neuropharmacology
+  - Glutamate
+tldr: The study demonstrates a method for visualizing and recording from motoneurons in rat spinal cord slices, allowing for investigation of their chemosensitivity and neurotransmitter function. The researchers found that motoneurons had varying sensitivities to L-glutamate, with no significant differences between soma and processes. This technique provides a valuable tool for neuropharmacological studies in the spinal cord.
+scientific_discipline: Biology and Life Sciences > Neuroscience

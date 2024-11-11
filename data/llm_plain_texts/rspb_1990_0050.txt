@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0050'
+revised_title: 'Exploring the Neural Connections of the IMHV in Domestic Chicks'
+semantic_tags:
+  - Neuroscience
+  - Avian Brain
+  - Learning and Memory
+  - Neural Circuits
+  - GABAa Receptors
+scientific_discipline: Biology and Life Sciences > Neuroscience
+tldr: The study investigates the neural connections of the intermediate medial hyperstriatum ventrale (IMHV) in domestic chicks. The researchers found that the IMHV is part of a dense network of local excitatory circuits in the dorsal part of the chick's forebrain. This network is normally inhibited, preventing transmission throughout the network. The addition of the GABAa antagonist, bicuculline, revealed the interconnected nature of the network and its role in learning and memory processes.

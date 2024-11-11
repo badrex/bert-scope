@@ -1,0 +1,10 @@
+article_id: rspa_1962_0040
+revised_title: 'Kinetics and Mechanism of Olefin Decomposition: The Role of Nitric Oxide'
+semantic_tags:
+  - Olefin decomposition
+  - Thermal decomposition
+  - Nitric oxide
+  - Kinetics
+  - Hydrogen abstraction
+scientific_discipline: Chemistry > Organic Chemistry
+tldr: The authors investigated the thermal decomposition of various olefins and found that the rate constants for decomposition at 530°C were measured over the range of 25 to 300 mm. They studied the relative rates of decomposition and polymerization of ethylene at different temperatures and pressures. The results showed that nitric oxide accelerates the decomposition of some olefins, while having no effect on others. The authors concluded that the reaction of hydrogen abstraction from the olefin molecule by nitric oxide is responsible for the stimulatory phenomenon.

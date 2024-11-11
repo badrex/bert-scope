@@ -1,0 +1,10 @@
+article_id: rspa_1952_0123
+revised_title: Symmetrical Gravity Waves of Finite Amplitude: The Solitary Wave
+semantic_tags:
+  - Fluid Dynamics
+  - Wave Theory
+  - Solitary Waves
+  - Nonlinear Waves
+  - Boundary Conditions
+tldr: The authors present an exact solution to a problem involving symmetrical gravity waves of finite amplitude, specifically the solitary wave. They obtain expressions for wave velocity and amplitude, and investigate breaking conditions at the crest. The study contributes to the understanding of wave behavior in fluids and has implications for the design of water management systems.
+scientific_discipline: Physics > Fluid Dynamics

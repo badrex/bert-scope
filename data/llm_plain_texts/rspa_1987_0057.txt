@@ -1,0 +1,10 @@
+article_id: rspa_1987_0057
+revised_title: 'Justification of the Semi-Analytic Theory of Standing Waves'
+semantic_tags:
+  - Fluid Mechanics
+  - Standing Waves
+  - Wave Theory
+  - Mathematical Analysis
+  - Fluid Dynamics
+tldr: The authors justify the algorithm proposed by Schwartz and Whitney for calculating the coefficients in the Stokes expansion of standing waves. They provide a detailed account of a successful algorithm and prove that resonances do not occur in the calculations. The existence of standing waves on deep water remains an open question regarding the convergence of the power series.
+scientific_discipline: Mathematics > Analysis

@@ -1,0 +1,10 @@
+article_id: rspa_1954_0116
+revised_title: 'One-Dimensional Superconductivity and Lattice Displacements'
+semantic_tags:
+  - Superconductivity
+  - Lattice Displacements
+  - Quantum Mechanics
+  - Electrons and Crystals
+  - One-Dimensional Physics
+tldr: The author explores the one-dimensional case of free electrons interacting with lattice displacements in superconductivity. They find that a single sinusoidal lattice displacement creates an energy gap in the single-electron energy spectrum, leading to periodic fluctuations in electronic density. This periodic displacement allows electrons to move through the lattice without being disturbed, resulting in a superfluid-like behavior and the elimination of residual resistance.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: rspa_1923_0002
+revised_title: 'Investigation of Characteristic X-Rays Emission from Light Elements'
+semantic_tags:
+  - X-ray spectroscopy
+  - Atomic physics
+  - Electron bombardment
+  - Critical potentials
+  - Quantum mechanics
+tldr: The authors conducted experiments to study the characteristic X-rays emitted from light elements, such as carbon and boron, when bombarded by electrons. They determined the critical absorption wave-lengths for these elements and discussed the implications of their findings in relation to atomic models and spectral series. Their work contributed to the understanding of X-ray emission and atomic physics.
+scientific_discipline: Physics > Atomic Physics

@@ -1,0 +1,10 @@
+article_id: rspl_1886_0008
+revised_title: Determination of Air Viscosity and Comparison with Previous Research
+semantic_tags:
+  - Fluid Dynamics
+  - Viscosity
+  - Gas Properties
+  - Experimental Physics
+  - Atmospheric Science
+tldr: The author conducted experiments to determine the coefficient of viscosity of air using torsional vibrations of cylinders and spheres. The results were compared with previous research by G. G. Stokes, Meyer, and Clerk Maxwell, highlighting differences and potential sources of error in earlier studies.
+scientific_discipline: Physics > Fluid Dynamics

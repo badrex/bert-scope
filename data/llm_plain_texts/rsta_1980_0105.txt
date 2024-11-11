@@ -1,0 +1,10 @@
+article_id: rsta_1980_0105
+revised_title: Effects of Residual Elements and Deoxidation Practice on Mechanical Properties of CrMoV Turbine Castings
+semantic_tags:
+  - Materials Science
+  - Steel Manufacturing
+  - Mechanical Properties
+  - Deoxidation
+  - Turbine Engineering
+tldr: This study investigates the effects of residual elements and deoxidation practices on the mechanical properties and stress relief cracking susceptibility of CrMoV turbine castings. The research involved producing castings with varying residual contents and deoxidation methods, and testing their tensile, impact, and creep rupture properties. The results showed that titanium deoxidation improved the ductility and stress relief cracking resistance of the castings, while aluminum deoxidation had a less significant impact. The study suggests that improving the rupture strength of normalized and tempered material could be achieved by adopting titanium deoxidation practice.
+scientific_discipline: Materials Science > Steel Manufacturing

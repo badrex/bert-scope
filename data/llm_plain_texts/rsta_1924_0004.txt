@@ -1,0 +1,10 @@
+article_id: rsta_1924_0004
+revised_title: The Distribution of Magnetic Field and Return Current Around a Submarine Cable Carrying Alternating Current
+semantic_tags:
+  - Electromagnetic fields
+  - Submarine cables
+  - Alternating current
+  - Cable engineering
+  - Electromagnetic theory
+tldr: This article investigates the distribution of the magnetic field and return current around a submarine cable carrying alternating current. The author develops a theory and conducts experiments to determine the effect of the cable's magnetic field on the surrounding environment. The results are useful for understanding the behavior of submarine cables and improving their design and efficiency.
+scientific_discipline: Engineering and Technology > Electrical Engineering

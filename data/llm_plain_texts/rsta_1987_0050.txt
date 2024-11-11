@@ -1,0 +1,10 @@
+article_id: rsta_1987_0050
+revised_title: Takens-Bogdanov Bifurcation with O(2)-Symmetry: A Study in Dynamical Systems
+semantic_tags:
+  - Bifurcation Theory
+  - Symmetry in Mathematics
+  - Dynamical Systems
+  - Chaos Theory
+  - Nonlinear Science
+tldr: This article explores the Takens-Bogdanov bifurcation with O(2)-symmetry in the context of dynamical systems. It discusses the stability and main features of this bifurcation, as well as its applications to various fields, such as the buckling of structures, stirred-tank chemical reactors, and optically bistable and tristable systems.
+scientific_discipline: Mathematics > Dynamical Systems

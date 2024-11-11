@@ -1,0 +1,10 @@
+article_id: rspa_1958_0067
+revised_title: Thermal Decomposition of Diethyl Ether and Production of Ethanol
+semantic_tags:
+  - Chemical kinetics
+  - Ether decomposition
+  - Ethanol production
+  - Pyrolysis
+  - Nitric oxide effect
+tldr: The authors studied the thermal decomposition of diethyl ether and the production of ethanol from it. They found that the reaction generating ethanol is a simple first-order molecular process. The two modes of decomposition of ethanol, dehydration, and dehydrogenation, are affected by nitric oxide, showing some parallelism to analogous modes of decomposition of diethyl ether. The authors also analyzed the effect of nitric oxide on the two modes of ethanol decomposition and found that a dehydrogenation reaction is induced to a much greater extent than a dehydration type reaction.
+scientific_discipline: Chemistry > Chemical kinetics and reaction mechanisms

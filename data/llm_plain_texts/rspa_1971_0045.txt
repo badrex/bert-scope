@@ -1,0 +1,10 @@
+article_id: rspa_1971_0045
+revised_title: 'Development of a Satellite-Borne X-ray Spectroheliograph for Studying Solar X-Radiation'
+semantic_tags:
+  - X-ray astronomy
+  - Solar physics
+  - Space instrumentation
+  - Satellite technology
+  - X-ray spectroscopy
+tldr: The authors describe the development and operation of a satellite-borne X-ray spectroheliograph, a device that studies the spatial and temporal variation of solar X-radiation. The instrument, mounted on the NASA O.S.O.-5 satellite, uses a grazing incidence X-ray telescope and proportional counters to gather data on solar flares and X-ray emissions. The device's design and capabilities are discussed, along with some of the initial results obtained during its 18-month operation.
+scientific_discipline: Physics > Astronomy

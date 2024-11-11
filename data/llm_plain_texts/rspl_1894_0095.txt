@@ -1,0 +1,10 @@
+article_id: rspl_1894_0095
+revised_title: Molecular Complexity and Dissociation in Liquids
+semantic_tags:
+  - Molecular complexity
+  - Dissociation
+  - Liquids
+  - Surface tension
+  - Thermodynamics
+tldr: The author discusses the complexity and dissociation of molecules in liquids, focusing on the relationship between molecular surface energy, surface tension, and temperature. They propose a method to calculate the degree of association of compounds at any desired temperature, providing insights into the behavior of associating liquids like alcohols and acids.
+scientific_discipline: Chemistry > Thermodynamics

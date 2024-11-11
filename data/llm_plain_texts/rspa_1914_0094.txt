@@ -1,0 +1,10 @@
+article_id: rspa_1914_0094
+revised_title: 'Advancements in Measuring High Frequency Alternating Electric Currents'
+semantic_tags:
+  - Electrical Measurements
+  - High Frequency Currents
+  - Current Transformers
+  - Thermal Instruments
+  - Alternating Currents
+tldr: The authors present various methods for measuring high frequency alternating electric currents, including thermal instruments and current transformers. They discuss the advantages and limitations of each method and provide experimental results to demonstrate their effectiveness. This research is important for understanding energy losses in dielectrics and improving radiotelegraphy techniques.
+scientific_discipline: Engineering and Technology > Electrical and Electronics Engineering

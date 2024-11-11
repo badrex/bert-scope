@@ -1,0 +1,10 @@
+article_id: rspa_1969_0143
+revised_title: Development of a 4 mm Wavelength ESR Spectrometer for Large Zero Field Splittings
+semantic_tags:
+  - Electron Paramagnetic Resonance (EPR)
+  - Spectroscopy
+  - Millimeter Waves
+  - Superconducting Magnets
+  - Zero Field Splittings
+tldr: This article describes the design and construction of an electron resonance spectrometer operating at 4 mm wavelength for investigating large zero field splittings in transition group complexes. The spectrometer's sensitivity and microwave components are optimized for this short wavelength, allowing for the study of complex ions with even or odd numbers of unpaired electrons and large zero field splittings.
+scientific_discipline: Physics > Electromagnetism

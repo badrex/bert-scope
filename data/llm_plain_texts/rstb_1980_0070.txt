@@ -1,0 +1,10 @@
+article_id: rstb_1980_0070
+revised_title: 'Nuclear Magnetic Resonance Imaging: Design and Implementation of a Whole Body System'
+semantic_tags:
+  - Nuclear Magnetic Resonance (NMR)
+  - Imaging Techniques
+  - Medical Imaging
+  - Whole Body Imaging
+  - Signal Detection
+scientific_discipline: Medicine and Health Sciences > Medical Imaging
+tldr: This article discusses the experimental considerations and design criteria for implementing a whole body multiple sensitive point nuclear magnetic resonance (NMR) imaging system. The authors describe the mode of NMR excitation and detection, the use of field gradients, and data processing methods. They also discuss the design of an instrument to implement NMR imaging techniques at whole body size, focusing on techniques to increase versatility and ease of use. The system is being used to image the human head and torso, with the potential to produce images of comparable quality to those produced on smaller machines.

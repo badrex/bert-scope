@@ -1,0 +1,12 @@
+article_id: 'rstb_1983_0014'
+revised_title: 'Enzymes in Clinical Chemistry: Applications and Challenges'
+semantic_tags:
+  - Clinical Chemistry
+  - Enzymes
+  - Diagnostic Tests
+  - Analytical Techniques
+  - Immunoassay
+tldr: 'This article discusses the use of enzymes as reagents in clinical chemistry, focusing on their applications in signal generation, analyte recognition, and removal of interferents. Enzymes offer high specificity and sensitivity, making them valuable tools in diagnosing diseases and measuring substances in biological samples. However, challenges such as interference from other components and the need for robust methods in various environments must be considered when designing enzyme-based diagnostic tests.'
+
+scientific_discipline: Biology and Life Sciences > Biochemistry
+```

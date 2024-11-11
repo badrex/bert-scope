@@ -1,0 +1,10 @@
+article_id: 'rstb_1993_0068'
+revised_title: 'Genetic Dissection of Signal Transduction in Drosophila: The Sevenless Receptor Tyrosine Kinase'
+semantic_tags:
+  - Signal Transduction
+  - Receptor Tyrosine Kinase
+  - Drosophila
+  - Genetics
+  - Cell Growth Control
+tldr: The article discusses the genetic dissection of signal transduction mediated by the sevenless receptor tyrosine kinase in Drosophila. The authors identify several proteins involved in transmitting the signal from the receptor to the nucleus and compare these findings with other signal transduction pathways in Drosophila, C. elegans, and vertebrates. The study provides insights into the mechanisms of cell-cell communication and the control of cell growth during development.
+scientific_discipline: Biology and Life Sciences > Genetics and Molecular Biology

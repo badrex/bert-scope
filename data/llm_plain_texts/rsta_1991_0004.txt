@@ -1,0 +1,10 @@
+article_id: rsta_1991_0004
+revised_title: 'Motion of Granular Avalanches in Curved Chutes: Experiments and Theoretical Predictions'
+semantic_tags:
+  - Granular materials
+  - Avalanche dynamics
+  - Coulomb-type behavior
+  - Chute flow
+  - Rock and ice avalanches
+scientific_discipline: Environmental and Earth Sciences > Geophysics
+tldr: This article presents a model to predict the flow of granular materials down a curved bed and compares it with laboratory experiments. The model uses depth-averaged field equations of balance of mass and linear momentum and is applicable to rock, ice, and snow avalanches. The authors find that the theory works best when the internal angle of friction is significantly larger than the bed friction angle.

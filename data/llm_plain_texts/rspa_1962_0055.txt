@@ -1,0 +1,10 @@
+article_id: rspa_1962_0055
+revised_title: Vacuum Ultra-Violet Flash Photolysis of Water Vapour: Hydroxyl Radical Disappearance and Mechanism
+semantic_tags:
+  - Photolysis
+  - Hydroxyl Radical
+  - Water Vapour
+  - Vacuum Ultra-Violet
+  - Chemical Reaction Kinetics
+tldr: The authors developed an apparatus for vacuum ultra-violet flash photolysis and studied the decomposition of water vapour. They found that at least 90% of the dissociation leads to a hydrogen atom and a hydroxyl radical. The kinetics of the hydroxyl radical disappearance were investigated, revealing a faster rate constant in xenon than in helium, suggesting a mechanism involving intermediate complex formation.
+scientific_discipline: Chemistry > Chemical Reaction Kinetics

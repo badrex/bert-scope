@@ -1,0 +1,10 @@
+article_id: rspa_1914_0067
+revised_title: 'Investigation of Spark Series in Spectra: The "FP" System and Proto-Helium Lines'
+semantic_tags:
+  - Spectroscopy
+  - Spark spectra
+  - Series lines
+  - Helium
+  - Magnesium
+tldr: The author investigates series lines in spark spectra, focusing on the "FP" system and the "4686" series, which they determine to be due to helium rather than hydrogen. They also discover a new group of series in magnesium spectra, which they call the "FP" system, and find that it has a series constant equal to 4N. This work helps to clarify the nature of spark series and their relationship to arc series.
+scientific_discipline: Physics > Spectroscopy

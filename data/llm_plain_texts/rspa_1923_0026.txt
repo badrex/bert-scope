@@ -1,0 +1,10 @@
+article_id: 'rspa_1923_0026'
+revised_title: 'Investigations on Paramagnetic Sulphates at Low Temperatures: Deviations from Curie's Law'
+semantic_tags:
+  - Paramagnetism
+  - Low temperatures
+  - Curie's Law
+  - Magnetic dilution
+  - Crystal structure
+tldr: This paper investigates the behavior of paramagnetic substances at low temperatures, specifically focusing on the deviations from Curie's law. The authors studied various compounds with different levels of "magnetic dilution" and found that the phenomena exhibited by these substances at low temperatures are more complex than previously thought. The results show that other types of deviations from the Curie law can occur, and the dependence of the A's on the content of water of crystallization or "magnetic dilution" is not as simple as initially believed. The author also mentions that Foex's theory can provide a qualitative explanation for these phenomena by considering the effect of the crystalline structure on the behavior of elementary magnets.
+scientific_discipline: Chemistry > Materials Science

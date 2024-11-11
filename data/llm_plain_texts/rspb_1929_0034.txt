@@ -1,0 +1,10 @@
+article_id: 'rspb_1929_0034'
+revised_title: 'Improving Thermopiles for Measuring Nerve Heat-Production'
+semantic_tags:
+  - Thermodynamics
+  - Thermopiles
+  - Nerve Heat-Production
+  - Physiology
+  - Biochemistry
+tldr: 'The authors developed an improved thermopile design for measuring nerve heat-production. The new thermopile has a smaller mass of insulating material, allowing for faster temperature equalization. The design also features a symmetrical arrangement of junctions, making it more independent of fluctuations in outside temperature. The new thermopile can generate an E.M.F. of 3500 or more microvolts per calorie per gram of nerve, which is nearly twice as great as previous designs.'
+scientific_discipline: Physics > Thermodynamics

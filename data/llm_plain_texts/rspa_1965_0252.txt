@@ -1,0 +1,10 @@
+article_id: rspa_1965_0252
+revised_title: Relativistic Quadrupole Interaction in Manganese
+semantic_tags:
+  - Hyperfine structure
+  - Relativistic effects
+  - Spin-orbit coupling
+  - Spin-spin interaction
+  - Manganese
+tldr: The authors conducted a theoretical and experimental investigation of the quadrupole interaction in the ground state of manganese. They found a non-zero quadrupole interaction due to relativistic effects, which was confirmed through their experimental measurements. This discovery provides a better understanding of the hyperfine structure of atoms with half-filled shells.
+scientific_discipline: Physics > Atomic and Molecular Physics

@@ -1,0 +1,10 @@
+article_id: rsta_1991_0005
+revised_title: Plasma Resonances and Effective Masses in Trapped Ions below Superfluid Helium
+semantic_tags:
+  - Plasma physics
+  - Superfluidity
+  - Ion trapping
+  - Effective mass
+  - Ionic mobility
+tldr: This article describes the observation of plasma resonances in ions trapped below the surface of superfluid helium. The researchers measured effective masses and ionic mobilities, providing insights into the behavior of charged particles in this unique environment. Their findings contribute to the understanding of plasma physics and superfluidity.
+scientific_discipline: Physics > Plasma Physics

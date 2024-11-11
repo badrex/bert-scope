@@ -1,0 +1,10 @@
+article_id: rspa_1964_0249
+revised_title: 'Fermi Surface Analysis of Beryllium'
+semantic_tags:
+  - Fermi surface
+  - Beryllium
+  - De Haas-van Alphen effect
+  - Band structure calculations
+  - Crystallography
+tldr: The authors studied the Fermi surface of beryllium using the de Haas-van Alphen effect in single crystal beryllium. They determined the shape and size of the Fermi surface from the de Haas-van Alphen effect data alone and found good agreement with recent band structure calculations. The Fermi surface of beryllium consists of hole and electron surfaces of equal volume.
+scientific_discipline: Physics > Solid State Physics

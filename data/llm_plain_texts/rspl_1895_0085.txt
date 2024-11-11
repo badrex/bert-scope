@@ -1,0 +1,10 @@
+article_id: rspl_1895_0085
+revised_title: A New Method for Determining Freezing Points in Heterogeneous Systems
+semantic_tags:
+  - Thermodynamics
+  - Freezing point depression
+  - Equilibrium
+  - Cryometry
+  - Solutions
+tldr: This article presents a new method for determining freezing points in heterogeneous systems, focusing on the relationship between temperature, surface area, and the quantity of liquid. The author discusses the importance of controlling experimental conditions and provides guidelines for accurate freezing point determinations, particularly in dilute and concentrated solutions.
+scientific_discipline: Chemistry > Thermodynamics

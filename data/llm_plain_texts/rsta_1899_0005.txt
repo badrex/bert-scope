@@ -1,0 +1,10 @@
+article_id: rsta_1899_0005
+revised_title: An Investigation of the Directive Action of Quartz Crystals
+semantic_tags:
+  - Crystal physics
+  - Electromagnetism
+  - Experimental physics
+  - Torsion balance
+  - Quartz
+scientific_discipline: Physics > Electromagnetism
+tldr: This article describes an experiment conducted by J.H. Poynting and P.L. Gray to investigate the potential directive action of one quartz crystal on another. They used a torsion balance to measure any possible force between the crystals, but found no evidence of a directive action. The experiment set a superior limit on the value of any such force, if it exists, and contributed to the understanding of crystal physics and electromagnetism.

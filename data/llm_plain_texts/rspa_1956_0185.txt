@@ -1,0 +1,10 @@
+article_id: rspa_1956_0185
+revised_title: 'Specific Heats of Paramagnetic Salts at Very Low Temperatures'
+semantic_tags:
+  - Thermodynamics
+  - Specific Heat
+  - Paramagnetism
+  - Low Temperature Physics
+  - Cryogenics
+tldr: The authors measured the specific heats of three paramagnetic salts (neodymium magnesium nitrate, ferric ammonium alum, and manganous ammonium sulphate) at very low temperatures using the method of gamma-ray heating. They found that the specific heats were due to various interaction effects that split the ground state of the magnetic ions. The results provide valuable information on the specific heat behavior of these salts at low temperatures, which is important for understanding their use as refrigerants in cryogenic experiments.
+scientific_discipline: Physics > Thermodynamics

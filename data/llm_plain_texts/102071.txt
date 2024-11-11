@@ -1,0 +1,10 @@
+article_id: 102071
+revised_title: 'A New Method for Measuring Time: Maurice Wheeler's Peculiar Movement'
+semantic_tags:
+  - Time measurement
+  - Mechanics
+  - Clock design
+  - Statics
+  - Astronomy
+tldr: In this article, Maurice Wheeler presents a unique method for measuring time using a movement that descends at a slow, consistent pace. The movement measures time by number, weight, and measure, and its design allows for adjustments to account for errors. Wheeler explains the mechanics behind the movement and its potential applications, including its use in astronomy.
+scientific_discipline: Physics > Mechanics

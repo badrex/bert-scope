@@ -1,0 +1,10 @@
+article_id: 'rstb_1984_0138'
+revised_title: 'Embryonic Stem Cell Gene Expression and its Connection to Cellular Transformation'
+semantic_tags:
+  - Gene expression
+  - Cellular transformation
+  - Embryonic stem cells
+  - Major histocompatibility complex
+  - B2 repetitive element
+tldr: The authors used differential cDNA cloning techniques to identify genes activated in cells transformed by the DNA tumor virus Simian virus 40. They discovered that some of these genes, containing a B2 repetitive element, are also present in pluripotential embryonic stem cells. This finding suggests a connection between gene expression in embryonic development and cellular transformation.
+scientific_discipline: Biology and Life Sciences > Genetics and Molecular Biology

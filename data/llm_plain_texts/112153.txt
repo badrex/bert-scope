@@ -1,0 +1,10 @@
+article_id: 112153
+revised_title: Investigating the Heating Effect of Rapid Rotation in Vacuo
+semantic_tags:
+  - Thermodynamics
+  - Fluid dynamics
+  - Heat transfer
+  - Rotation
+  - Vacuum physics
+tldr: This article presents experiments conducted by Balfour Stewart and P. G. Tait to investigate the heating effect caused by rapid rotation in a vacuum. They discovered that the heating effect was due to radiant heat, and not from heated air or conduction of heat from the bearings. The authors concluded that the heating effect was caused by the rotation of the metallic disk, and further research is needed to determine the exact cause of this phenomenon.
+scientific_discipline: Physics > Thermodynamics

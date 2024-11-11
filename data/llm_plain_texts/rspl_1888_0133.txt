@@ -1,0 +1,10 @@
+article_id: rspl_1888_0133
+revised_title: Vibrations and Harmonics in Barred Systems
+semantic_tags:
+  - Acoustics
+  - Vibrations
+  - Harmonics
+  - Stress Analysis
+  - Theoretical Physics
+tldr: The author discusses the mathematical analysis of vibrations in barred systems, specifically addressing the differences in stress and harmonic frequencies between various boundary conditions. They also validate Lord Rayleigh's hypothesis as a first approximation. The paper also mentions the election of foreign members and other scientific presentations at the Royal Society meeting.
+scientific_discipline: Physics > Acoustics

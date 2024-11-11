@@ -1,0 +1,10 @@
+article_id: rsta_1991_0090
+revised_title: Observational Aspects and Modeling of Coronal Mass Ejections
+semantic_tags:
+  - Solar Physics
+  - Coronal Mass Ejections
+  - Solar Flares
+  - Solar Wind
+  - Magnetohydrodynamics
+tldr: This article summarizes the observational aspects of coronal mass ejections (CMEs), transient solar coronal features related to flare and prominence activity, and their effects on geomagnetic activity. It discusses various modeling methods, highlights problem areas, and assesses their application to the phenomenon. The authors emphasize the need for better understanding and prediction of CMEs to improve our knowledge of solar chromospheric and geomagnetic activity.
+scientific_discipline: Physics > Plasma Physics

@@ -1,0 +1,11 @@
+article_id: 'rstb_1981_0130'
+revised_title: 'Improving Pesticide Application Systems for Enhanced Efficiency and Reduced Environmental Impact'
+semantic_tags:
+  - Pesticide application
+  - Spray technology
+  - Droplet size
+  - Electrostatic charging
+  - Environmental protection
+tldr: This article discusses the inefficiencies in current pesticide application methods and proposes improvements through the use of advanced nozzle designs and electrostatic charging. By producing narrower droplet-size spectra and controlling droplet trajectories, these new systems aim to increase deposition on target surfaces, reduce wastage, and minimize environmental impact.
+
+scientific_discipline: Environmental and Earth Sciences > Environmental Chemistry

@@ -1,0 +1,10 @@
+article_id: rspa_1929_0125
+revised_title: Quantum Theory of Metallic Conductor Dispersion
+semantic_tags:
+  - Quantum mechanics
+  - Electromagnetic waves
+  - Metallic conductivity
+  - Crystal lattice
+  - Electrons
+tldr: This article explores the quantum theory of dispersion in metallic conductors, focusing on the propagation of electromagnetic waves in a crystal lattice. The authors discuss the influence of an electric field on the distribution of electrons in the lattice and the time it takes for equilibrium to be reached. They also examine the validity of the phenomenological theory of dispersion in metallic conductors and its limitations.
+scientific_discipline: Physics > Electromagnetism

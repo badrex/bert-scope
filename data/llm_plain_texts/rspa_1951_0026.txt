@@ -1,0 +1,10 @@
+article_id: rspa_1951_0026
+revised_title: Nuclear Structure and Fractional Parentage Coefficients
+semantic_tags:
+  - Nuclear Physics
+  - Quantum Mechanics
+  - Atomic Spectra
+  - Group Theory
+  - Nuclear Configurations
+tldr: The authors present a theoretical study on nuclear structure, focusing on nuclear configurations and the use of fractional parentage coefficients in calculating energy matrices. They apply this method to the nuclear and configurations, providing tables of orbital and charge-spin fractional parentage coefficients, and discussing the implications of their findings.
+scientific_discipline: Physics > Nuclear Physics

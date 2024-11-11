@@ -1,0 +1,10 @@
+article_id: rspl_1872_0025
+revised_title: Additional Note on the Astronomical Aberration of Light
+semantic_tags:
+  - Astronomy
+  - Aberration of Light
+  - Refracting Medium
+  - Observational Astronomy
+  - Celestial Mechanics
+tldr: The author presents additional observations on the aberration of light, specifically regarding the effect of a refracting medium. These observations were conducted using a water-telescope at the Royal Observatory. The results support the correctness of the coefficient of aberration used in the Nautical Almanac.
+scientific_discipline: Astronomy > Observational Astronomy

@@ -1,0 +1,10 @@
+article_id: 'rspb_1980_0157'
+revised_title: 'Ion Channels and Hydration Energies in Membrane Structures'
+semantic_tags:
+  - Membrane ion channels
+  - Ionic hydration energies
+  - Clathrate hydrates
+  - Electrostatic energy
+  - Ion binding sites
+tldr: The article discusses the challenges of modeling ion channels in membranes due to the low electrostatic energy of small ions in aqueous solutions. It presents a model based on ordered water structures, similar to clathrate hydrates, which provide suitable low-energy binding sites for specific ions. The model also shows that the potential barriers for ion motion within these channels are low, allowing for high mobility once the ions are inside.
+scientific_discipline: Chemistry > Electrochemistry

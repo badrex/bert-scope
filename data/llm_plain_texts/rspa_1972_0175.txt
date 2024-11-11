@@ -1,0 +1,10 @@
+article_id: rspa_1972_0175
+revised_title: 'Hydrogen Bonding Effects on Carboxylic Acid Photoelectron Spectra'
+semantic_tags:
+  - Photoelectron spectroscopy
+  - Hydrogen bonding
+  - Carboxylic acids
+  - Molecular orbitals
+  - Ionization potentials
+tldr: The authors used photoelectron spectroscopy to study the electronic structure of hydrogen-bonded carboxylic acid complexes. They found that hydrogen bonding changes the ionization potentials of the monomers, with the ionization potential of the proton donor group decreasing and the ionization potential of the electron donor group increasing. This study provides insights into the effects of hydrogen bonding on the electronic structure of molecular complexes.
+scientific_discipline: Chemistry > Spectroscopy

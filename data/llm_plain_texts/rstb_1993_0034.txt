@@ -1,0 +1,10 @@
+article_id: 'rstb_1993_0034'
+revised_title: 'Molecular Chaperones in Protein Targeting to Mitochondria'
+semantic_tags:
+  - Protein Targeting
+  - Molecular Chaperones
+  - Mitochondria
+  - Protein Folding
+  - Protein Import
+tldr: 'Molecular chaperones play a crucial role in protein targeting to mitochondria. They assist in maintaining precursor proteins in a transport-competent state, drive translocation across outer and inner mitochondrial membranes, facilitate folding and assembly of imported polypeptide chains, and support unfolding of precursors in the cytosol. Cytosolic hsp70 and mitochondrial hsp70 are essential components of this process.'
+scientific_discipline: Biology and Life Sciences > Molecular Biology

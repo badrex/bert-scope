@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0035'
+revised_title: 'Implementing the Template Model of Vision for Motion Detection'
+semantic_tags:
+  - Visual Processing
+  - Template Model
+  - Motion Detection
+  - Insect Vision
+  - Lateral Inhibition
+tldr: The authors developed a template model of vision for motion detection, inspired by insect vision. The model processes real data from an 8-bit monochrome video camera and measures the range and angular position of contrasting objects. It incorporates principles such as lateral inhibition and contrast saturation to improve motion detection and reduce the influence of intensity in the data.
+scientific_discipline: Biology and Life Sciences > Neuroscience

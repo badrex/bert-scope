@@ -1,0 +1,10 @@
+article_id: rspa_1930_0026
+revised_title: 'Transport and Equilibrium Theories in Conducting Metals'
+semantic_tags:
+  - Electrical Conductivity
+  - Metal Physics
+  - Thermoelectricity
+  - Fermi-Dirac Statistics
+  - Transport Theory
+tldr: The authors discuss the differences between transport and equilibrium theories in understanding the conduction of electricity in metals. They explain that the discrepancies between the two theories arise from the illegitimate application of equilibrium theories to transport problems. The authors also differentiate between phenomena associated with the flow of electricity in closed circuits and those associated with insulated conductors.
+scientific_discipline: Physics > Metal Physics

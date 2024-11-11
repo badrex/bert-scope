@@ -1,0 +1,10 @@
+article_id: 'rsta_1988_0098'
+revised_title: 'Solving Scientific Problems on Multiprocessors: High-Performance MIMD Applications'
+semantic_tags:
+  - Multiprocessors
+  - MIMD
+  - Parallel Computing
+  - Occam Programming Language
+  - Transputer
+tldr: This article discusses the use of multiprocessors, specifically the Occam programming language and transputers, to solve scientific problems with high performance. It presents various applications, such as automatic fingerprint recognition and database searching, and explores different configurations and considerations for achieving optimal performance and integrity in multiprocessor systems.
+scientific_discipline: Engineering and Technology > Computer Science

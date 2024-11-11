@@ -1,0 +1,10 @@
+article_id: rspa_1951_0231
+revised_title: 'Investigation of Work Functions of Copper, Silver, and Aluminium'
+semantic_tags:
+  - Surface Physics
+  - Work Function
+  - Thin Films
+  - Metal Surfaces
+  - Contact Potential Difference
+tldr: 'This study investigates the work functions of copper, silver, and aluminium surfaces by depositing thin films of the metals onto a tungsten substrate. The work functions are measured using a retarding potential method, which involves a low-velocity electron gun. The results show that the work functions of these metals are sensitive to the state of the surface used for the measurement, emphasizing the importance of reproducibility in these experiments.'
+scientific_discipline: Physics > Surface Physics

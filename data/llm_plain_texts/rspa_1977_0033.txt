@@ -1,0 +1,10 @@
+article_id: rspa_1977_0033
+revised_title: Disorder in Nematic Liquid Crystals: Intermolecular Correlations
+semantic_tags:
+  - Liquid Crystals
+  - Nematics
+  - Intermolecular Correlations
+  - Continuum Theory
+  - Molecular Models
+tldr: The article presents a continuum theory of disorder in nematic liquid crystals, focusing on intermolecular correlations. The author derives an expression for the quantity related to the angle between the director at two points in the liquid crystal. The results suggest that continuum theory can be used to estimate the Frank stiffness constants and their dependence on the order parameter, wave number, and temperature. Two molecular models for nematics are discussed, and their predictions are compared with experimental data.
+scientific_discipline: Physics > Materials Science

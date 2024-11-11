@@ -1,0 +1,10 @@
+article_id: rspa_1977_0159
+revised_title: 'Stability and Soliton Solutions of Water Waves Near kh #x2248; 1.363'
+semantic_tags:
+  - Fluid Dynamics
+  - Water Waves
+  - Solitons
+  - Nonlinear Schrodinger Equation
+  - Wave Instability
+tldr: The author investigates the modulation of water waves near kh #x2248; 1.363 and derives a new non-linear Schrodinger equation for the amplitude of the fundamental wave. The study examines the stability of the Stokes wave and the new inequality for stability, which now depends on the wave amplitude. If the wave is unstable, solitons are expected to be produced, and the simplest form of soliton is examined.
+scientific_discipline: Physics > Fluid Dynamics

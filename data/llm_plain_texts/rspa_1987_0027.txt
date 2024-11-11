@@ -1,0 +1,10 @@
+article_id: rspa_1987_0027
+revised_title: Asymptotic Expansions for Coefficient Functions in Turning-Point Problems
+semantic_tags:
+  - Differential Equations
+  - Asymptotic Analysis
+  - Airy Functions
+  - Bessel Functions
+  - Turning-Point Problems
+tldr: The authors study the uniform asymptotic expansion of solutions of second-order linear differential equations, including a turning point, using Airy functions. They focus on the coefficient functions and show that they can be described as descending power series with explicit error bounds. The theory is applied to Bessel functions.
+scientific_discipline: Mathematics > Differential Equations

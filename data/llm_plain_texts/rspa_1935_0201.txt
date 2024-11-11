@@ -1,0 +1,10 @@
+article_id: rspa_1935_0201
+revised_title: Adsorption and Stability of Oxygen Films on Tungsten Surfaces
+semantic_tags:
+  - Surface chemistry
+  - Adsorption
+  - Oxygen films
+  - Tungsten
+  - Heat of adsorption
+tldr: The authors conducted experiments to study the properties of adsorbed oxygen films on tungsten surfaces. They found that the first oxygen film has one atom for each atom of tungsten in the surface, and the heat of adsorption for the first and second films is 134 and 48 kilocalories per mol, respectively. The second oxygen film becomes unstable at around 1 minute at about 400 K, and the heat of desorption is around 30 kilocalories per mol.
+scientific_discipline: Chemistry > Surface chemistry

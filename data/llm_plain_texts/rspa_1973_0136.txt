@@ -1,0 +1,10 @@
+article_id: rspa_1973_0136
+revised_title: Proton-Proton and Proton-Deuteron Elastic Scattering Experiments at N.A.L.
+semantic_tags:
+  - Particle Physics
+  - Nuclear Physics
+  - Accelerator Physics
+  - Elastic Scattering
+  - High Energy Physics
+tldr: The article discusses a study on proton-proton and proton-deuteron elastic scattering experiments conducted at the National Accelerator Laboratory (N.A.L.). The researchers measured differential cross-sections for these scattering processes at various energies and four-momentum transfer ranges. The study also analyzed the slope parameters and the ratio of the real to the imaginary scattering amplitude, providing insights into the energy dependence of these parameters.
+scientific_discipline: Physics > Particle Physics

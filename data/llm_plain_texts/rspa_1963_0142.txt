@@ -1,0 +1,10 @@
+article_id: rspa_1963_0142
+revised_title: 'Rotational Excitation and Elastic Scattering of Homonuclear Diatomic Molecules by Atoms'
+semantic_tags:
+  - Molecular Physics
+  - Scattering Theory
+  - Quantum Mechanics
+  - Diatomic Molecules
+  - Atomic Collisions
+tldr: The authors develop a formal theory of scattering by a rigid rotator to study the rotational excitation and elastic scattering of homonuclear diatomic molecules by atoms. They employ a statistical theory to analyze the effects of strong coupling between different scattering channels. The study provides numerical results for the collision of helium and nitrogen at room temperature, contributing to the understanding of atomic and molecular interactions.
+scientific_discipline: Physics > Molecular Physics

@@ -1,0 +1,10 @@
+article_id: 'rspb_1982_0002'
+revised_title: 'Neural and Non-Neural Acetylcholine Distribution in the Rat Diaphragm'
+semantic_tags:
+  - 'Neurochemistry'
+  - 'Neuromuscular Transmission'
+  - 'Acetylcholine'
+  - 'Denervation'
+  - 'Choline Acetyltransferase'
+tldr: The study analyzes the compartmentalization of acetylcholine (ACh) and choline acetyltransferase in the rat diaphragm by measuring their contents in muscle segments with and without endplates at different times after sectioning the phrenic nerve. The results show that about 70% of ACh is contained in motor nerve terminals, 10% in intramuscular nerve fibers, and the remaining 20% in muscle fibers. About 65% of choline acetyltransferase is in motor terminals, and 35% is in nerve fibers.
+scientific_discipline: Biology and Life Sciences > Neurobiology

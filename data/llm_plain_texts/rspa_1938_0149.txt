@@ -1,0 +1,10 @@
+article_id: rspa_1938_0149
+revised_title: 'Investigation into the Relation of Shower Frequency to General Cosmic-Ray Intensity: The Influence of Light Material on Shower Transition Curves'
+semantic_tags:
+  - Cosmic Rays
+  - Shower Frequency
+  - Light Material Effect
+  - Transition Curves
+  - Particle Physics
+tldr: The authors conducted experiments to investigate the relationship between shower frequency and general cosmic-ray intensity. They found that the presence of light materials, such as stone, over the lead absorber significantly reduces the number of showers and alters the shape of the transition curve. The study concludes that the presence of dense light material over the apparatus influences the number of showers and the shape of the transition curve in three main ways: density transition, atomic number transition, and filtration effect.
+scientific_discipline: Physics > Particle Physics

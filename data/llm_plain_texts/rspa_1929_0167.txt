@@ -1,0 +1,10 @@
+article_id: rspa_1929_0167
+revised_title: 'Kinetics of Ethylene Oxidation: Chain Reactions and Explosive Limits'
+semantic_tags:
+  - Chemical kinetics
+  - Chain reactions
+  - Oxidation
+  - Explosive limits
+  - Ethylene
+tldr: The authors studied the oxidation of ethylene and found that it follows a chain reaction mechanism. They observed that the reaction rate increases with concentration, and at certain concentrations, there is a sharp transition from slow reaction to explosion. The authors also investigated the effect of temperature and pressure on the reaction rate and found that the reaction is highly sensitive to these factors.
+scientific_discipline: Chemistry > Chemical kinetics

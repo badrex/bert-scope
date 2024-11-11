@@ -1,0 +1,10 @@
+article_id: rspa_1961_0075
+revised_title: 'Effects of an Oblate Rotating Atmosphere on Satellite Orbit Orientation'
+semantic_tags:
+  - Celestial Mechanics
+  - Satellite Orbits
+  - Atmospheric Effects
+  - Spacecraft Dynamics
+  - Orbital Perturbations
+tldr: The authors analyze the impact of an oblate rotating atmosphere on the orientation of a satellite orbit. They derive formulae for the changes in the argument of perigee, right ascension of the ascending node, and orbital inclination due to an oblate rotating atmosphere. The study finds that the rotation of the major axis in the orbital plane caused by the atmosphere is significant, particularly for orbital inclinations between 60 and 90 degrees. The total rotation, due to both gravitational potential and the atmosphere, agrees reasonably well with observed values.
+scientific_discipline: Physics > Celestial Mechanics

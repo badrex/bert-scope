@@ -1,0 +1,10 @@
+article_id: 108809
+revised_title: Symbolical Calculus: Third Memoir
+semantic_tags:
+  - Algebra
+  - Mathematical notation
+  - Symbol manipulation
+  - Binomial theorem
+  - Multinomial theorem
+tldr: The author investigates the general case of multiplication in the second system of non-commutative symbols and applies the calculus of symbols to successive differentiation. They also explore the binomial and multinomial theorems, providing a deeper understanding of symbolical multiplication and division.
+scientific_discipline: Mathematics > Algebra

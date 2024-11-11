@@ -1,0 +1,10 @@
+article_id: 102810
+revised_title: 'A New Method for Determining Meridian Line and Time Using the Pole Star'
+semantic_tags:
+  - Astronomy
+  - Timekeeping
+  - Celestial navigation
+  - Instrumentation
+  - Observational astronomy
+tldr: 'Stephen Gray describes an innovative method for drawing the meridian line and finding the hour using only the Pole Star. He proposes an instrument with a telescope, a ring, and an eyepiece to measure the star's position relative to the meridian. This method could be useful for determining latitude and time, and it could be adapted for smaller instruments. Gray also discusses the annual increase of the Pole Star's declination due to the Earth's precession and the Earth's axial tilt.'
+scientific_discipline: Astronomy > Celestial navigation

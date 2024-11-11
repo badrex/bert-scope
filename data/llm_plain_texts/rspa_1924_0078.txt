@@ -1,0 +1,10 @@
+article_id: rspa_1924_0078
+revised_title: 'Fine Structure Analysis of Sodium, Potassium, and Sodium-Potassium Band Spectra'
+semantic_tags:
+  - Spectroscopy
+  - Quantum Theory
+  - Atomic Physics
+  - Alkali Metals
+  - Band Spectra
+tldr: The authors analyzed the fine structure of band spectra of sodium, potassium, and sodium-potassium vapors using the quantum theory. They discovered that the molecules present in these spectra are diatomic and found the moments of inertia and distances between the nuclei of these molecules. The study provides insights into the electronic configurations and chemical properties of alkali metals.
+scientific_discipline: Physics > Atomic Physics

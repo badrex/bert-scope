@@ -1,0 +1,10 @@
+article_id: rspa_1959_0176
+revised_title: 'Expressing Scattering Amplitude in Terms of Complex Eigenvalues'
+semantic_tags:
+  - Quantum Mechanics
+  - Scattering Theory
+  - Resonance States
+  - Complex Eigenvalues
+  - Wave Equations
+tldr: The author presents a method to express the scattering amplitude in terms of complex eigenvalues, which can be used to describe resonance states in scattering processes. The method is applicable to non-relativistic problems and excludes cases where inelastic scattering is possible. The results are useful for understanding and analyzing complex systems in high-energy physics.
+scientific_discipline: Physics > Quantum Mechanics

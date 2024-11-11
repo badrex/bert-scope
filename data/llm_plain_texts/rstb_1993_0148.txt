@@ -1,0 +1,10 @@
+article_id: 'rstb_1993_0148'
+revised_title: 'Plastid Engineering in Land Plants: Advances in Tobacco Model for Genome Manipulation'
+semantic_tags:
+  - 'Plastid Transformation'
+  - 'Genetic Engineering'
+  - 'Tobacco Model'
+  - 'Plastid Genome Manipulation'
+  - 'Crop Improvement'
+tldr: 'The article discusses the development of efficient transformation protocols to modify the plastid genome in tobacco plants. The authors describe the use of spectinomycin resistance as a selection marker and the insertion of foreign genes into the plastid genome through targeting in vitro. These advancements facilitate the study of plastid gene regulation and the application of genetic engineering to crop improvement.'
+scientific_discipline: Biology and Life Sciences > Genetics and Genomics

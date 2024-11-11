@@ -1,0 +1,10 @@
+article_id: rspa_1930_0146
+revised_title: 'Experimental Investigation of Flow Behind Circular Cylinders in Channels'
+semantic_tags:
+  - Fluid Dynamics
+  - Vortex Flow
+  - Wake Formation
+  - Reynolds Number
+  - Boundary Layer
+tldr: This study investigates the flow behind circular cylinders in channels of different breadths, focusing on the formation of vortices and the effect of Reynolds numbers on the flow characteristics. The experiments reveal the influence of channel walls on the dimensions of the Karman street and provide insights into the stability of the vortex flow.
+scientific_discipline: Physics > Fluid Dynamics

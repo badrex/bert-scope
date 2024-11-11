@@ -1,0 +1,10 @@
+article_id: 'rspb_1972_0021'
+revised_title: 'Rapid Reversal of Felton's Paralysis and Evidence for Tolerant Cells'
+semantic_tags:
+  - Immunological tolerance
+  - Tolerant cells
+  - Pneumococcal polysaccharide
+  - Plaque-forming cell assay
+  - B lymphocytes
+tldr: The authors discovered that immune paralysis induced by high doses of pneumococcal polysaccharide in mice can be rapidly reversed. They found that spleen cells from heavily paralyzed animals regained reactivity when transferred into lethally irradiated recipients. This suggests the existence of "tolerant" or paralyzed cells, which can be reversibly blocked by the presence of polysaccharide.
+scientific_discipline: Biology and Life Sciences > Immunology

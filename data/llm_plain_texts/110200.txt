@@ -1,0 +1,10 @@
+article_id: 110200
+revised_title: 'On the Reflection and Decomposition of Light: The Influence of Media Refractive Powers'
+semantic_tags:
+  - Optics
+  - Light reflection
+  - Refraction
+  - Polarization
+  - Undulatory theory of light
+tldr: The author, David Brewster, conducted experiments with prisms and different media to study the reflection and decomposition of light at the separating surfaces of media. He discovered that the reflected light's color changes depending on the refractive powers of the media, and this phenomenon can be explained by the undulatory theory of light. The author also found that the reflective forces at the confines of media of the same refracting power do not follow the same law, and this discovery has implications for understanding the refracting forces of different media.
+scientific_discipline: Physics > Optics

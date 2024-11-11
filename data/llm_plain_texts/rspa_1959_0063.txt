@@ -1,0 +1,10 @@
+article_id: rspa_1959_0063
+revised_title: Ferroelectric Properties and Phase Transitions in Potassium Dihydrogen Phosphate
+semantic_tags:
+  - Ferroelectricity
+  - Crystallography
+  - Phase transitions
+  - Potassium dihydrogen phosphate (KDP)
+  - Ising model
+tldr: The authors study the ferroelectric behavior of potassium dihydrogen phosphate (KDP) and its phase transitions. They find that the hydrogen bonds play a crucial role in the phase transition, while the magnitude of the polarization is determined by the heavy ions. The authors develop a theoretical model based on the Ising model and the hydrogen lattice of KDP to explain the ferroelectric properties and phase transitions in KDP.
+scientific_discipline: Chemistry > Crystallography

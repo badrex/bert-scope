@@ -1,0 +1,10 @@
+article_id: rspa_1912_0009
+revised_title: Mobility of Ions in Gases at High Pressure: A Study of Positive and Negative Ions
+semantic_tags:
+  - Ion mobility
+  - Gas pressure
+  - Ionization
+  - Electrodes
+  - Atmospheric sciences
+tldr: This article investigates the mobility of positive and negative ions in gases at high pressure. The author uses a mathematical expression developed by Prof. Rutherford to measure the mobility of ions in gases at high pressures. The results show that the product of mobility and pressure is constant for negative ions in air, while for positive ions, it remains constant for pressures between 760 mm and 3 mm of mercury. The study also includes experiments with carbon dioxide, showing that the product of mobility and pressure is practically constant up to a pressure of 40 atmospheres.
+scientific_discipline: Physics > Atmospheric Sciences

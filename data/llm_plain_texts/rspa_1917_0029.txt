@@ -1,0 +1,10 @@
+article_id: rspa_1917_0029
+revised_title: 'Analysis of X-Rays Emitted by Various Metals'
+semantic_tags:
+  - X-ray spectroscopy
+  - Metal radiations
+  - Characteristic radiations
+  - Absorption coefficients
+  - Crystal-spectrometer
+tldr: The authors conducted experiments to analyze the composition of X-rays emitted by various metals, such as iron, nickel, copper, aluminum, and platinum. They used a crystal-spectrometer and absorption screens to study the homogeneous components of the X-rays and their absorption coefficients. The results showed that different metals treated the X-rays differently, and the proportion of each radiation present in a beam of rays could be detected and analyzed.
+scientific_discipline: Physics > Optics

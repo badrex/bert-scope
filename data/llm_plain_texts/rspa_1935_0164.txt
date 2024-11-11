@@ -1,0 +1,10 @@
+article_id: rspa_1935_0164
+revised_title: 'Magneto-Optics: A Simplified Approach'
+semantic_tags:
+  - Magneto-Optics
+  - Refractive Tensor
+  - Magneto-Optic Effects
+  - Kerr Effect
+  - Magnetic Gyration
+tldr: The author presents a simplified approach to magneto-optics, focusing on the refractive tensor and its applications in various magneto-optic effects, such as magnetic gyration, magnetic double refraction, and the Kerr effect. The study covers both transparent and opaque substances and considers different magnetization scenarios.
+scientific_discipline: Physics > Electromagnetism

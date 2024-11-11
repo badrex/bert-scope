@@ -1,0 +1,10 @@
+article_id: 'rspa_1952_0190'
+revised_title: 'A Discussion on the Theory of Liquids: Introductory Remarks and Theories of the Liquid State'
+semantic_tags:
+  - Liquid state
+  - Viscosity
+  - Dislocations
+  - Grain boundaries
+  - Interatomic forces
+tldr: This article discusses the properties of liquids and their differences from solids, focusing on the theories of liquid state, viscosity, and the role of dislocations and grain boundaries in their behavior. The author compares various theories and their applications to rare gases and metals, highlighting the differences in interatomic forces and activation energies.
+scientific_discipline: Physics > Materials Science

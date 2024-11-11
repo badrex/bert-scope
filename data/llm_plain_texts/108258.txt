@@ -1,0 +1,10 @@
+article_id: 108258
+revised_title: 'Computation of the Ratio of the Diameter of a Circle to Its Circumference to 208 Places of Figures: A Mathematical Approach'
+semantic_tags:
+  - Mathematics
+  - Number Theory
+  - Approximation
+  - Trigonometry
+  - Circle Geometry
+tldr: The author, William Rutherford, computed the ratio of a circle's diameter to its circumference to 208 decimal places using a series of mathematical formulas and tables. He employed a simplified process of division and combined three series to achieve this level of accuracy. The result was a more precise approximation than previous methods, which had only reached up to 152 decimal places.
+scientific_discipline: Mathematics > Number Theory

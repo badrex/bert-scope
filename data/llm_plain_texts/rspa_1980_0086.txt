@@ -1,0 +1,10 @@
+article_id: rspa_1980_0086
+revised_title: 'Effect of Non-Markovian Terms on Landau Equation: A Homogeneous Plasma Analysis'
+semantic_tags:
+  - Plasma Physics
+  - Non-Markovian Processes
+  - Kinetic Equations
+  - Vlasov Equation
+  - Landau Equation
+tldr: This article examines the effect of non-Markovian terms on the Landau equation, a kinetic equation used to describe the behavior of weakly coupled gases. The authors evaluate non-Markovian terms for a homogeneous plasma using a technique developed by Prigogine and Balescu. They estimate the time span over which these terms are significant and find that for certain conditions, they can be ignored. The study contributes to obtaining methods for solving problems involving weak long-range forces.
+scientific_discipline: Physics > Plasma Physics

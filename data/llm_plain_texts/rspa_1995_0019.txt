@@ -1,0 +1,10 @@
+article_id: rspa_1995_0019
+revised_title: Intraphase and Interphase Mass Transfer Effects in Catalytic Oxidation of CO in a Tube Wall Reactor
+semantic_tags:
+  - Catalysis
+  - Mass transfer
+  - Chemical kinetics
+  - Tubular reactors
+  - Carbon monoxide oxidation
+tldr: The authors conducted experiments to study the effects of intraphase and interphase mass transfer during the catalytic oxidation of CO in a tube wall reactor. They found that low Sherwood and Nusselt numbers reported in previous studies could be caused by intraphase diffusion in the washcoat. The study provides insights into the steady-state kinetics and temperature profiles of CO oxidation in tubular wall reactors, which can help improve the efficiency of catalytic combustion reactions.
+scientific_discipline: Engineering and Technology > Chemical Engineering

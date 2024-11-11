@@ -1,0 +1,10 @@
+article_id: rsta_1983_0019
+revised_title: Correction: Non-convecting Solar Ponds
+semantic_tags:
+  - Solar energy
+  - Fluid dynamics
+  - Heat transfer
+  - Froude number
+  - Reynolds number
+tldr: This article corrects a mathematical error in a previous paper about non-convecting solar ponds. The error was related to the Froude number and Reynolds number calculations. The corrected formula for the depth of the flowing layer is provided, which now aligns with realistic values.
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1950_0171
+revised_title: 'Gamma-Ray Scattering in Extended Media: Perpendicular Incidence on a Plane Slab'
+semantic_tags:
+  - Gamma-Ray Scattering
+  - Compton Effect
+  - Radiation Penetration
+  - Mathematical Methods
+  - Physics of High-Energy Particles
+tldr: The authors studied the scattering of gamma-rays in extended media, focusing on the case of perpendicular incidence on a plane slab. They compared various mathematical methods to find the best approach for solving such problems and analyzing radiation penetration in radiography. The study considered the Compton effect, which is the dominant mechanism for gamma-ray scattering, and discussed the limitations of the methods used.
+scientific_discipline: Physics > Nuclear and Particle Physics

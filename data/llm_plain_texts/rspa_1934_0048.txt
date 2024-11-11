@@ -1,0 +1,10 @@
+article_id: 'rspa_1934_0048'
+revised_title: 'Investigation of Marble's Bending Properties'
+semantic_tags:
+  - Crystallography
+  - Elasticity
+  - Material Science
+  - Geology
+  - Marble
+tldr: 'The author examines the bending properties of marble and discovers that its crystals are not firmly united, leading to varying degrees of elasticity and the possibility of permanent bending due to unsymmetrical heating. This research contributes to understanding the behavior of marble and its applications in construction and art.'
+scientific_discipline: 'Materials Science > Crystallography'

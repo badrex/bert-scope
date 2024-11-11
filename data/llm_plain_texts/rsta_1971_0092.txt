@@ -1,0 +1,10 @@
+article_id: rsta_1971_0092
+revised_title: Energy Levels Calculation for Atoms in Configurations
+semantic_tags:
+  - Atomic Physics
+  - Quantum Mechanics
+  - Spectroscopy
+  - Quantum Defect Theory
+  - Electron Collisions
+tldr: The authors calculated energy levels for atoms in configurations using quantum defect theory and many-channel methods. They compared their results with experimental data and found that their calculations were accurate in most cases. The study enabled them to assess the accuracy of their previous work on collision cross-sections and make semi-empirical adjustments to improve the results.
+scientific_discipline: Physics > Atomic Physics

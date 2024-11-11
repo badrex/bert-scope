@@ -1,0 +1,10 @@
+article_id: 'rsta_1908_0017'
+revised_title: 'The Diurnal Variation of Terrestrial Magnetism and Its Connection to Atmospheric Oscillations'
+semantic_tags:
+  - Magnetism
+  - Atmospheric Oscillations
+  - Barometric Pressure
+  - Solar Radiation
+  - Electromagnetic Forces
+tldr: The author investigates the diurnal variation of terrestrial magnetism and concludes that it has its origin outside the Earth's surface. The study suggests that electric currents in the upper regions of the atmosphere cause the variation. The author also explores the connection between the magnetic and barometric oscillations, finding that they are likely caused by the same general oscillation of the atmosphere. The increased amplitude of the magnetic variation in summer is explained by an increased conductivity due to solar radiation, which may be caused by ultra-violet radiation.
+scientific_discipline: Physics > Electromagnetism

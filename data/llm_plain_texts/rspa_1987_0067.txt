@@ -1,0 +1,10 @@
+article_id: rspa_1987_0067
+revised_title: Cylindrical Wave Diffraction by Rational Wedges: A New Approach
+semantic_tags:
+  - Diffraction Theory
+  - Cylindrical Waves
+  - Wedge Geometry
+  - Green's Functions
+  - Bessel Functions
+tldr: The author presents a new approach to solving the problem of cylindrical wave diffraction by a wedge with rational angles. The solution is expressed in terms of source terms and real integrals representing the diffracted field, and offers a new method for approximating wedges of any angle and evaluating the resulting integrals. This work expands upon previous methods, such as Sommerfeld's use of Riemann surfaces and periodic Green functions, and provides new insights into diffraction theory.
+scientific_discipline: Mathematics > Applied Mathematics

@@ -1,0 +1,10 @@
+article_id: rspa_1977_0125
+revised_title: Molecular Damping of Centrifugal Barrier Effects in Selenium Vapour
+semantic_tags:
+  - Molecular Physics
+  - Photoionization
+  - Atomic and Molecular Spectroscopy
+  - Selenium
+  - Quantum Mechanics
+tldr: The authors conducted experiments on selenium vapour to study the effects of centrifugal barriers on inner shell absorption spectra. They found that molecular damping mainly affects the external waves of the atom, causing a decrease in the -maximum. This discovery helps explain why inner shell absorption spectra of solids may not accurately represent the density of states in the conduction band.
+scientific_discipline: Chemistry > Molecular Physics

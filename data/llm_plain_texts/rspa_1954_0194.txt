@@ -1,0 +1,10 @@
+article_id: rspa_1954_0194
+revised_title: 'Thermionic Emission and Temperature Variation in Monovalent Metals'
+semantic_tags:
+  - Thermionic Emission
+  - Monovalent Metals
+  - Thermodynamics
+  - Surface Physics
+  - Electron Gas
+tldr: This article investigates the thermionic constants of monovalent metals and their temperature variation. The authors show that the energy barrier at the metal surface decreases with increasing temperature due to the thermal expansion of the lattice and increased thermal oscillations of the atoms. This results in a more accurate evaluation of the thermionic emission process and the work function of the metal.
+scientific_discipline: Physics > Thermodynamics

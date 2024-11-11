@@ -1,0 +1,10 @@
+article_id: 'rstb_1994_0110'
+revised_title: 'Fas-based d1OS-mediated Cytotoxicity: Target Cell Death without Macromolecular Synthesis Requirement'
+semantic_tags:
+  - Apoptosis
+  - Fas-based cytotoxicity
+  - T cell-mediated cytotoxicity
+  - Macromolecular synthesis
+  - Target cell death
+tldr: The authors investigated the role of macromolecular synthesis in Fas-based d1OS-mediated cytotoxicity. They found that macromolecular synthesis is required for effector cell activation but not for target cell death, suggesting that already activated effector cells can kill without further macromolecular synthesis requirements.
+scientific_discipline: Biology and Life Sciences > Cell Biology

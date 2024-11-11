@@ -1,0 +1,10 @@
+article_id: 'rsta_1903_0005'
+revised_title: 'Effects of Strain on the Crystalline Structure of Lead'
+semantic_tags:
+  - Crystallography
+  - Metals
+  - Strain
+  - Annealing
+  - Lead
+tldr: The authors conducted experiments on the effects of strain on the crystalline structure of lead. They obtained a lead sample with a large-scale crystalline structure and studied the changes in the structure after applying strain and annealing at low temperatures. The results provided insights into the behavior of metals under stress and the process of crystallization.
+scientific_discipline: Materials Science > Crystallography

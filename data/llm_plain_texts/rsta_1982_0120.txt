@@ -1,0 +1,10 @@
+article_id: rsta_1982_0120
+revised_title: 'Ocean Observation Systems in the 1990s'
+semantic_tags:
+  - Oceanography
+  - Acoustic tomography
+  - Satellite observations
+  - Ocean surface topography
+  - Wind stress
+tldr: The authors discuss the challenges of observing the ocean on a global scale and propose two complementary observation systems: ocean acoustic tomography and satellite observations of sea surface topography and wind stress. These systems could help solve the problem of observing the ocean's dynamics, role in climate, and other ocean-atmosphere phenomena on a basin-wide scale with adequate time and space resolution.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

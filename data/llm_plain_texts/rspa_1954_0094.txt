@@ -1,0 +1,10 @@
+article_id: rspa_1954_0094
+revised_title: 'Gel Formation and Molecular Weight Distribution in Long-Chain Polymers: A Theoretical Approach'
+semantic_tags:
+  - Polymer Chemistry
+  - Gelation
+  - Cross-linking
+  - Molecular Weight Distribution
+  - Polymer Physics
+tldr: This article presents a theoretical derivation of the relationship between the amount of gel formed and the degree of cross-linking in long-chain polymers, considering various initial molecular weight distributions. The authors show that incipient gelling occurs when there is an average of one cross-linked monomer per weight-average molecule. The shape of the gel-cross-linking curve depends on the ratio of the average molecular weight to the weight average. The findings can be applied to determine many of the constants of the molecular weight distribution in the original polymer.
+scientific_discipline: Chemistry > Polymer Chemistry

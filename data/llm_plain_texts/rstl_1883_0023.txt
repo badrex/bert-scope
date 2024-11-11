@@ -1,0 +1,10 @@
+article_id: 'rstl_1883_0023'
+revised_title: 'Determination of Electrostatic Units in Electromagnetic Units of Electricity'
+semantic_tags:
+  - Electromagnetic unit
+  - Electrostatic unit
+  - Electromagnetism
+  - Capacitance
+  - Measurement
+tldr: The authors conducted experiments to determine the number of electrostatic units in the electromagnetic unit of electricity. They used a modified version of Maxwell's method to measure the capacity of a condenser and found that the time constant of the system was very small compared to the time during which the plates of the condenser were connected. This allowed them to calculate the electromagnetic measure of the capacity of the condenser and compare it with the electrostatic measure.
+scientific_discipline: Physics > Electromagnetism

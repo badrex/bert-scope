@@ -1,0 +1,10 @@
+article_id: 'rstb_1971_0041'
+revised_title: 'New Developments in Electron Microscopy for Biology: Specimen Preparation Techniques'
+semantic_tags:
+  - Electron Microscopy
+  - Specimen Preparation
+  - Biology
+  - Biological Structure Preservation
+  - Freeze-Etch Technique
+tldr: This article discusses new developments in electron microscopy with a focus on specimen preparation techniques for biological samples. It highlights the use of physical processing methods, such as the freeze-etch technique, to minimize structural deterioration during dehydration steps. Other techniques mentioned include dark field microscopy, nucleic acid absorption, and autoradiography.
+scientific_discipline: Biology and Life Sciences > Microscopy and Imaging

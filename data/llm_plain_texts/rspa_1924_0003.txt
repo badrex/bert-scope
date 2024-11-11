@@ -1,0 +1,10 @@
+article_id: rspa_1924_0003
+revised_title: 'Investigating the Constitution of X-ray Spectra in the L Series of Elements'
+semantic_tags:
+  - X-ray spectroscopy
+  - Atomic physics
+  - Quantum theory
+  - Relativity
+  - Periodic table
+tldr: The authors studied the X-ray spectra of elements in the L series and found that the wave-length differences between the lines remained constant across all elements. They also discovered that the terms in the frequency formula for the L series should be variables, depending on the number and distribution of electrons in the atom.
+scientific_discipline: Physics > Atomic physics

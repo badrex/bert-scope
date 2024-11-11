@@ -1,0 +1,10 @@
+article_id: rspa_1982_0048
+revised_title: 'Shear Properties of Langmuir-Blodgett Layers: Friction and Interface Shear Strength'
+semantic_tags:
+  - Surface Chemistry
+  - Lubrication
+  - Monolayers
+  - Friction
+  - Interface Shear Strength
+tldr: This study investigates the shear properties of Langmuir-Blodgett layers, focusing on the friction and interface shear strength between highly oriented monolayers. The research uses molecularly smooth mica substrates and various normal aliphatic carboxylic acids and their soaps, deposited with the Langmuir-Blodgett technique. The results show that most monolayers provide a continuous rate of energy dissipation and that the interface shear strength is influenced by contact variables such as normal load, temperature, and sliding velocity.
+scientific_discipline: Physics > Surface Chemistry

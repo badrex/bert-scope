@@ -1,0 +1,10 @@
+article_id: rspa_1931_0085
+revised_title: 'Electron Emission Under Chemical Action: Advances in Pressure Measurement and Alloy Flow'
+semantic_tags:
+  - Electron emission
+  - Chemical reactions
+  - Pressure measurement
+  - Alloy flow
+  - Vacuum technology
+tldr: This article describes the author's research on the emission of electrons under chemical action, focusing on the development of a new method for measuring pressure and controlling the flow of a liquid alloy. The authors designed an improved vacuum system that allowed them to measure pressures as low as 10^-5 mmHg and maintain a constant pressure during experiments. This research contributed to a better understanding of electron emission and the potential applications in technology and science.
+scientific_discipline: Physics > Electricity and Magnetism

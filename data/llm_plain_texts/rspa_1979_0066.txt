@@ -1,0 +1,10 @@
+article_id: rspa_1979_0066
+revised_title: 'Advanced Bending and Torsion Theory for Anisotropic Cantilever Plates'
+semantic_tags:
+  - Solid Mechanics
+  - Anisotropic Materials
+  - Bending and Torsion
+  - Engineering Analysis
+  - Composite Materials
+tldr: The author presents an analysis of the deflection of anisotropic cantilever plates with variable rigidity. The study focuses on rectangular plates with arbitrary chordwise rigidity variations and simple spanwise variations. The author derives a generalized engineering bending/torsion theory that can be applied in the initial design stages of load-bearing structures, such as aircraft wings, with favorable deformation under load.
+scientific_discipline: Engineering and Technology > Solid Mechanics

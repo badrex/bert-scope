@@ -1,0 +1,10 @@
+article_id: rspa_1986_0006
+revised_title: Von Neumann Lattices and Wannier Functions for Bloch Electrons in a Magnetic Field
+semantic_tags:
+  - Quantum Mechanics
+  - Magnetic Fields
+  - Wannier Functions
+  - Bloch Electrons
+  - Renormalization Group
+tldr: The article explores the use of von Neumann lattices and Wannier functions for Bloch electrons in a magnetic field. It demonstrates how to represent these functions using the Weyl-Wigner formalism and shows that when the Chern class of the sub-band is zero, Wannier functions can be represented by a von Neumann lattice. The article also explains how this lattice can be defined for both rational and irrational magnetic fields and discusses the implications of the symmetry preservation in the renormalization group transformation.
+scientific_discipline: Physics > Quantum Mechanics

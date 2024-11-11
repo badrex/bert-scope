@@ -1,0 +1,11 @@
+article_id: rspa_1963_0202
+revised_title: 'Lithium and Sodium Specific Heats: Isotopic Compositions and Phase Transformations'
+semantic_tags:
+  - Thermodynamics
+  - Phase transitions
+  - Lattice specific heat
+  - Isotopic compositions
+  - Sodium
+  - Lithium
+tldr: The authors measured the specific heats of lithium metal with different isotopic compositions and sodium metal in the temperature range of 3 to 30 K. They found that the amount of lithium transformed to the low-temperature phase is not significantly increased by cooling below 30 K, while the amount of sodium transformed is increased. The specific heats of the separated b.c.c. and h.c.p. phases of sodium were deduced, with Debye temperatures of about 90 and 60 K, respectively.
+scientific_discipline: Physics > Thermodynamics

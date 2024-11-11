@@ -1,0 +1,10 @@
+article_id: rspa_1947_0014
+revised_title: 'Hydrogen Bond Behavior and Thermal Properties in KH2PO4 and KH2AsO4 Crystals'
+semantic_tags:
+  - Crystallography
+  - Phase transitions
+  - Thermal properties
+  - Hydrogen bonds
+  - Hybrid crystals
+tldr: The authors studied the behavior of hydrogen bonds in crystals of KH2PO4 and KH2AsO4 at low temperatures. They discovered that these crystals undergo a phase transition, changing from a single crystal to a hybrid crystal composed of subcrystalline units. This transition occurs continuously over a range of temperatures, providing new insights into the thermodynamics of crystals and their phase changes.
+scientific_discipline: Physics > Crystallography

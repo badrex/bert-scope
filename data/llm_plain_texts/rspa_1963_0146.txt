@@ -1,0 +1,10 @@
+article_id: rspa_1963_0146
+revised_title: Wave Propagation and Uniqueness in Prestressed Elastic Solids: A Study of Bi-axial Deformation
+semantic_tags:
+  - Elasticity Theory
+  - Wave Propagation
+  - Bi-axial Deformation
+  - Strong Ellipticity
+  - Uniqueness of Solutions
+tldr: This article investigates wave propagation and uniqueness in prestressed elastic solids, specifically focusing on bi-axial deformation. The author examines the conditions for strong ellipticity in the system of equilibrium equations for the deformation and explores their implications for the displacement boundary-value problem. It is found that strong ellipticity is sufficient but not necessary for uniqueness of solutions.
+scientific_discipline: Mathematics > Applied Mathematics

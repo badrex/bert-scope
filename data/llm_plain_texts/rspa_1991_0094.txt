@@ -1,0 +1,10 @@
+article_id: rspa_1991_0094
+revised_title: 'Dilute Electro-Rheological Fluids: Stress-Strain Rate Relationships and Hysteresis'
+semantic_tags:
+  - Electro-rheological fluids
+  - Fluid mechanics
+  - Electromagnetic fields
+  - Rheology
+  - Hysteresis
+tldr: The authors develop a theory for dilute electro-rheological fluids, focusing on the stress-strain rate relationship in a suspension of conducting spherical particles in a dielectric fluid under a transverse electric field. They find that the relationship is nonlinear and multivalued, leading to hysteresis and catastrophic changes in stress or strain rate under certain conditions. This work contributes to the understanding of electro-rheological fluids and their potential applications.
+scientific_discipline: Physics > Fluid mechanics

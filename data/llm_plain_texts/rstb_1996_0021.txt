@@ -1,0 +1,10 @@
+article_id: 'rstb_1996_0021'
+revised_title: 'Ceramide: A Key Mediator in Apoptosis and Growth Suppression'
+semantic_tags:
+  - 'Cell Signaling'
+  - 'Apoptosis'
+  - 'Ceramide'
+  - 'Sphingolipids'
+  - 'Cell Growth Suppression'
+tldr: 'Ceramide, an endogenous lipid molecule, plays a crucial role in mediating biological responses, including apoptosis and growth inhibition. It regulates protein phosphorylation by stimulating a serine/threonine protein phosphatase and a proline-directed kinase. Ceramide is generated in response to cellular stimulation by hormones and cytokines, making it an essential component of cell signaling pathways.'
+scientific_discipline: Biology and Life Sciences > Cell Biology

@@ -1,0 +1,10 @@
+article_id: rspa_1956_0036
+revised_title: 'Vibrational Band Intensities and the Electrical Anharmonicity of the NH Group: A Study of Complex Molecules'
+semantic_tags:
+  - Molecular Vibrations
+  - Anharmonicity
+  - Intensity of Vibration Bands
+  - Diatomic Molecules
+  - Chemical Bonding
+tldr: The authors measured the intensities of the first overtone vibration bands of the NH group in various complex molecules. They found that the ratio of the intensities of fundamental and first overtone vibrations varies significantly among different types of compounds. By considering the vibrating system as a diatomic molecule, they derived functions for the variation of dipole moment with bond length, revealing interesting correlations with ionic character.
+scientific_discipline: Chemistry > Molecular Spectroscopy

@@ -1,0 +1,10 @@
+article_id: rspa_1993_0082
+revised_title: 'Chapman-Jouguet Deflagration: A Theoretical Analysis and Comparison with Experimental Data'
+semantic_tags:
+  - Deflagration
+  - Chapman-Jouguet (CJ) Deflagration
+  - Shock Waves
+  - Combustion
+  - High-Speed Deflagration
+tldr: The authors analyze Chapman-Jouguet deflagrations, a type of high-speed combustion, and compare their theoretical findings with experimental data. They find that these deflagrations are similar to highly three-dimensional turbulent deflagrations in rough tubes and depend on the energetics of the reacting mixture rather than the flow structure. The study provides a theoretical analysis of a configuration consisting of a plane precursor shock wave driven by a plane CJ deflagration, which agrees well with observations.
+scientific_discipline: Physics > Fluid Dynamics

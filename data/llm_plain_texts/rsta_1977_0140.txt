@@ -1,0 +1,10 @@
+article_id: 'rsta_1977_0140'
+revised_title: 'Advanced Techniques in Scalar Diffraction: Null Field Approach and Approximate Methods'
+semantic_tags:
+  - Diffraction
+  - Physical Optics
+  - Approximation Methods
+  - Wave Scattering
+  - Coordinate Systems
+tldr: This article presents a null field approach to scalar diffraction, focusing on approximate methods for analyzing wave scattering by various bodies. It discusses improvements to physical optics and provides asymptotic expressions for parameters in several separable coordinate systems, such as circular and elliptic cylinder coordinates.
+scientific_discipline: Physics > Optics

@@ -1,0 +1,10 @@
+article_id: 108732
+revised_title: 'Correction of Compass Deviations: The Impact of Compass-Needle Length and Arrangement'
+semantic_tags:
+  - Compass correction
+  - Navigation
+  - Magnetism
+  - Ship technology
+  - Deviation
+tldr: This article discusses the effect of compass-needle length and arrangement on the accuracy of compass deviations. The author presents a new method for correcting the quadrantal deviation caused by the length of the compass-needle and the proximity of iron in ships. The method involves using soft iron masses and magnets to correct the deviation, improving the accuracy of navigation.
+scientific_discipline: Engineering and Technology > Navigation

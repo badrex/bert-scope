@@ -1,0 +1,10 @@
+article_id: rsta_1989_0066
+revised_title: Optical Amplifiers and Their Applications in Wideband Networks
+semantic_tags:
+  - Optical Amplifiers
+  - Wideband Networks
+  - Semiconductor Laser Amplifiers
+  - Raman Fiber Amplifiers
+  - Optical Transmission Systems
+tldr: This article discusses the characteristics and performance of semiconductor laser amplifiers and Raman fiber amplifiers, exploring their potential applications in wideband networks, optical transmission systems, and all-optical processing. The authors highlight the advantages of these amplifiers, such as their wide bandwidths and high gain, and consider their use in various applications, including linear amplification, repeaters, and preamplifiers.
+scientific_discipline: Engineering and Technology > Telecommunications

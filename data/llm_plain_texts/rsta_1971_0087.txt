@@ -1,0 +1,10 @@
+article_id: rsta_1971_0087
+revised_title: 'Thermal Theory of Spontaneous Ignition: Criticality in Bodies of Arbitrary Shape'
+semantic_tags:
+  - Thermal ignition
+  - Criticality
+  - Heat transfer
+  - Mathematical modeling
+  - Solid geometry
+tldr: This article presents a thermal theory of spontaneous ignition, focusing on criticality in bodies of arbitrary shapes. The authors develop mathematical models to analyze heat transfer and ignition conditions in various geometries, providing insights into the critical parameters that determine the likelihood of ignition.
+scientific_discipline: Engineering and Technology > Heat Transfer

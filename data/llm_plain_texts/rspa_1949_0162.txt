@@ -1,0 +1,10 @@
+article_id: rspa_1949_0162
+revised_title: 'Inflammation of Alkyl Nitrate Vapours and the Effect of Inert Diluents'
+semantic_tags:
+  - Chemical Reaction Kinetics
+  - Combustion
+  - Gas-Phase Chemistry
+  - Radical Chain Mechanism
+  - Thermal Decomposition
+tldr: The authors investigated the inflammation of alkyl nitrate vapours, specifically methyl nitrate, ethyl nitrate, and nitroglycerin, and the effect of inert diluents like argon, nitrogen, air, and oxygen. They found that the explosion is not thermal, but due to a chain branching process. The glow region, observed with all three nitrates, occurs at lower pressure and temperature than the explosion region. The glow is facilitated by dilution with inert gases and is associated with the production of excited formaldehyde molecules.
+scientific_discipline: Chemistry > Chemical Reaction Kinetics

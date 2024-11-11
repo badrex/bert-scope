@@ -1,0 +1,10 @@
+article_id: rspa_1973_0036
+revised_title: 'Rubber-Glass Materials: A New Equation of State'
+semantic_tags:
+  - Polymer Science
+  - Rubber Materials
+  - Glass Materials
+  - Elasticity Theory
+  - Network Models
+tldr: This article presents a new equation of state for materials that are intermediate between rubbers and glasses. The model considers a network of flexible long chains with both 'frozen' and'soft' components, allowing for deformation under stress. The new equation of state can be used to describe the behavior of materials with both low and high barriers to internal rotations in their chain backbones.
+scientific_discipline: Chemistry > Polymer Science

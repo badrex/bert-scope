@@ -1,0 +1,10 @@
+article_id: rspa_1955_0208
+revised_title: 'Ionized Film Behavior and Electrolyte Influence on Gaseous Monolayers'
+semantic_tags:
+  - Surface Chemistry
+  - Monolayers
+  - Electrolytes
+  - Surface Potential
+  - Ionized Films
+tldr: The authors studied the effects of electrolytes on ionized films, specifically focusing on the behavior of gaseous monolayers. They found that the surface energy and potential of both cationic and anionic films are influenced by the electrolyte concentration and the nature of the interface. The results provide insights into the interactions between charged monolayers and electrolytes, which can be useful for understanding and optimizing various surface-based applications.
+scientific_discipline: Chemistry > Surface Chemistry

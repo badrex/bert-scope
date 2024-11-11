@@ -1,0 +1,10 @@
+article_id: 111358
+revised_title: Phenomena of Photo-Chemical Induction and Its Applications
+semantic_tags:
+  - Photochemistry
+  - Chemical Induction
+  - Light-Induced Reactions
+  - Catalytic Actions
+  - Photography
+tldr: The authors conducted experiments on photo-chemical induction, a process where light promotes chemical reactions. They discovered that the time it takes for a reaction to start decreases with an increase in light intensity. They also found that the presence of foreign gases can increase the resistance to chemical combination. The authors discussed the potential applications of these findings, including photography and the study of light-induced chemical reactions.
+scientific_discipline: Chemistry > Photochemistry

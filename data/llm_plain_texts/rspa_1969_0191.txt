@@ -1,0 +1,10 @@
+article_id: rspa_1969_0191
+revised_title: 'Surface Wave Frequencies in Canals: Influence of Curvature'
+semantic_tags:
+  - Fluid dynamics
+  - Canal waves
+  - Curvature effects
+  - Eigenvalues
+  - Fluid mechanics
+tldr: The authors study the dependence of surface wave frequencies in a canal on the curvature of its cross-sectional shape. They derive an equation for the coefficient of the large eigenvalues and test its accuracy by calculating eigenvalues for a semicircular canal. The results provide insight into the behavior of surface waves in canals with different cross-sectional curvatures.
+scientific_discipline: Environmental and Earth Sciences > Fluid mechanics

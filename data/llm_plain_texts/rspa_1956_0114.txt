@@ -1,0 +1,10 @@
+article_id: rspa_1956_0114
+revised_title: Spectroscopic Analysis of High-Pressure Flames
+semantic_tags:
+  - Spectroscopy
+  - High-Pressure Flames
+  - Flame Chemistry
+  - Flame Spectra
+  - Gas Radiation
+tldr: This study investigates the spectroscopic properties of gaseous flames at high pressures, focusing on premixed and diffusion flames. The research finds that at high pressures, the equipartitioning of energy from chemical reactions is faster, leading to the suppression of unstable radicals. Additionally, continuous gas radiation and emission from carbon particles become more predominant at higher pressures, while the radiation of oxygen flames is mainly determined by the increase in flame temperature.
+scientific_discipline: Physics > Optics

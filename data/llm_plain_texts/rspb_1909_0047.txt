@@ -1,0 +1,10 @@
+article_id: 'rspb_1909_0047'
+revised_title: 'Elasticity of Rubber Balloons and Hollow Viscera: Exploring Initial Rigidity'
+semantic_tags:
+  - Rubber elasticity
+  - Viscera mechanics
+  - Initial rigidity
+  - Balloon experiments
+  - Hooke's law
+tldr: The authors conducted experiments with rubber balloons and hollow viscera to study their elastic behavior. They discovered that an initial rigidity factor affects the pressure and radius relationship in balloons, which cannot be explained by traditional elasticity theories. This research helps to understand the mechanics of hollow organs and improve the study of elasticity in materials.
+scientific_discipline: Physics > Mechanics

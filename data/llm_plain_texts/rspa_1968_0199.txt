@@ -1,0 +1,10 @@
+article_id: rspa_1968_0199
+revised_title: 'Laser Raman Spectroscopy: Applications and Challenges in Single Crystal Analysis'
+semantic_tags:
+  - Raman spectroscopy
+  - Crystallography
+  - Vibrational modes
+  - Laser excitation
+  - Crystal analysis
+tldr: This article discusses the use of laser Raman spectroscopy for analyzing single crystals. The technique involves examining the Raman spectra of crystals using laser excitation, which can provide valuable information about their vibrational modes, crystal structure, and molecular composition. The authors outline the importance of this method for studying various crystals, including its potential for solving complex structures like molybdenum trioxide. They also address challenges such as birefringence, crystal imperfections, and the resonance Raman effect, and provide recommendations for optimizing the experimental setup and data interpretation. 
+scientific_discipline: Physics > Optics

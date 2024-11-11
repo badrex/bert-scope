@@ -1,0 +1,10 @@
+article_id: rspa_1908_0100
+revised_title: 'Investigating Anomalies in Diffracted Spectra Intensity'
+semantic_tags:
+  - Diffraction
+  - Grating
+  - Electromagnetic waves
+  - Bessel functions
+  - Resonance
+tldr: The author investigates the intensity of diffracted spectra and the behavior of electric forces in grating systems. They discuss the dark and bright lines that occur in the spectra and the effects of varying the angle of incidence. The study also explores the resonance phenomenon and the behavior of Bessel functions in the context of grating systems.
+scientific_discipline: Physics > Electromagnetism

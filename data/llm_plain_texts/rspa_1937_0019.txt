@@ -1,0 +1,10 @@
+article_id: rspa_1937_0019
+revised_title: 'Energy Exchange Between Gases and Solids: A Theoretical Study'
+semantic_tags:
+  - Thermodynamics
+  - Surface Chemistry
+  - Gas-Solid Interactions
+  - Accommodation Coefficient
+  - Morse Potential Function
+tldr: This article discusses the energy exchange between gases and solids, focusing on the interaction between gas atoms and solid surfaces. The authors develop a theoretical framework using the Morse potential function to describe the interaction between gas and solid atoms. They also introduce the concept of the thermal accommodation coefficient, which measures the rate of energy exchange between a gas and a solid. The authors apply their model to experimental results involving helium and neon on tungsten surfaces, providing insights into the factors affecting energy exchange in these systems.
+scientific_discipline: Physics > Thermodynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1912_0080
+revised_title: 'Investigation of the Mercury Green Line and its Satellites using Echelon Grating'
+semantic_tags:
+  - Spectroscopy
+  - Echelon Grating
+  - Mercury Spectrum
+  - Zeeman Effect
+  - Line Broadening
+tldr: The author conducted experiments using an echelon grating to study the structure of the mercury green line and its satellites. They discovered that the satellites have a clear definition and can be resolved into different components. The author also observed changes in the structure of the green line when using different light sources and investigated the Zeeman effect on the satellites under strong magnetic fields.
+scientific_discipline: Physics > Optics

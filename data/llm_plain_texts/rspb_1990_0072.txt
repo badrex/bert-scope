@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0072'
+revised_title: 'Analytic Solutions for Daily Primary Production by Phytoplankton'
+semantic_tags:
+  - Phytoplankton
+  - Primary production
+  - Photosynthesis
+  - Oceanography
+  - Aquatic systems
+tldr: 'The article presents an exact (analytic) solution for the daily rate of water-column primary production by phytoplankton, considering the effects of photoinhibition. The solution is useful for understanding primary production in aquatic systems, interpreting remotely sensed data on ocean color, and modeling biogeochemical fluxes for climatic research.'
+scientific_discipline: Environmental and Earth Sciences > Oceanography

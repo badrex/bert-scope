@@ -1,0 +1,10 @@
+article_id: rspa_1988_0100
+revised_title: Equivalent Spherical Diameter for Particle Size Measurement
+semantic_tags:
+  - Particle size analysis
+  - Equivalent spherical diameter
+  - Particle shape
+  - Particle size measurement methods
+  - Particle characterization
+tldr: The article discusses the concept of the equivalent spherical diameter for measuring particle size and its application in analyzing non-spherical particles. It compares various methods like sedimentation, rotary diffusion, and light scattering for determining the equivalent spherical diameter and highlights the importance of understanding particle shape and axial ratio for accurate size measurements.
+scientific_discipline: Physics > Optics

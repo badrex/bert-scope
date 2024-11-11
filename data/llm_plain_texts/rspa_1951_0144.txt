@@ -1,0 +1,10 @@
+article_id: rspa_1951_0144
+revised_title: 'Vibrational and Rotational Intensity Distribution in OH Bands: Predissociation in Flames'
+semantic_tags:
+  - Spectroscopy
+  - Flame Chemistry
+  - Predissociation
+  - OH Bands
+  - Rotational Intensity Distribution
+tldr: The authors studied the rotational and vibrational intensity distribution in the spectrum of OH bands in flames. They discovered a weak predissociation effect, which affects the higher rotational energy levels and has implications for using OH bands for rotational intensity measurements and understanding the vibrational intensity distribution in flame spectra.
+scientific_discipline: Chemistry > Spectroscopy

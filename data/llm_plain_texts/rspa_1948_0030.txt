@@ -1,0 +1,10 @@
+article_id: rspa_1948_0030
+revised_title: Lattice Spacings of Solid Solutions of Different Elements in Aluminium
+semantic_tags:
+  - Solid solutions
+  - Lattice spacings
+  - Aluminium alloys
+  - Crystallography
+  - Metallic solid solutions
+tldr: The authors investigated the lattice spacings of solid solutions of various elements in aluminium. They found that the lattice of aluminium expands when magnesium or germanium is dissolved, and contracts when lithium, silicon, copper, or zinc is dissolved. The study also discusses the differences in atomic diameter values of solute elements when dissolved in different solvents, suggesting that these differences are controlled by four factors: relative volume per valency electron, relative radii of ions, Brillouin zone effects, and the difference in the electrochemical series between the solvent and solute.
+scientific_discipline: Chemistry > Materials Science

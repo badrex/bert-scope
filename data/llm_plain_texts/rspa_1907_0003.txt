@@ -1,0 +1,10 @@
+article_id: 'rspa_1907_0003'
+revised_title: 'Advanced Combinatorics and Symmetric Functions in Number Theory'
+semantic_tags:
+  - Combinatorics
+  - Symmetric Functions
+  - Number Theory
+  - Mathematical Analysis
+  - Differential Operators
+tldr: 'The author investigates the compositions of numbers using a pack of cards and the calculus of symmetric functions. They develop a new symmetric function and explore the properties of compositions and conjugate compositions. This work contributes to the understanding of combinatorics and number theory.'
+scientific_discipline: Mathematics > Combinatorics

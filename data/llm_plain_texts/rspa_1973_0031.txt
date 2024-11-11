@@ -1,0 +1,10 @@
+article_id: rspa_1973_0031
+revised_title: Spin-Orbit Splitting and g Tensors in Small Molecules and Radicals
+semantic_tags:
+  - Quantum Chemistry
+  - Molecular Physics
+  - Spin-Orbit Coupling
+  - Hamiltonian
+  - Molecular Electronic Structure
+tldr: The authors present a theoretical and computational approach to calculate spin-orbit splitting and g tensors in small molecules and radicals using ab initio methods. They employ a more complete Hamiltonian and develop new methods for evaluating matrix elements, which are then applied to several small molecules and radicals. The results show good agreement with experimental data and provide a basis for semi-empirical procedures that can be applied to larger molecules.
+scientific_discipline: Physics > Quantum Chemistry

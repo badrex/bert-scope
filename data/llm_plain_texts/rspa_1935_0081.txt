@@ -1,0 +1,10 @@
+article_id: rspa_1935_0081
+revised_title: Theoretical Determination of Lift Coefficient for Thin Elliptic Cylinder
+semantic_tags:
+  - Fluid Dynamics
+  - Boundary Layer Theory
+  - Lift Coefficient
+  - Elliptic Cylinder
+  - Vorticity
+scientific_discipline: Physics > Fluid Mechanics
+tldr: This article investigates the lift coefficient of an infinitely long, thin elliptic cylinder in a stream of viscous fluid. The author uses a general method to calculate the lift coefficient and discusses three cases: a fully laminar boundary layer, a fully turbulent boundary layer, and a boundary layer with both laminar and turbulent portions. The results provide a theoretical determination of the circulation in the irrotational flow past the cylinder, which is essential for understanding the lift coefficient.

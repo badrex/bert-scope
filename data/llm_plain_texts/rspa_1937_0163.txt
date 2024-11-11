@@ -1,0 +1,10 @@
+article_id: rspa_1937_0163
+revised_title: Quantitative Spectrographic Analysis of Fresh Plant Tissue
+semantic_tags:
+  - Spectrography
+  - Plant Analysis
+  - Internal Standard Method
+  - Photometer
+  - Boron Determination
+tldr: The authors developed a method for quantitative spectrographic analysis of fresh plant tissue without ashing or chemical treatment. They applied this method to determine boron content, using a photometer designed to measure line intensities accurately. This technique has general applicability for analyzing various biological materials.
+scientific_discipline: Chemistry > Analytical Chemistry

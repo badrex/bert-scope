@@ -1,0 +1,10 @@
+article_id: rspa_1976_0076
+revised_title: Stress Accumulation and Earthquake Dynamics on the San Andreas Fault
+semantic_tags:
+  - Earthquake mechanics
+  - Plate tectonics
+  - Geodynamics
+  - Seismology
+  - Fault mechanics
+tldr: This article presents an elastostatic model to study stress accumulation on the San Andreas fault, which is caused by lateral motion between the Pacific and Americas plates. The authors analyze two boundary-value problems to understand the processes involved in stress accumulation and release, providing insights into the dynamics of earthquakes on the fault.
+scientific_discipline: Earth Sciences > Geodynamics

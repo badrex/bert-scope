@@ -1,0 +1,10 @@
+article_id: rspl_1875_0041
+revised_title: Electrolysis and the Behavior of Molecules in the Vicinity of Electrodes
+semantic_tags:
+  - Electrochemistry
+  - Molecular behavior
+  - Electrodes
+  - Polarization
+  - Grotthus's view
+tldr: The author conducted experiments to study the behavior of molecules in the vicinity of electrodes during electrolysis. They found that the molecules near the positive and negative poles have different polarization levels, and the electric influence spreads out in the electrolyte, similar to the magnetic field. This research helps to understand the physical processes involved in electrolysis and unites different types of electricity.
+scientific_discipline: Chemistry > Electrochemistry

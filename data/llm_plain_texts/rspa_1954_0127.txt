@@ -1,0 +1,10 @@
+article_id: rspa_1954_0127
+revised_title: Modes of Decomposition of n-Pentane: Pressure Changes and Mass Spectrometric Analysis
+semantic_tags:
+  - Organic Chemistry
+  - Mass Spectrometry
+  - Reaction Kinetics
+  - Thermal Decomposition
+  - Paraffins
+tldr: The authors conducted a series of experiments to analyze the products formed in the nitric-oxide-inhibited decomposition of n-pentane. They used mass spectrometry to study the relationship between pressure changes and the amounts of various products, such as methane, propylene, and ethylene. The results showed that the proportions of these products remained constant over a wide range of temperatures and pressures, confirming previous findings about the kinetics of paraffin decomposition.
+scientific_discipline: Chemistry > Organic Chemistry

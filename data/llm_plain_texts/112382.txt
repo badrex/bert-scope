@@ -1,0 +1,10 @@
+article_id: 112382
+revised_title: Preliminary Comparison of Kew and Stonyhurst Declination Magnetograph Curves
+semantic_tags:
+  - Magnetism
+  - Geomagnetism
+  - Observatory
+  - Declination
+  - Magnetic disturbances
+tldr: This article compares the results of the Kew and Stonyhurst declination magnetographs, which measure Earth's magnetic field. The authors find that while most disturbances are similar, there are some differences that may be due to local factors. They also observe that the differences between the two observatories tend to increase with the abruptness of the disturbances.
+scientific_discipline: Earth Sciences > Geomagnetism

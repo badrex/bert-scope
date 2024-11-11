@@ -1,0 +1,10 @@
+article_id: rspa_1953_0184
+revised_title: 'Integration of Transonic Flow Equations in Two Dimensions'
+semantic_tags:
+  - Fluid Dynamics
+  - Transonic Flow
+  - Compressible Flow
+  - Aerofoil Design
+  - Mach Number
+tldr: The authors present a method for integrating the equations of transonic flow in two dimensions. They transform the equation for the velocity potential of compressible flow into complex coordinates and integrate it under the assumption that compressibility can be considered as a perturbation effect on incompressible flow. The integration leads to an algebraic equation that can be evaluated at any given point in the fluid. The method is applied to a circular cylinder and an aerofoil, showing satisfactory agreement with previous solutions.
+scientific_discipline: Physics > Fluid Dynamics

@@ -1,0 +1,10 @@
+article_id: rspa_1983_0057
+revised_title: 'Skylab 1's Final 14 Days: Orbit Determination and Analysis'
+semantic_tags:
+  - Spacecraft Orbit
+  - Satellite Tracking
+  - Atmospheric Density
+  - Orbit Determination
+  - Skylab Mission
+tldr: The authors analyzed the orbit of Skylab 1 during its final 14 days, determining daily orbits and studying the effects of atmospheric density on the satellite's orbit. They found that the variations in the orbit were in line with the theory for an atmosphere with day-to-night variations in density. The study provided valuable insights into the behavior of satellites in orbit and the impact of atmospheric conditions on their orbits.
+scientific_discipline: Environmental and Earth Sciences > Space Science

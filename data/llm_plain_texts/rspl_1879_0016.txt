@@ -1,0 +1,10 @@
+article_id: rspl_1879_0016
+revised_title: Heat Conduction in Ellipsoids of Revolution
+semantic_tags:
+  - Heat conduction
+  - Ellipsoids
+  - Mathematical physics
+  - Thermodynamics
+  - Revolution
+tldr: The authors investigate the mathematical expressions involved in the problem of heat conduction in ellipsoids of revolution. They demonstrate how to find the values of certain equations and coefficients, and discuss the boundary conditions and expansion forms for the problem. The paper also includes a proof of a key theorem and the calculation of coefficients for the expansion of certain functions.
+scientific_discipline: Physics > Thermodynamics

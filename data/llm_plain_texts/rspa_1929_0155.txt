@@ -1,0 +1,10 @@
+article_id: rspa_1929_0155
+revised_title: High-Pressure Gaseous Combustion: Molecular Heats of Nitrogen, Steam, and Carbon Dioxide
+semantic_tags:
+  - High-pressure combustion
+  - Molecular heat
+  - Nitrogen
+  - Steam
+  - Carbon dioxide
+tldr: This study investigates the molecular heats of nitrogen, steam, and carbon dioxide at high temperatures through gaseous combustion experiments at high pressures. The authors found that the mean molecular heats of these gases increase with pressure, and they provide a comparison of their results with other molecular heat determinations for these gases over a wide temperature range.
+scientific_discipline: Chemistry > Thermodynamics

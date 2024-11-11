@@ -1,0 +1,10 @@
+article_id: 'rspb_1983_0009'
+revised_title: 'Regulation of Alcohol Dehydrogenase and Aldehyde Dehydrogenase in Aspergillus nidulans'
+semantic_tags:
+  - Genetics
+  - Fungal Metabolism
+  - Alcohol Dehydrogenase
+  - Aldehyde Dehydrogenase
+  - Gene Regulation
+tldr: This study investigates the regulation of alcohol dehydrogenase (ADH) and aldehyde dehydrogenase (AldDH) in the fungus Aspergillus nidulans. Both enzymes are induced by ethanol and acetaldehyde and are subject to carbon catabolite repression. The authors find that these enzymes are necessary for the utilization of ethanol and threonine, indicating that both compounds are metabolized through acetaldehyde. The regulation of ADH and AldDH appears to occur at the level of transcription and/or post-transcriptional modification. The authors also identify the genes responsible for encoding these enzymes and describe their function in the metabolic pathway.
+scientific_discipline: Biology and Life Sciences > Genetics

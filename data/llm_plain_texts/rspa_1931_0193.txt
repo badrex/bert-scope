@@ -1,0 +1,10 @@
+article_id: rspa_1931_0193
+revised_title: 'Experimental Study of the Rate of Dissociation of Salt Hydrates: The Reaction CuSO\lt;sub\gt;4\lt;/sub\gt;.5H'
+semantic_tags:
+  - Salt Hydrates
+  - Dissociation
+  - Reaction Kinetics
+  - Temperature Coefficient
+  - Water Vapour Sensitivity
+tldr: This study investigates the rate of dissociation of salt hydrates, specifically the reaction of CuSO4.5H, and its sensitivity to water vapor. The authors found that the rate of decomposition is affected by the presence of water molecules in the reaction zone, which influences the measured rate and complicates the measurement process. The research also discusses the temperature of the solid during the reaction and the limitations of the measurements.
+scientific_discipline: Chemistry > Physical Chemistry

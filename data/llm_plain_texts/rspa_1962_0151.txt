@@ -1,0 +1,10 @@
+article_id: rspa_1962_0151
+revised_title: Analyzing Internal Conversion and Molecular Potential Energy Surfaces
+semantic_tags:
+  - Quantum Mechanics
+  - Molecular Physics
+  - Internal Conversion
+  - Potential Energy Surfaces
+  - Landau-Zener Formula
+tldr: The authors re-examine the Landau-Zener formula, which describes the probability of electronic jumps near the crossing point of two potential energy curves in molecules. They present a new formula for different cases of transitions and discuss the limitations of the original formula. The study focuses on internal conversion, predissociation, and scattering problems in molecular physics.
+scientific_discipline: Physics > Quantum Mechanics

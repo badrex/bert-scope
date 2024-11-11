@@ -1,0 +1,10 @@
+article_id: 'rstb_1992_0106'
+revised_title: 'Insect-Inspired Robot Navigation: Natural and Artificial Low-Level Seeing Systems'
+semantic_tags:
+  - Robotics
+  - Insect Vision
+  - Neural Networks
+  - Mobile Robots
+  - Visual Navigation
+tldr: The authors explore the use of insect vision and neural networks to design a mobile robot that can navigate and avoid obstacles in real-time. By mimicking the principles of insect vision, such as the use of elementary motion detectors and parallel computation, the robot can effectively steer through complex environments. This approach offers valuable insights for the development of mobile robots with improved navigation capabilities.
+scientific_discipline: Robotics > Mobile Robots

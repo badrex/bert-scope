@@ -1,0 +1,10 @@
+article_id: rspa_1952_0142
+revised_title: 'Perturbation Method for Dirac's New Electrodynamics'
+semantic_tags:
+  - Dirac's Electrodynamics
+  - Perturbation Theory
+  - Electromagnetic Field
+  - Vortical Motion
+  - Approximation Methods
+tldr: The article presents a perturbation method for solving Dirac's new electrodynamics, which cannot be solved using the conventional perturbation method. The method assumes that the charge is small, meaning the field created by the charge is neglected in the zero-order approximation. The author provides solutions for the simplified irrotational case and the general case with small vorticity, but the method does not work for cases with significant vorticity.
+scientific_discipline: Physics > Electromagnetism

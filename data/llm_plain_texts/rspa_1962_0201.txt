@@ -1,0 +1,10 @@
+article_id: 'rspa_1962_0201'
+revised_title: 'Theoretical Study of Polydisperse Polymer System Degradation'
+semantic_tags:
+  - Polymer Chemistry
+  - Polymer Degradation
+  - Statistical Mechanics
+  - Combinatorial Theory
+  - Polymer Statistics
+tldr: 'The authors extended their combinatorial treatment to study the degradation of a polydisperse polymer system. They investigated changes in the statistical character of various distributions and developed a scheme to handle distributions known through low-order moments. The authors also considered the inverse problem of determining the initial distribution from the weight-average chain length at different degradation stages.'
+scientific_discipline: Chemistry > Polymer Chemistry

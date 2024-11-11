@@ -1,0 +1,10 @@
+article_id: rspa_1967_0069
+revised_title: Sticking Probabilities, Heats of Adsorption, and Redistribution Processes of Nitrogen on Tungsten Films
+semantic_tags:
+  - Surface Science
+  - Adsorption
+  - Tungsten Films
+  - Nitrogen
+  - Sticking Probabilities
+tldr: The authors conducted a kinetic investigation of the interaction between nitrogen and evaporated tungsten films under ultra-high vacuum conditions. They found that sticking probabilities for a clean film were higher than for filaments or sheets, due to multiple collisions at the film surface. The study also characterized a redistribution process between the outer and inner surfaces of the film and an activated conversion from weakly bound to strongly bound states. This research provides valuable insights into the adsorption process and surface structure of tungsten films.
+scientific_discipline: Chemistry > Surface Science

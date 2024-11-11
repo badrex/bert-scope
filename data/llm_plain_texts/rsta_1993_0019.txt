@@ -1,0 +1,10 @@
+article_id: 'rsta_1993_0019'
+revised_title: 'Electron Irradiation and Heat Treatment Effects on CVD Diamond'
+semantic_tags:
+  - Diamond physics
+  - Raman spectroscopy
+  - Photoluminescence
+  - Electron irradiation
+  - Heat treatment
+tldr: The authors studied the effects of electron irradiation and heat treatment on polycrystalline CVD diamond films. They used Raman spectroscopy and photoluminescence to analyze the changes in the films' properties. The results showed that the A and B Raman components were reduced in intensity after electron irradiation, and returned to their original strength after heating at 600°C. The Raman scattering species interact with other point defects in the CVD films during heat treatment, and may be related to the presence of silicon in the diamond film.
+scientific_discipline: Physics > Materials Science

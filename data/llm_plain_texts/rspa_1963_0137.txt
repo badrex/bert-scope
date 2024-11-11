@@ -1,0 +1,10 @@
+article_id: 'rspa_1963_0137'
+revised_title: 'Proton Ionization in the Energy Range 100 to 450 keV: Experimental Results and Discussion'
+semantic_tags:
+  - Nuclear Physics
+  - Ionization
+  - Proton Interactions
+  - Auroral Processes
+  - Thermonuclear Devices
+tldr: This study investigates proton ionization in the energy range of 100 to 450 keV, focusing on its importance in understanding auroral and upper-atmospheric collision processes and the design of high-energy injection systems for thermonuclear devices. The authors present experimental results and discuss the ionization cross-section for protons in hydrogen and krypton, comparing their findings with previous research and theoretical predictions.
+scientific_discipline: Physics > Nuclear Physics

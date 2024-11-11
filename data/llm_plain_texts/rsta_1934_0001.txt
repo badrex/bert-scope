@@ -1,0 +1,10 @@
+article_id: rsta_1934_0001
+revised_title: An Extension of Waring's Problem: Improvements and Generalizations
+semantic_tags:
+  - Number Theory
+  - Mathematical Analysis
+  - Algebraic Geometry
+  - Diophantine Equations
+  - Hardy-Littlewood Method
+tldr: This article presents an extension of Waring's problem, which deals with the representation of large numbers as sums of k-th powers. The authors develop two methods to discuss this problem, one based on the Hardy method and the other on the Vinogradov method. They improve upon previous results and provide new insights into the representation of numbers as sums of powers. The findings have implications for number theory, algebraic geometry, and Diophantine equations.
+scientific_discipline: Mathematics > Number Theory

@@ -1,0 +1,10 @@
+article_id: rspa_1950_0181
+revised_title: 'The Viscosity of Liquid Helium Between 2 and 5 Degrees Kelvin'
+semantic_tags:
+  - Cryogenics
+  - Viscosity
+  - Liquid Helium
+  - Low Temperature Physics
+  - Superfluidity
+tldr: The authors measured the viscosity of liquid helium between 2 and 5 Kelvin using a flow method. They found that the coefficient of viscosity decreases with decreasing temperature over the whole range. A notable feature is a sharp drop in viscosity above the A-point, which coincides with an anomalous fall in entropy in the same temperature interval. The results show that the viscosity of liquid helium is not known in sufficient detail in the temperature range from 2.19 to 2.6 Kelvin to allow comparison with the entropy curve.
+scientific_discipline: Physics > Cryogenics

@@ -1,0 +1,10 @@
+article_id: 'rspa_1905_0057'
+revised_title: 'Magnetic Declination Survey at the Royal Alfred Observatory, Mauritius'
+semantic_tags:
+  - Geomagnetism
+  - Magnetic declination
+  - Observatory
+  - Surveying
+  - Magnetic field measurements
+tldr: 'The author conducted a survey of magnetic declination at the Royal Alfred Observatory, Mauritius, using a 12-inch theodolite and a magnet mounted on a teak table. They discovered three foci where the declination changed rapidly and found that the true undisturbed value of the declination at the observatory was about 9°45′, which was different from the value obtained on the old pier.'
+scientific_discipline: 'Earth Sciences > Geomagnetism'

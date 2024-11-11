@@ -1,0 +1,10 @@
+article_id: 'rspb_1993_0002'
+revised_title: 'Role of Large-Conductance K+ Channels in Human Myometrium During Pregnancy and Labour'
+semantic_tags:
+  - Ion channels
+  - Myometrial activity
+  - Pregnancy
+  - Labour
+  - Obstetrics and Gynaecology
+tldr: The study investigates the properties of large-conductance K+ channels in human myometrium during pregnancy and labour. The researchers found that these channels have different conductance and properties in labour tissue compared to non-labour tissue. The large-conductance K+ channels may play a role in suppressing myometrial activity during gestation, while other K+ channels may provide a Ca2+-independent K+ conductance that allows cytoplasmic Ca2+ levels to rise without activating a counteracting current. This suggests that K+ channels may have an important role in determining the functional activity of the myometrium.
+scientific_discipline: Biology and Life Sciences > Physiology

@@ -1,0 +1,10 @@
+article_id: 'rstb_1982_0142'
+revised_title: 'Anion Binding and Transport in Living Tissues: The Case of Chloride Ions in Chara Corallina'
+semantic_tags:
+  - Ion channels
+  - Chloride ions
+  - Membrane potential
+  - Electrophysiology
+  - Plant cells
+tldr: The study investigates the binding and transport of chloride ions in the freshwater alga Chara corallina. The authors found that the action potential in Chara cells is slower than in nerve cells by about 1000-fold. Voltage-clamp studies show that the current can be described by the Hodgkin-Huxley equations for the squid axon, with a time delay between the stimulus and the onset of excitation. Temperature and potential dependence of the delays and activation/inactivation time constants are discussed.
+scientific_discipline: Biology and Life Sciences > Plant Biology

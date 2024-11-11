@@ -1,0 +1,10 @@
+article_id: rspa_1964_0139
+revised_title: WKB Approximation for Bloch Electrons and Interband Tunnelling
+semantic_tags:
+  - Quantum Mechanics
+  - Bloch Waves
+  - Wave Equation
+  - Interband Tunnelling
+  - Effective Mass Approximation
+tldr: The authors develop a WKB approximation for Bloch electrons with a periodic potential and a slowly varying potential field. They introduce a pair of auxiliary functions that satisfy a pair of coupled first-order differential equations, which are used to calculate interband tunnelling probability. This method extends the effective-mass approximation for the case of varying energy in allowed bands.
+scientific_discipline: Physics > Quantum Mechanics

@@ -1,0 +1,10 @@
+article_id: rspa_1978_0049
+revised_title: Prolongation Structures of Nonlinear Evolution Equations
+semantic_tags:
+  - Lie Algebras
+  - Nonlinear Partial Differential Equations
+  - Inverse Method
+  - Backlund Transformations
+  - Soliton Properties
+tldr: The authors present a method to obtain prolongation structures for a class of nonlinear evolution equations solvable by the inverse method of Ablowitz, Kaup, Newell, and Segur. They demonstrate how to deduce Backlund transformations from the invariance properties of associated Lie algebras and vector fields induced on a manifold. This method helps understand the underlying algebraic structure of the equations and can be applied to equations with soliton properties.
+scientific_discipline: Mathematics > Lie Algebras

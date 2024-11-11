@@ -1,0 +1,10 @@
+article_id: 'rstb_1940_0003'
+revised_title: 'Flight Mechanics of the Dipterous Fly Muscina Stabulans'
+semantic_tags:
+  - Insect flight
+  - Aerodynamics
+  - Diptera
+  - Flight system
+  - Antennae
+tldr: The study investigates the flight mechanics of the dipterous fly Muscina stabulans, focusing on the aerodynamics and the role of the airflow in determining behavior. The research compares the flight system under natural conditions of free flight and when the insect is held stationary, analyzing the forces acting on the insect and the importance of antennae in flight. The findings contribute to understanding insect flight and its adaptations.
+scientific_discipline: Biology and Life Sciences > Insect Physiology

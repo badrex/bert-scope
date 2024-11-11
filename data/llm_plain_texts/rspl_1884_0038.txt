@@ -1,0 +1,10 @@
+article_id: rspl_1884_0038
+revised_title: Experiments on the Discharge of Electricity through Gases and the Breakup of Molecules
+semantic_tags:
+  - Electricity
+  - Gas Discharge
+  - Molecule Breakup
+  - Mercury Vapour
+  - Electrification
+tldr: The author conducted experiments on the discharge of electricity through gases, focusing on mercury vapour. They discovered that the passage of electricity through gases involves the breakup of molecules and the formation of unstable compounds like ozone. This theory explains the asymmetry of the glow discharge and other phenomena in the passage of electricity through gases.
+scientific_discipline: Physics > Electricity and Magnetism

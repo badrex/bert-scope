@@ -1,0 +1,10 @@
+article_id: rsta_1986_0139
+revised_title: Constraints on Galaxy Formation Theories from Microwave Background Anisotropy
+semantic_tags:
+  - Dark Matter
+  - Galaxy Formation
+  - Microwave Background Radiation
+  - Cosmological Parameters
+  - Adiabatic and Isocurvature Perturbations
+tldr: This article discusses the constraints that limits on microwave background anisotropy provide on theories of galaxy formation that incorporate non-baryonic dark matter. The authors focus on scale-invariant perturbations, which may be in either an adiabatic or an isocurvature mode. They find that adiabatic models with cold dark matter lead to excessive small-scale anisotropies unless galaxies are biased tracers of the mass. Isocurvature cold dark-matter models are incompatible with observations even if the amplitude of the galaxy correlation function is more than four times that of the mass distribution.
+scientific_discipline: Physics > Cosmology

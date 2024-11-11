@@ -1,0 +1,10 @@
+article_id: rspl_1886_0034
+revised_title: 'Properties of Gaseous and Liquid Mixtures: The Influence of Temperature and Pressure'
+semantic_tags:
+  - Gas laws
+  - Phase transitions
+  - Chemical mixtures
+  - Critical points
+  - Fluid dynamics
+tldr: The author studied the properties of gaseous and liquid mixtures, particularly nitrogen and carbonic acid, under varying temperature and pressure conditions. They found that the law of gaseous mixtures, as proposed by Dalton, is not strictly true for mixtures of gases in all cases. The critical point of temperature is lowered by admixture with a permanent gas, and the volume of the mixture increases when carbonic acid gas and nitrogen diffuse into each other at high pressures.
+scientific_discipline: Chemistry > Chemical Mixtures and Phase Transitions

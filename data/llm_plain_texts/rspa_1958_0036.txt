@@ -1,0 +1,10 @@
+article_id: rspa_1958_0036
+revised_title: Extension of Many-Body Perturbation Theory to Non-Uniform Electron Gas
+semantic_tags:
+  - Quantum Mechanics
+  - Many-Body Theory
+  - Electron Gas
+  - Self-Consistent Field
+  - Local Field Correction
+tldr: The authors extend the many-body perturbation theory to calculate the energy of an electron gas in a potential field. They introduce a self-consistent field and local field correction effects, and express the energy in terms of eigenvalues of a certain homogeneous integral equation. The theory is applied to crystals, and an approximate expression for the correlation energy of a metal is derived, neglecting Lorentz-Lorenz correction effects.
+scientific_discipline: Physics > Quantum Mechanics

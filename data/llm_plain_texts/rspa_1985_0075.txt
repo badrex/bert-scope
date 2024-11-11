@@ -1,0 +1,10 @@
+article_id: rspa_1985_0075
+revised_title: Angular Dependence of Rayleigh Wave Velocity in Polycrystalline Metals
+semantic_tags:
+  - Elasticity
+  - Anisotropy
+  - Rayleigh waves
+  - Polycrystalline materials
+  - Texture
+scientific_discipline: Physics > Materials Science
+tldr: The authors developed an analytical expression for the angular dependence of the Rayleigh wave velocity in polycrystalline metals with small anisotropy using the variational method. They applied this to hot-rolled aluminum and steel sheets, showing that the results agree with exact results for weakly textured metals with orthorhombic symmetry. This research can be used to measure residual stress in metals non-destructively.

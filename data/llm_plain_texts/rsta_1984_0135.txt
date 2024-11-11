@@ -1,0 +1,10 @@
+article_id: rsta_1984_0135
+revised_title: Quantum Features of Optical Bistability and Photon Statistics
+semantic_tags:
+  - Quantum optics
+  - Optical bistability
+  - Photon statistics
+  - Quantum phase transition
+  - Bose-Einstein statistics
+tldr: This article explores the quantum properties of optical bistability and the photon statistics of the transmitted field. The authors find that for the lower branch of the output-input curve, the photon statistics are Poissonian, while on the upper branch, they approach Bose-Einstein statistics in the hysteresis region. The study highlights the importance of quantum fluctuations in optical bistability and their potential role in real devices and bifurcation to turbulence.
+scientific_discipline: Physics > Quantum Optics

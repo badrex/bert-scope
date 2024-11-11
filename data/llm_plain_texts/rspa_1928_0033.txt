@@ -1,0 +1,10 @@
+article_id: rspa_1928_0033
+revised_title: 'Wave Resistance: Calculations and Applications'
+semantic_tags:
+  - Fluid Dynamics
+  - Wave Resistance
+  - Wave Mechanics
+  - Fourier Analysis
+  - Hydrodynamics
+tldr: This article presents a mathematical approach to calculate wave resistance for various distributions of doublets in fluid dynamics. The author uses Fourier analysis to simplify the calculations and provides expressions for wave resistance in different scenarios, including deep water and water of finite depth. The findings can be applied to improve understanding of wave behavior and design of structures in water.
+scientific_discipline: Physics > Fluid Dynamics

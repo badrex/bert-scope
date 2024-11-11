@@ -1,0 +1,10 @@
+article_id: rspa_1954_0207
+revised_title: 'Overturning and Anchoring of Monolayers: The Role of Carboxyl Groups'
+semantic_tags:
+  - Surface Chemistry
+  - Monolayers
+  - Wetting Angle
+  - Surface Tension
+  - Carboxyl Groups
+tldr: The authors studied the behavior of monolayers, specifically stearic acid, on various surfaces. They discovered that the wetting angle of a water drop on these surfaces changes over time due to the emergence of carboxyl groups from the surface and their anchoring in the water. This process, called overturning, is unimolecular and affects the surface tension, leading to a reduction in the wetting angle. The authors also found that monolayers can transfer molecules to another surface when brought into contact, with the rate of transfer and partition at equilibrium depending on the contacting surfaces.
+scientific_discipline: Chemistry > Surface Chemistry

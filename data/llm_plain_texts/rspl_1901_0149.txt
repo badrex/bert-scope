@@ -1,0 +1,10 @@
+article_id: rspl_1901_0149
+revised_title: 'Optical Properties of Free Atoms and Molecules and the Rate of Rotation of Polarization in a Magnetic Field'
+semantic_tags:
+  - Electromagnetism
+  - Atomic physics
+  - Molecular physics
+  - Polarization
+  - Magnetic fields
+tldr: The author investigates the optical properties of free atoms and molecules, calculating the refraction produced by them. They also study the rate of rotation of polarization in a magnetic field, showing that it depends on the mass of the atoms. The formulae obtained are applied to oxygen to estimate the charge-to-mass ratios and the sum of the radii of the atoms.
+scientific_discipline: Physics > Electromagnetism

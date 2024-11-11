@@ -1,0 +1,10 @@
+article_id: 'rspb_1996_0064'
+revised_title: 'Localization and Functional Analysis of Human Cortical Area V5 Using Magneto-Encephalography'
+semantic_tags:
+  - Neuroscience
+  - Brain Imaging
+  - Visual Processing
+  - Motion Perception
+  - Magnetoencephalography
+tldr: The authors used magnetoencephalography (MEG) to determine the location and functional properties of human cortical area V5, which is believed to be specialized for motion analysis. They found that area V5 is located near the occipito-temporal border and responds to low spatial frequencies, wide temporal frequencies, and motion-contrast stimuli. These findings support the idea that area V5 represents a stage of processing within the magnocellular pathway.
+scientific_discipline: Neuroscience > Visual Processing

@@ -1,0 +1,10 @@
+article_id: rspa_1969_0040
+revised_title: 'Transport Properties of Dense Gases: A Simple Approach'
+semantic_tags:
+  - Transport phenomena
+  - Dense gases
+  - BBGKY hierarchy
+  - Enskog theory
+  - Transport equations
+tldr: The authors present a simple approach to study the transport properties of dense gases using the BBGKY hierarchy of equations. They focus on the effects of increasing density on molecular interactions and propose a method to approximate the three-particle distribution function. The study provides explicit density and temperature-dependent expressions for transport properties and compares the results with experimental observations for simple gases like argon, neon, and helium.
+scientific_discipline: Physics > Fluid dynamics

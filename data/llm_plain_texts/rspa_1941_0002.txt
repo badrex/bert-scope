@@ -1,0 +1,10 @@
+article_id: rspa_1941_0002
+revised_title: Magnetic Properties of Free Electrons in Graphite
+semantic_tags:
+  - Diamagnetism
+  - Graphene
+  - Free electrons
+  - Lattice field
+  - Fermi-Dirac statistics
+tldr: The authors studied the magnetic and other properties of free electrons in graphite and found that the number of free electrons is one per carbon atom. They discovered that the effective mass of these electrons for motion in the basal plane is their actual mass, indicating that their movements are uninfluenced by the lattice field. However, their effective mass for motion along the normal to the basal plane is much higher, suggesting that mobile electrons are tightly bound to the layer. This tight binding explains the observed low degeneracy temperature of the electron gas in the crystal, making graphite a suitable medium for studying electron gas properties.
+scientific_discipline: Physics > Condensed Matter Physics

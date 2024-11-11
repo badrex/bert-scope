@@ -1,0 +1,10 @@
+article_id: rspa_1953_0015
+revised_title: 'Interferometric Measurements of Chromospheric Line Widths During a Total Solar Eclipse'
+semantic_tags:
+  - Solar Physics
+  - Interferometry
+  - Chromosphere
+  - Solar Eclipse
+  - Spectroscopy
+tldr: The authors attempted to measure the widths of chromospheric lines during the total solar eclipse of 25 February 1952 using a Fabry-Perot interferometer. They found that the minimum width of unblended lines was 0.12 Å, and of blends, 0.5 Å. The results suggest that the chromospheric temperature is lower than previous estimates, and turbulence in the lower chromosphere is around 3 to 10 km/s.
+scientific_discipline: Physics > Optics

@@ -1,0 +1,10 @@
+article_id: rspl_1902_0049
+revised_title: Pressure Coefficients of Hydrogen and Helium and Vapour Pressures of Liquid Oxygen and Hydrogen
+semantic_tags:
+  - Thermodynamics
+  - Pressure coefficients
+  - Vapour pressures
+  - Temperature measurement
+  - Gas properties
+tldr: This article presents experiments on the pressure coefficients of hydrogen and helium, and the vapour pressures of liquid oxygen and hydrogen at temperatures below their boiling points. The authors used advanced techniques to measure the pressures and temperatures accurately, contributing to a better understanding of thermodynamic properties of these gases. The results suggest that further study is needed to solve important problems related to temperature scales and gas properties.
+scientific_discipline: Physics > Thermodynamics

@@ -1,0 +1,10 @@
+article_id: rspl_1872_0065
+revised_title: 'On the Heating of a Disk by Rapid Rotation in Vacuo: Further Experiments and Analysis'
+semantic_tags:
+  - Thermodynamics
+  - Heat transfer
+  - Fluid dynamics
+  - Gas effects
+  - Vacuum physics
+tldr: 'The authors conducted experiments to study the heating effect of a rotating disk in a vacuum. They found that the heating effect appeared to be independent of the density and chemical composition of the residual air and gas surrounding the disks. The results showed that the heating effect varied with the pressure and quality of the residual air, indicating that there might be two effects at play: one due to gas and another independent of the residual gas. The authors also explored the influence of blinds on these effects.'
+scientific_discipline: Physics > Thermodynamics

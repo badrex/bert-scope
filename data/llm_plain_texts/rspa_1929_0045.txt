@@ -1,0 +1,10 @@
+article_id: rspa_1929_0045
+revised_title: 'Effect of Combined Electric and Magnetic Fields on Helium Spectrum: A Quantum Theoretical Approach'
+semantic_tags:
+  - Quantum Mechanics
+  - Stark Effect
+  - Helium Spectrum
+  - Electric Fields
+  - Magnetic Fields
+tldr: This article investigates the effect of simultaneous electric and magnetic fields on the helium spectrum. The authors found that the uniform Larmor precession of the electron orbit does not affect the time mean displacement of the electron in the direction of the applied fields. The experiments reveal that each parallel Stark component remains unaffected by the magnetic field, while each perpendicular Stark component is split symmetrically into two components of equal intensity. The results are explained using quantum mechanical theory.
+scientific_discipline: Physics > Electromagnetism

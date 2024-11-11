@@ -1,0 +1,10 @@
+article_id: rspl_1883_0130
+revised_title: Electrochemical Equivalent of Silver and Electromotive Force of Clark Cells
+semantic_tags:
+  - Electrochemistry
+  - Electromotive force
+  - Silver voltameters
+  - Clark cells
+  - Electrical resistance
+tldr: The author investigates the electrochemical equivalent of silver and the absolute electromotive force of Clark cells. They find that the electrochemical equivalent of silver is 1.118 x 10^-3, in precise agreement with Kohlrausch's recent findings. The author also discusses the behavior of silver voltameters and the determination of electromotive force using standard cells, including a modified form of Clark cell with an amalgam instead of solid zinc.
+scientific_discipline: Physics > Electrochemistry

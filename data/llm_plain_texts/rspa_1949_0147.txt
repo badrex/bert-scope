@@ -1,0 +1,10 @@
+article_id: rspa_1949_0147
+revised_title: 'Gravity-Driven Swirling Liquid Flow Through an Orifice-Plate: A Theoretical and Experimental Study'
+semantic_tags:
+  - Fluid dynamics
+  - Vortex flow
+  - Orifice flow
+  - Relaxation methods
+  - Swirling liquid
+tldr: This study examines the flow of a swirling liquid under gravity through an orifice-plate, using relaxation methods to determine the velocity distribution and air-core shape. The research also investigates the different types of emergent jets formed under varying conditions of swirl. Experiments with water were conducted for comparison with the theoretical calculations.
+scientific_discipline: Physics > Fluid Dynamics

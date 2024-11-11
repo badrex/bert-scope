@@ -1,0 +1,10 @@
+article_id: rspa_1991_0084
+revised_title: 'Kolmogorov's Turbulence Theory and its Oceanic Applications: A Review'
+semantic_tags:
+  - Turbulence
+  - Oceanography
+  - Fluid Dynamics
+  - Spectral Analysis
+  - Kolmogorov Theory
+tldr: This article reviews Kolmogorov's theory of turbulence in incompressible fluids and its application to oceanic spectral measurements. The author discusses the energy spectrum function and its robustness under various conditions. The article also explores the influence of oceanic effects such as buoyancy stratification and shear on the energy and temperature spectra. The author highlights the conditions under which Kolmogorov's ideas can be applied securely and when additional physical processes must be considered.
+scientific_discipline: Physics > Fluid Dynamics

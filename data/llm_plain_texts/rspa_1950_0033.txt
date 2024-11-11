@@ -1,0 +1,10 @@
+article_id: rspa_1950_0033
+revised_title: Investigating Ionospheric Cross-Modulation at Oblique Incidence
+semantic_tags:
+  - Ionospheric cross-modulation
+  - Radio-wave interaction
+  - Bailey-Martyn theory
+  - Electromagnetic fields
+  - Ionosphere
+tldr: This article presents an extensive study on ionospheric cross-modulation at oblique incidence, conducted by L. G. H. Huxley and M. L. Oliphant. They investigated the phenomenon using a series of tests arranged in collaboration with the British Broadcasting Corporation. The authors found that the cross-modulation is highly localized in the ionosphere, near the lower surfaces of reflection of the wanted and disturbing waves. They also estimated the gradients of electronic concentration and collisional frequency at a height of about 86 km. The study supports the Bailey-Martyn theory, which assumes that the mean loss of energy in a collision between electrons and gas molecules is proportional to the energy difference.
+scientific_discipline: Physics > Electromagnetism

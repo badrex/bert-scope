@@ -1,0 +1,10 @@
+article_id: 'rstb_1981_0156'
+revised_title: 'Cell Patterning in Dictyostelium: The Role of Cyclic AMP and DIF'
+semantic_tags:
+  - Cell biology
+  - Developmental biology
+  - Dictyostelium discoideum
+  - Cyclic AMP
+  - DIF
+tldr: The article discusses the process of cell patterning in the cellular slime mold, Dictyostelium discoideum. It explains that cyclic AMP and a lipid-like factor called DIF are required for the formation of stalk and spore cells. The study also reveals that cell contact is not essential for pattern formation, as cells can differentiate into stalk cells at low density with the addition of cyclic AMP and DIF.
+scientific_discipline: Biology and Life Sciences > Developmental Biology

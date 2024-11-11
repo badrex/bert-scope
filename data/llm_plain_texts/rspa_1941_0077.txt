@@ -1,0 +1,10 @@
+article_id: rspa_1941_0077
+revised_title: 'Explaining Diffuse X-ray Reflexions and High Temperature Crystal Diffraction'
+semantic_tags:
+  - X-ray Diffraction
+  - Crystallography
+  - High Temperature Physics
+  - Reciprocal Lattice
+  - Debye-Waller Factor
+tldr: The author explains the phenomenon of diffuse X-ray reflexions and diffraction of monochromatic X-rays by crystals at high temperatures. They propose that the crystal is broken up into small, approximately parallel elements, and that the essential feature of the phenomenon is the supposition that these elements scatter independently. The author also discusses the phase relationships between waves scattered by atoms throughout the crystal, which remains a single structure but is distorted by heat waves.
+scientific_discipline: Physics > Crystallography

@@ -1,0 +1,10 @@
+article_id: rsta_1993_0143
+revised_title: 'Thermosolutal Convection in Partly Solidified Systems'
+semantic_tags:
+  - Solidification
+  - Convection
+  - Thermosolutal Convection
+  - Density Inversion
+  - Dendritic Growth
+tldr: The authors examine channel convection in partly solidified systems, focusing on the development of solute-rich channels in metallic alloys. They explore the role of thermosolutal convection, which arises from buoyancy forces caused by solute segregation in the partly solidified mushy region of a casting. The study covers a range of materials, including metallic, aqueous, and organic systems, and discusses the implications of their findings for understanding and improving casting processes.
+scientific_discipline: Materials Science > Solidification and Casting

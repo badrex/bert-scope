@@ -1,0 +1,10 @@
+article_id: rspl_1886_0110
+revised_title: On the Specific Inductive Capacity of Dielectrics
+semantic_tags:
+  - Electromagnetism
+  - Dielectric materials
+  - Capacitance
+  - Electrical charge
+  - Electromagnetic theory
+tldr: The author investigates the relationship between the inductive capacity of a condenser and the distance between its plates, as well as the effect of dielectric materials on this capacity. They explore various methods for determining the dielectric constant and discuss the role of residual charges in the attraction between plates. The study provides insights into the behavior of electrical charges and the potential differences in different materials.
+scientific_discipline: Physics > Electromagnetism

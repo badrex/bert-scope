@@ -1,0 +1,10 @@
+article_id: 111554
+revised_title: Effects of Pressure on Electric Conductivity in Metallic Wires
+semantic_tags:
+  - Electric Conductivity
+  - Pressure Effects
+  - Metallic Wires
+  - Thermoelectricity
+  - Physics of Materials
+tldr: The author, M. Elie Wartmann, conducted experiments to study the effect of pressure on electric conductibility in metallic wires. He discovered that pressure significantly reduces the conducting power of copper wires for electricity. This finding establishes a new connection between electricity, heat, and light, as it is related to the principles of thermoelectricity and the behavior of non-crystallized solid bodies under pressure.
+scientific_discipline: Physics > Materials Science

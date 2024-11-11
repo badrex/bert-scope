@@ -1,0 +1,10 @@
+article_id: rspa_1977_0055
+revised_title: Spectral Analysis of Randomly Sampled Records by a Direct Transform
+semantic_tags:
+  - Spectral Analysis
+  - Random Sampling
+  - Fourier Transform
+  - Signal Processing
+  - Data Analysis
+tldr: This article discusses the spectral analysis of a signal from a randomly sampled time series using the direct transform method. The authors compare this method with the correlation method and find that while the computational effort is generally less with the direct transform, a greater quantity of data is needed to achieve a given level of variability. The article also explores the relation between variability and sampling rate to find an optimum rate for a given amount of computation.
+scientific_discipline: Engineering and Technology > Signal Processing

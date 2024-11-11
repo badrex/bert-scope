@@ -1,0 +1,10 @@
+article_id: rspl_1902_0030
+revised_title: 'Effect of Longitudinal Magnetic Field on Internal Viscosity of Wires'
+semantic_tags:
+  - Magnetization
+  - Torsional oscillations
+  - Internal friction
+  - Iron and nickel wires
+  - Magnetising forces
+tldr: The authors conducted experiments on the effect of longitudinal magnetic fields on the internal viscosity of iron and nickel wires by observing the rate of subsidence of torsional oscillations. They found that the rate of subsidence decreased with increased magnetising force in iron wires, while in nickel wires, the rate of subsidence initially increased and then decreased with further increase in the magnetising force. These results provide insights into the nature of magnetisation and the internal friction of magnetisable materials.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: 107927
+revised_title: 'Investigating the Chemical Effects of Atmospheric Electricity'
+semantic_tags:
+  - Atmospheric Electricity
+  - Electrochemistry
+  - Chemical Affinities
+  - Electrochemical Theory
+  - Alexander Barry's Experiment
+tldr: Alexander Barry conducted an experiment in 1824 to study the connection between the chemical constitution of substances and their electrical properties. He used a kite to collect atmospheric electricity and connected it to a solution of sulphate of soda and syrup of violets. The experiment resulted in the separation of hydrogen and oxygen bubbles and the change in color of the liquid, providing insights into the electrochemical theory.
+scientific_discipline: Chemistry > Electrochemistry

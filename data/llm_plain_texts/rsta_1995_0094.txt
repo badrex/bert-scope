@@ -1,0 +1,10 @@
+article_id: rsta_1995_0094
+revised_title: Engineering Chaos for Encryption and Broadband Communication Applications
+semantic_tags:
+  - Chaotic Systems
+  - Synchronization
+  - Encryption
+  - Broadband Communication
+  - Electronic Circuits
+tldr: This article discusses various methods for sending information through chaotic signals, focusing on three ways to synchronize a receiver system with a chaotic transmitter system and three methods to modulate the transmitter system with an information-carrying signal. The authors explore the potential applications of chaotic behavior in engineering, including encryption and broadband communication.
+scientific_discipline: Engineering and Technology > Electronic Circuits

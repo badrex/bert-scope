@@ -1,0 +1,10 @@
+article_id: rsta_1981_0170
+revised_title: Industrial Electrochemistry: Pulse Voltammetric Methods and Applications
+semantic_tags:
+  - Electrochemistry
+  - Analytical Chemistry
+  - Pulse Voltammetry
+  - Electroanalytical Techniques
+  - Industrial Applications
+tldr: This article discusses pulse voltammetric methods, including normal and differential pulse voltammetry, and their applications in industrial electrochemistry. The techniques are presented with equations describing their principles, and various specific applications are demonstrated, such as determining trace elements in sewage and the determination of sulfide. The article also highlights the advantages of amperometric titrations in eliminating background errors and the use of square-wave voltammetry in electrochemical high-performance chromatographic detectors for nitrosamine analysis.
+scientific_discipline: Chemistry > Analytical Chemistry

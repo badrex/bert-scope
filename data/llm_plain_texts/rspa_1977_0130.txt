@@ -1,0 +1,10 @@
+article_id: rspa_1977_0130
+revised_title: 'Quantum Particle Emission from Black Holes and Moving Mirrors'
+semantic_tags:
+  - Black Holes
+  - Quantum Mechanics
+  - Particle Production
+  - Gravitational Fields
+  - Geometrical Optics
+tldr: The authors extend their previous work on scalar quantum particle production by moving mirrors in two-dimensional flat space-time to models with asymptotically null trajectories. They demonstrate that Hawking's derivation of quantum particle emission from black holes using ray-tracing is mathematically identical to the geometrical optics associated with a certain class of mirror trajectory. The study clarifies the relation between particles and energy in quantum field theory and reveals the presence of radiated matter.
+scientific_discipline: Physics > Quantum Mechanics

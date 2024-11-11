@@ -1,0 +1,10 @@
+article_id: rsta_1927_0010
+revised_title: 'Optical Rotatory Dispersion of Quartz in Infra-Red, Visible, and Ultra-Violet Regions'
+semantic_tags:
+  - Optical Rotatory Dispersion
+  - Quartz
+  - Infra-Red
+  - Visible Light
+  - Ultra-Violet Regions
+tldr: The authors conducted experiments to study the optical rotatory dispersion of quartz in various regions of the spectrum. They discovered that the rotatory power of quartz increases rapidly in the ultra-violet region, and they developed a new equation to represent the rotatory power of quartz throughout the visible, infra-red, and ultra-violet regions. The equation contains five independent constants, providing a more accurate representation of the rotatory dispersion of quartz.
+scientific_discipline: Physics > Optics

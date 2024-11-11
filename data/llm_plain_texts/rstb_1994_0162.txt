@@ -1,0 +1,10 @@
+article_id: 'rstb_1994_0162'
+revised_title: 'Infectious Disease and Human Population Growth: A Nonlinear World'
+semantic_tags:
+  - Epidemiology
+  - Infectious Diseases
+  - Population Growth
+  - Immunology
+  - Evolutionary Biology
+tldr: 'The author discusses the complex and nonlinear relationship between infection, immunity, and human population growth. They highlight the importance of mathematical models in understanding the spread and persistence of infectious diseases, as well as the need for interdisciplinary research to address the epidemiology of infectious diseases. The author also emphasizes the impact of factors such as population growth, urbanization, and transportation on the spread of infectious diseases, and the challenges posed by the emergence of drug-resistant strains and new pathogens.'
+scientific_discipline: Biology and Life Sciences > Epidemiology

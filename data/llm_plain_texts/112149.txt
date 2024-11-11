@@ -1,0 +1,10 @@
+article_id: 112149
+revised_title: Symbolical Expansions and Binomial Theorems
+semantic_tags:
+  - Algebra
+  - Symbolic Calculus
+  - Mathematical Theorems
+  - Mathematical Analysis
+  - Mathematical Logic
+tldr: The author, W. H. L. Russell, presents his own investigations on the Calculus of Symbols and connects his binomial theorems with the expansions due to Professor Boole. He aims to expand f + x in terms of d and demonstrates a method to find the expansion of (p + 7) independent of (7r). This paper highlights the connection between different mathematical concepts and theorems.
+scientific_discipline: Mathematics > Algebra

@@ -1,0 +1,10 @@
+article_id: rsta_1967_0047
+revised_title: 'Investigating Satellite Accelerations and Air Densities at Extreme Altitudes'
+semantic_tags:
+  - Satellite orbital mechanics
+  - Air density
+  - Spacecraft propulsion
+  - Space environment
+  - Orbital perturbations
+tldr: This article discusses the analysis of satellite accelerations and air densities at extreme altitudes. The authors study various factors affecting satellite orbits, such as solar radiation pressure, air drag, and other perturbations. They also compare their findings with model calculations and explore the possibility of semi-annual variations in density at these heights.
+scientific_discipline: Environmental and Earth Sciences > Space Science

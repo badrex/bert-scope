@@ -1,0 +1,10 @@
+article_id: 'rstl_1879_0061'
+revised_title: 'Bodily Tides of Viscous and Semi-Elastic Spheroids and Ocean Tides on a Yielding Nucleus'
+semantic_tags:
+  - Geophysics
+  - Tides
+  - Fluid dynamics
+  - Earth's interior
+  - Elasticity
+tldr: The author investigates the consequences of considering the Earth's interior as viscous or imperfectly elastic, and how this affects the ocean tides. They analyze the equilibrium tide theory and apply it to estimate the reduction and alteration of ocean tides due to bodily tides. The study concludes that the results are as hostile to the idea of any great mobility of the Earth's interior as Sir William Thomson's work, suggesting that the solid crust cannot repress tidal surges if the interior is not rigid enough.
+scientific_discipline: Physics > Geophysics

@@ -1,0 +1,10 @@
+article_id: rspa_1935_0207
+revised_title: 'Advanced Theories of Strong Electrolytes and their Concentration Effects'
+semantic_tags:
+  - Electrochemistry
+  - Statistical mechanics
+  - Electrolytes
+  - Debye-Huckel theory
+  - Ionic interactions
+tldr: The authors present a detailed analysis of the Debye-Huckel theory of strong electrolytes, focusing on the effects of concentration on ionic interactions. They propose a new approach using a more general force law and the Gibbs phase-integral to extend the theory to stronger concentrations. The study aims to improve the understanding of electrolyte behavior and its applications in various fields.
+scientific_discipline: Chemistry > Electrochemistry

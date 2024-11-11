@@ -1,0 +1,10 @@
+article_id: rspa_1957_0115
+revised_title: Relativistic Self-Consistent Field Calculation for Mercury: Improving Atomic Models
+semantic_tags:
+  - Atomic Physics
+  - Relativity
+  - Quantum Mechanics
+  - Mercury
+  - Computational Physics
+tldr: This article presents a relativistic self-consistent field calculation for the element mercury, improving the understanding of atomic structure and energy levels. The authors use advanced computational methods to account for relativistic effects and refine the atomic models, leading to more accurate predictions of atomic behavior.
+scientific_discipline: Physics > Atomic Physics

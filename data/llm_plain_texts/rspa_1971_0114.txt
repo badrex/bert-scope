@@ -1,0 +1,10 @@
+article_id: rspa_1971_0114
+revised_title: 'Precise Measurement of Pulsed Magnetic Fields Using the Zeeman Effect'
+semantic_tags:
+  - Zeeman effect
+  - Magnetic fields
+  - Spectroscopy
+  - Absorption lines
+  - High-precision measurements
+tldr: The authors developed a method for measuring pulsed magnetic fields using the Zeeman effect of the Hg 253.7 nm line. This method is more accurate than previous techniques due to the use of absorption lines, which are not affected by the brightness of the background light source. The technique can measure magnetic fields in the range of 60 to 330 with an accuracy of 0.04% at 250. The Zeeman splitting of the Hg 253.7 nm line is a linear function of the field to high accuracy.
+scientific_discipline: Physics > Electromagnetism

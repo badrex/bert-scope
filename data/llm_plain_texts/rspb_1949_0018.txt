@@ -1,0 +1,10 @@
+article_id: 'rspb_1949_0018'
+revised_title: 'Investigating the Role of Neuromuscular Block in Muscle Fatigue'
+semantic_tags:
+  - Muscle Fatigue
+  - Neuromuscular Block
+  - Tetanic Tension
+  - Nerve Stimulation
+  - Muscle Physiology
+tldr: This study examines the relationship between neuromuscular block and muscle fatigue in decerebrate cats. The authors found that while neuromuscular block can occur during nerve stimulation, it contributes little to the decline in tetanic tension experienced during muscle fatigue. The research suggests that other factors, such as muscle fiber response frequency, may play a more significant role in muscle fatigue.
+scientific_discipline: Biology and Life Sciences > Muscle Physiology

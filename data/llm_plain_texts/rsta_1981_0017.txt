@@ -1,0 +1,10 @@
+article_id: rsta_1981_0017
+revised_title: Fracture Mechanics in Design and Service: Addressing Defects in the Petroleum Industry
+semantic_tags:
+  - Fracture mechanics
+  - Petroleum industry
+  - Materials selection
+  - Welding procedures
+  - Notch ductility
+tldr: This article discusses the challenges faced by the petroleum industry in dealing with low-stress fractures in both arctic and tropical climates. It explores the use of fracture mechanics techniques, such as crack opening displacement (c.o.d.) and linear elastic fracture mechanics (l.e.f.m.), in selecting materials and welding procedures for construction and storage tanks. The article highlights the limitations of current design, construction, and inspection practices, and suggests that a fracture-safe design approach is necessary to ensure the safety and reliability of petroleum industry hardware.
+scientific_discipline: Engineering and Technology > Materials Science and Engineering

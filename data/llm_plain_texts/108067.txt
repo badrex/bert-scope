@@ -1,0 +1,10 @@
+article_id: 108067
+revised_title: 'Investigating Steam Vessel Motion and Resistance Laws'
+semantic_tags:
+  - Steam power
+  - Fluid dynamics
+  - Resistance
+  - Paddlewheel design
+  - Naval engineering
+tldr: This article investigates the laws governing the motion of steam vessels and the resistance they face. The author, Peter W. Barlow, conducts experiments on various steamships and analyzes the impact of paddlewheel design on a vessel's speed and efficiency. He concludes that resistance is nearly proportional to the square of the velocity and provides recommendations for improving steam navigation.
+scientific_discipline: Engineering and Technology > Naval Engineering

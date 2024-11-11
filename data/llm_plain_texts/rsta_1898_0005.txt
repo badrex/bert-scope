@@ -1,0 +1,10 @@
+article_id: rsta_1898_0005
+revised_title: 'On the Application of Harmonic Analysis to the Dynamical Theory of Tides - Part II'
+semantic_tags:
+  - Tides
+  - Oceanography
+  - Harmonic analysis
+  - Laplace's equations
+  - Tidal oscillations
+tldr: This article extends the method of solution for Laplace's dynamical equations for tides, removing the restriction of symmetrical solutions with respect to the axis of rotation. The author applies harmonic analysis to obtain a more general solution, focusing on the integration of Laplace's equations and the deduction of linear equations connecting coefficients in the expansion of tide-height. The article also discusses the existence of a second class of free oscillations and provides numerical examples for the evaluation of semi-diurnal and diurnal tidal constituents.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

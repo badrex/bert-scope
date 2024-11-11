@@ -1,0 +1,10 @@
+article_id: rspa_1933_0145
+revised_title: 'Investigation of Photoelectric Emission from Tungsten and Molybdenum under Soft X-Rays from Copper'
+semantic_tags:
+  - X-ray physics
+  - Photoelectric effect
+  - Tungsten
+  - Molybdenum
+  - X-ray tube
+tldr: The authors conducted experiments to study the photoelectric emission from tungsten and molybdenum under the action of soft X-rays from copper. They found that heating the photoelectric plates increased the emission, and that the increase was due to the removal of a chemical residue. The results showed that the photoelectric current could vary by a factor of about 2 depending on the surface condition of the metal. This study provided insights into the photoelectric effect and the behavior of metals under X-ray radiation.
+scientific_discipline: Physics > Materials Science

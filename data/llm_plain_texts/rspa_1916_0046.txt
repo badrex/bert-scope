@@ -1,0 +1,10 @@
+article_id: rspa_1916_0046
+revised_title: 'Kinetic Theory of Simple and Composite Monatomic Gases: Viscosity, Thermal Conduction, and Diffusion'
+semantic_tags:
+  - Kinetic theory
+  - Gas dynamics
+  - Viscosity
+  - Thermal conduction
+  - Diffusion
+tldr: The authors present a comprehensive study of the kinetic theory of simple and composite monatomic gases, focusing on viscosity, thermal conduction, and diffusion. They develop equations for the velocity distribution function and use these to calculate the mean values of various functions related to gas properties. The study also introduces new coefficients of diffusion and provides a deeper understanding of the underlying processes in gas dynamics.
+scientific_discipline: Physics > Gas dynamics

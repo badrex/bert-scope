@@ -1,0 +1,10 @@
+article_id: 'rspa_1945_0011'
+revised_title: 'Statistical Analysis of Bundle Strength in Thread Populations'
+semantic_tags:
+  - Statistics
+  - Material Science
+  - Textile Engineering
+  - Probability Theory
+  - Bundle Strength
+tldr: The authors study the probability distribution of the strength of bundles composed of threads sampled randomly from a population with known strength distribution. They discuss the relation between a bundle's strength and the strengths of its constituent threads, and develop the properties of the probability distribution of bundle strength. The authors also analyze the asymptotic behavior of the distribution for large numbers of threads, showing that it tends to assume a normal form in common cases.
+scientific_discipline: Engineering and Technology > Material Science

@@ -1,0 +1,10 @@
+article_id: 'rspb_1993_0003'
+revised_title: 'NGF Prevents Monocular Deprivation Effects in Rat Visual Cortex'
+semantic_tags:
+  - Neurotrophic factor
+  - Monocular deprivation
+  - Ocular dominance
+  - Visual acuity
+  - Rat visual cortex
+tldr: The study found that supplying nerve growth factor (NGF) to monocularly deprived rats during the critical period prevented the effects of monocular deprivation on visual acuity and ocular dominance distribution in the rat visual cortex. This suggests that NGF plays a crucial role in maintaining normal visual development and cortical binocularity.
+scientific_discipline: Biology and Life Sciences > Neuroscience

@@ -1,0 +1,10 @@
+article_id: 112709
+revised_title: Confirming the Numerical Value of Euler's Constant
+semantic_tags:
+  - Mathematics
+  - Number Theory
+  - Euler's Constant
+  - Mathematical Constants
+  - Approximation Algorithms
+tldr: The author, William Shanks, calculated the numerical value of Euler's Constant using a large value of n (10,000 in this case). The results confirm the limits assigned to the value of E in a previous paper, suggesting that further determination of this constant is not necessary.
+scientific_discipline: Mathematics > Number Theory

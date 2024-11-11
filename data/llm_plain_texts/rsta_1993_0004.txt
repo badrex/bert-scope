@@ -1,0 +1,11 @@
+article_id: rsta_1993_0004
+revised_title: Melt Migration and Thermal Consequences in Mantle Plumes
+semantic_tags:
+  - Mantle convection
+  - Melt migration
+  - Mantle plumes
+  - Geothermal gradients
+  - Partial melting
+tldr: The authors explore the thermal and petrological consequences of melt migration within mantle plumes. They analyze a numerical model of convection and estimate the nature of melts produced within a mantle plume. The study suggests that the high temperatures expected in the core of mantle plumes have little expression in the eruption temperatures of hotspot lavas due to efficient melt migration and homogenization of the temperature within the melting region. The authors propose that the composition of hotspot lavas results from the mixing of low-pressure melts with highly evolved liquids produced at the base of the melting region.
+scientific_discipline: Earth Sciences > Geology
+sub_discipline: Earth Sciences > Geodynamics

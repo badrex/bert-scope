@@ -1,0 +1,10 @@
+article_id: 'rstb_1990_0025'
+revised_title: 'Mechanisms of Sodium Transport in Bacteria: A Focus on Oxaloacetate Decarboxylase and NADH:Ubiquinone Oxidoreductase'
+semantic_tags:
+  - Microbial Membrane Transport
+  - Sodium Transport
+  - Bacterial Physiology
+  - Oxaloacetate Decarboxylase
+  - NADH:Ubiquinone Oxidoreductase
+tldr: This article explores the mechanisms of sodium transport in bacteria, focusing on the physiological functions of ion gradients established by oxaloacetate decarboxylase and NADH:ubiquinone oxidoreductase. The author discusses the role of these gradients in driving solute uptake, flagellar movement, and ATP synthesis in bacteria such as Klebsiella pneumoniae, Vibrio alginolyticus, and Propionigenium modestum. The article also delves into the structure and function of translocating enzymes, including oxaloacetate decarboxylase and NADH:ubiquinone oxidoreductase.
+scientific_discipline: Biology and Life Sciences > Microbiology

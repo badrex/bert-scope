@@ -1,0 +1,10 @@
+article_id: 'rspa_1931_0012'
+revised_title: 'Force Required to Stop a Moving Electrified Sphere'
+semantic_tags:
+  - Electromagnetism
+  - Electrostatics
+  - Electrified Sphere
+  - Surface Charge
+  - Volume Charge
+tldr: The author calculates the force required to stop a moving electrified sphere with a surface charge. They consider the electro-magnetic waves generated when the sphere is suddenly stopped and held at rest. The force is determined by integrating the electric force due to the waves acting on the sphere's elements. The author provides a formula for the force in the general case and compares it to a previous special case.
+scientific_discipline: Physics > Electromagnetism

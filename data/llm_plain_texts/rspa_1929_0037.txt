@@ -1,0 +1,10 @@
+article_id: rspa_1929_0037
+revised_title: Spin Effects in Helium Atoms: A New Approach to Perturbation Theory
+semantic_tags:
+  - Quantum Mechanics
+  - Atomic Physics
+  - Spin Theory
+  - Perturbation Theory
+  - Helium Atoms
+tldr: The authors present a new approach to perturbation theory, focusing on spin effects in helium atoms. They use Dirac's equation to calculate spin energy and develop a method for nearly degenerate systems. This work provides a foundation for understanding the fine structure of atomic energy levels and intercombinations between ortho- and para-states.
+scientific_discipline: Physics > Atomic Physics

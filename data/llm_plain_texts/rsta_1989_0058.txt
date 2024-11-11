@@ -1,0 +1,10 @@
+article_id: rsta_1989_0058
+revised_title: Optical Technology and Wideband Local Networks: Line-Plant Considerations for Optical Local Network
+semantic_tags:
+  - Optical Networks
+  - Fiber Optics
+  - Local Networks
+  - Telecommunications
+  - Passive Optical Networks
+tldr: This article discusses the line plant for future local networks, focusing on optical solutions that use single-mode fiber. It explores various technical solutions to challenges such as low-loss components, bidirectional working, and keeping costs low for passive optical networks. The authors present an on-site demonstrator and examine critical components and issues to produce an overall expected power budget for the system.
+scientific_discipline: Engineering and Technology > Telecommunications

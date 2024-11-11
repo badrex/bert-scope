@@ -1,0 +1,10 @@
+article_id: 'rstb_1990_0201'
+revised_title: 'Identification and Classification of Cone Bipolar Neurons in Cat Retina'
+semantic_tags:
+  - Retinal Neurons
+  - Cell Types
+  - Neuronal Morphology
+  - Synaptic Patterns
+  - Natural Types
+tldr: Researchers identified and studied all 80 cone bipolar cells in a small patch of a cat retina, focusing on the 42 cells with axons in sublamina b of the inner plexiform layer. They found that these cells could be sorted into five distinct categories based on their external morphology and synaptic patterns, with no intermediate forms observed. This study supports the idea that cone bipolar neurons have natural types and provides a 'parts list' for understanding the functional architecture of retinal circuits.
+scientific_discipline: Biology and Life Sciences > Neuroscience

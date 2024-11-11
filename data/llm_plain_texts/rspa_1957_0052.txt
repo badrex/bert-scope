@@ -1,0 +1,10 @@
+article_id: rspa_1957_0052
+revised_title: 'Initiation Reaction in Styrene Polymerization Sensitized by Benzoyl Peroxide'
+semantic_tags:
+  - Polymerization
+  - Styrene
+  - Benzoyl Peroxide
+  - Radical Polymerization
+  - Chemical Reaction Kinetics
+tldr: The authors conducted experiments using benzoyl peroxide labeled with carbon-14 to study the initiation reaction in the polymerization of styrene. They found that the fraction of initiating radicals that are benzoyloxy radicals decreases as the concentration of monomer is reduced. By using different types of labeled peroxide, they were able to determine the relative importance of benzoyloxy and phenyl radicals in initiating reaction chains. This study helps to understand the details of the initiation reaction in sensitized radical polymerizations.
+scientific_discipline: Chemistry > Polymer Chemistry

@@ -1,0 +1,10 @@
+article_id: 'rsta_1994_0064'
+revised_title: 'Revolutionizing Finance: The Role of Mathematics and Human Behavior'
+semantic_tags:
+  - Finance
+  - Mathematical models
+  - Risk management
+  - Portfolio selection
+  - Human behavior in finance
+tldr: The article discusses the importance of mathematics in finance and the need for a better understanding of human behavior in financial decision-making. The author argues that the current theory of finance, which relies heavily on variance of return as a measure of risk, is flawed and needs to be replaced with a more accurate measure that takes into account human behavior and individual risk aversion. The author also highlights the potential of mathematical models in solving complex financial problems and improving the efficiency of financial markets.
+scientific_discipline: Economics > Finance

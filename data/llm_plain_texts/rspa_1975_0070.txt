@@ -1,0 +1,10 @@
+article_id: rspa_1975_0070
+revised_title: 'Nonlinear Stability and Second Order Resonance in Subcritical Flows'
+semantic_tags:
+  - Fluid Dynamics
+  - Nonlinear Stability
+  - Resonance
+  - Subcritical Instability
+  - Shear Flows
+tldr: The article examines the role of second-order resonance in the nonlinear stability of subcritical flows, specifically focusing on shear flows. The author derives nonlinear stability criteria that can improve upon the single-mode criterion of Stuart and others. The study also explores the evolution of resonant triads of wave modes and their impact on the stability of subcritical flows.
+scientific_discipline: Physics > Fluid Dynamics

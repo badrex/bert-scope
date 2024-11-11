@@ -1,0 +1,10 @@
+article_id: rspa_1960_0080
+revised_title: Argon Atom Interactions and Thermodynamics
+semantic_tags:
+  - Intermolecular forces
+  - Argon atoms
+  - Thermodynamics
+  - Quantum mechanics
+  - Molecular interactions
+tldr: This article investigates the interaction between argon atoms using thermodynamic and quantum mechanical approaches. The authors develop a model to calculate the parameters of argon atom interactions and compare their results with experimental data. The study provides insights into the behavior of argon gas under various conditions, including temperature and pressure.
+scientific_discipline: Chemistry > Molecular Physics

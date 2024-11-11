@@ -1,0 +1,10 @@
+article_id: rspa_1976_0004
+revised_title: 'Analysis of Plane Shock Waves in Nonlinear Viscoelastic Media'
+semantic_tags:
+  - Viscoelasticity
+  - Shock waves
+  - Burgers' equation
+  - Averaging method
+  - Voigt approximation
+tldr: The article investigates the development of plane shock waves in viscoelastic media with nonlinear elastic properties. The authors use an averaging method to simplify the problem and reduce it to Burgers' equation when the viscoelastic decay time is short. They also analyze the shock structure within the Voigt approximation and find that the shock layer is asymmetrical about its center, becoming more symmetrical as conditions approach the Voigt approximation.
+scientific_discipline: Physics > Mechanics

@@ -1,0 +1,10 @@
+article_id: 'rspa_1921_0036'
+revised_title: 'Heats of Combustion and Formation of Nitro-Compounds in the Toluene, Benzene, Phenol, and Methylaniline Series'
+semantic_tags:
+  - 'Chemistry'
+  - 'Thermodynamics'
+  - 'Explosives'
+  - 'Calorimetry'
+  - 'Nitro-compounds'
+tldr: The authors determined the heats of combustion and formation of nitro-compounds in the toluene, benzene, phenol, and methylaniline series. They used a calorimetric system to measure the energy released during combustion and calculated the heats of nitration. The study helps in understanding the stability and sensitivity of explosives, as well as improving the production of new explosives.
+scientific_discipline: Chemistry > Thermodynamics

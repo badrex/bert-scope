@@ -1,0 +1,10 @@
+article_id: rspa_1958_0182
+revised_title: 'Perturbation Calculations of Properties in the Helium Iso-Electronic Sequence'
+semantic_tags:
+  - Atomic Physics
+  - Quantum Mechanics
+  - Perturbation Theory
+  - Hydrogenic Approximation
+  - Helium Sequence
+tldr: The authors used perturbation theory to calculate the magnetic susceptibilities and dipole polarizabilities of the ground states in the helium iso-electronic sequence. They also calculated mass polarization, relativistic, and radiative corrections to their energies. The hydrogenic approximation was applied to the helium iso-electronic sequence, and the authors discussed the convergence of quantities depending on the first-order correction to the wave function.
+scientific_discipline: Physics > Atomic Physics

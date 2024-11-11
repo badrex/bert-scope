@@ -1,0 +1,10 @@
+article_id: rsta_1912_0001
+revised_title: Absolute Expansion of Mercury: A New Method and Improved Apparatus
+semantic_tags:
+  - Thermodynamics
+  - Temperature measurement
+  - Mercury expansion
+  - Scientific apparatus
+  - Platinum thermometer
+tldr: This article presents a new method and improved apparatus for determining the absolute expansion of mercury. The authors describe their innovative setup, which uses electric heating and platinum thermometers to measure the temperature and expansion of mercury columns. Their work aims to improve the accuracy and reliability of previous methods, reducing uncertainties in the determination of the expansion coefficient and its variation with temperature.
+scientific_discipline: Physics > Thermodynamics

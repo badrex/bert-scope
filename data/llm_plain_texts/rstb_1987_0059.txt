@@ -1,0 +1,10 @@
+article_id: 'rstb_1987_0059'
+revised_title: 'Exploring Nitrogen Fixation Genes in Alien Prokaryotic Backgrounds'
+semantic_tags:
+  - Nitrogen fixation
+  - Genetics
+  - Prokaryotes
+  - Gene transfer
+  - Nitrogen regulation
+tldr: The article discusses the manipulation of nitrogen fixation (nif) genes in alien prokaryotic backgrounds, focusing on the transfer of nif genes from Klebsiella pneumoniae to other species. The experiments provide insights into the stability, control, and efficiency of nif genes in new conditions and contribute to the understanding of nitrogen regulation in prokaryotes.
+scientific_discipline: Biology and Life Sciences > Genetics and Molecular Biology

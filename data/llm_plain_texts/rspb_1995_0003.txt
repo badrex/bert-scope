@@ -1,0 +1,10 @@
+article_id: 'rspb_1995_0003'
+revised_title: 'Mechanical Behavior of Cambered Structures: Torsion and Bending'
+semantic_tags:
+  - Structural Biology
+  - Mechanics
+  - Torsion
+  - Bending
+  - Cambered Structures
+tldr: The author investigates the mechanical behavior of cambered plates, which are common in biological structures like insect wings, grass blades, and feathers. They find that cambered plates exhibit asymmetric behavior in torsion, making them more resistant to bending forces on their concave surfaces. This study helps explain the mechanical design of various cambered structures in nature.
+scientific_discipline: Engineering and Technology > Mechanics

@@ -1,0 +1,10 @@
+article_id: rspa_1964_0179
+revised_title: 'Low-Temperature Deformation of Body-Centered Cubic Metals: Yield and Flow Stress Measurements'
+semantic_tags:
+  - Materials Science
+  - Mechanical Properties
+  - Deformation Mechanisms
+  - Body-Centered Cubic Metals
+  - Low-Temperature Physics
+tldr: The authors conducted experiments on the deformation of body-centered cubic metals, such as niobium, vanadium, and tantalum, at low temperatures. They found that the yield and flow stress of these metals are influenced by factors like grain size, interstitial impurity content, and temperature. The results provide insights into the obstacles to dislocation motion and the mechanisms behind the temperature dependence of the metals' properties.
+scientific_discipline: Materials Science > Mechanical Properties

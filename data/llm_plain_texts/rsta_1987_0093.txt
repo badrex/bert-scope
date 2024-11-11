@@ -1,0 +1,10 @@
+article_id: 'rsta_1987_0093'
+revised_title: 'Giotto Observations of Comet Halley Dust: In-situ Measurements and Modeling'
+semantic_tags:
+  - Comet Halley
+  - Spacecraft Encounters
+  - Dust Measurements
+  - Space Science
+  - Astronomy
+tldr: The authors discuss the in-situ dust measurements taken by the Giotto and Vega spacecraft during their encounters with Comet Halley. They highlight the shortcomings of previous dust models and present new findings on the mass-loss rate, dust distribution, and composition of the comet's dust. These observations provide valuable insights into the history and behavior of Comet Halley.
+scientific_discipline: Astronomy > Space Science

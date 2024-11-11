@@ -1,0 +1,10 @@
+article_id: rsta_1972_0048
+revised_title: 'Thames Barrier Siltation: A Comprehensive Study'
+semantic_tags:
+  - Estuarine Siltation
+  - Thames Barrier
+  - Tide Control Structures
+  - Hydraulic Engineering
+  - Environmental Impact
+tldr: This article discusses the siltation problems associated with the construction of the Thames Barrier. The authors analyze the various factors affecting siltation, such as current-velocity, suspended silt concentration, salinity, and temperature. They also describe the methods used to study the effects of the barrier on siltation, including large-scale estuarine surveys, silt monitoring, and physical model experiments. The results indicate that a well-designed barrier used only to exclude surges should not produce significant siltation problems, but continuous tide control may lead to increased siltation.
+scientific_discipline: Environmental and Earth Sciences > Estuarine Siltation

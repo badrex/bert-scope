@@ -1,0 +1,10 @@
+article_id: rspa_1979_0115
+revised_title: Anisotropy in Scratch Hardness of Cubic Crystals: A Theoretical Model
+semantic_tags:
+  - Crystallography
+  - Materials Science
+  - Mechanical Properties
+  - Anisotropy
+  - Slip Systems
+tldr: The authors present a theoretical model to explain the anisotropy in scratch hardness of cubic crystals. They consider the deformation and displacement of material beneath a moving slider and analyze the scratch hardness process based on the effective resolved shear stress. The model predicts the nature of anisotropy in scratch hardness, which is consistent with the results for cubic crystals.
+scientific_discipline: Materials Science > Mechanical Properties

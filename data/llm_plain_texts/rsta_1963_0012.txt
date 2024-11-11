@@ -1,0 +1,10 @@
+article_id: 'rsta_1963_0012'
+revised_title: 'Cerenkov Radiation in Magneto-Ionic Medium and its Application to Low-Frequency Electromagnetic Radiation Generation in the Exosphere'
+semantic_tags:
+  - Cerenkov Radiation
+  - Magneto-Ionic Medium
+  - Electromagnetic Radiation
+  - Exosphere
+  - Plasma Physics
+tldr: The article discusses Cerenkov radiation in a magneto-ionic medium and its application to the generation of low-frequency electromagnetic radiation in the exosphere by the passage of charged corpuscular streams. The authors evaluate the electromagnetic field produced by a uniformly moving point charge in a collisionless magneto-ionic medium and show that Cerenkov radiation in the exosphere produces low-frequency hiss. They also compute the spectral and angular distributions of radiation over the low-frequency band for specific values of plasma and gyro frequencies at various distances from the earth's center.
+scientific_discipline: Physics > Plasma Physics

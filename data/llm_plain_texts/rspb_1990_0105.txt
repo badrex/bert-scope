@@ -1,0 +1,10 @@
+article_id: 'rspb_1990_0105'
+revised_title: 'Selective Coupling of Muscarinic Acetylcholine Receptors to Neuronal Calcium Currents'
+semantic_tags:
+  - 'Neuropharmacology'
+  - 'Muscarinic Acetylcholine Receptors'
+  - 'Neuronal Calcium Currents'
+  - 'Patch-Clamp Recording'
+  - 'Neurotransmitter Receptors'
+tldr: 'The article investigates how different muscarinic acetylcholine receptors (mAChRs) affect neuronal calcium currents in DNA-transfected cells. The researchers found that mAChR II and mAChR IV preferentially couple to calcium currents, inhibiting them. This inhibition may contribute to the autoinhibition of transmitter release and increase membrane excitability by reducing calcium-activated potassium currents.'
+scientific_discipline: Biology and Life Sciences > Neuropharmacology

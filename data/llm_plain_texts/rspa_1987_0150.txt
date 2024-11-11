@@ -1,0 +1,10 @@
+article_id: rspa_1987_0150
+revised_title: 'Turbulent Burning Velocities: A Comprehensive Study in Terms of Straining Rates'
+semantic_tags:
+  - Combustion
+  - Turbulence
+  - Flame Propagation
+  - Straining Rates
+  - Dimensionless Correlations
+tldr: This study examines all known experimental values of turbulent burning velocities and presents dimensionless correlations based on flame straining rates and effective r.m.s. turbulent velocity. The research focuses on how flame propagation is affected by turbulence, particularly in explosions, and provides insights into practical applications such as gasoline engines and atmospheric explosions.
+scientific_discipline: Chemistry > Combustion

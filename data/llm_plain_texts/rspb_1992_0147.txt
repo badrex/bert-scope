@@ -1,0 +1,10 @@
+article_id: 'rspb_1992_0147'
+revised_title: 'Restoration of Synaptic Plasticity in Drosophila Learning and Memory Mutants with K+ Channel Blockers'
+semantic_tags:
+  - Neuromuscular Synapses
+  - K+ Channel Blockers
+  - Synaptic Plasticity
+  - Drosophila Learning and Memory
+  - cAMP Phosphodiesterase
+tldr: The article investigates the effects of K+ channel blockers on synaptic transmission in Drosophila learning and memory mutants. The study finds that K+ channel blockers, such as 3,4-diaminopyridine and tetraethylammonium, restore facilitation and post-tetanic potentiation in the neuromuscular synapses of the mutants, suggesting that a specific K+ conductance might be relevant to the lack of synaptic plasticity in these mutants.
+scientific_discipline: Biology and Life Sciences > Neurobiology and Neuropharmacology

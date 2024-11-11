@@ -1,0 +1,10 @@
+article_id: rspa_1946_0001
+revised_title: Theorems Concerning Subharmonic Functions in a Strip
+semantic_tags:
+  - Mathematical Analysis
+  - Partial Differential Equations
+  - Potential Theory
+  - Convex Functions
+  - Fourier Analysis
+tldr: The authors present a series of theorems concerning functions that are subharmonic in a strip, focusing on their properties and behavior. They prove that these functions are upper semi-continuous and convex, and explore their applications and generalizations.
+scientific_discipline: Mathematics > Analysis

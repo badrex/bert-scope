@@ -1,0 +1,10 @@
+article_id: rspa_1976_0166
+revised_title: 'Computer Simulation of Screw Dislocation Motion in BCC Metals'
+semantic_tags:
+  - Materials Science
+  - Crystallography
+  - Dislocation Theory
+  - BCC Metals
+  - Computational Modeling
+tldr: The author conducted a computer simulation of screw dislocation motion in b.c.c. metals under the effect of external shear and uniaxial stresses. The study used three different interatomic potentials to analyze the behavior of screw dislocations in response to various stress conditions. The results provide insights into the core structure and motion of screw dislocations in b.c.c. metals, which is essential for understanding their plastic behavior and mechanical properties.
+scientific_discipline: Materials Science > Crystallography and Dislocation Theory

@@ -1,0 +1,10 @@
+article_id: rspa_1987_0153
+revised_title: Singularities in Electromagnetic Waves: Theory and Applications
+semantic_tags:
+  - Electromagnetic Waves
+  - Wave Singularities
+  - Polarization
+  - Disclinations
+  - Optics
+tldr: This article discusses the singularities, such as lines, surfaces, and disclinations, found in the transverse fields of electromagnetic waves. It explains how these singularities are features of the electric and magnetic fields and how they play a crucial role in determining the topology of disclinations in paraxial wavefields. The article also highlights the connections between these singularities and presents a cohesive picture of the structure of waves.
+scientific_discipline: Physics > Electromagnetism

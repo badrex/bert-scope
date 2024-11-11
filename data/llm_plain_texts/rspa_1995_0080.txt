@@ -1,0 +1,10 @@
+article_id: rspa_1995_0080
+revised_title: Ignition Hazard Assessment of Flammable Atmospheres by Radiation-Heated Fibrous Agglomerates
+semantic_tags:
+  - Combustion
+  - Ignition
+  - Optical fibers
+  - Heat transfer
+  - Gas modeling
+tldr: The authors present a model to quantify the ignition hazard associated with optical fiber technology in flammable atmospheres. They study the effects of various parameters, such as mixture composition, optical beam diameter, and physical properties of the absorption and heat transfer processes. The model helps predict critical conditions for ignition and provides insights into the safety of using optical fibers in hazardous environments.
+scientific_discipline: Engineering and Technology > Combustion and Fire Safety

@@ -1,0 +1,10 @@
+article_id: rsta_1990_0147
+revised_title: Optimization Techniques in Trace Atomic Spectroscopy
+semantic_tags:
+  - Analytical Chemistry
+  - Inductively Coupled Plasma Atomic Emission Spectrometry
+  - Simplex Optimization
+  - Trace Analysis
+  - Inductively Coupled Plasma Mass Spectrometry
+tldr: The article discusses the importance of optimization in trace atomic spectroscopy, focusing on the use of variable step-size simplex algorithms to improve analytical instrumentation. The authors highlight the benefits of this optimization technique, such as speed, computer compatibility, and the ability to minimize interferences. They also provide examples of successful optimizations in inductively coupled plasma atomic emission spectrometry (ICP-AES), slurry atomization, hydride generation, and inductively coupled plasma mass spectrometry (ICP-MS).
+scientific_discipline: Chemistry > Analytical Chemistry

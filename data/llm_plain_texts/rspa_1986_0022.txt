@@ -1,0 +1,10 @@
+article_id: rspa_1986_0022
+revised_title: Spin Density and Bonding in Mn(H2O)6
+semantic_tags:
+  - Crystallography
+  - Neutron diffraction
+  - Transition metal complexes
+  - Spin density
+  - Bonding
+tldr: The authors studied the spin density and bonding in ammonium manganese Tutton salt using neutron diffraction. They found that the spin on water molecules is concentrated on the side of the oxygen atoms far from the manganese atom, and resides more on the hydrogen atoms than the oxygen atoms. The results provide evidence for the negative spin component in the Mn-O bonds arising from antibonding overlap.
+scientific_discipline: Chemistry > Inorganic Chemistry

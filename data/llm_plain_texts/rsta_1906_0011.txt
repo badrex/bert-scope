@@ -1,0 +1,10 @@
+article_id: rsta_1906_0011
+revised_title: 'Experimental Study of Explosion Pressures and Gaseous Explosives'
+semantic_tags:
+  - Explosives
+  - Pressure measurement
+  - Gas dynamics
+  - Explosion physics
+  - Instrumentation
+tldr: This article presents experiments on the pressure of explosions and the behavior of gaseous explosives. The author describes the design and use of various instruments, such as the crusher gauge and chronograph, to measure the pressure and rate of explosion. The study focuses on the effects of factors like the size and shape of the explosive charge, the enclosure, and the initial pressure and composition of the gaseous mixtures. The research provides valuable insights into the scientific treatment of explosions and the development of explosives for various applications.
+scientific_discipline: Physics > Gas dynamics and explosion physics

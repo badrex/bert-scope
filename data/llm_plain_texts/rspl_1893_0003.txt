@@ -1,0 +1,10 @@
+article_id: rspl_1893_0003
+revised_title: Investigating the Mechanical Equivalent of Heat and Electrical Units
+semantic_tags:
+  - Thermodynamics
+  - Heat capacity
+  - Electrical resistance
+  - Calorimetry
+  - Temperature coefficients
+tldr: This article presents an investigation into the mechanical equivalent of heat and the relation between electrical and mechanical units. The authors conducted experiments using a calorimeter and determined the capacity for heat of water at different temperatures. They also studied the effect of stirring rates and temperature coefficients on their findings. The results provide a better understanding of the mechanical equivalent of heat and the connection between electrical and mechanical units.
+scientific_discipline: Physics > Thermodynamics

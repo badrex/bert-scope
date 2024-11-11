@@ -1,0 +1,12 @@
+reversible formation of starch from glucose-1-phosphate, has been isolated from potato tubers. The enzyme is most active at pH 5-6 and has a molecular weight of about 300,000. The reaction proceeds by the transfer of a phosphate group from glucose-1-phosphate to an acceptor molecule, which is then converted into starch. The enzyme is specific for glucose-1-phosphate and does not act on other sugars or sugar phosphates. The reaction is inhibited by inorganic phosphate and by the products of the reaction, glucose and inorganic phosphate. The enzyme is also inhibited by heavy metal ions, such as copper and mercury. The significance of these findings for the understanding of starch synthesis in plants is discussed.
+
+revised_title: "Reversible Formation of Starch from Glucose-1-Phosphate: Enzymatic Mechanism and Inhibitors"
+semantic_tags:
+  - Enzyme
+  - Starch synthesis
+  - Glucose-1-phosphate
+  - Phosphorylase
+  - Inhibitors
+tldr: The author discovered an enzyme called phosphorylase that can convert glucose-1-phosphate into starch. The enzyme is found in potato tubers and works by transferring a phosphate group to an acceptor molecule, which then forms starch. The reaction is inhibited by inorganic phosphate, heavy metal ions, and the products of the reaction, glucose and inorganic phosphate. This discovery helps us understand how starch is synthesized in plants.
+scientific_discipline: Biology and Life Sciences > Biochemistry
+```

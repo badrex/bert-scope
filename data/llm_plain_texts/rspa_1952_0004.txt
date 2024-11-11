@@ -1,0 +1,10 @@
+article_id: rspa_1952_0004
+revised_title: 'Hückel Approximation and Electronic States in Molecules'
+semantic_tags:
+  - Quantum Chemistry
+  - Molecular Orbital Theory
+  - Conjugated Systems
+  - Valence Bond Theory
+  - Benzene
+tldr: The authors analyze the Hückel approximation, a method used to study the energy levels of conjugated systems, and reformulate it using the valence-bond method. They show that the approximation is valid for calculating resonance energies but may not be accurate for studying excited states. The authors also discuss the role of in-plane electrons in the molecule and their impact on the Hamiltonian and wave function.
+scientific_discipline: Chemistry > Quantum Chemistry

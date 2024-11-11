@@ -1,0 +1,10 @@
+article_id: 'rsta_1992_0004'
+revised_title: 'Adhesion Mechanisms and Surface Treatments for Thermoplastic Fiber Composites'
+semantic_tags:
+  - Adhesion
+  - Surface Treatments
+  - Thermoplastic Composites
+  - Structural Adhesives
+  - Fracture Mechanics
+tldr: The authors investigate the adhesion of thermoplastic fiber composites, focusing on surface treatments and their effects on adhesive fracture energies. They find that a critical intensity of corona treatment prevents interfacial failure and that the locus of joint failure can be predicted using stress field analysis and interlaminar fracture stress measurements.
+scientific_discipline: Engineering and Technology > Materials Science

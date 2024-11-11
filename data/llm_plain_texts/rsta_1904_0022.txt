@@ -1,0 +1,10 @@
+article_id: 'rsta_1904_0022'
+revised_title: 'On the Resistance and Electromotive Forces of the Electric Arc: A New Approach'
+semantic_tags:
+  - Electrical resistance
+  - Electromotive force
+  - Electric arc
+  - Conductors
+  - Power factor
+tldr: This article explores the nature of the physical processes occurring in the electric arc and the mechanism by which it conducts electricity. The author proposes a new method to determine the resistance and electromotive force of the arc by using high-frequency oscillations and analyzing the power factor. The study aims to provide a better understanding of the electric arc's behavior and its potential applications in various fields.
+scientific_discipline: Engineering and Technology > Electrical Engineering

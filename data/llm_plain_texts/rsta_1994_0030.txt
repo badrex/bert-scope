@@ -1,0 +1,10 @@
+article_id: rsta_1994_0030
+revised_title: 'Advancements in Statistical Energy Analysis: Formulating SEA Parameters Using Mobility Functions'
+semantic_tags:
+  - Statistical Energy Analysis
+  - Mobility Functions
+  - Power Balance Equations
+  - Structural-Acoustic Systems
+  - Engineering Applications
+tldr: This article focuses on the formulation of SEA parameters using mobility functions, simplifying the calculation of power inputs, damping loss factors, and coupling loss factors in complex structural-acoustic systems. The authors emphasize a practical approach to computing coupling loss factors, making it possible to apply SEA to a wide range of engineering applications.
+scientific_discipline: Engineering and Technology > Mechanical Engineering

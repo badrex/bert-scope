@@ -1,0 +1,10 @@
+article_id: rspa_1984_0015
+revised_title: Solving Einstein's Equations Near Spatial Infinity
+semantic_tags:
+  - General Relativity
+  - Spatial Infinity
+  - Conserved Quantities
+  - Asymptotic Structures
+  - Gravitational Waves
+tldr: The authors study the integrability of Einstein's equations near spatial infinity for metrics that are expandable. They find that the equations can be solved to all orders if certain conserved quantities, built from the first-order field, vanish. This research contributes to understanding the behavior of isolated systems in general relativity and has implications for the study of conserved quantities, such as energy-momentum and angular momentum.
+scientific_discipline: Physics > General Relativity

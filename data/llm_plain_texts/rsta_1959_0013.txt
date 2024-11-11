@@ -1,0 +1,10 @@
+article_id: rsta_1959_0013
+revised_title: Asymptotic Expansion and Solution of a Diffraction Problem in a Narrow Double Wedge
+semantic_tags:
+  - Diffraction
+  - Asymptotic Expansion
+  - Narrow Double Wedge
+  - Reflexion Coefficient
+  - Evanescent Mode Correction
+tldr: The authors investigate the diffraction problem of a narrow double wedge, focusing on the strong reflexion and quasi-static effects. They determine the asymptotic behavior of the solution by analyzing the edge singularities and propose an approximate solution. The reflexion coefficient and the end correction are evaluated, and the results are compared with other authors' findings, revealing a new effect called the evanescent mode correction.
+scientific_discipline: Physics > Electromagnetism

@@ -1,0 +1,10 @@
+article_id: 'rspa_1990_0136'
+revised_title: 'Crum Transformation for Third-Order Scattering Problems'
+semantic_tags:
+  - Scattering Theory
+  - Crum Transformation
+  - Sawada-Kotera Equation
+  - Pfaffians
+  - Hirota Form
+tldr: The author presents the Crum transformation for a third-order scattering problem associated with the Sawada-Kotera equation. This transformation uses pfaffians instead of wronskians and has applications in soliton theory and the study of nonlinear partial differential equations.
+scientific_discipline: Mathematics > Applied Mathematics

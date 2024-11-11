@@ -1,0 +1,11 @@
+article_id: 'rstb_1989_0079'
+revised_title: 'Epidemiological and Statistical Analysis of AIDS Survival Times in the UK'
+semantic_tags:
+  - Epidemiology
+  - AIDS
+  - Survival Analysis
+  - Statistical Modeling
+  - Public Health
+tldr: 'This article analyzes the overall distribution of survival times for UK AIDS patients. The authors use modified exponential and Weibull distributions to account for unique features of the data, such as the recording of survival times to the nearest month and the significant proportion of cases with virtually simultaneous diagnosis and death. The study finds that a simple exponential model is suitable for describing the distribution of survival times, with about 80% of the 110 cases recorded as having zero time on study being genuine zeros.'
+
+scientific_discipline: Medicine and Health Sciences > Epidemiology

@@ -1,0 +1,10 @@
+article_id: 'rspb_1988_0015'
+revised_title: 'Development of Stimulus Selectivity and Functional Organization in the Suprasylvian Visual Cortex of the Cat'
+semantic_tags:
+  - Visual Cortex
+  - Cat Neurophysiology
+  - Visual Development
+  - Receptive Fields
+  - Directional Selectivity
+tldr: The authors recorded from single neurons in the suprasylvian visual cortex of cats aged between nine days and eight weeks. They found that the majority of responsive cells in the medial bank of the middle suprasylvian sulcus were selective for image motion along one particular axis and a majority of these were direction-selective. The development of stimulus selectivity in the suprasylvian visual cortex occurs rapidly within the first three weeks of postnatal life.
+scientific_discipline: Biology and Life Sciences > Neuroscience

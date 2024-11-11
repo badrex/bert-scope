@@ -1,0 +1,10 @@
+article_id: 110731
+revised_title: Lunar Influence on the Mean Annual Height of the Barometer in London
+semantic_tags:
+  - Meteorology
+  - Barometer
+  - Lunar cycles
+  - Climate
+  - Atmospheric science
+tldr: The author analyzed the barometrical averages in London from 1815 to 1832, observing the influence of the moon's declination on the climate. He found that there is a gradation of effect in the lunar influence, which operates through an eighteen-year cycle. The sun's varying influence prevents a simple pattern from forming, making the problem complex.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

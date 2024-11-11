@@ -1,0 +1,10 @@
+article_id: rspa_1995_0065
+revised_title: Universal Quantum Gates and Computational Universality
+semantic_tags:
+  - Quantum Computing
+  - Quantum Gates
+  - Computational Complexity
+  - Quantum Algorithms
+  - Quantum Cryptography
+tldr: The authors demonstrate that almost every two-bit quantum gate is a universal gate in quantum computation. They discuss various physical considerations for defining universality in computational components like logic gates and explain how quantum computers can perform tasks that classical computers cannot. This discovery confirms and extends the conjecture that most three-bit quantum gates are universal, showing the profound property of computational universality in the laws of physics.
+scientific_discipline: Physics > Quantum Mechanics

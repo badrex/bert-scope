@@ -1,0 +1,10 @@
+article_id: rspa_1933_0062
+revised_title: 'Atomic Volume Changes in Copper-Zinc Alloys and the Beta-Transformation'
+semantic_tags:
+  - Alloy Chemistry
+  - Phase Transitions
+  - X-ray Crystallography
+  - Solid Solution
+  - Copper-Zinc Alloys
+tldr: The authors studied the change in mean atomic volume in copper-zinc alloys as a function of temperature using X-ray analysis. They found that the mean atomic volume remains constant in pure phases but changes in mixed regions. The results suggest that changes in solid solubility may be responsible for the observed effects, with atoms going in and out of solution in the different constituents of the alloy as the temperature changes.
+scientific_discipline: Chemistry > Alloy Chemistry

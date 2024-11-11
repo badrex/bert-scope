@@ -1,0 +1,10 @@
+article_id: rspl_1879_0012
+revised_title: Development of an Induction-Currents Balance and Its Applications
+semantic_tags:
+  - Electromagnetism
+  - Induction balance
+  - Sound measurement
+  - Metal identification
+  - Hearing sensitivity
+scientific_discipline: Physics > Electromagnetism
+tldr: The author developed an induction-currents balance, a sensitive instrument that can detect and measure disturbances caused by different metals and alloys. The instrument can be used to identify the composition of metals, measure hearing sensitivity, and even detect counterfeit coins. The author also discusses the potential for further research and improvements to the instrument.

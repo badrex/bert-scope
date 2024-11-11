@@ -1,0 +1,10 @@
+article_id: rspl_1883_0084
+revised_title: Transient Electric Currents in Iron and Steel Conductors: The Effects of Torsion and Magnetisation
+semantic_tags:
+  - Electromagnetism
+  - Magnetic susceptibility
+  - Stress and magnetism
+  - Torsional stress
+  - Circular magnetisation
+tldr: The author investigates the production of transient electric currents in iron and steel conductors when they are twisted while magnetised or magnetised while twisted. The study shows that these currents are due to the production of a state of circular magnetisation as a result of torsional stress and longitudinal magnetism acting jointly. The findings contribute to the understanding of the effects of stress on magnetic susceptibility and residual magnetism.
+scientific_discipline: Physics > Electromagnetism

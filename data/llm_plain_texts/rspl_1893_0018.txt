@@ -1,0 +1,10 @@
+article_id: rspl_1893_0018
+revised_title: Surface Energy and Temperature: A Study on Liquids and Molecular Association
+semantic_tags:
+  - Surface Energy
+  - Thermodynamics
+  - Molecular Association
+  - Liquids
+  - Temperature
+tldr: This article investigates the relationship between surface energy and temperature in various liquids. The authors find that a rectilinear relation exists for some liquids, while others exhibit molecular association. They also develop a method to determine the molecular complexity of undiluted liquids. The study includes ether, methyl formate, ethyl acetate, carbon tetrachloride, benzene, chlorobenzene, acetic acid, and methyl and ethyl alcohols.
+scientific_discipline: Chemistry > Thermodynamics and Surface Chemistry

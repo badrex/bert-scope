@@ -1,0 +1,10 @@
+article_id: rspa_1965_0066
+revised_title: 'Resistivity Changes in Plutonium, Neptunium, and Uranium due to Radioactive Self-Damage'
+semantic_tags:
+  - Radioactive materials
+  - Resistivity
+  - Self-damage
+  - Actinide metals
+  - Low-temperature properties
+tldr: The authors investigated the increase in resistivity of plutonium, neptunium, and uranium due to radioactive self-damage at low temperatures. They found that the resistivity of these materials increases with time, and the rate of increase depends on the crystal structure and isotopic content of the sample. The temperature dependence of the accumulated resistivities deviates from Matthiesen's rule, and the resistivity of fully damaged plutonium is almost temperature-independent.
+scientific_discipline: Physics > Materials Science

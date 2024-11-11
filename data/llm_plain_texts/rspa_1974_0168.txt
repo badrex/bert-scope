@@ -1,0 +1,10 @@
+article_id: rspa_1974_0168
+revised_title: Vibrational Energy Dependence of Radiationless Conversion in Aromatic Vapours
+semantic_tags:
+  - Photophysics
+  - Vibrational energy
+  - Radiationless conversion
+  - Aromatic molecules
+  - Intersystem crossing
+tldr: The authors conducted experiments on the decay rates of excited states in various aromatic molecules, such as naphthalene, anthracene, 1-2 benzanthracene, chrysene, and pyrene, as a function of excess vibrational energy. They found that the fluorescence lifetimes of these molecules decrease with increasing excitation energy within the first excited singlet state. The authors explain this phenomenon in terms of bond length changes between the excited singlet state and the first triplet state, and the symmetry of the first singlet state. They also discuss the effect of added foreign gas on fluorescence lifetimes and triplet yields, which they interpret using a model that allows the non-radiative decay probability to vary with the degree of vibrational excitation.
+scientific_discipline: Chemistry > Photophysics

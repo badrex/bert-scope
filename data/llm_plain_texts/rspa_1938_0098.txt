@@ -1,0 +1,11 @@
+article_id: rspa_1938_0098
+revised_title: X-ray Study of Iron-Nickel-Aluminium Ternary Equilibrium Diagram
+semantic_tags:
+  - X-ray crystallography
+  - Phase diagrams
+  - Iron-nickel-aluminium alloys
+  - Superlattices
+  - Body-centered cubic phase
+  - Face-centered cubic phase
+tldr: This article presents an X-ray study of the iron-nickel-aluminium ternary equilibrium diagram, focusing on the phase equilibria and structures of the alloys. The authors discovered a wide area of solid solubility stretching from pure iron to the compound NiAl and found that the boundaries of the face-centered cubic and body-centered cubic phase fields are sensitive to heat treatment. The study provides a complete ternary diagram representing the phases formed by these metals, contributing to the understanding of their properties and potential applications.
+scientific_discipline: Materials Science > Alloy Development and Characterization

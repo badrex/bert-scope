@@ -1,0 +1,10 @@
+article_id: 'rspb_1983_0080'
+revised_title: 'Effects of Microtubule Dissociating Agents on Sensory Neurons in Cockroach Tactile Spines'
+semantic_tags:
+  - Sensory neurons
+  - Microtubules
+  - Mechanotransduction
+  - Cockroach
+  - Tactile spine
+tldr: The authors investigated the effects of microtubule dissociating agents, such as colchicine, vinblastine, and lumicolchicine, on the physiology and cytology of sensory neurons in the femoral tactile spine of the cockroach. They found that all three drugs reduced the mechanical sensitivity of the receptor and affected its ultrastructure. The results suggest that microtubules are not essential for transduction of mechanical stimuli in cuticular receptors, and the effects of these drugs on mechanosensitivity are more likely due to their actions on the cell membrane rather than the disruption of microtubules.
+scientific_discipline: Biology and Life Sciences > Neurobiology

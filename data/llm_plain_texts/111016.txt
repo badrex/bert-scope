@@ -1,0 +1,10 @@
+article_id: 111016
+revised_title: 'Magnetic Telegraph for Determining Longitude'
+semantic_tags:
+  - Telecommunications
+  - Timekeeping
+  - Astronomy
+  - Longitude determination
+  - Magnetic telegraph
+tldr: The author describes a series of experiments conducted to determine the difference in longitude using the magnetic telegraph. The experiments involved comparing the time of two clocks, one in New York and one in Cambridge, by sending signals through the telegraph. The results showed that the difference in longitude could be determined with a high level of precision, paving the way for more accurate timekeeping and navigation.
+scientific_discipline: Physics > Telecommunications

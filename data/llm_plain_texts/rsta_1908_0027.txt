@@ -1,0 +1,10 @@
+article_id: rsta_1908_0027
+revised_title: 'Spectral Analysis of Benzene and its Homologues at Different Temperatures and Pressures'
+semantic_tags:
+  - Spectroscopy
+  - Benzene
+  - Absorption spectrum
+  - Temperature effects
+  - Pressure effects
+tldr: The author investigates the absorption spectra of benzene and its homologues at different temperatures and pressures, using continuous light sources from condensed sparks. They find that the absorption bands widen when temperature and pressure change, and their findings confirm previous measurements by other researchers. The study provides insights into the molecular absorption of benzene and its derivatives.
+scientific_discipline: Chemistry > Spectroscopy

@@ -1,0 +1,10 @@
+article_id: rspa_1988_0092
+revised_title: Rigidity Analysis of Triangulated Hyperbolic Paraboloids
+semantic_tags:
+  - Structural Engineering
+  - Hyperbolic Paraboloids
+  - Rigidity
+  - Kinematic Indeterminacy
+  - Static Indeterminacy
+tldr: The authors investigate the rigidity of two types of triangulated hyperbolic paraboloidal structures, type 1 with straight boundaries and type 2 with parabolic boundaries. They find that both types satisfy Maxwell's rule, but type 1 assemblies with even edge numbers and greater than 2, and type 2 assemblies with specific conditions, are not rigid. The study provides a general formula for the number of inextensional mechanisms and static redundancies in single-sheet triangulated hypars of type 1 and 2, and extends the findings to four-sheet hypars.
+scientific_discipline: Engineering and Technology > Structural Engineering

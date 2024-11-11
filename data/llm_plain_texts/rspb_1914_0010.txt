@@ -1,0 +1,10 @@
+article_id: 'rspb_1914_0010'
+revised_title: 'The Influence of Tissue Resonance on Blood Pressure Measurements'
+semantic_tags:
+  - Blood pressure
+  - Pulse transmission
+  - Arterial wall properties
+  - Tissue resonance
+  - Sphygmomanometry
+tldr: The authors conducted experiments to understand the influence of tissue resonance on blood pressure measurements. They discovered that the resonance of tissues surrounding the arteries can affect the transmission of the pulse and blood pressure readings. The resonance of tissues can either enhance or dampen the pulse, depending on the anatomical conditions of the area. This finding has implications for accurate blood pressure measurements and understanding the role of arterial walls in blood pressure regulation.
+scientific_discipline: 'Medicine and Health Sciences > Physiology'

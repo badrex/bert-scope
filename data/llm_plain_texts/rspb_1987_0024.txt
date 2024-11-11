@@ -1,0 +1,10 @@
+article_id: 'rspb_1987_0024'
+revised_title: 'Regulation of Nicotinic Acetylcholine Receptor-Channel by the C-Kinase System'
+semantic_tags:
+  - 'Neurochemistry'
+  - 'Acetylcholine Receptor'
+  - 'C-Kinase'
+  - 'Phosphoinositide Turnover'
+  - 'Patch-Clamp Techniques'
+tldr: The article explores how acetylcholine may regulate its own nicotinic receptor-channel through the C-kinase system. The researchers used patch-clamp techniques on chick embryo myotubes and found that substances like 12-O-tetradecanoylphorbol-13-acetate (TPA) and exogenous phospholipase C altered the conductance and gating behavior of the ACh-activated channel. They propose that acetylcholine regulates its own receptor-channel through PKC stimulation.
+scientific_discipline: Biology and Life Sciences > Neurochemistry

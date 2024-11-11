@@ -1,0 +1,10 @@
+article_id: '107477'
+revised_title: 'Improving the Accuracy of Star Catalogues: A New Method for Astronomical Observations'
+semantic_tags:
+  - Astronomy
+  - Star Catalogues
+  - Observational Astronomy
+  - Mural Circle
+  - Transit Instrument
+tldr: The author proposes a new method for constructing star catalogues that improves accuracy and reduces the time required for observations. By using multiple stars as reference points and employing a more efficient process for calculating index errors, the new method allows for more precise and faster star positioning, making it easier to create accurate star catalogues.
+scientific_discipline: Astronomy > Observational Astronomy

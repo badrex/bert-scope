@@ -1,0 +1,10 @@
+article_id: rsta_1894_0007
+revised_title: On the Geometrical Properties of Plane Cubics
+semantic_tags:
+  - Algebraic Geometry
+  - Cubic Curves
+  - Geometric Constructions
+  - Inflexional Tangents
+  - Hessian and Cayleyan
+tldr: The article discusses the geometrical properties of plane cubics, focusing on the Hessian and Cayleyan curves. It presents constructions for these curves and explores their relationship with special cubics, such as the equianharmonic cubic. The author also investigates the conditions for a cubic to be harmonic and the properties of the inflexional tangents.
+scientific_discipline: Mathematics > Algebraic Geometry

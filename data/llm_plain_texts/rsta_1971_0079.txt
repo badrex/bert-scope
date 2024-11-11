@@ -1,0 +1,10 @@
+article_id: 'rsta_1971_0079'
+revised_title: 'Ocean Currents and Time-Varying Dynamics'
+semantic_tags:
+  - Oceanography
+  - Ocean Currents
+  - Meteorological Input
+  - Black Box Theory
+  - Time-Varying Response
+tldr: The article discusses the study of ocean currents and their dynamics, focusing on time-varying currents and their response to meteorological stimuli. The author emphasizes the importance of understanding the relationship between input and output data, as well as the challenges faced in gathering and analyzing this information. The article highlights the potential benefits of studying ocean current dynamics, including its applications in biogeography, navigation, and understanding the interaction between the ocean and the atmosphere.
+scientific_discipline: Environmental and Earth Sciences > Oceanography

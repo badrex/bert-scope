@@ -1,0 +1,10 @@
+article_id: rspl_1902_0006
+revised_title: Equilibrium Configurations of Rotating Liquid Cylinders
+semantic_tags:
+  - Fluid Dynamics
+  - Mathematical Physics
+  - Celestial Mechanics
+  - Differential Equations
+  - Hydrodynamics
+tldr: This article presents a method for determining the equilibrium configurations of a rotating liquid cylinder. The author develops a transformation technique to write down the potential by transforming the equation of the boundary. The study investigates linear series of circles and ellipses, finding that exchange of stabilities occurs at a specific point. The configurations evolve from pear-shaped forms to those resembling a soda-water bottle and eventually a tennis-racquet shape.
+scientific_discipline: Physics > Fluid Dynamics

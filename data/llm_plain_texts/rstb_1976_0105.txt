@@ -1,0 +1,10 @@
+article_id: 'rstb_1976_0105'
+revised_title: 'A Comparative Study of ssRNA and dsDNA Bacteriophages Assembly and Genome Packaging'
+semantic_tags:
+  - Bacteriophages
+  - RNA structure
+  - DNA packaging
+  - Capsid formation
+  - Virus assembly
+tldr: This article discusses the differences in assembly and genome packaging mechanisms between single-stranded RNA (ssRNA) and double-stranded DNA (dsDNA) bacteriophages. It highlights that ssRNA bacteriophages use RNA as a core and initiator for capsid formation, while dsDNA bacteriophages rely on preformed capsids. The article also explores the role of RNA's compact structure and flexibility in its packaging process, which is different from the more rigid and volume-occupying nature of dsDNA.
+scientific_discipline: Biology and Life Sciences > Virology

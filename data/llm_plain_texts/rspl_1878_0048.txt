@@ -1,0 +1,10 @@
+article_id: rspl_1878_0048
+revised_title: Determination of Cup Anemometer Constants Using a Whirling Machine
+semantic_tags:
+  - Fluid Dynamics
+  - Meteorology
+  - Wind Measurement
+  - Anemometers
+  - Whirling Machines
+tldr: The author conducted experiments using a whirling machine to determine the constants of the cup anemometer. They described the apparatus, conditions of an anemometer's action, and the methods used to measure various factors. The results showed that the constants could be determined with a high degree of accuracy, allowing for better wind measurements and understanding of weather patterns.
+scientific_discipline: Environmental and Earth Sciences > Meteorology

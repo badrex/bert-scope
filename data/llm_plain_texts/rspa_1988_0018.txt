@@ -1,0 +1,10 @@
+article_id: rspa_1988_0018
+revised_title: Complementary Set Partitions and Their Applications
+semantic_tags:
+  - Combinatorics
+  - Set Theory
+  - Mathematical Notation
+  - Partition Lattices
+  - Stirling Numbers
+tldr: This article discusses the computation and design of a table of complementary pairs of set partitions, focusing on the connections between partitions and cumulants in statistics. The authors introduce partitions of numbers and sets, and explain the natural orderings and notations used to describe them. They also explore the concept of connectedness between pairs of set partitions and the compression of the table, making it more concise and useful for practical applications.
+scientific_discipline: Mathematics > Combinatorics

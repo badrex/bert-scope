@@ -1,0 +1,10 @@
+article_id: rspl_1895_0041
+revised_title: Regression and Inheritance in Populations: A Study of Sexual Selection and Natural Selection
+semantic_tags:
+  - Population genetics
+  - Heredity
+  - Regression analysis
+  - Sexual selection
+  - Natural selection
+tldr: This article discusses the laws of heredity in populations, focusing on the concepts of regression and inheritance. It explores the impact of sexual selection and natural selection on the mean and standard deviation of offspring populations. The author also introduces the coefficients of correlation for paternal and maternal inheritance, which help measure the influence of each parent on the offspring's traits.
+scientific_discipline: Biology and Life Sciences > Population Genetics

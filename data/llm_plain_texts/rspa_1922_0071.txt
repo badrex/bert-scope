@@ -1,0 +1,10 @@
+article_id: 'rspa_1922_0071'
+revised_title: 'Investigation of Temperature Effects on Gravitational Attraction'
+semantic_tags:
+  - Gravitation
+  - Torsion balance
+  - Temperature dependence
+  - Experimental physics
+  - Newton's constant
+tldr: This study investigates the effect of temperature on the gravitational attraction using a torsion balance. The authors found that the so-called Newtonian Constant of Gravitation remains constant within the temperature range of 0°C to 250°C, which contradicts previous findings. The improved experimental setup and methods of suspension helped to minimize systematic errors and provide more accurate results.
+scientific_discipline: Physics > Experimental Physics
