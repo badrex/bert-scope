@@ -1,0 +1,15 @@
+article_id: rspa_1931_0120
+revised_title: Moment Distributions of Moments in Sampled Universes
+scientific_discipline: Mathematics > Combinatory Analysis
+semantic_tags:
+- Statistical Analysis
+- Sampling Theory
+- Combinatory Analysis
+- Mathematical Statistics
+- Probability Distributions
+tldr: The authors present a method for calculating moment distributions of samples
+  drawn from a limited universe, focusing on the mathematical expectations of moment
+  coefficients and their applications. They introduce a functional notation for moment
+  coefficients and discuss the use of symmetric functions to describe sampled universes.
+  The paper also covers the calculation of moment distributions for higher sample
+  moments, such as variance and third and fourth moments.

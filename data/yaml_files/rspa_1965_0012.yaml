@@ -1,0 +1,15 @@
+article_id: rspa_1965_0012
+revised_title: The Analysis of Randomized Experiments with Orthogonal Block Structure
+scientific_discipline: Mathematics > Matrix Algebra
+semantic_tags:
+- Experimental Design
+- Randomization Theory
+- Block Structure
+- Analysis of Variance
+- Matrix Algebra
+tldr: The authors present a unified treatment of the analysis of experimental designs
+  with an orthogonal block structure, which includes randomized blocks, Latin squares,
+  Graeco-Latin squares, split plot designs, and more. They introduce a notation for
+  simple block structures and explain how to derive the randomization theory, covariance
+  matrix, and expectations of mean squares in the null analysis of variance from the
+  block structure formula.

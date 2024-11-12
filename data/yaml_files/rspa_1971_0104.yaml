@@ -1,0 +1,15 @@
+article_id: rspa_1971_0104
+revised_title: 'Numerical Analysis of Nonlinear Hyperbolic Equations: Pseudo-Viscosity
+  Methods'
+scientific_discipline: Mathematics > Numerical Analysis
+semantic_tags:
+- Numerical Analysis
+- Partial Differential Equations
+- Pseudo-Viscosity
+- Nonlinear Hyperbolic Equations
+- Stability and Convergence
+tldr: The authors discuss the problem of nonlinear instability in difference schemes
+  for solving nonlinear hyperbolic equations. They focus on the Lax-Wendroff scheme
+  and the natural explicit scheme, showing that adding pseudo-viscosity terms can
+  lead to stability and convergence. The study of these methods can help in the numerical
+  approximation of solutions to nonlinear hyperbolic equations.

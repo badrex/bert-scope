@@ -1,0 +1,14 @@
+article_id: rspb_1995_0009
+revised_title: Spatial Dynamics and Evolution in Host-Pathogen Systems
+scientific_discipline: Biology and Life Sciences > Ecology and Evolution
+semantic_tags:
+- Epidemiology
+- Evolutionary Biology
+- Spatial Ecology
+- Disease Dynamics
+- Host-Pathogen Interactions
+tldr: The authors study a spatially extended, individual-based model of a generic
+  host-pathogen system and find that it exhibits new dynamical and evolutionary phenomena
+  compared to mean-field models. They discover that selective pressure is reduced,
+  and the pathogen population can evolve to criticality, leading to faster evolution
+  and reduced stability.

@@ -1,0 +1,15 @@
+article_id: rspa_1963_0152
+revised_title: 'Integral Equation Methods in Potential Theory: Applications and Advancements'
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Potential Theory
+- Integral Equations
+- Numerical Analysis
+- Boundary-Value Problems
+- Elasticity
+tldr: This article explores the use of Fredholm integral equations in potential theory
+  and elasticity to solve boundary-value problems. It discusses the advantages of
+  Fredholm's first equation and Green's boundary formula, and presents a method for
+  solving these equations numerically using digital computer techniques. The article
+  also highlights the potential applications of this method in various fields, such
+  as the Helmholtz equation and heat conduction.

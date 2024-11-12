@@ -1,0 +1,15 @@
+article_id: rstb_1994_0079
+revised_title: Sampling Theory for Neutral Alleles in a Varying Environment
+scientific_discipline: Biology and Life Sciences > Population Genetics
+semantic_tags:
+- Population Genetics
+- Coalescent Theory
+- Varying Population Size
+- DNA Sequence Analysis
+- Monte Carlo Method
+tldr: The authors develop a sampling theory for genes in a population with deterministically
+  varying size, using a coalescent approach. They provide recursions for the probabilities
+  of sample configurations and describe a Monte Carlo method to approximate the solutions.
+  The study focuses on infinite-alleles, infinite-sites, and finite-sites models,
+  which can be used to find maximum likelihood estimates of genetic parameters and
+  test hypotheses about the varying environment.

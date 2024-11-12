@@ -1,0 +1,14 @@
+article_id: rstb_1991_0121
+revised_title: Statistical Analysis of Superposition of Ion Channel Currents
+scientific_discipline: Biology and Life Sciences > Cell Biology
+semantic_tags:
+- Ion channels
+- Superposition
+- Statistical analysis
+- Dwell-time distributions
+- Patch-clamp recordings
+tldr: The authors study the superposition of currents from multiple ion channels and
+  derive statistical properties of the superposition under the assumption of independence.
+  They show how to determine the dwell-time distributions of individual channels from
+  the superposition and discuss the implications of these findings for analyzing patch-clamp
+  recordings.

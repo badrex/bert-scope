@@ -1,0 +1,14 @@
+article_id: '109849'
+revised_title: Efficient Methods for Calculating Planetary Excentricity from Mean
+  Anomaly
+scientific_discipline: Astronomy > Celestial Mechanics
+semantic_tags:
+- Astronomy
+- Celestial Mechanics
+- Planetary Motion
+- Mathematical Methods
+- Cassini's Approximation
+tldr: The author, Abram Robertson, presents three methods for calculating the excentricity
+  of a planet from its mean anomaly. One of these methods combines the advantages
+  of Keill's series and Cassini's approximation, making it simple in theory and efficient
+  in practice.

@@ -1,0 +1,15 @@
+article_id: rspa_1964_0228
+revised_title: A New Method for Solving Torsion Problems in Irregular Polygons
+scientific_discipline: Engineering and Technology > Mechanics
+semantic_tags:
+- Mechanics
+- Torsion
+- Boundary Value Problems
+- Polygon Geometry
+- Fourier Series
+tldr: The author presents a new method for solving torsion problems in irregular polygons.
+  The method is based on representing the boundary effects by a series of exponentially
+  decaying harmonics associated with each edge of the polygon. The resulting simultaneous
+  equations are suitable for electronic computer generation and solution. The author
+  demonstrates the power and simplicity of the method by solving the torsion problem
+  for a hollow square.

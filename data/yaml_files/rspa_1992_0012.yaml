@@ -1,0 +1,16 @@
+article_id: rspa_1992_0012
+revised_title: Exponential Improvement and Stokes Multipliers for High-Order Differential
+  Equations
+scientific_discipline: Mathematics > Differential Equations
+semantic_tags:
+- Differential Equations
+- Asymptotic Expansions
+- Stokes Phenomenon
+- Mellin Transforms
+- Exponential Integral
+tldr: The author extends the class of functions for which the smooth transition of
+  a Stokes multiplier across a Stokes line can be rigorously established to functions
+  satisfying a certain differential equation of arbitrary order. The universal error
+  function smoothing for the Stokes multipliers is found to hold for this particular
+  solution of the differential equation. The author also introduces a generalized
+  terminant function to describe the change of a multiplier across a Stokes line.

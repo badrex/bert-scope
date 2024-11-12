@@ -1,0 +1,16 @@
+article_id: rspa_1992_0094
+revised_title: 'Effect of Water Shear on Wind Wave Generation: A Simple Model'
+scientific_discipline: Environmental and Earth Sciences > Oceanography
+semantic_tags:
+- Wave Generation
+- Water Shear
+- Wind Speed
+- Kelvin-Helmholtz Instability
+- Miles Instability
+tldr: The authors analyze the stability of the air-water interface to study the effect
+  of water shear on wave generation by wind. They develop a simple model with linear
+  wind and water shear profiles, reducing the eigenvalue problem to a quartic equation.
+  The results indicate that water shear enhances the Kelvin-Helmholtz-type instability
+  and lessens the Miles-type mechanism, leading to a selection rule that suppresses
+  the growth of certain short wave components. This may be relevant to high-frequency
+  radar imaging of the ocean.

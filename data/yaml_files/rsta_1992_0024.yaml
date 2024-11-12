@@ -1,0 +1,15 @@
+article_id: rsta_1992_0024
+revised_title: Formal HDL and its Application in FM9001 Verification
+scientific_discipline: Engineering and Technology > Hardware Design and Verification
+semantic_tags:
+- Hardware Description Language
+- Formal Verification
+- Theorem Proving
+- Circuit Design
+- FM9001 Microprocessor
+tldr: The article presents a formal Hardware Description Language (HDL) and its use
+  in the verification of the FM9001 microprocessor. The HDL is formalized using the
+  Boyer-Moore logic, and the FM9001 implementation is specified using this HDL. The
+  authors mechanically checked that the HDL-based implementation specification is
+  an admissible circuit and that it implements its user-level specification using
+  the Boyer-Moore theorem-proving system.

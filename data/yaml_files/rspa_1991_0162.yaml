@@ -1,0 +1,15 @@
+article_id: rspa_1991_0162
+revised_title: Trapped Modes in a Circular Cylindrical Acoustic Waveguide
+scientific_discipline: Engineering and Technology > Acoustics
+semantic_tags:
+- Acoustics
+- Waveguides
+- Trapped modes
+- Cylindrical geometry
+- Boundary conditions
+tldr: This article explores the existence of trapped modes in a circular cylindrical
+  acoustic waveguide. The author constructs a trapped mode by using the method of
+  multipoles and shows that a certain infinite determinant vanishes when the wavenumber
+  is slightly less than the cut-off wavenumber, provided that the radius of the sphere
+  is small enough. This discovery has implications for understanding wave propagation
+  in acoustic systems.

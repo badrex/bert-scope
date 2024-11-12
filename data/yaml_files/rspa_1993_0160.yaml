@@ -1,0 +1,15 @@
+article_id: rspa_1993_0160
+revised_title: Injection Laws for Space Charge Equations in Gases and Dielectrics
+scientific_discipline: Physics > Electromagnetism
+semantic_tags:
+- Space charge equations
+- Injection laws
+- Electrode behavior
+- Charge transport
+- Dielectrics and gases
+tldr: The authors compare three models for the injection of space charge from an electrode
+  into a medium in gases and dielectrics. They examine injection laws where the electric
+  field, charge, or current is specified and calculate the resulting voltage-current
+  characteristics. The study shows that for small electrodes, the bulk field distribution
+  is almost independent of the injection process, and the field-specified and charge-specified
+  models are always stable.

@@ -1,0 +1,17 @@
+article_id: rspa_1981_0050
+revised_title: Fluid Dynamics and Evolution of Stars
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Stellar Evolution
+- Fluid Dynamics
+- Angular Momentum
+- Free Boundary Problem
+- Secular Contraction
+tldr: This article presents a fluid-dynamical formulation to follow the secular evolution
+  of a model star with an arbitrary amount of angular momentum. The novel feature
+  of this formulation is the introduction and systematic use of material functions,
+  which facilitate the treatment of the free boundary of the star and enable the use
+  of circulation as a priori constants of motion. The equations of secular evolution
+  are well adapted to studying bifurcation from families of compressible ellipsoids
+  and can be applied to various contexts, including the case of axisymmetric rotating
+  stars.

@@ -1,0 +1,15 @@
+article_id: rspa_1995_0088
+revised_title: Integral Equation Method for Anisotropic Electrostatics in Composites
+scientific_discipline: Physics > Electromagnetism
+semantic_tags:
+- Electromagnetism
+- Integral Equations
+- Anisotropic Composites
+- Conductivity
+- Electrostatics
+tldr: The author presents an interface integral equation method for the electrostatic
+  problem in composites with anisotropic conductivity tensors. The electric potential
+  is represented by a single-layer charge density on the component interfaces, and
+  the integral equation is solved to accurately compute effective properties of locally
+  anisotropic composites. This method demonstrates potential for composites with general
+  geometries.

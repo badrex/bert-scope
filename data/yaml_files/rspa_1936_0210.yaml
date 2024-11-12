@@ -1,0 +1,15 @@
+article_id: rspa_1936_0210
+revised_title: Self-Consistent Field with Exchange for Copper Atom
+scientific_discipline: Chemistry > Atomic and Molecular Physics
+semantic_tags:
+- Atomic Physics
+- Quantum Mechanics
+- Computational Chemistry
+- Copper Atom
+- Exchange Terms
+tldr: The authors present a self-consistent field calculation with exchange for the
+  copper atom. They discuss the challenges of solving Fock's equations for the copper
+  atom due to its sensitive outermost group and the large number of functions involved.
+  The authors successfully calculate the radial wave functions and present the results,
+  highlighting the contraction of the outermost group and the relatively small alteration
+  of the other groups in the outer shell.

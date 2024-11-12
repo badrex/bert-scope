@@ -1,0 +1,15 @@
+article_id: rspl_1880_0035
+revised_title: Cubic Curve Co-ordinates in Space
+scientific_discipline: Mathematics > Algebraic Geometry
+semantic_tags:
+- Algebra
+- Geometry
+- Mathematical Analysis
+- Mathematical Modeling
+- Mathematical Notation
+tldr: This article presents a method for finding the 48 co-ordinates of a cubic curve
+  in space. The author, William Spottiswoode, explains the process of eliminating
+  variables from two equations representing the curve and introduces a new set of
+  48 co-ordinates. The number of independent co-ordinates is reduced to 12, as it
+  should be. The article also discusses the identical relations between the U-co-ordinates
+  and the U'-co-ordinates.

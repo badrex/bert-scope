@@ -1,0 +1,17 @@
+article_id: rsta_1959_0006
+revised_title: Wave Propagation and Shock Formation in Elastoplastic Media
+scientific_discipline: Physics > Solid Mechanics
+semantic_tags:
+- Solid Mechanics
+- Wave Propagation
+- Shock Waves
+- Elastoplasticity
+- Stress-Strain Relations
+tldr: This article investigates the propagation of plane irrotational waves through
+  elastoplastic media, focusing on interactions between elastic and plastic waves
+  and the formation and propagation of shock waves. The author derives a stress-strain
+  relation and analyzes the breakdown of a smooth plastic compression wave into a
+  shock wave, showing that the heat dissipated is proportional to the cube of the
+  strain jump. The article also presents a solution for the elastic unloading of a
+  plastic compression front during shock formation and provides a numerical illustration
+  for a particular pulse in aluminum.

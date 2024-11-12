@@ -1,0 +1,16 @@
+article_id: rsta_1979_0068
+revised_title: 'Strange Attractors in Nonlinear Oscillators: A Case Study'
+scientific_discipline: Mathematics > Differential Equations
+semantic_tags:
+- Chaos Theory
+- Nonlinear Dynamics
+- Bifurcation Theory
+- Strange Attractors
+- Differential Equations
+tldr: This article studies a nonlinear oscillator with a strange attractor, which
+  demonstrates complex, non-periodic motions. The author uses recent results from
+  Mel'nikov and others to prove the existence of these motions and analyzes their
+  structure using the Poincaré map. The strange attractor arises from a deterministic
+  differential equation and is connected to homoclinic orbits resulting from global
+  bifurcations. The article highlights the limitations of conventional averaging methods
+  in detecting or obscuring important behavior in nonlinear vibrations.

@@ -1,0 +1,16 @@
+article_id: rspa_1956_0085
+revised_title: 'Molecular Orbital Wave Functions for Methane and Silane: A New Approach'
+scientific_discipline: Chemistry > Quantum Chemistry
+semantic_tags:
+- Quantum Chemistry
+- Molecular Orbital Theory
+- Hartree Self-Consistent Field Method
+- Methane
+- Silane
+tldr: The authors developed a new method for calculating molecular orbital wave functions
+  for methane and silane using the Hartree self-consistent field method. They found
+  that the central field approximation, which treats the molecule as a single entity,
+  is a good approximation for these molecules. However, the method fails to predict
+  a stable bound state for silane, and there is still a discrepancy between the calculated
+  and experimental bond lengths. The authors suggest that further improvements may
+  be needed in the central field approximation or the molecular orbital method itself.

@@ -1,0 +1,16 @@
+article_id: rspa_1991_0147
+revised_title: Computational Study of Vortex Breakdown Topology
+scientific_discipline: Fluid Dynamics > Aerodynamics
+semantic_tags:
+- Fluid Dynamics
+- Vortex Breakdown
+- Navier-Stokes Equations
+- Computational Fluid Dynamics
+- Aerodynamics
+tldr: This article presents a fully three-dimensional numerical simulation of vortex
+  breakdown using the unsteady, incompressible Navier-Stokes equations. The study
+  identifies and compares four distinct types of breakdown and analyzes their topological
+  structure and interrelationships. The results reveal that asymmetric modes of breakdown
+  may be subject to additional breakdowns as the vortex core evolves in the streamwise
+  direction, and the freestream axial velocity distribution significantly affects
+  the position and type of vortex breakdown.

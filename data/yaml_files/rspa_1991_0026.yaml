@@ -1,0 +1,16 @@
+article_id: rspa_1991_0026
+revised_title: 'Elastohydrodynamic Lubrication: A Semi-Analytic Approach to the Transition
+  Region'
+scientific_discipline: Engineering and Technology > Mechanical Engineering
+semantic_tags:
+- Elastohydrodynamic Lubrication
+- Piezoviscosity
+- Chebyshev Series Method
+- Film Thickness
+- Pressure Distribution
+tldr: The authors present a semi-analytic approach for the elastohydrodynamic lubrication
+  problem of two cylinders in line contact, considering the effects of elastic deformation
+  and piezo-viscosity in the transition region. They use a Chebyshev series method
+  to accurately represent the pressure spike and film thickness, providing a smooth
+  connection between different areas of parameter space. This method can be applied
+  to a wide range of contacts, from heavily loaded to more lightly loaded ones.

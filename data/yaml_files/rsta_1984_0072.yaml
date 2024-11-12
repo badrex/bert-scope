@@ -1,0 +1,15 @@
+article_id: rsta_1984_0072
+revised_title: Invariance and Non-Determinacy in Mathematical Logic and Programming
+  Languages
+scientific_discipline: Mathematics > Logic and Foundations
+semantic_tags:
+- Programming Languages
+- Mathematical Logic
+- Invariance
+- Non-Determinacy
+- Synchronization
+tldr: The article discusses the role of predicates in proving the correctness of programs,
+  particularly in non-deterministic systems. It highlights the importance of invariance
+  and non-determinacy in programming languages and the use of the predicate calculus
+  for program derivation. The author also touches upon the challenges of using formal
+  techniques and the need for careful choice of extra-logical primitives and notation.

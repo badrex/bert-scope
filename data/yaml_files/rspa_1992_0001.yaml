@@ -1,0 +1,15 @@
+article_id: rspa_1992_0001
+revised_title: Simple Existence Proofs of Weak and Statistical Solutions of Navier-Stokes
+  Equations
+scientific_discipline: Mathematics > Analysis
+semantic_tags:
+- Fluid Dynamics
+- Navier-Stokes Equations
+- Non-Standard Analysis
+- Statistical Solutions
+- Weak Solutions
+tldr: The authors provide a simple proof of existence for weak and statistical solutions
+  of the Navier-Stokes equations using non-standard analysis. The method is based
+  on solving a hyperfinite-dimensional version of the equation, and the standard part
+  of the solution gives the required weak solution of the Navier-Stokes equations.
+  This approach simplifies and shortens the original proofs, making them more accessible.

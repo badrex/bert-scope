@@ -1,0 +1,16 @@
+article_id: rspa_1971_0094
+revised_title: Asymptotic Error Expansions in Numerical Analysis of Partial Differential
+  Equations
+scientific_discipline: Mathematics > Numerical Analysis
+semantic_tags:
+- Numerical Analysis
+- Partial Differential Equations
+- Asymptotic Error Expansions
+- Finite-Difference Schemes
+- Richardson Extrapolation
+tldr: This article discusses recent applications of asymptotic error expansions to
+  finite-difference schemes for solving partial differential equations. It covers
+  topics such as linear multistep methods, extrapolation procedures, and deferred
+  corrections. The author presents various techniques for increasing the rate of convergence
+  and improving the accuracy of finite-difference approximations to elliptic problems
+  with smooth solutions.

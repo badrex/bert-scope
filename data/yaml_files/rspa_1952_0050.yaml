@@ -1,0 +1,15 @@
+article_id: rspa_1952_0050
+revised_title: Aerosol Formation by Condensation of Dilute Vapour in a Carrier Gas
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Aerosol formation
+- Condensation
+- Carrier gas
+- Vapour
+- Kinetic equations
+tldr: The authors study the formation of an aerosol by condensation of a dilute vapour
+  in a carrier gas. They examine the process theoretically and show how the partial
+  differential equations of this kind of problem can be reduced to a set of ordinary
+  differential equations, which can be more easily handled numerically. An approximate
+  solution is obtained, demonstrating how the average particle size depends on the
+  rate of cooling and the time of quenching.

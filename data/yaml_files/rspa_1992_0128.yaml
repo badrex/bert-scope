@@ -1,0 +1,16 @@
+article_id: rspa_1992_0128
+revised_title: 'Conductivity of a Sheet with Inclusions: Analyzing Polygonal Corners'
+scientific_discipline: Physics > Materials Science
+semantic_tags:
+- Conductivity
+- Polygonal Inclusions
+- Integral Equation
+- Electrical Conductivity
+- Effective Medium Theories
+tldr: The authors study the conductivity of a sheet containing polygonal inclusions
+  with sharp corners. They develop an integral equation for the surface charge on
+  the interface between the polygonal inclusion and the host material. The conductivity
+  of the sheet can be determined from the induced dipole associated with this charge
+  distribution. The authors provide detailed results for 3, 4, and 6-sided polygons
+  and discuss the applicability of their findings to thermal conductivity and dielectric
+  media.

@@ -1,0 +1,16 @@
+article_id: rspa_1995_0092
+revised_title: A New Approach to Quantum Mechanics Using Stochastic Variational Principles
+scientific_discipline: Physics > Quantum Mechanics
+semantic_tags:
+- Quantum Mechanics
+- Stochastic Variational Principle
+- Control Theory
+- Hamilton's Principle
+- Quantum Field Theory
+tldr: The author presents a stochastic variational treatment of quantum mechanics
+  using control theory methods. This approach extends earlier results and applies
+  them to relativistic systems, Dirac's equation, and elementary quantum field theory.
+  The wave function is seen as a modified form of the optimal cost function, and the
+  photon is identified as a singularity in the electromagnetic field. Interference
+  is explained through the optimization of an expected value, depending on the information
+  available about the system.

@@ -1,0 +1,14 @@
+article_id: rsta_1995_0090
+revised_title: Experimental Verification of Horseshoes in Electronic Circuits
+scientific_discipline: Engineering and Technology > Circuit Design
+semantic_tags:
+- Chaos Theory
+- Circuit Design
+- Nonlinear Dynamics
+- Electronic Circuits
+- Poincare Maps
+tldr: This article describes the experimental verification of horseshoes in electronic
+  circuits, providing a real-time investigation of complex dynamics. The authors discuss
+  three different circuits and their corresponding measurement setups, focusing on
+  the visualization of Poincare return maps and the detection of horseshoes in both
+  non-autonomous and autonomous circuits.

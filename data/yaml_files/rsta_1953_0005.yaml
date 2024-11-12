@@ -1,0 +1,14 @@
+article_id: rsta_1953_0005
+revised_title: Numerical Solution Techniques for Non-Singular Linear Integral Equations
+scientific_discipline: Mathematics > Numerical Analysis
+semantic_tags:
+- Numerical Analysis
+- Integral Equations
+- Finite Differences
+- Quadrature Formulae
+- Differential Equations
+tldr: The authors present various numerical methods for solving non-singular linear
+  integral equations, including the use of finite-difference theory, quadrature formulae,
+  and iterative approaches. They discuss the solution of Fredholm and Volterra integral
+  equations, providing examples and comparing different techniques for accuracy and
+  efficiency.

@@ -1,0 +1,14 @@
+article_id: rsta_1973_0065
+revised_title: Deriving Earthquake Source Parameters from Low-Frequency Spectra
+scientific_discipline: Earth Sciences > Seismology
+semantic_tags:
+- Seismology
+- Earthquake mechanics
+- Moment tensor
+- Normal modes
+- Earth models
+tldr: This article discusses a method to determine the moment tensor of an earthquake
+  from observations of the Earth's normal modes excited by it. The method uses low-frequency
+  spectra and depends on having a credible Earth model. When the eigenvalues of the
+  deviator indicate that the source can be represented by a double couple, it is possible
+  to find the fault normal, slip vector, compression axis, and tension axis.

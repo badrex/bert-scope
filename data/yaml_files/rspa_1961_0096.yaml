@@ -1,0 +1,15 @@
+article_id: rspa_1961_0096
+revised_title: Improved Approximation for Atomic Property Calculations
+scientific_discipline: Physics > Atomic Physics
+semantic_tags:
+- Atomic Physics
+- Quantum Mechanics
+- Atomic Structure
+- Hartree-Fock Approximation
+- Atomic Properties
+tldr: The authors present an expansion method for calculating atomic properties, providing
+  a simpler and faster way to calculate expectation values of one-electron operators
+  for any atom. The method uses uncoupled equations and offers accuracy comparable
+  to the Hartree-Fock approximation. The authors apply this method to the helium and
+  beryllium iso-electronic sequences, demonstrating its effectiveness and potential
+  improvements as nuclear charge increases.

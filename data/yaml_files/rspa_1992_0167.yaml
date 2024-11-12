@@ -1,0 +1,14 @@
+article_id: rspa_1992_0167
+revised_title: Quantum Computation and Efficient Problem Solving
+scientific_discipline: Computer Science > Quantum Computing
+semantic_tags:
+- Quantum computing
+- Computational complexity
+- Quantum algorithms
+- Quantum parallelism
+- Oracle
+tldr: The authors demonstrate the importance of quantum processes in solving computational
+  problems more efficiently than classical or stochastic methods. They describe a
+  problem that can be solved with certainty using quantum parallelism, which is exponentially
+  faster than any classical deterministic computation. This discovery highlights the
+  potential of quantum computers in solving complex problems.

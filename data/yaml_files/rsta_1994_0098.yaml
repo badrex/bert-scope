@@ -1,0 +1,14 @@
+article_id: rsta_1994_0098
+revised_title: A Reassessment of the BDS Test for Independence in Time Series
+scientific_discipline: Mathematics > Statistics
+semantic_tags:
+- Time series analysis
+- Statistical independence
+- Chaos theory
+- Dynamical systems
+- Correlation integral
+tldr: This article investigates the correlation integral and its application in testing
+  for independence in time series. The authors discuss the limitations of the BDS
+  test and propose a modified approach to better assess the independence of time series
+  data. They also explore alternative methods for testing independence, such as the
+  Hoeffding dependence measure and partial autocorrelations.

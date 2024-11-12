@@ -1,0 +1,16 @@
+article_id: rspa_1950_0121
+revised_title: Programming and Initial Orders for the EDSAC
+scientific_discipline: Engineering and Technology > Computer Science
+semantic_tags:
+- Computer Science
+- Programming
+- Early Computing
+- EDSAC
+- Automatic Calculating Machines
+tldr: This paper discusses the organization of work for the EDSAC, an early automatic
+  calculating machine, focusing on its programming and initial orders. The EDSAC uses
+  a single-address form for orders, which can be modified by the machine itself. The
+  initial orders determine how orders are punched on the tape, and the structure of
+  these orders can be chosen to simplify the process of preparing the tape. The paper
+  also explains the representation of orders inside the machine and the use of sub-routines
+  in constructing long programs.

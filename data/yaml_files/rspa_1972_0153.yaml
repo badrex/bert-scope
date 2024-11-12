@@ -1,0 +1,16 @@
+article_id: rspa_1972_0153
+revised_title: 'Elastic Surface Waves Guided by Ridges: Finite Element Method Applications'
+scientific_discipline: Engineering and Technology > Mechanical Engineering
+semantic_tags:
+- Elastic waves
+- Waveguides
+- Finite element method
+- Surface topography
+- Seismology
+tldr: This article investigates the propagation of elastic surface waves guided by
+  ridges using the finite element method. The technique is applied to various problems
+  with cylindrical geometry, such as wave propagation along bars and plates. The study
+  focuses on the lowest mode that can propagate unattenuated and shows that only the
+  lowest antisymmetric mode is properly trapped by the ridge. The findings have implications
+  for seismology and microwave electronics, as ridges can guide surface waves in these
+  fields.

@@ -1,0 +1,15 @@
+article_id: rspa_1955_0033
+revised_title: 'Unsteady Flow Through Aerofoil Cascades: A New Analytical Approach'
+scientific_discipline: Engineering and Technology > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Aerofoil Cascades
+- Turbomachinery
+- Unsteady Flow
+- Aerodynamics
+tldr: The authors develop a new theory for unsteady flow through a cascade of aerofoils,
+  which is essential for understanding the behavior of turbomachinery in real-world
+  conditions. They focus on the pressure distribution, lift, and moment on an aerofoil
+  in a cascade, and derive a simple formula for the growth of lift due to a sharpedged
+  gust. This theory can be applied to various problems, including the transient loading
+  on cascade blades and the stability of turbine and compressor blades.

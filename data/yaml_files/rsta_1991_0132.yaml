@@ -1,0 +1,13 @@
+article_id: rsta_1991_0132
+revised_title: Parameter Estimation in Hidden Markov Models
+scientific_discipline: Statistics > Inference and Estimation
+semantic_tags:
+- Hidden Markov Models
+- Parameter Estimation
+- Incomplete Data
+- Maximum Likelihood Estimation
+- Monte Carlo Methods
+tldr: This article discusses the challenges of parameter estimation in hidden Markov
+  models, particularly in cases of incomplete data. It explores various approaches,
+  with a focus on maximum likelihood estimation and Monte Carlo methods, and provides
+  an example using satellite data.

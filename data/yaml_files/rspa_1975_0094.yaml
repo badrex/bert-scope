@@ -1,0 +1,16 @@
+article_id: rspa_1975_0094
+revised_title: Asymptotic Solutions for Dispersion in Flow through Small Tubes
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Transport Phenomena
+- Singular Perturbation
+- Diffusion Equation
+- Taylor-Aris Theory
+tldr: The authors present a new method for obtaining asymptotic solutions of the dispersion
+  of a solute in a medium flowing through a tube of small diameter. This method, a
+  non-standard two-timing technique, can treat arbitrary time-dependent flow fields
+  and tubes of arbitrary cross-section. The authors provide a series of approximations
+  in powers of a parameter, which can be used to determine terms up to any given order.
+  The results clarify conditions under which the Taylor-Aris theory is valid and extend
+  the theory to more general cases.

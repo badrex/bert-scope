@@ -1,0 +1,15 @@
+article_id: rsta_1967_0052
+revised_title: Exponential Map for the Lagrange Problem on Differentiable Manifolds
+scientific_discipline: Mathematics > Differential Geometry
+semantic_tags:
+- Differential Geometry
+- Riemannian Geometry
+- Lagrange Problem
+- Morse Theory
+- Geodesic Arcs
+tldr: This article explores the Lagrange problem in the calculus of variations, focusing
+  on finding geodesic arcs that minimize the integral. The author introduces the concept
+  of a parabolic structure on differentiable manifolds and studies the exponential
+  map to understand the behavior of these structures. The article proves several theorems
+  related to the Lagrange problem and provides insights into approximating geodesic
+  arcs using Morse theory.

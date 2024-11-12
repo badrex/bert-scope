@@ -1,0 +1,15 @@
+article_id: rspb_1982_0024
+revised_title: Representation and Recognition of Moving Shapes
+scientific_discipline: Psychology > Cognitive Science
+semantic_tags:
+- Visual Perception
+- Shape Representation
+- Motion Analysis
+- Object-Centered Coordinate System
+- 3D Model Representation
+tldr: The authors propose a state-motion-state (SMS) moving shape representation for
+  the analysis of movements of 3D shapes. This representation is based on segmenting
+  a movement at moments when a component axis, such as an arm, starts to move relative
+  to its local coordinate frame. The SMS representation is an extension of the Mar
+  & Nishihara (1978) 3D model representation of static shapes, and it is suitable
+  for recognizing and representing movements of objects and actions.

@@ -1,0 +1,15 @@
+article_id: '102014'
+revised_title: Halley's Theorem for Foci of Optic Glasses
+scientific_discipline: Physics > Optics
+semantic_tags:
+- Dioptrics
+- Optics
+- Lens design
+- Refraction
+- Geometry
+tldr: In this article, E. Halley presents a mathematical theorem for finding the foci
+  of various types of lenses, including double-convex, double-concave, plano-convex,
+  and plano-concave lenses. The theorem takes into account the lens's shape, the distance
+  between the object and the lens, the refractive index of the material, and the thickness
+  of the lens. This theorem helps in designing better telescopes and microscopes by
+  determining the focal distance and the ratio of refraction for different lens types.

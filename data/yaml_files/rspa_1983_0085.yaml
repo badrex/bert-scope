@@ -1,0 +1,15 @@
+article_id: rspa_1983_0085
+revised_title: Dynamic Sink Strengths in Pulsed Irradiation Regimes
+scientific_discipline: Physics > Materials Science
+semantic_tags:
+- Radiation Damage
+- Sink Strengths
+- Chemical Rate Theory
+- Void Swelling
+- Irradiation Creep
+tldr: The authors develop a theory of dynamic sink strengths to study the effects
+  of pulsed irradiation regimes on void swelling and irradiation creep in metals.
+  They derive dynamic void and dislocation sink strengths and find that, under steady-state
+  pulsing conditions, it is usually acceptable to replace dynamic sink strengths with
+  steady-state sink strengths. However, dynamic sink strengths are required for studying
+  damage during the initial transient under continuous irradiation conditions.

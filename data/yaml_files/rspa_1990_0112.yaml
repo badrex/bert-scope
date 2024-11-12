@@ -1,0 +1,16 @@
+article_id: rspa_1990_0112
+revised_title: Topological Theory of Phase Diagrams for Reactive Mixtures
+scientific_discipline: Chemistry > Chemical Engineering
+semantic_tags:
+- Phase Equilibria
+- Chemical Engineering
+- Reactive Systems
+- Residue Curve Maps
+- Topology
+tldr: The author presents a topological theory for phase diagrams of multiphase reacting
+  mixtures, using residue curve maps to represent phase equilibria. The theory is
+  based on a set of nonlinear ordinary differential equations and involves a topological
+  constraint that all residue curve maps for four-component reactive mixtures must
+  obey. This approach allows for a better understanding of the global properties of
+  phase equilibria and can aid in process synthesis, design, and simulation for complex
+  separations.

@@ -1,0 +1,15 @@
+article_id: rspa_1993_0025
+revised_title: Isotropic Null Vectors and Their Applications in Thermoelasticity
+scientific_discipline: Mathematics > Linear Algebra
+semantic_tags:
+- Thermoelasticity
+- Matrix Theory
+- Eigenvalue Problem
+- Isotropic Vectors
+- Wave Propagation
+tldr: The author investigates the properties of isotropic null vectors in the context
+  of thermoelasticity and matrix theory. They prove that if a symmetric matrix has
+  a non-zero isotropic null vector, then the trace of its adjugate vanishes. This
+  theorem has implications for the study of wave propagation in thermoelastic materials,
+  where isotropic wave amplitudes are associated with repeated roots of the characteristic
+  equation.

@@ -1,0 +1,15 @@
+article_id: rspa_1996_0001
+revised_title: Stochastic Synchronization in Large Assemblies of Coupled Oscillators
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Stochastic Oscillators
+- Synchronization
+- Phase Locking
+- Discrete Phase Spaces
+- Statistical Mechanics
+tldr: The article studies the occurrence of stochastic synchronization and phase locking
+  in large assemblies of coupled stochastic oscillators modeled as phase-angle stochastic
+  processes. It focuses on discrete phase-angle spaces and explores the conditions
+  under which stochastic synchronization emerges in these assemblies. The findings
+  are applied to assemblies of stochastic fireflies and neuronal oscillators, leading
+  to predictions for real biological networks of neurons.

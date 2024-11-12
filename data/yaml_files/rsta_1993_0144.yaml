@@ -1,0 +1,17 @@
+article_id: rsta_1993_0144
+revised_title: Assessing the Accuracy of the Generalized Self-Consistent Method in
+  Modeling Elastic Behavior of Periodic Composites
+scientific_discipline: Engineering and Technology > Materials Science
+semantic_tags:
+- Composite Materials
+- Elasticity
+- Homogenization
+- Periodic Lattices
+- Green's Function Method
+tldr: The authors analyze the accuracy of the generalized self-consistent method in
+  modeling the elastic behavior of periodic composites. They introduce a new method
+  that embeds a finite number of unit cells in a homogenized medium and demonstrate
+  that the zeroth term in the governing integral equation expansion corresponds to
+  the generalized self-consistent approximation. The study shows that the method provides
+  accurate effective elastic moduli and local field representations for a tungsten/copper
+  elastic fibrous composite.

@@ -1,0 +1,15 @@
+article_id: rsta_1984_0065
+revised_title: Functional Programming as a Tool for Writing Executable Specifications
+scientific_discipline: Mathematics > Programming Languages
+semantic_tags:
+- Functional Programming
+- Programming Languages
+- Executable Specifications
+- Symbol-Processing Machines
+- Universal Machine
+tldr: This article discusses the use of functional programming languages as a tool
+  for writing executable specifications. It explains how functional programming allows
+  for the definition of functions and data domains, ensuring well-typed applications
+  and making specifications executable. The author also addresses potential issues
+  with non-deterministic and history-sensitive machines within the functional programming
+  context.

@@ -1,0 +1,14 @@
+article_id: rsta_1993_0133
+revised_title: Smoothing and Distribution of Numbers with Small Prime Factors
+scientific_discipline: Mathematics > Number Theory
+semantic_tags:
+- Number Theory
+- Analytic Number Theory
+- Prime Numbers
+- Distribution of Integers
+- Asymptotic Formula
+tldr: The authors investigate the distribution of integers without large prime factors
+  in short intervals. They prove an asymptotic formula for the number of such integers
+  in a given range and discuss the limitations of the current understanding of the
+  problem. The results have implications for understanding the distribution of smooth
+  numbers and the behavior of prime numbers.

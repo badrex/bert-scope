@@ -1,0 +1,16 @@
+article_id: rspa_1979_0042
+revised_title: Scattering Properties of Particle Assemblies in the Rayleigh Approximation
+scientific_discipline: Physics > Electromagnetism
+semantic_tags:
+- Electromagnetic wave scattering
+- Rayleigh approximation
+- Particle assemblies
+- Spherical Bessel functions
+- Legendre polynomials
+tldr: The article presents a study on the scattering properties of particle assemblies,
+  specifically spheres, using the Rayleigh approximation. A system of linear simultaneous
+  equations is derived to calculate the scattering properties of the assemblies, and
+  numerical calculations are performed to illustrate the properties of the scattered
+  light. The results are compared with previous work, and a diagnostic technique is
+  proposed to determine the size, complex refractive index, and number of particles
+  in a long chain agglomerate.

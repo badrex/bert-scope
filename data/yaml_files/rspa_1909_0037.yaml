@@ -1,0 +1,15 @@
+article_id: rspa_1909_0037
+revised_title: 'Fresnel Integration: Graphical Determination and Applications'
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Integration techniques
+- Fresnel integrals
+- Simpson's Rule
+- Mathematical physics
+- Applied mathematics
+tldr: This article presents a method for graphically determining Fresnel integrals
+  and their applications. The authors discuss the use of Simpson's Rule for calculating
+  loop areas and provide tables of values for various loops. They also describe a
+  simpler method for integration when the upper limit is not small. The article demonstrates
+  the effectiveness of these techniques in calculating areas and provides insights
+  into the behavior of Fresnel integrals.

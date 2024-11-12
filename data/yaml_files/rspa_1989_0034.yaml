@@ -1,0 +1,17 @@
+article_id: rspa_1989_0034
+revised_title: Advanced Applications of the Radon Transform in Wave Equations and
+  Maxwell's Equations
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Wave Equations
+- Maxwell's Equations
+- Radon Transform
+- Asymptotic Solutions
+- Transform Theory
+tldr: The authors demonstrate how to obtain exact solutions of the three-dimensional
+  scalar wave equation and Maxwell's equations using the refined Radon transform.
+  They show how to derive these solutions from the asymptotic forms and vice versa,
+  providing a new method for solving these equations entirely in terms of transforms.
+  This approach offers an alternative to obtaining exact solutions through Riemann
+  functions and clarifies the role of time in the relation between exact and asymptotic
+  solutions.

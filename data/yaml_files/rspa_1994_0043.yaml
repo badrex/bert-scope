@@ -1,0 +1,17 @@
+article_id: rspa_1994_0043
+revised_title: In-Depth Analysis of a Two-Temperature Dependent Chemical Reaction
+  System
+scientific_discipline: Chemistry > Chemical Kinetics
+semantic_tags:
+- Chemical Kinetics
+- Bifurcation Theory
+- Thermokinetic Oscillations
+- Degenerate Bifurcation
+- Sal'nikov Oscillator
+tldr: This study investigates a chemical reaction system with two-stage decay, where
+  each stage exhibits Arrhenius temperature dependence. The authors use degenerate
+  bifurcation theory and numerical analysis to explore the system's behavior across
+  the entire parameter space. They identify various degenerate bifurcations and find
+  that the system exhibits 16 distinct phase portraits. The research reveals some
+  unique behavior in phase and parameter space, which seems to be common in thermokinetic
+  systems with more than one Arrhenius nonlinearity.

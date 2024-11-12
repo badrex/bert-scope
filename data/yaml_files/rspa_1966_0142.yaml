@@ -1,0 +1,16 @@
+article_id: rspa_1966_0142
+revised_title: A Perturbation Method for Nonlinear Dispersive Waves
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Wave mechanics
+- Nonlinear partial differential equations
+- Dispersive waves
+- Wavetrains
+- Averaged Lagrangian method
+tldr: The article presents a perturbation method for solving nonlinear dispersive
+  wave problems. The method involves expanding the wave function in terms of a small
+  parameter and obtaining ordinary differential equations for the approximating functions.
+  The first-order expansion is used to derive equations for the slow variation of
+  amplitude, wavenumber, and other parameters in a nearly uniform wavetrain. The method
+  is compared with the averaged Lagrangian method and applied to a simple example
+  and a more general variational problem.

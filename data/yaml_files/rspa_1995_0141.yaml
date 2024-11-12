@@ -1,0 +1,17 @@
+article_id: rspa_1995_0141
+revised_title: Generalized Optical Theorem for Sound Energy Scattered by a Rigid Body
+  Near a Compliant Surface
+scientific_discipline: Physics > Acoustics
+semantic_tags:
+- Acoustics
+- Scattering Theory
+- Sound Energy
+- Compliant Surfaces
+- Wave Propagation
+tldr: The author derives a theorem that generalizes the classical extinction theorem
+  to cases where a rigid scatterer of arbitrary shape is located near a large compliant
+  surface. This theorem relates the sound energy scattered from incident planar acoustic
+  waves to the far field pressure in the specular reflection direction and that in
+  the transmission direction, determined by the Snell's law. This approach simplifies
+  the calculation of scattered energy and scattering cross-section for various applications,
+  such as radar and sonar.

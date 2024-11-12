@@ -1,0 +1,14 @@
+article_id: rspa_1974_0015
+revised_title: 'Solving Milne''s Statistical Problem: A General Solution'
+scientific_discipline: Mathematics > Statistics
+semantic_tags:
+- Statistics
+- Mathematical Modeling
+- Estimation Theory
+- Random Variables
+- Multivariate Analysis
+tldr: The authors present a general solution for a statistical problem proposed by
+  E. A. Milne. They consider a model with independent intervals and random variables,
+  providing a method to estimate unknown parameters and their variances. The study
+  also highlights the 'periodic' behavior of variances and offers suggestions for
+  choosing the number of intervals to achieve optimal estimation precision.

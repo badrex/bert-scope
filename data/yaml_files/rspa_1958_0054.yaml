@@ -1,0 +1,16 @@
+article_id: rspa_1958_0054
+revised_title: 'Asymptotic Expansions and Converging Factors: General Theory and Basic
+  Converging Factors'
+scientific_discipline: Mathematics > Analytic Functions
+semantic_tags:
+- Asymptotic Expansions
+- Converging Factors
+- Borel Summation
+- Mathematical Physics
+- Analytic Functions
+tldr: The authors explore the concept of asymptotic expansions and converging factors
+  in mathematical physics. They demonstrate that by applying Borel's method of summation
+  to the later terms of an asymptotic expansion, the sum can be replaced by a series
+  involving basic converging factors. This allows for the calculation of the remainder
+  in a truncated asymptotic expansion and the expression of the Stokes phenomenon
+  in terms of discontinuities in these basic quantities.

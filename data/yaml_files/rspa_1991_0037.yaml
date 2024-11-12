@@ -1,0 +1,15 @@
+article_id: rspa_1991_0037
+revised_title: Near-field Expansion of Elastodynamic Solutions for a Semi-infinite
+  Isotropic Elastic Solid
+scientific_discipline: Physics > Solid Mechanics
+semantic_tags:
+- Elastodynamics
+- Solid Mechanics
+- Wave Propagation
+- Fourier Transforms
+- Boundary Value Problems
+tldr: The authors study the near-field behavior of fundamental elastodynamic solutions
+  for a semi-infinite homogeneous isotropic elastic solid. They develop a method to
+  express a Fourier superposition of plane waves as a linear superposition of cylindrical
+  waves and analyze the singular behavior of the linear operator in each case. This
+  work has applications in scattering theory and the analysis of small surface defects.

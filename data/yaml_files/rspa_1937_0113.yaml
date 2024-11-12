@@ -1,0 +1,16 @@
+article_id: rspa_1937_0113
+revised_title: Series Evaluation and Analysis of CO\lt;sub\gt;2\lt;/sub\gt; Isotherm
+  Data between 0 and 150\#xB0;C and up to 3000 atm
+scientific_discipline: Physics > Thermodynamics
+semantic_tags:
+- Thermodynamics
+- Gas laws
+- High-pressure physics
+- Isotherms
+- Series evaluation
+tldr: The authors analyzed the isotherm data of CO2 between 0 and 150°C and up to
+  3000 atm using series evaluation methods. They found that the series representation
+  fits the experimental data well and can be used for interpolation purposes. The
+  results were compared with other authors' findings, and the authors concluded that
+  the series evaluation is still valuable for calculating pressure and density at
+  given conditions, even though it may not provide rigid physical conclusions.

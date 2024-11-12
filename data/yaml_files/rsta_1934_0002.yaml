@@ -1,0 +1,15 @@
+article_id: rsta_1934_0002
+revised_title: A Modified Approximate Equation for Two-Dimensional Fluid Motion
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Viscosity
+- Oseen's Approximation
+- Boundary Layer
+- Reynolds Number
+tldr: This article presents a modified approximate equation for the motion of a viscous
+  incompressible fluid in two dimensions around a fixed cylindrical body. The authors
+  propose an alternative to Oseen's approximate equation, which they believe offers
+  a closer approximation to the actual flow pattern. The new equation is linear and
+  tractable, allowing for further analysis of fluid dynamics and the effects of Reynolds
+  number on the flow pattern.

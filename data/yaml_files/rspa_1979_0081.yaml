@@ -1,0 +1,15 @@
+article_id: rspa_1979_0081
+revised_title: Two-Parameter Approximation for Polymer Chain Virial Expansion
+scientific_discipline: Physics > Materials Science
+semantic_tags:
+- Polymer Chemistry
+- Lattice Models
+- Statistical Mechanics
+- Polymer Statistics
+- Virial Expansion
+tldr: The authors develop a complete diagrammatic expansion for the Domb-Joyce model
+  of a polymer chain with an interaction varying between 0 and 1. They use this expansion
+  to compute and analyze the coefficients of the series for the expansion factor of
+  the mean square end-to-end length of the chain. The results show that in the two-parameter
+  approximation, the computation of these coefficients is identical for all models,
+  differing only in the presence of a scale factor.

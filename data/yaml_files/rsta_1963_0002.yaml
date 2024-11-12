@@ -1,0 +1,15 @@
+article_id: rsta_1963_0002
+revised_title: Symmetries of Spherical Harmonics and Their Expansions
+scientific_discipline: Mathematics > Group Theory
+semantic_tags:
+- Group Theory
+- Spherical Harmonics
+- Crystallography
+- Point Groups
+- Orthogonal Expansions
+tldr: This article extends the work on spherical harmonics and their expansions for
+  crystallographic point groups. The authors develop a new method for calculating
+  auxiliary functions and provide fully orthogonal expansions for the cubic groups
+  up to and including l. They also discuss the orthogonality of the expansions and
+  the use of operators to generate functions that transform like the columns of irreducible
+  representations.

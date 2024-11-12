@@ -1,0 +1,15 @@
+article_id: rspa_1977_0189
+revised_title: A Stochastic Theory of Particle Transport and Its Applications
+scientific_discipline: Physics > Statistical Mechanics
+semantic_tags:
+- Particle transport
+- Probability balance equation
+- Radiation damage cascades
+- Neutron transport
+- Boltzmann equation
+tldr: The article presents a stochastic theory of particle transport using a probability
+  balance equation. The theory is applied to radiation damage cascades in a homogeneous
+  medium and demonstrates how it can be used to calculate the mean, variance, and
+  higher-order correlations of particle numbers in a given region of phase space.
+  The connection between the forward and backward forms of the Boltzmann equation
+  is also explored, providing insights into the behavior of particle systems.

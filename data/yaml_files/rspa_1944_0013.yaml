@@ -1,0 +1,15 @@
+article_id: rspa_1944_0013
+revised_title: 'Dielectric Properties of Dipolar Substances: A Systematic Approximation'
+scientific_discipline: Physics > Electromagnetism
+semantic_tags:
+- Dielectric properties
+- Dipolar substances
+- Onsager's theory
+- Local field
+- Dielectric constants
+tldr: The authors investigate the dielectric properties of dipolar substances and
+  extend Onsager's theory to calculate the dielectric constants and dielectric losses.
+  They develop a systematic approximation that accounts for the local field acting
+  on a dipole by replacing the surroundings with a continuous medium. This method
+  is applicable to solids and liquids with high viscosity, while for liquids with
+  low viscosity, Onsager's theory remains a good approximation.

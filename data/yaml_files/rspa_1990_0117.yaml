@@ -1,0 +1,18 @@
+article_id: rspa_1990_0117
+revised_title: Asymptotic Structure and Zones of Influence in Unsteady Hypersonic
+  Boundary Layers
+scientific_discipline: Fluid mechanics > Hypersonic flow
+semantic_tags:
+- Fluid mechanics
+- Hypersonic flow
+- Unsteady boundary layer
+- Nonlinear flow
+- Finite-time singularities
+tldr: The author investigates the zones of influence in a two-dimensional, unsteady,
+  hypersonic boundary layer. They develop an asymptotic structure for a linear, high-frequency,
+  unsteady disturbance superimposed on a steady, possibly separated, nonlinear flow.
+  The study shows that introducing a viscous-inviscid interaction into the unsteady
+  problem drastically alters the domain of dependence of the unsteady flow throughout
+  the entire viscous sublayer. The determination of the correct domain of dependence
+  involves a subtle interplay between the convective terms, the pressure-displacement
+  interaction, and the non-parallel base flow.

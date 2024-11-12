@@ -1,0 +1,16 @@
+article_id: rspa_1971_0099
+revised_title: 'Numerical Analysis of Time-Dependent Partial Differential Equations:
+  Recent Methods and Developments'
+scientific_discipline: Mathematics > Numerical Analysis
+semantic_tags:
+- Numerical Analysis
+- Partial Differential Equations
+- Time-Dependent Problems
+- Finite-Difference Methods
+- Split-Operator Methods
+tldr: 'This article discusses recent methods for solving time-dependent partial differential
+  equations, focusing on three types of algorithms: fast, general-purpose methods;
+  classical finite-difference methods; and methods that prioritize accuracy. The authors
+  explore the Crank-Nicolson scheme, Peaceman-Rachford method, and other techniques,
+  highlighting their advantages and limitations, and provide suggestions for future
+  developments in the field.'

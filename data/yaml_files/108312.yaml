@@ -1,0 +1,14 @@
+article_id: '108312'
+revised_title: Investigation of Partial Differential Equations and Laplace's Equation
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Partial Differential Equations
+- Laplace's Equation
+- Mathematical Analysis
+- Mathematical Theorems
+- Applied Mathematics
+tldr: The author investigates an extensive class of partial differential equations
+  of the second order, including Laplace's equation. They demonstrate a theorem and
+  establish a formula, showing that if the equation is true for one value of n, it
+  will be true for the next superior value. Laplace's coefficients are also included
+  in this class of equations.

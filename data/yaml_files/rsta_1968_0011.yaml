@@ -1,0 +1,14 @@
+article_id: rsta_1968_0011
+revised_title: Effective Algorithm for Solving Diophantine Equations
+scientific_discipline: Mathematics > Number Theory
+semantic_tags:
+- Diophantine Equations
+- Number Theory
+- Algebraic Number Fields
+- Binary Forms
+- Reduction Theory
+tldr: The authors develop an effective algorithm to solve Diophantine equations, specifically
+  focusing on the equation y, where y is an irreducible binary form with integer coefficients
+  and degree at least 1. They provide an explicit bound for the size of all solutions
+  in integers and prove that for any integer, all solutions of the equation have absolute
+  values at most 1.

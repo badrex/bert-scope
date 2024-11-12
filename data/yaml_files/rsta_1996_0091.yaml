@@ -1,0 +1,15 @@
+article_id: rsta_1996_0091
+revised_title: 'Curvature and Frustration in Cellular Systems: Building and Decurving'
+scientific_discipline: Mathematics > Geometry
+semantic_tags:
+- Cellular Structures
+- Frustration
+- Decurving
+- Topological Operations
+- Geometrical Frustration
+tldr: The article explores the problem of frustration in cellular structures and presents
+  two methods to build and decurve them. The first method involves decurving progressively
+  and at random a cellular structure initially ordered in curved space, while the
+  second method builds the structure layer by layer from an arbitrary seed cell. The
+  authors analyze the energy of the structures and discuss the role of configurational
+  entropy in building up a froth with different local topological configurations.

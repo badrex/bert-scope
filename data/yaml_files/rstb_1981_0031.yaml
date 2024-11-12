@@ -1,0 +1,17 @@
+article_id: rstb_1981_0031
+revised_title: A Computational Implementation of Marr-Poggio Theory for Human Stereo
+  Vision
+scientific_discipline: Artificial Intelligence > Computer Vision
+semantic_tags:
+- Computer Vision
+- Artificial Intelligence
+- Stereo Vision
+- Image Processing
+- Human Perception
+tldr: This article presents a computer implementation of Marr and Poggio's theory
+  of human stereo vision, which consists of five steps. The implementation filters
+  the left and right images with masks of different sizes, finds zero crossings, matches
+  corresponding points, and stores the results in a dynamic buffer called the 2.5D
+  sketch. The performance of the implementation is tested on various stereograms and
+  compared to human perception, supporting the Marr-Poggio model and refining the
+  theory.

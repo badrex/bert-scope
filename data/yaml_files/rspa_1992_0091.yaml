@@ -1,0 +1,17 @@
+article_id: rspa_1992_0091
+revised_title: 'Initiation of Mechanically Driven Plane Detonation: A Study on Transient
+  Phenomena'
+scientific_discipline: Physics > Gas Dynamics
+semantic_tags:
+- Detonation
+- Shock Waves
+- Gas Dynamics
+- Chemical Reactions
+- Euler Equations
+tldr: This article investigates the transient phenomena in the initiation of a mechanically
+  driven plane detonation. The authors use the Euler equations to model the behavior
+  between the piston and shock, and they employ the Random Choice Method combined
+  with time-operator-splitting for numerical solutions. The study reveals various
+  phases of gas motion, including quasi-steady weak detonations, fast flames, and
+  the spontaneous appearance of a reaction shock, which contribute to the build-up
+  of a ZND-wave of Chapman-Jouguet strength.

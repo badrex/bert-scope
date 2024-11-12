@@ -1,0 +1,18 @@
+article_id: rsta_1996_0021
+revised_title: Mechanics of Submerged Vertical Slender Structures Under Varying Axial
+  Tension
+scientific_discipline: Engineering and Technology > Offshore Engineering
+semantic_tags:
+- Offshore Engineering
+- Structural Mechanics
+- Buckling Behavior
+- Hydroelasticity
+- Tensioned Buoyant Platforms
+tldr: The paper presents a mathematical approach to determine the structural and hydroelastic
+  behavior of submerged vertical slender steel structures operating at low tension.
+  The study evaluates the buckling behavior at low tension by retaining nonlinear
+  curvature terms and using an expansion in series to reduce the governing equation
+  to a set of linear ordinary differential equations, which are then solved sequentially
+  by employing Galerkin's technique. This approach is also extended to lateral oscillation
+  of the structure when excited by forced horizontal oscillatory motions at the top
+  end.

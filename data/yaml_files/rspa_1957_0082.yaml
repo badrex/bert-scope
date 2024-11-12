@@ -1,0 +1,13 @@
+article_id: rspa_1957_0082
+revised_title: Corrigenda in Oell's Theory of Liquids
+scientific_discipline: Physics > Fluid dynamics
+semantic_tags:
+- Fluid dynamics
+- Mathematical physics
+- Interpolation
+- Numerical integration
+- Liquid theory
+tldr: The author presents corrections to errors found in Oell's theory of liquids.
+  They provide a detailed explanation of the corrections needed for equations and
+  tables in the original publication. The corrections involve adjustments to summations,
+  polynomial interpolation, and numerical integration.

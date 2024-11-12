@@ -1,0 +1,14 @@
+article_id: rspa_1985_0124
+revised_title: 'Solving Ill-posed Problems in Early Vision: Computational Theory and
+  Analog Networks'
+scientific_discipline: Computer Science > Computational Vision
+semantic_tags:
+- Computational Vision
+- Ill-posed Problems
+- Regularization Analysis
+- Analog Networks
+- Biological Vision
+tldr: The authors present a theoretical framework for solving ill-posed problems in
+  early vision, using regularization analysis and variational principles. They propose
+  that these principles can be implemented in analog networks, and suggest that biological
+  vision may exploit a similar model of computation.

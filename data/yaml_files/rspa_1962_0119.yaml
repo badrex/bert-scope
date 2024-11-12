@@ -1,0 +1,17 @@
+article_id: rspa_1962_0119
+revised_title: Automatic Selection of Molecular Crystal Structures using Stereochemical
+  Criteria and High-Speed Computing
+scientific_discipline: Chemistry > Computational Chemistry
+semantic_tags:
+- Crystallography
+- Computational Chemistry
+- Stereochemistry
+- Crystal Structure Analysis
+- Molecular Geometry
+tldr: This article discusses the development of a method to automatically select and
+  refine molecular crystal structures using stereochemical criteria and high-speed
+  computing. The technique is particularly useful for cases where heavy-atom methods
+  or other direct phase-determination methods are not applicable. The method has been
+  successfully applied to various crystal structures, and it is expected that with
+  the advancement of computing technology, even more complex structures can be solved
+  rapidly.

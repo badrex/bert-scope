@@ -1,0 +1,15 @@
+article_id: rspa_1969_0079
+revised_title: On the Principle of Exchange of Stabilities in Fluid Dynamics
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Fluid Dynamics
+- Stability Theory
+- Perturbation Theory
+- Convection
+- Eigenvalues
+tldr: The article presents a perturbation theorem that proves the reality of simple
+  eigenvalues in a class of non-self-adjoint systems of differential equations. The
+  theorem is applied to Benard convection, with constant heat sources, radiation,
+  and specific time-dependent profiles, as well as to the instability of circular
+  Couette flow for various gap widths. The study focuses on understanding the nature
+  of eigenvalues and their stability in fluid dynamics problems.

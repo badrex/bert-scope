@@ -1,0 +1,15 @@
+article_id: rspa_1990_0030
+revised_title: Advanced Calibration Techniques for Area-Detector Diffractometers
+scientific_discipline: Physics > Optics
+semantic_tags:
+- X-ray diffraction
+- Area-detector calibration
+- Imaging geometry
+- Point-spread function
+- Electronic detectors
+tldr: This article discusses the calibration methods for area-detector diffractometers,
+  focusing on the ENRAF-NONIUS FAST system. The author explores various techniques
+  for determining the overall response of electronic area-detectors and addresses
+  the challenges of using different calibration wavelengths and the tails of the point-spread
+  functions. The article provides insights into the integral response of area-detector
+  diffractometers and the effects of illumination on calibration accuracy.

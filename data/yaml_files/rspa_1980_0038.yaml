@@ -1,0 +1,15 @@
+article_id: rspa_1980_0038
+revised_title: 'Sink Strength of Voids in Irradiated Material: A Rigorous Analysis'
+scientific_discipline: Materials Science > Void Growth and Sink Strength
+semantic_tags:
+- Materials Science
+- Diffusion
+- Void Growth
+- Sink Strength
+- Irradiation
+tldr: The authors study the effective sink strength of a random array of voids in
+  irradiated material. They define the sink strength and provide a variational characterization
+  of the problem. The authors analyze the problem using a finite body and estimate
+  the sink strength through a variational principle. They compare their results with
+  self-consistent calculations and perturbation theory, demonstrating the sensitivity
+  of the sink strength to the statistics of the void distribution.

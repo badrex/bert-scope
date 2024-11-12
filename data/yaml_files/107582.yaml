@@ -1,0 +1,15 @@
+article_id: '107582'
+revised_title: A Simple and Connected Theory of Logarithmic Tables
+scientific_discipline: Mathematics > Calculus
+semantic_tags:
+- Mathematics
+- Logarithms
+- Number Theory
+- Calculus
+- Converging Series
+tldr: The author presents a simple and connected theory for constructing logarithmic
+  tables, focusing on finding converging series for the calculation of logarithms.
+  The method involves manipulating equations and fractions to create expressions that
+  approach unity, which can then be put into logarithms to find the logarithm of a
+  given number. This method allows for efficient calculation of logarithms and the
+  creation of logarithmic tables.

@@ -1,0 +1,15 @@
+article_id: rspa_1961_0040
+revised_title: Rigorous Theory of Electron Correlation in Atoms and Molecules
+scientific_discipline: Physics > Quantum Chemistry
+semantic_tags:
+- Quantum Chemistry
+- Electron Correlation
+- Perturbation Theory
+- Hartree-Fock Method
+- Many-Electron Systems
+tldr: The authors develop a rigorous theory to obtain corrections to the Hartree-Fock
+  wave function and energy of many-electron systems using electron pairs and exclusion
+  effects. They use formal perturbation theory with operator techniques, avoiding
+  infinite sums common in the Schrodinger method. This approach allows separate treatment
+  of core and valence electrons, sigma and pi electrons, and provides a basis for
+  various chemical concepts.

@@ -1,0 +1,15 @@
+article_id: rspa_1992_0097
+revised_title: Torsional Traction Analysis on Open Finite Cylindrical Cavity
+scientific_discipline: Engineering and Technology > Mechanics
+semantic_tags:
+- Elasticity
+- Stress Analysis
+- Cylindrical Cavity
+- Torsional Shear Traction
+- Boundary Value Problem
+tldr: This study investigates the stress analysis of an elastic half-space with a
+  finite open cylindrical cavity subjected to torsional shear tractions. The authors
+  formulate a boundary value problem and reduce it to a generalized Cauchy singular
+  integral equation. They present the fundamental solution for a torsional ring load
+  acting on the cavity's sidewall and examine the resulting load-induced and shape-induced
+  singularities in the response.

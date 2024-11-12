@@ -1,0 +1,16 @@
+article_id: rspa_1975_0013
+revised_title: Einstein-Maxwell Theory and Charged Fluid Motion
+scientific_discipline: Physics > Electromagnetic Field Theory
+semantic_tags:
+- Electromagnetic Field Theory
+- Fluid Dynamics
+- Relativity
+- Tensor Analysis
+- Astrophysics
+tldr: The author presents a tetrad approach to study charged fluid motion in the Einstein-Maxwell
+  theory. They project the fluid flow vector onto a unique tetrad of eigenvectors
+  of the electromagnetic part of the energy-momentum tensor, simplifying the equations
+  and reducing them to a system that determines the functional dependence of the eigenvectors.
+  The author applies this method to a problem involving a time-dependent magneto-sonic-gravitational
+  wave, showing that it can be reduced to solving a nonlinear second-order ordinary
+  differential equation.

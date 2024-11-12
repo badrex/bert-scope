@@ -1,0 +1,17 @@
+article_id: rsta_1960_0018
+revised_title: 'Laminar Boundary-Layer Flow Near Separation with and without Suction:
+  A Study of Fluid Dynamics'
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Boundary Layer Theory
+- Laminar Flow
+- Separation Point
+- Suction
+tldr: This article investigates the behavior of laminar boundary-layer flow near separation
+  with and without suction. The authors extend the work of Goldstein and Stewartson,
+  developing an asymptotic solution that is independent of any integral condition.
+  They provide numerical solutions for the skin friction and velocity distribution
+  near separation, confirming the existence of a singularity at the separation point.
+  The study also compares the results with the equation of similar profiles and offers
+  insights into the fluid dynamics of boundary layers.

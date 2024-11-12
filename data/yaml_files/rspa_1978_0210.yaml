@@ -1,0 +1,14 @@
+article_id: rspa_1978_0210
+revised_title: Advanced Calculations for Lighthill's Integral Equation
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Applied Mathematics
+- Integral Equations
+- Series Expansion
+- Asymptotic Expansion
+- Convergence Analysis
+tldr: The author improves upon Lighthill's method for solving an integral equation
+  related to heat transfer in compressible laminar boundary layers. By refining the
+  series expansion and asymptotic expansion, the author achieves a more accurate solution
+  for the integral equation. The convergence analysis shows that the method yields
+  results within a maximum error of 2 units in the seventh decimal place.

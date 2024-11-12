@@ -1,0 +1,16 @@
+article_id: rsta_1994_0061
+revised_title: Path-Dependent Options and Transaction Costs in Finance
+scientific_discipline: Mathematics > Finance
+semantic_tags:
+- Finance
+- Option Pricing
+- Differential Equations
+- Transaction Costs
+- Exotic Options
+tldr: This article describes research on exotic option pricing and option pricing
+  when trading the underlying asset incurs transaction costs. It presents a general
+  framework for modeling problems in pricing exotic options with transaction costs
+  using differential equations. The authors discuss various types of exotic options,
+  such as Asian and lookback options, and explain how to incorporate transaction costs
+  into the pricing models. They also explore the effects of discrete sampling of path-dependent
+  quantities on option prices.

@@ -1,0 +1,15 @@
+article_id: rspa_1964_0109
+revised_title: Approximate Elastic Critical Loads of Rigidly Jointed Plane Frameworks
+scientific_discipline: Engineering and Technology > Structural Engineering
+semantic_tags:
+- Structural Engineering
+- Elasticity
+- Mechanics
+- Redundant Frameworks
+- Critical Loads
+tldr: The author presents a method to determine the approximate elastic critical loads
+  of rigidly jointed plane frameworks with redundant members. The method involves
+  expressing the load pattern as a function of the unknown forces in one non-redundant
+  member and the redundant members. By maximizing the load pattern subject to the
+  elliptical approximation, an estimate of the elastic critical load of the redundant
+  framework is obtained.

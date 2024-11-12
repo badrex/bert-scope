@@ -1,0 +1,16 @@
+article_id: rspb_1989_0018
+revised_title: 'Automated Site-Directed Drug Design: Molecular Templates in Primary
+  Structure Generation'
+scientific_discipline: Chemistry > Drug Design
+semantic_tags:
+- Drug Design
+- Molecular Templates
+- Primary Structure
+- Ligand-Binding Sites
+- Automated Methods
+tldr: This article describes a method for generating molecular templates using spacer
+  skeletons to create putative ligands for binding sites. The process involves fitting
+  and clipping the spacer skeletons to the designated ligand points within the accessible
+  surface of the ligand-binding site. The resulting molecular templates can be further
+  optimized and verified for bonding integrity, providing a foundation for automated
+  site-directed drug design.

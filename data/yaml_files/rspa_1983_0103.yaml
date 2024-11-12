@@ -1,0 +1,15 @@
+article_id: rspa_1983_0103
+revised_title: Exploring the Lattice Structure of Pseudo-Random Number Generators
+scientific_discipline: Mathematics > Number Theory
+semantic_tags:
+- Number Theory
+- Randomness
+- Congruential Generators
+- Lattice Theory
+- Computational Mathematics
+tldr: This article explores the lattice structure of pseudo-random number generators,
+  specifically focusing on congruential generators. It introduces the concept of polar
+  lattices and shows that various characteristics of these lattices are essentially
+  equivalent and can be found to an approximation sufficient for assessing the quality
+  of the generator without extensive searches. The article also provides algorithms
+  for finding and analyzing these lattices.

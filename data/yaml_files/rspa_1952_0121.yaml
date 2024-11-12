@@ -1,0 +1,15 @@
+article_id: rspa_1952_0121
+revised_title: Equation of State for Gases at High Densities and Temperatures
+scientific_discipline: Physics > Thermodynamics
+semantic_tags:
+- Thermodynamics
+- Gas equation of state
+- High-pressure physics
+- Detonation theory
+- Hydrodynamic theory
+tldr: The authors propose a simple model for a gas at high density and temperature,
+  using a cell model to calculate the energy of each molecule as a function of cell
+  volume. They apply this model to the hydrodynamic theory of detonation, discussing
+  the equation of state for gases at high density and temperature, relevant to the
+  detonation wave in condensed explosives. The model is tested using pentaerythritol
+  tetranitrate, with results in good agreement with experimental data.

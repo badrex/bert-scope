@@ -1,0 +1,17 @@
+article_id: rspa_1989_0075
+revised_title: 'Travelling Waves in Isothermal Chemical Systems: Quadratic Autocatalysis
+  with Linear Decay'
+scientific_discipline: Chemistry > Reaction-diffusion equations
+semantic_tags:
+- Reaction-diffusion equations
+- Chemical wave propagation
+- Travelling waves
+- Isothermal systems
+- Autocatalysis
+tldr: This article investigates the development of travelling waves in a simple isothermal
+  chemical system with quadratic autocatalysis and linear decay. The authors find
+  that the wave travels with a uniform speed and that the ordinary differential equations
+  governing the front have a solution for all wave speeds greater than or equal to
+  a minimal speed. The wave velocity is given by V = (k1 * k2 * D * A0 * B0)^(1/2),
+  where k1 and k2 are rate constants, D is the diffusion coefficient, A0 and B0 are
+  the initial concentrations of reactants A and B, respectively.

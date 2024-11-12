@@ -1,0 +1,15 @@
+article_id: rspa_1974_0139
+revised_title: Incompressible Boundary Layer Calculations over Inclined Blunt Bodies
+scientific_discipline: Engineering and Technology > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Boundary Layer Theory
+- Computational Fluid Dynamics
+- Aeronautics
+- Aerodynamics
+tldr: This article presents methods for calculating three-dimensional laminar boundary
+  layers over inclined blunt bodies, with complete incompressible results for a prolate
+  spheroid at incidence. The authors describe computational procedures and observe
+  the rule of the zone of dependence. The study confirms the open-type of separation
+  and provides a detailed understanding of the boundary layer structure over non-spherical
+  and non-conical blunt bodies.

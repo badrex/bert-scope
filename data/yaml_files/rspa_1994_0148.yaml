@@ -1,0 +1,16 @@
+article_id: rspa_1994_0148
+revised_title: Spectral Determinants and Semiclassical Approximations in Hyperbola
+  Billiards
+scientific_discipline: Physics > Classical Mechanics
+semantic_tags:
+- Spectral determinants
+- Semiclassical approximations
+- Hyperbola billiards
+- Quantum mechanics
+- Classical mechanics
+tldr: The authors develop a method for regularizing spectral determinants, allowing
+  their computation from a finite number of eigenvalues. They apply this method to
+  the hyperbola billiard, a classically chaotic system, and compare the results with
+  semiclassical approximations. The Riemann-Siegel-type formula, which uses the least
+  number of orbits, provides the closest approximation, supporting recent conjectures
+  concerning the analytic properties of semiclassical formulae.

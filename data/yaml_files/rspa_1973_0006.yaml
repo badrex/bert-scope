@@ -1,0 +1,15 @@
+article_id: rspa_1973_0006
+revised_title: Unified Approach to Seismic Source Representation
+scientific_discipline: Physics > Seismology
+semantic_tags:
+- Seismology
+- Elasticity
+- Earthquake Sources
+- Boundary-Value Problems
+- Navier Equation
+tldr: The authors present a unified approach to representing various seismic sources
+  in seismology. They use the Navier equation and Green's dyadic to derive displacement
+  fields for different types of sources, such as double forces, centers of compression,
+  double couples, and centers of rotation. This representation can be applied to study
+  the effects of earthquake sources on the Earth, including free oscillations, surface
+  waves, and residual static deformations.

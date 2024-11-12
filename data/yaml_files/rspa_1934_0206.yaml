@@ -1,0 +1,15 @@
+article_id: rspa_1934_0206
+revised_title: Explicit Solutions of Difference Equations and Riccati's Equation
+scientific_discipline: Mathematics > Calculus of Finite Differences
+semantic_tags:
+- Difference Equations
+- Riccati Equation
+- Mathematics
+- Calculus of Finite Differences
+- Continued Fractions
+tldr: This article presents a method to find the explicit solutions of various types
+  of difference equations, including Riccati's equation, by transforming them into
+  a single canonical form. The author provides an algorism for solving the canonical
+  equation and demonstrates how to apply it to different classes of equations. The
+  solutions for corresponding differential equations are also discussed as particular
+  cases.

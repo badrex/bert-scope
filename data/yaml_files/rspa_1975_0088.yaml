@@ -1,0 +1,16 @@
+article_id: rspa_1975_0088
+revised_title: Analyzing Global Solutions of Linear Ordinary Differential Equations
+  with Polynomial Coefficients
+scientific_discipline: Mathematics > Linear Algebra
+semantic_tags:
+- Differential Equations
+- Difference Equations
+- Linear Algebra
+- Power Series Solutions
+- Mellin Transform
+tldr: This article presents a constructive approach to analytically continuing power
+  series solutions of linear ordinary differential equations with polynomial coefficients.
+  The method relies on the theory of difference equations and provides a way to find
+  global solutions for these equations. The article also discusses the asymptotic
+  behavior of solutions and the use of factorial and Newton series in solving the
+  equations.

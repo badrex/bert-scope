@@ -1,0 +1,17 @@
+article_id: rsta_1951_0007
+revised_title: Investigating Similarity and Self-Preservation in Isotropic Turbulence
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Turbulence
+- Fluid Dynamics
+- Isotropy
+- Reynolds Number
+- Energy Spectrum Function
+tldr: The authors conducted experiments with turbulence-producing grids of various
+  shapes to study the behavior of isotropic turbulence. They found that the large-scale
+  structure of the turbulence was similar across different grid geometries, but the
+  largest eddies were significantly anisotropic. The energy spectrum function was
+  self-preserving within the initial period of decay, with a shape independent of
+  the grid's shape. The part of the spectrum that was not self-preserving contained
+  at least one-third of the total energy, leading the authors to caution theories
+  postulating quasi-equilibrium during decay.

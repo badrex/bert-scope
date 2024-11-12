@@ -1,0 +1,18 @@
+article_id: rsta_1995_0025
+revised_title: Effective Transport Equations for Chemical Solute Dispersion in Chromatographs
+  and Reactors
+scientific_discipline: Engineering and Technology > Chemical Engineering
+semantic_tags:
+- Chemical Engineering
+- Chromatography
+- Reaction Kinetics
+- Transport Equations
+- Surface Chemistry
+tldr: The authors study the dispersion of chemical solutes in chromatographs and reactors,
+  considering factors such as adsorption/desorption, surface reactions, and bulk reactions.
+  They use the center and invariant manifold theories to establish the proper time
+  and length scale separations for effective transport equations and determine the
+  dependence of effective transport coefficients on the kinetics of adsorption/desorption
+  and reaction. The study also examines the spatial evolution of time-dependent inlet
+  conditions and the impact of nonlinear interactions among reaction, diffusion, and
+  convection.

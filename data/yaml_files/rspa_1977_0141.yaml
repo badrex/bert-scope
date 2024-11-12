@@ -1,0 +1,16 @@
+article_id: rspa_1977_0141
+revised_title: 'Predicting Strain Rate in Machining: A Comprehensive Study'
+scientific_discipline: Engineering and Technology > Manufacturing and Machining
+semantic_tags:
+- Machining Theory
+- Strain Rate
+- Shear Zone
+- Flow Stress Properties
+- Cutting Conditions
+tldr: The authors developed an improved machining theory that takes into account the
+  strain rate and temperature dependence of the work material's flow stress properties.
+  They used this theory to predict the strain rate in the zone of intense shear during
+  machining and found excellent agreement with experimental results. The study also
+  showed that using a constant flow stress material in the machining theory leads
+  to extremely large strain rates, highlighting the importance of considering variable
+  flow stress properties.

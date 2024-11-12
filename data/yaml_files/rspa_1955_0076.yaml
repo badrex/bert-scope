@@ -1,0 +1,14 @@
+article_id: rspa_1955_0076
+revised_title: Explicit Evaluation of Fractional Parentage Coefficients
+scientific_discipline: Physics > Quantum Mechanics
+semantic_tags:
+- Quantum Mechanics
+- Atomic Physics
+- Nuclear Physics
+- Angular Momentum
+- Coupling Schemes
+tldr: The authors present a method to calculate fractional parentage coefficients
+  explicitly, which are essential for evaluating interaction elements between states
+  in atomic and nuclear structure calculations. They introduce an operator that picks
+  out antisymmetric states and split the coefficients into orbital and spin parts.
+  The authors provide detailed results for three, four, and five particles cases.

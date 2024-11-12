@@ -1,0 +1,15 @@
+article_id: rspa_1996_0105
+revised_title: Surface Tension Bow Flows and Wave Dynamics
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Surface Tension
+- Wave Mechanics
+- Boundary Integral Equations
+- Free Surface Flows
+tldr: The authors study two-dimensional potential flows of infinite depth past a semi-infinite
+  flat plate, considering the effects of surface tension on the free surface. They
+  find that flows with waves do not meet the plate tangentially, and the shape of
+  the free surface is computed using a boundary integral equation method. The exact
+  form of the wave in the far field is derived from the principle of conservation
+  of momentum, and numerical results are consistent with the exact results.

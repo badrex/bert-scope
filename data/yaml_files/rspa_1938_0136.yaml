@@ -1,0 +1,15 @@
+article_id: rspa_1938_0136
+revised_title: Significance Testing and Standard Errors in Statistical Analysis
+scientific_discipline: Mathematics > Statistics
+semantic_tags:
+- Statistical Analysis
+- Significance Testing
+- Standard Errors
+- Hypothesis Testing
+- Probability Theory
+tldr: The author discusses the comparison of series of measures on different hypotheses
+  concerning standard errors in statistical analysis. They propose a new approach
+  to significance testing and introduce a weighted mean of true values as a fundamental
+  unknown in the comparison of series of measures. This new approach helps to assess
+  the significance of one new parameter when there is an additional parameter whose
+  significance is not in question.

@@ -1,0 +1,17 @@
+article_id: rspa_1971_0102
+revised_title: 'Numerical Analysis of Hyperbolic Partial Differential Equations: A
+  Review of Methods and Techniques'
+scientific_discipline: Mathematics > Numerical Analysis
+semantic_tags:
+- Numerical Analysis
+- Partial Differential Equations
+- Hyperbolic Equations
+- Computational Fluid Dynamics
+- Mesh Finite-Difference Methods
+tldr: This article discusses various methods for numerically analyzing hyperbolic
+  partial differential equations, including the characteristic, mesh finite-difference,
+  and particle-in-cell techniques. It highlights the development of a practical characteristic
+  code for problems with many discontinuities and the incorporation of particle-in-cell
+  features into Eulerian mesh methods. The article also reviews the use of artificial
+  viscosity terms and the advantages and limitations of different methods in one and
+  multiple dimensions.

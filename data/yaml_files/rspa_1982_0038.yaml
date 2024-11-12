@@ -1,0 +1,17 @@
+article_id: rspa_1982_0038
+revised_title: 'Surface Tension of Fluid Drops: A Statistical Mechanical Approach'
+scientific_discipline: Physics > Fluid mechanics
+semantic_tags:
+- Fluid mechanics
+- Surface tension
+- Statistical mechanics
+- Direct correlation function
+- Capillary waves
+tldr: The authors develop a statistical mechanical expression for the surface tension
+  of a fluid drop using the direct correlation function. They extend previous work
+  on planar liquid-vapor interfaces and consider deformations of a fluid drop up to
+  second order in density distortion. The study does not apply beyond the leading-order
+  difference from the planar limit and does not identify the surface tension for general
+  second-order surface deformations. Instead, the authors propose considering surface
+  distortions that occur as natural fluctuations, such as hydrodynamic capillary waves,
+  to define the surface tension of a drop.

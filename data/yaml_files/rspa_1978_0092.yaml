@@ -1,0 +1,16 @@
+article_id: rspa_1978_0092
+revised_title: Attenuation and Radiation of Sound in Acoustically Lined Ducts
+scientific_discipline: Engineering and Technology > Acoustics
+semantic_tags:
+- Acoustics
+- Sound attenuation
+- Sound radiation
+- Acoustically lined ducts
+- Absorbent materials
+tldr: This article presents a rigorous and exact solution for the radiation of sound
+  from a semi-infinite unflanged rigid duct with an internal acoustically absorbent
+  lining. The solution uses a modification of the Wiener-Hopf technique and is suitable
+  for numerical computations. The study focuses on the attenuation of sound in finite
+  closed ducts and the radiation of sound from ducts that terminate, which is important
+  for reducing noise from modern jet engines and designing suitable screening to deflect
+  the radiated sound from sensitive areas of population.

@@ -1,0 +1,15 @@
+article_id: rspa_1951_0109
+revised_title: Extension of Diffusion Theory to High Inverse Voltages in Contact Rectification
+scientific_discipline: Physics > Materials Science
+semantic_tags:
+- Semiconductor physics
+- Rectifier breakdown
+- Image-force model
+- Contact rectification
+- Diffusion theory
+tldr: The authors extend the diffusion theory of rectification to cover high inverse
+  voltages, where existing theories fail. They apply the image-force model to the
+  potential barrier and explain the mechanism of current flow over the barrier. The
+  theory is applied to the selenium plate rectifier, predicting the onset of thermal
+  instability with reasonable accuracy and explaining hysteresis and other phenomena
+  observed during breakdown.

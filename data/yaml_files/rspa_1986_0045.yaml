@@ -1,0 +1,18 @@
+article_id: rspa_1986_0045
+revised_title: Isothermal Kinetic Interactions in Oscillatory Ignition of Hydrogen
+  Oxidation
+scientific_discipline: Chemistry > Combustion and Flame
+semantic_tags:
+- Combustion
+- Hydrogen oxidation
+- Oscillatory ignition
+- Isothermal kinetics
+- Numerical analysis
+tldr: The authors used numerical methods to simulate oscillatory ignition in hydrogen
+  oxidation under conditions resembling the second ignition limit for equimolar hydrogen
+  and oxygen mixtures in a well-stirred reactor. They simplified the kinetic scheme
+  to a minimum of seven elementary steps and analyzed the role of each reaction in
+  isothermal chain-branching oscillations under flowing conditions. The study provides
+  a quantitative link between experimental measurements and simplified isothermal
+  kinetic models, revealing essential kinetic features for the existence of isothermal
+  oscillatory phenomena.

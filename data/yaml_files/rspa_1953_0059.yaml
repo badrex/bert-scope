@@ -1,0 +1,14 @@
+article_id: rspa_1953_0059
+revised_title: Advanced Wave Function Calculations for Boron and Carbon
+scientific_discipline: Chemistry > Quantum Chemistry
+semantic_tags:
+- Quantum Chemistry
+- Atomic Physics
+- Wave Function Theory
+- Variational Method
+- Computational Chemistry
+tldr: The authors present a detailed study of eight variational poly-detor wave functions
+  for boron and carbon, resulting in more accurate calculations than previously available.
+  They discuss the process of projective reduction, organization of numerical calculations,
+  and the choice of initial functions. The study also introduces new checking procedures
+  and classification methods to improve accuracy and efficiency in wave function calculations.

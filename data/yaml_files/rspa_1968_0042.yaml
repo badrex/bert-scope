@@ -1,0 +1,16 @@
+article_id: rspa_1968_0042
+revised_title: Solving Field Equations in Ferromagnetic Sheets with Alternating Magnetization
+scientific_discipline: Physics > Electromagnetism
+semantic_tags:
+- Electromagnetism
+- Ferromagnetism
+- Eddy current
+- Magnetic materials
+- Nonlinear equations
+tldr: The authors present a general method for solving the field equations inside
+  ferromagnetic sheets subjected to alternating magnetization. They consider the fundamental
+  and third harmonic components and develop a systematic iterative scheme to find
+  the phasors at the center of the sheet, satisfying the prescribed values at the
+  surface. This method accounts for the inherent distortions of the magnetic field
+  and current density inside the saturated material, providing a more accurate evaluation
+  of core loss in thin laminations.

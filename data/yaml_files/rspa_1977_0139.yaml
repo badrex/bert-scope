@@ -1,0 +1,16 @@
+article_id: rspa_1977_0139
+revised_title: Invariance Properties of Pade Approximants in Rayleigh-Schrodinger
+  Perturbation Theory
+scientific_discipline: Physics > Quantum Mechanics
+semantic_tags:
+- Perturbation Theory
+- Pade Approximants
+- Rayleigh-Schrodinger
+- Quantum Mechanics
+- Atomic and Molecular Physics
+tldr: The authors investigate the properties of Pade approximants in Rayleigh-Schrodinger
+  perturbation theory, focusing on their invariance to changes in scale and origin
+  in the zero-order Hamiltonian. They demonstrate that a specific sequence of Pade
+  approximants is invariant to these alterations when the exact Hamiltonian is recovered,
+  suggesting their appropriateness for representing the energy in ab initio perturbative
+  calculations.

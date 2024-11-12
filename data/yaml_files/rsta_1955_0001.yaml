@@ -1,0 +1,16 @@
+article_id: rsta_1955_0001
+revised_title: 'Assessment of Optical Images: Fidelity and Information Content'
+scientific_discipline: Physics > Optics
+semantic_tags:
+- Image Assessment
+- Optical Systems
+- Fourier Transform
+- Image Fidelity
+- Information Content
+tldr: 'This article discusses the assessment of optical images by considering two
+  different approaches: image fidelity and information content. Image fidelity is
+  proposed as a criterion for evaluating the resemblance of an image to its object,
+  while information content is based on the amount of implicit information that can
+  be extracted from the image. The authors analyze the Fourier treatment of optical
+  imaging and provide a quantitative definition of image fidelity, as well as a detailed
+  analysis of the information content of an optical image under specific conditions.'

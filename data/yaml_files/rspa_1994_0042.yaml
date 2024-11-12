@@ -1,0 +1,16 @@
+article_id: rspa_1994_0042
+revised_title: 'General Harmonic and Musical Wavelets: A Complete Set of Orthogonal
+  Basis Functions for Signal Analysis'
+scientific_discipline: Mathematics > Fourier Analysis
+semantic_tags:
+- Wavelet Theory
+- Signal Analysis
+- Fourier Analysis
+- Orthogonal Basis Functions
+- Musical Scale
+tldr: The author introduces general harmonic wavelets, a family of mixed wavelets
+  with a structure that provides a complete set of orthogonal basis functions for
+  signal analysis. By adjusting the parameters, wavelets with frequency content following
+  the musical scale can be generated, offering greater frequency resolution than traditional
+  harmonic wavelets. The author demonstrates the potential applications of these musical
+  wavelets in analyzing and compressing signals.

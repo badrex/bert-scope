@@ -1,0 +1,16 @@
+article_id: rspa_1989_0107
+revised_title: Rigorous Bounds for Thermal Explosions and Criticality in Distributed
+  Temperature Systems
+scientific_discipline: Environmental and Earth Sciences > Thermodynamics
+semantic_tags:
+- Thermal explosion theory
+- Criticality
+- Rigorous bounds
+- Ignition
+- Heat transfer
+tldr: This article presents a mathematical approach to establish lower bounds for
+  criticality in thermal explosion theory. The authors provide a method to calculate
+  the transition value of the Kamenetskii parameter, which helps in understanding
+  the behavior of exothermic reactions with distributed temperatures. The results
+  can be applied to various geometries and boundary conditions, offering a more efficient
+  way to analyze thermal ignition problems.

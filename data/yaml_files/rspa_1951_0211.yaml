@@ -1,0 +1,15 @@
+article_id: rspa_1951_0211
+revised_title: Numerical Integration of Boundary-Layer Equations for Flow Past an
+  Elliptic Cylinder
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Boundary Layer Theory
+- Numerical Integration
+- Fluid Mechanics
+- Aerodynamics
+tldr: The authors present a method for numerically integrating the boundary-layer
+  equation to study the flow past an elliptic cylinder. They apply this method to
+  Schubauer's measurements and find satisfactory agreement with the observed results.
+  The study also suggests a possible relationship between separation points in different
+  flow scenarios.

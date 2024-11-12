@@ -1,0 +1,14 @@
+article_id: rsta_1965_0007
+revised_title: Error Estimation in Quantum Mechanics Approximations
+scientific_discipline: Physics > Quantum Mechanics
+semantic_tags:
+- Quantum Mechanics
+- Error Analysis
+- Approximation Theory
+- Computational Physics
+- Perturbation Theory
+tldr: The article discusses the development of quantum mechanics and the various methods
+  used to calculate the energy states of systems with multiple electrons. It introduces
+  a new method for estimating the error of approximations in quantum mechanics, which
+  can be used to improve the accuracy of calculations. The author also highlights
+  the importance of modern high-speed computers in performing these calculations efficiently.

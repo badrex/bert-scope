@@ -1,0 +1,16 @@
+article_id: rspa_1951_0151
+revised_title: Pointwise Bounds for Solutions of Dirichlet and Neumann Boundary-Value
+  Problems
+scientific_discipline: Mathematics > Functional Analysis
+semantic_tags:
+- Boundary-value problems
+- Dirichlet problem
+- Neumann problem
+- Green's functions
+- Hypercircle method
+tldr: The author presents a method for obtaining pointwise bounds for solutions of
+  certain boundary-value problems, including the Dirichlet and Neumann problems. The
+  method uses the hypercircle principle and Green's functions to locate the solution
+  on a hypercircle in function space, providing bounds for the solution and its derivatives.
+  This method is applicable to various boundary-value problems in three-dimensional
+  regions.

@@ -1,0 +1,14 @@
+article_id: rspa_1955_0017
+revised_title: Compressible Fluid Flow Past Curved Obstacles with Varying Wake Pressures
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Compressible Flow
+- Boundary Layer Theory
+- Aerodynamics
+- Wake Flow
+tldr: The authors extend the classical Helmholtz theory of incompressible flow around
+  obstacles with constant-pressure cavities to include compressible subsonic flow
+  around curved obstacles with varying bubble pressures. They apply the theory to
+  calculate the flow past a circular cylinder for various points of flow separation
+  and Mach numbers, demonstrating good agreement with experimental results.

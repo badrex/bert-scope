@@ -1,0 +1,16 @@
+article_id: rspa_1988_0009
+revised_title: Asymptotic Studies of Closely Spaced, Highly Conducting Cylinders
+scientific_discipline: Physics > Electromagnetism
+semantic_tags:
+- Electromagnetism
+- Conductivity
+- Transport properties
+- Hypergeometric function
+- Multipole moments
+tldr: The authors studied the scalar transport properties of a pair of nearly touching
+  cylinders with high conductivity. They derived an expression for the multipole moments
+  of the potential distribution using the hypergeometric function and applied it to
+  estimate the truncation errors in the matrix solution of the transport problem for
+  a square array of cylinders. This allowed them to calculate the array transport
+  coefficient for high conductivity and small cylinder separations, providing a uniformly
+  valid expression for the coefficient in the asymptotic region.

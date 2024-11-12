@@ -1,0 +1,14 @@
+article_id: rsta_1990_0129
+revised_title: Analyzing the Distributions of Apparent Open and Shut Times in Single
+  Channel Recordings
+scientific_discipline: Physics > Electromagnetism
+semantic_tags:
+- Ion channels
+- Single-molecule kinetics
+- Markov process
+- Channel function
+- Resolution problem
+tldr: This article discusses the challenges of analyzing single ion channel recordings
+  when brief events cannot be detected due to resolution limitations. The authors
+  derive exact distributions for the apparent open and shut times, allowing for a
+  more accurate analysis of the data and better understanding of ion channel function.

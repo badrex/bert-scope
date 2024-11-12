@@ -1,0 +1,16 @@
+article_id: rspa_1980_0119
+revised_title: Numerical Solutions of Laminar Flow through a Channel with a Symmetrical
+  Constriction
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Navier-Stokes Equations
+- Laminar Flow
+- Channel Flow
+- Asymptotic Theory
+tldr: The authors present numerical solutions for steady, two-dimensional laminar
+  flow of an incompressible fluid through a channel with a symmetrical constriction
+  in the form of a step. They use a numerical finite-difference method to calculate
+  the flow development between the step and compare the results with the asymptotic
+  theory. The study shows good agreement between the numerical solutions and the theory,
+  especially for Reynolds numbers between 100 and 600.

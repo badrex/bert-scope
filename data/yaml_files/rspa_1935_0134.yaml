@@ -1,0 +1,15 @@
+article_id: rspa_1935_0134
+revised_title: A New Method for Stress Calculation in Redundant Frameworks
+scientific_discipline: Engineering and Technology > Structural Engineering
+semantic_tags:
+- Structural Engineering
+- Stress Analysis
+- Redundant Frameworks
+- Systematic Relaxation
+- Elastic Equations
+tldr: The author presents a new method for calculating stresses in redundant frameworks,
+  which avoids solving simultaneous equations and is simpler and faster than existing
+  methods. The method, called "systematic relaxation," can be applied to any framework,
+  regardless of its redundancy, and provides joint displacements and actions in members
+  simultaneously. This new method is complementary to previous methods and offers
+  advantages in terms of accuracy and efficiency for practical engineers.

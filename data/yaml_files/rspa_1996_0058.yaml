@@ -1,0 +1,16 @@
+article_id: rspa_1996_0058
+revised_title: Efficient Algorithms for Simulating Complex Mechanical Systems
+scientific_discipline: Mathematics > Computational Mechanics
+semantic_tags:
+- Computational Mechanics
+- Constrained Dynamics
+- Numerical Integration
+- Constraint Correction Schemes
+- Inverted Pendulum
+tldr: The authors present efficient algorithms for simulating complex mechanical systems
+  using constraint dynamics. They derive the constrained Lagrangian and Hamiltonian
+  equations of motion for a general non-relativistic classical mechanical system with
+  constraints. The numerical integration of these equations is discussed, and constraint
+  errors are avoided using simple correction schemes. The authors demonstrate the
+  efficiency of their methods by applying them to a periodically driven inverted n-linked
+  pendulum.

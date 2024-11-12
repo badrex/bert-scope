@@ -1,0 +1,17 @@
+article_id: rspa_1972_0041
+revised_title: Rigorous Lower-Bound Procedure for Electric Polarizabilities of Two-Electron
+  Atoms
+scientific_discipline: Physics > Atomic Physics
+semantic_tags:
+- Atomic Physics
+- Quantum Mechanics
+- Electric Polarizability
+- Variational Approximations
+- Perturbation Theory
+tldr: The authors developed a method to calculate rigorous lower bounds for electric
+  polarizabilities and other second-order properties of two-electron atoms, even when
+  the field-free problem cannot be solved exactly. They applied this method to calculate
+  dipole polarizabilities for low-lying singlet and triplet states of helium and other
+  two-electron ions using well-correlated variational trial functions. The calculated
+  values provide high-accuracy estimates and help evaluate the leading unknown terms
+  in the expansion of the polarizability.

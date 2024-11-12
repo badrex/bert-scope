@@ -1,0 +1,16 @@
+article_id: rspa_1969_0115
+revised_title: 'One-dimensional Acoustic Wave Propagation in a Plasma Fluid: Near-field
+  Effects of Electrical Disturbances'
+scientific_discipline: Physics > Plasma Physics
+semantic_tags:
+- Plasma physics
+- Acoustic waves
+- Fluid dynamics
+- Wave propagation
+- Magnetohydrodynamics
+tldr: This article explores one-dimensional acoustic wave propagation in a plasma
+  fluid near the field of an electrical disturbance. It presents methods for solving
+  the wave problem with an electrical source, taking a Laplace transform in time and
+  using either a Fourier transform or difference equations in space. The study examines
+  wave stability and provides insights into the excitation of ion acoustic waves by
+  electric fields.

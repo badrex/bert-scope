@@ -1,0 +1,16 @@
+article_id: rspa_1984_0045
+revised_title: Optimal Sampling Points for Laplace Transform Inversion in Exponential
+  Relaxation Rates
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Inverse Problems
+- Laplace Transform
+- Signal Processing
+- Exponential Relaxation Rates
+- Optimal Sampling
+tldr: The authors investigate the optimal choice of experimental sampling points for
+  Laplace transform inversion in the recovery and resolution of exponential relaxation
+  rates from experimental data. They consider uniform and geometric distributions
+  of data points and find that geometric sampling reduces the number of required sample
+  points for inversion, improving the restoration of exponential components. This
+  has significant implications for the design of scientific experiments and instruments.

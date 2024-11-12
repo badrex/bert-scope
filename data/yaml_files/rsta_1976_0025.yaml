@@ -1,0 +1,18 @@
+article_id: rsta_1976_0025
+revised_title: Tensor Spherical Harmonics for Partial Differential Equations in Mathematical
+  Physics
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Mathematical Physics
+- Spherical Harmonics
+- Partial Differential Equations
+- Tensor Analysis
+- Applied Mathematics
+tldr: The article introduces a new definition for arbitrary-rank cartesian-tensor
+  spherical harmonics, which generalizes numerous known properties of scalar and vector
+  spherical harmonics to the arbitrary-rank case. This method allows for the systematic
+  construction of spectral equations and simplifies the evaluation of integrals of
+  products of three tensor harmonics. The article demonstrates the application of
+  these new tensor harmonics to various partial differential equations in mathematical
+  physics, such as the Laplace and Helmholtz equations, stress-strain equations, and
+  fluid mechanics equations.

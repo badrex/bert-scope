@@ -1,0 +1,16 @@
+article_id: rsta_1955_0012
+revised_title: Vibrational Frequencies and Force Field of Benzene
+scientific_discipline: Chemistry > Molecular Physics
+semantic_tags:
+- Molecular Physics
+- Vibrational Spectroscopy
+- Quantum Chemistry
+- Benzene
+- Force Field
+tldr: The authors present a detailed study of the force field, vibration frequencies,
+  and normal coordinates of benzene. They use a quadratic force field with 26 non-zero
+  constants and introduce four dipole moment derivative parameters and ten polarizability
+  parameters to provide satisfactory indications of infra-red absorption intensities
+  and Raman shift intensities. The study aims to reproduce the observed vibration
+  frequencies of benzene and its deuterated derivatives to within 2% using a quadratic
+  force field.

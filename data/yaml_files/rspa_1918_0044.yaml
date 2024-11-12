@@ -1,0 +1,15 @@
+article_id: rspa_1918_0044
+revised_title: Cesaro Convergence of Restricted Fourier Series
+scientific_discipline: Mathematics > Analysis
+semantic_tags:
+- Fourier series
+- Cesaro convergence
+- Mathematical analysis
+- Trigonometric series
+- Riesz-Fischer theorem
+tldr: The author investigates the Cesaro convergence of restricted Fourier series,
+  showing that they share the convergence properties of Fourier series. The study
+  focuses on the upper and lower functions of these series and their independence
+  from the values of the associated function outside a small neighborhood of the considered
+  point. This research contributes to the understanding of the behavior of series
+  of functions and their convergence properties.

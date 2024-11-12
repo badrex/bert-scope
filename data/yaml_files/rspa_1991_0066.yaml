@@ -1,0 +1,15 @@
+article_id: rspa_1991_0066
+revised_title: Efficient Analysis of Radiative Scattering for Multiple Sphere Configurations
+scientific_discipline: Physics > Electromagnetic Theory
+semantic_tags:
+- Electromagnetic Scattering
+- Multiple Sphere Configurations
+- Radiative Transfer
+- Addition Theorems
+- Computational Physics
+tldr: The author presents a refined superposition solution method for analyzing radiative
+  scattering in multiple sphere configurations. By simplifying the formulation and
+  computation of addition theorems, this method enables efficient implementation of
+  the order-of-scattering solution technique. The study focuses on the scattering
+  cross section, extinction cross section, and absorption cross section of the ensemble,
+  providing valuable insights for understanding light scattering in complex systems.

@@ -1,0 +1,14 @@
+article_id: rspa_1972_0131
+revised_title: Advanced Methods for Analyzing Radio Source Scintillation
+scientific_discipline: Physics > Electromagnetism
+semantic_tags:
+- Radio Astronomy
+- Scintillation
+- Electromagnetic Waves
+- Refractive Index
+- Signal Fluctuations
+tldr: The authors present new methods for solving the partial differential equation
+  that describes the scintillation of extended radio sources when the receiver has
+  a finite bandwidth. These methods expand upon previous work and can be used for
+  any source size and medium thickness, making them useful for a wider range of applications
+  in radio astronomy.

@@ -1,0 +1,15 @@
+article_id: rspa_1976_0171
+revised_title: Flow Dynamics in a Curved Tube of Triangular Cross Section
+scientific_discipline: Engineering and Technology > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Boundary Layer Theory
+- Viscous Flow
+- Numerical Solutions
+- Triangular Cross Section
+tldr: The authors investigate the steady flow of a viscous fluid under a constant
+  pressure gradient in a curved tube with a uniform triangular cross-section. They
+  provide numerical solutions for the range 100-12000 of the Dean number and examine
+  the development of a boundary-layer structure as the Dean number increases. The
+  results show some agreement with an asymptotic model proposed by Smith (1976) but
+  also reveal discrepancies in the precise details.

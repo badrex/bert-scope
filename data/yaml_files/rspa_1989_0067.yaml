@@ -1,0 +1,14 @@
+article_id: rspa_1989_0067
+revised_title: 'Computational Aspects of Autonomous Differential Equations: A Review'
+scientific_discipline: Mathematics > Differential Equations
+semantic_tags:
+- Differential Equations
+- Numerical Methods
+- Solitary Waves
+- Mathematical Physics
+- Autonomous Systems
+tldr: This article discusses the computational challenges of solving autonomous differential
+  equations, focusing on the classic soliton wave equation. The author presents various
+  numerical methods and techniques to overcome the difficulties in computing solutions
+  for these equations, providing insights into the behavior of the solutions and their
+  applications in physical systems.

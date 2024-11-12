@@ -1,0 +1,17 @@
+article_id: rspa_1988_0085
+revised_title: Asymptotic Analysis of Thermal Explosions and Disappearance of Criticality
+  in Systems with Distributed Temperatures
+scientific_discipline: Engineering and Technology > Heat Transfer and Fluid Dynamics
+semantic_tags:
+- Thermal explosions
+- Asymptotic analysis
+- Criticality
+- Heat transfer
+- Reaction systems
+tldr: This article presents an asymptotic analysis of thermal explosions and the disappearance
+  of criticality in systems with distributed temperatures. The authors use perturbation
+  methods to derive expressions for criticality and transition in systems with arbitrary
+  Biot numbers, focusing on the infinite slab, cylinder, and sphere geometries. The
+  study applies to general circumstances and can handle temperature-dependent reaction
+  rates. Numerical results are provided for the important case of Arrhenius kinetics
+  at a transition point.

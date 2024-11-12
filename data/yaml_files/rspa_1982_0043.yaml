@@ -1,0 +1,18 @@
+article_id: rspa_1982_0043
+revised_title: Evaluation of Two Turbulence Models for Unsteady Turbulent Boundary
+  Layers with Flow Reversal
+scientific_discipline: Physics > Fluid mechanics
+semantic_tags:
+- Turbulence modeling
+- Boundary layer
+- Fluid dynamics
+- Unsteady flow
+- Reynolds stress
+tldr: 'The authors extended the unsteady laminar boundary-layer method to turbulent
+  boundary layers with flow reversal, comparing two separate turbulence models: the
+  algebraic eddy-viscosity formulation of Cebeci and Smith and the transport model
+  of Bradshaw, Ferriss, and Atwell. They found that both models'' predictions were
+  nearly identical for steady and unsteady flows with and without strong pressure
+  gradients. The study revealed that unsteady turbulent boundary layers seem to be
+  free from singularities, but there is a clear indication of rapid boundary layer
+  thickening with increasing flow reversal.'

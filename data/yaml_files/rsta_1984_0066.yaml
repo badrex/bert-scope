@@ -1,0 +1,16 @@
+article_id: rsta_1984_0066
+revised_title: 'Gypsy Verification Environment: A Mathematical Approach to Software
+  Engineering'
+scientific_discipline: Computer Science > Software Engineering
+semantic_tags:
+- Software Engineering
+- Formal Verification
+- Programming Languages
+- Mathematical Logic
+- Computer Science
+tldr: The Gypsy verification environment is a computer program that supports the development
+  of software systems and formal, mathematical proofs about their behavior. It uses
+  the Gypsy language, based on mathematical foundations, to construct rigorous proofs
+  about specifications and implementations of software systems, providing an objective,
+  scientific way to predict system behavior. This approach aims to improve software
+  engineering predictability and reduce the probability of human error.

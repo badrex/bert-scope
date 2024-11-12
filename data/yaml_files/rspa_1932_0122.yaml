@@ -1,0 +1,14 @@
+article_id: rspa_1932_0122
+revised_title: A Statistical Method for Evaluating and Adjusting Outlier Observations
+scientific_discipline: Mathematics > Statistics
+semantic_tags:
+- Statistical Analysis
+- Outlier Rejection
+- Seismology
+- Data Processing
+- Inverse Probability
+tldr: The author presents a statistical method for evaluating and adjusting outlier
+  observations in data. The method takes into account the probability of abnormal
+  errors and uses inverse probability to determine the most probable values. This
+  method is demonstrated using seismological observations, but it has wider applications
+  in various fields.

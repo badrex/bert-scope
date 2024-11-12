@@ -1,0 +1,15 @@
+article_id: rspa_1964_0177
+revised_title: 'Generalized Plane Stress in a Semi-Infinite Strip: Analytical Solution
+  and Numerical Evaluation'
+scientific_discipline: Engineering and Technology > Solid Mechanics
+semantic_tags:
+- Stress Analysis
+- Solid Mechanics
+- Engineering Mathematics
+- Orthogonal Functions
+- Numerical Methods
+tldr: The authors present an analytical solution for determining the generalized plane
+  stress in a semi-infinite strip under arbitrary end-load. They expand the stress
+  function in a series of non-orthogonal eigenfunctions and use orthogonal functions
+  to satisfy boundary conditions. The method is illustrated through four examples,
+  demonstrating the application of St. Venant's principle to the strip.

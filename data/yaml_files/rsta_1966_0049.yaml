@@ -1,0 +1,16 @@
+article_id: rsta_1966_0049
+revised_title: Investigating the Scale Effects of Cavitation Erosion in Materials
+scientific_discipline: Engineering and Technology > Fluid Dynamics
+semantic_tags:
+- Cavitation Erosion
+- Hydromechanics
+- Fluid Dynamics
+- Material Science
+- Engineering
+tldr: This article investigates the effects of scale on cavitation erosion in materials,
+  focusing on the relationship between flow velocity, model dimensions, and erosion
+  volume. The authors propose an energy parameter for cavitation erosion and describe
+  methods for testing the resistance of materials to erosion. They find that erosion
+  volume is proportional to flow velocity to the fifth power and to the characteristic
+  model dimension to the third power, which can help engineers predict cavitation
+  damage in prototypes based on model tests.

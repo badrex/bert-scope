@@ -1,0 +1,15 @@
+article_id: rsta_1992_0054
+revised_title: Numerical and Asymptotic Methods for Viscous Free-Surface Flows
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Lubrication Approximation
+- Numerical Solutions
+- Asymptotic Analysis
+- Free-Surface Flows
+tldr: This study investigates the two-dimensional motion of a viscous liquid down
+  a perturbed inclined plane under gravity. The authors compare theoretical predictions
+  from various models, including finite-element approximations and lubrication approximations,
+  with experimental measurements of free-surface profiles. They find that a lubrication
+  approximation accounting for surface tension and inertial effects provides a good
+  representation of the experimental results for a broader range of Reynolds numbers.

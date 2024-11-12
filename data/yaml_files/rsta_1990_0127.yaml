@@ -1,0 +1,14 @@
+article_id: rsta_1990_0127
+revised_title: 'Spiral Structures in Galaxies: A Bayesian Approach'
+scientific_discipline: Astronomy > Galaxy Classification
+semantic_tags:
+- Astronomy
+- Galaxy Classification
+- Bayesian Image Analysis
+- Spiral Galaxies
+- Statistical Image Processing
+tldr: This article explores the use of Bayesian image analysis to identify and classify
+  spiral structures in galaxies. The authors develop a spatial stochastic process
+  to describe objects in the image, such as stars and spiral galaxies, and apply this
+  theory to images of spiral galaxies. The goal is to improve schematic reconstructions
+  and automate galaxy classification.

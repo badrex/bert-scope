@@ -1,0 +1,14 @@
+article_id: rspl_1872_0024
+revised_title: Erroneous Extension of Jacobi's Theorem in Fluid Mechanics
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Fluid mechanics
+- Equilibrium
+- Ellipsoids
+- Angular velocities
+- Mathematical analysis
+tldr: The author, Isaac Todhunter, points out an error in Jacobi's extension of a
+  theorem related to the equilibrium of a fluid in the form of an ellipsoid. He demonstrates
+  that the axis of rotation must coincide with one of the principal axes, specifically
+  the least principal axis. He also discusses the work of Dahlander, who incorrectly
+  assumes three simultaneous angular velocities, and corrects the mistake.

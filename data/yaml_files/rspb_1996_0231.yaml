@@ -1,0 +1,16 @@
+article_id: rspb_1996_0231
+revised_title: Exploring the Effects of Recombination on Viral Quasi-Species Dynamics
+scientific_discipline: Biology and Life Sciences > Genetics and Evolution
+semantic_tags:
+- Viral Evolution
+- Quasi-species Theory
+- Recombination in Viruses
+- Error Threshold
+- Retrovirus Replication
+tldr: The authors study a mathematical model of viral quasi-species dynamics that
+  incorporates both point mutation and recombination. They find that for low mutation
+  rates, recombination can reduce the quasi-species' diversity and enhance overall
+  fitness. However, for high mutation rates, recombination can push the quasi-species
+  over the error threshold, causing a loss of genetic information. Additionally, recombination
+  introduces bistability to the quasi-species, meaning that if the frequency of an
+  advantageous mutant is below a certain threshold, it will not be selected.

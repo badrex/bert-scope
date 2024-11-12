@@ -1,0 +1,17 @@
+article_id: rspb_1989_0016
+revised_title: 'Automated Site-Directed Drug Design: Predicting and Observing Ligand
+  Point Positions in Protein Hydrogen-Bonding Regions'
+scientific_discipline: Chemistry > Biochemistry
+semantic_tags:
+- Protein structure
+- Drug design
+- Hydrogen bonding
+- Crystallography
+- Computational biology
+tldr: 'Researchers developed an algorithm to predict and observe ligand point positions
+  at hydrogen-bonding regions on protein surfaces. They tested the algorithm using
+  three examples: water molecule positions in myoglobin and plastocyanin, and hydrogen-bonded
+  atoms in methotrexate and NADPH co-crystallized with dihydrofolate reductase, and
+  amidinophenyl-pyruvate co-crystallized with trypsin. The algorithm''s predictions
+  were in agreement with experimental data, demonstrating its potential for automated
+  site-directed drug design.'

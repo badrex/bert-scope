@@ -1,0 +1,14 @@
+article_id: '112310'
+revised_title: Sylvester's Theorem on Polar Umbrae and Factorials
+scientific_discipline: Mathematics > Linear Algebra
+semantic_tags:
+- Linear Algebra
+- Matrix Theory
+- Determinants
+- Theorem Proving
+- Polar Umbrae
+tldr: J.J. Sylvester introduces the concept of polar umbrae and their properties,
+  specifically focusing on the theorem relating to polar umbrae and factorials. He
+  demonstrates that the product of a longitudinal and transverse factorial of the
+  same polar umbral matrix is identically zero. This theorem is used to obtain the
+  resultant of a linear system of equations in its most perfect form.

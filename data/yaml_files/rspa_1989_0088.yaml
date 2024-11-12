@@ -1,0 +1,14 @@
+article_id: rspa_1989_0088
+revised_title: 'Truncation Criteria and Algorithm for the Reduction to Normal Form
+  of Catastrophe Unfoldings - II: Singularities with Non-zero Rank'
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Catastrophe Theory
+- Singularity
+- Unfolding
+- Normal Form
+- Truncation Theorem
+tldr: The authors extend the solution to the reduction of unfoldings to normal form
+  for singularities with non-zero rank. They introduce a truncation theorem and a
+  splitting algorithm that can be implemented by computer algebra, allowing for the
+  reduction of an arbitrary elementary catastrophe to normal form.

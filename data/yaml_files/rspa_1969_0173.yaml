@@ -1,0 +1,14 @@
+article_id: rspa_1969_0173
+revised_title: Non-local Pseudopotential Model for Fermi Surface of Ordered Alloys
+scientific_discipline: Physics > Solid State Physics
+semantic_tags:
+- Fermi surface
+- Pseudopotential
+- Alloy physics
+- Ordered alloys
+- De Haas-van Alphen effect
+tldr: The author used a non-local pseudopotential model to generate the Fermi surfaces
+  of CuZn and PdIn alloys, taking into account the influence of d-electrons. The model
+  involved six parameters and provided a satisfactory fit to the de Haas-van Alphen
+  frequencies observed in the alloys. This approach could be applicable to similar
+  situations.

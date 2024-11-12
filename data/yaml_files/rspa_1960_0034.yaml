@@ -1,0 +1,16 @@
+article_id: rspa_1960_0034
+revised_title: Automatic Calculation of Higher Virial Coefficients for Lennard-Jones
+  Potential
+scientific_discipline: Physics > Statistical mechanics
+semantic_tags:
+- Statistical mechanics
+- Intermolecular forces
+- Virial coefficients
+- Lennard-Jones potential
+- Gaussian functions
+tldr: The authors developed a new method of successive approximation to calculate
+  the fourth virial coefficient for the Lennard-Jones potential, which is useful for
+  understanding intermolecular forces and properties of fluids. The method is suitable
+  for automatic computation and can be applied to other potentials as well. While
+  the accuracy of the calculated values is still being assessed, these values can
+  be used to obtain more accurate experimental values of the lower coefficients.

@@ -1,0 +1,16 @@
+article_id: rspa_1952_0149
+revised_title: Enumeration of Graphs in Feynman-Dyson Technique for Field Theories
+scientific_discipline: Physics > Mathematical Physics
+semantic_tags:
+- Graph Theory
+- Quantum Field Theory
+- Perturbation Theory
+- Mathematical Physics
+- Dyson's Chronological Operator
+tldr: The article presents a simple method for finding the number of Feynman-Dyson
+  graphs with a given number of vertices for field theories with general interaction
+  Hamiltonian densities. The author shows that the number of graphs increases rapidly
+  with the number of vertices, and this rapid increase still occurs even when considering
+  only irreducible graphs. This finding suggests that perturbation expansions of field
+  theory cannot converge unless matrix elements decrease with a correspondingly great
+  rapidity as the order of approximation increases.

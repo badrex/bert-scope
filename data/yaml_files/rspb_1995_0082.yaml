@@ -1,0 +1,15 @@
+article_id: rspb_1995_0082
+revised_title: Resonant Drift and Control of Atrial Re-entrant Activity
+scientific_discipline: Biology and Life Sciences > Physiology
+semantic_tags:
+- Cardiac arrhythmias
+- Re-entry
+- Resonant drift
+- Atrial tissue
+- Feedback control
+tldr: The authors explore the feasibility of using resonant drift under feedback-driven
+  stimulation to control re-entrant activity in a model of mammalian atrial tissue.
+  They simulate a two-dimensional sheet of atrial tissue and find that repetitive
+  forcing can induce a drift of a spiral wave, potentially moving it to the inexcitable
+  boundaries and eliminating re-entry. This approach could be a means of eliminating
+  cardiac arrhythmias caused by re-entry.

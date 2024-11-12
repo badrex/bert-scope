@@ -1,0 +1,16 @@
+article_id: '111092'
+revised_title: Dynamical Stability and Oscillations of Floating Bodies
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Ship Stability
+- Naval Architecture
+- Experimental Physics
+- Mathematical Modeling
+tldr: This paper discusses the dynamical stability and oscillations of floating bodies,
+  specifically ships. The author presents a theorem that calculates a ship's dynamical
+  stability based on the difference of vertical displacements of its center of gravity
+  and the water it displaces. The paper also includes experiments conducted to test
+  the theorem and provides formulas for calculating the times of rolling and pitching
+  for floating bodies. The findings can be used to determine the stability and performance
+  of ships before they are constructed.

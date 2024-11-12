@@ -1,0 +1,16 @@
+article_id: rspa_1979_0088
+revised_title: Analysis of Unsteady MHD Convective Diffusion in a Parallel Plate Channel
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Magnetohydrodynamics
+- Convective Diffusion
+- Laminar Flow
+- Dispersion Coefficients
+tldr: The authors present an exact analysis of the dispersion of a solute in an electrically
+  conducting fluid flowing between two parallel plates under the influence of a uniform
+  transverse magnetic field. They use a generalized dispersion model to evaluate the
+  longitudinal dispersion coefficients as functions of time, finding that for small
+  values of the Hartmann number, the coefficients show rapid fluctuations that decay
+  with increasing Hartmann number. For moderate and large values of the Hartmann number,
+  the coefficients monotonically decrease with increasing Hartmann number.

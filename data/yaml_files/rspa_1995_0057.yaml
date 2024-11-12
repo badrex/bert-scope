@@ -1,0 +1,15 @@
+article_id: rspa_1995_0057
+revised_title: Internal Displacement Field Calculation from X-ray CT Images
+scientific_discipline: Engineering and Technology > Signal Processing
+semantic_tags:
+- X-ray CT Imaging
+- Displacement Estimation
+- Nonlinear Regression
+- Finite Difference Methods
+- Multiresolution Algorithms
+tldr: The authors present a new method for calculating internal displacement fields
+  using X-ray computed tomographic images. They develop a nonlinear regression model
+  and use a multiresolution algorithm to estimate the displacement field associated
+  with permanent deformation in objects with complex structures. This method can recover
+  the entire internal displacement field of a physical object under deformation by
+  comparing tomographic representations before and after the deformation.

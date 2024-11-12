@@ -1,0 +1,14 @@
+article_id: rspa_1991_0009
+revised_title: The Wulff Theorem and Anisotropic Surface Energy Minimization
+scientific_discipline: Mathematics > Geometric Measure Theory
+semantic_tags:
+- Geometric Measure Theory
+- Anisotropic Materials
+- Surface Energy
+- Wulff Set
+- Brunn-Minkowski Inequality
+tldr: The author proves the Wulff theorem, which states that the Wulff set is a minimizer
+  for the surface energy in anisotropic materials. The proof uses the Brunn-Minkowski
+  inequality and parametrized indicator measures, and it generalizes Taylor's result
+  to unbounded sets. The Wulff theorem is important for understanding phase transitions
+  and the behavior of materials with complex surface energies.

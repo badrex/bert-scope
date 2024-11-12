@@ -1,0 +1,15 @@
+article_id: rspa_1996_0029
+revised_title: Dissipation in Quantum Computation and its Impact on Efficiency
+scientific_discipline: Physics > Quantum Mechanics
+semantic_tags:
+- Quantum computing
+- Decoherence
+- Computational complexity
+- Error correction
+- Quantum algorithms
+tldr: The authors analyze the impact of dissipation on the efficiency of quantum algorithms,
+  specifically focusing on Shor's quantum factoring algorithm. They demonstrate that
+  the error rate due to interaction with the environment grows exponentially with
+  the number of qubits, making the algorithm inefficient. The paper discusses the
+  need for modifications and improvements in both theoretical and experimental aspects
+  to make quantum computation practical.

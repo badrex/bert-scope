@@ -1,0 +1,17 @@
+article_id: rspa_1967_0151
+revised_title: Asymptotic Analysis of Velocity Profiles in Prandtl Boundary Layer
+  Theory
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Fluid Dynamics
+- Boundary Layer Theory
+- Prandtl Equations
+- Similarity Solutions
+- Asymptotic Analysis
+sub_discipline: Fluid Dynamics
+tldr: This article investigates the downstream asymptotic behavior of velocity profiles
+  in the Prandtl boundary layer theory. It demonstrates that for a power law streaming
+  speed, the velocity profile that develops downstream is asymptotically unique and
+  similar to the Falkner-Skan similarity solution. The study also provides a theoretical
+  justification for the role of similar solutions in boundary layer theory and proves
+  the existence of concave velocity profiles when the pressure gradient is favorable.

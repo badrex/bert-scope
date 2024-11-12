@@ -1,0 +1,16 @@
+article_id: rsta_1989_0089
+revised_title: A Molecular Dynamics Model of Melting and Glass Transition in a Two-Dimensional
+  Material
+scientific_discipline: Physics > Materials Science
+semantic_tags:
+- Molecular dynamics
+- Melting
+- Glass transition
+- Two-dimensional materials
+- Atomic simulations
+tldr: The authors developed a molecular dynamics model to study the melting and glass
+  transition processes in a two-dimensional material. They observed that the transition
+  from a solid to a melt occurs when liquid-like structural elements composed of five-
+  and seven-sided Voronoi polygons percolate through the two-dimensional structure.
+  The simulation, using empirical pair potentials, provides insights into the topological
+  features of local atomic configurations during melting and vitrification.

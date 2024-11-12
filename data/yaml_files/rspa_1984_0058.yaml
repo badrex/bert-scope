@@ -1,0 +1,15 @@
+article_id: rspa_1984_0058
+revised_title: 'Inverse Problem for Vibrating Beams: Clamped-Free Conditions'
+scientific_discipline: Engineering and Technology > Mechanical Engineering > Vibration
+  and Acoustics
+semantic_tags:
+- Vibrating beams
+- Inverse problem
+- Beam modeling
+- Oscillatory matrices
+- Clamped-free conditions
+tldr: This article investigates the inverse problem for vibrating beams with clamped-free
+  conditions. The authors develop a model for the beam, analyze oscillatory matrices,
+  and determine the eigenvalues and eigenvectors of the system. They also explore
+  the forced response of the beam and provide a method for finding the system parameters
+  from a knowledge of frequency spectra.

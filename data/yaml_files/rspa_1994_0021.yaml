@@ -1,0 +1,15 @@
+article_id: rspa_1994_0021
+revised_title: Integral Solutions of Thin Plate Equations
+scientific_discipline: Mathematics > Partial Differential Equations
+semantic_tags:
+- Elasticity
+- Partial Differential Equations
+- Boundary Value Problems
+- Thin Plates
+- Biorthonormal Bases
+tldr: The article discusses the integral solutions of the equations of thin plates,
+  focusing on the interior and exterior Dirichlet problems. It presents a method to
+  construct a generalization of the problem and proves the uniqueness of the solution.
+  The article also explores the non-solubility of the equation under certain conditions
+  and introduces a specific example of a curve and matrix for which the equation has
+  non-zero solutions.

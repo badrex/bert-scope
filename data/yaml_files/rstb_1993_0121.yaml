@@ -1,0 +1,17 @@
+article_id: rstb_1993_0121
+revised_title: Dynamical Systems Theory for Mapping Neuronal Dynamics
+scientific_discipline: Biology and Life Sciences > Neuroscience
+semantic_tags:
+- Neuronal Dynamics
+- Bifurcation Theory
+- Nonlinear Dynamics
+- Neural Modeling
+- Bursting Neurons
+tldr: The authors developed a channel-based model for the anterior burster neuron
+  of the lobster stomatogastric ganglion and used bifurcation analysis to investigate
+  the response of the model to changes in its parameters. They constructed two-dimensional
+  maps of the parameter space, which showed how the dynamics of the model depend on
+  variations in model parameters. The model accurately predicted the changes in neuronal
+  voltage oscillations observed in experiments, demonstrating the efficacy of dynamical
+  systems theory in understanding the varied oscillatory behaviors of a channel-based
+  neural model.

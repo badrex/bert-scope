@@ -1,0 +1,16 @@
+article_id: rspa_1990_0132
+revised_title: Numerical Study of Jet Diffusion Flame Transition
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Combustion
+- Flame Instability
+- Turbulence
+- Jet Flames
+tldr: This study investigates the transition from laminar to turbulent jet diffusion
+  flames using a flame surface model with infinite chemical reaction rate and unit
+  Lewis number. The time-dependent compressible Navier-Stokes equation is solved numerically,
+  considering the temperature dependence of viscosity and diffusion coefficients.
+  The results show that the radial distributions of density and transport coefficients
+  play a dominant role in the transition mechanism, with the increase in diffusion
+  coefficient having the most significant effect.

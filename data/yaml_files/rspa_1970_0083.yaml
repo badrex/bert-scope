@@ -1,0 +1,17 @@
+article_id: rspa_1970_0083
+revised_title: 'Unsteady Convective Diffusion: A Generalized Dispersion Model'
+scientific_discipline: Engineering and Technology > Fluid Dynamics
+semantic_tags:
+- Convective Diffusion
+- Dispersion Model
+- Laminar Flow
+- Unsteady State Heat and Mass Transfer
+- Fluid Dynamics
+tldr: The authors present an exact solution to the unsteady convective diffusion equation
+  for miscible displacement in fully developed laminar flow in tubes. They show that
+  the generalized one-dimensional dispersion model describes the average concentration
+  distribution exactly for all values of the independent variables if the dispersion
+  coefficients are defined properly as functions of time. This analysis reveals the
+  precise structure of the dispersion coefficients necessary for the dispersion model
+  to be exact and can be used to study various unsteady state heat and mass transfer
+  problems.

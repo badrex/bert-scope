@@ -1,0 +1,16 @@
+article_id: rspa_1992_0043
+revised_title: Exact Solutions and Integral Equations for the Fourth Painlevé Equation
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Painlevé Equations
+- Nonlinear Schrödinger Equation
+- Inverse Scattering
+- Integral Equations
+- Nonlinear Harmonic Oscillator
+tldr: The authors study a special case of the fourth Painlevé equation and its solutions
+  satisfying a boundary condition. They express these solutions in terms of solutions
+  of linear integral equations from the inverse scattering formalism for the nonlinear
+  Schrödinger equation. The authors obtain exact "bound state" solutions for positive
+  integer values of a parameter, which decay exponentially and are the first example
+  of such solutions for the Painlevé equations. They also derive a nonlinear recurrence
+  relation for the equation relating two parameters.

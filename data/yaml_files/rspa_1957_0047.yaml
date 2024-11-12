@@ -1,0 +1,15 @@
+article_id: rspa_1957_0047
+revised_title: Improved Approximation for the Radial Distribution Function
+scientific_discipline: Physics > Fluid dynamics
+semantic_tags:
+- Statistical mechanics
+- Fluid dynamics
+- Thermodynamics
+- Virial coefficients
+- Molecular distribution
+tldr: The author proposes a new approximation for the radial distribution function,
+  which is an improvement over the well-known superposition assumption of Kirkwood.
+  This new approximation is introduced into the Born-Green integral equation for the
+  radial distribution function and is applied to the ideal case of a gas of rigid
+  spheres. The results show that the new approximation is more accurate and consistent
+  compared to previous methods.

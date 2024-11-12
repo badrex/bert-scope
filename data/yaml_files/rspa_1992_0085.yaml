@@ -1,0 +1,15 @@
+article_id: rspa_1992_0085
+revised_title: Singular Reaction-Diffusion Equation in Isothermal Chemical Autocatalysis
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Reaction-Diffusion Equations
+- Chemical Autocatalysis
+- Mathematical Modeling
+- Asymptotic Analysis
+- Boundary Value Problems
+tldr: The authors examine the evolution of a reaction-diffusion equation in isothermal
+  chemical autocatalysis when a localized input of an autocatalyst is introduced into
+  an expanse of a reactant. They study the initial-boundary-value problem and its
+  long-time development, finding that the fully reacted state is not achieved through
+  the propagation of a traveling wave-front but is approached uniformly in space as
+  time increases.

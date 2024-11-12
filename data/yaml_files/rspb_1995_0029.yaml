@@ -1,0 +1,15 @@
+article_id: rspb_1995_0029
+revised_title: Perceptual Biases and the Evolution of Intraspecific Signals
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology
+semantic_tags:
+- Evolutionary Biology
+- Animal Communication
+- Perception
+- Neural Networks
+- Signal Evolution
+tldr: This study investigates the role of perceptual biases in the evolution of intraspecific
+  signals and develops an artificial neural network technique to model situations
+  where multiple types of responses are required. The results show that signals tend
+  to evolve towards converse forms, even when processed through the same network,
+  suggesting that general biases in recognition mechanisms may be responsible for
+  this effect.

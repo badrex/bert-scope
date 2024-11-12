@@ -1,0 +1,15 @@
+article_id: rspa_1994_0056
+revised_title: Inducing Pseudo-Nonlinearities in Engineering Structures Using Auxiliary
+  Inputs
+scientific_discipline: Engineering and Technology > Control and Systems Engineering
+semantic_tags:
+- Nonlinear Systems
+- Volterra Series
+- Pseudo-Faults
+- Auxiliary Inputs
+- Smart Structures
+tldr: The authors present a method to make a given linear system respond to external
+  excitation as if a nonlinearity or fault was present, using additional or auxiliary
+  inputs. This approach exploits the Volterra series and can be used to simulate the
+  effect of faults on real structures for which no detailed models exist, offering
+  potential applications in assessing damage or validating smart monitoring systems.

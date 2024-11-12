@@ -1,0 +1,17 @@
+article_id: rspa_1959_0031
+revised_title: Advanced Techniques for Analyzing Ionospheric Reflexion of Long Radio
+  Waves
+scientific_discipline: Physics > Electromagnetism
+semantic_tags:
+- Ionosphere
+- Radio Waves
+- Wave Propagation
+- Reflexion Coefficients
+- Admittance Variable
+tldr: This article presents a new method for solving differential equations governing
+  the reflexion of long radio waves from the ionosphere. The authors introduce the
+  admittance variable to simplify the equations and improve the accuracy of calculations.
+  They also extend the reciprocity theorem to relate reflexion coefficients for propagation
+  in planes symmetrically disposed about a plane at right angles to the magnetic meridian.
+  The new method is applied to various ionosphere models and compared with previous
+  methods, showing good agreement between results.

@@ -1,0 +1,18 @@
+article_id: rsta_1984_0108
+revised_title: 'Dynamic Effects in Optical Bistability: A Review'
+scientific_discipline: Physics > Optics
+semantic_tags:
+- Optical Bistability
+- Nonlinear Optics
+- Bifurcation Theory
+- Laser Physics
+- Time-Dependent Systems
+tldr: This article discusses the challenges and dynamic effects in optical bistability,
+  a phenomenon found in various natural systems, including electronic circuits, chemical
+  reactions, and hydrodynamics. The authors review theoretical problems that hinder
+  the practical use of bistable optical devices in logic circuits and study the influence
+  of time-dependent control parameters on the solutions of differential equations.
+  They demonstrate that even for small sweeping rates, large delays can be expected,
+  resulting in the dynamical stabilization of unstable solutions. Examples are given
+  for dynamically induced optical bistability in a laser and dynamical stabilization
+  in a laser with a saturable absorber.

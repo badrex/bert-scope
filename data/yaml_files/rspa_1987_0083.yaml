@@ -1,0 +1,16 @@
+article_id: rspa_1987_0083
+revised_title: Electromagnetic Field Formulation and Scattering for Mixed Paths with
+  Discontinuities
+scientific_discipline: Engineering and Technology > Electromagnetic and Microwave
+  Engineering
+semantic_tags:
+- Electromagnetic Scattering
+- Mixed-Path Propagation
+- Radar Cross Section
+- Radar Range Equation
+- Surface-Wave Radars
+tldr: The authors present a new technique for studying propagation and scattering
+  of mixed paths with discontinuities in electromagnetic fields. They develop radar-range
+  equations and radar cross sections for ground-wave radars, focusing on high-frequency
+  radar for ice-hazard detection. The study assumes a vertical electric-dipole transmitter
+  and considers various cases of electrical properties in the lower half-space.

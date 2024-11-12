@@ -1,0 +1,16 @@
+article_id: rspa_1964_0006
+revised_title: Generalized Spin-Hamiltonian for Paramagnetic Ions in Crystals
+scientific_discipline: Physics > Condensed Matter Physics
+semantic_tags:
+- Spin-Hamiltonian
+- Crystal Symmetry
+- Paramagnetic Ions
+- Zeeman Field
+- Electron Spin
+tldr: The authors develop a generalized spin-Hamiltonian formalism to describe the
+  low-lying energy levels of paramagnetic ions in crystals, incorporating all independent
+  spin operators arising from higher multipole effects. They apply this method to
+  cubic crystalline symmetry, providing expressions for the Zeeman field-independent
+  part and the linearly field-dependent part of the spin Hamiltonian for ions with
+  electron spin and nuclear spin up to 2. The study emphasizes the importance of terms
+  quadratic in the Zeeman field for precise ENDOR experiments.

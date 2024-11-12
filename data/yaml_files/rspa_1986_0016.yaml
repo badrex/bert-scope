@@ -1,0 +1,16 @@
+article_id: rspa_1986_0016
+revised_title: Checkerboard Ising Models and Free-Fermion Lattice Models in Statistical
+  Mechanics
+scientific_discipline: Physics > Statistical Mechanics
+semantic_tags:
+- Statistical Mechanics
+- Lattice Models
+- Ising Model
+- Free Fermion Model
+- Potts Model
+tldr: The author demonstrates that the two-dimensional free-fermion model is equivalent
+  to a checkerboard Ising model, which is a special case of the general '-invariant'
+  Ising model. Expressions for the partition function and local correlations are given
+  in terms of those of the regular square lattice Ising model. The self-dual Potts
+  model is also discussed, and the application of the methods to the three-dimensional
+  Zamolodchikov model is considered.

@@ -1,0 +1,16 @@
+article_id: rspa_1974_0135
+revised_title: High-Voltage Electron Microscopy Aberration Correction Techniques
+scientific_discipline: Engineering and Technology > Electron Microscopy
+semantic_tags:
+- Electron microscopy
+- Aberration correction
+- High-voltage electron microscopy
+- Quadrupole-octopole lenses
+- Chromatic aberration
+tldr: This article explores the theoretical study of simultaneous correction of third-order
+  aperture aberration and axial chromatic aberration in high-voltage electron microscopy.
+  The authors investigate the use of quadrupole-octopole lenses to compensate for
+  aberrations in a round objective lens, considering factors such as lens stability,
+  electrostatic fields, and chromatic aberration of magnification. They conclude that
+  chromatic correction is feasible for accelerating voltages up to a certain limit,
+  and provide tabular results for systems designed for various resolutions.

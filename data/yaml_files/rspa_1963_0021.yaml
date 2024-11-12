@@ -1,0 +1,14 @@
+article_id: rspa_1963_0021
+revised_title: Applications of the Newton-Raphson Method to Non-Linear Matrix Problems
+scientific_discipline: Mathematics > Linear Algebra
+semantic_tags:
+- Matrix Theory
+- Linear Algebra
+- Newton-Raphson Method
+- Eigenvalues and Eigenvectors
+- Non-Linear Matrix Problems
+tldr: The authors apply the Newton-Raphson method to find the zeros of determinants
+  and calculate the latent roots of matrices. They show that under certain conditions,
+  this method can be used for multiple latent roots and demonstrate its application
+  to stability problems in aircraft flutter. The results are applicable to simple
+  matrices with linear elementary divisors.

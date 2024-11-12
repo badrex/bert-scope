@@ -1,0 +1,16 @@
+article_id: rsta_1978_0084
+revised_title: 'Discrete Properties of Random Surfaces: Analysis and Modeling'
+scientific_discipline: Engineering and Technology > Surface Analysis and Tribology
+semantic_tags:
+- Surface Analysis
+- Tribology
+- Random Processes
+- Digital Methods
+- Surface Modeling
+tldr: This article presents a new approach to measuring surface parameters in tribology
+  using discrete random process analysis. The authors develop expressions for important
+  parameters like peak curvature in terms of discrete ordinates and the correlation
+  function. They also introduce a new statistical model of the surface that can be
+  used for various types of engineering surfaces. The study focuses on the effects
+  of sampling interval and uses a three-point model to simplify the measurement of
+  complex parameters.

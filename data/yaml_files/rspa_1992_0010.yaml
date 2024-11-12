@@ -1,0 +1,15 @@
+article_id: rspa_1992_0010
+revised_title: Covariant Symplectic Formalism for General Relativity
+scientific_discipline: Mathematics > Differential Geometry
+semantic_tags:
+- General Relativity
+- Symplectic Geometry
+- Hamiltonian Formalism
+- Differential Geometry
+- Einstein's Field Equations
+tldr: The authors present a covariant symplectic formalism for general relativity,
+  using a solder form and a torsion-free connection as basic variables. They exhibit
+  a naturally defined 2-form on the space of solutions to the field equations, which
+  is closed due to the torsion-free condition and the field equations. This approach
+  eliminates the need for a time function or the distinction between three-dimensional
+  diffeomorphisms and time evolution, making the formalism fully covariant.

@@ -1,0 +1,15 @@
+article_id: rspa_1992_0176
+revised_title: Slow Dynamics and the Cahn-Hilliard Equation in One Space Dimension
+scientific_discipline: Mathematics > Dynamical Systems
+semantic_tags:
+- Cahn-Hilliard equation
+- Phase separation
+- Coarsening
+- Dynamical systems
+- Metastable patterns
+tldr: The authors study the slow dynamics of the Cahn-Hilliard equation in one space
+  dimension, focusing on the evolution of transition layers in a binary alloy. They
+  use energy-type estimates to show that as the kinetic coefficient approaches zero,
+  the transition points move slower than any power of the coefficient. This research
+  contributes to understanding the slow motion of interfaces in phase separation and
+  coarsening processes.

@@ -1,0 +1,13 @@
+article_id: '111632'
+revised_title: A General Principle for Divisibility Tests of Numbers
+scientific_discipline: Mathematics > Number Theory
+semantic_tags:
+- Number Theory
+- Divisibility Rules
+- Prime Numbers
+- Arithmetic
+- Mathematical Algorithms
+tldr: The author presents a general principle for determining the divisibility of
+  numbers by prime numbers up to 107. The method involves applying specific rules
+  to the digits of a number and can be extended to other prime numbers. The author
+  also demonstrates the analytical and synthetic properties of numbers through examples.

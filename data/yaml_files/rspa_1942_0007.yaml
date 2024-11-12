@@ -1,0 +1,15 @@
+article_id: rspa_1942_0007
+revised_title: Statistical Analysis of Binary Systems in Solid Solutions
+scientific_discipline: Physics > Thermodynamics
+semantic_tags:
+- Statistical mechanics
+- Solid solutions
+- Binary systems
+- Thermodynamics
+- Phase transitions
+tldr: The author adapts Mayer's method to calculate the partition function of binary
+  solid solutions, expanding it in powers of the atomic fraction. Singularities in
+  this expansion are connected to phase transitions, and the limits of solubility
+  and specific heat can be obtained. The study focuses on a binary solution with a
+  two-phase region, providing insights into the free energy and thermal energy for
+  any atomic fraction.

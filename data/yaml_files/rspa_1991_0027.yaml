@@ -1,0 +1,14 @@
+article_id: rspa_1991_0027
+revised_title: 'Symplectic Integration of Four-Vortex Motion: A Comparative Study'
+scientific_discipline: Mathematics > Numerical Analysis
+semantic_tags:
+- Symplectic integration
+- Hamiltonian systems
+- Vortex dynamics
+- Numerical methods
+- Chaos theory
+tldr: The article compares the performance of a symplectic integration method and
+  a standard explicit Runge-Kutta scheme in simulating the motion of four identical
+  point vortices. The symplectic method shows superior performance in preserving the
+  Poincaré section and maintaining a smaller change in the Hamiltonian, indicating
+  its effectiveness in long-time integration of Hamiltonian systems.

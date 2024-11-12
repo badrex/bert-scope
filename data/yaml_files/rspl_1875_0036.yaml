@@ -1,0 +1,14 @@
+article_id: rspl_1875_0036
+revised_title: Mechanical Integration of General Linear Differential Equations
+scientific_discipline: Mathematics > Calculus and Analysis
+semantic_tags:
+- Differential Equations
+- Mathematical Physics
+- Mechanics
+- Calculus
+- Mathematical Analysis
+tldr: The author presents a mechanical method for integrating general linear differential
+  equations of any order with variable coefficients. The method involves using a chain
+  of integrators with rotating disks, which can be applied to any order of differential
+  equations. This approach allows for the simultaneous solution of multiple equations
+  and can be extended to three-dimensional systems.

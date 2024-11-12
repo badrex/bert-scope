@@ -1,0 +1,14 @@
+article_id: rsta_1891_0005
+revised_title: Tidal Prediction and the Harmonic System
+scientific_discipline: Earth Sciences > Oceanography
+semantic_tags:
+- Tides
+- Oceanography
+- Geophysics
+- Astronomy
+- Navigation
+tldr: The author presents a method for creating a general tide table applicable to
+  all times, which can be used to compute tides for specific days. The harmonic system
+  is used to derive tidal constants from tidal observations, and the method is demonstrated
+  using the port of Aden as an example. This approach allows for more accurate tidal
+  predictions and can be useful for ports with complex and irregular tides.

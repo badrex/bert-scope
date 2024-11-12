@@ -1,0 +1,15 @@
+article_id: rspa_1961_0017
+revised_title: 'Fokker-Planck Equation in Plasma: Friction and Diffusion Coefficients'
+scientific_discipline: Physics > Plasma Physics
+semantic_tags:
+- Plasma Physics
+- Fokker-Planck Equation
+- Friction Coefficients
+- Diffusion Coefficients
+- Electric Micro-Field
+tldr: The authors present a method to calculate the friction and diffusion coefficients
+  of the Fokker-Planck equation in a plasma. They consider the electric micro-field
+  as a superposition of fields due to individual particles and use dielectrically
+  screened potentials to evaluate the coefficients. The method is applicable when
+  the distribution functions are independent of time and space, and the plasma is
+  stable against growing electric oscillations.

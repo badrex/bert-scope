@@ -1,0 +1,15 @@
+article_id: rspa_1989_0051
+revised_title: 'The Antiphon: A Memory Device for Reliable Memory from Unreliable
+  Components'
+scientific_discipline: Mathematics > Optimization
+semantic_tags:
+- Neuroidal Networks
+- Memory Devices
+- Stochastic Systems
+- Optimization
+- Hopfield Net
+tldr: 'The author proposes a memory device called the ''antiphon'' that reverberates
+  an excitation pattern between two sets of nodes. The antiphon can produce two memory
+  mechanisms: the repeated cycling of a message through encoding, noisy transmission,
+  and decoding, and the Hopfield net. The antiphon is more physically explicit and
+  easier to analyze than the Hopfield net, and it allows optimization of graph statistics.'

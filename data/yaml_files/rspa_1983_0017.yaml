@@ -1,0 +1,19 @@
+article_id: rspa_1983_0017
+revised_title: Analytical and Numerical Solutions to Two-Dimensional Moving Interface
+  Problems in Steel Ingot Solidification
+scientific_discipline: Engineering and Technology > Materials Science and Metallurgy
+semantic_tags:
+- Solidification
+- Heat Transfer
+- Ingot Manufacturing
+- Steel Industry
+- Mathematical Modeling
+tldr: This paper presents analytical and numerical solutions to two-dimensional moving
+  interface problems in steel ingot solidification. The authors investigate certain
+  analytical solutions that simulate aspects of ingot solidification, such as inward
+  solidification of a liquid half-space with varying wall temperatures or Newton cooling
+  at the wall. They also discuss other approximate analytical approaches and briefly
+  mention a computer procedure for solving these problems. A two-dimensional mathematical
+  model of ingot solidification is developed, and numerical solutions are given for
+  ingots with varying mould surface geometry and composition. The results are in good
+  agreement with radioisotope tracer tests performed at the British Steel Corporation.

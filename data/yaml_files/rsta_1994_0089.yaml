@@ -1,0 +1,16 @@
+article_id: rsta_1994_0089
+revised_title: Electrostatic Potential in Undulating Polyelectrolyte Systems
+scientific_discipline: Chemistry > Surface chemistry
+semantic_tags:
+- Polyelectrolytes
+- Electrostatics
+- Surface chemistry
+- Boundary value problems
+- Green's functions
+tldr: The author investigates the electrostatic potential in an undulating polyelectrolyte
+  system, using a combination of mathematical models and approximations. They find
+  that the electrostatic contribution to the system's chemistry is negligible when
+  the contour charge spacing is much larger than the length, but becomes significant
+  when the wavelength and linear charge spacing are comparable to the Debye length.
+  The study provides insights into the behavior of polyelectrolyte systems and their
+  potential applications in various fields.

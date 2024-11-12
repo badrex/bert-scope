@@ -1,0 +1,14 @@
+article_id: rsta_1987_0043
+revised_title: Computational Modeling of JET Plasmas for Controlled Nuclear Fusion
+scientific_discipline: Physics > Plasma Physics
+semantic_tags:
+- Nuclear Fusion
+- Plasma Physics
+- Tokamak
+- Computational Methods
+- Magnetic Confinement
+tldr: This article discusses the development of a mathematical model for the JET (Joint
+  European Torus) plasma, focusing on controlled nuclear fusion. The model uses computational
+  methods to predict the behavior of JET plasmas and allows for extrapolation to future
+  tokamak-type plasmas. The model takes into account various aspects of plasma behavior,
+  including magnetic field configurations, particle transport, and energy conservation.

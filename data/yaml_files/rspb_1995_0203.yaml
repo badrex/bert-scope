@@ -1,0 +1,14 @@
+article_id: rspb_1995_0203
+revised_title: Estimating the Number of Malaria Clones in Blood Samples
+scientific_discipline: Biology > Genetics
+semantic_tags:
+- Malaria
+- Genetics
+- Population biology
+- Disease transmission
+- Molecular biology
+tldr: Researchers developed methods to estimate the mean number of malaria clones
+  in blood samples from infected hosts. They used different distribution models, such
+  as Poisson, conditional Poisson, and negative binomial, to analyze the data and
+  calculate the likelihood of the models. This study helps in understanding the population
+  genetic structure of malaria parasites and can contribute to malaria control strategies.

@@ -1,0 +1,15 @@
+article_id: rspa_1935_0077
+revised_title: Spectrum of Normal Frequencies in Polar Crystal Lattice
+scientific_discipline: Physics > Solid State Physics
+semantic_tags:
+- Crystal Lattice
+- Vibrations
+- Boundary Conditions
+- Charge Density
+- Frequency Equations
+tldr: The authors study the normal frequencies of vibrations in a polar crystal lattice
+  using the cyclic lattice method. They overcome the challenges of boundary conditions
+  and electrical interactions by applying fictitious boundary conditions and considering
+  the crystal block as part of an infinite lattice. The normal frequencies are determined
+  by solving the frequency equations and finding the intersections of planes with
+  four-dimensional frequency surfaces.

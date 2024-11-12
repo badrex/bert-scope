@@ -1,0 +1,15 @@
+article_id: rspa_1974_0071
+revised_title: Modeling Finite Amplitude Helmholtz Instability in Fluid Dynamics
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Helmholtz Instability
+- Turbulence
+- Acoustics
+- Vortex Sheet
+tldr: This article presents a linear model of a finite amplitude Helmholtz instability
+  in fluid dynamics. The authors limit the growth of the instability wave by introducing
+  turbulence between the fluids, which leads to a physically realistic and mathematically
+  tractable solution. The model predicts a strong enhancement of the sound scattered
+  upstream, which has implications for forward noise produced by jets and possibly
+  jet screech.

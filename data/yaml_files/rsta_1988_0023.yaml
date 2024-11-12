@@ -1,0 +1,17 @@
+article_id: rsta_1988_0023
+revised_title: Satellite Image Analysis Techniques for Oceanography
+scientific_discipline: Environmental and Earth Sciences > Oceanography
+semantic_tags:
+- Remote Sensing
+- Oceanography
+- Satellite Imagery
+- Infrared and Visible Spectral Sensors
+- Computer Image Analysis
+tldr: The article discusses the use of infrared and visible spectral sensors on spacecraft
+  to provide imagery of ocean conditions, which can be analyzed using computer image
+  processing techniques. The integration of satellite and conventional oceanographic
+  data can provide a powerful analytical tool for modern ocean research. The article
+  explains the physics and limitations of infrared and visible satellite data, the
+  computer analysis techniques needed to exploit these data, and provides examples
+  of combined satellite and conventional oceanographic data analyses of two ocean
+  regions.

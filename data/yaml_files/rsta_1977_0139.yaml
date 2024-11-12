@@ -1,0 +1,14 @@
+article_id: rsta_1977_0139
+revised_title: Scalar Diffraction and the Null Field Approach
+scientific_discipline: Physics > Electromagnetic Theory
+semantic_tags:
+- Electromagnetic Theory
+- Diffraction
+- Scattering
+- Boundary Value Problems
+- Numerical Methods
+tldr: The authors present a null field approach to scalar diffraction, a method that
+  can be used to solve scattering problems involving arbitrary bodies and cylindrical
+  bodies. They discuss the advantages of using elliptic cylinder coordinates or spheroidal
+  coordinates to reduce numerical instability and provide a detailed explanation of
+  the null field equations for sound-soft and sound-hard bodies.

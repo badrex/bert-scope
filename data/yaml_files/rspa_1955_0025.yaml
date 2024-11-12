@@ -1,0 +1,15 @@
+article_id: rspa_1955_0025
+revised_title: Direct Determination of Crystal Structures Using High-Speed Digital
+  Computers
+scientific_discipline: Physics > Optics
+semantic_tags:
+- Crystallography
+- Fourier series
+- Electron density
+- Structure factors
+- Computational methods
+tldr: The authors describe a method to use a high-speed digital computer, EDSAC, to
+  determine crystal structures by selecting sets of signs for Fourier series coefficients
+  that satisfy certain conditions. They explain the physical basis of the method and
+  test it on salicylic acid, demonstrating its effectiveness in determining crystal
+  structures.

@@ -1,0 +1,13 @@
+article_id: rstl_1881_0006
+revised_title: 'Cubic Curves in Space: Forty-Eight Coordinates and Identical Relations'
+scientific_discipline: Mathematics > Algebraic Geometry
+semantic_tags:
+- Algebraic Geometry
+- Coordinate Geometry
+- Cubic Curves
+- Mathematical Analysis
+- Mathematical Modeling
+tldr: The author presents a method to find the forty-eight coordinates of a cubic
+  curve in space by eliminating variables from two quadric equations. They establish
+  identical relations between these coordinates, reducing the number of independent
+  coordinates to eight.

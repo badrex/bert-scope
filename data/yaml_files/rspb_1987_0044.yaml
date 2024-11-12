@@ -1,0 +1,17 @@
+article_id: rspb_1987_0044
+revised_title: 'Spatial Properties of Neurons in the Monkey Striate Cortex: Modeling
+  Receptive Fields'
+scientific_discipline: Neuroscience > Vision Science
+semantic_tags:
+- Neuroscience
+- Vision Science
+- Receptive Field Modeling
+- Visual Cortex
+- Difference-of-Gaussians
+tldr: The authors studied the spatial properties of neurons in the monkey striate
+  cortex and determined the contrast sensitivity as a function of spatial frequency
+  for 138 neurons. They assessed the accuracy of three models, including the difference-of-Gaussians
+  (DOG) function, in describing these functions. The DOG models were found to be superior
+  to the Gabor function and the second differential of a Gaussian, providing a detailed
+  description of the organization of subregions of the receptive field consistent
+  with physiological constraints imposed by earlier stages in the visual pathway.

@@ -1,0 +1,16 @@
+article_id: rspa_1963_0085
+revised_title: Torsion Problem Solution via Integral Equation
+scientific_discipline: Engineering and Technology > Mechanics
+semantic_tags:
+- Torsion
+- Integral Equation
+- Mechanics
+- Engineering
+- Numerical Analysis
+tldr: The authors present an integral equation method to solve the torsion problem
+  for cross-sections of any shape or form. This method focuses on the warping function,
+  which is harmonic in the cross-section and satisfies the boundary condition. The
+  torsional rigidity and boundary shear stress can be calculated using the formulae
+  provided, and the axial displacement component and the two shear stress components
+  can be generated throughout the cross-section. This method offers an accurate and
+  efficient solution compared to other analytical or numerical methods.

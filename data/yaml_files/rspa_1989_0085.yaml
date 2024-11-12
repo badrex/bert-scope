@@ -1,0 +1,16 @@
+article_id: rspa_1989_0085
+revised_title: Three-Dimensional Analysis of Cracks in Layered Transversely Isotropic
+  Media
+scientific_discipline: Mechanics > Fracture Mechanics
+semantic_tags:
+- Fracture Mechanics
+- Elasticity
+- Anisotropic Materials
+- Integral Equation
+- Hankel Transform
+tldr: The authors present a mathematical formulation to analyze cracks in layered
+  transversely isotropic media. They construct Green's functions using potentials
+  and integral transforms, and obtain full-space Green's functions in closed forms.
+  The crack opening displacement and crack-tip opening displacement for a vertical
+  planar crack in a layered transversely isotropic medium are obtained numerically
+  using the boundary integral equation method.

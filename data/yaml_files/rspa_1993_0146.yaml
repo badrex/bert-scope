@@ -1,0 +1,13 @@
+article_id: rspa_1993_0146
+revised_title: Invariance of Stresses under Varying Elastic Compliances
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Elasticity
+- Invariance of stresses
+- Compliances
+- Plane strain
+- Plane stress
+tldr: The authors demonstrate that stress states can be invariant upon a linear shift
+  in elastic compliances, depending on the connectivity of the domain and some side
+  conditions. They discuss smooth compliances, discontinuous compliances in composite
+  materials, and global compatibility for multiply connected domains.

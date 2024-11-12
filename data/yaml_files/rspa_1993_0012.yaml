@@ -1,0 +1,15 @@
+article_id: rspa_1993_0012
+revised_title: Upper Bounds for the Critical Probability of Oriented Percolation in
+  Two Dimensions
+scientific_discipline: Mathematics > Probability Theory
+semantic_tags:
+- Percolation Theory
+- Probability Theory
+- Mathematical Modeling
+- Lattice Theory
+- Markov Chains
+tldr: The authors present a method for obtaining upper bounds on the critical probability
+  in oriented bond percolation in two dimensions, improving the best published upper
+  bound from 0.84 to 0.6863. They also prove that their method can be used to give
+  arbitrarily good upper bounds and apply it to obtain an upper bound of 0.72599 for
+  the critical probability in oriented site percolation.

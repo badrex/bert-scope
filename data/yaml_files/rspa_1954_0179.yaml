@@ -1,0 +1,15 @@
+article_id: rspa_1954_0179
+revised_title: Numerical Integration Formulae and Approximate Product-Integration
+scientific_discipline: Mathematics > Numerical Analysis
+semantic_tags:
+- Numerical Integration
+- Approximate Product-Integration
+- Weighted Abscissae
+- Matrix Methods
+- Newton-Cotes Formulae
+tldr: The author presents a method for obtaining numerical integration formulae using
+  approximate product-integration. The method involves calculating weights and abscissae
+  for polynomial expansions and can be applied to various types of expansions, including
+  Taylor, exponential, and orthogonal functions. The author also discusses the use
+  of matrix methods and provides examples of Newton-Cotes formulae for equal-interval
+  end-point and mid-point cases.

@@ -1,0 +1,17 @@
+article_id: rstb_1994_0075
+revised_title: 'Machine Learning in Molecular Biology: Discovering Patterns in Protein
+  Structure and Function'
+scientific_discipline: Biology and Life Sciences > Molecular Biology
+semantic_tags:
+- Inductive Logic Programming
+- Protein Structure Prediction
+- QSAR Modeling
+- Machine Learning in Biology
+- Scientific Discovery
+tldr: The authors applied machine learning, specifically inductive logic programming
+  through the program Golem, to analyze and predict protein secondary structure, identify
+  rules for three-dimensional folding of proteins, and develop quantitative structure-activity
+  relationships (QSAR) for drug design. Golem derived rules that provided insights
+  into the stereochemistry of the systems, demonstrating the potential of machine
+  learning combined with human intervention in discovering patterns in biological
+  sequences and structures.

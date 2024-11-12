@@ -1,0 +1,14 @@
+article_id: rspa_1937_0103
+revised_title: Criticism of Temple's Method in General Relativity
+scientific_discipline: Physics > General Relativity
+semantic_tags:
+- General Relativity
+- Tensor Analysis
+- Gravitational Constant
+- Riemannian Space
+- Teleparallelism
+tldr: The authors criticize Temple's method of expansion in powers of the gravitational
+  constant in General Relativity, showing that the method is fundamentally unsound.
+  They argue that the coefficients in the power series do not possess tensor character,
+  which invalidates Temple's results. The issue arises from considering a set of universes
+  with varying gravitational constants, rather than a single universe.

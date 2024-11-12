@@ -1,0 +1,17 @@
+article_id: rspa_1993_0059
+revised_title: Axisymmetric Stress-Transfers in Embedded Elastic Cylindrical Shells
+scientific_discipline: Engineering and Technology > Mechanics
+semantic_tags:
+- Elasticity
+- Mechanics
+- Stress Transfer
+- Cylindrical Shells
+- Contact Problems
+sub_discipline: Elasticity and Stress Transfer
+tldr: The authors present a rigorous mathematical formulation for the axisymmetric
+  stress-transfer problem of an elastic cylindrical shell embedded in a semi-infinite
+  solid. They use a set of ring-load Green's functions for the shell and a group of
+  fundamental solutions for the half-space to reduce the problem to a pair of Fredholm
+  integral equations. The study provides insights into the mechanical interaction
+  between embedded cylindrical bodies and elastic media, with applications in geotechnical,
+  structural, material, and aerospace engineering.

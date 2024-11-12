@@ -1,0 +1,16 @@
+article_id: rsta_1898_0001
+revised_title: Integration of Partial Differential Equations of the Second Order in
+  Three Independent Variables
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Partial Differential Equations
+- Mathematical Analysis
+- Applied Mathematics
+- Mathematical Physics
+- Differential Geometry
+tldr: The author presents a method for integrating partial differential equations
+  of the second order in three independent variables when they do not possess an intermediary
+  integral. The approach involves constructing subsidiary equations and classifying
+  the equations based on their characteristic invariant. The method is applied to
+  equations with reducible and irreducible characteristic invariants, providing solutions
+  for various types of equations important in mathematical physics.

@@ -1,0 +1,15 @@
+article_id: rspa_1965_0005
+revised_title: Calculation of Phonon Frequencies in Sodium
+scientific_discipline: Physics > Solid State Physics
+semantic_tags:
+- Lattice dynamics
+- Sodium
+- Phonon frequencies
+- Electron-phonon interaction
+- Pseudo-potential method
+tldr: The authors developed the pseudo-potential formalism to calculate phonon frequencies
+  in metals, specifically in sodium. They considered the influence of conduction electrons
+  on the interaction between ions and used the adiabatic approximation to separate
+  the motion of conduction electrons and ions. The calculated phonon frequencies were
+  compared with neutron diffraction measurements and a previous calculation by Toya,
+  showing good agreement. This method may be applied to other metals in the future.

@@ -1,0 +1,14 @@
+article_id: rspa_1993_0130
+revised_title: Asymmetric Solutions in Reaction-Diffusion Equations with Convection
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Reaction-Diffusion Equations
+- Asymmetric Solutions
+- Convection
+- Bratu Problem
+- Nonlinear Theories
+tldr: The authors explore asymmetric solutions in reaction-diffusion equations, specifically
+  the Bratu problem, with convection as an additional heat transport mechanism. They
+  find new non-symmetric solutions and demonstrate that these solutions remain connected
+  as convection is increased. The quenching effect of convection reduces the sharp
+  temperature gradients, making limit points less sensitive to grid refinement.

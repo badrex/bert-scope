@@ -1,0 +1,15 @@
+article_id: rsta_1960_0001
+revised_title: Matrix Methods for Solving Linear Difference Equations
+scientific_discipline: Mathematics > Linear Algebra
+semantic_tags:
+- Linear Algebra
+- Differential Equations
+- Numerical Methods
+- Matrix Operators
+- Difference Equations
+tldr: The authors present matrix and other direct methods for solving systems of linear
+  difference equations, focusing on the numerical treatment of ordinary differential
+  equations. They introduce matrix operators and difference operations, and demonstrate
+  their application to initial-value and boundary-value problems. The methods are
+  illustrated through small-scale examples, but the authors believe they can be efficiently
+  handled by modern high-speed digital computers.

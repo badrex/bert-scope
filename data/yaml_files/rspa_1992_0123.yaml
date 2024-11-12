@@ -1,0 +1,15 @@
+article_id: rspa_1992_0123
+revised_title: Invariance Properties of Stress in Plane Elasticity and Composite Materials
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Elasticity
+- Composite Materials
+- Stress Field
+- Equivalence Classes
+- Material Moduli
+tldr: The authors explore the invariance of the stress field in two-dimensional elasticity
+  and its implications for composite materials. They demonstrate that the effective
+  compliance tensor of a composite material remains unchanged when the constituent
+  moduli are shifted uniformly. This property explains why the effective Young's modulus
+  of a two-dimensional medium with holes does not depend on the Poisson's ratio of
+  the matrix material.

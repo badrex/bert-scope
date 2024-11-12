@@ -1,0 +1,18 @@
+article_id: rstb_1992_0010
+revised_title: 'Facial Image Processing: Extraction and Use of Facial Features in
+  Low Bit-Rate Visual Communication'
+scientific_discipline: Engineering and Technology > Computer Science and Technology
+semantic_tags:
+- Facial recognition
+- Image processing
+- Sign language communication
+- Visual communication
+- Feature extraction
+tldr: The article discusses the extraction and use of facial features in low bit-rate
+  visual communication. The authors review their experimental investigations into
+  methods of extracting binary features from images of faces and hands to enable deaf
+  people to communicate using sign language over telephone networks. They describe
+  the theoretical postulates underlying the successful extraction of facial features
+  and the operators used for feature extraction. The article also explores the potential
+  applications of facial feature extraction in visual communication, facial recognition
+  systems, and model-based image coding.

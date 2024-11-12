@@ -1,0 +1,16 @@
+article_id: rspa_1994_0134
+revised_title: Anisotropic Piezoelectric, Thermoelastic, and Poroelastic Green's Functions
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Elasticity
+- Piezoelectricity
+- Thermoelasticity
+- Poroelasticity
+- Green's Functions
+sub_discipline: Engineering and Technology > Mechanical Engineering
+tldr: This article presents a method to generate fundamental solutions or Green's
+  functions for time harmonic point forces and sources in anisotropic piezoelectric,
+  thermoelastic, and poroelastic solids. The author reduces the spatial dimension
+  of the problem from three to one, allowing for the creation of a unidimensional
+  Green's matrix that satisfies the matrix equation. The method is demonstrated for
+  the three field theories considered and provides a foundation for further applications.

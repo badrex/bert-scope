@@ -1,0 +1,15 @@
+article_id: rspa_1995_0125
+revised_title: 'Direct Numerical Simulation in Turbulent Transport Phenomena: Advances
+  and Applications'
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Turbulence Modeling
+- Direct Numerical Simulation
+- Turbulent Transport
+- Fluid Dynamics
+- Computational Fluid Dynamics
+tldr: This article reviews the contribution of direct numerical simulation (DNS) to
+  understanding and modeling turbulent transport phenomena. It discusses the requirements
+  and limitations of DNS, numerical methods, and recent advancements in DNS for turbulent
+  channel flows with heat transfer at different Prandtl numbers. The article also
+  highlights a new approach to second-order modeling of scalar transport.

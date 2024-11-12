@@ -1,0 +1,15 @@
+article_id: rspa_1973_0003
+revised_title: Wigner Coefficients and the Adams and Elsasser Dynamo Integrals
+scientific_discipline: Physics > Electromagnetism
+semantic_tags:
+- Geomagnetism
+- Dynamo Theory
+- Vector Spherical Harmonics
+- Wigner Coefficients
+- Numerical Computations
+tldr: The authors demonstrate that the Adams and Elsasser dynamo integrals can be
+  expressed in terms of Wigner coefficients, making it easier to find and evaluate
+  these integrals. They also show that Wigner coefficients lead to symmetries and
+  selection rules for the integrals, and reveal a useful numerical connection between
+  them. This simplifies the process of calculating these integrals and opens up possibilities
+  for generalizing the method to handle higher-order coupling integrals.

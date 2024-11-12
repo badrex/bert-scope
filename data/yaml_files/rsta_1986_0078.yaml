@@ -1,0 +1,16 @@
+article_id: rsta_1986_0078
+revised_title: Nonlinear Stability Analysis of Stratified Fluid Equilibria
+scientific_discipline: Physics > Fluid dynamics
+semantic_tags:
+- Fluid dynamics
+- Nonlinear stability
+- Stratified fluid flow
+- Euler equations
+- Boussinesq approximation
+tldr: The authors analyze the nonlinear stability of stationary solutions for incompressible
+  inviscid stratified fluid flow in two and three dimensions using the Euler equations
+  and their Boussinesq approximations. They employ energy methods, conserved quantities,
+  and convexity estimates to derive nonlinear stability criteria, which differ from
+  linearized Vol. 318 stability criteria. The study covers specific examples and Hamiltonian
+  structures for the problems, providing a deeper understanding of fluid dynamics
+  and stability.

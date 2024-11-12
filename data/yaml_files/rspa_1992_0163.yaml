@@ -1,0 +1,14 @@
+article_id: rspa_1992_0163
+revised_title: Matrix-Based Method for Static Analysis of Articulated Assemblies
+scientific_discipline: Engineering and Technology > Mechanical Engineering
+semantic_tags:
+- Mechanism Analysis
+- Matrix Reduction
+- Statics
+- Kinematic Analysis
+- Computer Aided Design
+tldr: The author presents a matrix-based method for carrying out static analysis of
+  articulated assemblies of rigid bodies. This method also forms the basis for a new
+  approach to kinematic analysis, which provides inertia forces for the static analysis.
+  The method can be used in computer-aided design to help designers develop suitable
+  shapes for the parts of a mechanism.

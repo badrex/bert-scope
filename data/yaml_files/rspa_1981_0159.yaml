@@ -1,0 +1,17 @@
+article_id: rspa_1981_0159
+revised_title: Reduction of Asymptotic Characteristic Initial Value Problem for Einstein's
+  Vacuum Field Equations
+scientific_discipline: Mathematics > Differential Equations
+semantic_tags:
+- General Relativity
+- Differential Equations
+- Symmetric Hyperbolic Systems
+- Einstein's Field Equations
+- Asymptotic Analysis
+tldr: The author demonstrates that the asymptotic characteristic initial value problem
+  for Einstein's vacuum field equations can be reduced to a characteristic initial
+  value problem for a first-order symmetric hyperbolic system. This reduction allows
+  for the establishment of existence results for a large class of solutions of Einstein's
+  vacuum field equations that are asymptotically flat in the past or future. The technique
+  used can also be applied to standard Cauchy problems for the vacuum or conformal
+  vacuum field equations.

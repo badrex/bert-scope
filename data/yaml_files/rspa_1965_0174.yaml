@@ -1,0 +1,17 @@
+article_id: rspa_1965_0174
+revised_title: 'Magnetic Breakdown in Dislocated Lattices: A Network Model Approach'
+scientific_discipline: Physics > Materials Science
+semantic_tags:
+- Magnetic Breakdown
+- Dislocated Lattices
+- Network Model
+- Electron Orbits
+- Lattice Defects
+tldr: The author extends the network model of electron orbits coupled by magnetic
+  breakdown to a two-dimensional metal containing dislocations. They show that the
+  network is still a valid representation, but the phase lengths of the arms are altered,
+  and a low dislocation density can produce almost complete randomization of the electron
+  orbits. The author presents an alternative method for calculating the electrical
+  conductivity of a random-phase network and applies it to cases where randomness
+  affects only some of the phases, as is believed to be the situation in real metals
+  like zinc and magnesium.

@@ -1,0 +1,14 @@
+article_id: rsta_1927_0004
+revised_title: Tables of Log K0 (x) for Electrostatic Potential Energy Calculations
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Bessel Functions
+- Electrostatics
+- Interpolation Formulae
+- Crystal Physics
+- Mathematical Physics
+tldr: This article presents tables of log K0 (x) for use in calculating the electrostatic
+  potential energy of crystals. The tables are based on the work of Aldis and are
+  more suitable for calculations than previous tables due to their smaller interval
+  and easier accessibility. The tables provide values of log K0 (x) for the range
+  x = 2 to x = 12 at intervals of 0.001.

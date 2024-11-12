@@ -1,0 +1,15 @@
+article_id: rspa_1988_0059
+revised_title: Minimum Temperature Disturbance for Ignition in a Reactive Slab
+scientific_discipline: Physics > Thermodynamics
+semantic_tags:
+- Combustion
+- Chemical Reactors
+- Heat Transfer
+- Thermal Runaway
+- Criticality
+tldr: The article investigates the minimum local temperature disturbance required
+  to ignite a reactive slab close to criticality. It extends previous research on
+  two-dimensional disturbances and determines that three-dimensional disturbances
+  can tolerate larger local temperature excursions before thermal runaway occurs.
+  The study uses the method of large activation-energy asymptotics to analyze temperature
+  and concentration within the infinite reacting slab.

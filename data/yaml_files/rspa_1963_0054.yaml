@@ -1,0 +1,13 @@
+article_id: rspa_1963_0054
+revised_title: 'Cubic Forms in 16 Variables: A Mathematical Exploration'
+scientific_discipline: Mathematics > Algebraic Geometry
+semantic_tags:
+- Algebraic Geometry
+- Number Theory
+- Cubic Forms
+- Linear Equations
+- Integer Points
+tldr: The author proves that any cubic form in 16 variables with integral coefficients
+  has a solution in integers, not all zero. This result improves upon previous findings
+  and is achieved by analyzing the bilinear equations associated with cubic forms
+  and using a more effective treatment to estimate the number of solutions.

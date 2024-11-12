@@ -1,0 +1,14 @@
+article_id: rspa_1982_0167
+revised_title: 'Thermal Oscillations in Reactive Slabs: Reduction to Hill''s Equation'
+scientific_discipline: Physics > Thermodynamics
+semantic_tags:
+- Thermal stability
+- Chemical reactions
+- Heat balance equation
+- Hill's equation
+- Frank-Kamenetskii parameter
+tldr: This article examines the thermal stability of a chemically reacting slab with
+  time-periodic surface temperature oscillations. The authors reduce the problem to
+  an ordinary differential equation and find that the behavior depends on the solutions
+  of Hill's equation. They derive critical values of the Frank-Kamenetskii parameter
+  as a function of the amplitude and frequency of the surface temperature oscillations.

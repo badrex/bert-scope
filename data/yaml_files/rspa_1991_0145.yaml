@@ -1,0 +1,15 @@
+article_id: rspa_1991_0145
+revised_title: Reevaluating the Criteria for Correlation Dimension Calculations in
+  Chaotic Systems
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Chaotic Dynamics
+- Correlation Dimension
+- Error Analysis
+- Deterministic Systems
+- Time Series Analysis
+tldr: The authors critique Ruelle's upper bound on correlation dimension estimates,
+  arguing that it is not valid for general correlation dimension estimates and is
+  too weak to be useful. They show that the bound does not necessarily limit all estimates
+  of correlation dimensions and emphasize the importance of discussing error in correlation
+  dimension calculations.

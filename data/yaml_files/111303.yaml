@@ -1,0 +1,17 @@
+article_id: '111303'
+revised_title: Approximate Solution to the Problem of Three Bodies
+scientific_discipline: Astronomy > Celestial Mechanics
+semantic_tags:
+- Celestial Mechanics
+- Astronomy
+- Orbital Mechanics
+- Planetary Motion
+- Lunar Motion
+tldr: The author presents an approximate solution to the problem of three bodies,
+  applicable to both planetary and lunar motion. The method provides developments
+  of the radius-vector, longitude, and latitude directly determined by the analysis.
+  This approach avoids assumptions about the forms of the developments and can handle
+  both periodic and secular inequalities. The author demonstrates the practicality
+  of this method by obtaining values of r and θ to terms of the order of the eccentricity
+  multiplied by the disturbing force. Further applications and developments of the
+  method are reserved for future consideration.

@@ -1,0 +1,17 @@
+article_id: '111970'
+revised_title: '''Stokes'' Law of Intensity for Light Reflected and Transmitted through
+  a Pile of Plates'
+scientific_discipline: Physics > Optics
+semantic_tags:
+- Optics
+- Light reflection
+- Light transmission
+- Polarization
+- Geometric series
+tldr: The author, George G. Stokes, investigates the intensity of light reflected
+  or transmitted through a pile of plates. He develops a mathematical problem to determine
+  the relationship between the number of plates, their thickness, and their defect
+  of transparency. Stokes' solution involves geometric series and trigonometric functions,
+  which can be used to calculate the intensity of reflected and transmitted light
+  in various scenarios. This work contributes to the understanding of light behavior
+  and has implications for the design of optical devices.

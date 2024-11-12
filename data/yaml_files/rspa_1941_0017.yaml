@@ -1,0 +1,15 @@
+article_id: rspa_1941_0017
+revised_title: Wind Tunnel Correction for Circular Open Jet Tunnels with Reflexion
+  Plates
+scientific_discipline: Engineering and Technology > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Aerodynamics
+- Wind Tunnel Testing
+- Aerofoil Design
+- Conformal Transformations
+tldr: The authors present a method for correcting wind tunnel measurements of lift
+  and drag for aerofoils tested in a circular open jet tunnel with a reflexion plate.
+  They develop a conformal transformation to account for the induced downwash effect
+  on the aerofoil, which is essential for accurate wind tunnel testing of large-scale
+  models.

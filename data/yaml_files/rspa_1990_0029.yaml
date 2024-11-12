@@ -1,0 +1,15 @@
+article_id: rspa_1990_0029
+revised_title: Spectral Analysis of the Laplace Tidal Wave Equation
+scientific_discipline: Mathematics > Differential Equations
+semantic_tags:
+- Differential Equations
+- Sturm-Liouville Theory
+- Tidal Waves
+- Boundary Value Problems
+- Self-adjoint Operators
+tldr: This paper discusses the eigenvalue problem associated with the Laplace tidal
+  wave equation, which is derived from a mathematical model of wave motion in a thin
+  fluid layer on a rotating sphere. The author presents three well-posed boundary
+  value problems and constructs self-adjoint differential operators to represent each
+  problem. The paper also explores the effects of interior singularities and the change
+  in sign of the leading coefficient on the distribution of eigenvalues.

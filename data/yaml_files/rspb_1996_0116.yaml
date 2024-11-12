@@ -1,0 +1,20 @@
+article_id: rspb_1996_0116
+revised_title: Exploring Dynamically Generated Variability in Plant-Pathogen Systems
+  with Biological Control
+scientific_discipline: Biology and Life Sciences > Plant Pathology
+semantic_tags:
+- Plant pathology
+- Biological control
+- Nonlinear modeling
+- Disease dynamics
+- Lyapunov exponent
+tldr: The authors conducted experiments with a plant pathogen, Rhizoctonia solani,
+  and a biological control agent, Trichoderma viride, to study the dynamics of damping-off
+  disease in radish seedlings. They discovered that the biological control agent reduces
+  the average amount of disease but also increases variability among replicates. The
+  results are consistent with a nonlinear model that exhibits dynamically generated
+  variability, where small differences in the initiation of infection associated with
+  the antagonist are later amplified as the pathogen spreads from plant to plant.
+  This behavior has significant consequences for the design and interpretation of
+  ecological experiments and can account for the failure of many biological control
+  strategies.

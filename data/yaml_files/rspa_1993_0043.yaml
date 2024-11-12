@@ -1,0 +1,16 @@
+article_id: rspa_1993_0043
+revised_title: Heat Conduction in Inhomogeneous Suspensions
+scientific_discipline: Physics > Thermodynamics
+semantic_tags:
+- Heat conduction
+- Inhomogeneous suspensions
+- Particle probability
+- Renormalization techniques
+- Averaged-equation approach
+tldr: This article extends Jeffrey's calculations for the mean conductivity of a homogeneous
+  suspension to inhomogeneous suspensions, where the particle probability varies over
+  the length scale of the particle. The authors use the averaged-equation approach
+  of Hinch to develop the general theory and calculate specific results for conduction
+  parallel and perpendicular to a sudden jump in concentration. The effect of inhomogeneity
+  is found to decay proportional to the cube of the ratio of the particle radius to
+  the distance from the inhomogeneity.

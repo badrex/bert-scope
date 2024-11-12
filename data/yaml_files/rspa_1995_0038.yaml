@@ -1,0 +1,16 @@
+article_id: rspa_1995_0038
+revised_title: Asymptotic Approximation for High-Frequency Unsteady Cascade Flow
+scientific_discipline: Engineering and Technology > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Turbomachinery
+- Acoustics
+- Asymptotic Analysis
+- Wiener-Hopf Technique
+tldr: The authors present a new uniformly valid asymptotic factorization for the scattering
+  of harmonic gusts by a two-dimensional infinite cascade of flat plates, relevant
+  to predicting noise generation by rotating turbomachinery. This new approximation
+  improves upon previous methods by being accurate across a wide range of operating
+  parameters, even near cut-off conditions. The accuracy of the new approximation
+  is demonstrated by comparing it with exact results, showing typical errors of only
+  3% even for modest values of reduced frequency.

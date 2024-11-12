@@ -1,0 +1,16 @@
+article_id: rspa_1953_0039
+revised_title: Analytical Solution of Riemann's Equations for Sound Waves of Finite
+  Amplitude
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Acoustics
+- Fluid Dynamics
+- Riemann Invariants
+- Adiabatic Law
+- Gas Dynamics
+tldr: The author presents an analytical solution for Riemann's equations governing
+  the one-dimensional propagation of sound waves of finite amplitude in a gas obeying
+  the adiabatic law. The solution involves a complex integral and can be applied to
+  problems like the expansion of a gas cloud into a vacuum. This work extends previous
+  results for simple waves and provides a method for solving wave propagation problems
+  for general values of the parameter 7.

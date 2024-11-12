@@ -1,0 +1,17 @@
+article_id: rspa_1993_0161
+revised_title: Shear Band Development in Polycrystalline Materials
+scientific_discipline: Materials Science > Plasticity
+semantic_tags:
+- Shear band localization
+- Polycrystalline aggregates
+- Plasticity models
+- Viscoplasticity
+- Material inhomogeneity
+tldr: The authors study the development of shear bands in polycrystalline materials
+  using a band model involving two aggregates representing the material inside and
+  outside the potential band. They use a generalized Taylor polycrystal model to analyze
+  the material's response to different loading histories and initial conditions, finding
+  that localization occurs from the growth of an initial inhomogeneity. The study
+  focuses on plane strain tension, biaxial tension, and simple shear, and explores
+  the effects of material properties, initial conditions, and imperfection amplitude
+  on the localization process.

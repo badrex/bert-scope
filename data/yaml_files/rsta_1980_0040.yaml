@@ -1,0 +1,16 @@
+article_id: rsta_1980_0040
+revised_title: 'Doppler Satellite Tracking and Geodetic Applications: Scale and Orientation
+  for Satellite Doppler Positions'
+scientific_discipline: Earth Sciences > Geodesy
+semantic_tags:
+- Satellite Doppler tracking
+- Geodesy
+- Satellite positioning
+- Coordinate system
+- Satellite navigation
+tldr: This article discusses the establishment of scale and orientation for satellite
+  Doppler positions. The authors compare Doppler results with other space systems
+  and find that a scale decrease of 0.4+ 0.1 part/ 10^6 and a longitude rotation of
+  0.8 + 0.05 " eastward should be applied to the Doppler results. The study emphasizes
+  the importance of intercomparing different reduction programs to obtain more universally
+  applicable scale and orientation corrections.

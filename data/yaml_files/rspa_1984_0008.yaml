@@ -1,0 +1,15 @@
+article_id: rspa_1984_0008
+revised_title: 'Fourth-rank Tensors and Crystal Classes: Simplifying Algebraic Representations'
+scientific_discipline: Mathematics > Linear Algebra
+semantic_tags:
+- Crystallography
+- Tensor Algebra
+- Elasticity
+- Symmetry
+- Crystal Systems
+tldr: The author presents a method to simplify the algebraic representation of fourth-rank
+  tensors, which are used to describe the properties of crystalline anisotropic materials.
+  By partitioning these tensors into sets based on crystal classes, the author demonstrates
+  how to create closed linear associative algebras for calculating tensor products
+  and inverses. This approach allows for easier analysis of the material properties
+  and better understanding of their underlying structure.

@@ -1,0 +1,17 @@
+article_id: rspa_1971_0171
+revised_title: 'Local Energy Transport Equation for Isotropic Turbulence: A New Approach'
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Turbulence
+- Fluid Dynamics
+- Energy Spectrum
+- Fokker-Planck Equation
+- Kolmogorov Distribution
+tldr: The authors develop a local energy transport equation for isotropic turbulence,
+  which is an analogue of the Fokker-Planck equation. They assume that the dissipation
+  integral is mainly determined by the inertial range form of the energy spectrum
+  (Kolmogorov distribution) and that the response function can be approximated by
+  its inertial range form only. The resulting equation yields the Kolmogorov distribution
+  for the infinite Reynolds number limit and provides the general asymptotic form
+  of the spectrum, which behaves like k^(-5/3) in the inertial range and decays exponentially
+  in the viscous range of wave numbers.

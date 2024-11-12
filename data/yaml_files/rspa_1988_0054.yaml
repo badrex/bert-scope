@@ -1,0 +1,15 @@
+article_id: rspa_1988_0054
+revised_title: Elastic Potential and Material Symmetry in Initially Isotropic Materials
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Elasticity
+- Material Symmetry
+- Hyperbolic Differential Equations
+- Isotropic Materials
+- Constitutive Equations
+sub_discipline: Engineering and Technology > Materials Science
+tldr: The authors combine Biot's and Hill's work on elastic moduli and Cauchy symmetry
+  to create a system of hyperbolic differential equations for the elastic potential
+  in initially isotropic materials. They show that the elastic potential for any strain
+  is a functional of the elastic potential for pure dilatation. This theory is supported
+  by experimental results on foam rubber.

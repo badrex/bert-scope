@@ -1,0 +1,16 @@
+article_id: rspb_1964_0014
+revised_title: 'Cortico-Thalamic Organization and Memory: A Computational Approach'
+scientific_discipline: Cognitive Science > Memory Storage
+semantic_tags:
+- Neural Networks
+- Memory Storage
+- Cognitive Science
+- Brain Function
+- Learning Theory
+tldr: The author proposes a system of cortical organization within the cerebral cortex
+  and thalamus that can form and store patterns based on input signals. This system
+  uses a network of neurons to form functions of the input signals and select the
+  maximum value, which represents the recognized pattern. The author demonstrates
+  that this system can learn and store specific types of patterns, but may struggle
+  with more complex situations. The results suggest that the human brain's memory
+  system could function similarly to this proposed model.

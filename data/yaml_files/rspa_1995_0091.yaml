@@ -1,0 +1,14 @@
+article_id: rspa_1995_0091
+revised_title: Advanced Wave Load Calculations for Offshore Structures
+scientific_discipline: Engineering and Technology > Offshore Engineering
+semantic_tags:
+- Fluid Dynamics
+- Offshore Engineering
+- Wave Mechanics
+- Morison's Equation
+- Slender-Body Theory
+tldr: The author presents a more efficient method for calculating wave loads on offshore
+  structures using a slender-body approach. This method can handle complex structures
+  with non-circular cross-sections, joints, and surface intersections. The author
+  also discusses the limitations of the theory and provides a general result for the
+  overall global load on a moving structure.

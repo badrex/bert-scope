@@ -1,0 +1,19 @@
+article_id: rspa_1992_0063
+revised_title: 'Transformation Field Analysis of Inelastic Composite Materials: Applications
+  and Comparisons'
+scientific_discipline: Mechanics > Composite Materials
+semantic_tags:
+- Composite Materials
+- Inelastic Mechanics
+- Micromechanics
+- Transformation Fields
+- Concentration Factor Tensors
+tldr: This article introduces a new method for evaluating local fields and overall
+  properties of inelastic composite materials subjected to incremental thermomechanical
+  loads. The approach relies on transformation influence functions and concentration
+  factor tensors, which can be evaluated using micromechanical models. The method
+  is suitable for composite aggregates with multiple inelastic phases and various
+  elastic material symmetries and geometries. Applications to elastic-plastic, viscoelastic,
+  and viscoplastic systems are discussed, and the new approach is compared with self-consistent
+  and Mori-Tanaka approximations, which are shown to violate exact relations between
+  local and overall inelastic strains.

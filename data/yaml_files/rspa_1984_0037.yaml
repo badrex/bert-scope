@@ -1,0 +1,17 @@
+article_id: rspa_1984_0037
+revised_title: Numerical Simulation of Boundary Layer Instability
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Boundary Layer
+- Navier-Stokes Equations
+- Transition to Turbulence
+- Computational Fluid Dynamics
+tldr: The authors conducted numerical simulations using the three-dimensional incompressible
+  Navier-Stokes equations to study the instability of a flat-plate boundary layer.
+  They observed flow field structures similar to those found in the vibrating-ribbon
+  experiment and found that the development of strong shear layers and secondary instabilities
+  play a significant role in the transition process. The simulations provide insights
+  into the first five stages of boundary layer transition, which can help improve
+  our understanding of the complex phenomena involved in the transition from laminar
+  to turbulent flow.

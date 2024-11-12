@@ -1,0 +1,15 @@
+article_id: rspa_1960_0176
+revised_title: Unsteady Potential Flows with Finite Two-Dimensional Cavities
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid dynamics
+- Potential flow
+- Cavity flow
+- Unsteady flow
+- Boundary conditions
+tldr: The article presents general formulae for generating unsteady potential flows
+  with the presence of finite two-dimensional cavities. It investigates two distinct
+  cases, where the fluid at infinity is either in accelerative motion or at rest,
+  and provides a class of solutions for each case. The study also includes steady
+  flows in a gravitational field and explores solutions representing such flows past
+  a finite cavity.

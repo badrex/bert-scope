@@ -1,0 +1,15 @@
+article_id: rspa_1959_0186
+revised_title: Self-Consistent Binding Energies of Atomic Nuclei and the Definition
+  of the <i>t</i>-Matrix
+scientific_discipline: Physics > Nuclear Physics
+semantic_tags:
+- Nuclear Physics
+- Quantum Mechanics
+- Atomic Nuclei
+- Nuclear Forces
+- Nuclear Binding Energy
+tldr: The authors develop a method to calculate the binding energies of atomic nuclei
+  using a self-consistent approach and the definition of the t-matrix. They extend
+  the Brueckner theory to finite nuclei, considering self-consistency and tensor forces.
+  The method uses an independent particle model with a harmonic oscillator potential
+  and allows for state-dependent potentials to improve accuracy.

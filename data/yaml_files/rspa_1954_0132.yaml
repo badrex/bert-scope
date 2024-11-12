@@ -1,0 +1,14 @@
+article_id: rspa_1954_0132
+revised_title: 'Minimum-Weight Design of Structural Frames: A Geometrical Approach'
+scientific_discipline: Engineering and Technology > Structural Engineering
+semantic_tags:
+- Structural Engineering
+- Optimization
+- Plasticity
+- Mechanics
+- Design Theory
+tldr: This article presents a method for designing frames with minimum material consumption
+  using the theory of plastic collapse. The authors employ a virtual work approach
+  to analyze collapse mechanisms and develop a geometrical analogue to minimize the
+  linear function of weight, subject to constraints. The method is illustrated with
+  a two-span beam example.

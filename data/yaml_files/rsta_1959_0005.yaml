@@ -1,0 +1,13 @@
+revised_title: Analysing Long-Wave Ocean Phenomena using Electronic Network Models
+scientific_discipline: Environmental and Earth Sciences > Oceanography
+semantic_tags:
+- Oceanography
+- Fluid Dynamics
+- Electrical Networks
+- Analog Computing
+- Wave Propagation
+tldr: The article presents a method for analyzing long-wave phenomena in the ocean
+  using electronic network models. The author divides the ocean into cells of finite
+  size and represents each cell as a two-dimensional electric network. This method
+  allows for the analysis of complex cases and can be applied to various problems
+  with simple and small-scale equipment.

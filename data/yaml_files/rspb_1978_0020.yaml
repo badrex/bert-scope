@@ -1,0 +1,15 @@
+article_id: rspb_1978_0020
+revised_title: Shape Representation and Recognition in Three-Dimensional Objects
+scientific_discipline: Computer Science > Computer Vision
+semantic_tags:
+- Computer Vision
+- Shape Recognition
+- Object-Centered Coordinate System
+- Volumetric Primitives
+- Relaxation Process
+tldr: The authors propose a shape representation for three-dimensional object recognition
+  that uses an object-centered coordinate system, volumetric primitives of varied
+  sizes, and a modular organization. They also introduce a relaxation process for
+  carrying out constraint analysis in the recognition process. This representation
+  is useful for deriving useful information from retinal images and can be applied
+  to various recognition tasks.

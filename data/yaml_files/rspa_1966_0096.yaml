@@ -1,0 +1,15 @@
+article_id: rspa_1966_0096
+revised_title: Time-Dependent Coupled Hartree-Fock Approximation for Refractive Index
+  Calculation
+scientific_discipline: Chemistry > Quantum Chemistry
+semantic_tags:
+- Quantum Chemistry
+- Hartree-Fock Approximation
+- Refractive Index
+- Helium Gas
+- Dynamic Polarizability
+tldr: The authors present a time-dependent coupled Hartree-Fock approximation to describe
+  the effects of time-dependent perturbations on many-electron systems. They apply
+  this method to calculate the frequency-dependent refractive index of helium gas,
+  finding results that differ by between 4 and 8% from accurate values obtained by
+  a refined variational calculation.

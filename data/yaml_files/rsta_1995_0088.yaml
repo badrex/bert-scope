@@ -1,0 +1,15 @@
+article_id: rsta_1995_0088
+revised_title: Exploring Chaotic Behavior in Simple Electronic Circuits
+scientific_discipline: Physics > Electronics and Circuits
+semantic_tags:
+- Chaos Theory
+- Nonlinear Dynamics
+- Electronic Circuits
+- Bifurcation
+- Circuit Design
+tldr: This article explores the chaotic behavior in two simple non-autonomous electronic
+  circuits, demonstrating how even lower-dimensional circuits can exhibit complex
+  chaotic dynamics. The authors study the MLC circuit and the first-order circuit
+  with a 'jump-rule,' showing that these circuits can exhibit a rich variety of bifurcation
+  and chaos phenomena through experimental results, numerical simulations, and analytical
+  discussions.

@@ -1,0 +1,14 @@
+article_id: rspa_1991_0159
+revised_title: Numerical Method for Titchmarsh-Weyl m-Coefficient
+scientific_discipline: Mathematics > Numerical Analysis
+semantic_tags:
+- Differential Equations
+- Numerical Analysis
+- Spectral Theory
+- Hardy-Littlewood Inequalities
+- Titchmarsh-Weyl Function
+tldr: The authors present a numerical method for determining the Titchmarsh-Weyl function
+  for singular eigenvalue equations. They use Weyl's theory and Atkinson's result
+  to map a point on the real line onto the Weyl circle in the complex plane. The method
+  is applied to finding best constants in integrodifferential inequalities, and the
+  results are compared with known analytical examples.

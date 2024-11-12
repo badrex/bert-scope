@@ -1,0 +1,17 @@
+article_id: rspa_1992_0121
+revised_title: Maxwell's Equations and Exponential Solutions in Anisotropic Media
+scientific_discipline: Physics > Electromagnetism
+semantic_tags:
+- Electromagnetic Waves
+- Anisotropic Media
+- Wave Equations
+- Bivectors
+- Electromagnetic Propagation
+tldr: The authors explore static and propagating exponential solutions of Maxwell's
+  equations for anisotropic media with arbitrary real positive definite symmetric
+  electric permittivity and magnetic permeability tensors. They classify the possible
+  solutions based on the directional ellipse associated with a bivector and find that
+  different choices of the ellipse lead to various combinations of static and propagating
+  exponential solutions. The study is relevant to materials with electrical and magnetic
+  anisotropy, which have applications in various fields such as microwave technology,
+  liquid crystals, and high-temperature superconductors.

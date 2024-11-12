@@ -1,0 +1,17 @@
+article_id: rspa_1969_0037
+revised_title: Bilinear Convergence Characteristics of Dissymmetric Secular Equations
+  Solutions
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Quantum Mechanics
+- Variational Method
+- Secular Equations
+- Perturbation Theory
+- Numerical Integration
+tldr: The authors present a study on the bilinear convergence characteristics of solutions
+  to dissymmetric secular equations. They develop a perturbation method to estimate
+  the errors in these solutions, showing that the error is proportional to the amounts
+  by which the pre- and post-expansion functions are unable to fit the adjoint and
+  direct eigenfunctions of the operator. This result is useful for cases where different
+  sets of functions make integrals evaluable, such as when introducing direct electronic
+  correlation into wavefunction calculations.

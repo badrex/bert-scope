@@ -1,0 +1,15 @@
+article_id: rstb_1991_0012
+revised_title: 'Shape from Specularities: Computation and Psychophysics'
+scientific_discipline: Psychology > Perception
+semantic_tags:
+- Stereopsis
+- Specular Motion
+- Surface Geometry
+- Computational Modeling
+- Psychophysics
+tldr: The authors explore the use of specularities, or highlights created by mirror-like
+  reflection, as a source of geometric information for understanding surface shape.
+  They develop a computational model that demonstrates how the motion of a viewer
+  can generate apparent motion of specularities, which can be used to infer surface
+  geometry. Psychophysical experiments support the idea that the human brain can use
+  this information to perceive local surface geometry.

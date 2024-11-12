@@ -1,0 +1,14 @@
+article_id: rsta_1933_0009
+revised_title: Efficient Tests of Statistical Hypotheses
+scientific_discipline: Mathematics > Statistics
+semantic_tags:
+- Statistical Hypothesis Testing
+- Neyman-Pearson Theory
+- Statistical Inference
+- Probability Theory
+- Statistical Analysis
+tldr: The authors discuss the problem of testing statistical hypotheses and propose
+  a method for determining the most efficient tests. They argue that efficient tests
+  can be found by applying the principle of likelihood and consider various aspects
+  of statistical analysis, including the use of moments and the standard error of
+  differences between sample means and proportions.

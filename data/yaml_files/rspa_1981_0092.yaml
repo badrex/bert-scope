@@ -1,0 +1,16 @@
+article_id: rspa_1981_0092
+revised_title: 'Numerical Solution of Surface Waves in Anisotropic Media: The Secular
+  Equation'
+scientific_discipline: Physics > Elasticity
+semantic_tags:
+- Elasticity
+- Surface Waves
+- Anisotropic Media
+- Numerical Solution
+- Secular Equation
+tldr: The authors present a method for solving the secular equation for surface waves
+  in anisotropic media, reducing it to a generalized eigenvalue problem. They discuss
+  the different types of surface waves, such as Rayleigh waves, organ-pipe modes,
+  and body-wave modes, and provide a numerical technique for finding their propagation
+  velocities. This study has implications for understanding wave behavior in materials
+  with complex structures.

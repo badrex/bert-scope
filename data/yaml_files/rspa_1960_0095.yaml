@@ -1,0 +1,14 @@
+article_id: rspa_1960_0095
+revised_title: Variational Method for Ground State of a Bose Fluid
+scientific_discipline: Physics > Quantum Mechanics
+semantic_tags:
+- Quantum Mechanics
+- Statistical Mechanics
+- Bose-Einstein Condensate
+- Rayleigh-Ritz Variational Principle
+- Quantum Fluids
+tldr: The authors develop a variational method for finding the ground state of a Bose
+  fluid, using a modified Rayleigh-Ritz principle. They apply this method to a Bose
+  gas with weak repulsive forces, demonstrating how the energy functional is stationary
+  with respect to variations in the trial wave functions. This work provides a foundation
+  for understanding quantum fluids and their properties.

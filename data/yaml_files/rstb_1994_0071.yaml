@@ -1,0 +1,18 @@
+article_id: rstb_1994_0071
+revised_title: Mathematical and Statistical Approaches to DNA and Protein Sequence
+  Analysis in Chromosome Mapping
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Bioinformatics
+- Chromosome Mapping
+- DNA Sequencing
+- Statistical Analysis
+- Mathematical Modeling
+tldr: 'This article reviews mathematical and statistical methods used in constructing
+  ordered-clone physical maps of chromosomes. It addresses three main problems: analyzing
+  fingerprint data to identify overlapping clones, predicting the rate of progress
+  of mapping strategies, and designing optimal pooling schemes for screening large
+  clone libraries. The author discusses various fingerprinting techniques, such as
+  restriction digest data, hybridization outcomes, and end-specific probe hybridization,
+  and presents methods for detecting pairwise overlaps and calculating posterior overlap
+  probabilities.'

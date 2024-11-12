@@ -1,0 +1,16 @@
+article_id: rsta_1967_0054
+revised_title: Asymptotic Solutions for Hyperbolic Systems in Mathematics
+scientific_discipline: Mathematics > Partial Differential Equations
+semantic_tags:
+- Partial Differential Equations
+- Asymptotic Analysis
+- Hyperbolic Equations
+- Mathematical Physics
+- Transport Equations
+tldr: The authors develop a theory for deriving formal asymptotic solutions for initial
+  boundary-value problems involving hyperbolic equations. They use a method that considers
+  a formal asymptotic solution of the form and apply it to equations with matrix functions
+  of and an -component vector. The method involves solving first-order partial differential
+  equations, linear systems of ordinary differential equations, and transport equations
+  along space-time curves called rays. This research has applications in various fields,
+  including electromagnetism and plasma physics.

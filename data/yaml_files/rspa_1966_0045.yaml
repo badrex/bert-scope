@@ -1,0 +1,14 @@
+article_id: rspa_1966_0045
+revised_title: Resonance Rectification in Spherical Plasma Probes
+scientific_discipline: Physics > Plasma Physics
+semantic_tags:
+- Plasma physics
+- Resonance rectification
+- Plasma probe
+- Alternating potentials
+- Boltzmann equation
+tldr: The authors study the behavior of a spherical plasma probe with an alternating
+  potential applied to it. They derive the impedance of the probe and the rectified
+  current as functions of the applied potential's frequency. The phenomenon of resonance
+  rectification occurs at a frequency slightly less than the plasma frequency, which
+  is explained using the Boltzmann-Vlasov equation and Maxwell's equations.

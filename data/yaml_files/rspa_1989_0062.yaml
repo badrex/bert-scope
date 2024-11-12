@@ -1,0 +1,15 @@
+article_id: rspa_1989_0062
+revised_title: A Weighted Average Flux Method for Hyperbolic Conservation Laws
+scientific_discipline: Mathematics > Numerical Analysis
+semantic_tags:
+- Numerical methods
+- Hyperbolic conservation laws
+- Riemann problem
+- Weighted average flux
+- High-resolution methods
+tldr: The article presents a weighted average flux method for solving initial-value
+  problems for hyperbolic conservation laws. The method uses a weighted average of
+  the flux function over the entire structure of the solution of the Riemann problem,
+  resulting in higher accuracy without the need for solving generalized Riemann problems
+  or adding an anti-diffusive term. The method is second-order accurate for model
+  equations and provides oscillation-free results for nonlinear systems.

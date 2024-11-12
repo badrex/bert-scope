@@ -1,0 +1,15 @@
+article_id: rspa_1991_0015
+revised_title: Ray Tracing and Signal Intensity in Inhomogeneous Media
+scientific_discipline: Physics > Electromagnetism
+semantic_tags:
+- Wave Propagation
+- Ray Tracing
+- Signal Intensity
+- Ionosphere
+- Electromagnetic Waves
+tldr: The author extends the technique of ray tracing to study the variation of signal
+  intensity along a ray due to the divergence or convergence of neighboring rays in
+  a ray pencil. The study focuses on plane stratification and applies the results
+  to an anisotropic collisionless ionosphere. The signal intensity is found to be
+  bounded and continuous, but there are singularities in some of the quantities used
+  to calculate it.

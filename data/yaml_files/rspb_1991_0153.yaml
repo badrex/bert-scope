@@ -1,0 +1,14 @@
+article_id: rspb_1991_0153
+revised_title: Optomotor Control System with Automatic Compensation for Contrast and
+  Texture
+scientific_discipline: Biology and Life Sciences > Neurobiology
+semantic_tags:
+- '''Neurobiology'''
+- '''Optomotor Control'''
+- '''Movement Detection'''
+- '''Retinal Image Stabilization'''
+- '''Arthropods'''
+tldr: The article describes a control system in arthropods that automatically compensates
+  for contrast and texture in movement detection, improving the quality of retinal
+  image stabilization. The system uses a combination of nonlinear properties and gain
+  control to maintain stability and follow pattern movements effectively.

@@ -1,0 +1,14 @@
+article_id: rspa_1958_0003
+revised_title: Correlation Energy of a Free-Electron Gas
+scientific_discipline: Physics > Solid State Physics
+semantic_tags:
+- Quantum Mechanics
+- Many-Body Theory
+- Plasma Oscillations
+- Solid State Physics
+- Electron Gas
+tldr: The authors apply many-body perturbation theory to calculate the correlation
+  energy of a free-electron gas. They find that the theory is adequate in the long-range
+  limit but inadequate in the short-range limit. By carrying the calculation to the
+  next lowest order, they improve the accuracy and provide numerical results that
+  agree with Bohm and Pines' theory.

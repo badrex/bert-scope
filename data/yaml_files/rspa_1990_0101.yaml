@@ -1,0 +1,16 @@
+article_id: rspa_1990_0101
+revised_title: Stationary-State Solutions for Coupled Reaction-Diffusion and Temperature-Conduction
+  Equations in Infinite Slab and Cylinder Geometries
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Reaction-diffusion equations
+- Heat and mass transfer
+- Exothermic reactions
+- Porous reaction zones
+- Catalyst beds
+tldr: This article investigates stationary-state solutions for a simple model of exothermic
+  reactions in a catalyst bed or porous reaction zone. The study focuses on the infinite
+  slab and cylinder geometries, considering both Dirichlet and Robin boundary conditions.
+  The authors explore the dependences of temperature and concentration profiles on
+  various parameters and the number of possible steady-state solutions, ranging from
+  one to five, depending on the geometry and boundary conditions.

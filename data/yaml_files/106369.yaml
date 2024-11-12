@@ -1,0 +1,14 @@
+article_id: '106369'
+revised_title: Cardan's Cubic Equation and the Convergence of Series
+scientific_discipline: Mathematics > Algebra
+semantic_tags:
+- Mathematics
+- Algebra
+- Series convergence
+- Cardan's formula
+- Transcendental numbers
+tldr: The author presents a method for extending Cardan's formula for solving cubic
+  equations and discusses the convergence of the series involved in the solution.
+  The series converges faster than previously known series and leads to a mixed algebraic
+  and transcendental expression for the root of the equation. The author also provides
+  a way to compute more terms of the series if needed.

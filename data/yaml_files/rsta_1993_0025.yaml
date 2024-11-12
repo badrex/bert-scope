@@ -1,0 +1,18 @@
+article_id: rsta_1993_0025
+revised_title: 'Gortler Instability in Hypersonic Flows: Sutherland Law Fluids and
+  Real Gas Effects'
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Hypersonic Flows
+- Gortler Instability
+- Sutherland's Law
+- Real Gas Effects
+tldr: This article investigates the Gortler instability mechanism in a hypersonic
+  boundary layer on a curved wall, focusing on the effects of boundary layer growth,
+  wall cooling, and gas dissociation in determining stability properties. The study
+  assumes the fluid is an ideal gas with viscosity given by Sutherland's law and finds
+  that gas dissociation and wall cooling can be either stabilizing or destabilizing
+  for different modes of Gortler vortices. The research also highlights the differences
+  in the basic state and downstream evolution properties of Gortler vortices when
+  using Sutherland's law instead of Chapman's law.

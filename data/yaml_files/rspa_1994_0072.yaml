@@ -1,0 +1,15 @@
+article_id: rspa_1994_0072
+revised_title: Cubic Lattice Green Functions and Elliptic Integrals
+scientific_discipline: Mathematics > Mathematical Physics
+semantic_tags:
+- Elliptic Integrals
+- Lattice Green Functions
+- Cubic Lattices
+- Analytic Continuation
+- Mathematical Physics
+tldr: The author proves a basic identity for the complete elliptic integrals K(k+)
+  and K(k-) and uses it to express the face-centered cubic and simple cubic lattice
+  Green functions at the origin in terms of the square of a complete elliptic integral
+  of the first kind. The results are applied to various problems in lattice statistics,
+  including deriving a new simplified formula for the generating function of staircase
+  polygons on a four-dimensional hypercubic lattice.

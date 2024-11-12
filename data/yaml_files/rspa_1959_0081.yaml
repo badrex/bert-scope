@@ -1,0 +1,17 @@
+article_id: rspa_1959_0081
+revised_title: Foundations of Linear Isotropic Visco-Elasticity
+scientific_discipline: Physics > Material Science
+semantic_tags:
+- Viscoelasticity
+- Rheology
+- Material Science
+- Solid Mechanics
+- Fluid Mechanics
+tldr: The authors develop the properties of linear visco-elastic materials by hypothesizing
+  that their microscopic structure is mechanically equivalent to a network of elastic
+  and viscous elements. They derive expressions for stored energy and the rate of
+  dissipation of energy for any material element at any time. The study focuses on
+  isotropic materials, and the authors show that the stress-strain law can be expressed
+  in operational form. They also demonstrate that models consisting of Voigt elements
+  in series or Maxwell elements in parallel can represent the mechanical properties
+  and stored and dissipated energies of any visco-elastic material.

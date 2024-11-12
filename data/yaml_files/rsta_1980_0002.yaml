@@ -1,0 +1,14 @@
+article_id: rsta_1980_0002
+revised_title: Asymptotic Expansion of Solutions of Fourth Order Differential Equations
+scientific_discipline: Mathematics > Differential Equations
+semantic_tags:
+- Differential Equations
+- Asymptotic Analysis
+- Mathematical Physics
+- Laplace Integrals
+- Mellin-Barnes Integrals
+tldr: The authors investigate the asymptotic expansions of solutions for the fourth-order
+  differential equation, using Laplace and Mellin-Barnes integrals. They find that
+  the asymptotic character of the solutions is either exponentially large or algebraic
+  in certain sectors of the complex plane, and they discuss linear combinations of
+  these solutions with an exponentially small expansion.

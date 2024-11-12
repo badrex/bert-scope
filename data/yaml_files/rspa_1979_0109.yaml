@@ -1,0 +1,16 @@
+article_id: rspa_1979_0109
+revised_title: 'Numerical Construction of Space-Time: Recent Developments in General
+  Relativity'
+scientific_discipline: Physics > Gravitational Waves
+semantic_tags:
+- General Relativity
+- Numerical Solutions
+- Black Holes
+- Gravitational Waves
+- Einstein's Equations
+tldr: This article discusses the numerical construction of space-time in general relativity.
+  The author presents a practical algorithm for solving the nonlinear Einstein field
+  equations, focusing on the decomposition of space-time into spacelike time slices
+  and a congruence of curves. The article also explores the role of black holes in
+  generating gravitational radiation and the efficiency of gravitational radiation
+  generation during the collision of two black holes.

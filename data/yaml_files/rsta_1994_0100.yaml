@@ -1,0 +1,14 @@
+article_id: rsta_1994_0100
+revised_title: 'Chaos and Forecasting: A New Approach to Time Series Prediction'
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Time series analysis
+- Machine learning
+- Nonlinear dynamics
+- State-space reconstruction
+- Neural networks
+tldr: This article discusses the shift in time series prediction from linear models
+  to more complex, non-linear methods. It highlights the Santa Fe Competition, which
+  showcased the potential of machine learning and state-space reconstruction techniques
+  in forecasting. The author emphasizes the importance of weak models and the distinction
+  between memorization and generalization in time series analysis.

@@ -1,0 +1,17 @@
+article_id: rspa_1986_0055
+revised_title: The Impact of Footprints on Surface Roughness Perception
+scientific_discipline: Engineering and Technology > Vehicle Dynamics
+semantic_tags:
+- Surface Roughness
+- Footprint
+- Averaging Process
+- Contact Patch
+- Statistical Properties
+tldr: This article explores how a surface is smoothed by the process of averaging
+  its height within a contact patch, which is the region where there is contact between
+  a measuring device and the surface. The study focuses on the two-dimensional autocorrelation
+  and spectral density functions of the smoothed surface, which are calculated in
+  terms of the corresponding functions of the reference surface and the properties
+  of the 'footprint' of the contact. The research is relevant to the field of vehicle
+  dynamics, as it helps in understanding the interaction between a rubber-tyred wheel
+  and the ground.

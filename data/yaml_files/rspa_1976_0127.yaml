@@ -1,0 +1,16 @@
+article_id: rspa_1976_0127
+revised_title: Coherent Random Walks in Genetical Models
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Population Genetics
+- Markov Processes
+- Stochastic Models
+- Mathematical Biology
+- Genealogy
+tldr: The author analyzes a stochastic model used in population genetics, which is
+  a Markov process with a group of points moving randomly on a line. The model has
+  an equilibrium distribution for the relative configuration of the group. The author
+  studies the properties of this equilibrium, particularly in a limiting situation
+  where the group of points is distributed like a large sample from a distribution
+  subject to random variation. The results show that the relative distances between
+  the points remain stochastically bounded, and the convergence rate is investigated.

@@ -1,0 +1,16 @@
+article_id: rsta_1984_0112
+revised_title: All-Optical Signal Processing in Optical Waveguides
+scientific_discipline: Engineering and Technology > Optoelectronics and Photonics
+semantic_tags:
+- Optical waveguides
+- All-optical logic
+- Mach-Zehnder interferometer
+- Optical communication
+- Integrated optics
+tldr: This article discusses the development of all-optical logic elements in integrated
+  optical waveguides, focusing on a proposed traveling-wave all-optical waveguide
+  device that can operate as an AND gate, OR gate, XOR gate, or as an inverter. The
+  device operates in the "pipeline mode," processing a stream of pulses continuously
+  and offering unique processing capabilities. The authors present experimental results
+  obtained with a device fabricated in GaAs that performed as a picosecond all-optical
+  waveguide modulator.

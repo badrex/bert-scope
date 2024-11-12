@@ -1,0 +1,15 @@
+article_id: rspa_1996_0024
+revised_title: 'Advanced Modeling of Metals Casting Process: Coupling Fluid Flow,
+  Heat Transfer, and Solidification'
+scientific_discipline: Engineering and Technology > Materials Science and Metallurgy
+semantic_tags:
+- Multiphysics modeling
+- Casting simulation
+- Fluid flow analysis
+- Heat transfer
+- Solidification
+tldr: This article presents a multiphysics model for the metals casting process, addressing
+  fluid flow, heat transfer, and solidification. The model uses novel finite volume
+  unstructured mesh techniques and is applied to predict shape deformation and porosity
+  formation in solidifying metal components. The research aims to develop computational
+  tools for the foundry industry to design casting processes and improve casting quality.

@@ -1,0 +1,14 @@
+article_id: rspa_1993_0080
+revised_title: Incorporating Exact Radiation Condition in Finite-Difference Elliptic
+  Water-Wave Models
+scientific_discipline: Environmental and Earth Sciences > Oceanography
+semantic_tags:
+- Wave mechanics
+- Boundary conditions
+- Finite-difference methods
+- Water waves
+- Mild-slope equation
+tldr: The authors developed a method to incorporate the exact radiation condition
+  at infinity in finite-difference models for elliptic water-wave equations. This
+  new method allows for better treatment of open boundary conditions, improving the
+  accuracy of wave simulations in engineering and coastal studies.

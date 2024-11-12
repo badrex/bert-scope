@@ -1,0 +1,17 @@
+article_id: rspa_1963_0046
+revised_title: A New Method for Calibrating Tungsten Filament Secondary Standard Lamps
+scientific_discipline: Physics > Optics
+semantic_tags:
+- Photometry
+- Radiometry
+- Luminous Intensity
+- Tungsten Filament Lamps
+- Calibration
+tldr: The authors propose a new radiometric method for calibrating tungsten filament
+  secondary standard lamps without the need for actual use of a primary standard.
+  The method involves passing the lamp's radiation through a filter with a spectral
+  transmission curve proportional to the standard eye's relative spectral response,
+  and then measuring the total radiation intensity with a calibrated radiation thermopile.
+  This radiation intensity serves as an absolute measure of the lamp's luminous intensity,
+  which can be converted to the light scale using a fixed factor. The method offers
+  improved precision and can be applied to existing standard lamps.

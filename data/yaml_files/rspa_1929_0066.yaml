@@ -1,0 +1,17 @@
+article_id: rspa_1929_0066
+revised_title: 'Forces on a Solid Body Moving through Viscous Fluid: A Theoretical
+  Analysis'
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid dynamics
+- Viscosity
+- Drag force
+- Oseen's approximation
+- Boundary layer
+tldr: This article presents a theoretical analysis of the forces acting on a solid
+  body moving through a viscous fluid. The author, Sydney Goldstein, and co-author
+  H. Jeffreys, derive equations of motion and discuss the drag force on a body moving
+  with uniform velocity through a fluid. They also consider the lift force and the
+  effect of non-steady motion. The study is based on Oseen's approximation, which
+  assumes that the velocity of disturbance is small and terms depending on its square
+  are neglected.

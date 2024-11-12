@@ -1,0 +1,16 @@
+article_id: rspa_1956_0070
+revised_title: Molecular Orbital Approximation for Hetero-Atom Systems
+scientific_discipline: Chemistry > Quantum Chemistry
+semantic_tags:
+- Quantum Chemistry
+- Molecular Orbital Theory
+- Computational Chemistry
+- Hetero-atom Systems
+- Overlap Integrals
+tldr: The authors extended their previous work on electronic digital computers to
+  develop a new molecular orbital approximation for hetero-atom systems. This approximation
+  includes overlap integrals and uses Coulomb integrals derived from the absolute
+  electro-affinities of atomic orbitals. The method was tested on various hydrocarbon
+  systems and found to provide slightly better results than the Huckel method. The
+  authors also applied the method to non-hydrocarbon systems like pyridine and pyrrole,
+  demonstrating its general applicability.

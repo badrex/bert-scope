@@ -1,0 +1,17 @@
+article_id: rspa_1994_0092
+revised_title: Long Time and Large Scale Properties of Noisy Driven-Diffusion Equations
+scientific_discipline: Physics > Nonlinear Dynamics and Chaos
+semantic_tags:
+- Nonlinear Diffusion Equations
+- Renormalization Group
+- Self-Consistent Perturbation Theory
+- Noise-Driven Systems
+- Traffic Flows
+tldr: The authors performed numerical simulations of the noisy driven-diffusion equation,
+  focusing on the scaling behavior of the correlation function. They compared various
+  theoretical approaches, such as Renormalization Group and self-consistent perturbation
+  theory, to assess their validity in predicting scaling exponents and numerical prefactors.
+  The study also investigated the consequences of the bounded nature of the density
+  fluctuations and the long-time scale beyond which scaling is no longer valid. The
+  findings have implications for understanding traffic flows, cross-flow filtration,
+  and bubbly media.

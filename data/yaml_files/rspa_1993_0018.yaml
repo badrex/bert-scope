@@ -1,0 +1,16 @@
+article_id: rspa_1993_0018
+revised_title: Conservation Laws of Nonlinear Chromatography for Heterovalent Ions
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Chromatography
+- Nonlinear systems
+- Heterovalent ions
+- Conservation laws
+- Hyperbolic systems
+sub_discipline: '>-'
+tldr: The author studies the conservation laws of nonlinear chromatography for mixtures
+  of heterovalent ions, focusing on the ideal model that neglects interactions between
+  adsorbed species. They prove that when diffusion is neglected, the system is hyperbolic
+  and investigate the changes of concentrations and affinities across shocks. The
+  author also demonstrates that a transformation that decouples the system in the
+  homovalent case does not exist for mixtures of heterovalent ions.

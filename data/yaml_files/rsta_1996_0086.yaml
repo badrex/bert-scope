@@ -1,0 +1,15 @@
+article_id: rsta_1996_0086
+revised_title: Triply Periodic Minimal Surfaces in Chemistry and Materials Science
+scientific_discipline: Mathematics > Differential Geometry
+semantic_tags:
+- Differential Geometry
+- Minimal Surfaces
+- Crystallography
+- Materials Science
+- Surface Evolver
+tldr: This article explores the use of differential geometry and minimal surfaces
+  in understanding various structures in chemistry and materials science. It focuses
+  on triply periodic minimal surfaces (TPMS) and their significance in biological
+  materials and other non-crystalline structures. The authors discuss various methods
+  for generating and analyzing TPMS, including Weierstrass parametrization, analytical
+  derivation, and finite element methods like the Surface Evolver.

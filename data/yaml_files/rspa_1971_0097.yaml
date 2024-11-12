@@ -1,0 +1,15 @@
+article_id: rspa_1971_0097
+revised_title: 'Numerical Analysis of Partial Differential Equations: Integral Equation
+  Methods for Exterior Boundary-Value Problems'
+scientific_discipline: Mathematics > Numerical Analysis
+semantic_tags:
+- Integral Equations
+- Numerical Analysis
+- Partial Differential Equations
+- Boundary-Value Problems
+- Exterior Problems
+tldr: The authors discuss the application of integral equation methods to the numerical
+  solution of exterior boundary-value problems for Laplace's equation and the Helmholtz
+  equation. They demonstrate a phenomenon of non-uniqueness in the solution and propose
+  a practical method to overcome this difficulty. The methods have been successfully
+  applied to various problems in acoustic diffraction and fluid dynamics.

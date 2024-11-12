@@ -1,0 +1,15 @@
+article_id: rspa_1990_0138
+revised_title: 'A General Property of Non-Singular Second-Order Tensors: Special Circles
+  and Ellipsoids'
+scientific_discipline: Mathematics > Linear Algebra
+semantic_tags:
+- Linear Algebra
+- Tensor Analysis
+- Ellipsoids
+- Symmetric Tensors
+- Eigenvectors
+tldr: The author demonstrates a property of non-singular second-order tensors, showing
+  that there exists at least one special circle of directions for which the corresponding
+  vectors also lie on a circle. This property is applicable to various fields, including
+  electromagnetism, thermal conduction, and mechanics. The number of special circles
+  depends on the shape of the ellipsoid associated with the tensor.

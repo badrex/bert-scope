@@ -1,0 +1,14 @@
+article_id: rspa_1935_0219
+revised_title: Inertia and Diffraction Corrections for the Rayleigh Disc
+scientific_discipline: Physics > Acoustics
+semantic_tags:
+- Acoustics
+- Fluid dynamics
+- Wave theory
+- Bessel functions
+- Sound measurement
+tldr: The author investigates the inertia and diffraction corrections for the Rayleigh
+  disc, a device used to measure sound intensities. They develop a mathematical model
+  to calculate the couple on the disc and provide a method for solving the integral
+  equations involved in the oblique diffraction problem. This work improves the accuracy
+  of sound intensity measurements using the Rayleigh disc.

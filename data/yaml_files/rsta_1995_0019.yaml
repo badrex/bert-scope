@@ -1,0 +1,18 @@
+article_id: rsta_1995_0019
+revised_title: Travelling Waves in Reaction-Diffusion Equations with Monotone Decreasing
+  Diffusivity
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Reaction-Diffusion Equations
+- Polymerization Processes
+- Travelling Waves
+- Mathematical Modelling
+- Chemical Kinetics
+sub_discipline: Mathematical Modelling in Chemical Kinetics
+tldr: The authors examine the effects of concentration-dependent diffusivity on a
+  reaction-diffusion process with applications in chemical kinetics. They consider
+  piecewise-classical solutions to an initial-boundary value problem and establish
+  the existence of a family of permanent form travelling wave solutions. The development
+  of the solution to the initial-boundary value problem is also discussed, showing
+  that an interface will always form in finite time with its initial propagation speed
+  being unbounded.

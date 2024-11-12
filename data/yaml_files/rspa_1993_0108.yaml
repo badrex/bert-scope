@@ -1,0 +1,15 @@
+article_id: rspa_1993_0108
+revised_title: 'Modeling the Candle Flame: A Sheet Model Approach'
+scientific_discipline: Engineering and Technology > Fluid Dynamics
+semantic_tags:
+- Combustion
+- Fluid Dynamics
+- Heat Transfer
+- Boundary Layer Flow
+- Free Convection
+tldr: This article presents a sheet model for the candle flame, using the Burke-Schumann
+  flame-sheet limit to study the combustion process. The model considers the flow
+  induced by the hot flame as a variable-density boundary-layer flow, with transport
+  properties assumed to be proportional to the temperature. The main features of the
+  calculated flame-sheet shape are in agreement with observations of an ordinary domestic
+  candle flame.

@@ -1,0 +1,14 @@
+article_id: rspa_1993_0116
+revised_title: Central Charge Estimation from Spin-Spin Correlation Function
+scientific_discipline: Physics > Condensed Matter Physics
+semantic_tags:
+- Conformal Field Theory
+- Central Charge
+- Spin-Spin Correlation Function
+- Ising Model
+- Two-Dimensional Systems
+tldr: The author calculates the central charge from the second moment of the spin-spin
+  correlation function in the two-dimensional Ising model. They develop high field
+  expansions and use series extrapolation methods to estimate the central charge,
+  which is related to the amplitude for the divergence of the spin-spin correlation
+  function at the critical point.

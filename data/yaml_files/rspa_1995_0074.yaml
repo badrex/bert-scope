@@ -1,0 +1,15 @@
+article_id: rspa_1995_0074
+revised_title: Continuous Dependence on Initial-Time Geometry in Dynamo Theory Equations
+scientific_discipline: Mathematics > Partial Differential Equations
+semantic_tags:
+- Dynamo Theory
+- Partial Differential Equations
+- Continuous Dependence
+- Unbounded Spatial Domain
+- Time-Dependent Fluid Flow
+tldr: This article studies the continuous dependence on initial-time geometry for
+  a non-symmetric partial differential equation that arises in dynamo theory when
+  the spatial domain is unbounded and exterior to a compact region. The authors establish
+  continuous dependence on changes in the initial-time geometry for both the forward
+  and backward problems, providing explicit continuous dependence inequalities for
+  each case.

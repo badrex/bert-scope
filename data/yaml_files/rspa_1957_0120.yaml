@@ -1,0 +1,14 @@
+article_id: rspa_1957_0120
+revised_title: Advances in Plastic Theory for Plates
+scientific_discipline: Engineering and Technology > Mechanics of Materials
+semantic_tags:
+- Plate theory
+- Plasticity
+- Rigid-plastic materials
+- Tresca yield condition
+- Field equations
+tldr: This paper presents a theory of small deformations in thin, uniform plates under
+  transverse load, using rigid-plastic material that obeys the Tresca yield condition.
+  The study removes the restriction of circular symmetry and focuses on deriving and
+  classifying field equations for various plastic regimes. The analysis is based on
+  the principles of motion, plastic flow, and mass conservation.

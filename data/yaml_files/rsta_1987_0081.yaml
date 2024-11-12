@@ -1,0 +1,17 @@
+article_id: rsta_1987_0081
+revised_title: Asymptotic Solutions and Numerical Analysis of the Modified Burgers
+  Equation
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Nonlinear wave motion
+- Modified Burgers equation
+- Asymptotic analysis
+- Wave theory
+- Dissipative waves
+sub_discipline: Partial Differential Equations
+tldr: The authors study the modified Burgers equation, a model for weakly nonlinear
+  and weakly dissipative wave evolution, using matched asymptotic expansion techniques.
+  They analyze the equation's behavior for small values of the dissipation coefficient
+  and provide asymptotic solutions for -wave and sinusoidal initial distributions.
+  The study sheds light on the physical mechanisms and balances involved in the modified
+  Burgers equation and its applications in various fields.

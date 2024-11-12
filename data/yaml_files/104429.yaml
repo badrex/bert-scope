@@ -1,0 +1,15 @@
+article_id: '104429'
+revised_title: A New Method for Calculating Annuities on Lives
+scientific_discipline: Mathematics > Actuarial Science
+semantic_tags:
+- Actuarial Science
+- Life Insurance
+- Mathematics
+- Probability Theory
+- Statistics
+tldr: The author, Abraham De Moivre, presents a new method for calculating the value
+  of annuities on lives using tables of observations. This method considers the time
+  elapsed between the last payment and the moment of the life's expiration, providing
+  a more accurate calculation for annuities. The new method also accounts for the
+  possibility of different intervals of life having uniform decrements, improving
+  the connection between various life stages.

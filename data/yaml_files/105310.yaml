@@ -1,0 +1,14 @@
+article_id: '105310'
+revised_title: Simpson's General Rule for the Resolution of Isoperimetrical Problems
+scientific_discipline: Mathematics > Calculus
+semantic_tags:
+- Calculus
+- Optimization
+- Isoperimetry
+- Mathematical Analysis
+- Differential Equations
+tldr: The author, Thomas Simpson, presents a general rule for solving isoperimetrical
+  problems where both indeterminate quantities and their fluxions are involved. The
+  rule involves finding the relation between x and y that maximizes or minimizes the
+  given expression. This method can be applied to various types of problems, including
+  those with additional constraints.

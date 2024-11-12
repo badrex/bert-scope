@@ -1,0 +1,20 @@
+article_id: rspa_1986_0003
+revised_title: 'Transient Free Convection in Porous Media: A Study of a Heated Vertical
+  Plate'
+scientific_discipline: Environmental and Earth Sciences > Porous Media and Groundwater
+  Flow
+semantic_tags:
+- Porous Media
+- Free Convection
+- Boundary Layer Flow
+- Heat Transfer
+- Fluid Dynamics
+tldr: This article presents an analysis of the steady free convection flow around
+  a vertical flat plate embedded in a saturated porous medium. The authors obtain
+  similarity solutions for a class of problems where the wall temperature varies as
+  a power of the distance from the plate's leading edge. They also investigate the
+  temporal development of the flow when the plate's temperature is impulsively increased
+  and provide a numerical solution that matches the small and large time solutions.
+  The study has applications in geophysical and engineering contexts, such as estimating
+  the rate of cooling of vertical intrusions in aquifers and heat loss from underground
+  energy transport and storage systems.

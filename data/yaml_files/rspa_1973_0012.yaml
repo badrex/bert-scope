@@ -1,0 +1,14 @@
+article_id: rspa_1973_0012
+revised_title: Oscillatory Ship Model Testing and the Application of Functional Analysis
+scientific_discipline: Engineering and Technology > Naval Architecture and Ocean Engineering
+semantic_tags:
+- Fluid Dynamics
+- Ship Hydrodynamics
+- Functional Analysis
+- Oscillatory Testing
+- Volterra Series
+tldr: The authors apply functional analysis to oscillatory ship model testing, demonstrating
+  that linear theory can be accurate when considering'memory effects.' They show that
+  the usual assumption of slow motion derivatives is not entirely accurate and that
+  functional analysis can provide a more precise representation of fluid forces and
+  moments acting on a ship.

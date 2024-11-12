@@ -1,0 +1,16 @@
+article_id: rspa_1994_0113
+revised_title: Efficient Method for Measuring Liquid Properties through Particle Counting
+scientific_discipline: Physics > Computational Physics
+semantic_tags:
+- Computational Fluid Dynamics
+- Simulation Method
+- Liquid Properties
+- Density Profile
+- Lennard-Jones Potential
+tldr: The authors propose a new method for measuring the properties of liquids by
+  counting the passage of particles through a notional plane in the liquid. This method
+  is more accurate and efficient than the conventional one for determining properties
+  like the diffusion coefficient, velocity autocorrelation function, and density profile
+  in both homogeneous and inhomogeneous systems. The simulation uses the Lennard-Jones
+  potential for particle interactions, and the results cover a wide range of fluid
+  states.

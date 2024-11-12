@@ -1,0 +1,14 @@
+article_id: '112607'
+revised_title: 'A New Method for Computing Determinant Values: Condensation of Determinants'
+scientific_discipline: Mathematics > Linear Algebra
+semantic_tags:
+- Linear Algebra
+- Determinants
+- Matrix Operations
+- Mathematical Theorems
+- Mathematical Applications
+tldr: The author, C.L. Dodgson, introduces a new method called "Condensation" for
+  computing the arithmetical values of determinants. This method is faster and simpler
+  than previous methods, especially for solving systems of equations with 2 or 3 unknowns.
+  The process involves rearranging the given block of terms, computing the determinant
+  of adjacent terms, and condensing the block until a single value is obtained.

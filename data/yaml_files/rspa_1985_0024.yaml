@@ -1,0 +1,16 @@
+article_id: rspa_1985_0024
+revised_title: Singular Function Method for Laplace Transform Inversion with Discrete
+  Data
+scientific_discipline: Mathematics > Inverse Problems
+semantic_tags:
+- Inverse Problems
+- Signal Processing
+- Mathematics
+- Laplace Transform
+- Singular Value Decomposition
+tldr: The authors extend the singular function method to cover the case of discrete
+  data and continuous solution in Laplace transform inversion. They investigate the
+  effect of uniform and geometric sampling on the singular values and singular functions,
+  showing that geometric sampling provides better approximations with fewer data points.
+  The study has implications for recovering exponential relaxation rates from experimental
+  data.

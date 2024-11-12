@@ -1,0 +1,14 @@
+article_id: rsta_1936_0004
+revised_title: 'Tides in Oceans Bounded by Meridians: General Equations'
+scientific_discipline: Environmental and Earth Sciences > Oceanography
+semantic_tags:
+- Tides
+- Oceanography
+- Geophysics
+- Fluid dynamics
+- Mathematical modeling
+tldr: The authors present a mathematical model for analyzing tides in oceans bounded
+  by meridians. They use complex harmonic motion and transform the fundamental differential
+  equations into a series of algebraic equations with numerical coefficients. This
+  study focuses on an ocean of uniform depth and aims to provide numerical results
+  for various tidal constituents.

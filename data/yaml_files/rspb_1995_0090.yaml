@@ -1,0 +1,15 @@
+article_id: rspb_1995_0090
+revised_title: Contrast Ratio Constraint in Stereo Matching
+scientific_discipline: Psychology > Visual Perception
+semantic_tags:
+- Stereopsis
+- Contrast sensitivity
+- Computational models
+- Depth perception
+- Visual perception
+tldr: The authors conducted experiments to understand how contrast affects stereo
+  matching in depth perception. They discovered that only features with a certain
+  ratio of contrasts in the two eyes match, and increasing the contrast in one eye
+  requires proportionally more contrast in the other eye for matching. This contrast
+  ratio constraint helps eliminate false matches and reduce matching ambiguity, improving
+  the accuracy of depth perception.

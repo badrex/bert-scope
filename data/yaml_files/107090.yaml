@@ -1,0 +1,14 @@
+article_id: '107090'
+revised_title: A Theorem for Calculating Portions of a Sphere's Solidity
+scientific_discipline: Mathematics > Geometry
+semantic_tags:
+- Geometry
+- Calculus
+- Solid geometry
+- Integration
+- Theorems
+tldr: The author presents a theorem that calculates the portions of a sphere's solidity
+  that can be expressed algebraically. The theorem involves integrating over three
+  rectangular coordinates and transforming the expressions to simplify the calculations.
+  This theorem can be used to find the surface area of two cylinders included in a
+  sphere and the length of the curve formed by their intersection.

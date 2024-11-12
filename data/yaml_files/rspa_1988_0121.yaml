@@ -1,0 +1,15 @@
+article_id: rspa_1988_0121
+revised_title: Matrix Wiener-Hopf Factorization for Sound Scattering by Staggered
+  Plates
+scientific_discipline: Physics > Acoustics
+semantic_tags:
+- Acoustics
+- Wave Scattering
+- Wiener-Hopf Technique
+- Matrix Factorization
+- Boundary Value Problems
+tldr: The authors study the scattering of sound waves by two semi-infinite parallel
+  staggered plates using the Wiener-Hopf technique. They develop an explicit matrix
+  Wiener-Hopf factorization to solve the problem and derive an asymptotic expression
+  for the field scattered to infinity. This work contributes to understanding sound
+  scattering and has applications in acoustics and engineering.

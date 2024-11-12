@@ -1,0 +1,14 @@
+article_id: rsta_1992_0113
+revised_title: Advanced Numerical Methods for the Euler Equations in Fluid Dynamics
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Fluid Dynamics
+- Numerical Methods
+- Riemann Problem
+- Hyperbolic Conservation Laws
+- Euler Equations
+tldr: The author presents the weighted average flux method (WAF) for solving the Euler
+  equations of gas dynamics, improving upon previous methods like Godunov's method.
+  The WAF method achieves second-order accuracy and can be adapted to one and two-dimensional
+  problems. The article also discusses the construction of oscillation-free versions
+  of the method and provides numerical results for various test problems.

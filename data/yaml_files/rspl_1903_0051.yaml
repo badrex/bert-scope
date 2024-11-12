@@ -1,0 +1,17 @@
+article_id: rspl_1903_0051
+revised_title: Symmetrical Optical Objectives and Their Aberrations
+scientific_discipline: Engineering and Technology > Optical Design
+semantic_tags:
+- Optical design
+- Lens aberrations
+- Symmetrical objectives
+- Astigmatism
+- Spherical aberration
+tldr: The author investigates the relations between the aberrations of a lens system
+  with a front stop and the compound system formed by two such systems symmetrically
+  disposed with respect to the stop. They use Hamilton's characteristic function adapted
+  by Maxwell and express the optical length between points in the medium. The author
+  finds that it is impossible to exactly satisfy all aberration conditions, but they
+  provide methods to obtain the minimum residual error for a given stop and field.
+  They also discuss the conditions for stigmatic correction and no distortion in symmetrical
+  objectives.

@@ -1,0 +1,13 @@
+article_id: '107336'
+revised_title: Efficient Rectification of the Hyperbola Using Ellipses
+scientific_discipline: Mathematics > Geometry
+semantic_tags:
+- Geometry
+- Conic Sections
+- Mathematical Theorems
+- Calculus
+- Descartes Circle Theorem
+tldr: The author presents a new theorem for rectifying the hyperbola using two ellipses,
+  which proves to be more efficient than previous methods. The theorem involves calculating
+  a constant quantity that differs between hyperbolic arches and their tangents, leading
+  to a simpler and less time-consuming process for rectifying the hyperbola.

@@ -1,0 +1,16 @@
+article_id: rsta_1996_0099
+revised_title: Uniting Electro-Optical Design and Digital Image Processing for Enhanced
+  Performance
+scientific_discipline: Engineering and Technology > Image Processing
+semantic_tags:
+- Image Restoration
+- Image Gathering
+- Digital Processing
+- Wiener Filter
+- Electro-Optical Design
+tldr: This paper explores the integration of electro-optical design and digital image
+  processing to improve the performance of image gathering and restoration. By accounting
+  for the critical limitations of image gathering and display, the authors develop
+  a Wiener filter that optimizes image restoration and enhance visual quality. The
+  study also discusses the use of multiresponse image gathering and Wiener-matrix
+  filters to restore images with finer resolution than the sampling interval.

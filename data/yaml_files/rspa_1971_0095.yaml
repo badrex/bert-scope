@@ -1,0 +1,15 @@
+article_id: rspa_1971_0095
+revised_title: Numerical Analysis of Singularities in Linear Elliptic Partial Differential
+  Equations
+scientific_discipline: Mathematics > Numerical Analysis
+semantic_tags:
+- Numerical Analysis
+- Partial Differential Equations
+- Singularities
+- Finite-Difference Methods
+- Error Analysis
+tldr: The authors discuss numerical methods for analyzing singularities in linear
+  elliptic partial differential equations, focusing on finite-difference methods and
+  error analysis. They propose methods to reduce the amount of work required, such
+  as using graded nets and special equations near singular points. Two practical examples
+  are provided, one in Cartesian coordinates and one in cylindrical polar coordinates.

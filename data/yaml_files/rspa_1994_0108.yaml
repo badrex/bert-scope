@@ -1,0 +1,16 @@
+article_id: rspa_1994_0108
+revised_title: 'Time-Domain Asymptotics of Double Integrals: General Theory and Applications'
+scientific_discipline: Mathematics > Asymptotic Analysis
+semantic_tags:
+- Asymptotic Analysis
+- Double Integrals
+- Time-Domain Asymptotics
+- Stationary Phase
+- Integral Transforms
+tldr: This article presents a general theory for obtaining asymptotic formulae for
+  time-domain waveforms associated with double integrals of rapidly-varying isolated
+  pulses. The method is an extension of the time-domain asymptotics of single integrals
+  and represents a generalization of the method of stationary phase to integrals with
+  non-sinusoidal integrands. The author demonstrates the efficacy of the asymptotic
+  scheme for a particular example and discusses the transitional case of the coalescence
+  of interior stationary points.

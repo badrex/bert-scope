@@ -1,0 +1,17 @@
+article_id: rsta_1975_0023
+revised_title: Asymptotic Approximations for Second-Order Linear Differential Equations
+  with Two Turning Points
+scientific_discipline: Mathematics > Differential Equations
+semantic_tags:
+- Differential Equations
+- Asymptotic Analysis
+- Parabolic Cylinder Functions
+- Turning Points
+- Liouville Transformation
+tldr: This article investigates second-order linear differential equations with two
+  turning points, focusing on large values of a real parameter. The author applies
+  the Liouville transformation to convert the differential equation into one of four
+  standard forms with continuous coefficients. Asymptotic approximations are constructed
+  using parabolic cylinder functions, which are valid for large values of the parameter
+  and are uniform with respect to the parameter and the turning points. The paper
+  also includes new properties of parabolic cylinder functions.

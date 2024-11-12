@@ -1,0 +1,15 @@
+article_id: rspa_1974_0142
+revised_title: Numerical Solution of Asymptotic Equations in Trailing Edge Flow
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Boundary Layer Theory
+- Trailing Edge Flow
+- Triple-Deck Structure
+- Numerical Solution
+tldr: The authors present a numerical solution for the trailing edge flow problem,
+  focusing on the triple-deck structure. They discuss the mathematical problem, boundary
+  conditions, and provide relevant formulas for comparison with the numerical solution.
+  The study aims to resolve the discontinuity in transverse velocity and pressure
+  gradient near the trailing edge of an airfoil, contributing to a better understanding
+  of the flow dynamics in this region.

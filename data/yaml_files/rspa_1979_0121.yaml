@@ -1,0 +1,14 @@
+article_id: rspa_1979_0121
+revised_title: Rescaling Perturbation Series for Schrödinger Eigenvalue Problems
+scientific_discipline: Physics > Quantum Mechanics
+semantic_tags:
+- Quantum Mechanics
+- Perturbation Theory
+- Schrödinger Equation
+- Eigenvalues
+- Rescaling
+tldr: The article demonstrates that rescaling a perturbation series can yield accurate
+  analytic approximations to eigenvalues in divergent-asymptotic perturbation problems.
+  This approach is applied to various regimes, including the perturbation regime and
+  the W.K.B. regime, and is shown to be effective in accurately estimating eigenvalues
+  for Schrödinger eigenvalue problems.

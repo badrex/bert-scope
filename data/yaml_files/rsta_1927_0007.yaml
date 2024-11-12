@@ -1,0 +1,16 @@
+article_id: rsta_1927_0007
+revised_title: 'Investigating Periodicities in Disturbed Series: A Case Study on Sunspot
+  Numbers'
+scientific_discipline: Environmental and Earth Sciences > Climatology
+semantic_tags:
+- Time series analysis
+- Sunspot activity
+- Periodogram analysis
+- Disturbances in data
+- Statistical methods
+tldr: The author presents a method for investigating periodicities in disturbed series,
+  using sunspot numbers as a case study. They demonstrate that periodogram analysis
+  is less effective when dealing with disturbed data, and propose an alternative approach
+  to account for disturbances in the data. The author finds that the graph of sunspot
+  numbers is smooth with varying amplitudes and phases, suggesting that the data is
+  more complex than simple periodic fluctuations.

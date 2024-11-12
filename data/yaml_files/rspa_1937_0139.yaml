@@ -1,0 +1,14 @@
+article_id: rspa_1937_0139
+revised_title: Numerical Methods for Deflexion of Beams under Transverse Loading
+scientific_discipline: Engineering and Technology > Mechanical Engineering
+semantic_tags:
+- Beam deflection
+- Engineering mechanics
+- Numerical integration
+- Relaxation methods
+- Structural analysis
+tldr: The authors present two numerical methods for solving engineering problems related
+  to the deflexion of beams under transverse loading. The first method is a straightforward
+  application of numerical integration, while the second method is a novel application
+  of the relaxation method. Both methods provide accurate results for practical purposes
+  and can be used to solve various problems in beam deflection and structural analysis.

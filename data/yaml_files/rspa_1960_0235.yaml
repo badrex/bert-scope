@@ -1,0 +1,16 @@
+article_id: rspa_1960_0235
+revised_title: Method for Determining Frequency Spectra of Disordered Lattices in
+  Two-Dimensions
+scientific_discipline: Mathematics > Linear Algebra
+semantic_tags:
+- Lattice vibrations
+- Two-dimensional lattices
+- Disordered systems
+- Computational method
+- Negative eigenvalue theorem
+tldr: The authors present a theorem, known as the negative eigenvalue theorem, which
+  can be used to determine the frequency spectra of disordered lattices in two dimensions.
+  They apply this theorem to the problem of lattice vibrations and demonstrate its
+  effectiveness in finding the eigenvalue distribution of matrices related to these
+  systems. The method offers a direct and efficient way to compute frequency spectra
+  for two-dimensional lattices, overcoming some limitations of previous techniques.

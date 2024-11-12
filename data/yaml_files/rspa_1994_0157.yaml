@@ -1,0 +1,16 @@
+article_id: rspa_1994_0157
+revised_title: Stabilizing the No-Motion State in the Rayleigh-Bénard Problem Using
+  Feedback Control
+scientific_discipline: Physics > Fluid dynamics
+semantic_tags:
+- Fluid dynamics
+- Rayleigh-Bénard convection
+- Fluid control
+- Stability theory
+- Feedback control systems
+tldr: The authors demonstrate that the no-motion state in the Rayleigh-Bénard problem
+  can be significantly stabilized using a feedback controller. They propose two control
+  strategies, one utilizing temperature sensors and thermal actuators, and the other
+  using velocity sensors and actuators. Linear stability analysis shows that the critical
+  Rayleigh number for the onset of convection can be increased with the aid of the
+  controller, delaying the transition to motion.

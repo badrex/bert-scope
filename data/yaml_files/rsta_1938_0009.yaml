@@ -1,0 +1,15 @@
+article_id: rsta_1938_0009
+revised_title: Application of the Phase Integral Method to Wireless Waves Propagation
+scientific_discipline: Physics > Electromagnetic Waves
+semantic_tags:
+- Wireless Communication
+- Diffraction
+- Refraction
+- Electromagnetic Waves
+- Earth Conductivity
+tldr: The authors apply the phase integral method to analyze the diffraction and refraction
+  of wireless waves around the Earth. They extend Watson's original analysis to consider
+  the finite conductivity of the Earth and the effect of elevated transmitters and
+  receivers. The phase integral method provides a solution to the problem and can
+  be extended to account for the gradient of refractive index in the atmosphere above
+  the Earth.

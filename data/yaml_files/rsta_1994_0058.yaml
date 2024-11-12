@@ -1,0 +1,16 @@
+article_id: rsta_1994_0058
+revised_title: 'Super-Replicating Strategies in Finance: A Critique'
+scientific_discipline: Mathematics > Finance
+semantic_tags:
+- Finance
+- Option Pricing
+- Transaction Costs
+- Black-Scholes Theory
+- Portfolio Management
+tldr: This article examines the concept of super-replicating strategies in finance,
+  which are trading strategies that ensure the value of a portfolio is always greater
+  than or equal to the value of an option at the exercise time. The authors argue
+  that super-replicating strategies do not form the basis for a viable theory of option
+  pricing in continuous time, as they do not lead to tighter bounds on feasible option
+  prices. Instead, alternative approaches based on maximizing portfolio performance
+  are more suitable for dealing with transaction costs and market friction.

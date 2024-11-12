@@ -1,0 +1,18 @@
+article_id: rsta_1980_0043
+revised_title: Improving Geodetic Positioning Accuracy with Satellite Doppler Tracking
+  Techniques
+scientific_discipline: Environmental and Earth Sciences > Geodesy
+semantic_tags:
+- Satellite Geodesy
+- Doppler Tracking
+- Orbit Relaxation
+- Short Arc Method
+- Geodetic Applications
+tldr: The article discusses the use of satellite Doppler tracking and its geodetic
+  applications, specifically focusing on the orbit relaxation and short arc methods.
+  These techniques improve the relative positioning accuracy of tracking stations
+  by overcoming issues with satellite ephemeris and random jumps in satellite coordinates.
+  The methods were tested using a 900 km precise terrestrial traverse in the United
+  Kingdom, comparing the results with the traverse's geodetic coordinates of high
+  accuracy. The findings show that these techniques can lead to substantial improvements
+  in positioning accuracy.

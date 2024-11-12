@@ -1,0 +1,15 @@
+article_id: rspa_1951_0129
+revised_title: Convergent Iterative Procedures for Eigenvalue Problems
+scientific_discipline: Mathematics > Linear Algebra
+semantic_tags:
+- Eigenvalue problems
+- Relaxation methods
+- Linear algebra
+- Numerical methods
+- Convergence
+tldr: The article discusses three iterative procedures related to relaxation methods
+  for solving eigenvalue problems in systems with a finite number of degrees of freedom.
+  The procedures exhibit quadratic, geometric, and cubic convergence, and they are
+  shown to be within the framework of the relaxation method. The study investigates
+  the convergence and behavior of the relaxation method and provides guiding principles
+  for the relaxation computer.

@@ -1,0 +1,15 @@
+article_id: rspa_1976_0042
+revised_title: Enumeration Methods and Number Approximations in Many-Body Diagrams
+scientific_discipline: Mathematics > Combinatorics
+semantic_tags:
+- Group Theory
+- Many-Body Theory
+- Combinatorics
+- Enumerations
+- Approximations
+tldr: The authors develop a method to enumerate and approximate the number of diagrams
+  in many-body theory using group theory and combinatorial techniques. They provide
+  a transversal theorem to simplify the problem of listing diagrams in higher orders
+  and present an asymptotic formula for the number of diagrams. Additionally, they
+  propose a simplified method for evaluating exchange-equivalent diagrams, which is
+  useful for understanding the behavior of complex systems.

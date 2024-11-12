@@ -1,0 +1,13 @@
+article_id: rspa_1966_0245
+revised_title: Challenges in Modeling Neural Networks with Interacting Spins
+scientific_discipline: Physics > Optics
+semantic_tags:
+- Neural Networks
+- Spin Interactions
+- Quantum Mechanics
+- Ferromagnetic Materials
+- Hamiltonian
+tldr: The article examines the analogy between neural networks and aggregates of spins
+  in ferromagnetic materials, proposing a Hamiltonian to represent the neural network's
+  evolution. However, the Hamiltonian is found to be non-Hermitian, which raises difficulties
+  in its application and reduces the practical value of the analogy.

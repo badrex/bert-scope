@@ -1,0 +1,17 @@
+article_id: rspb_1984_0036
+revised_title: Vertex Analysis of Purkinje Cell Dendritic Trees in the Cerebellum
+  of the Rat
+scientific_discipline: Biology and Life Sciences > Neuroscience
+semantic_tags:
+- Neuroscience
+- Dendritic Trees
+- Purkinje Cells
+- Cerebellum
+- Network Analysis
+tldr: The authors conducted a vertex analysis of Purkinje cell dendritic trees in
+  the cerebellum of rats. They found that the mean number of segments in the trees
+  was 881, with segment lengths being longest over proximal segments. The growth of
+  the Purkinje cell tree was most closely simulated by a random terminal growth model,
+  incorporating 5% trichotomy, where branching of higher order terminals was more
+  likely than lower order terminals. This study provides a comprehensive methodology
+  for analyzing branching structures in neural networks.

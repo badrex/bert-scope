@@ -1,0 +1,14 @@
+article_id: rspa_1957_0221
+revised_title: High-Speed Digital Computer for Crystal Structure Determination
+scientific_discipline: Physics > Crystallography
+semantic_tags:
+- Crystallography
+- Fourier series
+- Digital computing
+- Electron density
+- Nitroguanidine
+tldr: The authors developed a method using a high-speed digital computer to directly
+  determine crystal structures by selecting sets of signs for Fourier series coefficients
+  that satisfy specific criteria. They tested this method on nitroguanidine and found
+  that it effectively narrowed down the search for the correct set of signs, leading
+  to successful determination of the crystal structure.

@@ -1,0 +1,15 @@
+article_id: rspb_1979_0006
+revised_title: Computational Approach to Structure from Motion Interpretation
+scientific_discipline: Computer Science > Computer Vision
+semantic_tags:
+- Computer Vision
+- Computational Geometry
+- 3D Reconstruction
+- Motion Perception
+- Rigidity Assumption
+tldr: The author examines the computational problems of interpreting structure from
+  motion and proposes a scheme that can infer the three-dimensional structure and
+  motion of objects from two-dimensional projections. The rigidity assumption is introduced
+  to constrain the interpretation and reduce the number of possible solutions. The
+  scheme is applicable to both orthographic and perspective projections, providing
+  a computational approach to understanding the perception of structure from motion.

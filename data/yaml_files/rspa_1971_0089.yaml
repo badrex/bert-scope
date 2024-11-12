@@ -1,0 +1,14 @@
+article_id: rspa_1971_0089
+revised_title: Three-Dimensional Melting and Solidification of a Slab
+scientific_discipline: Engineering and Technology > Heat Transfer
+semantic_tags:
+- Heat Conduction
+- Melting and Solidification
+- Thermal Analysis
+- Material Properties
+- Heat Transfer
+tldr: The authors develop a closed-form solution for the melting or solidification
+  of a half-space under a general surface heat input. They use the embedding technique
+  to show that the shape of the phase interface is a universal function, independent
+  of the heat input distribution and material properties. The solution is useful for
+  understanding the initial stages of melting and solidification processes in materials.

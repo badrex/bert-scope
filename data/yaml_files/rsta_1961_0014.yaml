@@ -1,0 +1,15 @@
+article_id: rsta_1961_0014
+revised_title: Classes of Extensions and Resolutions in Homological Algebra
+scientific_discipline: Mathematics > Category Theory
+semantic_tags:
+- Homological Algebra
+- Category Theory
+- Extensions
+- Resolutions
+- Derived Functors
+tldr: The article discusses the concept of classes of extensions and resolutions in
+  homological algebra. It introduces -functors, which are used to construct resolutions
+  and derive functors. The article also explores the relations between derived functors
+  and the construction of relative homological algebras using ideals in the ring of
+  endomorphisms or pairs of adjoint functors. The concepts are applied to group theory,
+  spectral sequences, and sheaf theory.

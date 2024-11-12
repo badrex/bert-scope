@@ -1,0 +1,17 @@
+article_id: rspa_1971_0125
+revised_title: Superconducting-Normal Interface Resistance in Mixed Systems
+scientific_discipline: Physics > Electromagnetism
+semantic_tags:
+- Superconductivity
+- Electrical resistance
+- Andreev reflection
+- S-N interfaces
+- Boltzmann equation
+tldr: The authors investigated the temperature dependence of electrical resistance
+  in superconducting-normal (S-N) interfaces using a Clarke 'Slug' in mixed systems.
+  They found that the resistance rises as the transition temperature is approached
+  from below, and the main effect takes place above the energy gap. The resistance
+  rise is attributed to the penetration of excitations above the gap from the normal
+  metal into the superconductor and vice versa. The transport equation for the excitations
+  is solved for a simplified one-dimensional model, and the solution demands a potential
+  step at the boundary, which is the mechanism of the observed additional resistance.

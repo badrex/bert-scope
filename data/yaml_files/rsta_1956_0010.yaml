@@ -1,0 +1,15 @@
+article_id: rsta_1956_0010
+revised_title: 'Wave Generation in Elastic Solids: Variable Body Forces'
+scientific_discipline: Physics > Solid Mechanics
+semantic_tags:
+- Elasticity
+- Solid Mechanics
+- Seismology
+- Stress Analysis
+- Fourier Transforms
+tldr: This paper explores the distribution of stress in an infinite elastic solid
+  when time-dependent body forces act on certain regions of the solid. The authors
+  derive a general solution using four-dimensional Fourier transforms and apply it
+  to various problems, including two-dimensional and axially symmetrical cases. The
+  study is important for understanding stress distribution in soil mechanics, foundation
+  theory, and other branches of applied mathematics.

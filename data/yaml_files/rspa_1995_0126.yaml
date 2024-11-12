@@ -1,0 +1,17 @@
+article_id: rspa_1995_0126
+revised_title: Stochastic Subgrid-Scale Fluxes and Their Impact on Turbulence Energy
+  and Scalar Variance
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Turbulence Modeling
+- Large-Eddy Simulation
+- Stochastic Effects
+- Subgrid-Scale Fluxes
+- Reynolds Averaging
+tldr: This article introduces a stochastic subgrid-scale model for large-eddy simulation,
+  which accounts for the effects of random motions on resolved scales of incompressible
+  turbulent flows. The model extends the Smagorinsky-Lilly model by adding random
+  stresses and fluxes, reducing the correlation between stresses and strain rates.
+  The random stresses induce random accelerations and backscatter energy from small
+  to large scales, improving the simulation of isotropic turbulence and increasing
+  the turbulent Prandtl number.

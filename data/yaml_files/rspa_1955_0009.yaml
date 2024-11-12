@@ -1,0 +1,16 @@
+article_id: rspa_1955_0009
+revised_title: Numerical Analysis of Spherical Blast Development from a Particular
+  Charge
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Blast wave physics
+- Explosives
+- Numerical integration
+- Method of characteristics
+- Shock waves
+tldr: The authors analyze the growth of spherical blast from a particular charge using
+  numerical integration of equations of motion along characteristics. They calculate
+  the complete field of disturbance and motion of boundaries during the early stages
+  of development, revealing a rapid decline in pressure along both shocks. The study
+  confirms a property of the second blast wave, which turns towards the center of
+  the explosion after initial outward movement.

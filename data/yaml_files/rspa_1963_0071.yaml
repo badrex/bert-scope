@@ -1,0 +1,15 @@
+article_id: rspa_1963_0071
+revised_title: 'Nuclear Shell Model: Calculating Spectra with Cartesian Basis'
+scientific_discipline: Physics > Nuclear Physics
+semantic_tags:
+- Nuclear Physics
+- Shell Model
+- Group Theory
+- Quantum Mechanics
+- Spectroscopy
+tldr: The authors present a method for calculating matrix elements of a two-body interaction
+  in wave functions classified by the group in the nuclear shell model. They introduce
+  a Cartesian basis where all three components of the oscillator Hamiltonian are separately
+  diagonal, simplifying the construction of wave functions and the projection of states
+  from a single intrinsic function. This method is applied to the calculation of spectra
+  for even-even nuclei in the mass region 1.

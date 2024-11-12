@@ -1,0 +1,16 @@
+article_id: rspa_1973_0071
+revised_title: Hydrogen-Atom Recombination Monte-Carlo Simulation
+scientific_discipline: Chemistry > Quantum Chemistry
+semantic_tags:
+- Quantum Chemistry
+- Molecular Dynamics
+- Hydrogen Recombination
+- Three-Body Reactions
+- Computational Chemistry
+tldr: The authors conducted a Monte-Carlo simulation to study the recombination of
+  hydrogen atoms using a third hydrogen atom. They found that the cross-section for
+  direct stabilization is small and insensitive to the relative velocity, while the
+  cross-section for exchange stabilization is large at low velocities and decreases
+  rapidly as the relative velocity increases. The calculated rate constant is of the
+  right order of magnitude but does not exhibit the anomalous features observed experimentally
+  at higher temperatures.

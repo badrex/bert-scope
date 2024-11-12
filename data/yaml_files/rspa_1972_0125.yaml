@@ -1,0 +1,15 @@
+article_id: rspa_1972_0125
+revised_title: Dispersion from Prescribed Concentration Distributions in Time Variable
+  Flow
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Convective Diffusion
+- Boundary-Value Problems
+- Unsteady Flow
+- Laminar Flow
+tldr: The authors present an exact method for solving unsteady convective diffusion
+  boundary-value problems, focusing on dispersion from a prescribed concentration
+  distribution in time variable flow. They demonstrate the method by analyzing dispersion
+  from a partial step change at the inlet to a tube in steady laminar flow, providing
+  a solution for the mean concentration distribution.

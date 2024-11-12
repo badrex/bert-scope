@@ -1,0 +1,15 @@
+article_id: rspa_1996_0074
+revised_title: Analytical Solution for Wilson Point in Homogeneously Nucleating Flows
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Condensation
+- Homogeneous Nucleation
+- Steam
+- Two-Phase Flow
+- Fluid Dynamics
+tldr: The authors present an analytical method to calculate conditions at the Wilson
+  point in a nucleating flow, which is crucial for predicting flow behavior downstream.
+  The method is applicable to a wide range of steam pressures and provides insight
+  into the dependency of steam properties at the Wilson point on controlling parameters
+  such as the rate of pressure decrease. This approach simplifies the calculation
+  process and reduces the need for extensive computational resources.

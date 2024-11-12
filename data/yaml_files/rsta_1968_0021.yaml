@@ -1,0 +1,18 @@
+article_id: rsta_1968_0021
+revised_title: Development of Noise Rating Contours for Predicting Speech Interference
+  in Industrial Environments
+scientific_discipline: Acoustics > Noise Control
+semantic_tags:
+- Noise Control
+- Acoustics
+- Industrial Noise
+- Speech Interference
+- Sound Level Meters
+tldr: The article discusses the development of noise rating contours to predict speech
+  interference in industrial environments. The authors propose a new contour, s.i.
+  70, which can be used as a filter network, a tangent-to-curve determiner, or an
+  averaging curve to find an s.i.l. The new contour outperforms existing A weighting,
+  n.c., n.c.a., and i.s.o. curves in predicting speech-interfering properties of noise.
+  The authors plan to develop a set of contours at higher and lower decibel levels
+  to rate spaces where noise levels exceed n.c. 55 but work must continue, including
+  voice communications.

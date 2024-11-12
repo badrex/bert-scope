@@ -1,0 +1,15 @@
+article_id: rspa_1956_0100
+revised_title: Iterative Construction of the Density Matrix in Self-Consistent Field
+  Theory
+scientific_discipline: Chemistry > Quantum Chemistry
+semantic_tags:
+- Quantum Chemistry
+- Density Matrix Theory
+- Self-Consistent Field Theory
+- Molecular Orbital Theory
+- Computational Chemistry
+tldr: The authors present an iterative method for constructing the density matrix
+  in self-consistent field theory, which involves only matrix algebra and approaches
+  the accurate solution of Hartree-Fock equations with less computation. This method
+  can be extended to include configuration-interaction calculations and provides a
+  more efficient way to determine molecular orbitals in molecular theory.

@@ -1,0 +1,16 @@
+article_id: rspa_1995_0052
+revised_title: Time-Harmonic Elastodynamic Green's Function for Anisotropic Solids
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Elastodynamics
+- Anisotropic solids
+- Green's function
+- Radon transform
+- Wave equations
+tldr: The authors present a method using the Radon transform to determine the displacement
+  field in an anisotropic solid due to a time-harmonic point force. The method reduces
+  the system of coupled partial differential equations to a system of uncoupled 1-D
+  Helmholtz equations, which can be solved easily. The resulting displacements are
+  a summation of a regular elastodynamic term and a singular static term, both integrals
+  over a unit sphere. This method allows for an efficient and relatively simple calculation
+  of time-harmonic Green's functions for general anisotropic solids.

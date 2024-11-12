@@ -1,0 +1,15 @@
+article_id: rspa_1985_0041
+revised_title: Fourier Deconvolution Techniques for Electron Energy-Loss Spectra
+scientific_discipline: Physics > Optics
+semantic_tags:
+- Electron Microscopy
+- Fourier Transform
+- Deconvolution
+- Energy-Loss Spectroscopy
+- Plasmon Spectra
+tldr: The authors present two Fourier-transform deconvolution methods to remove plural
+  scattering from electron energy-loss spectra, improving the sensitivity and accuracy
+  of core-elemental analysis. The Fourier-ratio method is applicable to inner-shell
+  edges, while the Fourier-log method can be applied to any energy-loss spectrum.
+  These techniques enhance the quality of plasmon and core-loss spectra, making it
+  possible to obtain reproducible results from thicker samples.

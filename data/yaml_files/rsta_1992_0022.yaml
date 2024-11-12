@@ -1,0 +1,15 @@
+article_id: rsta_1992_0022
+revised_title: Formal Verification and Transformation in Microprocessor Design
+scientific_discipline: Engineering and Technology > Computer Science
+semantic_tags:
+- Microprocessor Design
+- Formal Verification
+- Computer-Aided Design
+- Programming Languages
+- Algebraic Semantics
+tldr: The article discusses the use of mathematical techniques and formal program
+  specification in the design of microprocessors. The authors describe their experience
+  with a formally verified version of a floating-point package, which was used in
+  the design of the T800 microprocessor. They also introduce the Occam transformation
+  system, which helps in transforming and verifying programs, ensuring their correctness
+  and efficiency.

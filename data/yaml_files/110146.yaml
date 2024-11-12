@@ -1,0 +1,13 @@
+article_id: '110146'
+revised_title: Correction of Solar Tables and Mr. South's Observations
+scientific_discipline: Astronomy > Celestial Mechanics
+semantic_tags:
+- Astronomy
+- Solar System
+- Celestial Mechanics
+- Nautical Almanac
+- Error Analysis
+tldr: The author analyzes discrepancies in solar tables and Mr. South's observations.
+  They conclude that the errors mainly arise from an error in the epoch and an error
+  in the place of the perigee. The author suggests correcting the solar tables by
+  increasing the epochs of the sun by 9" and the epochs of the perigee each by 1'48".

@@ -1,0 +1,15 @@
+article_id: rspa_1990_0051
+revised_title: Universal Transition Histories in Adiabatic Quantum Systems
+scientific_discipline: Physics > Quantum Mechanics
+semantic_tags:
+- Quantum Mechanics
+- Adiabatic Approximation
+- Superadiabatic Bases
+- Transition Amplitude
+- Quantum Transition
+tldr: The author studies the way in which the transition amplitude to an initially
+  unoccupied state increases to its exponentially small final value in the adiabatic
+  approximation for a 2-state quantum system. By transforming to a series of superadiabatic
+  bases, the transition histories renormalize onto a universal one, in which the amplitude
+  grows to its final value as an error function. This universal transition history
+  can be observed in spin experiments.

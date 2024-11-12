@@ -1,0 +1,13 @@
+article_id: '112513'
+revised_title: 'Euler''s Number Calculation: A Third Supplementary Paper'
+scientific_discipline: Mathematics > Number Theory
+semantic_tags:
+- Mathematics
+- Number Theory
+- Euler's Number
+- Approximation
+- Decimal Precision
+tldr: This paper discusses the calculation of Euler's number (e) using increasingly
+  larger values of n. The author, William Shanks, shares his findings on the decimal
+  precision of e when n is set to 5000. He speculates that at least 56 decimal places
+  will remain unchanged as n increases further.

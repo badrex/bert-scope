@@ -1,0 +1,18 @@
+article_id: rspa_1969_0039
+revised_title: Order of Accuracy of Born-Oppenheimer Approximation for Molecular Collision
+  States
+scientific_discipline: Physics > Quantum Chemistry
+semantic_tags:
+- Quantum Chemistry
+- Molecular Physics
+- Scattering Theory
+- Adiabatic Approximation
+- Born-Oppenheimer Approximation
+tldr: The article examines the accuracy of the Born-Oppenheimer approximation for
+  molecular collision states. It develops an integral equation for the transition
+  matrix and uses an asymptotic expansion for the electronic Hamiltonian and energy
+  to show that the adiabatic approximation yields a -matrix correct up to the order
+  of. A similar treatment is applied to the Lippmann-Schwinger equation for the total
+  wavefunction, leading to the conclusion that the adiabatic approximation for the
+  latter is correct up to the order of. These results are subject to the condition
+  that the electronic energy is not degenerate.

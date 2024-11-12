@@ -1,0 +1,14 @@
+article_id: rspa_1958_0177
+revised_title: Solving Non-Linear Waves in Sloping Channels with Elliptic Integrals
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Water Waves
+- Elliptic Integrals
+- Hydraulic Equations
+- Channel Slope
+tldr: The author presents a method to solve non-linear waves in sloping channels using
+  elliptic integrals. They transform the problem into a horizontal channel, allowing
+  for easier calculations and obtaining the exact solution for the water wave in a
+  sloping channel produced by the sudden release of a triangular wedge of water. The
+  method can be applied to various problems related to surface run-off and flash floods.

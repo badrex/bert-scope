@@ -1,0 +1,17 @@
+article_id: rsta_1962_0013
+revised_title: 'Impact of a Rigid Circular Cylinder on an Elastic Solid: Analyzing
+  the Dynamics'
+scientific_discipline: Physics > Solid Mechanics
+semantic_tags:
+- Elasticity
+- Solid Mechanics
+- Impact Mechanics
+- Numerical Computation
+- Boundary Value Problems
+tldr: This article presents a method for approximating the solution to a problem involving
+  an elastic body hit by a rigid circular cylinder. The study considers various conditions
+  for the relative motion of particles in the contact area, representing perfect lubrication,
+  degrees of viscous friction, and perfect adherence. The author provides a scheme
+  of approximations that can be carried to any desired degree of accuracy, calculates
+  the excitation of the elastic body outside the contact area, and offers formulas
+  that can be easily programmed for a high-speed computer.

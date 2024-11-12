@@ -1,0 +1,14 @@
+article_id: rspa_1991_0058
+revised_title: 'Singularities in Acoustics and Electrodynamics: A New Perspective'
+scientific_discipline: Physics > Electromagnetic Theory
+semantic_tags:
+- Electromagnetic Theory
+- Acoustics
+- Wave Equations
+- Green's Function
+- Near-Field Phenomena
+tldr: The author explores the near-field singularity in acoustics and electrodynamics
+  using the spiral Green's function. They discover a new type of singularity that
+  arises from smooth source densities and initial data, rather than from singular
+  sources. This singularity is caused by ill-posed initial data and has implications
+  for the behavior of waves in the near-field region.

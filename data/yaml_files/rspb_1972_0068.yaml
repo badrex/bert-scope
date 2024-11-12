@@ -1,0 +1,16 @@
+article_id: rspb_1972_0068
+revised_title: Direct Methods for Three-dimensional Reconstruction from Projections
+  in Electron Microscopy
+scientific_discipline: Physics > Optics
+semantic_tags:
+- Electron microscopy
+- Image reconstruction
+- Fourier transforms
+- Direct methods
+- Three-dimensional structure
+tldr: The article describes a direct method for reconstructing three-dimensional structures
+  from projections in electron microscopy. The method, known as back-projection, involves
+  summing projected densities and subtracting a constant term. The authors show that
+  this method is equivalent to Fourier synthesis using central sections of the Fourier
+  transform of the object. The method is suitable for specimens with rotational or
+  helical symmetry and can be used to improve the resolution of electron micrographs.

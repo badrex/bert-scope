@@ -1,0 +1,14 @@
+article_id: rspa_1955_0172
+revised_title: Compressible Boundary Layer Equations with Heat Transfer
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Boundary Layer Theory
+- Heat Transfer
+- Compressible Flow
+- Aerodynamics
+tldr: The author integrates the boundary-layer equations for a plane in compressible
+  flow with heat transfer, providing semi-convergent expressions for temperature and
+  velocity distributions in the boundary layer, drag coefficient, and their dependence
+  on physical constants. The results agree closely with Crocco's numerical computations
+  for certain temperature conditions.

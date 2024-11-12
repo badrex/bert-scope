@@ -1,0 +1,15 @@
+article_id: rsta_1903_0018
+revised_title: 'Quaternions and Projective Geometry: Applications and Interpretations'
+scientific_discipline: Mathematics > Geometry
+semantic_tags:
+- Quaternion algebra
+- Projective geometry
+- Linear transformations
+- Vector calculus
+- Duality principle
+tldr: This article explores the use of quaternions in projective geometry, focusing
+  on their applications in linear transformations, vector calculus, and the duality
+  principle. The author demonstrates how quaternions can represent points and planes,
+  and discusses various notations and interpretations of quaternion arrays. The article
+  also covers the geometric character of transformations and the role of quaternions
+  in inversion functions.

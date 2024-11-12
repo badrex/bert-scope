@@ -1,0 +1,16 @@
+article_id: rspa_1990_0031
+revised_title: Hydrodynamic Forces on a Submerged Sphere Moving in a Circular Path
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Hydrodynamics
+- Sphere Motion
+- Potential Theory
+- Legendre Functions
+tldr: This article presents an analysis of the hydrodynamic forces on a submerged
+  sphere moving in a circular path using linearized potential theory. The authors
+  express the potential using a Green function and a distribution of sources over
+  the body surface, written in terms of Legendre functions. They obtain numerical
+  results for the tangential force, radial force, and lift on the sphere, moving in
+  circles of various radii. The study sheds light on the underlying hydrodynamic phenomena
+  associated with maneuvering.

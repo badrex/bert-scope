@@ -1,0 +1,14 @@
+article_id: rspb_1996_0017
+revised_title: 'Symmetry Detection in Visual Perception: A Model'
+scientific_discipline: Biology and Life Sciences > Visual Perception
+semantic_tags:
+- Visual Perception
+- Symmetry Detection
+- Gabor Filters
+- Spatial Phase
+- Local Feature Detection
+tldr: The author presents a model for detecting symmetry in visual perception using
+  local feature detection and spatial phase information. The model uses Gabor filters
+  to identify points of phase congruence and axes of symmetry, demonstrating that
+  symmetry detection is a widespread feature in visual systems, even in simple ones
+  like insects.

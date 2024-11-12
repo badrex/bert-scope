@@ -1,0 +1,16 @@
+article_id: rspa_1970_0058
+revised_title: Governing Equations for Compound Branching of Equilibrium Paths in
+  Conservative Systems
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Nonlinear Equilibrium
+- Bifurcation Theory
+- Structural Mechanics
+- Elasticity
+- Finite Element Analysis
+tldr: The article presents a general theory for analyzing the equilibrium paths of
+  conservative systems near compound branching points. It derives equations governing
+  the possible regular equilibrium paths through a point where one path is known,
+  focusing on the local quasi-static behavior of conservative systems. The theory
+  is applicable to any system whose potential energy depends on a finite number of
+  variables and has implications for nonlinear elasticity and structural mechanics.

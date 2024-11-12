@@ -1,0 +1,18 @@
+article_id: rspa_1994_0119
+revised_title: 'Generalized KPP Equations and Classical Mechanics: Approximate Travelling
+  Waves'
+scientific_discipline: Mathematics > Differential Equations
+semantic_tags:
+- Reaction-Diffusion Equations
+- Hamilton-Jacobi Theory
+- Feynman-Kac Formula
+- Stochastic Equations
+- Riemannian Manifolds
+tldr: This article studies the existence of approximate travelling waves in generalized
+  KPP equations using classical mechanics and the method of Elworthy and Truman. The
+  authors construct a classical path that is the backward flow of a Newtonian mechanics
+  with given initial position and velocity. They use the Feynman-Kac formula and the
+  Maruyama-Girsanov-Cameron-Martin transformation to obtain an identity that shows
+  the propagation of the global wave front and the shape of the trough. The theory
+  demonstrates how the initial distribution contributes to the propagation of the
+  travelling wave.

@@ -1,0 +1,15 @@
+article_id: rsta_1975_0024
+revised_title: Asymptotic Approximations for Legendre Functions with Both Parameters
+  Large
+scientific_discipline: Mathematics > Differential Equations
+semantic_tags:
+- Asymptotic Analysis
+- Differential Equations
+- Legendre Functions
+- Parabolic Cylinder Functions
+- Bessel Functions
+tldr: This article presents asymptotic approximations for associated Legendre functions
+  when both the degree and order are large. The approximations are expressed in terms
+  of parabolic cylinder functions and are uniformly valid with respect to the parameters.
+  The results apply to various intervals, including real and purely imaginary turning
+  points.

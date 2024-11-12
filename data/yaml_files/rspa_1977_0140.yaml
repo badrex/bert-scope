@@ -1,0 +1,15 @@
+article_id: rspa_1977_0140
+revised_title: Level Clustering in Regular Spectra of Harmonic Oscillators
+scientific_discipline: Physics > Quantum Mechanics
+semantic_tags:
+- Quantum Mechanics
+- Spectral Analysis
+- Harmonic Oscillators
+- Classical Mechanics
+- Statistical Mechanics
+tldr: The authors study the distribution of spacings between adjacent energy levels
+  in regular spectra of integrable systems, specifically focusing on harmonic oscillators.
+  They find that the levels are correlated and exhibit a repulsion between adjacent
+  levels, depending on the arithmetic nature of the frequency ratios of the oscillators.
+  This theory is supported by numerical experiments on two-dimensional systems involving
+  up to 10,000 levels.

@@ -1,0 +1,15 @@
+article_id: rsta_1978_0067
+revised_title: General Connection Formulae for Liouville-Green Approximations in the
+  Complex Plane
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Differential Equations
+- Asymptotic Analysis
+- Complex Analysis
+- Mathematical Physics
+- Applied Mathematics
+tldr: This article presents a method for connecting Liouville-Green approximations
+  in the complex plane, allowing for the construction of uniform asymptotic approximations
+  for solutions of differential equations. The method can be applied to cases with
+  multiple turning points of varying multiplicities, integral or fractional, and provides
+  a more efficient way to connect approximations in the complex domain.

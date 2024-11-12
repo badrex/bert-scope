@@ -1,0 +1,15 @@
+article_id: rspa_1967_0107
+revised_title: 'Transient Dispersion Problems in Laminar Tube Flow: A Series Solution'
+scientific_discipline: Engineering and Technology > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Mass Dispersion
+- Heat Transfer
+- Laminar Flow
+- Partial Differential Equations
+tldr: The authors present a series solution for the transient mass dispersion problem
+  in fully developed laminar flow in a tube. The method can be extended to more general
+  geometries and boundary conditions, making it useful for various practical applications
+  in heat transfer. The solution confirms the theoretical prediction of average concentration
+  distributions and provides accurate results for local concentration distribution
+  over a wide range of practical interest.

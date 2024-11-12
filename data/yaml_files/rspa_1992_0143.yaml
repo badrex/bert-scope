@@ -1,0 +1,15 @@
+article_id: rspa_1992_0143
+revised_title: Solving the Meridional Velocity Equation for Long-Period Zonal Tides
+scientific_discipline: Environmental and Earth Sciences > Oceanography
+semantic_tags:
+- Tidal Equations
+- Ocean Dynamics
+- Legendre Functions
+- Spheroidal Wave Equation
+- Long-Period Zonal Tides
+tldr: The author derives a meridional velocity equation, which is an inhomogeneous
+  form of the spheroidal wave equation, to solve the frictionless Laplace's tidal
+  equations for long-period zonal tides in a constant-depth global ocean. The solution
+  is obtained by expanding the meridional velocity in associated Legendre functions,
+  providing additional information on the structure of the tidal equations and allowing
+  for simpler recurrence relations for the solution coefficients.

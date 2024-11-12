@@ -1,0 +1,16 @@
+article_id: rsta_1972_0051
+revised_title: Gas Dynamics and Coordinate Perturbation Techniques
+scientific_discipline: Physics > Fluid Mechanics
+semantic_tags:
+- Gas Dynamics
+- Coordinate Perturbation
+- Multiple Scale Technique
+- Fluid Mechanics
+- Nonlinear Partial Differential Equations
+tldr: The article discusses the coordinate perturbation technique and its application
+  in gas dynamics. The authors present a simpler way of applying the technique, bypassing
+  the transformed equations and providing the appropriate coordinate stretching through
+  algebraic manipulations. They demonstrate the method's effectiveness in solving
+  gas-dynamical problems, such as flow fields around supersonic wings and oscillations
+  in closed tubes, and highlight the importance of supplementing the coordinate perturbation
+  technique with the multiple scale technique for accurate results.

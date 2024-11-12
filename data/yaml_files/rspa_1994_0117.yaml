@@ -1,0 +1,16 @@
+article_id: rspa_1994_0117
+revised_title: Receptivity of Görtler Vortices in Boundary Layer Flows
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Boundary Layer
+- Görtler Vortices
+- Wall Roughness
+- Blasius Flow
+tldr: This study investigates the receptivity problem for Görtler vortices in boundary
+  layer flows, focusing on the effects of wall roughness and distributed forcing.
+  The authors analyze the flow structure using an analytical technique and Laplace
+  transform solutions, finding that wall roughness is inefficient in stimulating small
+  wavelength Görtler vortices. They also demonstrate that the initial conditions for
+  numerical solutions need to be amended, providing new insights into the development
+  of vortices in boundary layer flows.

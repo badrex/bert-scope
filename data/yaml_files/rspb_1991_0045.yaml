@@ -1,0 +1,15 @@
+article_id: rspb_1991_0045
+revised_title: Algorithm for Associating Features of Two Images
+scientific_discipline: Computer Science > Computer Vision
+semantic_tags:
+- Image Processing
+- Computer Vision
+- Pattern Recognition
+- Correspondence Problem
+- Singular-Value Decomposition
+tldr: The authors present an algorithm that uses the principle of proximity and the
+  principle of exclusion to establish a correspondence between features in two related
+  images. The algorithm maximizes the inner product of a proximity matrix and a pairing
+  matrix, resulting in a set of correspondences between the features in the images.
+  This method can be applied to image translation, expansion, and shear deformation,
+  and is useful for solving the correspondence problem in computer vision.

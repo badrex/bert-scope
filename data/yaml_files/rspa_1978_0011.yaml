@@ -1,0 +1,14 @@
+article_id: rspa_1978_0011
+revised_title: Higher Order Korteweg-de Vries Equation Prolongation Structure
+scientific_discipline: Mathematics > Lie Algebras
+semantic_tags:
+- Lie Algebra
+- Prolongation Method
+- Korteweg-de Vries Equation
+- Soliton Solutions
+- Inverse Scattering Techniques
+tldr: The authors used the prolongation method to construct a Lie algebra for a higher
+  order Korteweg-de Vries equation. They found two values for which the equation has
+  soliton solutions and discussed the connection forms and commutation relations in
+  the Lie algebra. The study also introduced an eigenvalue problem for the equation,
+  which can be transformed into the Lax formulation.

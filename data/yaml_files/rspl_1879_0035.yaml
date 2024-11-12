@@ -1,0 +1,13 @@
+article_id: rspl_1879_0035
+revised_title: 'A New Tide-Predicter: Design and Function'
+scientific_discipline: Environmental and Earth Sciences > Oceanography
+semantic_tags:
+- Tide prediction
+- Harmonic analysis
+- Oceanography
+- Coastal engineering
+- Tidal components
+tldr: The author presents a new tide-predicter machine that combines 20 tide components
+  to predict tides for various ports. The machine uses a recording barrel and a system
+  of eccentric pulleys to accurately represent the periods of the tidal components.
+  This innovation saves time and resources in tide registration and prediction.

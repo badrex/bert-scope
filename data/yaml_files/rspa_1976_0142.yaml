@@ -1,0 +1,15 @@
+article_id: rspa_1976_0142
+revised_title: Predicting Ionospheric Cross-Modulation in Radio Waves
+scientific_discipline: Physics > Electromagnetism
+semantic_tags:
+- Ionosphere
+- Radio wave interference
+- Cross-modulation
+- Radio communication
+- Radio wave absorption
+tldr: This article presents a method for predicting the modulation imposed on a wanted
+  radio wave by a powerful disturbing transmitter. The author categorizes situations
+  into five model cases and examines each case in detail, deciding whether the simple
+  theory of Huxley and Ratcliffe is applicable. The article also discusses improvements
+  to the theory, considering the effect of the Earth's magnetic field, reflected waves,
+  point transmitters, and transmitter power on the ionospheric cross-modulation.

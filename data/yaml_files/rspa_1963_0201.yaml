@@ -1,0 +1,14 @@
+article_id: rspa_1963_0201
+revised_title: 'Boundary Conditions for Plate Theory: A Revisit'
+scientific_discipline: Engineering and Technology > Mechanics and Materials
+semantic_tags:
+- Plate Theory
+- Boundary Conditions
+- Variational Formulation
+- Three-dimensional Elasticity
+- Approximation Theory
+tldr: The authors derived boundary conditions for plate theory by using a variational
+  formulation of three-dimensional elasticity. They focused on the interior solution
+  expansion without considering the edge-zone solution expansion. The study complements
+  Goodier's system of differential equations with a corresponding system of boundary
+  conditions, improving the classical approximate interior solution.

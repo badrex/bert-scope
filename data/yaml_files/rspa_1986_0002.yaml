@@ -1,0 +1,18 @@
+article_id: rspa_1986_0002
+revised_title: 'Spatial Modelling of Total Storm Rainfall: Poisson Process and Spread
+  Functions'
+scientific_discipline: Environmental and Earth Sciences > Hydrology
+semantic_tags:
+- Hydrology
+- Spatial Modelling
+- Poisson Process
+- Rainfall Distribution
+- Spread Functions
+tldr: This article investigates the spatial structure of rainfall from a stationary
+  storm event using point process techniques. The authors develop a model for the
+  spatial distribution of rain-producing cells and analyze the probability distribution
+  of rainfall depth at a point. They consider different mechanisms for the spatial
+  occurrence of rain cells, such as independent locations and dependent clustered
+  locations, and explore various spread functions to describe the decay of rainfall
+  depth with distance from the cell center. The results provide a framework for interpreting
+  complex observational data related to storm rainfall.

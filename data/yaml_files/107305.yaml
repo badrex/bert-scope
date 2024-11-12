@@ -1,0 +1,13 @@
+article_id: '107305'
+revised_title: Improving the Method for Computing Attraction of Spheroids in Astronomy
+scientific_discipline: Physics > Astronomy
+semantic_tags:
+- Celestial Mechanics
+- Spheroids
+- Attraction Theory
+- Analytical Methods
+- Astronomy
+tldr: The author analyzes Laplace's method for computing the attractions of spheroids
+  and identifies an error in the theorem used. They provide a corrected method for
+  calculating the attraction of spheroids, which is essential for understanding the
+  figure of planets and other celestial bodies.

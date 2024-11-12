@@ -1,0 +1,16 @@
+article_id: rspb_1994_0046
+revised_title: 'Forced Ventilation in Animal Fur: Predicting Pressure Distribution
+  and Intra-Fur Flow'
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Porous Media
+- Animal Physiology
+- Heat and Mass Transfer
+- Computational Fluid Dynamics
+tldr: The authors developed a model and computation scheme to predict forced ventilation
+  in animal fur, using a fur-covered cylinder as a geometric model. They used an anisotropic
+  model for intra-fur flow and pressure distribution data from a solid cylinder to
+  obtain more realistic velocity profiles within the fur. The results can be used
+  to develop a comprehensive model of transport processes in animal or artificial
+  fur and other porous media under various environmental conditions.

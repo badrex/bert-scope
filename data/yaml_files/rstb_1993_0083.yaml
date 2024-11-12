@@ -1,0 +1,17 @@
+article_id: rstb_1993_0083
+revised_title: Mathematical Modeling of Arthropod Filiform Hair Dynamics
+scientific_discipline: Biology and Life Sciences > Arthropod Biology
+semantic_tags:
+- '''Arthropod Biology'''
+- '''Hair Sensilla'''
+- '''Mechanoreception'''
+- '''Mathematical Modeling'''
+- '''Air Flow'''
+tldr: This study focuses on the mathematical modeling of arthropod filiform hair dynamics,
+  particularly spider trichobothria, in oscillating air flows. The authors analyze
+  the behavior of hair motion using numerical calculations of the equation for conservation
+  of hair angular momentum, considering air-induced drag and virtual mass forces.
+  They demonstrate the effects of air motion orientation, hair length, and shape on
+  hair displacement, velocity, and acceleration. The findings can be applied to better
+  understand the connection between hair structure, air flow stimuli, and animal behavioral
+  response.

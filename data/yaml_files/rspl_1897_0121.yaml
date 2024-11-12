@@ -1,0 +1,14 @@
+article_id: rspl_1897_0121
+revised_title: Advancements in Analyzing Alternating Currents
+scientific_discipline: Engineering and Technology > Electrical Engineering
+semantic_tags:
+- Electromagnetic Theory
+- Electrical Engineering
+- Alternating Currents
+- Circuit Analysis
+- Impedance
+tldr: This paper presents two parts, with Part I focusing on finding steady values
+  of alternating currents in various circuits by performing integrations and simplifying
+  equations. Part II explores the effects of higher harmonics and frequencies on the
+  impedances and reactances of circuits. The paper assumes electromotive forces and
+  electric potentials can be represented as simple sine or cosine functions of time.

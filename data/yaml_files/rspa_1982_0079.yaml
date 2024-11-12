@@ -1,0 +1,17 @@
+article_id: rspa_1982_0079
+revised_title: 'Large-Time Solution of Nonlinear Diffusion Equation: A Rational Asymptotic
+  Expansion'
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Nonlinear Diffusion Equation
+- Asymptotic Expansion
+- Similarity Solutions
+- Free Boundary Problems
+- Mathematical Physics
+tldr: The authors study the large-time solution of a class of initial-boundary-value
+  problems for the nonlinear diffusion equation. They construct a consistent and rational
+  asymptotic expansion of the solution, with the leading term being the appropriate
+  similarity solution. The expansion involves solving a two-point eigenvalue problem
+  and produces an infinite sequence of eigenvalues and eigenfunctions. This approach
+  is useful for understanding the behavior of solutions in the large-time limit and
+  has implications for various physical situations.

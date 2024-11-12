@@ -1,0 +1,16 @@
+article_id: rspa_1988_0063
+revised_title: Determination of Ductile Material Constitutive Parameters through Specimen
+  Size and Geometry Effects
+scientific_discipline: Engineering and Technology > Materials Science
+semantic_tags:
+- Material Constitutive Parameters
+- Tensile Specimen Geometry
+- Ductile Materials
+- Elastic-Plastic Constitutive Formulation
+- True-Stress-True-Strain Curve
+tldr: The authors developed an experimental-computational procedure to determine material
+  constitutive parameters for ductile materials, using tensile specimen size and geometry
+  effects. They demonstrated that a single uniaxial continuum true-stress-true-strain
+  curve can predict the behavior of laboratory specimens with different geometries,
+  ensuring the uniqueness of the parameters. This approach allows for accurate characterization
+  of material behavior over a wide range of deformations, from zero to final fracture.

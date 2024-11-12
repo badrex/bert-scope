@@ -1,0 +1,15 @@
+article_id: rspa_1956_0065
+revised_title: 'Dispersion of Solute in Fluid Flow: A New Approach'
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Diffusion
+- Mass Transfer
+- Chemical Engineering
+- Taylor Dispersion
+tldr: The authors present a new approach to analyze the dispersion of a solute in
+  a fluid flowing through a tube, removing restrictions on some parameters and describing
+  the distribution of solute in terms of its moments in the direction of flow. They
+  show that the rate of growth of the variance is proportional to the sum of the molecular
+  diffusion coefficient and the Taylor diffusion coefficient, and that a finite distribution
+  of solute tends to become normally distributed.

@@ -1,0 +1,15 @@
+article_id: rspa_1951_0148
+revised_title: Errors in Calculation of Geoid Elevation and Deflection
+scientific_discipline: Earth Sciences > Geodesy
+semantic_tags:
+- Geodesy
+- Geophysics
+- Gravity
+- Geoid
+- Stokes's Theorem
+tldr: The author discusses the errors that may occur when calculating the elevation
+  of the geoid using Stokes's formula when gravity data outside a given cap are neglected.
+  The paper shows that these errors are comparable to the root-mean-square elevation
+  and are not significantly affected by assumptions about the distribution of gravity
+  anomalies between harmonics up to degree 18. The author also estimates the errors
+  in calculated differences of elevation at neighboring stations.

@@ -1,0 +1,15 @@
+article_id: rspa_1977_0053
+revised_title: Reassessment of Vorticity Transfer Theory in Turbulent Fluids
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Turbulence
+- Vorticity
+- Reynolds Equations
+- Transfer Theories
+tldr: The author re-examines Taylor's vorticity transfer theory and finds that it
+  is incorrect in a fundamental sense. The study focuses on two-dimensional turbulent
+  flows, where vorticity is a conserved transferable property. The author demonstrates
+  that the theory does not ensure the conservation of momentum, which is a crucial
+  aspect of fluid dynamics. This finding has implications for understanding and modeling
+  turbulent flows in various applications, such as oceanography and meteorology.

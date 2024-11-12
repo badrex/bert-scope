@@ -1,0 +1,16 @@
+article_id: rspa_1991_0124
+revised_title: Equivalence between Centre Manifold and Multiple Scales Reductions
+  in Fluid Motion Stability
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Fluid Dynamics
+- Nonlinear Stability
+- Centre Manifold Theory
+- Multiple Scales Method
+- Landau Equations
+sub_discipline: Fluid Dynamics
+tldr: The author demonstrates the equivalence between the centre manifold and multiple
+  scales reductions in the weakly nonlinear stability analysis for fluid motions.
+  They use the plane Poiseuille flow as a model and derive the Landau equation to
+  establish the complete equivalence between the two methods, emphasizing the importance
+  of defining the disturbance amplitude correctly.

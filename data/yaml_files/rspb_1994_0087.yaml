@@ -1,0 +1,16 @@
+article_id: rspb_1994_0087
+revised_title: Neural Processing Speed and Visual Masking in the Cerebral Cortex
+scientific_discipline: Neuroscience > Cognitive Neuroscience
+semantic_tags:
+- Visual masking
+- Cerebral cortex
+- Neuronal activity
+- Temporal visual cortex
+- Object recognition
+tldr: The authors conducted experiments to investigate the duration of neuronal responses
+  in the cerebral cortex when identifying visual stimuli. They found that when a mask
+  was used, the length of time for which cells fired in response to the test stimulus
+  decreased. This suggests that the mask stimulated adjacent cells in the cortex,
+  reducing the responses of cells activated by the test stimulus. The results provide
+  evidence that a cortical area can perform computations necessary for visual recognition
+  in 20-30 ms, setting a fundamental constraint for theories of cortical computation.

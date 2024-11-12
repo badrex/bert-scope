@@ -1,0 +1,15 @@
+article_id: rspa_1976_0112
+revised_title: 'Intermolecular Potential Energy Surfaces: Basic Theory and Expansion'
+scientific_discipline: Chemistry > Quantum Chemistry
+semantic_tags:
+- Quantum Chemistry
+- Molecular Physics
+- Interatomic Interactions
+- Computational Chemistry
+- Spin-Coupled Formalism
+tldr: The authors present a method to calculate the potential energy surfaces of interacting
+  molecules using the spin-coupled formalism. They expand the total energy in powers
+  of electron interchange and develop a comprehensive diagram technique to obtain
+  any term in the expansion. This approach is suitable for calculating intermolecular
+  potentials between non-bonded systems and for determining interaction potentials
+  in the long and intermediate range for bonded systems.

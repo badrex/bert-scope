@@ -1,0 +1,14 @@
+article_id: rspa_1995_0066
+revised_title: A New Universal Two-Bit Gate for Quantum Computation
+scientific_discipline: Physics > Quantum Mechanics
+semantic_tags:
+- Quantum Computing
+- Quantum Gates
+- Universal Gates
+- Quantum Algorithms
+- Quantum Cryptography
+tldr: The author, Adriano Barenco, proves the existence of a universal two-bit gate
+  for quantum computation, simplifying the theoretical analysis of circuit complexity
+  and demonstrating that one type of interaction between two quantum bits is sufficient
+  for universality. This discovery has implications for both theoretical and experimental
+  perspectives on quantum computing.

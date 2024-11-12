@@ -1,0 +1,16 @@
+article_id: rspa_1990_0125
+revised_title: Energetically Consistent Theory for Rigid Body Collisions with Friction
+scientific_discipline: Physics > Mechanics
+semantic_tags:
+- Rigid body dynamics
+- Friction
+- Collision mechanics
+- Slip reversal
+- Energy dissipation
+tldr: The author presents an energetically consistent theory for rigid body collisions
+  with friction, focusing on the dynamics of partly elastic collisions and the role
+  of frictional and indentation forces. The theory separates the collision process
+  into compression and restitution phases, considering the effects of slip, slip reversal,
+  and energy dissipation due to friction and internal inelastic behavior. This approach
+  contrasts with Newton's impact law and Poisson's hypothesis, which can yield erroneous
+  results when slip stops or changes direction during a non-collinear collision.

@@ -1,0 +1,16 @@
+article_id: '111329'
+revised_title: Autopolar Polyhedra and Their Enumeration
+scientific_discipline: Mathematics > Geometry
+semantic_tags:
+- Geometry
+- Polyhedra
+- Combinatorics
+- Mathematical Theorems
+- Mathematical Structures
+tldr: The author, Thomas P. Kirkman, explores the concept of autopolar polyhedra and
+  their properties. He defines autopolar polyhedra as those that maintain the same
+  type or description when summit and face positions are swapped. Kirkman establishes
+  several theorems and discusses the enumeration of autopolar polyhedra, focusing
+  on their signatures and how they can be generated from pyramids. He also touches
+  upon the related concepts of nodal, enodal, and utral autopolarity and the problem
+  of enumeration of x-edra.

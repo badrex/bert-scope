@@ -1,0 +1,18 @@
+article_id: rspa_1930_0116
+revised_title: 'The Wake in Fluid Flow Past a Solid: A Study of Vorticity and Boundary
+  Layers'
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Vorticity
+- Boundary Layer Theory
+- Hydrodynamics
+- Fluid Mechanics
+tldr: The author investigates the wake formation in fluid flow past a solid object,
+  focusing on the role of vorticity and boundary layers. They demonstrate that the
+  incorrect boundary conditions assumed by classical hydrodynamics lead to discrepancies
+  between theoretical predictions and real fluid behavior. The study concludes that
+  the only possible motion is one where the solid and the containing vessel move with
+  a single velocity of translation, and no solid can rotate. This result highlights
+  the importance of considering viscosity terms in the equations of motion to satisfy
+  the correct boundary conditions.

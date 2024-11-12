@@ -1,0 +1,15 @@
+article_id: rspa_1937_0156
+revised_title: 'Optimizing Control Systems: Time-Lag and Control Law Extensions'
+scientific_discipline: Engineering and Technology > Control Theory
+semantic_tags:
+- Control Theory
+- Time-Lag
+- Control Law
+- Differential Analyser
+- System Stability
+tldr: This article investigates a more general form of the control law in a control
+  system, focusing on time-lag and system stability. The authors analyze the behavior
+  of different control systems and their parameters, using the differential analyser
+  to obtain solutions and compare their effectiveness. They find that certain control
+  laws offer more freedom of choice and provide better control in terms of stability
+  and design.

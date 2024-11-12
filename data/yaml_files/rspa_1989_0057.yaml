@@ -1,0 +1,16 @@
+article_id: rspa_1989_0057
+revised_title: Improving Statistical Energy Analysis for Periodic Structures
+scientific_discipline: Engineering and Technology > Mechanical Engineering
+semantic_tags:
+- Structural Acoustics
+- Periodic Structures
+- Statistical Energy Analysis
+- Vibration Analysis
+- Modal Density
+tldr: This article proposes improvements to statistical energy analysis (SEA) for
+  periodic structures, which are commonly found in engineering applications such as
+  off-shore platforms, box girder bridges, and satellites. The authors enhance SEA
+  models by incorporating calculations of pass bands for typical elements of periodic
+  structures, allowing for a more accurate representation of the non-uniform distribution
+  of natural frequencies in these structures. This new approach provides better predictions
+  for energy flow and can be applied to a wide range of geometrically periodic structures.

@@ -1,0 +1,14 @@
+article_id: rspa_1994_0052
+revised_title: Efficient Computation of Structural Parameters for Suspensions
+scientific_discipline: Physics > Materials Science
+semantic_tags:
+- Computational Physics
+- Materials Science
+- Suspension Dynamics
+- Fast Multipole Method
+- Conjugate Gradient Method
+tldr: The author presents a method to calculate the effective properties of periodic
+  suspensions more efficiently, using the fast multipole method and the conjugate
+  gradient method. This enables accurate calculations for unit cells with thousands
+  of inclusions, improving the accuracy of structural parameters for suspensions of
+  disks and spheres.

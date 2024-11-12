@@ -1,0 +1,17 @@
+article_id: rspa_1990_0026
+revised_title: Calculation of the Electron Velocity Distribution Function in a Plasma
+  Slab with Large Temperature and Density Gradients
+scientific_discipline: Physics > Plasma Physics
+semantic_tags:
+- Plasma Physics
+- Electron Velocity Distribution Function
+- Landau-Fokker-Planck Equation
+- Temperature Gradients
+- Density Gradients
+tldr: The authors developed a method to calculate the electron velocity distribution
+  function in a fully ionized plasma with large temperature and density gradients.
+  They found that the high-velocity tail of the distribution function deviates significantly
+  from the Maxwellian distribution, leading to important consequences for heat transport
+  and ionization balance in the plasma. The results are sensitive to the gradients
+  and reveal a strongly anisotropic character of the high-velocity tail of the distribution
+  function.

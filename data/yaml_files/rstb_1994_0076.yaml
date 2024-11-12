@@ -1,0 +1,16 @@
+article_id: rstb_1994_0076
+revised_title: Knowledge-Based Modeling and Sequence Analysis for Protein Structure
+  and Function Prediction
+scientific_discipline: Biology and Life Sciences > Bioinformatics
+semantic_tags:
+- Bioinformatics
+- Protein structure prediction
+- Sequence alignment
+- Protein folding
+- Inverted protein structure prediction
+tldr: The article discusses a knowledge-based approach to predict protein structure
+  and function using sequence analysis and comparison methods. The authors describe
+  techniques like inverted protein structure prediction, sequence alignment, and structure
+  comparison to identify common folds and predict protein structures from new sequences.
+  They emphasize the importance of developing versatile methods for structure comparison
+  to improve the predictive capability of comparative modeling.

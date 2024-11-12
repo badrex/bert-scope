@@ -1,0 +1,15 @@
+article_id: rsta_1948_0023
+revised_title: 'Systematic Sampling: Methods and Applications'
+scientific_discipline: Statistics > Sampling methods
+semantic_tags:
+- Sampling methods
+- Statistical analysis
+- Data collection
+- Survey methods
+- Precision and efficiency
+tldr: This paper discusses systematic sampling, a method of collecting data by using
+  equally spaced points along a sequence. It presents new methods for estimating the
+  systematic sampling error and evaluates the performance of systematic sampling compared
+  to random sampling for various types of data. The paper also demonstrates the importance
+  of considering factors like periodicities and the need for preliminary investigations
+  when using systematic sampling.

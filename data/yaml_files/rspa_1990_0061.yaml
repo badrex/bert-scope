@@ -1,0 +1,16 @@
+article_id: rspa_1990_0061
+revised_title: Advanced Numerical Methods for Saturated Soil Behavior
+scientific_discipline: Environmental and Earth Sciences > Soil Mechanics
+semantic_tags:
+- Soil Mechanics
+- Numerical Analysis
+- Geotechnical Engineering
+- Porous Media
+- Finite Element Method
+tldr: This paper presents a comprehensive approach to solving fully saturated soil
+  problems using numerical methods. The authors develop a general-purpose computer
+  program (SWANDYNE-X) to predict the behavior of saturated geomaterials, such as
+  soils, under various conditions. The results are validated through comparisons with
+  experimental data from physical models tested in the Cambridge Centrifuge. The mathematical
+  framework and numerical approximations used in this study can be applied to various
+  fields, including civil engineering, oil reservoir engineering, hydrology, and bio-engineering.

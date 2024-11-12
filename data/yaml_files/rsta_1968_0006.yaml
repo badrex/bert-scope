@@ -1,0 +1,16 @@
+article_id: rsta_1968_0006
+revised_title: Stability Analysis of Spiral Flow Between Rotating Cylinders
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Rotating Cylinders
+- Stability Theory
+- Asymptotic Analysis
+- Viscous Flow
+tldr: The authors analyze the stability of spiral flow between rotating cylinders,
+  considering the effect of an axial pressure gradient. They use the narrow gap approximation,
+  axisymmetric disturbances assumption, and the assumption of same-direction rotation
+  to study the problem. The onset of instability depends on the Taylor number and
+  axial Reynolds number. The study provides a comprehensive understanding of the stability
+  boundary in the Taylor number plane and discusses the limitations of existing experimental
+  data.

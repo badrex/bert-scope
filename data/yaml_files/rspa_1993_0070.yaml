@@ -1,0 +1,17 @@
+article_id: rspa_1993_0070
+revised_title: Continuous Spectrum Eigenfunction Expansions and Applications in Differential
+  Equations
+scientific_discipline: Mathematics > Functional Analysis
+semantic_tags:
+- Functional Analysis
+- Differential Equations
+- Eigenfunction Expansions
+- Spectral Theory
+- Partial Differential Equations
+tldr: The authors develop new results about continuous spectrum eigenfunction expansions
+  and apply them to solve the Cauchy problem for ordinary and partial differential
+  equations. They use a kernel function and a general expansion technique to obtain
+  a solution that depends continuously on the initial conditions and converges to
+  the expected solution as time progresses. This approach provides a natural solution
+  to the Cauchy problem even when the initial condition is a distribution with compact
+  support.

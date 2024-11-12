@@ -1,0 +1,16 @@
+article_id: rspa_1924_0024
+revised_title: 'The Difference-Periodogram: A Method for Rapid Identification of Short
+  Periodicities in Data'
+scientific_discipline: Mathematics > Statistics
+semantic_tags:
+- Periodicity analysis
+- Time series analysis
+- Statistical methods
+- Data smoothing
+- Fourier analysis
+tldr: The authors introduce a method called the "difference-periodogram" for quickly
+  identifying short periodicities in data. This method involves dividing a dataset
+  into sections, calculating the mean values, and plotting these means on a time scale.
+  By analyzing the resulting curve, one can identify periodic variations and determine
+  their periods and amplitudes. This technique is useful for studying various types
+  of data, such as monthly rainfall amounts.

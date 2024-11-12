@@ -1,0 +1,17 @@
+article_id: rsta_1980_0205
+revised_title: Dispersion in Spatially Periodic Porous Media
+scientific_discipline: Environmental and Earth Sciences > Hydrogeology
+semantic_tags:
+- Porous Media
+- Fluid Dynamics
+- Dispersion
+- Brownian Motion
+- Tracer Particle
+tldr: This article presents a rigorous theory of dispersion in granular and sintered
+  spatially-periodic porous media. The theory calculates the Darcy-scale interstitial
+  velocity vector and dispersivity dyadic of a tracer particle in terms of the local
+  fluid velocity field within the interstices of a unit cell. The theory is complete,
+  but numerical results are not yet available due to the complex structure of the
+  local interstitial velocity field. However, it correctly reduces to the well-known
+  Taylor-Aris results for dispersion in circular capillaries in an appropriate limiting
+  case.

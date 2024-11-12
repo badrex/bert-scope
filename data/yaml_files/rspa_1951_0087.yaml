@@ -1,0 +1,14 @@
+article_id: rspa_1951_0087
+revised_title: Efficient Methods for Diagnosing Mistakes in EDSAC Programs
+scientific_discipline: Engineering and Technology > Computer Science
+semantic_tags:
+- Computer Programming
+- Debugging
+- EDSAC
+- Error Detection
+- Sub-Routines
+tldr: This article discusses methods developed at the Cambridge University Mathematical
+  Laboratory for quickly diagnosing mistakes in programs for the EDSAC, an automatic
+  high-speed digital computer. The aim is to minimize wasted machine time and to use
+  standard routines in conjunction with faulty programs to check their operation.
+  Two of these routines are examined in detail, while others are briefly described.

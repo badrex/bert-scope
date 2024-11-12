@@ -1,0 +1,15 @@
+article_id: rspa_1992_0062
+revised_title: Transformation Strains and Uniform Fields in Multiphase Elastic Media
+scientific_discipline: Mechanics > Solid Mechanics
+semantic_tags:
+- Elasticity
+- Composite Materials
+- Micromechanics
+- Transformation Strains
+- Concentration Factor Tensors
+tldr: This article explores the effect of local eigenstrain and eigenstress fields
+  on the local strains and stresses in multiphase elastic solids. It introduces transformation
+  influence functions and transformation concentration factor tensors to estimate
+  the residual local fields caused by transformation fields. The self-consistent and
+  Mori-Tanaka methods are used to evaluate specific estimates of these tensors, and
+  the overall stiffness of multiphase media is discussed.

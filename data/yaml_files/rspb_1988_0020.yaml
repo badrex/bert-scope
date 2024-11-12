@@ -1,0 +1,14 @@
+article_id: rspb_1988_0020
+revised_title: A Regularized Approach to Non-Rigid Motion Interpretation
+scientific_discipline: Computer Science > Computer Vision
+semantic_tags:
+- Computer Vision
+- Motion Analysis
+- Regularization
+- Non-Rigid Motion
+- Image Processing
+tldr: The authors present a general paradigm for analyzing non-rigid motion using
+  a regularized approach. They develop a variational condition that finds the smoothest
+  motion consistent with image data and the known structure of the object. This method
+  can handle various types of motion, including isometry, rigidity, and planarity,
+  and does not require the computation of correspondence or optic flow.

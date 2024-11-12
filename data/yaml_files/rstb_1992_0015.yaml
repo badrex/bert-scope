@@ -1,0 +1,14 @@
+article_id: rstb_1992_0015
+revised_title: Functional Models and Implementations of Face Recognition
+scientific_discipline: Psychology > Cognitive Psychology
+semantic_tags:
+- Cognitive Psychology
+- Face Recognition
+- Connectionist Models
+- Interactive Activation and Competition
+- Visual Cognition
+tldr: The article discusses the development of functional models to understand face
+  recognition processes. It presents a connectionist implementation using the 'interactive
+  activation and competition' architecture, which separates face recognition units
+  (FRUs) and person identity nodes (PINS) to make familiarity judgments and retrieve
+  semantic information about personal identity.

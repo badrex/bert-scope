@@ -1,0 +1,16 @@
+article_id: rspa_1965_0052
+revised_title: 'Eigenfunctions of Plane Elastostatics: A Rigorous Solution to a Mixed
+  Boundary Value Problem of the Strip'
+scientific_discipline: Engineering and Technology > Mechanics of Materials
+semantic_tags:
+- Elastostatics
+- Wiener-Hopf Technique
+- Generalized Factorial Function
+- Mixed Boundary Value Problem
+- Plate Flexure
+tldr: The authors use the Wiener-Hopf technique and the generalized factorial function
+  to solve a mixed boundary value problem of plate flexure in the form of an infinite
+  strip. They find the deflection by evaluating a Fourier integral and obtain the
+  deflection at various points using eigenfunction expansions. The study provides
+  a rigorous solution to the problem, considering the change in boundary conditions
+  and the nature of the singularity.

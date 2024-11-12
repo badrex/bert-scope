@@ -1,0 +1,14 @@
+article_id: rspb_1993_0009
+revised_title: Optimal Color Pre-Processing for Vision
+scientific_discipline: Biology and Life Sciences > Vision and Perception
+semantic_tags:
+- Color Vision
+- Optimal Filters
+- Visual Processing
+- Natural Scenes
+- Color Constancy
+tldr: The author investigates optimal color pre-processing methods for vision using
+  neural filters. They discover that these filters provide lateral inhibition, spatial
+  and spectral frequency suppression, and demonstrate color constancy. This research
+  contributes to understanding how the human visual system processes color information
+  from natural scenes.

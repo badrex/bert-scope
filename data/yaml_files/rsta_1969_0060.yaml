@@ -1,0 +1,16 @@
+article_id: rsta_1969_0060
+revised_title: Numerical Solution of Integral Equations in Crack Propagation and Elastic
+  Wave Diffraction
+scientific_discipline: Physics > Mechanics
+semantic_tags:
+- Seismology
+- Earthquake mechanics
+- Elasticity theory
+- Integral equations
+- Numerical methods
+tldr: The author presents a method to numerically solve integral equations related
+  to crack propagation and elastic wave diffraction in seismology. The study focuses
+  on idealized models of earthquakes and fault planes, providing a mathematical framework
+  for understanding the mechanics of earthquakes and calculating the relative displacement
+  across fault planes. The results are presented graphically and can be applied to
+  two-dimensional problems in anti-plane and plane strain.

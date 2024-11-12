@@ -1,0 +1,13 @@
+article_id: '109939'
+revised_title: Horner's Method for Solving Numerical Equations
+scientific_discipline: Mathematics > Numerical methods
+semantic_tags:
+- Numerical methods
+- Mathematics
+- Calculus
+- Equations
+- Approximation
+tldr: W.G. Horner introduced a new method for solving numerical equations of all orders
+  through continuous approximation. This method, which can be seen as an extension
+  of the calculus of derivations, is a versatile tool for both composition and analysis
+  of various functions, but it is particularly useful for solving equations numerically.

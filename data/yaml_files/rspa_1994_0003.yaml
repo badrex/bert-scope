@@ -1,0 +1,15 @@
+article_id: rspa_1994_0003
+revised_title: A Review of Three Alternative Boundary Element Approaches to Modelling
+  Frictional Contact Problems
+scientific_discipline: Engineering and Technology > Numerical Analysis and Modeling
+semantic_tags:
+- Boundary Element Method
+- Contact Mechanics
+- Frictional Contact Problems
+- Numerical Analysis
+- Engineering Applications
+tldr: This paper reviews three alternative boundary element approaches for modeling
+  frictional contact problems. The authors discuss the node-on-node approach, the
+  mapped-element approach, and the fictitious-node algorithm. They compare the features,
+  merits, and drawbacks of each method and provide practical examples to demonstrate
+  their accuracy.

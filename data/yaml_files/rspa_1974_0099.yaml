@@ -1,0 +1,14 @@
+article_id: rspa_1974_0099
+revised_title: Group Expansions for Bulk Properties of Random Suspensions
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Statistical Mechanics
+- Fluid Dynamics
+- Suspension Dynamics
+- Particle Interactions
+- Ensemble Averages
+tldr: This article presents a method to derive an expansion for the bulk properties
+  of a statistically homogeneous, random suspension. The expansion involves only absolutely
+  convergent integrals and is applicable to situations where interactions between
+  particles fall off more slowly, causing long-range effects. The study focuses on
+  spherical particles and uses a heat conduction problem as a specific example.

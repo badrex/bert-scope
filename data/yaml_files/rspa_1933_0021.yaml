@@ -1,0 +1,16 @@
+article_id: rspa_1933_0021
+revised_title: Fiducial Probability and Inverse Probability in Statistical Inference
+scientific_discipline: Mathematics > Statistics
+semantic_tags:
+- Statistical Inference
+- Fiducial Probability
+- Inverse Probability
+- Probability Theory
+- Statistical Analysis
+tldr: The author introduces the concept of fiducial probability, a new approach to
+  statistical inference that provides probability statements about unknown parameters
+  without assuming a prior distribution. This method is contrasted with inverse probability,
+  which relies on the assumption of a prior distribution. Fiducial probability offers
+  a more robust and logical approach to making probability statements about unknown
+  parameters, as it is based on the population of all possible random samples rather
+  than a specific distribution assumption.

@@ -1,0 +1,16 @@
+article_id: rspa_1966_0219
+revised_title: Extended Hellmann-Feynman Theorem in Hamiltonian Functions
+scientific_discipline: Physics > Quantum Mechanics
+semantic_tags:
+- Quantum Mechanics
+- Spectral Theory
+- Hamiltonian Mechanics
+- Molecular Physics
+- Semi-empirical Theories
+tldr: The article presents an extended version of the Hellmann-Feynman theorem, which
+  allows for calculating the dependence of expectation values of functions of the
+  Hamiltonian on its parameters. This extended theorem is particularly useful for
+  semi-empirical theories of molecular rate processes and can lead to variationally
+  stable results. The formalism is applicable to Hamiltonians with discrete, continuous,
+  or mixed spectra and can be used to calculate stationary and dynamic information
+  based on matrix elements.

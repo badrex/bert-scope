@@ -1,0 +1,13 @@
+article_id: rspa_1965_0060
+revised_title: Approximate Functional Equation for Dirichlet L-Functions
+scientific_discipline: Mathematics > Number Theory
+semantic_tags:
+- Number Theory
+- Dirichlet L-Functions
+- Asymptotic Expansion
+- Computational Mathematics
+- Riemann Hypothesis
+tldr: The authors present a new asymptotic formula for computing Dirichlet L-functions,
+  which is applicable for large values of the function. This formula significantly
+  reduces the time of computation compared to previous methods. The result is particularly
+  useful for understanding the behavior of L-functions with large moduli.

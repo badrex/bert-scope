@@ -1,0 +1,18 @@
+article_id: rsta_1988_0092
+revised_title: 'Computational Models for Parallel Computers: Emphasizing ID Processor
+  Arrays'
+scientific_discipline: Engineering and Technology > Computer Science
+semantic_tags:
+- Parallel Computing
+- Computational Models
+- Systolic Arrays
+- Warp System
+- ID Processor Arrays
+tldr: This article discusses computational models for parallel computers, focusing
+  on one-dimensional (ID) processor arrays. It describes the Warp systolic array machine
+  and its components, as well as nine computational models for ID processor arrays,
+  with an emphasis on local computation, domain partition, pipeline, multifunction
+  pipeline, and ring models. These models help in understanding the communication
+  patterns between processors during computation and can be used to derive machine
+  architectures, provide guidelines for programming tools, and suggest how parallel
+  computers should be used in applications.

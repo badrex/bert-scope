@@ -1,0 +1,15 @@
+article_id: rspa_1954_0248
+revised_title: Electrostatic Calculation of Molecular Energies and Saturated Molecule
+  Binding Energies
+scientific_discipline: Chemistry > Quantum Chemistry
+semantic_tags:
+- Molecular Orbital Theory
+- Valence Bond Theory
+- Quantum Chemistry
+- Molecular Physics
+- Computational Chemistry
+tldr: The authors present a technique for calculating the binding energy of any saturated
+  molecule using the electrostatic theorem. This method applies to molecular-orbital
+  and valence-bond functions and is suitable for complex molecules. The authors demonstrate
+  the method's effectiveness by applying it to the lithium molecule and lithium hydride
+  molecule, yielding results in good agreement with experimental data.

@@ -1,0 +1,14 @@
+article_id: rspl_1878_0099
+revised_title: A Machine for Solving Simultaneous Linear Equations
+scientific_discipline: Mathematics > Linear Algebra
+semantic_tags:
+- Linear Algebra
+- Mathematics
+- Numerical Methods
+- Approximation Theory
+- Calculus
+tldr: The author presents a machine for solving simultaneous linear equations, which
+  can be used to calculate the unknown variables in a system of equations. The machine
+  allows for successive approximations, increasing its accuracy and ease of use. This
+  method can be applied to various cases, from single equations to those requiring
+  multiple approximations.

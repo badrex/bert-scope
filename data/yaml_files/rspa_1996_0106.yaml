@@ -1,0 +1,15 @@
+article_id: rspa_1996_0106
+revised_title: Analytical Method for Steady Stokes Flow in a Rectangular Cavity
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Stokes Flow
+- Rectangular Cavity
+- Stream Function
+- Method of Superposition
+tldr: The author presents an analytical method for studying steady Stokes flow in
+  a rectangular cavity, driven by prescribed velocities on the top and bottom walls.
+  The method of superposition is used to solve the biharmonic equation for the stream
+  function, providing accurate results for the velocity field and local structure
+  near corners and points of discontinuity. The amplitudes of Moffatt's eddies, positions
+  of separation points, and angles of inclination are also determined.

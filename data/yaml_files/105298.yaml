@@ -1,0 +1,15 @@
+article_id: '105298'
+revised_title: Optimal Geographic Map Construction and Navigation
+scientific_discipline: Earth Sciences > Cartography
+semantic_tags:
+- Cartography
+- Geographic Maps
+- Map Projections
+- Navigation
+- Geographical Measurements
+tldr: The author discusses the limitations of existing map projections and proposes
+  a new method for constructing geographic maps that accurately represents distances
+  and angles. This method involves using conical projections and logarithmic spirals
+  for rumb-lines, making the maps suitable for navigation as well. The author provides
+  an example of constructing a map of a zone between 10° and 60° north latitude and
+  demonstrates its properties and accuracy.

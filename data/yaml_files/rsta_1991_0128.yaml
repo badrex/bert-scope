@@ -1,0 +1,14 @@
+article_id: rsta_1991_0128
+revised_title: Bayesian Image Analysis for Lesion Localization in Gamma-Camera Imagery
+scientific_discipline: Medicine and Health Sciences > Medical Imaging
+semantic_tags:
+- Bayesian image analysis
+- Gamma-camera imagery
+- Lesion localization
+- Prior distributions
+- Medical imaging
+tldr: This article explores the use of Bayesian image analysis for lesion localization
+  in gamma-camera imagery. It compares the effectiveness of local and global prior
+  distributions in modeling and analyzing the images. The study finds that using global
+  prior information can improve the accuracy of lesion localization and provide more
+  complete inferential statements about the images.

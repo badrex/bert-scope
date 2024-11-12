@@ -1,0 +1,14 @@
+article_id: '111051'
+revised_title: Efficient Analysis of Numerical Equations through Conjugate Factors
+scientific_discipline: Mathematics > Algebra
+semantic_tags:
+- Numerical Analysis
+- Algebra
+- Equations
+- Mathematical Methods
+- Mathematical Theories
+tldr: The author presents a method to simplify the analysis of numerical equations
+  by decomposing them into conjugate factors. This method, called "rejective intervals,"
+  allows for more efficient calculations and can be applied to equations with imaginary
+  roots. The paper provides examples and theorems to demonstrate the effectiveness
+  of this approach.

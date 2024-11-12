@@ -1,0 +1,19 @@
+article_id: rspa_1985_0070
+revised_title: Quantum Theory, Church-Turing Principle, and Universal Quantum Computers
+scientific_discipline: Physics > Quantum Mechanics
+semantic_tags:
+- Quantum theory
+- Church-Turing principle
+- Quantum computing
+- Universal quantum computer
+- Quantum parallelism
+tldr: The author argues that the Church-Turing hypothesis can be reinterpreted as
+  a physical principle, stating that every finitely realizable physical system can
+  be perfectly simulated by a universal model computing machine operating by finite
+  means. They show that quantum theory and the universal quantum computer are compatible
+  with this principle, and that quantum complexity theory offers a more reasonable
+  definition of the 'complexity' or 'knowledge' in a physical system than classical
+  complexity theory. The universal quantum computer has remarkable properties not
+  reproducible by any Turing machine, such as quantum parallelism, which allows certain
+  probabilistic tasks to be performed faster than by any classical restriction of
+  it.

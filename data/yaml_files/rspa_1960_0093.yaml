@@ -1,0 +1,14 @@
+article_id: rspa_1960_0093
+revised_title: Density Matrix Approach to Correlation in a Uniform Electron Gas
+scientific_discipline: Physics > Quantum Mechanics
+semantic_tags:
+- Quantum Mechanics
+- Density Functional Theory
+- Electron Gas
+- Pauli Conditions
+- Uniform Electron Gas
+tldr: The authors propose a density matrix approach to study correlation in a uniform
+  electron gas. They present two methods, one being a direct generalization of the
+  Hartree-Fock method, to satisfy the Pauli conditions on the first-order and second-order
+  matrices. The methods are applicable to one-dimensional spin variational methods
+  and can be useful for understanding electron gas behavior across various densities.

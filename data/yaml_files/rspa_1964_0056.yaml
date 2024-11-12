@@ -1,0 +1,16 @@
+article_id: rspa_1964_0056
+revised_title: 'Asymptotic Expansions in Plate Theory: Potential Problem and Boundary-Layer
+  Analysis'
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Elasticity
+- Asymptotic Expansions
+- Boundary-Layer Analysis
+- Plate Theory
+- Potential Problem
+tldr: The article presents an approximate method for solving the potential problem
+  for a thin plate using asymptotic expansions in powers of the plate thickness. The
+  solution is shown to be uniformly valid throughout the plate, and the author explores
+  the principles underlying such a proof by considering a simpler potential problem.
+  The analysis includes an examination of the boundary-layer region and the use of
+  orthogonal curvilinear coordinates.

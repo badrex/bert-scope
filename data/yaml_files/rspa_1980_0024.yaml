@@ -1,0 +1,18 @@
+article_id: rspa_1980_0024
+revised_title: Advanced Techniques for Estimating Oil-Film Coefficients in Journal
+  Bearings
+scientific_discipline: Engineering and Technology > Mechanical Engineering
+semantic_tags:
+- Tribology
+- Bearing Dynamics
+- Parameter Estimation
+- Structural Identifiability
+- Pseudo-random Binary Sequence Forcing
+tldr: The authors present an analytical investigation of estimating linearized oil-film
+  coefficients in journal bearings. They use the principle of structural identifiability
+  to compare and define the conditions required for estimating coefficients using
+  various test signals. The study demonstrates the limitations of traditional methods
+  and shows how these limitations can be overcome by using pseudo-random binary sequence
+  forcing. The authors emphasize the importance of parameter estimation without prejudging
+  the significance of coefficients and suggest using modern parameter estimation techniques
+  for better results.

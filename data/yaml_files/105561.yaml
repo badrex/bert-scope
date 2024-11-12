@@ -1,0 +1,17 @@
+article_id: '105561'
+revised_title: Calculating the Effects of Refraction and Parallax on Moon and Star
+  Distances
+scientific_discipline: Astronomy > Celestial Mechanics
+semantic_tags:
+- Astronomy
+- Celestial Mechanics
+- Navigation
+- Geodesy
+- Nautical Ephemeris
+tldr: The author presents concise rules for calculating the effects of refraction
+  and parallax on the apparent distance of the Moon and stars. These rules help in
+  determining the longitude of a ship at sea by observing the Moon's distance from
+  the Sun or fixed stars. The rules are based on the hypothesis that refraction in
+  altitude is proportional to the tangent of the zenith distance. The author also
+  provides a second rule for calculating a smaller correction on the observed distance
+  of the Moon from a star due to parallax.

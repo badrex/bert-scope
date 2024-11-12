@@ -1,0 +1,15 @@
+article_id: rspa_1984_0036
+revised_title: Numerical Stability Analysis of Divergent Channel Flows
+scientific_discipline: Engineering and Technology > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Channel Flow
+- Stability Analysis
+- Finite Difference Method
+- Boundary Layer
+tldr: This article presents a numerical finite difference method to analyze the stability
+  of viscous fluid flow in divergent straight-walled channels. The method is compared
+  with previous work using a modal approach, showing good agreement. The study extends
+  the analysis to more realistic curved-wall channels, also with positive results.
+  The research provides an alternative approach to previous W.K.B. methods and offers
+  a numerical solution to the disturbance equations for slowly varying flows.

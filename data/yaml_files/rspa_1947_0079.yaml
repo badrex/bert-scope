@@ -1,0 +1,16 @@
+article_id: rspa_1947_0079
+revised_title: Investigating the Accuracy of Bond-Length Estimations in X-ray Crystallography
+scientific_discipline: Chemistry > Crystallography
+semantic_tags:
+- Crystallography
+- X-ray diffraction
+- Bond lengths
+- Fourier series
+- Organic crystals
+tldr: The authors conducted an experimental study to determine the accuracy of bond-length
+  estimations using double Fourier series methods from X-ray data. They investigated
+  a hypothetical structure containing twelve atoms in general positions and found
+  that the maximum error in a complex structure should not exceed 0.03 Å, with a probable
+  error of about 0.015 Å for atom separations of between 1.0 and 1.4 Å. The study
+  also showed that errors due to incomplete Fourier series and systematic errors in
+  F values can affect the accuracy of bond-length estimations.

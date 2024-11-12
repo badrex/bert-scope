@@ -1,0 +1,16 @@
+article_id: rsta_1963_0013
+revised_title: Non-Linear Diffusion and Flow of Mixtures of Fluids
+scientific_discipline: Physics > Fluid mechanics
+semantic_tags:
+- Fluid mechanics
+- Non-Newtonian fluids
+- Diffusion
+- Mixture flow
+- Wave propagation
+tldr: The authors present a theory for the flow and non-linear diffusion of mixtures
+  of fluids based on hydrodynamical considerations. They assume that each point in
+  the mixture is occupied by all constituents in given portions, and the motion of
+  each constituent is governed by the usual equations of motion and continuity. The
+  theory is applied to various steady-state problems involving non-Newtonian fluids
+  and the propagation of plane waves through a homogeneous mixture of viscous fluids
+  at rest.

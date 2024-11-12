@@ -1,0 +1,16 @@
+article_id: rsta_1969_0002
+revised_title: Semiclassical Dispersion Theory for Laser Operation
+scientific_discipline: Physics > Laser Physics
+semantic_tags:
+- Laser Physics
+- Quantum Mechanics
+- Electromagnetic Fields
+- Optical Physics
+- Laser Theory
+tldr: This article presents a semiclassical dispersion theory to describe the operation
+  of lasers. The theory treats the radiation field classically and the atoms as effective
+  two-state systems described quantum mechanically. The authors derive a closed set
+  of equations linking the average electric field, polarization density, and population
+  inversion density associated with atoms moving with different velocities. They analyze
+  the steady-state conditions for standing and traveling wave lasers, providing a
+  complex dispersion relation that balances gain against losses.

@@ -1,0 +1,15 @@
+article_id: rspa_1937_0149
+revised_title: 'Numerical Solution of Partial Differential Equations: A New Approach'
+scientific_discipline: Mathematics > Numerical methods
+semantic_tags:
+- Numerical methods
+- Differential equations
+- Mathematical physics
+- Computational mathematics
+- Extrapolation
+tldr: The authors present a new method for solving certain types of partial differential
+  equations using mechanical or numerical means. They apply this method to equations
+  with two independent variables and specific boundary conditions. The method involves
+  replacing derivatives with respect to one variable with finite difference ratios
+  and integrating the other variable mechanically. The authors also discuss the process
+  of extrapolation to correct for errors in the solution.

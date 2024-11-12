@@ -1,0 +1,16 @@
+article_id: rspa_1931_0189
+revised_title: 'Formation of Vortices from a Surface of Discontinuity: A Numerical
+  Approach'
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Vortex Formation
+- Surface Instability
+- Numerical Methods
+- Rayleigh Instability
+tldr: This article investigates the formation of vortices from a surface of discontinuity
+  using a numerical method. The authors replace the continuous distribution of vorticity
+  with isolated vortices along the trace of the surface and follow their paths using
+  a step-by-step numerical method. The results show that the effect of instability
+  on a surface of discontinuity is to produce concentrations of vorticity at equal
+  intervals along the surface, leading to the formation of vortices.

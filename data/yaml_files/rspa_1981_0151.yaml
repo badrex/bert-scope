@@ -1,0 +1,17 @@
+article_id: rspa_1981_0151
+revised_title: 'Diffraction of Elastic Waves by Penny-Shaped Cracks: A New Method
+  for Solving the Boundary-Value Problem'
+scientific_discipline: Engineering and Technology > Mechanics of Materials
+semantic_tags:
+- Elasticity
+- Wave Diffraction
+- Boundary-Value Problems
+- Green Functions
+- Penny-Shaped Cracks
+tldr: The authors present a new method for solving the boundary-value problem of diffraction
+  of elastic waves by penny-shaped cracks. They use an elastic double layer potential
+  and derive a Fredholm integral equation of the second kind for the discontinuity
+  in the displacement across the crack. The solution of this equation represents the
+  displacement field as an elastic double layer with a density that satisfies certain
+  conditions. This method extends previous work in two-dimensional acoustics and provides
+  a rigorous solution for three-dimensional elastodynamics.

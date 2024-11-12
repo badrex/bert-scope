@@ -1,0 +1,17 @@
+article_id: rspa_1968_0038
+revised_title: 'Multipole Expansions for Stationary Fields in General Relativity:
+  A New Approach'
+scientific_discipline: Physics > Gravitational Theory
+semantic_tags:
+- General Relativity
+- Multipole Expansions
+- Stationary Fields
+- Gravitational Theory
+- Newtonian Field
+tldr: This article explores stationary solutions of the Einstein field equations to
+  discover the number of multipole moments that occur. The author expands the field
+  equations in negative powers of a suitable radial coordinate, similar to Newtonian
+  methods, and finds that the number of arbitrary constants in the solution is twice
+  the number in the static Newtonian field. The additional moments are related to
+  the angular momentum terms that do not act as a source of the field in Newtonian
+  theory.

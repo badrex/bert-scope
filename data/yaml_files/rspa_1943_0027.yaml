@@ -1,0 +1,15 @@
+article_id: rspa_1943_0027
+revised_title: 'Relaxation Methods for Engineering Problems: Plane-Potential Problems
+  with Specified Normal Gradients'
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Relaxation methods
+- Engineering problems
+- Plane-potential problems
+- Normal gradients
+- Boundary conditions
+tldr: The authors present two methods for solving plane-potential problems involving
+  specified normal gradients in engineering. They discuss the relaxation techniques
+  and their applications, focusing on the physical interpretation of the problem using
+  Prandtl's membrane analogy. The methods are applicable to various types of boundary
+  conditions and can be used to find optimal solutions for engineering problems.

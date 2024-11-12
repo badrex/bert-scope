@@ -1,0 +1,16 @@
+article_id: rsta_1994_0031
+revised_title: 'Wave Intensity Analysis: An Improved Method for High Frequency Vibrations'
+scientific_discipline: Engineering and Technology > Structural Dynamics
+semantic_tags:
+- Statistical energy analysis
+- Wave intensity analysis
+- High frequency vibrations
+- Structural dynamics
+- Engineering structures
+tldr: The authors present an alternative approach to statistical energy analysis called
+  wave intensity analysis, which models the directional dependence of the vibrational
+  wave intensity in each structural component using a Fourier series. This method
+  improves estimates of the vibrational energy levels in engineering structures, especially
+  in cases where the directional filtering effect of structural junctions leads to
+  non-diffuse wavefields. The authors apply the method to various plate structures
+  and demonstrate a significant improvement over conventional SEA.

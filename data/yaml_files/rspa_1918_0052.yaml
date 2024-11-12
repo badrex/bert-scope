@@ -1,0 +1,17 @@
+article_id: rspa_1918_0052
+revised_title: Rational Derivation of Dunkerley's Empirical Rule for Determining Whirling
+  Speeds in Loaded Shafts
+scientific_discipline: Engineering and Technology > Mechanical Engineering
+semantic_tags:
+- Vibration Theory
+- Mechanical Engineering
+- Fluid Mechanics
+- Turbines
+- Whirling Speeds
+tldr: The author presents a rational derivation of Dunkerley's empirical rule for
+  calculating whirling speeds in loaded shafts, such as those found in turbines and
+  turbine-driven machinery. The method involves dividing the load into parts and determining
+  the speed for each part, then summing the squares of the reciprocals of these partial
+  whirling speeds to find the first whirling speed for the whole load. The author
+  also discusses the limitations of this method and how it can be extended for more
+  accurate results.

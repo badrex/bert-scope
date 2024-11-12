@@ -1,0 +1,16 @@
+article_id: rsta_1984_0069
+revised_title: Deductive Learning in Mathematical Logic and Programming Languages
+scientific_discipline: Computer Science > Artificial Intelligence
+semantic_tags:
+- Artificial Intelligence
+- Machine Learning
+- Inductive Inference
+- Knowledge Representation
+- Computational Complexity
+tldr: The article discusses a new approach to the problem of concept learning in artificial
+  devices, focusing on a computational model of knowledge acquisition without explicit
+  programming. The study of learnability is based on a probabilistic model that allows
+  for arbitrary and unknown distributions of variable values in nature. The author
+  proposes a definition of learnability for classes of programs and a deduction procedure
+  that runs in polynomial time, enabling the deduction of programs that approximate
+  the target concept with high probability.

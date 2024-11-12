@@ -1,0 +1,17 @@
+article_id: rspa_1995_0147
+revised_title: 'Acoustic Diffraction from the Junction of Two Flat Plates: Welded
+  and Clamped Cases'
+scientific_discipline: Engineering and Technology > Mechanical Engineering
+semantic_tags:
+- Acoustics
+- Fluid-Structure Interaction
+- Plate Dynamics
+- Welded and Clamped Plates
+- Wiener-Hopf Technique
+tldr: This article presents a solution for the acoustic and structural scattered response
+  from the junction of two flat plates under unilateral fluid loading. The plates
+  are modeled using the classical theory of flexure, and the solution is found using
+  the Wiener-Hopf technique for the dual integral equations for the unknown pressure
+  on the plates. Explicit formulae are obtained for the pressure transform when the
+  plates are in welded or clamped contact, and corresponding expressions are given
+  for the various diffraction coefficients associated with the fluid-structure interaction.

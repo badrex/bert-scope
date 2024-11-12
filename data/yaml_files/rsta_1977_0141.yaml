@@ -1,0 +1,16 @@
+article_id: rsta_1977_0141
+revised_title: Inverse Scattering Methods in Diffraction Theory
+scientific_discipline: Physics > Electromagnetism
+semantic_tags:
+- Inverse Scattering
+- Diffraction Theory
+- Physical Optics
+- Electromagnetic Waves
+- Scattering Bodies
+tldr: This article explores various methods for solving the inverse scattering problem,
+  which involves determining the shape and constitution of a scattering body based
+  on the incident field and scattered far field. The authors develop a computationally
+  orientated approach using the optical extinction theorem and discuss direct and
+  inverse scattering methods. They also introduce a new method for reconstructing
+  the shapes of certain bodies of revolution and cylindrical bodies from scattered
+  fields observed at two closely spaced frequencies.

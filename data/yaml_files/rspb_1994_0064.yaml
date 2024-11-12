@@ -1,0 +1,15 @@
+article_id: rspb_1994_0064
+revised_title: The Impact of Linear Filters on Nonlinear Time Series Analysis
+scientific_discipline: Mathematics > Time series analysis
+semantic_tags:
+- Time series analysis
+- Nonlinear dynamics
+- Signal processing
+- Chaotic systems
+- Data filtering
+tldr: The authors discuss the consequences of using linear filters to reduce noise
+  in short time series for low-dimensional chaotic behavior analysis. They demonstrate
+  that simple moving average filters can falsely suggest that a white noise dataset
+  is chaotic when using a common test by biologists. However, using the method of
+  surrogate data can help avoid this issue, emphasizing the importance of careful
+  analysis when working with small datasets and sophisticated mathematical techniques.

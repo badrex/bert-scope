@@ -1,0 +1,15 @@
+article_id: '111475'
+revised_title: Envelope of Planes through Points of an Ellipsoid
+scientific_discipline: Mathematics > Geometry
+semantic_tags:
+- Geometry
+- Ellipsoids
+- Surface Geometry
+- Mathematical Analysis
+- Coordinate Geometry
+tldr: The author, Arthur Cayley, discusses the surface that is the envelope of planes
+  through the points of an ellipsoid at right angles to the radius vectors from the
+  center. He explains how to obtain the equation of the curve and surface using cubic
+  and quartic functions. The surface has nodal conics in each principal plane and
+  a cuspidal curve. The paper includes a figure showing the form of the surface for
+  a specific case.

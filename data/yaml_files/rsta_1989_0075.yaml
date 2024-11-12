@@ -1,0 +1,16 @@
+article_id: rsta_1989_0075
+revised_title: Development of a Global Coupled Atmosphere-Ocean Model
+scientific_discipline: Environmental and Earth Sciences > Climate Science
+semantic_tags:
+- Climate Modeling
+- Atmosphere-Ocean Interaction
+- Flux Correction
+- Climate Drift
+- Global Climate Change
+tldr: The authors developed a comprehensive global coupled atmosphere-ocean model
+  using a low-resolution version of the European Centre for Medium Range Weather Forecasts
+  global atmosphere model and a global ocean model from the Max Planck Institute in
+  Hamburg. They found that coupling both models created problems due to inconsistent
+  fields, but applying a flux correction helped balance the mean biases and reduce
+  the climate drift. The model's initial data and results provide valuable insights
+  into climate studies and greenhouse effect simulations.

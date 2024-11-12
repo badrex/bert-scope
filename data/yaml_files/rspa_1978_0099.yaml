@@ -1,0 +1,16 @@
+article_id: rspa_1978_0099
+revised_title: Low-Froude-Number Series Expansion and Free-Surface Flow Problems
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Fluid Dynamics
+- Hydrodynamics
+- Free-Surface Flows
+- Asymptotic Expansions
+- Ship Hydrodynamics
+sub_discipline: Fluid Dynamics
+tldr: The authors discuss the low-Froude-number approximation in free-surface hydrodynamics,
+  which leads to divergent series in powers of the Froude number. They explore the
+  properties of these divergent series for various types of two-dimensional flows
+  and demonstrate that the divergence is of exponential-integral character. The authors
+  propose a method to sum the series using suitable nonlinear iterative transformations,
+  providing accurate solutions even for moderately large Froude numbers.

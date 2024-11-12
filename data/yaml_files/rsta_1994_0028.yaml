@@ -1,0 +1,18 @@
+article_id: rsta_1994_0028
+revised_title: Inverse Statistical Energy Analysis for Quantifying Sound and Vibration
+  Transmission Paths
+scientific_discipline: Engineering and Technology > Mechanical Engineering > Acoustics
+  and Vibration
+semantic_tags:
+- Statistical Energy Analysis
+- Sound Transmission
+- Vibration Control
+- Inverse Problems
+- Noise Control
+tldr: This article discusses the use of Statistical Energy Analysis (SEA) as a tool
+  for quantifying sound and vibration transmission paths in complex structures. SEA
+  is a system of linear equations that describe the energy flow between substructures
+  and can be used to calculate loss factors, coupling loss factors, or net energy
+  flows. The article presents possible applications of SEA in buildings, ships, vehicles,
+  and machines, and demonstrates how it can help optimize noise control and identify
+  the most effective paths for sound transmission.

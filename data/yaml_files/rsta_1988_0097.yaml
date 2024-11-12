@@ -1,0 +1,17 @@
+article_id: rsta_1988_0097
+revised_title: Global Scientific and Engineering Simulations on Multiprocessors
+scientific_discipline: Engineering and Technology > Supercomputing
+semantic_tags:
+- Supercomputing
+- Parallel Computing
+- Quantum Mechanics
+- Fluid Dynamics
+- Molecular Dynamics
+tldr: The author presents a global simulation approach to complex systems using a
+  parallel supercomputer. They focus on the study of water as an example, starting
+  with building molecules from nuclei and electrons using quantum mechanics. They
+  then use Monte Carlo and molecular dynamics to study the motions of water molecules
+  and collective properties, and extend the simulation to fluid dynamics. The author
+  emphasizes the importance of using supercomputers for complex simulations and discusses
+  the implications of the global simulation methodology and supercomputers' evolution
+  in terms of productivity of information.

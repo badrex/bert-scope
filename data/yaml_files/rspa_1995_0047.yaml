@@ -1,0 +1,13 @@
+article_id: rspa_1995_0047
+revised_title: A New Signal Representation Using Half-Basis Set
+scientific_discipline: Engineering and Technology > Signal Processing
+semantic_tags:
+- Signal Representation
+- Half-Basis Set
+- Orthogonal Basis
+- Odd Frequency Components
+- Power Spectral Density
+tldr: The article introduces a new method for representing and approximating signals
+  made up of odd frequency components using a half-basis set. This method utilizes
+  a set of functions with identical power spectral densities, providing a more efficient
+  and accurate representation compared to traditional Fourier approximations.

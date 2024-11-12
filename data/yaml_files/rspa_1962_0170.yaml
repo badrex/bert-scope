@@ -1,0 +1,13 @@
+article_id: rspa_1962_0170
+revised_title: Matrices and Complexes in Commutative Rings
+scientific_discipline: Mathematics > Commutative algebra
+semantic_tags:
+- Commutative algebra
+- Matrix theory
+- Algebraic geometry
+- Homological algebra
+- Koszul complex
+tldr: The authors introduce a complex associated with a matrix in a commutative ring,
+  generalizing the Koszul complex. They explore the properties of this complex and
+  its applications to ideals defined by matrices, providing a theorem on unmixed ideals
+  and a general theorem on rank for Noetherian rings.

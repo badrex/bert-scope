@@ -1,0 +1,15 @@
+article_id: rspa_1982_0149
+revised_title: Analytical Solutions for the Ground State of Helium
+scientific_discipline: Physics > Quantum Mechanics
+semantic_tags:
+- Quantum Mechanics
+- Schrödinger Equation
+- Perturbation Theory
+- Helium Atom
+- Wavefunction
+tldr: The authors present an analytical solution for the first-order perturbation
+  equation of the ground state of the helium atom using perturbation theory. They
+  find that the wavefunction can be expressed as a partial wave expansion in spherical
+  polar coordinates with Legendre polynomials as the angular functions and radial
+  functions including polynomials and exponential integral functions. This solution
+  can be extended to the eigenvalue problem and other higher-order perturbation equations.

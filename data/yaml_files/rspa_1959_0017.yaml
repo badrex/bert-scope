@@ -1,0 +1,16 @@
+article_id: rspa_1959_0017
+revised_title: Compressible Laminar Boundary Layer with Arbitrary Pressure Gradient
+  and Uniform Wall Temperature
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Boundary Layer Theory
+- Compressible Flow
+- Heat Transfer
+- Aerodynamics
+tldr: The authors present an approximate method for predicting properties of compressible
+  boundary layers with zero heat transfer. They derive an integral of the energy equation
+  by assuming the total temperature as a quadratic function of velocity and the Prandtl
+  number as unity. The method is applied to various cases, including linearly retarded
+  velocities and high Mach numbers, and compared with exact solutions and numerical
+  integrations.

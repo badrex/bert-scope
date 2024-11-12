@@ -1,0 +1,15 @@
+article_id: rspa_1993_0123
+revised_title: Accounting for Transverse Flow in Geometrical Shock Dynamics
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Shock Waves
+- Gas Dynamics
+- Approximation Theory
+- Mach Number
+tldr: The author extends the theory of geometrical shock dynamics to account for transverse
+  flow, improving the accuracy of shock wave calculations in two dimensions. By considering
+  a coordinate system defined by the shock's motion, the author derives a first-order
+  approximation that includes additional terms compared to previous theories. This
+  new theory reveals a hierarchical wave structure and can be applied to problems
+  like shock diffraction and blast wave propagation.

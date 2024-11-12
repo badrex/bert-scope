@@ -1,0 +1,14 @@
+article_id: rspa_1986_0034
+revised_title: 'Diffraction by Three Semi-Infinite Planes: A Wiener-Hopf Approach'
+scientific_discipline: Physics > Acoustics
+semantic_tags:
+- Wave Diffraction
+- Wiener-Hopf Technique
+- Matrix Factorization
+- Sound Wave Scattering
+- Acoustics
+tldr: This article presents a solution to the scattering of a plane sound wave by
+  three parallel equidistant planes using the Wiener-Hopf technique. The author derives
+  an explicit solution and discusses various properties of the scattered field. The
+  method involves factorizing a matrix and solving the diffraction problem, providing
+  insights into the behavior of sound waves in complex environments.

@@ -1,0 +1,14 @@
+article_id: rspa_1992_0135
+revised_title: Optimal Control of Viscous Flow Problems
+scientific_discipline: Mathematics > Functional Analysis
+semantic_tags:
+- Optimal Control Theory
+- Fluid Mechanics
+- Nonlinear Evolution Equations
+- Navier-Stokes Equations
+- Boundary Control Problems
+tldr: The authors study a class of optimal control problems in viscous flow and prove
+  the existence of optimal control for these problems. They formulate three typical
+  flow control problems and demonstrate that they can be written in the form of a
+  general unified system. The main theorem provides the existence of optimal control
+  for the given class of control problems.

@@ -1,0 +1,17 @@
+article_id: rspa_1975_0092
+revised_title: Asymptotic Analysis of Viscous Shear Layers in an Oscillating Rotating
+  Fluid
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Rotating Fluids
+- Asymptotic Analysis
+- Boundary Layer Theory
+- Viscous Shear Layers
+tldr: The article discusses the behavior of a fluid rotating as if rigid with angular
+  velocity when subject to a small forced oscillation. The author examines the validity
+  of an inviscid solution and the structure of viscous shear layers in the fluid.
+  The study considers a problem in which the full viscous equations are tractable,
+  extending Stewartson's split-disk configuration to oscillatory disturbances. The
+  results show that the inviscid solution contains singularities, and the decay of
+  the fluid variables away from them is only algebraic.

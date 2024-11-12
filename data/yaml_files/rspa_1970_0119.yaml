@@ -1,0 +1,15 @@
+article_id: rspa_1970_0119
+revised_title: Three-Dimensional Structure Reconstruction from Projections in Electron
+  Microscopy
+scientific_discipline: Physics > Optics
+semantic_tags:
+- Electron microscopy
+- Fourier transforms
+- Image reconstruction
+- Crystallography
+- Particle reconstruction
+tldr: The authors present a method for reconstructing a three-dimensional structure
+  from two-dimensional projections, specifically for electron microscopy. They use
+  Fourier transforms and discuss interpolation techniques to combine data from different
+  views and create a valid reconstruction. This method has applications in understanding
+  the structure of particles and molecules.

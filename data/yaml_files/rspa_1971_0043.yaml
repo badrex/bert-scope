@@ -1,0 +1,16 @@
+article_id: rspa_1971_0043
+revised_title: Improved Method for Predicting Laminar Flow Development in Circular
+  Pipes
+scientific_discipline: Engineering and Technology > Fluid Mechanics
+semantic_tags:
+- Fluid Dynamics
+- Pipe Flow
+- Laminar Flow
+- Boundary Layer
+- Fluid Mechanics
+tldr: The authors present a simpler method for predicting laminar flow development
+  and pressure drop in the inlet of a circular pipe. Their approach combines the integral
+  method of Campbell and Slattery with the differential momentum equation, leading
+  to a straightforward solution that can be expressed in closed form. This method
+  is useful for engineering design and can be extended to fluids with varying temperature
+  and viscosity.

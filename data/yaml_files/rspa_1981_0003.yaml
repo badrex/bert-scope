@@ -1,0 +1,14 @@
+article_id: rspa_1981_0003
+revised_title: Asymptotic Analysis of Solutions to the Generalized Burgers Equation
+scientific_discipline: Physics > Fluid dynamics
+semantic_tags:
+- Burgers equation
+- Fluid dynamics
+- Wave propagation
+- Asymptotic analysis
+- Sound waves
+tldr: The authors analyze the long-time behavior of solutions to the generalized Burgers
+  equation, which describes the propagation of finite-amplitude sound waves in ducts
+  with variable cross-sections. They find different asymptotic forms for the wave
+  depending on the duct parameters and prove that the similarity solution for cylindrical
+  waves has strong global stability properties.

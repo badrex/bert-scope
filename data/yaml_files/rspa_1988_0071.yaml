@@ -1,0 +1,14 @@
+article_id: rspa_1988_0071
+revised_title: Ambiguity and Interpretations of Pairs of Images of a Surface
+scientific_discipline: Mathematics > Geometry
+semantic_tags:
+- Computer Vision
+- Image Processing
+- Optics
+- Geometry
+- Ambiguity Resolution
+tldr: The author investigates the degree of ambiguity in a pair of images of a surface
+  and the maximum number of interpretations that can be entertained. They show that
+  if the images are ambiguous, all interpretations will locate the visible elements
+  on a special type of quadric surface, and in that case, the pair of images cannot
+  sustain more than three distinct and physically acceptable interpretations.

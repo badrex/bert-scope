@@ -1,0 +1,16 @@
+article_id: rspa_1992_0088
+revised_title: Gradient Flow and Front Propagation with Boundary Contact Energy in
+  Binary Alloys
+scientific_discipline: Environmental and Earth Sciences > Materials Science
+semantic_tags:
+- Gradient flow
+- Front propagation
+- Binary alloys
+- Boundary contact energy
+- Cahn-Hilliard equation
+tldr: The authors study a gradient flow for a functional that models the interfacial
+  motion associated with domain coarsening in binary alloys, taking into account boundary
+  contact energy. They derive the first term in an asymptotic expansion for the solution
+  and show that fronts rapidly develop and propagate with normal velocity, where the
+  mean curvature of the front plays a role. The boundary contact energy also implies
+  a contact angle condition for the front.

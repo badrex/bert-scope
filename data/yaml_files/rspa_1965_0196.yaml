@@ -1,0 +1,14 @@
+article_id: rspa_1965_0196
+revised_title: Dynamic Response of an Elastic Half-Space to Time-Dependent Surface
+  Traction Over an Embedded Spherical Cavity
+scientific_discipline: Engineering and Technology > Mechanics of Materials
+semantic_tags:
+- Elasticity
+- Wave Equations
+- Boundary Value Problems
+- Spherical Cavity
+- Time-Dependent Traction
+tldr: The authors present a method to solve the dynamic response of an elastic half-space
+  with a spherical cavity under time-dependent surface tractions. They develop a solution
+  using a method of successive approximations and discuss the convergence of the solution.
+  This problem has applications in the theory of underground explosions and seismology.

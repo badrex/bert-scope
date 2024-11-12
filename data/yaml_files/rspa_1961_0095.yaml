@@ -1,0 +1,16 @@
+article_id: rspa_1961_0095
+revised_title: Electronic Energy Bands Interpolation in Alkali Metals and Metallic
+  Beryllium
+scientific_discipline: Physics > Solid State Physics
+semantic_tags:
+- Electronic band structure
+- Alkali metals
+- Metallic beryllium
+- Pseudo-potential method
+- Interpolation schemes
+tldr: The authors discuss various electronic energy band interpolation schemes for
+  the alkali metals and metallic beryllium. They apply an -dependent pseudo-potential
+  method using a small number of plane waves to expand valence electron wave functions.
+  The density of states curves and Fermi surfaces are calculated, and it is found
+  that the Fermi surface may touch the Brillouin zone boundaries. The calculated electronic
+  specific heat coefficients and valence band widths are compared to observed values.

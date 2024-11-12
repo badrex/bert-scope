@@ -1,0 +1,16 @@
+article_id: rsta_1955_0005
+revised_title: Evaluation and Tabulation of Integrals of Lipschitz-Hankel Type Involving
+  Products of Bessel Functions
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Bessel functions
+- Integral evaluation
+- Mathematical physics
+- Elliptic integrals
+- Hypergeometric functions
+tldr: This paper focuses on the evaluation and tabulation of integrals of the form
+  involving products of Bessel functions. The authors derive a formula for these integrals
+  in terms of an integral of a hypergeometric function and provide approximate expansions
+  for specific cases. The integrals are used in various problems in mathematical physics,
+  such as potential in cylindrical coordinates, vector potential, stream function,
+  and stress components in solids and plates.

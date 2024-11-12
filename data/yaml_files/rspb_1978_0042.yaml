@@ -1,0 +1,15 @@
+article_id: rspb_1978_0042
+revised_title: Understanding the Ewens Sampling Formula in Population Genetics
+scientific_discipline: Biology and Life Sciences > Genetics
+semantic_tags:
+- Population genetics
+- Ewens sampling formula
+- Genetic drift
+- Mutation
+- Selection
+tldr: The author explores the Ewens sampling formula, a probability expression that
+  describes the distribution of alleles in a population sample. This formula is valid
+  for various population models with specific characteristics, such as large population
+  size, statistical equilibrium, and non-recurrent mutations. The paper demonstrates
+  the unique status of the Ewens formula and discusses alternative sampling formulas
+  for situations where these conditions are not met.

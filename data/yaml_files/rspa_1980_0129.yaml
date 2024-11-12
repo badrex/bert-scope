@@ -1,0 +1,14 @@
+article_id: rspa_1980_0129
+revised_title: Probability Model for Fibrous Composites with Local Load Sharing
+scientific_discipline: Engineering and Technology > Materials Science
+semantic_tags:
+- Composite Materials
+- Load Sharing
+- Extreme Value Theory
+- Asymptotic Theory
+- Monte Carlo Method
+tldr: The authors develop a probability model for fibrous composites with local load
+  sharing, focusing on the chain-of-bundles model. They derive an approximation for
+  the probability of failure and provide formulae for predicting the strength of the
+  composite. The study relies on extreme value theory and an asymptotic theory, with
+  the Monte Carlo method used to analyze a specific case.

@@ -1,0 +1,19 @@
+article_id: rsta_1995_0027
+revised_title: High-Order Numerical Schemes for the Generalized Korteweg-de Vries
+  Equation
+scientific_discipline: Mathematics > Numerical Analysis
+semantic_tags:
+- Numerical methods
+- Partial differential equations
+- Korteweg-de Vries equation
+- Runge-Kutta methods
+- Spline functions
+tldr: This article presents a class of fully discrete numerical schemes for simulating
+  solutions of the generalized Korteweg-de Vries equation. The schemes have high-order
+  convergence rates in both spatial and temporal variables, using smooth splines and
+  multi-stage implicit Runge-Kutta methods for spatial and temporal discretization.
+  The authors prove the convergence of the numerical approximations to the true solution
+  of the initial-value problem as the spatial and temporal discretization approaches
+  zero. The schemes are useful for investigating the balance between nonlinearity
+  and dispersion in the equations and for comparing experimental data with numerical
+  simulations.

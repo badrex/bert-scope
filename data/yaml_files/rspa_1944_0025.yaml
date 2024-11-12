@@ -1,0 +1,15 @@
+article_id: rspa_1944_0025
+revised_title: 'Graphical Representation of Stress: Relaxation Methods in Engineering'
+scientific_discipline: Engineering and Technology > Mechanics of Materials
+semantic_tags:
+- Stress Trajectories
+- Relaxation Methods
+- Vector Representation
+- Tensor Quantities
+- Engineering Applications
+tldr: This article presents a method to graphically represent stress in engineering
+  problems using relaxation techniques. The authors demonstrate the application of
+  this method to various examples, including a beam with a curved boundary and a rectangle
+  with specified boundary displacements. The graphical representation of stress, whether
+  it is a vector or tensor quantity, is achieved by finding a function that satisfies
+  an equation with known components.

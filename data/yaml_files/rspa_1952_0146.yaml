@@ -1,0 +1,14 @@
+article_id: rspa_1952_0146
+revised_title: Distance-Neighbour Transformations for Eddy-Diffusion of Clusters
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Turbulence
+- Eddy-Diffusion
+- Distance-Neighbour Function
+- Cluster Analysis
+tldr: The author presents a new method for analyzing the diffusion of clusters in
+  fluids, using distance-neighbour transformations. This approach avoids the limitations
+  of Fick's diffusion equation and provides a more accurate representation of the
+  spreading of particles in eddy-motion. The method is demonstrated through the analysis
+  of atmospheric and oceanic observations.

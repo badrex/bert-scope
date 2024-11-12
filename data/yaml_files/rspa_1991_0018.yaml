@@ -1,0 +1,17 @@
+article_id: rspa_1991_0018
+revised_title: Revisiting the Discrepancy in Friction Factor Ratio in Laminar Flow
+  in Coils
+scientific_discipline: Engineering and Technology > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Laminar Flow
+- Friction Factor
+- Coiled Tubes
+- Numerical Simulations
+tldr: The authors investigate the origins of the discrepancy between the friction
+  factor ratio in laminar flow in coiled tubes using the extended Stokes series method
+  and other theoretical, experimental, and numerical techniques. They re-examine the
+  problem in light of new numerical evidence and suggest that the cause of the discrepancy
+  lies in the use of only the first 12 terms in the Stokes series. The authors' numerical
+  calculations show that the friction factor ratio varies as the square root of the
+  Dean number at high Dean numbers, resolving the paradox.

@@ -1,0 +1,16 @@
+article_id: rsta_1996_0083
+revised_title: On the Complexity and Computation of View Graphs of Piecewise Smooth
+  Algebraic Surfaces
+scientific_discipline: Mathematics > Computational Geometry
+semantic_tags:
+- Computational Geometry
+- Algebraic Surfaces
+- View Graphs
+- Symbolic Computation
+- Visual Perception
+tldr: The article studies the complexity and computation of view graphs of piecewise
+  smooth algebraic surfaces. It shows that the view bifurcation set of a piecewise
+  smooth surface has positive codimension, ensuring that the view graph is well-defined.
+  The article also provides an upper bound for the number of nodes in the view graph
+  and presents an exact symbolic algorithm to compute the view graphs of piecewise
+  smooth algebraic surfaces.

@@ -1,0 +1,15 @@
+article_id: '112178'
+revised_title: 'Matrix Theory: Automorphic Linear Transformation of Bipartite Quadric
+  Function'
+scientific_discipline: Mathematics > Linear Algebra
+semantic_tags:
+- Linear Algebra
+- Matrix Theory
+- Automorphic Transformation
+- Bipartite Quadric Function
+- Mathematical Notation
+tldr: Arthur Cayley investigates the properties of matrices for automorphic linear
+  transformations of bipartite quadric functions. He establishes the properties of
+  the matrix for transforming the function xw' - yz' - y' - wx into XW' + ZY' - ZY'
+  + WX. This work is an extension of his previous memoir on automorphic linear transformations
+  and is applicable to any even number of variables.

@@ -1,0 +1,17 @@
+article_id: rspa_1958_0220
+revised_title: Computational Methods for Analyzing and Predicting Artificial Earth
+  Satellite Orbits
+scientific_discipline: Physics > Celestial Mechanics
+semantic_tags:
+- Satellite Orbits
+- Celestial Mechanics
+- Spacecraft Dynamics
+- Radar Observations
+- Satellite Tracking
+tldr: The authors present a method for computing and analyzing the orbits of artificial
+  earth satellites using centimetric radar observations. They describe the orbital
+  program for satellites at the Astrophysical Observatory of the Smithsonian Institution,
+  which includes routines for determining approximate orbits, improving orbits using
+  differential corrections, and generating ephemerides. The method accounts for various
+  factors such as drag, perturbations, and station positions, making it useful for
+  predicting satellite movements and tracking their positions.

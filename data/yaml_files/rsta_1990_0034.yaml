@@ -1,0 +1,18 @@
+article_id: rsta_1990_0034
+revised_title: Sunspot Data Analysis and Solar-Terrestrial Interactions
+scientific_discipline: Physics > Astronomy
+semantic_tags:
+- Solar Cycle
+- Sunspot Analysis
+- Spectral Analysis
+- Solar-Terrestrial Interactions
+- Climate Change
+tldr: The authors analyze the Wolf sunspot number series in the frequency domain to
+  determine the dimension of the solar cycle system and study the stability of its
+  main quasi-periodicities. They use various spectrum analysis methods, including
+  Fourier harmonic, Blackman-Tukey, and maximum entropy spectrum analysis, to detect
+  stationarity and periodicity in the sunspot data. The results show that the 11-year
+  cycle splits before 1800, with a 55-year cycle dominant, and a single 11-year and
+  100-year peak after 1800. The authors suggest that working with the more invariant
+  22-year magnetic series can help explain the complex, non-stationary behavior of
+  the sunspot series and solar-terrestrial interactions.

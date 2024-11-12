@@ -1,0 +1,14 @@
+article_id: rspa_1995_0001
+revised_title: A New Approach to Solving Dynamo Equations in Magnetohydrodynamics
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Magnetohydrodynamics
+- Dynamo Theory
+- Geophysics
+- Fluid Dynamics
+- Numerical Methods
+tldr: The authors present a new mapping method for solving the equations of magnetohydrodynamics,
+  focusing on dynamo action in rapidly rotating, electrically conducting fluids. This
+  method allows for the study of the decay rate of magnetic fields in a stationary
+  sphere and various types of dynamos. The authors also explore an intermediate dynamo
+  model that partially accounts for the dynamics of the system.

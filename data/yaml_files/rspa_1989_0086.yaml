@@ -1,0 +1,17 @@
+article_id: rspa_1989_0086
+revised_title: Physical Interpretation of Chandrasekhar's Separation Constants in
+  Kerr Geometry
+scientific_discipline: Physics > Relativity and Gravitation
+semantic_tags:
+- Dirac's equation
+- Kerr geometry
+- Angular momentum
+- Separation constants
+- Spinors
+tldr: The author compares Chandrasekhar's separation constants in his solution of
+  Dirac's equation in Kerr geometry with the corresponding constants in flat space.
+  They show that in the limit of vanishing Kerr length-parameter, Chandrasekhar's
+  separation constant is equal to the total angular momentum. This result is derived
+  from a comparison of the form of the simultaneous partial differential equation
+  obeyed by Chandrasekhar's angular functions and the differential equations obeyed
+  by the corresponding pair of angular functions in flat space.

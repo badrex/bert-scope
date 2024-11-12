@@ -1,0 +1,15 @@
+article_id: rsta_1988_0033
+revised_title: System Architectures for Interactive Knowledge-Based Image Interpretation
+scientific_discipline: Engineering and Technology > Computer Science
+semantic_tags:
+- Image processing
+- Automated image interpretation
+- Knowledge-based systems
+- Remote sensing
+- Machine learning
+tldr: This article discusses the importance of considering the complete system architecture
+  for automated image interpretation, emphasizing the connection between high-level
+  and low-level processing. The authors argue for a knowledge-based approach and the
+  need for interaction between the user and the system. They identify the main architectural
+  problems and propose a systematic strategy for acquiring, structuring, and using
+  knowledge in image interpretation.

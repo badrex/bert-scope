@@ -1,0 +1,13 @@
+article_id: rspa_1996_0138
+revised_title: Advanced Method for Analyzing Rough Surface Scattering
+scientific_discipline: Physics > Optics
+semantic_tags:
+- Wave Scattering
+- Random Surfaces
+- Gaussian Statistics
+- Integral Equations
+- Numerical Techniques
+tldr: The authors present a new method for analyzing the scattering of waves from
+  rough surfaces, focusing on surfaces with Gaussian statistics and correlation functions.
+  The technique breaks down the problem into manageable sub-problems, allowing for
+  more efficient numerical solutions and better-conditioned matrix problems.

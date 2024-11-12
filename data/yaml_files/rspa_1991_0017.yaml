@@ -1,0 +1,14 @@
+article_id: rspa_1991_0017
+revised_title: Non-Existence of Path Integrals in Stochastic Calculus
+scientific_discipline: Mathematics > Analysis
+semantic_tags:
+- Stochastic Calculus
+- Path Integrals
+- Brownian Motion
+- Stratonovich Integral
+- Ito Integral
+tldr: This article demonstrates the non-existence of path integrals in stochastic
+  calculus, specifically for classes of paths involving brownian motions. It also
+  discusses the limitations of the Stratonovich and Ito integrals and the importance
+  of considering the pair in a strong way for a theory rich enough to discuss situations
+  arising in stochastic integration.

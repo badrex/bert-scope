@@ -1,0 +1,14 @@
+article_id: rsta_1993_0134
+revised_title: Integers with Small Prime Factors in Arithmetic Progressions
+scientific_discipline: Mathematics > Number Theory
+semantic_tags:
+- Number Theory
+- Analytic Number Theory
+- Prime Numbers
+- Arithmetic Progressions
+- Dickman Function
+tldr: The author investigates the distribution of integers with only small prime factors
+  in arithmetic progressions. They prove that for any fixed e > 0, there are asymptotically
+  the same number of such integers in each arithmetic progression (mod y), provided
+  that y^q1+e and as y^-oo. This improves previous estimates and has applications
+  in various areas of number theory.

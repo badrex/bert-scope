@@ -1,0 +1,14 @@
+article_id: '107866'
+revised_title: Correction of Solar Tables Based on Mr. South's Observations
+scientific_discipline: Astronomy > Celestial Mechanics
+semantic_tags:
+- Astronomy
+- Solar System
+- Celestial Mechanics
+- Ephemerides
+- Error Analysis
+tldr: The author analyzed discrepancies between observed and calculated solar positions
+  and found that they were mainly due to errors in the solar tables. By correcting
+  the epoch, place of the perigee, and the greatest equation of the center, the author
+  proposed improvements to the solar tables, which would require an increase in the
+  epoch of the sun's longitude and a decrease in the mean anomaly.

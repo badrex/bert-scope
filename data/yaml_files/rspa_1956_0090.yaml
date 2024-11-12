@@ -1,0 +1,14 @@
+article_id: rspa_1956_0090
+revised_title: 'Unsteady Free-Boundary Flows: General Theory and Applications'
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Unsteady Flows
+- Free Boundaries
+- Boundary Layer Theory
+- Hydrodynamics
+tldr: The authors present a general theory for unsteady two-dimensional flows with
+  free boundaries, expanding on the initial development of steady two-dimensional
+  flows. They transform the problem into the hodograph plane and apply the unsteady
+  form of Bernoulli's equation to derive boundary conditions. The method is then applied
+  to specific problems, such as jet flow through a slit and flow around obstacles.

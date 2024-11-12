@@ -1,0 +1,16 @@
+article_id: rspa_1985_0074
+revised_title: Parametrization of Pair Correlation Function for Hard Spheres Near
+  a Hard Wall
+scientific_discipline: Physics > Fluid dynamics
+semantic_tags:
+- Statistical mechanics
+- Fluid dynamics
+- Hard sphere model
+- Pair correlation function
+- Surface tension
+tldr: The authors propose a new parametrization for the pair correlation function
+  of a hard sphere fluid near a hard wall. The new parametrization is an interpolation
+  between the Percus shielding approximation and the bulk pair correlation function,
+  with a semi-empirical modification to satisfy the surface tension. The resulting
+  pair correlation function is in good agreement with computer simulations and satisfies
+  a sum rule for the slope of the density profile.

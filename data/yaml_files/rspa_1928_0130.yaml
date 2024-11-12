@@ -1,0 +1,17 @@
+article_id: rspa_1928_0130
+revised_title: 'Electromagnetic Phenomena in Gravitational Fields: A Tensorial Approach'
+scientific_discipline: Physics > Electromagnetism
+semantic_tags:
+- General Relativity
+- Electromagnetic Theory
+- Tensor Calculus
+- Gravitational Fields
+- Electromagnetic Potentials
+tldr: The author presents a tensorial approach to study electromagnetic phenomena
+  in gravitational fields. They derive a formula for the electromagnetic potential
+  vector due to an electron's motion in any gravitational field, which is valid for
+  both Galilean and non-Galilean space-time. The formula is then applied to a quasi-uniform
+  gravitational field, and the electric potential due to a single electron at rest
+  is found to agree with previous solutions. This method allows for finding the vector
+  potential of any distribution of moving electrons, given the ability to integrate
+  the equations of null geodesics.

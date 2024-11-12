@@ -1,0 +1,14 @@
+article_id: rspl_1890_0075
+revised_title: A Unified Approach to Tidal Prediction
+scientific_discipline: Environmental and Earth Sciences > Oceanography
+semantic_tags:
+- Tides
+- Oceanography
+- Harmonic Analysis
+- Tide Prediction
+- Nautical Almanac
+tldr: The author presents a method for creating a general tide table applicable for
+  all time, allowing anyone with basic knowledge of the Nautical Almanac to compute
+  tides for specific days. This method can also be used to create special tide tables
+  for any year with relatively little effort. The author demonstrates the accuracy
+  of this method using the complex and irregular tides of Aden as an example.

@@ -1,0 +1,16 @@
+article_id: rspb_1985_0096
+revised_title: Probabilistic Models for Estimating Evolutionary Relationships from
+  Nucleic Acid and Protein Sequences
+scientific_discipline: Biology and Life Sciences > Molecular Biology and Evolution
+semantic_tags:
+- Molecular Evolution
+- Phylogenetics
+- DNA Sequences
+- Protein Sequences
+- Evolutionary Trees
+tldr: The authors discuss the importance of using probabilistic models to estimate
+  evolutionary relationships from nucleic acid and protein sequences. They emphasize
+  the need for realistic models of molecular evolution and present methods for reconstructing
+  phylogenetic trees based on these models. The authors also highlight the limitations
+  of current stochastic models and suggest ways to refine or refute them using accumulating
+  experimental information.

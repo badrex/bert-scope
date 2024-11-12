@@ -1,0 +1,16 @@
+article_id: rspa_1955_0027
+revised_title: Numerical Solutions of Differential Equations for Reflexion of Long
+  Radio Waves from the Ionosphere
+scientific_discipline: Physics > Electromagnetism
+semantic_tags:
+- Ionosphere
+- Radio Waves
+- Differential Equations
+- Numerical Methods
+- Electromagnetic Waves
+tldr: The authors present two numerical methods for solving differential equations
+  that govern the reflexion of long and very long radio waves from the ionosphere.
+  They describe the mathematical and physical basis of these methods and discuss their
+  application using the EDSAC digital calculating machine. The methods provide a way
+  to calculate the reflecting properties of the ionosphere for long radio waves, helping
+  to understand the properties of the ionosphere and its electron density.

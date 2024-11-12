@@ -1,0 +1,15 @@
+article_id: rspa_1972_0160
+revised_title: Analytical and Numerical Solutions for Singularity in Free Boundary
+  Problems
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Free boundary problems
+- Numerical methods
+- Laplace's equation
+- Complex variable techniques
+- Fluid percolation
+tldr: The author presents a method for solving free boundary problems, focusing on
+  the singularity at the separation point. They use complex variable techniques and
+  numerical methods to improve the accuracy of the finite-difference solution near
+  the singularity. The study is applied to a specific free boundary problem involving
+  fluid percolation through a porous dam, providing numerical results for comparison.

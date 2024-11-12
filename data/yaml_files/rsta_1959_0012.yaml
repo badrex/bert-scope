@@ -1,0 +1,15 @@
+article_id: rsta_1959_0012
+revised_title: 'Solution of a Diffraction Problem: Wide Double Wedge'
+scientific_discipline: Physics > Electromagnetism
+semantic_tags:
+- Diffraction Theory
+- Waveguides
+- Electromagnetic Waves
+- Wide Double Wedge
+- Approximation Methods
+tldr: The article investigates the problem of radiation from a semi-infinite parallel-plate
+  waveguide, terminated by an infinite plane flange (double wedge), in the wide double-wedge
+  case. The problem is reduced to an infinite system of linear equations, and an approximate
+  solution is obtained using the -representation. The diffraction patterns and reflection
+  coefficient are evaluated, and the accuracy and limits of classical diffraction
+  theory are discussed.

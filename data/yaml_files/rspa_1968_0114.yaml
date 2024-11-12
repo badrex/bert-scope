@@ -1,0 +1,15 @@
+article_id: rspa_1968_0114
+revised_title: Analyzing Tides in Cross-Shaped Oceans
+scientific_discipline: Environmental and Earth Sciences > Oceanography
+semantic_tags:
+- Oceanography
+- Tides
+- Fluid Dynamics
+- Geophysics
+- Mathematical Modeling
+tldr: This article presents a method for solving tidal equations in oceanic basins
+  of uniform depth, composed of an arbitrary number of adjoining rectangles. The authors
+  apply this method to a cross-shaped oceanic basin and find a dynamic amplification
+  factor of 41. The study shows that the convergence of the solution in a cross-shaped
+  basin is not as good as in a rectangular basin, with the slowest convergence occurring
+  near the blunt edges.

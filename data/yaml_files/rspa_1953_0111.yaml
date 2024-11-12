@@ -1,0 +1,15 @@
+article_id: rspa_1953_0111
+revised_title: A New Approach to Perturbation Expansions in Quantum Mechanics
+scientific_discipline: Physics > Quantum Mechanics
+semantic_tags:
+- Quantum Mechanics
+- Perturbation Theory
+- Schrödinger Equation
+- Hamiltonians
+- Interaction Representation
+tldr: The author presents a new method for deriving perturbation theory formulae in
+  quantum mechanics using elementary algebra. This approach solves the Schrödinger
+  equation by expressing the perturbation energy in powers of the perturbation, providing
+  a straightforward derivation of the older and recent perturbation expansions. The
+  method is demonstrated for time-independent and time-dependent Hamiltonians, and
+  the results are compared with the interaction representation.

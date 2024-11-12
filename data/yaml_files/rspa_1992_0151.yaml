@@ -1,0 +1,15 @@
+article_id: rspa_1992_0151
+revised_title: Spatial Hamiltonian Structure and Water-Wave Problem
+scientific_discipline: Physics > Fluid mechanics
+semantic_tags:
+- Hamiltonian mechanics
+- Fluid mechanics
+- Water waves
+- Relative equilibria
+- Symplectic operator
+tldr: The author constructs a spatial Hamiltonian evolution equation for relative
+  equilibria in the water-wave problem with surface tension. The energy and momentum
+  fluxes play a crucial role in the spatial Hamiltonian structure, and the author
+  uses this structure to show the existence of dual variational principles for traveling
+  waves and analyze a singularity in the dispersion relation for capillary-gravity
+  waves.

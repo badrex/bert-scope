@@ -1,0 +1,16 @@
+article_id: rspa_1983_0068
+revised_title: Higher-Order Asymptotics of Statistical Tests and Interval Estimators
+scientific_discipline: Mathematics > Differential Geometry
+semantic_tags:
+- Statistical Inference
+- Differential Geometry
+- Asymptotic Theory
+- Exponential Family
+- Conditional Inference
+tldr: The authors develop a higher-order asymptotic theory for statistical tests and
+  interval estimators in a one-parameter curved exponential family. They analyze the
+  first, second, and third-order powers of tests and the expected size of interval
+  estimators, both conditional and unconditional. The study also explores the characteristics
+  of conditional inference and the role of ancillary statistics and curvatures in
+  the process. The findings contribute to a better understanding of the geometrical
+  approach to statistical inference.

@@ -1,0 +1,15 @@
+article_id: rstb_1982_0011
+revised_title: 'Modeling Crop Response to Nitrogen Fertilizer: The Nitrogen Cycle'
+scientific_discipline: Environmental and Earth Sciences > Soil Science
+semantic_tags:
+- '''Agriculture'''
+- '''Fertilizers'''
+- '''Crop Science'''
+- '''Nutrient Management'''
+- '''Soil Science'''
+tldr: This article presents a dynamic model for estimating the day-to-day response
+  of crops to nitrogen fertilizer. The model combines theories on plant processes,
+  such as the demand for nitrogen, percentage nitrogen in plant material, and root
+  development in soil. Simulation studies indicate that failure to account for variations
+  in subsoil nitrate and rooting depth is a major cause of uncertainty in forecasting
+  fertilizer requirements.

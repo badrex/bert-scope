@@ -1,0 +1,16 @@
+article_id: rsta_1906_0002
+revised_title: A New Approach to the Theory of Partitions and Magic Squares
+scientific_discipline: Mathematics > Combinatorial Analysis
+semantic_tags:
+- Combinatorial Analysis
+- Number Theory
+- Magic Squares
+- Diophantine Equations
+- Syzygetic Theory
+tldr: The author, P. A. MacMahon, explores the theory of partitions and magic squares,
+  focusing on general magic squares and their properties. He defines a general magic
+  square as a square with integers arranged in such a way that the rows, columns,
+  and diagonals contain partitions of the same number. MacMahon demonstrates how to
+  construct these squares and their associated syzygetic theories, which are connected
+  to linear homogeneous Diophantine equations. He also discusses the enumeration of
+  magic squares with specific row, column, and diagonal properties.

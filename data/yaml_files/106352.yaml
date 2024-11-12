@@ -1,0 +1,14 @@
+article_id: '106352'
+revised_title: A Method of Finding Infinite Series Using Binomial Theorem
+scientific_discipline: Mathematics > Infinite Series
+semantic_tags:
+- Mathematics
+- Infinite Series
+- Binomial Theorem
+- Logarithms
+- Newton's Notation
+tldr: The author presents a method to find a near value of a slowly-converging infinite
+  series using Sir Isaac Newton's binomial theorem. The method involves using generating
+  fractions and adjusting the values of m and n to approach equality with the series'
+  coefficients. The author demonstrates this method with an example of the series
+  x + xx/2 + x3/3 + x4/4 + x5/5 +... when x is nearly equal to 1.

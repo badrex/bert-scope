@@ -1,0 +1,15 @@
+article_id: rspa_1993_0087
+revised_title: Techniques for Analyzing Multi-Wavelength Anomalous Scattering Data
+scientific_discipline: Physics > Optics
+semantic_tags:
+- X-ray crystallography
+- Anomalous scattering
+- Protein structure determination
+- Patterson-like functions
+- Multi-wavelength data analysis
+tldr: The article describes various techniques for using multi-wavelength anomalous
+  scattering data to determine protein structures. The authors explore different methods,
+  including Patterson-like functions and analytical methods like AGREE and ROTATE,
+  and discuss the importance of data consistency and preprocessing with the REVISE
+  procedure. These techniques were applied to the core streptavidin data, demonstrating
+  their effectiveness in solving protein structures.

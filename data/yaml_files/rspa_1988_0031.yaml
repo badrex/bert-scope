@@ -1,0 +1,17 @@
+article_id: rspa_1988_0031
+revised_title: Advances in Calculating Wavemaking Resistance of Ships
+scientific_discipline: Engineering and Technology > Naval Architecture
+semantic_tags:
+- Ship Hydrodynamics
+- Potential Flow
+- Naval Architecture
+- Fluid Mechanics
+- Numerical Methods
+tldr: This article discusses the development of methods to calculate the wavemaking
+  resistance of ships in calm water using potential flow theory. The authors focus
+  on the Neumann-Kelvin approach, which neglects the nonlinear effects of the free
+  surface and uses a Kelvin wave source distribution technique. They compare experimental
+  and theoretical predictions for various ship forms and find that accurate numerical
+  methods are crucial for solving the Neumann-Kelvin problem. The article also presents
+  advancements in computational tools and efficient algorithms for evaluating the
+  Kelvin wave source potential.

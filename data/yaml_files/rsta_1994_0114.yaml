@@ -1,0 +1,15 @@
+article_id: rsta_1994_0114
+revised_title: 'Subsumption Architecture and Theorem Proving: A Comparative Analysis'
+scientific_discipline: Artificial Intelligence > Robotics
+semantic_tags:
+- Artificial Intelligence
+- Theorem Proving
+- Subsumption Architecture
+- Robotics
+- Machine Intelligence
+tldr: This article explores the connection between Rodney Brooks' subsumption architecture
+  for robotics and automatic theorem proving, a key area of artificial intelligence.
+  The author finds that there are similarities between the two approaches, challenging
+  the distinction between "nouvelle AI" and "good old-fashioned AI." The subsumption
+  architecture's potential for theorem proving is examined, highlighting its potential
+  for improving efficiency and organization in AI products.

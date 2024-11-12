@@ -1,0 +1,14 @@
+article_id: rsta_1906_0001
+revised_title: Solving Linear Differential Equations and Canonical Forms
+scientific_discipline: Mathematics > Linear Algebra
+semantic_tags:
+- Differential Equations
+- Linear Algebra
+- Canonical Forms
+- Matrix Theory
+- Mathematical Analysis
+tldr: The author presents a method for solving linear differential equations by analyzing
+  the canonical form of a matrix. This method allows for the unique determination
+  of the determining matrix when the roots of the characteristic equation are unequal.
+  The author also discusses the general case, operators, and subnormal forms when
+  certain equations of condition are not satisfied.

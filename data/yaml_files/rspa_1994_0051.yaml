@@ -1,0 +1,14 @@
+article_id: rspa_1994_0051
+revised_title: Numerical Computation of Titchmarsh-Weyl m-Function using Repeated
+  Diagonalization
+scientific_discipline: Mathematics > Numerical Analysis
+semantic_tags:
+- Differential Equations
+- Numerical Analysis
+- Sturm-Liouville Theory
+- Titchmarsh-Weyl Function
+- Repeated Diagonalization
+tldr: The authors develop a numerical algorithm using repeated diagonalization techniques
+  to estimate the Titchmarsh-Weyl coefficient in the second-order differential equation.
+  This algorithm is effective for small values of the integer and functions with large
+  negative real parts as the solutions of the equation are highly oscillatory.

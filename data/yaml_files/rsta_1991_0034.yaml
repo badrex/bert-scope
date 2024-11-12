@@ -1,0 +1,15 @@
+article_id: rsta_1991_0034
+revised_title: Recursion Method for Electronic States in Complicated Materials
+scientific_discipline: Physics > Solid State Physics
+semantic_tags:
+- Solid State Physics
+- Quantum Mechanics
+- Electronic Structure
+- Path Counting
+- Recursion Method
+tldr: The article discusses the recursion method, a solution to the Schrödinger equation,
+  for calculating electronic states in complicated materials. The method involves
+  transforming the electronic hamiltonian into a tridiagonal matrix and constructing
+  a set of basis orbitals. This process provides a convergent expansion of the energy
+  resolvent as a continued fraction, which can be used to calculate physical quantities
+  and express them in terms of sums of mutually avoiding quantum mechanical paths.

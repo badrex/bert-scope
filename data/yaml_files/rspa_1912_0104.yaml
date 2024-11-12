@@ -1,0 +1,16 @@
+article_id: rspa_1912_0104
+revised_title: 'The Elastic Hysteresis of Steel: Experimental Techniques and Observations'
+scientific_discipline: Materials Science > Mechanical Properties
+semantic_tags:
+- Elasticity
+- Hysteresis
+- Steel properties
+- Stress-strain curve
+- Thermocouple
+tldr: This article describes the experimental setup and results of measuring the energy
+  dissipated by elastic hysteresis in steel under alternating stress. The authors
+  used a machine that applies direct alternating stress to a steel bar and measured
+  the fall of temperature between the center and ends of the test piece to determine
+  the rate of energy dissipation. The results show that the energy dissipated by hysteresis
+  increases with the fourth power of the stress range, and there is no evidence of
+  cumulative changes in the material's properties under the tested conditions.

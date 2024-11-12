@@ -1,0 +1,16 @@
+article_id: rspa_1910_0020
+revised_title: Approximate Arithmetical Solutions of Differential Equations and Applications
+  to Masonry Dams
+scientific_discipline: Engineering and Technology > Civil Engineering
+semantic_tags:
+- Finite Differences
+- Differential Equations
+- Masonry Dams
+- Stress Analysis
+- Engineering
+tldr: The authors present a method to approximate the solution of physical problems
+  involving differential equations using finite differences. They apply this method
+  to calculate the stress function in a masonry dam. The process involves replacing
+  analysis with arithmetic, representing continuous functions with numbers, and using
+  central differences for differentials. The error due to finite central differences
+  can be made small, and more exact values can be extrapolated.

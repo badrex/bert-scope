@@ -1,0 +1,16 @@
+article_id: rspa_1963_0170
+revised_title: Turbidity Corrections in Multi-Component Systems
+scientific_discipline: Physics > Optics
+semantic_tags:
+- Turbidity
+- Refractive Index
+- Scattering
+- Polarizability
+- Two-Component Systems
+tldr: The authors discovered that the turbidity of a two-component system is not additive,
+  as previously assumed. They found that there is a third term in the turbidity formula
+  that depends on the excess polarizability of the solute and the polarizability of
+  the solvent. This correction is important for solutions of small molecules and can
+  alter estimates of molecular weights from turbidity by more than a few tens of molecular
+  weight units. The corrected formula may help investigate the dependence of the isothermal
+  compressibility of solutions on the concentration of solute.

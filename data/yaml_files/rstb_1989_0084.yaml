@@ -1,0 +1,15 @@
+article_id: rstb_1989_0084
+revised_title: Epidemiological and Statistical Approaches to Predicting AIDS Cases
+  in Small Subgroups
+scientific_discipline: Public Health > Epidemiology
+semantic_tags:
+- Epidemiology
+- Statistical modeling
+- Public health
+- Disease prediction
+- AIDS
+tldr: The authors present a statistical method for predicting the number of new AIDS
+  cases in small subgroups, using the total number of cases observed up to a certain
+  point as a basis for prediction. They discuss the sources of error in predicting
+  future cases and propose a simple approach that accounts for local variations in
+  the rate of the epidemic.

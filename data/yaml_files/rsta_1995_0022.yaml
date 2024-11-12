@@ -1,0 +1,14 @@
+article_id: rsta_1995_0022
+revised_title: Outlier Rejection and Error Estimation in Orthogonal Regression
+scientific_discipline: Mathematics > Linear Algebra
+semantic_tags:
+- Orthogonal Regression
+- Outlier Rejection
+- Error Estimation
+- Hyperplane Fitting
+- Matrix Perturbation Theory
+tldr: The authors present a novel technique to reject outliers from an m-dimensional
+  data set when the underlying model is a hyperplane. The method operates in the orthogonal
+  regression framework, using a new regression diagnostic based on eigendecomposition.
+  It subsumes the traditional residuals scheme and provides an error model for the
+  solution once the contaminants have been removed.

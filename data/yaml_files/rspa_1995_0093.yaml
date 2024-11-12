@@ -1,0 +1,16 @@
+article_id: rspa_1995_0093
+revised_title: 'Riemann-Siegel Expansion for the Zeta Function: High Orders and Remainders'
+scientific_discipline: Mathematics > Number Theory
+semantic_tags:
+- Number Theory
+- Analytic Number Theory
+- Asymptotic Expansions
+- Riemann Hypothesis
+- Zeta Function
+tldr: The author explores the Riemann-Siegel expansion for the zeta function, a method
+  for calculating Riemann's function on the critical line with high accuracy. The
+  expansion is derived using elementary formal manipulations of the Dirichlet series
+  and is found to be divergent, with high orders having a familiar factorial divided
+  by power dependence. The author estimates the dependence of the truncation error
+  on the order of truncation and determines the ultimate accuracy that can be obtained
+  with the method.

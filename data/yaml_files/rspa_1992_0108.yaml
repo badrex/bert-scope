@@ -1,0 +1,15 @@
+article_id: rspa_1992_0108
+revised_title: Non-existence of Periodic Solutions in Continuous Fermentation Models
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Mathematical Biology
+- Fermentation
+- Nonlinear Dynamics
+- Oscillatory Behavior
+- Chemical Reactors
+tldr: The author presents a general criterion for the absence of non-trivial periodic
+  solutions in a model of continuous fermentation. The model considers one species
+  of micro-organism and one limiting substrate, allowing for various factors such
+  as substrate inhibition, variable yield coefficients, and endogenous decay rates.
+  The criterion implies the absence of non-trivial periodic solutions when the yield
+  coefficient and endogenous decay rate are constant.

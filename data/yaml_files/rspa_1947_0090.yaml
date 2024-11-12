@@ -1,0 +1,14 @@
+article_id: rspa_1947_0090
+revised_title: Improved Treatment of Finite Summation Errors in X-ray Structure Analysis
+scientific_discipline: Physics > Optics
+semantic_tags:
+- X-ray crystallography
+- Fourier series
+- Atomic co-ordinates
+- Thermal motion
+- Error correction
+tldr: The authors present an improved method for calculating the accuracy of atomic
+  coordinates in X-ray structure analysis using Fourier series. They show that finite
+  summation errors are of the same order of magnitude in one, two, and three-dimensional
+  summations. The authors also examine the effects of thermal motion and experimental
+  errors on atomic structures and propose a method to correct for these distortions.

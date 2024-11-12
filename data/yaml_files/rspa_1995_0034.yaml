@@ -1,0 +1,17 @@
+article_id: rspa_1995_0034
+revised_title: Nip-Element Method for Geometrically Stiff Problems in Thermal Composites
+  and Porous Media
+scientific_discipline: Engineering and Technology > Finite Element Method
+semantic_tags:
+- Finite Element Method
+- Geometrically Stiff Problems
+- Thermal Composites
+- Porous Media
+- Variational Bounding Techniques
+tldr: The authors develop a hybrid method called the variational-bound nip-element
+  method for solving geometrically stiff problems in thermal composites and porous
+  media. This method combines variational bounding techniques and the finite-element
+  method, allowing for rigorous calculations of effective properties while reducing
+  geometrical stiffness. The authors apply this method to the random two-dimensional
+  thermal composite problem and the random fibrous porous media problem, providing
+  accurate results for effective thermal conductivity and permeability.

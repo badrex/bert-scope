@@ -1,0 +1,13 @@
+article_id: rspa_1991_0019
+revised_title: Mellin Transform Method for Hypersingular Integral Equations
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Integral Equations
+- Mellin Transform
+- Asymptotic Analysis
+- Applied Mathematics
+- Boundary Value Problems
+tldr: The author presents a method using Mellin transforms to analyze the edge behavior
+  of solutions to hypersingular integral equations. This method can be applied to
+  a wide class of operators and provides a systematic approach to solving problems
+  involving integral equations over finite intervals and piecewise-smooth boundaries.

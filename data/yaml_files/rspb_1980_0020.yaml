@@ -1,0 +1,15 @@
+article_id: rspb_1980_0020
+revised_title: A New Approach to Edge Detection in Images
+scientific_discipline: Computer Science > Image Processing
+semantic_tags:
+- Image Processing
+- Edge Detection
+- Computer Vision
+- Computational Theory
+- Visual Perception
+tldr: The authors present a theory of edge detection in images, using a combination
+  of filters and the second derivative of a Gaussian distribution to detect intensity
+  changes at different scales. This method creates a raw primal sketch, which is a
+  primitive description of the image, and helps in understanding the goals of early
+  image analysis in vision. The theory explains several psychophysical findings and
+  provides a basis for a physiological model of simple cells in the visual cortex.

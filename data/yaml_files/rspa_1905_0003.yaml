@@ -1,0 +1,15 @@
+article_id: rspa_1905_0003
+revised_title: A Method for Finding Conductivity for Heat
+scientific_discipline: Physics > Heat Transfer
+semantic_tags:
+- Heat conduction
+- Thermal conductivity
+- Temperature measurement
+- Thermoelectricity
+- Fourier's heat equation
+tldr: The author presents a method for finding the conductivity of heat, especially
+  in bad conductors, using a heated wire in a cylinder and measuring the difference
+  in temperature at known distances from the wire. The method involves detailed accounts
+  of the apparatus used and the mathematical problem of heat diffusion in an infinite
+  solid. The author also discusses the time required for the steady state to be reached
+  and provides a list of materials tested using the method.

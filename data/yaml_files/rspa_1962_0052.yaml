@@ -1,0 +1,16 @@
+article_id: rspa_1962_0052
+revised_title: 'Secular Variations of Satellite Orbits: A Simplified Theory'
+scientific_discipline: Environmental and Earth Sciences > Celestial Mechanics
+semantic_tags:
+- Celestial Mechanics
+- Satellite Orbits
+- Perturbation Theory
+- Space Dynamics
+- Orbital Elements
+tldr: The author presents a simplified and rigorous theory for the perturbations of
+  close earth satellite orbits, valid for all orbital eccentricities less than unity.
+  The method uses a vector treatment and describes the orbital geometry in terms of
+  angular momentum, the direction of perigee, and eccentricity. The author applies
+  the method to the effects of the earth's oblateness and atmospheric resistance,
+  evaluating integrals as asymptotic series for determining the perturbations with
+  high accuracy.

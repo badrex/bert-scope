@@ -1,0 +1,14 @@
+article_id: rspl_1879_0033
+revised_title: Separate Enumerations of Primes of the Form 4n + 1 and 4n + 3
+scientific_discipline: Mathematics > Number Theory
+semantic_tags:
+- Number Theory
+- Prime Numbers
+- Enumerations
+- Tchebycheff
+- Lucas
+tldr: The author conducted separate enumerations of prime numbers of the forms 4n
+  + 1 and 4n + 3 for seven groups of 100,000 numbers. The results show the differences
+  in properties between these two forms of prime numbers and provide insights into
+  their enumeration and potential errors. This work originated from the ideas of Professor
+  Tchebycheff and M. Edouard Lucas.

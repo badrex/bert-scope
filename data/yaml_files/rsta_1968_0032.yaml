@@ -1,0 +1,14 @@
+article_id: rsta_1968_0032
+revised_title: Extensions and Applications of Neville's and Romberg's Processes
+scientific_discipline: Mathematics > Numerical Analysis
+semantic_tags:
+- Numerical Analysis
+- Interpolation
+- Integration
+- Error Analysis
+- Matrix Formulation
+tldr: This paper re-examines Neville's process for repetitive linear combination of
+  numerical estimates and shows its applications in evaluating integrals, sums, and
+  other mathematical operations. It also explores the connection between Neville's
+  process and Romberg integration, and presents several numerical examples demonstrating
+  various applications.

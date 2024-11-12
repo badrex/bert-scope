@@ -1,0 +1,16 @@
+article_id: rspa_1992_0053
+revised_title: New Asymptotic Representation for Zeta Functions and Quantum Spectral
+  Determinants
+scientific_discipline: Mathematics > Analysis
+semantic_tags:
+- Analytic Continuation
+- Riemann Hypothesis
+- Quantum Mechanics
+- Asymptotic Expansions
+- Spectral Determinants
+tldr: The authors present a new method for representing the Riemann zeta function
+  and its applications to quantum mechanics. They develop an asymptotic expansion
+  that improves upon the Riemann-Siegel formula, providing more accurate results with
+  less computational effort. This method can be applied to semiclassical approximations
+  for spectral determinants in quantum mechanics, which are essential for understanding
+  the energies of stationary states.

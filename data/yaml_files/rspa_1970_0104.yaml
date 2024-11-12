@@ -1,0 +1,14 @@
+article_id: rspa_1970_0104
+revised_title: 'Solute Dispersion in Laminar Tube Flow: Analytical and Numerical Solutions'
+scientific_discipline: Environmental and Earth Sciences > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Transport Phenomena
+- Diffusion
+- Convection
+- Laminar Flow
+tldr: The authors present an analytical solution for the dispersion of a solute in
+  a fully developed laminar tube flow. They use the diffusion-convection equation
+  and eigenvalue-eigenvector methods to calculate local and mean concentrations. The
+  results are compared with previous analytical and experimental studies, showing
+  good agreement in the region of common validity.

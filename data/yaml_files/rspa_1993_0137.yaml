@@ -1,0 +1,16 @@
+article_id: rspa_1993_0137
+revised_title: Anisotropic Thermoelastic Conservation Laws and Applications to Fracture
+  Mechanics
+scientific_discipline: Mechanics > Solid Mechanics
+semantic_tags:
+- Thermoelasticity
+- Anisotropy
+- Fracture mechanics
+- Conservation laws
+- Stress intensity factors
+tldr: This article extends the conservation laws in anisotropic elasticity to include
+  steady-state thermal elasticity, leading to path-independent contour integrals that
+  yield stress intensity factors directly. The authors apply these integrals to obtain
+  closed-form solutions for a finite crack in an unbounded thermoelastic medium with
+  arbitrary thermal conditions on the crack faces. The results can be used to calculate
+  energy release rates and stress intensity factors in fracture mechanics.

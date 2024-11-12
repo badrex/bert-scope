@@ -1,0 +1,16 @@
+article_id: rsta_1936_0010
+revised_title: 'Forces on a Solid Body in a Stream of Viscous Fluid: A Comprehensive
+  Analysis'
+scientific_discipline: Physics > Fluid Mechanics
+semantic_tags:
+- Fluid Dynamics
+- Viscosity
+- Lift and Drag
+- Fluid Mechanics
+- Boundary Layer Theory
+tldr: The author investigates the forces on a solid body in a stream of viscous fluid,
+  focusing on lift and drag. They use a system of linear equations to obtain a complete
+  solution, which is divided into particular integrals and a complementary function.
+  The study finds that the drag is associated with an irrotational solution, and the
+  lift is connected to diffused trailing vortices in the fluid. This research provides
+  a deeper understanding of fluid dynamics and the forces acting on objects in a fluid.

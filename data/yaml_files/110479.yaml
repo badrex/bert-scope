@@ -1,0 +1,12 @@
+article_id: '110479'
+revised_title: Complete Demonstration of Fermat's Little Theorem
+scientific_discipline: Mathematics > Number Theory
+semantic_tags:
+- Number Theory
+- Fermat's Little Theorem
+- Prime Numbers
+- Cryptography
+- Algebra
+tldr: This article presents a complete demonstration of Fermat's Little Theorem, which
+  states that if p is a prime number, then for any integer a, a^p ≡ a (mod p). The
+  theorem has significant applications in number theory, cryptography, and algebra.

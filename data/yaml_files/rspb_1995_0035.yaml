@@ -1,0 +1,16 @@
+article_id: rspb_1995_0035
+revised_title: Analyzing Tension Fluctuations in Muscle Cross-Bridges
+scientific_discipline: Biology and Life Sciences > Muscle Physiology
+semantic_tags:
+- Muscle Physiology
+- Cross-Bridge Mechanics
+- Biomechanics
+- Stochastic Behavior
+- Noise Spectrum
+tldr: The authors present an analytical theory for the spectrum of tension fluctuations
+  caused by muscle cross-bridges. They use a simplified three-state model to analyze
+  the cross-bridge cycle and introduce Langevin white-noise sources to represent fluctuations
+  in the transition rates. The study shows how each step in the cycle contributes
+  differently to the noise spectrum and how the total noise increases with filament
+  displacement. The findings provide insights into the origins of cross-bridge noise
+  and the mechanical properties of muscle fibers.

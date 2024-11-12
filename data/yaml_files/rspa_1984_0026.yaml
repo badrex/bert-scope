@@ -1,0 +1,17 @@
+article_id: rspa_1984_0026
+revised_title: Accurate Analysis of Buckling and Vibration of Composite Folded-Plate
+  Structures in Combined Shear and Compression
+scientific_discipline: Engineering and Technology > Structural Engineering
+semantic_tags:
+- Structural Engineering
+- Buckling Analysis
+- Vibration Analysis
+- Composite Materials
+- Finite Element Method
+tldr: The authors developed an accurate method for analyzing the critical buckling
+  loads of folded-plate structures with diaphragm-supported ends, loaded in combined
+  biaxial compression and shear. The method uses a Rayleigh-Ritz energy approach and
+  can be applied to isotropic or orthotropic plates, which are representative of laminated
+  fiber-reinforced composites. The analysis has been incorporated into a general-purpose
+  computer program called CAS1OPE1A, which can generate interaction curves relating
+  critical values of compression and shear for any prismatic folded-plate structure.

@@ -1,0 +1,15 @@
+article_id: rspa_1955_0258
+revised_title: Improved Wave Functions for Elementary Excitations in Superfluid Helium
+scientific_discipline: Physics > Quantum Mechanics
+semantic_tags:
+- Superfluidity
+- Quantum Mechanics
+- Helium Excitations
+- Feynman's Wave Function
+- Landau's Theory
+tldr: The authors improve Feynman's wave function for elementary excitations in superfluid
+  helium, known as rotons, by constructing better wave functions that reproduce Landau's
+  excitation spectrum more closely. They apply the variational principle and use the
+  Tamm-Dancoff approximation to find the self-energy correction for an excitation.
+  The results show a roton self-energy correction of about the magnitude required
+  by Landau's spectrum.

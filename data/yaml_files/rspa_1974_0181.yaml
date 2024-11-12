@@ -1,0 +1,13 @@
+article_id: rspa_1974_0181
+revised_title: Supersonic Surface Pressures on a Delta Wing
+scientific_discipline: Engineering and Technology > Fluid Mechanics
+semantic_tags:
+- Fluid Mechanics
+- Supersonic Flow
+- Delta Wing
+- Inviscid Flow
+- Numerical Integration
+tldr: The authors estimate pressures on the surface of a delta wing moving at supersonic
+  speed using numerical integration of two semi-characteristic forms of equations
+  for inviscid supersonic flow. They compare the results obtained from both forms
+  and conclude that the pressures given are close to the true theoretical values.

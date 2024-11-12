@@ -1,0 +1,17 @@
+article_id: rstb_1989_0106
+revised_title: Introducing the Phylogenetic Regression for Analyzing Cross-Species
+  Data
+scientific_discipline: Biology and Life Sciences > Evolutionary Biology
+semantic_tags:
+- Evolutionary Biology
+- Comparative Analysis
+- Regression Techniques
+- Phylogenetics
+- Statistical Methods
+tldr: The phylogenetic regression is a new statistical method that applies multiple
+  regression techniques to cross-species data, allowing continuous and categorical
+  variables to be tested for and controlled for. This method takes into account the
+  non-independence of species due to recognized and unrecognized phylogeny, making
+  it valid for use when information about the phylogeny is incomplete. The method
+  uses a working phylogeny to represent the relationships between species and applies
+  the radiation principle to account for unrecognized phylogeny.

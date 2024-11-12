@@ -1,0 +1,18 @@
+article_id: rspa_1978_0173
+revised_title: Magnus Forces and Asymmetry in Boundary Layer Over Spinning Blunt Body
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Boundary Layer Theory
+- Magnus Effect
+- Aerodynamics
+- Spin-Body Interaction
+tldr: The article investigates an incompressible laminar flow over a spinning blunt
+  body of revolution at incidence, considering the Magnus effect. The study uses three-dimensional
+  boundary layer theory and provides complete numerical solutions for an ellipsoid
+  of revolution at incidence and two spin rates. Spinning causes asymmetry, which
+  introduces the Magnus force, affecting crossflow, skin friction, and displacement
+  thickness. The Magnus forces due to crossflow skin friction and centrifugal pressure
+  are determined, showing partial compensation for each other. At lower spin rates,
+  the frictional force is larger, resulting in a positive Magnus force, while at high
+  spin rates, the opposite occurs.

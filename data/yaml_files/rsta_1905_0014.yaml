@@ -1,0 +1,15 @@
+article_id: rsta_1905_0014
+revised_title: On the Convergence of Infinite Series of Analytic Functions
+scientific_discipline: Mathematics > Analysis
+semantic_tags:
+- Differential Equations
+- Analytic Functions
+- Series Convergence
+- Hypergeometric Functions
+- Bessel Functions
+tldr: This article explores the convergence of infinite series of analytic functions,
+  focusing on the convergence of functions defined by linear differential equations
+  of the second order. The author applies the results to the expansion of an arbitrary
+  uniform analytic function in a series of hypergeometric functions and demonstrates
+  the validity of the expansion if the function is regular within a certain ellipse
+  in the complex plane.

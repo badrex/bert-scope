@@ -1,0 +1,15 @@
+article_id: rspa_1995_0023
+revised_title: 'Error Estimates for the Fast Multipole Method: The Two-Dimensional
+  Case'
+scientific_discipline: Mathematics > Numerical Analysis
+semantic_tags:
+- Computational Physics
+- Numerical Methods
+- Electrostatic Interactions
+- Error Analysis
+- Fast Multipole Method
+tldr: The authors provide an error estimate for the fast multipole method in the two-dimensional
+  case, which is essential for optimizing the algorithm's efficiency. They analyze
+  the error in calculating the total electrostatic energy and forces due to particles,
+  allowing for better performance comparisons with other methods at the same relative
+  error.

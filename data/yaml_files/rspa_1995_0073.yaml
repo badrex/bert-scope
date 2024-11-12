@@ -1,0 +1,16 @@
+article_id: rspa_1995_0073
+revised_title: Wiener-Hopf Analysis of Sound Radiation from Finite Elastic Shells
+scientific_discipline: Engineering and Technology > Fluid Dynamics and Acoustics
+semantic_tags:
+- Fluid dynamics
+- Acoustics
+- Elasticity
+- Wiener-Hopf technique
+- Cylindrical shells
+tldr: This article examines the radiation of sound from a finite fluid-loaded cylindrical
+  elastic shell using the modified Wiener-Hopf technique. The shell is submerged in
+  an inviscid compressible fluid and excited by a ring force. The problem is formulated
+  as a three-part Wiener-Hopf equation, which is then reduced to two uncoupled Fredholm
+  integral equations. Asymptotic analysis is applied to the equations, resulting in
+  a finite system of algebraic equations. Numerical results are presented for the
+  radiated far-field velocity potential.

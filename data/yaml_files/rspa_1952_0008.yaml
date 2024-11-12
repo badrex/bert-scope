@@ -1,0 +1,14 @@
+article_id: rspa_1952_0008
+revised_title: Analyzing Threshold Behavior in Quantum Field Theory
+scientific_discipline: Physics > Particle Physics
+semantic_tags:
+- Quantum Field Theory
+- Threshold Behavior
+- Analytic Continuation
+- Renormalization
+- Particle Creation
+tldr: This paper investigates the behavior of matrix elements in quantum field theory,
+  particularly at creation and interference thresholds. It shows that matrix elements
+  are analytic functions between thresholds and have branch points at interference
+  thresholds. The path of analytic continuation around these branch points is determined
+  by the assumption that particles interact through their retarded fields.

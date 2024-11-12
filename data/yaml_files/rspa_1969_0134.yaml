@@ -1,0 +1,14 @@
+article_id: rspa_1969_0134
+revised_title: Ariel III Satellite Attitude Determination Using Solar Reflexions
+scientific_discipline: Engineering and Technology > Space Technology
+semantic_tags:
+- Satellite Attitude Determination
+- Solar Reflexions
+- Spacecraft Navigation
+- Space Technology
+- Astronomy
+tldr: The authors describe a method to determine the attitude of the Ariel III satellite
+  using solar reflexions from mirrors and solar cell panels. They explain how solar
+  aspect sensors and glint observations from ground stations help in calculating the
+  spin axis direction and coning angle of the satellite. The technique provides accurate
+  results and eliminates the need for telemetry channels for solar aspect data transmission.

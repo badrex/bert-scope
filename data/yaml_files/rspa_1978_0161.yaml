@@ -1,0 +1,14 @@
+article_id: rspa_1978_0161
+revised_title: W.K.B. Approximation and Scaling in Quantum Mechanics
+scientific_discipline: Physics > Quantum Mechanics
+semantic_tags:
+- Quantum Mechanics
+- Approximation Theory
+- Scaling Behavior
+- Schrödinger Equation
+- Hamiltonian Mechanics
+tldr: This article demonstrates that the W.K.B. approximation and scaling behavior
+  of eigenvalues in the Schrödinger equation are retained for polynomial potentials.
+  The author shows that the W.K.B. eigenvalues and eigenfunctions satisfy the Hellmann-Feynman
+  theorem and the virial theorem, which determine the scaling of exact eigenvalues
+  with respect to parameters in the Hamiltonian.

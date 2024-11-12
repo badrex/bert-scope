@@ -1,0 +1,16 @@
+article_id: rspa_1968_0062
+revised_title: 'Two-dimensional Aperture Synthesis in Lunar Radar Astronomy: Advancements
+  and Applications'
+scientific_discipline: Physics > Electromagnetism
+semantic_tags:
+- Radio Astronomy
+- Lunar Science
+- Aperture Synthesis
+- Radar Imaging
+- Fourier Transform
+tldr: This article presents a method for two-dimensional aperture synthesis in lunar
+  radar astronomy, allowing researchers to construct an unambiguous map of the lunar
+  radar brightness distribution with an angular resolution of 3'. The technique involves
+  measuring the complex amplitudes of returned signals and using Fourier transforms
+  to recover the sky brightness distribution. The method has broader applications
+  in studying distant objects and celestial bodies.

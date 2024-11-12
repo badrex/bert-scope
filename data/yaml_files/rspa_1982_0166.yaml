@@ -1,0 +1,18 @@
+article_id: rspa_1982_0166
+revised_title: 'Numerical Relativity: The Characteristic Initial Value Problem'
+scientific_discipline: Physics > General Relativity
+semantic_tags:
+- Numerical Relativity
+- General Relativity
+- Einstein's Field Equations
+- Null Hypersurfaces
+- Conformal Compactification
+tldr: This article presents a new approach to numerical relativity, focusing on the
+  characteristic initial value problem. The authors propose using two null hypersurfaces
+  to simplify the problem and reduce it to the solution of two initial value problems
+  for sets of ordinary differential equations. This approach offers significant advantages,
+  such as allowing almost half of the equations to be treated as ordinary differential
+  equations and providing a way to handle singularities in the space-time. The article
+  outlines the basic equations, the geometry of intersecting null foliations, a particular
+  choice of gauge, and an explicit formulation of the characteristic initial value
+  problem.

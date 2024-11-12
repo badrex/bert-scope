@@ -1,0 +1,17 @@
+article_id: rsta_1951_0003
+revised_title: Advanced Techniques for Evaluating Molecular Integrals in Physics
+scientific_discipline: Physics > Mathematical Physics
+semantic_tags:
+- Molecular Physics
+- Quantum Mechanics
+- Mathematical Physics
+- Computational Physics
+- Molecular Theory
+tldr: This article presents a new method for evaluating complex integrals in molecular
+  theory, which is essential for understanding molecular structure. The authors introduce
+  a technique using functions and expansions to simplify and break down integrals,
+  making them more manageable for calculations. This technique is particularly useful
+  for one-electron overlap and resonance integrals, two-electron Coulomb and hybrid
+  integrals, and penetration integrals. The authors also discuss alternative methods
+  and their limitations, ultimately recommending their new approach as the most efficient
+  and practical method for evaluating molecular integrals.

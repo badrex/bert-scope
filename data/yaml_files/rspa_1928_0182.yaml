@@ -1,0 +1,15 @@
+article_id: rspa_1928_0182
+revised_title: A New Ampere Meter for Measuring High Frequency Alternating Currents
+scientific_discipline: Engineering and Technology > Electrical Engineering
+semantic_tags:
+- Electrical engineering
+- Ammeter
+- High frequency alternating current
+- Current measurement
+- Electromagnetic force
+tldr: The authors developed a new ammeter that can measure high frequency alternating
+  currents accurately and without the need for shunts. The ammeter works by measuring
+  the repulsive force between two parallel, current-carrying cylinders, which is proportional
+  to the mean square current. This design allows for the frequency error to be calculated,
+  making it suitable for use in radio communication systems with extended frequency
+  ranges.

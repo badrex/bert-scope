@@ -1,0 +1,13 @@
+article_id: rspa_1964_0115
+revised_title: 'Anisotropic Simple Fluids: Properties and Constitutive Equations'
+scientific_discipline: Physics > Fluid mechanics
+semantic_tags:
+- Fluid mechanics
+- Rheology
+- Anisotropy
+- Non-Newtonian fluids
+- Constitutive equations
+tldr: The article discusses the concept of anisotropic simple fluids, which are fluids
+  whose stress tensor depends on the whole history of displacement gradients and rotation
+  tensors. The author presents a constitutive equation for these fluids and explores
+  their properties, including the effects of limited memory and incompressibility.

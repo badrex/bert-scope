@@ -1,0 +1,16 @@
+article_id: rsta_1996_0134
+revised_title: 'Strain Coupling in Ferroelectric Transitions: PbTiO\lt;sub\gt;3\lt;/sub\gt;
+  Case Study'
+scientific_discipline: Physics > Condensed Matter Physics
+semantic_tags:
+- Ferroelectricity
+- Perovskite materials
+- Strain effects
+- Effective Hamiltonian
+- Monte Carlo simulation
+tldr: The authors construct an effective Hamiltonian for the perovskite ferroelectric
+  PbTiO\lt;sub\gt;3\lt;/sub\gt; and investigate the effects of strain on the finite-temperature
+  ferroelectric transition. They find that strain coupling stabilizes the tetragonal
+  phase and plays a significant role in determining the first-order character of the
+  phase transition. The study also explores the importance of realistic Hamiltonians
+  for future microscopic simulations of microstructure effects.

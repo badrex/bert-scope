@@ -1,0 +1,14 @@
+article_id: rspa_1984_0007
+revised_title: Extension of Floquet Theory for Doubly-Periodic Differential Equations
+scientific_discipline: Mathematics > Differential Equations
+semantic_tags:
+- Differential Equations
+- Floquet Theory
+- Periodic Coefficients
+- Exponent
+- Jacobian Elliptic Functions
+tldr: This paper develops a theory for differential equations with doubly-periodic
+  coefficients, extending the classic Floquet theory. The authors focus on the case
+  when the exponent is rational and resolve a number-theoretic conjecture proposed
+  in 1969. The theory is essential for understanding equations with only one singularity
+  in each fundamental period parallelogram and is based on the 'exponent' of the equation.

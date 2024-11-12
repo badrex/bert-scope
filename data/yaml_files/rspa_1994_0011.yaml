@@ -1,0 +1,19 @@
+article_id: rspa_1994_0011
+revised_title: Anderson Localization Effects in Fluid-Loaded Structures with Irregular
+  Ribs
+scientific_discipline: Engineering and Technology > Mechanical Engineering
+semantic_tags:
+- Anderson localization
+- Wave transmission
+- Fluid-loaded structures
+- Irregular ribbed structures
+- Mechanical impedance
+tldr: The authors study the transmission of energy through an infinite fluid-loaded
+  elastic membrane supported by irregularly spaced ribs. They find that when the Green's
+  function of the unribbed structure is only composed of its subsonic surface wave
+  component, the response of the structure is exponentially localized, a phenomenon
+  known as Anderson localization. The localization length is calculated, and it is
+  found to agree well with numerical simulations. However, when a weak acoustic component
+  is included in the Green's function, the exponential localization is short-circuited,
+  and the response decays algebraically with distance from the first rib, showing
+  negligible sensitivity to disorder.

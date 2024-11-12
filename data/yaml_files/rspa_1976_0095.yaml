@@ -1,0 +1,13 @@
+article_id: rspa_1976_0095
+revised_title: Optimal Combinatorial Approach for Cycle Bases in Structural Analysis
+scientific_discipline: Mathematics > Combinatorics
+semantic_tags:
+- Graph Theory
+- Combinatorial Mathematics
+- Structural Analysis
+- Flexibility Method
+- Cycle Bases
+tldr: The authors present a method for selecting cycle bases of minimal measure in
+  the flexibility analysis of skeletal structures. They introduce a finite sub-set
+  of the cycle vector space containing elements of all minimal cycle bases, making
+  it possible to use an optimal combinatorial approach for structural analysis.

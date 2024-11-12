@@ -1,0 +1,15 @@
+article_id: rspa_1980_0096
+revised_title: Moment and Fokker-Planck Equations for Growth and Decay of Small Objects
+scientific_discipline: Physics > Statistical Mechanics
+semantic_tags:
+- Fokker-Planck equation
+- Growth and decay
+- Moment equations
+- Discrete rate equations
+- Equilibrium model
+tldr: The authors derive and solve moment equations for the growth and decay of small
+  objects, such as particles, bubbles, or droplets, governed by discrete rate equations.
+  They examine the accuracy of static solutions of various Fokker-Planck equations
+  in an equilibrium model and compare them with numerical and exact analytical results.
+  The moment equations provide a useful method for calculating moments and predicting
+  time-dependence in these systems.

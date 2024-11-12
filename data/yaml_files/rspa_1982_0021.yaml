@@ -1,0 +1,15 @@
+article_id: rspa_1982_0021
+revised_title: Advanced Techniques for Estimating Parameters of Multi-Mode Rotor-Bearing
+  Systems
+scientific_discipline: Engineering and Technology > Mechanical Engineering
+semantic_tags:
+- Rotor dynamics
+- Bearing parameters
+- Frequency-domain estimation
+- Mechanical engineering
+- Vibration analysis
+tldr: This paper presents a frequency-domain approach to estimate the linearized bearing
+  coefficients of multi-mode rotor-bearing systems. The technique can be used with
+  complex rotor models supported by an arbitrary number of bearings and can also estimate
+  the lumped spring stiffness coefficients without additional measurements. The method
+  overcomes limitations of previous techniques and offers versatility in various applications.

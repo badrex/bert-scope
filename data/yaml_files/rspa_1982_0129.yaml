@@ -1,0 +1,16 @@
+article_id: rspa_1982_0129
+revised_title: 'Flow Dynamics in Exponentially Varying Tubes: An Extension of Daniels
+  and Eagles Theory'
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Viscous Flow
+- Tube Flow
+- Reynolds Number
+- Nonlinear Ordinary Differential Equations
+tldr: The authors extend the work of Daniels and Eagles to develop a theory for steady,
+  axisymmetric, viscous flow in tubes with locally exponential radii. They modify
+  and expand the Stokes stream function series to accommodate a wide variety of tubes
+  and provide numerical calculations for several terms. The theory has a wide applicability
+  and can be used to predict flow dynamics in tubes with bounded radii and varying
+  shapes.

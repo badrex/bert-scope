@@ -1,0 +1,14 @@
+article_id: rspa_1949_0028
+revised_title: Transforming Hydrodynamics Equations for Moving Axes
+scientific_discipline: Physics > Fluid Mechanics
+semantic_tags:
+- Hydrodynamics
+- Tensor Calculus
+- Special Relativity
+- Fluid Mechanics
+- Meteorology
+tldr: The author develops a method to transform the equations of hydrodynamics to
+  a system of curvilinear coordinates in motion relative to fixed axes using tensor
+  calculus and special relativity. This method can be applied to local Cartesian and
+  local spherical polar coordinates on Earth's surface, providing a systematic treatment
+  of moving axes in hydrodynamics.

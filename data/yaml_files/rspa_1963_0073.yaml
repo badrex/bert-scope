@@ -1,0 +1,17 @@
+article_id: rspa_1963_0073
+revised_title: 'On Flows and Fronts in a Stratified Fluid: A Study of Characteristics
+  and Operators'
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Stratified Fluids
+- Characteristics Theory
+- Hydrodynamics
+- Computational Fluid Dynamics
+tldr: This article presents a study of one-dimensional flows in a stratified fluid,
+  focusing on the behavior of characteristics and the application of the method of
+  characteristics. The authors develop a theory for stratified fluid flow, using operators
+  based on properties of characteristic lines, which can be translated into programs
+  for machine computation. They derive a complete solution for a two-layer system
+  and discuss front formation and transition within the system, identifying two distinct
+  types of fluid fronts.

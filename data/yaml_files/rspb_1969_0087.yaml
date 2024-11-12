@@ -1,0 +1,17 @@
+article_id: rspb_1969_0087
+revised_title: Nerve Net Models for Learning and Memory
+scientific_discipline: Biology and Life Sciences > Cognitive Science and Neuroscience
+semantic_tags:
+- Artificial Neural Networks
+- Cognitive Science
+- Learning Algorithms
+- Memory Storage
+- Computational Neuroscience
+tldr: The author proposes nerve net models that can learn and store a large number
+  of simple learning tasks using a small number of elements resembling nerve cells.
+  These models use modifiable synapses to store information and can learn sequences
+  of words from a large set. The models are resistant to destruction and require only
+  a general specification of connections, allowing for a large part to be random.
+  The author suggests that these models may be the most economical for their tasks
+  and that any other models with similar economy would share certain observable features,
+  such as an abundance of cells with many independent inputs and low thresholds.

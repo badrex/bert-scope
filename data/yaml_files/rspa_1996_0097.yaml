@@ -1,0 +1,15 @@
+article_id: rspa_1996_0097
+revised_title: 'Vibrations in Interconnected Membrane Systems: Analytical and Numerical
+  Methods'
+scientific_discipline: Physics > Acoustics
+semantic_tags:
+- Acoustics
+- Vibrations
+- Membranes
+- Integral Equations
+- Asymptotic Analysis
+tldr: The authors present a method to estimate the power transmitted between three
+  interconnected membranes undergoing small amplitude oscillations when one membrane
+  is excited by a point force. They use a matching technique and an integral equation
+  method to calculate the power flow between the membranes. The methods can be extended
+  to deal with more than three interconnected membranes or acoustic regions.

@@ -1,0 +1,14 @@
+article_id: rspa_1921_0032
+revised_title: A Method for Analyzing Galvanometer Records in Thermal Experiments
+scientific_discipline: Physics > Thermodynamics
+semantic_tags:
+- Galvanometer analysis
+- Thermal experiments
+- Heat production
+- Control curve
+- Differential equations
+tldr: The authors developed a method to analyze galvanometer records in thermal experiments.
+  They used a control curve to determine the course of heat production in a substance.
+  The method involves subtracting the control curve from the observed curve to obtain
+  the heat production at specific intervals. This technique can be applied to various
+  cases where a sudden outburst of heat can be provided at a definite moment.

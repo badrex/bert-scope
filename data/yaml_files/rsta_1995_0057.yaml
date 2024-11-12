@@ -1,0 +1,19 @@
+article_id: rsta_1995_0057
+revised_title: 'High-Frequency Vibration and Acoustic Radiation of Fluid-Loaded Plates:
+  Asymptotic Analysis and Modal Coupling'
+scientific_discipline: Engineering and Technology > Mechanical Engineering
+semantic_tags:
+- Fluid-Structure Interaction
+- Acoustic Radiation
+- Modal Analysis
+- Asymptotic Approximations
+- Statistical Energy Analysis
+tldr: This article investigates the high-frequency vibration and acoustic radiation
+  of fluid-loaded plates, focusing on a model problem of a simply-supported plate
+  excited by a random pressure field. The analysis yields a set of modal equations
+  coupled by acoustic interaction terms, which are difficult to evaluate numerically
+  at high frequencies and mode numbers. The authors derive asymptotic expressions
+  for the acoustic coefficients, enabling computational solution of the full, coupled
+  modal equations. They compare the results with the "diagonal approximation" (the
+  solution when coupling is ignored) and provide an improved characterization of the
+  physical nature of the acoustic coupling and conditions for its neglect.

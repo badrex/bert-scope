@@ -1,0 +1,18 @@
+article_id: rspa_1992_0017
+revised_title: Asymptotic Calculation of Acoustic Signature of Cracked Surface in
+  Line Focus Scanning Acoustic Microscope
+scientific_discipline: Engineering and Technology > Acoustic and Ultrasonic Engineering
+semantic_tags:
+- Acoustic microscopy
+- Surface cracks detection
+- Rayleigh waves
+- Scanning acoustic microscope
+- Electromechanical reciprocity identity
+tldr: This article presents an asymptotic calculation of the acoustic signature of
+  a cracked surface for the line focus scanning acoustic microscope. The authors use
+  the Debye approximation to calculate an incident focused beam and construct the
+  scattered wavefields as Fourier integrals. They apply an electromechanical reciprocity
+  identity to relate the wavefields in the coupling fluid to the voltage at the microscope's
+  transducer. The acoustic signature of a surface-breaking crack is calculated by
+  assigning reflection and transmission coefficients for the leaky Rayleigh wave and
+  using geometrical elastodynamics to construct the scattered wavefields.

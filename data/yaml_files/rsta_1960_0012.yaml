@@ -1,0 +1,17 @@
+article_id: rsta_1960_0012
+revised_title: Tungsten Vacuum-Lamp Filament Temperature Distribution Theory
+scientific_discipline: Physics > Electromagnetism
+semantic_tags:
+- Pyrometry
+- Tungsten Filament
+- Vacuum Lamp
+- Thermal Conductivity
+- Emissivity
+tldr: The authors develop a general theory for the temperature distribution in tungsten
+  vacuum lamps, focusing on their application in brightness pyrometry. They simplify
+  the properties of tungsten, assuming that resistivity and emissivity vary directly
+  with temperature, while thermal conductivity remains constant. This allows for a
+  complete solution of the main differential equation governing temperature distribution.
+  The theory is mainly applicable to two types of vacuum lamps used in optical pyrometry,
+  providing a method for estimating their main characteristics and suggesting modifications
+  in their design.

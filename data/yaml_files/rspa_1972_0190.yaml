@@ -1,0 +1,15 @@
+article_id: rspa_1972_0190
+revised_title: 'Reconstruction of 3D Structures from Projections: Applications in
+  Electron Microscopy'
+scientific_discipline: Physics > Optics
+semantic_tags:
+- Electron microscopy
+- Image reconstruction
+- Fourier transforms
+- Back-projection
+- Computational methods
+tldr: The authors discuss the reconstruction of three-dimensional structures from
+  multiple projections, specifically in the context of electron microscopy. They explore
+  direct methods, such as back-projection, and compare them to Fourier transforms
+  and other methods. The direct method is suitable for objects with rotational or
+  helical symmetry due to its computational simplicity.

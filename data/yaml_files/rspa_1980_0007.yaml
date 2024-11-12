@@ -1,0 +1,17 @@
+article_id: rspa_1980_0007
+revised_title: Exact Solution and Interpretation of Sawtooth Solutions to the Burgers
+  Equation
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Burgers Equation
+- Nonlinear Acoustics
+- Shock Waves
+- Asymptotic Analysis
+- Mathematical Physics
+tldr: The article discusses the decay of one-dimensional periodic acoustic signals
+  with moderate amplitude after developing a sawtooth profile containing one thin
+  shock in each period. The author constructs a composite asymptotic expansion using
+  Taylor shock transitions and shows that this representation is an exact solution
+  of the Burgers equation. This solution, known as the Fay solution, has a simple
+  interpretation as a periodic array of spreading shocks that do not interact as they
+  interpenetrate.

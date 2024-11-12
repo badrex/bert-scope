@@ -1,0 +1,15 @@
+article_id: rspa_1994_0062
+revised_title: Asymptotic Analysis of Eulerian Numbers
+scientific_discipline: Mathematics > Combinatorics
+semantic_tags:
+- Asymptotic Analysis
+- Combinatorics
+- Probability Theory
+- Mathematical Methods
+- Differential Equations
+tldr: The authors present an asymptotic analysis of Eulerian numbers using the ray
+  method and the method of matched asymptotic expansions. They derive an asymptotic
+  formula for the Eulerian numbers directly from their recursion relation and find
+  that it agrees with previously known results. The analysis also provides a boundary
+  layer representation for the Eulerian numbers, which can be used to determine the
+  constant in the asymptotic expansion.

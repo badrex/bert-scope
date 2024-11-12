@@ -1,0 +1,14 @@
+article_id: rspa_1942_0002
+revised_title: Investigation of Laplace's Differential Equations for Tides
+scientific_discipline: Physics > Fluid mechanics
+semantic_tags:
+- Tidal dynamics
+- Oceanography
+- Fluid mechanics
+- Laplace's equations
+- Tidal theory
+tldr: This paper investigates the validity of Laplace's differential equations for
+  ocean tides, considering the assumptions made and their impact on the equations'
+  accuracy. The author compares Laplace's equations to a more general theory, finding
+  that they provide a high degree of approximation in most cases, but may not be valid
+  for certain specific scenarios.

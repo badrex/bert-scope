@@ -1,0 +1,16 @@
+article_id: rspa_1988_0075
+revised_title: Finite-Element Modeling of Composite Materials Using Interparticle
+  Distance Distribution
+scientific_discipline: Engineering and Technology > Materials Science
+semantic_tags:
+- Composite materials
+- Finite-element analysis
+- Interparticle distance distribution
+- Voronoi cells
+- Gibbs hard-core process
+tldr: The authors develop a method for finite-element modeling of composite materials
+  by analyzing the distribution of interparticle distance and applying it to the modeling
+  of cylindrical cells. They use a theoretical approximation for the distribution
+  of this distance within a Gibbs hard-core point process and find that their method
+  provides close bounds for overall elastic properties of the material, showing reasonable
+  agreement with experimental data.

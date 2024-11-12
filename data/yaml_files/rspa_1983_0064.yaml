@@ -1,0 +1,16 @@
+article_id: rspa_1983_0064
+revised_title: 'Tree Models of Aggregation: Multiple Particle and Bond Types'
+scientific_discipline: Mathematics > Graph Theory
+semantic_tags:
+- Polymer Chemistry
+- Graph Theory
+- Branching Processes
+- Statistical Mechanics
+- Polymerization
+tldr: This article explores tree models of aggregation where particles bond pairwise
+  to form tree-structures, which can represent various applications such as chemical
+  polymerization, the precipitin reaction, and cell-surface aggregates in immunology.
+  The author uses branching processes to determine the polymer distribution and provides
+  criteria for the existence of an infinite aggregate (a gel) and the distribution
+  of finite aggregates (the sol). The study also discusses the challenges of incorporating
+  ring-formation into graph-theoretic models.

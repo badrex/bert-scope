@@ -1,0 +1,13 @@
+article_id: rspa_1988_0050
+revised_title: Iterative Solutions of Boundary Integral Equations in Acoustics
+scientific_discipline: Mathematics > Functional Analysis
+semantic_tags:
+- Boundary integral equations
+- Acoustics
+- Helmholtz equation
+- Green's functions
+- Iterative methods
+tldr: The authors present an iterative method for solving boundary integral equations
+  in acoustics, focusing on the Helmholtz equation. They demonstrate that by modifying
+  the Green's function, the boundary integral equations can be made uniquely solvable
+  for all frequencies, allowing for efficient iterative solutions.

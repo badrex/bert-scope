@@ -1,0 +1,15 @@
+article_id: rspa_1982_0037
+revised_title: Calculation of Intensity in Dispersive Inhomogeneous Media Using Ray
+  Approximation
+scientific_discipline: Physics > Optics
+semantic_tags:
+- Geometrical Optics
+- Wave Propagation
+- Dispersive Media
+- Ray Theory
+- Hamiltonian Mechanics
+tldr: The author presents a method for calculating the intensity of wavefields in
+  dispersive inhomogeneous media using the ray approximation. By appending a set of
+  subsidiary equations to the Hamilton-like equations of geometrical optics, the associated
+  intensity can be computed along each ray as it is traced. This method is applicable
+  to various forms of wave propagation and extends to dispersive anisotropic systems.

@@ -1,0 +1,16 @@
+article_id: rspa_1987_0119
+revised_title: Generation of Tollmien-Schlichting Waves in Boundary Layer
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Boundary Layer
+- Turbulence
+- Tollmien-Schlichting Waves
+- Fluid Mechanics
+tldr: The authors propose a model for the generation of Tollmien-Schlichting waves
+  in the boundary layer of a flat plate by free-stream turbulence. They suggest that
+  two harmonic components of the turbulent velocity spectrum can generate these waves
+  through nonlinear interactions. Numerical calculations based on this model show
+  that Tollmien-Schlichting waves can be generated with amplitudes similar to the
+  disturbance amplitude in the free stream, at least for certain ranges of Reynolds
+  number, wavenumber, and frequency.

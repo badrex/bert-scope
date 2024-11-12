@@ -1,0 +1,17 @@
+article_id: rsta_1994_0045
+revised_title: A Two-Dimensional Model for Sea Ice Dynamics
+scientific_discipline: Environmental and Earth Sciences > Oceanography
+semantic_tags:
+- Sea Ice Modeling
+- Ocean Dynamics
+- Ice Floe Interactions
+- Ridging Process
+- Ice Pack Stress
+tldr: This article presents a two-dimensional model for the dynamics of sea ice, considering
+  the interactions between ice floes and the effects of wind stress and Coriolis force.
+  The model introduces the layer thickness and ice area fraction as smoothly varying
+  functions of the plane coordinate and time, and eliminates the issue of area fraction
+  exceeding unity in converging flow by incorporating a ridging process. The authors
+  also derive a reduced model that describes the major balances in the motion and
+  construct an exact one-dimensional solution to illustrate the evolution of a moving
+  boundary.

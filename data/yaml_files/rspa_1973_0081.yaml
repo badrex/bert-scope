@@ -1,0 +1,21 @@
+article_id: rspa_1973_0081
+revised_title: 'Anharmonic Lattices and Korteweg-de Vries Continua: Dispersion Relation
+  and Wave Solution'
+scientific_discipline: Physics > Nonlinear Dynamics
+semantic_tags:
+- Nonlinear Dynamics
+- Lattice Dynamics
+- Korteweg-de Vries Equation
+- Anharmonic Oscillators
+- Nonlinear Wave Solutions
+tldr: The article presents a study on the dispersion relation and wave solution for
+  anharmonic lattices and Korteweg-de Vries continua. The authors reduce the set of
+  coupled difference equations describing the dynamics of a monatomic chain to uncoupled
+  anharmonic oscillators using the translational invariance of the equations. They
+  then use Poincare's perturbation scheme to obtain a space- and time-wise periodic
+  wave solution and a nonlinear dispersion relation between frequency, wavenumber,
+  and amplitude. This solution suggests a class of solutions for the generalized Korteweg-de
+  Vries equation, which is related to the long-wave limit of the nonlinear lattice
+  through a semi-characteristic variable stretching transformation. The authors present
+  numerical results for the dispersion relations using semi-empirical Morse, Born-Meyer,
+  and Lennard-Jones potentials.

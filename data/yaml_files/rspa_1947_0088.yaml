@@ -1,0 +1,16 @@
+article_id: rspa_1947_0088
+revised_title: 'Advanced Fluid Dynamics: Viscosity and Thermal Conduction in Liquids'
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Viscosity
+- Thermal Conduction
+- Kinetic Theory
+- Statistical Mechanics
+tldr: This article extends the kinetic theory of liquids to include liquids in motion,
+  deriving a set of generalized hydrodynamical equations that reveal the connection
+  between macroscopic and microscopic properties. The pressure tensor and energy-flux
+  vector in a fluid consist of two parts, due to thermal motion and intermolecular
+  forces. The author derives rigorous expressions for the coefficients of viscosity
+  and thermal conduction, applicable to both liquids and gases, and provides an approximation
+  method for studying non-uniform states in liquids and gases.

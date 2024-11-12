@@ -1,0 +1,15 @@
+article_id: rsta_1982_0014
+revised_title: Numerical Modeling of Turbulent Combustion in a Combustion Tunnel
+scientific_discipline: Engineering and Technology > Fluid Dynamics
+semantic_tags:
+- Turbulence modeling
+- Combustion
+- Fluid dynamics
+- Numerical methods
+- Random vortex method
+tldr: The authors present a numerical modeling approach for turbulent flow in a combustion
+  tunnel using the random vortex method. This method avoids finite-difference treatment
+  of equations and introduces randomness, which mimics the mechanism of local perturbations
+  in a real flow. The random vortex method is suitable for analyzing turbulent flows
+  and has been successful in solving various flow problems, including those involving
+  combustion.

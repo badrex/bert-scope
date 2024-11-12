@@ -1,0 +1,16 @@
+article_id: rspa_1971_0098
+revised_title: 'Numerical Analysis of Partial Differential Equations: Variational
+  Principles and Finite-Element Method'
+scientific_discipline: Mathematics > Applied Mathematics
+semantic_tags:
+- Numerical Analysis
+- Partial Differential Equations
+- Variational Principles
+- Finite-Element Method
+- Applied Mathematics
+tldr: This article discusses the numerical solution of partial differential equations
+  using the finite-element method based on variational principles. It explores various
+  basis functions and their applications in solving elliptic boundary-value problems,
+  as well as the Ritz-Galerkin method for approximating solutions. The article also
+  covers the use of Hermit functions, spline functions, and bivariate splines in one
+  and two dimensions.

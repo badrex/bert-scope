@@ -1,0 +1,17 @@
+article_id: rspa_1976_0027
+revised_title: Bounds and Self-Consistent Estimates for Creep of Polycrystalline Materials
+scientific_discipline: Engineering and Technology > Materials Science
+semantic_tags:
+- Creep mechanics
+- Polycrystalline materials
+- Material behavior
+- Stress dependence
+- Power law materials
+tldr: This article studies the steady creep behavior of face-centered cubic and ionic
+  polycrystals, relating it to single-crystal creep properties. The authors use an
+  upper bound technique and a self-consistent method to calculate the overall creep
+  properties. They find that the self-consistent method provides accurate results,
+  especially for high stress levels. The study also provides a basis for assessing
+  commonly used stress-creep potentials and concludes that a simple potential based
+  on the single effective stress invariant can reasonably characterize multiaxial
+  stress dependence.

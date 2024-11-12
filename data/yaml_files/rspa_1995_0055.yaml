@@ -1,0 +1,16 @@
+article_id: rspa_1995_0055
+revised_title: In-depth Analysis of the Gray-Yang Model for Hydrocarbon Oxidation
+scientific_discipline: Chemistry > Chemical kinetics and combustion
+semantic_tags:
+- Chemical kinetics
+- Combustion theory
+- Thermal models
+- Hydrocarbon oxidation
+- Oscillatory behavior
+tldr: This paper investigates the Gray-Yang model of hydrocarbon oxidation, a thermokinetic
+  or chain-thermal model that explains various observed phenomena in the oxidation
+  process. The authors analyze the model using a combination of analytical and numerical
+  techniques, finding stable and unstable limit-cycle behavior. They also show that
+  under certain conditions, there exists a narrow band of parameter space where two
+  Hopf bifurcation points are possible, leading to large and small unstable limit
+  cycles. This occurs in a region with three equilibrium points.

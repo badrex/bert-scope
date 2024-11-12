@@ -1,0 +1,16 @@
+article_id: rspa_1981_0125
+revised_title: Analyzing Liquid-Drop Impact Problems
+scientific_discipline: Physics > Fluid Dynamics
+semantic_tags:
+- Fluid Dynamics
+- Geometrical Acoustics
+- Impact Mechanics
+- Elastic Targets
+- Analytical Solutions
+tldr: The article presents an analytical approach to understanding the initial stages
+  of liquid-drop impact against both rigid and elastic targets. The authors develop
+  a geometrical-acoustics model and a self-similar solution to calculate the pressure
+  in an impacting liquid drop and explore the effects of fluid motion and pressure
+  amplitude on the problem. The study demonstrates the limitations of linear theory
+  and numerical calculations in predicting the escape of the shock system from the
+  contact edge and highlights the importance of considering the target's elasticity.
